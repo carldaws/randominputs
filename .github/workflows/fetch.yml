@@ -35,5 +35,6 @@ jobs:
             echo "Nothing changed."
           else
             git commit -m "update inputs ($(date -u +%FT%TZ))"
+            git pull --rebase origin main
             git push
           fi
