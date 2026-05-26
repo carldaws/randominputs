@@ -1,0 +1,213 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Random Inputs</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <style>
+    :root {
+      --ink: #111;
+      --paper: #fbf6e9;
+      --highlight: #ffe600;
+      --muted: #6b6356;
+    }
+
+    html, body {
+      margin: 0;
+      padding: 0;
+      height: 100%;
+      background: var(--paper);
+    }
+
+    body {
+      display: flex;
+      flex-direction: column;
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", system-ui, sans-serif;
+      color: var(--ink);
+    }
+
+    iframe {
+      flex: 1;
+      border: 0;
+      width: 100%;
+      background: #fff;
+    }
+
+    .bar {
+      flex: 0 0 auto;
+      height: 64px;
+      display: flex;
+      align-items: stretch;
+      background: var(--paper);
+      border-top: 4px solid var(--ink);
+    }
+
+    /* Brand */
+    .brand {
+      display: flex;
+      align-items: center;
+      padding: 0 20px;
+      border-right: 2px solid var(--ink);
+      font-family: Impact, "Haettenschweiler", "Arial Narrow Bold", sans-serif;
+      font-weight: 900;
+      font-size: 26px;
+      letter-spacing: 0.02em;
+      text-transform: uppercase;
+      line-height: 1;
+      user-select: none;
+      transform: skewX(-6deg);
+    }
+    .brand .hl {
+      background: var(--highlight);
+      padding: 4px 6px 2px;
+      margin-left: 2px;
+      box-shadow: 3px 3px 0 var(--ink);
+    }
+
+    /* Title */
+    .meta {
+      flex: 1;
+      min-width: 0;
+      display: flex;
+      align-items: center;
+      padding: 0 20px;
+      overflow: hidden;
+    }
+    .title {
+      display: block;
+      max-width: 100%;
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+      color: var(--ink);
+      text-decoration: none;
+      font-size: 15px;
+      font-weight: 500;
+    }
+    .title:hover {
+      background: var(--highlight);
+      box-shadow: 0 0 0 3px var(--highlight);
+    }
+    .title.placeholder { color: var(--muted); font-style: italic; }
+
+    /* Shuffle button */
+    .shuffle {
+      width: 64px;
+      display: grid;
+      place-items: center;
+      background: var(--ink);
+      color: var(--paper);
+      border: 0;
+      border-left: 2px solid var(--ink);
+      cursor: pointer;
+      transition: background 100ms;
+    }
+    .shuffle svg {
+      width: 26px;
+      height: 26px;
+      display: block;
+      transition: transform 80ms ease-out;
+    }
+    .shuffle:hover:not(:disabled) {
+      background: var(--highlight);
+      color: var(--ink);
+    }
+    .shuffle:active:not(:disabled) svg { transform: scale(0.82); }
+    .shuffle:disabled { background: var(--muted); cursor: default; }
+
+    /* GitHub link */
+    .gh {
+      width: 56px;
+      display: grid;
+      place-items: center;
+      color: var(--ink);
+      border-left: 2px solid var(--ink);
+      text-decoration: none;
+      transition: background 100ms;
+    }
+    .gh svg { width: 22px; height: 22px; display: block; }
+    .gh:hover { background: var(--ink); color: var(--paper); }
+  </style>
+</head>
+<body>
+  <iframe id="frame"></iframe>
+  <div class="bar">
+    <div class="brand" aria-label="Random Inputs">
+      Random<span class="hl">Inputs</span>
+    </div>
+
+    <div class="meta">
+      <a class="title placeholder" id="title" href="#" target="_blank" rel="noopener noreferrer">loading…</a>
+    </div>
+
+    <button class="shuffle" id="randomise" disabled aria-label="Shuffle">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor"
+           stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+        <path d="m18 14 4 4-4 4"/>
+        <path d="m18 2 4 4-4 4"/>
+        <path d="M2 18h1.973a4 4 0 0 0 3.3-1.7l5.454-8.6a4 4 0 0 1 3.3-1.7H22"/>
+        <path d="M2 6h1.972a4 4 0 0 1 3.6 2.2"/>
+        <path d="M22 18h-6.041a4 4 0 0 1-3.3-1.8l-.359-.45"/>
+      </svg>
+    </button>
+
+    <a class="gh" href="https://github.com/carldaws/randominputs"
+       target="_blank" rel="noopener noreferrer" aria-label="View source on GitHub">
+      <svg viewBox="0 0 16 16" fill="currentColor" aria-hidden="true">
+        <path fill-rule="evenodd" d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0 0 16 8c0-4.42-3.58-8-8-8z"/>
+      </svg>
+    </a>
+  </div>
+
+  <script>
+    const SEEN_KEY = 'randominputs.recently_seen';
+    const SEEN_MAX = 50;
+
+    let inputs = [];
+    const frame = document.getElementById('frame');
+    const titleEl = document.getElementById('title');
+    const button = document.getElementById('randomise');
+
+    function loadSeen() {
+      try { return JSON.parse(localStorage.getItem(SEEN_KEY) || '[]'); }
+      catch { return []; }
+    }
+
+    function markSeen(url) {
+      const seen = loadSeen().filter(u => u !== url);
+      seen.unshift(url);
+      localStorage.setItem(SEEN_KEY, JSON.stringify(seen.slice(0, SEEN_MAX)));
+    }
+
+    function pick() {
+      if (!inputs.length) return;
+      const seen = new Set(loadSeen());
+      const fresh = inputs.filter(item => !seen.has(item.url));
+      const choices = fresh.length ? fresh : inputs;
+      const item = choices[Math.floor(Math.random() * choices.length)];
+      frame.src = item.url;
+      titleEl.textContent = item.title || item.url;
+      titleEl.href = item.url;
+      titleEl.classList.remove('placeholder');
+      markSeen(item.url);
+    }
+
+    button.addEventListener('click', pick);
+
+    fetch('inputs.json', { cache: 'no-cache' })
+      .then(r => r.json())
+      .then(data => {
+        inputs = data;
+        if (inputs.length) {
+          button.disabled = false;
+          pick();
+        } else {
+          titleEl.textContent = 'no inputs — run ruby fetch.rb';
+        }
+      })
+      .catch(err => {
+        titleEl.textContent = 'failed to load inputs.json: ' + err.message;
+      });
+  </script>
+</body>
+</html>
