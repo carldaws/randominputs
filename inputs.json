@@ -16,6 +16,11 @@
   },
   {
     "source": "hn",
+    "url": "https://bcantrill.dtrace.org/2026/05/25/a-portentous-reunion/",
+    "title": "A portentous reunion"
+  },
+  {
+    "source": "hn",
     "url": "https://www.oliverio.dev/blog/the-worst-job-interview-i-had",
     "title": "The worst job interview I ever had"
   },
@@ -31,13 +36,13 @@
   },
   {
     "source": "hn",
-    "url": "https://retrogamecoders.com/overhead-camera-view/",
-    "title": "C64 Basic: Game Map Overhead “Camera View”"
+    "url": "https://ericturner.dev/posts/cost-of-home-ownership/",
+    "title": "The real cost of owning a home"
   },
   {
     "source": "hn",
-    "url": "https://ericturner.dev/posts/cost-of-home-ownership/",
-    "title": "The real cost of owning a home"
+    "url": "https://retrogamecoders.com/overhead-camera-view/",
+    "title": "C64 Basic: Game Map Overhead “Camera View”"
   },
   {
     "source": "hn",
@@ -51,6 +56,16 @@
   },
   {
     "source": "hn",
+    "url": "https://rescueradar.co.uk/about",
+    "title": "RescueRadar – UK Emergency Services Flight Tracking Since 2013"
+  },
+  {
+    "source": "hn",
+    "url": "https://jry.io/writing/use-boring-languages-with-llms/",
+    "title": "Use boring languages with LLMs"
+  },
+  {
+    "source": "hn",
     "url": "https://buffrr.dev/blog/are-we-self-sovereign-pki-yet/",
     "title": "Are we self-sovereign PKI yet?"
   },
@@ -61,16 +76,6 @@
   },
   {
     "source": "hn",
-    "url": "https://jry.io/writing/use-boring-languages-with-llms/",
-    "title": "Use boring languages with LLMs"
-  },
-  {
-    "source": "hn",
-    "url": "https://bcantrill.dtrace.org/2026/05/25/a-portentous-reunion/",
-    "title": "A Portentous Reunion"
-  },
-  {
-    "source": "hn",
     "url": "https://earthiongame.com/",
     "title": "Earthion: A New Mega Drive-Style Shoot-Em-Up"
   },
@@ -78,6 +83,11 @@
     "source": "hn",
     "url": "https://dynomight.net/crc-rates/",
     "title": "Is \"colorectal cancer\" rising in \"young people\"?"
+  },
+  {
+    "source": "hn",
+    "url": "https://shmuplations.com/phantasystariv/",
+    "title": "Phantasy Star IV – 1993 Developer Interviews"
   },
   {
     "source": "lobsters",
@@ -126,13 +136,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://lemon.rip/w/6-c-extensions-compilers/",
-    "title": "On C extensions, portability, and alternative compilers"
+    "url": "https://peter0x44.github.io/posts/vtables-itanium-abi/",
+    "title": "How Virtual Tables Work in the Itanium C++ ABI"
   },
   {
     "source": "lobsters",
-    "url": "https://peter0x44.github.io/posts/vtables-itanium-abi/",
-    "title": "How Virtual Tables Work in the Itanium C++ ABI"
+    "url": "https://lemon.rip/w/6-c-extensions-compilers/",
+    "title": "On C extensions, portability, and alternative compilers"
   },
   {
     "source": "lobsters",
@@ -171,97 +181,12 @@
   },
   {
     "source": "lobsters",
+    "url": "https://okmij.org/ftp/Algorithms/map-monoid-reduce.html",
+    "title": "Folding in Parallel"
+  },
+  {
+    "source": "lobsters",
     "url": "https://blog.mempko.com/the-open-closed-problem-in-ai/",
     "title": "The Open/Closed Problem in AI"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://isaiprofitable.com/",
-    "title": "Is AI Profitable Yet?"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://trek.epicrandomness.com/",
-    "title": "Star Trek Title Card Generator"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.dougmacdowell.com/50-hours-to-draw-some-lines.html",
-    "title": "50 Hours to Draw Some Lines - Doug MacDowell"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://audiomass.co/?multitrack=1",
-    "title": "AudioMass - Audio Editor"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.liberalcurrents.com/the-interracial-cuck-porn-theory-of-everything/",
-    "title": "The Interracial Cuck Porn Theory of Everything"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://geohot.github.io//blog/jekyll/update/2026/05/24/the-eternal-sloptember.html",
-    "title": "The Eternal Sloptember | the singularity is nearer"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://airesistlist.org/",
-    "title": "AI Resist List"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://corrode.dev/learn/migration-guides/go-to-rust/",
-    "title": "Migrating from Go to Rust | corrode Rust Consulting"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://kk.org/cooltools/book-freak-210-the-art-of-money-getting/",
-    "title": "Book Freak #210: The Art of Money Getting – Cool Tools"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://lucumr.pocoo.org/2026/5/24/pi-oss/",
-    "title": "Building Pi With Pi | Armin Ronacher's Thoughts and Writings"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://third-bit.com/2026/05/20/twelve-ways-to-be-wrong/",
-    "title": "The Third Bit: Twelve Ways to Be Wrong About AI-Assisted Coding"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://delphi.tools/",
-    "title": "delphitools"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.wired.com/story/a-fundamental-principle-of-aeronautical-engineering-has-been-overturned/",
-    "title": "A Fundamental Principle of Aeronautical Engineering Has Been Overturned | WIRED"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://seriot.ch/computation/jira.html",
-    "title": "Jira IS Turing-Complete"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.merriam-webster.com/wordplay/the-hilarious-history-of-ok-okay",
-    "title": "The Hilarious History of 'OK' | Merriam-Webster"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://aiengineeringfromscratch.com/",
-    "title": "AI Engineering from Scratch"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://labor.dair-institute.org/",
-    "title": "Luddite Lab"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.reenigne.org/blog/80386-microcode-disassembled/",
-    "title": "80386 microcode disassembled « Reenigne blog"
   }
 ]
