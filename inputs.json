@@ -1,13 +1,28 @@
 [
   {
     "source": "hn",
+    "url": "https://miniscript.org/MiniMicro/index.html#about",
+    "title": "Mini Micro Fantasy Computer"
+  },
+  {
+    "source": "hn",
     "url": "https://thereader.mitpress.mit.edu/the-strange-melancholy-of-slaying-monsters/",
     "title": "The Melancholy of Slaying Monsters"
   },
   {
     "source": "hn",
+    "url": "https://padhye.org/raft-minority/",
+    "title": "Raft Consensus with a Minority of Nodes"
+  },
+  {
+    "source": "hn",
     "url": "https://www.newyorker.com/culture/the-weekend-essay/what-jack-kerouac-left-behind",
     "title": "What Gets Kept"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.oliverio.dev/blog/the-worst-job-interview-i-had",
+    "title": "The worst job interview I ever had"
   },
   {
     "source": "hn",
@@ -21,48 +36,13 @@
   },
   {
     "source": "hn",
-    "url": "https://www.oliverio.dev/blog/the-worst-job-interview-i-had",
-    "title": "The worst job interview I ever had"
-  },
-  {
-    "source": "hn",
-    "url": "https://blogs.loc.gov/headlinesandheroes/2026/05/mourn-not-a-history-of-obituaries-in-american-newspapers/",
-    "title": "A history of obituaries in American newspapers"
-  },
-  {
-    "source": "hn",
-    "url": "https://tsduck.io/",
-    "title": "TSDuck: Open-source toolkit for MPEG-TS analysis and manipulation"
-  },
-  {
-    "source": "hn",
     "url": "https://arps18.github.io/posts/claude-code-mastery/",
     "title": "Claude Code as a Daily Driver: Claude.md, Skills, Subagents, Plugins, and MCPs"
   },
   {
     "source": "hn",
-    "url": "https://bcantrill.dtrace.org/2026/05/25/a-portentous-reunion/",
-    "title": "A portentous reunion"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.unicode.org/versions/Unicode18.0.0/",
-    "title": "Unicode 18.0.0 Beta"
-  },
-  {
-    "source": "hn",
-    "url": "https://calvinflegal.com/2026/05/24/what-ive-learned-so-far-building-online-mini-games-with-elixir-and-swift.html",
-    "title": "What I've Learned (So Far) Building Online Mini Games with Elixir and Swift"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.minicor.com/",
-    "title": "Launch HN: Minicor (YC P26) – Windows desktop automations at scale"
-  },
-  {
-    "source": "hn",
-    "url": "https://anselmschueler.com/blogposts/2025-c-pointers/",
-    "title": "C array types are weird"
+    "url": "https://www.servethehome.com/what-is-a-direct-attach-copper-dac-cable/",
+    "title": "What Is a Direct Attach Copper (DAC) Cable"
   },
   {
     "source": "hn",
@@ -71,13 +51,48 @@
   },
   {
     "source": "hn",
-    "url": "https://www.superjumpmagazine.com/the-forgotten-art-of-the-lan-party/",
-    "title": "The Forgotten Art of the LAN Party (2023)"
+    "url": "https://blogs.loc.gov/headlinesandheroes/2026/05/mourn-not-a-history-of-obituaries-in-american-newspapers/",
+    "title": "A history of obituaries in American newspapers"
+  },
+  {
+    "source": "hn",
+    "url": "https://bcantrill.dtrace.org/2026/05/25/a-portentous-reunion/",
+    "title": "A portentous reunion"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.minicor.com/",
+    "title": "Launch HN: Minicor (YC P26) – Windows desktop automations at scale"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.unicode.org/versions/Unicode18.0.0/",
+    "title": "Unicode 18.0.0 Beta"
+  },
+  {
+    "source": "hn",
+    "url": "https://anselmschueler.com/blogposts/2025-c-pointers/",
+    "title": "C array types are weird"
+  },
+  {
+    "source": "hn",
+    "url": "https://tsduck.io/",
+    "title": "TSDuck: Open-source toolkit for MPEG-TS analysis and manipulation"
+  },
+  {
+    "source": "hn",
+    "url": "https://calvinflegal.com/2026/05/24/what-ive-learned-so-far-building-online-mini-games-with-elixir-and-swift.html",
+    "title": "What I've Learned (So Far) Building Online Mini Games with Elixir and Swift"
   },
   {
     "source": "hn",
     "url": "https://www.thedrive.com/article/12603/the-forgotten-steinwinter-supercargo-is-unlike-anything-on-the-road-today",
     "title": "The Steinwinter Supercargo"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.superjumpmagazine.com/the-forgotten-art-of-the-lan-party/",
+    "title": "The Forgotten Art of the LAN Party (2023)"
   },
   {
     "source": "lobsters",
@@ -111,6 +126,16 @@
   },
   {
     "source": "lobsters",
+    "url": "https://xkqr.org/bellwether/keyboardtest.html",
+    "title": "Keyboard latency probe"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://martinsos.com/posts/may-recommend-emacs-home-base",
+    "title": "May I recommend thinking of Emacs as your Fortress of Solitude"
+  },
+  {
+    "source": "lobsters",
     "url": "https://pfandrade.me/blog/mac-assed-swiftui-app/",
     "title": "Using SwiftUI to Build a Mac-assed App in 2026"
   },
@@ -121,18 +146,13 @@
   },
   {
     "source": "lobsters",
+    "url": "https://neugierig.org/software/blog/2026/05/theseus-wasm.html",
+    "title": "Theseus: translating win32 to wasm"
+  },
+  {
+    "source": "lobsters",
     "url": "https://okmij.org/ftp/Algorithms/map-monoid-reduce.html",
     "title": "Folding in Parallel"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://blog.cat-girl.gay/3ds-async-part-one/",
-    "title": "Building an AsyncIO executor for the 3DS"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://nolanlawson.com/2026/05/25/using-ai-to-write-better-code-more-slowly/",
-    "title": "Using AI to write better code more slowly"
   },
   {
     "source": "lobsters",
@@ -141,13 +161,18 @@
   },
   {
     "source": "lobsters",
-    "url": "https://neugierig.org/software/blog/2026/05/theseus-wasm.html",
-    "title": "Theseus: translating win32 to wasm"
+    "url": "https://blog.cat-girl.gay/3ds-async-part-one/",
+    "title": "Building an AsyncIO executor for the 3DS"
   },
   {
     "source": "lobsters",
-    "url": "https://xkqr.org/bellwether/keyboardtest.html",
-    "title": "Keyboard latency probe"
+    "url": "https://runxiyu.org/comp/shallowbundle/",
+    "title": "Converting shallow Git bundles into normal repositories"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://nolanlawson.com/2026/05/25/using-ai-to-write-better-code-more-slowly/",
+    "title": "Using AI to write better code more slowly"
   },
   {
     "source": "lobsters",
@@ -161,17 +186,97 @@
   },
   {
     "source": "lobsters",
-    "url": "https://dillo-browser.org/lab/human-proof/",
-    "title": "Human proof for FOSS contributions"
-  },
-  {
-    "source": "lobsters",
     "url": "https://agent-trace.dev/",
     "title": "Agent Trace RFC"
   },
   {
-    "source": "lobsters",
+    "source": "pinboard",
+    "url": "https://www.dougmacdowell.com/50-hours-to-draw-some-lines.html",
+    "title": "50 Hours to Draw Some Lines - Doug MacDowell"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://isaiprofitable.com/",
+    "title": "Is AI Profitable Yet?"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://audiomass.co/?multitrack=1",
+    "title": "AudioMass - Audio Editor"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://geohot.github.io//blog/jekyll/update/2026/05/24/the-eternal-sloptember.html",
+    "title": "The Eternal Sloptember | the singularity is nearer"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://airesistlist.org/",
+    "title": "AI Resist List"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://corrode.dev/learn/migration-guides/go-to-rust/",
+    "title": "Migrating from Go to Rust | corrode Rust Consulting"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.liberalcurrents.com/the-interracial-cuck-porn-theory-of-everything/",
+    "title": "The Interracial Cuck Porn Theory of Everything"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://kk.org/cooltools/book-freak-210-the-art-of-money-getting/",
+    "title": "Book Freak #210: The Art of Money Getting – Cool Tools"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://pluralistic.net/2026/05/26/the-ai-will-continue/",
+    "title": "Pluralistic: The AI bubble isn’t like the internet bubble (26 May 2026) – Pluralistic: Daily links from Cory Doctorow"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.merriam-webster.com/wordplay/the-hilarious-history-of-ok-okay",
+    "title": "The Hilarious History of 'OK' | Merriam-Webster"
+  },
+  {
+    "source": "pinboard",
     "url": "https://lemon.rip/w/6-c-extensions-compilers/",
     "title": "On C extensions, portability, and alternative compilers"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://rothko.joonas.wtf/",
+    "title": "Current Rothko"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://lucumr.pocoo.org/2026/5/24/pi-oss/",
+    "title": "Building Pi With Pi | Armin Ronacher's Thoughts and Writings"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://kingbird.myphotos.cc/packing/squares_in_squares.html",
+    "title": "Squares in Squares"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://tenbluelinks.org/",
+    "title": "How to Turn Off AI Overview in Google and Set \"Web\" as Default"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://thefrontpage.dev/",
+    "title": "Hacker News front page as a newspaper"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://labor.dair-institute.org/",
+    "title": "Luddite Lab"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.wired.com/story/a-fundamental-principle-of-aeronautical-engineering-has-been-overturned/",
+    "title": "A Fundamental Principle of Aeronautical Engineering Has Been Overturned | WIRED"
   }
 ]
