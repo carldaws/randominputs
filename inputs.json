@@ -1,18 +1,13 @@
 [
   {
     "source": "hn",
-    "url": "https://www.seangoedecke.com/the-just-say-no-engineer-was-a-zirp-phenomenon/",
-    "title": "The just-say-no engineer was a ZIRP phenomenon"
+    "url": "https://thereader.mitpress.mit.edu/the-strange-melancholy-of-slaying-monsters/",
+    "title": "The Melancholy of Slaying Monsters"
   },
   {
     "source": "hn",
-    "url": "https://pop.rdi.sh/where-does-next-token-prediction-leave-us/",
-    "title": "Where does next-token prediction leave us?"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.superjumpmagazine.com/the-forgotten-art-of-the-lan-party/",
-    "title": "The Forgotten Art of the LAN Party (2023)"
+    "url": "https://www.newyorker.com/culture/the-weekend-essay/what-jack-kerouac-left-behind",
+    "title": "What Gets Kept"
   },
   {
     "source": "hn",
@@ -22,12 +17,17 @@
   {
     "source": "hn",
     "url": "https://www.djspeckhals.com/posts/2026-05-22-how-i-bypassed-adobe-and-microsoft-to-build-a-git-tracked-book-production-pipeline/",
-    "title": "I Bypassed Adobe and Microsoft to Build a Git-Tracked Book Production Pipeline"
+    "title": "I built a Git-tracked book production pipeline"
   },
   {
     "source": "hn",
     "url": "https://blogs.loc.gov/headlinesandheroes/2026/05/mourn-not-a-history-of-obituaries-in-american-newspapers/",
-    "title": "A History of Obituaries in American Newspapers"
+    "title": "A history of obituaries in American newspapers"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.oliverio.dev/blog/the-worst-job-interview-i-had",
+    "title": "The worst job interview I ever had"
   },
   {
     "source": "hn",
@@ -41,13 +41,23 @@
   },
   {
     "source": "hn",
-    "url": "https://www.oliverio.dev/blog/the-worst-job-interview-i-had",
-    "title": "The worst job interview I ever had"
+    "url": "https://calvinflegal.com/2026/05/24/what-ive-learned-so-far-building-online-mini-games-with-elixir-and-swift.html",
+    "title": "What I've Learned (So Far) Building Online Mini Games with Elixir and Swift"
   },
   {
     "source": "hn",
-    "url": "https://calvinflegal.com/2026/05/24/what-ive-learned-so-far-building-online-mini-games-with-elixir-and-swift.html",
-    "title": "What I've Learned (So Far) Building Online Mini Games with Elixir and Swift"
+    "url": "https://anselmschueler.com/blogposts/2025-c-pointers/",
+    "title": "C array types are weird"
+  },
+  {
+    "source": "hn",
+    "url": "https://tsduck.io/",
+    "title": "TSDuck: Open-source toolkit for MPEG-TS analysis and manipulation"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.superjumpmagazine.com/the-forgotten-art-of-the-lan-party/",
+    "title": "The Forgotten Art of the LAN Party (2023)"
   },
   {
     "source": "hn",
@@ -56,23 +66,13 @@
   },
   {
     "source": "hn",
-    "url": "https://jry.io/writing/use-boring-languages-with-llms/",
-    "title": "Use boring languages with LLMs"
-  },
-  {
-    "source": "hn",
     "url": "https://journal.stuffwithstuff.com/2015/02/01/what-color-is-your-function/",
     "title": "What color is your function? (2015)"
   },
   {
     "source": "hn",
-    "url": "https://ericturner.dev/posts/cost-of-home-ownership/",
-    "title": "The real cost of owning a home"
-  },
-  {
-    "source": "hn",
-    "url": "https://retrogamecoders.com/overhead-camera-view/",
-    "title": "C64 Basic: Game Map Overhead “Camera View”"
+    "url": "https://pop.rdi.sh/where-does-next-token-prediction-leave-us/",
+    "title": "Where does next-token prediction leave us?"
   },
   {
     "source": "lobsters",
@@ -86,13 +86,18 @@
   },
   {
     "source": "lobsters",
+    "url": "https://dubroy.com/blog/fast-is-better-than-slow/",
+    "title": "Fast is better than slow"
+  },
+  {
+    "source": "lobsters",
     "url": "https://readable-css.freedomtowrite.org/",
     "title": "readable.css"
   },
   {
     "source": "lobsters",
-    "url": "https://dubroy.com/blog/fast-is-better-than-slow/",
-    "title": "Fast is better than slow"
+    "url": "https://ziglang.org/devlog/2026/#2026-05-26",
+    "title": "Build System Reworked"
   },
   {
     "source": "lobsters",
@@ -106,8 +111,18 @@
   },
   {
     "source": "lobsters",
+    "url": "https://edu4rdshl.dev/posts/rethinking-the-gnome-clipboard-issues/",
+    "title": "Rethinking the GNOME clipboard issues"
+  },
+  {
+    "source": "lobsters",
     "url": "https://nolanlawson.com/2026/05/25/using-ai-to-write-better-code-more-slowly/",
     "title": "Using AI to write better code more slowly"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://okmij.org/ftp/Algorithms/map-monoid-reduce.html",
+    "title": "Folding in Parallel"
   },
   {
     "source": "lobsters",
@@ -126,11 +141,6 @@
   },
   {
     "source": "lobsters",
-    "url": "https://ziglang.org/devlog/2026/#2026-05-26",
-    "title": "Build System Reworked"
-  },
-  {
-    "source": "lobsters",
     "url": "https://tailscale.com/blog/bill-c22-canada",
     "title": "Canada’s Bill C-22 and the security cost of collecting more data"
   },
@@ -143,11 +153,6 @@
     "source": "lobsters",
     "url": "https://dillo-browser.org/lab/human-proof/",
     "title": "Human proof for FOSS contributions"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://okmij.org/ftp/Algorithms/map-monoid-reduce.html",
-    "title": "Folding in Parallel"
   },
   {
     "source": "lobsters",
@@ -165,8 +170,88 @@
     "title": "Switching to Colemak"
   },
   {
-    "source": "lobsters",
-    "url": "https://cedardb.com/blog/doombench/",
-    "title": "Introducing DoomBench - Can Your Data Stack Run DOOM?"
+    "source": "pinboard",
+    "url": "https://www.dougmacdowell.com/50-hours-to-draw-some-lines.html",
+    "title": "50 Hours to Draw Some Lines - Doug MacDowell"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://isaiprofitable.com/",
+    "title": "Is AI Profitable Yet?"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://audiomass.co/?multitrack=1",
+    "title": "AudioMass - Audio Editor"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://geohot.github.io//blog/jekyll/update/2026/05/24/the-eternal-sloptember.html",
+    "title": "The Eternal Sloptember | the singularity is nearer"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://airesistlist.org/",
+    "title": "AI Resist List"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://corrode.dev/learn/migration-guides/go-to-rust/",
+    "title": "Migrating from Go to Rust | corrode Rust Consulting"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.liberalcurrents.com/the-interracial-cuck-porn-theory-of-everything/",
+    "title": "The Interracial Cuck Porn Theory of Everything"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://kk.org/cooltools/book-freak-210-the-art-of-money-getting/",
+    "title": "Book Freak #210: The Art of Money Getting – Cool Tools"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://pluralistic.net/2026/05/26/the-ai-will-continue/",
+    "title": "Pluralistic: The AI bubble isn’t like the internet bubble (26 May 2026) – Pluralistic: Daily links from Cory Doctorow"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.merriam-webster.com/wordplay/the-hilarious-history-of-ok-okay",
+    "title": "The Hilarious History of 'OK' | Merriam-Webster"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://rothko.joonas.wtf/",
+    "title": "Current Rothko"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://lucumr.pocoo.org/2026/5/24/pi-oss/",
+    "title": "Building Pi With Pi | Armin Ronacher's Thoughts and Writings"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://kingbird.myphotos.cc/packing/squares_in_squares.html",
+    "title": "Squares in Squares"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://tenbluelinks.org/",
+    "title": "How to Turn Off AI Overview in Google and Set \"Web\" as Default"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://thefrontpage.dev/",
+    "title": "Hacker News front page as a newspaper"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://labor.dair-institute.org/",
+    "title": "Luddite Lab"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.wired.com/story/a-fundamental-principle-of-aeronautical-engineering-has-been-overturned/",
+    "title": "A Fundamental Principle of Aeronautical Engineering Has Been Overturned | WIRED"
   }
 ]
