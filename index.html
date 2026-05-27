@@ -70,25 +70,34 @@
       min-width: 0;
       display: flex;
       align-items: center;
+      gap: 10px;
       padding: 0 20px;
       overflow: hidden;
     }
     .title {
-      display: block;
-      max-width: 100%;
+      flex: 0 1 auto;
+      min-width: 0;
       white-space: nowrap;
       overflow: hidden;
       text-overflow: ellipsis;
       color: var(--ink);
-      text-decoration: none;
       font-size: 15px;
       font-weight: 500;
     }
-    .title:hover {
-      background: var(--highlight);
-      box-shadow: 0 0 0 3px var(--highlight);
-    }
     .title.placeholder { color: var(--muted); font-style: italic; }
+
+    .ext {
+      flex: 0 0 auto;
+      display: inline-grid;
+      place-items: center;
+      padding: 8px;
+      color: var(--ink);
+      text-decoration: none;
+      transition: background 100ms;
+    }
+    .ext svg { width: 22px; height: 22px; display: block; }
+    .ext:hover { background: var(--ink); color: var(--paper); }
+    .ext[hidden] { display: none; }
 
     /* Shuffle button */
     .shuffle {
@@ -137,7 +146,15 @@
     </div>
 
     <div class="meta">
-      <a class="title placeholder" id="title" href="#" target="_blank" rel="noopener noreferrer">loading…</a>
+      <span class="title placeholder" id="title">loading…</span>
+      <a class="ext" id="ext" href="#" target="_blank" rel="noopener noreferrer" aria-label="Open article in new tab" hidden>
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor"
+             stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+          <path d="M15 3h6v6"/>
+          <path d="M10 14 21 3"/>
+          <path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/>
+        </svg>
+      </a>
     </div>
 
     <button class="shuffle" id="randomise" disabled aria-label="Shuffle">
@@ -166,6 +183,7 @@
     let inputs = [];
     const frame = document.getElementById('frame');
     const titleEl = document.getElementById('title');
+    const extEl = document.getElementById('ext');
     const button = document.getElementById('randomise');
 
     function loadSeen() {
@@ -187,8 +205,9 @@
       const item = choices[Math.floor(Math.random() * choices.length)];
       frame.src = item.url;
       titleEl.textContent = item.title || item.url;
-      titleEl.href = item.url;
       titleEl.classList.remove('placeholder');
+      extEl.href = item.url;
+      extEl.hidden = false;
       markSeen(item.url);
     }
 
