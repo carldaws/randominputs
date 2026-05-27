@@ -1,8 +1,18 @@
 [
   {
     "source": "hn",
-    "url": "https://platform.xiaomimimo.com/docs/en-US/welcome",
-    "title": "Xiaomi MiMo-v2.5 price drops 99% – AI pricing war"
+    "url": "https://www.seangoedecke.com/the-just-say-no-engineer-was-a-zirp-phenomenon/",
+    "title": "The just-say-no engineer was a ZIRP phenomenon"
+  },
+  {
+    "source": "hn",
+    "url": "https://pop.rdi.sh/where-does-next-token-prediction-leave-us/",
+    "title": "Where does next-token prediction leave us?"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.superjumpmagazine.com/the-forgotten-art-of-the-lan-party/",
+    "title": "The Forgotten Art of the LAN Party (2023)"
   },
   {
     "source": "hn",
@@ -16,8 +26,8 @@
   },
   {
     "source": "hn",
-    "url": "https://www.sciencedaily.com/releases/2026/05/260526022018.htm",
-    "title": "Scientists say they've reversed brain aging with a simple nasal spray"
+    "url": "https://blogs.loc.gov/headlinesandheroes/2026/05/mourn-not-a-history-of-obituaries-in-american-newspapers/",
+    "title": "A History of Obituaries in American Newspapers"
   },
   {
     "source": "hn",
@@ -26,28 +36,18 @@
   },
   {
     "source": "hn",
-    "url": "https://pop.rdi.sh/where-does-next-token-prediction-leave-us/",
-    "title": "So, Where Does Next-Token Prediction Leave Us?"
+    "url": "https://www.minicor.com/",
+    "title": "Launch HN: Minicor (YC P26) – Windows desktop automations at scale"
   },
   {
     "source": "hn",
-    "url": "https://www.superjumpmagazine.com/the-forgotten-art-of-the-lan-party/",
-    "title": "The Forgotten Art of the LAN Party (2023)"
+    "url": "https://www.oliverio.dev/blog/the-worst-job-interview-i-had",
+    "title": "The worst job interview I ever had"
   },
   {
     "source": "hn",
-    "url": "https://www.alephic.com/sabotage",
-    "title": "The OSS Sabotage Manual Became Corporate Best Practice"
-  },
-  {
-    "source": "hn",
-    "url": "https://anselmschueler.com/blogposts/2025-c-pointers/",
-    "title": "C array types are weird"
-  },
-  {
-    "source": "hn",
-    "url": "https://en.wikipedia.org/wiki/Liverpool_and_Manchester_Railway",
-    "title": "Liverpool and Manchester Railway"
+    "url": "https://calvinflegal.com/2026/05/24/what-ive-learned-so-far-building-online-mini-games-with-elixir-and-swift.html",
+    "title": "What I've Learned (So Far) Building Online Mini Games with Elixir and Swift"
   },
   {
     "source": "hn",
@@ -56,18 +56,13 @@
   },
   {
     "source": "hn",
-    "url": "https://www.minicor.com/",
-    "title": "Launch HN: Minicor (YC P26) – Windows desktop automations at scale"
-  },
-  {
-    "source": "hn",
     "url": "https://jry.io/writing/use-boring-languages-with-llms/",
     "title": "Use boring languages with LLMs"
   },
   {
     "source": "hn",
-    "url": "https://retrogamecoders.com/overhead-camera-view/",
-    "title": "C64 Basic: Game Map Overhead “Camera View”"
+    "url": "https://journal.stuffwithstuff.com/2015/02/01/what-color-is-your-function/",
+    "title": "What color is your function? (2015)"
   },
   {
     "source": "hn",
@@ -76,13 +71,8 @@
   },
   {
     "source": "hn",
-    "url": "https://theaileverageweekly.com/posts/your-ai-tools-are-only-as-good-as-your-judgment-and-that-s-the-point.html",
-    "title": "AI tools are only as good as your judgment"
-  },
-  {
-    "source": "hn",
-    "url": "https://journal.stuffwithstuff.com/2015/02/01/what-color-is-your-function/",
-    "title": "What color is your function? (2015)"
+    "url": "https://retrogamecoders.com/overhead-camera-view/",
+    "title": "C64 Basic: Game Map Overhead “Camera View”"
   },
   {
     "source": "lobsters",
@@ -96,8 +86,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://daniel.haxx.se/blog/2026/05/26/the-pressure/",
-    "title": "The pressure"
+    "url": "https://readable-css.freedomtowrite.org/",
+    "title": "readable.css"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://dubroy.com/blog/fast-is-better-than-slow/",
+    "title": "Fast is better than slow"
   },
   {
     "source": "lobsters",
@@ -106,8 +101,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://readable-css.freedomtowrite.org/",
-    "title": "readable.css"
+    "url": "https://daniel.haxx.se/blog/2026/05/26/the-pressure/",
+    "title": "The pressure"
   },
   {
     "source": "lobsters",
@@ -126,8 +121,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://dubroy.com/blog/fast-is-better-than-slow/",
-    "title": "Fast is better than slow"
+    "url": "https://neugierig.org/software/blog/2026/05/theseus-wasm.html",
+    "title": "Theseus: translating win32 to wasm"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://ziglang.org/devlog/2026/#2026-05-26",
+    "title": "Build System Reworked"
   },
   {
     "source": "lobsters",
@@ -146,8 +146,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://lemon.rip/w/6-c-extensions-compilers/",
-    "title": "On C extensions, portability, and alternative compilers"
+    "url": "https://okmij.org/ftp/Algorithms/map-monoid-reduce.html",
+    "title": "Folding in Parallel"
   },
   {
     "source": "lobsters",
@@ -156,8 +156,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://okmij.org/ftp/Algorithms/map-monoid-reduce.html",
-    "title": "Folding in Parallel"
+    "url": "https://lemon.rip/w/6-c-extensions-compilers/",
+    "title": "On C extensions, portability, and alternative compilers"
   },
   {
     "source": "lobsters",
@@ -168,15 +168,5 @@
     "source": "lobsters",
     "url": "https://cedardb.com/blog/doombench/",
     "title": "Introducing DoomBench - Can Your Data Stack Run DOOM?"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://neugierig.org/software/blog/2026/05/theseus-wasm.html",
-    "title": "Theseus: translating win32 to wasm"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://hackaday.com/2026/05/25/just-how-bad-was-the-intel-iapx432/",
-    "title": "Just How Bad Was The Intel IAPX432?"
   }
 ]
