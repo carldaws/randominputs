@@ -1,23 +1,23 @@
 [
   {
     "source": "hn",
+    "url": "https://posthog.com/blog/training-ai-models",
+    "title": "PostHog will train AI models with your data (opted-in by default)"
+  },
+  {
+    "source": "hn",
     "url": "https://miniscript.org/MiniMicro/index.html#about",
     "title": "Mini Micro Fantasy Computer"
   },
   {
     "source": "hn",
-    "url": "https://thereader.mitpress.mit.edu/the-strange-melancholy-of-slaying-monsters/",
-    "title": "The Melancholy of Slaying Monsters"
+    "url": "https://help.delduca.org",
+    "title": "Show HN: I made an emergency page for my family"
   },
   {
     "source": "hn",
-    "url": "https://padhye.org/raft-minority/",
-    "title": "Raft Consensus with a Minority of Nodes"
-  },
-  {
-    "source": "hn",
-    "url": "https://arps18.github.io/posts/claude-code-mastery/",
-    "title": "Claude Code as a Daily Driver: Claude.md, Skills, Subagents, Plugins, and MCPs"
+    "url": "https://neugierig.org/software/blog/2026/05/theseus-wasm.html",
+    "title": "Theseus: Translating Win32 to WASM"
   },
   {
     "source": "hn",
@@ -26,23 +26,38 @@
   },
   {
     "source": "hn",
+    "url": "https://alexanderbjoy.com/horse-race-board-game/",
+    "title": "My new obsession: A horse-racing board game of pure luck"
+  },
+  {
+    "source": "hn",
+    "url": "https://blog.packagist.com/an-update-on-composer-packagist-supply-chain-security/",
+    "title": "An Update on Composer and Packagist Supply Chain Security"
+  },
+  {
+    "source": "hn",
+    "url": "https://thereader.mitpress.mit.edu/the-strange-melancholy-of-slaying-monsters/",
+    "title": "The Melancholy of Slaying Monsters"
+  },
+  {
+    "source": "hn",
     "url": "https://rubbishtalk.com/economy/how-private-equity-bought-americas-essential-services/",
     "title": "Private Equity Bought America's Essential Services"
   },
   {
     "source": "hn",
-    "url": "https://en.ilsole24ore.com/art/lombardy-introduces-increased-charges-of-up-to-200-per-cent-for-data-centre-construction-in-green-and-agricultural-areas-AI6Jp4ID",
-    "title": "Italy region: +200% tax on datacenters built in green/agricultural areas"
+    "url": "https://cceckman.com/writing/phloto/",
+    "title": "Phloto for My Photo Flow"
   },
   {
     "source": "hn",
-    "url": "https://www.oliverio.dev/blog/the-worst-job-interview-i-had",
-    "title": "The worst job interview I ever had"
+    "url": "https://z3ugma.github.io/2026/05/25/a-comma-and-a-question-mark/",
+    "title": "A Comma and a Question Mark, Redux: Quick Terminal Helpers Using Pi"
   },
   {
     "source": "hn",
-    "url": "https://alexanderbjoy.com/horse-race-board-game/",
-    "title": "My new obsession: A horse-racing board game of pure luck"
+    "url": "https://padhye.org/raft-minority/",
+    "title": "Raft Consensus with a Minority of Nodes"
   },
   {
     "source": "hn",
@@ -51,43 +66,13 @@
   },
   {
     "source": "hn",
-    "url": "https://www.servethehome.com/what-is-a-direct-attach-copper-dac-cable/",
-    "title": "What Is a Direct Attach Copper (DAC) Cable"
+    "url": "https://www.oliverio.dev/blog/the-worst-job-interview-i-had",
+    "title": "The worst job interview I ever had"
   },
   {
     "source": "hn",
-    "url": "https://www.ustc.ac.uk/news/we-are-poles-so-of-course-we-print-in-latin",
-    "title": "We are Poles, so, of course, we print in Latin"
-  },
-  {
-    "source": "hn",
-    "url": "https://unsung.aresluna.org/a-few-interesting-modern-pixel-fonts/",
-    "title": "A few interesting modern pixel fonts"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.djspeckhals.com/posts/2026-05-22-how-i-bypassed-adobe-and-microsoft-to-build-a-git-tracked-book-production-pipeline/",
-    "title": "I built a Git-tracked book production pipeline"
-  },
-  {
-    "source": "hn",
-    "url": "https://tsduck.io/",
-    "title": "TSDuck: Open-source toolkit for MPEG-TS analysis and manipulation"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.minicor.com/",
-    "title": "Launch HN: Minicor (YC P26) – Windows desktop automations at scale"
-  },
-  {
-    "source": "hn",
-    "url": "https://anselmschueler.com/blogposts/2025-c-pointers/",
-    "title": "C array types are weird"
-  },
-  {
-    "source": "hn",
-    "url": "https://bcantrill.dtrace.org/2026/05/25/a-portentous-reunion/",
-    "title": "A portentous reunion"
+    "url": "https://arps18.github.io/posts/claude-code-mastery/",
+    "title": "Claude Code as a Daily Driver: Claude.md, Skills, Subagents, Plugins, and MCPs"
   },
   {
     "source": "lobsters",
@@ -106,18 +91,28 @@
   },
   {
     "source": "lobsters",
-    "url": "https://edu4rdshl.dev/posts/rethinking-the-gnome-clipboard-issues/",
-    "title": "Rethinking the GNOME clipboard issues"
-  },
-  {
-    "source": "lobsters",
     "url": "https://xkqr.org/bellwether/keyboardtest.html",
     "title": "Keyboard latency probe"
   },
   {
     "source": "lobsters",
+    "url": "https://turtleware.eu/posts/A-brief-note-about-slot-access-cost-in-Common-Lisp.html",
+    "title": "A brief note about slot access cost in Common Lisp"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://edu4rdshl.dev/posts/rethinking-the-gnome-clipboard-issues/",
+    "title": "Rethinking the GNOME clipboard issues"
+  },
+  {
+    "source": "lobsters",
     "url": "https://melatonin.dev/additive-synth-comic/what-is-a-harmonic/",
     "title": "What is a harmonic? An interactive comic about additive synthesis"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://www.chiply.dev/post-emacs-space-tree",
+    "title": "space-tree: Workspace Management Trees in Emacs"
   },
   {
     "source": "lobsters",
@@ -131,13 +126,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://neugierig.org/software/blog/2026/05/theseus-wasm.html",
-    "title": "Theseus: translating win32 to wasm"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://www.chiply.dev/post-emacs-space-tree",
-    "title": "space-tree: Workspace Management Trees in Emacs"
+    "url": "https://runxiyu.org/comp/shallowbundle/",
+    "title": "Converting shallow Git bundles into normal repositories"
   },
   {
     "source": "lobsters",
@@ -151,13 +141,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://runxiyu.org/comp/shallowbundle/",
-    "title": "Converting shallow Git bundles into normal repositories"
+    "url": "https://okmij.org/ftp/Algorithms/map-monoid-reduce.html",
+    "title": "Folding in Parallel"
   },
   {
     "source": "lobsters",
-    "url": "https://okmij.org/ftp/Algorithms/map-monoid-reduce.html",
-    "title": "Folding in Parallel"
+    "url": "https://tailscale.com/blog/bill-c22-canada",
+    "title": "Canada’s Bill C-22 and the security cost of collecting more data"
   },
   {
     "source": "lobsters",
@@ -166,18 +156,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://nathangrigg.com/2026/05/home-server-software/",
-    "title": "Software For My New Home Server"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://nolanlawson.com/2026/05/25/using-ai-to-write-better-code-more-slowly/",
-    "title": "Using AI to write better code more slowly"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://tailscale.com/blog/bill-c22-canada",
-    "title": "Canada’s Bill C-22 and the security cost of collecting more data"
+    "url": "https://railsatscale.com/2026-05-27-a-new-register-allocator-for-zjit/",
+    "title": "A new register allocator for ZJIT"
   },
   {
     "source": "pinboard",
@@ -191,6 +171,11 @@
   },
   {
     "source": "pinboard",
+    "url": "https://nolanlawson.com/2026/05/25/using-ai-to-write-better-code-more-slowly/",
+    "title": "Using AI to write better code more slowly | Read the Tea Leaves"
+  },
+  {
+    "source": "pinboard",
     "url": "https://audiomass.co/?multitrack=1",
     "title": "AudioMass - Audio Editor"
   },
@@ -198,6 +183,11 @@
     "source": "pinboard",
     "url": "https://geohot.github.io//blog/jekyll/update/2026/05/24/the-eternal-sloptember.html",
     "title": "The Eternal Sloptember | the singularity is nearer"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://unsung.aresluna.org/a-few-interesting-modern-pixel-fonts/",
+    "title": "A few interesting modern pixel fonts – Unsung"
   },
   {
     "source": "pinboard",
