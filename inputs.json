@@ -1,6 +1,11 @@
 [
   {
     "source": "hn",
+    "url": "https://platform.xiaomimimo.com/docs/en-US/welcome",
+    "title": "Xiaomi MiMo-v2.5 price drops 99% – AI pricing war"
+  },
+  {
+    "source": "hn",
     "url": "https://unsung.aresluna.org/a-few-interesting-modern-pixel-fonts/",
     "title": "A few interesting modern pixel fonts"
   },
@@ -11,8 +16,28 @@
   },
   {
     "source": "hn",
+    "url": "https://www.sciencedaily.com/releases/2026/05/260526022018.htm",
+    "title": "Scientists say they've reversed brain aging with a simple nasal spray"
+  },
+  {
+    "source": "hn",
     "url": "https://bcantrill.dtrace.org/2026/05/25/a-portentous-reunion/",
     "title": "A portentous reunion"
+  },
+  {
+    "source": "hn",
+    "url": "https://pop.rdi.sh/where-does-next-token-prediction-leave-us/",
+    "title": "So, Where Does Next-Token Prediction Leave Us?"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.superjumpmagazine.com/the-forgotten-art-of-the-lan-party/",
+    "title": "The Forgotten Art of the LAN Party (2023)"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.alephic.com/sabotage",
+    "title": "The OSS Sabotage Manual Became Corporate Best Practice"
   },
   {
     "source": "hn",
@@ -21,8 +46,8 @@
   },
   {
     "source": "hn",
-    "url": "https://theaileverageweekly.com/posts/your-ai-tools-are-only-as-good-as-your-judgment-and-that-s-the-point.html",
-    "title": "AI Tools Are Only as Good as Your Judgment – and That's the Point"
+    "url": "https://en.wikipedia.org/wiki/Liverpool_and_Manchester_Railway",
+    "title": "Liverpool and Manchester Railway"
   },
   {
     "source": "hn",
@@ -36,13 +61,8 @@
   },
   {
     "source": "hn",
-    "url": "https://ericturner.dev/posts/cost-of-home-ownership/",
-    "title": "The real cost of owning a home"
-  },
-  {
-    "source": "hn",
-    "url": "https://en.wikipedia.org/wiki/Liverpool_and_Manchester_Railway",
-    "title": "Liverpool and Manchester Railway"
+    "url": "https://jry.io/writing/use-boring-languages-with-llms/",
+    "title": "Use boring languages with LLMs"
   },
   {
     "source": "hn",
@@ -51,33 +71,18 @@
   },
   {
     "source": "hn",
-    "url": "https://jry.io/writing/use-boring-languages-with-llms/",
-    "title": "Use boring languages with LLMs"
+    "url": "https://ericturner.dev/posts/cost-of-home-ownership/",
+    "title": "The real cost of owning a home"
+  },
+  {
+    "source": "hn",
+    "url": "https://theaileverageweekly.com/posts/your-ai-tools-are-only-as-good-as-your-judgment-and-that-s-the-point.html",
+    "title": "AI tools are only as good as your judgment"
   },
   {
     "source": "hn",
     "url": "https://journal.stuffwithstuff.com/2015/02/01/what-color-is-your-function/",
     "title": "What color is your function? (2015)"
-  },
-  {
-    "source": "hn",
-    "url": "https://blog.glyph.im/2026/05/opaque-types-in-python.html",
-    "title": "Opaque Types in Python"
-  },
-  {
-    "source": "hn",
-    "url": "https://rescueradar.co.uk/about",
-    "title": "RescueRadar – UK Emergency Services Flight Tracking Since 2013"
-  },
-  {
-    "source": "hn",
-    "url": "https://shmuplations.com/phantasystariv/",
-    "title": "Phantasy Star IV – 1993 Developer Interviews"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://melatonin.dev/additive-synth-comic/what-is-a-harmonic/",
-    "title": "What is a harmonic? An interactive comic about additive synthesis"
   },
   {
     "source": "lobsters",
@@ -86,13 +91,18 @@
   },
   {
     "source": "lobsters",
-    "url": "https://pfandrade.me/blog/mac-assed-swiftui-app/",
-    "title": "Using SwiftUI to Build a Mac-assed App in 2026"
+    "url": "https://melatonin.dev/additive-synth-comic/what-is-a-harmonic/",
+    "title": "What is a harmonic? An interactive comic about additive synthesis"
   },
   {
     "source": "lobsters",
     "url": "https://daniel.haxx.se/blog/2026/05/26/the-pressure/",
     "title": "The pressure"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://pfandrade.me/blog/mac-assed-swiftui-app/",
+    "title": "Using SwiftUI to Build a Mac-assed App in 2026"
   },
   {
     "source": "lobsters",
@@ -116,13 +126,18 @@
   },
   {
     "source": "lobsters",
-    "url": "https://peter0x44.github.io/posts/vtables-itanium-abi/",
-    "title": "How Virtual Tables Work in the Itanium C++ ABI"
+    "url": "https://dubroy.com/blog/fast-is-better-than-slow/",
+    "title": "Fast is better than slow"
   },
   {
     "source": "lobsters",
     "url": "https://tailscale.com/blog/bill-c22-canada",
     "title": "Canada’s Bill C-22 and the security cost of collecting more data"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://peter0x44.github.io/posts/vtables-itanium-abi/",
+    "title": "How Virtual Tables Work in the Itanium C++ ABI"
   },
   {
     "source": "lobsters",
@@ -141,6 +156,11 @@
   },
   {
     "source": "lobsters",
+    "url": "https://okmij.org/ftp/Algorithms/map-monoid-reduce.html",
+    "title": "Folding in Parallel"
+  },
+  {
+    "source": "lobsters",
     "url": "https://pta2002.com/blog/colemak/",
     "title": "Switching to Colemak"
   },
@@ -151,22 +171,12 @@
   },
   {
     "source": "lobsters",
-    "url": "https://okmij.org/ftp/Algorithms/map-monoid-reduce.html",
-    "title": "Folding in Parallel"
+    "url": "https://neugierig.org/software/blog/2026/05/theseus-wasm.html",
+    "title": "Theseus: translating win32 to wasm"
   },
   {
     "source": "lobsters",
     "url": "https://hackaday.com/2026/05/25/just-how-bad-was-the-intel-iapx432/",
     "title": "Just How Bad Was The Intel IAPX432?"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://blog.rapidflare.ai/blog/temporal-ingestion-pipeline-part1/",
-    "title": "Building a Scalable Ingestion Pipeline with Temporal (Part 1)"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://pscanf.com/s/354/",
-    "title": "The User Is Visibly Frustrated"
   }
 ]
