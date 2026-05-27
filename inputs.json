@@ -1,6 +1,11 @@
 [
   {
     "source": "hn",
+    "url": "https://blog.youtube/news-and-events/improving-ai-labels-viewers-creators/",
+    "title": "YouTube to automatically label AI-generated videos"
+  },
+  {
+    "source": "hn",
     "url": "https://simonwillison.net/2026/May/27/product-market-fit/",
     "title": "I think Anthropic and OpenAI have found product-market fit"
   },
@@ -16,8 +21,13 @@
   },
   {
     "source": "hn",
-    "url": "https://tracesofhumanity.org/freediving-embodiment-and-humanity/",
-    "title": "Freediving, Embodiment and Humanity – Joanna Rutkowska"
+    "url": "https://sverre.me/blog/rust-on-kindle/",
+    "title": "Rust (and Slint) on a Jailbroken Kindle"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.githubstatus.com/incidents/xy1tt3hs572m",
+    "title": "Incident with Pull Requests, Issues, Git Operations and API Requests"
   },
   {
     "source": "hn",
@@ -26,13 +36,43 @@
   },
   {
     "source": "hn",
+    "url": "https://tracesofhumanity.org/freediving-embodiment-and-humanity/",
+    "title": "Freediving, Embodiment and Humanity – Joanna Rutkowska"
+  },
+  {
+    "source": "hn",
     "url": "https://ochagavia.nl/blog/fully-in-browser-container-builds/",
     "title": "In-Browser Container Builds"
   },
   {
     "source": "hn",
-    "url": "https://sverre.me/blog/rust-on-kindle/",
-    "title": "Rust (and Slint) on a Jailbroken Kindle"
+    "url": "https://segar.me/blog/posts/reconstructing_a_mixbook_movie.html",
+    "title": "Reconstructing a Mixbook movie from its data API with FFmpeg"
+  },
+  {
+    "source": "hn",
+    "url": "https://arps18.github.io/posts/claude-code-mastery/",
+    "title": "Claude Code as a Daily Driver: Claude.md, Skills, Subagents, Plugins, and MCPs"
+  },
+  {
+    "source": "hn",
+    "url": "https://rubbishtalk.com/economy/how-private-equity-bought-americas-essential-services/",
+    "title": "Private equity bought America's essential services"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.servethehome.com/what-is-a-direct-attach-copper-dac-cable/",
+    "title": "What Is a Direct Attach Copper (DAC) Cable?"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.pcmag.com/news/iphones-running-ios-26-freeze-facetime-calls-when-theres-nudity",
+    "title": "iPhones Running iOS 26 Are Freezing FaceTime Calls When They Detect Nudity"
+  },
+  {
+    "source": "hn",
+    "url": "https://borretti.me/article/human-bottlenecks",
+    "title": "Human Bottlenecks"
   },
   {
     "source": "hn",
@@ -43,26 +83,6 @@
     "source": "hn",
     "url": "https://alexanderbjoy.com/horse-race-board-game/",
     "title": "My new obsession: A horse-racing board game of pure luck"
-  },
-  {
-    "source": "hn",
-    "url": "https://z3ugma.github.io/2026/05/25/a-comma-and-a-question-mark/",
-    "title": "A Comma and a Question Mark, Redux: Quick Terminal Helpers Using Pi"
-  },
-  {
-    "source": "hn",
-    "url": "https://borretti.me/article/human-bottlenecks",
-    "title": "Human Bottlenecks"
-  },
-  {
-    "source": "hn",
-    "url": "https://neugierig.org/software/blog/2026/05/theseus-wasm.html",
-    "title": "Theseus: Translating Win32 to WASM"
-  },
-  {
-    "source": "hn",
-    "url": "https://padhye.org/raft-minority/",
-    "title": "Raft Consensus with a Minority of Nodes"
   },
   {
     "source": "lobsters",
@@ -96,8 +116,18 @@
   },
   {
     "source": "lobsters",
+    "url": "https://padhye.org/raft-minority/",
+    "title": "Raft Consensus with a Minority of Nodes"
+  },
+  {
+    "source": "lobsters",
     "url": "https://edu4rdshl.dev/posts/rethinking-the-gnome-clipboard-issues/",
     "title": "Rethinking the GNOME clipboard issues"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://www.joshwcomeau.com/animation/css-vs-javascript/",
+    "title": "CSS vs. JavaScript"
   },
   {
     "source": "lobsters",
@@ -116,13 +146,18 @@
   },
   {
     "source": "lobsters",
-    "url": "https://www.joshwcomeau.com/animation/css-vs-javascript/",
-    "title": "CSS vs. JavaScript"
+    "url": "https://readable-css.freedomtowrite.org/",
+    "title": "readable.css"
   },
   {
     "source": "lobsters",
-    "url": "https://readable-css.freedomtowrite.org/",
-    "title": "readable.css"
+    "url": "https://zamundaaa.github.io/wayland/2026/05/06/making-wl-shm-fast.html",
+    "title": "Making wl_shm fast"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://neugierig.org/software/blog/2026/05/theseus-wasm.html",
+    "title": "Theseus: translating win32 to wasm"
   },
   {
     "source": "lobsters",
@@ -133,11 +168,6 @@
     "source": "lobsters",
     "url": "https://pfandrade.me/blog/mac-assed-swiftui-app/",
     "title": "Using SwiftUI to Build a Mac-assed App in 2026"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://okmij.org/ftp/Algorithms/map-monoid-reduce.html",
-    "title": "Folding in Parallel"
   },
   {
     "source": "pinboard",
