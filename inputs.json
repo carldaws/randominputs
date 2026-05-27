@@ -11,8 +11,13 @@
   },
   {
     "source": "hn",
-    "url": "https://ochagavia.nl/blog/fully-in-browser-container-builds/",
-    "title": "In-Browser Container Builds"
+    "url": "https://2earth.github.io/website/20260525.html",
+    "title": "On Labubu and the Hyperreal"
+  },
+  {
+    "source": "hn",
+    "url": "https://tracesofhumanity.org/freediving-embodiment-and-humanity/",
+    "title": "Freediving, Embodiment and Humanity – Joanna Rutkowska"
   },
   {
     "source": "hn",
@@ -21,8 +26,23 @@
   },
   {
     "source": "hn",
+    "url": "https://ochagavia.nl/blog/fully-in-browser-container-builds/",
+    "title": "In-Browser Container Builds"
+  },
+  {
+    "source": "hn",
+    "url": "https://sverre.me/blog/rust-on-kindle/",
+    "title": "Rust (and Slint) on a Jailbroken Kindle"
+  },
+  {
+    "source": "hn",
     "url": "https://posthog.com/blog/training-ai-models",
     "title": "Training our own AI models"
+  },
+  {
+    "source": "hn",
+    "url": "https://alexanderbjoy.com/horse-race-board-game/",
+    "title": "My new obsession: A horse-racing board game of pure luck"
   },
   {
     "source": "hn",
@@ -36,18 +56,8 @@
   },
   {
     "source": "hn",
-    "url": "https://alexanderbjoy.com/horse-race-board-game/",
-    "title": "My new obsession: A horse-racing board game of pure luck"
-  },
-  {
-    "source": "hn",
     "url": "https://neugierig.org/software/blog/2026/05/theseus-wasm.html",
     "title": "Theseus: Translating Win32 to WASM"
-  },
-  {
-    "source": "hn",
-    "url": "https://thereader.mitpress.mit.edu/the-strange-melancholy-of-slaying-monsters/",
-    "title": "The Melancholy of Slaying Monsters"
   },
   {
     "source": "hn",
@@ -55,19 +65,14 @@
     "title": "Raft Consensus with a Minority of Nodes"
   },
   {
-    "source": "hn",
-    "url": "https://www.githubstatus.com/incidents/xy1tt3hs572m",
-    "title": "Incident with Pull Requests, Issues, Git Operations and API Requests"
-  },
-  {
-    "source": "hn",
-    "url": "https://cceckman.com/writing/phloto/",
-    "title": "Phloto for My Photo Flow"
-  },
-  {
     "source": "lobsters",
     "url": "https://martinsos.com/posts/may-recommend-emacs-home-base",
     "title": "May I recommend thinking of Emacs as your Fortress of Solitude"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://turtleware.eu/posts/A-brief-note-about-slot-access-cost-in-Common-Lisp.html",
+    "title": "A brief note about slot access cost in Common Lisp"
   },
   {
     "source": "lobsters",
@@ -81,18 +86,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://akselmo.dev/posts/stop-advertising-in-your-commits/",
-    "title": "Stop advertising in your commits"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://turtleware.eu/posts/A-brief-note-about-slot-access-cost-in-Common-Lisp.html",
-    "title": "A brief note about slot access cost in Common Lisp"
-  },
-  {
-    "source": "lobsters",
     "url": "https://railsatscale.com/2026-05-27-a-new-register-allocator-for-zjit/",
     "title": "A new register allocator for ZJIT"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://akselmo.dev/posts/stop-advertising-in-your-commits/",
+    "title": "Stop advertising in your commits"
   },
   {
     "source": "lobsters",
@@ -106,13 +106,18 @@
   },
   {
     "source": "lobsters",
+    "url": "https://dubroy.com/blog/fast-is-better-than-slow/",
+    "title": "Fast is better than slow"
+  },
+  {
+    "source": "lobsters",
     "url": "https://www.chiply.dev/post-emacs-space-tree",
     "title": "space-tree: Workspace Management Trees in Emacs"
   },
   {
     "source": "lobsters",
-    "url": "https://dubroy.com/blog/fast-is-better-than-slow/",
-    "title": "Fast is better than slow"
+    "url": "https://www.joshwcomeau.com/animation/css-vs-javascript/",
+    "title": "CSS vs. JavaScript"
   },
   {
     "source": "lobsters",
@@ -128,11 +133,6 @@
     "source": "lobsters",
     "url": "https://pfandrade.me/blog/mac-assed-swiftui-app/",
     "title": "Using SwiftUI to Build a Mac-assed App in 2026"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://daniel.haxx.se/blog/2026/05/26/the-pressure/",
-    "title": "The pressure"
   },
   {
     "source": "lobsters",
