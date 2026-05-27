@@ -1,8 +1,13 @@
 [
   {
     "source": "hn",
-    "url": "https://posthog.com/blog/training-ai-models",
-    "title": "PostHog will train AI models with your data (opted-in by default)"
+    "url": "https://simonwillison.net/2026/May/27/product-market-fit/",
+    "title": "I think Anthropic and OpenAI have found product-market fit"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.thran.uk/writ/hdid/2025/12/simcity-3k-in-4k.html",
+    "title": "SimCity 3k in 4k (2025)"
   },
   {
     "source": "hn",
@@ -11,43 +16,13 @@
   },
   {
     "source": "hn",
-    "url": "https://help.delduca.org",
-    "title": "Show HN: I made an emergency page for my family"
+    "url": "https://posthog.com/blog/training-ai-models",
+    "title": "Training our own AI models"
   },
   {
     "source": "hn",
-    "url": "https://neugierig.org/software/blog/2026/05/theseus-wasm.html",
-    "title": "Theseus: Translating Win32 to WASM"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.githubstatus.com/incidents/xy1tt3hs572m",
-    "title": "Incident with Pull Requests, Issues, Git Operations and API Requests"
-  },
-  {
-    "source": "hn",
-    "url": "https://alexanderbjoy.com/horse-race-board-game/",
-    "title": "My new obsession: A horse-racing board game of pure luck"
-  },
-  {
-    "source": "hn",
-    "url": "https://blog.packagist.com/an-update-on-composer-packagist-supply-chain-security/",
-    "title": "An Update on Composer and Packagist Supply Chain Security"
-  },
-  {
-    "source": "hn",
-    "url": "https://thereader.mitpress.mit.edu/the-strange-melancholy-of-slaying-monsters/",
-    "title": "The Melancholy of Slaying Monsters"
-  },
-  {
-    "source": "hn",
-    "url": "https://rubbishtalk.com/economy/how-private-equity-bought-americas-essential-services/",
-    "title": "Private Equity Bought America's Essential Services"
-  },
-  {
-    "source": "hn",
-    "url": "https://cceckman.com/writing/phloto/",
-    "title": "Phloto for My Photo Flow"
+    "url": "https://ochagavia.nl/blog/fully-in-browser-container-builds/",
+    "title": "In-Browser Container Builds"
   },
   {
     "source": "hn",
@@ -56,18 +31,33 @@
   },
   {
     "source": "hn",
+    "url": "https://neugierig.org/software/blog/2026/05/theseus-wasm.html",
+    "title": "Theseus: Translating Win32 to WASM"
+  },
+  {
+    "source": "hn",
+    "url": "https://alexanderbjoy.com/horse-race-board-game/",
+    "title": "My new obsession: A horse-racing board game of pure luck"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.githubstatus.com/incidents/xy1tt3hs572m",
+    "title": "Incident with Pull Requests, Issues, Git Operations and API Requests"
+  },
+  {
+    "source": "hn",
+    "url": "https://cceckman.com/writing/phloto/",
+    "title": "Phloto for My Photo Flow"
+  },
+  {
+    "source": "hn",
+    "url": "https://thereader.mitpress.mit.edu/the-strange-melancholy-of-slaying-monsters/",
+    "title": "The Melancholy of Slaying Monsters"
+  },
+  {
+    "source": "hn",
     "url": "https://padhye.org/raft-minority/",
     "title": "Raft Consensus with a Minority of Nodes"
-  },
-  {
-    "source": "hn",
-    "url": "https://brilliantmaps.com/cia-maps-1980s/",
-    "title": "Declassified CIA Cartography Maps from the 1980s"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.oliverio.dev/blog/the-worst-job-interview-i-had",
-    "title": "The worst job interview I ever had"
   },
   {
     "source": "hn",
@@ -81,6 +71,11 @@
   },
   {
     "source": "lobsters",
+    "url": "https://xkqr.org/bellwether/keyboardtest.html",
+    "title": "Keyboard latency probe"
+  },
+  {
+    "source": "lobsters",
     "url": "https://akselmo.dev/posts/stop-advertising-in-your-commits/",
     "title": "Stop advertising in your commits"
   },
@@ -88,11 +83,6 @@
     "source": "lobsters",
     "url": "https://ziglang.org/devlog/2026/#2026-05-26",
     "title": "Build System Reworked"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://xkqr.org/bellwether/keyboardtest.html",
-    "title": "Keyboard latency probe"
   },
   {
     "source": "lobsters",
@@ -121,6 +111,11 @@
   },
   {
     "source": "lobsters",
+    "url": "https://railsatscale.com/2026-05-27-a-new-register-allocator-for-zjit/",
+    "title": "A new register allocator for ZJIT"
+  },
+  {
+    "source": "lobsters",
     "url": "https://readable-css.freedomtowrite.org/",
     "title": "readable.css"
   },
@@ -143,120 +138,5 @@
     "source": "lobsters",
     "url": "https://okmij.org/ftp/Algorithms/map-monoid-reduce.html",
     "title": "Folding in Parallel"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://tailscale.com/blog/bill-c22-canada",
-    "title": "Canada’s Bill C-22 and the security cost of collecting more data"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://blog.cat-girl.gay/3ds-async-part-one/",
-    "title": "Building an AsyncIO executor for the 3DS"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://railsatscale.com/2026-05-27-a-new-register-allocator-for-zjit/",
-    "title": "A new register allocator for ZJIT"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.dougmacdowell.com/50-hours-to-draw-some-lines.html",
-    "title": "50 Hours to Draw Some Lines - Doug MacDowell"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://isaiprofitable.com/",
-    "title": "Is AI Profitable Yet?"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://nolanlawson.com/2026/05/25/using-ai-to-write-better-code-more-slowly/",
-    "title": "Using AI to write better code more slowly | Read the Tea Leaves"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://audiomass.co/?multitrack=1",
-    "title": "AudioMass - Audio Editor"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://geohot.github.io//blog/jekyll/update/2026/05/24/the-eternal-sloptember.html",
-    "title": "The Eternal Sloptember | the singularity is nearer"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://unsung.aresluna.org/a-few-interesting-modern-pixel-fonts/",
-    "title": "A few interesting modern pixel fonts – Unsung"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://airesistlist.org/",
-    "title": "AI Resist List"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://corrode.dev/learn/migration-guides/go-to-rust/",
-    "title": "Migrating from Go to Rust | corrode Rust Consulting"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.liberalcurrents.com/the-interracial-cuck-porn-theory-of-everything/",
-    "title": "The Interracial Cuck Porn Theory of Everything"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://kk.org/cooltools/book-freak-210-the-art-of-money-getting/",
-    "title": "Book Freak #210: The Art of Money Getting – Cool Tools"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://pluralistic.net/2026/05/26/the-ai-will-continue/",
-    "title": "Pluralistic: The AI bubble isn’t like the internet bubble (26 May 2026) – Pluralistic: Daily links from Cory Doctorow"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.merriam-webster.com/wordplay/the-hilarious-history-of-ok-okay",
-    "title": "The Hilarious History of 'OK' | Merriam-Webster"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://lemon.rip/w/6-c-extensions-compilers/",
-    "title": "On C extensions, portability, and alternative compilers"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://rothko.joonas.wtf/",
-    "title": "Current Rothko"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://lucumr.pocoo.org/2026/5/24/pi-oss/",
-    "title": "Building Pi With Pi | Armin Ronacher's Thoughts and Writings"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://kingbird.myphotos.cc/packing/squares_in_squares.html",
-    "title": "Squares in Squares"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://tenbluelinks.org/",
-    "title": "How to Turn Off AI Overview in Google and Set \"Web\" as Default"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://thefrontpage.dev/",
-    "title": "Hacker News front page as a newspaper"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://labor.dair-institute.org/",
-    "title": "Luddite Lab"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.wired.com/story/a-fundamental-principle-of-aeronautical-engineering-has-been-overturned/",
-    "title": "A Fundamental Principle of Aeronautical Engineering Has Been Overturned | WIRED"
   }
 ]
