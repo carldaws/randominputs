@@ -22,7 +22,17 @@
   {
     "source": "hn",
     "url": "https://z3ugma.github.io/2019/11/18/warm-up-your-macbook/",
-    "title": "How to Quickly Warm Up Your MacBook"
+    "title": "Warm up your MacBook (2019)"
+  },
+  {
+    "source": "hn",
+    "url": "https://2earth.github.io/website/20260525.html",
+    "title": "On Labubu and the Hyperreal"
+  },
+  {
+    "source": "hn",
+    "url": "https://mmapped.blog/posts/51-interleaved-deltas",
+    "title": "Interleaved Deltas"
   },
   {
     "source": "hn",
@@ -36,18 +46,23 @@
   },
   {
     "source": "hn",
+    "url": "https://arps18.github.io/posts/claude-code-mastery/",
+    "title": "Claude Code as a Daily Driver: Claude.md, Skills, Subagents, Plugins, and MCPs"
+  },
+  {
+    "source": "hn",
+    "url": "https://iot-devices.com.ua/en/ggreg20-v3-j305-tube-mounting-dimensions/",
+    "title": "Dimensions of Geiger-Muller tube holder on GGreg20_V3 Geiger counter PCB (2025)"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.jonaharagon.com/posts/im-getting-into-mesh-networks-meshtastic-meshcore-and-reticulum/",
+    "title": "I'm Getting into Mesh Networks (Meshtastic, MeshCore, and Reticulum)"
+  },
+  {
+    "source": "hn",
     "url": "https://tracesofhumanity.org/freediving-embodiment-and-humanity/",
-    "title": "Freediving, Embodiment and Humanity – Joanna Rutkowska"
-  },
-  {
-    "source": "hn",
-    "url": "https://mmapped.blog/posts/51-interleaved-deltas",
-    "title": "Interleaved Deltas"
-  },
-  {
-    "source": "hn",
-    "url": "https://ochagavia.nl/blog/fully-in-browser-container-builds/",
-    "title": "In-Browser Container Builds"
+    "title": "Freediving, Embodiment and Humanity"
   },
   {
     "source": "hn",
@@ -57,32 +72,17 @@
   {
     "source": "hn",
     "url": "https://www.servethehome.com/what-is-a-direct-attach-copper-dac-cable/",
-    "title": "What Is a Direct Attach Copper (DAC) Cable?"
+    "title": "What Is a Direct Attach Copper (DAC) Cable? (2021)"
   },
   {
     "source": "hn",
-    "url": "https://iot-devices.com.ua/en/ggreg20-v3-j305-tube-mounting-dimensions/",
-    "title": "Dimensions of the Geiger-Muller Tube Holder on the GGreg20_V3 Geiger Counter PCB"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.pcmag.com/news/iphones-running-ios-26-freeze-facetime-calls-when-theres-nudity",
-    "title": "iPhones Running iOS 26 Are Freezing FaceTime Calls When They Detect Nudity"
-  },
-  {
-    "source": "hn",
-    "url": "https://segar.me/blog/posts/reconstructing_a_mixbook_movie.html",
-    "title": "Reconstructing a Mixbook movie from its data API with FFmpeg"
+    "url": "https://ochagavia.nl/blog/fully-in-browser-container-builds/",
+    "title": "Fully in-browser container builds"
   },
   {
     "source": "hn",
     "url": "https://borretti.me/article/human-bottlenecks",
     "title": "Human Bottlenecks"
-  },
-  {
-    "source": "hn",
-    "url": "https://posthog.com/blog/training-ai-models",
-    "title": "Training our own AI models"
   },
   {
     "source": "lobsters",
