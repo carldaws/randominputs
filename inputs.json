@@ -16,13 +16,13 @@
   },
   {
     "source": "hn",
-    "url": "https://2earth.github.io/website/20260525.html",
-    "title": "On Labubu and the Hyperreal"
+    "url": "https://sverre.me/blog/rust-on-kindle/",
+    "title": "Rust (and Slint) on a Jailbroken Kindle"
   },
   {
     "source": "hn",
-    "url": "https://sverre.me/blog/rust-on-kindle/",
-    "title": "Rust (and Slint) on a Jailbroken Kindle"
+    "url": "https://z3ugma.github.io/2019/11/18/warm-up-your-macbook/",
+    "title": "How to Quickly Warm Up Your MacBook"
   },
   {
     "source": "hn",
@@ -41,18 +41,13 @@
   },
   {
     "source": "hn",
+    "url": "https://mmapped.blog/posts/51-interleaved-deltas",
+    "title": "Interleaved Deltas"
+  },
+  {
+    "source": "hn",
     "url": "https://ochagavia.nl/blog/fully-in-browser-container-builds/",
     "title": "In-Browser Container Builds"
-  },
-  {
-    "source": "hn",
-    "url": "https://segar.me/blog/posts/reconstructing_a_mixbook_movie.html",
-    "title": "Reconstructing a Mixbook movie from its data API with FFmpeg"
-  },
-  {
-    "source": "hn",
-    "url": "https://arps18.github.io/posts/claude-code-mastery/",
-    "title": "Claude Code as a Daily Driver: Claude.md, Skills, Subagents, Plugins, and MCPs"
   },
   {
     "source": "hn",
@@ -66,8 +61,18 @@
   },
   {
     "source": "hn",
+    "url": "https://iot-devices.com.ua/en/ggreg20-v3-j305-tube-mounting-dimensions/",
+    "title": "Dimensions of the Geiger-Muller Tube Holder on the GGreg20_V3 Geiger Counter PCB"
+  },
+  {
+    "source": "hn",
     "url": "https://www.pcmag.com/news/iphones-running-ios-26-freeze-facetime-calls-when-theres-nudity",
     "title": "iPhones Running iOS 26 Are Freezing FaceTime Calls When They Detect Nudity"
+  },
+  {
+    "source": "hn",
+    "url": "https://segar.me/blog/posts/reconstructing_a_mixbook_movie.html",
+    "title": "Reconstructing a Mixbook movie from its data API with FFmpeg"
   },
   {
     "source": "hn",
@@ -78,11 +83,6 @@
     "source": "hn",
     "url": "https://posthog.com/blog/training-ai-models",
     "title": "Training our own AI models"
-  },
-  {
-    "source": "hn",
-    "url": "https://alexanderbjoy.com/horse-race-board-game/",
-    "title": "My new obsession: A horse-racing board game of pure luck"
   },
   {
     "source": "lobsters",
@@ -101,13 +101,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://ziglang.org/devlog/2026/#2026-05-26",
-    "title": "Build System Reworked"
+    "url": "https://railsatscale.com/2026-05-27-a-new-register-allocator-for-zjit/",
+    "title": "A new register allocator for ZJIT"
   },
   {
     "source": "lobsters",
-    "url": "https://railsatscale.com/2026-05-27-a-new-register-allocator-for-zjit/",
-    "title": "A new register allocator for ZJIT"
+    "url": "https://ziglang.org/devlog/2026/#2026-05-26",
+    "title": "Build System Reworked"
   },
   {
     "source": "lobsters",
@@ -141,6 +141,11 @@
   },
   {
     "source": "lobsters",
+    "url": "https://zamundaaa.github.io/wayland/2026/05/06/making-wl-shm-fast.html",
+    "title": "Making wl_shm fast"
+  },
+  {
+    "source": "lobsters",
     "url": "https://www.chiply.dev/post-emacs-space-tree",
     "title": "space-tree: Workspace Management Trees in Emacs"
   },
@@ -151,8 +156,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://zamundaaa.github.io/wayland/2026/05/06/making-wl-shm-fast.html",
-    "title": "Making wl_shm fast"
+    "url": "https://runxiyu.org/comp/shallowbundle/",
+    "title": "Converting shallow Git bundles into normal repositories"
   },
   {
     "source": "lobsters",
@@ -161,112 +166,7 @@
   },
   {
     "source": "lobsters",
-    "url": "https://runxiyu.org/comp/shallowbundle/",
-    "title": "Converting shallow Git bundles into normal repositories"
-  },
-  {
-    "source": "lobsters",
     "url": "https://pfandrade.me/blog/mac-assed-swiftui-app/",
     "title": "Using SwiftUI to Build a Mac-assed App in 2026"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.dougmacdowell.com/50-hours-to-draw-some-lines.html",
-    "title": "50 Hours to Draw Some Lines - Doug MacDowell"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://isaiprofitable.com/",
-    "title": "Is AI Profitable Yet?"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://nolanlawson.com/2026/05/25/using-ai-to-write-better-code-more-slowly/",
-    "title": "Using AI to write better code more slowly | Read the Tea Leaves"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://audiomass.co/?multitrack=1",
-    "title": "AudioMass - Audio Editor"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://geohot.github.io//blog/jekyll/update/2026/05/24/the-eternal-sloptember.html",
-    "title": "The Eternal Sloptember | the singularity is nearer"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://unsung.aresluna.org/a-few-interesting-modern-pixel-fonts/",
-    "title": "A few interesting modern pixel fonts – Unsung"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://airesistlist.org/",
-    "title": "AI Resist List"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://corrode.dev/learn/migration-guides/go-to-rust/",
-    "title": "Migrating from Go to Rust | corrode Rust Consulting"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.liberalcurrents.com/the-interracial-cuck-porn-theory-of-everything/",
-    "title": "The Interracial Cuck Porn Theory of Everything"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://kk.org/cooltools/book-freak-210-the-art-of-money-getting/",
-    "title": "Book Freak #210: The Art of Money Getting – Cool Tools"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://pluralistic.net/2026/05/26/the-ai-will-continue/",
-    "title": "Pluralistic: The AI bubble isn’t like the internet bubble (26 May 2026) – Pluralistic: Daily links from Cory Doctorow"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.merriam-webster.com/wordplay/the-hilarious-history-of-ok-okay",
-    "title": "The Hilarious History of 'OK' | Merriam-Webster"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://lemon.rip/w/6-c-extensions-compilers/",
-    "title": "On C extensions, portability, and alternative compilers"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://rothko.joonas.wtf/",
-    "title": "Current Rothko"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://lucumr.pocoo.org/2026/5/24/pi-oss/",
-    "title": "Building Pi With Pi | Armin Ronacher's Thoughts and Writings"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://kingbird.myphotos.cc/packing/squares_in_squares.html",
-    "title": "Squares in Squares"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://tenbluelinks.org/",
-    "title": "How to Turn Off AI Overview in Google and Set \"Web\" as Default"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://thefrontpage.dev/",
-    "title": "Hacker News front page as a newspaper"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://labor.dair-institute.org/",
-    "title": "Luddite Lab"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.wired.com/story/a-fundamental-principle-of-aeronautical-engineering-has-been-overturned/",
-    "title": "A Fundamental Principle of Aeronautical Engineering Has Been Overturned | WIRED"
   }
 ]
