@@ -21,13 +21,23 @@
   },
   {
     "source": "hn",
+    "url": "https://www.oliverio.dev/blog/the-worst-job-interview-i-had",
+    "title": "The worst job interview I ever had"
+  },
+  {
+    "source": "hn",
     "url": "https://blogs.loc.gov/headlinesandheroes/2026/05/mourn-not-a-history-of-obituaries-in-american-newspapers/",
     "title": "A history of obituaries in American newspapers"
   },
   {
     "source": "hn",
-    "url": "https://www.oliverio.dev/blog/the-worst-job-interview-i-had",
-    "title": "The worst job interview I ever had"
+    "url": "https://tsduck.io/",
+    "title": "TSDuck: Open-source toolkit for MPEG-TS analysis and manipulation"
+  },
+  {
+    "source": "hn",
+    "url": "https://arps18.github.io/posts/claude-code-mastery/",
+    "title": "Claude Code as a Daily Driver: Claude.md, Skills, Subagents, Plugins, and MCPs"
   },
   {
     "source": "hn",
@@ -36,8 +46,8 @@
   },
   {
     "source": "hn",
-    "url": "https://www.minicor.com/",
-    "title": "Launch HN: Minicor (YC P26) – Windows desktop automations at scale"
+    "url": "https://www.unicode.org/versions/Unicode18.0.0/",
+    "title": "Unicode 18.0.0 Beta"
   },
   {
     "source": "hn",
@@ -46,13 +56,18 @@
   },
   {
     "source": "hn",
+    "url": "https://www.minicor.com/",
+    "title": "Launch HN: Minicor (YC P26) – Windows desktop automations at scale"
+  },
+  {
+    "source": "hn",
     "url": "https://anselmschueler.com/blogposts/2025-c-pointers/",
     "title": "C array types are weird"
   },
   {
     "source": "hn",
-    "url": "https://tsduck.io/",
-    "title": "TSDuck: Open-source toolkit for MPEG-TS analysis and manipulation"
+    "url": "https://tyndale.org/journals/reformj01/bmarsden.html",
+    "title": "Seeking a Language in Mathematics 1523-1571"
   },
   {
     "source": "hn",
@@ -63,16 +78,6 @@
     "source": "hn",
     "url": "https://www.thedrive.com/article/12603/the-forgotten-steinwinter-supercargo-is-unlike-anything-on-the-road-today",
     "title": "The Steinwinter Supercargo"
-  },
-  {
-    "source": "hn",
-    "url": "https://journal.stuffwithstuff.com/2015/02/01/what-color-is-your-function/",
-    "title": "What color is your function? (2015)"
-  },
-  {
-    "source": "hn",
-    "url": "https://pop.rdi.sh/where-does-next-token-prediction-leave-us/",
-    "title": "Where does next-token prediction leave us?"
   },
   {
     "source": "lobsters",
@@ -86,6 +91,16 @@
   },
   {
     "source": "lobsters",
+    "url": "https://edu4rdshl.dev/posts/rethinking-the-gnome-clipboard-issues/",
+    "title": "Rethinking the GNOME clipboard issues"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://ziglang.org/devlog/2026/#2026-05-26",
+    "title": "Build System Reworked"
+  },
+  {
+    "source": "lobsters",
     "url": "https://dubroy.com/blog/fast-is-better-than-slow/",
     "title": "Fast is better than slow"
   },
@@ -93,11 +108,6 @@
     "source": "lobsters",
     "url": "https://readable-css.freedomtowrite.org/",
     "title": "readable.css"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://ziglang.org/devlog/2026/#2026-05-26",
-    "title": "Build System Reworked"
   },
   {
     "source": "lobsters",
@@ -111,23 +121,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://edu4rdshl.dev/posts/rethinking-the-gnome-clipboard-issues/",
-    "title": "Rethinking the GNOME clipboard issues"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://nolanlawson.com/2026/05/25/using-ai-to-write-better-code-more-slowly/",
-    "title": "Using AI to write better code more slowly"
-  },
-  {
-    "source": "lobsters",
     "url": "https://okmij.org/ftp/Algorithms/map-monoid-reduce.html",
     "title": "Folding in Parallel"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://nathangrigg.com/2026/05/home-server-software/",
-    "title": "Software For My New Home Server"
   },
   {
     "source": "lobsters",
@@ -136,18 +131,33 @@
   },
   {
     "source": "lobsters",
+    "url": "https://nolanlawson.com/2026/05/25/using-ai-to-write-better-code-more-slowly/",
+    "title": "Using AI to write better code more slowly"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://nathangrigg.com/2026/05/home-server-software/",
+    "title": "Software For My New Home Server"
+  },
+  {
+    "source": "lobsters",
     "url": "https://neugierig.org/software/blog/2026/05/theseus-wasm.html",
     "title": "Theseus: translating win32 to wasm"
   },
   {
     "source": "lobsters",
-    "url": "https://tailscale.com/blog/bill-c22-canada",
-    "title": "Canada’s Bill C-22 and the security cost of collecting more data"
+    "url": "https://xkqr.org/bellwether/keyboardtest.html",
+    "title": "Keyboard latency probe"
   },
   {
     "source": "lobsters",
     "url": "https://peter0x44.github.io/posts/vtables-itanium-abi/",
     "title": "How Virtual Tables Work in the Itanium C++ ABI"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://tailscale.com/blog/bill-c22-canada",
+    "title": "Canada’s Bill C-22 and the security cost of collecting more data"
   },
   {
     "source": "lobsters",
@@ -163,95 +173,5 @@
     "source": "lobsters",
     "url": "https://lemon.rip/w/6-c-extensions-compilers/",
     "title": "On C extensions, portability, and alternative compilers"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://pta2002.com/blog/colemak/",
-    "title": "Switching to Colemak"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.dougmacdowell.com/50-hours-to-draw-some-lines.html",
-    "title": "50 Hours to Draw Some Lines - Doug MacDowell"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://isaiprofitable.com/",
-    "title": "Is AI Profitable Yet?"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://audiomass.co/?multitrack=1",
-    "title": "AudioMass - Audio Editor"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://geohot.github.io//blog/jekyll/update/2026/05/24/the-eternal-sloptember.html",
-    "title": "The Eternal Sloptember | the singularity is nearer"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://airesistlist.org/",
-    "title": "AI Resist List"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://corrode.dev/learn/migration-guides/go-to-rust/",
-    "title": "Migrating from Go to Rust | corrode Rust Consulting"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.liberalcurrents.com/the-interracial-cuck-porn-theory-of-everything/",
-    "title": "The Interracial Cuck Porn Theory of Everything"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://kk.org/cooltools/book-freak-210-the-art-of-money-getting/",
-    "title": "Book Freak #210: The Art of Money Getting – Cool Tools"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://pluralistic.net/2026/05/26/the-ai-will-continue/",
-    "title": "Pluralistic: The AI bubble isn’t like the internet bubble (26 May 2026) – Pluralistic: Daily links from Cory Doctorow"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.merriam-webster.com/wordplay/the-hilarious-history-of-ok-okay",
-    "title": "The Hilarious History of 'OK' | Merriam-Webster"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://rothko.joonas.wtf/",
-    "title": "Current Rothko"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://lucumr.pocoo.org/2026/5/24/pi-oss/",
-    "title": "Building Pi With Pi | Armin Ronacher's Thoughts and Writings"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://kingbird.myphotos.cc/packing/squares_in_squares.html",
-    "title": "Squares in Squares"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://tenbluelinks.org/",
-    "title": "How to Turn Off AI Overview in Google and Set \"Web\" as Default"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://thefrontpage.dev/",
-    "title": "Hacker News front page as a newspaper"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://labor.dair-institute.org/",
-    "title": "Luddite Lab"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.wired.com/story/a-fundamental-principle-of-aeronautical-engineering-has-been-overturned/",
-    "title": "A Fundamental Principle of Aeronautical Engineering Has Been Overturned | WIRED"
   }
 ]
