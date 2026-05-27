@@ -1,6 +1,11 @@
 [
   {
     "source": "hn",
+    "url": "https://brgsk.xyz/agent-memory-anatomy/",
+    "title": "Agent Memory: An Anatomy"
+  },
+  {
+    "source": "hn",
     "url": "https://unsung.aresluna.org/a-few-interesting-modern-pixel-fonts/",
     "title": "A few interesting modern pixel fonts"
   },
@@ -11,23 +16,23 @@
   },
   {
     "source": "hn",
-    "url": "https://anselmschueler.com/blogposts/2025-c-pointers/",
-    "title": "C array types are weird"
-  },
-  {
-    "source": "hn",
     "url": "https://bcantrill.dtrace.org/2026/05/25/a-portentous-reunion/",
     "title": "A portentous reunion"
   },
   {
     "source": "hn",
-    "url": "https://www.oliverio.dev/blog/the-worst-job-interview-i-had",
-    "title": "The worst job interview I ever had"
+    "url": "https://anselmschueler.com/blogposts/2025-c-pointers/",
+    "title": "C array types are weird"
   },
   {
     "source": "hn",
     "url": "https://www.thedrive.com/article/12603/the-forgotten-steinwinter-supercargo-is-unlike-anything-on-the-road-today",
     "title": "The Steinwinter Supercargo"
+  },
+  {
+    "source": "hn",
+    "url": "https://en.wikipedia.org/wiki/Liverpool_and_Manchester_Railway",
+    "title": "Liverpool and Manchester Railway"
   },
   {
     "source": "hn",
@@ -41,23 +46,18 @@
   },
   {
     "source": "hn",
-    "url": "https://retrogamecoders.com/overhead-camera-view/",
-    "title": "C64 Basic: Game Map Overhead “Camera View”"
-  },
-  {
-    "source": "hn",
     "url": "https://journal.stuffwithstuff.com/2015/02/01/what-color-is-your-function/",
     "title": "What color is your function? (2015)"
   },
   {
     "source": "hn",
-    "url": "https://dynip.dev/",
-    "title": "DynIP – Dynamic DNS with RFC 2136, IPv6, DNSSEC, and BYOD"
+    "url": "https://www.oliverio.dev/blog/the-worst-job-interview-i-had",
+    "title": "The worst job interview I ever had"
   },
   {
     "source": "hn",
-    "url": "https://rescueradar.co.uk/about",
-    "title": "RescueRadar – UK Emergency Services Flight Tracking Since 2013"
+    "url": "https://retrogamecoders.com/overhead-camera-view/",
+    "title": "C64 Basic: Game Map Overhead “Camera View”"
   },
   {
     "source": "hn",
@@ -66,28 +66,33 @@
   },
   {
     "source": "hn",
-    "url": "https://buffrr.dev/blog/are-we-self-sovereign-pki-yet/",
-    "title": "Are we self-sovereign PKI yet?"
-  },
-  {
-    "source": "hn",
     "url": "https://blog.glyph.im/2026/05/opaque-types-in-python.html",
     "title": "Opaque Types in Python"
   },
   {
     "source": "hn",
-    "url": "https://earthiongame.com/",
-    "title": "Earthion: A New Mega Drive-Style Shoot-Em-Up"
+    "url": "https://buffrr.dev/blog/are-we-self-sovereign-pki-yet/",
+    "title": "Are we self-sovereign PKI yet?"
   },
   {
     "source": "hn",
-    "url": "https://dynomight.net/crc-rates/",
-    "title": "Is \"colorectal cancer\" rising in \"young people\"?"
+    "url": "https://rescueradar.co.uk/about",
+    "title": "RescueRadar – UK Emergency Services Flight Tracking Since 2013"
   },
   {
     "source": "hn",
     "url": "https://shmuplations.com/phantasystariv/",
     "title": "Phantasy Star IV – 1993 Developer Interviews"
+  },
+  {
+    "source": "hn",
+    "url": "https://pscanf.com/s/354/",
+    "title": "The user is visibly frustrated"
+  },
+  {
+    "source": "hn",
+    "url": "https://dynomight.net/crc-rates/",
+    "title": "Is \"colorectal cancer\" rising in \"young people\"?"
   },
   {
     "source": "lobsters",
@@ -111,13 +116,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://nolanlawson.com/2026/05/25/using-ai-to-write-better-code-more-slowly/",
-    "title": "Using AI to write better code more slowly"
+    "url": "https://readable-css.freedomtowrite.org/",
+    "title": "readable.css"
   },
   {
     "source": "lobsters",
-    "url": "https://readable-css.freedomtowrite.org/",
-    "title": "readable.css"
+    "url": "https://nolanlawson.com/2026/05/25/using-ai-to-write-better-code-more-slowly/",
+    "title": "Using AI to write better code more slowly"
   },
   {
     "source": "lobsters",
@@ -151,18 +156,18 @@
   },
   {
     "source": "lobsters",
-    "url": "https://cedardb.com/blog/doombench/",
-    "title": "Introducing DoomBench - Can Your Data Stack Run DOOM?"
-  },
-  {
-    "source": "lobsters",
     "url": "https://tailscale.com/blog/bill-c22-canada",
     "title": "Canada’s Bill C-22 and the security cost of collecting more data"
   },
   {
     "source": "lobsters",
-    "url": "https://blog.rapidflare.ai/blog/temporal-ingestion-pipeline-part1/",
-    "title": "Building a Scalable Ingestion Pipeline with Temporal (Part 1)"
+    "url": "https://cedardb.com/blog/doombench/",
+    "title": "Introducing DoomBench - Can Your Data Stack Run DOOM?"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://agent-trace.dev/",
+    "title": "Agent Trace RFC"
   },
   {
     "source": "lobsters",
@@ -171,8 +176,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://pscanf.com/s/354/",
-    "title": "The User Is Visibly Frustrated"
+    "url": "https://blog.rapidflare.ai/blog/temporal-ingestion-pipeline-part1/",
+    "title": "Building a Scalable Ingestion Pipeline with Temporal (Part 1)"
   },
   {
     "source": "lobsters",
@@ -180,13 +185,93 @@
     "title": "Splitting Konsole views from Helix to run tools"
   },
   {
-    "source": "lobsters",
-    "url": "https://okmij.org/ftp/Algorithms/map-monoid-reduce.html",
-    "title": "Folding in Parallel"
+    "source": "pinboard",
+    "url": "https://isaiprofitable.com/",
+    "title": "Is AI Profitable Yet?"
   },
   {
-    "source": "lobsters",
-    "url": "https://blog.mempko.com/the-open-closed-problem-in-ai/",
-    "title": "The Open/Closed Problem in AI"
+    "source": "pinboard",
+    "url": "https://trek.epicrandomness.com/",
+    "title": "Star Trek Title Card Generator"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.dougmacdowell.com/50-hours-to-draw-some-lines.html",
+    "title": "50 Hours to Draw Some Lines - Doug MacDowell"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://audiomass.co/?multitrack=1",
+    "title": "AudioMass - Audio Editor"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.liberalcurrents.com/the-interracial-cuck-porn-theory-of-everything/",
+    "title": "The Interracial Cuck Porn Theory of Everything"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://geohot.github.io//blog/jekyll/update/2026/05/24/the-eternal-sloptember.html",
+    "title": "The Eternal Sloptember | the singularity is nearer"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://airesistlist.org/",
+    "title": "AI Resist List"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://corrode.dev/learn/migration-guides/go-to-rust/",
+    "title": "Migrating from Go to Rust | corrode Rust Consulting"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://kk.org/cooltools/book-freak-210-the-art-of-money-getting/",
+    "title": "Book Freak #210: The Art of Money Getting – Cool Tools"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://lucumr.pocoo.org/2026/5/24/pi-oss/",
+    "title": "Building Pi With Pi | Armin Ronacher's Thoughts and Writings"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://third-bit.com/2026/05/20/twelve-ways-to-be-wrong/",
+    "title": "The Third Bit: Twelve Ways to Be Wrong About AI-Assisted Coding"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://delphi.tools/",
+    "title": "delphitools"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.wired.com/story/a-fundamental-principle-of-aeronautical-engineering-has-been-overturned/",
+    "title": "A Fundamental Principle of Aeronautical Engineering Has Been Overturned | WIRED"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://seriot.ch/computation/jira.html",
+    "title": "Jira IS Turing-Complete"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.merriam-webster.com/wordplay/the-hilarious-history-of-ok-okay",
+    "title": "The Hilarious History of 'OK' | Merriam-Webster"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://aiengineeringfromscratch.com/",
+    "title": "AI Engineering from Scratch"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://labor.dair-institute.org/",
+    "title": "Luddite Lab"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.reenigne.org/blog/80386-microcode-disassembled/",
+    "title": "80386 microcode disassembled « Reenigne blog"
   }
 ]
