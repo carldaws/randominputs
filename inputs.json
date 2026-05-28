@@ -11,18 +11,8 @@
   },
   {
     "source": "hn",
-    "url": "https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/tron-legacy/",
-    "title": "Nitpicking the shell history scene in 'Tron: Legacy'"
-  },
-  {
-    "source": "hn",
-    "url": "https://justine.lol/animus/",
-    "title": "Social Animus"
-  },
-  {
-    "source": "hn",
-    "url": "https://bitburner-official.github.io/",
-    "title": "Bitburner, programming-based incremental game"
+    "url": "https://nick.winans.io/blog/nice-nano/",
+    "title": "I Made a Million Dollar Product from My Dorm Room (2025)"
   },
   {
     "source": "hn",
@@ -31,33 +21,18 @@
   },
   {
     "source": "hn",
-    "url": "https://llmgame.scalex.dev",
-    "title": "Show HN: Continue? Y/N: A 60-second game about AI agent permission fatigue"
-  },
-  {
-    "source": "hn",
     "url": "https://permanent-upper-crow.jasonwu.ink/",
     "title": "The Permanent Upper Crow"
   },
   {
     "source": "hn",
-    "url": "https://bookofjoe2.blogspot.com/2026/05/blog-post_27.html",
-    "title": "Separate the Cord from the Device"
+    "url": "https://llmgame.scalex.dev",
+    "title": "Show HN: Continue? Y/N: A 60-second game about AI agent permission fatigue"
   },
   {
     "source": "hn",
-    "url": "https://nick.winans.io/blog/nice-nano/",
-    "title": "I Made a Million Dollar Product from My Dorm Room (2025)"
-  },
-  {
-    "source": "hn",
-    "url": "https://taoofmac.com/space/blog/2026/05/26/1730",
-    "title": "Indoor Wi-Fi Roaming with OpenWRT"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.carryology.com/insights/carry-culture/the-tale-of-the-worlds-most-unlikely-school-bag/",
-    "title": "The Most Unlikely School Bag"
+    "url": "https://bitburner-official.github.io/",
+    "title": "Bitburner, programming-based incremental game"
   },
   {
     "source": "hn",
@@ -66,13 +41,33 @@
   },
   {
     "source": "hn",
-    "url": "https://fortune.com/2026/05/26/sam-altman-dario-amodei-walking-back-ai-jobs-apocalypse-prophecies-ipo/",
-    "title": "Sam Altman and Dario Amodei are both walking back AI jobs apocalypse predictions"
+    "url": "https://www.carryology.com/insights/carry-culture/the-tale-of-the-worlds-most-unlikely-school-bag/",
+    "title": "The Most Unlikely School Bag"
+  },
+  {
+    "source": "hn",
+    "url": "https://taoofmac.com/space/blog/2026/05/26/1730",
+    "title": "Indoor Wi-Fi Roaming with OpenWRT"
   },
   {
     "source": "hn",
     "url": "https://www.matheusmoreira.com/articles/lone-lisp-heap",
     "title": "The Lone Lisp Heap"
+  },
+  {
+    "source": "hn",
+    "url": "https://bookofjoe2.blogspot.com/2026/05/blog-post_27.html",
+    "title": "Separate the Cord from the Device"
+  },
+  {
+    "source": "hn",
+    "url": "https://blog.rust-lang.org/2026/05/28/Rust-1.96.0/",
+    "title": "Announcing Rust 1.96"
+  },
+  {
+    "source": "hn",
+    "url": "https://fortune.com/2026/05/26/sam-altman-dario-amodei-walking-back-ai-jobs-apocalypse-prophecies-ipo/",
+    "title": "Sam Altman and Dario Amodei are both walking back AI jobs apocalypse predictions"
   },
   {
     "source": "hn",
@@ -88,11 +83,6 @@
     "source": "lobsters",
     "url": "https://sourcehut.org/blog/2026-05-28-whats-cooking-q2-2026/",
     "title": "What's cooking on SourceHut? Q2 2026"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://blog.rust-lang.org/2026/05/28/Rust-1.96.0/",
-    "title": "Announcing Rust 1.96.0"
   },
   {
     "source": "lobsters",
@@ -136,13 +126,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://martinsos.com/posts/may-recommend-emacs-home-base",
-    "title": "May I recommend thinking of Emacs as your Fortress of Solitude"
+    "url": "https://andreyor.st/posts/2026-04-27-clojure-on-fennel-part-three-parsing/",
+    "title": "Clojure on Fennel part three: parsing"
   },
   {
     "source": "lobsters",
-    "url": "https://andreyor.st/posts/2026-04-27-clojure-on-fennel-part-three-parsing/",
-    "title": "Clojure on Fennel part three: parsing"
+    "url": "https://martinsos.com/posts/may-recommend-emacs-home-base",
+    "title": "May I recommend thinking of Emacs as your Fortress of Solitude"
   },
   {
     "source": "lobsters",
