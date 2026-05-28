@@ -1,11 +1,6 @@
 [
   {
     "source": "hn",
-    "url": "https://mlsu.io/posts/day-off/",
-    "title": "Can we have the day off?"
-  },
-  {
-    "source": "hn",
     "url": "https://blog.youtube/news-and-events/improving-ai-labels-viewers-creators/",
     "title": "YouTube to automatically label AI-generated videos"
   },
@@ -16,23 +11,18 @@
   },
   {
     "source": "hn",
-    "url": "https://www.thran.uk/writ/hdid/2025/12/simcity-3k-in-4k.html",
-    "title": "SimCity 3k in 4k (2025)"
-  },
-  {
-    "source": "hn",
     "url": "https://rajveerbachkaniwala.com/blog/2026/05/24/on-the-difficulty-of-pasting-a-picture/",
     "title": "Why Ctrl+V won't paste images in Claude Code on WSL, with a fix"
   },
   {
     "source": "hn",
-    "url": "https://imaginarytext.ca/posts/2025/typst-templates-for-pandoc/",
-    "title": "A New Typst Template for Pandoc"
+    "url": "https://www.thran.uk/writ/hdid/2025/12/simcity-3k-in-4k.html",
+    "title": "SimCity 3k in 4k (2025)"
   },
   {
     "source": "hn",
-    "url": "https://sverre.me/blog/rust-on-kindle/",
-    "title": "Rust (and Slint) on a Jailbroken Kindle"
+    "url": "https://drobinin.com/posts/am-i-a-bad-friend/",
+    "title": "I analysed 20 years of my chats"
   },
   {
     "source": "hn",
@@ -46,8 +36,33 @@
   },
   {
     "source": "hn",
+    "url": "https://mlsu.io/posts/day-off/",
+    "title": "Can we have the day off?"
+  },
+  {
+    "source": "hn",
+    "url": "https://sverre.me/blog/rust-on-kindle/",
+    "title": "Rust (and Slint) on a Jailbroken Kindle"
+  },
+  {
+    "source": "hn",
+    "url": "https://imaginarytext.ca/posts/2025/typst-templates-for-pandoc/",
+    "title": "A New Typst Template for Pandoc (2025)"
+  },
+  {
+    "source": "hn",
+    "url": "https://alexanderbjoy.com/horse-race-board-game/",
+    "title": "My new obsession: A horse-racing board game of pure luck"
+  },
+  {
+    "source": "hn",
     "url": "https://mmapped.blog/posts/51-interleaved-deltas",
     "title": "Interleaved Deltas"
+  },
+  {
+    "source": "hn",
+    "url": "https://z3ugma.github.io/2019/11/18/warm-up-your-macbook/",
+    "title": "Warm up your MacBook (2019)"
   },
   {
     "source": "hn",
@@ -56,33 +71,18 @@
   },
   {
     "source": "hn",
+    "url": "https://retrogamecoders.com/zero-lines-maze/",
+    "title": "Zero Lines Maze: What the 8-Bit Guy's One-Liner Can Still Teach Us"
+  },
+  {
+    "source": "hn",
     "url": "https://miniscript.org/MiniMicro/index.html#about",
     "title": "Mini Micro Fantasy Computer"
   },
   {
     "source": "hn",
-    "url": "https://2earth.github.io/website/20260525.html",
-    "title": "On Labubu and the Hyperreal"
-  },
-  {
-    "source": "hn",
-    "url": "https://borretti.me/article/human-bottlenecks",
-    "title": "Human Bottlenecks"
-  },
-  {
-    "source": "hn",
     "url": "https://www.elodin.systems/post/elodin-ai-grand-prix-race-sim-harness",
     "title": "Show HN: Open-Source AI Racing Harness"
-  },
-  {
-    "source": "hn",
-    "url": "https://rubbishtalk.com/economy/how-private-equity-bought-americas-essential-services/",
-    "title": "Private equity bought America's essential services"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.servethehome.com/what-is-a-direct-attach-copper-dac-cable/",
-    "title": "What Is a Direct Attach Copper (DAC) Cable? (2021)"
   },
   {
     "source": "lobsters",
@@ -126,18 +126,23 @@
   },
   {
     "source": "lobsters",
-    "url": "https://zamundaaa.github.io/wayland/2026/05/06/making-wl-shm-fast.html",
-    "title": "Making wl_shm fast"
-  },
-  {
-    "source": "lobsters",
     "url": "https://www.joshwcomeau.com/animation/css-vs-javascript/",
     "title": "CSS vs. JavaScript"
   },
   {
     "source": "lobsters",
+    "url": "https://zamundaaa.github.io/wayland/2026/05/06/making-wl-shm-fast.html",
+    "title": "Making wl_shm fast"
+  },
+  {
+    "source": "lobsters",
     "url": "https://edu4rdshl.dev/posts/rethinking-the-gnome-clipboard-issues/",
     "title": "Rethinking the GNOME clipboard issues"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://uecker.codeberg.page/2026-01-06.html",
+    "title": "Using GCC's Nested Functions with Wide Pointers and no Trampolines"
   },
   {
     "source": "lobsters",
@@ -148,115 +153,5 @@
     "source": "lobsters",
     "url": "https://dubroy.com/blog/fast-is-better-than-slow/",
     "title": "Fast is better than slow"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://uecker.codeberg.page/2026-01-06.html",
-    "title": "Using GCC's Nested Functions with Wide Pointers and no Trampolines"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://www.chiply.dev/post-emacs-space-tree",
-    "title": "space-tree: Workspace Management Trees in Emacs"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.dougmacdowell.com/50-hours-to-draw-some-lines.html",
-    "title": "50 Hours to Draw Some Lines - Doug MacDowell"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://isaiprofitable.com/",
-    "title": "Is AI Profitable Yet?"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://nolanlawson.com/2026/05/25/using-ai-to-write-better-code-more-slowly/",
-    "title": "Using AI to write better code more slowly | Read the Tea Leaves"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://audiomass.co/?multitrack=1",
-    "title": "AudioMass - Audio Editor"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://geohot.github.io//blog/jekyll/update/2026/05/24/the-eternal-sloptember.html",
-    "title": "The Eternal Sloptember | the singularity is nearer"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://unsung.aresluna.org/a-few-interesting-modern-pixel-fonts/",
-    "title": "A few interesting modern pixel fonts – Unsung"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://airesistlist.org/",
-    "title": "AI Resist List"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://corrode.dev/learn/migration-guides/go-to-rust/",
-    "title": "Migrating from Go to Rust | corrode Rust Consulting"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.liberalcurrents.com/the-interracial-cuck-porn-theory-of-everything/",
-    "title": "The Interracial Cuck Porn Theory of Everything"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://kk.org/cooltools/book-freak-210-the-art-of-money-getting/",
-    "title": "Book Freak #210: The Art of Money Getting – Cool Tools"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://pluralistic.net/2026/05/26/the-ai-will-continue/",
-    "title": "Pluralistic: The AI bubble isn’t like the internet bubble (26 May 2026) – Pluralistic: Daily links from Cory Doctorow"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.merriam-webster.com/wordplay/the-hilarious-history-of-ok-okay",
-    "title": "The Hilarious History of 'OK' | Merriam-Webster"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://lemon.rip/w/6-c-extensions-compilers/",
-    "title": "On C extensions, portability, and alternative compilers"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://rothko.joonas.wtf/",
-    "title": "Current Rothko"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://lucumr.pocoo.org/2026/5/24/pi-oss/",
-    "title": "Building Pi With Pi | Armin Ronacher's Thoughts and Writings"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://kingbird.myphotos.cc/packing/squares_in_squares.html",
-    "title": "Squares in Squares"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://tenbluelinks.org/",
-    "title": "How to Turn Off AI Overview in Google and Set \"Web\" as Default"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://thefrontpage.dev/",
-    "title": "Hacker News front page as a newspaper"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://labor.dair-institute.org/",
-    "title": "Luddite Lab"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.wired.com/story/a-fundamental-principle-of-aeronautical-engineering-has-been-overturned/",
-    "title": "A Fundamental Principle of Aeronautical Engineering Has Been Overturned | WIRED"
   }
 ]
