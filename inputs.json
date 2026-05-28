@@ -1,6 +1,11 @@
 [
   {
     "source": "hn",
+    "url": "https://mlsu.io/posts/day-off/",
+    "title": "Can we have the day off?"
+  },
+  {
+    "source": "hn",
     "url": "https://blog.youtube/news-and-events/improving-ai-labels-viewers-creators/",
     "title": "YouTube to automatically label AI-generated videos"
   },
@@ -16,23 +21,13 @@
   },
   {
     "source": "hn",
+    "url": "https://imaginarytext.ca/posts/2025/typst-templates-for-pandoc/",
+    "title": "A New Typst Template for Pandoc"
+  },
+  {
+    "source": "hn",
     "url": "https://sverre.me/blog/rust-on-kindle/",
     "title": "Rust (and Slint) on a Jailbroken Kindle"
-  },
-  {
-    "source": "hn",
-    "url": "https://z3ugma.github.io/2019/11/18/warm-up-your-macbook/",
-    "title": "Warm up your MacBook (2019)"
-  },
-  {
-    "source": "hn",
-    "url": "https://2earth.github.io/website/20260525.html",
-    "title": "On Labubu and the Hyperreal"
-  },
-  {
-    "source": "hn",
-    "url": "https://mmapped.blog/posts/51-interleaved-deltas",
-    "title": "Interleaved Deltas"
   },
   {
     "source": "hn",
@@ -41,8 +36,18 @@
   },
   {
     "source": "hn",
-    "url": "https://www.mendral.com/blog/you-should-not-update",
-    "title": "You Should Not Update Your Dependencies"
+    "url": "https://mmapped.blog/posts/51-interleaved-deltas",
+    "title": "Interleaved Deltas"
+  },
+  {
+    "source": "hn",
+    "url": "https://randsinrepose.com/archives/the-ask/",
+    "title": "The Ask"
+  },
+  {
+    "source": "hn",
+    "url": "https://2earth.github.io/website/20260525.html",
+    "title": "On Labubu and the Hyperreal"
   },
   {
     "source": "hn",
@@ -51,23 +56,13 @@
   },
   {
     "source": "hn",
-    "url": "https://miniscript.org/MiniMicro/index.html#about",
-    "title": "Mini Micro Fantasy Computer"
-  },
-  {
-    "source": "hn",
     "url": "https://arps18.github.io/posts/claude-code-mastery/",
     "title": "Claude Code as a Daily Driver: Claude.md, Skills, Subagents, Plugins, and MCPs"
   },
   {
     "source": "hn",
-    "url": "https://www.elodin.systems/post/elodin-ai-grand-prix-race-sim-harness",
-    "title": "Show HN: Open-Source AI Racing Harness"
-  },
-  {
-    "source": "hn",
-    "url": "https://tracesofhumanity.org/freediving-embodiment-and-humanity/",
-    "title": "Freediving, Embodiment and Humanity"
+    "url": "https://miniscript.org/MiniMicro/index.html#about",
+    "title": "Mini Micro Fantasy Computer"
   },
   {
     "source": "hn",
@@ -76,13 +71,18 @@
   },
   {
     "source": "hn",
-    "url": "https://rubbishtalk.com/economy/how-private-equity-bought-americas-essential-services/",
-    "title": "Private equity bought America's essential services"
+    "url": "https://tracesofhumanity.org/freediving-embodiment-and-humanity/",
+    "title": "Freediving, Embodiment and Humanity"
   },
   {
     "source": "hn",
     "url": "https://borretti.me/article/human-bottlenecks",
     "title": "Human Bottlenecks"
+  },
+  {
+    "source": "hn",
+    "url": "https://rubbishtalk.com/economy/how-private-equity-bought-americas-essential-services/",
+    "title": "Private equity bought America's essential services"
   },
   {
     "source": "lobsters",
@@ -106,6 +106,11 @@
   },
   {
     "source": "lobsters",
+    "url": "https://cel.cs.brown.edu/csci-1377-s26/",
+    "title": "CSCI 1377: Tools for Thought (Spring 2026)"
+  },
+  {
+    "source": "lobsters",
     "url": "https://ziglang.org/devlog/2026/#2026-05-26",
     "title": "Build System Reworked"
   },
@@ -116,6 +121,11 @@
   },
   {
     "source": "lobsters",
+    "url": "https://www.joshwcomeau.com/animation/css-vs-javascript/",
+    "title": "CSS vs. JavaScript"
+  },
+  {
+    "source": "lobsters",
     "url": "https://padhye.org/raft-minority/",
     "title": "Raft Consensus with a Minority of Nodes"
   },
@@ -123,11 +133,6 @@
     "source": "lobsters",
     "url": "https://edu4rdshl.dev/posts/rethinking-the-gnome-clipboard-issues/",
     "title": "Rethinking the GNOME clipboard issues"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://www.joshwcomeau.com/animation/css-vs-javascript/",
-    "title": "CSS vs. JavaScript"
   },
   {
     "source": "lobsters",
@@ -146,11 +151,6 @@
   },
   {
     "source": "lobsters",
-    "url": "https://cel.cs.brown.edu/csci-1377-s26/",
-    "title": "CSCI 1377: Tools for Thought (Spring 2026)"
-  },
-  {
-    "source": "lobsters",
     "url": "https://www.chiply.dev/post-emacs-space-tree",
     "title": "space-tree: Workspace Management Trees in Emacs"
   },
@@ -158,11 +158,6 @@
     "source": "lobsters",
     "url": "https://readable-css.freedomtowrite.org/",
     "title": "readable.css"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://runxiyu.org/comp/shallowbundle/",
-    "title": "Converting shallow Git bundles into normal repositories"
   },
   {
     "source": "pinboard",
