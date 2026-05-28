@@ -36,6 +36,16 @@
   },
   {
     "source": "hn",
+    "url": "https://www.jonaharagon.com/posts/im-getting-into-mesh-networks-meshtastic-meshcore-and-reticulum/",
+    "title": "I'm Getting into Mesh Networks (Meshtastic, MeshCore, and Reticulum)"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.mendral.com/blog/you-should-not-update",
+    "title": "You Should Not Update Your Dependencies"
+  },
+  {
+    "source": "hn",
     "url": "https://www.githubstatus.com/incidents/xy1tt3hs572m",
     "title": "Incident with Pull Requests, Issues, Git Operations and API Requests"
   },
@@ -51,13 +61,8 @@
   },
   {
     "source": "hn",
-    "url": "https://iot-devices.com.ua/en/ggreg20-v3-j305-tube-mounting-dimensions/",
-    "title": "Dimensions of Geiger-Muller tube holder on GGreg20_V3 Geiger counter PCB (2025)"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.jonaharagon.com/posts/im-getting-into-mesh-networks-meshtastic-meshcore-and-reticulum/",
-    "title": "I'm Getting into Mesh Networks (Meshtastic, MeshCore, and Reticulum)"
+    "url": "https://www.elodin.systems/post/elodin-ai-grand-prix-race-sim-harness",
+    "title": "Show HN: Open-Source AI Racing Harness"
   },
   {
     "source": "hn",
@@ -66,18 +71,13 @@
   },
   {
     "source": "hn",
-    "url": "https://rubbishtalk.com/economy/how-private-equity-bought-americas-essential-services/",
-    "title": "Private equity bought America's essential services"
-  },
-  {
-    "source": "hn",
     "url": "https://www.servethehome.com/what-is-a-direct-attach-copper-dac-cable/",
     "title": "What Is a Direct Attach Copper (DAC) Cable? (2021)"
   },
   {
     "source": "hn",
-    "url": "https://ochagavia.nl/blog/fully-in-browser-container-builds/",
-    "title": "Fully in-browser container builds"
+    "url": "https://rubbishtalk.com/economy/how-private-equity-bought-americas-essential-services/",
+    "title": "Private equity bought America's essential services"
   },
   {
     "source": "hn",
@@ -131,6 +131,11 @@
   },
   {
     "source": "lobsters",
+    "url": "https://zamundaaa.github.io/wayland/2026/05/06/making-wl-shm-fast.html",
+    "title": "Making wl_shm fast"
+  },
+  {
+    "source": "lobsters",
     "url": "https://melatonin.dev/additive-synth-comic/what-is-a-harmonic/",
     "title": "What is a harmonic? An interactive comic about additive synthesis"
   },
@@ -141,8 +146,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://zamundaaa.github.io/wayland/2026/05/06/making-wl-shm-fast.html",
-    "title": "Making wl_shm fast"
+    "url": "https://cel.cs.brown.edu/csci-1377-s26/",
+    "title": "CSCI 1377: Tools for Thought (Spring 2026)"
   },
   {
     "source": "lobsters",
@@ -160,13 +165,103 @@
     "title": "Converting shallow Git bundles into normal repositories"
   },
   {
-    "source": "lobsters",
-    "url": "https://neugierig.org/software/blog/2026/05/theseus-wasm.html",
-    "title": "Theseus: translating win32 to wasm"
+    "source": "pinboard",
+    "url": "https://www.dougmacdowell.com/50-hours-to-draw-some-lines.html",
+    "title": "50 Hours to Draw Some Lines - Doug MacDowell"
   },
   {
-    "source": "lobsters",
-    "url": "https://pfandrade.me/blog/mac-assed-swiftui-app/",
-    "title": "Using SwiftUI to Build a Mac-assed App in 2026"
+    "source": "pinboard",
+    "url": "https://isaiprofitable.com/",
+    "title": "Is AI Profitable Yet?"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://nolanlawson.com/2026/05/25/using-ai-to-write-better-code-more-slowly/",
+    "title": "Using AI to write better code more slowly | Read the Tea Leaves"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://audiomass.co/?multitrack=1",
+    "title": "AudioMass - Audio Editor"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://geohot.github.io//blog/jekyll/update/2026/05/24/the-eternal-sloptember.html",
+    "title": "The Eternal Sloptember | the singularity is nearer"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://unsung.aresluna.org/a-few-interesting-modern-pixel-fonts/",
+    "title": "A few interesting modern pixel fonts – Unsung"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://airesistlist.org/",
+    "title": "AI Resist List"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://corrode.dev/learn/migration-guides/go-to-rust/",
+    "title": "Migrating from Go to Rust | corrode Rust Consulting"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.liberalcurrents.com/the-interracial-cuck-porn-theory-of-everything/",
+    "title": "The Interracial Cuck Porn Theory of Everything"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://kk.org/cooltools/book-freak-210-the-art-of-money-getting/",
+    "title": "Book Freak #210: The Art of Money Getting – Cool Tools"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://pluralistic.net/2026/05/26/the-ai-will-continue/",
+    "title": "Pluralistic: The AI bubble isn’t like the internet bubble (26 May 2026) – Pluralistic: Daily links from Cory Doctorow"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.merriam-webster.com/wordplay/the-hilarious-history-of-ok-okay",
+    "title": "The Hilarious History of 'OK' | Merriam-Webster"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://lemon.rip/w/6-c-extensions-compilers/",
+    "title": "On C extensions, portability, and alternative compilers"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://rothko.joonas.wtf/",
+    "title": "Current Rothko"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://lucumr.pocoo.org/2026/5/24/pi-oss/",
+    "title": "Building Pi With Pi | Armin Ronacher's Thoughts and Writings"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://kingbird.myphotos.cc/packing/squares_in_squares.html",
+    "title": "Squares in Squares"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://tenbluelinks.org/",
+    "title": "How to Turn Off AI Overview in Google and Set \"Web\" as Default"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://thefrontpage.dev/",
+    "title": "Hacker News front page as a newspaper"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://labor.dair-institute.org/",
+    "title": "Luddite Lab"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.wired.com/story/a-fundamental-principle-of-aeronautical-engineering-has-been-overturned/",
+    "title": "A Fundamental Principle of Aeronautical Engineering Has Been Overturned | WIRED"
   }
 ]
