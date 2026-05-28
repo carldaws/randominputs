@@ -31,13 +31,23 @@
   },
   {
     "source": "hn",
+    "url": "https://www.jeremykun.com/shortform/2026-05-22-1528/",
+    "title": "More Whimsical OEIS Sequences"
+  },
+  {
+    "source": "hn",
+    "url": "https://tanin.nanakorn.com/ruby-java-typescrip-claude-docx-plugin/",
+    "title": "Ruby vs. Java vs. TypeScript: my experience on building a Cowork DOCX plugin"
+  },
+  {
+    "source": "hn",
     "url": "https://randsinrepose.com/archives/the-ask/",
     "title": "The Ask"
   },
   {
     "source": "hn",
-    "url": "https://www.jeremykun.com/shortform/2026-05-22-1528/",
-    "title": "More Whimsical OEIS Sequences"
+    "url": "https://yogthos.net/posts/2026-05-24-libwce.html",
+    "title": "Libwce: The entropy layer of a wavelet codec, on its own"
   },
   {
     "source": "hn",
@@ -46,8 +56,8 @@
   },
   {
     "source": "hn",
-    "url": "https://imaginarytext.ca/posts/2025/typst-templates-for-pandoc/",
-    "title": "A New Typst Template for Pandoc (2025)"
+    "url": "https://z3ugma.github.io/2019/11/18/warm-up-your-macbook/",
+    "title": "Warm up your MacBook (2019)"
   },
   {
     "source": "hn",
@@ -56,28 +66,8 @@
   },
   {
     "source": "hn",
-    "url": "https://z3ugma.github.io/2019/11/18/warm-up-your-macbook/",
-    "title": "Warm up your MacBook (2019)"
-  },
-  {
-    "source": "hn",
-    "url": "https://retrogamecoders.com/zero-lines-maze/",
-    "title": "Zero Lines Maze: What the 8-Bit Guy's One-Liner Can Still Teach Us"
-  },
-  {
-    "source": "hn",
-    "url": "https://miniscript.org/MiniMicro/index.html#about",
-    "title": "Mini Micro Fantasy Computer"
-  },
-  {
-    "source": "hn",
-    "url": "https://alexanderbjoy.com/horse-race-board-game/",
-    "title": "My new obsession: A horse-racing board game of pure luck"
-  },
-  {
-    "source": "hn",
-    "url": "https://mlsu.io/posts/day-off/",
-    "title": "Can we have the day off?"
+    "url": "https://imaginarytext.ca/posts/2025/typst-templates-for-pandoc/",
+    "title": "A New Typst Template for Pandoc (2025)"
   },
   {
     "source": "lobsters",
@@ -86,8 +76,18 @@
   },
   {
     "source": "lobsters",
+    "url": "https://sourcehut.org/blog/2026-05-28-whats-cooking-q2-2026/",
+    "title": "What's cooking on SourceHut? Q2 2026"
+  },
+  {
+    "source": "lobsters",
     "url": "https://martinsos.com/posts/may-recommend-emacs-home-base",
     "title": "May I recommend thinking of Emacs as your Fortress of Solitude"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/tron-legacy/",
+    "title": "Nitpicking the shell history scene in ‘Tron: Legacy’"
   },
   {
     "source": "lobsters",
@@ -140,8 +140,88 @@
     "title": "Raft Consensus with a Minority of Nodes"
   },
   {
-    "source": "lobsters",
-    "url": "https://akselmo.dev/posts/stop-advertising-in-your-commits/",
-    "title": "Stop advertising in your commits"
+    "source": "pinboard",
+    "url": "https://arps18.github.io/posts/claude-code-mastery/",
+    "title": "Beyond the Prompt: Claude Code | Arpan Patel"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://unsung.aresluna.org/a-few-interesting-modern-pixel-fonts/",
+    "title": "A few interesting modern pixel fonts – Unsung"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://nolanlawson.com/2026/05/25/using-ai-to-write-better-code-more-slowly/",
+    "title": "Using AI to write better code more slowly | Read the Tea Leaves"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://isaiprofitable.com/",
+    "title": "Is AI Profitable Yet?"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.dougmacdowell.com/50-hours-to-draw-some-lines.html",
+    "title": "50 Hours to Draw Some Lines - Doug MacDowell"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://geohot.github.io//blog/jekyll/update/2026/05/24/the-eternal-sloptember.html",
+    "title": "The Eternal Sloptember | the singularity is nearer"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://rubbishtalk.com/economy/how-private-equity-bought-americas-essential-services/",
+    "title": "How Private Equity Bought America’s Essential Services | Rubbish Talk"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://pluralistic.net/2026/05/26/the-ai-will-continue/",
+    "title": "Pluralistic: The AI bubble isn’t like the internet bubble (26 May 2026) – Pluralistic: Daily links from Cory Doctorow"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://rothko.joonas.wtf/",
+    "title": "Current Rothko"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://lemon.rip/w/6-c-extensions-compilers/",
+    "title": "On C extensions, portability, and alternative compilers"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.liberalcurrents.com/the-interracial-cuck-porn-theory-of-everything/",
+    "title": "The Interracial Cuck Porn Theory of Everything"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://thefrontpage.dev/",
+    "title": "Hacker News front page as a newspaper"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://noslopgrenade.com/",
+    "title": "no slop grenade"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.merriam-webster.com/wordplay/the-hilarious-history-of-ok-okay",
+    "title": "The Hilarious History of 'OK' | Merriam-Webster"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://dynip.dev/",
+    "title": "DynIP — Dynamic DNS for homelabs and infrastructure"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://kingbird.myphotos.cc/packing/squares_in_squares.html",
+    "title": "Squares in Squares"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://audiomass.co/?multitrack=1",
+    "title": "AudioMass - Audio Editor"
   }
 ]
