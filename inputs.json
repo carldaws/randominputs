@@ -6,18 +6,23 @@
   },
   {
     "source": "hn",
-    "url": "https://hallucinate.site",
-    "title": "Hallucinate – Massively Multiplayer Online Rave"
-  },
-  {
-    "source": "hn",
     "url": "https://drobinin.com/posts/am-i-a-bad-friend/",
     "title": "I analysed 20 years of my chats"
   },
   {
     "source": "hn",
+    "url": "https://hallucinate.site",
+    "title": "Hallucinate – Massively Multiplayer Online Rave"
+  },
+  {
+    "source": "hn",
     "url": "https://simonwillison.net/2026/May/27/product-market-fit/",
     "title": "I think Anthropic and OpenAI have found product-market fit"
+  },
+  {
+    "source": "hn",
+    "url": "https://almartis.xyz/gpu-free-datacenter.html",
+    "title": "AI Datacenters Were Built for GPUs. What Happens When You Remove the GPUs?"
   },
   {
     "source": "hn",
@@ -36,11 +41,6 @@
   },
   {
     "source": "hn",
-    "url": "https://hey.paris/posts/leo-sprite-alignment/",
-    "title": "Our 2D game character grew 3% taller every time he walked"
-  },
-  {
-    "source": "hn",
     "url": "https://sverre.me/blog/rust-on-kindle/",
     "title": "Rust (and Slint) on a Jailbroken Kindle"
   },
@@ -48,6 +48,16 @@
     "source": "hn",
     "url": "https://imaginarytext.ca/posts/2025/typst-templates-for-pandoc/",
     "title": "A New Typst Template for Pandoc (2025)"
+  },
+  {
+    "source": "hn",
+    "url": "https://z3ugma.github.io/2019/11/18/warm-up-your-macbook/",
+    "title": "Warm up your MacBook (2019)"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.githubstatus.com/incidents/xy1tt3hs572m",
+    "title": "Incident with Pull Requests, Issues, Git Operations and API Requests"
   },
   {
     "source": "hn",
@@ -61,28 +71,18 @@
   },
   {
     "source": "hn",
-    "url": "https://www.githubstatus.com/incidents/xy1tt3hs572m",
-    "title": "Incident with Pull Requests, Issues, Git Operations and API Requests"
-  },
-  {
-    "source": "hn",
     "url": "https://alexanderbjoy.com/horse-race-board-game/",
     "title": "My new obsession: A horse-racing board game of pure luck"
   },
   {
     "source": "hn",
-    "url": "https://z3ugma.github.io/2019/11/18/warm-up-your-macbook/",
-    "title": "Warm up your MacBook (2019)"
+    "url": "https://miniscript.org/MiniMicro/index.html#about",
+    "title": "Mini Micro Fantasy Computer"
   },
   {
     "source": "hn",
     "url": "https://mmapped.blog/posts/51-interleaved-deltas",
     "title": "Interleaved Deltas"
-  },
-  {
-    "source": "hn",
-    "url": "https://miniscript.org/MiniMicro/index.html#about",
-    "title": "Mini Micro Fantasy Computer"
   },
   {
     "source": "lobsters",
@@ -101,8 +101,18 @@
   },
   {
     "source": "lobsters",
+    "url": "https://andreyor.st/posts/2026-04-27-clojure-on-fennel-part-three-parsing/",
+    "title": "Clojure on Fennel part three: parsing"
+  },
+  {
+    "source": "lobsters",
     "url": "https://railsatscale.com/2026-05-27-a-new-register-allocator-for-zjit/",
     "title": "A new register allocator for ZJIT"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://uecker.codeberg.page/2026-01-06.html",
+    "title": "Using GCC's Nested Functions with Wide Pointers and no Trampolines"
   },
   {
     "source": "lobsters",
@@ -111,13 +121,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://ziglang.org/devlog/2026/#2026-05-26",
-    "title": "Build System Reworked"
+    "url": "https://zamundaaa.github.io/wayland/2026/05/06/making-wl-shm-fast.html",
+    "title": "Making wl_shm fast"
   },
   {
     "source": "lobsters",
-    "url": "https://zamundaaa.github.io/wayland/2026/05/06/making-wl-shm-fast.html",
-    "title": "Making wl_shm fast"
+    "url": "https://ziglang.org/devlog/2026/#2026-05-26",
+    "title": "Build System Reworked"
   },
   {
     "source": "lobsters",
@@ -136,18 +146,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://uecker.codeberg.page/2026-01-06.html",
-    "title": "Using GCC's Nested Functions with Wide Pointers and no Trampolines"
-  },
-  {
-    "source": "lobsters",
     "url": "https://edu4rdshl.dev/posts/rethinking-the-gnome-clipboard-issues/",
     "title": "Rethinking the GNOME clipboard issues"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://andreyor.st/posts/2026-04-27-clojure-on-fennel-part-three-parsing/",
-    "title": "Clojure on Fennel part three: parsing"
   },
   {
     "source": "lobsters",
