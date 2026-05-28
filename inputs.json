@@ -1,6 +1,21 @@
 [
   {
     "source": "hn",
+    "url": "https://www.dbos.dev/blog/postgres-is-all-you-need-for-durable-execution",
+    "title": "Just Use Postgres for Durable Workflows"
+  },
+  {
+    "source": "hn",
+    "url": "https://kristoff.it/blog/llms-at-zig-days/",
+    "title": "About LLMs at Zig Days"
+  },
+  {
+    "source": "hn",
+    "url": "https://permanent-upper-crow.jasonwu.ink/",
+    "title": "The Permanent Upper Crow"
+  },
+  {
+    "source": "hn",
     "url": "https://llmgame.scalex.dev",
     "title": "Show HN: Continue? Y/N: A 60-second game about AI agent permission fatigue"
   },
@@ -11,18 +26,8 @@
   },
   {
     "source": "hn",
-    "url": "https://permanent-upper-crow.jasonwu.ink/",
-    "title": "The Permanent Upper Crow"
-  },
-  {
-    "source": "hn",
-    "url": "https://blog.youtube/news-and-events/improving-ai-labels-viewers-creators/",
-    "title": "YouTube to automatically label AI-generated videos"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.dbos.dev/blog/postgres-is-all-you-need-for-durable-execution",
-    "title": "Just Use Postgres for Durable Workflows"
+    "url": "https://bitburner-official.github.io/",
+    "title": "Bitburner, programming-based incremental game"
   },
   {
     "source": "hn",
@@ -31,13 +36,18 @@
   },
   {
     "source": "hn",
-    "url": "https://kristoff.it/blog/llms-at-zig-days/",
-    "title": "About LLMs at Zig Days"
+    "url": "https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/tron-legacy/",
+    "title": "Nitpicking the shell history scene in 'Tron: Legacy'"
   },
   {
     "source": "hn",
-    "url": "https://askthepilot.com/boston-and-bermuda/",
-    "title": "Boston and Bermuda"
+    "url": "https://www.carryology.com/insights/carry-culture/the-tale-of-the-worlds-most-unlikely-school-bag/",
+    "title": "The Most Unlikely School Bag"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.matheusmoreira.com/articles/lone-lisp-heap",
+    "title": "The Lone Lisp Heap"
   },
   {
     "source": "hn",
@@ -46,8 +56,13 @@
   },
   {
     "source": "hn",
-    "url": "https://webframp.com/posts/you-were-never-declaring-state/",
-    "title": "You Were Never Declaring State. You Were Observing by Hand"
+    "url": "https://askthepilot.com/boston-and-bermuda/",
+    "title": "Boston and Bermuda"
+  },
+  {
+    "source": "hn",
+    "url": "https://blog.youtube/news-and-events/improving-ai-labels-viewers-creators/",
+    "title": "YouTube to automatically label AI-generated videos"
   },
   {
     "source": "hn",
@@ -56,28 +71,8 @@
   },
   {
     "source": "hn",
-    "url": "https://www.sfgate.com/tech/article/new-google-ai-22279112.php",
-    "title": "Google Hates You"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.jonaharagon.com/posts/im-getting-into-mesh-networks-meshtastic-meshcore-and-reticulum/",
-    "title": "I'm Getting into Mesh Networks (Meshtastic, MeshCore, and Reticulum)"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.thran.uk/writ/hdid/2025/12/simcity-3k-in-4k.html",
-    "title": "SimCity 3k in 4k (2025)"
-  },
-  {
-    "source": "hn",
-    "url": "https://pluralistic.net/2026/05/28/we-live-in-a-society/",
-    "title": "Hold on for Dear Life"
-  },
-  {
-    "source": "hn",
-    "url": "https://memalign.github.io/m/taptoypia/index.html",
-    "title": "Show HN: TapToyPia"
+    "url": "https://tanin.nanakorn.com/ruby-java-typescrip-claude-docx-plugin/",
+    "title": "Ruby vs. Java vs. TypeScript: my experience on building a Cowork DOCX plugin"
   },
   {
     "source": "lobsters",
@@ -88,11 +83,6 @@
     "source": "lobsters",
     "url": "https://sourcehut.org/blog/2026-05-28-whats-cooking-q2-2026/",
     "title": "What's cooking on SourceHut? Q2 2026"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/tron-legacy/",
-    "title": "Nitpicking the shell history scene in ‘Tron: Legacy’"
   },
   {
     "source": "lobsters",
@@ -111,13 +101,18 @@
   },
   {
     "source": "lobsters",
-    "url": "https://cel.cs.brown.edu/csci-1377-s26/",
-    "title": "CSCI 1377: Tools for Thought (Spring 2026)"
+    "url": "https://nesbitt.io/2026/05/28/protestware-for-coding-agents.html",
+    "title": "Protestware for coding agents"
   },
   {
     "source": "lobsters",
-    "url": "https://nesbitt.io/2026/05/28/protestware-for-coding-agents.html",
-    "title": "Protestware for coding agents"
+    "url": "https://blog.rust-lang.org/2026/05/28/Rust-1.96.0/",
+    "title": "Announcing Rust 1.96.0"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://cel.cs.brown.edu/csci-1377-s26/",
+    "title": "CSCI 1377: Tools for Thought (Spring 2026)"
   },
   {
     "source": "lobsters",
@@ -148,100 +143,5 @@
     "source": "lobsters",
     "url": "https://omidmash.de/blog/concerning-emacs",
     "title": "Concerning Emacs (and Jazz)"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://leoniemonigatti.com/blog/agentic-search-for-context-engineering.html",
-    "title": "Agentic Search for Context Engineering"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://arps18.github.io/posts/claude-code-mastery/",
-    "title": "Beyond the Prompt: Claude Code | Arpan Patel"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://unsung.aresluna.org/a-few-interesting-modern-pixel-fonts/",
-    "title": "A few interesting modern pixel fonts – Unsung"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://nolanlawson.com/2026/05/25/using-ai-to-write-better-code-more-slowly/",
-    "title": "Using AI to write better code more slowly | Read the Tea Leaves"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://isaiprofitable.com/",
-    "title": "Is AI Profitable Yet?"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.dougmacdowell.com/50-hours-to-draw-some-lines.html",
-    "title": "50 Hours to Draw Some Lines - Doug MacDowell"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://geohot.github.io//blog/jekyll/update/2026/05/24/the-eternal-sloptember.html",
-    "title": "The Eternal Sloptember | the singularity is nearer"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://rubbishtalk.com/economy/how-private-equity-bought-americas-essential-services/",
-    "title": "How Private Equity Bought America’s Essential Services | Rubbish Talk"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://pluralistic.net/2026/05/26/the-ai-will-continue/",
-    "title": "Pluralistic: The AI bubble isn’t like the internet bubble (26 May 2026) – Pluralistic: Daily links from Cory Doctorow"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://rothko.joonas.wtf/",
-    "title": "Current Rothko"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://lemon.rip/w/6-c-extensions-compilers/",
-    "title": "On C extensions, portability, and alternative compilers"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.liberalcurrents.com/the-interracial-cuck-porn-theory-of-everything/",
-    "title": "The Interracial Cuck Porn Theory of Everything"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://simonwillison.net/2026/May/27/product-market-fit/",
-    "title": "I think Anthropic and OpenAI have found product-market fit"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://thefrontpage.dev/",
-    "title": "Hacker News front page as a newspaper"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://noslopgrenade.com/",
-    "title": "no slop grenade"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.merriam-webster.com/wordplay/the-hilarious-history-of-ok-okay",
-    "title": "The Hilarious History of 'OK' | Merriam-Webster"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://dynip.dev/",
-    "title": "DynIP — Dynamic DNS for homelabs and infrastructure"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://kingbird.myphotos.cc/packing/squares_in_squares.html",
-    "title": "Squares in Squares"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://audiomass.co/?multitrack=1",
-    "title": "AudioMass - Audio Editor"
   }
 ]
