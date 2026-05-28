@@ -6,23 +6,8 @@
   },
   {
     "source": "hn",
-    "url": "https://kristoff.it/blog/llms-at-zig-days/",
-    "title": "About LLMs at Zig Days"
-  },
-  {
-    "source": "hn",
-    "url": "https://permanent-upper-crow.jasonwu.ink/",
-    "title": "The Permanent Upper Crow"
-  },
-  {
-    "source": "hn",
-    "url": "https://llmgame.scalex.dev",
-    "title": "Show HN: Continue? Y/N: A 60-second game about AI agent permission fatigue"
-  },
-  {
-    "source": "hn",
-    "url": "https://taoofmac.com/space/blog/2026/05/26/1730",
-    "title": "Indoor Wi-Fi Roaming with OpenWRT"
+    "url": "https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/tron-legacy/",
+    "title": "Nitpicking the shell history scene in 'Tron: Legacy'"
   },
   {
     "source": "hn",
@@ -36,13 +21,43 @@
   },
   {
     "source": "hn",
-    "url": "https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/tron-legacy/",
-    "title": "Nitpicking the shell history scene in 'Tron: Legacy'"
+    "url": "https://llmgame.scalex.dev",
+    "title": "Show HN: Continue? Y/N: A 60-second game about AI agent permission fatigue"
+  },
+  {
+    "source": "hn",
+    "url": "https://permanent-upper-crow.jasonwu.ink/",
+    "title": "The Permanent Upper Crow"
   },
   {
     "source": "hn",
     "url": "https://www.carryology.com/insights/carry-culture/the-tale-of-the-worlds-most-unlikely-school-bag/",
     "title": "The Most Unlikely School Bag"
+  },
+  {
+    "source": "hn",
+    "url": "https://justine.lol/animus/",
+    "title": "Social Animus"
+  },
+  {
+    "source": "hn",
+    "url": "https://bookofjoe2.blogspot.com/2026/05/blog-post_27.html",
+    "title": "Separate the Cord from the Device"
+  },
+  {
+    "source": "hn",
+    "url": "https://taoofmac.com/space/blog/2026/05/26/1730",
+    "title": "Indoor Wi-Fi Roaming with OpenWRT"
+  },
+  {
+    "source": "hn",
+    "url": "https://fortune.com/2026/05/26/sam-altman-dario-amodei-walking-back-ai-jobs-apocalypse-prophecies-ipo/",
+    "title": "Sam Altman and Dario Amodei are both walking back AI jobs apocalypse predictions"
+  },
+  {
+    "source": "hn",
+    "url": "https://shvbsle.in/various-llm-smells/",
+    "title": "Various LLM Smells"
   },
   {
     "source": "hn",
@@ -56,11 +71,6 @@
   },
   {
     "source": "hn",
-    "url": "https://askthepilot.com/boston-and-bermuda/",
-    "title": "Boston and Bermuda"
-  },
-  {
-    "source": "hn",
     "url": "https://blog.youtube/news-and-events/improving-ai-labels-viewers-creators/",
     "title": "YouTube to automatically label AI-generated videos"
   },
@@ -68,11 +78,6 @@
     "source": "hn",
     "url": "https://www.elodin.systems/post/elodin-ai-grand-prix-race-sim-harness",
     "title": "Show HN: Open-Source AI Racing Harness"
-  },
-  {
-    "source": "hn",
-    "url": "https://tanin.nanakorn.com/ruby-java-typescrip-claude-docx-plugin/",
-    "title": "Ruby vs. Java vs. TypeScript: my experience on building a Cowork DOCX plugin"
   },
   {
     "source": "lobsters",
@@ -86,6 +91,11 @@
   },
   {
     "source": "lobsters",
+    "url": "https://blog.rust-lang.org/2026/05/28/Rust-1.96.0/",
+    "title": "Announcing Rust 1.96.0"
+  },
+  {
+    "source": "lobsters",
     "url": "https://bennypowers.dev/posts/GNOME-2-web/",
     "title": "GNOME 2.20 but its Web Components"
   },
@@ -96,18 +106,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://nesbitt.io/2026/05/28/package-managers-that-package-package-managers.html",
-    "title": "Package managers that package package managers"
-  },
-  {
-    "source": "lobsters",
     "url": "https://nesbitt.io/2026/05/28/protestware-for-coding-agents.html",
     "title": "Protestware for coding agents"
   },
   {
     "source": "lobsters",
-    "url": "https://blog.rust-lang.org/2026/05/28/Rust-1.96.0/",
-    "title": "Announcing Rust 1.96.0"
+    "url": "https://nesbitt.io/2026/05/28/package-managers-that-package-package-managers.html",
+    "title": "Package managers that package package managers"
   },
   {
     "source": "lobsters",
@@ -116,13 +121,18 @@
   },
   {
     "source": "lobsters",
+    "url": "https://sverre.me/blog/rust-on-kindle/",
+    "title": "Rust (and Slint) on a jailbroken Kindle"
+  },
+  {
+    "source": "lobsters",
     "url": "https://martinsos.com/posts/may-recommend-emacs-home-base",
     "title": "May I recommend thinking of Emacs as your Fortress of Solitude"
   },
   {
     "source": "lobsters",
-    "url": "https://sverre.me/blog/rust-on-kindle/",
-    "title": "Rust (and Slint) on a jailbroken Kindle"
+    "url": "https://omidmash.de/blog/concerning-emacs",
+    "title": "Concerning Emacs (and Jazz)"
   },
   {
     "source": "lobsters",
@@ -140,8 +150,93 @@
     "title": "A brief note about slot access cost in Common Lisp"
   },
   {
-    "source": "lobsters",
-    "url": "https://omidmash.de/blog/concerning-emacs",
-    "title": "Concerning Emacs (and Jazz)"
+    "source": "pinboard",
+    "url": "https://arps18.github.io/posts/claude-code-mastery/",
+    "title": "Beyond the Prompt: Claude Code | Arpan Patel"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://unsung.aresluna.org/a-few-interesting-modern-pixel-fonts/",
+    "title": "A few interesting modern pixel fonts – Unsung"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://nolanlawson.com/2026/05/25/using-ai-to-write-better-code-more-slowly/",
+    "title": "Using AI to write better code more slowly | Read the Tea Leaves"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://isaiprofitable.com/",
+    "title": "Is AI Profitable Yet?"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.dougmacdowell.com/50-hours-to-draw-some-lines.html",
+    "title": "50 Hours to Draw Some Lines - Doug MacDowell"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://geohot.github.io//blog/jekyll/update/2026/05/24/the-eternal-sloptember.html",
+    "title": "The Eternal Sloptember | the singularity is nearer"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://rubbishtalk.com/economy/how-private-equity-bought-americas-essential-services/",
+    "title": "How Private Equity Bought America’s Essential Services | Rubbish Talk"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://pluralistic.net/2026/05/26/the-ai-will-continue/",
+    "title": "Pluralistic: The AI bubble isn’t like the internet bubble (26 May 2026) – Pluralistic: Daily links from Cory Doctorow"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://rothko.joonas.wtf/",
+    "title": "Current Rothko"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://lemon.rip/w/6-c-extensions-compilers/",
+    "title": "On C extensions, portability, and alternative compilers"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.liberalcurrents.com/the-interracial-cuck-porn-theory-of-everything/",
+    "title": "The Interracial Cuck Porn Theory of Everything"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://simonwillison.net/2026/May/27/product-market-fit/",
+    "title": "I think Anthropic and OpenAI have found product-market fit"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://thefrontpage.dev/",
+    "title": "Hacker News front page as a newspaper"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://noslopgrenade.com/",
+    "title": "no slop grenade"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.merriam-webster.com/wordplay/the-hilarious-history-of-ok-okay",
+    "title": "The Hilarious History of 'OK' | Merriam-Webster"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://dynip.dev/",
+    "title": "DynIP — Dynamic DNS for homelabs and infrastructure"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://kingbird.myphotos.cc/packing/squares_in_squares.html",
+    "title": "Squares in Squares"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://audiomass.co/?multitrack=1",
+    "title": "AudioMass - Audio Editor"
   }
 ]
