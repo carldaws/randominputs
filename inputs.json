@@ -1,18 +1,28 @@
 [
   {
     "source": "hn",
+    "url": "https://futuresearch.ai/blog/agi-timeline-tracker/",
+    "title": "How long until AI automates all cognitive labor?"
+  },
+  {
+    "source": "hn",
     "url": "https://blog.youtube/news-and-events/improving-ai-labels-viewers-creators/",
     "title": "YouTube to automatically label AI-generated videos"
   },
   {
     "source": "hn",
-    "url": "https://drobinin.com/posts/am-i-a-bad-friend/",
-    "title": "I analysed 20 years of my chats"
+    "url": "https://simonwillison.net/2026/May/27/product-market-fit/",
+    "title": "I think Anthropic and OpenAI have found product-market fit"
   },
   {
     "source": "hn",
-    "url": "https://simonwillison.net/2026/May/27/product-market-fit/",
-    "title": "I think Anthropic and OpenAI have found product-market fit"
+    "url": "https://taoofmac.com/space/blog/2026/05/26/1730",
+    "title": "Indoor Wi-Fi Roaming with OpenWRT"
+  },
+  {
+    "source": "hn",
+    "url": "https://tanin.nanakorn.com/ruby-java-typescrip-claude-docx-plugin/",
+    "title": "Ruby vs. Java vs. TypeScript: my experience on building a Cowork DOCX plugin"
   },
   {
     "source": "hn",
@@ -31,13 +41,13 @@
   },
   {
     "source": "hn",
-    "url": "https://www.jeremykun.com/shortform/2026-05-22-1528/",
-    "title": "More Whimsical OEIS Sequences"
+    "url": "https://www.core77.com/posts/143823/Nendos-Wonderful-Toru-an-Electric-Kettle-for-Alessi",
+    "title": "Nendo's Wonderful Toru, an Electric Kettle for Alessi"
   },
   {
     "source": "hn",
-    "url": "https://tanin.nanakorn.com/ruby-java-typescrip-claude-docx-plugin/",
-    "title": "Ruby vs. Java vs. TypeScript: my experience on building a Cowork DOCX plugin"
+    "url": "https://www.jeremykun.com/shortform/2026-05-22-1528/",
+    "title": "More Whimsical OEIS Sequences"
   },
   {
     "source": "hn",
@@ -48,6 +58,11 @@
     "source": "hn",
     "url": "https://yogthos.net/posts/2026-05-24-libwce.html",
     "title": "Libwce: The entropy layer of a wavelet codec, on its own"
+  },
+  {
+    "source": "hn",
+    "url": "https://drobinin.com/posts/am-i-a-bad-friend/",
+    "title": "I analysed 20 years of my chats"
   },
   {
     "source": "hn",
@@ -65,11 +80,6 @@
     "title": "Incident with Pull Requests, Issues, Git Operations and API Requests"
   },
   {
-    "source": "hn",
-    "url": "https://imaginarytext.ca/posts/2025/typst-templates-for-pandoc/",
-    "title": "A New Typst Template for Pandoc (2025)"
-  },
-  {
     "source": "lobsters",
     "url": "https://blogs.gentoo.org/mgorny/2026/05/28/why-gentoo/",
     "title": "Why Gentoo?"
@@ -81,18 +91,18 @@
   },
   {
     "source": "lobsters",
-    "url": "https://martinsos.com/posts/may-recommend-emacs-home-base",
-    "title": "May I recommend thinking of Emacs as your Fortress of Solitude"
-  },
-  {
-    "source": "lobsters",
     "url": "https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/tron-legacy/",
     "title": "Nitpicking the shell history scene in ‘Tron: Legacy’"
   },
   {
     "source": "lobsters",
-    "url": "https://turtleware.eu/posts/A-brief-note-about-slot-access-cost-in-Common-Lisp.html",
-    "title": "A brief note about slot access cost in Common Lisp"
+    "url": "https://nesbitt.io/2026/05/28/package-managers-that-package-package-managers.html",
+    "title": "Package managers that package package managers"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://martinsos.com/posts/may-recommend-emacs-home-base",
+    "title": "May I recommend thinking of Emacs as your Fortress of Solitude"
   },
   {
     "source": "lobsters",
@@ -101,13 +111,18 @@
   },
   {
     "source": "lobsters",
-    "url": "https://andreyor.st/posts/2026-04-27-clojure-on-fennel-part-three-parsing/",
-    "title": "Clojure on Fennel part three: parsing"
+    "url": "https://turtleware.eu/posts/A-brief-note-about-slot-access-cost-in-Common-Lisp.html",
+    "title": "A brief note about slot access cost in Common Lisp"
   },
   {
     "source": "lobsters",
     "url": "https://uecker.codeberg.page/2026-01-06.html",
     "title": "Using GCC's Nested Functions with Wide Pointers and no Trampolines"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://andreyor.st/posts/2026-04-27-clojure-on-fennel-part-three-parsing/",
+    "title": "Clojure on Fennel part three: parsing"
   },
   {
     "source": "lobsters",
@@ -121,107 +136,17 @@
   },
   {
     "source": "lobsters",
-    "url": "https://www.joshwcomeau.com/animation/css-vs-javascript/",
-    "title": "CSS vs. JavaScript"
-  },
-  {
-    "source": "lobsters",
     "url": "https://xkqr.org/bellwether/keyboardtest.html",
     "title": "Keyboard latency probe"
   },
   {
     "source": "lobsters",
-    "url": "https://ziglang.org/devlog/2026/#2026-05-26",
-    "title": "Build System Reworked"
+    "url": "https://www.joshwcomeau.com/animation/css-vs-javascript/",
+    "title": "CSS vs. JavaScript"
   },
   {
     "source": "lobsters",
-    "url": "https://padhye.org/raft-minority/",
-    "title": "Raft Consensus with a Minority of Nodes"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://arps18.github.io/posts/claude-code-mastery/",
-    "title": "Beyond the Prompt: Claude Code | Arpan Patel"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://unsung.aresluna.org/a-few-interesting-modern-pixel-fonts/",
-    "title": "A few interesting modern pixel fonts – Unsung"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://nolanlawson.com/2026/05/25/using-ai-to-write-better-code-more-slowly/",
-    "title": "Using AI to write better code more slowly | Read the Tea Leaves"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://isaiprofitable.com/",
-    "title": "Is AI Profitable Yet?"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.dougmacdowell.com/50-hours-to-draw-some-lines.html",
-    "title": "50 Hours to Draw Some Lines - Doug MacDowell"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://geohot.github.io//blog/jekyll/update/2026/05/24/the-eternal-sloptember.html",
-    "title": "The Eternal Sloptember | the singularity is nearer"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://rubbishtalk.com/economy/how-private-equity-bought-americas-essential-services/",
-    "title": "How Private Equity Bought America’s Essential Services | Rubbish Talk"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://pluralistic.net/2026/05/26/the-ai-will-continue/",
-    "title": "Pluralistic: The AI bubble isn’t like the internet bubble (26 May 2026) – Pluralistic: Daily links from Cory Doctorow"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://rothko.joonas.wtf/",
-    "title": "Current Rothko"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://lemon.rip/w/6-c-extensions-compilers/",
-    "title": "On C extensions, portability, and alternative compilers"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.liberalcurrents.com/the-interracial-cuck-porn-theory-of-everything/",
-    "title": "The Interracial Cuck Porn Theory of Everything"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://thefrontpage.dev/",
-    "title": "Hacker News front page as a newspaper"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://noslopgrenade.com/",
-    "title": "no slop grenade"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.merriam-webster.com/wordplay/the-hilarious-history-of-ok-okay",
-    "title": "The Hilarious History of 'OK' | Merriam-Webster"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://dynip.dev/",
-    "title": "DynIP — Dynamic DNS for homelabs and infrastructure"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://kingbird.myphotos.cc/packing/squares_in_squares.html",
-    "title": "Squares in Squares"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://audiomass.co/?multitrack=1",
-    "title": "AudioMass - Audio Editor"
+    "url": "https://ziglang.org/devlog/2026/#2026-05-26",
+    "title": "Build System Reworked"
   }
 ]
