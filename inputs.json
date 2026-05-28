@@ -1,18 +1,13 @@
 [
   {
     "source": "hn",
-    "url": "https://taoofmac.com/space/blog/2026/05/26/1730",
-    "title": "Indoor Wi-Fi Roaming with OpenWRT"
-  },
-  {
-    "source": "hn",
     "url": "https://llmgame.scalex.dev",
     "title": "Show HN: Continue? Y/N: A 60-second game about AI agent permission fatigue"
   },
   {
     "source": "hn",
-    "url": "https://blog.youtube/news-and-events/improving-ai-labels-viewers-creators/",
-    "title": "YouTube to automatically label AI-generated videos"
+    "url": "https://taoofmac.com/space/blog/2026/05/26/1730",
+    "title": "Indoor Wi-Fi Roaming with OpenWRT"
   },
   {
     "source": "hn",
@@ -21,8 +16,23 @@
   },
   {
     "source": "hn",
-    "url": "https://hallucinate.site",
-    "title": "Show HN: Hallucinate – Massively Multiplayer Online Rave"
+    "url": "https://blog.youtube/news-and-events/improving-ai-labels-viewers-creators/",
+    "title": "YouTube to automatically label AI-generated videos"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.dbos.dev/blog/postgres-is-all-you-need-for-durable-execution",
+    "title": "Just Use Postgres for Durable Workflows"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.jeffgeerling.com/blog/2026/news-about-raspberry-pi-6-and-microcontroller-development/",
+    "title": "News about Raspberry Pi 6 and Microcontroller Development"
+  },
+  {
+    "source": "hn",
+    "url": "https://kristoff.it/blog/llms-at-zig-days/",
+    "title": "About LLMs at Zig Days"
   },
   {
     "source": "hn",
@@ -31,8 +41,23 @@
   },
   {
     "source": "hn",
-    "url": "https://www.thran.uk/writ/hdid/2025/12/simcity-3k-in-4k.html",
-    "title": "SimCity 3k in 4k (2025)"
+    "url": "https://hallucinate.site",
+    "title": "Show HN: Hallucinate – Massively Multiplayer Online Rave"
+  },
+  {
+    "source": "hn",
+    "url": "https://webframp.com/posts/you-were-never-declaring-state/",
+    "title": "You Were Never Declaring State. You Were Observing by Hand"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.elodin.systems/post/elodin-ai-grand-prix-race-sim-harness",
+    "title": "Show HN: Open-Source AI Racing Harness"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.sfgate.com/tech/article/new-google-ai-22279112.php",
+    "title": "Google Hates You"
   },
   {
     "source": "hn",
@@ -41,28 +66,18 @@
   },
   {
     "source": "hn",
-    "url": "https://tanin.nanakorn.com/ruby-java-typescrip-claude-docx-plugin/",
-    "title": "Ruby vs. Java vs. TypeScript: my experience on building a Cowork DOCX plugin"
+    "url": "https://www.thran.uk/writ/hdid/2025/12/simcity-3k-in-4k.html",
+    "title": "SimCity 3k in 4k (2025)"
   },
   {
     "source": "hn",
-    "url": "https://www.jeremykun.com/shortform/2026-05-22-1528/",
-    "title": "More Whimsical OEIS Sequences"
+    "url": "https://pluralistic.net/2026/05/28/we-live-in-a-society/",
+    "title": "Hold on for Dear Life"
   },
   {
     "source": "hn",
-    "url": "https://randsinrepose.com/archives/the-ask/",
-    "title": "The Ask"
-  },
-  {
-    "source": "hn",
-    "url": "https://sverre.me/blog/rust-on-kindle/",
-    "title": "Rust (and Slint) on a Jailbroken Kindle"
-  },
-  {
-    "source": "hn",
-    "url": "https://yogthos.net/posts/2026-05-24-libwce.html",
-    "title": "Libwce: The entropy layer of a wavelet codec, on its own"
+    "url": "https://memalign.github.io/m/taptoypia/index.html",
+    "title": "Show HN: TapToyPia"
   },
   {
     "source": "lobsters",
@@ -81,6 +96,16 @@
   },
   {
     "source": "lobsters",
+    "url": "https://bennypowers.dev/posts/GNOME-2-web/",
+    "title": "GNOME 2.20 but its Web Components"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://tangled.org/akashina.tngl.sh/jjc",
+    "title": "jjc: Non-interactive hunk-level operations for Jujutsu"
+  },
+  {
+    "source": "lobsters",
     "url": "https://nesbitt.io/2026/05/28/package-managers-that-package-package-managers.html",
     "title": "Package managers that package package managers"
   },
@@ -91,8 +116,18 @@
   },
   {
     "source": "lobsters",
+    "url": "https://nesbitt.io/2026/05/28/protestware-for-coding-agents.html",
+    "title": "Protestware for coding agents"
+  },
+  {
+    "source": "lobsters",
     "url": "https://martinsos.com/posts/may-recommend-emacs-home-base",
     "title": "May I recommend thinking of Emacs as your Fortress of Solitude"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://sverre.me/blog/rust-on-kindle/",
+    "title": "Rust (and Slint) on a jailbroken Kindle"
   },
   {
     "source": "lobsters",
@@ -101,8 +136,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://tangled.org/akashina.tngl.sh/jjc",
-    "title": "jjc: Non-interactive hunk-level operations for Jujutsu"
+    "url": "https://uecker.codeberg.page/2026-01-06.html",
+    "title": "Using GCC's Nested Functions with Wide Pointers and no Trampolines"
   },
   {
     "source": "lobsters",
@@ -111,28 +146,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://uecker.codeberg.page/2026-01-06.html",
-    "title": "Using GCC's Nested Functions with Wide Pointers and no Trampolines"
-  },
-  {
-    "source": "lobsters",
     "url": "https://omidmash.de/blog/concerning-emacs",
     "title": "Concerning Emacs (and Jazz)"
   },
   {
     "source": "lobsters",
-    "url": "https://railsatscale.com/2026-05-27-a-new-register-allocator-for-zjit/",
-    "title": "A new register allocator for ZJIT"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://zamundaaa.github.io/wayland/2026/05/06/making-wl-shm-fast.html",
-    "title": "Making wl_shm fast"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://xkqr.org/bellwether/keyboardtest.html",
-    "title": "Keyboard latency probe"
+    "url": "https://leoniemonigatti.com/blog/agentic-search-for-context-engineering.html",
+    "title": "Agentic Search for Context Engineering"
   },
   {
     "source": "pinboard",
