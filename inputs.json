@@ -16,6 +16,11 @@
   },
   {
     "source": "hn",
+    "url": "https://dles.gg/blog/dles-gg-manifesto",
+    "title": "Why I collect DLES"
+  },
+  {
+    "source": "hn",
     "url": "https://rothko.joonas.wtf/",
     "title": "Rothko for your current weather conditions"
   },
@@ -26,13 +31,18 @@
   },
   {
     "source": "hn",
+    "url": "https://mastrojs.github.io/blog/2026-05-23-is-AI-causing-a-repeat-of-frontends-lost-decade/",
+    "title": "Is AI causing a repeat of frontend’s lost decade?"
+  },
+  {
+    "source": "hn",
     "url": "https://tvexplorer.live",
     "title": "Show HN: TV Explorer. Adding advanced UI to free online TV"
   },
   {
     "source": "hn",
-    "url": "https://dles.gg/blog/dles-gg-manifesto",
-    "title": "Why I collect DLES"
+    "url": "https://research.roundtable.ai/captchas-detect-ai/",
+    "title": "CAPTCHAs can still detect AI agents"
   },
   {
     "source": "hn",
@@ -41,13 +51,8 @@
   },
   {
     "source": "hn",
-    "url": "https://mastrojs.github.io/blog/2026-05-23-is-AI-causing-a-repeat-of-frontends-lost-decade/",
-    "title": "Is AI causing a repeat of frontend’s lost decade?"
-  },
-  {
-    "source": "hn",
-    "url": "https://research.roundtable.ai/captchas-detect-ai/",
-    "title": "CAPTCHAs can still detect AI agents"
+    "url": "https://www.theregister.com/security/2026/05/28/microsoft-0-day-feud-escalates-as-researcher-threatens-another-windows-exploit-dump/5248085",
+    "title": "Microsoft 0-day feud escalates as researcher threatens another exploit dump"
   },
   {
     "source": "hn",
@@ -66,13 +71,13 @@
   },
   {
     "source": "hn",
-    "url": "https://cblgh.org/posts/local-git-remotes/",
-    "title": "Local Git remotes"
+    "url": "https://andrej.sh/posts/phishing-through-my-open-source-project",
+    "title": "Someone used my open source project to phish people"
   },
   {
     "source": "hn",
-    "url": "https://andrej.sh/posts/phishing-through-my-open-source-project",
-    "title": "Someone used my open source project to phish people"
+    "url": "https://cblgh.org/posts/local-git-remotes/",
+    "title": "Local Git remotes"
   },
   {
     "source": "hn",
@@ -86,13 +91,8 @@
   },
   {
     "source": "hn",
-    "url": "https://giovannigatti.github.io/cve-bench/",
-    "title": "CVE-Bench: testing LLM agents on real-world vulnerability patches"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.theregister.com/security/2026/05/28/microsoft-0-day-feud-escalates-as-researcher-threatens-another-windows-exploit-dump/5248085",
-    "title": "Microsoft 0-day feud escalates as researcher threatens another exploit dump"
+    "url": "http://www.mrob.com/pub/math/numbers-19.html",
+    "title": "Notable Properties of Specific Numbers"
   },
   {
     "source": "lobsters",
@@ -111,8 +111,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://blog.rust-lang.org/2026/05/28/Rust-1.96.0/",
-    "title": "Announcing Rust 1.96.0"
+    "url": "https://lpcvoid.com/blog/0018_why_i_am_against_genai/index.html",
+    "title": "Why I am against GenAI and everything it stands for"
   },
   {
     "source": "lobsters",
@@ -121,8 +121,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://lpcvoid.com/blog/0018_why_i_am_against_genai/index.html",
-    "title": "Why I am against GenAI and everything it stands for"
+    "url": "https://blog.rust-lang.org/2026/05/28/Rust-1.96.0/",
+    "title": "Announcing Rust 1.96.0"
   },
   {
     "source": "lobsters",
@@ -146,13 +146,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://redvice.org/2026/lunacy/",
-    "title": "Lunacy - Lua 5.1 interpreter with Lazy Basic Block Versioning and JIT"
+    "url": "https://waspdev.com/articles/2026-05-11/avoid-using-cdata-in-rss",
+    "title": "Avoid using \"<![CDATA[ ... ]]>\" in RSS"
   },
   {
     "source": "lobsters",
-    "url": "https://waspdev.com/articles/2026-05-11/avoid-using-cdata-in-rss",
-    "title": "Avoid using \"<![CDATA[ ... ]]>\" in RSS"
+    "url": "https://redvice.org/2026/lunacy/",
+    "title": "Lunacy - Lua 5.1 interpreter with Lazy Basic Block Versioning and JIT"
   },
   {
     "source": "lobsters",
@@ -171,8 +171,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://bennypowers.dev/posts/GNOME-2-web/",
-    "title": "GNOME 2.20 but it's Web Components"
+    "url": "https://bernat.tech/posts/blanket-deterministic-threading/",
+    "title": "Deterministic Multithreaded Testing in Python with blanket"
   },
   {
     "source": "pinboard",
