@@ -11,8 +11,8 @@
   },
   {
     "source": "hn",
-    "url": "https://shvbsle.in/various-llm-smells/",
-    "title": "Various LLM Smells"
+    "url": "https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/tron-legacy/",
+    "title": "Nitpicking the shell history scene in 'Tron: Legacy'"
   },
   {
     "source": "hn",
@@ -26,13 +26,13 @@
   },
   {
     "source": "hn",
-    "url": "https://coalton-lang.github.io/",
-    "title": "Coalton is an efficient, statically typed Lisp with ideas from Haskell and OCaml"
+    "url": "https://llmgame.scalex.dev",
+    "title": "Show HN: Continue? Y/N: A 60-second game about AI agent permission fatigue"
   },
   {
     "source": "hn",
-    "url": "https://llmgame.scalex.dev",
-    "title": "Show HN: Continue? Y/N: A 60-second game about AI agent permission fatigue"
+    "url": "https://coalton-lang.github.io/",
+    "title": "Coalton is an efficient, statically typed Lisp with ideas from Haskell and OCaml"
   },
   {
     "source": "hn",
@@ -41,13 +41,13 @@
   },
   {
     "source": "hn",
-    "url": "https://www.carryology.com/insights/carry-culture/the-tale-of-the-worlds-most-unlikely-school-bag/",
-    "title": "The most unlikely school bag"
+    "url": "https://shvbsle.in/various-llm-smells/",
+    "title": "Various LLM Smells"
   },
   {
     "source": "hn",
-    "url": "https://bitburner-official.github.io/",
-    "title": "Bitburner, programming-based incremental game"
+    "url": "https://www.carryology.com/insights/carry-culture/the-tale-of-the-worlds-most-unlikely-school-bag/",
+    "title": "The most unlikely school bag"
   },
   {
     "source": "hn",
@@ -56,8 +56,8 @@
   },
   {
     "source": "hn",
-    "url": "https://nesbitt.io/2026/05/28/protestware-for-coding-agents.html",
-    "title": "Protestware for Coding Agents"
+    "url": "https://bitburner-official.github.io/",
+    "title": "Bitburner, programming-based incremental game"
   },
   {
     "source": "hn",
@@ -66,8 +66,18 @@
   },
   {
     "source": "hn",
+    "url": "https://minimaxir.com/2026/05/openrouter-hy3/",
+    "title": "The mysterious Hy3 LLM is topping OpenRouter Model Rankings by a large margin"
+  },
+  {
+    "source": "hn",
     "url": "https://taff.org.uk/ebooks.php?x=Micromania",
     "title": "Micromania: The Whole Truth about Home Computers (1984)"
+  },
+  {
+    "source": "hn",
+    "url": "https://blogs.gentoo.org/mgorny/2026/05/28/why-gentoo/",
+    "title": "Why Gentoo?"
   },
   {
     "source": "hn",
@@ -75,24 +85,14 @@
     "title": "The Lone Lisp Heap"
   },
   {
-    "source": "hn",
-    "url": "https://justine.lol/animus/",
-    "title": "Social Animus"
-  },
-  {
-    "source": "hn",
-    "url": "https://blog.youtube/news-and-events/improving-ai-labels-viewers-creators/",
-    "title": "YouTube to automatically label AI-generated videos"
-  },
-  {
-    "source": "hn",
+    "source": "lobsters",
     "url": "https://blog.rust-lang.org/2026/05/28/Rust-1.96.0/",
-    "title": "Announcing Rust 1.96"
+    "title": "Announcing Rust 1.96.0"
   },
   {
     "source": "lobsters",
-    "url": "https://blogs.gentoo.org/mgorny/2026/05/28/why-gentoo/",
-    "title": "Why Gentoo?"
+    "url": "https://nesbitt.io/2026/05/28/protestware-for-coding-agents.html",
+    "title": "Protestware for coding agents"
   },
   {
     "source": "lobsters",
@@ -126,6 +126,11 @@
   },
   {
     "source": "lobsters",
+    "url": "https://blog.tangled.org/ssh/",
+    "title": "tail CI logs over SSH"
+  },
+  {
+    "source": "lobsters",
     "url": "https://andreyor.st/posts/2026-04-27-clojure-on-fennel-part-three-parsing/",
     "title": "Clojure on Fennel part three: parsing"
   },
@@ -148,5 +153,95 @@
     "source": "lobsters",
     "url": "https://martinsos.com/posts/may-recommend-emacs-home-base",
     "title": "May I recommend thinking of Emacs as your Fortress of Solitude"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://arps18.github.io/posts/claude-code-mastery/",
+    "title": "Beyond the Prompt: Claude Code | Arpan Patel"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://unsung.aresluna.org/a-few-interesting-modern-pixel-fonts/",
+    "title": "A few interesting modern pixel fonts – Unsung"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://nolanlawson.com/2026/05/25/using-ai-to-write-better-code-more-slowly/",
+    "title": "Using AI to write better code more slowly | Read the Tea Leaves"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://isaiprofitable.com/",
+    "title": "Is AI Profitable Yet?"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.dougmacdowell.com/50-hours-to-draw-some-lines.html",
+    "title": "50 Hours to Draw Some Lines - Doug MacDowell"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://geohot.github.io//blog/jekyll/update/2026/05/24/the-eternal-sloptember.html",
+    "title": "The Eternal Sloptember | the singularity is nearer"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://rubbishtalk.com/economy/how-private-equity-bought-americas-essential-services/",
+    "title": "How Private Equity Bought America’s Essential Services | Rubbish Talk"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://pluralistic.net/2026/05/26/the-ai-will-continue/",
+    "title": "Pluralistic: The AI bubble isn’t like the internet bubble (26 May 2026) – Pluralistic: Daily links from Cory Doctorow"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://rothko.joonas.wtf/",
+    "title": "Current Rothko"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://lemon.rip/w/6-c-extensions-compilers/",
+    "title": "On C extensions, portability, and alternative compilers"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.liberalcurrents.com/the-interracial-cuck-porn-theory-of-everything/",
+    "title": "The Interracial Cuck Porn Theory of Everything"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://simonwillison.net/2026/May/27/product-market-fit/",
+    "title": "I think Anthropic and OpenAI have found product-market fit"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://thefrontpage.dev/",
+    "title": "Hacker News front page as a newspaper"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://noslopgrenade.com/",
+    "title": "no slop grenade"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.merriam-webster.com/wordplay/the-hilarious-history-of-ok-okay",
+    "title": "The Hilarious History of 'OK' | Merriam-Webster"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://dynip.dev/",
+    "title": "DynIP — Dynamic DNS for homelabs and infrastructure"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://kingbird.myphotos.cc/packing/squares_in_squares.html",
+    "title": "Squares in Squares"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://audiomass.co/?multitrack=1",
+    "title": "AudioMass - Audio Editor"
   }
 ]
