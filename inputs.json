@@ -2,7 +2,12 @@
   {
     "source": "hn",
     "url": "https://nick.winans.io/blog/nice-nano/",
-    "title": "I Made a Million Dollar Product from My Dorm Room (2025)"
+    "title": "I made a million dollar product from my dorm room (2025)"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.noaa.gov/jetstream/clouds/ten-basic-clouds",
+    "title": "Ten Basic Clouds"
   },
   {
     "source": "hn",
@@ -37,7 +42,7 @@
   {
     "source": "hn",
     "url": "https://www.carryology.com/insights/carry-culture/the-tale-of-the-worlds-most-unlikely-school-bag/",
-    "title": "The Most Unlikely School Bag"
+    "title": "The most unlikely school bag"
   },
   {
     "source": "hn",
@@ -51,6 +56,11 @@
   },
   {
     "source": "hn",
+    "url": "https://nesbitt.io/2026/05/28/protestware-for-coding-agents.html",
+    "title": "Protestware for Coding Agents"
+  },
+  {
+    "source": "hn",
     "url": "https://bookofjoe2.blogspot.com/2026/05/blog-post_27.html",
     "title": "Separate the Cord from the Device"
   },
@@ -61,18 +71,13 @@
   },
   {
     "source": "hn",
-    "url": "https://justine.lol/animus/",
-    "title": "Social Animus"
-  },
-  {
-    "source": "hn",
     "url": "https://www.matheusmoreira.com/articles/lone-lisp-heap",
     "title": "The Lone Lisp Heap"
   },
   {
     "source": "hn",
-    "url": "https://nesbitt.io/2026/05/28/protestware-for-coding-agents.html",
-    "title": "Protestware for Coding Agents"
+    "url": "https://justine.lol/animus/",
+    "title": "Social Animus"
   },
   {
     "source": "hn",
@@ -83,11 +88,6 @@
     "source": "hn",
     "url": "https://blog.rust-lang.org/2026/05/28/Rust-1.96.0/",
     "title": "Announcing Rust 1.96"
-  },
-  {
-    "source": "hn",
-    "url": "https://fortune.com/2026/05/26/sam-altman-dario-amodei-walking-back-ai-jobs-apocalypse-prophecies-ipo/",
-    "title": "Sam Altman and Dario Amodei are both walking back AI jobs apocalypse predictions"
   },
   {
     "source": "lobsters",
@@ -126,13 +126,18 @@
   },
   {
     "source": "lobsters",
-    "url": "https://omidmash.de/blog/concerning-emacs",
-    "title": "Concerning Emacs (and Jazz)"
+    "url": "https://andreyor.st/posts/2026-04-27-clojure-on-fennel-part-three-parsing/",
+    "title": "Clojure on Fennel part three: parsing"
   },
   {
     "source": "lobsters",
-    "url": "https://andreyor.st/posts/2026-04-27-clojure-on-fennel-part-three-parsing/",
-    "title": "Clojure on Fennel part three: parsing"
+    "url": "https://www.feistyduck.com/newsletter/issue_137_acme_caa__extensions_to_become_mandatory",
+    "title": "ACME CAA Extensions to Become Mandatory"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://omidmash.de/blog/concerning-emacs",
+    "title": "Concerning Emacs (and Jazz)"
   },
   {
     "source": "lobsters",
