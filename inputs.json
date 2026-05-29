@@ -1,13 +1,18 @@
 [
   {
     "source": "hn",
+    "url": "https://pierre.computer/writing/on-rendering-diffs",
+    "title": "On Rendering Diffs"
+  },
+  {
+    "source": "hn",
     "url": "https://www.inkandswitch.com/tangents/bijou64/",
     "title": "Bijou64: A variable-length integer encoding"
   },
   {
     "source": "hn",
-    "url": "https://rockstarintel.com/gta-6-developers-announce-rockstar-games-union/",
-    "title": "GTA 6 Developers Unionize"
+    "url": "https://rothko.joonas.wtf/",
+    "title": "Rothko for your current weather conditions"
   },
   {
     "source": "hn",
@@ -16,13 +21,8 @@
   },
   {
     "source": "hn",
-    "url": "https://commonedge.org/high-density-living-2000-years-ago-inside-the-roman-apartment-building/",
-    "title": "High Density Living, 2000 Years Ago: Inside the Roman Apartment Building"
-  },
-  {
-    "source": "hn",
-    "url": "https://openpath.quest/2026/i-am-retiring-from-tech-to-live-offline/",
-    "title": "I am retiring from tech to live offline"
+    "url": "https://rockstarintel.com/gta-6-developers-announce-rockstar-games-union/",
+    "title": "GTA 6 Developers Unionize"
   },
   {
     "source": "hn",
@@ -31,8 +31,43 @@
   },
   {
     "source": "hn",
+    "url": "https://tvexplorer.live",
+    "title": "Show HN: TV Explorer. Adding advanced UI to free online TV"
+  },
+  {
+    "source": "hn",
+    "url": "https://mastrojs.github.io/blog/2026-05-23-is-AI-causing-a-repeat-of-frontends-lost-decade/",
+    "title": "Is AI causing a repeat of frontend’s lost decade?"
+  },
+  {
+    "source": "hn",
+    "url": "https://wellsoc.org/society-member-pages/anecdotes-of-wellington/",
+    "title": "Letter from the Duke of Wellington to the British Foreign Office (1809)"
+  },
+  {
+    "source": "hn",
+    "url": "https://commonedge.org/high-density-living-2000-years-ago-inside-the-roman-apartment-building/",
+    "title": "High Density Living, 2000 Years Ago: Inside the Roman Apartment Building"
+  },
+  {
+    "source": "hn",
     "url": "https://vickiboykis.com/2026/05/28/we-should-be-more-tired-than-the-model/",
     "title": "We should be more tired than the model"
+  },
+  {
+    "source": "hn",
+    "url": "https://openpath.quest/2026/i-am-retiring-from-tech-to-live-offline/",
+    "title": "I am retiring from tech to live offline"
+  },
+  {
+    "source": "hn",
+    "url": "https://giovannigatti.github.io/cve-bench/",
+    "title": "CVE-Bench: testing LLM agents on real-world vulnerability patches"
+  },
+  {
+    "source": "hn",
+    "url": "https://cblgh.org/posts/local-git-remotes/",
+    "title": "Local Git remotes"
   },
   {
     "source": "hn",
@@ -51,63 +86,63 @@
   },
   {
     "source": "hn",
-    "url": "https://twitter.com/nasaspaceflight/status/2060164928472854821",
-    "title": "Blue Origin's New Glenn blows up during static fire test"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.404media.co/headway-therapy-facial-scan-biometric-data-identity-verification/",
-    "title": "Headway Therapy Patients Forced to Scan Their Faces to Keep Getting Care"
-  },
-  {
-    "source": "hn",
-    "url": "https://blog.cloudflare.com/ai-code-review/",
-    "title": "Orchestrating AI code review at scale"
-  },
-  {
-    "source": "hn",
-    "url": "https://tvexplorer.live",
-    "title": "Show HN: TV Explorer. Adding advanced UI to free online TV"
-  },
-  {
-    "source": "hn",
-    "url": "https://fabiensanglard.net/compile_like_1997/",
-    "title": "Let's compile Quake like it's 1997"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.core77.com/posts/143832/An-Obsessive-Focus-on-UX-Pilots-Pressure-Regulating-Kire-Na-Highlighter",
-    "title": "An Obsessive Focus on UX: Pilot's Pressure-Regulating Kire-Na Highlighter"
+    "url": "https://jamiehurst.co.uk/2026-05-24_ai-sustainable",
+    "title": "Is this sustainable?"
   },
   {
     "source": "lobsters",
-    "url": "https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/tron-legacy/",
-    "title": "Nitpicking the shell history scene in ‘Tron: Legacy’"
+    "url": "https://simonwillison.net/2026/May/27/sqlite-agents/",
+    "title": "SQLite Does Not Accept Agentic Code"
   },
   {
     "source": "lobsters",
-    "url": "https://the-nnn-stack.github.io",
-    "title": "NNN Stack: NixOS, Niri, Noctalia"
+    "url": "https://fzakaria.com/2026/05/23/leaving-performance-on-the-table",
+    "title": "Leaving performance on the table"
   },
   {
     "source": "lobsters",
-    "url": "https://tangled.org/akashina.tngl.sh/jjc",
-    "title": "jjc: Non-interactive hunk-level operations for Jujutsu"
+    "url": "https://nesbitt.io/2026/05/28/protestware-for-coding-agents.html",
+    "title": "Protestware for coding agents"
   },
   {
     "source": "lobsters",
-    "url": "https://earendil-works.github.io/absurd/",
-    "title": "Absurd is a Postgres-native durable workflow system"
+    "url": "https://blog.rust-lang.org/2026/05/28/Rust-1.96.0/",
+    "title": "Announcing Rust 1.96.0"
   },
   {
     "source": "lobsters",
-    "url": "https://worm-blossom.github.io/reed/",
-    "title": "Reed Specification or Better Prefix Authentication (2023)"
+    "url": "https://mforney.org/blog/2026-05-28-patching-my-guitar-amps-firmware.html",
+    "title": "Patching my guitar amp's firmware"
   },
   {
     "source": "lobsters",
-    "url": "https://utcc.utoronto.ca/~cks/space/blog/programming/GoLSPImpressiveCodeNavigation",
-    "title": "The Go language server can do some impressive code navigation"
+    "url": "https://blog.nlnetlabs.nl/one-year-of-roto-the-compiled-scripting-language-for-rust/",
+    "title": "One year of Roto, the compiled scripting language for Rust"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://blog.tangled.org/ssh/",
+    "title": "tail CI logs over SSH"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://blog.racket-lang.org/2026/05/racket-v9-2.html",
+    "title": "Racket v9.2"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://redvice.org/2026/lunacy/",
+    "title": "Lunacy - Lua 5.1 interpreter with Lazy Basic Block Versioning and JIT"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://blogs.gentoo.org/mgorny/2026/05/28/why-gentoo/",
+    "title": "Why Gentoo?"
+  },
+  {
+    "source": "lobsters",
+    "url": "http://cocoamine.net/blog/2015/03/20/replacing-photoshop-with-nsstring",
+    "title": "Replacing Photoshop With NSString (2015)"
   },
   {
     "source": "lobsters",
@@ -116,47 +151,107 @@
   },
   {
     "source": "lobsters",
-    "url": "https://nesbitt.io/2026/05/28/package-managers-that-package-package-managers.html",
-    "title": "Package managers that package package managers"
+    "url": "https://marcelotryle.com/blog/2026/05/28/cve-2026-48710-a-maintainers-perspective/",
+    "title": "CVE-2026-48710: A Maintainer's Perspective"
   },
   {
     "source": "lobsters",
-    "url": "https://www.feistyduck.com/newsletter/issue_137_acme_caa__extensions_to_become_mandatory",
-    "title": "ACME CAA Extensions to Become Mandatory"
+    "url": "https://waspdev.com/articles/2026-05-11/avoid-using-cdata-in-rss",
+    "title": "Avoid using \"<![CDATA[ ... ]]>\" in RSS"
   },
   {
     "source": "lobsters",
-    "url": "http://databasearchitects.blogspot.com/2016/08/equivalence-of-unicode-strings-is.html",
-    "title": "Equivalence of Unicode strings is strange (2016)"
+    "url": "https://the-nnn-stack.github.io",
+    "title": "NNN Stack: NixOS, Niri, Noctalia"
   },
   {
     "source": "lobsters",
-    "url": "https://blog.cryptographyengineering.com/2026/05/29/fooling-around-with-encrypted-reasoning-blobs/",
-    "title": "Fooling around with encrypted reasoning blobs"
+    "url": "http://databasearchitects.blogspot.com/2024/12/what-are-important-data-systems.html",
+    "title": "What are important data systems problems, ignored by research? (2024)"
   },
   {
-    "source": "lobsters",
-    "url": "https://linguacelta.com/blog/2026/05/LLMs.html",
-    "title": "The Community is the Achievement; the Achievement is the Community"
+    "source": "pinboard",
+    "url": "https://arps18.github.io/posts/claude-code-mastery/",
+    "title": "Beyond the Prompt: Claude Code | Arpan Patel"
   },
   {
-    "source": "lobsters",
-    "url": "https://blog.getutm.app/2026/introducing-neptune-direct3d-virtualization-for-qemu/",
-    "title": "Introducing Neptune: Direct3D virtualization for QEMU"
+    "source": "pinboard",
+    "url": "https://unsung.aresluna.org/a-few-interesting-modern-pixel-fonts/",
+    "title": "A few interesting modern pixel fonts – Unsung"
   },
   {
-    "source": "lobsters",
-    "url": "https://omidmash.de/blog/concerning-emacs",
-    "title": "Concerning Emacs (and Jazz)"
+    "source": "pinboard",
+    "url": "https://nooneshappy.com/article/appearing-productive-in-the-workplace/",
+    "title": "Appearing Productive in The Workplace — No One's Happy"
   },
   {
-    "source": "lobsters",
-    "url": "https://cel.cs.brown.edu/csci-1377-s26/",
-    "title": "CSCI 1377: Tools for Thought (Spring 2026)"
+    "source": "pinboard",
+    "url": "https://nolanlawson.com/2026/05/25/using-ai-to-write-better-code-more-slowly/",
+    "title": "Using AI to write better code more slowly | Read the Tea Leaves"
   },
   {
-    "source": "lobsters",
-    "url": "https://andreyor.st/posts/2026-04-27-clojure-on-fennel-part-three-parsing/",
-    "title": "Clojure on Fennel part three: parsing"
+    "source": "pinboard",
+    "url": "https://simonwillison.net/2026/May/27/product-market-fit/",
+    "title": "I think Anthropic and OpenAI have found product-market fit"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://rubbishtalk.com/economy/how-private-equity-bought-americas-essential-services/",
+    "title": "How Private Equity Bought America’s Essential Services | Rubbish Talk"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://pluralistic.net/2026/05/26/the-ai-will-continue/",
+    "title": "Pluralistic: The AI bubble isn’t like the internet bubble (26 May 2026) – Pluralistic: Daily links from Cory Doctorow"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.dougmacdowell.com/50-hours-to-draw-some-lines.html",
+    "title": "50 Hours to Draw Some Lines - Doug MacDowell"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://lucumr.pocoo.org/2026/5/26/clankers/",
+    "title": "Clanker: A Word For The Machine | Armin Ronacher's Thoughts and Writings"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://mlsu.io/posts/day-off/",
+    "title": "Can we have the day off?"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://thefrontpage.dev/",
+    "title": "Hacker News front page as a newspaper"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.jonaharagon.com/posts/im-getting-into-mesh-networks-meshtastic-meshcore-and-reticulum/",
+    "title": "I'm Getting Into Mesh Networks... (Meshtastic, MeshCore, and Reticulum)"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://isaiprofitable.com/",
+    "title": "Is AI Profitable Yet?"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://miniscript.org/MiniMicro/index.html#about",
+    "title": "Mini Micro"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://irisphotos.app/",
+    "title": "Iris Photos — A native macOS photo library"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://noslopgrenade.com/",
+    "title": "no slop grenade"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://drobinin.com/posts/am-i-a-bad-friend/",
+    "title": "1.2M Messages to Obsidian - Building a Relationship Map from 20 Years of Chat History"
   }
 ]
