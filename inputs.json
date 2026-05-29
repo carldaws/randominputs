@@ -6,6 +6,11 @@
   },
   {
     "source": "hn",
+    "url": "https://www.zot.sh",
+    "title": "Zot now supports Claude Opus 4.8"
+  },
+  {
+    "source": "hn",
     "url": "https://www.noaa.gov/jetstream/clouds/ten-basic-clouds",
     "title": "Ten Basic Clouds"
   },
@@ -16,18 +21,23 @@
   },
   {
     "source": "hn",
-    "url": "https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/tron-legacy/",
-    "title": "Nitpicking the shell history scene in 'Tron: Legacy'"
-  },
-  {
-    "source": "hn",
     "url": "https://minimaxir.com/2026/05/openrouter-hy3/",
     "title": "The mysterious Hy3 LLM is topping OpenRouter Model Rankings by a large margin"
   },
   {
     "source": "hn",
+    "url": "https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/tron-legacy/",
+    "title": "Nitpicking the shell history scene in 'Tron: Legacy'"
+  },
+  {
+    "source": "hn",
     "url": "https://llmgame.scalex.dev",
     "title": "Show HN: Continue? Y/N: A 60-second game about AI agent permission fatigue"
+  },
+  {
+    "source": "hn",
+    "url": "https://waspdev.com/articles/2026-05-11/avoid-using-cdata-in-rss",
+    "title": "Avoid Using \"< [Cdata[ ]]>\" in RSS"
   },
   {
     "source": "hn",
@@ -46,13 +56,13 @@
   },
   {
     "source": "hn",
-    "url": "https://www.newyorker.com/culture/the-weekend-essay/what-jack-kerouac-left-behind",
-    "title": "What Gets Kept"
+    "url": "https://permanent-upper-crow.jasonwu.ink/",
+    "title": "The Permanent Upper Crow"
   },
   {
     "source": "hn",
-    "url": "https://permanent-upper-crow.jasonwu.ink/",
-    "title": "The Permanent Upper Crow"
+    "url": "https://www.newyorker.com/culture/the-weekend-essay/what-jack-kerouac-left-behind",
+    "title": "What Gets Kept"
   },
   {
     "source": "hn",
@@ -66,92 +76,87 @@
   },
   {
     "source": "hn",
-    "url": "https://www.carryology.com/insights/carry-culture/the-tale-of-the-worlds-most-unlikely-school-bag/",
-    "title": "The most unlikely school bag"
-  },
-  {
-    "source": "hn",
     "url": "https://bitburner-official.github.io/",
     "title": "Bitburner, programming-based incremental game"
   },
   {
     "source": "lobsters",
-    "url": "https://sverre.me/blog/rust-on-kindle/",
-    "title": "Rust (and Slint) on a jailbroken Kindle"
+    "url": "https://nesbitt.io/2026/05/28/protestware-for-coding-agents.html",
+    "title": "Protestware for coding agents"
   },
   {
     "source": "lobsters",
-    "url": "https://martinsos.com/posts/may-recommend-emacs-home-base",
-    "title": "May I recommend thinking of Emacs as your Fortress of Solitude"
+    "url": "https://blog.rust-lang.org/2026/05/28/Rust-1.96.0/",
+    "title": "Announcing Rust 1.96.0"
   },
   {
     "source": "lobsters",
-    "url": "https://uecker.codeberg.page/2026-01-06.html",
-    "title": "Using GCC's Nested Functions with Wide Pointers and no Trampolines"
+    "url": "https://blogs.gentoo.org/mgorny/2026/05/28/why-gentoo/",
+    "title": "Why Gentoo?"
   },
   {
     "source": "lobsters",
-    "url": "https://leoniemonigatti.com/blog/agentic-search-for-context-engineering.html",
-    "title": "Agentic Search for Context Engineering"
+    "url": "https://blog.nlnetlabs.nl/one-year-of-roto-the-compiled-scripting-language-for-rust/",
+    "title": "One year of Roto, the compiled scripting language for Rust"
   },
   {
     "source": "lobsters",
-    "url": "https://turtleware.eu/posts/A-brief-note-about-slot-access-cost-in-Common-Lisp.html",
-    "title": "A brief note about slot access cost in Common Lisp"
+    "url": "https://simonwillison.net/2026/May/27/sqlite-agents/",
+    "title": "SQLite Does Not Accept Agentic Code"
   },
   {
     "source": "lobsters",
-    "url": "https://zamundaaa.github.io/wayland/2026/05/06/making-wl-shm-fast.html",
-    "title": "Making wl_shm fast"
+    "url": "https://sourcehut.org/blog/2026-05-28-whats-cooking-q2-2026/",
+    "title": "What's cooking on SourceHut? Q2 2026"
   },
   {
     "source": "lobsters",
-    "url": "https://railsatscale.com/2026-05-27-a-new-register-allocator-for-zjit/",
-    "title": "A new register allocator for ZJIT"
+    "url": "https://bennypowers.dev/posts/GNOME-2-web/",
+    "title": "GNOME 2.20 but its Web Components"
   },
   {
     "source": "lobsters",
-    "url": "https://bennypowers.dev/posts/let-equals-equal-equals/",
-    "title": "Let Equals Equal Equals"
+    "url": "https://blog.tangled.org/ssh/",
+    "title": "tail CI logs over SSH"
   },
   {
     "source": "lobsters",
-    "url": "https://sdomi.pl/weblog/29-please-do-better-thanks/",
-    "title": "Cybersecurity challenge: be nice to each other [IMPOSSIBLE]"
+    "url": "https://tangled.org/akashina.tngl.sh/jjc",
+    "title": "jjc: Non-interactive hunk-level operations for Jujutsu"
   },
   {
     "source": "lobsters",
-    "url": "https://xkqr.org/bellwether/keyboardtest.html",
-    "title": "Keyboard latency probe"
+    "url": "https://nesbitt.io/2026/05/28/package-managers-that-package-package-managers.html",
+    "title": "Package managers that package package managers"
   },
   {
     "source": "lobsters",
-    "url": "https://www.joshwcomeau.com/animation/css-vs-javascript/",
-    "title": "CSS vs. JavaScript"
+    "url": "https://redvice.org/2026/lunacy/",
+    "title": "Lunacy - Lua 5.1 interpreter with Lazy Basic Block Versioning and JIT"
   },
   {
     "source": "lobsters",
-    "url": "https://padhye.org/raft-minority/",
-    "title": "Raft Consensus with a Minority of Nodes"
+    "url": "https://mforney.org/blog/2026-05-28-patching-my-guitar-amps-firmware.html",
+    "title": "Patching my guitar amp's firmware"
   },
   {
     "source": "lobsters",
-    "url": "https://ziglang.org/devlog/2026/#2026-05-26",
-    "title": "Build System Reworked"
+    "url": "https://blog.getutm.app/2026/introducing-neptune-direct3d-virtualization-for-qemu/",
+    "title": "Introducing Neptune: Direct3D virtualization for QEMU"
   },
   {
     "source": "lobsters",
-    "url": "https://dontquotetheai.com/",
-    "title": "Don't paste the AI"
+    "url": "https://cel.cs.brown.edu/csci-1377-s26/",
+    "title": "CSCI 1377: Tools for Thought (Spring 2026)"
   },
   {
     "source": "lobsters",
-    "url": "https://andregarzia.com/2026/05/we-need-to-own-our-computing-experience.html",
-    "title": "We need to own our computing experience"
+    "url": "http://cocoamine.net/blog/2015/03/20/replacing-photoshop-with-nsstring",
+    "title": "Replacing Photoshop With NSString (2015)"
   },
   {
     "source": "lobsters",
-    "url": "https://akselmo.dev/posts/stop-advertising-in-your-commits/",
-    "title": "Stop advertising in your commits"
+    "url": "https://www.feistyduck.com/newsletter/issue_137_acme_caa__extensions_to_become_mandatory",
+    "title": "ACME CAA Extensions to Become Mandatory"
   }
 ]
