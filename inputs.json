@@ -21,13 +21,8 @@
   },
   {
     "source": "hn",
-    "url": "https://www.jeffgeerling.com/blog/2026/news-about-raspberry-pi-6-and-microcontroller-development/",
-    "title": "News about Raspberry Pi 6 and Microcontroller Development"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.dbos.dev/blog/postgres-is-all-you-need-for-durable-execution",
-    "title": "Building durable workflows on Postgres"
+    "url": "https://minimaxir.com/2026/05/openrouter-hy3/",
+    "title": "The mysterious Hy3 LLM is topping OpenRouter Model Rankings by a large margin"
   },
   {
     "source": "hn",
@@ -36,18 +31,28 @@
   },
   {
     "source": "hn",
+    "url": "https://www.jeffgeerling.com/blog/2026/news-about-raspberry-pi-6-and-microcontroller-development/",
+    "title": "News about Raspberry Pi 6 and Microcontroller Development"
+  },
+  {
+    "source": "hn",
     "url": "https://coalton-lang.github.io/",
     "title": "Coalton is an efficient, statically typed Lisp with ideas from Haskell and OCaml"
   },
   {
     "source": "hn",
-    "url": "https://permanent-upper-crow.jasonwu.ink/",
-    "title": "The Permanent Upper Crow"
+    "url": "https://www.dbos.dev/blog/postgres-is-all-you-need-for-durable-execution",
+    "title": "Building durable workflows on Postgres"
   },
   {
     "source": "hn",
-    "url": "https://www.carryology.com/insights/carry-culture/the-tale-of-the-worlds-most-unlikely-school-bag/",
-    "title": "The most unlikely school bag"
+    "url": "https://www.newyorker.com/culture/the-weekend-essay/what-jack-kerouac-left-behind",
+    "title": "What Gets Kept"
+  },
+  {
+    "source": "hn",
+    "url": "https://permanent-upper-crow.jasonwu.ink/",
+    "title": "The Permanent Upper Crow"
   },
   {
     "source": "hn",
@@ -61,93 +66,13 @@
   },
   {
     "source": "hn",
-    "url": "https://blogs.gentoo.org/mgorny/2026/05/28/why-gentoo/",
-    "title": "Why Gentoo?"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.carryology.com/liking/industry/the-pack-that-killed-the-pack-mule/",
-    "title": "The Pack That Killed the Pack Mule"
-  },
-  {
-    "source": "hn",
-    "url": "https://minimaxir.com/2026/05/openrouter-hy3/",
-    "title": "The mysterious Hy3 LLM is topping OpenRouter Model Rankings by a large margin"
+    "url": "https://www.carryology.com/insights/carry-culture/the-tale-of-the-worlds-most-unlikely-school-bag/",
+    "title": "The most unlikely school bag"
   },
   {
     "source": "hn",
     "url": "https://bitburner-official.github.io/",
     "title": "Bitburner, programming-based incremental game"
-  },
-  {
-    "source": "hn",
-    "url": "https://bookofjoe2.blogspot.com/2026/05/blog-post_27.html",
-    "title": "Separate the Cord from the Device"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.matheusmoreira.com/articles/lone-lisp-heap",
-    "title": "The Lone Lisp Heap"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://blog.rust-lang.org/2026/05/28/Rust-1.96.0/",
-    "title": "Announcing Rust 1.96.0"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://nesbitt.io/2026/05/28/protestware-for-coding-agents.html",
-    "title": "Protestware for coding agents"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://sourcehut.org/blog/2026-05-28-whats-cooking-q2-2026/",
-    "title": "What's cooking on SourceHut? Q2 2026"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://blog.nlnetlabs.nl/one-year-of-roto-the-compiled-scripting-language-for-rust/",
-    "title": "One year of Roto, the compiled scripting language for Rust"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://bennypowers.dev/posts/GNOME-2-web/",
-    "title": "GNOME 2.20 but its Web Components"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://tangled.org/akashina.tngl.sh/jjc",
-    "title": "jjc: Non-interactive hunk-level operations for Jujutsu"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://nesbitt.io/2026/05/28/package-managers-that-package-package-managers.html",
-    "title": "Package managers that package package managers"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://blog.tangled.org/ssh/",
-    "title": "tail CI logs over SSH"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://cel.cs.brown.edu/csci-1377-s26/",
-    "title": "CSCI 1377: Tools for Thought (Spring 2026)"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://omidmash.de/blog/concerning-emacs",
-    "title": "Concerning Emacs (and Jazz)"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://andreyor.st/posts/2026-04-27-clojure-on-fennel-part-three-parsing/",
-    "title": "Clojure on Fennel part three: parsing"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://www.feistyduck.com/newsletter/issue_137_acme_caa__extensions_to_become_mandatory",
-    "title": "ACME CAA Extensions to Become Mandatory"
   },
   {
     "source": "lobsters",
@@ -158,5 +83,75 @@
     "source": "lobsters",
     "url": "https://martinsos.com/posts/may-recommend-emacs-home-base",
     "title": "May I recommend thinking of Emacs as your Fortress of Solitude"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://uecker.codeberg.page/2026-01-06.html",
+    "title": "Using GCC's Nested Functions with Wide Pointers and no Trampolines"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://leoniemonigatti.com/blog/agentic-search-for-context-engineering.html",
+    "title": "Agentic Search for Context Engineering"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://turtleware.eu/posts/A-brief-note-about-slot-access-cost-in-Common-Lisp.html",
+    "title": "A brief note about slot access cost in Common Lisp"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://zamundaaa.github.io/wayland/2026/05/06/making-wl-shm-fast.html",
+    "title": "Making wl_shm fast"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://railsatscale.com/2026-05-27-a-new-register-allocator-for-zjit/",
+    "title": "A new register allocator for ZJIT"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://bennypowers.dev/posts/let-equals-equal-equals/",
+    "title": "Let Equals Equal Equals"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://sdomi.pl/weblog/29-please-do-better-thanks/",
+    "title": "Cybersecurity challenge: be nice to each other [IMPOSSIBLE]"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://xkqr.org/bellwether/keyboardtest.html",
+    "title": "Keyboard latency probe"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://www.joshwcomeau.com/animation/css-vs-javascript/",
+    "title": "CSS vs. JavaScript"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://padhye.org/raft-minority/",
+    "title": "Raft Consensus with a Minority of Nodes"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://ziglang.org/devlog/2026/#2026-05-26",
+    "title": "Build System Reworked"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://dontquotetheai.com/",
+    "title": "Don't paste the AI"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://andregarzia.com/2026/05/we-need-to-own-our-computing-experience.html",
+    "title": "We need to own our computing experience"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://akselmo.dev/posts/stop-advertising-in-your-commits/",
+    "title": "Stop advertising in your commits"
   }
 ]
