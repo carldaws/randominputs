@@ -6,28 +6,8 @@
   },
   {
     "source": "hn",
-    "url": "https://www.zot.sh",
-    "title": "Zot now supports Claude Opus 4.8"
-  },
-  {
-    "source": "hn",
     "url": "https://www.noaa.gov/jetstream/clouds/ten-basic-clouds",
     "title": "Ten Basic Clouds"
-  },
-  {
-    "source": "hn",
-    "url": "https://twitter.com/nasaspaceflight/status/2060164928472854821",
-    "title": "Blue Origin's New Glenn blows up during static fire test"
-  },
-  {
-    "source": "hn",
-    "url": "https://minimaxir.com/2026/05/openrouter-hy3/",
-    "title": "The mysterious Hy3 LLM is topping OpenRouter Model Rankings by a large margin"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/tron-legacy/",
-    "title": "Nitpicking the shell history scene in 'Tron: Legacy'"
   },
   {
     "source": "hn",
@@ -36,8 +16,8 @@
   },
   {
     "source": "hn",
-    "url": "https://waspdev.com/articles/2026-05-11/avoid-using-cdata-in-rss",
-    "title": "Avoid Using \"< [Cdata[ ]]>\" in RSS"
+    "url": "https://twitter.com/nasaspaceflight/status/2060164928472854821",
+    "title": "Blue Origin's New Glenn blows up during static fire test"
   },
   {
     "source": "hn",
@@ -46,13 +26,28 @@
   },
   {
     "source": "hn",
+    "url": "https://minimaxir.com/2026/05/openrouter-hy3/",
+    "title": "The mysterious Hy3 LLM is topping OpenRouter Model Rankings by a large margin"
+  },
+  {
+    "source": "hn",
     "url": "https://coalton-lang.github.io/",
     "title": "Coalton is an efficient, statically typed Lisp with ideas from Haskell and OCaml"
   },
   {
     "source": "hn",
-    "url": "https://www.dbos.dev/blog/postgres-is-all-you-need-for-durable-execution",
-    "title": "Building durable workflows on Postgres"
+    "url": "https://waspdev.com/articles/2026-05-11/avoid-using-cdata-in-rss",
+    "title": "Avoid Using \"< [Cdata[ ]]>\" in RSS"
+  },
+  {
+    "source": "hn",
+    "url": "https://cceckman.com/writing/phloto/",
+    "title": "Phloto for My Photo Flow"
+  },
+  {
+    "source": "hn",
+    "url": "https://fabiensanglard.net/compile_like_1997/",
+    "title": "Let's compile Quake like it's 1997"
   },
   {
     "source": "hn",
@@ -61,8 +56,8 @@
   },
   {
     "source": "hn",
-    "url": "https://www.newyorker.com/culture/the-weekend-essay/what-jack-kerouac-left-behind",
-    "title": "What Gets Kept"
+    "url": "https://www.dbos.dev/blog/postgres-is-all-you-need-for-durable-execution",
+    "title": "Building durable workflows on Postgres"
   },
   {
     "source": "hn",
@@ -71,13 +66,13 @@
   },
   {
     "source": "hn",
-    "url": "https://shvbsle.in/various-llm-smells/",
-    "title": "Various LLM Smells"
+    "url": "https://www.newyorker.com/culture/the-weekend-essay/what-jack-kerouac-left-behind",
+    "title": "What Gets Kept"
   },
   {
     "source": "hn",
-    "url": "https://bitburner-official.github.io/",
-    "title": "Bitburner, programming-based incremental game"
+    "url": "https://shvbsle.in/various-llm-smells/",
+    "title": "Various LLM Smells"
   },
   {
     "source": "lobsters",
@@ -91,8 +86,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://blogs.gentoo.org/mgorny/2026/05/28/why-gentoo/",
-    "title": "Why Gentoo?"
+    "url": "https://simonwillison.net/2026/May/27/sqlite-agents/",
+    "title": "SQLite Does Not Accept Agentic Code"
   },
   {
     "source": "lobsters",
@@ -101,8 +96,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://simonwillison.net/2026/May/27/sqlite-agents/",
-    "title": "SQLite Does Not Accept Agentic Code"
+    "url": "https://blogs.gentoo.org/mgorny/2026/05/28/why-gentoo/",
+    "title": "Why Gentoo?"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://blog.tangled.org/ssh/",
+    "title": "tail CI logs over SSH"
   },
   {
     "source": "lobsters",
@@ -116,8 +116,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://blog.tangled.org/ssh/",
-    "title": "tail CI logs over SSH"
+    "url": "https://mforney.org/blog/2026-05-28-patching-my-guitar-amps-firmware.html",
+    "title": "Patching my guitar amp's firmware"
   },
   {
     "source": "lobsters",
@@ -126,18 +126,18 @@
   },
   {
     "source": "lobsters",
-    "url": "https://nesbitt.io/2026/05/28/package-managers-that-package-package-managers.html",
-    "title": "Package managers that package package managers"
-  },
-  {
-    "source": "lobsters",
     "url": "https://redvice.org/2026/lunacy/",
     "title": "Lunacy - Lua 5.1 interpreter with Lazy Basic Block Versioning and JIT"
   },
   {
     "source": "lobsters",
-    "url": "https://mforney.org/blog/2026-05-28-patching-my-guitar-amps-firmware.html",
-    "title": "Patching my guitar amp's firmware"
+    "url": "http://cocoamine.net/blog/2015/03/20/replacing-photoshop-with-nsstring",
+    "title": "Replacing Photoshop With NSString (2015)"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://nesbitt.io/2026/05/28/package-managers-that-package-package-managers.html",
+    "title": "Package managers that package package managers"
   },
   {
     "source": "lobsters",
@@ -151,12 +151,12 @@
   },
   {
     "source": "lobsters",
-    "url": "http://cocoamine.net/blog/2015/03/20/replacing-photoshop-with-nsstring",
-    "title": "Replacing Photoshop With NSString (2015)"
+    "url": "https://www.feistyduck.com/newsletter/issue_137_acme_caa__extensions_to_become_mandatory",
+    "title": "ACME CAA Extensions to Become Mandatory"
   },
   {
     "source": "lobsters",
-    "url": "https://www.feistyduck.com/newsletter/issue_137_acme_caa__extensions_to_become_mandatory",
-    "title": "ACME CAA Extensions to Become Mandatory"
+    "url": "https://omidmash.de/blog/concerning-emacs",
+    "title": "Concerning Emacs (and Jazz)"
   }
 ]
