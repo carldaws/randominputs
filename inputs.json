@@ -1,6 +1,11 @@
 [
   {
     "source": "hn",
+    "url": "https://blog.kog.ai/real-time-llm-inference-on-standard-gpus-3-000-tokens-s-per-request/",
+    "title": "Real-time LLM Inference on Standard GPUs: 3k tokens/s per request"
+  },
+  {
+    "source": "hn",
     "url": "https://nick.winans.io/blog/nice-nano/",
     "title": "I made a million dollar product from my dorm room (2025)"
   },
@@ -11,8 +16,28 @@
   },
   {
     "source": "hn",
+    "url": "https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/tron-legacy/",
+    "title": "Nitpicking the shell history scene in 'Tron: Legacy'"
+  },
+  {
+    "source": "hn",
+    "url": "https://blog.cloudflare.com/ai-code-review/",
+    "title": "Orchestrating AI code review at scale"
+  },
+  {
+    "source": "hn",
     "url": "https://llmgame.scalex.dev",
     "title": "Show HN: Continue? Y/N: A 60-second game about AI agent permission fatigue"
+  },
+  {
+    "source": "hn",
+    "url": "https://fabiensanglard.net/compile_like_1997/",
+    "title": "Let's compile Quake like it's 1997"
+  },
+  {
+    "source": "hn",
+    "url": "https://coalton-lang.github.io/",
+    "title": "Coalton is an efficient, statically typed Lisp with ideas from Haskell and OCaml"
   },
   {
     "source": "hn",
@@ -26,28 +51,8 @@
   },
   {
     "source": "hn",
-    "url": "https://minimaxir.com/2026/05/openrouter-hy3/",
-    "title": "The mysterious Hy3 LLM is topping OpenRouter Model Rankings by a large margin"
-  },
-  {
-    "source": "hn",
-    "url": "https://coalton-lang.github.io/",
-    "title": "Coalton is an efficient, statically typed Lisp with ideas from Haskell and OCaml"
-  },
-  {
-    "source": "hn",
     "url": "https://waspdev.com/articles/2026-05-11/avoid-using-cdata-in-rss",
     "title": "Avoid Using \"< [Cdata[ ]]>\" in RSS"
-  },
-  {
-    "source": "hn",
-    "url": "https://cceckman.com/writing/phloto/",
-    "title": "Phloto for My Photo Flow"
-  },
-  {
-    "source": "hn",
-    "url": "https://fabiensanglard.net/compile_like_1997/",
-    "title": "Let's compile Quake like it's 1997"
   },
   {
     "source": "hn",
@@ -56,23 +61,23 @@
   },
   {
     "source": "hn",
-    "url": "https://www.dbos.dev/blog/postgres-is-all-you-need-for-durable-execution",
-    "title": "Building durable workflows on Postgres"
-  },
-  {
-    "source": "hn",
     "url": "https://taoofmac.com/space/blog/2026/05/26/1730",
     "title": "Indoor Wi-Fi Roaming with OpenWRT"
   },
   {
     "source": "hn",
-    "url": "https://www.newyorker.com/culture/the-weekend-essay/what-jack-kerouac-left-behind",
-    "title": "What Gets Kept"
+    "url": "https://www.dbos.dev/blog/postgres-is-all-you-need-for-durable-execution",
+    "title": "Building durable workflows on Postgres"
   },
   {
     "source": "hn",
-    "url": "https://shvbsle.in/various-llm-smells/",
-    "title": "Various LLM Smells"
+    "url": "https://cceckman.com/writing/phloto/",
+    "title": "Phloto for My Photo Flow"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.newyorker.com/culture/the-weekend-essay/what-jack-kerouac-left-behind",
+    "title": "What Gets Kept"
   },
   {
     "source": "lobsters",
@@ -81,13 +86,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://blog.rust-lang.org/2026/05/28/Rust-1.96.0/",
-    "title": "Announcing Rust 1.96.0"
+    "url": "https://simonwillison.net/2026/May/27/sqlite-agents/",
+    "title": "SQLite Does Not Accept Agentic Code"
   },
   {
     "source": "lobsters",
-    "url": "https://simonwillison.net/2026/May/27/sqlite-agents/",
-    "title": "SQLite Does Not Accept Agentic Code"
+    "url": "https://blog.rust-lang.org/2026/05/28/Rust-1.96.0/",
+    "title": "Announcing Rust 1.96.0"
   },
   {
     "source": "lobsters",
@@ -126,8 +131,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://redvice.org/2026/lunacy/",
-    "title": "Lunacy - Lua 5.1 interpreter with Lazy Basic Block Versioning and JIT"
+    "url": "https://fzakaria.com/2026/05/23/leaving-performance-on-the-table",
+    "title": "Leaving performance on the table"
   },
   {
     "source": "lobsters",
@@ -136,27 +141,17 @@
   },
   {
     "source": "lobsters",
+    "url": "https://redvice.org/2026/lunacy/",
+    "title": "Lunacy - Lua 5.1 interpreter with Lazy Basic Block Versioning and JIT"
+  },
+  {
+    "source": "lobsters",
     "url": "https://nesbitt.io/2026/05/28/package-managers-that-package-package-managers.html",
     "title": "Package managers that package package managers"
   },
   {
     "source": "lobsters",
-    "url": "https://blog.getutm.app/2026/introducing-neptune-direct3d-virtualization-for-qemu/",
-    "title": "Introducing Neptune: Direct3D virtualization for QEMU"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://cel.cs.brown.edu/csci-1377-s26/",
-    "title": "CSCI 1377: Tools for Thought (Spring 2026)"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://www.feistyduck.com/newsletter/issue_137_acme_caa__extensions_to_become_mandatory",
-    "title": "ACME CAA Extensions to Become Mandatory"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://omidmash.de/blog/concerning-emacs",
-    "title": "Concerning Emacs (and Jazz)"
+    "url": "http://databasearchitects.blogspot.com/2024/12/what-are-important-data-systems.html",
+    "title": "What are important data systems problems, ignored by research? (2024)"
   }
 ]
