@@ -1,13 +1,38 @@
 [
   {
     "source": "hn",
+    "url": "https://www.inkandswitch.com/tangents/bijou64/",
+    "title": "Bijou64: A variable-length integer encoding"
+  },
+  {
+    "source": "hn",
+    "url": "https://openpath.quest/2026/i-am-retiring-from-tech-to-live-offline/",
+    "title": "I Am Retiring from Tech to Live Offline"
+  },
+  {
+    "source": "hn",
     "url": "https://commonedge.org/high-density-living-2000-years-ago-inside-the-roman-apartment-building/",
     "title": "High Density Living, 2000 Years Ago: Inside the Roman Apartment Building"
   },
   {
     "source": "hn",
-    "url": "https://jamiehurst.co.uk/2026-05-24_ai-sustainable",
-    "title": "Is This Sustainable?"
+    "url": "https://rockstarintel.com/gta-6-developers-announce-rockstar-games-union/",
+    "title": "GTA 6 Developers Unionize"
+  },
+  {
+    "source": "hn",
+    "url": "https://twitter.com/nasaspaceflight/status/2060164928472854821",
+    "title": "Blue Origin's New Glenn blows up during static fire test"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.bloomberg.com/news/articles/2026-05-29/danish-pension-fund-blacklists-spacex-citing-governance-issues",
+    "title": "Danish Pension Blacklists SpaceX over 'Catastrophic Governance'"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.404media.co/headway-therapy-facial-scan-biometric-data-identity-verification/",
+    "title": "Headway Therapy Patients Forced to Scan Their Faces to Keep Getting Care"
   },
   {
     "source": "hn",
@@ -26,18 +51,8 @@
   },
   {
     "source": "hn",
-    "url": "https://nick.winans.io/blog/nice-nano/",
-    "title": "I made a million dollar product from my dorm room (2025)"
-  },
-  {
-    "source": "hn",
-    "url": "https://vickiboykis.com/2026/05/28/we-should-be-more-tired-than-the-model/",
-    "title": "We should be more tired than the model"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.tensorzero.com/blog/even-very-noisy-llm-evaluators-are-useful-for-improving-ai-agents/",
-    "title": "Even (very) noisy LLM evaluators are useful for improving AI agents"
+    "url": "https://fabiensanglard.net/compile_like_1997/",
+    "title": "Let's compile Quake like it's 1997"
   },
   {
     "source": "hn",
@@ -46,8 +61,13 @@
   },
   {
     "source": "hn",
-    "url": "https://fabiensanglard.net/compile_like_1997/",
-    "title": "Let's compile Quake like it's 1997"
+    "url": "https://wterm.dev/",
+    "title": "Wterm – Terminal Emulator for the Web"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.frontiersin.org/news/2026/05/29/we-cannot-ban-our-way-out-of-a-youth-mental-health-crisis-social-media-bans-for-teenagers-lack-evidence-and-pose-risks-scientists-say",
+    "title": "Social media bans for teenagers lack evidence and pose risks, scientists say"
   },
   {
     "source": "hn",
@@ -56,33 +76,18 @@
   },
   {
     "source": "hn",
+    "url": "https://www.tensorzero.com/blog/even-very-noisy-llm-evaluators-are-useful-for-improving-ai-agents/",
+    "title": "Even (very) noisy LLM evaluators are useful for improving AI agents"
+  },
+  {
+    "source": "hn",
+    "url": "https://vickiboykis.com/2026/05/28/we-should-be-more-tired-than-the-model/",
+    "title": "We should be more tired than the model"
+  },
+  {
+    "source": "hn",
     "url": "https://www.noaa.gov/jetstream/clouds/ten-basic-clouds",
     "title": "Ten Basic Clouds"
-  },
-  {
-    "source": "hn",
-    "url": "https://wterm.dev/",
-    "title": "Wterm – Terminal Emulator for the Web"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/tron-legacy/",
-    "title": "Nitpicking the shell history scene in 'Tron: Legacy'"
-  },
-  {
-    "source": "hn",
-    "url": "https://llmgame.scalex.dev",
-    "title": "Show HN: Continue? Y/N: A 60-second game about AI agent permission fatigue"
-  },
-  {
-    "source": "hn",
-    "url": "https://twitter.com/nasaspaceflight/status/2060164928472854821",
-    "title": "Blue Origin's New Glenn blows up during static fire test"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.jeffgeerling.com/blog/2026/news-about-raspberry-pi-6-and-microcontroller-development/",
-    "title": "News about Raspberry Pi 6 and Microcontroller Development"
   },
   {
     "source": "lobsters",
@@ -96,18 +101,23 @@
   },
   {
     "source": "lobsters",
-    "url": "https://blog.rust-lang.org/2026/05/28/Rust-1.96.0/",
-    "title": "Announcing Rust 1.96.0"
-  },
-  {
-    "source": "lobsters",
     "url": "https://fzakaria.com/2026/05/23/leaving-performance-on-the-table",
     "title": "Leaving performance on the table"
   },
   {
     "source": "lobsters",
+    "url": "https://blog.rust-lang.org/2026/05/28/Rust-1.96.0/",
+    "title": "Announcing Rust 1.96.0"
+  },
+  {
+    "source": "lobsters",
     "url": "https://blog.nlnetlabs.nl/one-year-of-roto-the-compiled-scripting-language-for-rust/",
     "title": "One year of Roto, the compiled scripting language for Rust"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://mforney.org/blog/2026-05-28-patching-my-guitar-amps-firmware.html",
+    "title": "Patching my guitar amp's firmware"
   },
   {
     "source": "lobsters",
@@ -121,8 +131,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://mforney.org/blog/2026-05-28-patching-my-guitar-amps-firmware.html",
-    "title": "Patching my guitar amp's firmware"
+    "url": "https://redvice.org/2026/lunacy/",
+    "title": "Lunacy - Lua 5.1 interpreter with Lazy Basic Block Versioning and JIT"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://blog.racket-lang.org/2026/05/racket-v9-2.html",
+    "title": "Racket v9.2"
   },
   {
     "source": "lobsters",
@@ -131,28 +146,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://bennypowers.dev/posts/GNOME-2-web/",
-    "title": "GNOME 2.20 but its Web Components"
-  },
-  {
-    "source": "lobsters",
     "url": "http://cocoamine.net/blog/2015/03/20/replacing-photoshop-with-nsstring",
     "title": "Replacing Photoshop With NSString (2015)"
   },
   {
     "source": "lobsters",
-    "url": "https://redvice.org/2026/lunacy/",
-    "title": "Lunacy - Lua 5.1 interpreter with Lazy Basic Block Versioning and JIT"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://tangled.org/akashina.tngl.sh/jjc",
-    "title": "jjc: Non-interactive hunk-level operations for Jujutsu"
-  },
-  {
-    "source": "lobsters",
-    "url": "http://databasearchitects.blogspot.com/2024/12/what-are-important-data-systems.html",
-    "title": "What are important data systems problems, ignored by research? (2024)"
+    "url": "https://bennypowers.dev/posts/GNOME-2-web/",
+    "title": "GNOME 2.20 but its Web Components"
   },
   {
     "source": "lobsters",
@@ -161,7 +161,17 @@
   },
   {
     "source": "lobsters",
-    "url": "https://worm-blossom.github.io/reed/",
-    "title": "Reed Specification or Better Prefix Authentication (2023)"
+    "url": "https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/tron-legacy/",
+    "title": "Nitpicking the shell history scene in ‘Tron: Legacy’"
+  },
+  {
+    "source": "lobsters",
+    "url": "http://databasearchitects.blogspot.com/2024/12/what-are-important-data-systems.html",
+    "title": "What are important data systems problems, ignored by research? (2024)"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://tangled.org/akashina.tngl.sh/jjc",
+    "title": "jjc: Non-interactive hunk-level operations for Jujutsu"
   }
 ]
