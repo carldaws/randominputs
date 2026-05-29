@@ -11,18 +11,23 @@
   },
   {
     "source": "hn",
+    "url": "https://twitter.com/nasaspaceflight/status/2060164928472854821",
+    "title": "Blue Origin's New Glenn blows up during static fire test"
+  },
+  {
+    "source": "hn",
     "url": "https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/tron-legacy/",
     "title": "Nitpicking the shell history scene in 'Tron: Legacy'"
   },
   {
     "source": "hn",
-    "url": "https://www.dbos.dev/blog/postgres-is-all-you-need-for-durable-execution",
-    "title": "Building durable workflows on Postgres"
+    "url": "https://www.jeffgeerling.com/blog/2026/news-about-raspberry-pi-6-and-microcontroller-development/",
+    "title": "News about Raspberry Pi 6 and Microcontroller Development"
   },
   {
     "source": "hn",
-    "url": "https://www.jeffgeerling.com/blog/2026/news-about-raspberry-pi-6-and-microcontroller-development/",
-    "title": "News about Raspberry Pi 6 and Microcontroller Development"
+    "url": "https://www.dbos.dev/blog/postgres-is-all-you-need-for-durable-execution",
+    "title": "Building durable workflows on Postgres"
   },
   {
     "source": "hn",
@@ -41,11 +46,6 @@
   },
   {
     "source": "hn",
-    "url": "https://shvbsle.in/various-llm-smells/",
-    "title": "Various LLM Smells"
-  },
-  {
-    "source": "hn",
     "url": "https://www.carryology.com/insights/carry-culture/the-tale-of-the-worlds-most-unlikely-school-bag/",
     "title": "The most unlikely school bag"
   },
@@ -56,13 +56,18 @@
   },
   {
     "source": "hn",
-    "url": "https://bitburner-official.github.io/",
-    "title": "Bitburner, programming-based incremental game"
+    "url": "https://shvbsle.in/various-llm-smells/",
+    "title": "Various LLM Smells"
   },
   {
     "source": "hn",
-    "url": "https://bookofjoe2.blogspot.com/2026/05/blog-post_27.html",
-    "title": "Separate the Cord from the Device"
+    "url": "https://blogs.gentoo.org/mgorny/2026/05/28/why-gentoo/",
+    "title": "Why Gentoo?"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.carryology.com/liking/industry/the-pack-that-killed-the-pack-mule/",
+    "title": "The Pack That Killed the Pack Mule"
   },
   {
     "source": "hn",
@@ -71,13 +76,13 @@
   },
   {
     "source": "hn",
-    "url": "https://taff.org.uk/ebooks.php?x=Micromania",
-    "title": "Micromania: The Whole Truth about Home Computers (1984)"
+    "url": "https://bitburner-official.github.io/",
+    "title": "Bitburner, programming-based incremental game"
   },
   {
     "source": "hn",
-    "url": "https://blogs.gentoo.org/mgorny/2026/05/28/why-gentoo/",
-    "title": "Why Gentoo?"
+    "url": "https://bookofjoe2.blogspot.com/2026/05/blog-post_27.html",
+    "title": "Separate the Cord from the Device"
   },
   {
     "source": "hn",
@@ -101,13 +106,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://bennypowers.dev/posts/GNOME-2-web/",
-    "title": "GNOME 2.20 but its Web Components"
+    "url": "https://blog.nlnetlabs.nl/one-year-of-roto-the-compiled-scripting-language-for-rust/",
+    "title": "One year of Roto, the compiled scripting language for Rust"
   },
   {
     "source": "lobsters",
-    "url": "https://blog.nlnetlabs.nl/one-year-of-roto-the-compiled-scripting-language-for-rust/",
-    "title": "One year of Roto, the compiled scripting language for Rust"
+    "url": "https://bennypowers.dev/posts/GNOME-2-web/",
+    "title": "GNOME 2.20 but its Web Components"
   },
   {
     "source": "lobsters",
@@ -121,13 +126,18 @@
   },
   {
     "source": "lobsters",
+    "url": "https://blog.tangled.org/ssh/",
+    "title": "tail CI logs over SSH"
+  },
+  {
+    "source": "lobsters",
     "url": "https://cel.cs.brown.edu/csci-1377-s26/",
     "title": "CSCI 1377: Tools for Thought (Spring 2026)"
   },
   {
     "source": "lobsters",
-    "url": "https://blog.tangled.org/ssh/",
-    "title": "tail CI logs over SSH"
+    "url": "https://omidmash.de/blog/concerning-emacs",
+    "title": "Concerning Emacs (and Jazz)"
   },
   {
     "source": "lobsters",
@@ -141,11 +151,6 @@
   },
   {
     "source": "lobsters",
-    "url": "https://omidmash.de/blog/concerning-emacs",
-    "title": "Concerning Emacs (and Jazz)"
-  },
-  {
-    "source": "lobsters",
     "url": "https://sverre.me/blog/rust-on-kindle/",
     "title": "Rust (and Slint) on a jailbroken Kindle"
   },
@@ -153,95 +158,5 @@
     "source": "lobsters",
     "url": "https://martinsos.com/posts/may-recommend-emacs-home-base",
     "title": "May I recommend thinking of Emacs as your Fortress of Solitude"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://arps18.github.io/posts/claude-code-mastery/",
-    "title": "Beyond the Prompt: Claude Code | Arpan Patel"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://unsung.aresluna.org/a-few-interesting-modern-pixel-fonts/",
-    "title": "A few interesting modern pixel fonts – Unsung"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://nolanlawson.com/2026/05/25/using-ai-to-write-better-code-more-slowly/",
-    "title": "Using AI to write better code more slowly | Read the Tea Leaves"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://isaiprofitable.com/",
-    "title": "Is AI Profitable Yet?"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.dougmacdowell.com/50-hours-to-draw-some-lines.html",
-    "title": "50 Hours to Draw Some Lines - Doug MacDowell"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://geohot.github.io//blog/jekyll/update/2026/05/24/the-eternal-sloptember.html",
-    "title": "The Eternal Sloptember | the singularity is nearer"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://rubbishtalk.com/economy/how-private-equity-bought-americas-essential-services/",
-    "title": "How Private Equity Bought America’s Essential Services | Rubbish Talk"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://pluralistic.net/2026/05/26/the-ai-will-continue/",
-    "title": "Pluralistic: The AI bubble isn’t like the internet bubble (26 May 2026) – Pluralistic: Daily links from Cory Doctorow"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://rothko.joonas.wtf/",
-    "title": "Current Rothko"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://lemon.rip/w/6-c-extensions-compilers/",
-    "title": "On C extensions, portability, and alternative compilers"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.liberalcurrents.com/the-interracial-cuck-porn-theory-of-everything/",
-    "title": "The Interracial Cuck Porn Theory of Everything"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://simonwillison.net/2026/May/27/product-market-fit/",
-    "title": "I think Anthropic and OpenAI have found product-market fit"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://thefrontpage.dev/",
-    "title": "Hacker News front page as a newspaper"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://noslopgrenade.com/",
-    "title": "no slop grenade"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.merriam-webster.com/wordplay/the-hilarious-history-of-ok-okay",
-    "title": "The Hilarious History of 'OK' | Merriam-Webster"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://dynip.dev/",
-    "title": "DynIP — Dynamic DNS for homelabs and infrastructure"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://kingbird.myphotos.cc/packing/squares_in_squares.html",
-    "title": "Squares in Squares"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://audiomass.co/?multitrack=1",
-    "title": "AudioMass - Audio Editor"
   }
 ]
