@@ -6,13 +6,23 @@
   },
   {
     "source": "hn",
-    "url": "https://overreacted.io/algebraic-effects-for-the-rest-of-us/",
-    "title": "Algebraic Effects for the Rest of Us"
+    "url": "https://pandoc-templates.org/",
+    "title": "Pandoc Templates"
   },
   {
     "source": "hn",
     "url": "https://blog.chrislewis.au/snowboard-kids-2-is-100-decompiled/",
     "title": "Snowboard Kids 2 is 100% Decompiled"
+  },
+  {
+    "source": "hn",
+    "url": "https://explosion-scratch.github.io/locusts/",
+    "title": "What Happened to the Locusts?"
+  },
+  {
+    "source": "hn",
+    "url": "https://overreacted.io/algebraic-effects-for-the-rest-of-us/",
+    "title": "Algebraic Effects for the Rest of Us"
   },
   {
     "source": "hn",
@@ -26,13 +36,13 @@
   },
   {
     "source": "hn",
-    "url": "https://railsatscale.com/2026-05-27-a-new-register-allocator-for-zjit/",
-    "title": "A new register allocator for ZJIT"
+    "url": "https://www.jeffgeerling.com/blog/2026/its-hard-to-justify-framework-12/",
+    "title": "It's hard to justify buying a Framework 12"
   },
   {
     "source": "hn",
-    "url": "https://www.jeffgeerling.com/blog/2026/its-hard-to-justify-framework-12/",
-    "title": "It's hard to justify buying a Framework 12"
+    "url": "https://railsatscale.com/2026-05-27-a-new-register-allocator-for-zjit/",
+    "title": "A new register allocator for ZJIT"
   },
   {
     "source": "hn",
@@ -58,11 +68,6 @@
     "source": "hn",
     "url": "https://daringfireball.net/2026/05/what_is_a_dickover",
     "title": "What Is a Dickover?"
-  },
-  {
-    "source": "hn",
-    "url": "https://rockstarintel.com/gta-6-developers-announce-rockstar-games-union/",
-    "title": "GTA 6 Developers Unionize"
   },
   {
     "source": "lobsters",
@@ -128,10 +133,5 @@
     "source": "lobsters",
     "url": "https://waspdev.com/articles/2026-05-11/avoid-using-cdata-in-rss",
     "title": "Avoid using \"<![CDATA[ ... ]]>\" in RSS"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://blog.nlnetlabs.nl/one-year-of-roto-the-compiled-scripting-language-for-rust/",
-    "title": "One year of Roto, the compiled scripting language for Rust"
   }
 ]
