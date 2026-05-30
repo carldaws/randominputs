@@ -1,6 +1,11 @@
 [
   {
     "source": "hn",
+    "url": "https://qazinform.com/news/anthropic-surpasses-openai-to-become-worlds-most-valuable-ai-startup",
+    "title": "Anthropic surpasses OpenAI to become most valuable AI startup"
+  },
+  {
+    "source": "hn",
     "url": "https://pandoc-templates.org/",
     "title": "Pandoc Templates"
   },
@@ -11,8 +16,28 @@
   },
   {
     "source": "hn",
+    "url": "https://s-macke.github.io/VoxelSpace/",
+    "title": "Voxel Space"
+  },
+  {
+    "source": "hn",
+    "url": "https://phroneses.com/articles/build/notes/vibe-coding-is-not-engineering.html",
+    "title": "Vibe Coding Is Not Engineering"
+  },
+  {
+    "source": "hn",
+    "url": "https://myzopotamia.dev/navier-stokes-fluid-simulation-explained-with-godot",
+    "title": "Navier-Stokes fluid simulation explained with Godot game engine"
+  },
+  {
+    "source": "hn",
     "url": "https://explosion-scratch.github.io/locusts/",
     "title": "What Happened to the Locusts?"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.wsj.com/tech/ai/corporate-america-is-starting-to-ration-ai-as-cost-skyrockets-1eb99d7a",
+    "title": "Corporate America Is Starting to Ration AI as Cost Skyrockets"
   },
   {
     "source": "hn",
@@ -31,28 +56,18 @@
   },
   {
     "source": "hn",
+    "url": "https://news.northwestern.edu/stories/2026/05/memory-decline-after-menopause-linked-to-loss-of-estrogen-production-in-brain-tissue",
+    "title": "Memory decline after menopause linked to loss of estrogen production in brain"
+  },
+  {
+    "source": "hn",
     "url": "https://www.jeffgeerling.com/blog/2026/its-hard-to-justify-framework-12/",
     "title": "It's hard to justify buying a Framework 12"
   },
   {
     "source": "hn",
-    "url": "https://railsatscale.com/2026-05-27-a-new-register-allocator-for-zjit/",
-    "title": "A new register allocator for ZJIT"
-  },
-  {
-    "source": "hn",
     "url": "https://mastrojs.github.io/blog/2026-05-23-is-AI-causing-a-repeat-of-frontends-lost-decade/",
     "title": "Is AI causing a repeat of frontend’s lost decade?"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.inkandswitch.com/tangents/bijou64/",
-    "title": "Bijou64: A variable-length integer encoding"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.wsj.com/tech/ai/corporate-america-is-starting-to-ration-ai-as-cost-skyrockets-1eb99d7a",
-    "title": "Corporate America Is Starting to Ration AI as Cost Skyrockets"
   },
   {
     "source": "lobsters",
@@ -66,13 +81,18 @@
   },
   {
     "source": "lobsters",
-    "url": "https://lpcvoid.com/blog/0018_why_i_am_against_genai/index.html",
-    "title": "Why I am against GenAI and everything it stands for"
+    "url": "https://daringfireball.net/2026/05/what_is_a_dickover",
+    "title": "What Is a Dickover?"
   },
   {
     "source": "lobsters",
-    "url": "https://daringfireball.net/2026/05/what_is_a_dickover",
-    "title": "What Is a Dickover?"
+    "url": "https://www.inkandswitch.com/tangents/bijou64/",
+    "title": "bijou64: A variable-length integer encoding"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://lpcvoid.com/blog/0018_why_i_am_against_genai/index.html",
+    "title": "Why I am against GenAI and everything it stands for"
   },
   {
     "source": "lobsters",
@@ -83,6 +103,16 @@
     "source": "lobsters",
     "url": "https://pierre.computer/writing/on-rendering-diffs",
     "title": "On Rendering Diffs"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://web.archive.org/web/20071014215938/http://homepage.mac.com/sigfpe/Computing/fold.html",
+    "title": "Coalgebras and Automata"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://toast.al/posts/techlore/2026-05-30_nix-on-sailfish-os/",
+    "title": "Nix on Sailfish X (Sailfish OS for Sony Xperia)"
   },
   {
     "source": "lobsters",
@@ -135,8 +165,88 @@
     "title": "The Go language server can do some impressive code navigation"
   },
   {
-    "source": "lobsters",
-    "url": "https://waspdev.com/articles/2026-05-11/avoid-using-cdata-in-rss",
-    "title": "Avoid using \"<![CDATA[ ... ]]>\" in RSS"
+    "source": "pinboard",
+    "url": "https://arps18.github.io/posts/claude-code-mastery/",
+    "title": "Beyond the Prompt: Claude Code | Arpan Patel"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://simonwillison.net/2026/May/27/product-market-fit/",
+    "title": "I think Anthropic and OpenAI have found product-market fit"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://nooneshappy.com/article/appearing-productive-in-the-workplace/",
+    "title": "Appearing Productive in The Workplace — No One's Happy"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://unsung.aresluna.org/a-few-interesting-modern-pixel-fonts/",
+    "title": "A few interesting modern pixel fonts – Unsung"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://rubbishtalk.com/economy/how-private-equity-bought-americas-essential-services/",
+    "title": "How Private Equity Bought America’s Essential Services | Rubbish Talk"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://mlsu.io/posts/day-off/",
+    "title": "Can we have the day off?"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.jonaharagon.com/posts/im-getting-into-mesh-networks-meshtastic-meshcore-and-reticulum/",
+    "title": "I'm Getting Into Mesh Networks... (Meshtastic, MeshCore, and Reticulum)"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://nooneshappy.com/article/the-ai-bubble/",
+    "title": "The AI Bubble — No One's Happy"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://lucumr.pocoo.org/2026/5/26/clankers/",
+    "title": "Clanker: A Word For The Machine | Armin Ronacher's Thoughts and Writings"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.noaa.gov/jetstream/clouds/ten-basic-clouds",
+    "title": "Ten Basic Clouds | National Oceanic and Atmospheric Administration"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://irisphotos.app/",
+    "title": "Iris Photos — A native macOS photo library"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://drobinin.com/posts/am-i-a-bad-friend/",
+    "title": "1.2M Messages to Obsidian - Building a Relationship Map from 20 Years of Chat History"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://shvbsle.in/various-llm-smells/",
+    "title": "Various LLM smells | Shiv After Dark"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://padhye.org/raft-minority/",
+    "title": "Raft Consensus with a Minority of Nodes"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://nolanlawson.com/2026/05/25/using-ai-to-write-better-code-more-slowly/",
+    "title": "Using AI to write better code more slowly | Read the Tea Leaves"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://noslopgrenade.com/",
+    "title": "no slop grenade"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://isaiprofitable.com/",
+    "title": "Is AI Profitable Yet?"
   }
 ]
