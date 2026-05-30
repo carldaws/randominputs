@@ -11,13 +11,13 @@
   },
   {
     "source": "hn",
-    "url": "https://www.perryts.com/",
-    "title": "Perry Compiles TypeScript directly to executables using SWC and LLVM"
+    "url": "https://blog.prusa3d.com/our-new-open-source-colormix-model-in-prusaslicer-and-easyprint_136079/",
+    "title": "Print with dozens of colors: Our new open-source ColorMix for PrusaSlicer"
   },
   {
     "source": "hn",
-    "url": "https://blog.prusa3d.com/our-new-open-source-colormix-model-in-prusaslicer-and-easyprint_136079/",
-    "title": "Print with dozens of colors: Our new open-source ColorMix for PrusaSlicer"
+    "url": "https://www.perryts.com/",
+    "title": "Perry Compiles TypeScript directly to executables using SWC and LLVM"
   },
   {
     "source": "hn",
@@ -31,18 +31,13 @@
   },
   {
     "source": "hn",
-    "url": "https://www.inkandswitch.com/tangents/bijou64/",
-    "title": "Bijou64: A variable-length integer encoding"
-  },
-  {
-    "source": "hn",
     "url": "https://mastrojs.github.io/blog/2026-05-23-is-AI-causing-a-repeat-of-frontends-lost-decade/",
     "title": "Is AI causing a repeat of frontend’s lost decade?"
   },
   {
     "source": "hn",
-    "url": "https://pierre.computer/writing/on-rendering-diffs",
-    "title": "On Rendering Diffs"
+    "url": "https://www.inkandswitch.com/tangents/bijou64/",
+    "title": "Bijou64: A variable-length integer encoding"
   },
   {
     "source": "hn",
@@ -51,23 +46,13 @@
   },
   {
     "source": "hn",
+    "url": "https://pierre.computer/writing/on-rendering-diffs",
+    "title": "On Rendering Diffs"
+  },
+  {
+    "source": "hn",
     "url": "https://daringfireball.net/2026/05/what_is_a_dickover",
     "title": "What Is a Dickover?"
-  },
-  {
-    "source": "hn",
-    "url": "https://rockstarintel.com/gta-6-developers-announce-rockstar-games-union/",
-    "title": "GTA 6 Developers Unionize"
-  },
-  {
-    "source": "hn",
-    "url": "https://noperator.dev/posts/you-can-just-say-it/",
-    "title": "You can just say it"
-  },
-  {
-    "source": "hn",
-    "url": "https://blog.emberjs.com/ember-released-7-0/",
-    "title": "Ember.js 7.0"
   },
   {
     "source": "lobsters",
@@ -76,13 +61,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://lpcvoid.com/blog/0018_why_i_am_against_genai/index.html",
-    "title": "Why I am against GenAI and everything it stands for"
+    "url": "http://hypercritical.co/2026/05/29/ev-stupidity-checklist",
+    "title": "EV Stupidity Checklist"
   },
   {
     "source": "lobsters",
-    "url": "http://hypercritical.co/2026/05/29/ev-stupidity-checklist",
-    "title": "EV Stupidity Checklist"
+    "url": "https://lpcvoid.com/blog/0018_why_i_am_against_genai/index.html",
+    "title": "Why I am against GenAI and everything it stands for"
   },
   {
     "source": "lobsters",
@@ -106,13 +91,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://nesbitt.io/2026/05/28/protestware-for-coding-agents.html",
-    "title": "Protestware for coding agents"
+    "url": "https://the-nnn-stack.github.io",
+    "title": "NNN Stack: NixOS, Niri, Noctalia"
   },
   {
     "source": "lobsters",
-    "url": "https://the-nnn-stack.github.io",
-    "title": "NNN Stack: NixOS, Niri, Noctalia"
+    "url": "https://nesbitt.io/2026/05/28/protestware-for-coding-agents.html",
+    "title": "Protestware for coding agents"
   },
   {
     "source": "lobsters",
@@ -138,95 +123,5 @@
     "source": "lobsters",
     "url": "https://blog.nlnetlabs.nl/one-year-of-roto-the-compiled-scripting-language-for-rust/",
     "title": "One year of Roto, the compiled scripting language for Rust"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://blog.tangled.org/ssh/",
-    "title": "tail CI logs over SSH"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://arps18.github.io/posts/claude-code-mastery/",
-    "title": "Beyond the Prompt: Claude Code | Arpan Patel"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://simonwillison.net/2026/May/27/product-market-fit/",
-    "title": "I think Anthropic and OpenAI have found product-market fit"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://nooneshappy.com/article/appearing-productive-in-the-workplace/",
-    "title": "Appearing Productive in The Workplace — No One's Happy"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://unsung.aresluna.org/a-few-interesting-modern-pixel-fonts/",
-    "title": "A few interesting modern pixel fonts – Unsung"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://rubbishtalk.com/economy/how-private-equity-bought-americas-essential-services/",
-    "title": "How Private Equity Bought America’s Essential Services | Rubbish Talk"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://mlsu.io/posts/day-off/",
-    "title": "Can we have the day off?"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.jonaharagon.com/posts/im-getting-into-mesh-networks-meshtastic-meshcore-and-reticulum/",
-    "title": "I'm Getting Into Mesh Networks... (Meshtastic, MeshCore, and Reticulum)"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://nooneshappy.com/article/the-ai-bubble/",
-    "title": "The AI Bubble — No One's Happy"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://lucumr.pocoo.org/2026/5/26/clankers/",
-    "title": "Clanker: A Word For The Machine | Armin Ronacher's Thoughts and Writings"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.noaa.gov/jetstream/clouds/ten-basic-clouds",
-    "title": "Ten Basic Clouds | National Oceanic and Atmospheric Administration"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://irisphotos.app/",
-    "title": "Iris Photos — A native macOS photo library"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://drobinin.com/posts/am-i-a-bad-friend/",
-    "title": "1.2M Messages to Obsidian - Building a Relationship Map from 20 Years of Chat History"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://shvbsle.in/various-llm-smells/",
-    "title": "Various LLM smells | Shiv After Dark"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://padhye.org/raft-minority/",
-    "title": "Raft Consensus with a Minority of Nodes"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://nolanlawson.com/2026/05/25/using-ai-to-write-better-code-more-slowly/",
-    "title": "Using AI to write better code more slowly | Read the Tea Leaves"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://noslopgrenade.com/",
-    "title": "no slop grenade"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://isaiprofitable.com/",
-    "title": "Is AI Profitable Yet?"
   }
 ]
