@@ -16,13 +16,13 @@
   },
   {
     "source": "hn",
-    "url": "https://www.jeffgeerling.com/blog/2026/its-hard-to-justify-framework-12/",
-    "title": "It's hard to justify buying a Framework 12"
+    "url": "https://overreacted.io/algebraic-effects-for-the-rest-of-us/",
+    "title": "Algebraic Effects for the Rest of Us"
   },
   {
     "source": "hn",
-    "url": "https://blog.emberjs.com/ember-released-7-0/",
-    "title": "Ember.js 7.0"
+    "url": "https://www.jeffgeerling.com/blog/2026/its-hard-to-justify-framework-12/",
+    "title": "It's hard to justify buying a Framework 12"
   },
   {
     "source": "hn",
@@ -31,8 +31,23 @@
   },
   {
     "source": "hn",
+    "url": "https://blog.emberjs.com/ember-released-7-0/",
+    "title": "Ember.js 7.0"
+  },
+  {
+    "source": "hn",
     "url": "https://daringfireball.net/2026/05/what_is_a_dickover",
     "title": "What Is a Dickover?"
+  },
+  {
+    "source": "hn",
+    "url": "https://mastrojs.github.io/blog/2026-05-23-is-AI-causing-a-repeat-of-frontends-lost-decade/",
+    "title": "Is AI causing a repeat of frontend’s lost decade?"
+  },
+  {
+    "source": "hn",
+    "url": "https://railsatscale.com/2026-05-27-a-new-register-allocator-for-zjit/",
+    "title": "A new register allocator for ZJIT"
   },
   {
     "source": "hn",
@@ -46,11 +61,6 @@
   },
   {
     "source": "hn",
-    "url": "https://mastrojs.github.io/blog/2026-05-23-is-AI-causing-a-repeat-of-frontends-lost-decade/",
-    "title": "Is AI causing a repeat of frontend’s lost decade?"
-  },
-  {
-    "source": "hn",
     "url": "https://minimaxir.com/2026/05/openrouter-hy3/",
     "title": "The mysterious Hy3 LLM is topping OpenRouter Model Rankings by a large margin"
   },
@@ -61,18 +71,13 @@
   },
   {
     "source": "hn",
-    "url": "https://tvexplorer.live",
-    "title": "Show HN: TV Explorer. Adding advanced UI to free online TV"
-  },
-  {
-    "source": "hn",
     "url": "https://vickiboykis.com/2026/05/28/we-should-be-more-tired-than-the-model/",
     "title": "We should be more tired than the model"
   },
   {
     "source": "hn",
-    "url": "https://commonedge.org/high-density-living-2000-years-ago-inside-the-roman-apartment-building/",
-    "title": "High Density Living, 2000 Years Ago: Inside the Roman Apartment Building"
+    "url": "https://tvexplorer.live",
+    "title": "Show HN: TV Explorer. Adding advanced UI to free online TV"
   },
   {
     "source": "lobsters",
@@ -86,13 +91,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://simonwillison.net/2026/May/27/sqlite-agents/",
-    "title": "SQLite Does Not Accept Agentic Code"
+    "url": "http://hypercritical.co/2026/05/29/ev-stupidity-checklist",
+    "title": "EV Stupidity Checklist"
   },
   {
     "source": "lobsters",
-    "url": "http://hypercritical.co/2026/05/29/ev-stupidity-checklist",
-    "title": "EV Stupidity Checklist"
+    "url": "https://simonwillison.net/2026/May/27/sqlite-agents/",
+    "title": "SQLite Does Not Accept Agentic Code"
   },
   {
     "source": "lobsters",
@@ -116,23 +121,23 @@
   },
   {
     "source": "lobsters",
-    "url": "https://blog.rust-lang.org/2026/05/28/Rust-1.96.0/",
-    "title": "Announcing Rust 1.96.0"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://blog.racket-lang.org/2026/05/racket-v9-2.html",
-    "title": "Racket v9.2"
-  },
-  {
-    "source": "lobsters",
     "url": "https://the-nnn-stack.github.io",
     "title": "NNN Stack: NixOS, Niri, Noctalia"
   },
   {
     "source": "lobsters",
+    "url": "https://blog.rust-lang.org/2026/05/28/Rust-1.96.0/",
+    "title": "Announcing Rust 1.96.0"
+  },
+  {
+    "source": "lobsters",
     "url": "https://waspdev.com/articles/2026-05-11/avoid-using-cdata-in-rss",
     "title": "Avoid using \"<![CDATA[ ... ]]>\" in RSS"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://blog.racket-lang.org/2026/05/racket-v9-2.html",
+    "title": "Racket v9.2"
   },
   {
     "source": "lobsters",
@@ -161,8 +166,8 @@
   },
   {
     "source": "pinboard",
-    "url": "https://unsung.aresluna.org/a-few-interesting-modern-pixel-fonts/",
-    "title": "A few interesting modern pixel fonts – Unsung"
+    "url": "https://simonwillison.net/2026/May/27/product-market-fit/",
+    "title": "I think Anthropic and OpenAI have found product-market fit"
   },
   {
     "source": "pinboard",
@@ -171,13 +176,8 @@
   },
   {
     "source": "pinboard",
-    "url": "https://nolanlawson.com/2026/05/25/using-ai-to-write-better-code-more-slowly/",
-    "title": "Using AI to write better code more slowly | Read the Tea Leaves"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://simonwillison.net/2026/May/27/product-market-fit/",
-    "title": "I think Anthropic and OpenAI have found product-market fit"
+    "url": "https://unsung.aresluna.org/a-few-interesting-modern-pixel-fonts/",
+    "title": "A few interesting modern pixel fonts – Unsung"
   },
   {
     "source": "pinboard",
@@ -186,28 +186,8 @@
   },
   {
     "source": "pinboard",
-    "url": "https://pluralistic.net/2026/05/26/the-ai-will-continue/",
-    "title": "Pluralistic: The AI bubble isn’t like the internet bubble (26 May 2026) – Pluralistic: Daily links from Cory Doctorow"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.dougmacdowell.com/50-hours-to-draw-some-lines.html",
-    "title": "50 Hours to Draw Some Lines - Doug MacDowell"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://lucumr.pocoo.org/2026/5/26/clankers/",
-    "title": "Clanker: A Word For The Machine | Armin Ronacher's Thoughts and Writings"
-  },
-  {
-    "source": "pinboard",
     "url": "https://mlsu.io/posts/day-off/",
     "title": "Can we have the day off?"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://thefrontpage.dev/",
-    "title": "Hacker News front page as a newspaper"
   },
   {
     "source": "pinboard",
@@ -216,18 +196,18 @@
   },
   {
     "source": "pinboard",
-    "url": "https://isaiprofitable.com/",
-    "title": "Is AI Profitable Yet?"
+    "url": "https://nooneshappy.com/article/the-ai-bubble/",
+    "title": "The AI Bubble — No One's Happy"
   },
   {
     "source": "pinboard",
-    "url": "https://rothko.joonas.wtf/",
-    "title": "Current Rothko"
+    "url": "https://lucumr.pocoo.org/2026/5/26/clankers/",
+    "title": "Clanker: A Word For The Machine | Armin Ronacher's Thoughts and Writings"
   },
   {
     "source": "pinboard",
-    "url": "https://miniscript.org/MiniMicro/index.html#about",
-    "title": "Mini Micro"
+    "url": "https://www.noaa.gov/jetstream/clouds/ten-basic-clouds",
+    "title": "Ten Basic Clouds | National Oceanic and Atmospheric Administration"
   },
   {
     "source": "pinboard",
@@ -236,12 +216,32 @@
   },
   {
     "source": "pinboard",
+    "url": "https://drobinin.com/posts/am-i-a-bad-friend/",
+    "title": "1.2M Messages to Obsidian - Building a Relationship Map from 20 Years of Chat History"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://shvbsle.in/various-llm-smells/",
+    "title": "Various LLM smells | Shiv After Dark"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://padhye.org/raft-minority/",
+    "title": "Raft Consensus with a Minority of Nodes"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://nolanlawson.com/2026/05/25/using-ai-to-write-better-code-more-slowly/",
+    "title": "Using AI to write better code more slowly | Read the Tea Leaves"
+  },
+  {
+    "source": "pinboard",
     "url": "https://noslopgrenade.com/",
     "title": "no slop grenade"
   },
   {
     "source": "pinboard",
-    "url": "https://drobinin.com/posts/am-i-a-bad-friend/",
-    "title": "1.2M Messages to Obsidian - Building a Relationship Map from 20 Years of Chat History"
+    "url": "https://isaiprofitable.com/",
+    "title": "Is AI Profitable Yet?"
   }
 ]
