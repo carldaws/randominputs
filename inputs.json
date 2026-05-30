@@ -1,6 +1,11 @@
 [
   {
     "source": "hn",
+    "url": "https://ziglang.org/devlog/2026/#2026-05-26",
+    "title": "Zig: Build System Reworked"
+  },
+  {
+    "source": "hn",
     "url": "https://overreacted.io/algebraic-effects-for-the-rest-of-us/",
     "title": "Algebraic Effects for the Rest of Us"
   },
@@ -11,13 +16,13 @@
   },
   {
     "source": "hn",
-    "url": "https://blog.prusa3d.com/our-new-open-source-colormix-model-in-prusaslicer-and-easyprint_136079/",
-    "title": "Print with dozens of colors: Our new open-source ColorMix for PrusaSlicer"
+    "url": "https://asawicki.info/news_1802_floor_and_ceil_versus_denormals_on_cpu_and_gpu",
+    "title": "Floor and Ceil versus Denormals on CPU and GPU"
   },
   {
     "source": "hn",
-    "url": "https://www.perryts.com/",
-    "title": "Perry Compiles TypeScript directly to executables using SWC and LLVM"
+    "url": "https://blog.prusa3d.com/our-new-open-source-colormix-model-in-prusaslicer-and-easyprint_136079/",
+    "title": "Print with dozens of colors: Our new open-source ColorMix for PrusaSlicer"
   },
   {
     "source": "hn",
@@ -31,6 +36,11 @@
   },
   {
     "source": "hn",
+    "url": "https://www.perryts.com/",
+    "title": "Perry Compiles TypeScript directly to executables using SWC and LLVM"
+  },
+  {
+    "source": "hn",
     "url": "https://mastrojs.github.io/blog/2026-05-23-is-AI-causing-a-repeat-of-frontends-lost-decade/",
     "title": "Is AI causing a repeat of frontend’s lost decade?"
   },
@@ -41,11 +51,6 @@
   },
   {
     "source": "hn",
-    "url": "https://minimaxir.com/2026/05/openrouter-hy3/",
-    "title": "The mysterious Hy3 LLM is topping OpenRouter Model Rankings by a large margin"
-  },
-  {
-    "source": "hn",
     "url": "https://pierre.computer/writing/on-rendering-diffs",
     "title": "On Rendering Diffs"
   },
@@ -53,6 +58,11 @@
     "source": "hn",
     "url": "https://daringfireball.net/2026/05/what_is_a_dickover",
     "title": "What Is a Dickover?"
+  },
+  {
+    "source": "hn",
+    "url": "https://rockstarintel.com/gta-6-developers-announce-rockstar-games-union/",
+    "title": "GTA 6 Developers Unionize"
   },
   {
     "source": "lobsters",
@@ -71,18 +81,18 @@
   },
   {
     "source": "lobsters",
-    "url": "https://simonwillison.net/2026/May/27/sqlite-agents/",
-    "title": "SQLite Does Not Accept Agentic Code"
-  },
-  {
-    "source": "lobsters",
     "url": "https://marcelotryle.com/blog/2026/05/28/cve-2026-48710-a-maintainers-perspective/",
     "title": "CVE-2026-48710: A Maintainer's Perspective"
   },
   {
     "source": "lobsters",
     "url": "https://www.jstor.org/content/pdf/oa_chapter_edited/jj.40494811.19?acceptTC=true&coverpage=false&addFooter=false",
-    "title": "The Critical State of Cyberspacs"
+    "title": "The Critical State of Cyberspace"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://simonwillison.net/2026/May/27/sqlite-agents/",
+    "title": "SQLite Does Not Accept Agentic Code"
   },
   {
     "source": "lobsters",
