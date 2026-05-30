@@ -11,13 +11,13 @@
   },
   {
     "source": "hn",
-    "url": "https://www.jeffgeerling.com/blog/2026/its-hard-to-justify-framework-12/",
-    "title": "It's hard to justify buying a Framework 12"
+    "url": "https://blog.chrislewis.au/snowboard-kids-2-is-100-decompiled/",
+    "title": "Snowboard Kids 2 is 100% Decompiled"
   },
   {
     "source": "hn",
-    "url": "https://pierre.computer/writing/on-rendering-diffs",
-    "title": "On Rendering Diffs"
+    "url": "https://www.jeffgeerling.com/blog/2026/its-hard-to-justify-framework-12/",
+    "title": "It's hard to justify buying a Framework 12"
   },
   {
     "source": "hn",
@@ -26,8 +26,8 @@
   },
   {
     "source": "hn",
-    "url": "https://rothko.joonas.wtf/",
-    "title": "Rothko for your current weather conditions"
+    "url": "https://pierre.computer/writing/on-rendering-diffs",
+    "title": "On Rendering Diffs"
   },
   {
     "source": "hn",
@@ -36,23 +36,13 @@
   },
   {
     "source": "hn",
+    "url": "https://rothko.joonas.wtf/",
+    "title": "Rothko for your current weather conditions"
+  },
+  {
+    "source": "hn",
     "url": "https://rockstarintel.com/gta-6-developers-announce-rockstar-games-union/",
     "title": "GTA 6 Developers Unionize"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.zot.sh",
-    "title": "Show HN: Zot – Yet another coding agent harness"
-  },
-  {
-    "source": "hn",
-    "url": "https://tvexplorer.live",
-    "title": "Show HN: TV Explorer. Adding advanced UI to free online TV"
-  },
-  {
-    "source": "hn",
-    "url": "https://dles.gg/blog/dles-gg-manifesto",
-    "title": "Why I collect DLES"
   },
   {
     "source": "hn",
@@ -61,8 +51,23 @@
   },
   {
     "source": "hn",
+    "url": "https://tvexplorer.live",
+    "title": "Show HN: TV Explorer. Adding advanced UI to free online TV"
+  },
+  {
+    "source": "hn",
     "url": "https://minimaxir.com/2026/05/openrouter-hy3/",
     "title": "The mysterious Hy3 LLM is topping OpenRouter Model Rankings by a large margin"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.zot.sh",
+    "title": "Show HN: Zot – Yet another coding agent harness"
+  },
+  {
+    "source": "hn",
+    "url": "https://dles.gg/blog/dles-gg-manifesto",
+    "title": "Why I collect DLES"
   },
   {
     "source": "hn",
@@ -78,6 +83,11 @@
     "source": "hn",
     "url": "https://vickiboykis.com/2026/05/28/we-should-be-more-tired-than-the-model/",
     "title": "We should be more tired than the model"
+  },
+  {
+    "source": "hn",
+    "url": "https://commonedge.org/high-density-living-2000-years-ago-inside-the-roman-apartment-building/",
+    "title": "High Density Living, 2000 Years Ago: Inside the Roman Apartment Building"
   },
   {
     "source": "lobsters",
@@ -131,6 +141,11 @@
   },
   {
     "source": "lobsters",
+    "url": "http://hypercritical.co/2026/05/29/ev-stupidity-checklist",
+    "title": "EV Stupidity Checklist"
+  },
+  {
+    "source": "lobsters",
     "url": "https://waspdev.com/articles/2026-05-11/avoid-using-cdata-in-rss",
     "title": "Avoid using \"<![CDATA[ ... ]]>\" in RSS"
   },
@@ -143,11 +158,6 @@
     "source": "lobsters",
     "url": "https://redvice.org/2026/lunacy/",
     "title": "Lunacy - Lua 5.1 interpreter with Lazy Basic Block Versioning and JIT"
-  },
-  {
-    "source": "lobsters",
-    "url": "http://hypercritical.co/2026/05/29/ev-stupidity-checklist",
-    "title": "EV Stupidity Checklist"
   },
   {
     "source": "lobsters",
