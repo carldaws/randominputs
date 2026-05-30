@@ -1,8 +1,8 @@
 [
   {
     "source": "hn",
-    "url": "https://ziglang.org/devlog/2026/#2026-05-30",
-    "title": "Zig ELF Linker Improvements Devlog"
+    "url": "https://www.brethorsting.com/blog/2026/05/domain-expertise-has-always-been-the-real-moat/",
+    "title": "Domain expertise has always been the real moat"
   },
   {
     "source": "hn",
@@ -11,18 +11,23 @@
   },
   {
     "source": "hn",
+    "url": "https://ziglang.org/devlog/2026/#2026-05-30",
+    "title": "Zig ELF Linker Improvements Devlog"
+  },
+  {
+    "source": "hn",
     "url": "https://ajin.im/is/building/omen.ops/",
     "title": "Show HN: 500 years of Joseon court omens as an observability dashboard"
   },
   {
     "source": "hn",
-    "url": "https://www.brethorsting.com/blog/2026/05/domain-expertise-has-always-been-the-real-moat/",
-    "title": "Domain expertise has always been the real moat"
+    "url": "https://s-macke.github.io/VoxelSpace/",
+    "title": "Voxel Space (2017)"
   },
   {
     "source": "hn",
-    "url": "https://s-macke.github.io/VoxelSpace/",
-    "title": "Voxel Space (2017)"
+    "url": "https://twilitrealm.dev/",
+    "title": "Dusklight – GC Twilight Princess Decompiled"
   },
   {
     "source": "hn",
@@ -36,6 +41,11 @@
   },
   {
     "source": "hn",
+    "url": "https://openenvelope.org/docs/schema/",
+    "title": "Show HN: Open Envelope – an open schema for defining AI agent teams"
+  },
+  {
+    "source": "hn",
     "url": "https://pandoc-templates.org/",
     "title": "Pandoc Templates"
   },
@@ -43,11 +53,6 @@
     "source": "hn",
     "url": "https://fsgworkinprogress.com/2014/09/26/insignificant-bullets-evil-poachers-and-l-a-culture/",
     "title": "Werner Herzog in conversation with Paul Cronin (2014)"
-  },
-  {
-    "source": "hn",
-    "url": "https://twilitrealm.dev/",
-    "title": "Dusklight – GC Twilight Princess Decompiled"
   },
   {
     "source": "hn",
@@ -66,8 +71,8 @@
   },
   {
     "source": "hn",
-    "url": "https://www.tonyrice.me/emotional-intelligence/",
-    "title": "We are constantly broadcasting emotional data"
+    "url": "https://interfaces.dev/",
+    "title": "Design Engineering Magazine"
   },
   {
     "source": "hn",
@@ -81,8 +86,8 @@
   },
   {
     "source": "hn",
-    "url": "https://SearchingForBirds.VisualCinnamon.com/",
-    "title": "Searching for Birds"
+    "url": "https://jackmaguire.org/blog/ai-job-grief/",
+    "title": "AI job grief: A psychological crisis hitting tech workers"
   },
   {
     "source": "lobsters",
@@ -131,23 +136,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://marcelotryle.com/blog/2026/05/28/cve-2026-48710-a-maintainers-perspective/",
-    "title": "CVE-2026-48710: A Maintainer's Perspective"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://typicalhq.vercel.app/",
-    "title": "Detect and profile fonts on any website, revealing their properties and metadata"
-  },
-  {
-    "source": "lobsters",
     "url": "https://web.archive.org/web/20071014215938/http://homepage.mac.com/sigfpe/Computing/fold.html",
     "title": "Coalgebras and Automata"
   },
   {
     "source": "lobsters",
-    "url": "https://fuzzinglabs.com/wp-content/uploads/2026/05/Navigating_iOS_MTE_Landscape.pdf",
-    "title": "Navigating the MTE Landscape: iOS Memory Protection Deep Dive"
+    "url": "https://marcelotryle.com/blog/2026/05/28/cve-2026-48710-a-maintainers-perspective/",
+    "title": "CVE-2026-48710: A Maintainer's Perspective"
   },
   {
     "source": "lobsters",
@@ -156,8 +151,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://carlschwan.eu/2026/05/30/marknote-1.6.0/",
-    "title": "Marknote 1.6.0"
+    "url": "https://blog.wybxc.cc/blog/pretty-printer-pye/",
+    "title": "A New Design for Pretty Printer Implementations in Rust"
   },
   {
     "source": "lobsters",
@@ -166,13 +161,23 @@
   },
   {
     "source": "lobsters",
-    "url": "https://simonwillison.net/2026/May/27/sqlite-agents/",
-    "title": "SQLite Does Not Accept Agentic Code"
+    "url": "https://fuzzinglabs.com/wp-content/uploads/2026/05/Navigating_iOS_MTE_Landscape.pdf",
+    "title": "Navigating the MTE Landscape: iOS Memory Protection Deep Dive"
   },
   {
     "source": "lobsters",
-    "url": "https://the-nnn-stack.github.io",
-    "title": "NNN Stack: NixOS, Niri, Noctalia"
+    "url": "https://carlschwan.eu/2026/05/30/marknote-1.6.0/",
+    "title": "Marknote 1.6.0"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://typicalhq.vercel.app/",
+    "title": "Detect and profile fonts on any website, revealing their properties and metadata"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://simonwillison.net/2026/May/27/sqlite-agents/",
+    "title": "SQLite Does Not Accept Agentic Code"
   },
   {
     "source": "pinboard",
