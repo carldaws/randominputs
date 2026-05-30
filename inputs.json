@@ -11,8 +11,8 @@
   },
   {
     "source": "hn",
-    "url": "https://pandoc-templates.org/",
-    "title": "Pandoc Templates"
+    "url": "https://www.righto.com/2026/05/microcode-inside-intel-8087-floating.html",
+    "title": "Microcode inside the Intel 8087 floating-point chip: register exchange"
   },
   {
     "source": "hn",
@@ -21,8 +21,8 @@
   },
   {
     "source": "hn",
-    "url": "https://www.righto.com/2026/05/microcode-inside-intel-8087-floating.html",
-    "title": "Microcode inside the Intel 8087 floating-point chip: register exchange"
+    "url": "https://pandoc-templates.org/",
+    "title": "Pandoc Templates"
   },
   {
     "source": "hn",
@@ -36,6 +36,11 @@
   },
   {
     "source": "hn",
+    "url": "https://SearchingForBirds.VisualCinnamon.com/",
+    "title": "Searching for Birds"
+  },
+  {
+    "source": "hn",
     "url": "https://ziglang.org/devlog/2026/#2026-05-26",
     "title": "Zig: Build System Reworked"
   },
@@ -46,13 +51,13 @@
   },
   {
     "source": "hn",
-    "url": "https://thecretefleet.com/blog/f/testing-the-wwi-concrete-ships-and-wwii-concrete-barges",
-    "title": "Testing the WWI concrete ships and WWII concrete barges"
+    "url": "https://www.massicotte.org/stateless-actors/",
+    "title": "Stateless Actors"
   },
   {
     "source": "hn",
-    "url": "https://www.massicotte.org/stateless-actors/",
-    "title": "Stateless Actors"
+    "url": "https://thecretefleet.com/blog/f/testing-the-wwi-concrete-ships-and-wwii-concrete-barges",
+    "title": "Testing the WWI concrete ships and WWII concrete barges"
   },
   {
     "source": "hn",
@@ -62,7 +67,7 @@
   {
     "source": "hn",
     "url": "https://sigbovik.org/2026/proceedings.pdf#%5B%7B%22num%22%3A13%2C%22gen%22%3A0%7D%2C%7B%22name%22%3A%22XYZ%22%7D%2C72%2C720%2Cnull%5D",
-    "title": "A Probabilistic Algorithm for Repairing All Roads in Lebanon via Papal Visits"
+    "title": "A Probabilistic Algorithm for Repairing All Roads in Lebanon via Papal Visits (2025)"
   },
   {
     "source": "hn",
@@ -73,16 +78,6 @@
     "source": "hn",
     "url": "https://blog.prusa3d.com/our-new-open-source-colormix-model-in-prusaslicer-and-easyprint_136079/",
     "title": "Print with dozens of colors: Our new open-source ColorMix for PrusaSlicer"
-  },
-  {
-    "source": "hn",
-    "url": "https://asawicki.info/news_1802_floor_and_ceil_versus_denormals_on_cpu_and_gpu",
-    "title": "Floor and Ceil versus Denormals on CPU and GPU"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.jeffgeerling.com/blog/2026/its-hard-to-justify-framework-12/",
-    "title": "It's hard to justify buying a Framework 12"
   },
   {
     "source": "lobsters",
@@ -101,13 +96,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://toast.al/posts/techlore/2026-05-30_nix-on-sailfish-os/",
-    "title": "Nix on Sailfish X (Sailfish OS for Sony Xperia)"
+    "url": "http://hypercritical.co/2026/05/29/ev-stupidity-checklist",
+    "title": "EV Stupidity Checklist"
   },
   {
     "source": "lobsters",
-    "url": "http://hypercritical.co/2026/05/29/ev-stupidity-checklist",
-    "title": "EV Stupidity Checklist"
+    "url": "https://toast.al/posts/techlore/2026-05-30_nix-on-sailfish-os/",
+    "title": "Nix on Sailfish X (Sailfish OS for Sony Xperia)"
   },
   {
     "source": "lobsters",
@@ -116,13 +111,18 @@
   },
   {
     "source": "lobsters",
-    "url": "https://www.inkandswitch.com/tangents/bijou64/",
-    "title": "bijou64: A variable-length integer encoding"
+    "url": "https://www.omgubuntu.co.uk/2026/05/flutter-desktop-canonical-maintained",
+    "title": "Canonical takes over Flutter desktop maintenance & roadmap"
   },
   {
     "source": "lobsters",
     "url": "https://lpcvoid.com/blog/0018_why_i_am_against_genai/index.html",
     "title": "Why I am against GenAI and everything it stands for"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://www.inkandswitch.com/tangents/bijou64/",
+    "title": "bijou64: A variable-length integer encoding"
   },
   {
     "source": "lobsters",
@@ -136,13 +136,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://www.jstor.org/content/pdf/oa_chapter_edited/jj.40494811.19?acceptTC=true&coverpage=false&addFooter=false",
-    "title": "The Critical State of Cyberspace"
+    "url": "https://fuzzinglabs.com/wp-content/uploads/2026/05/Navigating_iOS_MTE_Landscape.pdf",
+    "title": "Navigating the MTE Landscape: iOS Memory Protection Deep Dive"
   },
   {
     "source": "lobsters",
-    "url": "https://simonwillison.net/2026/May/27/sqlite-agents/",
-    "title": "SQLite Does Not Accept Agentic Code"
+    "url": "https://www.jstor.org/content/pdf/oa_chapter_edited/jj.40494811.19?acceptTC=true&coverpage=false&addFooter=false",
+    "title": "The Critical State of Cyberspace"
   },
   {
     "source": "lobsters",
@@ -151,13 +151,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://the-nnn-stack.github.io",
-    "title": "NNN Stack: NixOS, Niri, Noctalia"
+    "url": "https://simonwillison.net/2026/May/27/sqlite-agents/",
+    "title": "SQLite Does Not Accept Agentic Code"
   },
   {
     "source": "lobsters",
-    "url": "https://fuzzinglabs.com/wp-content/uploads/2026/05/Navigating_iOS_MTE_Landscape.pdf",
-    "title": "Navigating the MTE Landscape: iOS Memory Protection Deep Dive"
+    "url": "https://the-nnn-stack.github.io",
+    "title": "NNN Stack: NixOS, Niri, Noctalia"
   },
   {
     "source": "lobsters",
@@ -166,97 +166,12 @@
   },
   {
     "source": "lobsters",
-    "url": "https://www.omgubuntu.co.uk/2026/05/flutter-desktop-canonical-maintained",
-    "title": "Canonical takes over Flutter desktop maintenance & roadmap"
-  },
-  {
-    "source": "lobsters",
     "url": "https://mforney.org/blog/2026-05-28-patching-my-guitar-amps-firmware.html",
     "title": "Patching my guitar amp's firmware"
   },
   {
-    "source": "pinboard",
-    "url": "https://arps18.github.io/posts/claude-code-mastery/",
-    "title": "Beyond the Prompt: Claude Code | Arpan Patel"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://simonwillison.net/2026/May/27/product-market-fit/",
-    "title": "I think Anthropic and OpenAI have found product-market fit"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://nooneshappy.com/article/appearing-productive-in-the-workplace/",
-    "title": "Appearing Productive in The Workplace — No One's Happy"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://unsung.aresluna.org/a-few-interesting-modern-pixel-fonts/",
-    "title": "A few interesting modern pixel fonts – Unsung"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://rubbishtalk.com/economy/how-private-equity-bought-americas-essential-services/",
-    "title": "How Private Equity Bought America’s Essential Services | Rubbish Talk"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://mlsu.io/posts/day-off/",
-    "title": "Can we have the day off?"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.jonaharagon.com/posts/im-getting-into-mesh-networks-meshtastic-meshcore-and-reticulum/",
-    "title": "I'm Getting Into Mesh Networks... (Meshtastic, MeshCore, and Reticulum)"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://nooneshappy.com/article/the-ai-bubble/",
-    "title": "The AI Bubble — No One's Happy"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://lucumr.pocoo.org/2026/5/26/clankers/",
-    "title": "Clanker: A Word For The Machine | Armin Ronacher's Thoughts and Writings"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.noaa.gov/jetstream/clouds/ten-basic-clouds",
-    "title": "Ten Basic Clouds | National Oceanic and Atmospheric Administration"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://irisphotos.app/",
-    "title": "Iris Photos — A native macOS photo library"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://drobinin.com/posts/am-i-a-bad-friend/",
-    "title": "1.2M Messages to Obsidian - Building a Relationship Map from 20 Years of Chat History"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://shvbsle.in/various-llm-smells/",
-    "title": "Various LLM smells | Shiv After Dark"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://padhye.org/raft-minority/",
-    "title": "Raft Consensus with a Minority of Nodes"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://nolanlawson.com/2026/05/25/using-ai-to-write-better-code-more-slowly/",
-    "title": "Using AI to write better code more slowly | Read the Tea Leaves"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://noslopgrenade.com/",
-    "title": "no slop grenade"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://isaiprofitable.com/",
-    "title": "Is AI Profitable Yet?"
+    "source": "lobsters",
+    "url": "https://nesbitt.io/2026/05/28/protestware-for-coding-agents.html",
+    "title": "Protestware for coding agents"
   }
 ]
