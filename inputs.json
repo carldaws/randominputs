@@ -6,23 +6,28 @@
   },
   {
     "source": "hn",
-    "url": "https://lowendmac.com/2013/jef-raskin-the-visionary-behind-the-mac/",
-    "title": "Jef Raskin, the Visionary Behind the Mac (2013)"
-  },
-  {
-    "source": "hn",
     "url": "https://ziglang.org/devlog/2026/#2026-05-30",
     "title": "Zig ELF Linker Improvements Devlog"
   },
   {
     "source": "hn",
-    "url": "https://ajin.im/is/building/omen.ops/",
-    "title": "Show HN: 500 years of Joseon court omens as an observability dashboard"
+    "url": "https://lowendmac.com/2013/jef-raskin-the-visionary-behind-the-mac/",
+    "title": "Jef Raskin, the Visionary Behind the Mac (2013)"
+  },
+  {
+    "source": "hn",
+    "url": "https://remyhax.xyz/posts/reproducing-lawful-tls-wiretapping/",
+    "title": "Parallel Reconstruction of Lawful TLS Wiretapping"
   },
   {
     "source": "hn",
     "url": "https://s-macke.github.io/VoxelSpace/",
     "title": "Voxel Space (2017)"
+  },
+  {
+    "source": "hn",
+    "url": "https://ajin.im/is/building/omen.ops/",
+    "title": "Show HN: 500 years of Joseon court omens as an observability dashboard"
   },
   {
     "source": "hn",
@@ -36,18 +41,18 @@
   },
   {
     "source": "hn",
-    "url": "https://remyhax.xyz/posts/reproducing-lawful-tls-wiretapping/",
-    "title": "Parallel Reconstruction of Lawful TLS Wiretapping"
-  },
-  {
-    "source": "hn",
-    "url": "https://openenvelope.org/docs/schema/",
-    "title": "Show HN: Open Envelope – an open schema for defining AI agent teams"
+    "url": "https://interfaces.dev/",
+    "title": "Design Engineering Magazine"
   },
   {
     "source": "hn",
     "url": "https://pandoc-templates.org/",
     "title": "Pandoc Templates"
+  },
+  {
+    "source": "hn",
+    "url": "https://openenvelope.org/docs/schema/",
+    "title": "Show HN: Open Envelope – an open schema for defining AI agent teams"
   },
   {
     "source": "hn",
@@ -61,33 +66,23 @@
   },
   {
     "source": "hn",
+    "url": "https://entropicthoughts.com/ninety-percent-of-the-t-distribution",
+    "title": "90% of the T Distribution"
+  },
+  {
+    "source": "hn",
     "url": "https://myzopotamia.dev/navier-stokes-fluid-simulation-explained-with-godot",
     "title": "Navier-Stokes fluid simulation explained with Godot game engine"
   },
   {
     "source": "hn",
     "url": "https://fermatslibrary.com/s/it-takes-two-neurons-to-ride-a-bicycle#email-newsletter",
-    "title": "It Takes Two Neurons to Ride a Bicycle"
-  },
-  {
-    "source": "hn",
-    "url": "https://interfaces.dev/",
-    "title": "Design Engineering Magazine"
+    "title": "It takes two neurons to ride a bicycle (2004)"
   },
   {
     "source": "hn",
     "url": "https://explosion-scratch.github.io/locusts/",
     "title": "What are locusts and what happened to them?"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.massicotte.org/stateless-actors/",
-    "title": "Stateless Actors"
-  },
-  {
-    "source": "hn",
-    "url": "https://jackmaguire.org/blog/ai-job-grief/",
-    "title": "AI job grief: A psychological crisis hitting tech workers"
   },
   {
     "source": "lobsters",
@@ -96,13 +91,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://openpath.quest/2026/i-am-retiring-from-tech-to-live-offline/",
-    "title": "I Am Retiring from Tech to Live Offline"
+    "url": "https://daringfireball.net/2026/05/what_is_a_dickover",
+    "title": "What Is a Dickover?"
   },
   {
     "source": "lobsters",
-    "url": "https://daringfireball.net/2026/05/what_is_a_dickover",
-    "title": "What Is a Dickover?"
+    "url": "https://openpath.quest/2026/i-am-retiring-from-tech-to-live-offline/",
+    "title": "I Am Retiring from Tech to Live Offline"
   },
   {
     "source": "lobsters",
@@ -126,6 +121,26 @@
   },
   {
     "source": "lobsters",
+    "url": "https://blog.wybxc.cc/blog/pretty-printer-pye/",
+    "title": "A New Design for Pretty Printer Implementations in Rust"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://drobinin.com/posts/am-i-a-bad-friend/",
+    "title": "Am I a Bad Friend?"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://web.archive.org/web/20071014215938/http://homepage.mac.com/sigfpe/Computing/fold.html",
+    "title": "Coalgebras and Automata"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://tristonarmstrong.com/blog/custom-errors-are-non-negotiable-in-my-rust-applications",
+    "title": "Custom Errors Are Non-Negotiable in My Rust Applications"
+  },
+  {
+    "source": "lobsters",
     "url": "https://lpcvoid.com/blog/0018_why_i_am_against_genai/index.html",
     "title": "Why I am against GenAI and everything it stands for"
   },
@@ -133,11 +148,6 @@
     "source": "lobsters",
     "url": "https://www.inkandswitch.com/tangents/bijou64/",
     "title": "bijou64: A variable-length integer encoding"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://web.archive.org/web/20071014215938/http://homepage.mac.com/sigfpe/Computing/fold.html",
-    "title": "Coalgebras and Automata"
   },
   {
     "source": "lobsters",
@@ -151,16 +161,6 @@
   },
   {
     "source": "lobsters",
-    "url": "https://blog.wybxc.cc/blog/pretty-printer-pye/",
-    "title": "A New Design for Pretty Printer Implementations in Rust"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://drobinin.com/posts/am-i-a-bad-friend/",
-    "title": "Am I a Bad Friend?"
-  },
-  {
-    "source": "lobsters",
     "url": "https://fuzzinglabs.com/wp-content/uploads/2026/05/Navigating_iOS_MTE_Landscape.pdf",
     "title": "Navigating the MTE Landscape: iOS Memory Protection Deep Dive"
   },
@@ -168,95 +168,5 @@
     "source": "lobsters",
     "url": "https://carlschwan.eu/2026/05/30/marknote-1.6.0/",
     "title": "Marknote 1.6.0"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://typicalhq.vercel.app/",
-    "title": "Detect and profile fonts on any website, revealing their properties and metadata"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://simonwillison.net/2026/May/27/sqlite-agents/",
-    "title": "SQLite Does Not Accept Agentic Code"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://arps18.github.io/posts/claude-code-mastery/",
-    "title": "Beyond the Prompt: Claude Code | Arpan Patel"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://simonwillison.net/2026/May/27/product-market-fit/",
-    "title": "I think Anthropic and OpenAI have found product-market fit"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://nooneshappy.com/article/appearing-productive-in-the-workplace/",
-    "title": "Appearing Productive in The Workplace — No One's Happy"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://unsung.aresluna.org/a-few-interesting-modern-pixel-fonts/",
-    "title": "A few interesting modern pixel fonts – Unsung"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://rubbishtalk.com/economy/how-private-equity-bought-americas-essential-services/",
-    "title": "How Private Equity Bought America’s Essential Services | Rubbish Talk"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://mlsu.io/posts/day-off/",
-    "title": "Can we have the day off?"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.jonaharagon.com/posts/im-getting-into-mesh-networks-meshtastic-meshcore-and-reticulum/",
-    "title": "I'm Getting Into Mesh Networks... (Meshtastic, MeshCore, and Reticulum)"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://nooneshappy.com/article/the-ai-bubble/",
-    "title": "The AI Bubble — No One's Happy"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://lucumr.pocoo.org/2026/5/26/clankers/",
-    "title": "Clanker: A Word For The Machine | Armin Ronacher's Thoughts and Writings"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.noaa.gov/jetstream/clouds/ten-basic-clouds",
-    "title": "Ten Basic Clouds | National Oceanic and Atmospheric Administration"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://irisphotos.app/",
-    "title": "Iris Photos — A native macOS photo library"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://shvbsle.in/various-llm-smells/",
-    "title": "Various LLM smells | Shiv After Dark"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://padhye.org/raft-minority/",
-    "title": "Raft Consensus with a Minority of Nodes"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://nolanlawson.com/2026/05/25/using-ai-to-write-better-code-more-slowly/",
-    "title": "Using AI to write better code more slowly | Read the Tea Leaves"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://noslopgrenade.com/",
-    "title": "no slop grenade"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://isaiprofitable.com/",
-    "title": "Is AI Profitable Yet?"
   }
 ]
