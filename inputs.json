@@ -36,18 +36,8 @@
   },
   {
     "source": "hn",
-    "url": "https://blog.emberjs.com/ember-released-7-0/",
-    "title": "Ember.js 7.0"
-  },
-  {
-    "source": "hn",
     "url": "https://mastrojs.github.io/blog/2026-05-23-is-AI-causing-a-repeat-of-frontends-lost-decade/",
     "title": "Is AI causing a repeat of frontend’s lost decade?"
-  },
-  {
-    "source": "hn",
-    "url": "https://daringfireball.net/2026/05/what_is_a_dickover",
-    "title": "What Is a Dickover?"
   },
   {
     "source": "hn",
@@ -61,8 +51,8 @@
   },
   {
     "source": "hn",
-    "url": "https://noperator.dev/posts/you-can-just-say-it/",
-    "title": "You can just say it"
+    "url": "https://daringfireball.net/2026/05/what_is_a_dickover",
+    "title": "What Is a Dickover?"
   },
   {
     "source": "hn",
@@ -71,8 +61,13 @@
   },
   {
     "source": "hn",
-    "url": "https://tvexplorer.live",
-    "title": "Show HN: TV Explorer. Adding advanced UI to free online TV"
+    "url": "https://noperator.dev/posts/you-can-just-say-it/",
+    "title": "You can just say it"
+  },
+  {
+    "source": "hn",
+    "url": "https://blog.emberjs.com/ember-released-7-0/",
+    "title": "Ember.js 7.0"
   },
   {
     "source": "lobsters",
@@ -116,13 +111,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://mforney.org/blog/2026-05-28-patching-my-guitar-amps-firmware.html",
-    "title": "Patching my guitar amp's firmware"
+    "url": "https://the-nnn-stack.github.io",
+    "title": "NNN Stack: NixOS, Niri, Noctalia"
   },
   {
     "source": "lobsters",
-    "url": "https://the-nnn-stack.github.io",
-    "title": "NNN Stack: NixOS, Niri, Noctalia"
+    "url": "https://mforney.org/blog/2026-05-28-patching-my-guitar-amps-firmware.html",
+    "title": "Patching my guitar amp's firmware"
   },
   {
     "source": "lobsters",
