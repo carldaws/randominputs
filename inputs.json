@@ -6,6 +6,11 @@
   },
   {
     "source": "hn",
+    "url": "https://ajin.im/is/building/omen.ops/",
+    "title": "Show HN: 500 years of Joseon court omens as an observability dashboard"
+  },
+  {
+    "source": "hn",
     "url": "https://s-macke.github.io/VoxelSpace/",
     "title": "Voxel Space"
   },
@@ -16,18 +21,23 @@
   },
   {
     "source": "hn",
-    "url": "https://fsgworkinprogress.com/2014/09/26/insignificant-bullets-evil-poachers-and-l-a-culture/",
-    "title": "Werner Herzog in conversation with Paul Cronin (2014)"
-  },
-  {
-    "source": "hn",
     "url": "https://pandoc-templates.org/",
     "title": "Pandoc Templates"
   },
   {
     "source": "hn",
-    "url": "https://myzopotamia.dev/navier-stokes-fluid-simulation-explained-with-godot",
-    "title": "Navier-Stokes fluid simulation explained with Godot game engine"
+    "url": "https://remyhax.xyz/posts/reproducing-lawful-tls-wiretapping/",
+    "title": "Parallel Reconstruction of Lawful TLS Wiretapping"
+  },
+  {
+    "source": "hn",
+    "url": "https://lowendmac.com/2013/jef-raskin-the-visionary-behind-the-mac/",
+    "title": "Jef Raskin, the Visionary Behind the Mac (2013)"
+  },
+  {
+    "source": "hn",
+    "url": "https://fsgworkinprogress.com/2014/09/26/insignificant-bullets-evil-poachers-and-l-a-culture/",
+    "title": "Werner Herzog in conversation with Paul Cronin (2014)"
   },
   {
     "source": "hn",
@@ -36,8 +46,8 @@
   },
   {
     "source": "hn",
-    "url": "https://SearchingForBirds.VisualCinnamon.com/",
-    "title": "Searching for Birds"
+    "url": "https://myzopotamia.dev/navier-stokes-fluid-simulation-explained-with-godot",
+    "title": "Navier-Stokes fluid simulation explained with Godot game engine"
   },
   {
     "source": "hn",
@@ -46,8 +56,18 @@
   },
   {
     "source": "hn",
+    "url": "https://www.tonyrice.me/emotional-intelligence/",
+    "title": "We are constantly broadcasting emotional data"
+  },
+  {
+    "source": "hn",
     "url": "https://explosion-scratch.github.io/locusts/",
     "title": "What Happened to the Locusts?"
+  },
+  {
+    "source": "hn",
+    "url": "https://SearchingForBirds.VisualCinnamon.com/",
+    "title": "Searching for Birds"
   },
   {
     "source": "hn",
@@ -61,23 +81,13 @@
   },
   {
     "source": "hn",
+    "url": "https://musings.martyn.berlin/lets-talk-about-eu-sovereignty",
+    "title": "Let's talk about EU Sovereignty (2025)"
+  },
+  {
+    "source": "hn",
     "url": "https://news.northwestern.edu/stories/2026/05/memory-decline-after-menopause-linked-to-loss-of-estrogen-production-in-brain-tissue",
     "title": "Memory decline after menopause linked to loss of estrogen production in brain"
-  },
-  {
-    "source": "hn",
-    "url": "https://sigbovik.org/2026/proceedings.pdf#%5B%7B%22num%22%3A13%2C%22gen%22%3A0%7D%2C%7B%22name%22%3A%22XYZ%22%7D%2C72%2C720%2Cnull%5D",
-    "title": "A Probabilistic Algorithm for Repairing All Roads in Lebanon via Papal Visits (2025)"
-  },
-  {
-    "source": "hn",
-    "url": "https://blog.chrislewis.au/snowboard-kids-2-is-100-decompiled/",
-    "title": "Snowboard Kids 2 is 100% Decompiled"
-  },
-  {
-    "source": "hn",
-    "url": "https://blog.prusa3d.com/our-new-open-source-colormix-model-in-prusaslicer-and-easyprint_136079/",
-    "title": "Print with dozens of colors: Our new open-source ColorMix for PrusaSlicer"
   },
   {
     "source": "lobsters",
@@ -96,13 +106,13 @@
   },
   {
     "source": "lobsters",
-    "url": "http://hypercritical.co/2026/05/29/ev-stupidity-checklist",
-    "title": "EV Stupidity Checklist"
+    "url": "https://toast.al/posts/techlore/2026-05-30_nix-on-sailfish-os/",
+    "title": "Nix on Sailfish X (Sailfish OS for Sony Xperia)"
   },
   {
     "source": "lobsters",
-    "url": "https://toast.al/posts/techlore/2026-05-30_nix-on-sailfish-os/",
-    "title": "Nix on Sailfish X (Sailfish OS for Sony Xperia)"
+    "url": "http://hypercritical.co/2026/05/29/ev-stupidity-checklist",
+    "title": "EV Stupidity Checklist"
   },
   {
     "source": "lobsters",
@@ -168,10 +178,5 @@
     "source": "lobsters",
     "url": "https://mforney.org/blog/2026-05-28-patching-my-guitar-amps-firmware.html",
     "title": "Patching my guitar amp's firmware"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://nesbitt.io/2026/05/28/protestware-for-coding-agents.html",
-    "title": "Protestware for coding agents"
   }
 ]
