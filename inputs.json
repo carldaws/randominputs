@@ -1,8 +1,18 @@
 [
   {
     "source": "hn",
+    "url": "https://diamondgeezer.blogspot.com/2026/05/londons-free-roof-terraces.html",
+    "title": "London's Free Roof Terraces"
+  },
+  {
+    "source": "hn",
     "url": "https://www.brethorsting.com/blog/2026/05/domain-expertise-has-always-been-the-real-moat/",
     "title": "Domain expertise has always been the real moat"
+  },
+  {
+    "source": "hn",
+    "url": "https://theodore.net/projects/AvianVisitors/",
+    "title": "Avian Visitors"
   },
   {
     "source": "hn",
@@ -16,33 +26,23 @@
   },
   {
     "source": "hn",
-    "url": "https://blog.nlnetlabs.nl/one-year-of-roto-the-compiled-scripting-language-for-rust/",
-    "title": "One year of Roto, a compiled scripting language for Rust"
-  },
-  {
-    "source": "hn",
-    "url": "https://theodore.net/projects/AvianVisitors/",
-    "title": "Avian Visitors"
-  },
-  {
-    "source": "hn",
-    "url": "http://oldvcr.blogspot.com/2026/05/ahoy-decmate-ii-little-pdp-8-that-could.html",
-    "title": "Ahoy, DECmate II the little PDP-8 that could"
-  },
-  {
-    "source": "hn",
     "url": "https://av2.aomedia.org",
     "title": "The AV2 Video Standard Has Released (Final v1.0 Specification)"
   },
   {
     "source": "hn",
-    "url": "https://diamondgeezer.blogspot.com/2026/05/londons-free-roof-terraces.html",
-    "title": "London's Free Roof Terraces"
+    "url": "https://blog.nlnetlabs.nl/one-year-of-roto-the-compiled-scripting-language-for-rust/",
+    "title": "One year of Roto, a compiled scripting language for Rust"
   },
   {
     "source": "hn",
     "url": "https://consumerrights.wiki/w/Microsoft_Office_2019_and_2021_for_Mac_view-only_conversion_(2026)",
     "title": "Microsoft Office 2019 and 2021 for Mac view-only conversion"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.projectgus.com/2023/04/griffin-imate/",
+    "title": "Mysteries of the Griffin iMate"
   },
   {
     "source": "hn",
@@ -53,6 +53,11 @@
     "source": "hn",
     "url": "https://mechanical-pencil.com/",
     "title": "Mechanical Pencil: An illustrated celebration of the engineering around us"
+  },
+  {
+    "source": "hn",
+    "url": "http://oldvcr.blogspot.com/2026/05/ahoy-decmate-ii-little-pdp-8-that-could.html",
+    "title": "Ahoy, DECmate II the little PDP-8 that could"
   },
   {
     "source": "hn",
@@ -71,23 +76,18 @@
   },
   {
     "source": "hn",
-    "url": "https://brie.gay/cheese-paper/",
-    "title": "Cheese Paper: a text editor specifically designed for writing"
-  },
-  {
-    "source": "hn",
     "url": "https://remyhax.xyz/posts/reproducing-lawful-tls-wiretapping/",
     "title": "Parallel Reconstruction of Lawful TLS Wiretapping"
   },
   {
     "source": "hn",
-    "url": "https://pandoc-templates.org/",
-    "title": "Pandoc Templates"
+    "url": "https://brie.gay/cheese-paper/",
+    "title": "Cheese Paper: a text editor specifically designed for writing"
   },
   {
     "source": "hn",
-    "url": "https://ajin.im/is/building/omen.ops/",
-    "title": "Show HN: 500 years of Joseon court omens as an observability dashboard"
+    "url": "https://pandoc-templates.org/",
+    "title": "Pandoc Templates"
   },
   {
     "source": "lobsters",
@@ -106,23 +106,23 @@
   },
   {
     "source": "lobsters",
-    "url": "https://blog.wybxc.cc/blog/pretty-printer-pye/",
-    "title": "A New Design for Pretty Printer Implementations in Rust"
-  },
-  {
-    "source": "lobsters",
     "url": "https://bhoot.org/2026/kakoune-project-switcher/",
     "title": "A simple project switcher for Kakoune"
   },
   {
     "source": "lobsters",
-    "url": "https://daringfireball.net/2026/05/what_is_a_dickover",
-    "title": "What Is a Dickover?"
+    "url": "https://blog.wybxc.cc/blog/pretty-printer-pye/",
+    "title": "A New Design for Pretty Printer Implementations in Rust"
   },
   {
     "source": "lobsters",
     "url": "https://av2.aomedia.org/",
     "title": "AV2 v1.0.0 specification"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://daringfireball.net/2026/05/what_is_a_dickover",
+    "title": "What Is a Dickover?"
   },
   {
     "source": "lobsters",
@@ -141,6 +141,11 @@
   },
   {
     "source": "lobsters",
+    "url": "https://www.omgubuntu.co.uk/2026/05/flutter-desktop-canonical-maintained",
+    "title": "Canonical takes over Flutter desktop maintenance & roadmap"
+  },
+  {
+    "source": "lobsters",
     "url": "http://hypercritical.co/2026/05/29/ev-stupidity-checklist",
     "title": "EV Stupidity Checklist"
   },
@@ -156,8 +161,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://www.omgubuntu.co.uk/2026/05/flutter-desktop-canonical-maintained",
-    "title": "Canonical takes over Flutter desktop maintenance & roadmap"
+    "url": "https://blog.tymscar.com/posts/v100localllm/",
+    "title": "I Put a Datacenter GPU in My Gaming PC for £200"
   },
   {
     "source": "lobsters",
@@ -165,8 +170,73 @@
     "title": "Microcode inside the Intel 8087 floating-point chip: register exchange"
   },
   {
-    "source": "lobsters",
-    "url": "https://web.archive.org/web/20071014215938/http://homepage.mac.com/sigfpe/Computing/fold.html",
-    "title": "Coalgebras and Automata"
+    "source": "pinboard",
+    "url": "https://nooneshappy.com/article/appearing-productive-in-the-workplace/",
+    "title": "Appearing Productive in The Workplace — No One's Happy"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://simonwillison.net/2026/May/27/product-market-fit/",
+    "title": "I think Anthropic and OpenAI have found product-market fit"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://arps18.github.io/posts/claude-code-mastery/",
+    "title": "Beyond the Prompt: Claude Code | Arpan Patel"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://mlsu.io/posts/day-off/",
+    "title": "Can we have the day off?"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.inkandswitch.com/tangents/bijou64/",
+    "title": "bijou64"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.noaa.gov/jetstream/clouds/ten-basic-clouds",
+    "title": "Ten Basic Clouds | National Oceanic and Atmospheric Administration"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://lucumr.pocoo.org/2026/5/26/clankers/",
+    "title": "Clanker: A Word For The Machine | Armin Ronacher's Thoughts and Writings"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://shvbsle.in/various-llm-smells/",
+    "title": "Various LLM smells | Shiv After Dark"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.jonaharagon.com/posts/im-getting-into-mesh-networks-meshtastic-meshcore-and-reticulum/",
+    "title": "I'm Getting Into Mesh Networks... (Meshtastic, MeshCore, and Reticulum)"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://news.ycombinator.com/item?id=48299638",
+    "title": "I'm Getting into Mesh Networks (Meshtastic, MeshCore, and Reticulum) | Hacker News"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://nolanlawson.com/2026/05/25/using-ai-to-write-better-code-more-slowly/",
+    "title": "Using AI to write better code more slowly | Read the Tea Leaves"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://news.ycombinator.com/item?id=48326802",
+    "title": "SQLite is all you need for durable workflows | Hacker News"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://cel.cs.brown.edu/csci-1377-s26/",
+    "title": "CSCI 1377: Tools for Thought - S26"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://nooneshappy.com/article/the-ai-bubble/",
+    "title": "The AI Bubble — No One's Happy"
   }
 ]
