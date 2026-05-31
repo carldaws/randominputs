@@ -12,12 +12,12 @@
   {
     "source": "hn",
     "url": "https://shantellsans.com/process",
-    "title": "Shantell Sans"
+    "title": "Shantell Sans (2023)"
   },
   {
     "source": "hn",
-    "url": "https://lowendmac.com/2013/jef-raskin-the-visionary-behind-the-mac/",
-    "title": "Jef Raskin, the Visionary Behind the Mac (2013)"
+    "url": "https://blog.racket-lang.org/2026/05/racket-v9-2.html",
+    "title": "Racket v9.2 is now available"
   },
   {
     "source": "hn",
@@ -26,8 +26,8 @@
   },
   {
     "source": "hn",
-    "url": "https://ziglang.org/devlog/2026/#2026-05-30",
-    "title": "Zig ELF Linker Improvements Devlog"
+    "url": "https://lowendmac.com/2013/jef-raskin-the-visionary-behind-the-mac/",
+    "title": "Jef Raskin, the Visionary Behind the Mac (2013)"
   },
   {
     "source": "hn",
@@ -36,23 +36,18 @@
   },
   {
     "source": "hn",
+    "url": "https://ziglang.org/devlog/2026/#2026-05-30",
+    "title": "Zig ELF Linker Improvements Devlog"
+  },
+  {
+    "source": "hn",
     "url": "https://remyhax.xyz/posts/reproducing-lawful-tls-wiretapping/",
     "title": "Parallel Reconstruction of Lawful TLS Wiretapping"
   },
   {
     "source": "hn",
-    "url": "https://interfaces.dev/",
-    "title": "Design Engineering Magazine"
-  },
-  {
-    "source": "hn",
-    "url": "https://ajin.im/is/building/omen.ops/",
-    "title": "Show HN: 500 years of Joseon court omens as an observability dashboard"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.righto.com/2026/05/microcode-inside-intel-8087-floating.html",
-    "title": "Microcode inside the Intel 8087 floating-point chip: register exchange"
+    "url": "https://av2.aomedia.org",
+    "title": "The AV2 Video Standard Has Released (Final v1.0 Specification)"
   },
   {
     "source": "hn",
@@ -61,18 +56,23 @@
   },
   {
     "source": "hn",
+    "url": "https://ajin.im/is/building/omen.ops/",
+    "title": "Show HN: 500 years of Joseon court omens as an observability dashboard"
+  },
+  {
+    "source": "hn",
+    "url": "https://interfaces.dev/",
+    "title": "Design Engineering Magazine"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.righto.com/2026/05/microcode-inside-intel-8087-floating.html",
+    "title": "Microcode inside the Intel 8087 floating-point chip: register exchange"
+  },
+  {
+    "source": "hn",
     "url": "https://pandoc-templates.org/",
     "title": "Pandoc Templates"
-  },
-  {
-    "source": "hn",
-    "url": "https://ziglang.org/devlog/2026/#2026-05-26",
-    "title": "Zig: Build System Reworked"
-  },
-  {
-    "source": "hn",
-    "url": "https://fsgworkinprogress.com/2014/09/26/insignificant-bullets-evil-poachers-and-l-a-culture/",
-    "title": "Werner Herzog in conversation with Paul Cronin (2014)"
   },
   {
     "source": "hn",
@@ -81,8 +81,8 @@
   },
   {
     "source": "hn",
-    "url": "https://myzopotamia.dev/navier-stokes-fluid-simulation-explained-with-godot",
-    "title": "Navier-Stokes fluid simulation explained with Godot game engine"
+    "url": "https://ziglang.org/devlog/2026/#2026-05-26",
+    "title": "Zig: Build System Reworked"
   },
   {
     "source": "hn",
@@ -91,8 +91,13 @@
   },
   {
     "source": "hn",
-    "url": "https://fermatslibrary.com/s/it-takes-two-neurons-to-ride-a-bicycle#email-newsletter",
-    "title": "It takes two neurons to ride a bicycle (2004)"
+    "url": "https://myzopotamia.dev/navier-stokes-fluid-simulation-explained-with-godot",
+    "title": "Navier-Stokes fluid simulation explained with Godot game engine"
+  },
+  {
+    "source": "hn",
+    "url": "https://fsgworkinprogress.com/2014/09/26/insignificant-bullets-evil-poachers-and-l-a-culture/",
+    "title": "Werner Herzog in conversation with Paul Cronin (2014)"
   },
   {
     "source": "lobsters",
@@ -101,8 +106,18 @@
   },
   {
     "source": "lobsters",
+    "url": "https://blog.wybxc.cc/blog/pretty-printer-pye/",
+    "title": "A New Design for Pretty Printer Implementations in Rust"
+  },
+  {
+    "source": "lobsters",
     "url": "https://daringfireball.net/2026/05/what_is_a_dickover",
     "title": "What Is a Dickover?"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://ziglang.org/devlog/2026/?2026-05-30#2026-05-30",
+    "title": "ELF Linker Improvements in Zig"
   },
   {
     "source": "lobsters",
@@ -116,8 +131,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://blog.wybxc.cc/blog/pretty-printer-pye/",
-    "title": "A New Design for Pretty Printer Implementations in Rust"
+    "url": "https://nocoffei.com/?p=451",
+    "title": "My Accessibility Stack and the future on Wayland"
   },
   {
     "source": "lobsters",
@@ -126,23 +141,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://ziglang.org/devlog/2026/?2026-05-30#2026-05-30",
-    "title": "ELF Linker Improvements in Zig"
-  },
-  {
-    "source": "lobsters",
     "url": "https://pierre.computer/writing/on-rendering-diffs",
     "title": "On Rendering Diffs"
   },
   {
     "source": "lobsters",
-    "url": "https://tristonarmstrong.com/blog/custom-errors-are-non-negotiable-in-my-rust-applications",
-    "title": "Custom Errors Are Non-Negotiable in My Rust Applications"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://drobinin.com/posts/am-i-a-bad-friend/",
-    "title": "Am I a Bad Friend?"
+    "url": "http://oldvcr.blogspot.com/2026/05/ahoy-decmate-ii-little-pdp-8-that-could.html",
+    "title": "Ahoy, DECmate II! the little PDP-8 that could"
   },
   {
     "source": "lobsters",
@@ -151,8 +156,28 @@
   },
   {
     "source": "lobsters",
+    "url": "https://drobinin.com/posts/am-i-a-bad-friend/",
+    "title": "Am I a Bad Friend?"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://tristonarmstrong.com/blog/custom-errors-are-non-negotiable-in-my-rust-applications",
+    "title": "Custom Errors Are Non-Negotiable in My Rust Applications"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://av2.aomedia.org/",
+    "title": "AV2 v1.0.0 specification"
+  },
+  {
+    "source": "lobsters",
     "url": "https://web.archive.org/web/20071014215938/http://homepage.mac.com/sigfpe/Computing/fold.html",
     "title": "Coalgebras and Automata"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://www.jstor.org/content/pdf/oa_chapter_edited/jj.40494811.19?acceptTC=true&coverpage=false&addFooter=false",
+    "title": "The Critical State of Cyberspace"
   },
   {
     "source": "lobsters",
@@ -175,13 +200,83 @@
     "title": "CVE-2026-48710: A Maintainer's Perspective"
   },
   {
-    "source": "lobsters",
-    "url": "https://www.jstor.org/content/pdf/oa_chapter_edited/jj.40494811.19?acceptTC=true&coverpage=false&addFooter=false",
-    "title": "The Critical State of Cyberspace"
+    "source": "pinboard",
+    "url": "https://arps18.github.io/posts/claude-code-mastery/",
+    "title": "Beyond the Prompt: Claude Code | Arpan Patel"
   },
   {
-    "source": "lobsters",
-    "url": "https://fuzzinglabs.com/wp-content/uploads/2026/05/Navigating_iOS_MTE_Landscape.pdf",
-    "title": "Navigating the MTE Landscape: iOS Memory Protection Deep Dive"
+    "source": "pinboard",
+    "url": "https://simonwillison.net/2026/May/27/product-market-fit/",
+    "title": "I think Anthropic and OpenAI have found product-market fit"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://nooneshappy.com/article/appearing-productive-in-the-workplace/",
+    "title": "Appearing Productive in The Workplace — No One's Happy"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://unsung.aresluna.org/a-few-interesting-modern-pixel-fonts/",
+    "title": "A few interesting modern pixel fonts – Unsung"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://rubbishtalk.com/economy/how-private-equity-bought-americas-essential-services/",
+    "title": "How Private Equity Bought America’s Essential Services | Rubbish Talk"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://mlsu.io/posts/day-off/",
+    "title": "Can we have the day off?"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.jonaharagon.com/posts/im-getting-into-mesh-networks-meshtastic-meshcore-and-reticulum/",
+    "title": "I'm Getting Into Mesh Networks... (Meshtastic, MeshCore, and Reticulum)"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://nooneshappy.com/article/the-ai-bubble/",
+    "title": "The AI Bubble — No One's Happy"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://lucumr.pocoo.org/2026/5/26/clankers/",
+    "title": "Clanker: A Word For The Machine | Armin Ronacher's Thoughts and Writings"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.noaa.gov/jetstream/clouds/ten-basic-clouds",
+    "title": "Ten Basic Clouds | National Oceanic and Atmospheric Administration"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://irisphotos.app/",
+    "title": "Iris Photos — A native macOS photo library"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://shvbsle.in/various-llm-smells/",
+    "title": "Various LLM smells | Shiv After Dark"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://padhye.org/raft-minority/",
+    "title": "Raft Consensus with a Minority of Nodes"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://nolanlawson.com/2026/05/25/using-ai-to-write-better-code-more-slowly/",
+    "title": "Using AI to write better code more slowly | Read the Tea Leaves"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://noslopgrenade.com/",
+    "title": "no slop grenade"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://isaiprofitable.com/",
+    "title": "Is AI Profitable Yet?"
   }
 ]
