@@ -6,18 +6,13 @@
   },
   {
     "source": "hn",
-    "url": "https://jbkempf.com/blog/2026/dav2d/",
-    "title": "Dav2d"
-  },
-  {
-    "source": "hn",
     "url": "https://prismml.com/news/bonsai-image-4b",
     "title": "1-Bit Bonsai Image 4B Image Generation for Local Devices"
   },
   {
     "source": "hn",
-    "url": "https://darylcecile.net/notes/speed-of-prototyping-age-of-ai",
-    "title": "The Speed of Prototyping in the Age of AI"
+    "url": "https://jbkempf.com/blog/2026/dav2d/",
+    "title": "Dav2d"
   },
   {
     "source": "hn",
@@ -26,18 +21,23 @@
   },
   {
     "source": "hn",
+    "url": "https://darylcecile.net/notes/speed-of-prototyping-age-of-ai",
+    "title": "The Speed of Prototyping in the Age of AI"
+  },
+  {
+    "source": "hn",
     "url": "https://diamondgeezer.blogspot.com/2026/05/londons-free-roof-terraces.html",
     "title": "London's Free Roof Terraces"
   },
   {
     "source": "hn",
-    "url": "https://www.brethorsting.com/blog/2026/05/domain-expertise-has-always-been-the-real-moat/",
-    "title": "Domain expertise has always been the real moat"
+    "url": "https://blog.lauramichet.com/what-its-like-to-have-the-machine-that-keeps-you-alive-die-while-youre-on-vacation/",
+    "title": "Having your insulin pump die while you're on vacation"
   },
   {
     "source": "hn",
-    "url": "https://blog.tymscar.com/posts/v100localllm/",
-    "title": "I put a datacenter GPU in my gaming PC"
+    "url": "https://deflock.org/",
+    "title": "Deflock hits 100k ALPRs Mapped in USA"
   },
   {
     "source": "hn",
@@ -46,18 +46,18 @@
   },
   {
     "source": "hn",
+    "url": "https://www.lucasfcosta.com/blog/backpressure-is-all-you-need",
+    "title": "Backpressure is all you need"
+  },
+  {
+    "source": "hn",
+    "url": "https://blog.tymscar.com/posts/v100localllm/",
+    "title": "I put a datacenter GPU in my gaming PC"
+  },
+  {
+    "source": "hn",
     "url": "https://paulgraham.com/boss.html",
     "title": "You weren't meant to have a boss (2008)"
-  },
-  {
-    "source": "hn",
-    "url": "https://thoughts.hmmz.org/2026-05-31.html",
-    "title": "The solution might be cancelling my AI subscription"
-  },
-  {
-    "source": "hn",
-    "url": "https://hannesweissteiner.com/pdfs/frost.pdf",
-    "title": "FROST: Fingerprinting Remotely using OPFS-based SSD Timing [pdf]"
   },
   {
     "source": "hn",
@@ -71,18 +71,23 @@
   },
   {
     "source": "hn",
+    "url": "https://hannesweissteiner.com/pdfs/frost.pdf",
+    "title": "FROST: Fingerprinting Remotely using OPFS-based SSD Timing [pdf]"
+  },
+  {
+    "source": "hn",
     "url": "https://blog.nlnetlabs.nl/one-year-of-roto-the-compiled-scripting-language-for-rust/",
     "title": "One year of Roto, a compiled scripting language for Rust"
   },
   {
     "source": "hn",
-    "url": "https://kenforthewin.github.io/atomic-editor/",
-    "title": "Show HN: Atomic Editor – Obsidian-style live preview for CodeMirror 6"
+    "url": "https://cryptography101.ca/wp-content/uploads/lattice-based-cryptography.pdf",
+    "title": "A Gentle Introduction to Lattice-Based Cryptography [pdf]"
   },
   {
     "source": "hn",
-    "url": "https://cryptography101.ca/wp-content/uploads/lattice-based-cryptography.pdf",
-    "title": "A Gentle Introduction to Lattice-Based Cryptography [pdf]"
+    "url": "https://kenforthewin.github.io/atomic-editor/",
+    "title": "Show HN: Atomic Editor – Obsidian-style live preview for CodeMirror 6"
   },
   {
     "source": "hn",
@@ -146,13 +151,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://daringfireball.net/2026/05/what_is_a_dickover",
-    "title": "What Is a Dickover?"
+    "url": "https://www.jonashietala.se/blog/2026/05/31/sops_age_and_sealed_secrets/",
+    "title": "SOPS + Age and Sealed Secrets"
   },
   {
     "source": "lobsters",
-    "url": "https://csswizardry.com/2026/06/front-ends-missing-metric-the-tbt-window/",
-    "title": "Front-End’s Missing Metric: The TBT Window"
+    "url": "https://daringfireball.net/2026/05/what_is_a_dickover",
+    "title": "What Is a Dickover?"
   },
   {
     "source": "lobsters",
@@ -161,7 +166,12 @@
   },
   {
     "source": "lobsters",
-    "url": "https://www.jonashietala.se/blog/2026/05/31/sops_age_and_sealed_secrets/",
-    "title": "SOPS + Age and Sealed Secrets"
+    "url": "https://csswizardry.com/2026/06/front-ends-missing-metric-the-tbt-window/",
+    "title": "Front-End’s Missing Metric: The TBT Window"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://www.omgubuntu.co.uk/2026/05/flutter-desktop-canonical-maintained",
+    "title": "Canonical takes over Flutter desktop maintenance & roadmap"
   }
 ]
