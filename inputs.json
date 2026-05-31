@@ -6,13 +6,13 @@
   },
   {
     "source": "hn",
-    "url": "https://www.lucasfcosta.com/blog/backpressure-is-all-you-need",
-    "title": "Backpressure is all you need"
+    "url": "https://diamondgeezer.blogspot.com/2026/05/londons-free-roof-terraces.html",
+    "title": "London's Free Roof Terraces"
   },
   {
     "source": "hn",
-    "url": "https://diamondgeezer.blogspot.com/2026/05/londons-free-roof-terraces.html",
-    "title": "London's Free Roof Terraces"
+    "url": "https://blog.tymscar.com/posts/v100localllm/",
+    "title": "I Put a Datacenter GPU in My Gaming PC for £200"
   },
   {
     "source": "hn",
@@ -36,8 +36,8 @@
   },
   {
     "source": "hn",
-    "url": "https://theodore.net/projects/AvianVisitors/",
-    "title": "Avian Visitors"
+    "url": "https://av2.aomedia.org",
+    "title": "The AV2 Video Standard Has Released (Final v1.0 Specification)"
   },
   {
     "source": "hn",
@@ -46,13 +46,13 @@
   },
   {
     "source": "hn",
-    "url": "https://av2.aomedia.org",
-    "title": "The AV2 Video Standard Has Released (Final v1.0 Specification)"
+    "url": "https://theodore.net/projects/AvianVisitors/",
+    "title": "Avian Visitors"
   },
   {
     "source": "hn",
-    "url": "https://blog.lauramichet.com/what-its-like-to-have-the-machine-that-keeps-you-alive-die-while-youre-on-vacation/",
-    "title": "What it's like to have your insulin pump die while you're on vacation"
+    "url": "https://www.inkandswitch.com/newsletter/dispatch-015/",
+    "title": "Inkstravaganza"
   },
   {
     "source": "hn",
@@ -61,8 +61,8 @@
   },
   {
     "source": "hn",
-    "url": "https://consumerrights.wiki/w/Microsoft_Office_2019_and_2021_for_Mac_view-only_conversion_(2026)",
-    "title": "Microsoft Office 2019 and 2021 for Mac view-only conversion"
+    "url": "https://blog.lauramichet.com/what-its-like-to-have-the-machine-that-keeps-you-alive-die-while-youre-on-vacation/",
+    "title": "What it's like to have your insulin pump die while you're on vacation"
   },
   {
     "source": "hn",
@@ -71,13 +71,13 @@
   },
   {
     "source": "hn",
-    "url": "https://s-macke.github.io/VoxelSpace/",
-    "title": "Voxel Space (2017)"
+    "url": "https://consumerrights.wiki/w/Microsoft_Office_2019_and_2021_for_Mac_view-only_conversion_(2026)",
+    "title": "Microsoft Office 2019 and 2021 for Mac view-only conversion"
   },
   {
     "source": "hn",
-    "url": "https://www.projectgus.com/2023/04/griffin-imate/",
-    "title": "Mysteries of the Griffin iMate"
+    "url": "https://s-macke.github.io/VoxelSpace/",
+    "title": "Voxel Space (2017)"
   },
   {
     "source": "hn",
@@ -91,13 +91,18 @@
   },
   {
     "source": "hn",
-    "url": "https://brie.gay/cheese-paper/",
-    "title": "Cheese Paper: a text editor specifically designed for writing"
+    "url": "http://oldvcr.blogspot.com/2026/05/ahoy-decmate-ii-little-pdp-8-that-could.html",
+    "title": "Ahoy, DECmate II the little PDP-8 that could"
   },
   {
     "source": "hn",
-    "url": "http://oldvcr.blogspot.com/2026/05/ahoy-decmate-ii-little-pdp-8-that-could.html",
-    "title": "Ahoy, DECmate II the little PDP-8 that could"
+    "url": "https://www.projectgus.com/2023/04/griffin-imate/",
+    "title": "Mysteries of the Griffin iMate"
+  },
+  {
+    "source": "hn",
+    "url": "https://brie.gay/cheese-paper/",
+    "title": "Cheese Paper: a text editor specifically designed for writing"
   },
   {
     "source": "lobsters",
@@ -106,18 +111,18 @@
   },
   {
     "source": "lobsters",
-    "url": "https://blog.tymscar.com/posts/v100localllm/",
-    "title": "I Put a Datacenter GPU in My Gaming PC for £200"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://ziglang.org/devlog/2026/?2026-05-30#2026-05-30",
-    "title": "ELF Linker Improvements in Zig"
+    "url": "https://kristoff.it/blog/fix-your-asserts/",
+    "title": "You Must Fix Your Asserts"
   },
   {
     "source": "lobsters",
     "url": "https://nixos.org/blog/announcements/2026/nixos-2605/",
     "title": "NixOS 26.05 released"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://ziglang.org/devlog/2026/?2026-05-30#2026-05-30",
+    "title": "ELF Linker Improvements in Zig"
   },
   {
     "source": "lobsters",
@@ -128,11 +133,6 @@
     "source": "lobsters",
     "url": "https://av2.aomedia.org/",
     "title": "AV2 v1.0.0 specification"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://kristoff.it/blog/fix-your-asserts/",
-    "title": "You Must Fix Your Asserts"
   },
   {
     "source": "lobsters",
@@ -156,6 +156,11 @@
   },
   {
     "source": "lobsters",
+    "url": "https://blog.washi.dev/posts/custom-attributes-and-why-they-suck/",
+    "title": "Why Custom Attributes in .NET give me Nightmares"
+  },
+  {
+    "source": "lobsters",
     "url": "https://openpath.quest/2026/i-am-retiring-from-tech-to-live-offline/",
     "title": "I Am Retiring from Tech to Live Offline"
   },
@@ -166,17 +171,7 @@
   },
   {
     "source": "lobsters",
-    "url": "https://blog.washi.dev/posts/custom-attributes-and-why-they-suck/",
-    "title": "Why Custom Attributes in .NET give me Nightmares"
-  },
-  {
-    "source": "lobsters",
     "url": "http://hypercritical.co/2026/05/29/ev-stupidity-checklist",
     "title": "EV Stupidity Checklist"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://pierre.computer/writing/on-rendering-diffs",
-    "title": "On Rendering Diffs"
   }
 ]
