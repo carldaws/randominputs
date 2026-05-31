@@ -16,13 +16,18 @@
   },
   {
     "source": "hn",
-    "url": "https://justine.lol/rseq/",
-    "title": "Restartable Sequences"
+    "url": "https://darylcecile.net/notes/speed-of-prototyping-age-of-ai",
+    "title": "The Speed of Prototyping in the Age of AI"
   },
   {
     "source": "hn",
-    "url": "https://darylcecile.net/notes/speed-of-prototyping-age-of-ai",
-    "title": "The Speed of Prototyping in the Age of AI"
+    "url": "https://twitter.com/i/status/2060746160558543217",
+    "title": "Codex just found a \"workaround\" of not having sudo on my PC"
+  },
+  {
+    "source": "hn",
+    "url": "https://justine.lol/rseq/",
+    "title": "Restartable Sequences"
   },
   {
     "source": "hn",
@@ -41,8 +46,13 @@
   },
   {
     "source": "hn",
-    "url": "https://secret-archive.org/",
-    "title": "Security Envelope Pattern collection – S.E.C.R.E.T"
+    "url": "https://hannesweissteiner.com/pdfs/frost.pdf",
+    "title": "FROST: Fingerprinting Remotely using OPFS-based SSD Timing [pdf]"
+  },
+  {
+    "source": "hn",
+    "url": "http://www.linux-m68k.org/",
+    "title": "Linux/M68k"
   },
   {
     "source": "hn",
@@ -51,13 +61,13 @@
   },
   {
     "source": "hn",
-    "url": "https://blog.tymscar.com/posts/v100localllm/",
-    "title": "I put a datacenter GPU in my gaming PC"
+    "url": "https://secret-archive.org/",
+    "title": "Security Envelope Pattern collection – S.E.C.R.E.T"
   },
   {
     "source": "hn",
-    "url": "https://paulgraham.com/boss.html",
-    "title": "You weren't meant to have a boss (2008)"
+    "url": "https://blog.tymscar.com/posts/v100localllm/",
+    "title": "I put a datacenter GPU in my gaming PC"
   },
   {
     "source": "hn",
@@ -71,8 +81,13 @@
   },
   {
     "source": "hn",
-    "url": "https://hannesweissteiner.com/pdfs/frost.pdf",
-    "title": "FROST: Fingerprinting Remotely using OPFS-based SSD Timing [pdf]"
+    "url": "https://paulgraham.com/boss.html",
+    "title": "You weren't meant to have a boss (2008)"
+  },
+  {
+    "source": "hn",
+    "url": "https://kenforthewin.github.io/atomic-editor/",
+    "title": "Show HN: Atomic Editor – Obsidian-style live preview for CodeMirror 6"
   },
   {
     "source": "hn",
@@ -83,21 +98,6 @@
     "source": "hn",
     "url": "https://cryptography101.ca/wp-content/uploads/lattice-based-cryptography.pdf",
     "title": "A Gentle Introduction to Lattice-Based Cryptography [pdf]"
-  },
-  {
-    "source": "hn",
-    "url": "https://kenforthewin.github.io/atomic-editor/",
-    "title": "Show HN: Atomic Editor – Obsidian-style live preview for CodeMirror 6"
-  },
-  {
-    "source": "hn",
-    "url": "https://theodore.net/projects/AvianVisitors/",
-    "title": "Avian Visitors"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.inkandswitch.com/newsletter/dispatch-015/",
-    "title": "Inkstravaganza"
   },
   {
     "source": "lobsters",
@@ -141,8 +141,18 @@
   },
   {
     "source": "lobsters",
+    "url": "https://www.jonashietala.se/blog/2026/05/31/sops_age_and_sealed_secrets/",
+    "title": "SOPS + Age and Sealed Secrets"
+  },
+  {
+    "source": "lobsters",
     "url": "https://alextardif.com/AI.html",
     "title": "The Cost of AI"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://thoughts.hmmz.org/2026-05-31.html",
+    "title": "vibecoding as adhd multiplier"
   },
   {
     "source": "lobsters",
@@ -151,27 +161,12 @@
   },
   {
     "source": "lobsters",
-    "url": "https://www.jonashietala.se/blog/2026/05/31/sops_age_and_sealed_secrets/",
-    "title": "SOPS + Age and Sealed Secrets"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://daringfireball.net/2026/05/what_is_a_dickover",
-    "title": "What Is a Dickover?"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://drobinin.com/posts/am-i-a-bad-friend/",
-    "title": "Am I a Bad Friend?"
-  },
-  {
-    "source": "lobsters",
     "url": "https://csswizardry.com/2026/06/front-ends-missing-metric-the-tbt-window/",
     "title": "Front-End’s Missing Metric: The TBT Window"
   },
   {
     "source": "lobsters",
-    "url": "https://www.omgubuntu.co.uk/2026/05/flutter-desktop-canonical-maintained",
-    "title": "Canonical takes over Flutter desktop maintenance & roadmap"
+    "url": "https://daringfireball.net/2026/05/what_is_a_dickover",
+    "title": "What Is a Dickover?"
   }
 ]
