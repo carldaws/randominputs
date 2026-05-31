@@ -6,8 +6,18 @@
   },
   {
     "source": "hn",
+    "url": "https://jbkempf.com/blog/2026/dav2d/",
+    "title": "Dav2d"
+  },
+  {
+    "source": "hn",
     "url": "https://www.brethorsting.com/blog/2026/05/domain-expertise-has-always-been-the-real-moat/",
     "title": "Domain expertise has always been the real moat"
+  },
+  {
+    "source": "hn",
+    "url": "https://secret-archive.org/",
+    "title": "Security Envelope Pattern collection – S.E.C.R.E.T"
   },
   {
     "source": "hn",
@@ -16,8 +26,8 @@
   },
   {
     "source": "hn",
-    "url": "https://theodore.net/projects/AvianVisitors/",
-    "title": "Avian Visitors"
+    "url": "https://blog.nlnetlabs.nl/one-year-of-roto-the-compiled-scripting-language-for-rust/",
+    "title": "One year of Roto, a compiled scripting language for Rust"
   },
   {
     "source": "hn",
@@ -26,8 +36,8 @@
   },
   {
     "source": "hn",
-    "url": "https://blog.nlnetlabs.nl/one-year-of-roto-the-compiled-scripting-language-for-rust/",
-    "title": "One year of Roto, a compiled scripting language for Rust"
+    "url": "https://theodore.net/projects/AvianVisitors/",
+    "title": "Avian Visitors"
   },
   {
     "source": "hn",
@@ -46,11 +56,6 @@
   },
   {
     "source": "hn",
-    "url": "https://www.projectgus.com/2023/04/griffin-imate/",
-    "title": "Mysteries of the Griffin iMate"
-  },
-  {
-    "source": "hn",
     "url": "https://mechanical-pencil.com/",
     "title": "Mechanical Pencil: An illustrated celebration of the engineering around us"
   },
@@ -66,18 +71,23 @@
   },
   {
     "source": "hn",
+    "url": "https://www.projectgus.com/2023/04/griffin-imate/",
+    "title": "Mysteries of the Griffin iMate"
+  },
+  {
+    "source": "hn",
     "url": "http://oldvcr.blogspot.com/2026/05/ahoy-decmate-ii-little-pdp-8-that-could.html",
     "title": "Ahoy, DECmate II the little PDP-8 that could"
   },
   {
     "source": "hn",
-    "url": "https://lowendmac.com/2013/jef-raskin-the-visionary-behind-the-mac/",
-    "title": "Jef Raskin, the Visionary Behind the Mac (2013)"
+    "url": "https://pandoc-templates.org/",
+    "title": "Pandoc Templates"
   },
   {
     "source": "hn",
-    "url": "https://pandoc-templates.org/",
-    "title": "Pandoc Templates"
+    "url": "https://lowendmac.com/2013/jef-raskin-the-visionary-behind-the-mac/",
+    "title": "Jef Raskin, the Visionary Behind the Mac (2013)"
   },
   {
     "source": "hn",
@@ -88,11 +98,6 @@
     "source": "hn",
     "url": "https://remyhax.xyz/posts/reproducing-lawful-tls-wiretapping/",
     "title": "Parallel Reconstruction of Lawful TLS Wiretapping"
-  },
-  {
-    "source": "hn",
-    "url": "https://ziglang.org/devlog/2026/#2026-05-26",
-    "title": "Zig: Build System Reworked"
   },
   {
     "source": "lobsters",
@@ -116,6 +121,11 @@
   },
   {
     "source": "lobsters",
+    "url": "https://blog.tymscar.com/posts/v100localllm/",
+    "title": "I Put a Datacenter GPU in My Gaming PC for £200"
+  },
+  {
+    "source": "lobsters",
     "url": "https://blog.wybxc.cc/blog/pretty-printer-pye/",
     "title": "A New Design for Pretty Printer Implementations in Rust"
   },
@@ -123,11 +133,6 @@
     "source": "lobsters",
     "url": "https://av2.aomedia.org/",
     "title": "AV2 v1.0.0 specification"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://blog.tymscar.com/posts/v100localllm/",
-    "title": "I Put a Datacenter GPU in My Gaming PC for £200"
   },
   {
     "source": "lobsters",
@@ -156,6 +161,11 @@
   },
   {
     "source": "lobsters",
+    "url": "https://blog.washi.dev/posts/custom-attributes-and-why-they-suck/",
+    "title": "Why Custom Attributes in .NET give me Nightmares"
+  },
+  {
+    "source": "lobsters",
     "url": "http://hypercritical.co/2026/05/29/ev-stupidity-checklist",
     "title": "EV Stupidity Checklist"
   },
@@ -163,11 +173,6 @@
     "source": "lobsters",
     "url": "https://pierre.computer/writing/on-rendering-diffs",
     "title": "On Rendering Diffs"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://blog.washi.dev/posts/custom-attributes-and-why-they-suck/",
-    "title": "Why Custom Attributes in .NET give me Nightmares"
   },
   {
     "source": "lobsters",
