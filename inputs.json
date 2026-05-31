@@ -6,8 +6,18 @@
   },
   {
     "source": "hn",
+    "url": "https://thoughts.hmmz.org/2026-05-31.html",
+    "title": "The solution might be cancelling my AI subscription"
+  },
+  {
+    "source": "hn",
     "url": "https://diamondgeezer.blogspot.com/2026/05/londons-free-roof-terraces.html",
     "title": "London's Free Roof Terraces"
+  },
+  {
+    "source": "hn",
+    "url": "https://justine.lol/rseq/",
+    "title": "Restartable Sequences"
   },
   {
     "source": "hn",
@@ -18,6 +28,11 @@
     "source": "hn",
     "url": "https://www.brethorsting.com/blog/2026/05/domain-expertise-has-always-been-the-real-moat/",
     "title": "Domain expertise has always been the real moat"
+  },
+  {
+    "source": "hn",
+    "url": "https://prismml.com/news/bonsai-image-4b",
+    "title": "1-Bit Bonsai Image 4B Image Generation for Local Devices"
   },
   {
     "source": "hn",
@@ -41,6 +56,16 @@
   },
   {
     "source": "hn",
+    "url": "https://hannesweissteiner.com/pdfs/frost.pdf",
+    "title": "Frost: [Browser] Fingerprinting Remotely Using OPFS-Based SSD Timing [pdf]"
+  },
+  {
+    "source": "hn",
+    "url": "https://blogs.loc.gov/inside_adams/2012/04/the-stars-of-titanic/",
+    "title": "The \"Stars\" of Titanic (2012)"
+  },
+  {
+    "source": "hn",
     "url": "https://cryptography101.ca/wp-content/uploads/lattice-based-cryptography.pdf",
     "title": "A Gentle Introduction to Lattice-Based Cryptography [pdf]"
   },
@@ -56,13 +81,18 @@
   },
   {
     "source": "hn",
-    "url": "https://blog.racket-lang.org/2026/05/racket-v9-2.html",
-    "title": "Racket v9.2"
+    "url": "https://kenforthewin.github.io/atomic-editor/",
+    "title": "Show HN: Atomic Editor – Obsidian-style live preview for CodeMirror 6"
   },
   {
     "source": "hn",
-    "url": "https://blog.lauramichet.com/what-its-like-to-have-the-machine-that-keeps-you-alive-die-while-youre-on-vacation/",
-    "title": "What it's like to have your insulin pump die while you're on vacation"
+    "url": "https://paulgraham.com/boss.html",
+    "title": "You Weren't Meant to Have a Boss (2008)"
+  },
+  {
+    "source": "hn",
+    "url": "https://blog.racket-lang.org/2026/05/racket-v9-2.html",
+    "title": "Racket v9.2"
   },
   {
     "source": "hn",
@@ -71,38 +101,8 @@
   },
   {
     "source": "hn",
-    "url": "https://consumerrights.wiki/w/Microsoft_Office_2019_and_2021_for_Mac_view-only_conversion_(2026)",
-    "title": "Microsoft Office 2019 and 2021 for Mac view-only conversion"
-  },
-  {
-    "source": "hn",
-    "url": "https://s-macke.github.io/VoxelSpace/",
-    "title": "Voxel Space (2017)"
-  },
-  {
-    "source": "hn",
-    "url": "https://ziglang.org/devlog/2026/#2026-05-30",
-    "title": "Zig ELF Linker Improvements Devlog"
-  },
-  {
-    "source": "hn",
-    "url": "https://pandoc-templates.org/",
-    "title": "Pandoc Templates"
-  },
-  {
-    "source": "hn",
-    "url": "http://oldvcr.blogspot.com/2026/05/ahoy-decmate-ii-little-pdp-8-that-could.html",
-    "title": "Ahoy, DECmate II the little PDP-8 that could"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.projectgus.com/2023/04/griffin-imate/",
-    "title": "Mysteries of the Griffin iMate"
-  },
-  {
-    "source": "hn",
-    "url": "https://brie.gay/cheese-paper/",
-    "title": "Cheese Paper: a text editor specifically designed for writing"
+    "url": "https://blog.lauramichet.com/what-its-like-to-have-the-machine-that-keeps-you-alive-die-while-youre-on-vacation/",
+    "title": "What it's like to have your insulin pump die while you're on vacation"
   },
   {
     "source": "lobsters",
@@ -116,8 +116,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://nixos.org/blog/announcements/2026/nixos-2605/",
-    "title": "NixOS 26.05 released"
+    "url": "https://bhoot.org/2026/kakoune-project-switcher/",
+    "title": "A simple project switcher for Kakoune"
   },
   {
     "source": "lobsters",
@@ -126,8 +126,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://bhoot.org/2026/kakoune-project-switcher/",
-    "title": "A simple project switcher for Kakoune"
+    "url": "https://nixos.org/blog/announcements/2026/nixos-2605/",
+    "title": "NixOS 26.05 released"
+  },
+  {
+    "source": "lobsters",
+    "url": "http://oldvcr.blogspot.com/2026/05/ahoy-decmate-ii-little-pdp-8-that-could.html",
+    "title": "Ahoy, DECmate II! the little PDP-8 that could"
   },
   {
     "source": "lobsters",
@@ -171,7 +176,12 @@
   },
   {
     "source": "lobsters",
-    "url": "http://hypercritical.co/2026/05/29/ev-stupidity-checklist",
-    "title": "EV Stupidity Checklist"
+    "url": "https://csswizardry.com/2026/06/front-ends-missing-metric-the-tbt-window/",
+    "title": "Front-End’s Missing Metric: The TBT Window"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://s-macke.github.io/VoxelSpace/",
+    "title": "Voxel Space"
   }
 ]
