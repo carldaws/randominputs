@@ -1,13 +1,18 @@
 [
   {
     "source": "hn",
-    "url": "https://diamondgeezer.blogspot.com/2026/05/londons-free-roof-terraces.html",
-    "title": "London's Free Roof Terraces"
+    "url": "https://jbkempf.com/blog/2026/dav2d/",
+    "title": "Dav2d"
   },
   {
     "source": "hn",
-    "url": "https://jbkempf.com/blog/2026/dav2d/",
-    "title": "Dav2d"
+    "url": "https://www.lucasfcosta.com/blog/backpressure-is-all-you-need",
+    "title": "Backpressure is all you need"
+  },
+  {
+    "source": "hn",
+    "url": "https://diamondgeezer.blogspot.com/2026/05/londons-free-roof-terraces.html",
+    "title": "London's Free Roof Terraces"
   },
   {
     "source": "hn",
@@ -31,13 +36,13 @@
   },
   {
     "source": "hn",
-    "url": "https://cryptography101.ca/wp-content/uploads/lattice-based-cryptography.pdf",
-    "title": "A Gentle Introduction to Lattice-Based Cryptography [pdf]"
+    "url": "https://theodore.net/projects/AvianVisitors/",
+    "title": "Avian Visitors"
   },
   {
     "source": "hn",
-    "url": "https://theodore.net/projects/AvianVisitors/",
-    "title": "Avian Visitors"
+    "url": "https://cryptography101.ca/wp-content/uploads/lattice-based-cryptography.pdf",
+    "title": "A Gentle Introduction to Lattice-Based Cryptography [pdf]"
   },
   {
     "source": "hn",
@@ -46,13 +51,18 @@
   },
   {
     "source": "hn",
-    "url": "https://consumerrights.wiki/w/Microsoft_Office_2019_and_2021_for_Mac_view-only_conversion_(2026)",
-    "title": "Microsoft Office 2019 and 2021 for Mac view-only conversion"
+    "url": "https://blog.lauramichet.com/what-its-like-to-have-the-machine-that-keeps-you-alive-die-while-youre-on-vacation/",
+    "title": "What it's like to have your insulin pump die while you're on vacation"
   },
   {
     "source": "hn",
     "url": "https://blog.racket-lang.org/2026/05/racket-v9-2.html",
     "title": "Racket v9.2"
+  },
+  {
+    "source": "hn",
+    "url": "https://consumerrights.wiki/w/Microsoft_Office_2019_and_2021_for_Mac_view-only_conversion_(2026)",
+    "title": "Microsoft Office 2019 and 2021 for Mac view-only conversion"
   },
   {
     "source": "hn",
@@ -66,18 +76,13 @@
   },
   {
     "source": "hn",
-    "url": "https://ziglang.org/devlog/2026/#2026-05-30",
-    "title": "Zig ELF Linker Improvements Devlog"
-  },
-  {
-    "source": "hn",
     "url": "https://www.projectgus.com/2023/04/griffin-imate/",
     "title": "Mysteries of the Griffin iMate"
   },
   {
     "source": "hn",
-    "url": "http://oldvcr.blogspot.com/2026/05/ahoy-decmate-ii-little-pdp-8-that-could.html",
-    "title": "Ahoy, DECmate II the little PDP-8 that could"
+    "url": "https://ziglang.org/devlog/2026/#2026-05-30",
+    "title": "Zig ELF Linker Improvements Devlog"
   },
   {
     "source": "hn",
@@ -86,18 +91,13 @@
   },
   {
     "source": "hn",
-    "url": "https://lowendmac.com/2013/jef-raskin-the-visionary-behind-the-mac/",
-    "title": "Jef Raskin, the Visionary Behind the Mac (2013)"
-  },
-  {
-    "source": "hn",
     "url": "https://brie.gay/cheese-paper/",
     "title": "Cheese Paper: a text editor specifically designed for writing"
   },
   {
     "source": "hn",
-    "url": "https://remyhax.xyz/posts/reproducing-lawful-tls-wiretapping/",
-    "title": "Parallel Reconstruction of Lawful TLS Wiretapping"
+    "url": "http://oldvcr.blogspot.com/2026/05/ahoy-decmate-ii-little-pdp-8-that-could.html",
+    "title": "Ahoy, DECmate II the little PDP-8 that could"
   },
   {
     "source": "lobsters",
@@ -106,8 +106,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://nixos.org/blog/announcements/2026/nixos-2605/",
-    "title": "NixOS 26.05 released"
+    "url": "https://blog.tymscar.com/posts/v100localllm/",
+    "title": "I Put a Datacenter GPU in My Gaming PC for £200"
   },
   {
     "source": "lobsters",
@@ -116,23 +116,28 @@
   },
   {
     "source": "lobsters",
+    "url": "https://nixos.org/blog/announcements/2026/nixos-2605/",
+    "title": "NixOS 26.05 released"
+  },
+  {
+    "source": "lobsters",
     "url": "https://bhoot.org/2026/kakoune-project-switcher/",
     "title": "A simple project switcher for Kakoune"
   },
   {
     "source": "lobsters",
-    "url": "https://blog.tymscar.com/posts/v100localllm/",
-    "title": "I Put a Datacenter GPU in My Gaming PC for £200"
+    "url": "https://av2.aomedia.org/",
+    "title": "AV2 v1.0.0 specification"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://kristoff.it/blog/fix-your-asserts/",
+    "title": "You Must Fix Your Asserts"
   },
   {
     "source": "lobsters",
     "url": "https://blog.wybxc.cc/blog/pretty-printer-pye/",
     "title": "A New Design for Pretty Printer Implementations in Rust"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://av2.aomedia.org/",
-    "title": "AV2 v1.0.0 specification"
   },
   {
     "source": "lobsters",
@@ -146,6 +151,11 @@
   },
   {
     "source": "lobsters",
+    "url": "https://www.omgubuntu.co.uk/2026/05/flutter-desktop-canonical-maintained",
+    "title": "Canonical takes over Flutter desktop maintenance & roadmap"
+  },
+  {
+    "source": "lobsters",
     "url": "https://openpath.quest/2026/i-am-retiring-from-tech-to-live-offline/",
     "title": "I Am Retiring from Tech to Live Offline"
   },
@@ -153,11 +163,6 @@
     "source": "lobsters",
     "url": "https://toast.al/posts/techlore/2026-05-30_nix-on-sailfish-os/",
     "title": "Nix on Sailfish X (Sailfish OS for Sony Xperia)"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://www.omgubuntu.co.uk/2026/05/flutter-desktop-canonical-maintained",
-    "title": "Canonical takes over Flutter desktop maintenance & roadmap"
   },
   {
     "source": "lobsters",
@@ -173,10 +178,5 @@
     "source": "lobsters",
     "url": "https://pierre.computer/writing/on-rendering-diffs",
     "title": "On Rendering Diffs"
-  },
-  {
-    "source": "lobsters",
-    "url": "http://www.righto.com/2026/05/microcode-inside-intel-8087-floating.html",
-    "title": "Microcode inside the Intel 8087 floating-point chip: register exchange"
   }
 ]
