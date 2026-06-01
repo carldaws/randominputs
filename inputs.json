@@ -6,8 +6,23 @@
   },
   {
     "source": "hn",
+    "url": "https://blainsmith.com/articles/httptrace-with-go/",
+    "title": "Tracing HTTP Requests with Go's net/HTTP/httptrace"
+  },
+  {
+    "source": "hn",
     "url": "https://tylercipriani.com/blog/2026/05/28/chuwi-minibook-x/",
     "title": "Chuwi Minibook X"
+  },
+  {
+    "source": "hn",
+    "url": "https://just2voices.com/",
+    "title": "two strangers. one call. no names"
+  },
+  {
+    "source": "hn",
+    "url": "http://juniper.github.io/libslax/slax-manual.html",
+    "title": "The SLAX Scripting Language: An Alternate Syntax for XSLT"
   },
   {
     "source": "hn",
@@ -16,8 +31,8 @@
   },
   {
     "source": "hn",
-    "url": "https://blainsmith.com/articles/httptrace-with-go/",
-    "title": "Tracing HTTP Requests with Go's net/HTTP/httptrace"
+    "url": "https://prismml.com/news/bonsai-image-4b",
+    "title": "1-Bit Bonsai Image 4B Image Generation for Local Devices"
   },
   {
     "source": "hn",
@@ -26,8 +41,8 @@
   },
   {
     "source": "hn",
-    "url": "https://prismml.com/news/bonsai-image-4b",
-    "title": "1-Bit Bonsai Image 4B Image Generation for Local Devices"
+    "url": "https://lernerpython.com/2026/05/19/is-python-becoming-pinyin/",
+    "title": "Is Python Becoming Pinyin?"
   },
   {
     "source": "hn",
@@ -36,33 +51,13 @@
   },
   {
     "source": "hn",
-    "url": "https://www.chiply.dev/post-ij-sierpinski",
-    "title": "Two Ways to Draw Infinite Jest's Sierpinski Gasket"
-  },
-  {
-    "source": "hn",
     "url": "https://thereader.mitpress.mit.edu/the-genius-of-the-barn-owls-feathers/",
     "title": "The Genius of the Barn Owl's Feathers"
   },
   {
     "source": "hn",
-    "url": "https://entropicthoughts.com/lean-not-backpressure",
-    "title": "Lean, Not Backpressure"
-  },
-  {
-    "source": "hn",
-    "url": "https://technology.inquirer.net/147084/dunes-butlerian-jihad-and-the-future-of-ai",
-    "title": "Dune's Butlerian Jihad and the Future of AI"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.flatpanelshd.com/news.php?subaction=showfull&id=1779897602",
-    "title": "Sony Launches Bravia 9 II and Bravia 7 II with 'True RGB'"
-  },
-  {
-    "source": "hn",
-    "url": "https://darylcecile.net/notes/speed-of-prototyping-age-of-ai",
-    "title": "The Speed of Prototyping in the Age of AI"
+    "url": "https://www.chiply.dev/post-ij-sierpinski",
+    "title": "Two Ways to Draw Infinite Jest's Sierpinski Gasket"
   },
   {
     "source": "hn",
@@ -73,6 +68,16 @@
     "source": "hn",
     "url": "https://diamondgeezer.blogspot.com/2026/05/londons-free-roof-terraces.html",
     "title": "London's Free Roof Terraces"
+  },
+  {
+    "source": "hn",
+    "url": "https://darylcecile.net/notes/speed-of-prototyping-age-of-ai",
+    "title": "The Speed of Prototyping in the Age of AI"
+  },
+  {
+    "source": "hn",
+    "url": "https://justine.lol/rseq/",
+    "title": "Restartable Sequences"
   },
   {
     "source": "lobsters",
@@ -121,11 +126,6 @@
   },
   {
     "source": "lobsters",
-    "url": "https://fgiesen.wordpress.com/2026/05/29/why-does-astc-use-ise-when-almost-nothing-else-does/",
-    "title": "Why does ASTC use ISE when almost nothing else does?"
-  },
-  {
-    "source": "lobsters",
     "url": "https://plantbasedgames.io/blog/posts/09-adding-offline-mode-and-custom-servers-to-an-mmorpg/",
     "title": "Adding Offline Mode and Custom Servers to an MMORPG"
   },
@@ -133,6 +133,11 @@
     "source": "lobsters",
     "url": "https://apenwarr.ca/log/20260531",
     "title": "The software industry: annealing, but wrong"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://fgiesen.wordpress.com/2026/05/29/why-does-astc-use-ise-when-almost-nothing-else-does/",
+    "title": "Why does ASTC use ISE when almost nothing else does?"
   },
   {
     "source": "lobsters",
@@ -146,22 +151,12 @@
   },
   {
     "source": "lobsters",
+    "url": "https://hoeijmakers.net/the-axis-that-made-the-chips/",
+    "title": "The Axis That Made the Chips"
+  },
+  {
+    "source": "lobsters",
     "url": "https://ziglang.org/devlog/2026/?2026-05-30#2026-05-30",
     "title": "ELF Linker Improvements in Zig"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://av2.aomedia.org/",
-    "title": "AV2 v1.0.0 specification"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://nixos.org/blog/announcements/2026/nixos-2605/",
-    "title": "NixOS 26.05 released"
-  },
-  {
-    "source": "lobsters",
-    "url": "http://oldvcr.blogspot.com/2026/05/ahoy-decmate-ii-little-pdp-8-that-could.html",
-    "title": "Ahoy, DECmate II! the little PDP-8 that could"
   }
 ]
