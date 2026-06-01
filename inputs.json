@@ -11,13 +11,23 @@
   },
   {
     "source": "hn",
-    "url": "https://tylercipriani.com/blog/2026/05/28/chuwi-minibook-x/",
-    "title": "Chuwi Minibook X"
+    "url": "https://kefir.protopopov.lv/posts/announce2.html",
+    "title": "Cessation of public development of Kefir C compiler"
   },
   {
     "source": "hn",
-    "url": "https://just2voices.com/",
-    "title": "two strangers. one call. no names"
+    "url": "https://lemire.me/blog/2026/05/22/only-17-of-all-64-bit-integers-are-products-of-two-32-bit-integers/",
+    "title": "Only 17% of all 64-bit Integers are products of two 32-bit integers"
+  },
+  {
+    "source": "hn",
+    "url": "https://movq.de/blog/postings/2026-05-29/0/POSTING-en.html",
+    "title": "Movwin: My (Unpublished) TUI Framework"
+  },
+  {
+    "source": "hn",
+    "url": "https://tylercipriani.com/blog/2026/05/28/chuwi-minibook-x/",
+    "title": "Chuwi Minibook X"
   },
   {
     "source": "hn",
@@ -26,23 +36,8 @@
   },
   {
     "source": "hn",
-    "url": "https://kefir.protopopov.lv/posts/announce2.html",
-    "title": "Cessation of public development of Kefir C compiler"
-  },
-  {
-    "source": "hn",
     "url": "https://prismml.com/news/bonsai-image-4b",
     "title": "1-Bit Bonsai Image 4B Image Generation for Local Devices"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.promptarmor.com/resources/gpt-for-google-sheets-data-exfiltration",
-    "title": "ChatGPT for Google Sheets exfiltrates workbooks"
-  },
-  {
-    "source": "hn",
-    "url": "https://lernerpython.com/2026/05/19/is-python-becoming-pinyin/",
-    "title": "Is Python Becoming Pinyin?"
   },
   {
     "source": "hn",
@@ -51,13 +46,13 @@
   },
   {
     "source": "hn",
-    "url": "https://thereader.mitpress.mit.edu/the-genius-of-the-barn-owls-feathers/",
-    "title": "The Genius of the Barn Owl's Feathers"
+    "url": "https://www.promptarmor.com/resources/gpt-for-google-sheets-data-exfiltration",
+    "title": "ChatGPT for Google Sheets exfiltrates workbooks"
   },
   {
     "source": "hn",
-    "url": "https://www.chiply.dev/post-ij-sierpinski",
-    "title": "Two Ways to Draw Infinite Jest's Sierpinski Gasket"
+    "url": "https://thereader.mitpress.mit.edu/the-genius-of-the-barn-owls-feathers/",
+    "title": "The Genius of the Barn Owl's Feathers"
   },
   {
     "source": "hn",
@@ -65,19 +60,9 @@
     "title": "New Beam Spring Keyboards"
   },
   {
-    "source": "hn",
-    "url": "https://diamondgeezer.blogspot.com/2026/05/londons-free-roof-terraces.html",
-    "title": "London's Free Roof Terraces"
-  },
-  {
-    "source": "hn",
-    "url": "https://darylcecile.net/notes/speed-of-prototyping-age-of-ai",
-    "title": "The Speed of Prototyping in the Age of AI"
-  },
-  {
-    "source": "hn",
-    "url": "https://justine.lol/rseq/",
-    "title": "Restartable Sequences"
+    "source": "lobsters",
+    "url": "https://mail.cyberneticforests.com/its-not-just-data-its-post-training/",
+    "title": "It's Not Just X. It's Y"
   },
   {
     "source": "lobsters",
@@ -86,13 +71,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://thoughts.hmmz.org/2026-05-31.html",
-    "title": "vibecoding as adhd multiplier"
+    "url": "https://c9x.me/compile/release/qbe-1.3.html",
+    "title": "QBE - Compiler Backend: Version 1.3"
   },
   {
     "source": "lobsters",
-    "url": "https://mail.cyberneticforests.com/its-not-just-data-its-post-training/",
-    "title": "It's Not Just X. It's Y"
+    "url": "https://thoughts.hmmz.org/2026-05-31.html",
+    "title": "vibecoding as adhd multiplier"
   },
   {
     "source": "lobsters",
@@ -106,13 +91,23 @@
   },
   {
     "source": "lobsters",
-    "url": "https://endler.dev/2026/lychee-recursion/",
-    "title": "Five Years of Trying to Add Recursion to lychee"
+    "url": "https://trifectatech.org/blog/announcing-zstandard-in-rust/",
+    "title": "Announcing Zstandard in Rust"
   },
   {
     "source": "lobsters",
     "url": "https://lambdacreate.com/posts/sysadmining-like-its-2009",
     "title": "Sysadmining like it's 2009"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://30fps.net/pages/255-vs-256-division/",
+    "title": "Should you normalize RGB values by 255 or 256?"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://endler.dev/2026/lychee-recursion/",
+    "title": "Five Years of Trying to Add Recursion to lychee"
   },
   {
     "source": "lobsters",
@@ -126,13 +121,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://plantbasedgames.io/blog/posts/09-adding-offline-mode-and-custom-servers-to-an-mmorpg/",
-    "title": "Adding Offline Mode and Custom Servers to an MMORPG"
+    "url": "https://apenwarr.ca/log/20260531",
+    "title": "The software industry: annealing, but wrong"
   },
   {
     "source": "lobsters",
-    "url": "https://apenwarr.ca/log/20260531",
-    "title": "The software industry: annealing, but wrong"
+    "url": "https://plantbasedgames.io/blog/posts/09-adding-offline-mode-and-custom-servers-to-an-mmorpg/",
+    "title": "Adding Offline Mode and Custom Servers to an MMORPG"
   },
   {
     "source": "lobsters",
@@ -141,22 +136,7 @@
   },
   {
     "source": "lobsters",
-    "url": "https://bhoot.org/2026/kakoune-project-switcher/",
-    "title": "A simple project switcher for Kakoune"
-  },
-  {
-    "source": "lobsters",
     "url": "https://seg6.space/posts/concurrent-registration/",
     "title": "Concurrent device registration without Redis"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://hoeijmakers.net/the-axis-that-made-the-chips/",
-    "title": "The Axis That Made the Chips"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://ziglang.org/devlog/2026/?2026-05-30#2026-05-30",
-    "title": "ELF Linker Improvements in Zig"
   }
 ]
