@@ -6,6 +6,11 @@
   },
   {
     "source": "hn",
+    "url": "https://debug.com/",
+    "title": "Debug Project"
+  },
+  {
+    "source": "hn",
     "url": "https://30fps.net/pages/255-vs-256-division/",
     "title": "Should you normalize RGB values by 255 or 256?"
   },
@@ -16,23 +21,8 @@
   },
   {
     "source": "hn",
-    "url": "https://eblog.fly.dev/githubbad.html",
-    "title": "GitHub and the crime against software"
-  },
-  {
-    "source": "hn",
     "url": "https://vinewallapp.com/notes/i-made-my-phone-slow-on-purpose/",
     "title": "I made my phone slow on purpose"
-  },
-  {
-    "source": "hn",
-    "url": "https://point.free/blog/gemma-4-on-a-2016-xeon/",
-    "title": "A 10 year old Xeon is all you need"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.windowslatest.com/2026/06/01/microsoft-builds-its-ultimate-macbook-pro-rival-with-the-nvidia-powered-surface-laptop-ultra/",
-    "title": "Microsoft builds MacBook Pro rival with NVIDIA-powered Surface Laptop Ultra"
   },
   {
     "source": "hn",
@@ -41,8 +31,18 @@
   },
   {
     "source": "hn",
-    "url": "https://idlewords.com/talks/superintelligence.htm",
-    "title": "Superintelligence: The Idea That Eats Smart People (2016)"
+    "url": "https://point.free/blog/gemma-4-on-a-2016-xeon/",
+    "title": "A 10 year old Xeon is all you need"
+  },
+  {
+    "source": "hn",
+    "url": "https://eblog.fly.dev/githubbad.html",
+    "title": "GitHub and the crime against software"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.windowslatest.com/2026/06/01/microsoft-builds-its-ultimate-macbook-pro-rival-with-the-nvidia-powered-surface-laptop-ultra/",
+    "title": "Microsoft builds MacBook Pro rival with NVIDIA-powered Surface Laptop Ultra"
   },
   {
     "source": "hn",
@@ -56,13 +56,13 @@
   },
   {
     "source": "hn",
-    "url": "https://www.gettextile.app",
-    "title": "Show HN: Textile – A desktop app for weaving together bits of text"
+    "url": "https://idlewords.com/talks/superintelligence.htm",
+    "title": "Superintelligence: The Idea That Eats Smart People (2016)"
   },
   {
     "source": "hn",
-    "url": "https://bret.dk/radxa-dragon-q8b-a-laptop-cosplaying-as-an-sbc/",
-    "title": "Radxa Dragon Q8B: A Laptop Cosplaying as an SBC?"
+    "url": "https://www.gettextile.app",
+    "title": "Show HN: Textile – A desktop app for weaving together bits of text"
   },
   {
     "source": "lobsters",
@@ -91,6 +91,11 @@
   },
   {
     "source": "lobsters",
+    "url": "https://cdrom.ca/games/2026/05/30/xd.html",
+    "title": "Exploring the Japanese XD FirstClass Network BBS"
+  },
+  {
+    "source": "lobsters",
     "url": "https://nocoffei.com/?p=451",
     "title": "My Accessibility Stack and the future on Wayland"
   },
@@ -101,28 +106,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://endler.dev/2026/lychee-recursion/",
-    "title": "Five Years of Trying to Add Recursion to lychee"
-  },
-  {
-    "source": "lobsters",
     "url": "https://marcin.juszkiewicz.com.pl/2026/06/01/arm-desktop-so-many-cores-not-enough-speed/",
     "title": "Arm desktop: so many cores, not enough speed"
   },
   {
     "source": "lobsters",
-    "url": "https://www.zsh.org/mla/announce/msg00135.html",
-    "title": "zsh 5.9.1 released"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://ahossu.ro/blog/iscsi-chap-base64-overflow",
-    "title": "iSCSI CHAP: Heap Buffer Overflow in the Linux Kernel"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://kristoff.it/blog/fix-your-asserts/",
-    "title": "You Must Fix Your Asserts"
+    "url": "https://endler.dev/2026/lychee-recursion/",
+    "title": "Five Years of Trying to Add Recursion to lychee"
   },
   {
     "source": "lobsters",
@@ -131,7 +121,7 @@
   },
   {
     "source": "lobsters",
-    "url": "https://cdrom.ca/games/2026/05/30/xd.html",
-    "title": "Exploring the Japanese XD FirstClass Network BBS"
+    "url": "https://www.zsh.org/mla/announce/msg00135.html",
+    "title": "zsh 5.9.1 released"
   }
 ]
