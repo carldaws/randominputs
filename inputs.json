@@ -1,13 +1,18 @@
 [
   {
     "source": "hn",
+    "url": "https://tylercipriani.com/blog/2026/05/28/chuwi-minibook-x/",
+    "title": "Chuwi Minibook X"
+  },
+  {
+    "source": "hn",
     "url": "https://prismml.com/news/bonsai-image-4b",
     "title": "1-Bit Bonsai Image 4B Image Generation for Local Devices"
   },
   {
     "source": "hn",
-    "url": "https://thesciverse.org/scientists-found-that-the-creatine-supplement-millions-take-for-muscle-gains-is-quietly-raising-brain-energy-levels-and-slowing-early-alzheimers-cognitive-decline-by-30/",
-    "title": "Creatine raises brain energy levels and slows cognitive decline: study"
+    "url": "https://www.promptarmor.com/resources/gpt-for-google-sheets-data-exfiltration",
+    "title": "ChatGPT for Google Sheets exfiltrates workbooks"
   },
   {
     "source": "hn",
@@ -21,18 +26,8 @@
   },
   {
     "source": "hn",
-    "url": "https://tylercipriani.com/blog/2026/05/28/chuwi-minibook-x/",
-    "title": "Chuwi Minibook X: the netbook we deserve"
-  },
-  {
-    "source": "hn",
     "url": "https://darylcecile.net/notes/speed-of-prototyping-age-of-ai",
     "title": "The Speed of Prototyping in the Age of AI"
-  },
-  {
-    "source": "hn",
-    "url": "http://www.linux-m68k.org/",
-    "title": "Linux/M68k"
   },
   {
     "source": "hn",
@@ -46,13 +41,18 @@
   },
   {
     "source": "hn",
-    "url": "https://mail.cyberneticforests.com/its-not-just-data-its-post-training/",
-    "title": "It's Not Just X. It's Y"
+    "url": "https://diamondgeezer.blogspot.com/2026/05/londons-free-roof-terraces.html",
+    "title": "London's Free Roof Terraces"
   },
   {
     "source": "hn",
-    "url": "https://diamondgeezer.blogspot.com/2026/05/londons-free-roof-terraces.html",
-    "title": "London's Free Roof Terraces"
+    "url": "http://www.linux-m68k.org/",
+    "title": "Linux/M68k"
+  },
+  {
+    "source": "hn",
+    "url": "https://thereader.mitpress.mit.edu/the-genius-of-the-barn-owls-feathers/",
+    "title": "The Genius of the Barn Owl's Feathers"
   },
   {
     "source": "hn",
@@ -91,6 +91,16 @@
   },
   {
     "source": "lobsters",
+    "url": "https://mail.cyberneticforests.com/its-not-just-data-its-post-training/",
+    "title": "It's Not Just X. It's Y"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://apenwarr.ca/log/20260531",
+    "title": "The software industry: annealing, but wrong"
+  },
+  {
+    "source": "lobsters",
     "url": "https://bhoot.org/2026/kakoune-project-switcher/",
     "title": "A simple project switcher for Kakoune"
   },
@@ -101,18 +111,13 @@
   },
   {
     "source": "lobsters",
+    "url": "https://fgiesen.wordpress.com/2026/05/29/why-does-astc-use-ise-when-almost-nothing-else-does/",
+    "title": "Why does ASTC use ISE when almost nothing else does?"
+  },
+  {
+    "source": "lobsters",
     "url": "https://ziglang.org/devlog/2026/?2026-05-30#2026-05-30",
     "title": "ELF Linker Improvements in Zig"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://av2.aomedia.org/",
-    "title": "AV2 v1.0.0 specification"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://seg6.space/posts/concurrent-registration/",
-    "title": "Concurrent device registration without Redis"
   },
   {
     "source": "lobsters",
@@ -121,13 +126,18 @@
   },
   {
     "source": "lobsters",
+    "url": "https://av2.aomedia.org/",
+    "title": "AV2 v1.0.0 specification"
+  },
+  {
+    "source": "lobsters",
     "url": "http://oldvcr.blogspot.com/2026/05/ahoy-decmate-ii-little-pdp-8-that-could.html",
     "title": "Ahoy, DECmate II! the little PDP-8 that could"
   },
   {
     "source": "lobsters",
-    "url": "https://apenwarr.ca/log/20260531",
-    "title": "The software industry: annealing, but wrong"
+    "url": "https://seg6.space/posts/concurrent-registration/",
+    "title": "Concurrent device registration without Redis"
   },
   {
     "source": "lobsters",
@@ -136,18 +146,13 @@
   },
   {
     "source": "lobsters",
+    "url": "https://www.vincentdelft.be/post/post_20260530",
+    "title": "UTF8 email with DMA: DragonFly Mail Agent"
+  },
+  {
+    "source": "lobsters",
     "url": "https://alextardif.com/AI.html",
     "title": "The Cost of AI"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://blog.wybxc.cc/blog/pretty-printer-pye/",
-    "title": "A New Design for Pretty Printer Implementations in Rust"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://www.bunniestudios.com/blog/2026/on-reading-srams-in-ir-images-and-establishing-bounds-on-trust/",
-    "title": "On Reading SRAMs in IR Images, and Establishing Bounds on Trust"
   },
   {
     "source": "pinboard",
