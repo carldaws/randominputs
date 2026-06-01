@@ -1,18 +1,8 @@
 [
   {
     "source": "hn",
-    "url": "https://www.modelfkeyboards.com/product/beam-spring-b104-keyboard/",
-    "title": "New Beam Spring Keyboards"
-  },
-  {
-    "source": "hn",
     "url": "https://prismml.com/news/bonsai-image-4b",
     "title": "1-Bit Bonsai Image 4B Image Generation for Local Devices"
-  },
-  {
-    "source": "hn",
-    "url": "https://tylercipriani.com/blog/2026/05/28/chuwi-minibook-x/",
-    "title": "Chuwi Minibook X: the netbook we deserve"
   },
   {
     "source": "hn",
@@ -26,13 +16,13 @@
   },
   {
     "source": "hn",
-    "url": "https://twitter.com/i/status/2060746160558543217",
-    "title": "Codex just found a \"workaround\" of not having sudo on my PC"
+    "url": "https://www.modelfkeyboards.com/product/beam-spring-b104-keyboard/",
+    "title": "New Beam Spring Keyboards"
   },
   {
     "source": "hn",
-    "url": "http://www.linux-m68k.org/",
-    "title": "Linux/M68k"
+    "url": "https://tylercipriani.com/blog/2026/05/28/chuwi-minibook-x/",
+    "title": "Chuwi Minibook X: the netbook we deserve"
   },
   {
     "source": "hn",
@@ -41,13 +31,18 @@
   },
   {
     "source": "hn",
-    "url": "https://justine.lol/rseq/",
-    "title": "Restartable Sequences"
+    "url": "http://www.linux-m68k.org/",
+    "title": "Linux/M68k"
   },
   {
     "source": "hn",
-    "url": "https://diamondgeezer.blogspot.com/2026/05/londons-free-roof-terraces.html",
-    "title": "London's Free Roof Terraces"
+    "url": "https://twitter.com/i/status/2060746160558543217",
+    "title": "Codex just found a \"workaround\" of not having sudo on my PC"
+  },
+  {
+    "source": "hn",
+    "url": "https://justine.lol/rseq/",
+    "title": "Restartable Sequences"
   },
   {
     "source": "hn",
@@ -56,13 +51,13 @@
   },
   {
     "source": "hn",
-    "url": "https://blog.lauramichet.com/what-its-like-to-have-the-machine-that-keeps-you-alive-die-while-youre-on-vacation/",
-    "title": "Having your insulin pump die while you're on vacation"
+    "url": "https://diamondgeezer.blogspot.com/2026/05/londons-free-roof-terraces.html",
+    "title": "London's Free Roof Terraces"
   },
   {
     "source": "hn",
-    "url": "https://www.lucasfcosta.com/blog/backpressure-is-all-you-need",
-    "title": "Backpressure is all you need"
+    "url": "https://blog.lauramichet.com/what-its-like-to-have-the-machine-that-keeps-you-alive-die-while-youre-on-vacation/",
+    "title": "Having your insulin pump die while you're on vacation"
   },
   {
     "source": "hn",
@@ -71,13 +66,8 @@
   },
   {
     "source": "hn",
-    "url": "https://hannesweissteiner.com/pdfs/frost.pdf",
-    "title": "FROST: Fingerprinting Remotely using OPFS-based SSD Timing [pdf]"
-  },
-  {
-    "source": "hn",
-    "url": "https://deflock.org/",
-    "title": "Deflock hits 100k ALPRs Mapped in USA"
+    "url": "https://www.lucasfcosta.com/blog/backpressure-is-all-you-need",
+    "title": "Backpressure is all you need"
   },
   {
     "source": "lobsters",
@@ -121,6 +111,11 @@
   },
   {
     "source": "lobsters",
+    "url": "https://seg6.space/posts/concurrent-registration/",
+    "title": "Concurrent device registration without Redis"
+  },
+  {
+    "source": "lobsters",
     "url": "https://nixos.org/blog/announcements/2026/nixos-2605/",
     "title": "NixOS 26.05 released"
   },
@@ -128,6 +123,16 @@
     "source": "lobsters",
     "url": "http://oldvcr.blogspot.com/2026/05/ahoy-decmate-ii-little-pdp-8-that-could.html",
     "title": "Ahoy, DECmate II! the little PDP-8 that could"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://apenwarr.ca/log/20260531",
+    "title": "The software industry: annealing, but wrong"
+  },
+  {
+    "source": "lobsters",
+    "url": "http://marcosh.github.io/post/2026/05/21/homomorphic-static-analysis.html",
+    "title": "Homomorphic static analysis"
   },
   {
     "source": "lobsters",
@@ -141,23 +146,8 @@
   },
   {
     "source": "lobsters",
-    "url": "http://marcosh.github.io/post/2026/05/21/homomorphic-static-analysis.html",
-    "title": "Homomorphic static analysis"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://blog.washi.dev/posts/custom-attributes-and-why-they-suck/",
-    "title": "Why Custom Attributes in .NET give me Nightmares"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://fgiesen.wordpress.com/2026/05/29/why-does-astc-use-ise-when-almost-nothing-else-does/",
-    "title": "Why does ASTC use ISE when almost nothing else does?"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://www.jonashietala.se/blog/2026/05/31/sops_age_and_sealed_secrets/",
-    "title": "SOPS + Age and Sealed Secrets"
+    "url": "https://www.bunniestudios.com/blog/2026/on-reading-srams-in-ir-images-and-establishing-bounds-on-trust/",
+    "title": "On Reading SRAMs in IR Images, and Establishing Bounds on Trust"
   },
   {
     "source": "pinboard",
