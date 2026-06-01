@@ -1,18 +1,28 @@
 [
   {
     "source": "hn",
+    "url": "https://www.0xsid.com/blog/meta-account-takeover-fiasco",
+    "title": "The Newest Instagram \"Exploit\" Is the Goofiest I've Seen"
+  },
+  {
+    "source": "hn",
+    "url": "https://cs336.stanford.edu/",
+    "title": "CS336: Language Modeling from Scratch"
+  },
+  {
+    "source": "hn",
     "url": "https://point.free/blog/gemma-4-on-a-2016-xeon/",
     "title": "A 10 year old Xeon is all you need"
   },
   {
     "source": "hn",
-    "url": "https://blainsmith.com/articles/httptrace-with-go/",
-    "title": "Tracing HTTP Requests with Go's net/HTTP/httptrace"
+    "url": "https://vinewallapp.com/notes/i-made-my-phone-slow-on-purpose/",
+    "title": "I made my phone slow on purpose"
   },
   {
     "source": "hn",
-    "url": "https://kefir.protopopov.lv/posts/announce2.html",
-    "title": "Cessation of public development of Kefir C compiler"
+    "url": "https://lambdacreate.com/posts/sysadmining-like-its-2009",
+    "title": "Sysadmining Like It's 2009"
   },
   {
     "source": "hn",
@@ -21,8 +31,13 @@
   },
   {
     "source": "hn",
-    "url": "https://movq.de/blog/postings/2026-05-29/0/POSTING-en.html",
-    "title": "Movwin: My (Unpublished) TUI Framework"
+    "url": "https://blainsmith.com/articles/httptrace-with-go/",
+    "title": "Tracing HTTP Requests with Go's net/HTTP/httptrace"
+  },
+  {
+    "source": "hn",
+    "url": "https://bret.dk/radxa-dragon-q8b-a-laptop-cosplaying-as-an-sbc/",
+    "title": "Radxa Dragon Q8B: A Laptop Cosplaying as an SBC?"
   },
   {
     "source": "hn",
@@ -31,33 +46,23 @@
   },
   {
     "source": "hn",
-    "url": "http://juniper.github.io/libslax/slax-manual.html",
-    "title": "The SLAX Scripting Language: An Alternate Syntax for XSLT"
+    "url": "https://kristoff.it/blog/fix-your-asserts/",
+    "title": "You Must Fix Your Asserts (Zig)"
   },
   {
     "source": "hn",
-    "url": "https://prismml.com/news/bonsai-image-4b",
-    "title": "1-Bit Bonsai Image 4B Image Generation for Local Devices"
+    "url": "https://movq.de/blog/postings/2026-05-29/0/POSTING-en.html",
+    "title": "Movwin: My (Unpublished) TUI Framework"
   },
   {
-    "source": "hn",
-    "url": "https://jbkempf.com/blog/2026/dav2d/",
-    "title": "Dav2d"
+    "source": "lobsters",
+    "url": "https://c9x.me/compile/release/qbe-1.3.html",
+    "title": "QBE - Compiler Backend: Version 1.3"
   },
   {
-    "source": "hn",
-    "url": "https://www.promptarmor.com/resources/gpt-for-google-sheets-data-exfiltration",
-    "title": "ChatGPT for Google Sheets exfiltrates workbooks"
-  },
-  {
-    "source": "hn",
-    "url": "https://thereader.mitpress.mit.edu/the-genius-of-the-barn-owls-feathers/",
-    "title": "The Genius of the Barn Owl's Feathers"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.modelfkeyboards.com/product/beam-spring-b104-keyboard/",
-    "title": "New Beam Spring Keyboards"
+    "source": "lobsters",
+    "url": "https://trifectatech.org/blog/announcing-zstandard-in-rust/",
+    "title": "Announcing Zstandard in Rust"
   },
   {
     "source": "lobsters",
@@ -71,38 +76,18 @@
   },
   {
     "source": "lobsters",
-    "url": "https://c9x.me/compile/release/qbe-1.3.html",
-    "title": "QBE - Compiler Backend: Version 1.3"
-  },
-  {
-    "source": "lobsters",
     "url": "https://thoughts.hmmz.org/2026-05-31.html",
     "title": "vibecoding as adhd multiplier"
   },
   {
     "source": "lobsters",
-    "url": "https://kristoff.it/blog/fix-your-asserts/",
-    "title": "You Must Fix Your Asserts"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://blog.tymscar.com/posts/v100localllm/",
-    "title": "I Put a Datacenter GPU in My Gaming PC for £200"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://trifectatech.org/blog/announcing-zstandard-in-rust/",
-    "title": "Announcing Zstandard in Rust"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://lambdacreate.com/posts/sysadmining-like-its-2009",
-    "title": "Sysadmining like it's 2009"
-  },
-  {
-    "source": "lobsters",
     "url": "https://30fps.net/pages/255-vs-256-division/",
     "title": "Should you normalize RGB values by 255 or 256?"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://eblog.fly.dev/githubbad.html",
+    "title": "github and the crime against software"
   },
   {
     "source": "lobsters",
@@ -116,6 +101,21 @@
   },
   {
     "source": "lobsters",
+    "url": "https://blog.tymscar.com/posts/v100localllm/",
+    "title": "I Put a Datacenter GPU in My Gaming PC for £200"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://seg6.space/posts/concurrent-registration/",
+    "title": "Concurrent device registration without Redis"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://cdrom.ca/games/2026/05/30/xd.html",
+    "title": "Exploring the Japanese XD FirstClass Network BBS"
+  },
+  {
+    "source": "lobsters",
     "url": "https://www.vincentdelft.be/post/post_20260530",
     "title": "UTF8 email with DMA: DragonFly Mail Agent"
   },
@@ -125,18 +125,88 @@
     "title": "The software industry: annealing, but wrong"
   },
   {
-    "source": "lobsters",
-    "url": "https://plantbasedgames.io/blog/posts/09-adding-offline-mode-and-custom-servers-to-an-mmorpg/",
-    "title": "Adding Offline Mode and Custom Servers to an MMORPG"
+    "source": "pinboard",
+    "url": "https://pandoc-templates.org/",
+    "title": "Pandoc Templates"
   },
   {
-    "source": "lobsters",
-    "url": "https://fgiesen.wordpress.com/2026/05/29/why-does-astc-use-ise-when-almost-nothing-else-does/",
-    "title": "Why does ASTC use ISE when almost nothing else does?"
+    "source": "pinboard",
+    "url": "https://daringfireball.net/2026/05/what_is_a_dickover",
+    "title": "Daring Fireball: What Is a Dickover?"
   },
   {
-    "source": "lobsters",
-    "url": "https://seg6.space/posts/concurrent-registration/",
-    "title": "Concurrent device registration without Redis"
+    "source": "pinboard",
+    "url": "https://www.brethorsting.com/blog/2026/05/domain-expertise-has-always-been-the-real-moat/",
+    "title": "Domain Expertise Has Always Been the Real Moat | Aaron Brethorst"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://shantellsans.com/process",
+    "title": "Shantell Sans → ArrowType"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://hypercritical.co/2026/05/29/ev-stupidity-checklist",
+    "title": "Hypercritical: EV Stupidity Checklist"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://diamondgeezer.blogspot.com/2026/05/londons-free-roof-terraces.html",
+    "title": "Free public roof terraces in London / diamond geezer"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://brie.gay/cheese-paper/",
+    "title": "Cheese Paper"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.inkandswitch.com/tangents/bijou64/",
+    "title": "bijou64"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://simonwillison.net/2026/May/27/product-market-fit/",
+    "title": "I think Anthropic and OpenAI have found product-market fit"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://virtualosmuseum.org/",
+    "title": "The Virtual OS Museum"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.theatlantic.com/technology/2026/05/how-to-tell-ai-writing/687345/",
+    "title": "The Biggest Tell That Something Was Written by AI - The Atlantic"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://tvexplorer.live/",
+    "title": "TV Explorer"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.noaa.gov/jetstream/clouds/ten-basic-clouds",
+    "title": "Ten Basic Clouds | National Oceanic and Atmospheric Administration"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://vickiboykis.com/2026/05/28/we-should-be-more-tired-than-the-model/",
+    "title": "We should be more tired than the model | ✰Vicki Boykis✰"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://nolanlawson.com/2026/05/25/using-ai-to-write-better-code-more-slowly/",
+    "title": "Using AI to write better code more slowly | Read the Tea Leaves"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://news.ycombinator.com/item?id=48326802",
+    "title": "SQLite is all you need for durable workflows | Hacker News"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://mastrojs.github.io/blog/2026-05-23-is-AI-causing-a-repeat-of-frontends-lost-decade/",
+    "title": "Is AI causing a repeat of Frontend’s Lost Decade? | Mastro Blog"
   }
 ]
