@@ -6,48 +6,13 @@
   },
   {
     "source": "hn",
-    "url": "https://prismml.com/news/bonsai-image-4b",
-    "title": "1-Bit Bonsai Image 4B Image Generation for Local Devices"
-  },
-  {
-    "source": "hn",
     "url": "https://www.promptarmor.com/resources/gpt-for-google-sheets-data-exfiltration",
     "title": "ChatGPT for Google Sheets exfiltrates workbooks"
   },
   {
     "source": "hn",
-    "url": "https://jbkempf.com/blog/2026/dav2d/",
-    "title": "Dav2d"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.modelfkeyboards.com/product/beam-spring-b104-keyboard/",
-    "title": "New Beam Spring Keyboards"
-  },
-  {
-    "source": "hn",
-    "url": "https://darylcecile.net/notes/speed-of-prototyping-age-of-ai",
-    "title": "The Speed of Prototyping in the Age of AI"
-  },
-  {
-    "source": "hn",
-    "url": "https://twitter.com/i/status/2060746160558543217",
-    "title": "Codex just found a \"workaround\" of not having sudo on my PC"
-  },
-  {
-    "source": "hn",
-    "url": "https://justine.lol/rseq/",
-    "title": "Restartable Sequences"
-  },
-  {
-    "source": "hn",
-    "url": "https://diamondgeezer.blogspot.com/2026/05/londons-free-roof-terraces.html",
-    "title": "London's Free Roof Terraces"
-  },
-  {
-    "source": "hn",
-    "url": "http://www.linux-m68k.org/",
-    "title": "Linux/M68k"
+    "url": "https://prismml.com/news/bonsai-image-4b",
+    "title": "1-Bit Bonsai Image 4B Image Generation for Local Devices"
   },
   {
     "source": "hn",
@@ -56,18 +21,48 @@
   },
   {
     "source": "hn",
+    "url": "https://jbkempf.com/blog/2026/dav2d/",
+    "title": "Dav2d"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.chiply.dev/post-ij-sierpinski",
+    "title": "Two Ways to Draw Infinite Jest's Sierpinski Gasket"
+  },
+  {
+    "source": "hn",
+    "url": "https://darylcecile.net/notes/speed-of-prototyping-age-of-ai",
+    "title": "The Speed of Prototyping in the Age of AI"
+  },
+  {
+    "source": "hn",
+    "url": "https://justine.lol/rseq/",
+    "title": "Restartable Sequences"
+  },
+  {
+    "source": "hn",
+    "url": "http://www.linux-m68k.org/",
+    "title": "Linux/M68k"
+  },
+  {
+    "source": "hn",
+    "url": "https://diamondgeezer.blogspot.com/2026/05/londons-free-roof-terraces.html",
+    "title": "London's Free Roof Terraces"
+  },
+  {
+    "source": "hn",
+    "url": "https://twitter.com/i/status/2060746160558543217",
+    "title": "Codex just found a \"workaround\" of not having sudo on my PC"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.modelfkeyboards.com/product/beam-spring-b104-keyboard/",
+    "title": "New Beam Spring Keyboards"
+  },
+  {
+    "source": "hn",
     "url": "https://blog.lauramichet.com/what-its-like-to-have-the-machine-that-keeps-you-alive-die-while-youre-on-vacation/",
     "title": "Having your insulin pump die while you're on vacation"
-  },
-  {
-    "source": "hn",
-    "url": "https://dirkdeklein.net/2026/02/03/the-fascinating-history-of-prisencolinensinainciusol-the-nonsense-song-that-became-a-global-hit/",
-    "title": "The History of \"Prisencolinensinainciusol\""
-  },
-  {
-    "source": "hn",
-    "url": "https://www.lucasfcosta.com/blog/backpressure-is-all-you-need",
-    "title": "Backpressure is all you need"
   },
   {
     "source": "lobsters",
@@ -81,6 +76,11 @@
   },
   {
     "source": "lobsters",
+    "url": "https://mail.cyberneticforests.com/its-not-just-data-its-post-training/",
+    "title": "It's Not Just X. It's Y"
+  },
+  {
+    "source": "lobsters",
     "url": "https://kristoff.it/blog/fix-your-asserts/",
     "title": "You Must Fix Your Asserts"
   },
@@ -91,13 +91,23 @@
   },
   {
     "source": "lobsters",
-    "url": "https://mail.cyberneticforests.com/its-not-just-data-its-post-training/",
-    "title": "It's Not Just X. It's Y"
+    "url": "https://apenwarr.ca/log/20260531",
+    "title": "The software industry: annealing, but wrong"
   },
   {
     "source": "lobsters",
-    "url": "https://apenwarr.ca/log/20260531",
-    "title": "The software industry: annealing, but wrong"
+    "url": "https://www.zsh.org/mla/announce/msg00135.html",
+    "title": "zsh 5.9.1 released"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://plantbasedgames.io/blog/posts/09-adding-offline-mode-and-custom-servers-to-an-mmorpg/",
+    "title": "Adding Offline Mode and Custom Servers to an MMORPG"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://www.vincentdelft.be/post/post_20260530",
+    "title": "UTF8 email with DMA: DragonFly Mail Agent"
   },
   {
     "source": "lobsters",
@@ -106,8 +116,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://plantbasedgames.io/blog/posts/09-adding-offline-mode-and-custom-servers-to-an-mmorpg/",
-    "title": "Adding Offline Mode and Custom Servers to an MMORPG"
+    "url": "https://endler.dev/2026/lychee-recursion/",
+    "title": "Five Years of Trying to Add Recursion to lychee"
   },
   {
     "source": "lobsters",
@@ -145,16 +155,6 @@
     "title": "Homomorphic static analysis"
   },
   {
-    "source": "lobsters",
-    "url": "https://www.vincentdelft.be/post/post_20260530",
-    "title": "UTF8 email with DMA: DragonFly Mail Agent"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://alextardif.com/AI.html",
-    "title": "The Cost of AI"
-  },
-  {
     "source": "pinboard",
     "url": "https://pandoc-templates.org/",
     "title": "Pandoc Templates"
@@ -166,43 +166,18 @@
   },
   {
     "source": "pinboard",
-    "url": "https://nooneshappy.com/article/appearing-productive-in-the-workplace/",
-    "title": "Appearing Productive in The Workplace — No One's Happy"
+    "url": "https://www.brethorsting.com/blog/2026/05/domain-expertise-has-always-been-the-real-moat/",
+    "title": "Domain Expertise Has Always Been the Real Moat | Aaron Brethorst"
   },
   {
     "source": "pinboard",
-    "url": "https://simonwillison.net/2026/May/27/product-market-fit/",
-    "title": "I think Anthropic and OpenAI have found product-market fit"
+    "url": "https://shantellsans.com/process",
+    "title": "Shantell Sans → ArrowType"
   },
   {
     "source": "pinboard",
-    "url": "https://arps18.github.io/posts/claude-code-mastery/",
-    "title": "Beyond the Prompt: Claude Code | Arpan Patel"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://mlsu.io/posts/day-off/",
-    "title": "Can we have the day off?"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.inkandswitch.com/tangents/bijou64/",
-    "title": "bijou64"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.noaa.gov/jetstream/clouds/ten-basic-clouds",
-    "title": "Ten Basic Clouds | National Oceanic and Atmospheric Administration"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://drobinin.com/posts/am-i-a-bad-friend/",
-    "title": "1.2M Messages to Obsidian - Building a Relationship Map from 20 Years of Chat History"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://lucumr.pocoo.org/2026/5/26/clankers/",
-    "title": "Clanker: A Word For The Machine | Armin Ronacher's Thoughts and Writings"
+    "url": "https://hypercritical.co/2026/05/29/ev-stupidity-checklist",
+    "title": "Hypercritical: EV Stupidity Checklist"
   },
   {
     "source": "pinboard",
@@ -211,18 +186,38 @@
   },
   {
     "source": "pinboard",
-    "url": "https://shvbsle.in/various-llm-smells/",
-    "title": "Various LLM smells | Shiv After Dark"
+    "url": "https://www.inkandswitch.com/tangents/bijou64/",
+    "title": "bijou64"
   },
   {
     "source": "pinboard",
-    "url": "https://www.jonaharagon.com/posts/im-getting-into-mesh-networks-meshtastic-meshcore-and-reticulum/",
-    "title": "I'm Getting Into Mesh Networks... (Meshtastic, MeshCore, and Reticulum)"
+    "url": "https://simonwillison.net/2026/May/27/product-market-fit/",
+    "title": "I think Anthropic and OpenAI have found product-market fit"
   },
   {
     "source": "pinboard",
-    "url": "https://news.ycombinator.com/item?id=48299638",
-    "title": "I'm Getting into Mesh Networks (Meshtastic, MeshCore, and Reticulum) | Hacker News"
+    "url": "https://virtualosmuseum.org/",
+    "title": "The Virtual OS Museum"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.theatlantic.com/technology/2026/05/how-to-tell-ai-writing/687345/",
+    "title": "The Biggest Tell That Something Was Written by AI - The Atlantic"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://tvexplorer.live/",
+    "title": "TV Explorer"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.noaa.gov/jetstream/clouds/ten-basic-clouds",
+    "title": "Ten Basic Clouds | National Oceanic and Atmospheric Administration"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://vickiboykis.com/2026/05/28/we-should-be-more-tired-than-the-model/",
+    "title": "We should be more tired than the model | ✰Vicki Boykis✰"
   },
   {
     "source": "pinboard",
@@ -236,12 +231,7 @@
   },
   {
     "source": "pinboard",
-    "url": "https://cel.cs.brown.edu/csci-1377-s26/",
-    "title": "CSCI 1377: Tools for Thought - S26"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://nooneshappy.com/article/the-ai-bubble/",
-    "title": "The AI Bubble — No One's Happy"
+    "url": "https://mastrojs.github.io/blog/2026-05-23-is-AI-causing-a-repeat-of-frontends-lost-decade/",
+    "title": "Is AI causing a repeat of Frontend’s Lost Decade? | Mastro Blog"
   }
 ]
