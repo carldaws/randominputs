@@ -1,8 +1,23 @@
 [
   {
     "source": "hn",
+    "url": "https://microsoft.ai/models/mai-code-1-flash/",
+    "title": "Microsoft's MAI-Code-1-Flash Scores 51% SWE-Bench Pro with Just 5B Active Params"
+  },
+  {
+    "source": "hn",
     "url": "https://coveillance.org/a-walking-tour-of-surveillance-infrastructure-in-seattle/",
     "title": "A walking tour of surveillance infrastructure in Seattle"
+  },
+  {
+    "source": "hn",
+    "url": "https://jasonzweig.com/three-ways-to-get-paid/",
+    "title": "Three Ways to Get Paid (2018)"
+  },
+  {
+    "source": "hn",
+    "url": "https://c9x.me/compile/release/qbe-1.3.html",
+    "title": "QBE – Compiler Back end: Version 1.3"
   },
   {
     "source": "hn",
@@ -16,23 +31,13 @@
   },
   {
     "source": "hn",
+    "url": "https://research.perplexity.ai/articles/rethinking-search-as-code-generation",
+    "title": "Rethinking Search as Code Generation"
+  },
+  {
+    "source": "hn",
     "url": "https://blog.tjll.net/you-dont-love-systemd-timers-enough/",
     "title": "Love systemd timers"
-  },
-  {
-    "source": "hn",
-    "url": "https://blog.davidedmundson.co.uk/blog/596/",
-    "title": "Preparing for KDE Plasma's Last X11-Supported Release"
-  },
-  {
-    "source": "hn",
-    "url": "https://dan-webnotes.com/posts/2026-06-02-css-native-parallax-effect/",
-    "title": "CSS-Native Parallax Effect"
-  },
-  {
-    "source": "hn",
-    "url": "https://jasonzweig.com/three-ways-to-get-paid/",
-    "title": "Three Ways to Get Paid"
   },
   {
     "source": "hn",
@@ -41,8 +46,23 @@
   },
   {
     "source": "hn",
+    "url": "https://dan-webnotes.com/posts/2026-06-02-css-native-parallax-effect/",
+    "title": "CSS-Native Parallax Effect"
+  },
+  {
+    "source": "hn",
+    "url": "https://mlochbaum.github.io/BQN/commentary/primitive.html",
+    "title": "BQN: What Is a Primitive?"
+  },
+  {
+    "source": "hn",
     "url": "https://eyeball.rory.codes/",
     "title": "Show HN: Eyeball"
+  },
+  {
+    "source": "hn",
+    "url": "https://theamericanscholar.org/you-must-remember-this/",
+    "title": "On the nature of autobiographical memory"
   },
   {
     "source": "hn",
@@ -51,38 +71,8 @@
   },
   {
     "source": "hn",
-    "url": "https://www.openfov.com/",
-    "title": "Webcam head tracking, webcam to control in‑game FOV"
-  },
-  {
-    "source": "hn",
-    "url": "https://blog.hopefullyuseful.com/blog/macos-needs-its-grid-back/",
-    "title": "macOS needs its grid back"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.0xsid.com/blog/meta-account-takeover-fiasco",
-    "title": "The newest Instagram “exploit” is the goofiest I've seen"
-  },
-  {
-    "source": "hn",
-    "url": "https://categoricaldata.net/",
-    "title": "CQL: Categorical Databases"
-  },
-  {
-    "source": "hn",
-    "url": "https://droplock.apitman.com/",
-    "title": "Show HN: DropLock – E2EE secret sharing web app with no backend"
-  },
-  {
-    "source": "hn",
-    "url": "https://debug.com/",
-    "title": "Debug Project"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.windowslatest.com/2026/06/01/microsoft-builds-its-ultimate-macbook-pro-rival-with-the-nvidia-powered-surface-laptop-ultra/",
-    "title": "Microsoft builds MacBook Pro rival with NVIDIA-powered Surface Laptop Ultra"
+    "url": "https://semgrep.dev/blog/2026/announcing-pyro-caml-continuous-profiler-ocaml/",
+    "title": "Pyro Caml Continuous Profiler for OCaml"
   },
   {
     "source": "lobsters",
@@ -101,8 +91,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://trifectatech.org/blog/announcing-zstandard-in-rust/",
-    "title": "Announcing Zstandard in Rust"
+    "url": "https://blog.davidedmundson.co.uk/blog/596/",
+    "title": "Preparing for KDE Plasma’s Last X11-Supported Release"
   },
   {
     "source": "lobsters",
@@ -111,8 +101,18 @@
   },
   {
     "source": "lobsters",
+    "url": "https://trifectatech.org/blog/announcing-zstandard-in-rust/",
+    "title": "Announcing Zstandard in Rust"
+  },
+  {
+    "source": "lobsters",
     "url": "https://eblog.fly.dev/githubbad.html",
     "title": "github and the crime against software"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://www.0xsid.com/blog/meta-account-takeover-fiasco",
+    "title": "The Newest Instagram \"Exploit\" is the Goofiest I've Seen"
   },
   {
     "source": "lobsters",
@@ -121,8 +121,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://c9x.me/compile/release/qbe-1.3.html",
-    "title": "QBE - Compiler Backend: Version 1.3"
+    "url": "https://gills.pages.dev/revo/",
+    "title": "revo, the programming language"
   },
   {
     "source": "lobsters",
@@ -131,8 +131,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://30fps.net/pages/255-vs-256-division/",
-    "title": "Should you normalize RGB values by 255 or 256?"
+    "url": "https://yogthos.net/posts/2026-06-02-wavescope.html",
+    "title": "Using wavelets and entropy coding to analyze code structure"
   },
   {
     "source": "lobsters",
@@ -141,17 +141,17 @@
   },
   {
     "source": "lobsters",
-    "url": "https://marcin.juszkiewicz.com.pl/2026/06/01/arm-desktop-so-many-cores-not-enough-speed/",
-    "title": "Arm desktop: so many cores, not enough speed"
+    "url": "https://30fps.net/pages/255-vs-256-division/",
+    "title": "Should you normalize RGB values by 255 or 256?"
   },
   {
     "source": "lobsters",
-    "url": "https://www.thehandbasket.co/p/hating-ai-is-good-actually",
-    "title": "Hating AI is good, actually"
+    "url": "https://handwritten.danieljanus.pl/2026-06-01-edsger.html",
+    "title": "Edsger – a handwritten Clojure REPL for the reMarkable 2"
   },
   {
     "source": "lobsters",
-    "url": "https://yogthos.net/posts/2026-06-02-wavescope.html",
-    "title": "Using wavelets and entropy coding to analyze code structure"
+    "url": "https://fzakaria.com/2026/06/01/every-byte-matters",
+    "title": "Every byte matters"
   }
 ]
