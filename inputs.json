@@ -1,11 +1,6 @@
 [
   {
     "source": "hn",
-    "url": "https://ianthehenry.com/posts/why-janet/",
-    "title": "Why Janet? (2023)"
-  },
-  {
-    "source": "hn",
     "url": "https://coveillance.org/a-walking-tour-of-surveillance-infrastructure-in-seattle/",
     "title": "A walking tour of surveillance infrastructure in Seattle"
   },
@@ -16,23 +11,13 @@
   },
   {
     "source": "hn",
+    "url": "https://ianthehenry.com/posts/why-janet/",
+    "title": "Why Janet? (2023)"
+  },
+  {
+    "source": "hn",
     "url": "https://blog.tjll.net/you-dont-love-systemd-timers-enough/",
-    "title": "You Don't Love Systemd Timers Enough"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.0xsid.com/blog/meta-account-takeover-fiasco",
-    "title": "The newest Instagram “exploit” is the goofiest I've seen"
-  },
-  {
-    "source": "hn",
-    "url": "https://dan-webnotes.com/posts/2026-06-02-css-native-parallax-effect/",
-    "title": "CSS-Native Parallax Effect"
-  },
-  {
-    "source": "hn",
-    "url": "https://blog.hopefullyuseful.com/blog/macos-needs-its-grid-back/",
-    "title": "macOS needs its grid back"
+    "title": "Love systemd timers"
   },
   {
     "source": "hn",
@@ -41,18 +26,13 @@
   },
   {
     "source": "hn",
-    "url": "https://eyeball.rory.codes/",
-    "title": "Show HN: Eyeball"
+    "url": "https://dan-webnotes.com/posts/2026-06-02-css-native-parallax-effect/",
+    "title": "CSS-Native Parallax Effect"
   },
   {
     "source": "hn",
-    "url": "https://www.openfov.com/",
-    "title": "Webcam head tracking, webcam to control in‑game FOV"
-  },
-  {
-    "source": "hn",
-    "url": "https://categoricaldata.net/",
-    "title": "CQL: Categorical Databases"
+    "url": "https://jasonzweig.com/three-ways-to-get-paid/",
+    "title": "Three Ways to Get Paid"
   },
   {
     "source": "hn",
@@ -61,13 +41,38 @@
   },
   {
     "source": "hn",
+    "url": "https://eyeball.rory.codes/",
+    "title": "Show HN: Eyeball"
+  },
+  {
+    "source": "hn",
     "url": "https://blog.washi.dev/posts/custom-attributes-and-why-they-suck/",
     "title": "Why Custom Attributes in .NET Give Me Nightmares"
   },
   {
     "source": "hn",
-    "url": "https://blog.janestreet.com/strace-ui-bonsai-term-and-the-tui-renaissance/",
-    "title": "Strace-ui, Bonsai_term, and the TUI renaissance"
+    "url": "https://www.openfov.com/",
+    "title": "Webcam head tracking, webcam to control in‑game FOV"
+  },
+  {
+    "source": "hn",
+    "url": "https://blog.hopefullyuseful.com/blog/macos-needs-its-grid-back/",
+    "title": "macOS needs its grid back"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.0xsid.com/blog/meta-account-takeover-fiasco",
+    "title": "The newest Instagram “exploit” is the goofiest I've seen"
+  },
+  {
+    "source": "hn",
+    "url": "https://categoricaldata.net/",
+    "title": "CQL: Categorical Databases"
+  },
+  {
+    "source": "hn",
+    "url": "https://droplock.apitman.com/",
+    "title": "Show HN: DropLock – E2EE secret sharing web app with no backend"
   },
   {
     "source": "hn",
@@ -76,18 +81,8 @@
   },
   {
     "source": "hn",
-    "url": "https://cs336.stanford.edu/",
-    "title": "CS336: Language Modeling from Scratch"
-  },
-  {
-    "source": "hn",
-    "url": "https://30fps.net/pages/255-vs-256-division/",
-    "title": "Should you normalize RGB values by 255 or 256?"
-  },
-  {
-    "source": "hn",
-    "url": "https://blog.cryptographyengineering.com/2026/05/29/fooling-around-with-encrypted-reasoning-blobs/",
-    "title": "Fooling around with encrypted reasoning blobs"
+    "url": "https://www.windowslatest.com/2026/06/01/microsoft-builds-its-ultimate-macbook-pro-rival-with-the-nvidia-powered-surface-laptop-ultra/",
+    "title": "Microsoft builds MacBook Pro rival with NVIDIA-powered Surface Laptop Ultra"
   },
   {
     "source": "lobsters",
@@ -98,6 +93,11 @@
     "source": "lobsters",
     "url": "https://vim-classic.org/news/vim-8.3-released.html",
     "title": "Vim Classic 8.3 released"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://joshlf.com/posts/memory-safety-life-and-death/",
+    "title": "Memory safety is a matter of life and death"
   },
   {
     "source": "lobsters",
@@ -116,6 +116,11 @@
   },
   {
     "source": "lobsters",
+    "url": "https://blog.janestreet.com/strace-ui-bonsai-term-and-the-tui-renaissance/",
+    "title": "strace-ui, Bonsai_term, and the TUI renaissance"
+  },
+  {
+    "source": "lobsters",
     "url": "https://c9x.me/compile/release/qbe-1.3.html",
     "title": "QBE - Compiler Backend: Version 1.3"
   },
@@ -126,18 +131,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://marcin.juszkiewicz.com.pl/2026/06/01/arm-desktop-so-many-cores-not-enough-speed/",
-    "title": "Arm desktop: so many cores, not enough speed"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://joshlf.com/posts/memory-safety-life-and-death/",
-    "title": "Memory safety is a matter of life and death"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://www.thehandbasket.co/p/hating-ai-is-good-actually",
-    "title": "Hating AI is good, actually"
+    "url": "https://30fps.net/pages/255-vs-256-division/",
+    "title": "Should you normalize RGB values by 255 or 256?"
   },
   {
     "source": "lobsters",
@@ -146,117 +141,17 @@
   },
   {
     "source": "lobsters",
-    "url": "https://cdrom.ca/games/2026/05/30/xd.html",
-    "title": "Exploring the Japanese XD FirstClass Network BBS"
+    "url": "https://marcin.juszkiewicz.com.pl/2026/06/01/arm-desktop-so-many-cores-not-enough-speed/",
+    "title": "Arm desktop: so many cores, not enough speed"
   },
   {
     "source": "lobsters",
-    "url": "https://blog.jcea.es/posts/20250209-install_SmartOS.html",
-    "title": "How to install SmartOS on a datacenter machine (2025)"
+    "url": "https://www.thehandbasket.co/p/hating-ai-is-good-actually",
+    "title": "Hating AI is good, actually"
   },
   {
     "source": "lobsters",
-    "url": "https://fzakaria.com/2026/06/01/every-byte-matters",
-    "title": "Every byte matters"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://mail.cyberneticforests.com/its-not-just-data-its-post-training/",
-    "title": "It's Not Just X. It's Y"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://iankduncan.com/engineering/2026-05-30-stealing-from-biologists-to-compile-haskell-faster/",
-    "title": "Stealing from Biologists to Compile Haskell Faster"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://pandoc-templates.org/",
-    "title": "Pandoc Templates"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.brethorsting.com/blog/2026/05/domain-expertise-has-always-been-the-real-moat/",
-    "title": "Domain Expertise Has Always Been the Real Moat | Aaron Brethorst"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://daringfireball.net/2026/05/what_is_a_dickover",
-    "title": "Daring Fireball: What Is a Dickover?"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://thoughts.hmmz.org/2026-05-31.html",
-    "title": "the solution might be cancelling my AI subscription"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://point.free/blog/gemma-4-on-a-2016-xeon/",
-    "title": "A 10 year old Xeon is all you need - point.free"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://shantellsans.com/process",
-    "title": "Shantell Sans → ArrowType"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://brie.gay/cheese-paper/",
-    "title": "Cheese Paper"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://virtualosmuseum.org/",
-    "title": "The Virtual OS Museum"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://blog.tymscar.com/posts/v100localllm/",
-    "title": "I Put a Datacenter GPU in My Gaming PC for £200 :: The Tymscar Blog"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://mechanical-pencil.com/",
-    "title": "Mechanical Pencil"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://hypercritical.co/2026/05/29/ev-stupidity-checklist",
-    "title": "Hypercritical: EV Stupidity Checklist"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://diamondgeezer.blogspot.com/2026/05/londons-free-roof-terraces.html",
-    "title": "Free public roof terraces in London / diamond geezer"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.404media.co/hackers-simply-asked-meta-ai-to-give-them-access-to-high-profile-instagram-accounts-it-worked/",
-    "title": "[untitled]"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://pierre.computer/writing/on-rendering-diffs",
-    "title": "On Rendering Diffs :: Pierre Computer Company"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://tylercipriani.com/blog/2026/05/28/chuwi-minibook-x/",
-    "title": "Chuwi Minibook X: the netbook we deserve - Tyler Cipriani"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://interconnected.org/home/2026/05/30/fedex",
-    "title": "How global logistics got me over my fear of personal agents (Interconnected)"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://musings.martyn.berlin/to-have-a-moral-stance-on-ai-is-to-be-an-outcast-and-it-sucks",
-    "title": "To have a moral stance on AI is to be an outcast, and it sucks."
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.lucasfcosta.com/blog/backpressure-is-all-you-need",
-    "title": "Backpressure is all you need"
+    "url": "https://yogthos.net/posts/2026-06-02-wavescope.html",
+    "title": "Using wavelets and entropy coding to analyze code structure"
   }
 ]
