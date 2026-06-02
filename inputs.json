@@ -11,13 +11,18 @@
   },
   {
     "source": "hn",
-    "url": "https://debug.com/",
-    "title": "Debug Project"
+    "url": "https://categoricaldata.net/",
+    "title": "CQL: Categorical Databases"
   },
   {
     "source": "hn",
     "url": "https://blog.janestreet.com/strace-ui-bonsai-term-and-the-tui-renaissance/",
-    "title": "strace-ui, Bonsai_term, and the TUI renaissance"
+    "title": "Strace-ui, Bonsai_term, and the TUI renaissance"
+  },
+  {
+    "source": "hn",
+    "url": "https://debug.com/",
+    "title": "Debug Project"
   },
   {
     "source": "hn",
@@ -41,18 +46,18 @@
   },
   {
     "source": "hn",
-    "url": "https://www.gregegan.net/MISC/CRYSTAL/Crystal.html",
-    "title": "Crystal Nights (2008)"
-  },
-  {
-    "source": "hn",
-    "url": "https://matse.illinois.edu/news/85775",
-    "title": "A new way to build chips: Sequentially stacking silicon to extend Moore's Law"
+    "url": "https://mitander.xyz/posts/not-every-byte-gets-a-vote/",
+    "title": "Not Every Byte Gets a Vote"
   },
   {
     "source": "hn",
     "url": "https://vinewallapp.com/notes/i-made-my-phone-slow-on-purpose/",
     "title": "I made my phone slow on purpose"
+  },
+  {
+    "source": "hn",
+    "url": "https://matse.illinois.edu/news/85775",
+    "title": "A new way to build chips: Sequentially stacking silicon to extend Moore's Law"
   },
   {
     "source": "hn",
@@ -91,6 +96,11 @@
   },
   {
     "source": "lobsters",
+    "url": "https://geocar.sdf1.org/browser-verification.html",
+    "title": "Browser identification through header order"
+  },
+  {
+    "source": "lobsters",
     "url": "https://mail.cyberneticforests.com/its-not-just-data-its-post-training/",
     "title": "It's Not Just X. It's Y"
   },
@@ -101,18 +111,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://blainsmith.com/articles/httptrace-with-go/",
-    "title": "Tracing HTTP Requests with Go's net/http/httptrace"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://fabiensanglard.net/silpheed/",
-    "title": "The art and engineering of Silpheed"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://geocar.sdf1.org/browser-verification.html",
-    "title": "Browser identification through header order"
+    "url": "https://wiki.xxiivv.com/site/kelvin_versioning.html",
+    "title": "kelvin versioning"
   },
   {
     "source": "lobsters",
@@ -121,8 +121,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://coconauts.net/blog/2026/05/08/pebble-apps/",
-    "title": "Making pebble apps in 2026"
+    "url": "https://fabiensanglard.net/silpheed/",
+    "title": "The art and engineering of Silpheed"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://blainsmith.com/articles/httptrace-with-go/",
+    "title": "Tracing HTTP Requests with Go's net/http/httptrace"
   },
   {
     "source": "lobsters",
@@ -131,18 +136,18 @@
   },
   {
     "source": "lobsters",
-    "url": "https://wiki.xxiivv.com/site/kelvin_versioning.html",
-    "title": "kelvin versioning"
+    "url": "https://sinclairtarget.com/blog/2026/06/01/quality-in-the-age-of-slop/",
+    "title": "Quality in the Age of Slop"
   },
   {
     "source": "lobsters",
-    "url": "https://nocoffei.com/?p=451",
-    "title": "My Accessibility Stack and the future on Wayland"
+    "url": "https://coconauts.net/blog/2026/05/08/pebble-apps/",
+    "title": "Making pebble apps in 2026"
   },
   {
     "source": "lobsters",
-    "url": "https://thoughts.hmmz.org/2026-05-31.html",
-    "title": "vibecoding as adhd multiplier"
+    "url": "https://blog.jcea.es/posts/20250209-install_SmartOS.html",
+    "title": "How to install SmartOS on a datacenter machine (2025)"
   },
   {
     "source": "lobsters",
@@ -163,6 +168,11 @@
     "source": "pinboard",
     "url": "https://daringfireball.net/2026/05/what_is_a_dickover",
     "title": "Daring Fireball: What Is a Dickover?"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://thoughts.hmmz.org/2026-05-31.html",
+    "title": "the solution might be cancelling my AI subscription"
   },
   {
     "source": "pinboard",
