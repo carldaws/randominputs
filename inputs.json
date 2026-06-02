@@ -6,18 +6,18 @@
   },
   {
     "source": "hn",
+    "url": "https://blog.hopefullyuseful.com/blog/macos-needs-its-grid-back/",
+    "title": "macOS needs its grid back"
+  },
+  {
+    "source": "hn",
     "url": "https://debug.com/",
     "title": "Debug Project"
   },
   {
     "source": "hn",
-    "url": "https://yakko.dev/blog/whats-gonna-happen-to-software-developers",
-    "title": "What's gonna happen to software engineers?"
-  },
-  {
-    "source": "hn",
-    "url": "https://matse.illinois.edu/news/85775",
-    "title": "A new way to build chips: Sequentially stacking silicon to extend Moore's Law"
+    "url": "https://blog.cryptographyengineering.com/2026/05/29/fooling-around-with-encrypted-reasoning-blobs/",
+    "title": "Fooling around with encrypted reasoning blobs"
   },
   {
     "source": "hn",
@@ -31,8 +31,8 @@
   },
   {
     "source": "hn",
-    "url": "https://www.gregegan.net/MISC/CRYSTAL/Crystal.html",
-    "title": "Crystal Nights by Greg Egan"
+    "url": "https://matse.illinois.edu/news/85775",
+    "title": "A new way to build chips: Sequentially stacking silicon to extend Moore's Law"
   },
   {
     "source": "hn",
@@ -53,11 +53,6 @@
     "source": "hn",
     "url": "https://vinewallapp.com/notes/i-made-my-phone-slow-on-purpose/",
     "title": "I made my phone slow on purpose"
-  },
-  {
-    "source": "hn",
-    "url": "https://brendanjameslynskey.github.io/ConstantQ-Transform/",
-    "title": "Constant Q Transform – A Visual Guide"
   },
   {
     "source": "hn",
@@ -91,11 +86,6 @@
   },
   {
     "source": "lobsters",
-    "url": "https://www.thehandbasket.co/p/hating-ai-is-good-actually",
-    "title": "Hating AI is good, actually"
-  },
-  {
-    "source": "lobsters",
     "url": "https://blainsmith.com/articles/httptrace-with-go/",
     "title": "Tracing HTTP Requests with Go's net/http/httptrace"
   },
@@ -103,6 +93,16 @@
     "source": "lobsters",
     "url": "https://cdrom.ca/games/2026/05/30/xd.html",
     "title": "Exploring the Japanese XD FirstClass Network BBS"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://www.thehandbasket.co/p/hating-ai-is-good-actually",
+    "title": "Hating AI is good, actually"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://fabiensanglard.net/silpheed/",
+    "title": "The art and engineering of Silpheed"
   },
   {
     "source": "lobsters",
@@ -118,11 +118,6 @@
     "source": "lobsters",
     "url": "https://thoughts.hmmz.org/2026-05-31.html",
     "title": "vibecoding as adhd multiplier"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://fabiensanglard.net/silpheed/",
-    "title": "The art and engineering of Silpheed"
   },
   {
     "source": "lobsters",
