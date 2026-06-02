@@ -21,13 +21,18 @@
   },
   {
     "source": "hn",
+    "url": "https://hpcalcs.com/product/hp-16c-collectors-edition/",
+    "title": "HP re-releases classic computer science calculator: The HP-16C"
+  },
+  {
+    "source": "hn",
     "url": "https://coveillance.org/a-walking-tour-of-surveillance-infrastructure-in-seattle/",
     "title": "A walking tour of surveillance infrastructure in Seattle (2020)"
   },
   {
     "source": "hn",
-    "url": "https://hpcalcs.com/product/hp-16c-collectors-edition/",
-    "title": "HP re-releases classic computer science calculator: The HP-16C"
+    "url": "https://www.acdw.net/clojure/",
+    "title": "My thoughts after using Clojure for about a month"
   },
   {
     "source": "hn",
@@ -46,6 +51,11 @@
   },
   {
     "source": "hn",
+    "url": "https://arslan.io/2024/04/22/review-of-the-moergo-glove80-keyboard/",
+    "title": "Review of the MoErgo Glove80 Keyboard"
+  },
+  {
+    "source": "hn",
     "url": "https://ianthehenry.com/posts/why-janet/",
     "title": "Why Janet? (2023)"
   },
@@ -61,23 +71,13 @@
   },
   {
     "source": "hn",
-    "url": "https://mlochbaum.github.io/BQN/commentary/primitive.html",
-    "title": "BQN: What Is a Primitive?"
-  },
-  {
-    "source": "hn",
     "url": "https://blog.tjll.net/you-dont-love-systemd-timers-enough/",
     "title": "Love systemd timers"
   },
   {
     "source": "hn",
-    "url": "https://research.perplexity.ai/articles/rethinking-search-as-code-generation",
-    "title": "Rethinking search as code generation"
-  },
-  {
-    "source": "hn",
-    "url": "https://jasonzweig.com/three-ways-to-get-paid/",
-    "title": "Three Ways to Get Paid (2018)"
+    "url": "https://mlochbaum.github.io/BQN/commentary/primitive.html",
+    "title": "BQN: What Is a Primitive?"
   },
   {
     "source": "lobsters",
@@ -101,13 +101,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://wiki.xxiivv.com/site/kelvin_versioning.html",
-    "title": "kelvin versioning"
+    "url": "https://gills.pages.dev/revo/",
+    "title": "revo, the programming language"
   },
   {
     "source": "lobsters",
-    "url": "https://gills.pages.dev/revo/",
-    "title": "revo, the programming language"
+    "url": "https://wiki.xxiivv.com/site/kelvin_versioning.html",
+    "title": "kelvin versioning"
   },
   {
     "source": "lobsters",
@@ -136,6 +136,16 @@
   },
   {
     "source": "lobsters",
+    "url": "https://pacever.org/",
+    "title": "PaceVer (an alternative to SemVer, for mobile apps)"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://oils.pub/blog/2026/06/grants.html",
+    "title": "Oils - Reviewing Our NLnet Grants After 4 Years"
+  },
+  {
+    "source": "lobsters",
     "url": "https://yogthos.net/posts/2026-06-02-wavescope.html",
     "title": "Using wavelets and entropy coding to analyze code structure"
   },
@@ -143,10 +153,5 @@
     "source": "lobsters",
     "url": "https://geocar.sdf1.org/browser-verification.html",
     "title": "Browser identification through header order"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://oils.pub/blog/2026/06/grants.html",
-    "title": "Oils - Reviewing Our NLnet Grants After 4 Years"
   }
 ]
