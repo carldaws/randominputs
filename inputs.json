@@ -16,18 +16,23 @@
   },
   {
     "source": "hn",
-    "url": "https://jxself.org/stop-killing-games.shtml",
-    "title": "Stop Killing Games"
+    "url": "https://simonwillison.net/2026/Jun/3/uber-caps-usage/",
+    "title": "Uber's $1,500/month AI limit is a useful signal for AI tool pricing"
   },
   {
     "source": "hn",
     "url": "https://blog.nns.ee/2026/06/03/katana-badusb/",
-    "title": "Hacking your PC using your speaker without ever touching it"
+    "title": "Pwnd Blaster: Hacking your PC using your speaker without ever touching it"
   },
   {
     "source": "hn",
-    "url": "https://simonwillison.net/2026/Jun/3/uber-caps-usage/",
-    "title": "Uber's $1,500/month AI limit is a useful signal for AI tool pricing"
+    "url": "https://lithub.com/the-man-who-reads-books-for-a-living-one-every-two-days/",
+    "title": "A Man Who Reads Books for a Living (One Every Two Days)"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.ableton.com/en/live/extensions/",
+    "title": "Ableton Extensions SDK"
   },
   {
     "source": "hn",
@@ -42,12 +47,12 @@
   {
     "source": "hn",
     "url": "https://www.macrumors.com/2026/06/03/macbook-neo-production-doubled-says-kuo/",
-    "title": "MacBook Neo Is So Popular That Apple Doubled Production"
+    "title": "MacBook Neo is so popular that Apple doubled production"
   },
   {
     "source": "hn",
-    "url": "https://www.mikeash.com/pyblog/fluid-simulation-for-dummies.html",
-    "title": "Fluid Simulation for Dummies (2006)"
+    "url": "https://jxself.org/stop-killing-games.shtml",
+    "title": "Stop Killing Games"
   },
   {
     "source": "hn",
@@ -61,28 +66,13 @@
   },
   {
     "source": "hn",
-    "url": "https://wassimans.com/blog/building-ios-apps-with-doom-emacs/",
-    "title": "Building iOS Apps with Doom Emacs"
+    "url": "https://www.mikeash.com/pyblog/fluid-simulation-for-dummies.html",
+    "title": "Fluid Simulation for Dummies (2006)"
   },
   {
     "source": "hn",
     "url": "http://bryanhu.com/blog/posts/what-ive-learned-about-the-trombone/",
     "title": "What I've learned about the trombone"
-  },
-  {
-    "source": "hn",
-    "url": "https://thenextweb.com/news/gopro-going-concern-ai-memory-crisis-default",
-    "title": "GoPro warned it may not survive"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.theatlantic.com/philosophy/2026/06/no-artificial-intelligence-is-not-conscious/687378/",
-    "title": "Artificial intelligence is not conscious – Ted Chiang"
-  },
-  {
-    "source": "hn",
-    "url": "https://lithub.com/the-man-who-reads-books-for-a-living-one-every-two-days/",
-    "title": "A Man Who Reads Books for a Living (One Every Two Days)"
   },
   {
     "source": "lobsters",
@@ -91,13 +81,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://blog.ammaraskar.com/github-token-stealing/",
-    "title": "Full Disclosure: 1-Click GitHub Token Stealing via a VSCode Bug"
+    "url": "https://kristoff.it/blog/north-star/",
+    "title": "My Software North Star"
   },
   {
     "source": "lobsters",
-    "url": "https://gleam.run/news/single-file-gleam-beam-programs-with-escript/",
-    "title": "Gleam v1.17 - Single file Gleam BEAM programs with escript"
+    "url": "https://blog.ammaraskar.com/github-token-stealing/",
+    "title": "Full Disclosure: 1-Click GitHub Token Stealing via a VSCode Bug"
   },
   {
     "source": "lobsters",
@@ -106,13 +96,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://handwritten.danieljanus.pl/2026-06-01-edsger.html",
-    "title": "Edsger – a handwritten Clojure REPL for the reMarkable 2"
+    "url": "https://gleam.run/news/single-file-gleam-beam-programs-with-escript/",
+    "title": "Gleam v1.17 - Single file Gleam BEAM programs with escript"
   },
   {
     "source": "lobsters",
-    "url": "https://oils.pub/blog/2026/06/grants.html",
-    "title": "Oils - Reviewing Our NLnet Grants After 4 Years"
+    "url": "https://handwritten.danieljanus.pl/2026-06-01-edsger.html",
+    "title": "Edsger – a handwritten Clojure REPL for the reMarkable 2"
   },
   {
     "source": "lobsters",
@@ -121,13 +111,18 @@
   },
   {
     "source": "lobsters",
-    "url": "https://sinclairtarget.com/blog/2026/06/01/quality-in-the-age-of-slop/",
-    "title": "Quality in the Age of Slop"
+    "url": "https://milkandcigarettes.com/notes/devlog/the-bloat",
+    "title": "The Bloat"
   },
   {
     "source": "lobsters",
-    "url": "https://kristoff.it/blog/north-star/",
-    "title": "My Software North Star"
+    "url": "https://oils.pub/blog/2026/06/grants.html",
+    "title": "Oils - Reviewing Our NLnet Grants After 4 Years"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://sinclairtarget.com/blog/2026/06/01/quality-in-the-age-of-slop/",
+    "title": "Quality in the Age of Slop"
   },
   {
     "source": "lobsters",
@@ -141,11 +136,6 @@
   },
   {
     "source": "lobsters",
-    "url": "https://milkandcigarettes.com/notes/devlog/the-bloat",
-    "title": "The Bloat"
-  },
-  {
-    "source": "lobsters",
     "url": "https://www.matheusmoreira.com/articles/lone-lisp-heap",
     "title": "The lone lisp heap"
   },
@@ -153,5 +143,120 @@
     "source": "lobsters",
     "url": "https://gills.pages.dev/revo/",
     "title": "revo, the programming language"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://blog.tjll.net/you-dont-love-systemd-timers-enough/",
+    "title": "systemd timers"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://pandoc-templates.org/",
+    "title": "Pandoc Templates"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.404media.co/hackers-simply-asked-meta-ai-to-give-them-access-to-high-profile-instagram-accounts-it-worked/",
+    "title": "[untitled]"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://thoughts.hmmz.org/2026-05-31.html",
+    "title": "the solution might be cancelling my AI subscription"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.brethorsting.com/blog/2026/05/domain-expertise-has-always-been-the-real-moat/",
+    "title": "Domain Expertise Has Always Been the Real Moat | Aaron Brethorst"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://cs336.stanford.edu/",
+    "title": "Stanford CS336 | Language Modeling from Scratch"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://point.free/blog/gemma-4-on-a-2016-xeon/",
+    "title": "A 10 year old Xeon is all you need - point.free"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://virtualosmuseum.org/",
+    "title": "The Virtual OS Museum"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://jasonzweig.com/three-ways-to-get-paid/",
+    "title": "Three Ways to Get Paid – Jason Zweig"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://eblog.fly.dev/githubbad.html",
+    "title": "github and the crime against software"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://shantellsans.com/process",
+    "title": "Shantell Sans → ArrowType"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://brie.gay/cheese-paper/",
+    "title": "Cheese Paper"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://blog.hopefullyuseful.com/blog/macos-needs-its-grid-back/",
+    "title": "macOS Needs Its Grid Back"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://isaiprofitable.com/",
+    "title": "Is AI Profitable Yet?"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://dan-webnotes.com/posts/2026-06-02-css-native-parallax-effect/",
+    "title": "Utils | CSS-native parallax effect"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://blog.tymscar.com/posts/v100localllm/",
+    "title": "I Put a Datacenter GPU in My Gaming PC for £200 :: The Tymscar Blog"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.0xsid.com/blog/meta-account-takeover-fiasco",
+    "title": "The Newest Instagram \"Exploit\" is the Goofiest I've Seen | Sid's Blog"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://hypercritical.co/2026/05/29/ev-stupidity-checklist",
+    "title": "Hypercritical: EV Stupidity Checklist"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://daringfireball.net/2026/05/what_is_a_dickover",
+    "title": "Daring Fireball: What Is a Dickover?"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://ianthehenry.com/posts/why-janet/",
+    "title": "Why Janet?"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://mechanical-pencil.com/",
+    "title": "Mechanical Pencil"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://pxlnv.com/blog/metaverse-fever-dream/",
+    "title": "The Metaverse Fever Dream – Pixel Envy"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://diamondgeezer.blogspot.com/2026/05/londons-free-roof-terraces.html",
+    "title": "Free public roof terraces in London / diamond geezer"
   }
 ]
