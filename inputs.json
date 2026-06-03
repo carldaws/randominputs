@@ -6,13 +6,13 @@
   },
   {
     "source": "hn",
-    "url": "https://fzakaria.com/2026/06/01/every-byte-matters",
-    "title": "Every Byte Matters"
+    "url": "https://www.blackmagicdesign.com/products/davinciresolve/whatsnew",
+    "title": "DaVinci Resolve 21"
   },
   {
     "source": "hn",
-    "url": "https://simonwillison.net/2026/Jun/3/uber-caps-usage/",
-    "title": "Uber's $1,500/Month AI Limit Is a Useful Signal for AI Tool Pricing"
+    "url": "https://fzakaria.com/2026/06/01/every-byte-matters",
+    "title": "Every Byte Matters"
   },
   {
     "source": "hn",
@@ -31,18 +31,13 @@
   },
   {
     "source": "hn",
-    "url": "https://www.maximevidal.com/sparkling-water",
-    "title": "Which sparkling water is the best?"
+    "url": "https://www.shopifystatus.com",
+    "title": "Shopify Is Down"
   },
   {
     "source": "hn",
-    "url": "https://www.wired.com/story/how-turkey-hacked-the-hair-transplant-industry/",
-    "title": "Turkey Hacked the Hair Transplant Industry"
-  },
-  {
-    "source": "hn",
-    "url": "https://blog.spotcrime.com/2026/06/take-action-lapd-removed-crime-location.html",
-    "title": "Take Action: LAPD Removed Crime Location Data. Here's Why It Matters"
+    "url": "http://bryanhu.com/blog/posts/what-ive-learned-about-the-trombone/",
+    "title": "What I've learned about the trombone"
   },
   {
     "source": "hn",
@@ -61,13 +56,8 @@
   },
   {
     "source": "hn",
-    "url": "http://bryanhu.com/blog/posts/what-ive-learned-about-the-trombone/",
-    "title": "What I've learned about the trombone"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.acdw.net/clojure/",
-    "title": "My thoughts after using Clojure for about a month"
+    "url": "https://lareviewofbooks.org/article/evocations-italy-pavel-muratov-russian-travel-modernism-art/",
+    "title": "Man out of Time: The travels and ecstasies of a Russian aesthete"
   },
   {
     "source": "hn",
@@ -76,18 +66,8 @@
   },
   {
     "source": "hn",
-    "url": "https://ariadne.space/2023/04/12/writing-portable-arm-assembly.html",
-    "title": "Writing Portable ARM64 Assembly (2023)"
-  },
-  {
-    "source": "hn",
-    "url": "https://wiki.wordsoftype.com/",
-    "title": "Words of Type"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.kapa.ai/blog/how-we-index-images-for-rag",
-    "title": "How we index images for RAG"
+    "url": "https://www.acdw.net/clojure/",
+    "title": "My thoughts after using Clojure for about a month"
   },
   {
     "source": "lobsters",
@@ -96,13 +76,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://sinclairtarget.com/blog/2026/06/01/quality-in-the-age-of-slop/",
-    "title": "Quality in the Age of Slop"
+    "url": "https://gleam.run/news/single-file-gleam-beam-programs-with-escript/",
+    "title": "Gleam v1.17 - Single file Gleam BEAM programs with escript"
   },
   {
     "source": "lobsters",
-    "url": "https://gleam.run/news/single-file-gleam-beam-programs-with-escript/",
-    "title": "Gleam v1.17 - Single file Gleam BEAM programs with escript"
+    "url": "https://sinclairtarget.com/blog/2026/06/01/quality-in-the-age-of-slop/",
+    "title": "Quality in the Age of Slop"
   },
   {
     "source": "lobsters",
@@ -111,13 +91,18 @@
   },
   {
     "source": "lobsters",
+    "url": "https://pacever.org/",
+    "title": "PaceVer (an alternative to SemVer, for mobile apps)"
+  },
+  {
+    "source": "lobsters",
     "url": "https://vim-classic.org/news/vim-8.3-released.html",
     "title": "Vim Classic 8.3 released"
   },
   {
     "source": "lobsters",
-    "url": "https://pacever.org/",
-    "title": "PaceVer (an alternative to SemVer, for mobile apps)"
+    "url": "https://burntsushi.net/encephalitis/",
+    "title": "burnrsushi discusses personal medical diagnosis"
   },
   {
     "source": "lobsters",
@@ -131,8 +116,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://joshlf.com/posts/memory-safety-life-and-death/",
-    "title": "Memory safety is a matter of life and death"
+    "url": "https://norswap.com/typescript-distribute/",
+    "title": "How TypeScript distributes unions"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://www.matheusmoreira.com/articles/lone-lisp-heap",
+    "title": "The lone lisp heap"
   },
   {
     "source": "lobsters",
@@ -141,23 +131,18 @@
   },
   {
     "source": "lobsters",
+    "url": "https://joshlf.com/posts/memory-safety-life-and-death/",
+    "title": "Memory safety is a matter of life and death"
+  },
+  {
+    "source": "lobsters",
     "url": "https://ianthehenry.com/posts/why-janet/",
     "title": "Why Janet? (2023)"
   },
   {
-    "source": "lobsters",
-    "url": "https://norswap.com/typescript-distribute/",
-    "title": "How TypeScript distributes unions"
-  },
-  {
-    "source": "lobsters",
+    "source": "pinboard",
     "url": "https://blog.tjll.net/you-dont-love-systemd-timers-enough/",
-    "title": "You Don't Love systemd Timers Enough"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://www.chiply.dev/post-incremental-suggesting-read",
-    "title": "Beyond ICR: Incremental 'Suggesting' Read in Emacs"
+    "title": "systemd timers"
   },
   {
     "source": "pinboard",
