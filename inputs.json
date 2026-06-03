@@ -6,13 +6,23 @@
   },
   {
     "source": "hn",
+    "url": "https://burntsushi.net/encephalitis/",
+    "title": "I was recently diagnosed with anti-NMDA receptor encephalitis"
+  },
+  {
+    "source": "hn",
     "url": "https://blog.nns.ee/2026/06/03/katana-badusb/",
     "title": "Hacking your PC using your speaker without ever touching it"
   },
   {
     "source": "hn",
-    "url": "https://fzakaria.com/2026/06/01/every-byte-matters",
-    "title": "Every Byte Matters"
+    "url": "https://jxself.org/stop-killing-games.shtml",
+    "title": "Stop Killing Games"
+  },
+  {
+    "source": "hn",
+    "url": "https://simonwillison.net/2026/Jun/3/uber-caps-usage/",
+    "title": "Uber's $1,500/month AI limit is a useful signal for AI tool pricing"
   },
   {
     "source": "hn",
@@ -21,13 +31,33 @@
   },
   {
     "source": "hn",
-    "url": "https://www.sanders.senate.gov/op-eds/the-public-should-own-half-of-the-big-a-i-companies/",
-    "title": "The Public Should Own Half of the Big A.I. Companies"
+    "url": "https://www.macrumors.com/2026/06/03/macbook-neo-production-doubled-says-kuo/",
+    "title": "MacBook Neo Is So Popular That Apple Doubled Production"
+  },
+  {
+    "source": "hn",
+    "url": "https://elixir-lang.org/blog/2026/06/03/elixir-v1-20-0-released/",
+    "title": "Elixir v1.20 released: now a gradually typed language"
+  },
+  {
+    "source": "hn",
+    "url": "https://fzakaria.com/2026/06/01/every-byte-matters",
+    "title": "Every Byte Matters"
+  },
+  {
+    "source": "hn",
+    "url": "https://nouvelles.umontreal.ca/en/article/2026/06/02/how-embryos-shape-their-limbs-a-key-discovery-of-genetic-brakes",
+    "title": "Embryos shape their limbs: a key discovery of \"genetic brakes\""
   },
   {
     "source": "hn",
     "url": "https://www.copetti.org/writings/consoles/playstation/",
     "title": "PlayStation Architecture"
+  },
+  {
+    "source": "hn",
+    "url": "http://bryanhu.com/blog/posts/what-ive-learned-about-the-trombone/",
+    "title": "What I've learned about the trombone"
   },
   {
     "source": "hn",
@@ -41,38 +71,13 @@
   },
   {
     "source": "hn",
-    "url": "https://www.macrumors.com/2026/06/03/macbook-neo-production-doubled-says-kuo/",
-    "title": "MacBook Neo Is So Popular That Apple Doubled Production"
+    "url": "https://www.wired.com/story/how-turkey-hacked-the-hair-transplant-industry/",
+    "title": "How turkey hacked the hair-transplant industry"
   },
   {
     "source": "hn",
-    "url": "https://microsoft.ai/news/introducingmai-code-1-flash/",
-    "title": "MAI-Code-1-Flash"
-  },
-  {
-    "source": "hn",
-    "url": "https://shirleymaxx.github.io/REST3D/",
-    "title": "REST3D: Reconstructing Physically Stable 3D Scenes from a Single Image"
-  },
-  {
-    "source": "hn",
-    "url": "https://research.ligo.bio/posts/unreasonable-redundancy-of-natural-protein-folds/",
-    "title": "The Unreasonable Redundancy of Nature's Protein Folds"
-  },
-  {
-    "source": "hn",
-    "url": "https://moddedbear.com/gmail-thinks-im-stupid-so-i-left",
-    "title": "Gmail thinks I'm stupid, so I left"
-  },
-  {
-    "source": "hn",
-    "url": "https://law.stanford.edu/press/ai-outperforms-law-professors-in-stanford-law-study/",
-    "title": "AI outperforms law professors in Stanford Law study"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://burntsushi.net/encephalitis/",
-    "title": "burntsushi discusses personal medical diagnosis"
+    "url": "https://nymag.com/intelligencer/article/christopher-pence-corderos-fbi-dark-web-hit-man.html",
+    "title": "Sixteen Kids and a Hit Man (2024)"
   },
   {
     "source": "lobsters",
@@ -86,13 +91,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://sinclairtarget.com/blog/2026/06/01/quality-in-the-age-of-slop/",
-    "title": "Quality in the Age of Slop"
+    "url": "https://oils.pub/blog/2026/06/grants.html",
+    "title": "Oils - Reviewing Our NLnet Grants After 4 Years"
   },
   {
     "source": "lobsters",
-    "url": "https://oils.pub/blog/2026/06/grants.html",
-    "title": "Oils - Reviewing Our NLnet Grants After 4 Years"
+    "url": "https://sinclairtarget.com/blog/2026/06/01/quality-in-the-age-of-slop/",
+    "title": "Quality in the Age of Slop"
   },
   {
     "source": "lobsters",
@@ -106,23 +111,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://gills.pages.dev/revo/",
-    "title": "revo, the programming language"
-  },
-  {
-    "source": "lobsters",
     "url": "https://portfolio.anna-zhang.com/projects/mean-hand",
     "title": "Mean Hand"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://blog.davidedmundson.co.uk/blog/596/",
-    "title": "Preparing for KDE Plasma’s Last X11-Supported Release"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://www.matheusmoreira.com/articles/lone-lisp-heap",
-    "title": "The lone lisp heap"
   },
   {
     "source": "lobsters",
@@ -131,127 +121,22 @@
   },
   {
     "source": "lobsters",
-    "url": "https://norswap.com/typescript-distribute/",
-    "title": "How TypeScript distributes unions"
+    "url": "https://gills.pages.dev/revo/",
+    "title": "revo, the programming language"
   },
   {
     "source": "lobsters",
-    "url": "https://charlesleifer.com/blog/cave-of-forgotten-dreams/",
-    "title": "Cave of Forgotten Dreams"
+    "url": "https://www.matheusmoreira.com/articles/lone-lisp-heap",
+    "title": "The lone lisp heap"
   },
   {
-    "source": "pinboard",
-    "url": "https://blog.tjll.net/you-dont-love-systemd-timers-enough/",
-    "title": "systemd timers"
+    "source": "lobsters",
+    "url": "https://blog.davidedmundson.co.uk/blog/596/",
+    "title": "Preparing for KDE Plasma’s Last X11-Supported Release"
   },
   {
-    "source": "pinboard",
-    "url": "https://pandoc-templates.org/",
-    "title": "Pandoc Templates"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.404media.co/hackers-simply-asked-meta-ai-to-give-them-access-to-high-profile-instagram-accounts-it-worked/",
-    "title": "[untitled]"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://thoughts.hmmz.org/2026-05-31.html",
-    "title": "the solution might be cancelling my AI subscription"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.brethorsting.com/blog/2026/05/domain-expertise-has-always-been-the-real-moat/",
-    "title": "Domain Expertise Has Always Been the Real Moat | Aaron Brethorst"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://cs336.stanford.edu/",
-    "title": "Stanford CS336 | Language Modeling from Scratch"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://point.free/blog/gemma-4-on-a-2016-xeon/",
-    "title": "A 10 year old Xeon is all you need - point.free"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://virtualosmuseum.org/",
-    "title": "The Virtual OS Museum"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://jasonzweig.com/three-ways-to-get-paid/",
-    "title": "Three Ways to Get Paid – Jason Zweig"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://eblog.fly.dev/githubbad.html",
-    "title": "github and the crime against software"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://shantellsans.com/process",
-    "title": "Shantell Sans → ArrowType"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://brie.gay/cheese-paper/",
-    "title": "Cheese Paper"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://blog.hopefullyuseful.com/blog/macos-needs-its-grid-back/",
-    "title": "macOS Needs Its Grid Back"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://isaiprofitable.com/",
-    "title": "Is AI Profitable Yet?"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://dan-webnotes.com/posts/2026-06-02-css-native-parallax-effect/",
-    "title": "Utils | CSS-native parallax effect"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://blog.tymscar.com/posts/v100localllm/",
-    "title": "I Put a Datacenter GPU in My Gaming PC for £200 :: The Tymscar Blog"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.0xsid.com/blog/meta-account-takeover-fiasco",
-    "title": "The Newest Instagram \"Exploit\" is the Goofiest I've Seen | Sid's Blog"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://hypercritical.co/2026/05/29/ev-stupidity-checklist",
-    "title": "Hypercritical: EV Stupidity Checklist"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://daringfireball.net/2026/05/what_is_a_dickover",
-    "title": "Daring Fireball: What Is a Dickover?"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://ianthehenry.com/posts/why-janet/",
-    "title": "Why Janet?"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://mechanical-pencil.com/",
-    "title": "Mechanical Pencil"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://pxlnv.com/blog/metaverse-fever-dream/",
-    "title": "The Metaverse Fever Dream – Pixel Envy"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://diamondgeezer.blogspot.com/2026/05/londons-free-roof-terraces.html",
-    "title": "Free public roof terraces in London / diamond geezer"
+    "source": "lobsters",
+    "url": "https://milkandcigarettes.com/notes/devlog/the-bloat",
+    "title": "The Bloat"
   }
 ]
