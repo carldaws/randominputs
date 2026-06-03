@@ -1,6 +1,11 @@
 [
   {
     "source": "hn",
+    "url": "https://elixir-lang.org/blog/2026/06/03/elixir-v1-20-0-released/",
+    "title": "Elixir v1.20: Now a gradually typed language"
+  },
+  {
+    "source": "hn",
     "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemma-4-12b/",
     "title": "Gemma 4 12B: A unified, encoder-free multimodal model"
   },
@@ -11,13 +16,13 @@
   },
   {
     "source": "hn",
-    "url": "https://blog.nns.ee/2026/06/03/katana-badusb/",
-    "title": "Hacking your PC using your speaker without ever touching it"
+    "url": "https://jxself.org/stop-killing-games.shtml",
+    "title": "Stop Killing Games"
   },
   {
     "source": "hn",
-    "url": "https://jxself.org/stop-killing-games.shtml",
-    "title": "Stop Killing Games"
+    "url": "https://blog.nns.ee/2026/06/03/katana-badusb/",
+    "title": "Hacking your PC using your speaker without ever touching it"
   },
   {
     "source": "hn",
@@ -26,23 +31,8 @@
   },
   {
     "source": "hn",
-    "url": "https://www.mikeash.com/pyblog/fluid-simulation-for-dummies.html",
-    "title": "Fluid Simulation for Dummies"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.macrumors.com/2026/06/03/macbook-neo-production-doubled-says-kuo/",
-    "title": "MacBook Neo Is So Popular That Apple Doubled Production"
-  },
-  {
-    "source": "hn",
-    "url": "https://elixir-lang.org/blog/2026/06/03/elixir-v1-20-0-released/",
-    "title": "Elixir v1.20 released: now a gradually typed language"
-  },
-  {
-    "source": "hn",
-    "url": "https://fzakaria.com/2026/06/01/every-byte-matters",
-    "title": "Every Byte Matters"
+    "url": "https://brume.aftertone.co/",
+    "title": "Brume is a 24-voice multi-timbral desktop synth for the CM5"
   },
   {
     "source": "hn",
@@ -51,8 +41,28 @@
   },
   {
     "source": "hn",
+    "url": "https://www.macrumors.com/2026/06/03/macbook-neo-production-doubled-says-kuo/",
+    "title": "MacBook Neo Is So Popular That Apple Doubled Production"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.mikeash.com/pyblog/fluid-simulation-for-dummies.html",
+    "title": "Fluid Simulation for Dummies (2006)"
+  },
+  {
+    "source": "hn",
+    "url": "https://fzakaria.com/2026/06/01/every-byte-matters",
+    "title": "Every Byte Matters"
+  },
+  {
+    "source": "hn",
     "url": "https://www.copetti.org/writings/consoles/playstation/",
     "title": "PlayStation Architecture"
+  },
+  {
+    "source": "hn",
+    "url": "https://wassimans.com/blog/building-ios-apps-with-doom-emacs/",
+    "title": "Building iOS Apps with Doom Emacs"
   },
   {
     "source": "hn",
@@ -61,23 +71,18 @@
   },
   {
     "source": "hn",
-    "url": "https://blog.ammaraskar.com/github-token-stealing/",
-    "title": "1-Click GitHub Token Stealing via a VSCode Bug"
+    "url": "https://thenextweb.com/news/gopro-going-concern-ai-memory-crisis-default",
+    "title": "GoPro warned it may not survive"
   },
   {
     "source": "hn",
-    "url": "https://handwritten.danieljanus.pl/2026-06-01-edsger.html",
-    "title": "Show HN: Edsger – A handwritten Clojure REPL for the reMarkable 2"
+    "url": "https://www.theatlantic.com/philosophy/2026/06/no-artificial-intelligence-is-not-conscious/687378/",
+    "title": "Artificial intelligence is not conscious – Ted Chiang"
   },
   {
     "source": "hn",
-    "url": "https://www.wired.com/story/how-turkey-hacked-the-hair-transplant-industry/",
-    "title": "How turkey hacked the hair-transplant industry"
-  },
-  {
-    "source": "hn",
-    "url": "https://nymag.com/intelligencer/article/christopher-pence-corderos-fbi-dark-web-hit-man.html",
-    "title": "Sixteen Kids and a Hit Man (2024)"
+    "url": "https://lithub.com/the-man-who-reads-books-for-a-living-one-every-two-days/",
+    "title": "A Man Who Reads Books for a Living (One Every Two Days)"
   },
   {
     "source": "lobsters",
@@ -86,8 +91,23 @@
   },
   {
     "source": "lobsters",
+    "url": "https://blog.ammaraskar.com/github-token-stealing/",
+    "title": "Full Disclosure: 1-Click GitHub Token Stealing via a VSCode Bug"
+  },
+  {
+    "source": "lobsters",
     "url": "https://gleam.run/news/single-file-gleam-beam-programs-with-escript/",
     "title": "Gleam v1.17 - Single file Gleam BEAM programs with escript"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://ergeysay.github.io/safe-made-easy-pt1.html",
+    "title": "Safe Made Easy Pt.1: Single Ownership is (Not) Optional"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://handwritten.danieljanus.pl/2026-06-01-edsger.html",
+    "title": "Edsger – a handwritten Clojure REPL for the reMarkable 2"
   },
   {
     "source": "lobsters",
@@ -96,8 +116,18 @@
   },
   {
     "source": "lobsters",
+    "url": "https://portfolio.anna-zhang.com/projects/mean-hand",
+    "title": "Mean Hand"
+  },
+  {
+    "source": "lobsters",
     "url": "https://sinclairtarget.com/blog/2026/06/01/quality-in-the-age-of-slop/",
     "title": "Quality in the Age of Slop"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://kristoff.it/blog/north-star/",
+    "title": "My Software North Star"
   },
   {
     "source": "lobsters",
@@ -111,18 +141,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://portfolio.anna-zhang.com/projects/mean-hand",
-    "title": "Mean Hand"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://ergeysay.github.io/safe-made-easy-pt1.html",
-    "title": "Safe Made Easy Pt.1: Single Ownership is (Not) Optional"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://gills.pages.dev/revo/",
-    "title": "revo, the programming language"
+    "url": "https://milkandcigarettes.com/notes/devlog/the-bloat",
+    "title": "The Bloat"
   },
   {
     "source": "lobsters",
@@ -131,12 +151,7 @@
   },
   {
     "source": "lobsters",
-    "url": "https://blog.davidedmundson.co.uk/blog/596/",
-    "title": "Preparing for KDE Plasma’s Last X11-Supported Release"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://milkandcigarettes.com/notes/devlog/the-bloat",
-    "title": "The Bloat"
+    "url": "https://gills.pages.dev/revo/",
+    "title": "revo, the programming language"
   }
 ]
