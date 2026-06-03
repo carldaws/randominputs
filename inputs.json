@@ -1,28 +1,18 @@
 [
   {
     "source": "hn",
-    "url": "https://microsoft.ai/news/introducingmai-code-1-flash/",
-    "title": "MAI-Code-1-Flash"
-  },
-  {
-    "source": "hn",
     "url": "https://blog.ammaraskar.com/github-token-stealing/",
     "title": "1-Click GitHub Token Stealing via a VSCode Bug"
   },
   {
     "source": "hn",
-    "url": "https://www.acdw.net/clojure/",
-    "title": "My thoughts after using Clojure for about a month"
+    "url": "https://research.ligo.bio/posts/unreasonable-redundancy-of-natural-protein-folds/",
+    "title": "The Unreasonable Redundancy of Nature's Protein Folds"
   },
   {
     "source": "hn",
-    "url": "https://moddedbear.com/gmail-thinks-im-stupid-so-i-left",
-    "title": "Gmail thinks I'm stupid, so I left"
-  },
-  {
-    "source": "hn",
-    "url": "https://archaeologymag.com/2026/05/mohenjo-daro-grew-more-equal-over-time/",
-    "title": "4K years ago, Mohenjo-daro grew more equal over time"
+    "url": "https://microsoft.ai/news/introducingmai-code-1-flash/",
+    "title": "MAI-Code-1-Flash"
   },
   {
     "source": "hn",
@@ -31,13 +21,23 @@
   },
   {
     "source": "hn",
-    "url": "https://hpcalcs.com/product/hp-16c-collectors-edition/",
-    "title": "HP re-releases classic computer science calculator: The HP-16C"
+    "url": "https://www.capstone-engine.org/",
+    "title": "Capstone – multi-platform, multi-architecture disassembly framework"
   },
   {
     "source": "hn",
-    "url": "https://coveillance.org/a-walking-tour-of-surveillance-infrastructure-in-seattle/",
-    "title": "A walking tour of surveillance infrastructure in Seattle (2020)"
+    "url": "https://wiki.wordsoftype.com/",
+    "title": "Words of Type"
+  },
+  {
+    "source": "hn",
+    "url": "https://moddedbear.com/gmail-thinks-im-stupid-so-i-left",
+    "title": "Gmail thinks I'm stupid, so I left"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.acdw.net/clojure/",
+    "title": "My thoughts after using Clojure for about a month"
   },
   {
     "source": "hn",
@@ -46,8 +46,13 @@
   },
   {
     "source": "hn",
-    "url": "https://www.capstone-engine.org/",
-    "title": "Capstone – multi-platform, multi-architecture disassembly framework"
+    "url": "https://archaeologymag.com/2026/05/mohenjo-daro-grew-more-equal-over-time/",
+    "title": "4K years ago, Mohenjo-daro grew more equal over time"
+  },
+  {
+    "source": "hn",
+    "url": "https://hpcalcs.com/product/hp-16c-collectors-edition/",
+    "title": "HP re-releases classic computer science calculator: The HP-16C"
   },
   {
     "source": "hn",
@@ -56,8 +61,8 @@
   },
   {
     "source": "hn",
-    "url": "https://www.axa.com/en/press/press-releases/2026-mind-health-report",
-    "title": "More than 6 out of 10 people turn to AI for psychological support"
+    "url": "https://research.contrary.com/report/the-american-missile-crisis",
+    "title": "The American Missile Crisis"
   },
   {
     "source": "hn",
@@ -66,23 +71,18 @@
   },
   {
     "source": "hn",
-    "url": "https://blog.tjll.net/you-dont-love-systemd-timers-enough/",
-    "title": "Love systemd timers"
-  },
-  {
-    "source": "hn",
     "url": "https://blog.davidedmundson.co.uk/blog/596/",
     "title": "Preparing for KDE Plasma's Last X11-Supported Release"
   },
   {
     "source": "hn",
-    "url": "https://matthiasott.com/notes/ad-infinitum",
-    "title": "Ad Infini­Tum"
+    "url": "https://www.fidonet.org/inet92_Randy_Bush.txt",
+    "title": "Fidonet: Technology, Use, Tools, and History (1993)"
   },
   {
     "source": "hn",
-    "url": "https://www.fidonet.org/inet92_Randy_Bush.txt",
-    "title": "Fidonet: Technology, Use, Tools, and History (1993)"
+    "url": "https://brian.abelson.live/log/2025/12/20/saysynth-composition-codes.html",
+    "title": "SaySynth: A Brief History of Speaking Machines"
   },
   {
     "source": "hn",
@@ -93,6 +93,11 @@
     "source": "hn",
     "url": "https://fergusfinn.com/blog/deepseek-v4-flash-mi300x/",
     "title": "Bringing Up DeepSeek-V4-Flash on AMD MI300X"
+  },
+  {
+    "source": "hn",
+    "url": "https://seths.blog/2026/06/stop-ruining-it/",
+    "title": "Stop Ruining It"
   },
   {
     "source": "lobsters",
@@ -111,18 +116,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://joshlf.com/posts/memory-safety-life-and-death/",
-    "title": "Memory safety is a matter of life and death"
-  },
-  {
-    "source": "lobsters",
     "url": "https://oils.pub/blog/2026/06/grants.html",
     "title": "Oils - Reviewing Our NLnet Grants After 4 Years"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://ianthehenry.com/posts/why-janet/",
-    "title": "Why Janet? (2023)"
   },
   {
     "source": "lobsters",
@@ -131,8 +126,28 @@
   },
   {
     "source": "lobsters",
+    "url": "https://joshlf.com/posts/memory-safety-life-and-death/",
+    "title": "Memory safety is a matter of life and death"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://ianthehenry.com/posts/why-janet/",
+    "title": "Why Janet? (2023)"
+  },
+  {
+    "source": "lobsters",
     "url": "https://gills.pages.dev/revo/",
     "title": "revo, the programming language"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://blog.tjll.net/you-dont-love-systemd-timers-enough/",
+    "title": "You Don't Love systemd Timers Enough"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://charlesleifer.com/blog/cave-of-forgotten-dreams/",
+    "title": "Cave of Forgotten Dreams"
   },
   {
     "source": "lobsters",
@@ -146,18 +161,18 @@
   },
   {
     "source": "lobsters",
-    "url": "https://charlesleifer.com/blog/cave-of-forgotten-dreams/",
-    "title": "Cave of Forgotten Dreams"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://trifectatech.org/blog/announcing-zstandard-in-rust/",
-    "title": "Announcing Zstandard in Rust"
+    "url": "https://www.matheusmoreira.com/articles/lone-lisp-heap",
+    "title": "The lone lisp heap"
   },
   {
     "source": "lobsters",
     "url": "https://www.0xsid.com/blog/meta-account-takeover-fiasco",
     "title": "The Newest Instagram \"Exploit\" is the Goofiest I've Seen"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://trifectatech.org/blog/announcing-zstandard-in-rust/",
+    "title": "Announcing Zstandard in Rust"
   },
   {
     "source": "lobsters",
@@ -168,100 +183,5 @@
     "source": "lobsters",
     "url": "https://blog.janestreet.com/strace-ui-bonsai-term-and-the-tui-renaissance/",
     "title": "strace-ui, Bonsai_term, and the TUI renaissance"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://pandoc-templates.org/",
-    "title": "Pandoc Templates"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.brethorsting.com/blog/2026/05/domain-expertise-has-always-been-the-real-moat/",
-    "title": "Domain Expertise Has Always Been the Real Moat | Aaron Brethorst"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://daringfireball.net/2026/05/what_is_a_dickover",
-    "title": "Daring Fireball: What Is a Dickover?"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://thoughts.hmmz.org/2026-05-31.html",
-    "title": "the solution might be cancelling my AI subscription"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://point.free/blog/gemma-4-on-a-2016-xeon/",
-    "title": "A 10 year old Xeon is all you need - point.free"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://shantellsans.com/process",
-    "title": "Shantell Sans → ArrowType"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://brie.gay/cheese-paper/",
-    "title": "Cheese Paper"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://virtualosmuseum.org/",
-    "title": "The Virtual OS Museum"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://blog.tymscar.com/posts/v100localllm/",
-    "title": "I Put a Datacenter GPU in My Gaming PC for £200 :: The Tymscar Blog"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://mechanical-pencil.com/",
-    "title": "Mechanical Pencil"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://hypercritical.co/2026/05/29/ev-stupidity-checklist",
-    "title": "Hypercritical: EV Stupidity Checklist"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://diamondgeezer.blogspot.com/2026/05/londons-free-roof-terraces.html",
-    "title": "Free public roof terraces in London / diamond geezer"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.404media.co/hackers-simply-asked-meta-ai-to-give-them-access-to-high-profile-instagram-accounts-it-worked/",
-    "title": "[untitled]"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://cs336.stanford.edu/",
-    "title": "Stanford CS336 | Language Modeling from Scratch"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://pierre.computer/writing/on-rendering-diffs",
-    "title": "On Rendering Diffs :: Pierre Computer Company"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://tylercipriani.com/blog/2026/05/28/chuwi-minibook-x/",
-    "title": "Chuwi Minibook X: the netbook we deserve - Tyler Cipriani"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://interconnected.org/home/2026/05/30/fedex",
-    "title": "How global logistics got me over my fear of personal agents (Interconnected)"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://musings.martyn.berlin/to-have-a-moral-stance-on-ai-is-to-be-an-outcast-and-it-sucks",
-    "title": "To have a moral stance on AI is to be an outcast, and it sucks."
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.lucasfcosta.com/blog/backpressure-is-all-you-need",
-    "title": "Backpressure is all you need"
   }
 ]
