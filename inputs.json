@@ -1,13 +1,28 @@
 [
   {
     "source": "hn",
+    "url": "https://blog.nns.ee/2026/06/03/katana-badusb/",
+    "title": "Hacking your PC using your speaker without ever touching it"
+  },
+  {
+    "source": "hn",
+    "url": "https://fzakaria.com/2026/06/01/every-byte-matters",
+    "title": "Every Byte Matters"
+  },
+  {
+    "source": "hn",
+    "url": "https://handwritten.danieljanus.pl/2026-06-01-edsger.html",
+    "title": "Show HN: Edsger – A handwritten Clojure REPL for the reMarkable 2"
+  },
+  {
+    "source": "hn",
     "url": "https://blog.ammaraskar.com/github-token-stealing/",
     "title": "1-Click GitHub Token Stealing via a VSCode Bug"
   },
   {
     "source": "hn",
-    "url": "https://46elks.com/blog/2026/05/29/an-amazing-time-for-programmers",
-    "title": "Life and work is not meant to be spent in isolation"
+    "url": "https://microsoft.ai/news/introducingmai-code-1-flash/",
+    "title": "MAI-Code-1-Flash"
   },
   {
     "source": "hn",
@@ -21,13 +36,28 @@
   },
   {
     "source": "hn",
-    "url": "https://microsoft.ai/news/introducingmai-code-1-flash/",
-    "title": "MAI-Code-1-Flash"
+    "url": "https://www.copetti.org/writings/consoles/playstation/",
+    "title": "PlayStation Architecture"
+  },
+  {
+    "source": "hn",
+    "url": "https://46elks.com/blog/2026/05/29/an-amazing-time-for-programmers",
+    "title": "It is an amazing time for programmers"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.newyorker.com/books/this-week-in-fiction/jonathan-franzen-06-08-26",
+    "title": "Jonathan Franzen on Talent, Theatre, and His Next Novel"
   },
   {
     "source": "hn",
     "url": "https://ariadne.space/2023/04/12/writing-portable-arm-assembly.html",
-    "title": "Writing Portable ARM64 Assembly"
+    "title": "Writing Portable ARM64 Assembly (2023)"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.acdw.net/clojure/",
+    "title": "My thoughts after using Clojure for about a month"
   },
   {
     "source": "hn",
@@ -36,8 +66,8 @@
   },
   {
     "source": "hn",
-    "url": "https://www.acdw.net/clojure/",
-    "title": "My thoughts after using Clojure for about a month"
+    "url": "https://hpcalcs.com/product/hp-16c-collectors-edition/",
+    "title": "HP re-releases classic computer science calculator: The HP-16C"
   },
   {
     "source": "hn",
@@ -51,13 +81,8 @@
   },
   {
     "source": "hn",
-    "url": "https://hpcalcs.com/product/hp-16c-collectors-edition/",
-    "title": "HP re-releases classic computer science calculator: The HP-16C"
-  },
-  {
-    "source": "hn",
-    "url": "https://archaeologymag.com/2026/05/mohenjo-daro-grew-more-equal-over-time/",
-    "title": "4K years ago, Mohenjo-daro grew more equal over time"
+    "url": "https://www.kapa.ai/blog/how-we-index-images-for-rag",
+    "title": "How we index images for RAG"
   },
   {
     "source": "hn",
@@ -66,13 +91,8 @@
   },
   {
     "source": "hn",
-    "url": "https://www.kapa.ai/blog/how-we-index-images-for-rag",
-    "title": "How we index images for RAG"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.openfov.com/",
-    "title": "OpenFOV – Webcam head tracking for iRacing"
+    "url": "https://alphapixeldev.com/recovering-eric-grahams-1987-amiga-juggler-raytracer-source-code/",
+    "title": "Recovering Eric Graham's 1987 Amiga Juggler raytracer source code"
   },
   {
     "source": "hn",
@@ -81,18 +101,13 @@
   },
   {
     "source": "hn",
-    "url": "https://www.fidonet.org/inet92_Randy_Bush.txt",
-    "title": "Fidonet: Technology, Use, Tools, and History (1993)"
+    "url": "https://www.openfov.com/",
+    "title": "OpenFOV – Webcam head tracking for iRacing"
   },
   {
     "source": "lobsters",
     "url": "https://sinclairtarget.com/blog/2026/06/01/quality-in-the-age-of-slop/",
     "title": "Quality in the Age of Slop"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://handwritten.danieljanus.pl/2026-06-01-edsger.html",
-    "title": "Edsger – a handwritten Clojure REPL for the reMarkable 2"
   },
   {
     "source": "lobsters",
@@ -131,8 +146,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://blog.tjll.net/you-dont-love-systemd-timers-enough/",
-    "title": "You Don't Love systemd Timers Enough"
+    "url": "https://norswap.com/typescript-distribute/",
+    "title": "How TypeScript distributes unions"
   },
   {
     "source": "lobsters",
@@ -141,8 +156,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://norswap.com/typescript-distribute/",
-    "title": "How TypeScript distributes unions"
+    "url": "https://www.dotfurry.org/",
+    "title": ".furry - A Top-Level Domain for furries"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://blog.tjll.net/you-dont-love-systemd-timers-enough/",
+    "title": "You Don't Love systemd Timers Enough"
   },
   {
     "source": "lobsters",
@@ -158,115 +178,5 @@
     "source": "lobsters",
     "url": "https://jbkempf.com/blog/2026/dav2d/",
     "title": "dav2d released"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://6826.csail.mit.edu/2020/papers/noproof.pdf",
-    "title": "How did software get so reliable without proof? (1996)"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://pandoc-templates.org/",
-    "title": "Pandoc Templates"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.404media.co/hackers-simply-asked-meta-ai-to-give-them-access-to-high-profile-instagram-accounts-it-worked/",
-    "title": "[untitled]"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://thoughts.hmmz.org/2026-05-31.html",
-    "title": "the solution might be cancelling my AI subscription"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.brethorsting.com/blog/2026/05/domain-expertise-has-always-been-the-real-moat/",
-    "title": "Domain Expertise Has Always Been the Real Moat | Aaron Brethorst"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://cs336.stanford.edu/",
-    "title": "Stanford CS336 | Language Modeling from Scratch"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://point.free/blog/gemma-4-on-a-2016-xeon/",
-    "title": "A 10 year old Xeon is all you need - point.free"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://virtualosmuseum.org/",
-    "title": "The Virtual OS Museum"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://jasonzweig.com/three-ways-to-get-paid/",
-    "title": "Three Ways to Get Paid – Jason Zweig"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://eblog.fly.dev/githubbad.html",
-    "title": "github and the crime against software"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://shantellsans.com/process",
-    "title": "Shantell Sans → ArrowType"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://brie.gay/cheese-paper/",
-    "title": "Cheese Paper"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://blog.hopefullyuseful.com/blog/macos-needs-its-grid-back/",
-    "title": "macOS Needs Its Grid Back"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://isaiprofitable.com/",
-    "title": "Is AI Profitable Yet?"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://dan-webnotes.com/posts/2026-06-02-css-native-parallax-effect/",
-    "title": "Utils | CSS-native parallax effect"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://blog.tymscar.com/posts/v100localllm/",
-    "title": "I Put a Datacenter GPU in My Gaming PC for £200 :: The Tymscar Blog"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.0xsid.com/blog/meta-account-takeover-fiasco",
-    "title": "The Newest Instagram \"Exploit\" is the Goofiest I've Seen | Sid's Blog"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://hypercritical.co/2026/05/29/ev-stupidity-checklist",
-    "title": "Hypercritical: EV Stupidity Checklist"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://daringfireball.net/2026/05/what_is_a_dickover",
-    "title": "Daring Fireball: What Is a Dickover?"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://mechanical-pencil.com/",
-    "title": "Mechanical Pencil"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://pxlnv.com/blog/metaverse-fever-dream/",
-    "title": "The Metaverse Fever Dream – Pixel Envy"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://diamondgeezer.blogspot.com/2026/05/londons-free-roof-terraces.html",
-    "title": "Free public roof terraces in London / diamond geezer"
   }
 ]
