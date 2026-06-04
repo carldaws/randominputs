@@ -1,18 +1,8 @@
 [
   {
     "source": "hn",
-    "url": "https://www.buchodi.com/meta-glasses-facial-recognition/",
-    "title": "Meta's ships facial recognition on smart glasses"
-  },
-  {
-    "source": "hn",
     "url": "https://blog.cloudflare.com/voidzero-joins-cloudflare/",
     "title": "VoidZero Is Joining Cloudflare"
-  },
-  {
-    "source": "hn",
-    "url": "https://havenweb.org/2026/05/28/retro-tech.html",
-    "title": "Retro-Tech Parenting"
   },
   {
     "source": "hn",
@@ -26,6 +16,11 @@
   },
   {
     "source": "hn",
+    "url": "https://havenweb.org/2026/05/28/retro-tech.html",
+    "title": "Retro-Tech Parenting"
+  },
+  {
+    "source": "hn",
     "url": "https://danielmangum.com/posts/jlink-jtag-pinecil/",
     "title": "JLink JTAG Access on the Pinecil"
   },
@@ -36,13 +31,13 @@
   },
   {
     "source": "hn",
-    "url": "https://worksinprogress.co/issue/samurai-city/",
-    "title": "Samurai City"
+    "url": "https://www.buchodi.com/meta-glasses-facial-recognition/",
+    "title": "Meta's ships facial recognition on smart glasses"
   },
   {
     "source": "hn",
-    "url": "https://www.erdosproblems.com/forum/thread/blog:6",
-    "title": "Sum-product, unit distances, and number fields"
+    "url": "https://worksinprogress.co/issue/samurai-city/",
+    "title": "Samurai City"
   },
   {
     "source": "hn",
@@ -51,8 +46,13 @@
   },
   {
     "source": "hn",
-    "url": "https://rozumem.xyz/posts/16",
-    "title": "The desperation of NYTimes"
+    "url": "https://www.erdosproblems.com/forum/thread/blog:6",
+    "title": "Sum-product, unit distances, and number fields"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.bloomberg.com/graphics/2026-energy-transition-iran-war/",
+    "title": "Iran Shock Jolts Asia and Europe to Speed Up Energy Transition"
   },
   {
     "source": "hn",
@@ -81,6 +81,11 @@
   },
   {
     "source": "hn",
+    "url": "https://rozumem.xyz/posts/16",
+    "title": "The desperation of NYTimes"
+  },
+  {
+    "source": "hn",
     "url": "https://www.theatlantic.com/philosophy/2026/06/no-artificial-intelligence-is-not-conscious/687378/",
     "title": "Artificial intelligence is not conscious – Ted Chiang"
   },
@@ -88,11 +93,6 @@
     "source": "hn",
     "url": "https://kasra.blog/blog/i-spent-1500-seeing-if-llms-could-hack-my-app/",
     "title": "I built a vulnerable app and spent $1,500 seeing if LLMs could hack it"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.france24.com/en/culture/20260604-french-iranian-author-marjane-satrapi-author-of-persepolis-dies-at-56",
-    "title": "French-Iranian author Marjane Satrapi, author of 'Persepolis', dies at 56"
   },
   {
     "source": "lobsters",
@@ -121,13 +121,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://cs-syd.eu/posts/2026-06-03-mutation-testing-in-haskell",
-    "title": "Announcing Mutation Testing in Haskell"
+    "url": "https://ergeysay.github.io/safe-made-easy-pt1.html",
+    "title": "Safe Made Easy Pt.1: Single Ownership is (Not) Optional"
   },
   {
     "source": "lobsters",
-    "url": "https://ergeysay.github.io/safe-made-easy-pt1.html",
-    "title": "Safe Made Easy Pt.1: Single Ownership is (Not) Optional"
+    "url": "https://cs-syd.eu/posts/2026-06-03-mutation-testing-in-haskell",
+    "title": "Announcing Mutation Testing in Haskell"
   },
   {
     "source": "lobsters",
@@ -141,23 +141,18 @@
   },
   {
     "source": "lobsters",
+    "url": "https://lfg.popovicu.com/series/the-shell-as-a-language/terminal-tty-and-shell/",
+    "title": "The terminal, the TTY, and the shell"
+  },
+  {
+    "source": "lobsters",
     "url": "https://blog.brownplt.org/2026/05/22/spytial.html",
     "title": "Diagramming Program Values by Spatial Refinement"
   },
   {
     "source": "lobsters",
-    "url": "https://blog.nns.ee/2026/06/03/katana-badusb/",
-    "title": "Pwnd Blaster: Hacking your PC using your speaker without ever touching it"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://blog.ammaraskar.com/github-token-stealing/",
-    "title": "Full Disclosure: 1-Click GitHub Token Stealing via a VSCode Bug"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://motion.dev/magazine/collision-detection-in-hover-detection",
-    "title": "Crashing cars and improving hover detection"
+    "url": "https://xeiaso.net/notes/2026/ipv6-zones-go-url/",
+    "title": "IPv6 zones in URLs are a mistake"
   },
   {
     "source": "pinboard",
