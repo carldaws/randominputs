@@ -6,13 +6,8 @@
   },
   {
     "source": "hn",
-    "url": "https://aoav.org.uk/2026/military-experts-or-arms-industry-insiders-uk-media-fails-to-disclose-defence-sector-links-in-nearly-60-of-cases/",
-    "title": "UK media fails to disclose defence sector links in nearly 60% of cases"
-  },
-  {
-    "source": "hn",
-    "url": "https://momentsingraphics.de/Siggraph2026.html",
-    "title": "Gaussian Point Splatting"
+    "url": "https://www.fieggen.com/shoelace/secureknot.htm",
+    "title": "Ian's Secure Shoelace Knot"
   },
   {
     "source": "hn",
@@ -21,8 +16,8 @@
   },
   {
     "source": "hn",
-    "url": "https://www.fieggen.com/shoelace/secureknot.htm",
-    "title": "Ian's Secure Shoelace Knot"
+    "url": "https://momentsingraphics.de/Siggraph2026.html",
+    "title": "Gaussian Point Splatting"
   },
   {
     "source": "hn",
@@ -31,18 +26,13 @@
   },
   {
     "source": "hn",
-    "url": "https://tomotama.com/kiki",
-    "title": "Kiki – a tiny homepage construction kit with a small footprint"
+    "url": "https://www.france24.com/en/culture/20260604-french-iranian-author-marjane-satrapi-author-of-persepolis-dies-at-56",
+    "title": "French-Iranian author Marjane Satrapi, author of 'Persepolis', dies at 56"
   },
   {
     "source": "hn",
     "url": "https://elixir-lang.org/blog/2026/06/03/elixir-v1-20-0-released/",
     "title": "Elixir v1.20: Now a gradually typed language"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.france24.com/en/culture/20260604-french-iranian-author-marjane-satrapi-author-of-persepolis-dies-at-56",
-    "title": "French-Iranian author Marjane Satrapi, author of 'Persepolis', dies at 56"
   },
   {
     "source": "hn",
@@ -57,12 +47,17 @@
   {
     "source": "hn",
     "url": "https://www.theatlantic.com/philosophy/2026/06/no-artificial-intelligence-is-not-conscious/687378/",
-    "title": "Artificial intelligence is not conscious – Ted Chiang"
+    "title": "Artificial intelligence is not conscious"
   },
   {
     "source": "hn",
-    "url": "https://blog.hellas.ai/blog/thunderbolt-ibverbs/",
-    "title": "thunderbolt-ibverbs: We have InfiniBand at home"
+    "url": "https://aoav.org.uk/2026/military-experts-or-arms-industry-insiders-uk-media-fails-to-disclose-defence-sector-links-in-nearly-60-of-cases/",
+    "title": "UK media fails to disclose defence sector links in nearly 60% of cases"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.404media.co/google-employees-internally-share-memes-about-how-its-ai-sucks/",
+    "title": "Google Employees Internally Share Memes About How Its AI Sucks"
   },
   {
     "source": "hn",
@@ -76,18 +71,18 @@
   },
   {
     "source": "hn",
-    "url": "https://utcc.utoronto.ca/~cks/space/blog/unix/SuAsLoginReplacement",
-    "title": "When su replaced login for becoming another Unix login"
+    "url": "https://blog.hellas.ai/blog/thunderbolt-ibverbs/",
+    "title": "thunderbolt-ibverbs: We have InfiniBand at home"
   },
   {
     "source": "hn",
-    "url": "https://lithub.com/the-man-who-reads-books-for-a-living-one-every-two-days/",
-    "title": "A Man Who Reads Books for a Living"
+    "url": "https://boxes.dev",
+    "title": "Show HN: Boxes.dev: ditch localhost; run Claude Code and Codex in the cloud"
   },
   {
     "source": "hn",
-    "url": "https://www.nbcboston.com/news/local/meteor-explodes-over-massachusetts-what-we-know-and-where-it-landed/3957663/",
-    "title": "Meteor Explodes over Massachusetts"
+    "url": "https://tomotama.com/kiki",
+    "title": "Kiki – a tiny homepage construction kit with a small footprint"
   },
   {
     "source": "lobsters",
@@ -106,23 +101,23 @@
   },
   {
     "source": "lobsters",
-    "url": "https://ergeysay.github.io/safe-made-easy-pt1.html",
-    "title": "Safe Made Easy Pt.1: Single Ownership is (Not) Optional"
-  },
-  {
-    "source": "lobsters",
     "url": "https://www.adamsolove.com/ui/ducking/2026/06/03/better-podcast-ui.html",
     "title": "Designing a better podcast editor"
   },
   {
     "source": "lobsters",
-    "url": "https://norswap.com/typescript-type-variable-inference/",
-    "title": "How TypeScript infers type variables"
+    "url": "https://cs-syd.eu/posts/2026-06-03-mutation-testing-in-haskell",
+    "title": "Announcing Mutation Testing in Haskell"
   },
   {
     "source": "lobsters",
-    "url": "https://cs-syd.eu/posts/2026-06-03-mutation-testing-in-haskell",
-    "title": "Announcing Mutation Testing in Haskell"
+    "url": "https://ergeysay.github.io/safe-made-easy-pt1.html",
+    "title": "Safe Made Easy Pt.1: Single Ownership is (Not) Optional"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://norswap.com/typescript-type-variable-inference/",
+    "title": "How TypeScript infers type variables"
   },
   {
     "source": "lobsters",
@@ -151,12 +146,102 @@
   },
   {
     "source": "lobsters",
+    "url": "https://bernsteinbear.com/blog/inlining-heuristics/",
+    "title": "A survey of inlining heuristics"
+  },
+  {
+    "source": "lobsters",
     "url": "https://gleam.run/news/single-file-gleam-beam-programs-with-escript/",
     "title": "Gleam v1.17 - Single file Gleam BEAM programs with escript"
   },
   {
-    "source": "lobsters",
-    "url": "https://handwritten.danieljanus.pl/2026-06-01-edsger.html",
-    "title": "Edsger – a handwritten Clojure REPL for the reMarkable 2"
+    "source": "pinboard",
+    "url": "https://blog.tjll.net/you-dont-love-systemd-timers-enough/",
+    "title": "systemd timers"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.404media.co/hackers-simply-asked-meta-ai-to-give-them-access-to-high-profile-instagram-accounts-it-worked/",
+    "title": "[untitled]"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://isaiprofitable.com/",
+    "title": "Is AI Profitable Yet?"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://jasonzweig.com/three-ways-to-get-paid/",
+    "title": "Three Ways to Get Paid – Jason Zweig"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://cs336.stanford.edu/",
+    "title": "Stanford CS336 | Language Modeling from Scratch"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://point.free/blog/gemma-4-on-a-2016-xeon/",
+    "title": "A 10 year old Xeon is all you need - point.free"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://eblog.fly.dev/githubbad.html",
+    "title": "github and the crime against software"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://dan-webnotes.com/posts/2026-06-02-css-native-parallax-effect/",
+    "title": "Utils | CSS-native parallax effect"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://pxlnv.com/blog/metaverse-fever-dream/",
+    "title": "The Metaverse Fever Dream – Pixel Envy"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://blog.hopefullyuseful.com/blog/macos-needs-its-grid-back/",
+    "title": "macOS Needs Its Grid Back"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://brie.gay/cheese-paper/",
+    "title": "Cheese Paper"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://pandoc-templates.org/",
+    "title": "Pandoc Templates"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.0xsid.com/blog/meta-account-takeover-fiasco",
+    "title": "The Newest Instagram \"Exploit\" is the Goofiest I've Seen | Sid's Blog"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://coveillance.org/a-walking-tour-of-surveillance-infrastructure-in-seattle/",
+    "title": "A walking tour of surveillance infrastructure in Seattle | coveillance.org"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://sinclairtarget.com/blog/2026/06/01/quality-in-the-age-of-slop/",
+    "title": "Quality in the Age of Slop"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.brethorsting.com/blog/2026/05/domain-expertise-has-always-been-the-real-moat/",
+    "title": "Domain Expertise Has Always Been the Real Moat | Aaron Brethorst"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://ianthehenry.com/posts/why-janet/",
+    "title": "Why Janet?"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.404media.co/companies-are-using-reddit-to-manipulate-chatgpt-and-google-ai-search/",
+    "title": "Companies Are Using Reddit to Manipulate ChatGPT and Google AI Search"
   }
 ]
