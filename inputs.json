@@ -51,23 +51,13 @@
   },
   {
     "source": "hn",
-    "url": "https://louwrentius.com/dns-is-for-people-not-for-it-infrastructure.html",
-    "title": "DNS Is for People – Not for IT Infrastructure"
-  },
-  {
-    "source": "hn",
     "url": "https://opensource.googleblog.com/2026/06/journey-to-jpeg-xl-how-open-source-experiments-shaped-the-future-of-image-coding.html",
     "title": "Journey to JPEG XL: open-source experiments shaped the future of image coding"
   },
   {
     "source": "hn",
-    "url": "https://mforney.org/blog/2026-05-28-patching-my-guitar-amps-firmware.html",
-    "title": "Patching my guitar amp's firmware"
-  },
-  {
-    "source": "hn",
-    "url": "https://docs.pytorch.org/devlogs/eager/2026-06-01-cuda-caching-allocator/",
-    "title": "When does fragmentation occur in the CUDA caching allocator?"
+    "url": "https://worrydream.com/refs/Lockhart_2002_-_A_Mathematician%27s_Lament.pdf",
+    "title": "A Mathematician's Lament (2002) [pdf]"
   },
   {
     "source": "hn",
@@ -76,13 +66,33 @@
   },
   {
     "source": "hn",
-    "url": "https://worrydream.com/refs/Lockhart_2002_-_A_Mathematician%27s_Lament.pdf",
-    "title": "A Mathematician's Lament – Paul Lockhart (2002) [pdf]"
+    "url": "https://mforney.org/blog/2026-05-28-patching-my-guitar-amps-firmware.html",
+    "title": "Patching my guitar amp's firmware"
   },
   {
     "source": "hn",
     "url": "https://dumb.co/",
     "title": "Dumbphone 2"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.colorado.edu/center/spacegrant/sites/default/files/attached-files/B3_RRCC_BringingTheHeatTo100%2C000Feet.pdf",
+    "title": "The Capacity of HotHands to Facilitate High-Altitude Research (2023) [pdf]"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.copetti.org/writings/consoles/playstation/",
+    "title": "PlayStation Architecture"
+  },
+  {
+    "source": "hn",
+    "url": "https://fzakaria.com/2026/06/01/every-byte-matters",
+    "title": "Every Byte Matters"
+  },
+  {
+    "source": "hn",
+    "url": "https://nouvelles.umontreal.ca/en/article/2026/06/02/how-embryos-shape-their-limbs-a-key-discovery-of-genetic-brakes",
+    "title": "Embryos shape their limbs: a key discovery of \"genetic brakes\""
   },
   {
     "source": "lobsters",
@@ -146,22 +156,12 @@
   },
   {
     "source": "lobsters",
-    "url": "https://johnnysswlab.com/floating-point-error-handling-in-c-what-actually-works/",
-    "title": "Floating-Point Error Handling in C++: What Actually Works"
-  },
-  {
-    "source": "lobsters",
     "url": "https://pacever.org/",
     "title": "PaceVer (an alternative to SemVer, for mobile apps)"
   },
   {
     "source": "lobsters",
-    "url": "https://vim-classic.org/news/vim-8.3-released.html",
-    "title": "Vim Classic 8.3 released"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://bernsteinbear.com/blog/inlining-heuristics/",
-    "title": "A survey of inlining heuristics"
+    "url": "https://johnnysswlab.com/floating-point-error-handling-in-c-what-actually-works/",
+    "title": "Floating-Point Error Handling in C++: What Actually Works"
   }
 ]
