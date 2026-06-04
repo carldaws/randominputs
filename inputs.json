@@ -31,13 +31,13 @@
   },
   {
     "source": "hn",
-    "url": "https://blog.nns.ee/2026/06/03/katana-badusb/",
-    "title": "Pwnd Blaster: Hacking your PC using your speaker without ever touching it"
+    "url": "https://opensource.googleblog.com/2026/06/journey-to-jpeg-xl-how-open-source-experiments-shaped-the-future-of-image-coding.html",
+    "title": "Journey to JPEG XL: open-source experiments shaped the future of image coding"
   },
   {
     "source": "hn",
-    "url": "https://lithub.com/the-man-who-reads-books-for-a-living-one-every-two-days/",
-    "title": "A Man Who Reads Books for a Living (One Every Two Days)"
+    "url": "https://blog.nns.ee/2026/06/03/katana-badusb/",
+    "title": "Pwnd Blaster: Hacking your PC using your speaker without ever touching it"
   },
   {
     "source": "hn",
@@ -46,23 +46,8 @@
   },
   {
     "source": "hn",
-    "url": "https://opensource.googleblog.com/2026/06/journey-to-jpeg-xl-how-open-source-experiments-shaped-the-future-of-image-coding.html",
-    "title": "Journey to JPEG XL: open-source experiments shaped the future of image coding"
-  },
-  {
-    "source": "hn",
-    "url": "https://brume.aftertone.co/",
-    "title": "Brume is a 24-voice multi-timbral desktop synth for the CM5"
-  },
-  {
-    "source": "hn",
-    "url": "https://nouvelles.umontreal.ca/en/article/2026/06/02/how-embryos-shape-their-limbs-a-key-discovery-of-genetic-brakes",
-    "title": "Embryos shape their limbs: a key discovery of \"genetic brakes\""
-  },
-  {
-    "source": "hn",
-    "url": "https://jxself.org/stop-killing-games.shtml",
-    "title": "Stop Killing Games"
+    "url": "https://lithub.com/the-man-who-reads-books-for-a-living-one-every-two-days/",
+    "title": "A Man Who Reads Books for a Living (One Every Two Days)"
   },
   {
     "source": "hn",
@@ -71,8 +56,23 @@
   },
   {
     "source": "hn",
-    "url": "https://www.macrumors.com/2026/06/03/macbook-neo-production-doubled-says-kuo/",
-    "title": "MacBook Neo is so popular that Apple doubled production"
+    "url": "https://mforney.org/blog/2026-05-28-patching-my-guitar-amps-firmware.html",
+    "title": "Patching my guitar amp's firmware"
+  },
+  {
+    "source": "hn",
+    "url": "https://jxself.org/stop-killing-games.shtml",
+    "title": "Stop Killing Games"
+  },
+  {
+    "source": "hn",
+    "url": "https://nouvelles.umontreal.ca/en/article/2026/06/02/how-embryos-shape-their-limbs-a-key-discovery-of-genetic-brakes",
+    "title": "Embryos shape their limbs: a key discovery of \"genetic brakes\""
+  },
+  {
+    "source": "hn",
+    "url": "https://brume.aftertone.co/",
+    "title": "Brume is a 24-voice multi-timbral desktop synth for the CM5"
   },
   {
     "source": "hn",
@@ -153,5 +153,120 @@
     "source": "lobsters",
     "url": "https://gills.pages.dev/revo/",
     "title": "revo, the programming language"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://blog.tjll.net/you-dont-love-systemd-timers-enough/",
+    "title": "systemd timers"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://pandoc-templates.org/",
+    "title": "Pandoc Templates"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.404media.co/hackers-simply-asked-meta-ai-to-give-them-access-to-high-profile-instagram-accounts-it-worked/",
+    "title": "[untitled]"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://thoughts.hmmz.org/2026-05-31.html",
+    "title": "the solution might be cancelling my AI subscription"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.brethorsting.com/blog/2026/05/domain-expertise-has-always-been-the-real-moat/",
+    "title": "Domain Expertise Has Always Been the Real Moat | Aaron Brethorst"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://cs336.stanford.edu/",
+    "title": "Stanford CS336 | Language Modeling from Scratch"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://point.free/blog/gemma-4-on-a-2016-xeon/",
+    "title": "A 10 year old Xeon is all you need - point.free"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://virtualosmuseum.org/",
+    "title": "The Virtual OS Museum"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://jasonzweig.com/three-ways-to-get-paid/",
+    "title": "Three Ways to Get Paid – Jason Zweig"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://eblog.fly.dev/githubbad.html",
+    "title": "github and the crime against software"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://shantellsans.com/process",
+    "title": "Shantell Sans → ArrowType"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://brie.gay/cheese-paper/",
+    "title": "Cheese Paper"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://blog.hopefullyuseful.com/blog/macos-needs-its-grid-back/",
+    "title": "macOS Needs Its Grid Back"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://isaiprofitable.com/",
+    "title": "Is AI Profitable Yet?"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://dan-webnotes.com/posts/2026-06-02-css-native-parallax-effect/",
+    "title": "Utils | CSS-native parallax effect"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://blog.tymscar.com/posts/v100localllm/",
+    "title": "I Put a Datacenter GPU in My Gaming PC for £200 :: The Tymscar Blog"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.0xsid.com/blog/meta-account-takeover-fiasco",
+    "title": "The Newest Instagram \"Exploit\" is the Goofiest I've Seen | Sid's Blog"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://hypercritical.co/2026/05/29/ev-stupidity-checklist",
+    "title": "Hypercritical: EV Stupidity Checklist"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://daringfireball.net/2026/05/what_is_a_dickover",
+    "title": "Daring Fireball: What Is a Dickover?"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://ianthehenry.com/posts/why-janet/",
+    "title": "Why Janet?"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://mechanical-pencil.com/",
+    "title": "Mechanical Pencil"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://pxlnv.com/blog/metaverse-fever-dream/",
+    "title": "The Metaverse Fever Dream – Pixel Envy"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://diamondgeezer.blogspot.com/2026/05/londons-free-roof-terraces.html",
+    "title": "Free public roof terraces in London / diamond geezer"
   }
 ]
