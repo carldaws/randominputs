@@ -6,13 +6,13 @@
   },
   {
     "source": "hn",
-    "url": "https://castor.web.cern.ch/content/home.html",
-    "title": "Castor: CERN Advanced STORage Manager"
+    "url": "https://www.fieggen.com/shoelace/secureknot.htm",
+    "title": "Ian's Secure Shoelace Knot"
   },
   {
     "source": "hn",
-    "url": "https://www.fieggen.com/shoelace/secureknot.htm",
-    "title": "Ian's Secure Shoelace Knot"
+    "url": "https://castor.web.cern.ch/content/home.html",
+    "title": "Castor: CERN Advanced STORage Manager"
   },
   {
     "source": "hn",
@@ -21,18 +21,18 @@
   },
   {
     "source": "hn",
+    "url": "https://tiki.li/blog/blqsort",
+    "title": "Branchless Quicksort faster than std:sort and pdqsort with C and C++ API"
+  },
+  {
+    "source": "hn",
     "url": "https://danielmangum.com/posts/jlink-jtag-pinecil/",
     "title": "JLink JTAG Access on the Pinecil"
   },
   {
     "source": "hn",
-    "url": "https://maxleiter.com/blog/weights",
-    "title": "They’re made out of weights"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.buchodi.com/meta-glasses-facial-recognition/",
-    "title": "Meta's ships facial recognition on smart glasses"
+    "url": "https://xeiaso.net/notes/2026/ipv6-zones-go-url/",
+    "title": "IPv6 zones in URLs are a mistake"
   },
   {
     "source": "hn",
@@ -46,13 +46,18 @@
   },
   {
     "source": "hn",
-    "url": "https://www.erdosproblems.com/forum/thread/blog:6",
-    "title": "Sum-product, unit distances, and number fields"
+    "url": "https://www.bloomberg.com/graphics/2026-energy-transition-iran-war/",
+    "title": "Iran Shock Jolts Asia and Europe to Speed Up Energy Transition"
   },
   {
     "source": "hn",
-    "url": "https://www.bloomberg.com/graphics/2026-energy-transition-iran-war/",
-    "title": "Iran Shock Jolts Asia and Europe to Speed Up Energy Transition"
+    "url": "https://www.buchodi.com/meta-glasses-facial-recognition/",
+    "title": "Meta's ships facial recognition on smart glasses"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.erdosproblems.com/forum/thread/blog:6",
+    "title": "Sum-product, unit distances, and number fields"
   },
   {
     "source": "hn",
@@ -66,18 +71,8 @@
   },
   {
     "source": "hn",
-    "url": "https://elixir-lang.org/blog/2026/06/03/elixir-v1-20-0-released/",
-    "title": "Elixir v1.20: Now a gradually typed language"
-  },
-  {
-    "source": "hn",
-    "url": "https://cost.dev/",
-    "title": "Show HN: Cost.dev (YC W21) – making agents cost-aware and cheaper to call"
-  },
-  {
-    "source": "hn",
-    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemma-4-12b/",
-    "title": "Gemma 4 12B: A unified, encoder-free multimodal model"
+    "url": "https://www.mercek.dev/",
+    "title": "Show HN: Mercek – A Desktop IDE for AWS ECS"
   },
   {
     "source": "hn",
@@ -86,13 +81,8 @@
   },
   {
     "source": "hn",
-    "url": "https://www.theatlantic.com/philosophy/2026/06/no-artificial-intelligence-is-not-conscious/687378/",
-    "title": "Artificial intelligence is not conscious – Ted Chiang"
-  },
-  {
-    "source": "hn",
-    "url": "https://kasra.blog/blog/i-spent-1500-seeing-if-llms-could-hack-my-app/",
-    "title": "I built a vulnerable app and spent $1,500 seeing if LLMs could hack it"
+    "url": "https://cost.dev/",
+    "title": "Show HN: Cost.dev (YC W21) – making agents cost-aware and cheaper to call"
   },
   {
     "source": "lobsters",
@@ -106,8 +96,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://doscienceto.it/extension-or-imitation/",
-    "title": "Extension or Imitation? Can you tell the valid Haskell Language Extensions, from the Impostors?"
+    "url": "https://elixir-lang.org/blog/2026/06/03/elixir-v1-20-0-released/",
+    "title": "Elixir v1.20 released: now a gradually typed language"
   },
   {
     "source": "lobsters",
@@ -121,8 +111,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://ergeysay.github.io/safe-made-easy-pt1.html",
-    "title": "Safe Made Easy Pt.1: Single Ownership is (Not) Optional"
+    "url": "https://reproducible-builds.org/reports/2026-05/",
+    "title": "Reproducible Builds in May 2026"
   },
   {
     "source": "lobsters",
@@ -131,13 +121,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://norswap.com/typescript-type-variable-inference/",
-    "title": "How TypeScript infers type variables"
+    "url": "https://ergeysay.github.io/safe-made-easy-pt1.html",
+    "title": "Safe Made Easy Pt.1: Single Ownership is (Not) Optional"
   },
   {
     "source": "lobsters",
-    "url": "https://reproducible-builds.org/reports/2026-05/",
-    "title": "Reproducible Builds in May 2026"
+    "url": "https://motion.dev/magazine/collision-detection-in-hover-detection",
+    "title": "Crashing cars and improving hover detection"
   },
   {
     "source": "lobsters",
@@ -146,102 +136,12 @@
   },
   {
     "source": "lobsters",
-    "url": "https://blog.brownplt.org/2026/05/22/spytial.html",
-    "title": "Diagramming Program Values by Spatial Refinement"
+    "url": "https://norswap.com/typescript-type-variable-inference/",
+    "title": "How TypeScript infers type variables"
   },
   {
     "source": "lobsters",
-    "url": "https://xeiaso.net/notes/2026/ipv6-zones-go-url/",
-    "title": "IPv6 zones in URLs are a mistake"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://blog.tjll.net/you-dont-love-systemd-timers-enough/",
-    "title": "systemd timers"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.404media.co/hackers-simply-asked-meta-ai-to-give-them-access-to-high-profile-instagram-accounts-it-worked/",
-    "title": "[untitled]"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://isaiprofitable.com/",
-    "title": "Is AI Profitable Yet?"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://jasonzweig.com/three-ways-to-get-paid/",
-    "title": "Three Ways to Get Paid – Jason Zweig"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://cs336.stanford.edu/",
-    "title": "Stanford CS336 | Language Modeling from Scratch"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://point.free/blog/gemma-4-on-a-2016-xeon/",
-    "title": "A 10 year old Xeon is all you need - point.free"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://eblog.fly.dev/githubbad.html",
-    "title": "github and the crime against software"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://dan-webnotes.com/posts/2026-06-02-css-native-parallax-effect/",
-    "title": "Utils | CSS-native parallax effect"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://pxlnv.com/blog/metaverse-fever-dream/",
-    "title": "The Metaverse Fever Dream – Pixel Envy"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://blog.hopefullyuseful.com/blog/macos-needs-its-grid-back/",
-    "title": "macOS Needs Its Grid Back"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://brie.gay/cheese-paper/",
-    "title": "Cheese Paper"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://pandoc-templates.org/",
-    "title": "Pandoc Templates"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.0xsid.com/blog/meta-account-takeover-fiasco",
-    "title": "The Newest Instagram \"Exploit\" is the Goofiest I've Seen | Sid's Blog"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://coveillance.org/a-walking-tour-of-surveillance-infrastructure-in-seattle/",
-    "title": "A walking tour of surveillance infrastructure in Seattle | coveillance.org"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://sinclairtarget.com/blog/2026/06/01/quality-in-the-age-of-slop/",
-    "title": "Quality in the Age of Slop"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.brethorsting.com/blog/2026/05/domain-expertise-has-always-been-the-real-moat/",
-    "title": "Domain Expertise Has Always Been the Real Moat | Aaron Brethorst"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://ianthehenry.com/posts/why-janet/",
-    "title": "Why Janet?"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.404media.co/companies-are-using-reddit-to-manipulate-chatgpt-and-google-ai-search/",
-    "title": "Companies Are Using Reddit to Manipulate ChatGPT and Google AI Search"
+    "url": "https://blog.brownplt.org/2026/05/22/spytial.html",
+    "title": "Diagramming Program Values by Spatial Refinement"
   }
 ]
