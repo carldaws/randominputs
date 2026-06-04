@@ -11,11 +11,6 @@
   },
   {
     "source": "hn",
-    "url": "https://rozumem.xyz/posts/16",
-    "title": "The desperation of NYTimes"
-  },
-  {
-    "source": "hn",
     "url": "https://www.fieggen.com/shoelace/secureknot.htm",
     "title": "Ian's Secure Shoelace Knot"
   },
@@ -28,6 +23,26 @@
     "source": "hn",
     "url": "https://www.erdosproblems.com/forum/thread/blog:6",
     "title": "Sum-product, unit distances, and number fields"
+  },
+  {
+    "source": "hn",
+    "url": "https://cost.dev/",
+    "title": "Show HN: Cost.dev (YC W21) – making agents cost-aware and cheaper to call"
+  },
+  {
+    "source": "hn",
+    "url": "https://rozumem.xyz/posts/16",
+    "title": "The desperation of NYTimes"
+  },
+  {
+    "source": "hn",
+    "url": "https://worksinprogress.co/issue/samurai-city/",
+    "title": "Samurai City"
+  },
+  {
+    "source": "hn",
+    "url": "https://sigwait.org/~alex/blog/2026/05/28/smdBC8.html",
+    "title": "Making Debian or Fedora persistent live images"
   },
   {
     "source": "hn",
@@ -56,13 +71,18 @@
   },
   {
     "source": "hn",
+    "url": "https://www.theatlantic.com/philosophy/2026/06/no-artificial-intelligence-is-not-conscious/687378/",
+    "title": "Artificial intelligence is not conscious – Ted Chiang"
+  },
+  {
+    "source": "hn",
     "url": "https://kasra.blog/blog/i-spent-1500-seeing-if-llms-could-hack-my-app/",
     "title": "I built a vulnerable app and spent $1,500 seeing if LLMs could hack it"
   },
   {
     "source": "hn",
-    "url": "https://www.theatlantic.com/philosophy/2026/06/no-artificial-intelligence-is-not-conscious/687378/",
-    "title": "Artificial intelligence is not conscious – Ted Chiang"
+    "url": "https://louwrentius.com/dns-is-for-people-not-for-it-infrastructure.html",
+    "title": "DNS is for people, not for IT infrastructure"
   },
   {
     "source": "hn",
@@ -70,19 +90,9 @@
     "title": "Kiki – a tiny homepage construction kit with a small footprint"
   },
   {
-    "source": "hn",
-    "url": "https://sigwait.org/~alex/blog/2026/05/28/smdBC8.html",
-    "title": "Making Debian or Fedora persistent live images"
-  },
-  {
-    "source": "hn",
+    "source": "lobsters",
     "url": "https://burntsushi.net/encephalitis/",
-    "title": "I was recently diagnosed with anti-NMDA receptor encephalitis"
-  },
-  {
-    "source": "hn",
-    "url": "https://simonwillison.net/2026/Jun/3/uber-caps-usage/",
-    "title": "Uber's $1,500/month AI limit is a useful signal for AI tool pricing"
+    "title": "burntsushi discusses personal medical diagnosis"
   },
   {
     "source": "lobsters",
@@ -136,7 +146,12 @@
   },
   {
     "source": "lobsters",
-    "url": "https://blog.brownplt.org/2026/05/22/spytial.html",
-    "title": "Diagramming Program Values by Spatial Refinement"
+    "url": "https://lfg.popovicu.com/series/the-shell-as-a-language/terminal-tty-and-shell/",
+    "title": "The terminal, the TTY, and the shell"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://www.kdab.com/how-long-does-it-take-for-an-item-to-become-visible/",
+    "title": "How Long Does It Take for a QQuickItem to Become Visible? Measuring Frame Delays in Qt Quick"
   }
 ]
