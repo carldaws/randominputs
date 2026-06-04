@@ -1,8 +1,18 @@
 [
   {
     "source": "hn",
+    "url": "https://xeiaso.net/notes/2026/ipv6-zones-go-url/",
+    "title": "IPv6 zones in URLs are a mistake"
+  },
+  {
+    "source": "hn",
     "url": "https://blog.cloudflare.com/voidzero-joins-cloudflare/",
     "title": "VoidZero Is Joining Cloudflare"
+  },
+  {
+    "source": "hn",
+    "url": "https://tiki.li/blog/blqsort",
+    "title": "Branchless Quicksort faster than std:sort and pdqsort with C and C++ API"
   },
   {
     "source": "hn",
@@ -21,18 +31,8 @@
   },
   {
     "source": "hn",
-    "url": "https://tiki.li/blog/blqsort",
-    "title": "Branchless Quicksort faster than std:sort and pdqsort with C and C++ API"
-  },
-  {
-    "source": "hn",
     "url": "https://danielmangum.com/posts/jlink-jtag-pinecil/",
     "title": "JLink JTAG Access on the Pinecil"
-  },
-  {
-    "source": "hn",
-    "url": "https://xeiaso.net/notes/2026/ipv6-zones-go-url/",
-    "title": "IPv6 zones in URLs are a mistake"
   },
   {
     "source": "hn",
@@ -51,23 +51,8 @@
   },
   {
     "source": "hn",
-    "url": "https://www.buchodi.com/meta-glasses-facial-recognition/",
-    "title": "Meta's ships facial recognition on smart glasses"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.erdosproblems.com/forum/thread/blog:6",
-    "title": "Sum-product, unit distances, and number fields"
-  },
-  {
-    "source": "hn",
-    "url": "https://en.wikipedia.org/wiki/U.S._Army_Corps_of_Engineers_Bay_Model",
-    "title": "U.S. Army Corps of Engineers Bay Model"
-  },
-  {
-    "source": "hn",
-    "url": "https://momentsingraphics.de/Siggraph2026.html",
-    "title": "Gaussian Point Splatting"
+    "url": "https://hitoku.me/draft/",
+    "title": "Show HN: Hitoku Draft – Context aware local assistant"
   },
   {
     "source": "hn",
@@ -76,13 +61,23 @@
   },
   {
     "source": "hn",
-    "url": "https://rozumem.xyz/posts/16",
-    "title": "The desperation of NYTimes"
+    "url": "https://www.erdosproblems.com/forum/thread/blog:6",
+    "title": "Sum-product, unit distances, and number fields"
   },
   {
     "source": "hn",
-    "url": "https://cost.dev/",
-    "title": "Show HN: Cost.dev (YC W21) – making agents cost-aware and cheaper to call"
+    "url": "https://www.buchodi.com/meta-glasses-facial-recognition/",
+    "title": "Meta's ships facial recognition on smart glasses"
+  },
+  {
+    "source": "hn",
+    "url": "https://momentsingraphics.de/Siggraph2026.html",
+    "title": "Gaussian Point Splatting"
+  },
+  {
+    "source": "hn",
+    "url": "https://en.wikipedia.org/wiki/U.S._Army_Corps_of_Engineers_Bay_Model",
+    "title": "U.S. Army Corps of Engineers Bay Model"
   },
   {
     "source": "lobsters",
