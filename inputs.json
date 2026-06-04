@@ -1,8 +1,18 @@
 [
   {
     "source": "hn",
+    "url": "https://e360.yale.edu/digest/trump-ooi-amoc",
+    "title": "U.S. to Dismantle System Tracking Atlantic Currents That Are at Risk of Collapse"
+  },
+  {
+    "source": "hn",
     "url": "https://elixir-lang.org/blog/2026/06/03/elixir-v1-20-0-released/",
     "title": "Elixir v1.20: Now a gradually typed language"
+  },
+  {
+    "source": "hn",
+    "url": "https://kasra.blog/blog/i-spent-1500-seeing-if-llms-could-hack-my-app/",
+    "title": "I built a vulnerable app and spent $1,500 seeing if LLMs could hack it"
   },
   {
     "source": "hn",
@@ -11,8 +21,8 @@
   },
   {
     "source": "hn",
-    "url": "https://kasra.blog/blog/i-spent-1500-seeing-if-llms-could-hack-my-app/",
-    "title": "I built a vulnerable app and spent $1,500 seeing if LLMs could hack it"
+    "url": "https://maxleiter.com/blog/weights",
+    "title": "\"They're made out of weights\""
   },
   {
     "source": "hn",
@@ -36,8 +46,13 @@
   },
   {
     "source": "hn",
-    "url": "https://blog.nns.ee/2026/06/03/katana-badusb/",
-    "title": "Pwnd Blaster: Hacking your PC using your speaker without ever touching it"
+    "url": "https://www.ableton.com/en/live/extensions/",
+    "title": "Ableton Extensions SDK"
+  },
+  {
+    "source": "hn",
+    "url": "https://mforney.org/blog/2026-05-28-patching-my-guitar-amps-firmware.html",
+    "title": "Patching my guitar amp's firmware"
   },
   {
     "source": "hn",
@@ -46,18 +61,8 @@
   },
   {
     "source": "hn",
-    "url": "https://www.ableton.com/en/live/extensions/",
-    "title": "Ableton Extensions SDK"
-  },
-  {
-    "source": "hn",
     "url": "https://lithub.com/the-man-who-reads-books-for-a-living-one-every-two-days/",
     "title": "A Man Who Reads Books for a Living (One Every Two Days)"
-  },
-  {
-    "source": "hn",
-    "url": "https://mforney.org/blog/2026-05-28-patching-my-guitar-amps-firmware.html",
-    "title": "Patching my guitar amp's firmware"
   },
   {
     "source": "hn",
@@ -76,28 +81,8 @@
   },
   {
     "source": "hn",
-    "url": "https://maxleiter.com/blog/weights",
-    "title": "\"They're made out of weights\""
-  },
-  {
-    "source": "hn",
     "url": "https://www.copetti.org/writings/consoles/playstation/",
     "title": "PlayStation Architecture"
-  },
-  {
-    "source": "hn",
-    "url": "https://brume.aftertone.co/",
-    "title": "Brume is a 24-voice multi-timbral desktop synth for the CM5"
-  },
-  {
-    "source": "hn",
-    "url": "https://fzakaria.com/2026/06/01/every-byte-matters",
-    "title": "Every Byte Matters"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://www.dotfurry.org/",
-    "title": ".furry - A Top-Level Domain for furries"
   },
   {
     "source": "lobsters",
@@ -106,8 +91,18 @@
   },
   {
     "source": "lobsters",
+    "url": "https://www.dotfurry.org/",
+    "title": ".furry - A Top-Level Domain for furries"
+  },
+  {
+    "source": "lobsters",
     "url": "https://blog.ammaraskar.com/github-token-stealing/",
     "title": "Full Disclosure: 1-Click GitHub Token Stealing via a VSCode Bug"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://blog.nns.ee/2026/06/03/katana-badusb/",
+    "title": "Pwnd Blaster: Hacking your PC using your speaker without ever touching it"
   },
   {
     "source": "lobsters",
