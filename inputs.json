@@ -1,8 +1,8 @@
 [
   {
     "source": "hn",
-    "url": "https://e360.yale.edu/digest/trump-ooi-amoc",
-    "title": "U.S. to Dismantle System Tracking Atlantic Currents That Are at Risk of Collapse"
+    "url": "https://maxleiter.com/blog/weights",
+    "title": "\"They're made out of weights\""
   },
   {
     "source": "hn",
@@ -21,18 +21,13 @@
   },
   {
     "source": "hn",
-    "url": "https://maxleiter.com/blog/weights",
-    "title": "\"They're made out of weights\""
+    "url": "https://www.theatlantic.com/philosophy/2026/06/no-artificial-intelligence-is-not-conscious/687378/",
+    "title": "Artificial intelligence is not conscious – Ted Chiang"
   },
   {
     "source": "hn",
     "url": "https://burntsushi.net/encephalitis/",
     "title": "I was recently diagnosed with anti-NMDA receptor encephalitis"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.theatlantic.com/philosophy/2026/06/no-artificial-intelligence-is-not-conscious/687378/",
-    "title": "Artificial intelligence is not conscious – Ted Chiang"
   },
   {
     "source": "hn",
@@ -46,13 +41,18 @@
   },
   {
     "source": "hn",
+    "url": "https://lithub.com/the-man-who-reads-books-for-a-living-one-every-two-days/",
+    "title": "A Man Who Reads Books for a Living"
+  },
+  {
+    "source": "hn",
     "url": "https://www.ableton.com/en/live/extensions/",
     "title": "Ableton Extensions SDK"
   },
   {
     "source": "hn",
-    "url": "https://mforney.org/blog/2026-05-28-patching-my-guitar-amps-firmware.html",
-    "title": "Patching my guitar amp's firmware"
+    "url": "https://louwrentius.com/dns-is-for-people-not-for-it-infrastructure.html",
+    "title": "DNS Is for People – Not for IT Infrastructure"
   },
   {
     "source": "hn",
@@ -61,8 +61,18 @@
   },
   {
     "source": "hn",
-    "url": "https://lithub.com/the-man-who-reads-books-for-a-living-one-every-two-days/",
-    "title": "A Man Who Reads Books for a Living (One Every Two Days)"
+    "url": "https://mforney.org/blog/2026-05-28-patching-my-guitar-amps-firmware.html",
+    "title": "Patching my guitar amp's firmware"
+  },
+  {
+    "source": "hn",
+    "url": "https://docs.pytorch.org/devlogs/eager/2026-06-01-cuda-caching-allocator/",
+    "title": "When does fragmentation occur in the CUDA caching allocator?"
+  },
+  {
+    "source": "hn",
+    "url": "https://e360.yale.edu/digest/trump-ooi-amoc",
+    "title": "U.S. to dismantle system tracking Atlantic currents that are at risk of collapse"
   },
   {
     "source": "hn",
@@ -71,18 +81,8 @@
   },
   {
     "source": "hn",
-    "url": "https://jxself.org/stop-killing-games.shtml",
-    "title": "Stop Killing Games"
-  },
-  {
-    "source": "hn",
-    "url": "https://nouvelles.umontreal.ca/en/article/2026/06/02/how-embryos-shape-their-limbs-a-key-discovery-of-genetic-brakes",
-    "title": "Embryos shape their limbs: a key discovery of \"genetic brakes\""
-  },
-  {
-    "source": "hn",
-    "url": "https://www.copetti.org/writings/consoles/playstation/",
-    "title": "PlayStation Architecture"
+    "url": "https://dumb.co/",
+    "title": "Dumbphone 2"
   },
   {
     "source": "lobsters",
@@ -96,6 +96,11 @@
   },
   {
     "source": "lobsters",
+    "url": "https://ergeysay.github.io/safe-made-easy-pt1.html",
+    "title": "Safe Made Easy Pt.1: Single Ownership is (Not) Optional"
+  },
+  {
+    "source": "lobsters",
     "url": "https://blog.ammaraskar.com/github-token-stealing/",
     "title": "Full Disclosure: 1-Click GitHub Token Stealing via a VSCode Bug"
   },
@@ -103,11 +108,6 @@
     "source": "lobsters",
     "url": "https://blog.nns.ee/2026/06/03/katana-badusb/",
     "title": "Pwnd Blaster: Hacking your PC using your speaker without ever touching it"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://ergeysay.github.io/safe-made-easy-pt1.html",
-    "title": "Safe Made Easy Pt.1: Single Ownership is (Not) Optional"
   },
   {
     "source": "lobsters",
@@ -131,6 +131,11 @@
   },
   {
     "source": "lobsters",
+    "url": "https://cs-syd.eu/posts/2026-06-03-mutation-testing-in-haskell",
+    "title": "Announcing Mutation Testing in Haskell"
+  },
+  {
+    "source": "lobsters",
     "url": "https://oils.pub/blog/2026/06/grants.html",
     "title": "Oils - Reviewing Our NLnet Grants After 4 Years"
   },
@@ -138,6 +143,11 @@
     "source": "lobsters",
     "url": "https://sinclairtarget.com/blog/2026/06/01/quality-in-the-age-of-slop/",
     "title": "Quality in the Age of Slop"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://johnnysswlab.com/floating-point-error-handling-in-c-what-actually-works/",
+    "title": "Floating-Point Error Handling in C++: What Actually Works"
   },
   {
     "source": "lobsters",
@@ -151,12 +161,7 @@
   },
   {
     "source": "lobsters",
-    "url": "https://www.matheusmoreira.com/articles/lone-lisp-heap",
-    "title": "The lone lisp heap"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://gills.pages.dev/revo/",
-    "title": "revo, the programming language"
+    "url": "https://bernsteinbear.com/blog/inlining-heuristics/",
+    "title": "A survey of inlining heuristics"
   }
 ]
