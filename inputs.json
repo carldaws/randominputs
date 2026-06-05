@@ -1,8 +1,8 @@
 [
   {
     "source": "hn",
-    "url": "https://twitter.com/eastdakota/status/2062860530360959273",
-    "title": "Three of our worst VC stories"
+    "url": "https://disassociated.com/microsoft-users-addicted-ai-personal-assistant/",
+    "title": "Microsoft wants users to be addicted to Scout, their AI personal assistant"
   },
   {
     "source": "hn",
@@ -26,23 +26,23 @@
   },
   {
     "source": "hn",
-    "url": "https://sumnerevans.com/posts/software-engineering/stop-using-conventional-commits/",
-    "title": "Conventional Commits encourages focus on the wrong things"
-  },
-  {
-    "source": "hn",
     "url": "https://alexispurslane.github.io/rsync-analysis/",
     "title": "Did Claude increase bugs in rsync?"
   },
   {
     "source": "hn",
-    "url": "https://www.jeffgeerling.com/blog/2026/i-tested-every-ip-kvm/",
-    "title": "I tested every IP KVM in my Homelab"
+    "url": "https://sumnerevans.com/posts/software-engineering/stop-using-conventional-commits/",
+    "title": "Conventional Commits encourages focus on the wrong things"
   },
   {
     "source": "hn",
     "url": "https://arnorhs.dev/posts/2026-06-04/maybe-later-was-a-feature/",
     "title": "\"Maybe later\" was a feature"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.jeffgeerling.com/blog/2026/i-tested-every-ip-kvm/",
+    "title": "I tested every IP KVM in my Homelab"
   },
   {
     "source": "hn",
@@ -53,6 +53,16 @@
     "source": "hn",
     "url": "https://lsc-pagepro.mydigitalpublication.com/publication/?i=865273&p=62&view=issueViewer",
     "title": "The Empty Field That Wasn't: GPS, OTAD and Two Decades of Encrypted Broadcasts"
+  },
+  {
+    "source": "hn",
+    "url": "https://twitter.com/eastdakota/status/2062860530360959273",
+    "title": "Three of our worst VC stories"
+  },
+  {
+    "source": "hn",
+    "url": "https://ldstephens.net/posts/aging-and-eye-problems/",
+    "title": "Aging and Eye Problems"
   },
   {
     "source": "hn",
@@ -70,9 +80,9 @@
     "title": "Nango (YC W23, dev infra) is hiring staff back end engineers"
   },
   {
-    "source": "hn",
+    "source": "lobsters",
     "url": "https://ladybird.org/posts/changing-how-we-develop-ladybird/",
-    "title": "Changing how we develop Ladybird"
+    "title": "Changing How We Develop Ladybird"
   },
   {
     "source": "lobsters",
@@ -116,102 +126,17 @@
   },
   {
     "source": "lobsters",
+    "url": "https://tagide.com/blog/llm/the-anatomy-of-a-learning-stall/",
+    "title": "The Anatomy of a Learning Stall"
+  },
+  {
+    "source": "lobsters",
     "url": "https://hamishcampbell.com/the-eus-tech-sovereignty-plan/",
     "title": "The EU tech sovereignty plan"
   },
   {
     "source": "lobsters",
-    "url": "https://burntsushi.net/encephalitis/",
-    "title": "burntsushi discusses personal medical diagnosis"
-  },
-  {
-    "source": "lobsters",
     "url": "https://drj11.wordpress.com/2007/04/09/learning-j-part-i/",
     "title": "Learning J – Part I"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://blog.tjll.net/you-dont-love-systemd-timers-enough/",
-    "title": "systemd timers"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://isaiprofitable.com/",
-    "title": "Is AI Profitable Yet?"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://jasonzweig.com/three-ways-to-get-paid/",
-    "title": "Three Ways to Get Paid – Jason Zweig"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.theatlantic.com/philosophy/2026/06/no-artificial-intelligence-is-not-conscious/687378/",
-    "title": "No, Artificial Intelligence Is Not Conscious by Ted Chiang (The Atlantic, 6/3/2026)"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.fieggen.com/shoelace/secureknot.htm",
-    "title": "Ian's Shoelace Site - Ian's Secure Shoelace Knot"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://dan-webnotes.com/posts/2026-06-02-css-native-parallax-effect/",
-    "title": "Utils | CSS-native parallax effect"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://maxleiter.com/blog/weights",
-    "title": "They're Made Out of Weights"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.404media.co/hackers-simply-asked-meta-ai-to-give-them-access-to-high-profile-instagram-accounts-it-worked/",
-    "title": "[untitled]"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.theatlantic.com/philosophy/2026/06/no-artificial-intelligence-is-not-conscious/687378/?gift=R2zbWGNBDp_xHqoa7Q8ZRp-EV6jGaHiamQBxQQlMJqI",
-    "title": "No, Artificial Intelligence Is Not Conscious - The Atlantic"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://sinclairtarget.com/blog/2026/06/01/quality-in-the-age-of-slop/",
-    "title": "Quality in the Age of Slop"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemma-4-12b/",
-    "title": "Introducing Gemma 4 12B"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://ianthehenry.com/posts/why-janet/",
-    "title": "Why Janet?"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://blog.hopefullyuseful.com/blog/macos-needs-its-grid-back/",
-    "title": "macOS Needs Its Grid Back"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.404media.co/companies-are-using-reddit-to-manipulate-chatgpt-and-google-ai-search/",
-    "title": "Companies Are Using Reddit to Manipulate ChatGPT and Google AI Search"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://worksinprogress.co/issue/samurai-city/",
-    "title": "Samurai city - Works in Progress Magazine"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://pandoc-templates.org/",
-    "title": "Pandoc Templates"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://eyeball.rory.codes/",
-    "title": "eyeball"
   }
 ]
