@@ -6,8 +6,8 @@
   },
   {
     "source": "hn",
-    "url": "https://herbsutter.com/2026/06/04/c-the-documentary-released-today/",
-    "title": "C++: The Documentary"
+    "url": "https://columnar.tech/blog/introducing-databow//",
+    "title": "databow: a Rust CLI to query any database with an ADBC driver"
   },
   {
     "source": "hn",
@@ -16,8 +16,13 @@
   },
   {
     "source": "hn",
-    "url": "https://columnar.tech/blog/introducing-databow//",
-    "title": "databow: a Rust CLI to query any database with an ADBC driver"
+    "url": "https://herbsutter.com/2026/06/04/c-the-documentary-released-today/",
+    "title": "C++: The Documentary"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.historytoday.com/archive/feature/lee-kuan-yews-singapore-story",
+    "title": "Lee Kuan Yew's Singapore Story"
   },
   {
     "source": "hn",
@@ -36,23 +41,8 @@
   },
   {
     "source": "hn",
-    "url": "https://blog.safia.rocks/2025/12/22/ansi-codes/",
-    "title": "There's no escaping it: an exploration of ANSI codes"
-  },
-  {
-    "source": "hn",
     "url": "https://www.bloomberg.com/news/articles/2026-06-04/s-p-dow-jones-keeps-megacap-ipo-rules-as-is-after-consultation",
     "title": "SpaceX, Other Mega IPOs Denied Fast Index Entry by S&P"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.boxofcables.dev/azure-linux-4-0-is-microsofts-first-general-purpose-linux/",
-    "title": "Azure Linux 4.0 is Microsoft's first general-purpose Linux"
-  },
-  {
-    "source": "hn",
-    "url": "https://magenta.withgoogle.com/magenta-realtime-2",
-    "title": "Magenta RealTime 2: Open and Local Live Music Models"
   },
   {
     "source": "hn",
@@ -61,23 +51,18 @@
   },
   {
     "source": "hn",
+    "url": "https://blog.safia.rocks/2025/12/22/ansi-codes/",
+    "title": "There's no escaping it: an exploration of ANSI codes"
+  },
+  {
+    "source": "hn",
+    "url": "https://magenta.withgoogle.com/magenta-realtime-2",
+    "title": "Magenta RealTime 2: Open and Local Live Music Models"
+  },
+  {
+    "source": "hn",
     "url": "https://worksinprogress.co/issue/samurai-city/",
     "title": "Samurai City"
-  },
-  {
-    "source": "hn",
-    "url": "https://blog.cloudflare.com/voidzero-joins-cloudflare/",
-    "title": "VoidZero Is Joining Cloudflare"
-  },
-  {
-    "source": "hn",
-    "url": "https://havenweb.org/2026/05/28/retro-tech.html",
-    "title": "Retro-Tech Parenting"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.boxofcables.dev/wsl2-per-device-swiotlb-pools-for-virtiofs-and-virtioproxy/",
-    "title": "WSL 2 is getting faster Windows file system access"
   },
   {
     "source": "lobsters",
@@ -111,23 +96,23 @@
   },
   {
     "source": "lobsters",
-    "url": "https://reproducible-builds.org/reports/2026-05/",
-    "title": "Reproducible Builds in May 2026"
-  },
-  {
-    "source": "lobsters",
     "url": "https://utcc.utoronto.ca/~cks/space/blog/unix/SuAsLoginReplacement",
     "title": "When su replaced login for becoming another Unix login"
   },
   {
     "source": "lobsters",
-    "url": "https://momentsingraphics.de/Siggraph2026.html",
-    "title": "Gaussian Point Splatting"
+    "url": "https://reproducible-builds.org/reports/2026-05/",
+    "title": "Reproducible Builds in May 2026"
   },
   {
     "source": "lobsters",
     "url": "https://blog.waleson.com/2026/05/navigating-fog-of-war-age-of-empires-ai.html",
     "title": "Navigating the Fog of War: Age of Empires, AI Agents, and the Rise of Dark Code"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://momentsingraphics.de/Siggraph2026.html",
+    "title": "Gaussian Point Splatting"
   },
   {
     "source": "lobsters",
@@ -140,8 +125,83 @@
     "title": "Designing a better podcast editor"
   },
   {
-    "source": "lobsters",
-    "url": "https://lfg.popovicu.com/series/the-shell-as-a-language/terminal-tty-and-shell/",
-    "title": "The terminal, the TTY, and the shell"
+    "source": "pinboard",
+    "url": "https://blog.tjll.net/you-dont-love-systemd-timers-enough/",
+    "title": "systemd timers"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://isaiprofitable.com/",
+    "title": "Is AI Profitable Yet?"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://jasonzweig.com/three-ways-to-get-paid/",
+    "title": "Three Ways to Get Paid – Jason Zweig"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.theatlantic.com/philosophy/2026/06/no-artificial-intelligence-is-not-conscious/687378/",
+    "title": "No, Artificial Intelligence Is Not Conscious by Ted Chiang (The Atlantic, 6/3/2026)"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.fieggen.com/shoelace/secureknot.htm",
+    "title": "Ian's Shoelace Site - Ian's Secure Shoelace Knot"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://dan-webnotes.com/posts/2026-06-02-css-native-parallax-effect/",
+    "title": "Utils | CSS-native parallax effect"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://maxleiter.com/blog/weights",
+    "title": "They're Made Out of Weights"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.404media.co/hackers-simply-asked-meta-ai-to-give-them-access-to-high-profile-instagram-accounts-it-worked/",
+    "title": "[untitled]"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.theatlantic.com/philosophy/2026/06/no-artificial-intelligence-is-not-conscious/687378/?gift=R2zbWGNBDp_xHqoa7Q8ZRp-EV6jGaHiamQBxQQlMJqI",
+    "title": "No, Artificial Intelligence Is Not Conscious - The Atlantic"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://sinclairtarget.com/blog/2026/06/01/quality-in-the-age-of-slop/",
+    "title": "Quality in the Age of Slop"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemma-4-12b/",
+    "title": "Introducing Gemma 4 12B"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://ianthehenry.com/posts/why-janet/",
+    "title": "Why Janet?"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://blog.hopefullyuseful.com/blog/macos-needs-its-grid-back/",
+    "title": "macOS Needs Its Grid Back"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.404media.co/companies-are-using-reddit-to-manipulate-chatgpt-and-google-ai-search/",
+    "title": "Companies Are Using Reddit to Manipulate ChatGPT and Google AI Search"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://pandoc-templates.org/",
+    "title": "Pandoc Templates"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://eyeball.rory.codes/",
+    "title": "eyeball"
   }
 ]
