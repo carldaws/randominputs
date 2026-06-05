@@ -6,28 +6,13 @@
   },
   {
     "source": "hn",
+    "url": "https://blog.rubygems.org/2026/06/03/cooldown-let-new-gems-be-vetted.html",
+    "title": "Cooldown Support for Ruby Bundler"
+  },
+  {
+    "source": "hn",
     "url": "https://ladybird.org/posts/changing-how-we-develop-ladybird/",
-    "title": "Changing How We Develop Ladybird"
-  },
-  {
-    "source": "hn",
-    "url": "https://columnar.tech/blog/introducing-databow//",
-    "title": "databow: a Rust CLI to query any database with an ADBC driver"
-  },
-  {
-    "source": "hn",
-    "url": "https://passo.uno/fine-tuning-docs-llm/",
-    "title": "Fine-tuning an LLM to write docs like it's 1995"
-  },
-  {
-    "source": "hn",
-    "url": "https://nango.dev/careers",
-    "title": "Nango (YC W23, dev infra) is hiring staff back end engineers"
-  },
-  {
-    "source": "hn",
-    "url": "https://blog.plover.com/2026/03/09/#documentation-wins-2",
-    "title": "Programmers will document for Claude, but not for each other"
+    "title": "Changing how we develop Ladybird"
   },
   {
     "source": "hn",
@@ -36,8 +21,38 @@
   },
   {
     "source": "hn",
-    "url": "https://blog.rubygems.org/2026/06/03/cooldown-let-new-gems-be-vetted.html",
-    "title": "Cooldown Support for Ruby Bundler"
+    "url": "https://columnar.tech/blog/introducing-databow//",
+    "title": "databow: a Rust CLI to query any database with an ADBC driver"
+  },
+  {
+    "source": "hn",
+    "url": "https://nango.dev/careers",
+    "title": "Nango (YC W23, dev infra) is hiring staff back end engineers"
+  },
+  {
+    "source": "hn",
+    "url": "https://passo.uno/fine-tuning-docs-llm/",
+    "title": "Fine-tuning an LLM to write docs like it's 1995"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.boxofcables.dev/azure-linux-4-0-is-microsofts-first-general-purpose-linux/",
+    "title": "Azure Linux 4.0 is Microsoft's first general-purpose Linux"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.historytoday.com/archive/feature/lee-kuan-yews-singapore-story",
+    "title": "Lee Kuan Yew's Singapore Story (2023)"
+  },
+  {
+    "source": "hn",
+    "url": "https://giovannigatti.github.io/cve-bench/",
+    "title": "Show HN: I benchmarked LLM agents on fixing real-world security vulnerabilities"
+  },
+  {
+    "source": "hn",
+    "url": "https://blog.plover.com/2026/03/09/#documentation-wins-2",
+    "title": "Programmers will document for Claude, but not for each other"
   },
   {
     "source": "hn",
@@ -46,18 +61,13 @@
   },
   {
     "source": "hn",
-    "url": "https://tiki.li/blog/blqsort",
-    "title": "Branchless Quicksort faster than std:sort and pdqsort with C and C++ API"
+    "url": "https://www.buchodi.com/meta-glasses-facial-recognition/",
+    "title": "Meta's ships facial recognition on smart glasses"
   },
   {
     "source": "hn",
-    "url": "https://www.bloomberg.com/news/articles/2026-06-04/s-p-dow-jones-keeps-megacap-ipo-rules-as-is-after-consultation",
-    "title": "SpaceX, Other Mega IPOs Denied Fast Index Entry by S&P"
-  },
-  {
-    "source": "hn",
-    "url": "https://blog.djnavarro.net/posts/2025-09-14_cosine-palettes/",
-    "title": "Linear Cosine Palettes(2025)"
+    "url": "https://havenweb.org/2026/05/28/retro-tech.html",
+    "title": "Retro-Tech Parenting"
   },
   {
     "source": "lobsters",
@@ -76,6 +86,16 @@
   },
   {
     "source": "lobsters",
+    "url": "https://tiki.li/blog/blqsort",
+    "title": "Branchless Quicksort"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://marcinzukowski.github.io/pivco-huffman/paper-1.0/ph.html",
+    "title": "PivCo-Huffman"
+  },
+  {
+    "source": "lobsters",
     "url": "https://burntsushi.net/encephalitis/",
     "title": "burntsushi discusses personal medical diagnosis"
   },
@@ -86,8 +106,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://marcinzukowski.github.io/pivco-huffman/paper-1.0/ph.html",
-    "title": "PivCo-Huffman"
+    "url": "https://drj11.wordpress.com/2007/04/09/learning-j-part-i/",
+    "title": "Learning J – Part I"
   },
   {
     "source": "lobsters",
@@ -96,8 +116,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://drj11.wordpress.com/2007/04/09/learning-j-part-i/",
-    "title": "Learning J – Part I"
+    "url": "https://hamishcampbell.com/the-eus-tech-sovereignty-plan/",
+    "title": "The EU tech sovereignty plan"
   },
   {
     "source": "lobsters",
@@ -108,21 +128,6 @@
     "source": "lobsters",
     "url": "https://doscienceto.it/extension-or-imitation/",
     "title": "Extension or Imitation? Can you tell the valid Haskell Language Extensions, from the Impostors?"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://hamishcampbell.com/the-eus-tech-sovereignty-plan/",
-    "title": "The EU tech sovereignty plan"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://lfg.popovicu.com/series/the-shell-as-a-language/terminal-tty-and-shell/",
-    "title": "The terminal, the TTY, and the shell"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://blog.waleson.com/2026/05/navigating-fog-of-war-age-of-empires-ai.html",
-    "title": "Navigating the Fog of War: Age of Empires, AI Agents, and the Rise of Dark Code"
   },
   {
     "source": "pinboard",
