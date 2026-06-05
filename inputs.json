@@ -1,6 +1,11 @@
 [
   {
     "source": "hn",
+    "url": "https://www.flyingpenguin.com/cloudflare-ceo-is-lying-to-you-about-the-bot-traffic-jump/",
+    "title": "Cloudflare CEO Is Lying to You About the Bot Traffic Jump"
+  },
+  {
+    "source": "hn",
     "url": "https://blog.google/innovation-and-ai/technology/developers-tools/quantization-aware-training-gemma-4/",
     "title": "Gemma 4 QAT models: Optimizing compression for mobile and laptop efficiency"
   },
@@ -16,8 +21,23 @@
   },
   {
     "source": "hn",
+    "url": "https://www.saturnci.com/my-agent-skill-for-test-driven-development.html",
+    "title": "My Agent Skill for Test-Driven Development"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.theregister.com/public-sector/2026/06/04/govuk-goes-dutch-on-payments-as-it-dumps-stripe/5250763",
+    "title": "Gov.uk has replaced Stripe with Dutch provider Adyen"
+  },
+  {
+    "source": "hn",
     "url": "https://www.jeffgeerling.com/blog/2026/i-tested-every-ip-kvm/",
     "title": "I tested every IP KVM in my Homelab"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.githubstatus.com/incidents/2nmfnbknhlnv",
+    "title": "GitHub Accidentally Deletes Slack and Teams Subscriptions"
   },
   {
     "source": "hn",
@@ -26,28 +46,13 @@
   },
   {
     "source": "hn",
-    "url": "https://www.saturnci.com/my-agent-skill-for-test-driven-development.html",
-    "title": "My Agent Skill for Test-Driven Development"
-  },
-  {
-    "source": "hn",
-    "url": "https://sakana.ai/rsi-lab/",
-    "title": "Sakana AI's Recursive Self-Improvement (RSI) Lab"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.theregister.com/public-sector/2026/06/04/govuk-goes-dutch-on-payments-as-it-dumps-stripe/5250763",
-    "title": "Gov.uk goes Dutch on payments as it dumps Stripe"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.flyingpenguin.com/cloudflare-ceo-is-lying-to-you-about-the-bot-traffic-jump/",
-    "title": "Cloudflare CEO Is Lying to You About the Bot Traffic Jump"
-  },
-  {
-    "source": "hn",
     "url": "https://alexispurslane.github.io/rsync-analysis/",
     "title": "Did Claude increase bugs in rsync?"
+  },
+  {
+    "source": "hn",
+    "url": "https://arnorhs.dev/posts/2026-06-04/maybe-later-was-a-feature/",
+    "title": "\"Maybe later\" was a feature"
   },
   {
     "source": "hn",
@@ -56,8 +61,8 @@
   },
   {
     "source": "hn",
-    "url": "https://arnorhs.dev/posts/2026-06-04/maybe-later-was-a-feature/",
-    "title": "\"Maybe later\" was a feature"
+    "url": "https://sakana.ai/rsi-lab/",
+    "title": "Sakana AI's Recursive Self-Improvement (RSI) Lab"
   },
   {
     "source": "hn",
@@ -71,6 +76,11 @@
   },
   {
     "source": "lobsters",
+    "url": "https://polyformproject.org/licenses",
+    "title": "PolyForm Licenses"
+  },
+  {
+    "source": "lobsters",
     "url": "https://htmx.org/essays/code-is-cheap/",
     "title": "Code is Cheap(er)"
   },
@@ -78,11 +88,6 @@
     "source": "lobsters",
     "url": "https://lsc-pagepro.mydigitalpublication.com/publication/?i=865273&p=62&view=issueViewer",
     "title": "The Empty Field That Wasn't: GPS Broadcasts a Numbers Station"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://polyformproject.org/licenses",
-    "title": "PolyForm Licenses"
   },
   {
     "source": "lobsters",
@@ -133,10 +138,5 @@
     "source": "lobsters",
     "url": "https://reproducible-builds.org/reports/2026-05/",
     "title": "Reproducible Builds in May 2026"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://supabase.com/blog/multigres-v0-1-alpha",
-    "title": "Multigres v0.1 Alpha: an operating system for Postgres"
   }
 ]
