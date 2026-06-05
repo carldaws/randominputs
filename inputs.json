@@ -1,6 +1,16 @@
 [
   {
     "source": "hn",
+    "url": "https://www.boxofcables.dev/azure-linux-4-0-is-microsofts-first-general-purpose-linux/",
+    "title": "Azure Linux 4.0 is Microsoft's first general-purpose Linux"
+  },
+  {
+    "source": "hn",
+    "url": "https://georgiebc.wordpress.com/2026/06/01/flying-high-on-impunity/",
+    "title": "SpaceX: Flying High on Impunity"
+  },
+  {
+    "source": "hn",
     "url": "https://blog.cloudflare.com/voidzero-joins-cloudflare/",
     "title": "VoidZero Is Joining Cloudflare"
   },
@@ -11,8 +21,18 @@
   },
   {
     "source": "hn",
-    "url": "https://www.fieggen.com/shoelace/secureknot.htm",
-    "title": "Ian's Secure Shoelace Knot"
+    "url": "https://www.bloomberg.com/news/articles/2026-06-04/s-p-dow-jones-keeps-megacap-ipo-rules-as-is-after-consultation",
+    "title": "SpaceX, Other Mega IPOs Denied Fast Index Entry by S&P"
+  },
+  {
+    "source": "hn",
+    "url": "https://magenta.withgoogle.com/magenta-realtime-2",
+    "title": "Magenta RealTime 2: Open and Local Live Music Models"
+  },
+  {
+    "source": "hn",
+    "url": "https://mitxela.com/projects/wifi_time",
+    "title": "WiFi Time"
   },
   {
     "source": "hn",
@@ -21,13 +41,28 @@
   },
   {
     "source": "hn",
-    "url": "https://www.bloomberg.com/news/articles/2026-06-04/s-p-dow-jones-keeps-megacap-ipo-rules-as-is-after-consultation",
-    "title": "SpaceX, Other Mega IPOs Denied Fast Index Entry by S&P"
+    "url": "https://havenweb.org/2026/05/28/retro-tech.html",
+    "title": "Retro-Tech Parenting"
   },
   {
     "source": "hn",
-    "url": "https://havenweb.org/2026/05/28/retro-tech.html",
-    "title": "Retro-Tech Parenting"
+    "url": "https://danielmangum.com/posts/jlink-jtag-pinecil/",
+    "title": "JLink JTAG Access on the Pinecil"
+  },
+  {
+    "source": "hn",
+    "url": "https://castor.web.cern.ch/content/home.html",
+    "title": "Castor: CERN Advanced STORage Manager"
+  },
+  {
+    "source": "hn",
+    "url": "https://sigwait.org/~alex/blog/2026/05/28/smdBC8.html",
+    "title": "Making Debian or Fedora persistent live images"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.mercek.dev/",
+    "title": "Show HN: Mercek – A Desktop IDE for AWS ECS"
   },
   {
     "source": "hn",
@@ -41,43 +76,8 @@
   },
   {
     "source": "hn",
-    "url": "https://www.mercek.dev/",
-    "title": "Show HN: Mercek – A Desktop IDE for AWS ECS"
-  },
-  {
-    "source": "hn",
-    "url": "https://castor.web.cern.ch/content/home.html",
-    "title": "Castor: CERN Advanced STORage Manager"
-  },
-  {
-    "source": "hn",
-    "url": "https://kyrieblunders.bearblog.dev/making-dr-grpo-go-brrr/",
-    "title": "I made a kernel 2.2x faster. It made my training loop 3x slower"
-  },
-  {
-    "source": "hn",
-    "url": "https://danielmangum.com/posts/jlink-jtag-pinecil/",
-    "title": "JLink JTAG Access on the Pinecil"
-  },
-  {
-    "source": "hn",
-    "url": "https://sigwait.org/~alex/blog/2026/05/28/smdBC8.html",
-    "title": "Making Debian or Fedora persistent live images"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.xtremesystems.us/post/external-clock-generation-on-rtx-50-series",
-    "title": "External Clock Generation on RTX 50 Series"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.buchodi.com/meta-glasses-facial-recognition/",
-    "title": "Meta's ships facial recognition on smart glasses"
-  },
-  {
-    "source": "hn",
-    "url": "https://momentsingraphics.de/Siggraph2026.html",
-    "title": "Gaussian Point Splatting"
+    "url": "https://maxleiter.com/blog/weights",
+    "title": "They’re made out of weights"
   },
   {
     "source": "lobsters",
@@ -86,23 +86,18 @@
   },
   {
     "source": "lobsters",
-    "url": "https://kristoff.it/blog/north-star/",
-    "title": "My Software North Star"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://doscienceto.it/extension-or-imitation/",
-    "title": "Extension or Imitation? Can you tell the valid Haskell Language Extensions, from the Impostors?"
-  },
-  {
-    "source": "lobsters",
     "url": "https://htmx.org/essays/code-is-cheap/",
     "title": "Code is Cheap(er)"
   },
   {
     "source": "lobsters",
-    "url": "https://elixir-lang.org/blog/2026/06/03/elixir-v1-20-0-released/",
-    "title": "Elixir v1.20 released: now a gradually typed language"
+    "url": "https://kristoff.it/blog/north-star/",
+    "title": "My Software North Star"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://drj11.wordpress.com/2007/04/09/learning-j-part-i/",
+    "title": "Learning J – Part I"
   },
   {
     "source": "lobsters",
@@ -111,8 +106,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://drj11.wordpress.com/2007/04/09/learning-j-part-i/",
-    "title": "Learning J – Part I"
+    "url": "https://elixir-lang.org/blog/2026/06/03/elixir-v1-20-0-released/",
+    "title": "Elixir v1.20 released: now a gradually typed language"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://momentsingraphics.de/Siggraph2026.html",
+    "title": "Gaussian Point Splatting"
   },
   {
     "source": "lobsters",
@@ -126,22 +126,112 @@
   },
   {
     "source": "lobsters",
-    "url": "https://www.dotfurry.org/",
-    "title": ".furry - A Top-Level Domain for furries"
-  },
-  {
-    "source": "lobsters",
     "url": "https://lfg.popovicu.com/series/the-shell-as-a-language/terminal-tty-and-shell/",
     "title": "The terminal, the TTY, and the shell"
   },
   {
     "source": "lobsters",
-    "url": "https://cs-syd.eu/posts/2026-06-03-mutation-testing-in-haskell",
-    "title": "Announcing Mutation Testing in Haskell"
+    "url": "https://www.dotfurry.org/",
+    "title": ".furry - A Top-Level Domain for furries"
   },
   {
     "source": "lobsters",
-    "url": "https://ergeysay.github.io/safe-made-easy-pt1.html",
-    "title": "Safe Made Easy Pt.1: Single Ownership is (Not) Optional"
+    "url": "https://ciao-lang.org/ciao/build/doc/ciao.html/AssrtLang.html",
+    "title": "Ciao - Assertions and their Use"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://blog.tjll.net/you-dont-love-systemd-timers-enough/",
+    "title": "systemd timers"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.404media.co/hackers-simply-asked-meta-ai-to-give-them-access-to-high-profile-instagram-accounts-it-worked/",
+    "title": "[untitled]"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://isaiprofitable.com/",
+    "title": "Is AI Profitable Yet?"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://jasonzweig.com/three-ways-to-get-paid/",
+    "title": "Three Ways to Get Paid – Jason Zweig"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://cs336.stanford.edu/",
+    "title": "Stanford CS336 | Language Modeling from Scratch"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://point.free/blog/gemma-4-on-a-2016-xeon/",
+    "title": "A 10 year old Xeon is all you need - point.free"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://eblog.fly.dev/githubbad.html",
+    "title": "github and the crime against software"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://dan-webnotes.com/posts/2026-06-02-css-native-parallax-effect/",
+    "title": "Utils | CSS-native parallax effect"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://pxlnv.com/blog/metaverse-fever-dream/",
+    "title": "The Metaverse Fever Dream – Pixel Envy"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://blog.hopefullyuseful.com/blog/macos-needs-its-grid-back/",
+    "title": "macOS Needs Its Grid Back"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://brie.gay/cheese-paper/",
+    "title": "Cheese Paper"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://pandoc-templates.org/",
+    "title": "Pandoc Templates"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.0xsid.com/blog/meta-account-takeover-fiasco",
+    "title": "The Newest Instagram \"Exploit\" is the Goofiest I've Seen | Sid's Blog"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://coveillance.org/a-walking-tour-of-surveillance-infrastructure-in-seattle/",
+    "title": "A walking tour of surveillance infrastructure in Seattle | coveillance.org"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://sinclairtarget.com/blog/2026/06/01/quality-in-the-age-of-slop/",
+    "title": "Quality in the Age of Slop"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.brethorsting.com/blog/2026/05/domain-expertise-has-always-been-the-real-moat/",
+    "title": "Domain Expertise Has Always Been the Real Moat | Aaron Brethorst"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://ianthehenry.com/posts/why-janet/",
+    "title": "Why Janet?"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.theatlantic.com/philosophy/2026/06/no-artificial-intelligence-is-not-conscious/687378/",
+    "title": "No, Artificial Intelligence Is Not Conscious by Ted Chiang (The Atlantic, 6/3/2026)"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.404media.co/companies-are-using-reddit-to-manipulate-chatgpt-and-google-ai-search/",
+    "title": "Companies Are Using Reddit to Manipulate ChatGPT and Google AI Search"
   }
 ]
