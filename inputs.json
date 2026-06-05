@@ -11,8 +11,13 @@
   },
   {
     "source": "hn",
-    "url": "https://ladybird.org/posts/changing-how-we-develop-ladybird/",
-    "title": "Changing how we develop Ladybird"
+    "url": "https://www.jeffgeerling.com/blog/2026/i-tested-every-ip-kvm/",
+    "title": "I tested every IP KVM in my Homelab"
+  },
+  {
+    "source": "hn",
+    "url": "https://sumnerevans.com/posts/software-engineering/stop-using-conventional-commits/",
+    "title": "Stop Using Conventional Commits"
   },
   {
     "source": "hn",
@@ -21,8 +26,13 @@
   },
   {
     "source": "hn",
-    "url": "https://columnar.tech/blog/introducing-databow//",
-    "title": "databow: a Rust CLI to query any database with an ADBC driver"
+    "url": "https://ladybird.org/posts/changing-how-we-develop-ladybird/",
+    "title": "Changing how we develop Ladybird"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.404media.co/the-u-s-military-quietly-turned-gps-into-a-global-numbers-station-evidence-suggests/",
+    "title": "U.S. Military Turned GPS into a Global \"Numbers Station\""
   },
   {
     "source": "hn",
@@ -36,38 +46,23 @@
   },
   {
     "source": "hn",
-    "url": "https://www.boxofcables.dev/azure-linux-4-0-is-microsofts-first-general-purpose-linux/",
-    "title": "Azure Linux 4.0 is Microsoft's first general-purpose Linux"
-  },
-  {
-    "source": "hn",
     "url": "https://www.historytoday.com/archive/feature/lee-kuan-yews-singapore-story",
     "title": "Lee Kuan Yew's Singapore Story (2023)"
   },
   {
     "source": "hn",
-    "url": "https://giovannigatti.github.io/cve-bench/",
-    "title": "Show HN: I benchmarked LLM agents on fixing real-world security vulnerabilities"
+    "url": "https://www.boxofcables.dev/azure-linux-4-0-is-microsofts-first-general-purpose-linux/",
+    "title": "Azure Linux 4.0 is Microsoft's first general-purpose Linux"
+  },
+  {
+    "source": "hn",
+    "url": "https://columnar.tech/blog/introducing-databow//",
+    "title": "databow: a Rust CLI to query any database with an ADBC driver"
   },
   {
     "source": "hn",
     "url": "https://blog.plover.com/2026/03/09/#documentation-wins-2",
     "title": "Programmers will document for Claude, but not for each other"
-  },
-  {
-    "source": "hn",
-    "url": "https://emalliab.wordpress.com/2026/05/26/watching-a-z80-from-an-rp2350/",
-    "title": "Watching a Z80 from an RP2350"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.buchodi.com/meta-glasses-facial-recognition/",
-    "title": "Meta's ships facial recognition on smart glasses"
-  },
-  {
-    "source": "hn",
-    "url": "https://havenweb.org/2026/05/28/retro-tech.html",
-    "title": "Retro-Tech Parenting"
   },
   {
     "source": "lobsters",
@@ -86,23 +81,28 @@
   },
   {
     "source": "lobsters",
-    "url": "https://tiki.li/blog/blqsort",
-    "title": "Branchless Quicksort"
-  },
-  {
-    "source": "lobsters",
     "url": "https://marcinzukowski.github.io/pivco-huffman/paper-1.0/ph.html",
     "title": "PivCo-Huffman"
   },
   {
     "source": "lobsters",
-    "url": "https://burntsushi.net/encephalitis/",
-    "title": "burntsushi discusses personal medical diagnosis"
+    "url": "https://tiki.li/blog/blqsort",
+    "title": "Branchless Quicksort"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://polyformproject.org/licenses",
+    "title": "PolyForm Licenses"
   },
   {
     "source": "lobsters",
     "url": "https://utcc.utoronto.ca/~cks/space/blog/unix/SuAsLoginReplacement",
     "title": "When su replaced login for becoming another Unix login"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://burntsushi.net/encephalitis/",
+    "title": "burntsushi discusses personal medical diagnosis"
   },
   {
     "source": "lobsters",
@@ -121,13 +121,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://kristoff.it/blog/north-star/",
-    "title": "My Software North Star"
+    "url": "https://doscienceto.it/extension-or-imitation/",
+    "title": "Extension or Imitation? Can you tell the valid Haskell Language Extensions, from the Impostors?"
   },
   {
     "source": "lobsters",
-    "url": "https://doscienceto.it/extension-or-imitation/",
-    "title": "Extension or Imitation? Can you tell the valid Haskell Language Extensions, from the Impostors?"
+    "url": "https://kristoff.it/blog/north-star/",
+    "title": "My Software North Star"
   },
   {
     "source": "pinboard",
