@@ -11,11 +11,6 @@
   },
   {
     "source": "hn",
-    "url": "https://xeiaso.net/notes/2026/ipv6-zones-go-url/",
-    "title": "IPv6 zones in URLs are a mistake"
-  },
-  {
-    "source": "hn",
     "url": "https://www.fieggen.com/shoelace/secureknot.htm",
     "title": "Ian's Secure Shoelace Knot"
   },
@@ -26,8 +21,18 @@
   },
   {
     "source": "hn",
-    "url": "https://www.xtremesystems.us/post/external-clock-generation-on-rtx-50-series",
-    "title": "External Clock Generation on RTX 50 Series"
+    "url": "https://www.mercek.dev/",
+    "title": "Show HN: Mercek – A Desktop IDE for AWS ECS"
+  },
+  {
+    "source": "hn",
+    "url": "https://xeiaso.net/notes/2026/ipv6-zones-go-url/",
+    "title": "IPv6 zones in URLs are a mistake"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.boxofcables.dev/wsl2-per-device-swiotlb-pools-for-virtiofs-and-virtioproxy/",
+    "title": "WSL 2 is getting faster Windows file system access"
   },
   {
     "source": "hn",
@@ -46,28 +51,18 @@
   },
   {
     "source": "hn",
-    "url": "https://www.buchodi.com/meta-glasses-facial-recognition/",
-    "title": "Meta's ships facial recognition on smart glasses"
-  },
-  {
-    "source": "hn",
     "url": "https://sigwait.org/~alex/blog/2026/05/28/smdBC8.html",
     "title": "Making Debian or Fedora persistent live images"
   },
   {
     "source": "hn",
-    "url": "https://www.boxofcables.dev/wsl2-per-device-swiotlb-pools-for-virtiofs-and-virtioproxy/",
-    "title": "WSL 2 is getting faster Windows file system access"
+    "url": "https://www.buchodi.com/meta-glasses-facial-recognition/",
+    "title": "Meta's ships facial recognition on smart glasses"
   },
   {
     "source": "hn",
-    "url": "https://www.mercek.dev/",
-    "title": "Show HN: Mercek – A Desktop IDE for AWS ECS"
-  },
-  {
-    "source": "hn",
-    "url": "https://hitoku.me/draft/",
-    "title": "Show HN: Hitoku Draft – Context aware local assistant"
+    "url": "https://www.xtremesystems.us/post/external-clock-generation-on-rtx-50-series",
+    "title": "External Clock Generation on RTX 50 Series"
   },
   {
     "source": "hn",
@@ -83,6 +78,11 @@
     "source": "hn",
     "url": "https://en.wikipedia.org/wiki/U.S._Army_Corps_of_Engineers_Bay_Model",
     "title": "U.S. Army Corps of Engineers Bay Model"
+  },
+  {
+    "source": "hn",
+    "url": "https://hitoku.me/draft/",
+    "title": "Show HN: Hitoku Draft – Context aware local assistant"
   },
   {
     "source": "lobsters",
@@ -106,13 +106,18 @@
   },
   {
     "source": "lobsters",
-    "url": "https://www.adamsolove.com/ui/ducking/2026/06/03/better-podcast-ui.html",
-    "title": "Designing a better podcast editor"
+    "url": "https://reproducible-builds.org/reports/2026-05/",
+    "title": "Reproducible Builds in May 2026"
   },
   {
     "source": "lobsters",
-    "url": "https://reproducible-builds.org/reports/2026-05/",
-    "title": "Reproducible Builds in May 2026"
+    "url": "https://drj11.wordpress.com/2007/04/09/learning-j-part-i/",
+    "title": "Learning J – Part I"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://www.adamsolove.com/ui/ducking/2026/06/03/better-podcast-ui.html",
+    "title": "Designing a better podcast editor"
   },
   {
     "source": "lobsters",
@@ -121,8 +126,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://drj11.wordpress.com/2007/04/09/learning-j-part-i/",
-    "title": "Learning J – Part I"
+    "url": "https://utcc.utoronto.ca/~cks/space/blog/unix/SuAsLoginReplacement",
+    "title": "When su replaced login for becoming another Unix login"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://lfg.popovicu.com/series/the-shell-as-a-language/terminal-tty-and-shell/",
+    "title": "The terminal, the TTY, and the shell"
   },
   {
     "source": "lobsters",
@@ -135,18 +145,98 @@
     "title": "Safe Made Easy Pt.1: Single Ownership is (Not) Optional"
   },
   {
-    "source": "lobsters",
-    "url": "https://motion.dev/magazine/collision-detection-in-hover-detection",
-    "title": "Crashing cars and improving hover detection"
+    "source": "pinboard",
+    "url": "https://blog.tjll.net/you-dont-love-systemd-timers-enough/",
+    "title": "systemd timers"
   },
   {
-    "source": "lobsters",
-    "url": "https://lfg.popovicu.com/series/the-shell-as-a-language/terminal-tty-and-shell/",
-    "title": "The terminal, the TTY, and the shell"
+    "source": "pinboard",
+    "url": "https://www.404media.co/hackers-simply-asked-meta-ai-to-give-them-access-to-high-profile-instagram-accounts-it-worked/",
+    "title": "[untitled]"
   },
   {
-    "source": "lobsters",
-    "url": "https://norswap.com/typescript-type-variable-inference/",
-    "title": "How TypeScript infers type variables"
+    "source": "pinboard",
+    "url": "https://isaiprofitable.com/",
+    "title": "Is AI Profitable Yet?"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://jasonzweig.com/three-ways-to-get-paid/",
+    "title": "Three Ways to Get Paid – Jason Zweig"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://cs336.stanford.edu/",
+    "title": "Stanford CS336 | Language Modeling from Scratch"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://point.free/blog/gemma-4-on-a-2016-xeon/",
+    "title": "A 10 year old Xeon is all you need - point.free"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://eblog.fly.dev/githubbad.html",
+    "title": "github and the crime against software"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://dan-webnotes.com/posts/2026-06-02-css-native-parallax-effect/",
+    "title": "Utils | CSS-native parallax effect"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://pxlnv.com/blog/metaverse-fever-dream/",
+    "title": "The Metaverse Fever Dream – Pixel Envy"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://blog.hopefullyuseful.com/blog/macos-needs-its-grid-back/",
+    "title": "macOS Needs Its Grid Back"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://brie.gay/cheese-paper/",
+    "title": "Cheese Paper"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://pandoc-templates.org/",
+    "title": "Pandoc Templates"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.0xsid.com/blog/meta-account-takeover-fiasco",
+    "title": "The Newest Instagram \"Exploit\" is the Goofiest I've Seen | Sid's Blog"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://coveillance.org/a-walking-tour-of-surveillance-infrastructure-in-seattle/",
+    "title": "A walking tour of surveillance infrastructure in Seattle | coveillance.org"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://sinclairtarget.com/blog/2026/06/01/quality-in-the-age-of-slop/",
+    "title": "Quality in the Age of Slop"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.brethorsting.com/blog/2026/05/domain-expertise-has-always-been-the-real-moat/",
+    "title": "Domain Expertise Has Always Been the Real Moat | Aaron Brethorst"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://ianthehenry.com/posts/why-janet/",
+    "title": "Why Janet?"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.theatlantic.com/philosophy/2026/06/no-artificial-intelligence-is-not-conscious/687378/",
+    "title": "No, Artificial Intelligence Is Not Conscious by Ted Chiang (The Atlantic, 6/3/2026)"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.404media.co/companies-are-using-reddit-to-manipulate-chatgpt-and-google-ai-search/",
+    "title": "Companies Are Using Reddit to Manipulate ChatGPT and Google AI Search"
   }
 ]
