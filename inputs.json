@@ -1,8 +1,8 @@
 [
   {
     "source": "hn",
-    "url": "https://alexispurslane.github.io/rsync-analysis/",
-    "title": "Did Claude Increase Bugs in Rsync?"
+    "url": "https://mouseless.click",
+    "title": "Mouseless – keyboard-driven control of macOS/Linux/Windows"
   },
   {
     "source": "hn",
@@ -16,13 +16,18 @@
   },
   {
     "source": "hn",
+    "url": "https://passo.uno/fine-tuning-docs-llm/",
+    "title": "Fine-tuning an LLM to write docs like it's 1995"
+  },
+  {
+    "source": "hn",
     "url": "https://nango.dev/careers",
     "title": "Nango (YC W23, dev infra) is hiring staff back end engineers"
   },
   {
     "source": "hn",
-    "url": "https://passo.uno/fine-tuning-docs-llm/",
-    "title": "Fine-tuning an LLM to write docs like it's 1995"
+    "url": "https://blog.plover.com/2026/03/09/#documentation-wins-2",
+    "title": "Programmers will document for Claude, but not for each other"
   },
   {
     "source": "hn",
@@ -31,18 +36,13 @@
   },
   {
     "source": "hn",
-    "url": "https://mouseless.click",
-    "title": "Mouseless – keyboard-driven control of macOS/Linux/Windows"
+    "url": "https://blog.rubygems.org/2026/06/03/cooldown-let-new-gems-be-vetted.html",
+    "title": "Cooldown Support for Ruby Bundler"
   },
   {
     "source": "hn",
     "url": "https://emalliab.wordpress.com/2026/05/26/watching-a-z80-from-an-rp2350/",
     "title": "Watching a Z80 from an RP2350"
-  },
-  {
-    "source": "hn",
-    "url": "https://mitxela.com/projects/wifi_time",
-    "title": "WiFi Time"
   },
   {
     "source": "hn",
@@ -55,9 +55,9 @@
     "title": "SpaceX, Other Mega IPOs Denied Fast Index Entry by S&P"
   },
   {
-    "source": "lobsters",
-    "url": "https://xeiaso.net/notes/2026/ipv6-zones-go-url/",
-    "title": "IPv6 zones in URLs are a mistake"
+    "source": "hn",
+    "url": "https://blog.djnavarro.net/posts/2025-09-14_cosine-palettes/",
+    "title": "Linear Cosine Palettes(2025)"
   },
   {
     "source": "lobsters",
@@ -66,13 +66,18 @@
   },
   {
     "source": "lobsters",
-    "url": "https://burntsushi.net/encephalitis/",
-    "title": "burntsushi discusses personal medical diagnosis"
+    "url": "https://xeiaso.net/notes/2026/ipv6-zones-go-url/",
+    "title": "IPv6 zones in URLs are a mistake"
   },
   {
     "source": "lobsters",
-    "url": "https://drj11.wordpress.com/2007/04/09/learning-j-part-i/",
-    "title": "Learning J – Part I"
+    "url": "https://lsc-pagepro.mydigitalpublication.com/publication/?i=865273&p=62&view=issueViewer",
+    "title": "The Empty Field That Wasn't: GPS Broadcasts a Numbers Station"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://burntsushi.net/encephalitis/",
+    "title": "burntsushi discusses personal medical diagnosis"
   },
   {
     "source": "lobsters",
@@ -81,8 +86,18 @@
   },
   {
     "source": "lobsters",
+    "url": "https://marcinzukowski.github.io/pivco-huffman/paper-1.0/ph.html",
+    "title": "PivCo-Huffman"
+  },
+  {
+    "source": "lobsters",
     "url": "https://reproducible-builds.org/reports/2026-05/",
     "title": "Reproducible Builds in May 2026"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://drj11.wordpress.com/2007/04/09/learning-j-part-i/",
+    "title": "Learning J – Part I"
   },
   {
     "source": "lobsters",
@@ -91,13 +106,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://hamishcampbell.com/the-eus-tech-sovereignty-plan/",
-    "title": "The EU tech sovereignty plan"
+    "url": "https://doscienceto.it/extension-or-imitation/",
+    "title": "Extension or Imitation? Can you tell the valid Haskell Language Extensions, from the Impostors?"
   },
   {
     "source": "lobsters",
-    "url": "https://blog.waleson.com/2026/05/navigating-fog-of-war-age-of-empires-ai.html",
-    "title": "Navigating the Fog of War: Age of Empires, AI Agents, and the Rise of Dark Code"
+    "url": "https://hamishcampbell.com/the-eus-tech-sovereignty-plan/",
+    "title": "The EU tech sovereignty plan"
   },
   {
     "source": "lobsters",
@@ -106,13 +121,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://momentsingraphics.de/Siggraph2026.html",
-    "title": "Gaussian Point Splatting"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://connglli.github.io/pdfs/reify_pldi26.pdf",
-    "title": "Semantic Reification: A new paradigm for random program generation"
+    "url": "https://blog.waleson.com/2026/05/navigating-fog-of-war-age-of-empires-ai.html",
+    "title": "Navigating the Fog of War: Age of Empires, AI Agents, and the Rise of Dark Code"
   },
   {
     "source": "pinboard",
