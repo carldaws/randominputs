@@ -1,6 +1,11 @@
 [
   {
     "source": "hn",
+    "url": "https://alexispurslane.github.io/rsync-analysis/",
+    "title": "Did Claude Increase Bugs in Rsync?"
+  },
+  {
+    "source": "hn",
     "url": "https://ladybird.org/posts/changing-how-we-develop-ladybird/",
     "title": "Changing How We Develop Ladybird"
   },
@@ -8,6 +13,11 @@
     "source": "hn",
     "url": "https://columnar.tech/blog/introducing-databow//",
     "title": "databow: a Rust CLI to query any database with an ADBC driver"
+  },
+  {
+    "source": "hn",
+    "url": "https://nango.dev/careers",
+    "title": "Nango (YC W23, dev infra) is hiring staff back end engineers"
   },
   {
     "source": "hn",
@@ -21,8 +31,8 @@
   },
   {
     "source": "hn",
-    "url": "https://www.historytoday.com/archive/feature/lee-kuan-yews-singapore-story",
-    "title": "Lee Kuan Yew's Singapore Story"
+    "url": "https://mouseless.click",
+    "title": "Mouseless – keyboard-driven control of macOS/Linux/Windows"
   },
   {
     "source": "hn",
@@ -45,26 +55,6 @@
     "title": "SpaceX, Other Mega IPOs Denied Fast Index Entry by S&P"
   },
   {
-    "source": "hn",
-    "url": "https://blog.djnavarro.net/posts/2025-09-14_cosine-palettes/",
-    "title": "Linear Cosine Palettes(2025)"
-  },
-  {
-    "source": "hn",
-    "url": "https://blog.safia.rocks/2025/12/22/ansi-codes/",
-    "title": "There's no escaping it: an exploration of ANSI codes"
-  },
-  {
-    "source": "hn",
-    "url": "https://magenta.withgoogle.com/magenta-realtime-2",
-    "title": "Magenta RealTime 2: Open and Local Live Music Models"
-  },
-  {
-    "source": "hn",
-    "url": "https://worksinprogress.co/issue/samurai-city/",
-    "title": "Samurai City"
-  },
-  {
     "source": "lobsters",
     "url": "https://xeiaso.net/notes/2026/ipv6-zones-go-url/",
     "title": "IPv6 zones in URLs are a mistake"
@@ -78,16 +68,6 @@
     "source": "lobsters",
     "url": "https://burntsushi.net/encephalitis/",
     "title": "burntsushi discusses personal medical diagnosis"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://doscienceto.it/extension-or-imitation/",
-    "title": "Extension or Imitation? Can you tell the valid Haskell Language Extensions, from the Impostors?"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://kristoff.it/blog/north-star/",
-    "title": "My Software North Star"
   },
   {
     "source": "lobsters",
@@ -106,8 +86,23 @@
   },
   {
     "source": "lobsters",
+    "url": "https://kristoff.it/blog/north-star/",
+    "title": "My Software North Star"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://hamishcampbell.com/the-eus-tech-sovereignty-plan/",
+    "title": "The EU tech sovereignty plan"
+  },
+  {
+    "source": "lobsters",
     "url": "https://blog.waleson.com/2026/05/navigating-fog-of-war-age-of-empires-ai.html",
     "title": "Navigating the Fog of War: Age of Empires, AI Agents, and the Rise of Dark Code"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://lfg.popovicu.com/series/the-shell-as-a-language/terminal-tty-and-shell/",
+    "title": "The terminal, the TTY, and the shell"
   },
   {
     "source": "lobsters",
@@ -116,13 +111,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://elixir-lang.org/blog/2026/06/03/elixir-v1-20-0-released/",
-    "title": "Elixir v1.20 released: now a gradually typed language"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://www.adamsolove.com/ui/ducking/2026/06/03/better-podcast-ui.html",
-    "title": "Designing a better podcast editor"
+    "url": "https://connglli.github.io/pdfs/reify_pldi26.pdf",
+    "title": "Semantic Reification: A new paradigm for random program generation"
   },
   {
     "source": "pinboard",
@@ -193,6 +183,11 @@
     "source": "pinboard",
     "url": "https://www.404media.co/companies-are-using-reddit-to-manipulate-chatgpt-and-google-ai-search/",
     "title": "Companies Are Using Reddit to Manipulate ChatGPT and Google AI Search"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://worksinprogress.co/issue/samurai-city/",
+    "title": "Samurai city - Works in Progress Magazine"
   },
   {
     "source": "pinboard",
