@@ -1,13 +1,13 @@
 [
   {
     "source": "hn",
-    "url": "https://mouseless.click",
-    "title": "Mouseless – keyboard-driven control of macOS/Linux/Windows"
+    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/quantization-aware-training-gemma-4/",
+    "title": "Gemma 4 QAT models: Optimizing compression for mobile and laptop efficiency"
   },
   {
     "source": "hn",
-    "url": "https://blog.rubygems.org/2026/06/03/cooldown-let-new-gems-be-vetted.html",
-    "title": "Cooldown Support for Ruby Bundler"
+    "url": "https://mouseless.click",
+    "title": "Mouseless – keyboard-driven control of macOS/Linux/Windows"
   },
   {
     "source": "hn",
@@ -16,8 +16,8 @@
   },
   {
     "source": "hn",
-    "url": "https://sumnerevans.com/posts/software-engineering/stop-using-conventional-commits/",
-    "title": "Stop Using Conventional Commits"
+    "url": "https://blog.rubygems.org/2026/06/03/cooldown-let-new-gems-be-vetted.html",
+    "title": "Cooldown Support for Ruby Bundler"
   },
   {
     "source": "hn",
@@ -31,13 +31,18 @@
   },
   {
     "source": "hn",
-    "url": "https://www.404media.co/the-u-s-military-quietly-turned-gps-into-a-global-numbers-station-evidence-suggests/",
-    "title": "U.S. Military Turned GPS into a Global \"Numbers Station\""
+    "url": "https://nango.dev/careers",
+    "title": "Nango (YC W23, dev infra) is hiring staff back end engineers"
   },
   {
     "source": "hn",
-    "url": "https://nango.dev/careers",
-    "title": "Nango (YC W23, dev infra) is hiring staff back end engineers"
+    "url": "https://www.theregister.com/public-sector/2026/06/04/govuk-goes-dutch-on-payments-as-it-dumps-stripe/5250763",
+    "title": "Gov.uk goes Dutch on payments as it dumps Stripe"
+  },
+  {
+    "source": "hn",
+    "url": "https://sumnerevans.com/posts/software-engineering/stop-using-conventional-commits/",
+    "title": "Stop Using Conventional Commits"
   },
   {
     "source": "hn",
@@ -56,13 +61,13 @@
   },
   {
     "source": "hn",
-    "url": "https://columnar.tech/blog/introducing-databow//",
-    "title": "databow: a Rust CLI to query any database with an ADBC driver"
+    "url": "https://www.404media.co/the-u-s-military-quietly-turned-gps-into-a-global-numbers-station-evidence-suggests/",
+    "title": "U.S. Military Turned GPS into a Global \"Numbers Station\""
   },
   {
     "source": "hn",
-    "url": "https://blog.plover.com/2026/03/09/#documentation-wins-2",
-    "title": "Programmers will document for Claude, but not for each other"
+    "url": "https://columnar.tech/blog/introducing-databow//",
+    "title": "databow: a Rust CLI to query any database with an ADBC driver"
   },
   {
     "source": "lobsters",
@@ -71,23 +76,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://xeiaso.net/notes/2026/ipv6-zones-go-url/",
-    "title": "IPv6 zones in URLs are a mistake"
-  },
-  {
-    "source": "lobsters",
     "url": "https://lsc-pagepro.mydigitalpublication.com/publication/?i=865273&p=62&view=issueViewer",
     "title": "The Empty Field That Wasn't: GPS Broadcasts a Numbers Station"
   },
   {
     "source": "lobsters",
-    "url": "https://marcinzukowski.github.io/pivco-huffman/paper-1.0/ph.html",
-    "title": "PivCo-Huffman"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://tiki.li/blog/blqsort",
-    "title": "Branchless Quicksort"
+    "url": "https://xeiaso.net/notes/2026/ipv6-zones-go-url/",
+    "title": "IPv6 zones in URLs are a mistake"
   },
   {
     "source": "lobsters",
@@ -96,8 +91,23 @@
   },
   {
     "source": "lobsters",
+    "url": "https://marcinzukowski.github.io/pivco-huffman/paper-1.0/ph.html",
+    "title": "PivCo-Huffman"
+  },
+  {
+    "source": "lobsters",
     "url": "https://utcc.utoronto.ca/~cks/space/blog/unix/SuAsLoginReplacement",
     "title": "When su replaced login for becoming another Unix login"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://tiki.li/blog/blqsort",
+    "title": "Branchless Quicksort"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://symbolica.io/posts/symbolica_2_0_release/",
+    "title": "Symbolica 2.0: programmable symbols for Python and Rust"
   },
   {
     "source": "lobsters",
@@ -121,97 +131,7 @@
   },
   {
     "source": "lobsters",
-    "url": "https://doscienceto.it/extension-or-imitation/",
-    "title": "Extension or Imitation? Can you tell the valid Haskell Language Extensions, from the Impostors?"
-  },
-  {
-    "source": "lobsters",
     "url": "https://kristoff.it/blog/north-star/",
     "title": "My Software North Star"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://blog.tjll.net/you-dont-love-systemd-timers-enough/",
-    "title": "systemd timers"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://isaiprofitable.com/",
-    "title": "Is AI Profitable Yet?"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://jasonzweig.com/three-ways-to-get-paid/",
-    "title": "Three Ways to Get Paid – Jason Zweig"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.theatlantic.com/philosophy/2026/06/no-artificial-intelligence-is-not-conscious/687378/",
-    "title": "No, Artificial Intelligence Is Not Conscious by Ted Chiang (The Atlantic, 6/3/2026)"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.fieggen.com/shoelace/secureknot.htm",
-    "title": "Ian's Shoelace Site - Ian's Secure Shoelace Knot"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://dan-webnotes.com/posts/2026-06-02-css-native-parallax-effect/",
-    "title": "Utils | CSS-native parallax effect"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://maxleiter.com/blog/weights",
-    "title": "They're Made Out of Weights"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.404media.co/hackers-simply-asked-meta-ai-to-give-them-access-to-high-profile-instagram-accounts-it-worked/",
-    "title": "[untitled]"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.theatlantic.com/philosophy/2026/06/no-artificial-intelligence-is-not-conscious/687378/?gift=R2zbWGNBDp_xHqoa7Q8ZRp-EV6jGaHiamQBxQQlMJqI",
-    "title": "No, Artificial Intelligence Is Not Conscious - The Atlantic"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://sinclairtarget.com/blog/2026/06/01/quality-in-the-age-of-slop/",
-    "title": "Quality in the Age of Slop"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemma-4-12b/",
-    "title": "Introducing Gemma 4 12B"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://ianthehenry.com/posts/why-janet/",
-    "title": "Why Janet?"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://blog.hopefullyuseful.com/blog/macos-needs-its-grid-back/",
-    "title": "macOS Needs Its Grid Back"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.404media.co/companies-are-using-reddit-to-manipulate-chatgpt-and-google-ai-search/",
-    "title": "Companies Are Using Reddit to Manipulate ChatGPT and Google AI Search"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://worksinprogress.co/issue/samurai-city/",
-    "title": "Samurai city - Works in Progress Magazine"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://pandoc-templates.org/",
-    "title": "Pandoc Templates"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://eyeball.rory.codes/",
-    "title": "eyeball"
   }
 ]
