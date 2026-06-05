@@ -6,6 +6,11 @@
   },
   {
     "source": "hn",
+    "url": "https://sumnerevans.com/posts/software-engineering/stop-using-conventional-commits/",
+    "title": "Conventional Commits encourages focus on the wrong things"
+  },
+  {
+    "source": "hn",
     "url": "https://mouseless.click",
     "title": "Mouseless – keyboard-driven control of macOS/Linux/Windows"
   },
@@ -21,18 +26,13 @@
   },
   {
     "source": "hn",
-    "url": "https://herbsutter.com/2026/06/04/c-the-documentary-released-today/",
-    "title": "C++: The Documentary"
+    "url": "https://www.saturnci.com/my-agent-skill-for-test-driven-development.html",
+    "title": "My Agent Skill for Test-Driven Development"
   },
   {
     "source": "hn",
-    "url": "https://ladybird.org/posts/changing-how-we-develop-ladybird/",
-    "title": "Changing how we develop Ladybird"
-  },
-  {
-    "source": "hn",
-    "url": "https://nango.dev/careers",
-    "title": "Nango (YC W23, dev infra) is hiring staff back end engineers"
+    "url": "https://sakana.ai/rsi-lab/",
+    "title": "Sakana AI's Recursive Self-Improvement (RSI) Lab"
   },
   {
     "source": "hn",
@@ -41,33 +41,33 @@
   },
   {
     "source": "hn",
-    "url": "https://sumnerevans.com/posts/software-engineering/stop-using-conventional-commits/",
-    "title": "Stop Using Conventional Commits"
+    "url": "https://www.flyingpenguin.com/cloudflare-ceo-is-lying-to-you-about-the-bot-traffic-jump/",
+    "title": "Cloudflare CEO Is Lying to You About the Bot Traffic Jump"
   },
   {
     "source": "hn",
-    "url": "https://passo.uno/fine-tuning-docs-llm/",
-    "title": "Fine-tuning an LLM to write docs like it's 1995"
+    "url": "https://alexispurslane.github.io/rsync-analysis/",
+    "title": "Did Claude increase bugs in rsync?"
   },
   {
     "source": "hn",
-    "url": "https://www.historytoday.com/archive/feature/lee-kuan-yews-singapore-story",
-    "title": "Lee Kuan Yew's Singapore Story (2023)"
+    "url": "https://nango.dev/careers",
+    "title": "Nango (YC W23, dev infra) is hiring staff back end engineers"
   },
   {
     "source": "hn",
-    "url": "https://www.boxofcables.dev/azure-linux-4-0-is-microsofts-first-general-purpose-linux/",
-    "title": "Azure Linux 4.0 is Microsoft's first general-purpose Linux"
+    "url": "https://arnorhs.dev/posts/2026-06-04/maybe-later-was-a-feature/",
+    "title": "\"Maybe later\" was a feature"
   },
   {
     "source": "hn",
-    "url": "https://www.404media.co/the-u-s-military-quietly-turned-gps-into-a-global-numbers-station-evidence-suggests/",
-    "title": "U.S. Military Turned GPS into a Global \"Numbers Station\""
+    "url": "https://herbsutter.com/2026/06/04/c-the-documentary-released-today/",
+    "title": "C++: The Documentary"
   },
   {
     "source": "hn",
-    "url": "https://columnar.tech/blog/introducing-databow//",
-    "title": "databow: a Rust CLI to query any database with an ADBC driver"
+    "url": "https://ladybird.org/posts/changing-how-we-develop-ladybird/",
+    "title": "Changing how we develop Ladybird"
   },
   {
     "source": "lobsters",
@@ -81,13 +81,18 @@
   },
   {
     "source": "lobsters",
+    "url": "https://polyformproject.org/licenses",
+    "title": "PolyForm Licenses"
+  },
+  {
+    "source": "lobsters",
     "url": "https://xeiaso.net/notes/2026/ipv6-zones-go-url/",
     "title": "IPv6 zones in URLs are a mistake"
   },
   {
     "source": "lobsters",
-    "url": "https://polyformproject.org/licenses",
-    "title": "PolyForm Licenses"
+    "url": "https://bxt.rs/blog/using-fedora-silverblue-for-compositor-development/",
+    "title": "Using Fedora Silverblue for Compositor Development"
   },
   {
     "source": "lobsters",
@@ -121,17 +126,17 @@
   },
   {
     "source": "lobsters",
-    "url": "https://reproducible-builds.org/reports/2026-05/",
-    "title": "Reproducible Builds in May 2026"
-  },
-  {
-    "source": "lobsters",
     "url": "https://hamishcampbell.com/the-eus-tech-sovereignty-plan/",
     "title": "The EU tech sovereignty plan"
   },
   {
     "source": "lobsters",
-    "url": "https://kristoff.it/blog/north-star/",
-    "title": "My Software North Star"
+    "url": "https://reproducible-builds.org/reports/2026-05/",
+    "title": "Reproducible Builds in May 2026"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://supabase.com/blog/multigres-v0-1-alpha",
+    "title": "Multigres v0.1 Alpha: an operating system for Postgres"
   }
 ]
