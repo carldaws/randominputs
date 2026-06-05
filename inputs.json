@@ -1,11 +1,6 @@
 [
   {
     "source": "hn",
-    "url": "https://xeiaso.net/notes/2026/ipv6-zones-go-url/",
-    "title": "IPv6 zones in URLs are a mistake"
-  },
-  {
-    "source": "hn",
     "url": "https://blog.cloudflare.com/voidzero-joins-cloudflare/",
     "title": "VoidZero Is Joining Cloudflare"
   },
@@ -16,13 +11,13 @@
   },
   {
     "source": "hn",
-    "url": "https://www.fieggen.com/shoelace/secureknot.htm",
-    "title": "Ian's Secure Shoelace Knot"
+    "url": "https://xeiaso.net/notes/2026/ipv6-zones-go-url/",
+    "title": "IPv6 zones in URLs are a mistake"
   },
   {
     "source": "hn",
-    "url": "https://castor.web.cern.ch/content/home.html",
-    "title": "Castor: CERN Advanced STORage Manager"
+    "url": "https://www.fieggen.com/shoelace/secureknot.htm",
+    "title": "Ian's Secure Shoelace Knot"
   },
   {
     "source": "hn",
@@ -31,8 +26,13 @@
   },
   {
     "source": "hn",
-    "url": "https://danielmangum.com/posts/jlink-jtag-pinecil/",
-    "title": "JLink JTAG Access on the Pinecil"
+    "url": "https://www.xtremesystems.us/post/external-clock-generation-on-rtx-50-series",
+    "title": "External Clock Generation on RTX 50 Series"
+  },
+  {
+    "source": "hn",
+    "url": "https://castor.web.cern.ch/content/home.html",
+    "title": "Castor: CERN Advanced STORage Manager"
   },
   {
     "source": "hn",
@@ -41,18 +41,23 @@
   },
   {
     "source": "hn",
+    "url": "https://danielmangum.com/posts/jlink-jtag-pinecil/",
+    "title": "JLink JTAG Access on the Pinecil"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.buchodi.com/meta-glasses-facial-recognition/",
+    "title": "Meta's ships facial recognition on smart glasses"
+  },
+  {
+    "source": "hn",
     "url": "https://sigwait.org/~alex/blog/2026/05/28/smdBC8.html",
     "title": "Making Debian or Fedora persistent live images"
   },
   {
     "source": "hn",
-    "url": "https://www.bloomberg.com/graphics/2026-energy-transition-iran-war/",
-    "title": "Iran Shock Jolts Asia and Europe to Speed Up Energy Transition"
-  },
-  {
-    "source": "hn",
-    "url": "https://hitoku.me/draft/",
-    "title": "Show HN: Hitoku Draft – Context aware local assistant"
+    "url": "https://www.boxofcables.dev/wsl2-per-device-swiotlb-pools-for-virtiofs-and-virtioproxy/",
+    "title": "WSL 2 is getting faster Windows file system access"
   },
   {
     "source": "hn",
@@ -61,13 +66,13 @@
   },
   {
     "source": "hn",
-    "url": "https://www.erdosproblems.com/forum/thread/blog:6",
-    "title": "Sum-product, unit distances, and number fields"
+    "url": "https://hitoku.me/draft/",
+    "title": "Show HN: Hitoku Draft – Context aware local assistant"
   },
   {
     "source": "hn",
-    "url": "https://www.buchodi.com/meta-glasses-facial-recognition/",
-    "title": "Meta's ships facial recognition on smart glasses"
+    "url": "https://www.erdosproblems.com/forum/thread/blog:6",
+    "title": "Sum-product, unit distances, and number fields"
   },
   {
     "source": "hn",
@@ -86,6 +91,11 @@
   },
   {
     "source": "lobsters",
+    "url": "https://doscienceto.it/extension-or-imitation/",
+    "title": "Extension or Imitation? Can you tell the valid Haskell Language Extensions, from the Impostors?"
+  },
+  {
+    "source": "lobsters",
     "url": "https://kristoff.it/blog/north-star/",
     "title": "My Software North Star"
   },
@@ -101,13 +111,18 @@
   },
   {
     "source": "lobsters",
+    "url": "https://reproducible-builds.org/reports/2026-05/",
+    "title": "Reproducible Builds in May 2026"
+  },
+  {
+    "source": "lobsters",
     "url": "https://www.dotfurry.org/",
     "title": ".furry - A Top-Level Domain for furries"
   },
   {
     "source": "lobsters",
-    "url": "https://reproducible-builds.org/reports/2026-05/",
-    "title": "Reproducible Builds in May 2026"
+    "url": "https://drj11.wordpress.com/2007/04/09/learning-j-part-i/",
+    "title": "Learning J – Part I"
   },
   {
     "source": "lobsters",
@@ -133,10 +148,5 @@
     "source": "lobsters",
     "url": "https://norswap.com/typescript-type-variable-inference/",
     "title": "How TypeScript infers type variables"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://blog.brownplt.org/2026/05/22/spytial.html",
-    "title": "Diagramming Program Values by Spatial Refinement"
   }
 ]
