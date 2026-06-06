@@ -1,8 +1,23 @@
 [
   {
     "source": "hn",
+    "url": "https://blog.includesecurity.com/2026/06/the-smart-tv-in-your-livingroom-is-a-node-in-the-aiscraping-economy/",
+    "title": "The Smart TV in Your LivingRoom Is a Node in the AIScraping Economy"
+  },
+  {
+    "source": "hn",
     "url": "https://www.0xkato.xyz/how-llms-actually-work/",
     "title": "How LLMs work"
+  },
+  {
+    "source": "hn",
+    "url": "https://microsoft.github.io/RustTraining/python-book/",
+    "title": "Introduction – Rust for Python Programmers"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.martiehaselton.com/_files/ugd/3ae410_aeb76edab75f457aae0c14c4c68d93c0.pdf",
+    "title": "Do Women's Mate Preferences Change Across the Ovulatory Cycle? A Meta-Analysis [pdf]"
   },
   {
     "source": "hn",
@@ -16,6 +31,16 @@
   },
   {
     "source": "hn",
+    "url": "https://hise.dev",
+    "title": "HISE – Toolkit for building VST plugins"
+  },
+  {
+    "source": "hn",
+    "url": "https://alexispurslane.github.io/rsync-analysis/",
+    "title": "Did Claude increase bugs in rsync?"
+  },
+  {
+    "source": "hn",
     "url": "https://www.computesdk.com/blog/scale-invitational-update/",
     "title": "What 100k concurrent sandboxes has taught us so far"
   },
@@ -26,33 +51,18 @@
   },
   {
     "source": "hn",
-    "url": "https://alexispurslane.github.io/rsync-analysis/",
-    "title": "Did Claude increase bugs in rsync?"
-  },
-  {
-    "source": "hn",
     "url": "https://mouseless.click",
     "title": "Mouseless – keyboard-driven control of macOS/Linux/Windows"
   },
   {
     "source": "hn",
-    "url": "https://blog.includesecurity.com/2026/06/the-smart-tv-in-your-livingroom-is-a-node-in-the-aiscraping-economy/",
-    "title": "The Smart TV in Your LivingRoom Is a Node in the AIScraping Economy"
+    "url": "https://www.boxofcables.dev/azure-linux-desktop-a-build-2026-mashup-of-wslc-winui-reactor-and-azure-linux-4-0/",
+    "title": "Azure Linux Desktop"
   },
   {
     "source": "hn",
     "url": "https://meetfranz.com/blog/ten-years-of-franz",
     "title": "Ten Years of Franz"
-  },
-  {
-    "source": "hn",
-    "url": "https://andeplane.github.io/Raytracing/",
-    "title": "Raytracing Geometries in 3D Rendering"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.boxofcables.dev/azure-linux-desktop-a-build-2026-mashup-of-wslc-winui-reactor-and-azure-linux-4-0/",
-    "title": "Azure Linux Desktop"
   },
   {
     "source": "hn",
@@ -65,19 +75,9 @@
     "title": "Gov.uk has replaced Stripe with Dutch provider Adyen"
   },
   {
-    "source": "hn",
+    "source": "lobsters",
     "url": "https://sumnerevans.com/posts/software-engineering/stop-using-conventional-commits/",
-    "title": "Conventional Commits encourages focus on the wrong things"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.benthamsgaze.org/2026/06/02/the-quiet-numbers-station-decoding-nineteen-years-of-gps-cryptography/",
-    "title": "The Quiet Numbers Station: Decoding Nineteen Years of GPS Cryptography"
-  },
-  {
-    "source": "hn",
-    "url": "https://andersmurphy.com/2026/06/05/the-perils-of-uuid-primary-keys-in-sqlite.html",
-    "title": "The perils of UUID primary keys in SQLite"
+    "title": "Stop Using Conventional Commits"
   },
   {
     "source": "lobsters",
@@ -93,6 +93,11 @@
     "source": "lobsters",
     "url": "https://ladybird.org/posts/changing-how-we-develop-ladybird/",
     "title": "Changing How We Develop Ladybird"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://andersmurphy.com/2026/06/05/the-perils-of-uuid-primary-keys-in-sqlite.html",
+    "title": "The perils of UUID primary keys in SQLite"
   },
   {
     "source": "lobsters",
@@ -133,11 +138,6 @@
     "source": "lobsters",
     "url": "https://tagide.com/blog/llm/the-anatomy-of-a-learning-stall/",
     "title": "The Anatomy of a Learning Stall"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://zml.ai/",
-    "title": "ZML: Model to Metal"
   },
   {
     "source": "pinboard",
