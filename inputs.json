@@ -1,18 +1,8 @@
 [
   {
     "source": "hn",
-    "url": "https://disassociated.com/microsoft-users-addicted-ai-personal-assistant/",
-    "title": "Microsoft wants users to be addicted to Scout, their AI personal assistant"
-  },
-  {
-    "source": "hn",
     "url": "https://blog.google/innovation-and-ai/technology/developers-tools/quantization-aware-training-gemma-4/",
     "title": "Gemma 4 QAT models: Optimizing compression for mobile and laptop efficiency"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.saturnci.com/my-agent-skill-for-test-driven-development.html",
-    "title": "My Agent Skill for Test-Driven Development"
   },
   {
     "source": "hn",
@@ -21,8 +11,8 @@
   },
   {
     "source": "hn",
-    "url": "https://www.theregister.com/public-sector/2026/06/04/govuk-goes-dutch-on-payments-as-it-dumps-stripe/5250763",
-    "title": "Gov.uk has replaced Stripe with Dutch provider Adyen"
+    "url": "https://www.saturnci.com/my-agent-skill-for-test-driven-development.html",
+    "title": "My Agent Skill for Test-Driven Development"
   },
   {
     "source": "hn",
@@ -31,13 +21,18 @@
   },
   {
     "source": "hn",
-    "url": "https://sumnerevans.com/posts/software-engineering/stop-using-conventional-commits/",
-    "title": "Conventional Commits encourages focus on the wrong things"
+    "url": "https://www.theregister.com/public-sector/2026/06/04/govuk-goes-dutch-on-payments-as-it-dumps-stripe/5250763",
+    "title": "Gov.uk has replaced Stripe with Dutch provider Adyen"
   },
   {
     "source": "hn",
-    "url": "https://arnorhs.dev/posts/2026-06-04/maybe-later-was-a-feature/",
-    "title": "\"Maybe later\" was a feature"
+    "url": "https://www.benthamsgaze.org/2026/06/02/the-quiet-numbers-station-decoding-nineteen-years-of-gps-cryptography/",
+    "title": "The Quiet Numbers Station: Decoding Nineteen Years of GPS Cryptography"
+  },
+  {
+    "source": "hn",
+    "url": "https://sumnerevans.com/posts/software-engineering/stop-using-conventional-commits/",
+    "title": "Conventional Commits encourages focus on the wrong things"
   },
   {
     "source": "hn",
@@ -46,13 +41,18 @@
   },
   {
     "source": "hn",
-    "url": "https://blog.rubygems.org/2026/06/03/cooldown-let-new-gems-be-vetted.html",
-    "title": "Cooldown Support for Ruby Bundler"
+    "url": "https://ldstephens.net/posts/aging-and-eye-problems/",
+    "title": "Aging and Eye Problems"
   },
   {
     "source": "hn",
-    "url": "https://lsc-pagepro.mydigitalpublication.com/publication/?i=865273&p=62&view=issueViewer",
-    "title": "The Empty Field That Wasn't: GPS, OTAD and Two Decades of Encrypted Broadcasts"
+    "url": "https://arnorhs.dev/posts/2026-06-04/maybe-later-was-a-feature/",
+    "title": "\"Maybe later\" was a feature"
+  },
+  {
+    "source": "hn",
+    "url": "https://blog.rubygems.org/2026/06/03/cooldown-let-new-gems-be-vetted.html",
+    "title": "Cooldown Support for Ruby Bundler"
   },
   {
     "source": "hn",
@@ -61,13 +61,8 @@
   },
   {
     "source": "hn",
-    "url": "https://ldstephens.net/posts/aging-and-eye-problems/",
-    "title": "Aging and Eye Problems"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.githubstatus.com/incidents/2nmfnbknhlnv",
-    "title": "Accidentally deleted subscriptions for chat integrations (Slack and MS Teams)"
+    "url": "https://andersmurphy.com/2026/06/05/the-perils-of-uuid-primary-keys-in-sqlite.html",
+    "title": "The perils of UUID primary keys in SQLite"
   },
   {
     "source": "hn",
@@ -76,18 +71,28 @@
   },
   {
     "source": "hn",
+    "url": "https://www.githubstatus.com/incidents/2nmfnbknhlnv",
+    "title": "Accidentally deleted subscriptions for chat integrations (Slack and MS Teams)"
+  },
+  {
+    "source": "hn",
+    "url": "https://ladybird.org/posts/changing-how-we-develop-ladybird/",
+    "title": "Changing how we develop Ladybird"
+  },
+  {
+    "source": "hn",
     "url": "https://nango.dev/careers",
     "title": "Nango (YC W23, dev infra) is hiring staff back end engineers"
   },
   {
     "source": "lobsters",
-    "url": "https://ladybird.org/posts/changing-how-we-develop-ladybird/",
-    "title": "Changing How We Develop Ladybird"
+    "url": "https://polyformproject.org/licenses",
+    "title": "PolyForm Licenses"
   },
   {
     "source": "lobsters",
-    "url": "https://polyformproject.org/licenses",
-    "title": "PolyForm Licenses"
+    "url": "https://lsc-pagepro.mydigitalpublication.com/publication/?i=865273&p=62&view=issueViewer",
+    "title": "The Empty Field That Wasn't: GPS Broadcasts a Numbers Station"
   },
   {
     "source": "lobsters",
@@ -116,6 +121,11 @@
   },
   {
     "source": "lobsters",
+    "url": "https://tagide.com/blog/llm/the-anatomy-of-a-learning-stall/",
+    "title": "The Anatomy of a Learning Stall"
+  },
+  {
+    "source": "lobsters",
     "url": "https://utcc.utoronto.ca/~cks/space/blog/unix/SuAsLoginReplacement",
     "title": "When su replaced login for becoming another Unix login"
   },
@@ -123,11 +133,6 @@
     "source": "lobsters",
     "url": "https://tiki.li/blog/blqsort",
     "title": "Branchless Quicksort"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://tagide.com/blog/llm/the-anatomy-of-a-learning-stall/",
-    "title": "The Anatomy of a Learning Stall"
   },
   {
     "source": "lobsters",
