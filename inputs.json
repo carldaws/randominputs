@@ -6,13 +6,18 @@
   },
   {
     "source": "hn",
-    "url": "https://su3.io/posts/introducing-zeroserve",
-    "title": "Zeroserve: A zero-config web server you can script with eBPF"
+    "url": "https://universalmemoryprotocol.io/",
+    "title": "Universal Memory Protocol – a shared format for agent memory"
   },
   {
     "source": "hn",
     "url": "https://this.weekinsecurity.com/meta-confirms-thousands-of-instagram-accounts-were-hacked-by-abusing-its-ai-chatbot/",
     "title": "Meta confirms 1000s of Instagram accounts were hacked by abusing its AI chatbot"
+  },
+  {
+    "source": "hn",
+    "url": "https://su3.io/posts/introducing-zeroserve",
+    "title": "Zeroserve: A zero-config web server you can script with eBPF"
   },
   {
     "source": "hn",
@@ -31,6 +36,11 @@
   },
   {
     "source": "hn",
+    "url": "https://www.eetimes.com/computex-2026-are-we-heading-for-the-agentic-pc-era-yet/",
+    "title": "Computex 2026: Are We Heading for the Agentic PC Era Yet? – EE Times"
+  },
+  {
+    "source": "hn",
     "url": "https://www.0xkato.xyz/how-llms-actually-work/",
     "title": "How LLMs work"
   },
@@ -41,13 +51,13 @@
   },
   {
     "source": "hn",
-    "url": "https://www.patrickstevens.co.uk/posts/2026-06-04-announcing-woofware-pawprint/",
-    "title": "WoofWare.PawPrint, a Deterministic .NET Runtime"
+    "url": "https://leimao.github.io/blog/PyTorch-Custom-Operation/",
+    "title": "PyTorch Custom Operation"
   },
   {
     "source": "hn",
-    "url": "https://engineering.taktile.com/blog/onnx-memory-usage-on-lambda/",
-    "title": "Lambda isn't leaking memory, your metrics are lying to you"
+    "url": "https://www.patrickstevens.co.uk/posts/2026-06-04-announcing-woofware-pawprint/",
+    "title": "WoofWare.PawPrint, a Deterministic .NET Runtime"
   },
   {
     "source": "hn",
@@ -63,16 +73,6 @@
     "source": "hn",
     "url": "https://salvagedcircuitry.com/sigma-45mm.html",
     "title": "The intracies of modern camera lens repair (2024)"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.todepond.com/lab/splash/",
-    "title": "Splash Is a Colour Format"
-  },
-  {
-    "source": "hn",
-    "url": "https://acoup.blog/2026/06/05/collections-pre-modern-armies-for-worldbuilders-part-i-why-they-fight/",
-    "title": "Pre-Modern Armies for Worldbuilders, Part I: Why They Fight"
   },
   {
     "source": "lobsters",
@@ -101,13 +101,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://alexispurslane.github.io/rsync-analysis/",
-    "title": "Did Claude Increase Bugs in rsync?"
+    "url": "https://haskellforall.com/2026/06/ergonomic-overrides-for-nixpkgs",
+    "title": "Ergonomic overrides for Nixpkgs"
   },
   {
     "source": "lobsters",
-    "url": "https://haskellforall.com/2026/06/ergonomic-overrides-for-nixpkgs",
-    "title": "Ergonomic overrides for Nixpkgs"
+    "url": "https://alexispurslane.github.io/rsync-analysis/",
+    "title": "Did Claude Increase Bugs in rsync?"
   },
   {
     "source": "lobsters",
@@ -138,16 +138,6 @@
     "source": "lobsters",
     "url": "https://bxt.rs/blog/using-fedora-silverblue-for-compositor-development/",
     "title": "Using Fedora Silverblue for Compositor Development"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://lsc-pagepro.mydigitalpublication.com/publication/?i=865273&p=62&view=issueViewer",
-    "title": "The Empty Field That Wasn't: GPS Broadcasts a Numbers Station"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://eli.thegreenplace.net/2014/07/29/ast-matchers-and-clang-refactoring-tools",
-    "title": "AST matchers and Clang refactoring tools (2014)"
   },
   {
     "source": "pinboard",
