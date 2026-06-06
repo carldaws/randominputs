@@ -1,8 +1,8 @@
 [
   {
     "source": "hn",
-    "url": "https://blog.includesecurity.com/2026/06/the-smart-tv-in-your-livingroom-is-a-node-in-the-aiscraping-economy/",
-    "title": "The Smart TV in Your LivingRoom Is a Node in the AIScraping Economy"
+    "url": "https://twitter.com/lemire/status/2062880075117113739",
+    "title": "Nvidia is proposing a beast of a CPU system for Windows PCs"
   },
   {
     "source": "hn",
@@ -11,18 +11,13 @@
   },
   {
     "source": "hn",
-    "url": "https://microsoft.github.io/RustTraining/python-book/",
-    "title": "Introduction – Rust for Python Programmers"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.martiehaselton.com/_files/ugd/3ae410_aeb76edab75f457aae0c14c4c68d93c0.pdf",
-    "title": "Do Women's Mate Preferences Change Across the Ovulatory Cycle? A Meta-Analysis [pdf]"
-  },
-  {
-    "source": "hn",
     "url": "https://salvagedcircuitry.com/sigma-45mm.html",
     "title": "The intracies of modern camera lens repair (2024)"
+  },
+  {
+    "source": "hn",
+    "url": "https://pokeemerald.com/",
+    "title": "Pokemon Emerald Ported to WebAssembly (100k FPS)"
   },
   {
     "source": "hn",
@@ -31,8 +26,8 @@
   },
   {
     "source": "hn",
-    "url": "https://hise.dev",
-    "title": "HISE – Toolkit for building VST plugins"
+    "url": "https://www.martiehaselton.com/_files/ugd/3ae410_aeb76edab75f457aae0c14c4c68d93c0.pdf",
+    "title": "Do women’s mate preferences change across the ovulatory cycle? (2014) [pdf]"
   },
   {
     "source": "hn",
@@ -41,18 +36,28 @@
   },
   {
     "source": "hn",
-    "url": "https://www.computesdk.com/blog/scale-invitational-update/",
-    "title": "What 100k concurrent sandboxes has taught us so far"
-  },
-  {
-    "source": "hn",
     "url": "https://blog.google/innovation-and-ai/technology/developers-tools/quantization-aware-training-gemma-4/",
     "title": "Gemma 4 QAT models: Optimizing compression for mobile and laptop efficiency"
   },
   {
     "source": "hn",
+    "url": "https://blog.includesecurity.com/2026/06/the-smart-tv-in-your-livingroom-is-a-node-in-the-aiscraping-economy/",
+    "title": "The Smart TV in Your LivingRoom Is a Node in the AIScraping Economy"
+  },
+  {
+    "source": "hn",
     "url": "https://mouseless.click",
     "title": "Mouseless – keyboard-driven control of macOS/Linux/Windows"
+  },
+  {
+    "source": "hn",
+    "url": "https://microsoft.github.io/RustTraining/python-book/",
+    "title": "Introduction – Rust for Python Programmers"
+  },
+  {
+    "source": "hn",
+    "url": "https://hise.dev",
+    "title": "HISE – Toolkit for building VST plugins"
   },
   {
     "source": "hn",
@@ -71,8 +76,18 @@
   },
   {
     "source": "hn",
+    "url": "https://www.wsj.com/tech/ai/meta-keeps-delaying-the-release-of-its-new-ai-model-to-developers-f8569c8c",
+    "title": "Meta Keeps Delaying the Release of Its New AI Model to Developers"
+  },
+  {
+    "source": "hn",
     "url": "https://www.theregister.com/public-sector/2026/06/04/govuk-goes-dutch-on-payments-as-it-dumps-stripe/5250763",
     "title": "Gov.uk has replaced Stripe with Dutch provider Adyen"
+  },
+  {
+    "source": "hn",
+    "url": "https://phys.org/news/2026-06-mathematician-origami-donut-efficiency-fewest.html",
+    "title": "Mathematician solves origami donut efficiency challenge with fewest folds"
   },
   {
     "source": "lobsters",
@@ -91,13 +106,18 @@
   },
   {
     "source": "lobsters",
+    "url": "https://andersmurphy.com/2026/06/05/the-perils-of-uuid-primary-keys-in-sqlite.html",
+    "title": "The perils of UUID primary keys in SQLite"
+  },
+  {
+    "source": "lobsters",
     "url": "https://ladybird.org/posts/changing-how-we-develop-ladybird/",
     "title": "Changing How We Develop Ladybird"
   },
   {
     "source": "lobsters",
-    "url": "https://andersmurphy.com/2026/06/05/the-perils-of-uuid-primary-keys-in-sqlite.html",
-    "title": "The perils of UUID primary keys in SQLite"
+    "url": "https://mijndertstuij.nl/posts/life-is-too-short-for-a-slow-terminal/",
+    "title": "Life is too short for a slow terminal"
   },
   {
     "source": "lobsters",
@@ -106,13 +126,18 @@
   },
   {
     "source": "lobsters",
+    "url": "https://bxt.rs/blog/using-fedora-silverblue-for-compositor-development/",
+    "title": "Using Fedora Silverblue for Compositor Development"
+  },
+  {
+    "source": "lobsters",
     "url": "https://lsc-pagepro.mydigitalpublication.com/publication/?i=865273&p=62&view=issueViewer",
     "title": "The Empty Field That Wasn't: GPS Broadcasts a Numbers Station"
   },
   {
     "source": "lobsters",
-    "url": "https://bxt.rs/blog/using-fedora-silverblue-for-compositor-development/",
-    "title": "Using Fedora Silverblue for Compositor Development"
+    "url": "https://tagide.com/blog/llm/the-anatomy-of-a-learning-stall/",
+    "title": "The Anatomy of a Learning Stall"
   },
   {
     "source": "lobsters",
@@ -128,85 +153,5 @@
     "source": "lobsters",
     "url": "https://xeiaso.net/notes/2026/ipv6-zones-go-url/",
     "title": "IPv6 zones in URLs are a mistake"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://marcinzukowski.github.io/pivco-huffman/paper-1.0/ph.html",
-    "title": "PivCo-Huffman"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://tagide.com/blog/llm/the-anatomy-of-a-learning-stall/",
-    "title": "The Anatomy of a Learning Stall"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.fieggen.com/shoelace/secureknot.htm",
-    "title": "Ian's Shoelace Site - Ian's Secure Shoelace Knot"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.theatlantic.com/philosophy/2026/06/no-artificial-intelligence-is-not-conscious/687378/",
-    "title": "No, Artificial Intelligence Is Not Conscious by Ted Chiang (The Atlantic, 6/3/2026)"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://maxleiter.com/blog/weights",
-    "title": "They're Made Out of Weights"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://worksinprogress.co/issue/samurai-city/",
-    "title": "Samurai city - Works in Progress Magazine"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.theatlantic.com/philosophy/2026/06/no-artificial-intelligence-is-not-conscious/687378/?gift=R2zbWGNBDp_xHqoa7Q8ZRp-EV6jGaHiamQBxQQlMJqI",
-    "title": "No, Artificial Intelligence Is Not Conscious - The Atlantic"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://passo.uno/fine-tuning-docs-llm/",
-    "title": "Fine-tuning an LLM to write docs like it's 1995 – Fabrizio Ferri Benedetti"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://isaiprofitable.com/",
-    "title": "Is AI Profitable Yet?"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.404media.co/companies-are-using-reddit-to-manipulate-chatgpt-and-google-ai-search/",
-    "title": "Companies Are Using Reddit to Manipulate ChatGPT and Google AI Search"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemma-4-12b/",
-    "title": "Introducing Gemma 4 12B"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://havenweb.org/2026/05/28/retro-tech.html",
-    "title": "Haven Blog: Retro-Tech Parenting"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://burntsushi.net/encephalitis/",
-    "title": "Encephalitis - Andrew Gallant's Blog"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://blog.tjll.net/you-dont-love-systemd-timers-enough/",
-    "title": "systemd timers"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://herbsutter.com/2026/06/04/c-the-documentary-released-today/",
-    "title": "C++: The Documentary released today – Sutter’s Mill"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://mouseless.click/",
-    "title": "mouseless"
   }
 ]
