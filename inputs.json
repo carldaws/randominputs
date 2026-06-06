@@ -16,18 +16,8 @@
   },
   {
     "source": "hn",
-    "url": "https://meetfranz.com/blog/ten-years-of-franz",
-    "title": "Ten Years of Franz"
-  },
-  {
-    "source": "hn",
     "url": "https://blog.google/innovation-and-ai/technology/developers-tools/quantization-aware-training-gemma-4/",
     "title": "Gemma 4 QAT models: Optimizing compression for mobile and laptop efficiency"
-  },
-  {
-    "source": "hn",
-    "url": "https://irfanali.org/blog/zcom",
-    "title": "No Let, No Rec, No Problem: A Gentler Introduction to the Y and Z Combinators"
   },
   {
     "source": "hn",
@@ -41,13 +31,18 @@
   },
   {
     "source": "hn",
-    "url": "https://www.saturnci.com/my-agent-skill-for-test-driven-development.html",
-    "title": "My Agent Skill for Test-Driven Development"
+    "url": "https://meetfranz.com/blog/ten-years-of-franz",
+    "title": "Ten Years of Franz"
   },
   {
     "source": "hn",
     "url": "https://andersmurphy.com/2026/06/05/the-perils-of-uuid-primary-keys-in-sqlite.html",
     "title": "The perils of UUID primary keys in SQLite"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.saturnci.com/my-agent-skill-for-test-driven-development.html",
+    "title": "My Agent Skill for Test-Driven Development"
   },
   {
     "source": "hn",
@@ -66,8 +61,8 @@
   },
   {
     "source": "hn",
-    "url": "https://phys.org/news/2026-05-europe-largest-copper-age-tomb.html",
-    "title": "Europe's largest Copper Age tomb: children's bones show ancient health crisis"
+    "url": "https://andeplane.github.io/Raytracing/",
+    "title": "Raytracing Geometries in 3D Rendering"
   },
   {
     "source": "hn",
@@ -75,19 +70,14 @@
     "title": "Three of our worst VC stories"
   },
   {
-    "source": "hn",
-    "url": "https://blog.rubygems.org/2026/06/03/cooldown-let-new-gems-be-vetted.html",
-    "title": "Cooldown Support for Ruby Bundler"
+    "source": "lobsters",
+    "url": "https://blog.weineng.me/posts/smallest_c/",
+    "title": "The smallest C binary"
   },
   {
     "source": "lobsters",
     "url": "https://ladybird.org/posts/changing-how-we-develop-ladybird/",
     "title": "Changing How We Develop Ladybird"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://blog.weineng.me/posts/smallest_c/",
-    "title": "The smallest C binary"
   },
   {
     "source": "lobsters",
@@ -138,10 +128,5 @@
     "source": "lobsters",
     "url": "https://tagide.com/blog/llm/the-anatomy-of-a-learning-stall/",
     "title": "The Anatomy of a Learning Stall"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://utcc.utoronto.ca/~cks/space/blog/unix/SuAsLoginReplacement",
-    "title": "When su replaced login for becoming another Unix login"
   }
 ]
