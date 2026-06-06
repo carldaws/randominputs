@@ -6,13 +6,13 @@
   },
   {
     "source": "hn",
-    "url": "https://www.learnix-os.com/ch02-03-implementing-the-bitfields-proc-macro.html",
-    "title": "Building Rust Procedural Macros from the Grounds Up"
+    "url": "https://pokeemerald.com/",
+    "title": "Pokemon Emerald Ported to WebAssembly (100k FPS)"
   },
   {
     "source": "hn",
-    "url": "https://pokeemerald.com/",
-    "title": "Pokemon Emerald Ported to WebAssembly (100k FPS)"
+    "url": "https://www.learnix-os.com/ch02-03-implementing-the-bitfields-proc-macro.html",
+    "title": "Building Rust Procedural Macros from the Grounds Up"
   },
   {
     "source": "hn",
@@ -21,13 +21,13 @@
   },
   {
     "source": "hn",
-    "url": "https://acoup.blog/2026/06/05/collections-pre-modern-armies-for-worldbuilders-part-i-why-they-fight/",
-    "title": "Pre-Modern Armies for Worldbuilders, Part I: Why They Fight"
+    "url": "https://www.boxofcables.dev/azure-linux-desktop-a-build-2026-mashup-of-wslc-winui-reactor-and-azure-linux-4-0/",
+    "title": "Azure Linux Desktop"
   },
   {
     "source": "hn",
-    "url": "https://www.boxofcables.dev/azure-linux-desktop-a-build-2026-mashup-of-wslc-winui-reactor-and-azure-linux-4-0/",
-    "title": "Azure Linux Desktop"
+    "url": "https://acoup.blog/2026/06/05/collections-pre-modern-armies-for-worldbuilders-part-i-why-they-fight/",
+    "title": "Pre-Modern Armies for Worldbuilders, Part I: Why They Fight"
   },
   {
     "source": "hn",
@@ -66,23 +66,18 @@
   },
   {
     "source": "hn",
-    "url": "https://www.theregister.com/public-sector/2026/06/04/govuk-goes-dutch-on-payments-as-it-dumps-stripe/5250763",
-    "title": "Gov.uk has replaced Stripe with Dutch provider Adyen"
-  },
-  {
-    "source": "hn",
     "url": "https://meetfranz.com/blog/ten-years-of-franz",
     "title": "Ten Years of Franz"
   },
   {
     "source": "hn",
-    "url": "https://sumnerevans.com/posts/software-engineering/stop-using-conventional-commits/",
-    "title": "Conventional Commits encourages focus on the wrong things"
+    "url": "https://www.theregister.com/public-sector/2026/06/04/govuk-goes-dutch-on-payments-as-it-dumps-stripe/5250763",
+    "title": "Gov.uk has replaced Stripe with Dutch provider Adyen"
   },
   {
-    "source": "hn",
-    "url": "https://microsoft.github.io/RustTraining/python-book/",
-    "title": "Introduction – Rust for Python Programmers"
+    "source": "lobsters",
+    "url": "https://sumnerevans.com/posts/software-engineering/stop-using-conventional-commits/",
+    "title": "Stop Using Conventional Commits"
   },
   {
     "source": "lobsters",
@@ -96,13 +91,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://andersmurphy.com/2026/06/05/the-perils-of-uuid-primary-keys-in-sqlite.html",
-    "title": "The perils of UUID primary keys in SQLite"
+    "url": "https://mijndertstuij.nl/posts/life-is-too-short-for-a-slow-terminal/",
+    "title": "Life is too short for a slow terminal"
   },
   {
     "source": "lobsters",
-    "url": "https://mijndertstuij.nl/posts/life-is-too-short-for-a-slow-terminal/",
-    "title": "Life is too short for a slow terminal"
+    "url": "https://andersmurphy.com/2026/06/05/the-perils-of-uuid-primary-keys-in-sqlite.html",
+    "title": "The perils of UUID primary keys in SQLite"
   },
   {
     "source": "lobsters",
@@ -121,8 +116,18 @@
   },
   {
     "source": "lobsters",
+    "url": "https://haskellforall.com/2026/06/ergonomic-overrides-for-nixpkgs",
+    "title": "Ergonomic overrides for Nixpkgs"
+  },
+  {
+    "source": "lobsters",
     "url": "https://lsc-pagepro.mydigitalpublication.com/publication/?i=865273&p=62&view=issueViewer",
     "title": "The Empty Field That Wasn't: GPS Broadcasts a Numbers Station"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://timothygu.me/urltester/",
+    "title": "URL Parser Tester"
   },
   {
     "source": "lobsters",
@@ -138,11 +143,6 @@
     "source": "lobsters",
     "url": "https://shaping.systems/blog/open-code-review/",
     "title": "Open Code Review"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://timothygu.me/urltester/",
-    "title": "URL Parser Tester"
   },
   {
     "source": "lobsters",
