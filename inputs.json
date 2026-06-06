@@ -26,18 +26,18 @@
   },
   {
     "source": "hn",
-    "url": "https://mouseless.click",
-    "title": "Mouseless – keyboard-driven control of macOS/Linux/Windows"
-  },
-  {
-    "source": "hn",
     "url": "https://meetfranz.com/blog/ten-years-of-franz",
     "title": "Ten Years of Franz"
   },
   {
     "source": "hn",
-    "url": "https://andersmurphy.com/2026/06/05/the-perils-of-uuid-primary-keys-in-sqlite.html",
-    "title": "The perils of UUID primary keys in SQLite"
+    "url": "https://mouseless.click",
+    "title": "Mouseless – keyboard-driven control of macOS/Linux/Windows"
+  },
+  {
+    "source": "hn",
+    "url": "https://andeplane.github.io/Raytracing/",
+    "title": "Raytracing Geometries in 3D Rendering"
   },
   {
     "source": "hn",
@@ -51,23 +51,28 @@
   },
   {
     "source": "hn",
+    "url": "https://www.boxofcables.dev/azure-linux-desktop-a-build-2026-mashup-of-wslc-winui-reactor-and-azure-linux-4-0/",
+    "title": "Azure Linux Desktop"
+  },
+  {
+    "source": "hn",
     "url": "https://sumnerevans.com/posts/software-engineering/stop-using-conventional-commits/",
     "title": "Conventional Commits encourages focus on the wrong things"
   },
   {
     "source": "hn",
+    "url": "https://fgiesen.wordpress.com/2024/11/06/exact-unorm8-to-float/",
+    "title": "Exact UNORM8 to Float"
+  },
+  {
+    "source": "hn",
+    "url": "https://andersmurphy.com/2026/06/05/the-perils-of-uuid-primary-keys-in-sqlite.html",
+    "title": "The perils of UUID primary keys in SQLite"
+  },
+  {
+    "source": "hn",
     "url": "https://www.benthamsgaze.org/2026/06/02/the-quiet-numbers-station-decoding-nineteen-years-of-gps-cryptography/",
     "title": "The Quiet Numbers Station: Decoding Nineteen Years of GPS Cryptography"
-  },
-  {
-    "source": "hn",
-    "url": "https://andeplane.github.io/Raytracing/",
-    "title": "Raytracing Geometries in 3D Rendering"
-  },
-  {
-    "source": "hn",
-    "url": "https://twitter.com/eastdakota/status/2062860530360959273",
-    "title": "Three of our worst VC stories"
   },
   {
     "source": "lobsters",
@@ -106,23 +111,23 @@
   },
   {
     "source": "lobsters",
-    "url": "https://xeiaso.net/notes/2026/ipv6-zones-go-url/",
-    "title": "IPv6 zones in URLs are a mistake"
-  },
-  {
-    "source": "lobsters",
     "url": "https://symbolica.io/posts/symbolica_2_0_release/",
     "title": "Symbolica 2.0: programmable symbols for Python and Rust"
   },
   {
     "source": "lobsters",
-    "url": "https://marcinzukowski.github.io/pivco-huffman/paper-1.0/ph.html",
-    "title": "PivCo-Huffman"
+    "url": "https://www.schneier.com/blog/archives/2026/06/ai-worm.html",
+    "title": "AI Worm"
   },
   {
     "source": "lobsters",
-    "url": "https://zml.ai/",
-    "title": "ZML: Model to Metal"
+    "url": "https://xeiaso.net/notes/2026/ipv6-zones-go-url/",
+    "title": "IPv6 zones in URLs are a mistake"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://marcinzukowski.github.io/pivco-huffman/paper-1.0/ph.html",
+    "title": "PivCo-Huffman"
   },
   {
     "source": "lobsters",
