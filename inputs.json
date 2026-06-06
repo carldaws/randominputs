@@ -16,8 +16,8 @@
   },
   {
     "source": "hn",
-    "url": "https://pokeemerald.com/",
-    "title": "Pokemon Emerald Ported to WebAssembly (100k FPS)"
+    "url": "https://www.patrickstevens.co.uk/posts/2026-06-04-announcing-woofware-pawprint/",
+    "title": "WoofWare.PawPrint, a Deterministic .NET Runtime"
   },
   {
     "source": "hn",
@@ -26,8 +26,23 @@
   },
   {
     "source": "hn",
+    "url": "https://uonr.github.io/poincake/",
+    "title": "Show HN: Infinite canvas notes in the non-Euclidean Poincaré disk"
+  },
+  {
+    "source": "hn",
+    "url": "https://pokeemerald.com/",
+    "title": "Pokemon Emerald Ported to WebAssembly (100k FPS)"
+  },
+  {
+    "source": "hn",
     "url": "https://simonwillison.net/2026/Jun/6/micropython-in-a-sandbox/",
     "title": "Running Python code in a sandbox with MicroPython and WASM"
+  },
+  {
+    "source": "hn",
+    "url": "https://this.weekinsecurity.com/meta-confirms-thousands-of-instagram-accounts-were-hacked-by-abusing-its-ai-chatbot/",
+    "title": "Meta confirms 1000s of Instagram accounts were hacked by abusing its AI chatbot"
   },
   {
     "source": "hn",
@@ -36,28 +51,18 @@
   },
   {
     "source": "hn",
-    "url": "https://salvagedcircuitry.com/sigma-45mm.html",
-    "title": "The intracies of modern camera lens repair (2024)"
-  },
-  {
-    "source": "hn",
     "url": "https://www.todepond.com/lab/splash/",
     "title": "Splash Is a Colour Format"
   },
   {
     "source": "hn",
-    "url": "https://uonr.github.io/poincake/",
-    "title": "Show HN: Infinite canvas notes in the non-Euclidean Poincaré disk"
+    "url": "https://salvagedcircuitry.com/sigma-45mm.html",
+    "title": "The intracies of modern camera lens repair (2024)"
   },
   {
     "source": "hn",
     "url": "https://acoup.blog/2026/06/05/collections-pre-modern-armies-for-worldbuilders-part-i-why-they-fight/",
     "title": "Pre-Modern Armies for Worldbuilders, Part I: Why They Fight"
-  },
-  {
-    "source": "hn",
-    "url": "https://andersmurphy.com/2026/06/05/the-perils-of-uuid-primary-keys-in-sqlite.html",
-    "title": "The perils of UUID primary keys in SQLite"
   },
   {
     "source": "lobsters",
@@ -71,8 +76,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://blog.weineng.me/posts/smallest_c/",
-    "title": "The smallest C++ binary"
+    "url": "https://andersmurphy.com/2026/06/05/the-perils-of-uuid-primary-keys-in-sqlite.html",
+    "title": "The perils of UUID primary keys in SQLite"
   },
   {
     "source": "lobsters",
@@ -81,18 +86,23 @@
   },
   {
     "source": "lobsters",
+    "url": "https://blog.weineng.me/posts/smallest_c/",
+    "title": "The smallest C++ binary"
+  },
+  {
+    "source": "lobsters",
     "url": "https://alexispurslane.github.io/rsync-analysis/",
     "title": "Did Claude Increase Bugs in rsync?"
   },
   {
     "source": "lobsters",
-    "url": "https://haskellforall.com/2026/06/ergonomic-overrides-for-nixpkgs",
-    "title": "Ergonomic overrides for Nixpkgs"
+    "url": "https://blog.includesecurity.com/2026/06/the-smart-tv-in-your-livingroom-is-a-node-in-the-aiscraping-economy/",
+    "title": "The Smart TV in Your LivingRoom Is a Node in the AIScraping Economy"
   },
   {
     "source": "lobsters",
-    "url": "https://blog.includesecurity.com/2026/06/the-smart-tv-in-your-livingroom-is-a-node-in-the-aiscraping-economy/",
-    "title": "The Smart TV in Your LivingRoom Is a Node in the AIScraping Economy"
+    "url": "https://haskellforall.com/2026/06/ergonomic-overrides-for-nixpkgs",
+    "title": "Ergonomic overrides for Nixpkgs"
   },
   {
     "source": "lobsters",
@@ -111,6 +121,11 @@
   },
   {
     "source": "lobsters",
+    "url": "https://rugu.dev/en/blog/littles-law/",
+    "title": "A Little Explanation of Little's Law"
+  },
+  {
+    "source": "lobsters",
     "url": "https://bxt.rs/blog/using-fedora-silverblue-for-compositor-development/",
     "title": "Using Fedora Silverblue for Compositor Development"
   },
@@ -120,23 +135,73 @@
     "title": "The Empty Field That Wasn't: GPS Broadcasts a Numbers Station"
   },
   {
-    "source": "lobsters",
-    "url": "https://tagide.com/blog/llm/the-anatomy-of-a-learning-stall/",
-    "title": "The Anatomy of a Learning Stall"
+    "source": "pinboard",
+    "url": "https://www.fieggen.com/shoelace/secureknot.htm",
+    "title": "Ian's Shoelace Site - Ian's Secure Shoelace Knot"
   },
   {
-    "source": "lobsters",
-    "url": "https://htmx.org/essays/code-is-cheap/",
-    "title": "Code is Cheap(er)"
+    "source": "pinboard",
+    "url": "https://www.theatlantic.com/philosophy/2026/06/no-artificial-intelligence-is-not-conscious/687378/",
+    "title": "No, Artificial Intelligence Is Not Conscious by Ted Chiang (The Atlantic, 6/3/2026)"
   },
   {
-    "source": "lobsters",
-    "url": "https://shaping.systems/blog/open-code-review/",
-    "title": "Open Code Review"
+    "source": "pinboard",
+    "url": "https://maxleiter.com/blog/weights",
+    "title": "They're Made Out of Weights"
   },
   {
-    "source": "lobsters",
-    "url": "https://symbolica.io/posts/symbolica_2_0_release/",
-    "title": "Symbolica 2.0: programmable symbols for Python and Rust"
+    "source": "pinboard",
+    "url": "https://worksinprogress.co/issue/samurai-city/",
+    "title": "Samurai city - Works in Progress Magazine"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.theatlantic.com/philosophy/2026/06/no-artificial-intelligence-is-not-conscious/687378/?gift=R2zbWGNBDp_xHqoa7Q8ZRp-EV6jGaHiamQBxQQlMJqI",
+    "title": "No, Artificial Intelligence Is Not Conscious - The Atlantic"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://passo.uno/fine-tuning-docs-llm/",
+    "title": "Fine-tuning an LLM to write docs like it's 1995 – Fabrizio Ferri Benedetti"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://isaiprofitable.com/",
+    "title": "Is AI Profitable Yet?"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.404media.co/companies-are-using-reddit-to-manipulate-chatgpt-and-google-ai-search/",
+    "title": "Companies Are Using Reddit to Manipulate ChatGPT and Google AI Search"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemma-4-12b/",
+    "title": "Introducing Gemma 4 12B"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://havenweb.org/2026/05/28/retro-tech.html",
+    "title": "Haven Blog: Retro-Tech Parenting"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://burntsushi.net/encephalitis/",
+    "title": "Encephalitis - Andrew Gallant's Blog"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://blog.tjll.net/you-dont-love-systemd-timers-enough/",
+    "title": "systemd timers"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://herbsutter.com/2026/06/04/c-the-documentary-released-today/",
+    "title": "C++: The Documentary released today – Sutter’s Mill"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://mouseless.click/",
+    "title": "mouseless"
   }
 ]
