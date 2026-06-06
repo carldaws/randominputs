@@ -1,13 +1,13 @@
 [
   {
     "source": "hn",
-    "url": "https://www.0xkato.xyz/how-llms-actually-work/",
-    "title": "How LLMs work"
+    "url": "https://twitter.com/lemire/status/2062880075117113739",
+    "title": "Nvidia is proposing a beast of a CPU system for Windows PCs"
   },
   {
     "source": "hn",
-    "url": "https://pokeemerald.com/",
-    "title": "Pokemon Emerald Ported to WebAssembly (100k FPS)"
+    "url": "https://www.0xkato.xyz/how-llms-actually-work/",
+    "title": "How LLMs work"
   },
   {
     "source": "hn",
@@ -16,8 +16,18 @@
   },
   {
     "source": "hn",
+    "url": "https://pokeemerald.com/",
+    "title": "Pokemon Emerald Ported to WebAssembly (100k FPS)"
+  },
+  {
+    "source": "hn",
     "url": "https://salvagedcircuitry.com/sigma-45mm.html",
     "title": "The intracies of modern camera lens repair (2024)"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.todepond.com/lab/splash/",
+    "title": "Splash Is a Colour Format"
   },
   {
     "source": "hn",
@@ -31,8 +41,8 @@
   },
   {
     "source": "hn",
-    "url": "https://alexispurslane.github.io/rsync-analysis/",
-    "title": "Did Claude increase bugs in rsync?"
+    "url": "https://andersmurphy.com/2026/06/05/the-perils-of-uuid-primary-keys-in-sqlite.html",
+    "title": "The perils of UUID primary keys in SQLite"
   },
   {
     "source": "hn",
@@ -46,33 +56,13 @@
   },
   {
     "source": "hn",
+    "url": "https://simonwillison.net/2026/Jun/6/micropython-in-a-sandbox/",
+    "title": "Running Python code in a sandbox with MicroPython and WASM"
+  },
+  {
+    "source": "hn",
     "url": "https://blog.includesecurity.com/2026/06/the-smart-tv-in-your-livingroom-is-a-node-in-the-aiscraping-economy/",
     "title": "The Smart TV in Your LivingRoom Is a Node in the AIScraping Economy"
-  },
-  {
-    "source": "hn",
-    "url": "https://hise.dev",
-    "title": "HISE – Toolkit for building VST plugins"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.wsj.com/tech/ai/meta-keeps-delaying-the-release-of-its-new-ai-model-to-developers-f8569c8c",
-    "title": "Meta Keeps Delaying the Release of Its New AI Model to Developers"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.saturnci.com/my-agent-skill-for-test-driven-development.html",
-    "title": "My Agent Skill for Test-Driven Development"
-  },
-  {
-    "source": "hn",
-    "url": "https://meetfranz.com/blog/ten-years-of-franz",
-    "title": "Ten Years of Franz"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.theregister.com/public-sector/2026/06/04/govuk-goes-dutch-on-payments-as-it-dumps-stripe/5250763",
-    "title": "Gov.uk has replaced Stripe with Dutch provider Adyen"
   },
   {
     "source": "lobsters",
@@ -81,8 +71,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://blog.weineng.me/posts/smallest_c/",
-    "title": "The smallest C binary"
+    "url": "https://mijndertstuij.nl/posts/life-is-too-short-for-a-slow-terminal/",
+    "title": "Life is too short for a slow terminal"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://alexispurslane.github.io/rsync-analysis/",
+    "title": "Did Claude Increase Bugs in rsync?"
   },
   {
     "source": "lobsters",
@@ -91,13 +86,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://mijndertstuij.nl/posts/life-is-too-short-for-a-slow-terminal/",
-    "title": "Life is too short for a slow terminal"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://andersmurphy.com/2026/06/05/the-perils-of-uuid-primary-keys-in-sqlite.html",
-    "title": "The perils of UUID primary keys in SQLite"
+    "url": "https://blog.weineng.me/posts/smallest_c/",
+    "title": "The smallest C binary"
   },
   {
     "source": "lobsters",
@@ -111,13 +101,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://bxt.rs/blog/using-fedora-silverblue-for-compositor-development/",
-    "title": "Using Fedora Silverblue for Compositor Development"
+    "url": "https://haskellforall.com/2026/06/ergonomic-overrides-for-nixpkgs",
+    "title": "Ergonomic overrides for Nixpkgs"
   },
   {
     "source": "lobsters",
-    "url": "https://haskellforall.com/2026/06/ergonomic-overrides-for-nixpkgs",
-    "title": "Ergonomic overrides for Nixpkgs"
+    "url": "https://bxt.rs/blog/using-fedora-silverblue-for-compositor-development/",
+    "title": "Using Fedora Silverblue for Compositor Development"
   },
   {
     "source": "lobsters",
