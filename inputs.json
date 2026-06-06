@@ -1,18 +1,13 @@
 [
   {
     "source": "hn",
-    "url": "https://twitter.com/lemire/status/2062880075117113739",
-    "title": "Nvidia is proposing a beast of a CPU system for Windows PCs"
-  },
-  {
-    "source": "hn",
     "url": "https://www.0xkato.xyz/how-llms-actually-work/",
     "title": "How LLMs work"
   },
   {
     "source": "hn",
-    "url": "https://salvagedcircuitry.com/sigma-45mm.html",
-    "title": "The intracies of modern camera lens repair (2024)"
+    "url": "https://www.learnix-os.com/ch02-03-implementing-the-bitfields-proc-macro.html",
+    "title": "Building Rust Procedural Macros from the Grounds Up"
   },
   {
     "source": "hn",
@@ -21,13 +16,18 @@
   },
   {
     "source": "hn",
+    "url": "https://salvagedcircuitry.com/sigma-45mm.html",
+    "title": "The intracies of modern camera lens repair (2024)"
+  },
+  {
+    "source": "hn",
     "url": "https://acoup.blog/2026/06/05/collections-pre-modern-armies-for-worldbuilders-part-i-why-they-fight/",
     "title": "Pre-Modern Armies for Worldbuilders, Part I: Why They Fight"
   },
   {
     "source": "hn",
-    "url": "https://www.martiehaselton.com/_files/ugd/3ae410_aeb76edab75f457aae0c14c4c68d93c0.pdf",
-    "title": "Do women’s mate preferences change across the ovulatory cycle? (2014) [pdf]"
+    "url": "https://www.boxofcables.dev/azure-linux-desktop-a-build-2026-mashup-of-wslc-winui-reactor-and-azure-linux-4-0/",
+    "title": "Azure Linux Desktop"
   },
   {
     "source": "hn",
@@ -41,18 +41,13 @@
   },
   {
     "source": "hn",
-    "url": "https://blog.includesecurity.com/2026/06/the-smart-tv-in-your-livingroom-is-a-node-in-the-aiscraping-economy/",
-    "title": "The Smart TV in Your LivingRoom Is a Node in the AIScraping Economy"
-  },
-  {
-    "source": "hn",
     "url": "https://mouseless.click",
     "title": "Mouseless – keyboard-driven control of macOS/Linux/Windows"
   },
   {
     "source": "hn",
-    "url": "https://microsoft.github.io/RustTraining/python-book/",
-    "title": "Introduction – Rust for Python Programmers"
+    "url": "https://blog.includesecurity.com/2026/06/the-smart-tv-in-your-livingroom-is-a-node-in-the-aiscraping-economy/",
+    "title": "The Smart TV in Your LivingRoom Is a Node in the AIScraping Economy"
   },
   {
     "source": "hn",
@@ -61,13 +56,8 @@
   },
   {
     "source": "hn",
-    "url": "https://www.boxofcables.dev/azure-linux-desktop-a-build-2026-mashup-of-wslc-winui-reactor-and-azure-linux-4-0/",
-    "title": "Azure Linux Desktop"
-  },
-  {
-    "source": "hn",
-    "url": "https://meetfranz.com/blog/ten-years-of-franz",
-    "title": "Ten Years of Franz"
+    "url": "https://www.wsj.com/tech/ai/meta-keeps-delaying-the-release-of-its-new-ai-model-to-developers-f8569c8c",
+    "title": "Meta Keeps Delaying the Release of Its New AI Model to Developers"
   },
   {
     "source": "hn",
@@ -76,23 +66,23 @@
   },
   {
     "source": "hn",
-    "url": "https://www.wsj.com/tech/ai/meta-keeps-delaying-the-release-of-its-new-ai-model-to-developers-f8569c8c",
-    "title": "Meta Keeps Delaying the Release of Its New AI Model to Developers"
-  },
-  {
-    "source": "hn",
     "url": "https://www.theregister.com/public-sector/2026/06/04/govuk-goes-dutch-on-payments-as-it-dumps-stripe/5250763",
     "title": "Gov.uk has replaced Stripe with Dutch provider Adyen"
   },
   {
     "source": "hn",
-    "url": "https://phys.org/news/2026-06-mathematician-origami-donut-efficiency-fewest.html",
-    "title": "Mathematician solves origami donut efficiency challenge with fewest folds"
+    "url": "https://meetfranz.com/blog/ten-years-of-franz",
+    "title": "Ten Years of Franz"
   },
   {
-    "source": "lobsters",
+    "source": "hn",
     "url": "https://sumnerevans.com/posts/software-engineering/stop-using-conventional-commits/",
-    "title": "Stop Using Conventional Commits"
+    "title": "Conventional Commits encourages focus on the wrong things"
+  },
+  {
+    "source": "hn",
+    "url": "https://microsoft.github.io/RustTraining/python-book/",
+    "title": "Introduction – Rust for Python Programmers"
   },
   {
     "source": "lobsters",
@@ -111,13 +101,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://ladybird.org/posts/changing-how-we-develop-ladybird/",
-    "title": "Changing How We Develop Ladybird"
+    "url": "https://mijndertstuij.nl/posts/life-is-too-short-for-a-slow-terminal/",
+    "title": "Life is too short for a slow terminal"
   },
   {
     "source": "lobsters",
-    "url": "https://mijndertstuij.nl/posts/life-is-too-short-for-a-slow-terminal/",
-    "title": "Life is too short for a slow terminal"
+    "url": "https://ladybird.org/posts/changing-how-we-develop-ladybird/",
+    "title": "Changing How We Develop Ladybird"
   },
   {
     "source": "lobsters",
@@ -146,12 +136,17 @@
   },
   {
     "source": "lobsters",
-    "url": "https://symbolica.io/posts/symbolica_2_0_release/",
-    "title": "Symbolica 2.0: programmable symbols for Python and Rust"
+    "url": "https://shaping.systems/blog/open-code-review/",
+    "title": "Open Code Review"
   },
   {
     "source": "lobsters",
-    "url": "https://xeiaso.net/notes/2026/ipv6-zones-go-url/",
-    "title": "IPv6 zones in URLs are a mistake"
+    "url": "https://timothygu.me/urltester/",
+    "title": "URL Parser Tester"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://symbolica.io/posts/symbolica_2_0_release/",
+    "title": "Symbolica 2.0: programmable symbols for Python and Rust"
   }
 ]
