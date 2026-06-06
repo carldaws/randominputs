@@ -11,6 +11,11 @@
   },
   {
     "source": "hn",
+    "url": "https://magazine.atavist.com/2026/mccann-cocaine-fugitives",
+    "title": "You Can Run"
+  },
+  {
+    "source": "hn",
     "url": "https://pokeemerald.com/",
     "title": "Pokemon Emerald Ported to WebAssembly (100k FPS)"
   },
@@ -36,23 +41,13 @@
   },
   {
     "source": "hn",
-    "url": "https://uonr.github.io/poincake/",
-    "title": "Show HN: Infinite canvas notes in the non-Euclidean Poincaré disk"
-  },
-  {
-    "source": "hn",
-    "url": "https://magazine.atavist.com/2026/mccann-cocaine-fugitives",
-    "title": "You Can Run"
-  },
-  {
-    "source": "hn",
     "url": "https://www.todepond.com/lab/splash/",
     "title": "Splash Is a Colour Format"
   },
   {
     "source": "hn",
-    "url": "https://andersmurphy.com/2026/06/05/the-perils-of-uuid-primary-keys-in-sqlite.html",
-    "title": "The perils of UUID primary keys in SQLite"
+    "url": "https://uonr.github.io/poincake/",
+    "title": "Show HN: Infinite canvas notes in the non-Euclidean Poincaré disk"
   },
   {
     "source": "hn",
@@ -61,8 +56,8 @@
   },
   {
     "source": "hn",
-    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/quantization-aware-training-gemma-4/",
-    "title": "Gemma 4 QAT models: Optimizing compression for mobile and laptop efficiency"
+    "url": "https://andersmurphy.com/2026/06/05/the-perils-of-uuid-primary-keys-in-sqlite.html",
+    "title": "The perils of UUID primary keys in SQLite"
   },
   {
     "source": "lobsters",
@@ -76,13 +71,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://trplfoundation.org/",
-    "title": "Total Reciprocity Public License"
+    "url": "https://blog.weineng.me/posts/smallest_c/",
+    "title": "The smallest C++ binary"
   },
   {
     "source": "lobsters",
-    "url": "https://blog.weineng.me/posts/smallest_c/",
-    "title": "The smallest C++ binary"
+    "url": "https://trplfoundation.org/",
+    "title": "Total Reciprocity Public License"
   },
   {
     "source": "lobsters",
@@ -101,13 +96,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://ladybird.org/posts/changing-how-we-develop-ladybird/",
-    "title": "Changing How We Develop Ladybird"
+    "url": "https://timothygu.me/urltester/",
+    "title": "URL Parser Tester"
   },
   {
     "source": "lobsters",
-    "url": "https://timothygu.me/urltester/",
-    "title": "URL Parser Tester"
+    "url": "https://ladybird.org/posts/changing-how-we-develop-ladybird/",
+    "title": "Changing How We Develop Ladybird"
   },
   {
     "source": "lobsters",
