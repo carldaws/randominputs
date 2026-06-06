@@ -6,13 +6,13 @@
   },
   {
     "source": "hn",
-    "url": "https://www.0xkato.xyz/how-llms-actually-work/",
-    "title": "How LLMs Work"
+    "url": "https://acoup.blog/2026/06/05/collections-pre-modern-armies-for-worldbuilders-part-i-why-they-fight/",
+    "title": "Pre-Modern Armies for Worldbuilders, Part I: Why They Fight"
   },
   {
     "source": "hn",
-    "url": "https://classic100.gotski.workers.dev/",
-    "title": "Show HN: ABC Classic 100 Rankings visualised"
+    "url": "https://www.0xkato.xyz/how-llms-actually-work/",
+    "title": "How LLMs work"
   },
   {
     "source": "hn",
@@ -31,23 +31,38 @@
   },
   {
     "source": "hn",
-    "url": "https://phys.org/news/2026-05-europe-largest-copper-age-tomb.html",
-    "title": "Europe's largest Copper Age tomb: children's bones show ancient health crisis"
-  },
-  {
-    "source": "hn",
     "url": "https://www.saturnci.com/my-agent-skill-for-test-driven-development.html",
     "title": "My Agent Skill for Test-Driven Development"
   },
   {
     "source": "hn",
-    "url": "https://www.benthamsgaze.org/2026/06/02/the-quiet-numbers-station-decoding-nineteen-years-of-gps-cryptography/",
-    "title": "The Quiet Numbers Station: Decoding Nineteen Years of GPS Cryptography"
+    "url": "https://classic100.gotski.workers.dev/",
+    "title": "Show HN: ABC Classic 100 Rankings visualised"
+  },
+  {
+    "source": "hn",
+    "url": "https://twitter.com/eastdakota/status/2062860530360959273",
+    "title": "Three of our worst VC stories"
+  },
+  {
+    "source": "hn",
+    "url": "https://andersmurphy.com/2026/06/05/the-perils-of-uuid-primary-keys-in-sqlite.html",
+    "title": "The perils of UUID primary keys in SQLite"
   },
   {
     "source": "hn",
     "url": "https://www.theregister.com/public-sector/2026/06/04/govuk-goes-dutch-on-payments-as-it-dumps-stripe/5250763",
     "title": "Gov.uk has replaced Stripe with Dutch provider Adyen"
+  },
+  {
+    "source": "hn",
+    "url": "https://phys.org/news/2026-05-europe-largest-copper-age-tomb.html",
+    "title": "Europe's largest Copper Age tomb: children's bones show ancient health crisis"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.benthamsgaze.org/2026/06/02/the-quiet-numbers-station-decoding-nineteen-years-of-gps-cryptography/",
+    "title": "The Quiet Numbers Station: Decoding Nineteen Years of GPS Cryptography"
   },
   {
     "source": "hn",
@@ -65,26 +80,6 @@
     "title": "I tested every IP KVM in my Homelab"
   },
   {
-    "source": "hn",
-    "url": "https://arnorhs.dev/posts/2026-06-04/maybe-later-was-a-feature/",
-    "title": "\"Maybe later\" was a feature"
-  },
-  {
-    "source": "hn",
-    "url": "https://ldstephens.net/posts/aging-and-eye-problems/",
-    "title": "Aging and Eye Problems"
-  },
-  {
-    "source": "hn",
-    "url": "https://herbsutter.com/2026/06/04/c-the-documentary-released-today/",
-    "title": "C++: The Documentary"
-  },
-  {
-    "source": "hn",
-    "url": "https://andersmurphy.com/2026/06/05/the-perils-of-uuid-primary-keys-in-sqlite.html",
-    "title": "The perils of UUID primary keys in SQLite"
-  },
-  {
     "source": "lobsters",
     "url": "https://ladybird.org/posts/changing-how-we-develop-ladybird/",
     "title": "Changing How We Develop Ladybird"
@@ -96,8 +91,18 @@
   },
   {
     "source": "lobsters",
+    "url": "https://blog.weineng.me/posts/smallest_c/",
+    "title": "The smallest C binary"
+  },
+  {
+    "source": "lobsters",
     "url": "https://lsc-pagepro.mydigitalpublication.com/publication/?i=865273&p=62&view=issueViewer",
     "title": "The Empty Field That Wasn't: GPS Broadcasts a Numbers Station"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://trplfoundation.org/",
+    "title": "Total Reciprocity Public License"
   },
   {
     "source": "lobsters",
@@ -116,11 +121,6 @@
   },
   {
     "source": "lobsters",
-    "url": "https://blog.weineng.me/posts/smallest_c/",
-    "title": "The smallest C binary"
-  },
-  {
-    "source": "lobsters",
     "url": "https://symbolica.io/posts/symbolica_2_0_release/",
     "title": "Symbolica 2.0: programmable symbols for Python and Rust"
   },
@@ -131,17 +131,107 @@
   },
   {
     "source": "lobsters",
-    "url": "https://utcc.utoronto.ca/~cks/space/blog/unix/SuAsLoginReplacement",
-    "title": "When su replaced login for becoming another Unix login"
-  },
-  {
-    "source": "lobsters",
     "url": "https://tagide.com/blog/llm/the-anatomy-of-a-learning-stall/",
     "title": "The Anatomy of a Learning Stall"
   },
   {
     "source": "lobsters",
+    "url": "https://zml.ai/",
+    "title": "ZML: Model to Metal"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://utcc.utoronto.ca/~cks/space/blog/unix/SuAsLoginReplacement",
+    "title": "When su replaced login for becoming another Unix login"
+  },
+  {
+    "source": "lobsters",
     "url": "https://tiki.li/blog/blqsort",
     "title": "Branchless Quicksort"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://blog.tjll.net/you-dont-love-systemd-timers-enough/",
+    "title": "systemd timers"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://isaiprofitable.com/",
+    "title": "Is AI Profitable Yet?"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://jasonzweig.com/three-ways-to-get-paid/",
+    "title": "Three Ways to Get Paid – Jason Zweig"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.theatlantic.com/philosophy/2026/06/no-artificial-intelligence-is-not-conscious/687378/",
+    "title": "No, Artificial Intelligence Is Not Conscious by Ted Chiang (The Atlantic, 6/3/2026)"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.fieggen.com/shoelace/secureknot.htm",
+    "title": "Ian's Shoelace Site - Ian's Secure Shoelace Knot"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://dan-webnotes.com/posts/2026-06-02-css-native-parallax-effect/",
+    "title": "Utils | CSS-native parallax effect"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://maxleiter.com/blog/weights",
+    "title": "They're Made Out of Weights"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.404media.co/hackers-simply-asked-meta-ai-to-give-them-access-to-high-profile-instagram-accounts-it-worked/",
+    "title": "[untitled]"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.theatlantic.com/philosophy/2026/06/no-artificial-intelligence-is-not-conscious/687378/?gift=R2zbWGNBDp_xHqoa7Q8ZRp-EV6jGaHiamQBxQQlMJqI",
+    "title": "No, Artificial Intelligence Is Not Conscious - The Atlantic"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://sinclairtarget.com/blog/2026/06/01/quality-in-the-age-of-slop/",
+    "title": "Quality in the Age of Slop"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemma-4-12b/",
+    "title": "Introducing Gemma 4 12B"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://ianthehenry.com/posts/why-janet/",
+    "title": "Why Janet?"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://blog.hopefullyuseful.com/blog/macos-needs-its-grid-back/",
+    "title": "macOS Needs Its Grid Back"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.404media.co/companies-are-using-reddit-to-manipulate-chatgpt-and-google-ai-search/",
+    "title": "Companies Are Using Reddit to Manipulate ChatGPT and Google AI Search"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://worksinprogress.co/issue/samurai-city/",
+    "title": "Samurai city - Works in Progress Magazine"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://pandoc-templates.org/",
+    "title": "Pandoc Templates"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://eyeball.rory.codes/",
+    "title": "eyeball"
   }
 ]
