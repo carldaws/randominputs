@@ -11,11 +11,6 @@
   },
   {
     "source": "hn",
-    "url": "https://universalmemoryprotocol.io/",
-    "title": "Universal Memory Protocol – a shared format for agent memory"
-  },
-  {
-    "source": "hn",
     "url": "https://su3.io/posts/introducing-zeroserve",
     "title": "Zeroserve: A zero-config web server you can script with eBPF"
   },
@@ -26,18 +21,28 @@
   },
   {
     "source": "hn",
-    "url": "https://www.eetimes.com/computex-2026-are-we-heading-for-the-agentic-pc-era-yet/",
-    "title": "Computex 2026: Are We Heading for the Agentic PC Era Yet? – EE Times"
-  },
-  {
-    "source": "hn",
     "url": "https://magazine.atavist.com/2026/mccann-cocaine-fugitives",
     "title": "You Can Run"
   },
   {
     "source": "hn",
-    "url": "https://uonr.github.io/poincake/",
-    "title": "Show HN: Infinite canvas notes in the non-Euclidean Poincaré disk"
+    "url": "https://www.randalolson.com/2026/06/04/recent-grad-unemployment-flip/",
+    "title": "New U.S. college grads now have higher unemployment than the average worker"
+  },
+  {
+    "source": "hn",
+    "url": "https://signoregalilei.com/2026/05/24/what-columbus-used-instead-of-the-north-star/",
+    "title": "What Columbus used instead of the North Star"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.eetimes.com/computex-2026-are-we-heading-for-the-agentic-pc-era-yet/",
+    "title": "Computex 2026: Are We Heading for the Agentic PC Era Yet?"
+  },
+  {
+    "source": "hn",
+    "url": "https://ataraxy-labs.github.io/sem/",
+    "title": "Sem: New primitive for code understanding – not LSPs, but entities on top of Git"
   },
   {
     "source": "hn",
@@ -51,8 +56,13 @@
   },
   {
     "source": "hn",
-    "url": "https://www.randalolson.com/2026/06/04/recent-grad-unemployment-flip/",
-    "title": "New U.S. college grads now have higher unemployment than the average worker"
+    "url": "https://uonr.github.io/poincake/",
+    "title": "Show HN: Infinite canvas notes in the non-Euclidean Poincaré disk"
+  },
+  {
+    "source": "hn",
+    "url": "https://jacobin.com/2026/06/birth-rates-capitalism-socialism-germany",
+    "title": "No Babies? Blame Capitalism"
   },
   {
     "source": "hn",
@@ -66,13 +76,8 @@
   },
   {
     "source": "hn",
-    "url": "https://back.engineering/blog/09/05/2026/",
-    "title": "Static Devirtualization of Themida"
-  },
-  {
-    "source": "hn",
-    "url": "https://ataraxy-labs.github.io/sem/",
-    "title": "Sem: New primitive for code understanding – not LSPs, but entities on top of Git"
+    "url": "https://mashable.com/tech/motorola-wifi-routers-stop-working-motosync-plus-app-down",
+    "title": "Motorola effectively bricked its entire line of WiFi routers without explanation"
   },
   {
     "source": "hn",
@@ -83,6 +88,11 @@
     "source": "hn",
     "url": "https://salvagedcircuitry.com/sigma-45mm.html",
     "title": "The intracies of modern camera lens repair (2024)"
+  },
+  {
+    "source": "hn",
+    "url": "https://back.engineering/blog/09/05/2026/",
+    "title": "Static Devirtualization of Themida"
   },
   {
     "source": "lobsters",
@@ -106,23 +116,23 @@
   },
   {
     "source": "lobsters",
-    "url": "https://blog.weineng.me/posts/smallest_c/",
-    "title": "The smallest C++ binary"
-  },
-  {
-    "source": "lobsters",
     "url": "https://blog.includesecurity.com/2026/06/the-smart-tv-in-your-livingroom-is-a-node-in-the-aiscraping-economy/",
     "title": "The Smart TV in Your LivingRoom Is a Node in the AIScraping Economy"
   },
   {
     "source": "lobsters",
-    "url": "https://alexispurslane.github.io/rsync-analysis/",
-    "title": "Did Claude Increase Bugs in rsync?"
+    "url": "https://haskellforall.com/2026/06/ergonomic-overrides-for-nixpkgs",
+    "title": "Ergonomic overrides for Nixpkgs"
   },
   {
     "source": "lobsters",
-    "url": "https://haskellforall.com/2026/06/ergonomic-overrides-for-nixpkgs",
-    "title": "Ergonomic overrides for Nixpkgs"
+    "url": "https://blog.weineng.me/posts/smallest_c/",
+    "title": "The smallest C++ binary"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://alexispurslane.github.io/rsync-analysis/",
+    "title": "Did Claude Increase Bugs in rsync?"
   },
   {
     "source": "lobsters",
@@ -143,11 +153,6 @@
     "source": "lobsters",
     "url": "https://polyformproject.org/licenses",
     "title": "PolyForm Licenses"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://bxt.rs/blog/using-fedora-silverblue-for-compositor-development/",
-    "title": "Using Fedora Silverblue for Compositor Development"
   },
   {
     "source": "pinboard",
