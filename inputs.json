@@ -1,8 +1,18 @@
 [
   {
     "source": "hn",
+    "url": "https://ntsc.rs/",
+    "title": "Ntsc-rs – open-source video emulation of analog TV and VHS artifacts"
+  },
+  {
+    "source": "hn",
     "url": "https://su3.io/posts/introducing-zeroserve",
     "title": "Zeroserve: A zero-config web server you can script with eBPF"
+  },
+  {
+    "source": "hn",
+    "url": "https://this.weekinsecurity.com/meta-confirms-thousands-of-instagram-accounts-were-hacked-by-abusing-its-ai-chatbot/",
+    "title": "Meta confirms 1000s of Instagram accounts were hacked by abusing its AI chatbot"
   },
   {
     "source": "hn",
@@ -16,8 +26,8 @@
   },
   {
     "source": "hn",
-    "url": "https://www.patrickstevens.co.uk/posts/2026-06-04-announcing-woofware-pawprint/",
-    "title": "WoofWare.PawPrint, a Deterministic .NET Runtime"
+    "url": "https://uonr.github.io/poincake/",
+    "title": "Show HN: Infinite canvas notes in the non-Euclidean Poincaré disk"
   },
   {
     "source": "hn",
@@ -26,13 +36,18 @@
   },
   {
     "source": "hn",
-    "url": "https://uonr.github.io/poincake/",
-    "title": "Show HN: Infinite canvas notes in the non-Euclidean Poincaré disk"
+    "url": "https://pokeemerald.com/",
+    "title": "Pokemon Emerald Ported to WebAssembly (100k FPS)"
   },
   {
     "source": "hn",
-    "url": "https://pokeemerald.com/",
-    "title": "Pokemon Emerald Ported to WebAssembly (100k FPS)"
+    "url": "https://www.patrickstevens.co.uk/posts/2026-06-04-announcing-woofware-pawprint/",
+    "title": "WoofWare.PawPrint, a Deterministic .NET Runtime"
+  },
+  {
+    "source": "hn",
+    "url": "https://engineering.taktile.com/blog/onnx-memory-usage-on-lambda/",
+    "title": "Lambda isn't leaking memory, your metrics are lying to you"
   },
   {
     "source": "hn",
@@ -41,23 +56,18 @@
   },
   {
     "source": "hn",
-    "url": "https://this.weekinsecurity.com/meta-confirms-thousands-of-instagram-accounts-were-hacked-by-abusing-its-ai-chatbot/",
-    "title": "Meta confirms 1000s of Instagram accounts were hacked by abusing its AI chatbot"
-  },
-  {
-    "source": "hn",
     "url": "https://www.learnix-os.com/ch02-03-implementing-the-bitfields-proc-macro.html",
     "title": "Building Rust Procedural Macros from the Grounds Up"
   },
   {
     "source": "hn",
-    "url": "https://www.todepond.com/lab/splash/",
-    "title": "Splash Is a Colour Format"
+    "url": "https://salvagedcircuitry.com/sigma-45mm.html",
+    "title": "The intracies of modern camera lens repair (2024)"
   },
   {
     "source": "hn",
-    "url": "https://salvagedcircuitry.com/sigma-45mm.html",
-    "title": "The intracies of modern camera lens repair (2024)"
+    "url": "https://www.todepond.com/lab/splash/",
+    "title": "Splash Is a Colour Format"
   },
   {
     "source": "hn",
@@ -96,13 +106,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://blog.includesecurity.com/2026/06/the-smart-tv-in-your-livingroom-is-a-node-in-the-aiscraping-economy/",
-    "title": "The Smart TV in Your LivingRoom Is a Node in the AIScraping Economy"
+    "url": "https://haskellforall.com/2026/06/ergonomic-overrides-for-nixpkgs",
+    "title": "Ergonomic overrides for Nixpkgs"
   },
   {
     "source": "lobsters",
-    "url": "https://haskellforall.com/2026/06/ergonomic-overrides-for-nixpkgs",
-    "title": "Ergonomic overrides for Nixpkgs"
+    "url": "https://blog.includesecurity.com/2026/06/the-smart-tv-in-your-livingroom-is-a-node-in-the-aiscraping-economy/",
+    "title": "The Smart TV in Your LivingRoom Is a Node in the AIScraping Economy"
   },
   {
     "source": "lobsters",
@@ -116,13 +126,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://polyformproject.org/licenses",
-    "title": "PolyForm Licenses"
+    "url": "https://rugu.dev/en/blog/littles-law/",
+    "title": "A Little Explanation of Little's Law"
   },
   {
     "source": "lobsters",
-    "url": "https://rugu.dev/en/blog/littles-law/",
-    "title": "A Little Explanation of Little's Law"
+    "url": "https://polyformproject.org/licenses",
+    "title": "PolyForm Licenses"
   },
   {
     "source": "lobsters",
@@ -133,6 +143,11 @@
     "source": "lobsters",
     "url": "https://lsc-pagepro.mydigitalpublication.com/publication/?i=865273&p=62&view=issueViewer",
     "title": "The Empty Field That Wasn't: GPS Broadcasts a Numbers Station"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://eli.thegreenplace.net/2014/07/29/ast-matchers-and-clang-refactoring-tools",
+    "title": "AST matchers and Clang refactoring tools (2014)"
   },
   {
     "source": "pinboard",
