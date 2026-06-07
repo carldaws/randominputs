@@ -1,13 +1,18 @@
 [
   {
     "source": "hn",
+    "url": "https://performance.dev/how-is-linear-so-fast-a-technical-breakdown",
+    "title": "How's Linear so fast? A technical breakdown"
+  },
+  {
+    "source": "hn",
     "url": "https://gavinray97.github.io/blog/building-from-zero-after-addiction-prison-felony",
     "title": "Building from zero after addiction, prison, and a felony"
   },
   {
     "source": "hn",
-    "url": "https://performance.dev/how-is-linear-so-fast-a-technical-breakdown",
-    "title": "How's Linear so fast? A technical breakdown"
+    "url": "https://www.absurdlyoptimized.com/recipes/pancakes/",
+    "title": "Show HN: I Derived a Pancake"
   },
   {
     "source": "hn",
@@ -26,8 +31,8 @@
   },
   {
     "source": "hn",
-    "url": "https://timesofsandiego.com/crime/2026/06/07/a-flock-license-plate-reader-linked-a-san-diego-man-to-a-violent-crime-he-was-five-miles-away/",
-    "title": "Flock license plate reader wrongly linked a San Diego man to a violent crime"
+    "url": "https://human-in-the-loop.bearblog.dev/llms-are-eroding-my-software-engineering-career-and-i-dont-know-what-to-do/",
+    "title": "LLMs are eroding my software engineering career and I don't know what to do"
   },
   {
     "source": "hn",
@@ -41,8 +46,23 @@
   },
   {
     "source": "hn",
-    "url": "https://signoregalilei.com/2026/05/31/youll-never-guess-who-made-the-first-wireless-telephone/",
-    "title": "You'll never guess who made the first wireless telephone"
+    "url": "https://www.tohoku.ac.jp/japanese/2026/05/press20260512-02-DMR.html",
+    "title": "A Fundamental Principle of Aeronautical Engineering Has Been Overturned"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.todepond.com/lab/splash/",
+    "title": "Splash Is a Colour Format"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.radioworld.com/news-and-business/headlines/an-ohio-valley-100000-watt-fm-signal-is-severed-in-broad-daylight",
+    "title": "An Ohio Valley 100k-watt FM signal is severed in broad daylight"
+  },
+  {
+    "source": "hn",
+    "url": "https://blog.janestreet.com/i-design-with-claude-code-more-than-figma-now-index/",
+    "title": "I design with Claude more than Figma now"
   },
   {
     "source": "hn",
@@ -51,18 +71,8 @@
   },
   {
     "source": "hn",
-    "url": "https://theamphour.com/725-the-secret-life-of-circuits-with-lcamtuf-michal-zalewski/",
-    "title": "The Secret Life of Circuits with lcamtuf / Michał Zalewski (Audio Interview)"
-  },
-  {
-    "source": "hn",
-    "url": "https://blog.safia.rocks/2025/12/22/ansi-codes/",
-    "title": "There's no escaping it: an exploration of ANSI codes"
-  },
-  {
-    "source": "hn",
-    "url": "https://fergusfinn.com/blog/kv-entropy-coder/",
-    "title": "Speculative KV coding: losslessly compressing KV cache by up to ~4×"
+    "url": "https://nlkw.de/en/blog/getting-fried-part-1-cogentiv/",
+    "title": "The week I lost the plot at a startup where the tools worked as advertised"
   },
   {
     "source": "lobsters",
@@ -76,6 +86,11 @@
   },
   {
     "source": "lobsters",
+    "url": "https://servo.org/blog/2026/05/31/april-in-servo/",
+    "title": "April in Servo: new Android UI, focus, forms, security fixes, and more"
+  },
+  {
+    "source": "lobsters",
     "url": "https://fzakaria.com/2026/06/05/the-guix-nix-abomination-leveraging-guix-derivations-in-nix",
     "title": "The Guix Nix Abomination: Leveraging Guix derivations in Nix"
   },
@@ -86,6 +101,11 @@
   },
   {
     "source": "lobsters",
+    "url": "https://0xkato.xyz/how-llms-actually-work/",
+    "title": "How LLMs Actually Work"
+  },
+  {
+    "source": "lobsters",
     "url": "https://mijndertstuij.nl/posts/life-is-too-short-for-a-slow-terminal/",
     "title": "Life is too short for a slow terminal"
   },
@@ -93,11 +113,6 @@
     "source": "lobsters",
     "url": "https://arch.dog/bark/entropy",
     "title": "Entropy"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://0xkato.xyz/how-llms-actually-work/",
-    "title": "How LLMs Actually Work"
   },
   {
     "source": "lobsters",
@@ -121,13 +136,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://andersmurphy.com/2026/06/05/the-perils-of-uuid-primary-keys-in-sqlite.html",
-    "title": "The perils of UUID primary keys in SQLite"
+    "url": "https://noteflakes.com/articles/2026-06-07-automatic-buffer-management",
+    "title": "Exploring automatic Buffer Management with io_uring"
   },
   {
     "source": "lobsters",
-    "url": "https://noteflakes.com/articles/2026-06-07-automatic-buffer-management",
-    "title": "Exploring automatic Buffer Management with io_uring"
+    "url": "https://andersmurphy.com/2026/06/05/the-perils-of-uuid-primary-keys-in-sqlite.html",
+    "title": "The perils of UUID primary keys in SQLite"
   },
   {
     "source": "lobsters",
@@ -138,11 +153,6 @@
     "source": "lobsters",
     "url": "https://blog.includesecurity.com/2026/06/the-smart-tv-in-your-livingroom-is-a-node-in-the-aiscraping-economy/",
     "title": "The Smart TV in Your LivingRoom Is a Node in the AIScraping Economy"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://eli.thegreenplace.net/2026/thoughts-on-starting-new-projects-with-llm-agents/",
-    "title": "Thoughts on starting new projects with LLM agents"
   },
   {
     "source": "pinboard",
