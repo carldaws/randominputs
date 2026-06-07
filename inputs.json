@@ -1,13 +1,13 @@
 [
   {
     "source": "hn",
-    "url": "https://human-in-the-loop.bearblog.dev/llms-are-eroding-my-software-engineering-career-and-i-dont-know-what-to-do/",
-    "title": "LLMs are eroding my software engineering career and I don't know what to do"
+    "url": "https://blog.brixit.nl/cloning-a-sennheiser-ba2015-accu-pack/",
+    "title": "Cloning a Sennheiser BA2015 battery pack"
   },
   {
     "source": "hn",
-    "url": "https://blog.brixit.nl/cloning-a-sennheiser-ba2015-accu-pack/",
-    "title": "Cloning a Sennheiser BA2015 battery pack"
+    "url": "https://human-in-the-loop.bearblog.dev/llms-are-eroding-my-software-engineering-career-and-i-dont-know-what-to-do/",
+    "title": "LLMs are eroding my software engineering career and I don't know what to do"
   },
   {
     "source": "hn",
@@ -21,13 +21,13 @@
   },
   {
     "source": "hn",
-    "url": "https://fergusfinn.com/blog/kv-entropy-coder/",
-    "title": "Speculative KV coding: losslessly compressing KV cache by up to ~4×"
+    "url": "https://blog.podman.io/2025/10/podman-6-machine-usability-improvements/",
+    "title": "Podman 6: machine usability improvements"
   },
   {
     "source": "hn",
-    "url": "https://www.kdab.com/how-long-does-it-take-for-an-item-to-become-visible/",
-    "title": "How Long Does It Take for a QQuickItem to Become Visible?"
+    "url": "https://fergusfinn.com/blog/kv-entropy-coder/",
+    "title": "Speculative KV coding: losslessly compressing KV cache by up to ~4×"
   },
   {
     "source": "hn",
@@ -36,28 +36,23 @@
   },
   {
     "source": "hn",
-    "url": "https://blog.podman.io/2025/10/podman-6-machine-usability-improvements/",
-    "title": "Podman 6: machine usability improvements"
-  },
-  {
-    "source": "hn",
-    "url": "https://leoveanu.com/2026-06-06-qwen3.7max/",
-    "title": "The OnlyFans Economy of American AI"
-  },
-  {
-    "source": "hn",
     "url": "https://theamphour.com/725-the-secret-life-of-circuits-with-lcamtuf-michal-zalewski/",
     "title": "The Secret Life of Circuits with lcamtuf / Michał Zalewski (Audio Interview)"
   },
   {
     "source": "hn",
-    "url": "https://pdimagearchive.org/",
-    "title": "Public Domain Image Archive"
+    "url": "https://www.kdab.com/how-long-does-it-take-for-an-item-to-become-visible/",
+    "title": "How Long Does It Take for a QQuickItem to Become Visible?"
   },
   {
     "source": "hn",
     "url": "https://ntsc.rs/",
     "title": "Ntsc-rs – open-source video emulation of analog TV and VHS artifacts"
+  },
+  {
+    "source": "hn",
+    "url": "https://pdimagearchive.org/",
+    "title": "Public Domain Image Archive"
   },
   {
     "source": "hn",
@@ -76,13 +71,13 @@
   },
   {
     "source": "hn",
-    "url": "https://alvaro-videla.com/llm-arithmetic-internals/article_interactive/article.html",
-    "title": "Arithmetic Without Numbers – How LLMs Do Math"
+    "url": "https://hyperallergic.com/how-liminalism-became-the-defining-aesthetic-of-our-time/",
+    "title": "How Liminalism Became the Defining Aesthetic of Our Time"
   },
   {
     "source": "hn",
-    "url": "https://hyperallergic.com/how-liminalism-became-the-defining-aesthetic-of-our-time/",
-    "title": "How Liminalism Became the Defining Aesthetic of Our Time"
+    "url": "https://alvaro-videla.com/llm-arithmetic-internals/article_interactive/article.html",
+    "title": "Arithmetic Without Numbers – How LLMs Do Math"
   },
   {
     "source": "lobsters",
@@ -111,13 +106,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://haskellforall.com/2026/06/ergonomic-overrides-for-nixpkgs",
-    "title": "Ergonomic overrides for Nixpkgs"
+    "url": "https://pmbanugo.me/blog/why-queues-dont-fix-overload-and-what-to-do-instead",
+    "title": "Why Queues Don’t Fix Overload (And What To Do Instead)"
   },
   {
     "source": "lobsters",
-    "url": "https://pmbanugo.me/blog/why-queues-dont-fix-overload-and-what-to-do-instead",
-    "title": "Why Queues Don’t Fix Overload (And What To Do Instead)"
+    "url": "https://haskellforall.com/2026/06/ergonomic-overrides-for-nixpkgs",
+    "title": "Ergonomic overrides for Nixpkgs"
   },
   {
     "source": "lobsters",
@@ -168,5 +163,85 @@
     "source": "lobsters",
     "url": "https://blog.weineng.me/posts/smallest_c/",
     "title": "The smallest C++ binary"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.fieggen.com/shoelace/secureknot.htm",
+    "title": "Ian's Shoelace Site - Ian's Secure Shoelace Knot"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.theatlantic.com/philosophy/2026/06/no-artificial-intelligence-is-not-conscious/687378/",
+    "title": "No, Artificial Intelligence Is Not Conscious by Ted Chiang (The Atlantic, 6/3/2026)"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.0xkato.xyz/how-llms-actually-work/",
+    "title": "How LLMs Actually Work | 0xkato"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://maxleiter.com/blog/weights",
+    "title": "They're Made Out of Weights"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://passo.uno/fine-tuning-docs-llm/",
+    "title": "Fine-tuning an LLM to write docs like it's 1995 – Fabrizio Ferri Benedetti"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://worksinprogress.co/issue/samurai-city/",
+    "title": "Samurai city - Works in Progress Magazine"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://mechanical-pencil.com/",
+    "title": "Mechanical Pencil"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://havenweb.org/2026/05/28/retro-tech.html",
+    "title": "Haven Blog: Retro-Tech Parenting"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://mouseless.click/",
+    "title": "mouseless"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.theatlantic.com/philosophy/2026/06/no-artificial-intelligence-is-not-conscious/687378/?gift=R2zbWGNBDp_xHqoa7Q8ZRp-EV6jGaHiamQBxQQlMJqI",
+    "title": "No, Artificial Intelligence Is Not Conscious - The Atlantic"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://herbsutter.com/2026/06/04/c-the-documentary-released-today/",
+    "title": "C++: The Documentary released today – Sutter’s Mill"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://isaiprofitable.com/",
+    "title": "Is AI Profitable Yet?"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://news.ycombinator.com/item?id=48347483",
+    "title": "Learn SQL Once, Use It for 30 Years | Hacker News"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.jeffgeerling.com/blog/2026/i-tested-every-ip-kvm/",
+    "title": "IP KVMs"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://burntsushi.net/encephalitis/",
+    "title": "Encephalitis - Andrew Gallant's Blog"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.thenerdreich.com/ai-argentina-and-the-antichrist-thiels-vision-blooms/",
+    "title": "AI, Argentina and the Antichrist: Thiel’s Vision Blooms"
   }
 ]
