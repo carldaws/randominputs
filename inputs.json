@@ -1,8 +1,18 @@
 [
   {
     "source": "hn",
+    "url": "https://human-in-the-loop.bearblog.dev/llms-are-eroding-my-software-engineering-career-and-i-dont-know-what-to-do/",
+    "title": "LLMs are eroding my software engineering career and I don't know what to do"
+  },
+  {
+    "source": "hn",
     "url": "https://www.ioccc.org/2025/",
     "title": "The 29th International Obfuscated C Code Contest (IOCCC) 2025 Winners"
+  },
+  {
+    "source": "hn",
+    "url": "https://yon-lang.org/",
+    "title": "Yon – a topos-oriented language with a content-addressed lattice heap"
   },
   {
     "source": "hn",
@@ -16,6 +26,11 @@
   },
   {
     "source": "hn",
+    "url": "https://theamphour.com/725-the-secret-life-of-circuits-with-lcamtuf-michal-zalewski/",
+    "title": "The Secret Life of Circuits with lcamtuf / Michał Zalewski (Audio Interview)"
+  },
+  {
+    "source": "hn",
     "url": "https://pdimagearchive.org/",
     "title": "Public Domain Image Archive"
   },
@@ -23,11 +38,6 @@
     "source": "hn",
     "url": "https://ntsc.rs/",
     "title": "Ntsc-rs – open-source video emulation of analog TV and VHS artifacts"
-  },
-  {
-    "source": "hn",
-    "url": "https://theamphour.com/725-the-secret-life-of-circuits-with-lcamtuf-michal-zalewski/",
-    "title": "The Secret Life of Circuits with lcamtuf / Michał Zalewski (Audio Interview)"
   },
   {
     "source": "hn",
@@ -41,13 +51,13 @@
   },
   {
     "source": "hn",
-    "url": "https://twitter.com/lemire/status/2062880075117113739",
-    "title": "Nvidia is proposing a beast of a CPU system for Windows PCs"
+    "url": "https://www.kdab.com/how-long-does-it-take-for-an-item-to-become-visible/",
+    "title": "How Long Does It Take for a QQuickItem to Become Visible?"
   },
   {
     "source": "hn",
-    "url": "https://writings.stephenwolfram.com/2026/06/games-between-programs-the-ruliology-of-competition/",
-    "title": "Games Between Programs: The Ruliology of Competition"
+    "url": "https://twitter.com/lemire/status/2062880075117113739",
+    "title": "Nvidia is proposing a beast of a CPU system for Windows PCs"
   },
   {
     "source": "hn",
@@ -61,23 +71,13 @@
   },
   {
     "source": "hn",
-    "url": "https://blog.janestreet.com/i-design-with-claude-code-more-than-figma-now-index/",
-    "title": "I design with Claude more than Figma now"
+    "url": "https://writings.stephenwolfram.com/2026/06/games-between-programs-the-ruliology-of-competition/",
+    "title": "Games Between Programs: The Ruliology of Competition"
   },
   {
     "source": "hn",
     "url": "https://this.weekinsecurity.com/meta-confirms-thousands-of-instagram-accounts-were-hacked-by-abusing-its-ai-chatbot/",
     "title": "Meta confirms 1000s of Instagram accounts were hacked by abusing its AI chatbot"
-  },
-  {
-    "source": "hn",
-    "url": "https://ataraxy-labs.github.io/sem/",
-    "title": "Sem: New primitive for code understanding – not LSPs, but entities on top of Git"
-  },
-  {
-    "source": "hn",
-    "url": "https://respeak-io.github.io/lucide-motion-vue/",
-    "title": "Show HN: Free animated icon library for Vue"
   },
   {
     "source": "lobsters",
@@ -96,6 +96,11 @@
   },
   {
     "source": "lobsters",
+    "url": "https://lewiscampbell.tech/blog/260607.html",
+    "title": "The User Doesn't Care - But you should"
+  },
+  {
+    "source": "lobsters",
     "url": "https://haskellforall.com/2026/06/ergonomic-overrides-for-nixpkgs",
     "title": "Ergonomic overrides for Nixpkgs"
   },
@@ -111,13 +116,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://sumnerevans.com/posts/software-engineering/stop-using-conventional-commits/",
-    "title": "Stop Using Conventional Commits"
+    "url": "https://blog.includesecurity.com/2026/06/the-smart-tv-in-your-livingroom-is-a-node-in-the-aiscraping-economy/",
+    "title": "The Smart TV in Your LivingRoom Is a Node in the AIScraping Economy"
   },
   {
     "source": "lobsters",
-    "url": "https://blog.includesecurity.com/2026/06/the-smart-tv-in-your-livingroom-is-a-node-in-the-aiscraping-economy/",
-    "title": "The Smart TV in Your LivingRoom Is a Node in the AIScraping Economy"
+    "url": "https://sumnerevans.com/posts/software-engineering/stop-using-conventional-commits/",
+    "title": "Stop Using Conventional Commits"
   },
   {
     "source": "lobsters",
@@ -126,13 +131,18 @@
   },
   {
     "source": "lobsters",
+    "url": "https://rugu.dev/en/blog/littles-law/",
+    "title": "A Little Explanation of Little's Law"
+  },
+  {
+    "source": "lobsters",
     "url": "https://noteflakes.com/articles/2026-06-07-automatic-buffer-management",
     "title": "Exploring automatic Buffer Management with io_uring"
   },
   {
     "source": "lobsters",
-    "url": "https://rugu.dev/en/blog/littles-law/",
-    "title": "A Little Explanation of Little's Law"
+    "url": "https://eli.thegreenplace.net/2026/thoughts-on-starting-new-projects-with-llm-agents/",
+    "title": "Thoughts on starting new projects with LLM agents"
   },
   {
     "source": "lobsters",
@@ -146,22 +156,7 @@
   },
   {
     "source": "lobsters",
-    "url": "https://lewiscampbell.tech/blog/260607.html",
-    "title": "The User Doesn't Care - But you should"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://eli.thegreenplace.net/2026/thoughts-on-starting-new-projects-with-llm-agents/",
-    "title": "Thoughts on starting new projects with LLM agents"
-  },
-  {
-    "source": "lobsters",
     "url": "https://blog.weineng.me/posts/smallest_c/",
     "title": "The smallest C++ binary"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://alexispurslane.github.io/rsync-analysis/",
-    "title": "Did Claude Increase Bugs in rsync?"
   }
 ]
