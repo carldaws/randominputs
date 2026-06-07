@@ -1,13 +1,13 @@
 [
   {
     "source": "hn",
-    "url": "https://blog.brixit.nl/cloning-a-sennheiser-ba2015-accu-pack/",
-    "title": "Cloning a Sennheiser BA2015 battery pack"
+    "url": "https://www.righto.com/2026/06/ibm-604-thyraton-tube-module.html",
+    "title": "Powering up a module from the IBM 604: an electronic calculator from 1948"
   },
   {
     "source": "hn",
-    "url": "https://human-in-the-loop.bearblog.dev/llms-are-eroding-my-software-engineering-career-and-i-dont-know-what-to-do/",
-    "title": "LLMs are eroding my software engineering career and I don't know what to do"
+    "url": "https://blog.brixit.nl/cloning-a-sennheiser-ba2015-accu-pack/",
+    "title": "Cloning a Sennheiser BA2015 battery pack"
   },
   {
     "source": "hn",
@@ -16,13 +16,8 @@
   },
   {
     "source": "hn",
-    "url": "https://yon-lang.org/",
-    "title": "Yon – a topos-oriented language with a content-addressed lattice heap"
-  },
-  {
-    "source": "hn",
     "url": "https://blog.podman.io/2025/10/podman-6-machine-usability-improvements/",
-    "title": "Podman 6: machine usability improvements"
+    "title": "Podman 6: machine usability improvements (2025)"
   },
   {
     "source": "hn",
@@ -41,23 +36,18 @@
   },
   {
     "source": "hn",
-    "url": "https://www.kdab.com/how-long-does-it-take-for-an-item-to-become-visible/",
-    "title": "How Long Does It Take for a QQuickItem to Become Visible?"
-  },
-  {
-    "source": "hn",
-    "url": "https://ntsc.rs/",
-    "title": "Ntsc-rs – open-source video emulation of analog TV and VHS artifacts"
-  },
-  {
-    "source": "hn",
     "url": "https://pdimagearchive.org/",
     "title": "Public Domain Image Archive"
   },
   {
     "source": "hn",
-    "url": "https://andys.blog/the-best-relationships/",
-    "title": "The best relationships are all-encompassing."
+    "url": "https://human-in-the-loop.bearblog.dev/llms-are-eroding-my-software-engineering-career-and-i-dont-know-what-to-do/",
+    "title": "LLMs are eroding my software engineering career and I don't know what to do"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.kdab.com/how-long-does-it-take-for-an-item-to-become-visible/",
+    "title": "How Long Does It Take for a QQuickItem to Become Visible?"
   },
   {
     "source": "hn",
@@ -66,13 +56,13 @@
   },
   {
     "source": "hn",
-    "url": "https://blog.safia.rocks/2025/12/22/ansi-codes/",
-    "title": "There's no escaping it: an exploration of ANSI codes"
+    "url": "https://hyperallergic.com/how-liminalism-became-the-defining-aesthetic-of-our-time/",
+    "title": "How Liminalism Became the Defining Aesthetic of Our Time"
   },
   {
     "source": "hn",
-    "url": "https://hyperallergic.com/how-liminalism-became-the-defining-aesthetic-of-our-time/",
-    "title": "How Liminalism Became the Defining Aesthetic of Our Time"
+    "url": "https://blog.safia.rocks/2025/12/22/ansi-codes/",
+    "title": "There's no escaping it: an exploration of ANSI codes"
   },
   {
     "source": "hn",
@@ -121,6 +111,16 @@
   },
   {
     "source": "lobsters",
+    "url": "https://kghose.github.io/2026/06/06/kobo-annotations.html",
+    "title": "DIY Kobo annotation backup"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://arch.dog/bark/entropy",
+    "title": "Entropy"
+  },
+  {
+    "source": "lobsters",
     "url": "https://blog.includesecurity.com/2026/06/the-smart-tv-in-your-livingroom-is-a-node-in-the-aiscraping-economy/",
     "title": "The Smart TV in Your LivingRoom Is a Node in the AIScraping Economy"
   },
@@ -128,11 +128,6 @@
     "source": "lobsters",
     "url": "https://eli.thegreenplace.net/2026/thoughts-on-starting-new-projects-with-llm-agents/",
     "title": "Thoughts on starting new projects with LLM agents"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://kghose.github.io/2026/06/06/kobo-annotations.html",
-    "title": "DIY Kobo annotation backup"
   },
   {
     "source": "lobsters",
@@ -146,6 +141,11 @@
   },
   {
     "source": "lobsters",
+    "url": "https://ntsc.rs/",
+    "title": "ntsc-rs - an accurate VHS video effect"
+  },
+  {
+    "source": "lobsters",
     "url": "https://noteflakes.com/articles/2026-06-07-automatic-buffer-management",
     "title": "Exploring automatic Buffer Management with io_uring"
   },
@@ -156,92 +156,7 @@
   },
   {
     "source": "lobsters",
-    "url": "https://trplfoundation.org/",
-    "title": "Total Reciprocity Public License"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://blog.weineng.me/posts/smallest_c/",
-    "title": "The smallest C++ binary"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.fieggen.com/shoelace/secureknot.htm",
-    "title": "Ian's Shoelace Site - Ian's Secure Shoelace Knot"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.theatlantic.com/philosophy/2026/06/no-artificial-intelligence-is-not-conscious/687378/",
-    "title": "No, Artificial Intelligence Is Not Conscious by Ted Chiang (The Atlantic, 6/3/2026)"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.0xkato.xyz/how-llms-actually-work/",
-    "title": "How LLMs Actually Work | 0xkato"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://maxleiter.com/blog/weights",
-    "title": "They're Made Out of Weights"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://passo.uno/fine-tuning-docs-llm/",
-    "title": "Fine-tuning an LLM to write docs like it's 1995 – Fabrizio Ferri Benedetti"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://worksinprogress.co/issue/samurai-city/",
-    "title": "Samurai city - Works in Progress Magazine"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://mechanical-pencil.com/",
-    "title": "Mechanical Pencil"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://havenweb.org/2026/05/28/retro-tech.html",
-    "title": "Haven Blog: Retro-Tech Parenting"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://mouseless.click/",
-    "title": "mouseless"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.theatlantic.com/philosophy/2026/06/no-artificial-intelligence-is-not-conscious/687378/?gift=R2zbWGNBDp_xHqoa7Q8ZRp-EV6jGaHiamQBxQQlMJqI",
-    "title": "No, Artificial Intelligence Is Not Conscious - The Atlantic"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://herbsutter.com/2026/06/04/c-the-documentary-released-today/",
-    "title": "C++: The Documentary released today – Sutter’s Mill"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://isaiprofitable.com/",
-    "title": "Is AI Profitable Yet?"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://news.ycombinator.com/item?id=48347483",
-    "title": "Learn SQL Once, Use It for 30 Years | Hacker News"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.jeffgeerling.com/blog/2026/i-tested-every-ip-kvm/",
-    "title": "IP KVMs"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://burntsushi.net/encephalitis/",
-    "title": "Encephalitis - Andrew Gallant's Blog"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.thenerdreich.com/ai-argentina-and-the-antichrist-thiels-vision-blooms/",
-    "title": "AI, Argentina and the Antichrist: Thiel’s Vision Blooms"
+    "url": "https://mercurial-scm.org/news/2026/0005-london-sprint-recap",
+    "title": "Recapping the London Mercurial sprint"
   }
 ]
