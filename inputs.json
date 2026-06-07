@@ -6,8 +6,8 @@
   },
   {
     "source": "hn",
-    "url": "https://blog.janestreet.com/i-design-with-claude-code-more-than-figma-now-index/",
-    "title": "I design with Claude more than Figma now"
+    "url": "https://fergusfinn.com/blog/kv-entropy-coder/",
+    "title": "Speculative KV coding: losslessly compressing KV cache by up to ~4×"
   },
   {
     "source": "hn",
@@ -16,13 +16,13 @@
   },
   {
     "source": "hn",
-    "url": "https://symbolica.io/posts/symbolica_2_0_release/",
-    "title": "Symbolica 2.0: Programmable Symbols for Python and Rust"
+    "url": "https://ntsc.rs/",
+    "title": "Ntsc-rs – open-source video emulation of analog TV and VHS artifacts"
   },
   {
     "source": "hn",
-    "url": "https://ntsc.rs/",
-    "title": "Ntsc-rs – open-source video emulation of analog TV and VHS artifacts"
+    "url": "https://symbolica.io/posts/symbolica_2_0_release/",
+    "title": "Symbolica 2.0: Programmable Symbols for Python and Rust"
   },
   {
     "source": "hn",
@@ -31,8 +31,8 @@
   },
   {
     "source": "hn",
-    "url": "https://fergusfinn.com/blog/kv-entropy-coder/",
-    "title": "Speculative KV coding: losslessly compressing KV cache by up to ~4×"
+    "url": "https://blog.janestreet.com/i-design-with-claude-code-more-than-figma-now-index/",
+    "title": "I design with Claude more than Figma now"
   },
   {
     "source": "hn",
@@ -41,8 +41,8 @@
   },
   {
     "source": "hn",
-    "url": "https://gwern.net/llm-catapult",
-    "title": "Human-Like Neural Nets by Catapulting"
+    "url": "https://writings.stephenwolfram.com/2026/06/games-between-programs-the-ruliology-of-competition/",
+    "title": "Games Between Programs: The Ruliology of Competition"
   },
   {
     "source": "hn",
@@ -56,18 +56,23 @@
   },
   {
     "source": "hn",
-    "url": "https://this.weekinsecurity.com/meta-confirms-thousands-of-instagram-accounts-were-hacked-by-abusing-its-ai-chatbot/",
-    "title": "Meta confirms 1000s of Instagram accounts were hacked by abusing its AI chatbot"
-  },
-  {
-    "source": "hn",
     "url": "https://su3.io/posts/introducing-zeroserve",
     "title": "Zeroserve: A zero-config web server you can script with eBPF"
   },
   {
     "source": "hn",
+    "url": "https://this.weekinsecurity.com/meta-confirms-thousands-of-instagram-accounts-were-hacked-by-abusing-its-ai-chatbot/",
+    "title": "Meta confirms 1000s of Instagram accounts were hacked by abusing its AI chatbot"
+  },
+  {
+    "source": "hn",
     "url": "https://ataraxy-labs.github.io/sem/",
     "title": "Sem: New primitive for code understanding – not LSPs, but entities on top of Git"
+  },
+  {
+    "source": "hn",
+    "url": "https://respeak-io.github.io/lucide-motion-vue/",
+    "title": "Show HN: Free animated icon library for Vue"
   },
   {
     "source": "hn",
@@ -78,11 +83,6 @@
     "source": "hn",
     "url": "https://pokeemerald.com/",
     "title": "Pokemon Emerald Ported to WebAssembly (100k FPS)"
-  },
-  {
-    "source": "hn",
-    "url": "https://respeak-io.github.io/lucide-motion-vue/",
-    "title": "Show HN: Free animated icon library for Vue"
   },
   {
     "source": "hn",
@@ -101,6 +101,11 @@
   },
   {
     "source": "lobsters",
+    "url": "https://fzakaria.com/2026/06/05/the-guix-nix-abomination-leveraging-guix-derivations-in-nix",
+    "title": "The Guix Nix Abomination: Leveraging Guix derivations in Nix"
+  },
+  {
+    "source": "lobsters",
     "url": "https://haskellforall.com/2026/06/ergonomic-overrides-for-nixpkgs",
     "title": "Ergonomic overrides for Nixpkgs"
   },
@@ -113,11 +118,6 @@
     "source": "lobsters",
     "url": "https://sumnerevans.com/posts/software-engineering/stop-using-conventional-commits/",
     "title": "Stop Using Conventional Commits"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://fzakaria.com/2026/06/05/the-guix-nix-abomination-leveraging-guix-derivations-in-nix",
-    "title": "The Guix Nix Abomination: Leveraging Guix derivations in Nix"
   },
   {
     "source": "lobsters",
