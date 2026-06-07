@@ -1,13 +1,13 @@
 [
   {
     "source": "hn",
-    "url": "https://leoveanu.com/2026-06-06-qwen3.7max/",
-    "title": "The OnlyFans Economy of American AI"
+    "url": "https://human-in-the-loop.bearblog.dev/llms-are-eroding-my-software-engineering-career-and-i-dont-know-what-to-do/",
+    "title": "LLMs are eroding my software engineering career and I don't know what to do"
   },
   {
     "source": "hn",
-    "url": "https://human-in-the-loop.bearblog.dev/llms-are-eroding-my-software-engineering-career-and-i-dont-know-what-to-do/",
-    "title": "LLMs are eroding my software engineering career and I don't know what to do"
+    "url": "https://blog.brixit.nl/cloning-a-sennheiser-ba2015-accu-pack/",
+    "title": "Cloning a Sennheiser BA2015 battery pack"
   },
   {
     "source": "hn",
@@ -36,23 +36,13 @@
   },
   {
     "source": "hn",
-    "url": "https://ntsc.rs/",
-    "title": "Ntsc-rs – open-source video emulation of analog TV and VHS artifacts"
-  },
-  {
-    "source": "hn",
-    "url": "https://pdimagearchive.org/",
-    "title": "Public Domain Image Archive"
-  },
-  {
-    "source": "hn",
     "url": "https://blog.podman.io/2025/10/podman-6-machine-usability-improvements/",
     "title": "Podman 6: machine usability improvements"
   },
   {
     "source": "hn",
-    "url": "https://symbolica.io/posts/symbolica_2_0_release/",
-    "title": "Symbolica 2.0: Programmable Symbols for Python and Rust"
+    "url": "https://leoveanu.com/2026-06-06-qwen3.7max/",
+    "title": "The OnlyFans Economy of American AI"
   },
   {
     "source": "hn",
@@ -61,8 +51,28 @@
   },
   {
     "source": "hn",
+    "url": "https://pdimagearchive.org/",
+    "title": "Public Domain Image Archive"
+  },
+  {
+    "source": "hn",
+    "url": "https://ntsc.rs/",
+    "title": "Ntsc-rs – open-source video emulation of analog TV and VHS artifacts"
+  },
+  {
+    "source": "hn",
     "url": "https://andys.blog/the-best-relationships/",
     "title": "The best relationships are all-encompassing."
+  },
+  {
+    "source": "hn",
+    "url": "https://symbolica.io/posts/symbolica_2_0_release/",
+    "title": "Symbolica 2.0: Programmable Symbols for Python and Rust"
+  },
+  {
+    "source": "hn",
+    "url": "https://blog.safia.rocks/2025/12/22/ansi-codes/",
+    "title": "There's no escaping it: an exploration of ANSI codes"
   },
   {
     "source": "hn",
@@ -106,13 +116,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://andersmurphy.com/2026/06/05/the-perils-of-uuid-primary-keys-in-sqlite.html",
-    "title": "The perils of UUID primary keys in SQLite"
+    "url": "https://pmbanugo.me/blog/why-queues-dont-fix-overload-and-what-to-do-instead",
+    "title": "Why Queues Don’t Fix Overload (And What To Do Instead)"
   },
   {
     "source": "lobsters",
-    "url": "https://pmbanugo.me/blog/why-queues-dont-fix-overload-and-what-to-do-instead",
-    "title": "Why Queues Don’t Fix Overload (And What To Do Instead)"
+    "url": "https://andersmurphy.com/2026/06/05/the-perils-of-uuid-primary-keys-in-sqlite.html",
+    "title": "The perils of UUID primary keys in SQLite"
   },
   {
     "source": "lobsters",
@@ -126,6 +136,11 @@
   },
   {
     "source": "lobsters",
+    "url": "https://kghose.github.io/2026/06/06/kobo-annotations.html",
+    "title": "DIY Kobo annotation backup"
+  },
+  {
+    "source": "lobsters",
     "url": "https://sumnerevans.com/posts/software-engineering/stop-using-conventional-commits/",
     "title": "Stop Using Conventional Commits"
   },
@@ -136,13 +151,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://kghose.github.io/2026/06/06/kobo-annotations.html",
-    "title": "DIY Kobo annotation backup"
+    "url": "https://noteflakes.com/articles/2026-06-07-automatic-buffer-management",
+    "title": "Exploring automatic Buffer Management with io_uring"
   },
   {
     "source": "lobsters",
-    "url": "https://noteflakes.com/articles/2026-06-07-automatic-buffer-management",
-    "title": "Exploring automatic Buffer Management with io_uring"
+    "url": "https://sigbovik.org/2026/proceedings.pdf",
+    "title": "SIGBOVIK 2026 Conference Proceedings"
   },
   {
     "source": "lobsters",
@@ -151,7 +166,7 @@
   },
   {
     "source": "lobsters",
-    "url": "https://sigbovik.org/2026/proceedings.pdf",
-    "title": "SIGBOVIK 2026 Conference Proceedings"
+    "url": "https://blog.weineng.me/posts/smallest_c/",
+    "title": "The smallest C++ binary"
   }
 ]
