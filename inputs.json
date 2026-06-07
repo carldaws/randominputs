@@ -26,8 +26,8 @@
   },
   {
     "source": "hn",
-    "url": "https://blog.brixit.nl/cloning-a-sennheiser-ba2015-accu-pack/",
-    "title": "Cloning a Sennheiser BA2015 battery pack"
+    "url": "https://www.tohoku.ac.jp/japanese/2026/05/press20260512-02-DMR.html",
+    "title": "A Fundamental Principle of Aeronautical Engineering Has Been Overturned"
   },
   {
     "source": "hn",
@@ -36,18 +36,28 @@
   },
   {
     "source": "hn",
+    "url": "https://vibeos.sh/",
+    "title": "VibeOS: First ever AI-native operating system"
+  },
+  {
+    "source": "hn",
     "url": "https://www.ioccc.org/2025/",
     "title": "The 29th International Obfuscated C Code Contest (IOCCC) 2025 Winners"
   },
   {
     "source": "hn",
-    "url": "https://blog.podman.io/2025/10/podman-6-machine-usability-improvements/",
-    "title": "Podman 6: machine usability improvements (2025)"
+    "url": "https://blog.brixit.nl/cloning-a-sennheiser-ba2015-accu-pack/",
+    "title": "Cloning a Sennheiser BA2015 battery pack"
   },
   {
     "source": "hn",
-    "url": "https://www.tohoku.ac.jp/japanese/2026/05/press20260512-02-DMR.html",
-    "title": "A Fundamental Principle of Aeronautical Engineering Has Been Overturned"
+    "url": "https://motion.dev/magazine/collision-detection-in-hover-detection",
+    "title": "Crashing cars and improving hover detection"
+  },
+  {
+    "source": "hn",
+    "url": "https://blog.podman.io/2025/10/podman-6-machine-usability-improvements/",
+    "title": "Podman 6: machine usability improvements (2025)"
   },
   {
     "source": "hn",
@@ -63,16 +73,6 @@
     "source": "hn",
     "url": "https://blog.janestreet.com/i-design-with-claude-code-more-than-figma-now-index/",
     "title": "I design with Claude more than Figma now"
-  },
-  {
-    "source": "hn",
-    "url": "https://pdimagearchive.org/",
-    "title": "Public Domain Image Archive"
-  },
-  {
-    "source": "hn",
-    "url": "https://nlkw.de/en/blog/getting-fried-part-1-cogentiv/",
-    "title": "The week I lost the plot at a startup where the tools worked as advertised"
   },
   {
     "source": "lobsters",
@@ -116,13 +116,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://xeiaso.net/blog/2026/dancing-mad-sandboxing/",
-    "title": "Dancing mad with sandboxing"
+    "url": "https://pmbanugo.me/blog/why-queues-dont-fix-overload-and-what-to-do-instead",
+    "title": "Why Queues Don’t Fix Overload (And What To Do Instead)"
   },
   {
     "source": "lobsters",
-    "url": "https://pmbanugo.me/blog/why-queues-dont-fix-overload-and-what-to-do-instead",
-    "title": "Why Queues Don’t Fix Overload (And What To Do Instead)"
+    "url": "https://xeiaso.net/blog/2026/dancing-mad-sandboxing/",
+    "title": "Dancing mad with sandboxing"
   },
   {
     "source": "lobsters",
@@ -141,107 +141,17 @@
   },
   {
     "source": "lobsters",
-    "url": "https://andersmurphy.com/2026/06/05/the-perils-of-uuid-primary-keys-in-sqlite.html",
-    "title": "The perils of UUID primary keys in SQLite"
-  },
-  {
-    "source": "lobsters",
     "url": "https://sigbovik.org/2026/proceedings.pdf",
     "title": "SIGBOVIK 2026 Conference Proceedings"
   },
   {
     "source": "lobsters",
+    "url": "https://andersmurphy.com/2026/06/05/the-perils-of-uuid-primary-keys-in-sqlite.html",
+    "title": "The perils of UUID primary keys in SQLite"
+  },
+  {
+    "source": "lobsters",
     "url": "https://blog.includesecurity.com/2026/06/the-smart-tv-in-your-livingroom-is-a-node-in-the-aiscraping-economy/",
     "title": "The Smart TV in Your LivingRoom Is a Node in the AIScraping Economy"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.fieggen.com/shoelace/secureknot.htm",
-    "title": "Ian's Shoelace Site - Ian's Secure Shoelace Knot"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.theatlantic.com/philosophy/2026/06/no-artificial-intelligence-is-not-conscious/687378/",
-    "title": "No, Artificial Intelligence Is Not Conscious by Ted Chiang (The Atlantic, 6/3/2026)"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.0xkato.xyz/how-llms-actually-work/",
-    "title": "How LLMs Actually Work | 0xkato"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://maxleiter.com/blog/weights",
-    "title": "They're Made Out of Weights"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://passo.uno/fine-tuning-docs-llm/",
-    "title": "Fine-tuning an LLM to write docs like it's 1995 – Fabrizio Ferri Benedetti"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://worksinprogress.co/issue/samurai-city/",
-    "title": "Samurai city - Works in Progress Magazine"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://sumnerevans.com/posts/software-engineering/stop-using-conventional-commits/",
-    "title": "Stop Using Conventional Commits - Sumner Evans"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://mechanical-pencil.com/",
-    "title": "Mechanical Pencil"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://havenweb.org/2026/05/28/retro-tech.html",
-    "title": "Haven Blog: Retro-Tech Parenting"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://mouseless.click/",
-    "title": "mouseless"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.theatlantic.com/philosophy/2026/06/no-artificial-intelligence-is-not-conscious/687378/?gift=R2zbWGNBDp_xHqoa7Q8ZRp-EV6jGaHiamQBxQQlMJqI",
-    "title": "No, Artificial Intelligence Is Not Conscious - The Atlantic"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://herbsutter.com/2026/06/04/c-the-documentary-released-today/",
-    "title": "C++: The Documentary released today – Sutter’s Mill"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://isaiprofitable.com/",
-    "title": "Is AI Profitable Yet?"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://news.ycombinator.com/item?id=48347483",
-    "title": "Learn SQL Once, Use It for 30 Years | Hacker News"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.jeffgeerling.com/blog/2026/i-tested-every-ip-kvm/",
-    "title": "IP KVMs"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://burntsushi.net/encephalitis/",
-    "title": "Encephalitis - Andrew Gallant's Blog"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://ntsc.rs/",
-    "title": "ntsc-rs - an accurate VHS video effect"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.thenerdreich.com/ai-argentina-and-the-antichrist-thiels-vision-blooms/",
-    "title": "AI, Argentina and the Antichrist: Thiel’s Vision Blooms"
   }
 ]
