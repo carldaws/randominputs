@@ -1,6 +1,16 @@
 [
   {
     "source": "hn",
+    "url": "https://performance.dev/how-is-linear-so-fast-a-technical-breakdown",
+    "title": "How's Linear so fast? A technical breakdown"
+  },
+  {
+    "source": "hn",
+    "url": "https://gavinray97.github.io/blog/building-from-zero-after-addiction-prison-felony",
+    "title": "Building from Zero After Addiction, Prison, and a Felony"
+  },
+  {
+    "source": "hn",
     "url": "https://www.righto.com/2026/06/ibm-604-thyraton-tube-module.html",
     "title": "Powering up a module from the IBM 604: an electronic calculator from 1948"
   },
@@ -26,38 +36,8 @@
   },
   {
     "source": "hn",
-    "url": "https://performance.dev/how-is-linear-so-fast-a-technical-breakdown",
-    "title": "How's Linear so fast? A technical breakdown"
-  },
-  {
-    "source": "hn",
-    "url": "https://gavinray97.github.io/blog/building-from-zero-after-addiction-prison-felony",
-    "title": "Building from Zero After Addiction, Prison, and a Felony"
-  },
-  {
-    "source": "hn",
     "url": "https://blog.podman.io/2025/10/podman-6-machine-usability-improvements/",
     "title": "Podman 6: machine usability improvements (2025)"
-  },
-  {
-    "source": "hn",
-    "url": "https://theamphour.com/725-the-secret-life-of-circuits-with-lcamtuf-michal-zalewski/",
-    "title": "The Secret Life of Circuits with lcamtuf / Michał Zalewski (Audio Interview)"
-  },
-  {
-    "source": "hn",
-    "url": "https://pdimagearchive.org/",
-    "title": "Public Domain Image Archive"
-  },
-  {
-    "source": "hn",
-    "url": "https://kristoff.it/blog/north-star/",
-    "title": "My Software North Star"
-  },
-  {
-    "source": "hn",
-    "url": "https://fergusfinn.com/blog/kv-entropy-coder/",
-    "title": "Speculative KV coding: losslessly compressing KV cache by up to ~4×"
   },
   {
     "source": "hn",
@@ -66,8 +46,18 @@
   },
   {
     "source": "hn",
-    "url": "https://human-in-the-loop.bearblog.dev/llms-are-eroding-my-software-engineering-career-and-i-dont-know-what-to-do/",
-    "title": "LLMs are eroding my software engineering career and I don't know what to do"
+    "url": "https://pdimagearchive.org/",
+    "title": "Public Domain Image Archive"
+  },
+  {
+    "source": "hn",
+    "url": "https://theamphour.com/725-the-secret-life-of-circuits-with-lcamtuf-michal-zalewski/",
+    "title": "The Secret Life of Circuits with lcamtuf / Michał Zalewski (Audio Interview)"
+  },
+  {
+    "source": "hn",
+    "url": "https://fergusfinn.com/blog/kv-entropy-coder/",
+    "title": "Speculative KV coding: losslessly compressing KV cache by up to ~4×"
   },
   {
     "source": "hn",
@@ -96,8 +86,18 @@
   },
   {
     "source": "lobsters",
+    "url": "https://mercurial-scm.org/news/2026/0005-london-sprint-recap",
+    "title": "Recapping the London Mercurial sprint"
+  },
+  {
+    "source": "lobsters",
     "url": "https://0xkato.xyz/how-llms-actually-work/",
     "title": "How LLMs Actually Work"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://arch.dog/bark/entropy",
+    "title": "Entropy"
   },
   {
     "source": "lobsters",
@@ -111,8 +111,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://mercurial-scm.org/news/2026/0005-london-sprint-recap",
-    "title": "Recapping the London Mercurial sprint"
+    "url": "https://kghose.github.io/2026/06/06/kobo-annotations.html",
+    "title": "DIY Kobo annotation backup"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://noteflakes.com/articles/2026-06-07-automatic-buffer-management",
+    "title": "Exploring automatic Buffer Management with io_uring"
   },
   {
     "source": "lobsters",
@@ -121,18 +126,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://kghose.github.io/2026/06/06/kobo-annotations.html",
-    "title": "DIY Kobo annotation backup"
+    "url": "https://sigbovik.org/2026/proceedings.pdf",
+    "title": "SIGBOVIK 2026 Conference Proceedings"
   },
   {
     "source": "lobsters",
-    "url": "https://arch.dog/bark/entropy",
-    "title": "Entropy"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://eli.thegreenplace.net/2026/thoughts-on-starting-new-projects-with-llm-agents/",
-    "title": "Thoughts on starting new projects with LLM agents"
+    "url": "https://xeiaso.net/blog/2026/dancing-mad-sandboxing/",
+    "title": "Dancing mad with sandboxing"
   },
   {
     "source": "lobsters",
@@ -146,28 +146,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://noteflakes.com/articles/2026-06-07-automatic-buffer-management",
-    "title": "Exploring automatic Buffer Management with io_uring"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://sumnerevans.com/posts/software-engineering/stop-using-conventional-commits/",
-    "title": "Stop Using Conventional Commits"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://sigbovik.org/2026/proceedings.pdf",
-    "title": "SIGBOVIK 2026 Conference Proceedings"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://rugu.dev/en/blog/littles-law/",
-    "title": "A Little Explanation of Little's Law"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://ntsc.rs/",
-    "title": "ntsc-rs - an accurate VHS video effect"
+    "url": "https://eli.thegreenplace.net/2026/thoughts-on-starting-new-projects-with-llm-agents/",
+    "title": "Thoughts on starting new projects with LLM agents"
   },
   {
     "source": "pinboard",
@@ -198,6 +178,11 @@
     "source": "pinboard",
     "url": "https://worksinprogress.co/issue/samurai-city/",
     "title": "Samurai city - Works in Progress Magazine"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://sumnerevans.com/posts/software-engineering/stop-using-conventional-commits/",
+    "title": "Stop Using Conventional Commits - Sumner Evans"
   },
   {
     "source": "pinboard",
@@ -243,6 +228,11 @@
     "source": "pinboard",
     "url": "https://burntsushi.net/encephalitis/",
     "title": "Encephalitis - Andrew Gallant's Blog"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://ntsc.rs/",
+    "title": "ntsc-rs - an accurate VHS video effect"
   },
   {
     "source": "pinboard",
