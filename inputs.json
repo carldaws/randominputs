@@ -11,6 +11,11 @@
   },
   {
     "source": "hn",
+    "url": "https://pdimagearchive.org/",
+    "title": "Public Domain Image Archive"
+  },
+  {
+    "source": "hn",
     "url": "https://su3.io/posts/introducing-zeroserve",
     "title": "Zeroserve: A zero-config web server you can script with eBPF"
   },
@@ -36,28 +41,18 @@
   },
   {
     "source": "hn",
-    "url": "https://www.eetimes.com/computex-2026-are-we-heading-for-the-agentic-pc-era-yet/",
-    "title": "Computex 2026: Are We Heading for the Agentic PC Era Yet?"
-  },
-  {
-    "source": "hn",
-    "url": "https://perceptiontheory.bearblog.dev/context-sculpting/",
-    "title": "Context Sculpting"
-  },
-  {
-    "source": "hn",
     "url": "https://uonr.github.io/poincake/",
     "title": "Show HN: Infinite canvas notes in the non-Euclidean Poincaré disk"
   },
   {
     "source": "hn",
-    "url": "https://leimao.github.io/blog/PyTorch-Custom-Operation/",
-    "title": "PyTorch Custom Operation"
+    "url": "https://www.eetimes.com/computex-2026-are-we-heading-for-the-agentic-pc-era-yet/",
+    "title": "Computex 2026: Are We Heading for the Agentic PC Era Yet?"
   },
   {
     "source": "hn",
-    "url": "https://www.cl.cam.ac.uk/~mgk25/ucs-fonts.html",
-    "title": "Unicode Fonts and Tools for X11"
+    "url": "https://leimao.github.io/blog/PyTorch-Custom-Operation/",
+    "title": "PyTorch Custom Operation"
   },
   {
     "source": "hn",
@@ -71,13 +66,18 @@
   },
   {
     "source": "hn",
-    "url": "https://www.patrickstevens.co.uk/posts/2026-06-04-announcing-woofware-pawprint/",
-    "title": "WoofWare.PawPrint, a Deterministic .NET Runtime"
+    "url": "https://www.learnix-os.com/ch02-03-implementing-the-bitfields-proc-macro.html",
+    "title": "Building Rust Procedural Macros from the Grounds Up"
   },
   {
     "source": "hn",
-    "url": "https://back.engineering/blog/09/05/2026/",
-    "title": "Static Devirtualization of Themida"
+    "url": "https://perceptiontheory.bearblog.dev/context-sculpting/",
+    "title": "Context Sculpting"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.randalolson.com/2026/06/04/recent-grad-unemployment-flip/",
+    "title": "New U.S. college grads now have higher unemployment than the average worker"
   },
   {
     "source": "lobsters",
@@ -121,13 +121,18 @@
   },
   {
     "source": "lobsters",
+    "url": "https://rugu.dev/en/blog/littles-law/",
+    "title": "A Little Explanation of Little's Law"
+  },
+  {
+    "source": "lobsters",
     "url": "https://timothygu.me/urltester/",
     "title": "URL Parser Tester"
   },
   {
     "source": "lobsters",
-    "url": "https://rugu.dev/en/blog/littles-law/",
-    "title": "A Little Explanation of Little's Law"
+    "url": "https://0xkato.xyz/how-llms-actually-work/",
+    "title": "How LLMs Actually Work"
   },
   {
     "source": "lobsters",
