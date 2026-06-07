@@ -16,18 +16,23 @@
   },
   {
     "source": "hn",
-    "url": "https://ntsc.rs/",
-    "title": "Ntsc-rs – open-source video emulation of analog TV and VHS artifacts"
-  },
-  {
-    "source": "hn",
     "url": "https://symbolica.io/posts/symbolica_2_0_release/",
     "title": "Symbolica 2.0: Programmable Symbols for Python and Rust"
   },
   {
     "source": "hn",
+    "url": "https://ntsc.rs/",
+    "title": "Ntsc-rs – open-source video emulation of analog TV and VHS artifacts"
+  },
+  {
+    "source": "hn",
     "url": "https://pdimagearchive.org/",
     "title": "Public Domain Image Archive"
+  },
+  {
+    "source": "hn",
+    "url": "https://fergusfinn.com/blog/kv-entropy-coder/",
+    "title": "Speculative KV coding: losslessly compressing KV cache by up to ~4×"
   },
   {
     "source": "hn",
@@ -46,13 +51,13 @@
   },
   {
     "source": "hn",
-    "url": "https://this.weekinsecurity.com/meta-confirms-thousands-of-instagram-accounts-were-hacked-by-abusing-its-ai-chatbot/",
-    "title": "Meta confirms 1000s of Instagram accounts were hacked by abusing its AI chatbot"
+    "url": "https://twitter.com/lemire/status/2062880075117113739",
+    "title": "Nvidia is proposing a beast of a CPU system for Windows PCs"
   },
   {
     "source": "hn",
-    "url": "https://twitter.com/lemire/status/2062880075117113739",
-    "title": "Nvidia is proposing a beast of a CPU system for Windows PCs"
+    "url": "https://this.weekinsecurity.com/meta-confirms-thousands-of-instagram-accounts-were-hacked-by-abusing-its-ai-chatbot/",
+    "title": "Meta confirms 1000s of Instagram accounts were hacked by abusing its AI chatbot"
   },
   {
     "source": "hn",
@@ -66,16 +71,6 @@
   },
   {
     "source": "hn",
-    "url": "https://respeak-io.github.io/lucide-motion-vue/",
-    "title": "Show HN: Free animated icon library for Vue"
-  },
-  {
-    "source": "hn",
-    "url": "https://drewdevault.com/blog/Circus-freaks-of-FOSS/",
-    "title": "The circus freaks of open source"
-  },
-  {
-    "source": "hn",
     "url": "https://mashable.com/tech/motorola-wifi-routers-stop-working-motosync-plus-app-down",
     "title": "Motorola effectively bricked its entire line of WiFi routers without explanation"
   },
@@ -86,8 +81,8 @@
   },
   {
     "source": "hn",
-    "url": "https://www.cl.cam.ac.uk/~mgk25/ucs-fonts.html",
-    "title": "Unicode Fonts and Tools for X11"
+    "url": "https://respeak-io.github.io/lucide-motion-vue/",
+    "title": "Show HN: Free animated icon library for Vue"
   },
   {
     "source": "hn",
@@ -96,8 +91,18 @@
   },
   {
     "source": "lobsters",
+    "url": "http://ozark.hendrix.edu/~yorgey/forest/00FD/index.xml",
+    "title": "To my students"
+  },
+  {
+    "source": "lobsters",
     "url": "https://mijndertstuij.nl/posts/life-is-too-short-for-a-slow-terminal/",
     "title": "Life is too short for a slow terminal"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://haskellforall.com/2026/06/ergonomic-overrides-for-nixpkgs",
+    "title": "Ergonomic overrides for Nixpkgs"
   },
   {
     "source": "lobsters",
@@ -111,8 +116,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://haskellforall.com/2026/06/ergonomic-overrides-for-nixpkgs",
-    "title": "Ergonomic overrides for Nixpkgs"
+    "url": "https://fzakaria.com/2026/06/05/the-guix-nix-abomination-leveraging-guix-derivations-in-nix",
+    "title": "The Guix Nix Abomination: Leveraging Guix derivations in Nix"
   },
   {
     "source": "lobsters",
@@ -131,6 +136,16 @@
   },
   {
     "source": "lobsters",
+    "url": "https://kghose.github.io/2026/06/06/kobo-annotations.html",
+    "title": "DIY Kobo annotation backup"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://noteflakes.com/articles/2026-06-07-automatic-buffer-management",
+    "title": "Exploring automatic Buffer Management with io_uring"
+  },
+  {
+    "source": "lobsters",
     "url": "https://trplfoundation.org/",
     "title": "Total Reciprocity Public License"
   },
@@ -141,107 +156,12 @@
   },
   {
     "source": "lobsters",
-    "url": "https://kghose.github.io/2026/06/06/kobo-annotations.html",
-    "title": "DIY Kobo annotation backup"
-  },
-  {
-    "source": "lobsters",
     "url": "https://alexispurslane.github.io/rsync-analysis/",
     "title": "Did Claude Increase Bugs in rsync?"
   },
   {
     "source": "lobsters",
-    "url": "https://fzakaria.com/2026/06/05/the-guix-nix-abomination-leveraging-guix-derivations-in-nix",
-    "title": "The Guix Nix Abomination: Leveraging Guix derivations in Nix"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://timothygu.me/urltester/",
-    "title": "URL Parser Tester"
-  },
-  {
-    "source": "lobsters",
     "url": "https://eli.thegreenplace.net/2026/thoughts-on-starting-new-projects-with-llm-agents/",
     "title": "Thoughts on starting new projects with LLM agents"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.fieggen.com/shoelace/secureknot.htm",
-    "title": "Ian's Shoelace Site - Ian's Secure Shoelace Knot"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.theatlantic.com/philosophy/2026/06/no-artificial-intelligence-is-not-conscious/687378/",
-    "title": "No, Artificial Intelligence Is Not Conscious by Ted Chiang (The Atlantic, 6/3/2026)"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.0xkato.xyz/how-llms-actually-work/",
-    "title": "How LLMs Actually Work | 0xkato"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://maxleiter.com/blog/weights",
-    "title": "They're Made Out of Weights"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://passo.uno/fine-tuning-docs-llm/",
-    "title": "Fine-tuning an LLM to write docs like it's 1995 – Fabrizio Ferri Benedetti"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://worksinprogress.co/issue/samurai-city/",
-    "title": "Samurai city - Works in Progress Magazine"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://mechanical-pencil.com/",
-    "title": "Mechanical Pencil"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://havenweb.org/2026/05/28/retro-tech.html",
-    "title": "Haven Blog: Retro-Tech Parenting"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://mouseless.click/",
-    "title": "mouseless"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.theatlantic.com/philosophy/2026/06/no-artificial-intelligence-is-not-conscious/687378/?gift=R2zbWGNBDp_xHqoa7Q8ZRp-EV6jGaHiamQBxQQlMJqI",
-    "title": "No, Artificial Intelligence Is Not Conscious - The Atlantic"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://herbsutter.com/2026/06/04/c-the-documentary-released-today/",
-    "title": "C++: The Documentary released today – Sutter’s Mill"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://isaiprofitable.com/",
-    "title": "Is AI Profitable Yet?"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://news.ycombinator.com/item?id=48347483",
-    "title": "Learn SQL Once, Use It for 30 Years | Hacker News"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.jeffgeerling.com/blog/2026/i-tested-every-ip-kvm/",
-    "title": "IP KVMs"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://burntsushi.net/encephalitis/",
-    "title": "Encephalitis - Andrew Gallant's Blog"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.thenerdreich.com/ai-argentina-and-the-antichrist-thiels-vision-blooms/",
-    "title": "AI, Argentina and the Antichrist: Thiel’s Vision Blooms"
   }
 ]
