@@ -1,6 +1,16 @@
 [
   {
     "source": "hn",
+    "url": "https://teenage.engineering/products/apc-2",
+    "title": "Teenage Engineering: Introducing APC-2"
+  },
+  {
+    "source": "hn",
+    "url": "https://ranpara.net/posts/perceptron-explained-from-scratch/",
+    "title": "The Smallest Brain You Can Build: A Perceptron in Python"
+  },
+  {
+    "source": "hn",
     "url": "https://gavinray97.github.io/blog/building-from-zero-after-addiction-prison-felony",
     "title": "Building from zero after addiction, prison, and a felony"
   },
@@ -41,13 +51,13 @@
   },
   {
     "source": "hn",
-    "url": "https://blog.podman.io/2025/10/podman-6-machine-usability-improvements/",
-    "title": "Podman 6: machine usability improvements (2025)"
+    "url": "https://www.todepond.com/lab/splash/",
+    "title": "Splash Is a Colour Format"
   },
   {
     "source": "hn",
-    "url": "https://www.todepond.com/lab/splash/",
-    "title": "Splash Is a Colour Format"
+    "url": "https://blog.podman.io/2025/10/podman-6-machine-usability-improvements/",
+    "title": "Podman 6: machine usability improvements (2025)"
   },
   {
     "source": "hn",
@@ -56,13 +66,13 @@
   },
   {
     "source": "hn",
-    "url": "https://www.tohoku.ac.jp/japanese/2026/05/press20260512-02-DMR.html",
-    "title": "A Fundamental Principle of Aeronautical Engineering Has Been Overturned"
+    "url": "https://blog.janestreet.com/i-design-with-claude-code-more-than-figma-now-index/",
+    "title": "I design with Claude more than Figma now"
   },
   {
     "source": "hn",
-    "url": "https://blog.janestreet.com/i-design-with-claude-code-more-than-figma-now-index/",
-    "title": "I design with Claude more than Figma now"
+    "url": "https://manticoresearch.com/blog/knn-early-termination/",
+    "title": "KNN early termination in Manticore Search"
   },
   {
     "source": "lobsters",
@@ -81,8 +91,18 @@
   },
   {
     "source": "lobsters",
+    "url": "https://mercurial-scm.org/news/2026/0005-london-sprint-recap",
+    "title": "Recapping the London Mercurial sprint"
+  },
+  {
+    "source": "lobsters",
     "url": "https://fzakaria.com/2026/06/05/the-guix-nix-abomination-leveraging-guix-derivations-in-nix",
     "title": "The Guix Nix Abomination: Leveraging Guix derivations in Nix"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://xeiaso.net/blog/2026/dancing-mad-sandboxing/",
+    "title": "Dancing mad with sandboxing"
   },
   {
     "source": "lobsters",
@@ -101,11 +121,6 @@
   },
   {
     "source": "lobsters",
-    "url": "https://xeiaso.net/blog/2026/dancing-mad-sandboxing/",
-    "title": "Dancing mad with sandboxing"
-  },
-  {
-    "source": "lobsters",
     "url": "https://pmbanugo.me/blog/why-queues-dont-fix-overload-and-what-to-do-instead",
     "title": "Why Queues Don’t Fix Overload (And What To Do Instead)"
   },
@@ -121,13 +136,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://noteflakes.com/articles/2026-06-07-automatic-buffer-management",
-    "title": "Exploring automatic Buffer Management with io_uring"
+    "url": "https://opensource.posit.co/blog/2026-05-21_in-defense-of-yaml/",
+    "title": "In Defense of YAML"
   },
   {
     "source": "lobsters",
-    "url": "https://sigbovik.org/2026/proceedings.pdf",
-    "title": "SIGBOVIK 2026 Conference Proceedings"
+    "url": "https://noteflakes.com/articles/2026-06-07-automatic-buffer-management",
+    "title": "Exploring automatic Buffer Management with io_uring"
   },
   {
     "source": "lobsters",
@@ -136,8 +151,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://andersmurphy.com/2026/06/05/the-perils-of-uuid-primary-keys-in-sqlite.html",
-    "title": "The perils of UUID primary keys in SQLite"
+    "url": "https://sigbovik.org/2026/proceedings.pdf",
+    "title": "SIGBOVIK 2026 Conference Proceedings"
   },
   {
     "source": "pinboard",
