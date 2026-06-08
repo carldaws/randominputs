@@ -2,12 +2,7 @@
   {
     "source": "hn",
     "url": "https://teenage.engineering/products/apc-2",
-    "title": "Teenage Engineering: Introducing APC-2"
-  },
-  {
-    "source": "hn",
-    "url": "https://runtimewire.com/article/deepseek-v4-pro-beats-gpt-5-5-pro-on-precision",
-    "title": "DeepSeek V4 Pro beats GPT-5.5 Pro on precision"
+    "title": "APC–2 – A professional record cutter for producing original playback discs"
   },
   {
     "source": "hn",
@@ -16,8 +11,23 @@
   },
   {
     "source": "hn",
+    "url": "https://igerman.cc/blog/dopamine-fracking/",
+    "title": "Dopamine Fracking"
+  },
+  {
+    "source": "hn",
     "url": "https://gavinray97.github.io/blog/building-from-zero-after-addiction-prison-felony",
     "title": "Building from zero after addiction, prison, and a felony"
+  },
+  {
+    "source": "hn",
+    "url": "https://runtimewire.com/article/deepseek-v4-pro-beats-gpt-5-5-pro-on-precision",
+    "title": "DeepSeek V4 Pro beats GPT-5.5 Pro on precision"
+  },
+  {
+    "source": "hn",
+    "url": "https://1worldflag.com/",
+    "title": "1worldflag: A blue dot on a transparent background"
   },
   {
     "source": "hn",
@@ -31,28 +41,23 @@
   },
   {
     "source": "hn",
-    "url": "https://performance.dev/how-is-linear-so-fast-a-technical-breakdown",
-    "title": "How's Linear so fast? A technical breakdown"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.righto.com/2026/06/ibm-604-thyraton-tube-module.html",
-    "title": "Powering up a module from the IBM 604: an electronic calculator from 1948"
-  },
-  {
-    "source": "hn",
-    "url": "https://1worldflag.com/",
-    "title": "1worldflag: A blue dot on a transparent background"
-  },
-  {
-    "source": "hn",
     "url": "https://groups.csail.mit.edu/medg/people/psz/Licklider.html",
     "title": "Man-Computer Symbiosis J. C. R. Licklider (1960)"
   },
   {
     "source": "hn",
+    "url": "https://performance.dev/how-is-linear-so-fast-a-technical-breakdown",
+    "title": "How's Linear so fast? A technical breakdown"
+  },
+  {
+    "source": "hn",
     "url": "https://www.ioccc.org/2025/",
     "title": "The 29th International Obfuscated C Code Contest (IOCCC) 2025 Winners"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.righto.com/2026/06/ibm-604-thyraton-tube-module.html",
+    "title": "Powering up a module from the IBM 604: an electronic calculator from 1948"
   },
   {
     "source": "hn",
@@ -68,21 +73,6 @@
     "source": "hn",
     "url": "https://www.alexself.dev/blog/automated-doubt",
     "title": "My automated doubt development process"
-  },
-  {
-    "source": "hn",
-    "url": "https://manticoresearch.com/blog/knn-early-termination/",
-    "title": "KNN early termination in Manticore Search"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.todepond.com/lab/splash/",
-    "title": "Splash Is a Colour Format"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.radioworld.com/news-and-business/headlines/an-ohio-valley-100000-watt-fm-signal-is-severed-in-broad-daylight",
-    "title": "An Ohio Valley 100k-watt FM signal is severed in broad daylight"
   },
   {
     "source": "lobsters",
@@ -101,6 +91,11 @@
   },
   {
     "source": "lobsters",
+    "url": "https://opensource.posit.co/blog/2026-05-21_in-defense-of-yaml/",
+    "title": "In Defense of YAML"
+  },
+  {
+    "source": "lobsters",
     "url": "https://mercurial-scm.org/news/2026/0005-london-sprint-recap",
     "title": "Recapping the London Mercurial sprint"
   },
@@ -116,23 +111,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://0xkato.xyz/how-llms-actually-work/",
-    "title": "How LLMs Actually Work"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://opensource.posit.co/blog/2026-05-21_in-defense-of-yaml/",
-    "title": "In Defense of YAML"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://mijndertstuij.nl/posts/life-is-too-short-for-a-slow-terminal/",
-    "title": "Life is too short for a slow terminal"
-  },
-  {
-    "source": "lobsters",
     "url": "https://arch.dog/bark/entropy",
     "title": "Entropy"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://0xkato.xyz/how-llms-actually-work/",
+    "title": "How LLMs Actually Work"
   },
   {
     "source": "lobsters",
@@ -141,13 +126,18 @@
   },
   {
     "source": "lobsters",
-    "url": "https://kghose.github.io/2026/06/06/kobo-annotations.html",
-    "title": "DIY Kobo annotation backup"
+    "url": "https://mijndertstuij.nl/posts/life-is-too-short-for-a-slow-terminal/",
+    "title": "Life is too short for a slow terminal"
   },
   {
     "source": "lobsters",
-    "url": "https://haskellforall.com/2026/06/ergonomic-overrides-for-nixpkgs",
-    "title": "Ergonomic overrides for Nixpkgs"
+    "url": "https://j11g.com/how-to-fix-a-laptop-that-reboots-randomly",
+    "title": "How to fix a laptop that reboots randomly"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://kghose.github.io/2026/06/06/kobo-annotations.html",
+    "title": "DIY Kobo annotation backup"
   },
   {
     "source": "lobsters",
@@ -156,13 +146,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://noteflakes.com/articles/2026-06-07-automatic-buffer-management",
-    "title": "Exploring automatic Buffer Management with io_uring"
+    "url": "https://blog.includesecurity.com/2026/06/the-smart-tv-in-your-livingroom-is-a-node-in-the-aiscraping-economy/",
+    "title": "The Smart TV in Your LivingRoom Is a Node in the AIScraping Economy"
   },
   {
     "source": "lobsters",
-    "url": "https://blog.includesecurity.com/2026/06/the-smart-tv-in-your-livingroom-is-a-node-in-the-aiscraping-economy/",
-    "title": "The Smart TV in Your LivingRoom Is a Node in the AIScraping Economy"
+    "url": "https://haskellforall.com/2026/06/ergonomic-overrides-for-nixpkgs",
+    "title": "Ergonomic overrides for Nixpkgs"
   },
   {
     "source": "pinboard",
