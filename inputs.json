@@ -11,13 +11,8 @@
   },
   {
     "source": "hn",
-    "url": "https://ms365news.com/blogs/f/your-onedrive-data-now-has-an-expiry-data",
-    "title": "OneDrive data now has an expiry date"
-  },
-  {
-    "source": "hn",
-    "url": "https://teenage.engineering/products/apc-2",
-    "title": "APC–2 – A professional record cutter for producing original playback discs"
+    "url": "https://bittersoutherner.com/feature/2022/a-family-project",
+    "title": "A Family Project (2022)"
   },
   {
     "source": "hn",
@@ -26,38 +21,18 @@
   },
   {
     "source": "hn",
+    "url": "https://teenage.engineering/products/apc-2",
+    "title": "APC–2 – A professional record cutter for producing original playback discs"
+  },
+  {
+    "source": "hn",
     "url": "https://ranpara.net/posts/perceptron-explained-from-scratch/",
     "title": "The Smallest Brain You Can Build: A Perceptron in Python"
   },
   {
     "source": "hn",
-    "url": "https://prestonbjensen.com/posts/playing-with-vision-embeddings",
-    "title": "Playing with Vision Embeddings"
-  },
-  {
-    "source": "hn",
-    "url": "https://runtimewire.com/article/deepseek-v4-pro-beats-gpt-5-5-pro-on-precision",
-    "title": "DeepSeek V4 Pro beats GPT-5.5 Pro on precision"
-  },
-  {
-    "source": "hn",
-    "url": "https://algorithmichiring.github.io/",
-    "title": "Algorithmic Monocultures in Hiring"
-  },
-  {
-    "source": "hn",
-    "url": "https://twitter.com/rasbt/status/2063649136323252397",
-    "title": "Do agents.md files help coding agents?"
-  },
-  {
-    "source": "hn",
-    "url": "https://mastermariners.org.au/stories-from-the-past/6481-the-world-s-largest-floating-dry-dock-was-towed-across-the-atlantic-to-bermuda-in-1869",
-    "title": "Giant Floating Victorian Drydock"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.absurdlyoptimized.com/recipes/pancakes/",
-    "title": "Show HN: I Derived a Pancake"
+    "url": "https://ms365news.com/blogs/f/your-onedrive-data-now-has-an-expiry-data",
+    "title": "OneDrive data now has an expiry date"
   },
   {
     "source": "hn",
@@ -66,18 +41,38 @@
   },
   {
     "source": "hn",
+    "url": "https://reeserichardson.blog/2026/05/28/how-much-of-thermo-fishers-antibody-data-has-been-manipulated/",
+    "title": "How much of Thermo Fisher's antibody data has been manipulated?"
+  },
+  {
+    "source": "hn",
+    "url": "https://prestonbjensen.com/posts/playing-with-vision-embeddings",
+    "title": "Playing with Vision Embeddings"
+  },
+  {
+    "source": "hn",
+    "url": "https://algorithmichiring.github.io/",
+    "title": "Algorithmic Monocultures in Hiring"
+  },
+  {
+    "source": "hn",
+    "url": "https://runtimewire.com/article/deepseek-v4-pro-beats-gpt-5-5-pro-on-precision",
+    "title": "DeepSeek V4 Pro beats GPT-5.5 Pro on precision"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.absurdlyoptimized.com/recipes/pancakes/",
+    "title": "Show HN: I Derived a Pancake"
+  },
+  {
+    "source": "hn",
+    "url": "https://human-in-the-loop.bearblog.dev/replies-to-comments-on-my-llms-are-eroding-my-career-post/",
+    "title": "Replies to comments on my \"LLMs are eroding my career\" post"
+  },
+  {
+    "source": "hn",
     "url": "https://performance.dev/how-is-linear-so-fast-a-technical-breakdown",
     "title": "How's Linear so fast? A technical breakdown"
-  },
-  {
-    "source": "hn",
-    "url": "https://1worldflag.com/",
-    "title": "1worldflag: A blue dot on a transparent background"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.cl.cam.ac.uk/archive/rja14/tcpa-faq-1.0.html",
-    "title": "Trusted Computing Frequently Asked Questions (2003)"
   },
   {
     "source": "hn",
@@ -86,8 +81,8 @@
   },
   {
     "source": "hn",
-    "url": "https://groups.csail.mit.edu/medg/people/psz/Licklider.html",
-    "title": "Man-Computer Symbiosis J. C. R. Licklider (1960)"
+    "url": "https://mastermariners.org.au/stories-from-the-past/6481-the-world-s-largest-floating-dry-dock-was-towed-across-the-atlantic-to-bermuda-in-1869",
+    "title": "Giant Floating Victorian Drydock"
   },
   {
     "source": "hn",
@@ -106,6 +101,11 @@
   },
   {
     "source": "lobsters",
+    "url": "https://invlpg.com/posts/2025-06-19-premature-optimization.html",
+    "title": "Premature Optimization is Fun Sometimes"
+  },
+  {
+    "source": "lobsters",
     "url": "https://servo.org/blog/2026/05/31/april-in-servo/",
     "title": "April in Servo: new Android UI, focus, forms, security fixes, and more"
   },
@@ -121,8 +121,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://invlpg.com/posts/2025-06-19-premature-optimization.html",
-    "title": "Premature Optimization is Fun Sometimes"
+    "url": "https://tangled.org/devins.page/tinysub",
+    "title": "tinysub: full-featured web player for Open Subsonic compatible music servers"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://j11g.com/how-to-fix-a-laptop-that-reboots-randomly",
+    "title": "How to fix a laptop that reboots randomly"
   },
   {
     "source": "lobsters",
@@ -136,32 +141,102 @@
   },
   {
     "source": "lobsters",
-    "url": "https://j11g.com/how-to-fix-a-laptop-that-reboots-randomly",
-    "title": "How to fix a laptop that reboots randomly"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://tangled.org/devins.page/tinysub",
-    "title": "tinysub: full-featured web player for Open Subsonic compatible music servers"
-  },
-  {
-    "source": "lobsters",
     "url": "https://fzakaria.com/2026/06/05/the-guix-nix-abomination-leveraging-guix-derivations-in-nix",
     "title": "The Guix Nix Abomination: Leveraging Guix derivations in Nix"
   },
   {
     "source": "lobsters",
-    "url": "https://arch.dog/bark/entropy",
-    "title": "Entropy"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://pmbanugo.me/blog/why-queues-dont-fix-overload-and-what-to-do-instead",
-    "title": "Why Queues Don’t Fix Overload (And What To Do Instead)"
-  },
-  {
-    "source": "lobsters",
     "url": "https://0xkato.xyz/how-llms-actually-work/",
     "title": "How LLMs Actually Work"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.0xkato.xyz/how-llms-actually-work/",
+    "title": "How LLMs Actually Work | 0xkato"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.fieggen.com/shoelace/secureknot.htm",
+    "title": "Ian's Shoelace Site - Ian's Secure Shoelace Knot"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://passo.uno/fine-tuning-docs-llm/",
+    "title": "Fine-tuning an LLM to write docs like it's 1995 – Fabrizio Ferri Benedetti"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://sumnerevans.com/posts/software-engineering/stop-using-conventional-commits/",
+    "title": "Stop Using Conventional Commits - Sumner Evans"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://mechanical-pencil.com/",
+    "title": "Mechanical Pencil"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://ntsc.rs/",
+    "title": "ntsc-rs - an accurate VHS video effect"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://blog.includesecurity.com/2026/06/the-smart-tv-in-your-livingroom-is-a-node-in-the-aiscraping-economy/",
+    "title": "The Smart TV in Your LivingRoom Is a Node in the AIScraping Economy"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/quantization-aware-training-gemma-4/",
+    "title": "Gemma 4 QAT models: Optimizing model compression for mobile and laptop efficiency"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.theatlantic.com/philosophy/2026/06/no-artificial-intelligence-is-not-conscious/687378/",
+    "title": "No, Artificial Intelligence Is Not Conscious by Ted Chiang (The Atlantic, 6/3/2026)"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://ataraxy-labs.github.io/sem/",
+    "title": "sem"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://herbsutter.com/2026/06/04/c-the-documentary-released-today/",
+    "title": "C++: The Documentary released today – Sutter’s Mill"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.jeffgeerling.com/blog/2026/i-tested-every-ip-kvm/",
+    "title": "IP KVMs"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://mouseless.click/",
+    "title": "mouseless"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://standard.site/",
+    "title": "One schema. Every platform."
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.thenerdreich.com/ai-argentina-and-the-antichrist-thiels-vision-blooms/",
+    "title": "AI, Argentina and the Antichrist: Thiel’s Vision Blooms"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://worksinprogress.co/issue/samurai-city/",
+    "title": "Samurai city - Works in Progress Magazine"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://respeak-io.github.io/lucide-motion-vue/",
+    "title": "@respeak/lucide-motion-vue — 535 animated Lucide icons for Vue 3"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://franktisellano.github.io/datatype/?ref=simplebits.com",
+    "title": "Datatype — variable font that turns text into charts"
   }
 ]
