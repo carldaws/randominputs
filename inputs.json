@@ -6,11 +6,6 @@
   },
   {
     "source": "hn",
-    "url": "https://www.macrumors.com/2026/06/08/apple-reveals-new-ai-architecture/",
-    "title": "Apple reveals new AI architecture built around Google Gemini models"
-  },
-  {
-    "source": "hn",
     "url": "https://mimo.xiaomi.com/blog/mimo-tilert-1000tps",
     "title": "MiMo-v2.5-Pro-UltraSpeed: 1T model with 1000 tokens per second"
   },
@@ -26,13 +21,18 @@
   },
   {
     "source": "hn",
+    "url": "https://gitdot.io/",
+    "title": "Show HN: Gitdot – a better GitHub. Open-source, written in Rust"
+  },
+  {
+    "source": "hn",
     "url": "https://martinalderson.com/posts/xais-new-rental-business/",
     "title": "xAI is looking more like a datacentre REIT than a frontier lab"
   },
   {
     "source": "hn",
-    "url": "https://gitdot.io/",
-    "title": "Show HN: Gitdot – a better GitHub. Open-source, anti-AI, and written in Rust"
+    "url": "https://www.macrumors.com/2026/06/08/apple-reveals-new-ai-architecture/",
+    "title": "Apple reveals new AI architecture built around Google Gemini models"
   },
   {
     "source": "hn",
@@ -41,18 +41,13 @@
   },
   {
     "source": "hn",
+    "url": "https://www.pgedge.com/blog/looking-forward-to-postgres-19-query-hints",
+    "title": "Looking Forward to Postgres 19: Query Hints"
+  },
+  {
+    "source": "hn",
     "url": "https://talglobus.com/p/doing-something-thats-never-been-done-before/",
     "title": "Doing Something That's Never Been Done Before"
-  },
-  {
-    "source": "hn",
-    "url": "https://inavoyage.blogspot.com/2026/06/im-building-parallel-internet-and-its.html",
-    "title": "I'm building a parallel internet, and it's called The Thinnernet"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.admin.ch/en/sustainability-initiative",
-    "title": "Switzerland wil have a referendum to cap population at 10M"
   },
   {
     "source": "hn",
@@ -61,18 +56,18 @@
   },
   {
     "source": "hn",
+    "url": "https://inavoyage.blogspot.com/2026/06/im-building-parallel-internet-and-its.html",
+    "title": "I'm building a parallel internet, and it's called The Thinnernet"
+  },
+  {
+    "source": "hn",
     "url": "https://www.wheresyoured.at/ai-is-slowing-down/",
     "title": "AI is slowing down"
   },
   {
     "source": "hn",
-    "url": "https://kyle.au/blog/nosdesk-backend-rust",
-    "title": "120k Lines of Rust: Inside the Nosdesk Backend"
-  },
-  {
-    "source": "hn",
-    "url": "https://lowtechguys.com/musicdecoy/",
-    "title": "Stop the Apple Music app from launching"
+    "url": "https://www.admin.ch/en/sustainability-initiative",
+    "title": "Switzerland wil have a referendum to cap population at 10M"
   },
   {
     "source": "hn",
@@ -81,18 +76,23 @@
   },
   {
     "source": "hn",
+    "url": "https://lowtechguys.com/musicdecoy/",
+    "title": "Stop the Apple Music app from launching"
+  },
+  {
+    "source": "hn",
     "url": "https://wxwidgets.org/blog/2024/01/using-xdg-compliant-config-files/",
     "title": "Using XDG-Compliant Config Files (2024)"
   },
   {
     "source": "hn",
-    "url": "https://www.cypherpunkbooks.com",
-    "title": "The Cypherpunk Library"
+    "url": "https://kyle.au/blog/nosdesk-backend-rust",
+    "title": "120k Lines of Rust: Inside the Nosdesk Backend"
   },
   {
     "source": "hn",
-    "url": "https://1worldflag.com/",
-    "title": "1worldflag: A blue dot on a transparent background"
+    "url": "https://www.cypherpunkbooks.com",
+    "title": "The Cypherpunk Library"
   },
   {
     "source": "hn",
@@ -116,6 +116,16 @@
   },
   {
     "source": "lobsters",
+    "url": "https://forgejo.org/2026-05-monthly-report/",
+    "title": "Forgejo monthly report - May 2026"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://anil.recoil.org/notes/recoil-self-hosting-2026",
+    "title": "Self-hosting email the hard way from your own routable IPv4 block up"
+  },
+  {
+    "source": "lobsters",
     "url": "https://astral.sh/blog/uv-audit",
     "title": "Vulnerability and malware checks in uv"
   },
@@ -123,11 +133,6 @@
     "source": "lobsters",
     "url": "https://opensource.posit.co/blog/2026-05-21_in-defense-of-yaml/",
     "title": "In Defense of YAML"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://forgejo.org/2026-05-monthly-report/",
-    "title": "Forgejo monthly report - May 2026"
   },
   {
     "source": "lobsters",
@@ -146,8 +151,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://anil.recoil.org/notes/recoil-self-hosting-2026",
-    "title": "Self-hosting email the hard way from your own routable IPv4 block up"
+    "url": "https://codedbearder.com/posts/nixidy-part-1-introduction/",
+    "title": "Introduction to nixidy - Kubernetes GitOps with nix"
   },
   {
     "source": "lobsters",
@@ -158,16 +163,6 @@
     "source": "lobsters",
     "url": "https://thefoggiest.dev/2026/06/04/thunderbird-littering-my-home",
     "title": "Thunderbird littering my home"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://codedbearder.com/posts/nixidy-part-1-introduction/",
-    "title": "Introduction to nixidy - Kubernetes GitOps with nix"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://crowdhailer.me/2026-06-08/a-programming-language-for-humans/",
-    "title": "A programming language for humans"
   },
   {
     "source": "lobsters",
