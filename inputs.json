@@ -1,18 +1,23 @@
 [
   {
     "source": "hn",
+    "url": "https://vorpus.github.io/performativeUI/",
+    "title": "Show HN: Performative-UI – a react component library of design tropes"
+  },
+  {
+    "source": "hn",
     "url": "https://www.cypherpunkbooks.com",
     "title": "The Cypherpunk Library"
   },
   {
     "source": "hn",
-    "url": "https://handson.money/blog/2026-06-06-horse-arse-and-design/",
-    "title": "Spanish traders set the standard forGnuCash database design"
+    "url": "https://reeserichardson.blog/2026/05/28/how-much-of-thermo-fishers-antibody-data-has-been-manipulated/",
+    "title": "How much of Thermo Fisher's antibody data has been manipulated?"
   },
   {
     "source": "hn",
-    "url": "https://reeserichardson.blog/2026/05/28/how-much-of-thermo-fishers-antibody-data-has-been-manipulated/",
-    "title": "How much of Thermo Fisher's antibody data has been manipulated?"
+    "url": "https://pyrefly.org/blog/too-many-type-checkers/",
+    "title": "Are you expected to run five Python type-checkers now?"
   },
   {
     "source": "hn",
@@ -31,11 +36,6 @@
   },
   {
     "source": "hn",
-    "url": "https://bittersoutherner.com/feature/2022/a-family-project",
-    "title": "A Family Project (2022)"
-  },
-  {
-    "source": "hn",
     "url": "https://safedep.io/config-files-that-run-code/",
     "title": "Config Files That Run Code: Supply Chain Security Blindspot"
   },
@@ -46,13 +46,18 @@
   },
   {
     "source": "hn",
+    "url": "https://bittersoutherner.com/feature/2022/a-family-project",
+    "title": "A Family Project (2022)"
+  },
+  {
+    "source": "hn",
     "url": "https://ranpara.net/posts/perceptron-explained-from-scratch/",
     "title": "The Smallest Brain You Can Build: A Perceptron in Python"
   },
   {
     "source": "hn",
-    "url": "https://prestonbjensen.com/posts/playing-with-vision-embeddings",
-    "title": "Playing with Vision Embeddings"
+    "url": "https://mijndertstuij.nl/posts/life-is-too-short-for-a-slow-terminal/",
+    "title": "Life is too short for a slow terminal"
   },
   {
     "source": "hn",
@@ -61,13 +66,13 @@
   },
   {
     "source": "hn",
-    "url": "https://algorithmichiring.github.io/",
-    "title": "Algorithmic Monocultures in Hiring"
+    "url": "https://prestonbjensen.com/posts/playing-with-vision-embeddings",
+    "title": "Playing with Vision Embeddings"
   },
   {
     "source": "hn",
-    "url": "https://runtimewire.com/article/deepseek-v4-pro-beats-gpt-5-5-pro-on-precision",
-    "title": "DeepSeek V4 Pro beats GPT-5.5 Pro on precision"
+    "url": "https://www.absurdlyoptimized.com/recipes/pancakes/",
+    "title": "Show HN: I Derived a Pancake"
   },
   {
     "source": "hn",
@@ -81,8 +86,8 @@
   },
   {
     "source": "hn",
-    "url": "https://www.absurdlyoptimized.com/recipes/pancakes/",
-    "title": "Show HN: I Derived a Pancake"
+    "url": "https://runtimewire.com/article/deepseek-v4-pro-beats-gpt-5-5-pro-on-precision",
+    "title": "DeepSeek V4 Pro beats GPT-5.5 Pro on precision"
   },
   {
     "source": "lobsters",
@@ -101,13 +106,23 @@
   },
   {
     "source": "lobsters",
-    "url": "https://servo.org/blog/2026/05/31/april-in-servo/",
-    "title": "April in Servo: new Android UI, focus, forms, security fixes, and more"
+    "url": "https://www.chiply.dev/post-svg-line",
+    "title": "svg-line: Better Status Bars for Emacs"
   },
   {
     "source": "lobsters",
     "url": "https://lemire.me/blog/2026/06/06/how-much-do-amd64-microarchitecture-levels-help-in-go/",
     "title": "How much do amd64 microarchitecture levels help in Go?"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://servo.org/blog/2026/05/31/april-in-servo/",
+    "title": "April in Servo: new Android UI, focus, forms, security fixes, and more"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://hackers.pub/@hongminhee/2026/i-wish-deno-would-keep-doing-what-it-does-best",
+    "title": "I wish Deno would keep doing what it does best"
   },
   {
     "source": "lobsters",
@@ -126,8 +141,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://www.ioccc.org/2025/",
-    "title": "Winners of the 2025 International Obfuscated C Code Contest (IOCCC 29)"
+    "url": "https://xeiaso.net/blog/2026/dancing-mad-sandboxing/",
+    "title": "Dancing mad with sandboxing"
   },
   {
     "source": "lobsters",
@@ -136,8 +151,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://xeiaso.net/blog/2026/dancing-mad-sandboxing/",
-    "title": "Dancing mad with sandboxing"
+    "url": "https://www.ioccc.org/2025/",
+    "title": "Winners of the 2025 International Obfuscated C Code Contest (IOCCC 29)"
   },
   {
     "source": "pinboard",
