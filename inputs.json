@@ -1,13 +1,13 @@
 [
   {
     "source": "hn",
-    "url": "https://www.macrumors.com/2026/06/08/apple-reveals-new-ai-architecture/",
-    "title": "Apple reveals new AI architecture built around Google Gemini models"
+    "url": "https://signal.org/blog/pdfs/2026-06-08-uk-surveillance-is-not-safety.pdf",
+    "title": "Surveillance Is Not Safety: A statement on the UK's latest threat to privacy [pdf]"
   },
   {
     "source": "hn",
-    "url": "https://signal.org/blog/pdfs/2026-06-08-uk-surveillance-is-not-safety.pdf",
-    "title": "Surveillance Is Not Safety: A statement on the UK's latest threat to privacy [pdf]"
+    "url": "https://www.macrumors.com/2026/06/08/apple-reveals-new-ai-architecture/",
+    "title": "Apple reveals new AI architecture built around Google Gemini models"
   },
   {
     "source": "hn",
@@ -26,11 +26,6 @@
   },
   {
     "source": "hn",
-    "url": "https://siraben.github.io/ti84p-re/",
-    "title": "Full Reverse Engineering of the TI-84 Plus Operating System"
-  },
-  {
-    "source": "hn",
     "url": "https://martinalderson.com/posts/xais-new-rental-business/",
     "title": "xAI is looking more like a datacentre REIT than a frontier lab"
   },
@@ -41,8 +36,13 @@
   },
   {
     "source": "hn",
-    "url": "https://danielmangum.com/posts/fooling-go-x509-certificate-verification/",
-    "title": "Fooling Go's X.509 Certificate Verification"
+    "url": "https://cognition.ai/blog/frontier-code",
+    "title": "FrontierCode"
+  },
+  {
+    "source": "hn",
+    "url": "https://talglobus.com/p/doing-something-thats-never-been-done-before/",
+    "title": "Doing Something That's Never Been Done Before"
   },
   {
     "source": "hn",
@@ -56,13 +56,8 @@
   },
   {
     "source": "hn",
-    "url": "https://lowtechguys.com/musicdecoy/",
-    "title": "Stop the Apple Music app from launching"
-  },
-  {
-    "source": "hn",
-    "url": "https://ocamlpro.com/blog/2025_07_29_ocaml_onboarding_introduction_to_dune/",
-    "title": "OCaml Onboarding: Introduction to the Dune build system"
+    "url": "https://danielmangum.com/posts/fooling-go-x509-certificate-verification/",
+    "title": "Fooling Go's X.509 Certificate Verification"
   },
   {
     "source": "hn",
@@ -71,13 +66,18 @@
   },
   {
     "source": "hn",
-    "url": "https://cognition.ai/blog/frontier-code",
-    "title": "FrontierCode"
+    "url": "https://kyle.au/blog/nosdesk-backend-rust",
+    "title": "120k Lines of Rust: Inside the Nosdesk Backend"
   },
   {
     "source": "hn",
-    "url": "https://kyle.au/blog/nosdesk-backend-rust",
-    "title": "120k Lines of Rust: Inside the Nosdesk Backend"
+    "url": "https://lowtechguys.com/musicdecoy/",
+    "title": "Stop the Apple Music app from launching"
+  },
+  {
+    "source": "hn",
+    "url": "https://ocamlpro.com/blog/2025_07_29_ocaml_onboarding_introduction_to_dune/",
+    "title": "OCaml Onboarding: Introduction to the Dune build system"
   },
   {
     "source": "hn",
@@ -91,8 +91,8 @@
   },
   {
     "source": "hn",
-    "url": "https://thefoggiest.dev/2026/06/04/thunderbird-littering-my-home",
-    "title": "Thunderbird Littering My Home"
+    "url": "https://1worldflag.com/",
+    "title": "1worldflag: A blue dot on a transparent background"
   },
   {
     "source": "hn",
@@ -126,18 +126,13 @@
   },
   {
     "source": "lobsters",
-    "url": "http://ozark.hendrix.edu/~yorgey/forest/00FD/index.xml",
-    "title": "To my students"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://lemire.me/blog/2026/06/06/how-much-do-amd64-microarchitecture-levels-help-in-go/",
-    "title": "How much do amd64 microarchitecture levels help in Go?"
-  },
-  {
-    "source": "lobsters",
     "url": "https://forgejo.org/2026-05-monthly-report/",
     "title": "Forgejo monthly report - May 2026"
+  },
+  {
+    "source": "lobsters",
+    "url": "http://ozark.hendrix.edu/~yorgey/forest/00FD/index.xml",
+    "title": "To my students"
   },
   {
     "source": "lobsters",
@@ -146,8 +141,28 @@
   },
   {
     "source": "lobsters",
+    "url": "https://lemire.me/blog/2026/06/06/how-much-do-amd64-microarchitecture-levels-help-in-go/",
+    "title": "How much do amd64 microarchitecture levels help in Go?"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://anil.recoil.org/notes/recoil-self-hosting-2026",
+    "title": "Self-hosting email the hard way from your own routable IPv4 block up"
+  },
+  {
+    "source": "lobsters",
     "url": "https://servo.org/blog/2026/05/31/april-in-servo/",
     "title": "April in Servo: new Android UI, focus, forms, security fixes, and more"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://thefoggiest.dev/2026/06/04/thunderbird-littering-my-home",
+    "title": "Thunderbird littering my home"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://codedbearder.com/posts/nixidy-part-1-introduction/",
+    "title": "Introduction to nixidy - Kubernetes GitOps with nix"
   },
   {
     "source": "lobsters",
@@ -163,10 +178,5 @@
     "source": "lobsters",
     "url": "https://lewiscampbell.tech/blog/260607.html",
     "title": "The User Doesn't Care - But you should"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://codedbearder.com/posts/nixidy-part-1-introduction/",
-    "title": "Introduction to nixidy - Kubernetes GitOps with nix"
   }
 ]
