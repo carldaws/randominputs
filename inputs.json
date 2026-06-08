@@ -6,6 +6,21 @@
   },
   {
     "source": "hn",
+    "url": "https://mimo.xiaomi.com/blog/mimo-tilert-1000tps",
+    "title": "MiMo-v2.5-Pro-UltraSpeed: 1T model with 1000 tokens per second"
+  },
+  {
+    "source": "hn",
+    "url": "https://ocamlpro.com/blog/2025_07_29_ocaml_onboarding_introduction_to_dune/",
+    "title": "OCaml Onboarding: Introduction to the Dune build system"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.404media.co/a-farmer-donated-land-to-turn-into-a-park-the-city-is-building-a-massive-data-center-instead/",
+    "title": "A Farmer Donated Land to Turn into a Park. The City Is Building a Data Center"
+  },
+  {
+    "source": "hn",
     "url": "https://www.cypherpunkbooks.com",
     "title": "The Cypherpunk Library"
   },
@@ -13,11 +28,6 @@
     "source": "hn",
     "url": "https://reeserichardson.blog/2026/05/28/how-much-of-thermo-fishers-antibody-data-has-been-manipulated/",
     "title": "How much of Thermo Fisher's antibody data has been manipulated?"
-  },
-  {
-    "source": "hn",
-    "url": "https://pyrefly.org/blog/too-many-type-checkers/",
-    "title": "Are you expected to run five Python type-checkers now?"
   },
   {
     "source": "hn",
@@ -41,6 +51,11 @@
   },
   {
     "source": "hn",
+    "url": "https://ranpara.net/posts/perceptron-explained-from-scratch/",
+    "title": "The Smallest Brain You Can Build: A Perceptron in Python"
+  },
+  {
+    "source": "hn",
     "url": "https://teenage.engineering/products/apc-2",
     "title": "APC–2 – A professional record cutter for producing original playback discs"
   },
@@ -51,21 +66,6 @@
   },
   {
     "source": "hn",
-    "url": "https://ranpara.net/posts/perceptron-explained-from-scratch/",
-    "title": "The Smallest Brain You Can Build: A Perceptron in Python"
-  },
-  {
-    "source": "hn",
-    "url": "https://mijndertstuij.nl/posts/life-is-too-short-for-a-slow-terminal/",
-    "title": "Life is too short for a slow terminal"
-  },
-  {
-    "source": "hn",
-    "url": "https://blogs.nvidia.com/blog/nvidia-and-lg-group-ai-factory/",
-    "title": "Nvidia partners with LG robotics to build humanoid robots in South Korea"
-  },
-  {
-    "source": "hn",
     "url": "https://prestonbjensen.com/posts/playing-with-vision-embeddings",
     "title": "Playing with Vision Embeddings"
   },
@@ -73,21 +73,6 @@
     "source": "hn",
     "url": "https://www.absurdlyoptimized.com/recipes/pancakes/",
     "title": "Show HN: I Derived a Pancake"
-  },
-  {
-    "source": "hn",
-    "url": "https://blog.gplane.win/posts/introducing-amber-tree.html",
-    "title": "Amber Tree: A Middle Ground Between Rowan Red and Green Trees"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.sfu.ca/~gwa5/pdf/2020_04.pdf",
-    "title": "A modular impact diverting mechanism for football helmets [pdf]"
-  },
-  {
-    "source": "hn",
-    "url": "https://runtimewire.com/article/deepseek-v4-pro-beats-gpt-5-5-pro-on-precision",
-    "title": "DeepSeek V4 Pro beats GPT-5.5 Pro on precision"
   },
   {
     "source": "lobsters",
@@ -101,13 +86,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://opensource.posit.co/blog/2026-05-21_in-defense-of-yaml/",
-    "title": "In Defense of YAML"
+    "url": "https://www.chiply.dev/post-svg-line",
+    "title": "svg-line: Better Status Bars for Emacs"
   },
   {
     "source": "lobsters",
-    "url": "https://www.chiply.dev/post-svg-line",
-    "title": "svg-line: Better Status Bars for Emacs"
+    "url": "https://opensource.posit.co/blog/2026-05-21_in-defense-of-yaml/",
+    "title": "In Defense of YAML"
   },
   {
     "source": "lobsters",
@@ -116,18 +101,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://servo.org/blog/2026/05/31/april-in-servo/",
-    "title": "April in Servo: new Android UI, focus, forms, security fixes, and more"
-  },
-  {
-    "source": "lobsters",
     "url": "https://hackers.pub/@hongminhee/2026/i-wish-deno-would-keep-doing-what-it-does-best",
     "title": "I wish Deno would keep doing what it does best"
   },
   {
     "source": "lobsters",
-    "url": "https://lewiscampbell.tech/blog/260607.html",
-    "title": "The User Doesn't Care - But you should"
+    "url": "https://servo.org/blog/2026/05/31/april-in-servo/",
+    "title": "April in Servo: new Android UI, focus, forms, security fixes, and more"
   },
   {
     "source": "lobsters",
@@ -136,117 +116,22 @@
   },
   {
     "source": "lobsters",
+    "url": "https://lewiscampbell.tech/blog/260607.html",
+    "title": "The User Doesn't Care - But you should"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://astral.sh/blog/uv-audit",
+    "title": "Vulnerability and malware checks in uv"
+  },
+  {
+    "source": "lobsters",
     "url": "https://j11g.com/how-to-fix-a-laptop-that-reboots-randomly",
     "title": "How to fix a laptop that reboots randomly"
   },
   {
     "source": "lobsters",
-    "url": "https://xeiaso.net/blog/2026/dancing-mad-sandboxing/",
-    "title": "Dancing mad with sandboxing"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://mercurial-scm.org/news/2026/0005-london-sprint-recap",
-    "title": "Recapping the London Mercurial sprint"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://www.ioccc.org/2025/",
-    "title": "Winners of the 2025 International Obfuscated C Code Contest (IOCCC 29)"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.0xkato.xyz/how-llms-actually-work/",
-    "title": "How LLMs Actually Work | 0xkato"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.fieggen.com/shoelace/secureknot.htm",
-    "title": "Ian's Shoelace Site - Ian's Secure Shoelace Knot"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://passo.uno/fine-tuning-docs-llm/",
-    "title": "Fine-tuning an LLM to write docs like it's 1995 – Fabrizio Ferri Benedetti"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://sumnerevans.com/posts/software-engineering/stop-using-conventional-commits/",
-    "title": "Stop Using Conventional Commits - Sumner Evans"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://mechanical-pencil.com/",
-    "title": "Mechanical Pencil"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://ntsc.rs/",
-    "title": "ntsc-rs - an accurate VHS video effect"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://blog.includesecurity.com/2026/06/the-smart-tv-in-your-livingroom-is-a-node-in-the-aiscraping-economy/",
-    "title": "The Smart TV in Your LivingRoom Is a Node in the AIScraping Economy"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/quantization-aware-training-gemma-4/",
-    "title": "Gemma 4 QAT models: Optimizing model compression for mobile and laptop efficiency"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.theatlantic.com/philosophy/2026/06/no-artificial-intelligence-is-not-conscious/687378/",
-    "title": "No, Artificial Intelligence Is Not Conscious by Ted Chiang (The Atlantic, 6/3/2026)"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://ataraxy-labs.github.io/sem/",
-    "title": "sem"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://herbsutter.com/2026/06/04/c-the-documentary-released-today/",
-    "title": "C++: The Documentary released today – Sutter’s Mill"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.jeffgeerling.com/blog/2026/i-tested-every-ip-kvm/",
-    "title": "IP KVMs"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://mouseless.click/",
-    "title": "mouseless"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://standard.site/",
-    "title": "One schema. Every platform."
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.thenerdreich.com/ai-argentina-and-the-antichrist-thiels-vision-blooms/",
-    "title": "AI, Argentina and the Antichrist: Thiel’s Vision Blooms"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://performance.dev/how-is-linear-so-fast-a-technical-breakdown",
-    "title": "How's Linear so fast? A technical breakdown"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://worksinprogress.co/issue/samurai-city/",
-    "title": "Samurai city - Works in Progress Magazine"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://respeak-io.github.io/lucide-motion-vue/",
-    "title": "@respeak/lucide-motion-vue — 535 animated Lucide icons for Vue 3"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://franktisellano.github.io/datatype/?ref=simplebits.com",
-    "title": "Datatype — variable font that turns text into charts"
+    "url": "https://codedbearder.com/posts/nixidy-part-1-introduction/",
+    "title": "Introduction to nixidy - Kubernetes GitOps with nix"
   }
 ]
