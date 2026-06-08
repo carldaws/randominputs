@@ -1,8 +1,18 @@
 [
   {
     "source": "hn",
+    "url": "https://igerman.cc/blog/dopamine-fracking/",
+    "title": "Dopamine Fracking"
+  },
+  {
+    "source": "hn",
     "url": "https://teenage.engineering/products/apc-2",
     "title": "APC–2 – A professional record cutter for producing original playback discs"
+  },
+  {
+    "source": "hn",
+    "url": "https://b-ark.ca/2026/06/07/cannibalism.html",
+    "title": "Cannibalism"
   },
   {
     "source": "hn",
@@ -11,18 +21,8 @@
   },
   {
     "source": "hn",
-    "url": "https://igerman.cc/blog/dopamine-fracking/",
-    "title": "Dopamine Fracking"
-  },
-  {
-    "source": "hn",
     "url": "https://gavinray97.github.io/blog/building-from-zero-after-addiction-prison-felony",
     "title": "Building from zero after addiction, prison, and a felony"
-  },
-  {
-    "source": "hn",
-    "url": "https://runtimewire.com/article/deepseek-v4-pro-beats-gpt-5-5-pro-on-precision",
-    "title": "DeepSeek V4 Pro beats GPT-5.5 Pro on precision"
   },
   {
     "source": "hn",
@@ -36,8 +36,23 @@
   },
   {
     "source": "hn",
+    "url": "https://prestonbjensen.com/posts/playing-with-vision-embeddings",
+    "title": "Playing with Vision Embeddings"
+  },
+  {
+    "source": "hn",
+    "url": "https://runtimewire.com/article/deepseek-v4-pro-beats-gpt-5-5-pro-on-precision",
+    "title": "DeepSeek V4 Pro beats GPT-5.5 Pro on precision"
+  },
+  {
+    "source": "hn",
     "url": "https://www.absurdlyoptimized.com/recipes/pancakes/",
     "title": "Show HN: I Derived a Pancake"
+  },
+  {
+    "source": "hn",
+    "url": "https://twitter.com/rasbt/status/2063649136323252397",
+    "title": "Do agents.md files help coding agents?"
   },
   {
     "source": "hn",
@@ -56,23 +71,13 @@
   },
   {
     "source": "hn",
-    "url": "https://www.righto.com/2026/06/ibm-604-thyraton-tube-module.html",
-    "title": "Powering up a module from the IBM 604: an electronic calculator from 1948"
-  },
-  {
-    "source": "hn",
     "url": "https://human-in-the-loop.bearblog.dev/llms-are-eroding-my-software-engineering-career-and-i-dont-know-what-to-do/",
     "title": "LLMs are eroding my software engineering career and I don't know what to do"
   },
   {
     "source": "hn",
-    "url": "https://blog.brixit.nl/cloning-a-sennheiser-ba2015-accu-pack/",
-    "title": "Cloning a Sennheiser BA2015 battery pack"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.alexself.dev/blog/automated-doubt",
-    "title": "My automated doubt development process"
+    "url": "https://www.righto.com/2026/06/ibm-604-thyraton-tube-module.html",
+    "title": "Powering up a module from the IBM 604: an electronic calculator from 1948"
   },
   {
     "source": "lobsters",
@@ -81,8 +86,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://lewiscampbell.tech/blog/260607.html",
-    "title": "The User Doesn't Care - But you should"
+    "url": "https://opensource.posit.co/blog/2026-05-21_in-defense-of-yaml/",
+    "title": "In Defense of YAML"
   },
   {
     "source": "lobsters",
@@ -91,18 +96,23 @@
   },
   {
     "source": "lobsters",
-    "url": "https://opensource.posit.co/blog/2026-05-21_in-defense-of-yaml/",
-    "title": "In Defense of YAML"
+    "url": "https://lewiscampbell.tech/blog/260607.html",
+    "title": "The User Doesn't Care - But you should"
   },
   {
     "source": "lobsters",
-    "url": "https://mercurial-scm.org/news/2026/0005-london-sprint-recap",
-    "title": "Recapping the London Mercurial sprint"
+    "url": "https://lemire.me/blog/2026/06/06/how-much-do-amd64-microarchitecture-levels-help-in-go/",
+    "title": "How much do amd64 microarchitecture levels help in Go?"
   },
   {
     "source": "lobsters",
     "url": "https://xeiaso.net/blog/2026/dancing-mad-sandboxing/",
     "title": "Dancing mad with sandboxing"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://mercurial-scm.org/news/2026/0005-london-sprint-recap",
+    "title": "Recapping the London Mercurial sprint"
   },
   {
     "source": "lobsters",
@@ -116,18 +126,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://0xkato.xyz/how-llms-actually-work/",
-    "title": "How LLMs Actually Work"
-  },
-  {
-    "source": "lobsters",
     "url": "https://pmbanugo.me/blog/why-queues-dont-fix-overload-and-what-to-do-instead",
     "title": "Why Queues Don’t Fix Overload (And What To Do Instead)"
   },
   {
     "source": "lobsters",
-    "url": "https://mijndertstuij.nl/posts/life-is-too-short-for-a-slow-terminal/",
-    "title": "Life is too short for a slow terminal"
+    "url": "https://0xkato.xyz/how-llms-actually-work/",
+    "title": "How LLMs Actually Work"
   },
   {
     "source": "lobsters",
@@ -136,33 +141,23 @@
   },
   {
     "source": "lobsters",
+    "url": "https://mijndertstuij.nl/posts/life-is-too-short-for-a-slow-terminal/",
+    "title": "Life is too short for a slow terminal"
+  },
+  {
+    "source": "lobsters",
     "url": "https://kghose.github.io/2026/06/06/kobo-annotations.html",
     "title": "DIY Kobo annotation backup"
   },
   {
     "source": "lobsters",
+    "url": "https://www.makingsoftware.com/chapters/image-compression",
+    "title": "Image Compression"
+  },
+  {
+    "source": "lobsters",
     "url": "https://sigbovik.org/2026/proceedings.pdf",
     "title": "SIGBOVIK 2026 Conference Proceedings"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://blog.includesecurity.com/2026/06/the-smart-tv-in-your-livingroom-is-a-node-in-the-aiscraping-economy/",
-    "title": "The Smart TV in Your LivingRoom Is a Node in the AIScraping Economy"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://haskellforall.com/2026/06/ergonomic-overrides-for-nixpkgs",
-    "title": "Ergonomic overrides for Nixpkgs"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.fieggen.com/shoelace/secureknot.htm",
-    "title": "Ian's Shoelace Site - Ian's Secure Shoelace Knot"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.theatlantic.com/philosophy/2026/06/no-artificial-intelligence-is-not-conscious/687378/",
-    "title": "No, Artificial Intelligence Is Not Conscious by Ted Chiang (The Atlantic, 6/3/2026)"
   },
   {
     "source": "pinboard",
@@ -171,18 +166,13 @@
   },
   {
     "source": "pinboard",
-    "url": "https://maxleiter.com/blog/weights",
-    "title": "They're Made Out of Weights"
+    "url": "https://www.fieggen.com/shoelace/secureknot.htm",
+    "title": "Ian's Shoelace Site - Ian's Secure Shoelace Knot"
   },
   {
     "source": "pinboard",
     "url": "https://passo.uno/fine-tuning-docs-llm/",
     "title": "Fine-tuning an LLM to write docs like it's 1995 – Fabrizio Ferri Benedetti"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://worksinprogress.co/issue/samurai-city/",
-    "title": "Samurai city - Works in Progress Magazine"
   },
   {
     "source": "pinboard",
@@ -196,18 +186,28 @@
   },
   {
     "source": "pinboard",
-    "url": "https://havenweb.org/2026/05/28/retro-tech.html",
-    "title": "Haven Blog: Retro-Tech Parenting"
+    "url": "https://ntsc.rs/",
+    "title": "ntsc-rs - an accurate VHS video effect"
   },
   {
     "source": "pinboard",
-    "url": "https://mouseless.click/",
-    "title": "mouseless"
+    "url": "https://blog.includesecurity.com/2026/06/the-smart-tv-in-your-livingroom-is-a-node-in-the-aiscraping-economy/",
+    "title": "The Smart TV in Your LivingRoom Is a Node in the AIScraping Economy"
   },
   {
     "source": "pinboard",
-    "url": "https://www.theatlantic.com/philosophy/2026/06/no-artificial-intelligence-is-not-conscious/687378/?gift=R2zbWGNBDp_xHqoa7Q8ZRp-EV6jGaHiamQBxQQlMJqI",
-    "title": "No, Artificial Intelligence Is Not Conscious - The Atlantic"
+    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/quantization-aware-training-gemma-4/",
+    "title": "Gemma 4 QAT models: Optimizing model compression for mobile and laptop efficiency"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.theatlantic.com/philosophy/2026/06/no-artificial-intelligence-is-not-conscious/687378/",
+    "title": "No, Artificial Intelligence Is Not Conscious by Ted Chiang (The Atlantic, 6/3/2026)"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://ataraxy-labs.github.io/sem/",
+    "title": "sem"
   },
   {
     "source": "pinboard",
@@ -216,32 +216,37 @@
   },
   {
     "source": "pinboard",
-    "url": "https://isaiprofitable.com/",
-    "title": "Is AI Profitable Yet?"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://news.ycombinator.com/item?id=48347483",
-    "title": "Learn SQL Once, Use It for 30 Years | Hacker News"
-  },
-  {
-    "source": "pinboard",
     "url": "https://www.jeffgeerling.com/blog/2026/i-tested-every-ip-kvm/",
     "title": "IP KVMs"
   },
   {
     "source": "pinboard",
-    "url": "https://burntsushi.net/encephalitis/",
-    "title": "Encephalitis - Andrew Gallant's Blog"
+    "url": "https://mouseless.click/",
+    "title": "mouseless"
   },
   {
     "source": "pinboard",
-    "url": "https://ntsc.rs/",
-    "title": "ntsc-rs - an accurate VHS video effect"
+    "url": "https://standard.site/",
+    "title": "One schema. Every platform."
   },
   {
     "source": "pinboard",
     "url": "https://www.thenerdreich.com/ai-argentina-and-the-antichrist-thiels-vision-blooms/",
     "title": "AI, Argentina and the Antichrist: Thiel’s Vision Blooms"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://worksinprogress.co/issue/samurai-city/",
+    "title": "Samurai city - Works in Progress Magazine"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://respeak-io.github.io/lucide-motion-vue/",
+    "title": "@respeak/lucide-motion-vue — 535 animated Lucide icons for Vue 3"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://franktisellano.github.io/datatype/?ref=simplebits.com",
+    "title": "Datatype — variable font that turns text into charts"
   }
 ]
