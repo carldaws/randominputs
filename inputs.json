@@ -6,6 +6,11 @@
   },
   {
     "source": "hn",
+    "url": "https://runtimewire.com/article/deepseek-v4-pro-beats-gpt-5-5-pro-on-precision",
+    "title": "DeepSeek V4 Pro beats GPT-5.5 Pro on precision"
+  },
+  {
+    "source": "hn",
     "url": "https://ranpara.net/posts/perceptron-explained-from-scratch/",
     "title": "The Smallest Brain You Can Build: A Perceptron in Python"
   },
@@ -13,6 +18,11 @@
     "source": "hn",
     "url": "https://gavinray97.github.io/blog/building-from-zero-after-addiction-prison-felony",
     "title": "Building from zero after addiction, prison, and a felony"
+  },
+  {
+    "source": "hn",
+    "url": "https://algorithmichiring.github.io/",
+    "title": "Algorithmic Monocultures in Hiring"
   },
   {
     "source": "hn",
@@ -31,13 +41,13 @@
   },
   {
     "source": "hn",
-    "url": "https://www.alexself.dev/blog/automated-doubt",
-    "title": "My automated doubt development process"
+    "url": "https://1worldflag.com/",
+    "title": "1worldflag: A blue dot on a transparent background"
   },
   {
     "source": "hn",
-    "url": "https://human-in-the-loop.bearblog.dev/llms-are-eroding-my-software-engineering-career-and-i-dont-know-what-to-do/",
-    "title": "LLMs are eroding my software engineering career and I don't know what to do"
+    "url": "https://groups.csail.mit.edu/medg/people/psz/Licklider.html",
+    "title": "Man-Computer Symbiosis J. C. R. Licklider (1960)"
   },
   {
     "source": "hn",
@@ -46,8 +56,23 @@
   },
   {
     "source": "hn",
+    "url": "https://human-in-the-loop.bearblog.dev/llms-are-eroding-my-software-engineering-career-and-i-dont-know-what-to-do/",
+    "title": "LLMs are eroding my software engineering career and I don't know what to do"
+  },
+  {
+    "source": "hn",
     "url": "https://blog.brixit.nl/cloning-a-sennheiser-ba2015-accu-pack/",
     "title": "Cloning a Sennheiser BA2015 battery pack"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.alexself.dev/blog/automated-doubt",
+    "title": "My automated doubt development process"
+  },
+  {
+    "source": "hn",
+    "url": "https://manticoresearch.com/blog/knn-early-termination/",
+    "title": "KNN early termination in Manticore Search"
   },
   {
     "source": "hn",
@@ -56,23 +81,8 @@
   },
   {
     "source": "hn",
-    "url": "https://blog.podman.io/2025/10/podman-6-machine-usability-improvements/",
-    "title": "Podman 6: machine usability improvements (2025)"
-  },
-  {
-    "source": "hn",
     "url": "https://www.radioworld.com/news-and-business/headlines/an-ohio-valley-100000-watt-fm-signal-is-severed-in-broad-daylight",
     "title": "An Ohio Valley 100k-watt FM signal is severed in broad daylight"
-  },
-  {
-    "source": "hn",
-    "url": "https://blog.janestreet.com/i-design-with-claude-code-more-than-figma-now-index/",
-    "title": "I design with Claude more than Figma now"
-  },
-  {
-    "source": "hn",
-    "url": "https://manticoresearch.com/blog/knn-early-termination/",
-    "title": "KNN early termination in Manticore Search"
   },
   {
     "source": "lobsters",
@@ -96,18 +106,23 @@
   },
   {
     "source": "lobsters",
-    "url": "https://fzakaria.com/2026/06/05/the-guix-nix-abomination-leveraging-guix-derivations-in-nix",
-    "title": "The Guix Nix Abomination: Leveraging Guix derivations in Nix"
-  },
-  {
-    "source": "lobsters",
     "url": "https://xeiaso.net/blog/2026/dancing-mad-sandboxing/",
     "title": "Dancing mad with sandboxing"
   },
   {
     "source": "lobsters",
+    "url": "https://fzakaria.com/2026/06/05/the-guix-nix-abomination-leveraging-guix-derivations-in-nix",
+    "title": "The Guix Nix Abomination: Leveraging Guix derivations in Nix"
+  },
+  {
+    "source": "lobsters",
     "url": "https://0xkato.xyz/how-llms-actually-work/",
     "title": "How LLMs Actually Work"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://opensource.posit.co/blog/2026-05-21_in-defense-of-yaml/",
+    "title": "In Defense of YAML"
   },
   {
     "source": "lobsters",
@@ -136,8 +151,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://opensource.posit.co/blog/2026-05-21_in-defense-of-yaml/",
-    "title": "In Defense of YAML"
+    "url": "https://sigbovik.org/2026/proceedings.pdf",
+    "title": "SIGBOVIK 2026 Conference Proceedings"
   },
   {
     "source": "lobsters",
@@ -148,11 +163,6 @@
     "source": "lobsters",
     "url": "https://blog.includesecurity.com/2026/06/the-smart-tv-in-your-livingroom-is-a-node-in-the-aiscraping-economy/",
     "title": "The Smart TV in Your LivingRoom Is a Node in the AIScraping Economy"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://sigbovik.org/2026/proceedings.pdf",
-    "title": "SIGBOVIK 2026 Conference Proceedings"
   },
   {
     "source": "pinboard",
