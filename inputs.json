@@ -1,13 +1,28 @@
 [
   {
     "source": "hn",
+    "url": "https://mimo.xiaomi.com/blog/mimo-tilert-1000tps",
+    "title": "MiMo-v2.5-Pro-UltraSpeed: 1T model with 1000 tokens per second"
+  },
+  {
+    "source": "hn",
+    "url": "https://lowtechguys.com/musicdecoy/",
+    "title": "Stop the Apple Music app from launching"
+  },
+  {
+    "source": "hn",
     "url": "https://vorpus.github.io/performativeUI/",
     "title": "Show HN: Performative-UI – a react component library of design tropes"
   },
   {
     "source": "hn",
-    "url": "https://mimo.xiaomi.com/blog/mimo-tilert-1000tps",
-    "title": "MiMo-v2.5-Pro-UltraSpeed: 1T model with 1000 tokens per second"
+    "url": "https://siraben.github.io/ti84p-re/",
+    "title": "Full Reverse Engineering of the TI-84 Plus Operating System"
+  },
+  {
+    "source": "hn",
+    "url": "https://martinalderson.com/posts/xais-new-rental-business/",
+    "title": "xAI is looking more like a datacentre REIT than a frontier lab"
   },
   {
     "source": "hn",
@@ -21,8 +36,23 @@
   },
   {
     "source": "hn",
+    "url": "https://thefoggiest.dev/2026/06/04/thunderbird-littering-my-home",
+    "title": "Thunderbird Littering My Home"
+  },
+  {
+    "source": "hn",
+    "url": "https://cs-syd.eu/posts/2026-06-03-mutation-testing-in-haskell",
+    "title": "Mutation Testing in Haskell"
+  },
+  {
+    "source": "hn",
     "url": "https://www.cypherpunkbooks.com",
     "title": "The Cypherpunk Library"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.wheresyoured.at/ai-is-slowing-down/",
+    "title": "AI Is Slowing Down"
   },
   {
     "source": "hn",
@@ -36,102 +66,107 @@
   },
   {
     "source": "hn",
-    "url": "https://gavinray97.github.io/blog/building-from-zero-after-addiction-prison-felony",
-    "title": "Building from zero after addiction, prison, and a felony"
+    "url": "https://pyrefly.org/blog/too-many-type-checkers/",
+    "title": "Are you expected to run five Python type-checkers now?"
   },
   {
     "source": "hn",
-    "url": "https://www.jasondavies.com/maps/voronoi/",
-    "title": "Spherical Voronoi Diagram"
+    "url": "https://mijndertstuij.nl/posts/life-is-too-short-for-a-slow-terminal/",
+    "title": "Life is too short for a slow terminal"
   },
   {
     "source": "hn",
-    "url": "https://safedep.io/config-files-that-run-code/",
-    "title": "Config Files That Run Code: Supply Chain Security Blindspot"
+    "url": "https://unsung.aresluna.org/good-type-against-all-odds/",
+    "title": "Good type against all odds"
   },
   {
     "source": "hn",
-    "url": "https://ranpara.net/posts/perceptron-explained-from-scratch/",
-    "title": "The Smallest Brain You Can Build: A Perceptron in Python"
+    "url": "https://handson.money/blog/2026-06-06-horse-arse-and-design/",
+    "title": "Spanish traders set the standard for GnuCash database design"
   },
   {
     "source": "hn",
-    "url": "https://teenage.engineering/products/apc-2",
-    "title": "APC–2 – A professional record cutter for producing original playback discs"
-  },
-  {
-    "source": "hn",
-    "url": "https://bittersoutherner.com/feature/2022/a-family-project",
-    "title": "A Family Project (2022)"
-  },
-  {
-    "source": "hn",
-    "url": "https://prestonbjensen.com/posts/playing-with-vision-embeddings",
-    "title": "Playing with Vision Embeddings"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.absurdlyoptimized.com/recipes/pancakes/",
-    "title": "Show HN: I Derived a Pancake"
+    "url": "https://human-in-the-loop.bearblog.dev/replies-to-comments-on-my-llms-are-eroding-my-career-post/",
+    "title": "Replies to comments on my \"LLMs are eroding my career\" post"
   },
   {
     "source": "lobsters",
-    "url": "https://invlpg.com/posts/2025-06-19-premature-optimization.html",
-    "title": "Premature Optimization is Fun Sometimes"
-  },
-  {
-    "source": "lobsters",
-    "url": "http://ozark.hendrix.edu/~yorgey/forest/00FD/index.xml",
-    "title": "To my students"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://www.chiply.dev/post-svg-line",
-    "title": "svg-line: Better Status Bars for Emacs"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://opensource.posit.co/blog/2026-05-21_in-defense-of-yaml/",
-    "title": "In Defense of YAML"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://lemire.me/blog/2026/06/06/how-much-do-amd64-microarchitecture-levels-help-in-go/",
-    "title": "How much do amd64 microarchitecture levels help in Go?"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://hackers.pub/@hongminhee/2026/i-wish-deno-would-keep-doing-what-it-does-best",
-    "title": "I wish Deno would keep doing what it does best"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://servo.org/blog/2026/05/31/april-in-servo/",
-    "title": "April in Servo: new Android UI, focus, forms, security fixes, and more"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://tangled.org/devins.page/tinysub",
-    "title": "tinysub: full-featured web player for Open Subsonic compatible music servers"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://lewiscampbell.tech/blog/260607.html",
-    "title": "The User Doesn't Care - But you should"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://astral.sh/blog/uv-audit",
-    "title": "Vulnerability and malware checks in uv"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://j11g.com/how-to-fix-a-laptop-that-reboots-randomly",
-    "title": "How to fix a laptop that reboots randomly"
+    "url": "https://www.redox-os.org/news/this-month-260531/",
+    "title": "This Month in Redox - May 2026 - Redox - Your Next(Gen) OS"
   },
   {
     "source": "lobsters",
     "url": "https://codedbearder.com/posts/nixidy-part-1-introduction/",
     "title": "Introduction to nixidy - Kubernetes GitOps with nix"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://performance.dev/how-is-linear-so-fast-a-technical-breakdown",
+    "title": "How's Linear so fast? A technical breakdown"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://xeiaso.net/blog/2026/dancing-mad-sandboxing/",
+    "title": "Dancing mad with sandboxing"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://www.sciencedaily.com/releases/2026/06/260606015140.htm",
+    "title": "Scientists finally complete Schrödinger’s 100-year-old color theory"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://astral-os.org/posts/2026/05/31/audio_usb_nscde.html",
+    "title": "AstralOS: Audio, USB, NsCDE and more"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://forgejo.org/2026-05-monthly-report/",
+    "title": "Forgejo monthly report - May 2026"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://mercurial-scm.org/news/2026/0005-london-sprint-recap",
+    "title": "Recapping the London Mercurial sprint"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://www.ioccc.org/2025/",
+    "title": "Winners of the 2025 International Obfuscated C Code Contest (IOCCC 29)"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://pmbanugo.me/blog/why-queues-dont-fix-overload-and-what-to-do-instead",
+    "title": "Why Queues Don’t Fix Overload (And What To Do Instead)"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://fzakaria.com/2026/06/05/the-guix-nix-abomination-leveraging-guix-derivations-in-nix",
+    "title": "The Guix Nix Abomination: Leveraging Guix derivations in Nix"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://0xkato.xyz/how-llms-actually-work/",
+    "title": "How LLMs Actually Work"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://arch.dog/bark/entropy",
+    "title": "Entropy"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://b-ark.ca/2026/06/07/cannibalism.html",
+    "title": "Cannibalism"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://www.makingsoftware.com/chapters/image-compression",
+    "title": "Image Compression"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://kghose.github.io/2026/06/06/kobo-annotations.html",
+    "title": "DIY Kobo annotation backup"
   }
 ]
