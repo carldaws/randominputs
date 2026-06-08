@@ -1,8 +1,8 @@
 [
   {
     "source": "hn",
-    "url": "https://lowtechguys.com/musicdecoy/",
-    "title": "Stop the Apple Music app from launching"
+    "url": "https://www.macrumors.com/2026/06/08/apple-reveals-new-ai-architecture/",
+    "title": "Apple reveals new AI architecture built around Google Gemini models"
   },
   {
     "source": "hn",
@@ -16,6 +16,11 @@
   },
   {
     "source": "hn",
+    "url": "https://burrito.bio/essays/what-limits-a-cells-size",
+    "title": "Why are cells small?"
+  },
+  {
+    "source": "hn",
     "url": "https://siraben.github.io/ti84p-re/",
     "title": "Full Reverse Engineering of the TI-84 Plus Operating System"
   },
@@ -26,8 +31,8 @@
   },
   {
     "source": "hn",
-    "url": "https://burrito.bio/essays/what-limits-a-cells-size",
-    "title": "Why are cells small?"
+    "url": "https://signal.org/blog/pdfs/2026-06-08-uk-surveillance-is-not-safety.pdf",
+    "title": "Surveillance Is Not Safety: A statement on the UK's latest threat to privacy [pdf]"
   },
   {
     "source": "hn",
@@ -36,18 +41,13 @@
   },
   {
     "source": "hn",
-    "url": "https://ocamlpro.com/blog/2025_07_29_ocaml_onboarding_introduction_to_dune/",
-    "title": "OCaml Onboarding: Introduction to the Dune build system"
+    "url": "https://gitdot.io/",
+    "title": "Show HN: Gitdot – a better GitHub. Open-source, anti-AI, and written in Rust"
   },
   {
     "source": "hn",
-    "url": "https://www.404media.co/a-farmer-donated-land-to-turn-into-a-park-the-city-is-building-a-massive-data-center-instead/",
-    "title": "A Farmer Donated Land to Turn into a Park. The City Is Building a Data Center"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.wheresyoured.at/ai-is-slowing-down/",
-    "title": "AI Is Slowing Down"
+    "url": "https://lowtechguys.com/musicdecoy/",
+    "title": "Stop the Apple Music app from launching"
   },
   {
     "source": "hn",
@@ -56,18 +56,33 @@
   },
   {
     "source": "hn",
+    "url": "https://ocamlpro.com/blog/2025_07_29_ocaml_onboarding_introduction_to_dune/",
+    "title": "OCaml Onboarding: Introduction to the Dune build system"
+  },
+  {
+    "source": "hn",
+    "url": "https://kyle.au/blog/nosdesk-backend-rust",
+    "title": "120k Lines of Rust: Inside the Nosdesk Backend"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.wheresyoured.at/ai-is-slowing-down/",
+    "title": "AI is slowing down"
+  },
+  {
+    "source": "hn",
+    "url": "https://wxwidgets.org/blog/2024/01/using-xdg-compliant-config-files/",
+    "title": "Using XDG-Compliant Config Files"
+  },
+  {
+    "source": "hn",
     "url": "https://www.cypherpunkbooks.com",
     "title": "The Cypherpunk Library"
   },
   {
     "source": "hn",
-    "url": "https://cs-syd.eu/posts/2026-06-03-mutation-testing-in-haskell",
-    "title": "Mutation Testing in Haskell"
-  },
-  {
-    "source": "hn",
-    "url": "https://wxwidgets.org/blog/2024/01/using-xdg-compliant-config-files/",
-    "title": "Using XDG-Compliant Config Files – WxWidgets"
+    "url": "https://inavoyage.blogspot.com/2026/06/im-building-parallel-internet-and-its.html",
+    "title": "I'm building a parallel internet, and it's called The Thinnernet"
   },
   {
     "source": "hn",
@@ -76,23 +91,8 @@
   },
   {
     "source": "hn",
-    "url": "https://igerman.cc/blog/dopamine-fracking/",
-    "title": "Dopamine Fracking"
-  },
-  {
-    "source": "hn",
     "url": "https://pyrefly.org/blog/too-many-type-checkers/",
     "title": "Are you expected to run five Python type-checkers now?"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.macrumors.com/2026/06/08/apple-reveals-new-ai-architecture/",
-    "title": "Apple reveals new AI architecture built around Google Gemini models"
-  },
-  {
-    "source": "hn",
-    "url": "https://handson.money/blog/2026-06-06-horse-arse-and-design/",
-    "title": "Spanish traders set the standard for GnuCash database design"
   },
   {
     "source": "hn",
@@ -100,19 +100,24 @@
     "title": "Life is too short for a slow terminal"
   },
   {
-    "source": "lobsters",
-    "url": "https://invlpg.com/posts/2025-06-19-premature-optimization.html",
-    "title": "Premature Optimization is Fun Sometimes"
+    "source": "hn",
+    "url": "https://handson.money/blog/2026-06-06-horse-arse-and-design/",
+    "title": "Spanish traders set the standard for GnuCash database design"
   },
   {
     "source": "lobsters",
-    "url": "https://www.chiply.dev/post-svg-line",
-    "title": "svg-line: Better Status Bars for Emacs"
+    "url": "https://invlpg.com/posts/2025-06-19-premature-optimization.html",
+    "title": "Premature Optimization is Fun Sometimes (2025)"
   },
   {
     "source": "lobsters",
     "url": "https://hackers.pub/@hongminhee/2026/i-wish-deno-would-keep-doing-what-it-does-best",
     "title": "I wish Deno would keep doing what it does best"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://www.chiply.dev/post-svg-line",
+    "title": "svg-line: Better Status Bars for Emacs"
   },
   {
     "source": "lobsters",
@@ -126,23 +131,23 @@
   },
   {
     "source": "lobsters",
-    "url": "https://lemire.me/blog/2026/06/06/how-much-do-amd64-microarchitecture-levels-help-in-go/",
-    "title": "How much do amd64 microarchitecture levels help in Go?"
-  },
-  {
-    "source": "lobsters",
     "url": "https://astral.sh/blog/uv-audit",
     "title": "Vulnerability and malware checks in uv"
   },
   {
     "source": "lobsters",
-    "url": "https://servo.org/blog/2026/05/31/april-in-servo/",
-    "title": "April in Servo: new Android UI, focus, forms, security fixes, and more"
+    "url": "https://lemire.me/blog/2026/06/06/how-much-do-amd64-microarchitecture-levels-help-in-go/",
+    "title": "How much do amd64 microarchitecture levels help in Go?"
   },
   {
     "source": "lobsters",
-    "url": "https://crowdhailer.me/2026-06-08/a-programming-language-for-humans/",
-    "title": "A programming language for humans"
+    "url": "https://forgejo.org/2026-05-monthly-report/",
+    "title": "Forgejo monthly report - May 2026"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://servo.org/blog/2026/05/31/april-in-servo/",
+    "title": "April in Servo: new Android UI, focus, forms, security fixes, and more"
   },
   {
     "source": "lobsters",
@@ -156,12 +161,12 @@
   },
   {
     "source": "lobsters",
-    "url": "https://forgejo.org/2026-05-monthly-report/",
-    "title": "Forgejo monthly report - May 2026"
+    "url": "https://crowdhailer.me/2026-06-08/a-programming-language-for-humans/",
+    "title": "A programming language for humans"
   },
   {
     "source": "lobsters",
-    "url": "https://codedbearder.com/posts/nixidy-part-1-introduction/",
-    "title": "Introduction to nixidy - Kubernetes GitOps with nix"
+    "url": "https://www.redox-os.org/news/this-month-260531/",
+    "title": "This Month in Redox - May 2026 - Redox - Your Next(Gen) OS"
   }
 ]
