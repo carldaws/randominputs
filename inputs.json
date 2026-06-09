@@ -6,6 +6,11 @@
   },
   {
     "source": "hn",
+    "url": "https://www.codingwithjesse.com/blog/rockstar-developers/",
+    "title": "Cleaning up after AI rockstar developers"
+  },
+  {
+    "source": "hn",
     "url": "https://opencv.org/opencv-5/",
     "title": "OpenCV 5 Is Here: The Biggest Leap in Years for Computer Vision"
   },
@@ -16,8 +21,8 @@
   },
   {
     "source": "hn",
-    "url": "https://www.codingwithjesse.com/blog/rockstar-developers/",
-    "title": "Cleaning up after AI rockstar developers"
+    "url": "https://stratechery.com/2026/the-iphones-last-stand/",
+    "title": "The iPhone's Last Stand"
   },
   {
     "source": "hn",
@@ -26,8 +31,8 @@
   },
   {
     "source": "hn",
-    "url": "https://martinalderson.com/posts/xais-new-rental-business/",
-    "title": "xAI is looking more like a datacentre REIT than a frontier lab"
+    "url": "https://qunabu.github.io/Gravity/",
+    "title": "Show HN: Gravity – interactive solar-system simulator, from Newton to Einstein"
   },
   {
     "source": "hn",
@@ -36,8 +41,13 @@
   },
   {
     "source": "hn",
-    "url": "https://oldavista.com/",
-    "title": "Old'aVista – The most powerful guide to the old Internet"
+    "url": "https://martinalderson.com/posts/xais-new-rental-business/",
+    "title": "xAI is looking more like a datacentre REIT than a frontier lab"
+  },
+  {
+    "source": "hn",
+    "url": "https://giodicanio.com/2026/06/05/how-to-declare-a-c-plus-plus-function-that-takes-a-blob-of-memory/",
+    "title": "The beauty and simplicity of the good old C-style void* in C++"
   },
   {
     "source": "hn",
@@ -61,28 +71,8 @@
   },
   {
     "source": "hn",
-    "url": "https://cognition.ai/blog/frontier-code",
-    "title": "FrontierCode"
-  },
-  {
-    "source": "hn",
-    "url": "https://burrito.bio/essays/what-limits-a-cells-size",
-    "title": "Why are cells small?"
-  },
-  {
-    "source": "hn",
-    "url": "https://signal.org/blog/pdfs/2026-06-08-uk-surveillance-is-not-safety.pdf",
-    "title": "Surveillance is not safety: A statement on the UK's latest threat to privacy [pdf]"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.wheresyoured.at/ai-is-slowing-down/",
-    "title": "AI is slowing down"
-  },
-  {
-    "source": "hn",
-    "url": "https://remy.wang/blog/cps.html",
-    "title": "Passing DBs through continuations"
+    "url": "https://jonasdevlieghere.com/post/dsymutil-parallel-linker/",
+    "title": "Adopting the Parallel DWARF linker in dsymutil"
   },
   {
     "source": "lobsters",
@@ -96,23 +86,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://mijndertstuij.nl/posts/what-i-got-wrong-about-fast-terminals/",
-    "title": "What I got wrong about fast terminals"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://invlpg.com/posts/2025-06-19-premature-optimization.html",
-    "title": "Premature Optimization is Fun Sometimes (2025)"
-  },
-  {
-    "source": "lobsters",
     "url": "https://franktisellano.github.io/datatype/",
     "title": "Datatype — variable font that turns text into charts"
   },
   {
     "source": "lobsters",
-    "url": "https://hackers.pub/@hongminhee/2026/i-wish-deno-would-keep-doing-what-it-does-best",
-    "title": "I wish Deno would keep doing what it does best"
+    "url": "https://mijndertstuij.nl/posts/what-i-got-wrong-about-fast-terminals/",
+    "title": "What I got wrong about fast terminals"
   },
   {
     "source": "lobsters",
@@ -121,13 +101,33 @@
   },
   {
     "source": "lobsters",
+    "url": "https://invlpg.com/posts/2025-06-19-premature-optimization.html",
+    "title": "Premature Optimization is Fun Sometimes (2025)"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://hackers.pub/@hongminhee/2026/i-wish-deno-would-keep-doing-what-it-does-best",
+    "title": "I wish Deno would keep doing what it does best"
+  },
+  {
+    "source": "lobsters",
     "url": "https://lr0.org/blog/p/yahoo/",
     "title": "What Yahoo killed when it bought Maktoob"
   },
   {
     "source": "lobsters",
+    "url": "https://matklad.github.io/2026/06/04/css-unavoidable-bad-parts.html",
+    "title": "CSS: Unavoidable Bad Parts"
+  },
+  {
+    "source": "lobsters",
     "url": "https://amule-org.github.io/changelog/3.0.0",
     "title": "aMule 3.0.0 - The “Alive Again” Release"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://www.bejarano.io/terraform-autoapply/",
+    "title": "Safe Terraform auto-apply with conftest"
   },
   {
     "source": "lobsters",
@@ -151,18 +151,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://www.bejarano.io/terraform-autoapply/",
-    "title": "Safe Terraform auto-apply with conftest"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://thefoggiest.dev/2026/06/04/thunderbird-littering-my-home",
-    "title": "Thunderbird littering my home"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://codedbearder.com/posts/nixidy-part-1-introduction/",
-    "title": "Introduction to nixidy - Kubernetes GitOps with nix"
+    "url": "https://iev.ee/blog/what-262715-regex-questions-havent-answered-pt-2/",
+    "title": "what 262,715 regex questions on stack overflow haven't answered (part 2)"
   },
   {
     "source": "pinboard",
