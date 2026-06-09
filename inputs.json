@@ -11,6 +11,16 @@
   },
   {
     "source": "hn",
+    "url": "https://jonready.com/blog/posts/claude-fable5-is-allowed-to-sabotage-your-app-if-youre-a-competitor.html",
+    "title": "If Claude Fable stops helping you, you'll never know"
+  },
+  {
+    "source": "hn",
+    "url": "https://blog.gitbutler.com/true-grit",
+    "title": "Grit: Rewriting Git in Rust with Agents"
+  },
+  {
+    "source": "hn",
     "url": "https://phys.org/news/2026-05-giant-star-destroyed-universe-rarest.html",
     "title": "A giant star may have destroyed itself in one of the rarest explosions"
   },
@@ -36,6 +46,11 @@
   },
   {
     "source": "hn",
+    "url": "https://alexandrefrancois.org/Resonate/",
+    "title": "Show HN: Resonate – Low-latency, high-resolution spectral analysis"
+  },
+  {
+    "source": "hn",
     "url": "https://biffweb.com/p/core/",
     "title": "Biff.core: system composition for Clojure web apps"
   },
@@ -46,6 +61,11 @@
   },
   {
     "source": "hn",
+    "url": "https://www.404media.co/this-company-will-add-phone-airpod-and-smartwatch-trackers-to-license-plate-readers/",
+    "title": "Company Will Add Phone, AirPod, and Smartwatch Trackers to ALPRs"
+  },
+  {
+    "source": "hn",
     "url": "https://stratechery.com/2026/the-iphones-last-stand/",
     "title": "The iPhone's Last Stand?"
   },
@@ -53,11 +73,6 @@
     "source": "hn",
     "url": "https://qunabu.github.io/Gravity/",
     "title": "Show HN: Gravity – interactive solar-system simulator, from Newton to Einstein"
-  },
-  {
-    "source": "hn",
-    "url": "https://cost.dev/",
-    "title": "Show HN: Cost.dev (YC W21) – making agents cost-aware and cheaper to call"
   },
   {
     "source": "lobsters",
@@ -76,13 +91,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://lr0.org/blog/p/yahoo/",
-    "title": "What Yahoo killed when it bought Maktoob"
+    "url": "https://abner.page/post/are-we-harold-bloom/",
+    "title": "Are We Harold Bloom?"
   },
   {
     "source": "lobsters",
-    "url": "https://abner.page/post/are-we-harold-bloom/",
-    "title": "Are We Harold Bloom?"
+    "url": "https://lr0.org/blog/p/yahoo/",
+    "title": "What Yahoo killed when it bought Maktoob"
   },
   {
     "source": "lobsters",
@@ -111,8 +126,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://invlpg.com/posts/2025-06-19-premature-optimization.html",
-    "title": "Premature Optimization is Fun Sometimes (2025)"
+    "url": "https://utcc.utoronto.ca/~cks/space/blog/programming/EmacsUnderstandingEmbark",
+    "title": "Understanding Embark in GNU Emacs (a bit) and some 'stupid' Embark tricks"
   },
   {
     "source": "lobsters",
@@ -121,8 +136,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://utcc.utoronto.ca/~cks/space/blog/programming/EmacsUnderstandingEmbark",
-    "title": "Understanding Embark in GNU Emacs (a bit) and some 'stupid' Embark tricks"
+    "url": "https://invlpg.com/posts/2025-06-19-premature-optimization.html",
+    "title": "Premature Optimization is Fun Sometimes (2025)"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://arcan-fe.com/2026/06/02/arcan-10-years-of-online-obscurity/",
+    "title": "Arcan: 10 Years of Online Obscurity"
   },
   {
     "source": "lobsters",
@@ -143,16 +163,6 @@
     "source": "lobsters",
     "url": "https://amule-org.github.io/changelog/3.0.0",
     "title": "aMule 3.0.0 - The “Alive Again” Release"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://dracos.co.uk/wrote/blocking-an-asn/",
-    "title": "Blocking an ASN (or similar) from my sites"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://arcan-fe.com/2026/06/02/arcan-10-years-of-online-obscurity/",
-    "title": "Arcan: 10 Years of Online Obscurity"
   },
   {
     "source": "pinboard",
