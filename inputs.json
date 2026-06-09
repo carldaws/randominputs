@@ -26,13 +26,13 @@
   },
   {
     "source": "hn",
-    "url": "https://burrito.bio/essays/what-limits-a-cells-size",
-    "title": "Why are cells small?"
+    "url": "https://martinalderson.com/posts/xais-new-rental-business/",
+    "title": "xAI is looking more like a datacentre REIT than a frontier lab"
   },
   {
     "source": "hn",
-    "url": "https://martinalderson.com/posts/xais-new-rental-business/",
-    "title": "xAI is looking more like a datacentre REIT than a frontier lab"
+    "url": "https://burrito.bio/essays/what-limits-a-cells-size",
+    "title": "Why are cells small?"
   },
   {
     "source": "hn",
@@ -46,13 +46,18 @@
   },
   {
     "source": "hn",
+    "url": "https://longreads.com/2026/05/28/the-cheese-theft-food-crime/",
+    "title": "The Grate Cheese Robbery"
+  },
+  {
+    "source": "hn",
     "url": "https://writings.stephenwolfram.com/2026/06/games-between-programs-the-ruliology-of-competition/",
     "title": "Games Between Programs: The Ruliology of Competition"
   },
   {
     "source": "hn",
-    "url": "https://talglobus.com/p/doing-something-thats-never-been-done-before/",
-    "title": "Doing Something That's Never Been Done Before"
+    "url": "https://www.alaskasnewssource.com/2026/06/08/federal-judge-blocks-h1-b-visa-100k-fee/",
+    "title": "Federal judge blocks H1B visa $100K fee"
   },
   {
     "source": "hn",
@@ -61,13 +66,8 @@
   },
   {
     "source": "hn",
-    "url": "https://ocamlpro.com/blog/2025_07_29_ocaml_onboarding_introduction_to_dune/",
-    "title": "OCaml Onboarding: Introduction to the Dune build system"
-  },
-  {
-    "source": "hn",
-    "url": "https://1worldflag.com/",
-    "title": "1worldflag: A blue dot on a transparent background"
+    "url": "https://talglobus.com/p/doing-something-thats-never-been-done-before/",
+    "title": "Doing Something That's Never Been Done Before"
   },
   {
     "source": "hn",
@@ -76,13 +76,13 @@
   },
   {
     "source": "hn",
-    "url": "https://www.admin.ch/en/sustainability-initiative",
-    "title": "Switzerland wil have a referendum to cap population at 10M"
+    "url": "https://1worldflag.com/",
+    "title": "1worldflag: A blue dot on a transparent background"
   },
   {
     "source": "hn",
-    "url": "https://lowtechguys.com/musicdecoy/",
-    "title": "Stop the Apple Music app from launching"
+    "url": "https://ocamlpro.com/blog/2025_07_29_ocaml_onboarding_introduction_to_dune/",
+    "title": "OCaml Onboarding: Introduction to the Dune build system"
   },
   {
     "source": "hn",
@@ -91,13 +91,13 @@
   },
   {
     "source": "hn",
-    "url": "https://wxwidgets.org/blog/2024/01/using-xdg-compliant-config-files/",
-    "title": "Using XDG-Compliant Config Files (2024)"
+    "url": "https://www.admin.ch/en/sustainability-initiative",
+    "title": "Switzerland wil have a referendum to cap population at 10M"
   },
   {
     "source": "hn",
-    "url": "https://pyrefly.org/blog/too-many-type-checkers/",
-    "title": "Are you expected to run five Python type-checkers now?"
+    "url": "https://www.cc.dev/",
+    "title": "Show HN: Command Center, the AI coding env for people who care about quality"
   },
   {
     "source": "lobsters",
@@ -126,6 +126,11 @@
   },
   {
     "source": "lobsters",
+    "url": "https://mijndertstuij.nl/posts/what-i-got-wrong-about-fast-terminals/",
+    "title": "What I got wrong about fast terminals"
+  },
+  {
+    "source": "lobsters",
     "url": "https://astral.sh/blog/uv-audit",
     "title": "Vulnerability and malware checks in uv"
   },
@@ -148,11 +153,6 @@
     "source": "lobsters",
     "url": "https://codedbearder.com/posts/nixidy-part-1-introduction/",
     "title": "Introduction to nixidy - Kubernetes GitOps with nix"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://mijndertstuij.nl/posts/what-i-got-wrong-about-fast-terminals/",
-    "title": "What I got wrong about fast terminals"
   },
   {
     "source": "lobsters",
