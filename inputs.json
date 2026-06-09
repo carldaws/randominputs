@@ -1,13 +1,18 @@
 [
   {
     "source": "hn",
-    "url": "https://signal.org/blog/pdfs/2026-06-08-uk-surveillance-is-not-safety.pdf",
-    "title": "Surveillance Is Not Safety: A statement on the UK's latest threat to privacy [pdf]"
+    "url": "https://www.macrumors.com/2026/06/08/apple-reveals-new-ai-architecture/",
+    "title": "Apple reveals new AI architecture built around Google Gemini models"
   },
   {
     "source": "hn",
     "url": "https://vorpus.github.io/performativeUI/",
     "title": "Show HN: Performative-UI – A react component library of design tropes"
+  },
+  {
+    "source": "hn",
+    "url": "https://martinalderson.com/posts/xais-new-rental-business/",
+    "title": "xAI is looking more like a datacentre REIT than a frontier lab"
   },
   {
     "source": "hn",
@@ -26,8 +31,8 @@
   },
   {
     "source": "hn",
-    "url": "https://martinalderson.com/posts/xais-new-rental-business/",
-    "title": "xAI is looking more like a datacentre REIT than a frontier lab"
+    "url": "https://www.morningstar.com/stocks/why-we-think-spacex-ipo-is-overvalued?content_id=20768396545",
+    "title": "We Think the SpaceX IPO Is Overvalued"
   },
   {
     "source": "hn",
@@ -36,18 +41,18 @@
   },
   {
     "source": "hn",
+    "url": "https://signal.org/blog/pdfs/2026-06-08-uk-surveillance-is-not-safety.pdf",
+    "title": "Surveillance is not safety: A statement on the UK's latest threat to privacy [pdf]"
+  },
+  {
+    "source": "hn",
     "url": "https://cognition.ai/blog/frontier-code",
     "title": "FrontierCode"
   },
   {
     "source": "hn",
-    "url": "https://www.macrumors.com/2026/06/08/apple-reveals-new-ai-architecture/",
-    "title": "Apple reveals new AI architecture built around Google Gemini models"
-  },
-  {
-    "source": "hn",
-    "url": "https://longreads.com/2026/05/28/the-cheese-theft-food-crime/",
-    "title": "The Grate Cheese Robbery"
+    "url": "https://inavoyage.blogspot.com/2026/06/im-building-parallel-internet-and-its.html",
+    "title": "I'm building a parallel internet, and it's called The Thinnernet"
   },
   {
     "source": "hn",
@@ -56,23 +61,18 @@
   },
   {
     "source": "hn",
-    "url": "https://www.alaskasnewssource.com/2026/06/08/federal-judge-blocks-h1-b-visa-100k-fee/",
-    "title": "Federal judge blocks H1B visa $100K fee"
-  },
-  {
-    "source": "hn",
     "url": "https://www.wheresyoured.at/ai-is-slowing-down/",
     "title": "AI is slowing down"
   },
   {
     "source": "hn",
-    "url": "https://talglobus.com/p/doing-something-thats-never-been-done-before/",
-    "title": "Doing Something That's Never Been Done Before"
+    "url": "https://longreads.com/2026/05/28/the-cheese-theft-food-crime/",
+    "title": "The Grate Cheese Robbery"
   },
   {
     "source": "hn",
-    "url": "https://danielmangum.com/posts/fooling-go-x509-certificate-verification/",
-    "title": "Fooling Go's X.509 Certificate Verification"
+    "url": "https://www.alaskasnewssource.com/2026/06/08/federal-judge-blocks-h1-b-visa-100k-fee/",
+    "title": "Federal judge blocks H1B visa $100K fee"
   },
   {
     "source": "hn",
@@ -81,23 +81,18 @@
   },
   {
     "source": "hn",
+    "url": "https://talglobus.com/p/doing-something-thats-never-been-done-before/",
+    "title": "Doing something that’s never been done before (2025)"
+  },
+  {
+    "source": "hn",
     "url": "https://ocamlpro.com/blog/2025_07_29_ocaml_onboarding_introduction_to_dune/",
     "title": "OCaml Onboarding: Introduction to the Dune build system"
   },
   {
     "source": "hn",
-    "url": "https://reeserichardson.blog/2026/05/28/how-much-of-thermo-fishers-antibody-data-has-been-manipulated/",
-    "title": "How much of Thermo Fisher's antibody data has been manipulated?"
-  },
-  {
-    "source": "hn",
     "url": "https://www.admin.ch/en/sustainability-initiative",
     "title": "Switzerland wil have a referendum to cap population at 10M"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.cc.dev/",
-    "title": "Show HN: Command Center, the AI coding env for people who care about quality"
   },
   {
     "source": "lobsters",
@@ -111,18 +106,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://www.chiply.dev/post-svg-line",
-    "title": "svg-line: Better Status Bars for Emacs"
-  },
-  {
-    "source": "lobsters",
     "url": "https://anil.recoil.org/notes/recoil-self-hosting-2026",
     "title": "Self-hosting email the hard way from your own routable IPv4 block up"
   },
   {
     "source": "lobsters",
-    "url": "https://forgejo.org/2026-05-monthly-report/",
-    "title": "Forgejo monthly report - May 2026"
+    "url": "https://www.chiply.dev/post-svg-line",
+    "title": "svg-line: Better Status Bars for Emacs"
   },
   {
     "source": "lobsters",
@@ -131,13 +121,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://astral.sh/blog/uv-audit",
-    "title": "Vulnerability and malware checks in uv"
+    "url": "https://forgejo.org/2026-05-monthly-report/",
+    "title": "Forgejo monthly report - May 2026"
   },
   {
     "source": "lobsters",
-    "url": "https://opensource.posit.co/blog/2026-05-21_in-defense-of-yaml/",
-    "title": "In Defense of YAML"
+    "url": "https://astral.sh/blog/uv-audit",
+    "title": "Vulnerability and malware checks in uv"
   },
   {
     "source": "lobsters",
@@ -146,13 +136,18 @@
   },
   {
     "source": "lobsters",
-    "url": "http://ozark.hendrix.edu/~yorgey/forest/00FD/index.xml",
-    "title": "To my students"
+    "url": "https://codedbearder.com/posts/nixidy-part-1-introduction/",
+    "title": "Introduction to nixidy - Kubernetes GitOps with nix"
   },
   {
     "source": "lobsters",
-    "url": "https://codedbearder.com/posts/nixidy-part-1-introduction/",
-    "title": "Introduction to nixidy - Kubernetes GitOps with nix"
+    "url": "https://opensource.posit.co/blog/2026-05-21_in-defense-of-yaml/",
+    "title": "In Defense of YAML"
+  },
+  {
+    "source": "lobsters",
+    "url": "http://ozark.hendrix.edu/~yorgey/forest/00FD/index.xml",
+    "title": "To my students"
   },
   {
     "source": "lobsters",
@@ -161,8 +156,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://servo.org/blog/2026/05/31/april-in-servo/",
-    "title": "April in Servo: new Android UI, focus, forms, security fixes, and more"
+    "url": "https://www.codingwithjesse.com/blog/rockstar-developers/",
+    "title": "Cleaning up after AI rockstar developers"
   },
   {
     "source": "lobsters",
@@ -171,7 +166,107 @@
   },
   {
     "source": "lobsters",
+    "url": "https://servo.org/blog/2026/05/31/april-in-servo/",
+    "title": "April in Servo: new Android UI, focus, forms, security fixes, and more"
+  },
+  {
+    "source": "lobsters",
     "url": "https://tangled.org/devins.page/tinysub",
     "title": "tinysub: full-featured web player for Open Subsonic compatible music servers"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.0xkato.xyz/how-llms-actually-work/",
+    "title": "How LLMs Actually Work | 0xkato"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.fieggen.com/shoelace/secureknot.htm",
+    "title": "Ian's Shoelace Site - Ian's Secure Shoelace Knot"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://passo.uno/fine-tuning-docs-llm/",
+    "title": "Fine-tuning an LLM to write docs like it's 1995 – Fabrizio Ferri Benedetti"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://sumnerevans.com/posts/software-engineering/stop-using-conventional-commits/",
+    "title": "Stop Using Conventional Commits - Sumner Evans"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://mechanical-pencil.com/",
+    "title": "Mechanical Pencil"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://ntsc.rs/",
+    "title": "ntsc-rs - an accurate VHS video effect"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://blog.includesecurity.com/2026/06/the-smart-tv-in-your-livingroom-is-a-node-in-the-aiscraping-economy/",
+    "title": "The Smart TV in Your LivingRoom Is a Node in the AIScraping Economy"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/quantization-aware-training-gemma-4/",
+    "title": "Gemma 4 QAT models: Optimizing model compression for mobile and laptop efficiency"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.theatlantic.com/philosophy/2026/06/no-artificial-intelligence-is-not-conscious/687378/",
+    "title": "No, Artificial Intelligence Is Not Conscious by Ted Chiang (The Atlantic, 6/3/2026)"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://ataraxy-labs.github.io/sem/",
+    "title": "sem"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://herbsutter.com/2026/06/04/c-the-documentary-released-today/",
+    "title": "C++: The Documentary released today – Sutter’s Mill"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.jeffgeerling.com/blog/2026/i-tested-every-ip-kvm/",
+    "title": "IP KVMs"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://mouseless.click/",
+    "title": "mouseless"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://standard.site/",
+    "title": "One schema. Every platform."
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.thenerdreich.com/ai-argentina-and-the-antichrist-thiels-vision-blooms/",
+    "title": "AI, Argentina and the Antichrist: Thiel’s Vision Blooms"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://performance.dev/how-is-linear-so-fast-a-technical-breakdown",
+    "title": "How's Linear so fast? A technical breakdown"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://worksinprogress.co/issue/samurai-city/",
+    "title": "Samurai city - Works in Progress Magazine"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://respeak-io.github.io/lucide-motion-vue/",
+    "title": "@respeak/lucide-motion-vue — 535 animated Lucide icons for Vue 3"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://franktisellano.github.io/datatype/?ref=simplebits.com",
+    "title": "Datatype — variable font that turns text into charts"
   }
 ]
