@@ -11,13 +11,18 @@
   },
   {
     "source": "hn",
+    "url": "https://vorpus.github.io/performativeUI/",
+    "title": "Show HN: Performative-UI – A react component library of design tropes"
+  },
+  {
+    "source": "hn",
     "url": "https://martinalderson.com/posts/xais-new-rental-business/",
     "title": "xAI is looking more like a datacentre REIT than a frontier lab"
   },
   {
     "source": "hn",
-    "url": "https://vorpus.github.io/performativeUI/",
-    "title": "Show HN: Performative-UI – A react component library of design tropes"
+    "url": "https://blog.aheymans.xyz/post/thinkpad_x61/",
+    "title": "Porting the ThinkPad X61 to Coreboot"
   },
   {
     "source": "hn",
@@ -46,6 +51,11 @@
   },
   {
     "source": "hn",
+    "url": "https://cognition.ai/blog/frontier-code",
+    "title": "FrontierCode"
+  },
+  {
+    "source": "hn",
     "url": "https://burrito.bio/essays/what-limits-a-cells-size",
     "title": "Why are cells small?"
   },
@@ -53,11 +63,6 @@
     "source": "hn",
     "url": "https://signal.org/blog/pdfs/2026-06-08-uk-surveillance-is-not-safety.pdf",
     "title": "Surveillance is not safety: A statement on the UK's latest threat to privacy [pdf]"
-  },
-  {
-    "source": "hn",
-    "url": "https://cognition.ai/blog/frontier-code",
-    "title": "FrontierCode"
   },
   {
     "source": "hn",
@@ -71,8 +76,8 @@
   },
   {
     "source": "hn",
-    "url": "https://1worldflag.com/",
-    "title": "1worldflag: A blue dot on a transparent background"
+    "url": "https://ocamlpro.com/blog/2025_07_29_ocaml_onboarding_introduction_to_dune/",
+    "title": "OCaml Onboarding: Introduction to the Dune build system"
   },
   {
     "source": "hn",
@@ -81,23 +86,8 @@
   },
   {
     "source": "hn",
-    "url": "https://ocamlpro.com/blog/2025_07_29_ocaml_onboarding_introduction_to_dune/",
-    "title": "OCaml Onboarding: Introduction to the Dune build system"
-  },
-  {
-    "source": "hn",
-    "url": "https://bernsteinbear.com/blog/inlining-heuristics/",
-    "title": "A Survey of Inlining Heuristics"
-  },
-  {
-    "source": "hn",
     "url": "https://writings.stephenwolfram.com/2026/06/games-between-programs-the-ruliology-of-competition/",
     "title": "Games Between Programs: The Ruliology of Competition"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://invlpg.com/posts/2025-06-19-premature-optimization.html",
-    "title": "Premature Optimization is Fun Sometimes (2025)"
   },
   {
     "source": "lobsters",
@@ -106,8 +96,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://hackers.pub/@hongminhee/2026/i-wish-deno-would-keep-doing-what-it-does-best",
-    "title": "I wish Deno would keep doing what it does best"
+    "url": "https://invlpg.com/posts/2025-06-19-premature-optimization.html",
+    "title": "Premature Optimization is Fun Sometimes (2025)"
   },
   {
     "source": "lobsters",
@@ -116,13 +106,18 @@
   },
   {
     "source": "lobsters",
-    "url": "https://www.chiply.dev/post-svg-line",
-    "title": "svg-line: Better Status Bars for Emacs"
+    "url": "https://hackers.pub/@hongminhee/2026/i-wish-deno-would-keep-doing-what-it-does-best",
+    "title": "I wish Deno would keep doing what it does best"
   },
   {
     "source": "lobsters",
     "url": "https://mijndertstuij.nl/posts/what-i-got-wrong-about-fast-terminals/",
     "title": "What I got wrong about fast terminals"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://www.chiply.dev/post-svg-line",
+    "title": "svg-line: Better Status Bars for Emacs"
   },
   {
     "source": "lobsters",
@@ -171,26 +166,6 @@
   },
   {
     "source": "pinboard",
-    "url": "https://www.fieggen.com/shoelace/secureknot.htm",
-    "title": "Ian's Shoelace Site - Ian's Secure Shoelace Knot"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://passo.uno/fine-tuning-docs-llm/",
-    "title": "Fine-tuning an LLM to write docs like it's 1995 – Fabrizio Ferri Benedetti"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://sumnerevans.com/posts/software-engineering/stop-using-conventional-commits/",
-    "title": "Stop Using Conventional Commits - Sumner Evans"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://mechanical-pencil.com/",
-    "title": "Mechanical Pencil"
-  },
-  {
-    "source": "pinboard",
     "url": "https://ntsc.rs/",
     "title": "ntsc-rs - an accurate VHS video effect"
   },
@@ -201,13 +176,8 @@
   },
   {
     "source": "pinboard",
-    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/quantization-aware-training-gemma-4/",
-    "title": "Gemma 4 QAT models: Optimizing model compression for mobile and laptop efficiency"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.theatlantic.com/philosophy/2026/06/no-artificial-intelligence-is-not-conscious/687378/",
-    "title": "No, Artificial Intelligence Is Not Conscious by Ted Chiang (The Atlantic, 6/3/2026)"
+    "url": "https://performance.dev/how-is-linear-so-fast-a-technical-breakdown",
+    "title": "How's Linear so fast? A technical breakdown"
   },
   {
     "source": "pinboard",
@@ -216,23 +186,48 @@
   },
   {
     "source": "pinboard",
-    "url": "https://herbsutter.com/2026/06/04/c-the-documentary-released-today/",
-    "title": "C++: The Documentary released today – Sutter’s Mill"
+    "url": "https://human-in-the-loop.bearblog.dev/llms-are-eroding-my-software-engineering-career-and-i-dont-know-what-to-do/",
+    "title": "LLMs are eroding my software engineering career and I don't know what to do | the human in the loop"
   },
   {
     "source": "pinboard",
-    "url": "https://www.jeffgeerling.com/blog/2026/i-tested-every-ip-kvm/",
-    "title": "IP KVMs"
+    "url": "https://prestonbjensen.com/posts/playing-with-vision-embeddings",
+    "title": "Playing with Vision Embeddings | Preston Jensen"
   },
   {
     "source": "pinboard",
-    "url": "https://mouseless.click/",
-    "title": "mouseless"
+    "url": "https://gavinray97.github.io/blog/building-from-zero-after-addiction-prison-felony",
+    "title": "Building from Zero After Addiction, Prison, and a Felony"
   },
   {
     "source": "pinboard",
-    "url": "https://standard.site/",
-    "title": "One schema. Every platform."
+    "url": "https://www.fieggen.com/shoelace/secureknot.htm",
+    "title": "Ian's Shoelace Site - Ian's Secure Shoelace Knot"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.absurdlyoptimized.com/recipes/pancakes/?have=ricotta%2Csour-cream%2Ckefir%2Ctartar%2Cmilkpowder%2Clemon&eggs=2&tang=5",
+    "title": "The Absurdly Optimized Pancake: Leavening Chemistry, Acid-Base Stoichiometry, and an Interactive Calculator | Absurdly Optimized"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.theatlantic.com/philosophy/2026/06/no-artificial-intelligence-is-not-conscious/687378/",
+    "title": "No, Artificial Intelligence Is Not Conscious by Ted Chiang (The Atlantic, 6/3/2026)"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://mechanical-pencil.com/",
+    "title": "Mechanical Pencil"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://news.ycombinator.com/item?id=48440792",
+    "title": "Dopamine Fracking | Hacker News"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://runtimewire.com/article/deepseek-v4-pro-beats-gpt-5-5-pro-on-precision",
+    "title": "https://runtimewire.com/article/deepseek-v4-pro-beats-gpt-5-5-pro-on-precision"
   },
   {
     "source": "pinboard",
@@ -241,22 +236,37 @@
   },
   {
     "source": "pinboard",
-    "url": "https://performance.dev/how-is-linear-so-fast-a-technical-breakdown",
-    "title": "How's Linear so fast? A technical breakdown"
+    "url": "https://www.jeffgeerling.com/blog/2026/i-tested-every-ip-kvm/",
+    "title": "IP KVMs"
   },
   {
     "source": "pinboard",
-    "url": "https://worksinprogress.co/issue/samurai-city/",
-    "title": "Samurai city - Works in Progress Magazine"
+    "url": "https://daringfireball.net/2026/06/swiftui_only_makes_it_easy_to_develop_bad_apps",
+    "title": "Daring Fireball: SwiftUI Only Makes It Easy to Develop Bad Apps"
   },
   {
     "source": "pinboard",
-    "url": "https://respeak-io.github.io/lucide-motion-vue/",
-    "title": "@respeak/lucide-motion-vue — 535 animated Lucide icons for Vue 3"
+    "url": "https://news.ycombinator.com/item?id=48440064",
+    "title": "The Smallest Brain You Can Build: A Perceptron in Python | Hacker News"
   },
   {
     "source": "pinboard",
-    "url": "https://franktisellano.github.io/datatype/?ref=simplebits.com",
+    "url": "https://franktisellano.github.io/datatype/",
     "title": "Datatype — variable font that turns text into charts"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://storiedcolors.com/browse/",
+    "title": "Browse the Collection — Storied Colors"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://hyperallergic.com/how-liminalism-became-the-defining-aesthetic-of-our-time/",
+    "title": "How Liminalism Became the Defining Aesthetic of Our Time"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/quantization-aware-training-gemma-4/",
+    "title": "Gemma 4 QAT models: Optimizing model compression for mobile and laptop efficiency"
   }
 ]
