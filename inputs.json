@@ -6,13 +6,18 @@
   },
   {
     "source": "hn",
-    "url": "https://vorpus.github.io/performativeUI/",
-    "title": "Show HN: Performative-UI – A react component library of design tropes"
+    "url": "https://oldavista.com/",
+    "title": "Old'aVista – The most powerful guide to the old Internet"
   },
   {
     "source": "hn",
     "url": "https://martinalderson.com/posts/xais-new-rental-business/",
     "title": "xAI is looking more like a datacentre REIT than a frontier lab"
+  },
+  {
+    "source": "hn",
+    "url": "https://vorpus.github.io/performativeUI/",
+    "title": "Show HN: Performative-UI – A react component library of design tropes"
   },
   {
     "source": "hn",
@@ -26,13 +31,18 @@
   },
   {
     "source": "hn",
+    "url": "https://remy.wang/blog/cps.html",
+    "title": "Passing DBs through continuations"
+  },
+  {
+    "source": "hn",
     "url": "https://gitdot.io/",
     "title": "Show HN: Gitdot – a better GitHub. Open-source, written in Rust"
   },
   {
     "source": "hn",
-    "url": "https://www.morningstar.com/stocks/why-we-think-spacex-ipo-is-overvalued?content_id=20768396545",
-    "title": "We Think the SpaceX IPO Is Overvalued"
+    "url": "https://lemire.me/blog/2026/06/06/how-much-do-amd64-microarchitecture-levels-help-in-go/",
+    "title": "How much do amd64 microarchitecture levels help in Go?"
   },
   {
     "source": "hn",
@@ -56,23 +66,8 @@
   },
   {
     "source": "hn",
-    "url": "https://writings.stephenwolfram.com/2026/06/games-between-programs-the-ruliology-of-competition/",
-    "title": "Games Between Programs: The Ruliology of Competition"
-  },
-  {
-    "source": "hn",
     "url": "https://www.wheresyoured.at/ai-is-slowing-down/",
     "title": "AI is slowing down"
-  },
-  {
-    "source": "hn",
-    "url": "https://longreads.com/2026/05/28/the-cheese-theft-food-crime/",
-    "title": "The Grate Cheese Robbery"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.alaskasnewssource.com/2026/06/08/federal-judge-blocks-h1-b-visa-100k-fee/",
-    "title": "Federal judge blocks H1B visa $100K fee"
   },
   {
     "source": "hn",
@@ -81,8 +76,8 @@
   },
   {
     "source": "hn",
-    "url": "https://talglobus.com/p/doing-something-thats-never-been-done-before/",
-    "title": "Doing something that’s never been done before (2025)"
+    "url": "https://www.alaskasnewssource.com/2026/06/08/federal-judge-blocks-h1-b-visa-100k-fee/",
+    "title": "Federal judge blocks H1B visa $100K fee"
   },
   {
     "source": "hn",
@@ -91,13 +86,23 @@
   },
   {
     "source": "hn",
-    "url": "https://www.admin.ch/en/sustainability-initiative",
-    "title": "Switzerland wil have a referendum to cap population at 10M"
+    "url": "https://bernsteinbear.com/blog/inlining-heuristics/",
+    "title": "A Survey of Inlining Heuristics"
+  },
+  {
+    "source": "hn",
+    "url": "https://writings.stephenwolfram.com/2026/06/games-between-programs-the-ruliology-of-competition/",
+    "title": "Games Between Programs: The Ruliology of Competition"
   },
   {
     "source": "lobsters",
     "url": "https://invlpg.com/posts/2025-06-19-premature-optimization.html",
     "title": "Premature Optimization is Fun Sometimes (2025)"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://www.codingwithjesse.com/blog/rockstar-developers/",
+    "title": "Cleaning up after AI rockstar developers"
   },
   {
     "source": "lobsters",
@@ -126,13 +131,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://astral.sh/blog/uv-audit",
-    "title": "Vulnerability and malware checks in uv"
+    "url": "https://www.redox-os.org/news/this-month-260531/",
+    "title": "This Month in Redox - May 2026 - Redox - Your Next(Gen) OS"
   },
   {
     "source": "lobsters",
-    "url": "https://www.redox-os.org/news/this-month-260531/",
-    "title": "This Month in Redox - May 2026 - Redox - Your Next(Gen) OS"
+    "url": "https://astral.sh/blog/uv-audit",
+    "title": "Vulnerability and malware checks in uv"
   },
   {
     "source": "lobsters",
@@ -151,16 +156,6 @@
   },
   {
     "source": "lobsters",
-    "url": "https://lemire.me/blog/2026/06/06/how-much-do-amd64-microarchitecture-levels-help-in-go/",
-    "title": "How much do amd64 microarchitecture levels help in Go?"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://www.codingwithjesse.com/blog/rockstar-developers/",
-    "title": "Cleaning up after AI rockstar developers"
-  },
-  {
-    "source": "lobsters",
     "url": "https://thefoggiest.dev/2026/06/04/thunderbird-littering-my-home",
     "title": "Thunderbird littering my home"
   },
@@ -168,11 +163,6 @@
     "source": "lobsters",
     "url": "https://servo.org/blog/2026/05/31/april-in-servo/",
     "title": "April in Servo: new Android UI, focus, forms, security fixes, and more"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://tangled.org/devins.page/tinysub",
-    "title": "tinysub: full-featured web player for Open Subsonic compatible music servers"
   },
   {
     "source": "pinboard",
