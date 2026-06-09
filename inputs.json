@@ -16,13 +16,28 @@
   },
   {
     "source": "hn",
+    "url": "https://qunabu.github.io/Gravity/",
+    "title": "Show HN: Gravity – interactive solar-system simulator, from Newton to Einstein"
+  },
+  {
+    "source": "hn",
+    "url": "https://alex.smola.org/posts/40-effective-sample-size/",
+    "title": "The Effective Sample Size"
+  },
+  {
+    "source": "hn",
     "url": "https://www.macrumors.com/2026/06/08/apple-reveals-new-ai-architecture/",
     "title": "Apple reveals new AI architecture built around Google Gemini models"
   },
   {
     "source": "hn",
-    "url": "https://stratechery.com/2026/the-iphones-last-stand/",
-    "title": "The iPhone's Last Stand"
+    "url": "https://jonasdevlieghere.com/post/dsymutil-parallel-linker/",
+    "title": "Adopting the Parallel DWARF linker in dsymutil"
+  },
+  {
+    "source": "hn",
+    "url": "https://cleantechnica.com/2026/06/08/solar-energy-saves-europeans-135-million-a-day/",
+    "title": "Solar Energy Saves Europeans $135M a Day"
   },
   {
     "source": "hn",
@@ -31,8 +46,13 @@
   },
   {
     "source": "hn",
-    "url": "https://qunabu.github.io/Gravity/",
-    "title": "Show HN: Gravity – interactive solar-system simulator, from Newton to Einstein"
+    "url": "https://cupertinolens.com/2026/06/09/wwdc-2026-apple-is-folding/",
+    "title": "WWDC 2026: Apple is Folding"
+  },
+  {
+    "source": "hn",
+    "url": "https://martinalderson.com/posts/xais-new-rental-business/",
+    "title": "xAI is looking more like a datacentre REIT than a frontier lab"
   },
   {
     "source": "hn",
@@ -41,8 +61,8 @@
   },
   {
     "source": "hn",
-    "url": "https://martinalderson.com/posts/xais-new-rental-business/",
-    "title": "xAI is looking more like a datacentre REIT than a frontier lab"
+    "url": "https://www.404media.co/fcc-wants-to-kill-burner-phones-by-forcing-telecoms-to-get-all-customers-ids/",
+    "title": "FCC Wants to Kill Burner Phones by Forcing Telecoms to Get All Customers' IDs"
   },
   {
     "source": "hn",
@@ -55,34 +75,14 @@
     "title": "Porting the ThinkPad X61 to Coreboot"
   },
   {
-    "source": "hn",
-    "url": "https://mimo.xiaomi.com/blog/mimo-tilert-1000tps",
-    "title": "MiMo-v2.5-Pro-UltraSpeed: 1T model with 1000 tokens per second"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.pgedge.com/blog/looking-forward-to-postgres-19-query-hints",
-    "title": "Looking Forward to Postgres 19: Query Hints"
-  },
-  {
-    "source": "hn",
-    "url": "https://gitdot.io/",
-    "title": "Show HN: Gitdot – A better GitHub. Open-source, written in Rust"
-  },
-  {
-    "source": "hn",
-    "url": "https://jonasdevlieghere.com/post/dsymutil-parallel-linker/",
-    "title": "Adopting the Parallel DWARF linker in dsymutil"
-  },
-  {
     "source": "lobsters",
     "url": "https://lewiscampbell.tech/blog/260609.html",
     "title": "The Decline of Search Engines is an Opportunity"
   },
   {
     "source": "lobsters",
-    "url": "https://anil.recoil.org/notes/recoil-self-hosting-2026",
-    "title": "Self-hosting email the hard way from your own routable IPv4 block up"
+    "url": "https://lr0.org/blog/p/yahoo/",
+    "title": "What Yahoo killed when it bought Maktoob"
   },
   {
     "source": "lobsters",
@@ -91,13 +91,23 @@
   },
   {
     "source": "lobsters",
-    "url": "https://mijndertstuij.nl/posts/what-i-got-wrong-about-fast-terminals/",
-    "title": "What I got wrong about fast terminals"
+    "url": "https://blog.danieljanus.pl/now-what/",
+    "title": "Now what?"
   },
   {
     "source": "lobsters",
-    "url": "https://blog.danieljanus.pl/now-what/",
-    "title": "Now what?"
+    "url": "https://anil.recoil.org/notes/recoil-self-hosting-2026",
+    "title": "Self-hosting email the hard way from your own routable IPv4 block up"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://matklad.github.io/2026/06/04/css-unavoidable-bad-parts.html",
+    "title": "CSS: Unavoidable Bad Parts"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://mijndertstuij.nl/posts/what-i-got-wrong-about-fast-terminals/",
+    "title": "What I got wrong about fast terminals"
   },
   {
     "source": "lobsters",
@@ -111,18 +121,18 @@
   },
   {
     "source": "lobsters",
-    "url": "https://lr0.org/blog/p/yahoo/",
-    "title": "What Yahoo killed when it bought Maktoob"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://matklad.github.io/2026/06/04/css-unavoidable-bad-parts.html",
-    "title": "CSS: Unavoidable Bad Parts"
+    "url": "https://www.pgedge.com/blog/looking-forward-to-postgres-19-query-hints",
+    "title": "Looking Forward to Postgres 19: Query Hints"
   },
   {
     "source": "lobsters",
     "url": "https://amule-org.github.io/changelog/3.0.0",
     "title": "aMule 3.0.0 - The “Alive Again” Release"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://smallcultfollowing.com/babysteps/blog/2026/06/09/only-bounds/",
+    "title": "Only Bounds"
   },
   {
     "source": "lobsters",
@@ -136,23 +146,18 @@
   },
   {
     "source": "lobsters",
-    "url": "https://www.chiply.dev/post-svg-line",
-    "title": "svg-line: Better Status Bars for Emacs"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://www.redox-os.org/news/this-month-260531/",
-    "title": "This Month in Redox - May 2026 - Redox - Your Next(Gen) OS"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://astral.sh/blog/uv-audit",
-    "title": "Vulnerability and malware checks in uv"
+    "url": "https://remy.wang/blog/cps.html",
+    "title": "Passing DBs Through Continuations"
   },
   {
     "source": "lobsters",
     "url": "https://iev.ee/blog/what-262715-regex-questions-havent-answered-pt-2/",
     "title": "what 262,715 regex questions on stack overflow haven't answered (part 2)"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://www.chiply.dev/post-svg-line",
+    "title": "svg-line: Better Status Bars for Emacs"
   },
   {
     "source": "pinboard",
