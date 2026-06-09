@@ -1,23 +1,28 @@
 [
   {
     "source": "hn",
-    "url": "https://www.macrumors.com/2026/06/08/apple-reveals-new-ai-architecture/",
-    "title": "Apple reveals new AI architecture built around Google Gemini models"
-  },
-  {
-    "source": "hn",
     "url": "https://opencv.org/opencv-5/",
     "title": "OpenCV 5 Is Here: The Biggest Leap in Years for Computer Vision"
   },
   {
     "source": "hn",
-    "url": "https://blog.aheymans.xyz/post/thinkpad_x61/",
-    "title": "Porting the ThinkPad X61 to Coreboot"
+    "url": "https://www.macrumors.com/2026/06/08/apple-reveals-new-ai-architecture/",
+    "title": "Apple reveals new AI architecture built around Google Gemini models"
   },
   {
     "source": "hn",
-    "url": "https://oldavista.com/",
-    "title": "Old'aVista – The most powerful guide to the old Internet"
+    "url": "https://stratechery.com/2026/the-iphones-last-stand/",
+    "title": "The iPhone's Last Stand"
+  },
+  {
+    "source": "hn",
+    "url": "https://thi.ng",
+    "title": "Thi.ng – open-source building blocks for computational design and art"
+  },
+  {
+    "source": "hn",
+    "url": "https://blog.aheymans.xyz/post/thinkpad_x61/",
+    "title": "Porting the ThinkPad X61 to Coreboot"
   },
   {
     "source": "hn",
@@ -31,8 +36,8 @@
   },
   {
     "source": "hn",
-    "url": "https://thi.ng",
-    "title": "Thi.ng – open-source building blocks for computational design and art"
+    "url": "https://giodicanio.com/2026/06/05/how-to-declare-a-c-plus-plus-function-that-takes-a-blob-of-memory/",
+    "title": "The beauty and simplicity of the good old C-style void* in C++"
   },
   {
     "source": "hn",
@@ -76,11 +81,6 @@
   },
   {
     "source": "hn",
-    "url": "https://inavoyage.blogspot.com/2026/06/im-building-parallel-internet-and-its.html",
-    "title": "I'm building a parallel internet, and it's called The Thinnernet"
-  },
-  {
-    "source": "hn",
     "url": "https://www.wheresyoured.at/ai-is-slowing-down/",
     "title": "AI is slowing down"
   },
@@ -91,13 +91,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://invlpg.com/posts/2025-06-19-premature-optimization.html",
-    "title": "Premature Optimization is Fun Sometimes (2025)"
+    "url": "https://anil.recoil.org/notes/recoil-self-hosting-2026",
+    "title": "Self-hosting email the hard way from your own routable IPv4 block up"
   },
   {
     "source": "lobsters",
-    "url": "https://anil.recoil.org/notes/recoil-self-hosting-2026",
-    "title": "Self-hosting email the hard way from your own routable IPv4 block up"
+    "url": "https://invlpg.com/posts/2025-06-19-premature-optimization.html",
+    "title": "Premature Optimization is Fun Sometimes (2025)"
   },
   {
     "source": "lobsters",
@@ -111,13 +111,18 @@
   },
   {
     "source": "lobsters",
-    "url": "https://www.chiply.dev/post-svg-line",
-    "title": "svg-line: Better Status Bars for Emacs"
+    "url": "https://lewiscampbell.tech/blog/260609.html",
+    "title": "The Decline of Search Engines is an Opportunity"
   },
   {
     "source": "lobsters",
-    "url": "https://www.redox-os.org/news/this-month-260531/",
-    "title": "This Month in Redox - May 2026 - Redox - Your Next(Gen) OS"
+    "url": "https://blog.danieljanus.pl/now-what/",
+    "title": "Now what?"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://www.chiply.dev/post-svg-line",
+    "title": "svg-line: Better Status Bars for Emacs"
   },
   {
     "source": "lobsters",
@@ -126,8 +131,23 @@
   },
   {
     "source": "lobsters",
+    "url": "https://www.redox-os.org/news/this-month-260531/",
+    "title": "This Month in Redox - May 2026 - Redox - Your Next(Gen) OS"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://amule-org.github.io/changelog/3.0.0",
+    "title": "aMule 3.0.0 - The “Alive Again” Release"
+  },
+  {
+    "source": "lobsters",
     "url": "https://astral.sh/blog/uv-audit",
     "title": "Vulnerability and malware checks in uv"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://thefoggiest.dev/2026/06/04/thunderbird-littering-my-home",
+    "title": "Thunderbird littering my home"
   },
   {
     "source": "lobsters",
@@ -146,17 +166,117 @@
   },
   {
     "source": "lobsters",
-    "url": "https://thefoggiest.dev/2026/06/04/thunderbird-littering-my-home",
-    "title": "Thunderbird littering my home"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://lewiscampbell.tech/blog/260609.html",
-    "title": "The Decline of Search Engines is an Opportunity"
-  },
-  {
-    "source": "lobsters",
     "url": "http://ozark.hendrix.edu/~yorgey/forest/00FD/index.xml",
     "title": "To my students"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.0xkato.xyz/how-llms-actually-work/",
+    "title": "How LLMs Actually Work | 0xkato"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://ntsc.rs/",
+    "title": "ntsc-rs - an accurate VHS video effect"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://blog.includesecurity.com/2026/06/the-smart-tv-in-your-livingroom-is-a-node-in-the-aiscraping-economy/",
+    "title": "The Smart TV in Your LivingRoom Is a Node in the AIScraping Economy"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://performance.dev/how-is-linear-so-fast-a-technical-breakdown",
+    "title": "How's Linear so fast? A technical breakdown"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://ataraxy-labs.github.io/sem/",
+    "title": "sem"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://human-in-the-loop.bearblog.dev/llms-are-eroding-my-software-engineering-career-and-i-dont-know-what-to-do/",
+    "title": "LLMs are eroding my software engineering career and I don't know what to do | the human in the loop"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://prestonbjensen.com/posts/playing-with-vision-embeddings",
+    "title": "Playing with Vision Embeddings | Preston Jensen"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://gavinray97.github.io/blog/building-from-zero-after-addiction-prison-felony",
+    "title": "Building from Zero After Addiction, Prison, and a Felony"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.fieggen.com/shoelace/secureknot.htm",
+    "title": "Ian's Shoelace Site - Ian's Secure Shoelace Knot"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.absurdlyoptimized.com/recipes/pancakes/?have=ricotta%2Csour-cream%2Ckefir%2Ctartar%2Cmilkpowder%2Clemon&eggs=2&tang=5",
+    "title": "The Absurdly Optimized Pancake: Leavening Chemistry, Acid-Base Stoichiometry, and an Interactive Calculator | Absurdly Optimized"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.theatlantic.com/philosophy/2026/06/no-artificial-intelligence-is-not-conscious/687378/",
+    "title": "No, Artificial Intelligence Is Not Conscious by Ted Chiang (The Atlantic, 6/3/2026)"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://mechanical-pencil.com/",
+    "title": "Mechanical Pencil"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://news.ycombinator.com/item?id=48440792",
+    "title": "Dopamine Fracking | Hacker News"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://runtimewire.com/article/deepseek-v4-pro-beats-gpt-5-5-pro-on-precision",
+    "title": "https://runtimewire.com/article/deepseek-v4-pro-beats-gpt-5-5-pro-on-precision"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.thenerdreich.com/ai-argentina-and-the-antichrist-thiels-vision-blooms/",
+    "title": "AI, Argentina and the Antichrist: Thiel’s Vision Blooms"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.jeffgeerling.com/blog/2026/i-tested-every-ip-kvm/",
+    "title": "IP KVMs"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://daringfireball.net/2026/06/swiftui_only_makes_it_easy_to_develop_bad_apps",
+    "title": "Daring Fireball: SwiftUI Only Makes It Easy to Develop Bad Apps"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://news.ycombinator.com/item?id=48440064",
+    "title": "The Smallest Brain You Can Build: A Perceptron in Python | Hacker News"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://franktisellano.github.io/datatype/",
+    "title": "Datatype — variable font that turns text into charts"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://storiedcolors.com/browse/",
+    "title": "Browse the Collection — Storied Colors"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://hyperallergic.com/how-liminalism-became-the-defining-aesthetic-of-our-time/",
+    "title": "How Liminalism Became the Defining Aesthetic of Our Time"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/quantization-aware-training-gemma-4/",
+    "title": "Gemma 4 QAT models: Optimizing model compression for mobile and laptop efficiency"
   }
 ]
