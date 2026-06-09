@@ -1,11 +1,6 @@
 [
   {
     "source": "hn",
-    "url": "https://www-cdn.anthropic.com/d00db56fa754a1b115b6dd7cb2e3c342ee809620.pdf",
-    "title": "System Card: Claude Fable 5 and Claude Mythos 5 [pdf]"
-  },
-  {
-    "source": "hn",
     "url": "https://staniks.github.io/articles/catlantean-3d-blog-1/",
     "title": "Making Graphics Like it's 1993"
   },
@@ -36,6 +31,11 @@
   },
   {
     "source": "hn",
+    "url": "https://cost.dev/",
+    "title": "Show HN: Cost.dev (YC W21) – making agents cost-aware and cheaper to call"
+  },
+  {
+    "source": "hn",
     "url": "https://stratechery.com/2026/the-iphones-last-stand/",
     "title": "The iPhone's Last Stand?"
   },
@@ -46,13 +46,8 @@
   },
   {
     "source": "hn",
-    "url": "https://alex.smola.org/posts/40-effective-sample-size/",
-    "title": "The Effective Sample Size"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.codingwithjesse.com/blog/rockstar-developers/",
-    "title": "Cleaning up after AI rockstar developers"
+    "url": "https://louwrentius.com/i-think-rutger-bregman-the-school-for-moral-ambition-are-full-of-shit.html",
+    "title": "I Think Rutger Bregman and the School for Moral Ambition Are Full of Shit"
   },
   {
     "source": "hn",
@@ -61,13 +56,13 @@
   },
   {
     "source": "hn",
-    "url": "https://cspages.ucalgary.ca/~aycock/papers/artworm.pdf",
-    "title": "Painting the Internet: A Different Kind of Warhol Worm [pdf]"
+    "url": "https://www.codingwithjesse.com/blog/rockstar-developers/",
+    "title": "Cleaning up after AI rockstar developers"
   },
   {
     "source": "hn",
-    "url": "https://www.404media.co/sloppenheimer-amazon-employees-mock-the-companys-ai-on-slack/",
-    "title": "'Sloppenheimer:' Amazon Employees Mock the Company's AI on Slack"
+    "url": "https://alex.smola.org/posts/40-effective-sample-size/",
+    "title": "The Effective Sample Size"
   },
   {
     "source": "lobsters",
@@ -81,13 +76,18 @@
   },
   {
     "source": "lobsters",
+    "url": "https://lr0.org/blog/p/yahoo/",
+    "title": "What Yahoo killed when it bought Maktoob"
+  },
+  {
+    "source": "lobsters",
     "url": "https://franktisellano.github.io/datatype/",
     "title": "Datatype — variable font that turns text into charts"
   },
   {
     "source": "lobsters",
-    "url": "https://lr0.org/blog/p/yahoo/",
-    "title": "What Yahoo killed when it bought Maktoob"
+    "url": "https://abner.page/post/are-we-harold-bloom/",
+    "title": "Are We Harold Bloom?"
   },
   {
     "source": "lobsters",
@@ -116,18 +116,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://abner.page/post/are-we-harold-bloom/",
-    "title": "Are We Harold Bloom?"
-  },
-  {
-    "source": "lobsters",
     "url": "https://hackers.pub/@hongminhee/2026/i-wish-deno-would-keep-doing-what-it-does-best",
     "title": "I wish Deno would keep doing what it does best"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://amule-org.github.io/changelog/3.0.0",
-    "title": "aMule 3.0.0 - The “Alive Again” Release"
   },
   {
     "source": "lobsters",
@@ -141,6 +131,11 @@
   },
   {
     "source": "lobsters",
+    "url": "https://amule-org.github.io/changelog/3.0.0",
+    "title": "aMule 3.0.0 - The “Alive Again” Release"
+  },
+  {
+    "source": "lobsters",
     "url": "https://remy.wang/blog/cps.html",
     "title": "Passing DBs Through Continuations"
   },
@@ -148,5 +143,115 @@
     "source": "lobsters",
     "url": "https://dracos.co.uk/wrote/blocking-an-asn/",
     "title": "Blocking an ASN (or similar) from my sites"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.0xkato.xyz/how-llms-actually-work/",
+    "title": "How LLMs Actually Work | 0xkato"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://ntsc.rs/",
+    "title": "ntsc-rs - an accurate VHS video effect"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://blog.includesecurity.com/2026/06/the-smart-tv-in-your-livingroom-is-a-node-in-the-aiscraping-economy/",
+    "title": "The Smart TV in Your LivingRoom Is a Node in the AIScraping Economy"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://performance.dev/how-is-linear-so-fast-a-technical-breakdown",
+    "title": "How's Linear so fast? A technical breakdown"
+  },
+  {
+    "source": "pinboard",
+    "url": "http://ozark.hendrix.edu/~yorgey/forest/00FD/index.xml",
+    "title": "To my students"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://ataraxy-labs.github.io/sem/",
+    "title": "sem"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://human-in-the-loop.bearblog.dev/llms-are-eroding-my-software-engineering-career-and-i-dont-know-what-to-do/",
+    "title": "LLMs are eroding my software engineering career and I don't know what to do | the human in the loop"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://prestonbjensen.com/posts/playing-with-vision-embeddings",
+    "title": "Playing with Vision Embeddings | Preston Jensen"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://gavinray97.github.io/blog/building-from-zero-after-addiction-prison-felony",
+    "title": "Building from Zero After Addiction, Prison, and a Felony"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.fieggen.com/shoelace/secureknot.htm",
+    "title": "Ian's Shoelace Site - Ian's Secure Shoelace Knot"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.absurdlyoptimized.com/recipes/pancakes/?have=ricotta%2Csour-cream%2Ckefir%2Ctartar%2Cmilkpowder%2Clemon&eggs=2&tang=5",
+    "title": "The Absurdly Optimized Pancake: Leavening Chemistry, Acid-Base Stoichiometry, and an Interactive Calculator | Absurdly Optimized"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.theatlantic.com/philosophy/2026/06/no-artificial-intelligence-is-not-conscious/687378/",
+    "title": "No, Artificial Intelligence Is Not Conscious by Ted Chiang (The Atlantic, 6/3/2026)"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://mechanical-pencil.com/",
+    "title": "Mechanical Pencil"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://news.ycombinator.com/item?id=48440792",
+    "title": "Dopamine Fracking | Hacker News"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://runtimewire.com/article/deepseek-v4-pro-beats-gpt-5-5-pro-on-precision",
+    "title": "https://runtimewire.com/article/deepseek-v4-pro-beats-gpt-5-5-pro-on-precision"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.thenerdreich.com/ai-argentina-and-the-antichrist-thiels-vision-blooms/",
+    "title": "AI, Argentina and the Antichrist: Thiel’s Vision Blooms"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.jeffgeerling.com/blog/2026/i-tested-every-ip-kvm/",
+    "title": "IP KVMs"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://daringfireball.net/2026/06/swiftui_only_makes_it_easy_to_develop_bad_apps",
+    "title": "Daring Fireball: SwiftUI Only Makes It Easy to Develop Bad Apps"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://news.ycombinator.com/item?id=48440064",
+    "title": "The Smallest Brain You Can Build: A Perceptron in Python | Hacker News"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://storiedcolors.com/browse/",
+    "title": "Browse the Collection — Storied Colors"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://hyperallergic.com/how-liminalism-became-the-defining-aesthetic-of-our-time/",
+    "title": "How Liminalism Became the Defining Aesthetic of Our Time"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/quantization-aware-training-gemma-4/",
+    "title": "Gemma 4 QAT models: Optimizing model compression for mobile and laptop efficiency"
   }
 ]
