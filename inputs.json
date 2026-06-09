@@ -1,6 +1,11 @@
 [
   {
     "source": "hn",
+    "url": "https://staniks.github.io/articles/catlantean-3d-blog-1/",
+    "title": "Making Graphics Like it's 1993"
+  },
+  {
+    "source": "hn",
     "url": "https://opencv.org/opencv-5/",
     "title": "OpenCV 5 Is Here: The Biggest Leap in Years for Computer Vision"
   },
@@ -11,18 +16,13 @@
   },
   {
     "source": "hn",
-    "url": "https://stratechery.com/2026/the-iphones-last-stand/",
-    "title": "The iPhone's Last Stand"
+    "url": "https://www.codingwithjesse.com/blog/rockstar-developers/",
+    "title": "Cleaning up after AI rockstar developers"
   },
   {
     "source": "hn",
     "url": "https://thi.ng",
     "title": "Thi.ng – open-source building blocks for computational design and art"
-  },
-  {
-    "source": "hn",
-    "url": "https://blog.aheymans.xyz/post/thinkpad_x61/",
-    "title": "Porting the ThinkPad X61 to Coreboot"
   },
   {
     "source": "hn",
@@ -36,8 +36,13 @@
   },
   {
     "source": "hn",
-    "url": "https://giodicanio.com/2026/06/05/how-to-declare-a-c-plus-plus-function-that-takes-a-blob-of-memory/",
-    "title": "The beauty and simplicity of the good old C-style void* in C++"
+    "url": "https://oldavista.com/",
+    "title": "Old'aVista – The most powerful guide to the old Internet"
+  },
+  {
+    "source": "hn",
+    "url": "https://blog.aheymans.xyz/post/thinkpad_x61/",
+    "title": "Porting the ThinkPad X61 to Coreboot"
   },
   {
     "source": "hn",
@@ -56,11 +61,6 @@
   },
   {
     "source": "hn",
-    "url": "https://remy.wang/blog/cps.html",
-    "title": "Passing DBs through continuations"
-  },
-  {
-    "source": "hn",
     "url": "https://cognition.ai/blog/frontier-code",
     "title": "FrontierCode"
   },
@@ -76,38 +76,13 @@
   },
   {
     "source": "hn",
-    "url": "https://lemire.me/blog/2026/06/06/how-much-do-amd64-microarchitecture-levels-help-in-go/",
-    "title": "How much do amd64 microarchitecture levels help in Go?"
-  },
-  {
-    "source": "hn",
     "url": "https://www.wheresyoured.at/ai-is-slowing-down/",
     "title": "AI is slowing down"
   },
   {
-    "source": "lobsters",
-    "url": "https://www.codingwithjesse.com/blog/rockstar-developers/",
-    "title": "Cleaning up after AI rockstar developers"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://anil.recoil.org/notes/recoil-self-hosting-2026",
-    "title": "Self-hosting email the hard way from your own routable IPv4 block up"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://invlpg.com/posts/2025-06-19-premature-optimization.html",
-    "title": "Premature Optimization is Fun Sometimes (2025)"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://mijndertstuij.nl/posts/what-i-got-wrong-about-fast-terminals/",
-    "title": "What I got wrong about fast terminals"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://hackers.pub/@hongminhee/2026/i-wish-deno-would-keep-doing-what-it-does-best",
-    "title": "I wish Deno would keep doing what it does best"
+    "source": "hn",
+    "url": "https://remy.wang/blog/cps.html",
+    "title": "Passing DBs through continuations"
   },
   {
     "source": "lobsters",
@@ -116,23 +91,38 @@
   },
   {
     "source": "lobsters",
+    "url": "https://anil.recoil.org/notes/recoil-self-hosting-2026",
+    "title": "Self-hosting email the hard way from your own routable IPv4 block up"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://mijndertstuij.nl/posts/what-i-got-wrong-about-fast-terminals/",
+    "title": "What I got wrong about fast terminals"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://invlpg.com/posts/2025-06-19-premature-optimization.html",
+    "title": "Premature Optimization is Fun Sometimes (2025)"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://franktisellano.github.io/datatype/",
+    "title": "Datatype — variable font that turns text into charts"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://hackers.pub/@hongminhee/2026/i-wish-deno-would-keep-doing-what-it-does-best",
+    "title": "I wish Deno would keep doing what it does best"
+  },
+  {
+    "source": "lobsters",
     "url": "https://blog.danieljanus.pl/now-what/",
     "title": "Now what?"
   },
   {
     "source": "lobsters",
-    "url": "https://www.chiply.dev/post-svg-line",
-    "title": "svg-line: Better Status Bars for Emacs"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://forgejo.org/2026-05-monthly-report/",
-    "title": "Forgejo monthly report - May 2026"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://www.redox-os.org/news/this-month-260531/",
-    "title": "This Month in Redox - May 2026 - Redox - Your Next(Gen) OS"
+    "url": "https://lr0.org/blog/p/yahoo/",
+    "title": "What Yahoo killed when it bought Maktoob"
   },
   {
     "source": "lobsters",
@@ -141,8 +131,28 @@
   },
   {
     "source": "lobsters",
+    "url": "https://forgejo.org/2026-05-monthly-report/",
+    "title": "Forgejo monthly report - May 2026"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://www.chiply.dev/post-svg-line",
+    "title": "svg-line: Better Status Bars for Emacs"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://www.redox-os.org/news/this-month-260531/",
+    "title": "This Month in Redox - May 2026 - Redox - Your Next(Gen) OS"
+  },
+  {
+    "source": "lobsters",
     "url": "https://astral.sh/blog/uv-audit",
     "title": "Vulnerability and malware checks in uv"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://www.bejarano.io/terraform-autoapply/",
+    "title": "Safe Terraform auto-apply with conftest"
   },
   {
     "source": "lobsters",
@@ -153,21 +163,6 @@
     "source": "lobsters",
     "url": "https://codedbearder.com/posts/nixidy-part-1-introduction/",
     "title": "Introduction to nixidy - Kubernetes GitOps with nix"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://www.bejarano.io/terraform-autoapply/",
-    "title": "Safe Terraform auto-apply with conftest"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://opensource.posit.co/blog/2026-05-21_in-defense-of-yaml/",
-    "title": "In Defense of YAML"
-  },
-  {
-    "source": "lobsters",
-    "url": "http://ozark.hendrix.edu/~yorgey/forest/00FD/index.xml",
-    "title": "To my students"
   },
   {
     "source": "pinboard",
@@ -188,6 +183,11 @@
     "source": "pinboard",
     "url": "https://performance.dev/how-is-linear-so-fast-a-technical-breakdown",
     "title": "How's Linear so fast? A technical breakdown"
+  },
+  {
+    "source": "pinboard",
+    "url": "http://ozark.hendrix.edu/~yorgey/forest/00FD/index.xml",
+    "title": "To my students"
   },
   {
     "source": "pinboard",
@@ -258,11 +258,6 @@
     "source": "pinboard",
     "url": "https://news.ycombinator.com/item?id=48440064",
     "title": "The Smallest Brain You Can Build: A Perceptron in Python | Hacker News"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://franktisellano.github.io/datatype/",
-    "title": "Datatype — variable font that turns text into charts"
   },
   {
     "source": "pinboard",
