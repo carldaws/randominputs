@@ -6,6 +6,11 @@
   },
   {
     "source": "hn",
+    "url": "https://www.matteast.io/spacex-escape-velocity.html",
+    "title": "Why SpaceX 2040 Revenue FCST $4.3T in highly unlikely"
+  },
+  {
+    "source": "hn",
     "url": "https://www.githubstatus.com/incidents/fcj3088jg1wx",
     "title": "GitHub Authentication issues related to API requests"
   },
@@ -16,28 +21,13 @@
   },
   {
     "source": "hn",
-    "url": "https://www.almendron.com/tribuna/wp-content/uploads/2018/03/the-dynamo-and-the-computer-an-historical-perspective-on-the-modern-productivity-paradox.pdf",
-    "title": "The Dynamo and the Computer: The Modern Productivity Paradox (1989) [pdf]"
+    "url": "https://www.extend.ai/ui",
+    "title": "Show HN: Extend UI – open-source UI kit for modern document apps"
   },
   {
     "source": "hn",
-    "url": "https://sbbresale.ch/",
-    "title": "Buy a train, bridge or tracks from the Swiss Railway"
-  },
-  {
-    "source": "hn",
-    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/diffusion-gemma-faster-text-generation/",
-    "title": "DiffusionGemma: 4x Faster Text Generation"
-  },
-  {
-    "source": "hn",
-    "url": "http://from-a-to-remzi.blogspot.com/2014/01/the-case-for-free-online-books-fobs.html",
-    "title": "The Case for Free Online Books (2014)"
-  },
-  {
-    "source": "hn",
-    "url": "https://fergusfinn.com/blog/anatomy-of-a-high-performance-ep-kernel/",
-    "title": "Anatomy of a high-performance EP kernel"
+    "url": "https://geolibre.app/",
+    "title": "GeoLibre 1.0"
   },
   {
     "source": "hn",
@@ -46,18 +36,33 @@
   },
   {
     "source": "hn",
+    "url": "https://www.almendron.com/tribuna/wp-content/uploads/2018/03/the-dynamo-and-the-computer-an-historical-perspective-on-the-modern-productivity-paradox.pdf",
+    "title": "The Dynamo and the Computer: The Modern Productivity Paradox (1989) [pdf]"
+  },
+  {
+    "source": "hn",
+    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/diffusion-gemma-faster-text-generation/",
+    "title": "DiffusionGemma: 4x Faster Text Generation"
+  },
+  {
+    "source": "hn",
+    "url": "https://sbbresale.ch/",
+    "title": "Buy a train, bridge or tracks from the Swiss Railway"
+  },
+  {
+    "source": "hn",
+    "url": "https://p2claw.com/blog/2026-06-09-the-ipad-was-on-tailscale/",
+    "title": "The iPad was on Tailscale: a WebRTC debugging story"
+  },
+  {
+    "source": "hn",
     "url": "https://aibodh.com/posts/async-rust-chapter-1-hands-on-intro-to-async-rust/",
     "title": "Who Runs Your Rust Future? Hands-On Intro to Async Rust"
   },
   {
     "source": "hn",
-    "url": "https://www.gutenberg.org/files/27462/27462-h/27462-h.htm",
-    "title": "The Last Evolution, by John W Campbell Jr. (1932)"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.bls.gov/news.release/cpi.nr0.htm",
-    "title": "US Consumer Price Index up 4.2%"
+    "url": "http://from-a-to-remzi.blogspot.com/2014/01/the-case-for-free-online-books-fobs.html",
+    "title": "The Case for Free Online Books (2014)"
   },
   {
     "source": "hn",
@@ -66,8 +71,8 @@
   },
   {
     "source": "hn",
-    "url": "https://p2claw.com/blog/2026-06-09-the-ipad-was-on-tailscale/",
-    "title": "The iPad was on Tailscale: a WebRTC debugging story"
+    "url": "https://www.gutenberg.org/files/27462/27462-h/27462-h.htm",
+    "title": "The Last Evolution, by John W Campbell Jr. (1932)"
   },
   {
     "source": "lobsters",
@@ -81,8 +86,23 @@
   },
   {
     "source": "lobsters",
+    "url": "https://buttondown.com/hillelwayne/archive/nontrailing-separators-do-not-spark-joy/",
+    "title": "Nontrailing separators do not spark joy"
+  },
+  {
+    "source": "lobsters",
     "url": "http://miod.online.fr/software/openbsd/stories/trojan.html",
     "title": "Trojaned OpenSSH (in 2002)"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://data-star.dev/guide/the_tao_of_datastar",
+    "title": "The Tao of Datastar"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://carefully.understood.systems/blog-2026-06-10-static-type-shovel.html",
+    "title": "Static types and shovels (2026)"
   },
   {
     "source": "lobsters",
@@ -96,6 +116,11 @@
   },
   {
     "source": "lobsters",
+    "url": "https://daniel.haxx.se/blog/2026/06/10/a-human-in-control/",
+    "title": "A human in control"
+  },
+  {
+    "source": "lobsters",
     "url": "https://www.codingwithjesse.com/blog/rockstar-developers/",
     "title": "Cleaning up after AI rockstar developers"
   },
@@ -106,16 +131,6 @@
   },
   {
     "source": "lobsters",
-    "url": "https://data-star.dev/guide/the_tao_of_datastar",
-    "title": "The Tao of Datastar"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://daniel.haxx.se/blog/2026/06/10/a-human-in-control/",
-    "title": "A human in control"
-  },
-  {
-    "source": "lobsters",
     "url": "https://lewiscampbell.tech/blog/260609.html",
     "title": "The Decline of Search Engines is an Opportunity"
   },
@@ -123,15 +138,5 @@
     "source": "lobsters",
     "url": "https://matklad.github.io/2026/06/04/css-unavoidable-bad-parts.html",
     "title": "CSS: Unavoidable Bad Parts"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://blog.gitbutler.com/true-grit",
-    "title": "Grit: rewriting Git in Rust with agents"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://buttondown.com/hillelwayne/archive/nontrailing-separators-do-not-spark-joy/",
-    "title": "Nontrailing separators do not spark joy"
   }
 ]
