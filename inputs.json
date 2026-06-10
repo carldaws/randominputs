@@ -11,18 +11,38 @@
   },
   {
     "source": "hn",
+    "url": "https://the-decoder.com/landmark-german-ruling-declares-googles-ai-overviews-are-googles-own-words-and-makes-it-liable-for-false-answers/",
+    "title": "German ruling declares Google liable for false answers in AI Overviews"
+  },
+  {
+    "source": "hn",
     "url": "https://unsung.aresluna.org/more-molly-guards/",
     "title": "More Molly Guards"
   },
   {
     "source": "hn",
-    "url": "https://staniks.github.io/articles/catlantean-3d-blog-1/",
-    "title": "Making Graphics Like it's 1993"
+    "url": "https://jonready.com/blog/posts/claude-fable5-is-allowed-to-sabotage-your-app-if-youre-a-competitor.html",
+    "title": "If Claude Fable stops helping you, you'll never know"
   },
   {
     "source": "hn",
-    "url": "https://jonready.com/blog/posts/claude-fable5-is-allowed-to-sabotage-your-app-if-youre-a-competitor.html",
-    "title": "If Claude Fable stops helping you, you'll never know"
+    "url": "https://www.techdirt.com/2026/06/09/ceos-who-think-ai-replaces-their-employees-are-just-bad-ceos/",
+    "title": "CEOs who think AI replaces their employees are just bad CEOs"
+  },
+  {
+    "source": "hn",
+    "url": "https://jesseduffield.com/ITS-DEATH/",
+    "title": "It's death"
+  },
+  {
+    "source": "hn",
+    "url": "https://opencv.org/opencv-5/",
+    "title": "OpenCV 5 Is Here: The Biggest Leap in Years for Computer Vision"
+  },
+  {
+    "source": "hn",
+    "url": "https://phys.org/news/2026-05-giant-star-destroyed-universe-rarest.html",
+    "title": "A giant star may have destroyed itself in one of the rarest explosions"
   },
   {
     "source": "hn",
@@ -36,28 +56,18 @@
   },
   {
     "source": "hn",
-    "url": "https://jesseduffield.com/ITS-DEATH/",
-    "title": "It's death"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.techdirt.com/2026/06/09/ceos-who-think-ai-replaces-their-employees-are-just-bad-ceos/",
-    "title": "CEOs who think AI replaces their employees are just bad CEOs"
-  },
-  {
-    "source": "hn",
-    "url": "https://phys.org/news/2026-05-giant-star-destroyed-universe-rarest.html",
-    "title": "A giant star may have destroyed itself in one of the rarest explosions"
-  },
-  {
-    "source": "hn",
-    "url": "https://opencv.org/opencv-5/",
-    "title": "OpenCV 5 Is Here: The Biggest Leap in Years for Computer Vision"
+    "url": "https://staniks.github.io/articles/catlantean-3d-blog-1/",
+    "title": "Making Graphics Like it's 1993"
   },
   {
     "source": "hn",
     "url": "https://alexandrefrancois.org/Resonate/",
     "title": "Show HN: Resonate – Low-latency, high-resolution spectral analysis"
+  },
+  {
+    "source": "hn",
+    "url": "https://cupertinolens.com/2026/06/09/wwdc-2026-apple-is-folding/",
+    "title": "WWDC 2026: Apple is Folding"
   },
   {
     "source": "hn",
@@ -71,18 +81,8 @@
   },
   {
     "source": "hn",
-    "url": "https://perspectives.mvdirona.com/2026/06/flat-datacenter-networks-at-scale/",
-    "title": "Flat Datacenter Networks at Scale at Amazon"
-  },
-  {
-    "source": "hn",
-    "url": "https://qunabu.github.io/Gravity/",
-    "title": "Show HN: Gravity – Interactive solar-system simulator, from Newton to Einstein"
-  },
-  {
-    "source": "hn",
-    "url": "https://biffweb.com/p/core/",
-    "title": "Biff.core: system composition for Clojure web apps"
+    "url": "https://bernsteinbear.com/blog/value-numbering/",
+    "title": "Value Numbering"
   },
   {
     "source": "lobsters",
@@ -121,23 +121,23 @@
   },
   {
     "source": "lobsters",
-    "url": "https://blog.danieljanus.pl/now-what/",
-    "title": "Now what?"
-  },
-  {
-    "source": "lobsters",
     "url": "https://utcc.utoronto.ca/~cks/space/blog/programming/EmacsUnderstandingEmbark",
     "title": "Understanding Embark in GNU Emacs (a bit) and some 'stupid' Embark tricks"
   },
   {
     "source": "lobsters",
-    "url": "https://mijndertstuij.nl/posts/what-i-got-wrong-about-fast-terminals/",
-    "title": "What I got wrong about fast terminals"
+    "url": "https://blog.danieljanus.pl/now-what/",
+    "title": "Now what?"
   },
   {
     "source": "lobsters",
     "url": "https://arcan-fe.com/2026/06/02/arcan-10-years-of-online-obscurity/",
     "title": "Arcan: 10 Years of Online Obscurity"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://mijndertstuij.nl/posts/what-i-got-wrong-about-fast-terminals/",
+    "title": "What I got wrong about fast terminals"
   },
   {
     "source": "lobsters",
@@ -151,6 +151,11 @@
   },
   {
     "source": "lobsters",
+    "url": "https://www.cs.bu.edu/~hwxi/atslangweb/",
+    "title": "ATS Programming Language"
+  },
+  {
+    "source": "lobsters",
     "url": "https://remy.wang/blog/cps.html",
     "title": "Passing DBs Through Continuations"
   },
@@ -160,18 +165,113 @@
     "title": "Premature Optimization is Fun Sometimes (2025)"
   },
   {
-    "source": "lobsters",
-    "url": "https://www.pgedge.com/blog/looking-forward-to-postgres-19-query-hints",
-    "title": "Looking Forward to Postgres 19: Query Hints"
+    "source": "pinboard",
+    "url": "https://www.0xkato.xyz/how-llms-actually-work/",
+    "title": "How LLMs Actually Work | 0xkato"
   },
   {
-    "source": "lobsters",
-    "url": "https://dracos.co.uk/wrote/blocking-an-asn/",
-    "title": "Blocking an ASN (or similar) from my sites"
+    "source": "pinboard",
+    "url": "https://ntsc.rs/",
+    "title": "ntsc-rs - an accurate VHS video effect"
   },
   {
-    "source": "lobsters",
-    "url": "https://hackers.pub/@hongminhee/2026/i-wish-deno-would-keep-doing-what-it-does-best",
-    "title": "I wish Deno would keep doing what it does best"
+    "source": "pinboard",
+    "url": "https://blog.includesecurity.com/2026/06/the-smart-tv-in-your-livingroom-is-a-node-in-the-aiscraping-economy/",
+    "title": "The Smart TV in Your LivingRoom Is a Node in the AIScraping Economy"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://performance.dev/how-is-linear-so-fast-a-technical-breakdown",
+    "title": "How's Linear so fast? A technical breakdown"
+  },
+  {
+    "source": "pinboard",
+    "url": "http://ozark.hendrix.edu/~yorgey/forest/00FD/index.xml",
+    "title": "To my students"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://ataraxy-labs.github.io/sem/",
+    "title": "sem"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://human-in-the-loop.bearblog.dev/llms-are-eroding-my-software-engineering-career-and-i-dont-know-what-to-do/",
+    "title": "LLMs are eroding my software engineering career and I don't know what to do | the human in the loop"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://prestonbjensen.com/posts/playing-with-vision-embeddings",
+    "title": "Playing with Vision Embeddings | Preston Jensen"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://gavinray97.github.io/blog/building-from-zero-after-addiction-prison-felony",
+    "title": "Building from Zero After Addiction, Prison, and a Felony"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.fieggen.com/shoelace/secureknot.htm",
+    "title": "Ian's Shoelace Site - Ian's Secure Shoelace Knot"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.absurdlyoptimized.com/recipes/pancakes/?have=ricotta%2Csour-cream%2Ckefir%2Ctartar%2Cmilkpowder%2Clemon&eggs=2&tang=5",
+    "title": "The Absurdly Optimized Pancake: Leavening Chemistry, Acid-Base Stoichiometry, and an Interactive Calculator | Absurdly Optimized"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.theatlantic.com/philosophy/2026/06/no-artificial-intelligence-is-not-conscious/687378/",
+    "title": "No, Artificial Intelligence Is Not Conscious by Ted Chiang (The Atlantic, 6/3/2026)"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://mechanical-pencil.com/",
+    "title": "Mechanical Pencil"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://news.ycombinator.com/item?id=48440792",
+    "title": "Dopamine Fracking | Hacker News"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://runtimewire.com/article/deepseek-v4-pro-beats-gpt-5-5-pro-on-precision",
+    "title": "https://runtimewire.com/article/deepseek-v4-pro-beats-gpt-5-5-pro-on-precision"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.thenerdreich.com/ai-argentina-and-the-antichrist-thiels-vision-blooms/",
+    "title": "AI, Argentina and the Antichrist: Thiel’s Vision Blooms"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.jeffgeerling.com/blog/2026/i-tested-every-ip-kvm/",
+    "title": "IP KVMs"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://daringfireball.net/2026/06/swiftui_only_makes_it_easy_to_develop_bad_apps",
+    "title": "Daring Fireball: SwiftUI Only Makes It Easy to Develop Bad Apps"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://news.ycombinator.com/item?id=48440064",
+    "title": "The Smallest Brain You Can Build: A Perceptron in Python | Hacker News"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://storiedcolors.com/browse/",
+    "title": "Browse the Collection — Storied Colors"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://hyperallergic.com/how-liminalism-became-the-defining-aesthetic-of-our-time/",
+    "title": "How Liminalism Became the Defining Aesthetic of Our Time"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/quantization-aware-training-gemma-4/",
+    "title": "Gemma 4 QAT models: Optimizing model compression for mobile and laptop efficiency"
   }
 ]
