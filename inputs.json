@@ -11,6 +11,11 @@
   },
   {
     "source": "hn",
+    "url": "https://www.githubstatus.com/incidents/fcj3088jg1wx",
+    "title": "GitHub Authentication issues related to API requests"
+  },
+  {
+    "source": "hn",
     "url": "https://sbbresale.ch/",
     "title": "Buy a train, bridge or tracks from the Swiss Railway"
   },
@@ -21,13 +26,33 @@
   },
   {
     "source": "hn",
+    "url": "https://www.gutenberg.org/files/27462/27462-h/27462-h.htm",
+    "title": "The Last Evolution, by John W Campbell Jr. (1932)"
+  },
+  {
+    "source": "hn",
+    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/diffusion-gemma-faster-text-generation/",
+    "title": "DiffusionGemma: 4x Faster Text Generation"
+  },
+  {
+    "source": "hn",
+    "url": "https://kennethreitz.org/essays/2026-06-05-a_server_called_mercury",
+    "title": "A Server Called Mercury"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.bls.gov/news.release/cpi.nr0.htm",
+    "title": "US Consumer Price Index up 4.2%"
+  },
+  {
+    "source": "hn",
     "url": "https://paperswithcode.co/",
     "title": "Reviving Papers with Code"
   },
   {
     "source": "hn",
-    "url": "https://blue41.com/blog/how-we-helped-bunq-secure-their-financial-ai-assistant/",
-    "title": "A €0.01 bank transfer could compromise a banking AI agent"
+    "url": "https://p2claw.com/blog/2026-06-09-the-ipad-was-on-tailscale/",
+    "title": "The iPad was on Tailscale: a WebRTC debugging story"
   },
   {
     "source": "hn",
@@ -45,32 +70,7 @@
     "title": "RIP software hackathons. Long live the hardware hackathon"
   },
   {
-    "source": "hn",
-    "url": "https://forestwalk.ai/blog/surprise-blacksmith-costs/",
-    "title": "Surprise, pay $1000"
-  },
-  {
-    "source": "hn",
-    "url": "https://aarushgupta.io/posts/kan-fpga/",
-    "title": "Ultrafast machine learning on FPGAs via Kolmogorov-Arnold Networks"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.npr.org/2026/06/10/nx-s1-5843159/ice-protester-database-dhs",
-    "title": "ICE denies having a protester database. A letter to Congress sheds more light"
-  },
-  {
-    "source": "hn",
-    "url": "https://opencv.org/opencv-5/",
-    "title": "OpenCV 5 Is Here: The Biggest Leap in Years for Computer Vision"
-  },
-  {
-    "source": "hn",
-    "url": "https://unsung.aresluna.org/more-molly-guards/",
-    "title": "More Molly Guards"
-  },
-  {
-    "source": "hn",
+    "source": "lobsters",
     "url": "https://jonready.com/blog/posts/claude-fable5-is-allowed-to-sabotage-your-app-if-youre-a-competitor.html",
     "title": "If Claude Fable stops helping you, you'll never know"
   },
@@ -78,6 +78,11 @@
     "source": "lobsters",
     "url": "https://staniks.github.io/articles/catlantean-3d-blog-1/",
     "title": "Catlantean 3D - Making Graphics Like It's 1993"
+  },
+  {
+    "source": "lobsters",
+    "url": "http://miod.online.fr/software/openbsd/stories/trojan.html",
+    "title": "Trojaned OpenSSH (in 2002)"
   },
   {
     "source": "lobsters",
@@ -101,18 +106,8 @@
   },
   {
     "source": "lobsters",
-    "url": "http://miod.online.fr/software/openbsd/stories/trojan.html",
-    "title": "Trojaned OpenSSH (in 2002)"
-  },
-  {
-    "source": "lobsters",
     "url": "https://matklad.github.io/2026/06/04/css-unavoidable-bad-parts.html",
     "title": "CSS: Unavoidable Bad Parts"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://arcan-fe.com/2026/06/02/arcan-10-years-of-online-obscurity/",
-    "title": "Arcan: 10 Years of Online Obscurity"
   },
   {
     "source": "lobsters",
@@ -121,22 +116,22 @@
   },
   {
     "source": "lobsters",
+    "url": "https://arcan-fe.com/2026/06/02/arcan-10-years-of-online-obscurity/",
+    "title": "Arcan: 10 Years of Online Obscurity"
+  },
+  {
+    "source": "lobsters",
     "url": "https://utcc.utoronto.ca/~cks/space/blog/programming/EmacsUnderstandingEmbark",
     "title": "Understanding Embark in GNU Emacs (a bit) and some 'stupid' Embark tricks"
   },
   {
     "source": "lobsters",
+    "url": "https://daniel.haxx.se/blog/2026/06/10/a-human-in-control/",
+    "title": "A human in control"
+  },
+  {
+    "source": "lobsters",
     "url": "https://lr0.org/blog/p/yahoo/",
     "title": "What Yahoo killed when it bought Maktoob"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://franktisellano.github.io/datatype/",
-    "title": "Datatype — variable font that turns text into charts"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://ajeygore.in/content/ai-ate-my-role-whats-next",
-    "title": "AI ate my role! What's next? - Ajey Gore"
   }
 ]
