@@ -6,13 +6,13 @@
   },
   {
     "source": "hn",
-    "url": "https://blog.oscars.dev/posts/rip-software-hackathons-long-live-the-hardware-hackathon/",
-    "title": "RIP software hackathons. Long live the hardware hackathon"
+    "url": "https://paperswithcode.co/",
+    "title": "Reviving Papers with Code"
   },
   {
     "source": "hn",
-    "url": "https://www.ddmckinnon.com/2026/06/09/vibe-coding-my-way-to-a-healthy-family-introducing-gamow-labs/",
-    "title": "Vibe coding my way to a healthy family: Introducing Gamow Labs"
+    "url": "https://blog.oscars.dev/posts/rip-software-hackathons-long-live-the-hardware-hackathon/",
+    "title": "RIP software hackathons. Long live the hardware hackathon"
   },
   {
     "source": "hn",
@@ -26,18 +26,13 @@
   },
   {
     "source": "hn",
+    "url": "https://www.ddmckinnon.com/2026/06/09/vibe-coding-my-way-to-a-healthy-family-introducing-gamow-labs/",
+    "title": "Vibe coding my way to a healthy family: Introducing Gamow Labs"
+  },
+  {
+    "source": "hn",
     "url": "https://unsung.aresluna.org/more-molly-guards/",
     "title": "More Molly Guards"
-  },
-  {
-    "source": "hn",
-    "url": "https://jonready.com/blog/posts/claude-fable5-is-allowed-to-sabotage-your-app-if-youre-a-competitor.html",
-    "title": "If Claude Fable stops helping you, you'll never know"
-  },
-  {
-    "source": "hn",
-    "url": "https://invlpg.com/posts/2025-06-19-premature-optimization.html",
-    "title": "Premature Optimization Is Fun Sometimes"
   },
   {
     "source": "hn",
@@ -46,8 +41,18 @@
   },
   {
     "source": "hn",
+    "url": "https://jonready.com/blog/posts/claude-fable5-is-allowed-to-sabotage-your-app-if-youre-a-competitor.html",
+    "title": "If Claude Fable stops helping you, you'll never know"
+  },
+  {
+    "source": "hn",
     "url": "https://gitpush--force.com/commits/2026/06/lies-we-tell-ourselves-about-email/",
     "title": "Lies we tell ourselves about email addresses"
+  },
+  {
+    "source": "hn",
+    "url": "https://invlpg.com/posts/2025-06-19-premature-optimization.html",
+    "title": "Premature Optimization Is Fun Sometimes"
   },
   {
     "source": "hn",
@@ -56,13 +61,13 @@
   },
   {
     "source": "hn",
-    "url": "https://phys.org/news/2026-05-giant-star-destroyed-universe-rarest.html",
-    "title": "A giant star may have destroyed itself in one of the rarest explosions"
+    "url": "https://blog.gitbutler.com/true-grit",
+    "title": "Grit: Rewriting Git in Rust with agents"
   },
   {
     "source": "hn",
-    "url": "https://blog.gitbutler.com/true-grit",
-    "title": "Grit: Rewriting Git in Rust with agents"
+    "url": "https://phys.org/news/2026-05-giant-star-destroyed-universe-rarest.html",
+    "title": "A giant star may have destroyed itself in one of the rarest explosions"
   },
   {
     "source": "hn",
@@ -73,16 +78,6 @@
     "source": "hn",
     "url": "https://staniks.github.io/articles/catlantean-3d-blog-1/",
     "title": "Making Graphics Like it's 1993"
-  },
-  {
-    "source": "hn",
-    "url": "https://cupertinolens.com/2026/06/09/wwdc-2026-apple-is-folding/",
-    "title": "WWDC 2026: Apple is Folding"
-  },
-  {
-    "source": "hn",
-    "url": "https://bernsteinbear.com/blog/value-numbering/",
-    "title": "Value Numbering"
   },
   {
     "source": "lobsters",
@@ -116,13 +111,18 @@
   },
   {
     "source": "lobsters",
+    "url": "https://utcc.utoronto.ca/~cks/space/blog/programming/EmacsUnderstandingEmbark",
+    "title": "Understanding Embark in GNU Emacs (a bit) and some 'stupid' Embark tricks"
+  },
+  {
+    "source": "lobsters",
     "url": "https://franktisellano.github.io/datatype/",
     "title": "Datatype — variable font that turns text into charts"
   },
   {
     "source": "lobsters",
-    "url": "https://utcc.utoronto.ca/~cks/space/blog/programming/EmacsUnderstandingEmbark",
-    "title": "Understanding Embark in GNU Emacs (a bit) and some 'stupid' Embark tricks"
+    "url": "https://lalitm.com/post/perfetto-security-bugs-ai/",
+    "title": "17 bugs in 10 weeks from AI security scanning"
   },
   {
     "source": "lobsters",
@@ -138,120 +138,5 @@
     "source": "lobsters",
     "url": "https://mijndertstuij.nl/posts/what-i-got-wrong-about-fast-terminals/",
     "title": "What I got wrong about fast terminals"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://iev.ee/blog/what-262715-regex-questions-havent-answered-pt-2/",
-    "title": "what 262,715 regex questions on stack overflow haven't answered (part 2)"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://blog.ipspace.net/2026/06/goodbye-leaf-spine-networks/",
-    "title": "Goodbye, Leaf-and-Spine Networks?"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://anil.recoil.org/notes/recoil-self-hosting-2026",
-    "title": "Self-hosting email the hard way from your own routable IPv4 block up"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.0xkato.xyz/how-llms-actually-work/",
-    "title": "How LLMs Actually Work | 0xkato"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://performance.dev/how-is-linear-so-fast-a-technical-breakdown",
-    "title": "How's Linear so fast? A technical breakdown"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://human-in-the-loop.bearblog.dev/llms-are-eroding-my-software-engineering-career-and-i-dont-know-what-to-do/",
-    "title": "LLMs are eroding my software engineering career and I don't know what to do | the human in the loop"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://gavinray97.github.io/blog/building-from-zero-after-addiction-prison-felony",
-    "title": "Building from Zero After Addiction, Prison, and a Felony"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://thi.ng/",
-    "title": "thi.ng - computational design tools for Clojure & Clojurescript"
-  },
-  {
-    "source": "pinboard",
-    "url": "http://ozark.hendrix.edu/~yorgey/forest/00FD/index.xml",
-    "title": "To my students"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://ataraxy-labs.github.io/sem/",
-    "title": "sem"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.absurdlyoptimized.com/recipes/pancakes/?have=ricotta%2Csour-cream%2Ckefir%2Ctartar%2Cmilkpowder%2Clemon&eggs=2&tang=5",
-    "title": "The Absurdly Optimized Pancake: Leavening Chemistry, Acid-Base Stoichiometry, and an Interactive Calculator | Absurdly Optimized"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://vorpus.github.io/performativeUI/#/",
-    "title": "performative-ui | AI-native React Components"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://index.how/to/articulate",
-    "title": "Say precisely what you mean."
-  },
-  {
-    "source": "pinboard",
-    "url": "https://igerman.cc/blog/dopamine-fracking/",
-    "title": "Dopamine Fracking | beware, the german!"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://prestonbjensen.com/posts/playing-with-vision-embeddings",
-    "title": "Playing with Vision Embeddings | Preston Jensen"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://news.ycombinator.com/item?id=48440792",
-    "title": "Dopamine Fracking | Hacker News"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://runtimewire.com/article/deepseek-v4-pro-beats-gpt-5-5-pro-on-precision",
-    "title": "https://runtimewire.com/article/deepseek-v4-pro-beats-gpt-5-5-pro-on-precision"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.cypherpunkbooks.com/",
-    "title": "The Cypherpunk Library"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://vorpus.github.io/performativeUI/",
-    "title": "performative-ui | AI-native React Components"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://mechanical-pencil.com/",
-    "title": "Mechanical Pencil"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://news.ycombinator.com/item?id=48440064",
-    "title": "The Smallest Brain You Can Build: A Perceptron in Python | Hacker News"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://blog.includesecurity.com/2026/06/the-smart-tv-in-your-livingroom-is-a-node-in-the-aiscraping-economy/",
-    "title": "The Smart TV in Your LivingRoom Is a Node in the AIScraping Economy"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://daringfireball.net/2026/06/swiftui_only_makes_it_easy_to_develop_bad_apps",
-    "title": "Daring Fireball: SwiftUI Only Makes It Easy to Develop Bad Apps"
   }
 ]
