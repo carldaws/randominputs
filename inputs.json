@@ -1,11 +1,6 @@
 [
   {
     "source": "hn",
-    "url": "https://mohkohn.co.uk/writing/html-first/",
-    "title": "Building an HTML-first site doubled our users overnight"
-  },
-  {
-    "source": "hn",
     "url": "https://pgdog.dev/blog/our-funding-announcement",
     "title": "PgDog is funded and coming to a database near you"
   },
@@ -16,8 +11,38 @@
   },
   {
     "source": "hn",
+    "url": "https://mohkohn.co.uk/writing/html-first/",
+    "title": "Building an HTML-first site doubled our users overnight"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.almendron.com/tribuna/wp-content/uploads/2018/03/the-dynamo-and-the-computer-an-historical-perspective-on-the-modern-productivity-paradox.pdf",
+    "title": "The Dynamo and the Computer: The Modern Productivity Paradox (1989) [pdf]"
+  },
+  {
+    "source": "hn",
     "url": "https://sbbresale.ch/",
     "title": "Buy a train, bridge or tracks from the Swiss Railway"
+  },
+  {
+    "source": "hn",
+    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/diffusion-gemma-faster-text-generation/",
+    "title": "DiffusionGemma: 4x Faster Text Generation"
+  },
+  {
+    "source": "hn",
+    "url": "http://from-a-to-remzi.blogspot.com/2014/01/the-case-for-free-online-books-fobs.html",
+    "title": "The Case for Free Online Books (2014)"
+  },
+  {
+    "source": "hn",
+    "url": "https://fergusfinn.com/blog/anatomy-of-a-high-performance-ep-kernel/",
+    "title": "Anatomy of a high-performance EP kernel"
+  },
+  {
+    "source": "hn",
+    "url": "https://blue41.com/blog/how-we-helped-bunq-secure-their-financial-ai-assistant/",
+    "title": "A €0.01 bank transfer could compromise a banking AI agent"
   },
   {
     "source": "hn",
@@ -28,16 +53,6 @@
     "source": "hn",
     "url": "https://www.gutenberg.org/files/27462/27462-h/27462-h.htm",
     "title": "The Last Evolution, by John W Campbell Jr. (1932)"
-  },
-  {
-    "source": "hn",
-    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/diffusion-gemma-faster-text-generation/",
-    "title": "DiffusionGemma: 4x Faster Text Generation"
-  },
-  {
-    "source": "hn",
-    "url": "https://kennethreitz.org/essays/2026-06-05-a_server_called_mercury",
-    "title": "A Server Called Mercury"
   },
   {
     "source": "hn",
@@ -55,29 +70,14 @@
     "title": "The iPad was on Tailscale: a WebRTC debugging story"
   },
   {
-    "source": "hn",
-    "url": "https://steveblank.com/2026/06/08/g-for-defense-stanford-2026-lessons-learned-presentations/",
-    "title": "Hacking for Defense Stanford 2026 – Lessons Learned Presentations"
-  },
-  {
-    "source": "hn",
-    "url": "https://the-decoder.com/landmark-german-ruling-declares-googles-ai-overviews-are-googles-own-words-and-makes-it-liable-for-false-answers/",
-    "title": "German ruling declares Google liable for false answers in AI Overviews"
-  },
-  {
-    "source": "hn",
-    "url": "https://blog.oscars.dev/posts/rip-software-hackathons-long-live-the-hardware-hackathon/",
-    "title": "RIP software hackathons. Long live the hardware hackathon"
-  },
-  {
     "source": "lobsters",
     "url": "https://jonready.com/blog/posts/claude-fable5-is-allowed-to-sabotage-your-app-if-youre-a-competitor.html",
     "title": "If Claude Fable stops helping you, you'll never know"
   },
   {
     "source": "lobsters",
-    "url": "https://staniks.github.io/articles/catlantean-3d-blog-1/",
-    "title": "Catlantean 3D - Making Graphics Like It's 1993"
+    "url": "https://blog.johanneslink.net/2026/06/09/the-jqwik-anti-ai-affair/",
+    "title": "The Jqwik Anti-AI Affair"
   },
   {
     "source": "lobsters",
@@ -86,8 +86,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://www.codingwithjesse.com/blog/rockstar-developers/",
-    "title": "Cleaning up after AI rockstar developers"
+    "url": "https://staniks.github.io/articles/catlantean-3d-blog-1/",
+    "title": "Catlantean 3D - Making Graphics Like It's 1993"
   },
   {
     "source": "lobsters",
@@ -96,13 +96,28 @@
   },
   {
     "source": "lobsters",
-    "url": "https://lewiscampbell.tech/blog/260609.html",
-    "title": "The Decline of Search Engines is an Opportunity"
+    "url": "https://www.codingwithjesse.com/blog/rockstar-developers/",
+    "title": "Cleaning up after AI rockstar developers"
   },
   {
     "source": "lobsters",
     "url": "https://abner.page/post/are-we-harold-bloom/",
     "title": "Are We Harold Bloom?"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://data-star.dev/guide/the_tao_of_datastar",
+    "title": "The Tao of Datastar"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://daniel.haxx.se/blog/2026/06/10/a-human-in-control/",
+    "title": "A human in control"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://lewiscampbell.tech/blog/260609.html",
+    "title": "The Decline of Search Engines is an Opportunity"
   },
   {
     "source": "lobsters",
@@ -116,22 +131,7 @@
   },
   {
     "source": "lobsters",
-    "url": "https://arcan-fe.com/2026/06/02/arcan-10-years-of-online-obscurity/",
-    "title": "Arcan: 10 Years of Online Obscurity"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://utcc.utoronto.ca/~cks/space/blog/programming/EmacsUnderstandingEmbark",
-    "title": "Understanding Embark in GNU Emacs (a bit) and some 'stupid' Embark tricks"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://daniel.haxx.se/blog/2026/06/10/a-human-in-control/",
-    "title": "A human in control"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://lr0.org/blog/p/yahoo/",
-    "title": "What Yahoo killed when it bought Maktoob"
+    "url": "https://buttondown.com/hillelwayne/archive/nontrailing-separators-do-not-spark-joy/",
+    "title": "Nontrailing separators do not spark joy"
   }
 ]
