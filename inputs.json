@@ -1,6 +1,11 @@
 [
   {
     "source": "hn",
+    "url": "https://the-decoder.com/landmark-german-ruling-declares-googles-ai-overviews-are-googles-own-words-and-makes-it-liable-for-false-answers/",
+    "title": "German ruling declares Google liable for false answers in AI Overviews"
+  },
+  {
+    "source": "hn",
     "url": "https://blog.oscars.dev/posts/rip-software-hackathons-long-live-the-hardware-hackathon/",
     "title": "RIP software hackathons. Long live the hardware hackathon"
   },
@@ -8,11 +13,6 @@
     "source": "hn",
     "url": "https://aarushgupta.io/posts/kan-fpga/",
     "title": "Ultrafast machine learning on FPGAs via Kolmogorov-Arnold Networks"
-  },
-  {
-    "source": "hn",
-    "url": "https://the-decoder.com/landmark-german-ruling-declares-googles-ai-overviews-are-googles-own-words-and-makes-it-liable-for-false-answers/",
-    "title": "German ruling declares Google liable for false answers in AI Overviews"
   },
   {
     "source": "hn",
@@ -26,13 +26,13 @@
   },
   {
     "source": "hn",
-    "url": "https://www.techdirt.com/2026/06/09/ceos-who-think-ai-replaces-their-employees-are-just-bad-ceos/",
-    "title": "CEOs who think AI replaces their employees are just bad CEOs"
+    "url": "https://gitpush--force.com/commits/2026/06/lies-we-tell-ourselves-about-email/",
+    "title": "Lies we tell ourselves about email addresses"
   },
   {
     "source": "hn",
-    "url": "https://jesseduffield.com/ITS-DEATH/",
-    "title": "It's death"
+    "url": "https://www.techdirt.com/2026/06/09/ceos-who-think-ai-replaces-their-employees-are-just-bad-ceos/",
+    "title": "CEOs who think AI replaces their employees are just bad CEOs"
   },
   {
     "source": "hn",
@@ -46,13 +46,28 @@
   },
   {
     "source": "hn",
+    "url": "https://forestwalk.ai/blog/surprise-blacksmith-costs/",
+    "title": "Surprise, Pay $1000"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.ddmckinnon.com/2026/06/09/vibe-coding-my-way-to-a-healthy-family-introducing-gamow-labs/",
+    "title": "Vibe coding my way to a healthy family: Introducing Gamow Labs"
+  },
+  {
+    "source": "hn",
     "url": "https://blog.gitbutler.com/true-grit",
     "title": "Grit: Rewriting Git in Rust with agents"
   },
   {
     "source": "hn",
-    "url": "https://gitpush--force.com/commits/2026/06/lies-we-tell-ourselves-about-email/",
-    "title": "Lies we tell ourselves about email addresses"
+    "url": "https://technicshistory.com/2026/06/06/computer-lessons/",
+    "title": "Computer Lessons"
+  },
+  {
+    "source": "hn",
+    "url": "https://jesseduffield.com/ITS-DEATH/",
+    "title": "It's death"
   },
   {
     "source": "hn",
@@ -61,13 +76,8 @@
   },
   {
     "source": "hn",
-    "url": "https://alexandrefrancois.org/Resonate/",
-    "title": "Show HN: Resonate – Low-latency, high-resolution spectral analysis"
-  },
-  {
-    "source": "hn",
-    "url": "https://cupertinolens.com/2026/06/09/wwdc-2026-apple-is-folding/",
-    "title": "WWDC 2026: Apple is Folding"
+    "url": "https://bernsteinbear.com/blog/value-numbering/",
+    "title": "Value Numbering"
   },
   {
     "source": "hn",
@@ -78,11 +88,6 @@
     "source": "hn",
     "url": "https://bnikolic.co.uk/blog/linux-ld-debug.html",
     "title": "The LD_DEBUG environment variable (2012)"
-  },
-  {
-    "source": "hn",
-    "url": "https://bernsteinbear.com/blog/value-numbering/",
-    "title": "Value Numbering"
   },
   {
     "source": "lobsters",
@@ -111,6 +116,11 @@
   },
   {
     "source": "lobsters",
+    "url": "https://arcan-fe.com/2026/06/02/arcan-10-years-of-online-obscurity/",
+    "title": "Arcan: 10 Years of Online Obscurity"
+  },
+  {
+    "source": "lobsters",
     "url": "https://franktisellano.github.io/datatype/",
     "title": "Datatype — variable font that turns text into charts"
   },
@@ -131,18 +141,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://arcan-fe.com/2026/06/02/arcan-10-years-of-online-obscurity/",
-    "title": "Arcan: 10 Years of Online Obscurity"
-  },
-  {
-    "source": "lobsters",
     "url": "https://mijndertstuij.nl/posts/what-i-got-wrong-about-fast-terminals/",
     "title": "What I got wrong about fast terminals"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://anil.recoil.org/notes/recoil-self-hosting-2026",
-    "title": "Self-hosting email the hard way from your own routable IPv4 block up"
   },
   {
     "source": "lobsters",
@@ -151,18 +151,13 @@
   },
   {
     "source": "lobsters",
+    "url": "https://anil.recoil.org/notes/recoil-self-hosting-2026",
+    "title": "Self-hosting email the hard way from your own routable IPv4 block up"
+  },
+  {
+    "source": "lobsters",
     "url": "https://www.cs.bu.edu/~hwxi/atslangweb/",
     "title": "ATS Programming Language"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://remy.wang/blog/cps.html",
-    "title": "Passing DBs Through Continuations"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://invlpg.com/posts/2025-06-19-premature-optimization.html",
-    "title": "Premature Optimization is Fun Sometimes (2025)"
   },
   {
     "source": "pinboard",
