@@ -6,8 +6,8 @@
   },
   {
     "source": "hn",
-    "url": "https://staniks.github.io/articles/catlantean-3d-blog-1/",
-    "title": "Making Graphics Like it's 1993"
+    "url": "https://www.wsoctv.com/news/local/ai-misidentification-results-wrongful-arrest-man-seeks-justice/I7UQJWV33FBN3LMKHCSXI6FIVA/",
+    "title": "AI misidentification results in wrongful arrest; man seeks justice"
   },
   {
     "source": "hn",
@@ -16,8 +16,13 @@
   },
   {
     "source": "hn",
-    "url": "https://blog.gitbutler.com/true-grit",
-    "title": "Grit: Rewriting Git in Rust with Agents"
+    "url": "https://staniks.github.io/articles/catlantean-3d-blog-1/",
+    "title": "Making Graphics Like it's 1993"
+  },
+  {
+    "source": "hn",
+    "url": "https://blog.oscars.dev/posts/rip-software-hackathons-long-live-the-hardware-hackathon/",
+    "title": "RIP software hackathons. Long live the hardware hackathon"
   },
   {
     "source": "hn",
@@ -31,8 +36,13 @@
   },
   {
     "source": "hn",
-    "url": "https://perspectives.mvdirona.com/2026/06/flat-datacenter-networks-at-scale/",
-    "title": "Flat Datacenter Networks at Scale at Amazon"
+    "url": "https://gitpush--force.com/commits/2026/06/lies-we-tell-ourselves-about-email/",
+    "title": "Lies We Tell Ourselves About Email Addresses"
+  },
+  {
+    "source": "hn",
+    "url": "https://opencv.org/opencv-5/",
+    "title": "OpenCV 5 Is Here: The Biggest Leap in Years for Computer Vision"
   },
   {
     "source": "hn",
@@ -41,8 +51,23 @@
   },
   {
     "source": "hn",
-    "url": "https://opencv.org/opencv-5/",
-    "title": "OpenCV 5 Is Here: The Biggest Leap in Years for Computer Vision"
+    "url": "https://unsung.aresluna.org/more-molly-guards/",
+    "title": "More Molly Guards"
+  },
+  {
+    "source": "hn",
+    "url": "https://perspectives.mvdirona.com/2026/06/flat-datacenter-networks-at-scale/",
+    "title": "Flat Datacenter Networks at Scale at Amazon"
+  },
+  {
+    "source": "hn",
+    "url": "https://jesseduffield.com/ITS-DEATH/",
+    "title": "It's Death"
+  },
+  {
+    "source": "hn",
+    "url": "https://blog.gitbutler.com/true-grit",
+    "title": "Grit: Rewriting Git in Rust with Agents"
   },
   {
     "source": "hn",
@@ -56,18 +81,13 @@
   },
   {
     "source": "hn",
-    "url": "https://www.404media.co/this-company-will-add-phone-airpod-and-smartwatch-trackers-to-license-plate-readers/",
-    "title": "Company Will Add Phone, AirPod, and Smartwatch Trackers to ALPRs"
-  },
-  {
-    "source": "hn",
     "url": "https://biffweb.com/p/core/",
     "title": "Biff.core: system composition for Clojure web apps"
   },
   {
     "source": "hn",
-    "url": "https://gitpush--force.com/commits/2026/06/lies-we-tell-ourselves-about-email/",
-    "title": "Lies We Tell Ourselves About Email Addresses"
+    "url": "https://www.404media.co/this-company-will-add-phone-airpod-and-smartwatch-trackers-to-license-plate-readers/",
+    "title": "Company Will Add Phone, AirPod, and Smartwatch Trackers to ALPRs"
   },
   {
     "source": "hn",
@@ -151,6 +171,11 @@
   },
   {
     "source": "lobsters",
+    "url": "https://dracos.co.uk/wrote/blocking-an-asn/",
+    "title": "Blocking an ASN (or similar) from my sites"
+  },
+  {
+    "source": "lobsters",
     "url": "https://hackers.pub/@hongminhee/2026/i-wish-deno-would-keep-doing-what-it-does-best",
     "title": "I wish Deno would keep doing what it does best"
   },
@@ -163,11 +188,6 @@
     "source": "lobsters",
     "url": "https://remy.wang/blog/cps.html",
     "title": "Passing DBs Through Continuations"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://0xcc.re/2026/05/03/skynet-towards-synthetic-neurobiology.html/",
-    "title": "Building a persistent cognitive architecture for LLM agents using Elixir and OTP"
   },
   {
     "source": "pinboard",
