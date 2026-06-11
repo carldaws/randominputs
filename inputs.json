@@ -26,6 +26,11 @@
   },
   {
     "source": "hn",
+    "url": "https://tonedear.com/",
+    "title": "Ear Training Practice Exercises"
+  },
+  {
+    "source": "hn",
     "url": "https://computerhistory.org/stories/explorers-of-the-lost-computers/",
     "title": "Discovery of Cold War-era rare Eastern Bloc computers in a German hangar"
   },
@@ -36,8 +41,8 @@
   },
   {
     "source": "hn",
-    "url": "https://magicvinyldigital.net/2025/04/27/vinyl-succumbs-to-loudness-war-more-than-just-collateral-damage/",
-    "title": "Vinyl succumbs to Loudness War: more than just collateral damage (2025)"
+    "url": "https://www.chiply.dev/post-svg-line",
+    "title": "SVG-Line: Better Status Bars for Emacs – Charlie Holland's Blog"
   },
   {
     "source": "hn",
@@ -46,18 +51,13 @@
   },
   {
     "source": "hn",
-    "url": "https://www.chiply.dev/post-svg-line",
-    "title": "SVG-Line: Better Status Bars for Emacs – Charlie Holland's Blog"
+    "url": "https://www.seangoedecke.com/doing-nothing-at-work/",
+    "title": "Doing nothing at work"
   },
   {
     "source": "hn",
     "url": "https://ferd.ca/queues-don-t-fix-overload.html",
     "title": "Queues Don't Fix Overload (2014)"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.seangoedecke.com/doing-nothing-at-work/",
-    "title": "Doing nothing at work"
   },
   {
     "source": "lobsters",
@@ -76,13 +76,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://mohkohn.co.uk/writing/html-first/",
-    "title": "How building an HTML-first site doubled our users overnight"
+    "url": "https://wiki.alopex.li/ReuseLessSoftware",
+    "title": "Reuse Less Software"
   },
   {
     "source": "lobsters",
-    "url": "https://wiki.alopex.li/ReuseLessSoftware",
-    "title": "Reuse Less Software"
+    "url": "https://mohkohn.co.uk/writing/html-first/",
+    "title": "How building an HTML-first site doubled our users overnight"
   },
   {
     "source": "lobsters",
@@ -93,6 +93,11 @@
     "source": "lobsters",
     "url": "https://tomeraberba.ch/your-interface-has-two-channels",
     "title": "Your Interface Has Two Channels"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://grack.com/blog/2026/06/11/life-before-main/",
+    "title": "There Is Life Before Main in Rust"
   },
   {
     "source": "lobsters",
@@ -121,11 +126,6 @@
   },
   {
     "source": "lobsters",
-    "url": "https://grack.com/blog/2026/06/11/life-before-main/",
-    "title": "There Is Life Before Main in Rust"
-  },
-  {
-    "source": "lobsters",
     "url": "https://www2.cs.arizona.edu/icon/intro.htm",
     "title": "A Brief Introduction to Icon"
   },
@@ -138,10 +138,5 @@
     "source": "lobsters",
     "url": "https://sals.place/blog/those-old-modem-upgrades/",
     "title": "Those old modem upgrades"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://rahul.gopinath.org/post/2026/06/09/ttt-grammar-inference/",
-    "title": "Learning Regular Languages with the TTT Algorithm"
   }
 ]
