@@ -1,8 +1,8 @@
 [
   {
     "source": "hn",
-    "url": "https://brew.sh/2026/06/11/homebrew-6.0.0/",
-    "title": "Show HN: Homebrew 6.0.0"
+    "url": "https://tombedor.dev/human-attention-and-human-effort/",
+    "title": "If You Are Asking for Human Attention, Demonstrate Human Effort"
   },
   {
     "source": "hn",
@@ -11,13 +11,13 @@
   },
   {
     "source": "hn",
-    "url": "https://mimo.xiaomi.com/mimocode",
-    "title": "MiMo Code is now released and open-source"
+    "url": "https://brew.sh/2026/06/11/homebrew-6.0.0/",
+    "title": "Show HN: Homebrew 6.0.0"
   },
   {
     "source": "hn",
-    "url": "https://www.ssp.sh/brain/travel-where-you-are/",
-    "title": "Travel Locally, Where You Are"
+    "url": "https://mimo.xiaomi.com/mimocode",
+    "title": "MiMo Code is now released and open-source"
   },
   {
     "source": "hn",
@@ -26,18 +26,18 @@
   },
   {
     "source": "hn",
+    "url": "https://tonedear.com/",
+    "title": "Ear Training Practice"
+  },
+  {
+    "source": "hn",
     "url": "https://ianyepan.github.io/posts/emacs-in-pop-culture/",
     "title": "Emacs appearances in pop culture"
   },
   {
     "source": "hn",
-    "url": "https://tonedear.com/",
-    "title": "Ear Training Practice Exercises"
-  },
-  {
-    "source": "hn",
-    "url": "https://tridao.me/blog/2026/gram-newton-schulz/",
-    "title": "Gram Newton-Schulz: A Fast, Hardware-Aware Newton-Schulz Algorithm for Muon"
+    "url": "https://ledger.somantix.ai/posts/open-ai-lays-groundwork-for-on-prem-product/",
+    "title": "OpenAI Prepping for On-Prem Product?"
   },
   {
     "source": "hn",
@@ -51,8 +51,23 @@
   },
   {
     "source": "hn",
+    "url": "https://www.ssp.sh/brain/travel-where-you-are/",
+    "title": "Travel locally, where you are"
+  },
+  {
+    "source": "hn",
     "url": "https://curlewis.co.nz/posts/lines-of-code-got-a-better-publicist/",
     "title": "Lines of code got a better publicist"
+  },
+  {
+    "source": "hn",
+    "url": "https://lucassifoni.info/blog/a-worm-in-my-erlang-cluster-and-adventures-in-microfluidics/",
+    "title": "A worm in my Erlang cluster, and adventures in microfluidics"
+  },
+  {
+    "source": "hn",
+    "url": "https://tridao.me/blog/2026/gram-newton-schulz/",
+    "title": "Gram Newton-Schulz: A Fast, Hardware-Aware Newton-Schulz Algorithm for Muon"
   },
   {
     "source": "hn",
@@ -63,16 +78,6 @@
     "source": "hn",
     "url": "https://krebsonsecurity.com/2026/06/who-runs-the-ransomware-group-the-gentlemen/",
     "title": "Who Runs the Ransomware Group 'The Gentlemen?'"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.seangoedecke.com/doing-nothing-at-work/",
-    "title": "Doing nothing at work"
-  },
-  {
-    "source": "hn",
-    "url": "https://blog.adamledoux.net/posts/2026-06-08-programming-a-gba-game-on-an-iphone.html",
-    "title": "Programming a GBA Game on an iPhone"
   },
   {
     "source": "lobsters",
@@ -121,13 +126,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://buttondown.com/hillelwayne/archive/nontrailing-separators-do-not-spark-joy/",
-    "title": "Nontrailing separators do not spark joy"
+    "url": "https://www.amazon.science/blog/ec2s-formally-verified-isolation-engine-provides-mathematical-assurance-of-virtual-machine-isolation",
+    "title": "EC2’s formally verified “isolation engine” provides mathematical assurance of virtual-machine isolation"
   },
   {
     "source": "lobsters",
-    "url": "https://www.amazon.science/blog/ec2s-formally-verified-isolation-engine-provides-mathematical-assurance-of-virtual-machine-isolation",
-    "title": "EC2’s formally verified “isolation engine” provides mathematical assurance of virtual-machine isolation"
+    "url": "https://buttondown.com/hillelwayne/archive/nontrailing-separators-do-not-spark-joy/",
+    "title": "Nontrailing separators do not spark joy"
   },
   {
     "source": "lobsters",
@@ -153,10 +158,5 @@
     "source": "lobsters",
     "url": "https://bab-hash.org/",
     "title": "Bab: a family of hashing functions for p2p networks"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://blog.johanneslink.net/2026/06/09/the-jqwik-anti-ai-affair/",
-    "title": "The Jqwik Anti-AI Affair"
   }
 ]
