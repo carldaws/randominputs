@@ -6,13 +6,18 @@
   },
   {
     "source": "hn",
+    "url": "https://www.rifters.com/real/STARFISH.htm#prelude",
+    "title": "Starfish by Peter Watts (1999)"
+  },
+  {
+    "source": "hn",
     "url": "https://blog.nns.ee/2026/02/20/katana-v2x-re/",
     "title": "Reverse engineering the Creative Katana soundbar to control it from Linux"
   },
   {
     "source": "hn",
-    "url": "https://www.rifters.com/real/STARFISH.htm#prelude",
-    "title": "Starfish by Peter Watts (1999)"
+    "url": "https://agraphicsguynotes.com/posts/making_a_shading_langauge_for_my_offline_renderer/",
+    "title": "Making a Shading Language for My Offline Renderer"
   },
   {
     "source": "hn",
@@ -21,18 +26,18 @@
   },
   {
     "source": "hn",
-    "url": "https://nanochess.org/klondike_in_c.html",
-    "title": "Klondike Solitaire game for curses in 5k of C"
-  },
-  {
-    "source": "hn",
     "url": "https://geolibre.app/",
     "title": "GeoLibre 1.0"
   },
   {
     "source": "hn",
-    "url": "https://agraphicsguynotes.com/posts/making_a_shading_langauge_for_my_offline_renderer/",
-    "title": "Making a Shading Language for My Offline Renderer"
+    "url": "https://nanochess.org/klondike_in_c.html",
+    "title": "Klondike Solitaire game for curses in 5k of C"
+  },
+  {
+    "source": "hn",
+    "url": "https://daringfireball.net/2026/06/macos_27_golden_gate_removes_the_dumb_icons_from_menu_items",
+    "title": "Sweet Jeebus, macOS 27 Golden Gate Removes the Dumb Icons from Menu Items"
   },
   {
     "source": "hn",
@@ -43,11 +48,6 @@
     "source": "hn",
     "url": "https://www.jasondavies.com/maps/voronoi/capitals/",
     "title": "World Capitals Voronoi"
-  },
-  {
-    "source": "hn",
-    "url": "https://daringfireball.net/2026/06/macos_27_golden_gate_removes_the_dumb_icons_from_menu_items",
-    "title": "Sweet Jeebus, macOS 27 Golden Gate Removes the Dumb Icons from Menu Items"
   },
   {
     "source": "hn",
@@ -63,11 +63,6 @@
     "source": "hn",
     "url": "https://www.sas.upenn.edu/~cavitch/pdf-library/Nagel_Bat.pdf",
     "title": "What is it like to be a bat? (1974) [pdf]"
-  },
-  {
-    "source": "hn",
-    "url": "https://sethmlarson.dev/are-insecure-code-completions-a-vulnerability",
-    "title": "Are insecure code completions in PyCharm a vulnerability?"
   },
   {
     "source": "lobsters",
@@ -101,13 +96,18 @@
   },
   {
     "source": "lobsters",
+    "url": "https://www2.cs.arizona.edu/icon/intro.htm",
+    "title": "A Brief Introduction to Icon"
+  },
+  {
+    "source": "lobsters",
     "url": "https://docs.racket-lang.org/shrubbery/index.html",
     "title": "Shrubbery syntax for Racket"
   },
   {
     "source": "lobsters",
-    "url": "https://www2.cs.arizona.edu/icon/intro.htm",
-    "title": "A Brief Introduction to Icon"
+    "url": "https://rahul.gopinath.org/post/2026/06/09/ttt-grammar-inference/",
+    "title": "Learning Regular Languages with the TTT Algorithm"
   },
   {
     "source": "lobsters",
@@ -123,16 +123,6 @@
     "source": "lobsters",
     "url": "https://data-star.dev/guide/the_tao_of_datastar",
     "title": "The Tao of Datastar"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://rahul.gopinath.org/post/2026/06/09/ttt-grammar-inference/",
-    "title": "Learning Regular Languages with the TTT Algorithm"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://evantravers.com/articles/2026/06/10/but-our-devenv-is-in-another-repo/",
-    "title": "But Our Devenv Is In Another Repo"
   },
   {
     "source": "pinboard",
