@@ -1,6 +1,11 @@
 [
   {
     "source": "hn",
+    "url": "https://brew.sh/2026/06/11/homebrew-6.0.0/",
+    "title": "Show HN: Homebrew 6.0.0"
+  },
+  {
+    "source": "hn",
     "url": "https://mimo.xiaomi.com/mimocode",
     "title": "MiMo Code is now released and open-source"
   },
@@ -11,23 +16,33 @@
   },
   {
     "source": "hn",
+    "url": "https://ianyepan.github.io/posts/emacs-in-pop-culture/",
+    "title": "Emacs appearances in pop culture"
+  },
+  {
+    "source": "hn",
     "url": "https://curlewis.co.nz/posts/lines-of-code-got-a-better-publicist/",
     "title": "Lines of code got a better publicist"
   },
   {
     "source": "hn",
-    "url": "https://brew.sh/2026/06/11/homebrew-6.0.0/",
-    "title": "Show HN: Homebrew 6.0.0"
+    "url": "https://computerhistory.org/stories/explorers-of-the-lost-computers/",
+    "title": "Discovery of Cold War-era rare Eastern Bloc computers in a German hangar"
   },
   {
     "source": "hn",
-    "url": "https://mapcomplete.org/",
-    "title": "MapComplete: Maps about various topics which you can contribute to"
+    "url": "https://blog.adamledoux.net/posts/2026-06-08-programming-a-gba-game-on-an-iphone.html",
+    "title": "Programming a GBA Game on an iPhone"
   },
   {
     "source": "hn",
     "url": "https://magicvinyldigital.net/2025/04/27/vinyl-succumbs-to-loudness-war-more-than-just-collateral-damage/",
     "title": "Vinyl succumbs to Loudness War: more than just collateral damage (2025)"
+  },
+  {
+    "source": "hn",
+    "url": "https://mapcomplete.org/",
+    "title": "MapComplete: Maps about various topics which you can contribute to"
   },
   {
     "source": "hn",
@@ -41,23 +56,8 @@
   },
   {
     "source": "hn",
-    "url": "https://ianyepan.github.io/posts/emacs-in-pop-culture/",
-    "title": "Emacs appearances in pop culture"
-  },
-  {
-    "source": "hn",
-    "url": "https://vale.rocks/posts/game-console-browsers",
-    "title": "Web Browsers on Video Game Consoles"
-  },
-  {
-    "source": "hn",
     "url": "https://www.seangoedecke.com/doing-nothing-at-work/",
     "title": "Doing nothing at work"
-  },
-  {
-    "source": "hn",
-    "url": "https://printserver.ink/blog/spoiling-the-kernel/",
-    "title": "Spoiling Linux Kernel with \"sanctioned\" code"
   },
   {
     "source": "lobsters",
@@ -71,8 +71,28 @@
   },
   {
     "source": "lobsters",
+    "url": "https://blog.avas.space/llm-circus/",
+    "title": "our workplace LLM mass delusion"
+  },
+  {
+    "source": "lobsters",
     "url": "https://mohkohn.co.uk/writing/html-first/",
     "title": "How building an HTML-first site doubled our users overnight"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://wiki.alopex.li/ReuseLessSoftware",
+    "title": "Reuse Less Software"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://vale.rocks/posts/game-console-browsers",
+    "title": "Web Browsers on Video Game Consoles"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://tomeraberba.ch/your-interface-has-two-channels",
+    "title": "Your Interface Has Two Channels"
   },
   {
     "source": "lobsters",
@@ -86,8 +106,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://wiki.alopex.li/ReuseLessSoftware",
-    "title": "Reuse Less Software"
+    "url": "https://xenodium.com/agent-shell-0-55-updates",
+    "title": "agent-shell 0.55 updates"
   },
   {
     "source": "lobsters",
@@ -96,8 +116,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://blog.avas.space/llm-circus/",
-    "title": "our workplace LLM mass delusion"
+    "url": "https://www.amazon.science/blog/ec2s-formally-verified-isolation-engine-provides-mathematical-assurance-of-virtual-machine-isolation",
+    "title": "EC2’s formally verified “isolation engine” provides mathematical assurance of virtual-machine isolation"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://grack.com/blog/2026/06/11/life-before-main/",
+    "title": "There Is Life Before Main in Rust"
   },
   {
     "source": "lobsters",
@@ -111,22 +136,12 @@
   },
   {
     "source": "lobsters",
-    "url": "https://docs.racket-lang.org/shrubbery/index.html",
-    "title": "Shrubbery syntax for Racket"
+    "url": "https://sals.place/blog/those-old-modem-upgrades/",
+    "title": "Those old modem upgrades"
   },
   {
     "source": "lobsters",
     "url": "https://rahul.gopinath.org/post/2026/06/09/ttt-grammar-inference/",
     "title": "Learning Regular Languages with the TTT Algorithm"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://www.amazon.science/blog/ec2s-formally-verified-isolation-engine-provides-mathematical-assurance-of-virtual-machine-isolation",
-    "title": "EC2’s formally verified “isolation engine” provides mathematical assurance of virtual-machine isolation"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://jonready.com/blog/posts/claude-fable5-is-allowed-to-sabotage-your-app-if-youre-a-competitor.html",
-    "title": "If Claude Fable stops helping you, you'll never know"
   }
 ]
