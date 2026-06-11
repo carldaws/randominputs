@@ -21,13 +21,23 @@
   },
   {
     "source": "hn",
+    "url": "https://tonedear.com/",
+    "title": "Ear Training Practice Exercises"
+  },
+  {
+    "source": "hn",
+    "url": "https://krebsonsecurity.com/2026/06/who-runs-the-ransomware-group-the-gentlemen/",
+    "title": "Who Runs the Ransomware Group 'The Gentlemen?'"
+  },
+  {
+    "source": "hn",
     "url": "https://curlewis.co.nz/posts/lines-of-code-got-a-better-publicist/",
     "title": "Lines of code got a better publicist"
   },
   {
     "source": "hn",
-    "url": "https://tonedear.com/",
-    "title": "Ear Training Practice Exercises"
+    "url": "https://www.ssp.sh/brain/travel-where-you-are/",
+    "title": "Travel Locally, Where You Are"
   },
   {
     "source": "hn",
@@ -41,13 +51,8 @@
   },
   {
     "source": "hn",
-    "url": "https://www.chiply.dev/post-svg-line",
-    "title": "SVG-Line: Better Status Bars for Emacs – Charlie Holland's Blog"
-  },
-  {
-    "source": "hn",
-    "url": "https://mapcomplete.org/",
-    "title": "MapComplete: Maps about various topics which you can contribute to"
+    "url": "https://www.righto.com/2012/02/apple-didnt-revolutionize-power.html",
+    "title": "Apple didn't revolutionize power supplies; new transistors did"
   },
   {
     "source": "hn",
@@ -56,8 +61,8 @@
   },
   {
     "source": "hn",
-    "url": "https://ferd.ca/queues-don-t-fix-overload.html",
-    "title": "Queues Don't Fix Overload (2014)"
+    "url": "https://www.chiply.dev/post-svg-line",
+    "title": "SVG-Line: Better Status Bars for Emacs – Charlie Holland's Blog"
   },
   {
     "source": "lobsters",
@@ -71,28 +76,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://blog.avas.space/llm-circus/",
-    "title": "our workplace LLM mass delusion"
-  },
-  {
-    "source": "lobsters",
     "url": "https://wiki.alopex.li/ReuseLessSoftware",
     "title": "Reuse Less Software"
   },
   {
     "source": "lobsters",
-    "url": "https://mohkohn.co.uk/writing/html-first/",
-    "title": "How building an HTML-first site doubled our users overnight"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://vale.rocks/posts/game-console-browsers",
-    "title": "Web Browsers on Video Game Consoles"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://tomeraberba.ch/your-interface-has-two-channels",
-    "title": "Your Interface Has Two Channels"
+    "url": "https://blog.avas.space/llm-circus/",
+    "title": "our workplace LLM mass delusion"
   },
   {
     "source": "lobsters",
@@ -101,13 +91,18 @@
   },
   {
     "source": "lobsters",
-    "url": "https://buttondown.com/hillelwayne/archive/nontrailing-separators-do-not-spark-joy/",
-    "title": "Nontrailing separators do not spark joy"
+    "url": "https://mohkohn.co.uk/writing/html-first/",
+    "title": "How building an HTML-first site doubled our users overnight"
   },
   {
     "source": "lobsters",
-    "url": "https://carefully.understood.systems/blog-2026-06-10-static-type-shovel.html",
-    "title": "Static types and shovels"
+    "url": "https://tomeraberba.ch/your-interface-has-two-channels",
+    "title": "Your Interface Has Two Channels"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://vale.rocks/posts/game-console-browsers",
+    "title": "Web Browsers on Video Game Consoles"
   },
   {
     "source": "lobsters",
@@ -116,13 +111,18 @@
   },
   {
     "source": "lobsters",
-    "url": "https://bumsrake.de",
-    "title": "CVE-2026-45257: LPE in FreeBSD via kTLS-RX"
+    "url": "https://www.amazon.science/blog/ec2s-formally-verified-isolation-engine-provides-mathematical-assurance-of-virtual-machine-isolation",
+    "title": "EC2’s formally verified “isolation engine” provides mathematical assurance of virtual-machine isolation"
   },
   {
     "source": "lobsters",
-    "url": "https://www.amazon.science/blog/ec2s-formally-verified-isolation-engine-provides-mathematical-assurance-of-virtual-machine-isolation",
-    "title": "EC2’s formally verified “isolation engine” provides mathematical assurance of virtual-machine isolation"
+    "url": "https://carefully.understood.systems/blog-2026-06-10-static-type-shovel.html",
+    "title": "Static types and shovels"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://bumsrake.de",
+    "title": "CVE-2026-45257: LPE in FreeBSD via kTLS-RX"
   },
   {
     "source": "lobsters",
@@ -133,10 +133,5 @@
     "source": "lobsters",
     "url": "https://blog.johanneslink.net/2026/06/09/the-jqwik-anti-ai-affair/",
     "title": "The Jqwik Anti-AI Affair"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://sals.place/blog/those-old-modem-upgrades/",
-    "title": "Those old modem upgrades"
   }
 ]
