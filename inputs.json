@@ -1,13 +1,13 @@
 [
   {
     "source": "hn",
-    "url": "https://www.sas.upenn.edu/~cavitch/pdf-library/Nagel_Bat.pdf",
-    "title": "What is it like to be a bat? (1974) [pdf]"
+    "url": "https://pgdog.dev/blog/our-funding-announcement",
+    "title": "PgDog is funded and coming to a database near you"
   },
   {
     "source": "hn",
-    "url": "https://pgdog.dev/blog/our-funding-announcement",
-    "title": "PgDog is funded and coming to a database near you"
+    "url": "https://www.sas.upenn.edu/~cavitch/pdf-library/Nagel_Bat.pdf",
+    "title": "What is it like to be a bat? (1974) [pdf]"
   },
   {
     "source": "hn",
@@ -26,18 +26,23 @@
   },
   {
     "source": "hn",
-    "url": "https://mohandacherir.github.io/Qdiv7/posts/unix_new_gc/",
-    "title": "Unix GC Remastered"
-  },
-  {
-    "source": "hn",
     "url": "https://mohkohn.co.uk/writing/html-first/",
     "title": "Building an HTML-first site doubled our users overnight"
   },
   {
     "source": "hn",
-    "url": "https://www.githubstatus.com/incidents/fcj3088jg1wx",
-    "title": "Authentication issues related to API requests"
+    "url": "https://nanochess.org/klondike_in_c.html",
+    "title": "Klondike Solitaire game for curses in 5k of C"
+  },
+  {
+    "source": "hn",
+    "url": "https://mohandacherir.github.io/Qdiv7/posts/unix_new_gc/",
+    "title": "Unix GC Remastered"
+  },
+  {
+    "source": "hn",
+    "url": "https://technicshistory.com/2026/06/06/computer-lessons/",
+    "title": "Computer Lessons"
   },
   {
     "source": "hn",
@@ -46,8 +51,8 @@
   },
   {
     "source": "hn",
-    "url": "https://blue41.com/blog/how-we-helped-bunq-secure-their-financial-ai-assistant/",
-    "title": "A €0.01 bank transfer could compromise a banking AI agent"
+    "url": "https://www.githubstatus.com/incidents/fcj3088jg1wx",
+    "title": "Authentication issues related to API requests"
   },
   {
     "source": "lobsters",
@@ -61,23 +66,23 @@
   },
   {
     "source": "lobsters",
-    "url": "https://jonready.com/blog/posts/claude-fable5-is-allowed-to-sabotage-your-app-if-youre-a-competitor.html",
-    "title": "If Claude Fable stops helping you, you'll never know"
-  },
-  {
-    "source": "lobsters",
     "url": "https://carefully.understood.systems/blog-2026-06-10-static-type-shovel.html",
     "title": "Static types and shovels"
   },
   {
     "source": "lobsters",
-    "url": "http://miod.online.fr/software/openbsd/stories/trojan.html",
-    "title": "Trojaned OpenSSH (in 2002)"
+    "url": "https://lr0.org/blog/p/arabic/",
+    "title": "An interactive introduction to the terrific experience of rendering Arabic typography and its technical debt"
   },
   {
     "source": "lobsters",
-    "url": "https://lr0.org/blog/p/arabic/",
-    "title": "An interactive introduction to the terrific experience of rendering Arabic typography and its technical debt"
+    "url": "https://jonready.com/blog/posts/claude-fable5-is-allowed-to-sabotage-your-app-if-youre-a-competitor.html",
+    "title": "If Claude Fable stops helping you, you'll never know"
+  },
+  {
+    "source": "lobsters",
+    "url": "http://miod.online.fr/software/openbsd/stories/trojan.html",
+    "title": "Trojaned OpenSSH (in 2002)"
   },
   {
     "source": "lobsters",
@@ -98,5 +103,110 @@
     "source": "lobsters",
     "url": "https://staniks.github.io/articles/catlantean-3d-blog-1/",
     "title": "Catlantean 3D - Making Graphics Like It's 1993"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.0xkato.xyz/how-llms-actually-work/",
+    "title": "How LLMs Actually Work | 0xkato"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://performance.dev/how-is-linear-so-fast-a-technical-breakdown",
+    "title": "How's Linear so fast? A technical breakdown"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://human-in-the-loop.bearblog.dev/llms-are-eroding-my-software-engineering-career-and-i-dont-know-what-to-do/",
+    "title": "LLMs are eroding my software engineering career and I don't know what to do | the human in the loop"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://gavinray97.github.io/blog/building-from-zero-after-addiction-prison-felony",
+    "title": "Building from Zero After Addiction, Prison, and a Felony"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://thi.ng/",
+    "title": "thi.ng - computational design tools for Clojure & Clojurescript"
+  },
+  {
+    "source": "pinboard",
+    "url": "http://ozark.hendrix.edu/~yorgey/forest/00FD/index.xml",
+    "title": "To my students"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://ataraxy-labs.github.io/sem/",
+    "title": "sem"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.absurdlyoptimized.com/recipes/pancakes/?have=ricotta%2Csour-cream%2Ckefir%2Ctartar%2Cmilkpowder%2Clemon&eggs=2&tang=5",
+    "title": "The Absurdly Optimized Pancake: Leavening Chemistry, Acid-Base Stoichiometry, and an Interactive Calculator | Absurdly Optimized"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://vorpus.github.io/performativeUI/#/",
+    "title": "performative-ui | AI-native React Components"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://index.how/to/articulate",
+    "title": "Say precisely what you mean."
+  },
+  {
+    "source": "pinboard",
+    "url": "https://igerman.cc/blog/dopamine-fracking/",
+    "title": "Dopamine Fracking | beware, the german!"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://prestonbjensen.com/posts/playing-with-vision-embeddings",
+    "title": "Playing with Vision Embeddings | Preston Jensen"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://franktisellano.github.io/datatype/",
+    "title": "Datatype — variable font that turns text into charts"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://news.ycombinator.com/item?id=48440792",
+    "title": "Dopamine Fracking | Hacker News"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://runtimewire.com/article/deepseek-v4-pro-beats-gpt-5-5-pro-on-precision",
+    "title": "https://runtimewire.com/article/deepseek-v4-pro-beats-gpt-5-5-pro-on-precision"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.cypherpunkbooks.com/",
+    "title": "The Cypherpunk Library"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://vorpus.github.io/performativeUI/",
+    "title": "performative-ui | AI-native React Components"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://mechanical-pencil.com/",
+    "title": "Mechanical Pencil"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://news.ycombinator.com/item?id=48440064",
+    "title": "The Smallest Brain You Can Build: A Perceptron in Python | Hacker News"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://blog.includesecurity.com/2026/06/the-smart-tv-in-your-livingroom-is-a-node-in-the-aiscraping-economy/",
+    "title": "The Smart TV in Your LivingRoom Is a Node in the AIScraping Economy"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://daringfireball.net/2026/06/swiftui_only_makes_it_easy_to_develop_bad_apps",
+    "title": "Daring Fireball: SwiftUI Only Makes It Easy to Develop Bad Apps"
   }
 ]
