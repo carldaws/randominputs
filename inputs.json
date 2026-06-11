@@ -16,23 +16,13 @@
   },
   {
     "source": "hn",
-    "url": "https://ianyepan.github.io/posts/emacs-in-pop-culture/",
-    "title": "Emacs appearances in pop culture"
-  },
-  {
-    "source": "hn",
     "url": "https://tonedear.com/",
     "title": "Ear Training Practice Exercises"
   },
   {
     "source": "hn",
-    "url": "https://krebsonsecurity.com/2026/06/who-runs-the-ransomware-group-the-gentlemen/",
-    "title": "Who Runs the Ransomware Group 'The Gentlemen?'"
-  },
-  {
-    "source": "hn",
-    "url": "https://curlewis.co.nz/posts/lines-of-code-got-a-better-publicist/",
-    "title": "Lines of code got a better publicist"
+    "url": "https://ianyepan.github.io/posts/emacs-in-pop-culture/",
+    "title": "Emacs appearances in pop culture"
   },
   {
     "source": "hn",
@@ -41,8 +31,33 @@
   },
   {
     "source": "hn",
+    "url": "https://fablepool.com",
+    "title": "Show HN: FablePool – pool money behind a prompt, and Fable builds it in public"
+  },
+  {
+    "source": "hn",
+    "url": "https://curlewis.co.nz/posts/lines-of-code-got-a-better-publicist/",
+    "title": "Lines of code got a better publicist"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.righto.com/2012/02/apple-didnt-revolutionize-power.html",
+    "title": "Apple didn't revolutionize power supplies; new transistors did (2012)"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.almendron.com/tribuna/wp-content/uploads/2018/03/the-dynamo-and-the-computer-an-historical-perspective-on-the-modern-productivity-paradox.pdf",
+    "title": "The Dynamo and the Computer: The Modern Productivity Paradox (1989) [pdf]"
+  },
+  {
+    "source": "hn",
     "url": "https://computerhistory.org/stories/explorers-of-the-lost-computers/",
     "title": "Discovery of Cold War-era rare Eastern Bloc computers in a German hangar"
+  },
+  {
+    "source": "hn",
+    "url": "https://krebsonsecurity.com/2026/06/who-runs-the-ransomware-group-the-gentlemen/",
+    "title": "Who Runs the Ransomware Group 'The Gentlemen?'"
   },
   {
     "source": "hn",
@@ -51,18 +66,8 @@
   },
   {
     "source": "hn",
-    "url": "https://www.righto.com/2012/02/apple-didnt-revolutionize-power.html",
-    "title": "Apple didn't revolutionize power supplies; new transistors did"
-  },
-  {
-    "source": "hn",
     "url": "https://www.seangoedecke.com/doing-nothing-at-work/",
     "title": "Doing nothing at work"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.chiply.dev/post-svg-line",
-    "title": "SVG-Line: Better Status Bars for Emacs – Charlie Holland's Blog"
   },
   {
     "source": "lobsters",
@@ -91,13 +96,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://mohkohn.co.uk/writing/html-first/",
-    "title": "How building an HTML-first site doubled our users overnight"
+    "url": "https://tomeraberba.ch/your-interface-has-two-channels",
+    "title": "Your Interface Has Two Channels"
   },
   {
     "source": "lobsters",
-    "url": "https://tomeraberba.ch/your-interface-has-two-channels",
-    "title": "Your Interface Has Two Channels"
+    "url": "https://mohkohn.co.uk/writing/html-first/",
+    "title": "How building an HTML-first site doubled our users overnight"
   },
   {
     "source": "lobsters",
@@ -108,6 +113,11 @@
     "source": "lobsters",
     "url": "https://xenodium.com/agent-shell-0-55-updates",
     "title": "agent-shell 0.55 updates"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://buttondown.com/hillelwayne/archive/nontrailing-separators-do-not-spark-joy/",
+    "title": "Nontrailing separators do not spark joy"
   },
   {
     "source": "lobsters",
