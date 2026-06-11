@@ -6,23 +6,13 @@
   },
   {
     "source": "hn",
+    "url": "https://fablepool.com",
+    "title": "Show HN: FablePool – pool money behind a prompt, and Fable builds it in public"
+  },
+  {
+    "source": "hn",
     "url": "https://mimo.xiaomi.com/mimocode",
     "title": "MiMo Code is now released and open-source"
-  },
-  {
-    "source": "hn",
-    "url": "https://mrbruh.com/amd2/",
-    "title": "The RCE that AMD wouldn't fix"
-  },
-  {
-    "source": "hn",
-    "url": "https://tonedear.com/",
-    "title": "Ear Training Practice Exercises"
-  },
-  {
-    "source": "hn",
-    "url": "https://ianyepan.github.io/posts/emacs-in-pop-culture/",
-    "title": "Emacs appearances in pop culture"
   },
   {
     "source": "hn",
@@ -31,13 +21,28 @@
   },
   {
     "source": "hn",
-    "url": "https://fablepool.com",
-    "title": "Show HN: FablePool – pool money behind a prompt, and Fable builds it in public"
+    "url": "https://mrbruh.com/amd2/",
+    "title": "The RCE that AMD wouldn't fix"
   },
   {
     "source": "hn",
-    "url": "https://curlewis.co.nz/posts/lines-of-code-got-a-better-publicist/",
-    "title": "Lines of code got a better publicist"
+    "url": "https://ianyepan.github.io/posts/emacs-in-pop-culture/",
+    "title": "Emacs appearances in pop culture"
+  },
+  {
+    "source": "hn",
+    "url": "https://tonedear.com/",
+    "title": "Ear Training Practice Exercises"
+  },
+  {
+    "source": "hn",
+    "url": "https://tridao.me/blog/2026/gram-newton-schulz/",
+    "title": "Gram Newton-Schulz: A Fast, Hardware-Aware Newton-Schulz Algorithm for Muon"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.mayrhofer.eu.org/post/leaving-google/",
+    "title": "Why I'm Forced to Say Farewell: Google Management Has Lost Its Moral Compass"
   },
   {
     "source": "hn",
@@ -46,8 +51,8 @@
   },
   {
     "source": "hn",
-    "url": "https://www.almendron.com/tribuna/wp-content/uploads/2018/03/the-dynamo-and-the-computer-an-historical-perspective-on-the-modern-productivity-paradox.pdf",
-    "title": "The Dynamo and the Computer: The Modern Productivity Paradox (1989) [pdf]"
+    "url": "https://curlewis.co.nz/posts/lines-of-code-got-a-better-publicist/",
+    "title": "Lines of code got a better publicist"
   },
   {
     "source": "hn",
@@ -61,13 +66,13 @@
   },
   {
     "source": "hn",
-    "url": "https://blog.adamledoux.net/posts/2026-06-08-programming-a-gba-game-on-an-iphone.html",
-    "title": "Programming a GBA Game on an iPhone"
+    "url": "https://www.seangoedecke.com/doing-nothing-at-work/",
+    "title": "Doing nothing at work"
   },
   {
     "source": "hn",
-    "url": "https://www.seangoedecke.com/doing-nothing-at-work/",
-    "title": "Doing nothing at work"
+    "url": "https://blog.adamledoux.net/posts/2026-06-08-programming-a-gba-game-on-an-iphone.html",
+    "title": "Programming a GBA Game on an iPhone"
   },
   {
     "source": "lobsters",
@@ -76,13 +81,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://lr0.org/blog/p/arabic/",
-    "title": "An interactive introduction to the terrific experience of rendering Arabic typography and its technical debt"
+    "url": "https://wiki.alopex.li/ReuseLessSoftware",
+    "title": "Reuse Less Software"
   },
   {
     "source": "lobsters",
-    "url": "https://wiki.alopex.li/ReuseLessSoftware",
-    "title": "Reuse Less Software"
+    "url": "https://lr0.org/blog/p/arabic/",
+    "title": "An interactive introduction to the terrific experience of rendering Arabic typography and its technical debt"
   },
   {
     "source": "lobsters",
@@ -138,6 +143,16 @@
     "source": "lobsters",
     "url": "https://www2.cs.arizona.edu/icon/intro.htm",
     "title": "A Brief Introduction to Icon"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://sals.place/blog/those-old-modem-upgrades/",
+    "title": "Those old modem upgrades"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://bab-hash.org/",
+    "title": "Bab: a family of hashing functions for p2p networks"
   },
   {
     "source": "lobsters",
