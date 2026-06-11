@@ -1,13 +1,38 @@
 [
   {
     "source": "hn",
+    "url": "https://mimo.xiaomi.com/mimocode",
+    "title": "MiMo Code Is Now Released and Open-Source"
+  },
+  {
+    "source": "hn",
     "url": "https://curlewis.co.nz/posts/lines-of-code-got-a-better-publicist/",
     "title": "Lines of Code Got a Better Publicist"
   },
   {
     "source": "hn",
-    "url": "https://www.rifters.com/real/STARFISH.htm#prelude",
-    "title": "Starfish by Peter Watts (1999)"
+    "url": "https://mapcomplete.org/",
+    "title": "MapComplete – Contibute to OpenStreetMaps"
+  },
+  {
+    "source": "hn",
+    "url": "https://vale.rocks/posts/game-console-browsers",
+    "title": "Web Browsers on Video Game Consoles"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.bloomberg.com/news/articles/2026-06-11/amazon-says-its-data-centers-use-2-5-billion-gallons-of-water",
+    "title": "Amazon Says Its Data Centers Use 2.5B Gallons of Water"
+  },
+  {
+    "source": "hn",
+    "url": "https://brendan.abolivier.bzh/exchange-pt-2/",
+    "title": "Supporting Exchange and beyond"
+  },
+  {
+    "source": "hn",
+    "url": "https://ferd.ca/queues-don-t-fix-overload.html",
+    "title": "Queues Don't Fix Overload (2014)"
   },
   {
     "source": "hn",
@@ -16,8 +41,13 @@
   },
   {
     "source": "hn",
-    "url": "https://vale.rocks/posts/game-console-browsers",
-    "title": "Web Browsers on Video Game Consoles"
+    "url": "https://www.rifters.com/real/STARFISH.htm#prelude",
+    "title": "Starfish by Peter Watts (1999)"
+  },
+  {
+    "source": "hn",
+    "url": "https://fergusfinn.com/blog/economics-of-speculative-decoding/",
+    "title": "The Economics of Speculative Decoding"
   },
   {
     "source": "hn",
@@ -28,46 +58,6 @@
     "source": "hn",
     "url": "https://daringfireball.net/2026/06/macos_27_golden_gate_removes_the_dumb_icons_from_menu_items",
     "title": "Sweet Jeebus, macOS 27 Golden Gate Removes the Dumb Icons from Menu Items"
-  },
-  {
-    "source": "hn",
-    "url": "https://fergusfinn.com/blog/economics-of-speculative-decoding/",
-    "title": "The Economics of Speculative Decoding"
-  },
-  {
-    "source": "hn",
-    "url": "https://agraphicsguynotes.com/posts/making_a_shading_langauge_for_my_offline_renderer/",
-    "title": "Making a Shading Language for My Offline Renderer"
-  },
-  {
-    "source": "hn",
-    "url": "https://geolibre.app/",
-    "title": "GeoLibre 1.0"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.extend.ai/ui",
-    "title": "Show HN: Extend UI – open-source UI kit for modern document apps"
-  },
-  {
-    "source": "hn",
-    "url": "https://nanochess.org/klondike_in_c.html",
-    "title": "Klondike Solitaire game for curses in 5k of C"
-  },
-  {
-    "source": "hn",
-    "url": "https://matklad.github.io/2026/06/04/css-unavoidable-bad-parts.html",
-    "title": "CSS: Unavoidable Bad Parts"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.jasondavies.com/maps/voronoi/capitals/",
-    "title": "World Capitals Voronoi"
-  },
-  {
-    "source": "hn",
-    "url": "https://tracewayapp.com/blog/deep-dive-into-the-sourcemaps",
-    "title": "Symbolicating a minified stack trace by hand: why source maps can't do it alone"
   },
   {
     "source": "lobsters",
@@ -101,6 +91,21 @@
   },
   {
     "source": "lobsters",
+    "url": "https://www2.cs.arizona.edu/icon/intro.htm",
+    "title": "A Brief Introduction to Icon"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://bumsrake.de",
+    "title": "CVE-2026-45257: LPE in FreeBSD via kTLS-RX"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://rahul.gopinath.org/post/2026/06/09/ttt-grammar-inference/",
+    "title": "Learning Regular Languages with the TTT Algorithm"
+  },
+  {
+    "source": "lobsters",
     "url": "https://docs.racket-lang.org/shrubbery/index.html",
     "title": "Shrubbery syntax for Racket"
   },
@@ -111,117 +116,12 @@
   },
   {
     "source": "lobsters",
-    "url": "https://www2.cs.arizona.edu/icon/intro.htm",
-    "title": "A Brief Introduction to Icon"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://rahul.gopinath.org/post/2026/06/09/ttt-grammar-inference/",
-    "title": "Learning Regular Languages with the TTT Algorithm"
+    "url": "https://tomeraberba.ch/your-interface-has-two-channels",
+    "title": "Your Interface Has Two Channels"
   },
   {
     "source": "lobsters",
     "url": "https://daniel.haxx.se/blog/2026/06/10/a-human-in-control/",
     "title": "A human in control"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://flowg.cloud/blog/darkmode",
-    "title": "FlowG v0.59.0 is out, with Dark Mode support"
-  },
-  {
-    "source": "lobsters",
-    "url": "http://miod.online.fr/software/openbsd/stories/trojan.html",
-    "title": "Trojaned OpenSSH (in 2002)"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://staniks.github.io/articles/catlantean-3d-blog-1/",
-    "title": "Catlantean 3D - Making Graphics Like It's 1993"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.0xkato.xyz/how-llms-actually-work/",
-    "title": "How LLMs Actually Work | 0xkato"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://index.how/to/articulate",
-    "title": "Say precisely what you mean."
-  },
-  {
-    "source": "pinboard",
-    "url": "https://thi.ng/",
-    "title": "thi.ng - computational design tools for Clojure & Clojurescript"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://vorpus.github.io/performativeUI/#/",
-    "title": "performative-ui | AI-native React Components"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://prestonbjensen.com/posts/playing-with-vision-embeddings",
-    "title": "Playing with Vision Embeddings | Preston Jensen"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://gavinray97.github.io/blog/building-from-zero-after-addiction-prison-felony",
-    "title": "Building from Zero After Addiction, Prison, and a Felony"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://vorpus.github.io/performativeUI/",
-    "title": "performative-ui | AI-native React Components"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://pgdog.dev/",
-    "title": "Scale PostgreSQL horizontally | PgDog"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://franktisellano.github.io/datatype/",
-    "title": "Datatype — variable font that turns text into charts"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.absurdlyoptimized.com/recipes/pancakes/?have=ricotta%2Csour-cream%2Ckefir%2Ctartar%2Cmilkpowder%2Clemon&eggs=2&tang=5",
-    "title": "The Absurdly Optimized Pancake: Leavening Chemistry, Acid-Base Stoichiometry, and an Interactive Calculator | Absurdly Optimized"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://igerman.cc/blog/dopamine-fracking/",
-    "title": "Dopamine Fracking | beware, the german!"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://randomnerdtutorials.com/power-esp32-esp8266-solar-panels-battery-level-monitoring/",
-    "title": "Power ESP32/ESP8266 with Solar Panels | Random Nerd Tutorials"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://runtimewire.com/article/deepseek-v4-pro-beats-gpt-5-5-pro-on-precision",
-    "title": "https://runtimewire.com/article/deepseek-v4-pro-beats-gpt-5-5-pro-on-precision"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.techdirt.com/2026/06/09/ceos-who-think-ai-replaces-their-employees-are-just-bad-ceos/",
-    "title": "CEOs Who Think AI Replaces Their Employees Are Just Bad CEOs | Techdirt"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/diffusion-gemma-faster-text-generation/",
-    "title": "Introducing DiffusionGemma"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://ranpara.net/posts/perceptron-explained-from-scratch/",
-    "title": "The Smallest Brain You Can Build | Devarsh Ranpara"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://news.ycombinator.com/item?id=48440064",
-    "title": "The Smallest Brain You Can Build: A Perceptron in Python | Hacker News"
   }
 ]
