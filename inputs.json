@@ -1,8 +1,8 @@
 [
   {
     "source": "hn",
-    "url": "https://vale.rocks/posts/game-console-browsers",
-    "title": "Web Browsers on Video Game Consoles"
+    "url": "https://curlewis.co.nz/posts/lines-of-code-got-a-better-publicist/",
+    "title": "Lines of Code Got a Better Publicist"
   },
   {
     "source": "hn",
@@ -16,8 +16,8 @@
   },
   {
     "source": "hn",
-    "url": "https://agraphicsguynotes.com/posts/making_a_shading_langauge_for_my_offline_renderer/",
-    "title": "Making a Shading Language for My Offline Renderer"
+    "url": "https://vale.rocks/posts/game-console-browsers",
+    "title": "Web Browsers on Video Game Consoles"
   },
   {
     "source": "hn",
@@ -26,18 +26,23 @@
   },
   {
     "source": "hn",
-    "url": "https://geolibre.app/",
-    "title": "GeoLibre 1.0"
-  },
-  {
-    "source": "hn",
-    "url": "https://nanochess.org/klondike_in_c.html",
-    "title": "Klondike Solitaire game for curses in 5k of C"
-  },
-  {
-    "source": "hn",
     "url": "https://daringfireball.net/2026/06/macos_27_golden_gate_removes_the_dumb_icons_from_menu_items",
     "title": "Sweet Jeebus, macOS 27 Golden Gate Removes the Dumb Icons from Menu Items"
+  },
+  {
+    "source": "hn",
+    "url": "https://fergusfinn.com/blog/economics-of-speculative-decoding/",
+    "title": "The Economics of Speculative Decoding"
+  },
+  {
+    "source": "hn",
+    "url": "https://agraphicsguynotes.com/posts/making_a_shading_langauge_for_my_offline_renderer/",
+    "title": "Making a Shading Language for My Offline Renderer"
+  },
+  {
+    "source": "hn",
+    "url": "https://geolibre.app/",
+    "title": "GeoLibre 1.0"
   },
   {
     "source": "hn",
@@ -46,13 +51,8 @@
   },
   {
     "source": "hn",
-    "url": "https://www.jasondavies.com/maps/voronoi/capitals/",
-    "title": "World Capitals Voronoi"
-  },
-  {
-    "source": "hn",
-    "url": "https://mohkohn.co.uk/writing/html-first/",
-    "title": "Building an HTML-first site doubled our users overnight"
+    "url": "https://nanochess.org/klondike_in_c.html",
+    "title": "Klondike Solitaire game for curses in 5k of C"
   },
   {
     "source": "hn",
@@ -61,8 +61,18 @@
   },
   {
     "source": "hn",
-    "url": "https://www.sas.upenn.edu/~cavitch/pdf-library/Nagel_Bat.pdf",
-    "title": "What is it like to be a bat? (1974) [pdf]"
+    "url": "https://www.jasondavies.com/maps/voronoi/capitals/",
+    "title": "World Capitals Voronoi"
+  },
+  {
+    "source": "hn",
+    "url": "https://tracewayapp.com/blog/deep-dive-into-the-sourcemaps",
+    "title": "Symbolicating a minified stack trace by hand: why source maps can't do it alone"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://the-decoder.com/landmark-german-ruling-declares-googles-ai-overviews-are-googles-own-words-and-makes-it-liable-for-false-answers/",
+    "title": "German court ruling declares Google's AI Overviews are Google's own words and makes it liable for false answers"
   },
   {
     "source": "lobsters",
@@ -71,8 +81,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://the-decoder.com/landmark-german-ruling-declares-googles-ai-overviews-are-googles-own-words-and-makes-it-liable-for-false-answers/",
-    "title": "German court ruling declares Google's AI Overviews are Google's own words and makes it liable for false answers"
+    "url": "https://mohkohn.co.uk/writing/html-first/",
+    "title": "How building an HTML-first site doubled our users overnight"
   },
   {
     "source": "lobsters",
@@ -91,6 +101,11 @@
   },
   {
     "source": "lobsters",
+    "url": "https://docs.racket-lang.org/shrubbery/index.html",
+    "title": "Shrubbery syntax for Racket"
+  },
+  {
+    "source": "lobsters",
     "url": "https://jonready.com/blog/posts/claude-fable5-is-allowed-to-sabotage-your-app-if-youre-a-competitor.html",
     "title": "If Claude Fable stops helping you, you'll never know"
   },
@@ -98,11 +113,6 @@
     "source": "lobsters",
     "url": "https://www2.cs.arizona.edu/icon/intro.htm",
     "title": "A Brief Introduction to Icon"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://docs.racket-lang.org/shrubbery/index.html",
-    "title": "Shrubbery syntax for Racket"
   },
   {
     "source": "lobsters",
@@ -116,13 +126,13 @@
   },
   {
     "source": "lobsters",
-    "url": "http://miod.online.fr/software/openbsd/stories/trojan.html",
-    "title": "Trojaned OpenSSH (in 2002)"
+    "url": "https://flowg.cloud/blog/darkmode",
+    "title": "FlowG v0.59.0 is out, with Dark Mode support"
   },
   {
     "source": "lobsters",
-    "url": "https://data-star.dev/guide/the_tao_of_datastar",
-    "title": "The Tao of Datastar"
+    "url": "http://miod.online.fr/software/openbsd/stories/trojan.html",
+    "title": "Trojaned OpenSSH (in 2002)"
   },
   {
     "source": "pinboard",
