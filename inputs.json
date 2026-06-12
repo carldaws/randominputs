@@ -11,6 +11,16 @@
   },
   {
     "source": "hn",
+    "url": "https://putt.day/",
+    "title": "Show HN: Putt.day a daily mini golf game"
+  },
+  {
+    "source": "hn",
+    "url": "https://correresmidestino.com/dont-you-just-upload-it-to-chatgpt/",
+    "title": "\"Don't You Just Upload It to ChatGPT?\""
+  },
+  {
+    "source": "hn",
     "url": "https://bitboard.work/",
     "title": "Launch HN: BitBoard (YC P25) – Analytics Workspace for Agents"
   },
@@ -21,28 +31,8 @@
   },
   {
     "source": "hn",
-    "url": "https://killedbyapixel.github.io/Cosmodial/",
-    "title": "Cosmodial Sky Atlas"
-  },
-  {
-    "source": "hn",
-    "url": "https://correresmidestino.com/dont-you-just-upload-it-to-chatgpt/",
-    "title": "\"Don't You Just Upload It to ChatGPT?\""
-  },
-  {
-    "source": "hn",
     "url": "https://sgaud.com/texts/pdf",
-    "title": "A PDF that changes based on how its read"
-  },
-  {
-    "source": "hn",
-    "url": "https://blog.miguelgrinberg.com/post/i-am-not-a-reverse-centaur",
-    "title": "I Am Not a Reverse Centaur"
-  },
-  {
-    "source": "hn",
-    "url": "https://grack.com/blog/2026/06/11/life-before-main/",
-    "title": "There Is Life Before Main in Rust"
+    "title": "Adaptive PDFs"
   },
   {
     "source": "hn",
@@ -51,8 +41,28 @@
   },
   {
     "source": "hn",
+    "url": "https://killedbyapixel.github.io/Cosmodial/",
+    "title": "Cosmodial Sky Atlas"
+  },
+  {
+    "source": "hn",
+    "url": "https://grack.com/blog/2026/06/11/life-before-main/",
+    "title": "There Is Life Before Main in Rust"
+  },
+  {
+    "source": "hn",
     "url": "https://paperspast.natlib.govt.nz/newspapers/DOM19360307.2.43",
     "title": "Most Beautiful Will Ever Made (1936)"
+  },
+  {
+    "source": "hn",
+    "url": "https://blog.miguelgrinberg.com/post/i-am-not-a-reverse-centaur",
+    "title": "I Am Not a Reverse Centaur"
+  },
+  {
+    "source": "hn",
+    "url": "https://landscape.bairui.dev/",
+    "title": "Show HN: Turn your name into a tree in an infinite procedural shanshui landscape"
   },
   {
     "source": "hn",
@@ -60,29 +70,14 @@
     "title": "WASI 0.3"
   },
   {
-    "source": "hn",
-    "url": "https://encryptedspaces.org/",
-    "title": "Encrypted Spaces An architecture for collaborative applications"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.pgedge.com/blog/looking-forward-to-postgres-19-its-about-time",
-    "title": "Looking Forward to Postgres 19: It's About Time"
-  },
-  {
-    "source": "hn",
-    "url": "https://blog.lopp.net/call-to-action-stop-the-fcc-kyc-regime/",
-    "title": "A Call to Action: Stop the FCC's KYC Regime"
+    "source": "lobsters",
+    "url": "https://cauenapier.com/blog/townsquare_release/",
+    "title": "Turn your site into a place people can bump into each other"
   },
   {
     "source": "lobsters",
     "url": "https://coopi.neocities.org/posts/nix-flakes-vs-guix#guix-purity-by-design_6eece251b1ca",
     "title": "Nix Flakes and their Guix Equivalents"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://cauenapier.com/blog/townsquare_release/",
-    "title": "Turn your site into a place people can bump into each other"
   },
   {
     "source": "lobsters",
@@ -96,23 +91,23 @@
   },
   {
     "source": "lobsters",
-    "url": "https://blog.avas.space/llm-circus/",
-    "title": "our workplace LLM mass delusion"
-  },
-  {
-    "source": "lobsters",
     "url": "https://bkaradzic.github.io/posts/orthodoxc++/",
     "title": "Orthodox C++ (2016)"
   },
   {
     "source": "lobsters",
-    "url": "https://doug.sh/posts/erm-a-local-cli-that-strips-ums-uhs-and-erms-from-speech/",
-    "title": "erm: A Local CLI That Strips Ums, Uhs, and Erms From Speech"
+    "url": "https://blog.avas.space/llm-circus/",
+    "title": "our workplace LLM mass delusion"
   },
   {
     "source": "lobsters",
     "url": "https://jonot.me/posts/zig-gba/",
     "title": "Why I Wrote a Game Boy Advance Game in Zig (2024)"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://doug.sh/posts/erm-a-local-cli-that-strips-ums-uhs-and-erms-from-speech/",
+    "title": "erm: A Local CLI That Strips Ums, Uhs, and Erms From Speech"
   },
   {
     "source": "lobsters",
@@ -128,6 +123,11 @@
     "source": "lobsters",
     "url": "https://www.sovereign.tech/news/meet-the-2026-sovereign-tech-fellows",
     "title": "Meet the new Sovereign Tech Fellows"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://www.pgedge.com/blog/looking-forward-to-postgres-19-its-about-time",
+    "title": "Looking Forward to Postgres 19: It's About Time"
   },
   {
     "source": "lobsters",
