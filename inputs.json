@@ -1,18 +1,13 @@
 [
   {
     "source": "hn",
-    "url": "https://tombedor.dev/human-attention-and-human-effort/",
-    "title": "If You Are Asking for Human Attention, Demonstrate Human Effort"
-  },
-  {
-    "source": "hn",
-    "url": "https://fablepool.com",
-    "title": "Show HN: FablePool – pool money behind a prompt, and Fable builds it in public"
-  },
-  {
-    "source": "hn",
     "url": "https://brew.sh/2026/06/11/homebrew-6.0.0/",
     "title": "Show HN: Homebrew 6.0.0"
+  },
+  {
+    "source": "hn",
+    "url": "https://tombedor.dev/human-attention-and-human-effort/",
+    "title": "If you are asking for human attention, demonstrate human effort"
   },
   {
     "source": "hn",
@@ -21,13 +16,13 @@
   },
   {
     "source": "hn",
-    "url": "https://mrbruh.com/amd2/",
-    "title": "The RCE that AMD wouldn't fix"
+    "url": "https://www.fabianhemmert.com/opinions/a-greyscale-iphone-setup-that-works-in-everyday-life",
+    "title": "A greyscale iPhone setup that works in everyday life"
   },
   {
     "source": "hn",
-    "url": "https://tonedear.com/",
-    "title": "Ear Training Practice"
+    "url": "https://news.utexas.edu/2026/06/11/this-jacket-pulls-drinking-water-from-thin-air/",
+    "title": "A jacket that harvests drinking water from the air"
   },
   {
     "source": "hn",
@@ -36,13 +31,28 @@
   },
   {
     "source": "hn",
-    "url": "https://ledger.somantix.ai/posts/open-ai-lays-groundwork-for-on-prem-product/",
-    "title": "OpenAI Prepping for On-Prem Product?"
+    "url": "https://tonedear.com/",
+    "title": "Ear Training Practice"
   },
   {
     "source": "hn",
-    "url": "https://www.mayrhofer.eu.org/post/leaving-google/",
-    "title": "Why I'm Forced to Say Farewell: Google Management Has Lost Its Moral Compass"
+    "url": "https://mrbruh.com/amd2/",
+    "title": "The RCE that AMD wouldn't fix"
+  },
+  {
+    "source": "hn",
+    "url": "https://curlewis.co.nz/posts/lines-of-code-got-a-better-publicist/",
+    "title": "Lines of code got a better publicist"
+  },
+  {
+    "source": "hn",
+    "url": "https://mtgautodeck.com/articles/mtg-bench/",
+    "title": "MTG Bench: Testing how well LLMs can play Magic"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.williamcotton.com/articles/how-a-new-dsl-survives-in-the-era-of-llms",
+    "title": "How a new DSL may survive in the era of LLMs"
   },
   {
     "source": "hn",
@@ -56,28 +66,18 @@
   },
   {
     "source": "hn",
-    "url": "https://curlewis.co.nz/posts/lines-of-code-got-a-better-publicist/",
-    "title": "Lines of code got a better publicist"
-  },
-  {
-    "source": "hn",
-    "url": "https://lucassifoni.info/blog/a-worm-in-my-erlang-cluster-and-adventures-in-microfluidics/",
-    "title": "A worm in my Erlang cluster, and adventures in microfluidics"
-  },
-  {
-    "source": "hn",
-    "url": "https://tridao.me/blog/2026/gram-newton-schulz/",
-    "title": "Gram Newton-Schulz: A Fast, Hardware-Aware Newton-Schulz Algorithm for Muon"
-  },
-  {
-    "source": "hn",
-    "url": "https://computerhistory.org/stories/explorers-of-the-lost-computers/",
-    "title": "Discovery of Cold War-era rare Eastern Bloc computers in a German hangar"
+    "url": "https://blog.aqnichol.com/2026/06/10/optimal-tokenizers/",
+    "title": "Finding Optimal Tokenizers"
   },
   {
     "source": "hn",
     "url": "https://krebsonsecurity.com/2026/06/who-runs-the-ransomware-group-the-gentlemen/",
     "title": "Who Runs the Ransomware Group 'The Gentlemen?'"
+  },
+  {
+    "source": "hn",
+    "url": "https://tridao.me/blog/2026/gram-newton-schulz/",
+    "title": "Gram Newton-Schulz: A Fast, Hardware-Aware Newton-Schulz Algorithm for Muon"
   },
   {
     "source": "lobsters",
@@ -151,12 +151,12 @@
   },
   {
     "source": "lobsters",
-    "url": "https://sals.place/blog/those-old-modem-upgrades/",
-    "title": "Those old modem upgrades"
+    "url": "https://bab-hash.org/",
+    "title": "Bab: a family of hashing functions for p2p networks"
   },
   {
     "source": "lobsters",
-    "url": "https://bab-hash.org/",
-    "title": "Bab: a family of hashing functions for p2p networks"
+    "url": "https://sals.place/blog/those-old-modem-upgrades/",
+    "title": "Those old modem upgrades"
   }
 ]
