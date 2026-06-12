@@ -7,7 +7,7 @@
   {
     "source": "hn",
     "url": "https://ikyle.me/blog/2026/how-to-setup-a-local-coding-agent-on-macos",
-    "title": "How to Setup a Local Coding Agent on macOS"
+    "title": "How to setup a local coding agent on macOS"
   },
   {
     "source": "hn",
@@ -16,23 +16,13 @@
   },
   {
     "source": "hn",
-    "url": "https://sgaud.com/texts/pdf",
-    "title": "A PDF that changes based on how its read"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.pgedge.com/blog/looking-forward-to-postgres-19-its-about-time",
-    "title": "Looking Forward to Postgres 19: It's About Time"
-  },
-  {
-    "source": "hn",
-    "url": "https://grack.com/blog/2026/06/11/life-before-main/",
-    "title": "There Is Life Before Main in Rust"
-  },
-  {
-    "source": "hn",
     "url": "https://bitboard.work/",
     "title": "Launch HN: BitBoard (YC P25) – Analytics Workspace for Agents"
+  },
+  {
+    "source": "hn",
+    "url": "https://sgaud.com/texts/pdf",
+    "title": "A PDF that changes based on how its read"
   },
   {
     "source": "hn",
@@ -41,33 +31,8 @@
   },
   {
     "source": "hn",
-    "url": "https://hakkerman.eu/blog/i-wont-buy-you-a-coffee/",
-    "title": "I Won't Buy You a Coffee"
-  },
-  {
-    "source": "hn",
-    "url": "https://killedbyapixel.github.io/Cosmodial/",
-    "title": "Cosmodial Sky Atlas"
-  },
-  {
-    "source": "hn",
-    "url": "https://blog.lopp.net/call-to-action-stop-the-fcc-kyc-regime/",
-    "title": "A Call to Action: Stop the FCC's KYC Regime"
-  },
-  {
-    "source": "hn",
-    "url": "https://bytecodealliance.org/articles/WASI-0.3",
-    "title": "WASI 0.3"
-  },
-  {
-    "source": "hn",
-    "url": "https://keygen.music",
-    "title": "Keygen.music"
-  },
-  {
-    "source": "hn",
-    "url": "https://tombedor.dev/human-attention-and-human-effort/",
-    "title": "If you are asking for human attention, demonstrate human effort"
+    "url": "https://grack.com/blog/2026/06/11/life-before-main/",
+    "title": "There Is Life Before Main in Rust"
   },
   {
     "source": "hn",
@@ -76,13 +41,53 @@
   },
   {
     "source": "hn",
+    "url": "https://killedbyapixel.github.io/Cosmodial/",
+    "title": "Cosmodial Sky Atlas"
+  },
+  {
+    "source": "hn",
+    "url": "https://tombedor.dev/human-attention-and-human-effort/",
+    "title": "If you are asking for human attention, demonstrate human effort"
+  },
+  {
+    "source": "hn",
+    "url": "https://bytecodealliance.org/articles/WASI-0.3",
+    "title": "WASI 0.3"
+  },
+  {
+    "source": "hn",
+    "url": "https://blog.lopp.net/call-to-action-stop-the-fcc-kyc-regime/",
+    "title": "A Call to Action: Stop the FCC's KYC Regime"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.pgedge.com/blog/looking-forward-to-postgres-19-its-about-time",
+    "title": "Looking Forward to Postgres 19: It's About Time"
+  },
+  {
+    "source": "hn",
     "url": "https://encryptedspaces.org/",
     "title": "Encrypted Spaces An architecture for collaborative applications"
+  },
+  {
+    "source": "hn",
+    "url": "https://news.utexas.edu/2026/06/11/this-jacket-pulls-drinking-water-from-thin-air/",
+    "title": "A jacket that harvests drinking water from the air"
+  },
+  {
+    "source": "hn",
+    "url": "https://magicvinyldigital.net/2025/04/27/vinyl-succumbs-to-loudness-war-more-than-just-collateral-damage/",
+    "title": "Vinyl succumbs to Loudness War: more than just collateral damage (2025)"
   },
   {
     "source": "lobsters",
     "url": "https://coopi.neocities.org/posts/nix-flakes-vs-guix#guix-purity-by-design_6eece251b1ca",
     "title": "Nix Flakes and their Guix Equivalents"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://cauenapier.com/blog/townsquare_release/",
+    "title": "Turn your site into a place people can bump into each other"
   },
   {
     "source": "lobsters",
@@ -101,23 +106,23 @@
   },
   {
     "source": "lobsters",
-    "url": "https://cauenapier.com/blog/townsquare_release/",
-    "title": "Turn your site into a place people can bump into each other"
-  },
-  {
-    "source": "lobsters",
     "url": "https://bkaradzic.github.io/posts/orthodoxc++/",
     "title": "Orthodox C++ (2016)"
   },
   {
     "source": "lobsters",
-    "url": "https://lr0.org/blog/p/arabic/",
-    "title": "An interactive introduction to the terrific experience of rendering Arabic typography and its technical debt"
+    "url": "https://doug.sh/posts/erm-a-local-cli-that-strips-ums-uhs-and-erms-from-speech/",
+    "title": "erm: A Local CLI That Strips Ums, Uhs, and Erms From Speech"
   },
   {
     "source": "lobsters",
     "url": "https://www.more-magic.net/posts/lispy-dsl-scss.html",
     "title": "Designing Lispy DSLs, part 1: SCSS (2012)"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://lr0.org/blog/p/arabic/",
+    "title": "An interactive introduction to the terrific experience of rendering Arabic typography and its technical debt"
   },
   {
     "source": "lobsters",
@@ -128,11 +133,6 @@
     "source": "lobsters",
     "url": "https://svn.apache.org/repos/asf/subversion/trunk/notes/unicode-composition-for-filenames",
     "title": "Unicode composition for filenames (2008)"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://doug.sh/posts/erm-a-local-cli-that-strips-ums-uhs-and-erms-from-speech/",
-    "title": "erm: A Local CLI That Strips Ums, Uhs, and Erms From Speech"
   },
   {
     "source": "lobsters",
