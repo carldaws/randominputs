@@ -1,8 +1,8 @@
 [
   {
     "source": "hn",
-    "url": "https://simonwillison.net/2026/Jun/11/fable-is-relentlessly-proactive/",
-    "title": "Claude Fable is relentlessly proactive"
+    "url": "https://tombedor.dev/human-attention-and-human-effort/",
+    "title": "If you are asking for human attention, demonstrate human effort"
   },
   {
     "source": "hn",
@@ -11,13 +11,8 @@
   },
   {
     "source": "hn",
-    "url": "https://tombedor.dev/human-attention-and-human-effort/",
-    "title": "If you are asking for human attention, demonstrate human effort"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.fabianhemmert.com/opinions/a-greyscale-iphone-setup-that-works-in-everyday-life",
-    "title": "A greyscale iPhone setup that works in everyday life"
+    "url": "https://simonwillison.net/2026/Jun/11/fable-is-relentlessly-proactive/",
+    "title": "Claude Fable is relentlessly proactive"
   },
   {
     "source": "hn",
@@ -26,13 +21,18 @@
   },
   {
     "source": "hn",
+    "url": "https://en.wikipedia.org/wiki/Wikipedia:Wikipedia_Signpost/2026-05-22/Recent_research",
+    "title": "WikiLambda the Ultimate"
+  },
+  {
+    "source": "hn",
     "url": "https://news.utexas.edu/2026/06/11/this-jacket-pulls-drinking-water-from-thin-air/",
     "title": "A jacket that harvests drinking water from the air"
   },
   {
     "source": "hn",
-    "url": "https://ianyepan.github.io/posts/emacs-in-pop-culture/",
-    "title": "Emacs appearances in pop culture"
+    "url": "https://zipcpu.com/blog/2025/12/17/devclk.html",
+    "title": "Device Clock Generation"
   },
   {
     "source": "hn",
@@ -41,13 +41,8 @@
   },
   {
     "source": "hn",
-    "url": "https://mrbruh.com/amd2/",
-    "title": "The RCE that AMD wouldn't fix"
-  },
-  {
-    "source": "hn",
-    "url": "https://briandouglas.ie/llm-tailwind-template/",
-    "title": "Tailwind and slop apps"
+    "url": "https://ianyepan.github.io/posts/emacs-in-pop-culture/",
+    "title": "Emacs appearances in pop culture"
   },
   {
     "source": "hn",
@@ -56,8 +51,13 @@
   },
   {
     "source": "hn",
-    "url": "https://www.williamcotton.com/articles/how-a-new-dsl-survives-in-the-era-of-llms",
-    "title": "How a new DSL may survive in the era of LLMs"
+    "url": "https://mrbruh.com/amd2/",
+    "title": "The RCE that AMD wouldn't fix"
+  },
+  {
+    "source": "hn",
+    "url": "https://doug.sh/posts/erm-a-local-cli-that-strips-ums-uhs-and-erms-from-speech/",
+    "title": "Removing 'um' from a recording is harder than it sounds"
   },
   {
     "source": "hn",
@@ -66,8 +66,8 @@
   },
   {
     "source": "hn",
-    "url": "https://nibblestew.blogspot.com/2026/06/faking-keyword-arguments-to-functions.html",
-    "title": "Faking keyword arguments to functions in C++"
+    "url": "https://www.williamcotton.com/articles/how-a-new-dsl-survives-in-the-era-of-llms",
+    "title": "How a new DSL may survive in the era of LLMs"
   },
   {
     "source": "hn",
@@ -121,6 +121,11 @@
   },
   {
     "source": "lobsters",
+    "url": "https://bab-hash.org/",
+    "title": "Bab: a family of hashing functions for p2p networks"
+  },
+  {
+    "source": "lobsters",
     "url": "https://bumsrake.de",
     "title": "CVE-2026-45257: LPE in FreeBSD via kTLS-RX"
   },
@@ -141,27 +146,12 @@
   },
   {
     "source": "lobsters",
-    "url": "https://bab-hash.org/",
-    "title": "Bab: a family of hashing functions for p2p networks"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://www2.cs.arizona.edu/icon/intro.htm",
-    "title": "A Brief Introduction to Icon"
-  },
-  {
-    "source": "lobsters",
     "url": "https://sals.place/blog/those-old-modem-upgrades/",
     "title": "Those old modem upgrades"
   },
   {
     "source": "lobsters",
-    "url": "https://rahul.gopinath.org/post/2026/06/09/ttt-grammar-inference/",
-    "title": "Learning Regular Languages with the TTT Algorithm"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://encryptedspaces.org",
-    "title": "Encrypted Spaces"
+    "url": "https://www2.cs.arizona.edu/icon/intro.htm",
+    "title": "A Brief Introduction to Icon"
   }
 ]
