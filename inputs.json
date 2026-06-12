@@ -11,13 +11,13 @@
   },
   {
     "source": "hn",
-    "url": "https://mimo.xiaomi.com/mimocode",
-    "title": "MiMo Code is now released and open-source"
+    "url": "https://www.fabianhemmert.com/opinions/a-greyscale-iphone-setup-that-works-in-everyday-life",
+    "title": "A greyscale iPhone setup that works in everyday life"
   },
   {
     "source": "hn",
-    "url": "https://www.fabianhemmert.com/opinions/a-greyscale-iphone-setup-that-works-in-everyday-life",
-    "title": "A greyscale iPhone setup that works in everyday life"
+    "url": "https://mimo.xiaomi.com/mimocode",
+    "title": "MiMo Code is now released and open-source"
   },
   {
     "source": "hn",
@@ -41,6 +41,11 @@
   },
   {
     "source": "hn",
+    "url": "https://simonwillison.net/2026/Jun/11/fable-is-relentlessly-proactive/",
+    "title": "Claude Fable is relentlessly proactive"
+  },
+  {
+    "source": "hn",
     "url": "https://curlewis.co.nz/posts/lines-of-code-got-a-better-publicist/",
     "title": "Lines of code got a better publicist"
   },
@@ -56,28 +61,18 @@
   },
   {
     "source": "hn",
+    "url": "https://briandouglas.ie/llm-tailwind-template/",
+    "title": "Tailwind and slop apps"
+  },
+  {
+    "source": "hn",
     "url": "https://www.righto.com/2012/02/apple-didnt-revolutionize-power.html",
     "title": "Apple didn't revolutionize power supplies; new transistors did (2012)"
   },
   {
     "source": "hn",
-    "url": "https://www.ssp.sh/brain/travel-where-you-are/",
-    "title": "Travel locally, where you are"
-  },
-  {
-    "source": "hn",
-    "url": "https://blog.aqnichol.com/2026/06/10/optimal-tokenizers/",
-    "title": "Finding Optimal Tokenizers"
-  },
-  {
-    "source": "hn",
-    "url": "https://krebsonsecurity.com/2026/06/who-runs-the-ransomware-group-the-gentlemen/",
-    "title": "Who Runs the Ransomware Group 'The Gentlemen?'"
-  },
-  {
-    "source": "hn",
-    "url": "https://tridao.me/blog/2026/gram-newton-schulz/",
-    "title": "Gram Newton-Schulz: A Fast, Hardware-Aware Newton-Schulz Algorithm for Muon"
+    "url": "https://doug.sh/posts/erm-a-local-cli-that-strips-ums-uhs-and-erms-from-speech/",
+    "title": "Why removing 'um' from a recording is harder than it sounds"
   },
   {
     "source": "lobsters",
@@ -146,17 +141,27 @@
   },
   {
     "source": "lobsters",
-    "url": "https://www2.cs.arizona.edu/icon/intro.htm",
-    "title": "A Brief Introduction to Icon"
-  },
-  {
-    "source": "lobsters",
     "url": "https://bab-hash.org/",
     "title": "Bab: a family of hashing functions for p2p networks"
   },
   {
     "source": "lobsters",
+    "url": "https://www2.cs.arizona.edu/icon/intro.htm",
+    "title": "A Brief Introduction to Icon"
+  },
+  {
+    "source": "lobsters",
     "url": "https://sals.place/blog/those-old-modem-upgrades/",
     "title": "Those old modem upgrades"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://rahul.gopinath.org/post/2026/06/09/ttt-grammar-inference/",
+    "title": "Learning Regular Languages with the TTT Algorithm"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://encryptedspaces.org",
+    "title": "Encrypted Spaces"
   }
 ]
