@@ -1,6 +1,11 @@
 [
   {
     "source": "hn",
+    "url": "https://simonwillison.net/2026/Jun/11/fable-is-relentlessly-proactive/",
+    "title": "Claude Fable is relentlessly proactive"
+  },
+  {
+    "source": "hn",
     "url": "https://brew.sh/2026/06/11/homebrew-6.0.0/",
     "title": "Show HN: Homebrew 6.0.0"
   },
@@ -41,8 +46,8 @@
   },
   {
     "source": "hn",
-    "url": "https://simonwillison.net/2026/Jun/11/fable-is-relentlessly-proactive/",
-    "title": "Claude Fable is relentlessly proactive"
+    "url": "https://briandouglas.ie/llm-tailwind-template/",
+    "title": "Tailwind and slop apps"
   },
   {
     "source": "hn",
@@ -51,28 +56,23 @@
   },
   {
     "source": "hn",
-    "url": "https://mtgautodeck.com/articles/mtg-bench/",
-    "title": "MTG Bench: Testing how well LLMs can play Magic"
-  },
-  {
-    "source": "hn",
     "url": "https://www.williamcotton.com/articles/how-a-new-dsl-survives-in-the-era-of-llms",
     "title": "How a new DSL may survive in the era of LLMs"
   },
   {
     "source": "hn",
-    "url": "https://briandouglas.ie/llm-tailwind-template/",
-    "title": "Tailwind and slop apps"
+    "url": "https://mtgautodeck.com/articles/mtg-bench/",
+    "title": "MTG Bench: Testing how well LLMs can play Magic"
+  },
+  {
+    "source": "hn",
+    "url": "https://nibblestew.blogspot.com/2026/06/faking-keyword-arguments-to-functions.html",
+    "title": "Faking keyword arguments to functions in C++"
   },
   {
     "source": "hn",
     "url": "https://www.righto.com/2012/02/apple-didnt-revolutionize-power.html",
     "title": "Apple didn't revolutionize power supplies; new transistors did (2012)"
-  },
-  {
-    "source": "hn",
-    "url": "https://doug.sh/posts/erm-a-local-cli-that-strips-ums-uhs-and-erms-from-speech/",
-    "title": "Why removing 'um' from a recording is harder than it sounds"
   },
   {
     "source": "lobsters",
@@ -86,13 +86,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://lr0.org/blog/p/arabic/",
-    "title": "An interactive introduction to the terrific experience of rendering Arabic typography and its technical debt"
+    "url": "https://blog.avas.space/llm-circus/",
+    "title": "our workplace LLM mass delusion"
   },
   {
     "source": "lobsters",
-    "url": "https://blog.avas.space/llm-circus/",
-    "title": "our workplace LLM mass delusion"
+    "url": "https://lr0.org/blog/p/arabic/",
+    "title": "An interactive introduction to the terrific experience of rendering Arabic typography and its technical debt"
   },
   {
     "source": "lobsters",
@@ -121,6 +121,11 @@
   },
   {
     "source": "lobsters",
+    "url": "https://bumsrake.de",
+    "title": "CVE-2026-45257: LPE in FreeBSD via kTLS-RX"
+  },
+  {
+    "source": "lobsters",
     "url": "https://www.amazon.science/blog/ec2s-formally-verified-isolation-engine-provides-mathematical-assurance-of-virtual-machine-isolation",
     "title": "EC2’s formally verified “isolation engine” provides mathematical assurance of virtual-machine isolation"
   },
@@ -133,11 +138,6 @@
     "source": "lobsters",
     "url": "https://carefully.understood.systems/blog-2026-06-10-static-type-shovel.html",
     "title": "Static types and shovels"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://bumsrake.de",
-    "title": "CVE-2026-45257: LPE in FreeBSD via kTLS-RX"
   },
   {
     "source": "lobsters",
