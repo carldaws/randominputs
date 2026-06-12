@@ -1,13 +1,38 @@
 [
   {
     "source": "hn",
-    "url": "https://keygen.music",
-    "title": "Keygen.music"
+    "url": "https://blog.miguelgrinberg.com/post/i-am-not-a-reverse-centaur",
+    "title": "I Am Not a Reverse Centaur"
+  },
+  {
+    "source": "hn",
+    "url": "https://correresmidestino.com/dont-you-just-upload-it-to-chatgpt/",
+    "title": "\"Don't You Just Upload It to ChatGPT?\""
   },
   {
     "source": "hn",
     "url": "https://sgaud.com/texts/pdf",
-    "title": "A PDF that changes based on who is reading"
+    "title": "A PDF that changes based on how its read"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.pgedge.com/blog/looking-forward-to-postgres-19-its-about-time",
+    "title": "Looking Forward to Postgres 19: It's About Time"
+  },
+  {
+    "source": "hn",
+    "url": "https://ikyle.me/blog/2026/how-to-setup-a-local-coding-agent-on-macos",
+    "title": "How to Setup a Local Coding Agent on macOS"
+  },
+  {
+    "source": "hn",
+    "url": "https://piwodlaiwo.github.io/pirates/",
+    "title": "Pirates, a naval warfare game inspired by Sid Meier's Pirates"
+  },
+  {
+    "source": "hn",
+    "url": "https://keygen.music",
+    "title": "Keygen.music"
   },
   {
     "source": "hn",
@@ -16,8 +41,8 @@
   },
   {
     "source": "hn",
-    "url": "https://www.pgedge.com/blog/looking-forward-to-postgres-19-its-about-time",
-    "title": "Looking Forward to Postgres 19: It's About Time"
+    "url": "https://grack.com/blog/2026/06/11/life-before-main/",
+    "title": "There Is Life Before Main in Rust"
   },
   {
     "source": "hn",
@@ -36,11 +61,6 @@
   },
   {
     "source": "hn",
-    "url": "https://grack.com/blog/2026/06/11/life-before-main/",
-    "title": "There Is Life Before Main in Rust"
-  },
-  {
-    "source": "hn",
     "url": "https://tombedor.dev/human-attention-and-human-effort/",
     "title": "If you are asking for human attention, demonstrate human effort"
   },
@@ -48,16 +68,6 @@
     "source": "hn",
     "url": "https://encryptedspaces.org/",
     "title": "Encrypted Spaces An architecture for collaborative applications"
-  },
-  {
-    "source": "hn",
-    "url": "https://news.utexas.edu/2026/06/11/this-jacket-pulls-drinking-water-from-thin-air/",
-    "title": "A jacket that harvests drinking water from the air"
-  },
-  {
-    "source": "hn",
-    "url": "https://magicvinyldigital.net/2025/04/27/vinyl-succumbs-to-loudness-war-more-than-just-collateral-damage/",
-    "title": "Vinyl succumbs to Loudness War: more than just collateral damage (2025)"
   },
   {
     "source": "lobsters",
@@ -81,23 +91,28 @@
   },
   {
     "source": "lobsters",
-    "url": "https://lr0.org/blog/p/arabic/",
-    "title": "An interactive introduction to the terrific experience of rendering Arabic typography and its technical debt"
-  },
-  {
-    "source": "lobsters",
     "url": "https://bkaradzic.github.io/posts/orthodoxc++/",
     "title": "Orthodox C++ (2016)"
   },
   {
     "source": "lobsters",
-    "url": "https://svn.apache.org/repos/asf/subversion/trunk/notes/unicode-composition-for-filenames",
-    "title": "Unicode composition for filenames (2008)"
+    "url": "https://lr0.org/blog/p/arabic/",
+    "title": "An interactive introduction to the terrific experience of rendering Arabic typography and its technical debt"
   },
   {
     "source": "lobsters",
     "url": "https://www.more-magic.net/posts/lispy-dsl-scss.html",
     "title": "Designing Lispy DSLs, part 1: SCSS (2012)"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://cauenapier.com/blog/townsquare_release/",
+    "title": "Turn your site into a place people can bump into each other"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://svn.apache.org/repos/asf/subversion/trunk/notes/unicode-composition-for-filenames",
+    "title": "Unicode composition for filenames (2008)"
   },
   {
     "source": "lobsters",
@@ -111,28 +126,23 @@
   },
   {
     "source": "lobsters",
-    "url": "https://bab-hash.org/",
-    "title": "Bab: a family of hashing functions for p2p networks"
-  },
-  {
-    "source": "lobsters",
     "url": "https://tomeraberba.ch/your-interface-has-two-channels",
     "title": "Your Interface Has Two Channels"
   },
   {
     "source": "lobsters",
-    "url": "https://cauenapier.com/blog/townsquare_release/",
-    "title": "Turn your site into a place people can bump into each other"
+    "url": "https://bab-hash.org/",
+    "title": "Bab: a family of hashing functions for p2p networks"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://doug.sh/posts/erm-a-local-cli-that-strips-ums-uhs-and-erms-from-speech/",
+    "title": "erm: A Local CLI That Strips Ums, Uhs, and Erms From Speech"
   },
   {
     "source": "lobsters",
     "url": "https://blog.janestreet.com/formal-methods-at-jane-street-index",
     "title": "Formal methods and the future of programming"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://vale.rocks/posts/game-console-browsers",
-    "title": "Web Browsers on Video Game Consoles"
   },
   {
     "source": "pinboard",
