@@ -1,18 +1,8 @@
 [
   {
     "source": "hn",
-    "url": "https://areweguiyet.com/#ecosystem",
-    "title": "The state of building user interfaces in Rust"
-  },
-  {
-    "source": "hn",
-    "url": "https://blog.unitedheroes.net/5751",
-    "title": "Leaving Mozilla"
-  },
-  {
-    "source": "hn",
-    "url": "https://new.roman-names.com/",
-    "title": "Show HN: I am building a map of people who lived in the Roman Empire"
+    "url": "https://desfontain.es/blog/banning-noise.html",
+    "title": "US bans differential privacy in Census data"
   },
   {
     "source": "hn",
@@ -21,8 +11,33 @@
   },
   {
     "source": "hn",
+    "url": "https://new.roman-names.com/",
+    "title": "Show HN: I am building a map of people who lived in the Roman Empire"
+  },
+  {
+    "source": "hn",
+    "url": "https://tonsky.me/blog/every-frame-perfect/",
+    "title": "Every Frame Perfect"
+  },
+  {
+    "source": "hn",
+    "url": "https://areweguiyet.com/#ecosystem",
+    "title": "The state of building user interfaces in Rust"
+  },
+  {
+    "source": "hn",
+    "url": "https://bkaradzic.github.io/posts/orthodoxc++/",
+    "title": "Orthodox C++"
+  },
+  {
+    "source": "hn",
     "url": "https://hallucinate.site/gallery",
     "title": "Show HN: 2 Weeks of Hallucinate – The Photo Gallery"
+  },
+  {
+    "source": "hn",
+    "url": "https://imil.net/blog/posts/2026/rtx-5080-+-rtx-3090-setup-80+-tok-s-on-qwen-3.6-27b-q8/",
+    "title": "RTX 5080 and RTX 3090 Setup: 80 Tok/s on Qwen 3.6 27B Q8"
   },
   {
     "source": "hn",
@@ -41,23 +56,13 @@
   },
   {
     "source": "hn",
-    "url": "https://bitboard.work/",
-    "title": "Launch HN: BitBoard (YC P25) – Analytics Workspace for Agents"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.motor1.com/news/798011/route-66-missouri-musical-road/",
-    "title": "Woman Gets on Route 66. Then She Starts Hearing Music Coming from Her Tires"
+    "url": "https://blog.unitedheroes.net/5751",
+    "title": "Leaving Mozilla"
   },
   {
     "source": "hn",
     "url": "https://piwodlaiwo.github.io/pirates/",
     "title": "Pirates, a naval warfare game inspired by Sid Meier's Pirates"
-  },
-  {
-    "source": "hn",
-    "url": "https://tonsky.me/blog/every-frame-perfect/",
-    "title": "Every Frame Perfect"
   },
   {
     "source": "lobsters",
@@ -91,6 +96,11 @@
   },
   {
     "source": "lobsters",
+    "url": "https://gitlab.haskell.org/ghc/ghc/-/wikis/commentary/coding-style#2-using-notes",
+    "title": "Using Notes in the Glasgow Haskell Compiler"
+  },
+  {
+    "source": "lobsters",
     "url": "https://eclecticlight.co/virtualisation-on-apple-silicon/",
     "title": "Tools for running VMs on apple silicon macs"
   },
@@ -101,8 +111,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://gitlab.haskell.org/ghc/ghc/-/wikis/commentary/coding-style#2-using-notes",
-    "title": "Using Notes in the Glasgow Haskell Compiler"
+    "url": "https://vldb.org/pvldb/vol6/p1057-wiener.pdf",
+    "title": "Scuba: Diving into Data at Facebook"
   },
   {
     "source": "lobsters",
@@ -111,22 +121,7 @@
   },
   {
     "source": "lobsters",
-    "url": "https://vldb.org/pvldb/vol6/p1057-wiener.pdf",
-    "title": "Scuba: Diving into Data at Facebook"
-  },
-  {
-    "source": "lobsters",
     "url": "https://www.pgedge.com/blog/looking-forward-to-postgres-19-its-about-time",
     "title": "Looking Forward to Postgres 19: It's About Time"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://the-decoder.com/landmark-german-ruling-declares-googles-ai-overviews-are-googles-own-words-and-makes-it-liable-for-false-answers/",
-    "title": "German court ruling declares Google's AI Overviews are Google's own words and makes it liable for false answers"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://bkaradzic.github.io/posts/orthodoxc++/",
-    "title": "Orthodox C++ (2016)"
   }
 ]
