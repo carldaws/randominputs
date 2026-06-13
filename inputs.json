@@ -11,18 +11,18 @@
   },
   {
     "source": "hn",
+    "url": "https://chrisdevblog.com/2026/06/08/running-dos-on-behringers-ddx3216-using-a-diy-x86-bios/",
+    "title": "Running DOS on Behringers DDX3216 with a DIY x86-Bios from Scratch"
+  },
+  {
+    "source": "hn",
     "url": "https://tonsky.me/blog/every-frame-perfect/",
     "title": "Every Frame Perfect"
   },
   {
     "source": "hn",
-    "url": "https://stephen.bochinski.dev/blog/2026/06/13/ai-coding-at-home-without-going-broke/",
-    "title": "AI Coding at Home Without Going Broke"
-  },
-  {
-    "source": "hn",
-    "url": "https://chrisdevblog.com/2026/06/08/running-dos-on-behringers-ddx3216-using-a-diy-x86-bios/",
-    "title": "Running DOS on Behringers DDX3216 with a DIY x86-Bios from Scratch"
+    "url": "https://www.wsj.com/tech/ai/amazon-ceos-talks-with-u-s-officials-triggered-crackdown-on-anthropic-models-dcc90578?st=Yct6gx&reflink=desktopwebshare_permalink",
+    "title": "Amazon CEO's talks with U.S. officials triggered crackdown on Anthropic models"
   },
   {
     "source": "hn",
@@ -31,18 +31,28 @@
   },
   {
     "source": "hn",
-    "url": "https://lr0.org/blog/p/arabic/",
-    "title": "The experience of rendering Arabic typography and its technical debt"
-  },
-  {
-    "source": "hn",
     "url": "https://www.righto.com/2026/06/intel-8087-adder-reverse-engineered.html",
     "title": "The adder at the heart of Intel's 8087 floating-point chip"
   },
   {
     "source": "hn",
+    "url": "https://stephen.bochinski.dev/blog/2026/06/13/ai-coding-at-home-without-going-broke/",
+    "title": "AI coding at home without going broke"
+  },
+  {
+    "source": "hn",
+    "url": "https://bkaradzic.github.io/posts/orthodoxc++/",
+    "title": "Orthodox C++ (2016)"
+  },
+  {
+    "source": "hn",
     "url": "https://digg.com/tech/ii9xibgn",
     "title": "GLM 5.2 Is Out"
+  },
+  {
+    "source": "hn",
+    "url": "https://lr0.org/blog/p/arabic/",
+    "title": "The experience of rendering Arabic typography and its technical debt"
   },
   {
     "source": "hn",
@@ -56,8 +66,8 @@
   },
   {
     "source": "hn",
-    "url": "https://www.wsj.com/tech/ai/amazon-ceos-talks-with-u-s-officials-triggered-crackdown-on-anthropic-models-dcc90578",
-    "title": "Amazon CEO's Talks with U.S. Officials Triggered Crackdown on Anthropic Models"
+    "url": "https://thoughtforms.life/trophic-memory-deer-and-a-truly-unique-scientific-object/",
+    "title": "Trophic memory, deer, and a unique scientific object"
   },
   {
     "source": "hn",
@@ -66,33 +76,13 @@
   },
   {
     "source": "hn",
-    "url": "https://thoughtforms.life/trophic-memory-deer-and-a-truly-unique-scientific-object/",
-    "title": "Trophic memory, deer, and a unique scientific object"
+    "url": "https://www.bloomberg.com/news/features/2026-06-12/india-s-extreme-heat-is-hurting-its-economy-and-workers",
+    "title": "What Happens to an Economy When It's Too Hot to Work?"
   },
   {
     "source": "hn",
     "url": "https://fortune.com/2026/06/12/ai-making-medical-bills-higher/",
     "title": "PwC Report: AI Making Medical Bills Higher"
-  },
-  {
-    "source": "hn",
-    "url": "https://opensourceaimustwin.com/?share=v2",
-    "title": "Open source AI must win"
-  },
-  {
-    "source": "hn",
-    "url": "https://putt.day/",
-    "title": "Show HN: Putt.day a daily mini golf game"
-  },
-  {
-    "source": "hn",
-    "url": "https://hallucinate.site/gallery",
-    "title": "Show HN: 2 Weeks of Hallucinate – The Photo Gallery"
-  },
-  {
-    "source": "hn",
-    "url": "https://blog.unitedheroes.net/5751",
-    "title": "Leaving Mozilla"
   },
   {
     "source": "lobsters",
@@ -111,6 +101,11 @@
   },
   {
     "source": "lobsters",
+    "url": "https://www.datawill.io/posts/2026-06-my-agent-workflow/",
+    "title": "Talk more to your coding agents"
+  },
+  {
+    "source": "lobsters",
     "url": "https://gitlab.haskell.org/ghc/ghc/-/wikis/commentary/coding-style#2-using-notes",
     "title": "Using Notes in the Glasgow Haskell Compiler"
   },
@@ -123,11 +118,6 @@
     "source": "lobsters",
     "url": "https://jonot.me/posts/zig-gba/",
     "title": "Why I Wrote a Game Boy Advance Game in Zig (2024)"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://www.datawill.io/posts/2026-06-my-agent-workflow/",
-    "title": "Talk more to your coding agents"
   },
   {
     "source": "lobsters",
@@ -151,8 +141,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://www.philipzucker.com/lifting_egraph/",
-    "title": "Lifting E-Graphs"
+    "url": "https://webxdc.org/",
+    "title": "Webxdc - Secure mini apps for chats"
   },
   {
     "source": "pinboard",
