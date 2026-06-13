@@ -2,17 +2,22 @@
   {
     "source": "hn",
     "url": "https://opensourceaimustwin.com/?share=v2",
-    "title": "Open Source AI Must Win"
+    "title": "Open source AI must win"
   },
   {
     "source": "hn",
-    "url": "https://status.claude.com/incidents/s9w82lp9dcn9",
-    "title": "We've suspended access to Claude Mythos 5 and Claude Fable 5"
+    "url": "https://6it.dev/blog/on-cpu-physics-and-cpu-cycles-80730",
+    "title": "On CPU Physics and CPU Cycles"
   },
   {
     "source": "hn",
     "url": "https://putt.day/",
     "title": "Show HN: Putt.day a daily mini golf game"
+  },
+  {
+    "source": "hn",
+    "url": "https://wasi-gfx.dev/blog/posts/future-of-wasi-gfx/",
+    "title": "The Future of wasi-gfx and wasi:webgpu"
   },
   {
     "source": "hn",
@@ -31,13 +36,8 @@
   },
   {
     "source": "hn",
-    "url": "https://correresmidestino.com/dont-you-just-upload-it-to-chatgpt/",
-    "title": "\"Don't You Just Upload It to ChatGPT?\""
-  },
-  {
-    "source": "hn",
-    "url": "https://www.gadgetreview.com/amd-stiffs-researcher-10000-bug-bounty-after-critical-security-flaw-takes-124-days-to-fix",
-    "title": "AMD Stiffs Researcher $10k Bug Bounty"
+    "url": "https://tombedor.dev/human-attention-and-human-effort/",
+    "title": "If you are asking for human attention, demonstrate human effort"
   },
   {
     "source": "hn",
@@ -46,18 +46,13 @@
   },
   {
     "source": "hn",
+    "url": "https://correresmidestino.com/dont-you-just-upload-it-to-chatgpt/",
+    "title": "\"Don't You Just Upload It to ChatGPT?\""
+  },
+  {
+    "source": "hn",
     "url": "https://bitboard.work/",
     "title": "Launch HN: BitBoard (YC P25) – Analytics Workspace for Agents"
-  },
-  {
-    "source": "hn",
-    "url": "https://tombedor.dev/human-attention-and-human-effort/",
-    "title": "If you are asking for human attention, demonstrate human effort"
-  },
-  {
-    "source": "hn",
-    "url": "https://paperspast.natlib.govt.nz/newspapers/DOM19360307.2.43",
-    "title": "Most Beautiful Will Ever Made (1936)"
   },
   {
     "source": "hn",
@@ -66,8 +61,8 @@
   },
   {
     "source": "hn",
-    "url": "https://landscape.bairui.dev/",
-    "title": "Show HN: Turn your name into a tree in an infinite procedural shanshui landscape"
+    "url": "https://paperspast.natlib.govt.nz/newspapers/DOM19360307.2.43",
+    "title": "Most Beautiful Will Ever Made (1936)"
   },
   {
     "source": "lobsters",
@@ -86,13 +81,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://bytecodealliance.org/articles/WASI-0.3",
-    "title": "WASI 0.3 Launched"
+    "url": "https://branchtaken.com/reports/aplr1/aplr1",
+    "title": "The APLR(1) Algorithm for Generating Compact LR(1) Parsers is Simpler and More Capable than IELR(1)"
   },
   {
     "source": "lobsters",
-    "url": "https://branchtaken.com/reports/aplr1/aplr1",
-    "title": "The APLR(1) Algorithm for Generating Compact LR(1) Parsers is Simpler and More Capable than IELR(1)"
+    "url": "https://bytecodealliance.org/articles/WASI-0.3",
+    "title": "WASI 0.3 Launched"
   },
   {
     "source": "lobsters",
@@ -126,23 +121,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://www.more-magic.net/posts/lispy-dsl-scss.html",
-    "title": "Designing Lispy DSLs, part 1: SCSS (2012)"
-  },
-  {
-    "source": "lobsters",
     "url": "https://www.pgedge.com/blog/looking-forward-to-postgres-19-its-about-time",
     "title": "Looking Forward to Postgres 19: It's About Time"
   },
   {
     "source": "lobsters",
-    "url": "https://lr0.org/blog/p/arabic/",
-    "title": "An interactive introduction to the terrific experience of rendering Arabic typography and its technical debt"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://openrun.dev/blog/service-binding/",
-    "title": "Service Bindings - A Better Way to Connect Apps to Databases"
+    "url": "https://www.more-magic.net/posts/lispy-dsl-scss.html",
+    "title": "Designing Lispy DSLs, part 1: SCSS (2012)"
   },
   {
     "source": "pinboard",
@@ -153,6 +138,11 @@
     "source": "pinboard",
     "url": "https://mohkohn.co.uk/writing/html-first/",
     "title": "How building an HTML-first site doubled our users overnight"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://lr0.org/blog/p/arabic/",
+    "title": "An interactive introduction to the terrific experience of rendering Arabic typography and its technical debt | La Vita Nouva"
   },
   {
     "source": "pinboard",
