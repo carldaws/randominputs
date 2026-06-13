@@ -6,6 +6,16 @@
   },
   {
     "source": "hn",
+    "url": "https://bkaradzic.github.io/posts/orthodoxc++/",
+    "title": "Orthodox C++"
+  },
+  {
+    "source": "hn",
+    "url": "https://tonsky.me/blog/every-frame-perfect/",
+    "title": "Every Frame Perfect"
+  },
+  {
+    "source": "hn",
     "url": "https://lr0.org/blog/p/arabic/",
     "title": "Introduction to the experience of rendering Arabic typography&its technical debt"
   },
@@ -16,23 +26,13 @@
   },
   {
     "source": "hn",
-    "url": "https://tonsky.me/blog/every-frame-perfect/",
-    "title": "Every Frame Perfect"
-  },
-  {
-    "source": "hn",
     "url": "https://areweguiyet.com/#ecosystem",
     "title": "The state of building user interfaces in Rust"
   },
   {
     "source": "hn",
-    "url": "https://bkaradzic.github.io/posts/orthodoxc++/",
-    "title": "Orthodox C++"
-  },
-  {
-    "source": "hn",
-    "url": "https://hallucinate.site/gallery",
-    "title": "Show HN: 2 Weeks of Hallucinate – The Photo Gallery"
+    "url": "https://brentfitzgerald.com/posts/appreciating-exif/",
+    "title": "Appreciating Exif"
   },
   {
     "source": "hn",
@@ -43,6 +43,11 @@
     "source": "hn",
     "url": "https://opensourceaimustwin.com/?share=v2",
     "title": "Open source AI must win"
+  },
+  {
+    "source": "hn",
+    "url": "https://hallucinate.site/gallery",
+    "title": "Show HN: 2 Weeks of Hallucinate – The Photo Gallery"
   },
   {
     "source": "hn",
@@ -60,9 +65,9 @@
     "title": "Leaving Mozilla"
   },
   {
-    "source": "hn",
-    "url": "https://piwodlaiwo.github.io/pirates/",
-    "title": "Pirates, a naval warfare game inspired by Sid Meier's Pirates"
+    "source": "lobsters",
+    "url": "https://slopscan.ava.pet/",
+    "title": "repo-slopscore: Detecting AI/LLM contributions in git repositories via commit history analysis"
   },
   {
     "source": "lobsters",
@@ -73,6 +78,11 @@
     "source": "lobsters",
     "url": "https://cauenapier.com/blog/townsquare_release/",
     "title": "Turn your site into a place people can bump into each other"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://www.datawill.io/posts/2026-06-my-agent-workflow/",
+    "title": "Talk more to your coding agents"
   },
   {
     "source": "lobsters",
@@ -101,6 +111,11 @@
   },
   {
     "source": "lobsters",
+    "url": "https://vldb.org/pvldb/vol6/p1057-wiener.pdf",
+    "title": "Scuba: Diving into Data at Facebook"
+  },
+  {
+    "source": "lobsters",
     "url": "https://eclecticlight.co/virtualisation-on-apple-silicon/",
     "title": "Tools for running VMs on apple silicon macs"
   },
@@ -110,18 +125,78 @@
     "title": "WASI 0.3 Launched"
   },
   {
-    "source": "lobsters",
-    "url": "https://vldb.org/pvldb/vol6/p1057-wiener.pdf",
-    "title": "Scuba: Diving into Data at Facebook"
+    "source": "pinboard",
+    "url": "https://mohkohn.co.uk/writing/html-first/",
+    "title": "How building an HTML-first site doubled our users overnight"
   },
   {
-    "source": "lobsters",
-    "url": "https://doug.sh/posts/erm-a-local-cli-that-strips-ums-uhs-and-erms-from-speech/",
-    "title": "erm: A Local CLI That Strips Ums, Uhs, and Erms From Speech"
+    "source": "pinboard",
+    "url": "https://tonedear.com/",
+    "title": "Ear Training"
   },
   {
-    "source": "lobsters",
-    "url": "https://www.pgedge.com/blog/looking-forward-to-postgres-19-its-about-time",
-    "title": "Looking Forward to Postgres 19: It's About Time"
+    "source": "pinboard",
+    "url": "https://the-decoder.com/landmark-german-ruling-declares-googles-ai-overviews-are-googles-own-words-and-makes-it-liable-for-false-answers/",
+    "title": "Landmark German ruling declares Google's AI Overviews are Google's own words and makes it liable for false answers"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://pgdog.dev/",
+    "title": "Scale PostgreSQL horizontally | PgDog"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://geolibre.app/",
+    "title": "GeoLibre"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://matklad.github.io/2026/06/04/css-unavoidable-bad-parts.html",
+    "title": "CSS: Unavoidable Bad Parts"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.extend.ai/ui",
+    "title": "Open source UI kit for modern document apps - Extend UI"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://simonwillison.net/2026/Jun/11/fable-is-relentlessly-proactive/",
+    "title": "Claude Fable is relentlessly proactive"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/diffusion-gemma-faster-text-generation/",
+    "title": "Introducing DiffusionGemma"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://staniks.github.io/articles/catlantean-3d-blog-1/",
+    "title": "Catlantean 3D - Making Graphics Like It's 1993"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://wiki.wordsoftype.com/",
+    "title": "wiki.wordsoftype.com"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.techdirt.com/2026/06/09/ceos-who-think-ai-replaces-their-employees-are-just-bad-ceos/",
+    "title": "CEOs Who Think AI Replaces Their Employees Are Just Bad CEOs | Techdirt"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://daringfireball.net/2026/06/macos_27_golden_gate_removes_the_dumb_icons_from_menu_items",
+    "title": "Daring Fireball: MacOS 27 Golden Gate Removes the Dumb Icons From Menu Items"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://ianyepan.github.io/posts/emacs-in-pop-culture/",
+    "title": "Emacs Appearances in Pop Culture | Ian Y.E. Pan"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://index.how/to/articulate",
+    "title": "Say precisely what you mean."
   }
 ]
