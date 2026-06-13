@@ -11,13 +11,13 @@
   },
   {
     "source": "hn",
-    "url": "https://putt.day/",
-    "title": "Show HN: Putt.day a daily mini golf game"
+    "url": "https://ikyle.me/blog/2026/how-to-setup-a-local-coding-agent-on-macos",
+    "title": "How to setup a local coding agent on macOS"
   },
   {
     "source": "hn",
-    "url": "https://ikyle.me/blog/2026/how-to-setup-a-local-coding-agent-on-macos",
-    "title": "How to setup a local coding agent on macOS"
+    "url": "https://putt.day/",
+    "title": "Show HN: Putt.day a daily mini golf game"
   },
   {
     "source": "hn",
@@ -31,13 +31,13 @@
   },
   {
     "source": "hn",
-    "url": "https://patches.joao.town/using-epson-perfection-v39ii-scanner-ubuntu/",
-    "title": "Using the Epson Perfection V39 II Scanner on Ubuntu"
+    "url": "https://piwodlaiwo.github.io/pirates/",
+    "title": "Pirates, a naval warfare game inspired by Sid Meier's Pirates"
   },
   {
     "source": "hn",
-    "url": "https://piwodlaiwo.github.io/pirates/",
-    "title": "Pirates, a naval warfare game inspired by Sid Meier's Pirates"
+    "url": "https://patches.joao.town/using-epson-perfection-v39ii-scanner-ubuntu/",
+    "title": "Using the Epson Perfection V39 II Scanner on Ubuntu"
   },
   {
     "source": "hn",
@@ -48,11 +48,6 @@
     "source": "hn",
     "url": "https://wasi-gfx.dev/blog/posts/future-of-wasi-gfx/",
     "title": "The Future of wasi-gfx and wasi:webgpu"
-  },
-  {
-    "source": "hn",
-    "url": "https://tombedor.dev/human-attention-and-human-effort/",
-    "title": "If you are asking for human attention, demonstrate human effort"
   },
   {
     "source": "lobsters",
@@ -68,6 +63,11 @@
     "source": "lobsters",
     "url": "https://branchtaken.com/reports/aplr1/aplr1",
     "title": "The APLR(1) Algorithm for Generating Compact LR(1) Parsers is Simpler and More Capable than IELR(1)"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://tombedor.dev/human-attention-and-human-effort/",
+    "title": "If you are asking for human attention, demonstrate human effort"
   },
   {
     "source": "lobsters",
@@ -111,13 +111,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://grack.com/blog/2026/06/11/life-before-main/",
-    "title": "There Is Life Before Main in Rust"
+    "url": "https://opensourceaimustwin.com",
+    "title": "Opensource AI Must Win"
   },
   {
     "source": "lobsters",
-    "url": "https://www.more-magic.net/posts/lispy-dsl-scss.html",
-    "title": "Designing Lispy DSLs, part 1: SCSS (2012)"
+    "url": "https://eclecticlight.co/virtualisation-on-apple-silicon/",
+    "title": "Tools for running VMs on apple silicon macs"
   },
   {
     "source": "pinboard",
