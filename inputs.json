@@ -6,13 +6,13 @@
   },
   {
     "source": "hn",
-    "url": "https://stephen.bochinski.dev/blog/2026/06/13/ai-coding-at-home-without-going-broke/",
-    "title": "AI Coding at Home Without Going Broke"
+    "url": "https://tonsky.me/blog/every-frame-perfect/",
+    "title": "Every Frame Perfect"
   },
   {
     "source": "hn",
-    "url": "https://tonsky.me/blog/every-frame-perfect/",
-    "title": "Every Frame Perfect"
+    "url": "https://www.versowriter.app",
+    "title": "Show HN: Verso – A $14.99 Mac word processor with no subscription"
   },
   {
     "source": "hn",
@@ -26,18 +26,8 @@
   },
   {
     "source": "hn",
-    "url": "https://new.roman-names.com/",
-    "title": "Show HN: I am building a map of people who lived in the Roman Empire"
-  },
-  {
-    "source": "hn",
-    "url": "https://imil.net/blog/posts/2026/rtx-5080-+-rtx-3090-setup-80+-tok-s-on-qwen-3.6-27b-q8/",
-    "title": "RTX 5080 and RTX 3090 Setup: 80 Tok/s on Qwen 3.6 27B Q8"
-  },
-  {
-    "source": "hn",
-    "url": "https://areweguiyet.com/#ecosystem",
-    "title": "The state of building user interfaces in Rust"
+    "url": "https://www.righto.com/2026/06/intel-8087-adder-reverse-engineered.html",
+    "title": "The adder at the heart of Intel's 8087 floating-point chip"
   },
   {
     "source": "hn",
@@ -46,8 +36,28 @@
   },
   {
     "source": "hn",
-    "url": "https://www.righto.com/2026/06/intel-8087-adder-reverse-engineered.html",
-    "title": "The adder at the heart of Intel's 8087 floating-point chip"
+    "url": "https://imil.net/blog/posts/2026/rtx-5080-+-rtx-3090-setup-80+-tok-s-on-qwen-3.6-27b-q8/",
+    "title": "RTX 5080 and RTX 3090 Setup: 80 Tok/s on Qwen 3.6 27B Q8"
+  },
+  {
+    "source": "hn",
+    "url": "https://new.roman-names.com/",
+    "title": "Show HN: I am building a map of people who lived in the Roman Empire"
+  },
+  {
+    "source": "hn",
+    "url": "https://tcrf.net/Workboy",
+    "title": "GameBoy Workboy"
+  },
+  {
+    "source": "hn",
+    "url": "https://stephen.bochinski.dev/blog/2026/06/13/ai-coding-at-home-without-going-broke/",
+    "title": "AI Coding at Home Without Going Broke"
+  },
+  {
+    "source": "hn",
+    "url": "https://areweguiyet.com/#ecosystem",
+    "title": "The state of building user interfaces in Rust"
   },
   {
     "source": "hn",
@@ -56,13 +66,13 @@
   },
   {
     "source": "hn",
-    "url": "https://opensourceaimustwin.com/?share=v2",
-    "title": "Open source AI must win"
+    "url": "https://thoughtforms.life/trophic-memory-deer-and-a-truly-unique-scientific-object/",
+    "title": "Trophic memory, deer, and a unique scientific object"
   },
   {
     "source": "hn",
-    "url": "https://bkaradzic.github.io/posts/orthodoxc++/",
-    "title": "Orthodox C++"
+    "url": "https://opensourceaimustwin.com/?share=v2",
+    "title": "Open source AI must win"
   },
   {
     "source": "hn",
@@ -71,18 +81,18 @@
   },
   {
     "source": "hn",
-    "url": "https://hallucinate.site/gallery",
-    "title": "Show HN: 2 Weeks of Hallucinate – The Photo Gallery"
-  },
-  {
-    "source": "hn",
     "url": "https://putt.day/",
     "title": "Show HN: Putt.day a daily mini golf game"
   },
   {
     "source": "hn",
-    "url": "https://blog.unitedheroes.net/5751",
-    "title": "Leaving Mozilla"
+    "url": "https://fortune.com/2026/06/12/ai-making-medical-bills-higher/",
+    "title": "PwC Report: AI Making Medical Bills Higher"
+  },
+  {
+    "source": "hn",
+    "url": "https://hallucinate.site/gallery",
+    "title": "Show HN: 2 Weeks of Hallucinate – The Photo Gallery"
   },
   {
     "source": "lobsters",
@@ -101,11 +111,6 @@
   },
   {
     "source": "lobsters",
-    "url": "https://www.datawill.io/posts/2026-06-my-agent-workflow/",
-    "title": "Talk more to your coding agents"
-  },
-  {
-    "source": "lobsters",
     "url": "https://branchtaken.com/reports/aplr1/aplr1",
     "title": "The APLR(1) Algorithm for Generating Compact LR(1) Parsers is Simpler and More Capable than IELR(1)"
   },
@@ -116,13 +121,18 @@
   },
   {
     "source": "lobsters",
+    "url": "https://gitlab.haskell.org/ghc/ghc/-/wikis/commentary/coding-style#2-using-notes",
+    "title": "Using Notes in the Glasgow Haskell Compiler"
+  },
+  {
+    "source": "lobsters",
     "url": "https://coopi.neocities.org/posts/nix-flakes-vs-guix#guix-purity-by-design_6eece251b1ca",
     "title": "Nix Flakes and their Guix Equivalents"
   },
   {
     "source": "lobsters",
-    "url": "https://gitlab.haskell.org/ghc/ghc/-/wikis/commentary/coding-style#2-using-notes",
-    "title": "Using Notes in the Glasgow Haskell Compiler"
+    "url": "https://www.datawill.io/posts/2026-06-my-agent-workflow/",
+    "title": "Talk more to your coding agents"
   },
   {
     "source": "lobsters",
