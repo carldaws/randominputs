@@ -21,23 +21,18 @@
   },
   {
     "source": "hn",
-    "url": "https://6it.dev/blog/on-cpu-physics-and-cpu-cycles-80730",
-    "title": "On CPU Physics and CPU Cycles"
-  },
-  {
-    "source": "hn",
     "url": "https://bitboard.work/",
     "title": "Launch HN: BitBoard (YC P25) – Analytics Workspace for Agents"
   },
   {
     "source": "hn",
-    "url": "https://piwodlaiwo.github.io/pirates/",
-    "title": "Pirates, a naval warfare game inspired by Sid Meier's Pirates"
+    "url": "https://areweguiyet.com/#ecosystem",
+    "title": "The state of building user interfaces in Rust"
   },
   {
     "source": "hn",
-    "url": "https://patches.joao.town/using-epson-perfection-v39ii-scanner-ubuntu/",
-    "title": "Using the Epson Perfection V39 II Scanner on Ubuntu"
+    "url": "https://piwodlaiwo.github.io/pirates/",
+    "title": "Pirates, a naval warfare game inspired by Sid Meier's Pirates"
   },
   {
     "source": "hn",
@@ -48,6 +43,11 @@
     "source": "hn",
     "url": "https://wasi-gfx.dev/blog/posts/future-of-wasi-gfx/",
     "title": "The Future of wasi-gfx and wasi:webgpu"
+  },
+  {
+    "source": "hn",
+    "url": "https://6it.dev/blog/on-cpu-physics-and-cpu-cycles-80730",
+    "title": "On CPU Physics and CPU Cycles"
   },
   {
     "source": "lobsters",
@@ -61,6 +61,11 @@
   },
   {
     "source": "lobsters",
+    "url": "https://jonot.me/posts/zig-gba/",
+    "title": "Why I Wrote a Game Boy Advance Game in Zig (2024)"
+  },
+  {
+    "source": "lobsters",
     "url": "https://branchtaken.com/reports/aplr1/aplr1",
     "title": "The APLR(1) Algorithm for Generating Compact LR(1) Parsers is Simpler and More Capable than IELR(1)"
   },
@@ -71,8 +76,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://jonot.me/posts/zig-gba/",
-    "title": "Why I Wrote a Game Boy Advance Game in Zig (2024)"
+    "url": "https://opensourceaimustwin.com",
+    "title": "Opensource AI Must Win"
   },
   {
     "source": "lobsters",
@@ -86,13 +91,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://the-decoder.com/landmark-german-ruling-declares-googles-ai-overviews-are-googles-own-words-and-makes-it-liable-for-false-answers/",
-    "title": "German court ruling declares Google's AI Overviews are Google's own words and makes it liable for false answers"
+    "url": "https://eclecticlight.co/virtualisation-on-apple-silicon/",
+    "title": "Tools for running VMs on apple silicon macs"
   },
   {
     "source": "lobsters",
-    "url": "https://bkaradzic.github.io/posts/orthodoxc++/",
-    "title": "Orthodox C++ (2016)"
+    "url": "https://the-decoder.com/landmark-german-ruling-declares-googles-ai-overviews-are-googles-own-words-and-makes-it-liable-for-false-answers/",
+    "title": "German court ruling declares Google's AI Overviews are Google's own words and makes it liable for false answers"
   },
   {
     "source": "lobsters",
@@ -101,23 +106,18 @@
   },
   {
     "source": "lobsters",
+    "url": "https://bkaradzic.github.io/posts/orthodoxc++/",
+    "title": "Orthodox C++ (2016)"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://vdaubry.github.io/bottega-launch/",
+    "title": "I'm open-sourcing Bottega, our internal coding agent orchestration tool"
+  },
+  {
+    "source": "lobsters",
     "url": "https://wiki.alopex.li/ReuseLessSoftware",
     "title": "Reuse Less Software"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://blog.avas.space/llm-circus/",
-    "title": "our workplace LLM mass delusion"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://opensourceaimustwin.com",
-    "title": "Opensource AI Must Win"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://eclecticlight.co/virtualisation-on-apple-silicon/",
-    "title": "Tools for running VMs on apple silicon macs"
   },
   {
     "source": "pinboard",
