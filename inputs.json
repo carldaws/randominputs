@@ -2,7 +2,7 @@
   {
     "source": "hn",
     "url": "https://desfontain.es/blog/banning-noise.html",
-    "title": "US bans differential privacy in Census data"
+    "title": "Noise infusion banned from statistical products published by Census Bureau"
   },
   {
     "source": "hn",
@@ -11,13 +11,13 @@
   },
   {
     "source": "hn",
-    "url": "https://chrisdevblog.com/2026/06/08/running-dos-on-behringers-ddx3216-using-a-diy-x86-bios/",
-    "title": "Running DOS on Behringers DDX3216 with a DIY x86-Bios from Scratch"
+    "url": "https://tonsky.me/blog/every-frame-perfect/",
+    "title": "Every Frame Perfect"
   },
   {
     "source": "hn",
-    "url": "https://tonsky.me/blog/every-frame-perfect/",
-    "title": "Every Frame Perfect"
+    "url": "https://chrisdevblog.com/2026/06/08/running-dos-on-behringers-ddx3216-using-a-diy-x86-bios/",
+    "title": "Running DOS on Behringers DDX3216 with a DIY x86-Bios from Scratch"
   },
   {
     "source": "hn",
@@ -36,18 +36,8 @@
   },
   {
     "source": "hn",
-    "url": "https://stephen.bochinski.dev/blog/2026/06/13/ai-coding-at-home-without-going-broke/",
-    "title": "AI coding at home without going broke"
-  },
-  {
-    "source": "hn",
     "url": "https://bkaradzic.github.io/posts/orthodoxc++/",
     "title": "Orthodox C++ (2016)"
-  },
-  {
-    "source": "hn",
-    "url": "https://digg.com/tech/ii9xibgn",
-    "title": "GLM 5.2 Is Out"
   },
   {
     "source": "hn",
@@ -61,13 +51,13 @@
   },
   {
     "source": "hn",
-    "url": "https://new.roman-names.com/",
-    "title": "Show HN: I am building a map of people who lived in the Roman Empire"
+    "url": "https://47calc.com/index.html",
+    "title": "C47/R47 Calculators"
   },
   {
     "source": "hn",
-    "url": "https://thoughtforms.life/trophic-memory-deer-and-a-truly-unique-scientific-object/",
-    "title": "Trophic memory, deer, and a unique scientific object"
+    "url": "https://stephen.bochinski.dev/blog/2026/06/13/ai-coding-at-home-without-going-broke/",
+    "title": "AI coding at home without going broke"
   },
   {
     "source": "hn",
@@ -81,8 +71,13 @@
   },
   {
     "source": "hn",
-    "url": "https://fortune.com/2026/06/12/ai-making-medical-bills-higher/",
-    "title": "PwC Report: AI Making Medical Bills Higher"
+    "url": "https://new.roman-names.com/",
+    "title": "Show HN: I am building a map of people who lived in the Roman Empire"
+  },
+  {
+    "source": "hn",
+    "url": "https://thoughtforms.life/trophic-memory-deer-and-a-truly-unique-scientific-object/",
+    "title": "Trophic memory, deer, and a unique scientific object"
   },
   {
     "source": "lobsters",
@@ -111,6 +106,11 @@
   },
   {
     "source": "lobsters",
+    "url": "https://matthewbutterick.com/extinction-level-capitalism.html",
+    "title": "Extinction-level capitalism"
+  },
+  {
+    "source": "lobsters",
     "url": "https://branchtaken.com/reports/aplr1/aplr1",
     "title": "The APLR(1) Algorithm for Generating Compact LR(1) Parsers is Simpler and More Capable than IELR(1)"
   },
@@ -131,6 +131,11 @@
   },
   {
     "source": "lobsters",
+    "url": "https://webxdc.org/",
+    "title": "Webxdc - Secure mini apps for chats"
+  },
+  {
+    "source": "lobsters",
     "url": "https://vldb.org/pvldb/vol6/p1057-wiener.pdf",
     "title": "Scuba: Diving into Data at Facebook"
   },
@@ -138,11 +143,6 @@
     "source": "lobsters",
     "url": "https://eclecticlight.co/virtualisation-on-apple-silicon/",
     "title": "Tools for running VMs on apple silicon macs"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://webxdc.org/",
-    "title": "Webxdc - Secure mini apps for chats"
   },
   {
     "source": "pinboard",
