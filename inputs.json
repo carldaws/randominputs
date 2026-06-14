@@ -6,6 +6,11 @@
   },
   {
     "source": "hn",
+    "url": "https://juniperspring.org/posts/honda-evil-valet/",
+    "title": "10th Gen Honda Civic Updates Are Signed with AOSP Test Keys"
+  },
+  {
+    "source": "hn",
     "url": "https://tonsky.me/blog/every-frame-perfect/",
     "title": "Every Frame Perfect"
   },
@@ -16,6 +21,16 @@
   },
   {
     "source": "hn",
+    "url": "https://tcrf.net/Workboy",
+    "title": "GameBoy Workboy"
+  },
+  {
+    "source": "hn",
+    "url": "https://theconsensus.dev/p/2026/06/06/python-3-14-garbage-collection-rigamarole.html",
+    "title": "Python 3.14 garbage collection rigamarole"
+  },
+  {
+    "source": "hn",
     "url": "https://chrisdevblog.com/2026/06/08/running-dos-on-behringers-ddx3216-using-a-diy-x86-bios/",
     "title": "Running DOS on Behringers DDX3216 with a DIY x86-Bios from Scratch"
   },
@@ -23,11 +38,6 @@
     "source": "hn",
     "url": "https://www.wsj.com/tech/ai/amazon-ceos-talks-with-u-s-officials-triggered-crackdown-on-anthropic-models-dcc90578?st=Yct6gx&reflink=desktopwebshare_permalink",
     "title": "Amazon CEO's talks with U.S. officials triggered crackdown on Anthropic models"
-  },
-  {
-    "source": "hn",
-    "url": "https://tcrf.net/Workboy",
-    "title": "GameBoy Workboy"
   },
   {
     "source": "hn",
@@ -46,23 +56,23 @@
   },
   {
     "source": "hn",
-    "url": "https://jerrylparker.com/blogs/posts/sx-64.html",
-    "title": "Resurrecting a soaked, corroded, and damaged Commodore SX‑64 (2025)"
-  },
-  {
-    "source": "hn",
     "url": "https://borretti.me/article/human-routers-of-machine-words",
     "title": "Human Routers of Machine Words"
   },
   {
     "source": "hn",
-    "url": "https://imil.net/blog/posts/2026/rtx-5080-+-rtx-3090-setup-80+-tok-s-on-qwen-3.6-27b-q8/",
-    "title": "RTX 5080 and RTX 3090 Setup: 80 Tok/s on Qwen 3.6 27B Q8"
+    "url": "https://jerrylparker.com/blogs/posts/sx-64.html",
+    "title": "Resurrecting a soaked, corroded, and damaged Commodore SX‑64 (2025)"
   },
   {
     "source": "hn",
     "url": "https://lr0.org/blog/p/arabic/",
     "title": "The experience of rendering Arabic typography and its technical debt"
+  },
+  {
+    "source": "hn",
+    "url": "https://imil.net/blog/posts/2026/rtx-5080-+-rtx-3090-setup-80+-tok-s-on-qwen-3.6-27b-q8/",
+    "title": "RTX 5080 and RTX 3090 Setup: 80 Tok/s on Qwen 3.6 27B Q8"
   },
   {
     "source": "hn",
@@ -76,13 +86,8 @@
   },
   {
     "source": "hn",
-    "url": "https://areweguiyet.com/#ecosystem",
-    "title": "The state of building user interfaces in Rust"
-  },
-  {
-    "source": "hn",
-    "url": "https://47calc.com/index.html",
-    "title": "C47/R47 Calculators"
+    "url": "https://www.wired.com/story/mark-zuckerberg-meta-employee-meeting-interrupt-ai/",
+    "title": "'Tell Him He's a Piece of Shit': Meta's New AI Unit Is a Total Mess"
   },
   {
     "source": "lobsters",
@@ -96,6 +101,11 @@
   },
   {
     "source": "lobsters",
+    "url": "http://oldvcr.blogspot.com/2026/06/building-serial-and-vga-everything.html",
+    "title": "Building a serial and VGA \"everything console\""
+  },
+  {
+    "source": "lobsters",
     "url": "https://matthewbutterick.com/extinction-level-capitalism.html",
     "title": "Extinction-level capitalism"
   },
@@ -106,23 +116,18 @@
   },
   {
     "source": "lobsters",
-    "url": "http://oldvcr.blogspot.com/2026/06/building-serial-and-vga-everything.html",
-    "title": "Building an serial and VGA \"everything console\""
-  },
-  {
-    "source": "lobsters",
     "url": "https://cauenapier.com/blog/townsquare_release/",
     "title": "Turn your site into a place people can bump into each other"
   },
   {
     "source": "lobsters",
-    "url": "https://www.datawill.io/posts/2026-06-my-agent-workflow/",
-    "title": "Talk more to your coding agents"
+    "url": "http://www.righto.com/2026/06/intel-8087-adder-reverse-engineered.html",
+    "title": "The adder at the heart of Intel's 8087 floating-point chip"
   },
   {
     "source": "lobsters",
-    "url": "http://www.righto.com/2026/06/intel-8087-adder-reverse-engineered.html",
-    "title": "The adder at the heart of Intel's 8087 floating-point chip"
+    "url": "https://www.datawill.io/posts/2026-06-my-agent-workflow/",
+    "title": "Talk more to your coding agents"
   },
   {
     "source": "lobsters",
