@@ -6,8 +6,8 @@
   },
   {
     "source": "hn",
-    "url": "https://su3.io/posts/zeroserve-caddy-compat",
-    "title": "Caddy compatibility for zeroserve: 3x throughput and 70% lower latency"
+    "url": "https://aresluna.org/segmented-type/",
+    "title": "Not mine, but it's a website where you can use a segment display"
   },
   {
     "source": "hn",
@@ -16,13 +16,8 @@
   },
   {
     "source": "hn",
-    "url": "https://www.swissinfo.ch/eng/swiss-politics/swiss-voters-reject-proposal-to-cap-population-at-ten-million/91548146",
-    "title": "Swiss voters reject proposal to cap population at ten million"
-  },
-  {
-    "source": "hn",
-    "url": "https://faroutcompany.com/",
-    "title": "FarOutCompany"
+    "url": "https://su3.io/posts/zeroserve-caddy-compat",
+    "title": "Caddy compatibility for zeroserve: 3x throughput and 70% lower latency"
   },
   {
     "source": "hn",
@@ -31,18 +26,23 @@
   },
   {
     "source": "hn",
+    "url": "https://faroutcompany.com/",
+    "title": "FarOutCompany"
+  },
+  {
+    "source": "hn",
     "url": "https://mgunlogson.github.io/magma/",
     "title": "Show HN: 3D print Z reinforcement via injected loops"
   },
   {
     "source": "hn",
-    "url": "https://lisyarus.github.io/blog/posts/quivers-a-year-of-linear-algebra-by-drawing-arrows.html",
-    "title": "Quivers: A year of linear algebra by drawing arrows"
+    "url": "https://paulgraham.com/earn.html",
+    "title": "How to earn a billion dollars"
   },
   {
     "source": "hn",
-    "url": "https://paulgraham.com/earn.html",
-    "title": "How to Earn a Billion Dollars"
+    "url": "https://lisyarus.github.io/blog/posts/quivers-a-year-of-linear-algebra-by-drawing-arrows.html",
+    "title": "Quivers: A year of linear algebra by drawing arrows"
   },
   {
     "source": "hn",
@@ -61,13 +61,13 @@
   },
   {
     "source": "hn",
-    "url": "https://dir.dillo-browser.org/",
-    "title": "Dillo directory – Directory of useful sites that work reasonably well on Dillo"
+    "url": "https://www.swissinfo.ch/eng/swiss-politics/swiss-voters-reject-proposal-to-cap-population-at-ten-million/91548146",
+    "title": "Swiss voters reject proposal to cap population at ten million"
   },
   {
     "source": "hn",
-    "url": "https://matthewbutterick.com/extinction-level-capitalism.html",
-    "title": "Extinction-Level Capitalism"
+    "url": "https://dir.dillo-browser.org/",
+    "title": "Dillo directory – Directory of useful sites that work reasonably well on Dillo"
   },
   {
     "source": "lobsters",
@@ -81,6 +81,11 @@
   },
   {
     "source": "lobsters",
+    "url": "https://matthewbutterick.com/extinction-level-capitalism.html",
+    "title": "Extinction-level capitalism"
+  },
+  {
+    "source": "lobsters",
     "url": "https://slopscan.ava.pet/",
     "title": "repo-slopscore: Detecting AI/LLM contributions in git repositories via commit history analysis"
   },
@@ -88,6 +93,11 @@
     "source": "lobsters",
     "url": "https://blog.cryptographyengineering.com/2026/06/09/apples-siri-ai-or-more-shouting-into-the-void-about-private-agents/",
     "title": "The future of Siri, or: why private inference isn’t private enough"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://karthinks.com/software/even-more-batteries-included-with-emacs/",
+    "title": "Even More Batteries Included With Emacs | Karthinks"
   },
   {
     "source": "lobsters",
@@ -101,23 +111,23 @@
   },
   {
     "source": "lobsters",
-    "url": "https://blog.pyodide.org/posts/314-release/",
-    "title": "Pyodide 314.0: WebAssembly wheels for PyPI"
-  },
-  {
-    "source": "lobsters",
     "url": "https://inside.java/2026/06/11/thesis-simplify-weak-reference-processing-zgc/",
     "title": "Simplifying Weak Reference Processing in ZGC"
   },
   {
     "source": "lobsters",
-    "url": "https://opensourceaimustwin.com",
-    "title": "Opensource AI Must Win"
+    "url": "http://smalldatum.blogspot.com/2026/06/write-heavy-sysbench-tests-large-server.html",
+    "title": "Write-heavy sysbench tests, a large server, modern Postgres and MySQL"
   },
   {
     "source": "lobsters",
-    "url": "http://smalldatum.blogspot.com/2026/06/write-heavy-sysbench-tests-large-server.html",
-    "title": "Write-heavy sysbench tests, a large server, modern Postgres and MySQL"
+    "url": "https://blog.pyodide.org/posts/314-release/",
+    "title": "Pyodide 314.0: WebAssembly wheels for PyPI"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://opensourceaimustwin.com",
+    "title": "Opensource AI Must Win"
   },
   {
     "source": "lobsters",
@@ -146,22 +156,12 @@
   },
   {
     "source": "lobsters",
-    "url": "https://brentfitzgerald.com/posts/appreciating-exif/",
-    "title": "Appreciating EXIF"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://martypc.blogspot.com/2025/05/emulator-debugging-area-5150s-lake.html",
-    "title": "Emulator Debugging: Area 5150's Lake Effect"
-  },
-  {
-    "source": "lobsters",
     "url": "http://www.righto.com/2026/06/intel-8087-adder-reverse-engineered.html",
     "title": "The adder at the heart of Intel's 8087 floating-point chip"
   },
   {
     "source": "lobsters",
-    "url": "https://replicated.wiki/blog/uris.html",
-    "title": "Beagle SCM URIs and HTTP verbs with git"
+    "url": "https://brentfitzgerald.com/posts/appreciating-exif/",
+    "title": "Appreciating EXIF"
   }
 ]
