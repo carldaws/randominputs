@@ -1,11 +1,6 @@
 [
   {
     "source": "hn",
-    "url": "https://zinnia-os.org/",
-    "title": "Zinnia: A modular 64-bit Unix-like kernel written in Rust"
-  },
-  {
-    "source": "hn",
     "url": "https://screen.toys/firewood/",
     "title": "Firewood Splitting Simulator"
   },
@@ -31,11 +26,6 @@
   },
   {
     "source": "hn",
-    "url": "https://fulcrum.inc/2026/06/09/inverse-rubric-optimization.html",
-    "title": "Inverse Rubric Optimization: A testbed for agent science"
-  },
-  {
-    "source": "hn",
     "url": "https://blog.janestreet.com/formal-methods-at-jane-street-index/?from_theconsensus=1",
     "title": "Formal methods and the future of programming"
   },
@@ -46,33 +36,28 @@
   },
   {
     "source": "hn",
+    "url": "https://fulcrum.inc/2026/06/09/inverse-rubric-optimization.html",
+    "title": "Inverse Rubric Optimization: A testbed for agent science"
+  },
+  {
+    "source": "hn",
+    "url": "https://en.wikipedia.org/wiki/Abu_Fanous",
+    "title": "Abu Fanous"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.theregister.com/ai-and-ml/2026/06/14/ai-is-code-and-cant-be-prompted-into-being-smarter/5254141",
+    "title": "AI is code – and can't be prompted into being smarter"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.orangecrumbs.com/",
+    "title": "Show HN: Discover Wikipedia articles popular on Hacker News"
+  },
+  {
+    "source": "hn",
     "url": "https://paulgraham.com/earn.html",
     "title": "How to earn a billion dollars"
-  },
-  {
-    "source": "hn",
-    "url": "https://lisyarus.github.io/blog/posts/quivers-a-year-of-linear-algebra-by-drawing-arrows.html",
-    "title": "Quivers: A year of linear algebra by drawing arrows"
-  },
-  {
-    "source": "hn",
-    "url": "https://arcadeblogger.com/2026/06/14/how-did-atari-apply-side-art-to-arcade-cabinets/",
-    "title": "How did Atari apply side art to Arcade Cabinets?"
-  },
-  {
-    "source": "hn",
-    "url": "https://mgunlogson.github.io/magma/",
-    "title": "Show HN: 3D print Z reinforcement via injected loops"
-  },
-  {
-    "source": "hn",
-    "url": "https://sqltoerdiagram.com/",
-    "title": "Free SQL→ER diagram tool, runs in the browser, nothing uploaded"
-  },
-  {
-    "source": "hn",
-    "url": "https://juniperspring.org/posts/honda-evil-valet/",
-    "title": "Honda Civics and the Evil Valet"
   },
   {
     "source": "hn",
@@ -81,8 +66,13 @@
   },
   {
     "source": "hn",
-    "url": "https://www.orangecrumbs.com/",
-    "title": "Show HN: Discover Wikipedia articles popular on Hacker News"
+    "url": "https://axiommath.ai/territory/the-reveal",
+    "title": "Lattice Triangles Are Rare"
+  },
+  {
+    "source": "hn",
+    "url": "https://lisyarus.github.io/blog/posts/quivers-a-year-of-linear-algebra-by-drawing-arrows.html",
+    "title": "Quivers: A year of linear algebra by drawing arrows"
   },
   {
     "source": "lobsters",
@@ -96,13 +86,18 @@
   },
   {
     "source": "lobsters",
-    "url": "https://tonsky.me/blog/every-frame-perfect/",
-    "title": "Every Frame Perfect"
+    "url": "https://zinnia-os.org/",
+    "title": "zinnia: a modular 64-bit Unix-like kernel written in Rust"
   },
   {
     "source": "lobsters",
     "url": "https://matthewbutterick.com/extinction-level-capitalism.html",
     "title": "Extinction-level capitalism"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://tonsky.me/blog/every-frame-perfect/",
+    "title": "Every Frame Perfect"
   },
   {
     "source": "lobsters",
@@ -116,13 +111,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://desfontain.es/blog/banning-noise.html",
-    "title": "Banning noise will be a disaster for statistical data products"
+    "url": "http://oldvcr.blogspot.com/2026/06/building-serial-and-vga-everything.html",
+    "title": "Building a serial and VGA \"everything console\""
   },
   {
     "source": "lobsters",
-    "url": "http://oldvcr.blogspot.com/2026/06/building-serial-and-vga-everything.html",
-    "title": "Building a serial and VGA \"everything console\""
+    "url": "https://desfontain.es/blog/banning-noise.html",
+    "title": "Banning noise will be a disaster for statistical data products"
   },
   {
     "source": "lobsters",
@@ -163,6 +158,11 @@
     "source": "lobsters",
     "url": "https://www.homepages.ucl.ac.uk/~ucecesf/blog/20260602.html",
     "title": "Emacs rec mode, an all-text database system"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://sqltoerdiagram.com/",
+    "title": "ERD Generator from SQL"
   },
   {
     "source": "lobsters",
