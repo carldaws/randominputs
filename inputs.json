@@ -11,11 +11,6 @@
   },
   {
     "source": "hn",
-    "url": "https://guille.site/posts/space-cooling/",
-    "title": "Cooling in Space"
-  },
-  {
-    "source": "hn",
     "url": "https://desfontain.es/blog/banning-noise.html",
     "title": "Noise infusion banned from statistical products published by Census Bureau"
   },
@@ -41,8 +36,8 @@
   },
   {
     "source": "hn",
-    "url": "https://replicated.wiki/blog/uris.html",
-    "title": "Beagle: Git, URIs and all the dirty words"
+    "url": "http://oldvcr.blogspot.com/2026/06/building-serial-and-vga-everything.html",
+    "title": "Building a serial and VGA \"everything console\""
   },
   {
     "source": "hn",
@@ -51,13 +46,8 @@
   },
   {
     "source": "hn",
-    "url": "http://oldvcr.blogspot.com/2026/06/building-serial-and-vga-everything.html",
-    "title": "Building a serial and VGA \"everything console\""
-  },
-  {
-    "source": "hn",
-    "url": "https://garrit.xyz/posts/2026-06-13-pac-man-but-you-re-the-ghost",
-    "title": "Pac-Man, but you're the ghost"
+    "url": "https://replicated.wiki/blog/uris.html",
+    "title": "Beagle: Git, URIs and all the dirty words"
   },
   {
     "source": "hn",
@@ -66,13 +56,13 @@
   },
   {
     "source": "hn",
-    "url": "https://ataraxy-labs.github.io/weave/",
-    "title": "Weave: Merging based on language structure and not lines"
+    "url": "https://garrit.xyz/posts/2026-06-13-pac-man-but-you-re-the-ghost",
+    "title": "Pac-Man, but you're the ghost"
   },
   {
     "source": "hn",
-    "url": "https://www.wsj.com/tech/ai/amazon-ceos-talks-with-u-s-officials-triggered-crackdown-on-anthropic-models-dcc90578?st=Yct6gx&reflink=desktopwebshare_permalink",
-    "title": "Amazon CEO's talks with U.S. officials triggered crackdown on Anthropic models"
+    "url": "https://ataraxy-labs.github.io/weave/",
+    "title": "Weave: Merging based on language structure and not lines"
   },
   {
     "source": "hn",
@@ -81,13 +71,18 @@
   },
   {
     "source": "hn",
-    "url": "https://chrisdevblog.com/2026/06/08/running-dos-on-behringers-ddx3216-using-a-diy-x86-bios/",
-    "title": "Running DOS on Behringers DDX3216 with a DIY x86-Bios from Scratch"
+    "url": "https://www.wsj.com/tech/ai/amazon-ceos-talks-with-u-s-officials-triggered-crackdown-on-anthropic-models-dcc90578?st=Yct6gx&reflink=desktopwebshare_permalink",
+    "title": "Amazon CEO's talks with U.S. officials triggered crackdown on Anthropic models"
   },
   {
     "source": "hn",
     "url": "https://imil.net/blog/posts/2026/rtx-5080-+-rtx-3090-setup-80+-tok-s-on-qwen-3.6-27b-q8/",
     "title": "RTX 5080 and RTX 3090 Setup: 80 Tok/s on Qwen 3.6 27B Q8"
+  },
+  {
+    "source": "hn",
+    "url": "https://chrisdevblog.com/2026/06/08/running-dos-on-behringers-ddx3216-using-a-diy-x86-bios/",
+    "title": "Running DOS on Behringers DDX3216 with a DIY x86-Bios from Scratch"
   },
   {
     "source": "hn",
@@ -103,6 +98,11 @@
     "source": "hn",
     "url": "https://lr0.org/blog/p/arabic/",
     "title": "The experience of rendering Arabic typography and its technical debt"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.righto.com/2026/06/intel-8087-adder-reverse-engineered.html",
+    "title": "The adder at the heart of Intel's 8087 floating-point chip"
   },
   {
     "source": "lobsters",
@@ -141,13 +141,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://cauenapier.com/blog/townsquare_release/",
-    "title": "Turn your site into a place people can bump into each other"
+    "url": "https://blog.runevision.com/2026/06/point-cloud-sound-for-irregular-shaped.html",
+    "title": "Point Cloud Sound for irregular shaped audio sources"
   },
   {
     "source": "lobsters",
-    "url": "http://www.righto.com/2026/06/intel-8087-adder-reverse-engineered.html",
-    "title": "The adder at the heart of Intel's 8087 floating-point chip"
+    "url": "https://blog.tenstral.net/2026/06/introducing-pkgcli-a-nicer-command-line-interface-for-packagekit.html",
+    "title": "pkgcli: A command-line interface for PackageKit"
   },
   {
     "source": "lobsters",
@@ -156,12 +156,92 @@
   },
   {
     "source": "lobsters",
+    "url": "https://cauenapier.com/blog/townsquare_release/",
+    "title": "Turn your site into a place people can bump into each other"
+  },
+  {
+    "source": "lobsters",
     "url": "https://www.philipzucker.com/lifting_egraph/",
     "title": "Lifting E-Graphs"
   },
   {
     "source": "lobsters",
-    "url": "https://randomascii.wordpress.com/2012/03/21/intermediate-floating-point-precision/",
-    "title": "Intermediate Floating-Point Precision"
+    "url": "http://www.righto.com/2026/06/intel-8087-adder-reverse-engineered.html",
+    "title": "The adder at the heart of Intel's 8087 floating-point chip"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://ikyle.me/blog/2026/how-to-setup-a-local-coding-agent-on-macos",
+    "title": "How to Setup a Local Coding Agent on macOS - Kyle Howells"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://tonedear.com/",
+    "title": "Ear Training"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://tombedor.dev/human-attention-and-human-effort/",
+    "title": "If You are Asking for Human Attention, Demonstrate Human Effort"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://mohkohn.co.uk/writing/html-first/",
+    "title": "How building an HTML-first site doubled our users overnight"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://simonwillison.net/2026/Jun/11/fable-is-relentlessly-proactive/",
+    "title": "Claude Fable is relentlessly proactive"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://daringfireball.net/2026/06/the_talk_show_live_from_wwdc_2026",
+    "title": "Daring Fireball: The Talk Show: Live From WWDC 2026"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://geolibre.app/",
+    "title": "GeoLibre"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://ianyepan.github.io/posts/emacs-in-pop-culture/",
+    "title": "Emacs Appearances in Pop Culture | Ian Y.E. Pan"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://aftermath.site/ians-shoelace-site-is-still-the-best-destination-for-tying-your-shoes/",
+    "title": "Ian's Is Still The Best Site For Tying Your Shoelaces"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.mayrhofer.eu.org/post/leaving-google/",
+    "title": "Why I’m Forced to Say Farewell: Google Management Has Lost Its Moral Compass | René Mayrhofer"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://pgdog.dev/",
+    "title": "Scale PostgreSQL horizontally | PgDog"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://news.ycombinator.com/item?id=48497609",
+    "title": "If you are asking for human attention, demonstrate human effort | Hacker News"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://doug.sh/posts/erm-a-local-cli-that-strips-ums-uhs-and-erms-from-speech/",
+    "title": "erm: A Local CLI That Strips Ums, Uhs, and Erms From Speech | doug.sh"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.makingsoftware.com/chapters/image-compression",
+    "title": "Making Software: Image compression."
+  },
+  {
+    "source": "pinboard",
+    "url": "https://daringfireball.net/2026/06/macos_27_golden_gate_removes_the_dumb_icons_from_menu_items",
+    "title": "Daring Fireball: MacOS 27 Golden Gate Removes the Dumb Icons From Menu Items"
   }
 ]
