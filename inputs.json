@@ -1,6 +1,11 @@
 [
   {
     "source": "hn",
+    "url": "https://screen.toys/firewood/",
+    "title": "Firewood Splitting Simulator"
+  },
+  {
+    "source": "hn",
     "url": "https://sqltoerdiagram.com/",
     "title": "Free SQL→ER diagram tool, runs in the browser, nothing uploaded"
   },
@@ -11,8 +16,8 @@
   },
   {
     "source": "hn",
-    "url": "https://phys.org/news/2026-05-historic-monasteries-digital-countries.html",
-    "title": "500-year-old monasteries outperform at digital transformation (U. of Zurich)"
+    "url": "https://arcadeblogger.com/2026/06/14/how-did-atari-apply-side-art-to-arcade-cabinets/",
+    "title": "How did Atari apply side art to Arcade Cabinets?"
   },
   {
     "source": "hn",
@@ -31,8 +36,18 @@
   },
   {
     "source": "hn",
+    "url": "https://paulgraham.com/earn.html",
+    "title": "How to Earn a Billion Dollars"
+  },
+  {
+    "source": "hn",
     "url": "http://tribblix.org/",
     "title": "Tribblix: The retro Illumos distribution"
+  },
+  {
+    "source": "hn",
+    "url": "https://garrit.xyz/posts/2026-06-13-pac-man-but-you-re-the-ghost",
+    "title": "Pac-Man, but you're the ghost"
   },
   {
     "source": "hn",
@@ -46,23 +61,13 @@
   },
   {
     "source": "hn",
-    "url": "https://garrit.xyz/posts/2026-06-13-pac-man-but-you-re-the-ghost",
-    "title": "Pac-Man, but you're the ghost"
+    "url": "https://theconsensus.dev/p/2026/06/06/python-3-14-garbage-collection-rigamarole.html",
+    "title": "Python 3.14 garbage collection rigamarole"
   },
   {
     "source": "hn",
     "url": "https://inventingthefuture.ghost.io/laserwriter-seeds/",
     "title": "LaserWriter seeds"
-  },
-  {
-    "source": "hn",
-    "url": "https://replicated.wiki/blog/uris.html",
-    "title": "Beagle: Git, URIs and all the dirty words"
-  },
-  {
-    "source": "hn",
-    "url": "https://ataraxy-labs.github.io/weave/",
-    "title": "Weave: Merging based on language structure and not lines"
   },
   {
     "source": "hn",
@@ -73,6 +78,11 @@
     "source": "hn",
     "url": "https://www.wsj.com/tech/ai/amazon-ceos-talks-with-u-s-officials-triggered-crackdown-on-anthropic-models-dcc90578?st=Yct6gx&reflink=desktopwebshare_permalink",
     "title": "Amazon CEO's talks with U.S. officials triggered crackdown on Anthropic models"
+  },
+  {
+    "source": "hn",
+    "url": "https://replicated.wiki/blog/uris.html",
+    "title": "Beagle: Git, URIs and all the dirty words"
   },
   {
     "source": "hn",
@@ -88,21 +98,6 @@
     "source": "hn",
     "url": "https://lr0.org/blog/p/arabic/",
     "title": "The experience of rendering Arabic typography and its technical debt"
-  },
-  {
-    "source": "hn",
-    "url": "https://brentfitzgerald.com/posts/appreciating-exif/",
-    "title": "Appreciating Exif"
-  },
-  {
-    "source": "hn",
-    "url": "https://stephen.bochinski.dev/blog/2026/06/13/ai-coding-at-home-without-going-broke/",
-    "title": "AI coding at home without going broke"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.righto.com/2026/06/intel-8087-adder-reverse-engineered.html",
-    "title": "The adder at the heart of Intel's 8087 floating-point chip"
   },
   {
     "source": "lobsters",
@@ -136,13 +131,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://blog.runevision.com/2026/06/point-cloud-sound-for-irregular-shaped.html",
-    "title": "Point Cloud Sound for irregular shaped audio sources"
+    "url": "https://inside.java/2026/06/11/thesis-simplify-weak-reference-processing-zgc/",
+    "title": "Simplifying Weak Reference Processing in ZGC"
   },
   {
     "source": "lobsters",
-    "url": "https://www.datawill.io/posts/2026-06-my-agent-workflow/",
-    "title": "Talk more to your coding agents"
+    "url": "https://blog.runevision.com/2026/06/point-cloud-sound-for-irregular-shaped.html",
+    "title": "Point Cloud Sound for irregular shaped audio sources"
   },
   {
     "source": "lobsters",
@@ -151,13 +146,23 @@
   },
   {
     "source": "lobsters",
-    "url": "https://gitlab.haskell.org/ghc/ghc/-/wikis/commentary/coding-style#2-using-notes",
-    "title": "Using Notes in the Glasgow Haskell Compiler"
+    "url": "https://www.datawill.io/posts/2026-06-my-agent-workflow/",
+    "title": "Talk more to your coding agents"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://brentfitzgerald.com/posts/appreciating-exif/",
+    "title": "Appreciating EXIF"
   },
   {
     "source": "lobsters",
     "url": "https://cauenapier.com/blog/townsquare_release/",
     "title": "Turn your site into a place people can bump into each other"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://gitlab.haskell.org/ghc/ghc/-/wikis/commentary/coding-style#2-using-notes",
+    "title": "Using Notes in the Glasgow Haskell Compiler"
   },
   {
     "source": "lobsters",
