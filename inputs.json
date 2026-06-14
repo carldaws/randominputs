@@ -2,7 +2,17 @@
   {
     "source": "hn",
     "url": "https://juniperspring.org/posts/honda-evil-valet/",
-    "title": "10th Gen Honda Civic Updates Are Signed with AOSP Test Keys"
+    "title": "Honda Civics and the Evil Valet"
+  },
+  {
+    "source": "hn",
+    "url": "http://tribblix.org/",
+    "title": "Tribblix: The retro Illumos distribution"
+  },
+  {
+    "source": "hn",
+    "url": "https://sqltoerdiagram.com/",
+    "title": "Free SQL→ER diagram tool, runs in the browser, nothing uploaded"
   },
   {
     "source": "hn",
@@ -11,8 +21,13 @@
   },
   {
     "source": "hn",
-    "url": "http://tribblix.org/",
-    "title": "Tribblix: the retro illumos distribution"
+    "url": "https://garrit.xyz/posts/2026-06-13-pac-man-but-you-re-the-ghost",
+    "title": "Pac-Man, but you're the ghost"
+  },
+  {
+    "source": "hn",
+    "url": "https://garrit.xyz/posts/2026-05-06-dont-trust-large-context-windows",
+    "title": "Don't trust large context windows"
   },
   {
     "source": "hn",
@@ -31,11 +46,6 @@
   },
   {
     "source": "hn",
-    "url": "https://garrit.xyz/posts/2026-06-13-pac-man-but-you-re-the-ghost",
-    "title": "Pac-Man, but You're the Ghost"
-  },
-  {
-    "source": "hn",
     "url": "https://blog.pyodide.org/posts/314-release/",
     "title": "Pyodide 314.0: Python packages can now publish WebAssembly wheels to PyPI"
   },
@@ -46,8 +56,13 @@
   },
   {
     "source": "hn",
-    "url": "https://igor-blue.github.io/2021/03/24/apt1.html",
-    "title": "Apt Encounters of the Third Kind"
+    "url": "https://inventingthefuture.ghost.io/laserwriter-seeds/",
+    "title": "LaserWriter Seeds"
+  },
+  {
+    "source": "hn",
+    "url": "https://tcrf.net/Workboy",
+    "title": "GameBoy Workboy"
   },
   {
     "source": "hn",
@@ -56,8 +71,8 @@
   },
   {
     "source": "hn",
-    "url": "https://tcrf.net/Workboy",
-    "title": "GameBoy Workboy"
+    "url": "https://www.thedrive.com/news/meet-the-neat-little-vehicles-that-run-a-cemetery",
+    "title": "The Neat Little Vehicles That Run a Cemetery"
   },
   {
     "source": "hn",
@@ -71,23 +86,13 @@
   },
   {
     "source": "hn",
-    "url": "https://borretti.me/article/human-routers-of-machine-words",
-    "title": "Human Routers of Machine Words"
-  },
-  {
-    "source": "hn",
     "url": "https://imil.net/blog/posts/2026/rtx-5080-+-rtx-3090-setup-80+-tok-s-on-qwen-3.6-27b-q8/",
     "title": "RTX 5080 and RTX 3090 Setup: 80 Tok/s on Qwen 3.6 27B Q8"
   },
   {
     "source": "hn",
-    "url": "https://sqltoerdiagram.com/",
-    "title": "Free SQL→ER diagram tool, runs in the browser, nothing uploaded"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.righto.com/2026/06/intel-8087-adder-reverse-engineered.html",
-    "title": "The adder at the heart of Intel's 8087 floating-point chip"
+    "url": "https://igor-blue.github.io/2021/03/24/apt1.html",
+    "title": "Apt Encounters of the Third Kind"
   },
   {
     "source": "lobsters",
@@ -116,11 +121,6 @@
   },
   {
     "source": "lobsters",
-    "url": "https://cauenapier.com/blog/townsquare_release/",
-    "title": "Turn your site into a place people can bump into each other"
-  },
-  {
-    "source": "lobsters",
     "url": "https://www.datawill.io/posts/2026-06-my-agent-workflow/",
     "title": "Talk more to your coding agents"
   },
@@ -131,8 +131,8 @@
   },
   {
     "source": "lobsters",
-    "url": "http://www.righto.com/2026/06/intel-8087-adder-reverse-engineered.html",
-    "title": "The adder at the heart of Intel's 8087 floating-point chip"
+    "url": "https://cauenapier.com/blog/townsquare_release/",
+    "title": "Turn your site into a place people can bump into each other"
   },
   {
     "source": "lobsters",
@@ -141,8 +141,18 @@
   },
   {
     "source": "lobsters",
+    "url": "http://www.righto.com/2026/06/intel-8087-adder-reverse-engineered.html",
+    "title": "The adder at the heart of Intel's 8087 floating-point chip"
+  },
+  {
+    "source": "lobsters",
     "url": "https://www.philipzucker.com/lifting_egraph/",
     "title": "Lifting E-Graphs"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://randomascii.wordpress.com/2012/03/21/intermediate-floating-point-precision/",
+    "title": "Intermediate Floating-Point Precision"
   },
   {
     "source": "lobsters",
@@ -153,10 +163,5 @@
     "source": "lobsters",
     "url": "https://noteflakes.com/articles/2026-06-13-syntropy",
     "title": "Software as Craft: a First Look at Syntropy"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://branchtaken.com/reports/aplr1/aplr1",
-    "title": "The APLR(1) Algorithm for Generating Compact LR(1) Parsers is Simpler and More Capable than IELR(1)"
   }
 ]
