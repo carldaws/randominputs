@@ -1,13 +1,18 @@
 [
   {
     "source": "hn",
+    "url": "https://juniperspring.org/posts/honda-evil-valet/",
+    "title": "10th Gen Honda Civic Updates Are Signed with AOSP Test Keys"
+  },
+  {
+    "source": "hn",
     "url": "https://desfontain.es/blog/banning-noise.html",
     "title": "Noise infusion banned from statistical products published by Census Bureau"
   },
   {
     "source": "hn",
-    "url": "https://juniperspring.org/posts/honda-evil-valet/",
-    "title": "10th Gen Honda Civic Updates Are Signed with AOSP Test Keys"
+    "url": "http://tribblix.org/",
+    "title": "Tribblix: the retro illumos distribution"
   },
   {
     "source": "hn",
@@ -16,13 +21,8 @@
   },
   {
     "source": "hn",
-    "url": "https://blog.pyodide.org/posts/314-release/",
-    "title": "Pyodide 314.0: Python packages can now publish WebAssembly wheels to PyPI"
-  },
-  {
-    "source": "hn",
-    "url": "https://tcrf.net/Workboy",
-    "title": "GameBoy Workboy"
+    "url": "http://oldvcr.blogspot.com/2026/06/building-serial-and-vga-everything.html",
+    "title": "Building a serial and VGA \"everything console\""
   },
   {
     "source": "hn",
@@ -31,8 +31,23 @@
   },
   {
     "source": "hn",
-    "url": "https://chrisdevblog.com/2026/06/08/running-dos-on-behringers-ddx3216-using-a-diy-x86-bios/",
-    "title": "Running DOS on Behringers DDX3216 with a DIY x86-Bios from Scratch"
+    "url": "https://garrit.xyz/posts/2026-06-13-pac-man-but-you-re-the-ghost",
+    "title": "Pac-Man, but You're the Ghost"
+  },
+  {
+    "source": "hn",
+    "url": "https://blog.pyodide.org/posts/314-release/",
+    "title": "Pyodide 314.0: Python packages can now publish WebAssembly wheels to PyPI"
+  },
+  {
+    "source": "hn",
+    "url": "https://ataraxy-labs.github.io/weave/",
+    "title": "Weave: Merging based on language structure and not lines"
+  },
+  {
+    "source": "hn",
+    "url": "https://igor-blue.github.io/2021/03/24/apt1.html",
+    "title": "Apt Encounters of the Third Kind"
   },
   {
     "source": "hn",
@@ -41,8 +56,13 @@
   },
   {
     "source": "hn",
-    "url": "https://www.npr.org/2026/06/13/nx-s1-5856385/sunscreen-skin-protection-bemotrizinol",
-    "title": "4 things to know about the new sunscreen ingredient the FDA approved"
+    "url": "https://tcrf.net/Workboy",
+    "title": "GameBoy Workboy"
+  },
+  {
+    "source": "hn",
+    "url": "https://chrisdevblog.com/2026/06/08/running-dos-on-behringers-ddx3216-using-a-diy-x86-bios/",
+    "title": "Running DOS on Behringers DDX3216 with a DIY x86-Bios from Scratch"
   },
   {
     "source": "hn",
@@ -51,23 +71,8 @@
   },
   {
     "source": "hn",
-    "url": "https://www.righto.com/2026/06/intel-8087-adder-reverse-engineered.html",
-    "title": "The adder at the heart of Intel's 8087 floating-point chip"
-  },
-  {
-    "source": "hn",
     "url": "https://borretti.me/article/human-routers-of-machine-words",
     "title": "Human Routers of Machine Words"
-  },
-  {
-    "source": "hn",
-    "url": "https://jerrylparker.com/blogs/posts/sx-64.html",
-    "title": "Resurrecting a soaked, corroded, and damaged Commodore SX‑64 (2025)"
-  },
-  {
-    "source": "hn",
-    "url": "https://lr0.org/blog/p/arabic/",
-    "title": "The experience of rendering Arabic typography and its technical debt"
   },
   {
     "source": "hn",
@@ -76,18 +81,13 @@
   },
   {
     "source": "hn",
-    "url": "https://bkaradzic.github.io/posts/orthodoxc++/",
-    "title": "Orthodox C++ (2016)"
+    "url": "https://sqltoerdiagram.com/",
+    "title": "Free SQL→ER diagram tool, runs in the browser, nothing uploaded"
   },
   {
     "source": "hn",
-    "url": "https://stephen.bochinski.dev/blog/2026/06/13/ai-coding-at-home-without-going-broke/",
-    "title": "AI coding at home without going broke"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.wired.com/story/mark-zuckerberg-meta-employee-meeting-interrupt-ai/",
-    "title": "'Tell Him He's a Piece of Shit': Meta's New AI Unit Is a Total Mess"
+    "url": "https://www.righto.com/2026/06/intel-8087-adder-reverse-engineered.html",
+    "title": "The adder at the heart of Intel's 8087 floating-point chip"
   },
   {
     "source": "lobsters",
@@ -96,18 +96,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://opensourceaimustwin.com",
-    "title": "Opensource AI Must Win"
-  },
-  {
-    "source": "lobsters",
-    "url": "http://oldvcr.blogspot.com/2026/06/building-serial-and-vga-everything.html",
-    "title": "Building a serial and VGA \"everything console\""
-  },
-  {
-    "source": "lobsters",
     "url": "https://matthewbutterick.com/extinction-level-capitalism.html",
     "title": "Extinction-level capitalism"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://opensourceaimustwin.com",
+    "title": "Opensource AI Must Win"
   },
   {
     "source": "lobsters",
@@ -116,13 +111,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://cauenapier.com/blog/townsquare_release/",
-    "title": "Turn your site into a place people can bump into each other"
+    "url": "https://blog.cryptographyengineering.com/2026/06/09/apples-siri-ai-or-more-shouting-into-the-void-about-private-agents/",
+    "title": "The future of Siri, or: why private inference isn’t private enough"
   },
   {
     "source": "lobsters",
-    "url": "http://www.righto.com/2026/06/intel-8087-adder-reverse-engineered.html",
-    "title": "The adder at the heart of Intel's 8087 floating-point chip"
+    "url": "https://cauenapier.com/blog/townsquare_release/",
+    "title": "Turn your site into a place people can bump into each other"
   },
   {
     "source": "lobsters",
@@ -131,13 +126,28 @@
   },
   {
     "source": "lobsters",
+    "url": "https://www.homepages.ucl.ac.uk/~ucecesf/blog/20260602.html",
+    "title": "Emacs rec mode, an all-text database system"
+  },
+  {
+    "source": "lobsters",
+    "url": "http://www.righto.com/2026/06/intel-8087-adder-reverse-engineered.html",
+    "title": "The adder at the heart of Intel's 8087 floating-point chip"
+  },
+  {
+    "source": "lobsters",
     "url": "https://gitlab.haskell.org/ghc/ghc/-/wikis/commentary/coding-style#2-using-notes",
     "title": "Using Notes in the Glasgow Haskell Compiler"
   },
   {
     "source": "lobsters",
-    "url": "https://www.homepages.ucl.ac.uk/~ucecesf/blog/20260602.html",
-    "title": "Emacs rec mode, an all-text database system"
+    "url": "https://www.philipzucker.com/lifting_egraph/",
+    "title": "Lifting E-Graphs"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://martypc.blogspot.com/2025/05/emulator-debugging-area-5150s-lake.html",
+    "title": "Emulator Debugging: Area 5150's Lake Effect"
   },
   {
     "source": "lobsters",
