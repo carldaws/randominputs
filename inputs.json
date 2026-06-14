@@ -16,11 +16,6 @@
   },
   {
     "source": "hn",
-    "url": "https://tcrf.net/Workboy",
-    "title": "GameBoy Workboy"
-  },
-  {
-    "source": "hn",
     "url": "https://chrisdevblog.com/2026/06/08/running-dos-on-behringers-ddx3216-using-a-diy-x86-bios/",
     "title": "Running DOS on Behringers DDX3216 with a DIY x86-Bios from Scratch"
   },
@@ -31,8 +26,13 @@
   },
   {
     "source": "hn",
-    "url": "https://jerrylparker.com/blogs/posts/sx-64.html",
-    "title": "Resurrecting a Soaked, corroded, and damaged Commodore SX‑64 (2025)"
+    "url": "https://tcrf.net/Workboy",
+    "title": "GameBoy Workboy"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.npr.org/2026/06/13/nx-s1-5856385/sunscreen-skin-protection-bemotrizinol",
+    "title": "4 things to know about the new sunscreen ingredient the FDA approved"
   },
   {
     "source": "hn",
@@ -46,18 +46,8 @@
   },
   {
     "source": "hn",
-    "url": "https://imil.net/blog/posts/2026/rtx-5080-+-rtx-3090-setup-80+-tok-s-on-qwen-3.6-27b-q8/",
-    "title": "RTX 5080 and RTX 3090 Setup: 80 Tok/s on Qwen 3.6 27B Q8"
-  },
-  {
-    "source": "hn",
-    "url": "https://runmat.com/blog/inside-runmat-runtime-compiler-pipeline",
-    "title": "Rust-like compiler pipeline to resolve Matlab language semantics"
-  },
-  {
-    "source": "hn",
-    "url": "https://lr0.org/blog/p/arabic/",
-    "title": "The experience of rendering Arabic typography and its technical debt"
+    "url": "https://jerrylparker.com/blogs/posts/sx-64.html",
+    "title": "Resurrecting a soaked, corroded, and damaged Commodore SX‑64 (2025)"
   },
   {
     "source": "hn",
@@ -66,13 +56,18 @@
   },
   {
     "source": "hn",
-    "url": "https://bkaradzic.github.io/posts/orthodoxc++/",
-    "title": "Orthodox C++ (2016)"
+    "url": "https://imil.net/blog/posts/2026/rtx-5080-+-rtx-3090-setup-80+-tok-s-on-qwen-3.6-27b-q8/",
+    "title": "RTX 5080 and RTX 3090 Setup: 80 Tok/s on Qwen 3.6 27B Q8"
   },
   {
     "source": "hn",
-    "url": "https://47calc.com/index.html",
-    "title": "C47/R47 Calculators"
+    "url": "https://lr0.org/blog/p/arabic/",
+    "title": "The experience of rendering Arabic typography and its technical debt"
+  },
+  {
+    "source": "hn",
+    "url": "https://bkaradzic.github.io/posts/orthodoxc++/",
+    "title": "Orthodox C++ (2016)"
   },
   {
     "source": "hn",
@@ -86,8 +81,8 @@
   },
   {
     "source": "hn",
-    "url": "https://new.roman-names.com/",
-    "title": "Show HN: I am building a map of people who lived in the Roman Empire"
+    "url": "https://47calc.com/index.html",
+    "title": "C47/R47 Calculators"
   },
   {
     "source": "lobsters",
@@ -106,13 +101,18 @@
   },
   {
     "source": "lobsters",
-    "url": "https://cauenapier.com/blog/townsquare_release/",
-    "title": "Turn your site into a place people can bump into each other"
+    "url": "https://webxdc.org/",
+    "title": "Webxdc - Secure mini apps for chats"
   },
   {
     "source": "lobsters",
-    "url": "https://webxdc.org/",
-    "title": "Webxdc - Secure mini apps for chats"
+    "url": "http://oldvcr.blogspot.com/2026/06/building-serial-and-vga-everything.html",
+    "title": "Building an serial and VGA \"everything console\""
+  },
+  {
+    "source": "lobsters",
+    "url": "https://cauenapier.com/blog/townsquare_release/",
+    "title": "Turn your site into a place people can bump into each other"
   },
   {
     "source": "lobsters",
@@ -121,8 +121,18 @@
   },
   {
     "source": "lobsters",
+    "url": "http://www.righto.com/2026/06/intel-8087-adder-reverse-engineered.html",
+    "title": "The adder at the heart of Intel's 8087 floating-point chip"
+  },
+  {
+    "source": "lobsters",
     "url": "https://gitlab.haskell.org/ghc/ghc/-/wikis/commentary/coding-style#2-using-notes",
     "title": "Using Notes in the Glasgow Haskell Compiler"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://www.homepages.ucl.ac.uk/~ucecesf/blog/20260602.html",
+    "title": "Emacs rec mode, an all-text database system"
   },
   {
     "source": "lobsters",
@@ -133,20 +143,5 @@
     "source": "lobsters",
     "url": "https://branchtaken.com/reports/aplr1/aplr1",
     "title": "The APLR(1) Algorithm for Generating Compact LR(1) Parsers is Simpler and More Capable than IELR(1)"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://jonot.me/posts/zig-gba/",
-    "title": "Why I Wrote a Game Boy Advance Game in Zig (2024)"
-  },
-  {
-    "source": "lobsters",
-    "url": "http://www.righto.com/2026/06/intel-8087-adder-reverse-engineered.html",
-    "title": "The adder at the heart of Intel's 8087 floating-point chip"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://tombedor.dev/human-attention-and-human-effort/",
-    "title": "If you are asking for human attention, demonstrate human effort"
   }
 ]
