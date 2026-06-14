@@ -6,11 +6,6 @@
   },
   {
     "source": "hn",
-    "url": "http://tribblix.org/",
-    "title": "Tribblix: The retro Illumos distribution"
-  },
-  {
-    "source": "hn",
     "url": "https://sqltoerdiagram.com/",
     "title": "Free SQL→ER diagram tool, runs in the browser, nothing uploaded"
   },
@@ -21,11 +16,6 @@
   },
   {
     "source": "hn",
-    "url": "https://garrit.xyz/posts/2026-06-13-pac-man-but-you-re-the-ghost",
-    "title": "Pac-Man, but you're the ghost"
-  },
-  {
-    "source": "hn",
     "url": "https://garrit.xyz/posts/2026-05-06-dont-trust-large-context-windows",
     "title": "Don't trust large context windows"
   },
@@ -33,6 +23,26 @@
     "source": "hn",
     "url": "https://tonsky.me/blog/every-frame-perfect/",
     "title": "Every Frame Perfect"
+  },
+  {
+    "source": "hn",
+    "url": "http://tribblix.org/",
+    "title": "Tribblix: The retro Illumos distribution"
+  },
+  {
+    "source": "hn",
+    "url": "https://replicated.wiki/blog/uris.html",
+    "title": "Beagle: Git, URIs and all the dirty words"
+  },
+  {
+    "source": "hn",
+    "url": "https://garrit.xyz/posts/2026-06-13-pac-man-but-you-re-the-ghost",
+    "title": "Pac-Man, but you're the ghost"
+  },
+  {
+    "source": "hn",
+    "url": "https://phys.org/news/2026-05-historic-monasteries-digital-countries.html",
+    "title": "500-year-old monasteries outperform at digital transformation (U. of Zurich)"
   },
   {
     "source": "hn",
@@ -51,13 +61,13 @@
   },
   {
     "source": "hn",
-    "url": "https://ataraxy-labs.github.io/weave/",
-    "title": "Weave: Merging based on language structure and not lines"
+    "url": "https://inventingthefuture.ghost.io/laserwriter-seeds/",
+    "title": "LaserWriter seeds"
   },
   {
     "source": "hn",
-    "url": "https://inventingthefuture.ghost.io/laserwriter-seeds/",
-    "title": "LaserWriter Seeds"
+    "url": "https://ataraxy-labs.github.io/weave/",
+    "title": "Weave: Merging based on language structure and not lines"
   },
   {
     "source": "hn",
@@ -68,11 +78,6 @@
     "source": "hn",
     "url": "https://www.wsj.com/tech/ai/amazon-ceos-talks-with-u-s-officials-triggered-crackdown-on-anthropic-models-dcc90578?st=Yct6gx&reflink=desktopwebshare_permalink",
     "title": "Amazon CEO's talks with U.S. officials triggered crackdown on Anthropic models"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.thedrive.com/news/meet-the-neat-little-vehicles-that-run-a-cemetery",
-    "title": "The Neat Little Vehicles That Run a Cemetery"
   },
   {
     "source": "hn",
@@ -88,11 +93,6 @@
     "source": "hn",
     "url": "https://imil.net/blog/posts/2026/rtx-5080-+-rtx-3090-setup-80+-tok-s-on-qwen-3.6-27b-q8/",
     "title": "RTX 5080 and RTX 3090 Setup: 80 Tok/s on Qwen 3.6 27B Q8"
-  },
-  {
-    "source": "hn",
-    "url": "https://igor-blue.github.io/2021/03/24/apt1.html",
-    "title": "Apt Encounters of the Third Kind"
   },
   {
     "source": "lobsters",
@@ -111,18 +111,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://webxdc.org/",
-    "title": "Webxdc - Secure mini apps for chats"
-  },
-  {
-    "source": "lobsters",
     "url": "https://blog.cryptographyengineering.com/2026/06/09/apples-siri-ai-or-more-shouting-into-the-void-about-private-agents/",
     "title": "The future of Siri, or: why private inference isn’t private enough"
   },
   {
     "source": "lobsters",
-    "url": "https://www.datawill.io/posts/2026-06-my-agent-workflow/",
-    "title": "Talk more to your coding agents"
+    "url": "https://webxdc.org/",
+    "title": "Webxdc - Secure mini apps for chats"
   },
   {
     "source": "lobsters",
@@ -131,18 +126,23 @@
   },
   {
     "source": "lobsters",
+    "url": "https://www.datawill.io/posts/2026-06-my-agent-workflow/",
+    "title": "Talk more to your coding agents"
+  },
+  {
+    "source": "lobsters",
     "url": "https://cauenapier.com/blog/townsquare_release/",
     "title": "Turn your site into a place people can bump into each other"
   },
   {
     "source": "lobsters",
-    "url": "https://gitlab.haskell.org/ghc/ghc/-/wikis/commentary/coding-style#2-using-notes",
-    "title": "Using Notes in the Glasgow Haskell Compiler"
+    "url": "http://www.righto.com/2026/06/intel-8087-adder-reverse-engineered.html",
+    "title": "The adder at the heart of Intel's 8087 floating-point chip"
   },
   {
     "source": "lobsters",
-    "url": "http://www.righto.com/2026/06/intel-8087-adder-reverse-engineered.html",
-    "title": "The adder at the heart of Intel's 8087 floating-point chip"
+    "url": "https://gitlab.haskell.org/ghc/ghc/-/wikis/commentary/coding-style#2-using-notes",
+    "title": "Using Notes in the Glasgow Haskell Compiler"
   },
   {
     "source": "lobsters",
@@ -158,10 +158,5 @@
     "source": "lobsters",
     "url": "https://martypc.blogspot.com/2025/05/emulator-debugging-area-5150s-lake.html",
     "title": "Emulator Debugging: Area 5150's Lake Effect"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://noteflakes.com/articles/2026-06-13-syntropy",
-    "title": "Software as Craft: a First Look at Syntropy"
   }
 ]
