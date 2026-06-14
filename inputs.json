@@ -11,18 +11,28 @@
   },
   {
     "source": "hn",
+    "url": "https://guille.site/posts/space-cooling/",
+    "title": "Cooling in Space"
+  },
+  {
+    "source": "hn",
     "url": "https://desfontain.es/blog/banning-noise.html",
     "title": "Noise infusion banned from statistical products published by Census Bureau"
   },
   {
     "source": "hn",
-    "url": "https://garrit.xyz/posts/2026-05-06-dont-trust-large-context-windows",
-    "title": "Don't trust large context windows"
+    "url": "https://phys.org/news/2026-05-historic-monasteries-digital-countries.html",
+    "title": "500-year-old monasteries outperform at digital transformation (U. of Zurich)"
   },
   {
     "source": "hn",
     "url": "https://tonsky.me/blog/every-frame-perfect/",
     "title": "Every Frame Perfect"
+  },
+  {
+    "source": "hn",
+    "url": "https://garrit.xyz/posts/2026-05-06-dont-trust-large-context-windows",
+    "title": "Don't trust large context windows"
   },
   {
     "source": "hn",
@@ -36,13 +46,8 @@
   },
   {
     "source": "hn",
-    "url": "https://garrit.xyz/posts/2026-06-13-pac-man-but-you-re-the-ghost",
-    "title": "Pac-Man, but you're the ghost"
-  },
-  {
-    "source": "hn",
-    "url": "https://phys.org/news/2026-05-historic-monasteries-digital-countries.html",
-    "title": "500-year-old monasteries outperform at digital transformation (U. of Zurich)"
+    "url": "https://blog.pyodide.org/posts/314-release/",
+    "title": "Pyodide 314.0: Python packages can now publish WebAssembly wheels to PyPI"
   },
   {
     "source": "hn",
@@ -51,13 +56,8 @@
   },
   {
     "source": "hn",
-    "url": "https://theconsensus.dev/p/2026/06/06/python-3-14-garbage-collection-rigamarole.html",
-    "title": "Python 3.14 garbage collection rigamarole"
-  },
-  {
-    "source": "hn",
-    "url": "https://blog.pyodide.org/posts/314-release/",
-    "title": "Pyodide 314.0: Python packages can now publish WebAssembly wheels to PyPI"
+    "url": "https://garrit.xyz/posts/2026-06-13-pac-man-but-you-re-the-ghost",
+    "title": "Pac-Man, but you're the ghost"
   },
   {
     "source": "hn",
@@ -71,13 +71,13 @@
   },
   {
     "source": "hn",
-    "url": "https://tcrf.net/Workboy",
-    "title": "GameBoy Workboy"
+    "url": "https://www.wsj.com/tech/ai/amazon-ceos-talks-with-u-s-officials-triggered-crackdown-on-anthropic-models-dcc90578?st=Yct6gx&reflink=desktopwebshare_permalink",
+    "title": "Amazon CEO's talks with U.S. officials triggered crackdown on Anthropic models"
   },
   {
     "source": "hn",
-    "url": "https://www.wsj.com/tech/ai/amazon-ceos-talks-with-u-s-officials-triggered-crackdown-on-anthropic-models-dcc90578?st=Yct6gx&reflink=desktopwebshare_permalink",
-    "title": "Amazon CEO's talks with U.S. officials triggered crackdown on Anthropic models"
+    "url": "https://tcrf.net/Workboy",
+    "title": "GameBoy Workboy"
   },
   {
     "source": "hn",
@@ -86,13 +86,23 @@
   },
   {
     "source": "hn",
+    "url": "https://imil.net/blog/posts/2026/rtx-5080-+-rtx-3090-setup-80+-tok-s-on-qwen-3.6-27b-q8/",
+    "title": "RTX 5080 and RTX 3090 Setup: 80 Tok/s on Qwen 3.6 27B Q8"
+  },
+  {
+    "source": "hn",
     "url": "https://brentfitzgerald.com/posts/appreciating-exif/",
     "title": "Appreciating Exif"
   },
   {
     "source": "hn",
-    "url": "https://imil.net/blog/posts/2026/rtx-5080-+-rtx-3090-setup-80+-tok-s-on-qwen-3.6-27b-q8/",
-    "title": "RTX 5080 and RTX 3090 Setup: 80 Tok/s on Qwen 3.6 27B Q8"
+    "url": "https://stephen.bochinski.dev/blog/2026/06/13/ai-coding-at-home-without-going-broke/",
+    "title": "AI coding at home without going broke"
+  },
+  {
+    "source": "hn",
+    "url": "https://lr0.org/blog/p/arabic/",
+    "title": "The experience of rendering Arabic typography and its technical debt"
   },
   {
     "source": "lobsters",
@@ -106,13 +116,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://opensourceaimustwin.com",
-    "title": "Opensource AI Must Win"
+    "url": "https://blog.cryptographyengineering.com/2026/06/09/apples-siri-ai-or-more-shouting-into-the-void-about-private-agents/",
+    "title": "The future of Siri, or: why private inference isn’t private enough"
   },
   {
     "source": "lobsters",
-    "url": "https://blog.cryptographyengineering.com/2026/06/09/apples-siri-ai-or-more-shouting-into-the-void-about-private-agents/",
-    "title": "The future of Siri, or: why private inference isn’t private enough"
+    "url": "https://opensourceaimustwin.com",
+    "title": "Opensource AI Must Win"
   },
   {
     "source": "lobsters",
@@ -153,10 +163,5 @@
     "source": "lobsters",
     "url": "https://randomascii.wordpress.com/2012/03/21/intermediate-floating-point-precision/",
     "title": "Intermediate Floating-Point Precision"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://martypc.blogspot.com/2025/05/emulator-debugging-area-5150s-lake.html",
-    "title": "Emulator Debugging: Area 5150's Lake Effect"
   }
 ]
