@@ -6,8 +6,13 @@
   },
   {
     "source": "hn",
-    "url": "https://www.dailymail.com/news/article-15897903/measles-surge-utah-US-elimination-status.html",
-    "title": "Measles surge in Utah sparks fears US could undo decades of progress"
+    "url": "https://www.swissinfo.ch/eng/swiss-politics/swiss-voters-reject-proposal-to-cap-population-at-ten-million/91548146",
+    "title": "Swiss voters reject proposal to cap population at ten million"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.cs.yale.edu/homes/perlis-alan/quotes.html",
+    "title": "Perlisisms"
   },
   {
     "source": "hn",
@@ -21,13 +26,13 @@
   },
   {
     "source": "hn",
-    "url": "https://www.cs.yale.edu/homes/perlis-alan/quotes.html",
-    "title": "Perlisisms"
+    "url": "https://blog.janestreet.com/formal-methods-at-jane-street-index/?from_theconsensus=1",
+    "title": "Formal Methods and the Future of Programming"
   },
   {
     "source": "hn",
-    "url": "https://blog.janestreet.com/formal-methods-at-jane-street-index/?from_theconsensus=1",
-    "title": "Formal Methods and the Future of Programming"
+    "url": "https://lisyarus.github.io/blog/posts/quivers-a-year-of-linear-algebra-by-drawing-arrows.html",
+    "title": "Quivers: A year of linear algebra by drawing arrows"
   },
   {
     "source": "hn",
@@ -36,13 +41,13 @@
   },
   {
     "source": "hn",
-    "url": "https://paulgraham.com/earn.html",
-    "title": "How to Earn a Billion Dollars"
+    "url": "https://mgunlogson.github.io/magma/",
+    "title": "Show HN: 3D print Z reinforcement via injected loops"
   },
   {
     "source": "hn",
-    "url": "https://mgunlogson.github.io/magma/",
-    "title": "Show HN: 3D print Z reinforcement via injected loops"
+    "url": "https://paulgraham.com/earn.html",
+    "title": "How to Earn a Billion Dollars"
   },
   {
     "source": "hn",
@@ -70,11 +75,6 @@
     "title": "Historic co-determination helps monasteries navigate digital change"
   },
   {
-    "source": "hn",
-    "url": "https://byorgey.wordpress.com/2018/05/06/conversations-with-a-six-year-old-on-functional-programming/",
-    "title": "Conversations with a six-year-old on functional programming (2018)"
-  },
-  {
     "source": "lobsters",
     "url": "https://tonsky.me/blog/every-frame-perfect/",
     "title": "Every Frame Perfect"
@@ -88,6 +88,11 @@
     "source": "lobsters",
     "url": "https://blog.cryptographyengineering.com/2026/06/09/apples-siri-ai-or-more-shouting-into-the-void-about-private-agents/",
     "title": "The future of Siri, or: why private inference isn’t private enough"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://www.rntz.net/post/my-thesis.html",
+    "title": "Deconstructing Datalog"
   },
   {
     "source": "lobsters",
@@ -121,8 +126,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://blog.tenstral.net/2026/06/introducing-pkgcli-a-nicer-command-line-interface-for-packagekit.html",
-    "title": "pkgcli: A command-line interface for PackageKit"
+    "url": "https://inside.java/2026/06/11/thesis-simplify-weak-reference-processing-zgc/",
+    "title": "Simplifying Weak Reference Processing in ZGC"
   },
   {
     "source": "lobsters",
@@ -131,13 +136,13 @@
   },
   {
     "source": "lobsters",
-    "url": "http://smalldatum.blogspot.com/2026/06/write-heavy-sysbench-tests-large-server.html",
-    "title": "Write-heavy sysbench tests, a large server, modern Postgres and MySQL"
+    "url": "https://blog.tenstral.net/2026/06/introducing-pkgcli-a-nicer-command-line-interface-for-packagekit.html",
+    "title": "pkgcli: A command-line interface for PackageKit"
   },
   {
     "source": "lobsters",
-    "url": "https://inside.java/2026/06/11/thesis-simplify-weak-reference-processing-zgc/",
-    "title": "Simplifying Weak Reference Processing in ZGC"
+    "url": "http://smalldatum.blogspot.com/2026/06/write-heavy-sysbench-tests-large-server.html",
+    "title": "Write-heavy sysbench tests, a large server, modern Postgres and MySQL"
   },
   {
     "source": "lobsters",
@@ -163,10 +168,5 @@
     "source": "lobsters",
     "url": "https://cauenapier.com/blog/townsquare_release/",
     "title": "Turn your site into a place people can bump into each other"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://gitlab.haskell.org/ghc/ghc/-/wikis/commentary/coding-style#2-using-notes",
-    "title": "Using Notes in the Glasgow Haskell Compiler"
   }
 ]
