@@ -6,18 +6,33 @@
   },
   {
     "source": "hn",
-    "url": "https://su3.io/posts/zeroserve-caddy-compat",
-    "title": "Caddy compatibility for zeroserve: 3x throughput and 70% lower latency"
-  },
-  {
-    "source": "hn",
     "url": "https://faroutcompany.com/",
     "title": "FarOutCompany"
   },
   {
     "source": "hn",
+    "url": "https://su3.io/posts/zeroserve-caddy-compat",
+    "title": "Caddy compatibility for zeroserve: 3x throughput and 70% lower latency"
+  },
+  {
+    "source": "hn",
+    "url": "https://blog.janestreet.com/formal-methods-at-jane-street-index/?from_theconsensus=1",
+    "title": "Formal Methods and the Future of Programming"
+  },
+  {
+    "source": "hn",
     "url": "https://arcadeblogger.com/2026/06/14/how-did-atari-apply-side-art-to-arcade-cabinets/",
     "title": "How did Atari apply side art to Arcade Cabinets?"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.cs.yale.edu/homes/perlis-alan/quotes.html",
+    "title": "Perlisisms"
+  },
+  {
+    "source": "hn",
+    "url": "https://paulgraham.com/earn.html",
+    "title": "How to Earn a Billion Dollars"
   },
   {
     "source": "hn",
@@ -31,13 +46,8 @@
   },
   {
     "source": "hn",
-    "url": "https://paulgraham.com/earn.html",
-    "title": "How to Earn a Billion Dollars"
-  },
-  {
-    "source": "hn",
-    "url": "https://desfontain.es/blog/banning-noise.html",
-    "title": "Noise infusion banned from statistical products published by Census Bureau"
+    "url": "https://matthewbutterick.com/extinction-level-capitalism.html",
+    "title": "Extinction-Level Capitalism"
   },
   {
     "source": "hn",
@@ -46,13 +56,8 @@
   },
   {
     "source": "hn",
-    "url": "https://tonsky.me/blog/every-frame-perfect/",
-    "title": "Every Frame Perfect"
-  },
-  {
-    "source": "hn",
-    "url": "https://blog.janestreet.com/formal-methods-at-jane-street-index/?from_theconsensus=1",
-    "title": "Formal Methods and the Future of Programming"
+    "url": "https://byorgey.wordpress.com/2018/05/06/conversations-with-a-six-year-old-on-functional-programming/",
+    "title": "Conversations with a six-year-old on functional programming (2018)"
   },
   {
     "source": "hn",
@@ -75,24 +80,9 @@
     "title": "Python 3.14 garbage collection rigamarole"
   },
   {
-    "source": "hn",
-    "url": "https://blog.pyodide.org/posts/314-release/",
-    "title": "Pyodide 314.0: Python packages can now publish WebAssembly wheels to PyPI"
-  },
-  {
-    "source": "hn",
-    "url": "http://oldvcr.blogspot.com/2026/06/building-serial-and-vga-everything.html",
-    "title": "Building a serial and VGA \"everything console\""
-  },
-  {
-    "source": "hn",
-    "url": "https://byorgey.wordpress.com/2018/05/06/conversations-with-a-six-year-old-on-functional-programming/",
-    "title": "Conversations with a six-year-old on functional programming (2018)"
-  },
-  {
     "source": "lobsters",
-    "url": "https://matthewbutterick.com/extinction-level-capitalism.html",
-    "title": "Extinction-level capitalism"
+    "url": "https://tonsky.me/blog/every-frame-perfect/",
+    "title": "Every Frame Perfect"
   },
   {
     "source": "lobsters",
@@ -106,23 +96,33 @@
   },
   {
     "source": "lobsters",
+    "url": "https://desfontain.es/blog/banning-noise.html",
+    "title": "Banning noise will be a disaster for statistical data products"
+  },
+  {
+    "source": "lobsters",
+    "url": "http://oldvcr.blogspot.com/2026/06/building-serial-and-vga-everything.html",
+    "title": "Building a serial and VGA \"everything console\""
+  },
+  {
+    "source": "lobsters",
     "url": "https://opensourceaimustwin.com",
     "title": "Opensource AI Must Win"
   },
   {
     "source": "lobsters",
-    "url": "https://webxdc.org/",
-    "title": "Webxdc - Secure mini apps for chats"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://www.homepages.ucl.ac.uk/~ucecesf/blog/20260602.html",
-    "title": "Emacs rec mode, an all-text database system"
-  },
-  {
-    "source": "lobsters",
     "url": "https://blog.runevision.com/2026/06/point-cloud-sound-for-irregular-shaped.html",
     "title": "Point Cloud Sound for irregular shaped audio sources"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://blog.pyodide.org/posts/314-release/",
+    "title": "Pyodide 314.0: WebAssembly wheels for PyPI"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://webxdc.org/",
+    "title": "Webxdc - Secure mini apps for chats"
   },
   {
     "source": "lobsters",
@@ -133,6 +133,11 @@
     "source": "lobsters",
     "url": "https://inside.java/2026/06/11/thesis-simplify-weak-reference-processing-zgc/",
     "title": "Simplifying Weak Reference Processing in ZGC"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://www.homepages.ucl.ac.uk/~ucecesf/blog/20260602.html",
+    "title": "Emacs rec mode, an all-text database system"
   },
   {
     "source": "lobsters",
