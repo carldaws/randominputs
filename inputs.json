@@ -7,12 +7,7 @@
   {
     "source": "hn",
     "url": "https://aresluna.org/segmented-type/",
-    "title": "Not mine, but it's a website where you can use a segment display"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.cs.yale.edu/homes/perlis-alan/quotes.html",
-    "title": "Perlisisms"
+    "title": "Segmented type appreciation corner (2018)"
   },
   {
     "source": "hn",
@@ -21,8 +16,18 @@
   },
   {
     "source": "hn",
+    "url": "https://www.cs.yale.edu/homes/perlis-alan/quotes.html",
+    "title": "Perlisisms"
+  },
+  {
+    "source": "hn",
+    "url": "https://fulcrum.inc/2026/06/09/inverse-rubric-optimization.html",
+    "title": "Inverse Rubric Optimization: A testbed for agent science"
+  },
+  {
+    "source": "hn",
     "url": "https://blog.janestreet.com/formal-methods-at-jane-street-index/?from_theconsensus=1",
-    "title": "Formal Methods and the Future of Programming"
+    "title": "Formal methods and the future of programming"
   },
   {
     "source": "hn",
@@ -31,13 +36,13 @@
   },
   {
     "source": "hn",
-    "url": "https://mgunlogson.github.io/magma/",
-    "title": "Show HN: 3D print Z reinforcement via injected loops"
+    "url": "https://traceapp.info",
+    "title": "Show HN: Trace – Offline Mac meeting transcripts you can flag mid-call"
   },
   {
     "source": "hn",
-    "url": "https://paulgraham.com/earn.html",
-    "title": "How to earn a billion dollars"
+    "url": "https://mgunlogson.github.io/magma/",
+    "title": "Show HN: 3D print Z reinforcement via injected loops"
   },
   {
     "source": "hn",
@@ -46,8 +51,8 @@
   },
   {
     "source": "hn",
-    "url": "https://arcadeblogger.com/2026/06/14/how-did-atari-apply-side-art-to-arcade-cabinets/",
-    "title": "How did Atari apply side art to Arcade Cabinets?"
+    "url": "https://paulgraham.com/earn.html",
+    "title": "How to earn a billion dollars"
   },
   {
     "source": "hn",
@@ -61,8 +66,8 @@
   },
   {
     "source": "hn",
-    "url": "https://www.swissinfo.ch/eng/swiss-politics/swiss-voters-reject-proposal-to-cap-population-at-ten-million/91548146",
-    "title": "Swiss voters reject proposal to cap population at ten million"
+    "url": "https://arcadeblogger.com/2026/06/14/how-did-atari-apply-side-art-to-arcade-cabinets/",
+    "title": "How did Atari apply side art to Arcade Cabinets?"
   },
   {
     "source": "hn",
@@ -86,6 +91,11 @@
   },
   {
     "source": "lobsters",
+    "url": "https://karthinks.com/software/even-more-batteries-included-with-emacs/",
+    "title": "Even More Batteries Included With Emacs"
+  },
+  {
+    "source": "lobsters",
     "url": "https://slopscan.ava.pet/",
     "title": "repo-slopscore: Detecting AI/LLM contributions in git repositories via commit history analysis"
   },
@@ -93,11 +103,6 @@
     "source": "lobsters",
     "url": "https://blog.cryptographyengineering.com/2026/06/09/apples-siri-ai-or-more-shouting-into-the-void-about-private-agents/",
     "title": "The future of Siri, or: why private inference isn’t private enough"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://karthinks.com/software/even-more-batteries-included-with-emacs/",
-    "title": "Even More Batteries Included With Emacs | Karthinks"
   },
   {
     "source": "lobsters",
@@ -111,18 +116,23 @@
   },
   {
     "source": "lobsters",
-    "url": "https://inside.java/2026/06/11/thesis-simplify-weak-reference-processing-zgc/",
-    "title": "Simplifying Weak Reference Processing in ZGC"
-  },
-  {
-    "source": "lobsters",
     "url": "http://smalldatum.blogspot.com/2026/06/write-heavy-sysbench-tests-large-server.html",
     "title": "Write-heavy sysbench tests, a large server, modern Postgres and MySQL"
   },
   {
     "source": "lobsters",
+    "url": "https://inside.java/2026/06/11/thesis-simplify-weak-reference-processing-zgc/",
+    "title": "Simplifying Weak Reference Processing in ZGC"
+  },
+  {
+    "source": "lobsters",
     "url": "https://blog.pyodide.org/posts/314-release/",
     "title": "Pyodide 314.0: WebAssembly wheels for PyPI"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://webxdc.org/",
+    "title": "Webxdc - Secure mini apps for chats"
   },
   {
     "source": "lobsters",
@@ -136,18 +146,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://webxdc.org/",
-    "title": "Webxdc - Secure mini apps for chats"
+    "url": "https://www.homepages.ucl.ac.uk/~ucecesf/blog/20260602.html",
+    "title": "Emacs rec mode, an all-text database system"
   },
   {
     "source": "lobsters",
     "url": "https://blog.tenstral.net/2026/06/introducing-pkgcli-a-nicer-command-line-interface-for-packagekit.html",
     "title": "pkgcli: A command-line interface for PackageKit"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://www.homepages.ucl.ac.uk/~ucecesf/blog/20260602.html",
-    "title": "Emacs rec mode, an all-text database system"
   },
   {
     "source": "lobsters",
