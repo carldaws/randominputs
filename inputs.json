@@ -6,13 +6,23 @@
   },
   {
     "source": "hn",
-    "url": "https://faroutcompany.com/",
-    "title": "FarOutCompany"
+    "url": "https://www.dailymail.com/news/article-15897903/measles-surge-utah-US-elimination-status.html",
+    "title": "Measles surge in Utah sparks fears US could undo decades of progress"
   },
   {
     "source": "hn",
     "url": "https://su3.io/posts/zeroserve-caddy-compat",
     "title": "Caddy compatibility for zeroserve: 3x throughput and 70% lower latency"
+  },
+  {
+    "source": "hn",
+    "url": "https://faroutcompany.com/",
+    "title": "FarOutCompany"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.cs.yale.edu/homes/perlis-alan/quotes.html",
+    "title": "Perlisisms"
   },
   {
     "source": "hn",
@@ -26,13 +36,13 @@
   },
   {
     "source": "hn",
-    "url": "https://www.cs.yale.edu/homes/perlis-alan/quotes.html",
-    "title": "Perlisisms"
+    "url": "https://paulgraham.com/earn.html",
+    "title": "How to Earn a Billion Dollars"
   },
   {
     "source": "hn",
-    "url": "https://paulgraham.com/earn.html",
-    "title": "How to Earn a Billion Dollars"
+    "url": "https://mgunlogson.github.io/magma/",
+    "title": "Show HN: 3D print Z reinforcement via injected loops"
   },
   {
     "source": "hn",
@@ -51,6 +61,11 @@
   },
   {
     "source": "hn",
+    "url": "https://garrit.xyz/posts/2026-05-06-dont-trust-large-context-windows",
+    "title": "Don't trust large context windows"
+  },
+  {
+    "source": "hn",
     "url": "https://phys.org/news/2026-05-historic-monasteries-digital-countries.html",
     "title": "Historic co-determination helps monasteries navigate digital change"
   },
@@ -58,26 +73,6 @@
     "source": "hn",
     "url": "https://byorgey.wordpress.com/2018/05/06/conversations-with-a-six-year-old-on-functional-programming/",
     "title": "Conversations with a six-year-old on functional programming (2018)"
-  },
-  {
-    "source": "hn",
-    "url": "https://garrit.xyz/posts/2026-05-06-dont-trust-large-context-windows",
-    "title": "Don't trust large context windows"
-  },
-  {
-    "source": "hn",
-    "url": "https://garrit.xyz/posts/2026-06-13-pac-man-but-you-re-the-ghost",
-    "title": "Pac-Man, but you're the ghost"
-  },
-  {
-    "source": "hn",
-    "url": "http://tribblix.org/",
-    "title": "Tribblix: The retro Illumos distribution"
-  },
-  {
-    "source": "hn",
-    "url": "https://theconsensus.dev/p/2026/06/06/python-3-14-garbage-collection-rigamarole.html",
-    "title": "Python 3.14 garbage collection rigamarole"
   },
   {
     "source": "lobsters",
@@ -131,18 +126,28 @@
   },
   {
     "source": "lobsters",
-    "url": "https://inside.java/2026/06/11/thesis-simplify-weak-reference-processing-zgc/",
-    "title": "Simplifying Weak Reference Processing in ZGC"
-  },
-  {
-    "source": "lobsters",
     "url": "https://www.homepages.ucl.ac.uk/~ucecesf/blog/20260602.html",
     "title": "Emacs rec mode, an all-text database system"
   },
   {
     "source": "lobsters",
+    "url": "http://smalldatum.blogspot.com/2026/06/write-heavy-sysbench-tests-large-server.html",
+    "title": "Write-heavy sysbench tests, a large server, modern Postgres and MySQL"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://inside.java/2026/06/11/thesis-simplify-weak-reference-processing-zgc/",
+    "title": "Simplifying Weak Reference Processing in ZGC"
+  },
+  {
+    "source": "lobsters",
     "url": "https://www.datawill.io/posts/2026-06-my-agent-workflow/",
     "title": "Talk more to your coding agents"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://martypc.blogspot.com/2025/05/emulator-debugging-area-5150s-lake.html",
+    "title": "Emulator Debugging: Area 5150's Lake Effect"
   },
   {
     "source": "lobsters",
@@ -156,11 +161,6 @@
   },
   {
     "source": "lobsters",
-    "url": "https://martypc.blogspot.com/2025/05/emulator-debugging-area-5150s-lake.html",
-    "title": "Emulator Debugging: Area 5150's Lake Effect"
-  },
-  {
-    "source": "lobsters",
     "url": "https://cauenapier.com/blog/townsquare_release/",
     "title": "Turn your site into a place people can bump into each other"
   },
@@ -168,10 +168,5 @@
     "source": "lobsters",
     "url": "https://gitlab.haskell.org/ghc/ghc/-/wikis/commentary/coding-style#2-using-notes",
     "title": "Using Notes in the Glasgow Haskell Compiler"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://www.philipzucker.com/lifting_egraph/",
-    "title": "Lifting E-Graphs"
   }
 ]
