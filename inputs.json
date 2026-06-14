@@ -6,6 +6,21 @@
   },
   {
     "source": "hn",
+    "url": "https://su3.io/posts/zeroserve-caddy-compat",
+    "title": "Caddy compatibility for zeroserve: 3x throughput and 70% lower latency"
+  },
+  {
+    "source": "hn",
+    "url": "https://faroutcompany.com/",
+    "title": "FarOutCompany"
+  },
+  {
+    "source": "hn",
+    "url": "https://arcadeblogger.com/2026/06/14/how-did-atari-apply-side-art-to-arcade-cabinets/",
+    "title": "How did Atari apply side art to Arcade Cabinets?"
+  },
+  {
+    "source": "hn",
     "url": "https://sqltoerdiagram.com/",
     "title": "Free SQL→ER diagram tool, runs in the browser, nothing uploaded"
   },
@@ -16,8 +31,8 @@
   },
   {
     "source": "hn",
-    "url": "https://arcadeblogger.com/2026/06/14/how-did-atari-apply-side-art-to-arcade-cabinets/",
-    "title": "How did Atari apply side art to Arcade Cabinets?"
+    "url": "https://paulgraham.com/earn.html",
+    "title": "How to Earn a Billion Dollars"
   },
   {
     "source": "hn",
@@ -26,8 +41,18 @@
   },
   {
     "source": "hn",
+    "url": "https://phys.org/news/2026-05-historic-monasteries-digital-countries.html",
+    "title": "Historic co-determination helps monasteries navigate digital change"
+  },
+  {
+    "source": "hn",
     "url": "https://tonsky.me/blog/every-frame-perfect/",
     "title": "Every Frame Perfect"
+  },
+  {
+    "source": "hn",
+    "url": "https://blog.janestreet.com/formal-methods-at-jane-street-index/?from_theconsensus=1",
+    "title": "Formal Methods and the Future of Programming"
   },
   {
     "source": "hn",
@@ -36,8 +61,8 @@
   },
   {
     "source": "hn",
-    "url": "https://paulgraham.com/earn.html",
-    "title": "How to Earn a Billion Dollars"
+    "url": "https://garrit.xyz/posts/2026-06-13-pac-man-but-you-re-the-ghost",
+    "title": "Pac-Man, but you're the ghost"
   },
   {
     "source": "hn",
@@ -46,13 +71,8 @@
   },
   {
     "source": "hn",
-    "url": "https://garrit.xyz/posts/2026-06-13-pac-man-but-you-re-the-ghost",
-    "title": "Pac-Man, but you're the ghost"
-  },
-  {
-    "source": "hn",
-    "url": "http://oldvcr.blogspot.com/2026/06/building-serial-and-vga-everything.html",
-    "title": "Building a serial and VGA \"everything console\""
+    "url": "https://theconsensus.dev/p/2026/06/06/python-3-14-garbage-collection-rigamarole.html",
+    "title": "Python 3.14 garbage collection rigamarole"
   },
   {
     "source": "hn",
@@ -61,53 +81,23 @@
   },
   {
     "source": "hn",
-    "url": "https://theconsensus.dev/p/2026/06/06/python-3-14-garbage-collection-rigamarole.html",
-    "title": "Python 3.14 garbage collection rigamarole"
+    "url": "http://oldvcr.blogspot.com/2026/06/building-serial-and-vga-everything.html",
+    "title": "Building a serial and VGA \"everything console\""
   },
   {
     "source": "hn",
-    "url": "https://inventingthefuture.ghost.io/laserwriter-seeds/",
-    "title": "LaserWriter seeds"
-  },
-  {
-    "source": "hn",
-    "url": "https://tcrf.net/Workboy",
-    "title": "GameBoy Workboy"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.wsj.com/tech/ai/amazon-ceos-talks-with-u-s-officials-triggered-crackdown-on-anthropic-models-dcc90578?st=Yct6gx&reflink=desktopwebshare_permalink",
-    "title": "Amazon CEO's talks with U.S. officials triggered crackdown on Anthropic models"
-  },
-  {
-    "source": "hn",
-    "url": "https://replicated.wiki/blog/uris.html",
-    "title": "Beagle: Git, URIs and all the dirty words"
-  },
-  {
-    "source": "hn",
-    "url": "https://imil.net/blog/posts/2026/rtx-5080-+-rtx-3090-setup-80+-tok-s-on-qwen-3.6-27b-q8/",
-    "title": "RTX 5080 and RTX 3090 Setup: 80 Tok/s on Qwen 3.6 27B Q8"
-  },
-  {
-    "source": "hn",
-    "url": "https://chrisdevblog.com/2026/06/08/running-dos-on-behringers-ddx3216-using-a-diy-x86-bios/",
-    "title": "Running DOS on Behringers DDX3216 with a DIY x86-Bios from Scratch"
-  },
-  {
-    "source": "hn",
-    "url": "https://lr0.org/blog/p/arabic/",
-    "title": "The experience of rendering Arabic typography and its technical debt"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://slopscan.ava.pet/",
-    "title": "repo-slopscore: Detecting AI/LLM contributions in git repositories via commit history analysis"
+    "url": "https://byorgey.wordpress.com/2018/05/06/conversations-with-a-six-year-old-on-functional-programming/",
+    "title": "Conversations with a six-year-old on functional programming (2018)"
   },
   {
     "source": "lobsters",
     "url": "https://matthewbutterick.com/extinction-level-capitalism.html",
     "title": "Extinction-level capitalism"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://slopscan.ava.pet/",
+    "title": "repo-slopscore: Detecting AI/LLM contributions in git repositories via commit history analysis"
   },
   {
     "source": "lobsters",
@@ -131,11 +121,6 @@
   },
   {
     "source": "lobsters",
-    "url": "https://inside.java/2026/06/11/thesis-simplify-weak-reference-processing-zgc/",
-    "title": "Simplifying Weak Reference Processing in ZGC"
-  },
-  {
-    "source": "lobsters",
     "url": "https://blog.runevision.com/2026/06/point-cloud-sound-for-irregular-shaped.html",
     "title": "Point Cloud Sound for irregular shaped audio sources"
   },
@@ -146,13 +131,28 @@
   },
   {
     "source": "lobsters",
+    "url": "https://inside.java/2026/06/11/thesis-simplify-weak-reference-processing-zgc/",
+    "title": "Simplifying Weak Reference Processing in ZGC"
+  },
+  {
+    "source": "lobsters",
     "url": "https://www.datawill.io/posts/2026-06-my-agent-workflow/",
     "title": "Talk more to your coding agents"
   },
   {
     "source": "lobsters",
+    "url": "https://replicated.wiki/blog/uris.html",
+    "title": "Beagle SCM URIs and HTTP verbs with git"
+  },
+  {
+    "source": "lobsters",
     "url": "https://brentfitzgerald.com/posts/appreciating-exif/",
     "title": "Appreciating EXIF"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://martypc.blogspot.com/2025/05/emulator-debugging-area-5150s-lake.html",
+    "title": "Emulator Debugging: Area 5150's Lake Effect"
   },
   {
     "source": "lobsters",
@@ -168,10 +168,5 @@
     "source": "lobsters",
     "url": "https://www.philipzucker.com/lifting_egraph/",
     "title": "Lifting E-Graphs"
-  },
-  {
-    "source": "lobsters",
-    "url": "http://www.righto.com/2026/06/intel-8087-adder-reverse-engineered.html",
-    "title": "The adder at the heart of Intel's 8087 floating-point chip"
   }
 ]
