@@ -6,8 +6,8 @@
   },
   {
     "source": "hn",
-    "url": "https://www.swissinfo.ch/eng/swiss-politics/swiss-voters-reject-proposal-to-cap-population-at-ten-million/91548146",
-    "title": "Swiss voters reject proposal to cap population at ten million"
+    "url": "https://su3.io/posts/zeroserve-caddy-compat",
+    "title": "Caddy compatibility for zeroserve: 3x throughput and 70% lower latency"
   },
   {
     "source": "hn",
@@ -16,8 +16,8 @@
   },
   {
     "source": "hn",
-    "url": "https://su3.io/posts/zeroserve-caddy-compat",
-    "title": "Caddy compatibility for zeroserve: 3x throughput and 70% lower latency"
+    "url": "https://www.swissinfo.ch/eng/swiss-politics/swiss-voters-reject-proposal-to-cap-population-at-ten-million/91548146",
+    "title": "Swiss voters reject proposal to cap population at ten million"
   },
   {
     "source": "hn",
@@ -31,23 +31,23 @@
   },
   {
     "source": "hn",
-    "url": "https://lisyarus.github.io/blog/posts/quivers-a-year-of-linear-algebra-by-drawing-arrows.html",
-    "title": "Quivers: A year of linear algebra by drawing arrows"
-  },
-  {
-    "source": "hn",
-    "url": "https://arcadeblogger.com/2026/06/14/how-did-atari-apply-side-art-to-arcade-cabinets/",
-    "title": "How did Atari apply side art to Arcade Cabinets?"
-  },
-  {
-    "source": "hn",
     "url": "https://mgunlogson.github.io/magma/",
     "title": "Show HN: 3D print Z reinforcement via injected loops"
   },
   {
     "source": "hn",
+    "url": "https://lisyarus.github.io/blog/posts/quivers-a-year-of-linear-algebra-by-drawing-arrows.html",
+    "title": "Quivers: A year of linear algebra by drawing arrows"
+  },
+  {
+    "source": "hn",
     "url": "https://paulgraham.com/earn.html",
     "title": "How to Earn a Billion Dollars"
+  },
+  {
+    "source": "hn",
+    "url": "https://arcadeblogger.com/2026/06/14/how-did-atari-apply-side-art-to-arcade-cabinets/",
+    "title": "How did Atari apply side art to Arcade Cabinets?"
   },
   {
     "source": "hn",
@@ -61,18 +61,18 @@
   },
   {
     "source": "hn",
+    "url": "https://dir.dillo-browser.org/",
+    "title": "Dillo directory – Directory of useful sites that work reasonably well on Dillo"
+  },
+  {
+    "source": "hn",
     "url": "https://matthewbutterick.com/extinction-level-capitalism.html",
     "title": "Extinction-Level Capitalism"
   },
   {
-    "source": "hn",
-    "url": "https://garrit.xyz/posts/2026-05-06-dont-trust-large-context-windows",
-    "title": "Don't trust large context windows"
-  },
-  {
-    "source": "hn",
-    "url": "https://phys.org/news/2026-05-historic-monasteries-digital-countries.html",
-    "title": "Historic co-determination helps monasteries navigate digital change"
+    "source": "lobsters",
+    "url": "https://www.rntz.net/post/my-thesis.html",
+    "title": "Deconstructing Datalog"
   },
   {
     "source": "lobsters",
@@ -91,11 +91,6 @@
   },
   {
     "source": "lobsters",
-    "url": "https://www.rntz.net/post/my-thesis.html",
-    "title": "Deconstructing Datalog"
-  },
-  {
-    "source": "lobsters",
     "url": "https://desfontain.es/blog/banning-noise.html",
     "title": "Banning noise will be a disaster for statistical data products"
   },
@@ -106,23 +101,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://opensourceaimustwin.com",
-    "title": "Opensource AI Must Win"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://blog.runevision.com/2026/06/point-cloud-sound-for-irregular-shaped.html",
-    "title": "Point Cloud Sound for irregular shaped audio sources"
-  },
-  {
-    "source": "lobsters",
     "url": "https://blog.pyodide.org/posts/314-release/",
     "title": "Pyodide 314.0: WebAssembly wheels for PyPI"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://webxdc.org/",
-    "title": "Webxdc - Secure mini apps for chats"
   },
   {
     "source": "lobsters",
@@ -131,13 +111,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://www.homepages.ucl.ac.uk/~ucecesf/blog/20260602.html",
-    "title": "Emacs rec mode, an all-text database system"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://blog.tenstral.net/2026/06/introducing-pkgcli-a-nicer-command-line-interface-for-packagekit.html",
-    "title": "pkgcli: A command-line interface for PackageKit"
+    "url": "https://opensourceaimustwin.com",
+    "title": "Opensource AI Must Win"
   },
   {
     "source": "lobsters",
@@ -146,18 +121,28 @@
   },
   {
     "source": "lobsters",
+    "url": "https://blog.runevision.com/2026/06/point-cloud-sound-for-irregular-shaped.html",
+    "title": "Point Cloud Sound for irregular shaped audio sources"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://webxdc.org/",
+    "title": "Webxdc - Secure mini apps for chats"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://blog.tenstral.net/2026/06/introducing-pkgcli-a-nicer-command-line-interface-for-packagekit.html",
+    "title": "pkgcli: A command-line interface for PackageKit"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://www.homepages.ucl.ac.uk/~ucecesf/blog/20260602.html",
+    "title": "Emacs rec mode, an all-text database system"
+  },
+  {
+    "source": "lobsters",
     "url": "https://www.datawill.io/posts/2026-06-my-agent-workflow/",
     "title": "Talk more to your coding agents"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://martypc.blogspot.com/2025/05/emulator-debugging-area-5150s-lake.html",
-    "title": "Emulator Debugging: Area 5150's Lake Effect"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://replicated.wiki/blog/uris.html",
-    "title": "Beagle SCM URIs and HTTP verbs with git"
   },
   {
     "source": "lobsters",
@@ -166,7 +151,17 @@
   },
   {
     "source": "lobsters",
-    "url": "https://cauenapier.com/blog/townsquare_release/",
-    "title": "Turn your site into a place people can bump into each other"
+    "url": "https://martypc.blogspot.com/2025/05/emulator-debugging-area-5150s-lake.html",
+    "title": "Emulator Debugging: Area 5150's Lake Effect"
+  },
+  {
+    "source": "lobsters",
+    "url": "http://www.righto.com/2026/06/intel-8087-adder-reverse-engineered.html",
+    "title": "The adder at the heart of Intel's 8087 floating-point chip"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://replicated.wiki/blog/uris.html",
+    "title": "Beagle SCM URIs and HTTP verbs with git"
   }
 ]
