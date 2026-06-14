@@ -11,8 +11,13 @@
   },
   {
     "source": "hn",
-    "url": "https://aresluna.org/segmented-type/",
-    "title": "Segmented type appreciation corner (2018)"
+    "url": "https://0xkrt26.github.io/math_behind_security/2026/06/09/the-story-of-the-hash-function.html",
+    "title": "Chopped, Stored, Secured – The Story of the Hash Function"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.theregister.com/ai-and-ml/2026/06/14/ai-is-code-and-cant-be-prompted-into-being-smarter/5254141",
+    "title": "AI is code – and can't be prompted into being smarter"
   },
   {
     "source": "hn",
@@ -21,18 +26,23 @@
   },
   {
     "source": "hn",
-    "url": "https://www.cs.yale.edu/homes/perlis-alan/quotes.html",
-    "title": "Perlisisms (1982)"
-  },
-  {
-    "source": "hn",
     "url": "https://blog.janestreet.com/formal-methods-at-jane-street-index/?from_theconsensus=1",
     "title": "Formal methods and the future of programming"
   },
   {
     "source": "hn",
+    "url": "https://www.cs.yale.edu/homes/perlis-alan/quotes.html",
+    "title": "Perlisisms (1982)"
+  },
+  {
+    "source": "hn",
     "url": "https://faroutcompany.com/",
     "title": "FarOutCompany"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.orangecrumbs.com/",
+    "title": "Show HN: Discover Wikipedia articles popular on Hacker News"
   },
   {
     "source": "hn",
@@ -46,33 +56,8 @@
   },
   {
     "source": "hn",
-    "url": "https://www.theregister.com/ai-and-ml/2026/06/14/ai-is-code-and-cant-be-prompted-into-being-smarter/5254141",
-    "title": "AI is code – and can't be prompted into being smarter"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.orangecrumbs.com/",
-    "title": "Show HN: Discover Wikipedia articles popular on Hacker News"
-  },
-  {
-    "source": "hn",
     "url": "https://paulgraham.com/earn.html",
     "title": "How to earn a billion dollars"
-  },
-  {
-    "source": "hn",
-    "url": "https://yusufaytas.com/vibe-coder-vs-software-engineer",
-    "title": "Vibe Coder vs. Software Engineer"
-  },
-  {
-    "source": "hn",
-    "url": "https://axiommath.ai/territory/the-reveal",
-    "title": "Lattice Triangles Are Rare"
-  },
-  {
-    "source": "hn",
-    "url": "https://lisyarus.github.io/blog/posts/quivers-a-year-of-linear-algebra-by-drawing-arrows.html",
-    "title": "Quivers: A year of linear algebra by drawing arrows"
   },
   {
     "source": "lobsters",
@@ -81,13 +66,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://karthinks.com/software/even-more-batteries-included-with-emacs/",
-    "title": "Even More Batteries Included With Emacs"
+    "url": "https://zinnia-os.org/",
+    "title": "zinnia: a modular 64-bit Unix-like kernel written in Rust"
   },
   {
     "source": "lobsters",
-    "url": "https://zinnia-os.org/",
-    "title": "zinnia: a modular 64-bit Unix-like kernel written in Rust"
+    "url": "https://karthinks.com/software/even-more-batteries-included-with-emacs/",
+    "title": "Even More Batteries Included With Emacs"
   },
   {
     "source": "lobsters",
@@ -111,13 +96,13 @@
   },
   {
     "source": "lobsters",
-    "url": "http://oldvcr.blogspot.com/2026/06/building-serial-and-vga-everything.html",
-    "title": "Building a serial and VGA \"everything console\""
+    "url": "https://desfontain.es/blog/banning-noise.html",
+    "title": "Banning noise will be a disaster for statistical data products"
   },
   {
     "source": "lobsters",
-    "url": "https://desfontain.es/blog/banning-noise.html",
-    "title": "Banning noise will be a disaster for statistical data products"
+    "url": "http://oldvcr.blogspot.com/2026/06/building-serial-and-vga-everything.html",
+    "title": "Building a serial and VGA \"everything console\""
   },
   {
     "source": "lobsters",
@@ -171,7 +156,7 @@
   },
   {
     "source": "lobsters",
-    "url": "https://www.datawill.io/posts/2026-06-my-agent-workflow/",
-    "title": "Talk more to your coding agents"
+    "url": "https://martypc.blogspot.com/2025/05/emulator-debugging-area-5150s-lake.html",
+    "title": "Emulator Debugging: Area 5150's Lake Effect"
   }
 ]
