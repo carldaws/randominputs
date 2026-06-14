@@ -1,23 +1,23 @@
 [
   {
     "source": "hn",
-    "url": "https://juniperspring.org/posts/honda-evil-valet/",
-    "title": "Honda Civics and the Evil Valet"
-  },
-  {
-    "source": "hn",
     "url": "https://sqltoerdiagram.com/",
     "title": "Free SQL→ER diagram tool, runs in the browser, nothing uploaded"
   },
   {
     "source": "hn",
-    "url": "https://desfontain.es/blog/banning-noise.html",
-    "title": "Noise infusion banned from statistical products published by Census Bureau"
+    "url": "https://juniperspring.org/posts/honda-evil-valet/",
+    "title": "Honda Civics and the Evil Valet"
   },
   {
     "source": "hn",
     "url": "https://phys.org/news/2026-05-historic-monasteries-digital-countries.html",
     "title": "500-year-old monasteries outperform at digital transformation (U. of Zurich)"
+  },
+  {
+    "source": "hn",
+    "url": "https://desfontain.es/blog/banning-noise.html",
+    "title": "Noise infusion banned from statistical products published by Census Bureau"
   },
   {
     "source": "hn",
@@ -46,8 +46,8 @@
   },
   {
     "source": "hn",
-    "url": "https://replicated.wiki/blog/uris.html",
-    "title": "Beagle: Git, URIs and all the dirty words"
+    "url": "https://garrit.xyz/posts/2026-06-13-pac-man-but-you-re-the-ghost",
+    "title": "Pac-Man, but you're the ghost"
   },
   {
     "source": "hn",
@@ -56,8 +56,8 @@
   },
   {
     "source": "hn",
-    "url": "https://garrit.xyz/posts/2026-06-13-pac-man-but-you-re-the-ghost",
-    "title": "Pac-Man, but you're the ghost"
+    "url": "https://replicated.wiki/blog/uris.html",
+    "title": "Beagle: Git, URIs and all the dirty words"
   },
   {
     "source": "hn",
@@ -86,6 +86,11 @@
   },
   {
     "source": "hn",
+    "url": "https://lr0.org/blog/p/arabic/",
+    "title": "The experience of rendering Arabic typography and its technical debt"
+  },
+  {
+    "source": "hn",
     "url": "https://brentfitzgerald.com/posts/appreciating-exif/",
     "title": "Appreciating Exif"
   },
@@ -93,11 +98,6 @@
     "source": "hn",
     "url": "https://stephen.bochinski.dev/blog/2026/06/13/ai-coding-at-home-without-going-broke/",
     "title": "AI coding at home without going broke"
-  },
-  {
-    "source": "hn",
-    "url": "https://lr0.org/blog/p/arabic/",
-    "title": "The experience of rendering Arabic typography and its technical debt"
   },
   {
     "source": "hn",
@@ -136,13 +136,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://www.datawill.io/posts/2026-06-my-agent-workflow/",
-    "title": "Talk more to your coding agents"
+    "url": "https://blog.runevision.com/2026/06/point-cloud-sound-for-irregular-shaped.html",
+    "title": "Point Cloud Sound for irregular shaped audio sources"
   },
   {
     "source": "lobsters",
-    "url": "https://blog.runevision.com/2026/06/point-cloud-sound-for-irregular-shaped.html",
-    "title": "Point Cloud Sound for irregular shaped audio sources"
+    "url": "https://www.datawill.io/posts/2026-06-my-agent-workflow/",
+    "title": "Talk more to your coding agents"
   },
   {
     "source": "lobsters",
@@ -168,80 +168,5 @@
     "source": "lobsters",
     "url": "http://www.righto.com/2026/06/intel-8087-adder-reverse-engineered.html",
     "title": "The adder at the heart of Intel's 8087 floating-point chip"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://ikyle.me/blog/2026/how-to-setup-a-local-coding-agent-on-macos",
-    "title": "How to Setup a Local Coding Agent on macOS - Kyle Howells"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://tonedear.com/",
-    "title": "Ear Training"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://tombedor.dev/human-attention-and-human-effort/",
-    "title": "If You are Asking for Human Attention, Demonstrate Human Effort"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://mohkohn.co.uk/writing/html-first/",
-    "title": "How building an HTML-first site doubled our users overnight"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://simonwillison.net/2026/Jun/11/fable-is-relentlessly-proactive/",
-    "title": "Claude Fable is relentlessly proactive"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://daringfireball.net/2026/06/the_talk_show_live_from_wwdc_2026",
-    "title": "Daring Fireball: The Talk Show: Live From WWDC 2026"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://geolibre.app/",
-    "title": "GeoLibre"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://ianyepan.github.io/posts/emacs-in-pop-culture/",
-    "title": "Emacs Appearances in Pop Culture | Ian Y.E. Pan"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://aftermath.site/ians-shoelace-site-is-still-the-best-destination-for-tying-your-shoes/",
-    "title": "Ian's Is Still The Best Site For Tying Your Shoelaces"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.mayrhofer.eu.org/post/leaving-google/",
-    "title": "Why I’m Forced to Say Farewell: Google Management Has Lost Its Moral Compass | René Mayrhofer"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://pgdog.dev/",
-    "title": "Scale PostgreSQL horizontally | PgDog"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://news.ycombinator.com/item?id=48497609",
-    "title": "If you are asking for human attention, demonstrate human effort | Hacker News"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://doug.sh/posts/erm-a-local-cli-that-strips-ums-uhs-and-erms-from-speech/",
-    "title": "erm: A Local CLI That Strips Ums, Uhs, and Erms From Speech | doug.sh"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.makingsoftware.com/chapters/image-compression",
-    "title": "Making Software: Image compression."
-  },
-  {
-    "source": "pinboard",
-    "url": "https://daringfireball.net/2026/06/macos_27_golden_gate_removes_the_dumb_icons_from_menu_items",
-    "title": "Daring Fireball: MacOS 27 Golden Gate Removes the Dumb Icons From Menu Items"
   }
 ]
