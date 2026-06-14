@@ -36,13 +36,38 @@
   },
   {
     "source": "hn",
+    "url": "https://brentfitzgerald.com/posts/appreciating-exif/",
+    "title": "Appreciating Exif"
+  },
+  {
+    "source": "hn",
     "url": "https://www.righto.com/2026/06/intel-8087-adder-reverse-engineered.html",
     "title": "The adder at the heart of Intel's 8087 floating-point chip"
   },
   {
     "source": "hn",
-    "url": "https://brentfitzgerald.com/posts/appreciating-exif/",
-    "title": "Appreciating Exif"
+    "url": "https://imil.net/blog/posts/2026/rtx-5080-+-rtx-3090-setup-80+-tok-s-on-qwen-3.6-27b-q8/",
+    "title": "RTX 5080 and RTX 3090 Setup: 80 Tok/s on Qwen 3.6 27B Q8"
+  },
+  {
+    "source": "hn",
+    "url": "https://runmat.com/blog/inside-runmat-runtime-compiler-pipeline",
+    "title": "Rust-like compiler pipeline to resolve Matlab language semantics"
+  },
+  {
+    "source": "hn",
+    "url": "https://lr0.org/blog/p/arabic/",
+    "title": "The experience of rendering Arabic typography and its technical debt"
+  },
+  {
+    "source": "hn",
+    "url": "https://borretti.me/article/human-routers-of-machine-words",
+    "title": "Human Routers of Machine Words"
+  },
+  {
+    "source": "hn",
+    "url": "https://bkaradzic.github.io/posts/orthodoxc++/",
+    "title": "Orthodox C++ (2016)"
   },
   {
     "source": "hn",
@@ -56,33 +81,8 @@
   },
   {
     "source": "hn",
-    "url": "https://imil.net/blog/posts/2026/rtx-5080-+-rtx-3090-setup-80+-tok-s-on-qwen-3.6-27b-q8/",
-    "title": "RTX 5080 and RTX 3090 Setup: 80 Tok/s on Qwen 3.6 27B Q8"
-  },
-  {
-    "source": "hn",
-    "url": "https://bkaradzic.github.io/posts/orthodoxc++/",
-    "title": "Orthodox C++ (2016)"
-  },
-  {
-    "source": "hn",
-    "url": "https://lr0.org/blog/p/arabic/",
-    "title": "The experience of rendering Arabic typography and its technical debt"
-  },
-  {
-    "source": "hn",
     "url": "https://areweguiyet.com/#ecosystem",
     "title": "The state of building user interfaces in Rust"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.bloomberg.com/news/features/2026-06-12/india-s-extreme-heat-is-hurting-its-economy-and-workers",
-    "title": "What Happens to an Economy When It's Too Hot to Work?"
-  },
-  {
-    "source": "hn",
-    "url": "https://thoughtforms.life/trophic-memory-deer-and-a-truly-unique-scientific-object/",
-    "title": "Trophic memory, deer, and a unique scientific object"
   },
   {
     "source": "hn",
@@ -101,23 +101,23 @@
   },
   {
     "source": "lobsters",
-    "url": "https://cauenapier.com/blog/townsquare_release/",
-    "title": "Turn your site into a place people can bump into each other"
-  },
-  {
-    "source": "lobsters",
     "url": "https://matthewbutterick.com/extinction-level-capitalism.html",
     "title": "Extinction-level capitalism"
   },
   {
     "source": "lobsters",
-    "url": "https://www.datawill.io/posts/2026-06-my-agent-workflow/",
-    "title": "Talk more to your coding agents"
+    "url": "https://cauenapier.com/blog/townsquare_release/",
+    "title": "Turn your site into a place people can bump into each other"
   },
   {
     "source": "lobsters",
     "url": "https://webxdc.org/",
     "title": "Webxdc - Secure mini apps for chats"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://www.datawill.io/posts/2026-06-my-agent-workflow/",
+    "title": "Talk more to your coding agents"
   },
   {
     "source": "lobsters",
