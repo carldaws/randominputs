@@ -16,13 +16,18 @@
   },
   {
     "source": "hn",
-    "url": "https://traceapp.info",
-    "title": "Show HN: Trace – Offline Mac meeting transcripts you can flag mid-call"
+    "url": "https://prawns.dev/blogs/memory-wall",
+    "title": "Why Your CPU Is Fast but Your Program Is Slow: Understanding the Memory Wall"
   },
   {
     "source": "hn",
     "url": "https://www.theregister.com/ai-and-ml/2026/06/14/ai-is-code-and-cant-be-prompted-into-being-smarter/5254141",
     "title": "AI is code – and can't be prompted into being smarter"
+  },
+  {
+    "source": "hn",
+    "url": "https://traceapp.info",
+    "title": "Show HN: Trace – Offline Mac meeting transcripts you can flag mid-call"
   },
   {
     "source": "hn",
@@ -36,6 +41,16 @@
   },
   {
     "source": "hn",
+    "url": "https://psychedelics.co.uk/news/a-mushroom-genus-that-gets-people-high-but-not-the",
+    "title": "The hallucinogenic mushroom that contains no known psychedelic"
+  },
+  {
+    "source": "hn",
+    "url": "https://0xkrt26.github.io/math_behind_security/2026/06/09/the-story-of-the-hash-function.html",
+    "title": "Chopped, Stored, Secured – The Story of the Hash Function"
+  },
+  {
+    "source": "hn",
     "url": "https://www.cs.yale.edu/homes/perlis-alan/quotes.html",
     "title": "Perlisisms (1982)"
   },
@@ -43,6 +58,11 @@
     "source": "hn",
     "url": "https://su3.io/posts/zeroserve-caddy-compat",
     "title": "Caddy compatibility for zeroserve: 3x throughput and 70% lower latency"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.markhorrell.com/blog/2012/a-short-history-of-cerro-torre/",
+    "title": "A short history of Cerro Torre, the most controversial mountain"
   },
   {
     "source": "hn",
@@ -58,21 +78,6 @@
     "source": "hn",
     "url": "https://paulgraham.com/earn.html",
     "title": "How to earn a billion dollars"
-  },
-  {
-    "source": "hn",
-    "url": "https://psychedelics.co.uk/news/a-mushroom-genus-that-gets-people-high-but-not-the",
-    "title": "The hallucinogenic mushroom that contains no known psychedelic"
-  },
-  {
-    "source": "hn",
-    "url": "https://fulcrum.inc/2026/06/09/inverse-rubric-optimization.html",
-    "title": "Inverse Rubric Optimization: A testbed for agent science"
-  },
-  {
-    "source": "hn",
-    "url": "https://lisyarus.github.io/blog/posts/quivers-a-year-of-linear-algebra-by-drawing-arrows.html",
-    "title": "Quivers: A year of linear algebra by drawing arrows"
   },
   {
     "source": "lobsters",
