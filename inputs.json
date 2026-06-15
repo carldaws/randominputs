@@ -1,6 +1,11 @@
 [
   {
     "source": "hn",
+    "url": "https://roman.pt/posts/linkedin-backdoor/",
+    "title": "A backdoor in a LinkedIn job offer"
+  },
+  {
+    "source": "hn",
     "url": "https://www.iroh.computer/blog/v1",
     "title": "Iroh 1.0"
   },
@@ -11,8 +16,8 @@
   },
   {
     "source": "hn",
-    "url": "https://rsgm.dev/post/ai-dev-platform/",
-    "title": "My Homelab AI Dev Platform"
+    "url": "https://michaelenger.com/blog/i-love-the-computer/",
+    "title": "I Love the Computer"
   },
   {
     "source": "hn",
@@ -21,18 +26,23 @@
   },
   {
     "source": "hn",
+    "url": "https://rsgm.dev/post/ai-dev-platform/",
+    "title": "My Homelab AI Dev Platform"
+  },
+  {
+    "source": "hn",
     "url": "https://roszigit.com/en/blog/timescaledb-compression-hypercore",
     "title": "How TimescaleDB compresses time-series data"
   },
   {
     "source": "hn",
-    "url": "https://maurycyz.com/projects/glass/1/",
-    "title": "Making glass-to-metal seals for home­made vacuum tubes"
+    "url": "https://docs.hetzner.com/general/infrastructure-and-availability/price-adjustment/#cloud-servers",
+    "title": "Hetzner Price Adjustment"
   },
   {
     "source": "hn",
-    "url": "https://docs.hetzner.com/general/infrastructure-and-availability/price-adjustment/#cloud-servers",
-    "title": "Hetzner Price Adjustment"
+    "url": "https://maurycyz.com/projects/glass/1/",
+    "title": "Making glass-to-metal seals for home­made vacuum tubes"
   },
   {
     "source": "hn",
@@ -46,13 +56,18 @@
   },
   {
     "source": "hn",
+    "url": "https://kobzol.github.io/rust/2026/06/15/how-memory-safety-cves-differ-between-rust-and-c-cpp.html",
+    "title": "How memory safety CVEs differ between Rust and C/C++"
+  },
+  {
+    "source": "hn",
     "url": "https://nick.zoic.org/art/boot-naked-linux/",
     "title": "Boot Naked Linux"
   },
   {
     "source": "hn",
-    "url": "https://www.sfgate.com/tech/article/sundar-pichai-stanford-commencement-22304888.php",
-    "title": "Around 200 Stanford students walk out as Google CEO takes stage"
+    "url": "https://blog.johnnovak.net/2016/09/21/what-every-coder-should-know-about-gamma/",
+    "title": "What every coder should know about Gamma Correction"
   },
   {
     "source": "hn",
@@ -66,23 +81,8 @@
   },
   {
     "source": "hn",
-    "url": "https://kobzol.github.io/rust/2026/06/15/how-memory-safety-cves-differ-between-rust-and-c-cpp.html",
-    "title": "Memory safety CVEs differ between Rust and C/C++"
-  },
-  {
-    "source": "hn",
-    "url": "https://v1c.rocks/log/exploiting-slack-video/",
-    "title": "Show HN: Exploiting Slack's video embeds to achieve E2EE communication"
-  },
-  {
-    "source": "hn",
     "url": "https://karthinks.com/software/even-more-batteries-included-with-emacs/",
     "title": "Even more batteries included with Emacs"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2026.1813281/full",
-    "title": "Improvement in advanced Alzheimer’s disease following high-dose psilocybin"
   },
   {
     "source": "lobsters",
@@ -106,8 +106,13 @@
   },
   {
     "source": "lobsters",
+    "url": "https://www.sacredheartsc.com/blog/freebsd-15-on-a-laptop/",
+    "title": "FreeBSD 15 on a Laptop"
+  },
+  {
+    "source": "lobsters",
     "url": "https://xavierleroy.org/control-structures/book/index.html",
-    "title": "Xavier Leroy's new book on Control Structures in Programming"
+    "title": "Control Structures in Programming Languages"
   },
   {
     "source": "lobsters",
@@ -118,6 +123,16 @@
     "source": "lobsters",
     "url": "https://www.rntz.net/post/my-thesis.html",
     "title": "Deconstructing Datalog"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://savearoundtrip.com/",
+    "title": "savearoundtrip: publish an HTTPS DNS record, skip a round trip"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://xvw.lol/en/articles/emacs-start.html",
+    "title": "Emacs, how it all started (for me)"
   },
   {
     "source": "lobsters",
@@ -138,30 +153,5 @@
     "source": "lobsters",
     "url": "https://ertu.dev/posts/4_clojure-reaching-c-performance/",
     "title": "Clojure is almost as fast as C (with some help)"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://xvw.lol/en/articles/emacs-start.html",
-    "title": "Emacs, how it all started (for me)"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://www.philipzucker.com/notes/Languages/datalog/",
-    "title": "Datalog"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://services.google.com/fh/files/blogs/google_delayexp.pdf",
-    "title": "Speed Matters for Google Web Search [2009]"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://breakintochat.com/blog/2026/06/14/the-mystery-of-the-solar-realms-elite-title-screen/",
-    "title": "The mystery of the Solar Realms Elite title screen"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://savearoundtrip.com/",
-    "title": "savearoundtrip: publish an HTTPS DNS record, skip a round trip"
   }
 ]
