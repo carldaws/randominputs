@@ -11,18 +11,13 @@
   },
   {
     "source": "hn",
-    "url": "https://tinywind.io",
-    "title": "TinyWind: A pixel pirate sailing game with real wind physics (380k+ kms sailed)"
-  },
-  {
-    "source": "hn",
     "url": "https://michaelenger.com/blog/i-love-the-computer/",
     "title": "I Love the Computer"
   },
   {
     "source": "hn",
-    "url": "https://forgottenbytes.net/commander_keen.html",
-    "title": "Game Engine White Papers Commander Keen"
+    "url": "https://tinywind.io",
+    "title": "TinyWind: A pixel pirate sailing game with real wind physics (380k+ kms sailed)"
   },
   {
     "source": "hn",
@@ -31,8 +26,13 @@
   },
   {
     "source": "hn",
-    "url": "https://roszigit.com/en/blog/timescaledb-compression-hypercore",
-    "title": "How TimescaleDB compresses time-series data"
+    "url": "https://www.goodinternetmagazine.com/why-i-email-complete-strangers/",
+    "title": "Why I Email Complete Strangers"
+  },
+  {
+    "source": "hn",
+    "url": "https://forgottenbytes.net/commander_keen.html",
+    "title": "Game Engine White Papers Commander Keen"
   },
   {
     "source": "hn",
@@ -41,28 +41,8 @@
   },
   {
     "source": "hn",
-    "url": "https://maurycyz.com/projects/glass/1/",
-    "title": "Making glass-to-metal seals for home­made vacuum tubes"
-  },
-  {
-    "source": "hn",
-    "url": "https://fata.dev",
-    "title": "Show HN: Fata – Spaced repetition to fight skill rot from AI coding"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.wsj.com/business/deals/fox-roku-deal-f6e564f9",
-    "title": "Fox to buy Roku"
-  },
-  {
-    "source": "hn",
-    "url": "https://kobzol.github.io/rust/2026/06/15/how-memory-safety-cves-differ-between-rust-and-c-cpp.html",
-    "title": "How memory safety CVEs differ between Rust and C/C++"
-  },
-  {
-    "source": "hn",
-    "url": "https://nick.zoic.org/art/boot-naked-linux/",
-    "title": "Boot Naked Linux"
+    "url": "https://roszigit.com/en/blog/timescaledb-compression-hypercore",
+    "title": "How TimescaleDB compresses time-series data"
   },
   {
     "source": "hn",
@@ -71,18 +51,53 @@
   },
   {
     "source": "hn",
-    "url": "https://crankgpt.com",
-    "title": "CrankGPT"
+    "url": "https://notnotp.com/notes/what-job-interviews-taught-me-about-kubernetes/",
+    "title": "What job interviews taught me about Kubernetes"
+  },
+  {
+    "source": "hn",
+    "url": "https://grassdx.com/",
+    "title": "Show HN: Vet turned founder, AI lawn diagnosis"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.wsj.com/business/deals/fox-roku-deal-f6e564f9",
+    "title": "Fox to buy Roku"
+  },
+  {
+    "source": "hn",
+    "url": "https://fata.dev",
+    "title": "Show HN: Fata – Spaced repetition to fight skill rot from AI coding"
+  },
+  {
+    "source": "hn",
+    "url": "https://maurycyz.com/projects/glass/1/",
+    "title": "Making glass-to-metal seals for home­made vacuum tubes"
+  },
+  {
+    "source": "hn",
+    "url": "https://kobzol.github.io/rust/2026/06/15/how-memory-safety-cves-differ-between-rust-and-c-cpp.html",
+    "title": "How memory safety CVEs differ between Rust and C/C++"
+  },
+  {
+    "source": "hn",
+    "url": "https://forgottenbytes.net/",
+    "title": "Commander Keen Games (free book)"
+  },
+  {
+    "source": "hn",
+    "url": "https://totaldebug.uk/posts/reviving-an-abandoned-open-source-project/",
+    "title": "Reviving an abandoned open-source project: 6 years of Atomic Calendar Revive"
+  },
+  {
+    "source": "hn",
+    "url": "https://nick.zoic.org/art/boot-naked-linux/",
+    "title": "Boot Naked Linux"
   },
   {
     "source": "hn",
     "url": "https://machine0.io",
     "title": "Show HN: machine0 – Persistent NixOS VMs You Control from the CLI"
-  },
-  {
-    "source": "hn",
-    "url": "https://karthinks.com/software/even-more-batteries-included-with-emacs/",
-    "title": "Even more batteries included with Emacs"
   },
   {
     "source": "lobsters",
@@ -101,13 +116,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://wizardzines.com/comics/write-for-one-person/",
-    "title": "write for one person"
+    "url": "https://www.sacredheartsc.com/blog/freebsd-15-on-a-laptop/",
+    "title": "FreeBSD 15 on a Laptop"
   },
   {
     "source": "lobsters",
-    "url": "https://www.sacredheartsc.com/blog/freebsd-15-on-a-laptop/",
-    "title": "FreeBSD 15 on a Laptop"
+    "url": "https://wizardzines.com/comics/write-for-one-person/",
+    "title": "write for one person"
   },
   {
     "source": "lobsters",
@@ -116,18 +131,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://blog.miguelgrinberg.com/post/i-am-not-a-reverse-centaur",
-    "title": "I Am Not a Reverse Centaur"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://www.rntz.net/post/my-thesis.html",
-    "title": "Deconstructing Datalog"
-  },
-  {
-    "source": "lobsters",
     "url": "https://savearoundtrip.com/",
     "title": "savearoundtrip: publish an HTTPS DNS record, skip a round trip"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://blog.miguelgrinberg.com/post/i-am-not-a-reverse-centaur",
+    "title": "I Am Not a Reverse Centaur"
   },
   {
     "source": "lobsters",
@@ -136,8 +146,18 @@
   },
   {
     "source": "lobsters",
+    "url": "https://www.rntz.net/post/my-thesis.html",
+    "title": "Deconstructing Datalog"
+  },
+  {
+    "source": "lobsters",
     "url": "http://manishearth.github.io/blog/2026/06/14/diplomat-multi-language-ffi-for-rust-libraries/",
     "title": "Diplomat: Multi-language FFI for Rust Libraries"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://karthinks.com/software/even-more-batteries-included-with-emacs/",
+    "title": "Even More Batteries Included With Emacs"
   },
   {
     "source": "lobsters",
@@ -148,6 +168,11 @@
     "source": "lobsters",
     "url": "https://zinnia-os.org/",
     "title": "zinnia: a modular 64-bit Unix-like kernel written in Rust"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://inessential.com/2026/06/15/netnewswire-status.html",
+    "title": "NetNewsWire Status"
   },
   {
     "source": "lobsters",
