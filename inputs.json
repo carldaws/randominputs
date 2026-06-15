@@ -1,6 +1,11 @@
 [
   {
     "source": "hn",
+    "url": "https://daniel.haxx.se/blog/2026/06/15/curl-summer-of-bliss/",
+    "title": "Curl will not accept vulnerability reports during July 2026"
+  },
+  {
+    "source": "hn",
     "url": "https://karthinks.com/software/even-more-batteries-included-with-emacs/",
     "title": "Even more batteries included with Emacs"
   },
@@ -11,8 +16,8 @@
   },
   {
     "source": "hn",
-    "url": "https://feralui.vercel.app/#/captcha",
-    "title": "Prove you're human by winning a claw machine"
+    "url": "https://www.fractalkitty.com/there-is-3-such-that/",
+    "title": "There Is(Ǝ) – Such That (∋)"
   },
   {
     "source": "hn",
@@ -21,13 +26,13 @@
   },
   {
     "source": "hn",
-    "url": "https://traceapp.info",
-    "title": "Show HN: Trace – Offline Mac meeting transcripts you can flag mid-call"
+    "url": "https://www.markhorrell.com/blog/2012/a-short-history-of-cerro-torre/",
+    "title": "A short history of Cerro Torre, the most controversial mountain (2012)"
   },
   {
     "source": "hn",
-    "url": "https://www.markhorrell.com/blog/2012/a-short-history-of-cerro-torre/",
-    "title": "A short history of Cerro Torre, the most controversial mountain (2012)"
+    "url": "https://traceapp.info",
+    "title": "Show HN: Trace – Offline Mac meeting transcripts you can flag mid-call"
   },
   {
     "source": "hn",
@@ -36,13 +41,8 @@
   },
   {
     "source": "hn",
-    "url": "https://wizardzines.com/comics/write-for-one-person/",
-    "title": "Write for One Person"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.orangecrumbs.com/",
-    "title": "Show HN: Discover Wikipedia articles popular on Hacker News"
+    "url": "https://su3.io/posts/zeroserve-caddy-compat",
+    "title": "Caddy compatibility for zeroserve: 3x throughput and 70% lower latency"
   },
   {
     "source": "hn",
@@ -51,33 +51,33 @@
   },
   {
     "source": "hn",
+    "url": "https://www.orangecrumbs.com/",
+    "title": "Show HN: Discover Wikipedia articles popular on Hacker News"
+  },
+  {
+    "source": "hn",
+    "url": "https://wizardzines.com/comics/write-for-one-person/",
+    "title": "Write for One Person"
+  },
+  {
+    "source": "hn",
     "url": "https://aresluna.org/segmented-type/",
     "title": "Segmented type appreciation corner (2018)"
   },
   {
     "source": "hn",
-    "url": "https://su3.io/posts/zeroserve-caddy-compat",
-    "title": "Caddy compatibility for zeroserve: 3x throughput and 70% lower latency"
-  },
-  {
-    "source": "hn",
-    "url": "https://faroutcompany.com/",
-    "title": "FarOutCompany"
-  },
-  {
-    "source": "hn",
-    "url": "https://psychedelics.co.uk/news/a-mushroom-genus-that-gets-people-high-but-not-the",
-    "title": "The hallucinogenic mushroom that contains no known psychedelic"
-  },
-  {
-    "source": "hn",
-    "url": "https://0xkrt26.github.io/math_behind_security/2026/06/09/the-story-of-the-hash-function.html",
-    "title": "Chopped, Stored, Secured – The Story of the Hash Function"
+    "url": "https://feralui.vercel.app/#/captcha",
+    "title": "Prove you're human by winning a claw machine"
   },
   {
     "source": "hn",
     "url": "https://paulgraham.com/earn.html",
     "title": "How to earn a billion dollars"
+  },
+  {
+    "source": "hn",
+    "url": "https://faroutcompany.com/",
+    "title": "FarOutCompany"
   },
   {
     "source": "lobsters",
@@ -88,6 +88,16 @@
     "source": "lobsters",
     "url": "https://zinnia-os.org/",
     "title": "zinnia: a modular 64-bit Unix-like kernel written in Rust"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://lemire.me/blog/2026/06/14/parsing-json-at-compile-time-with-c26-static-reflection/",
+    "title": "Parsing JSON at compile time with C++26 static reflection"
+  },
+  {
+    "source": "lobsters",
+    "url": "http://manishearth.github.io/blog/2026/06/14/diplomat-multi-language-ffi-for-rust-libraries/",
+    "title": "Diplomat: Multi-language FFI for Rust Libraries"
   },
   {
     "source": "lobsters",
@@ -116,6 +126,11 @@
   },
   {
     "source": "lobsters",
+    "url": "https://wubingzheng.github.io/en/Decimal-Crates-Comparison.html",
+    "title": "Comparison and Benchmarking of Rust Decimal Crates"
+  },
+  {
+    "source": "lobsters",
     "url": "https://slopscan.ava.pet/",
     "title": "repo-slopscore: Detecting AI/LLM contributions in git repositories via commit history analysis"
   },
@@ -126,13 +141,18 @@
   },
   {
     "source": "lobsters",
-    "url": "http://oldvcr.blogspot.com/2026/06/building-serial-and-vga-everything.html",
-    "title": "Building a serial and VGA \"everything console\""
+    "url": "https://ertu.dev/posts/4_clojure-reaching-c-performance/",
+    "title": "Clojure is almost as fast as C (with some help)"
   },
   {
     "source": "lobsters",
-    "url": "https://ertu.dev/posts/4_clojure-reaching-c-performance/",
-    "title": "Clojure is almost as fast as C (with some help)"
+    "url": "https://blog.miguelgrinberg.com/post/i-am-not-a-reverse-centaur",
+    "title": "I Am Not a Reverse Centaur"
+  },
+  {
+    "source": "lobsters",
+    "url": "http://oldvcr.blogspot.com/2026/06/building-serial-and-vga-everything.html",
+    "title": "Building a serial and VGA \"everything console\""
   },
   {
     "source": "lobsters",
@@ -141,8 +161,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://wubingzheng.github.io/en/Decimal-Crates-Comparison.html",
-    "title": "Comparison and Benchmarking of Rust Decimal Crates"
+    "url": "https://inside.java/2026/06/11/thesis-simplify-weak-reference-processing-zgc/",
+    "title": "Simplifying Weak Reference Processing in ZGC"
   },
   {
     "source": "lobsters",
@@ -151,32 +171,7 @@
   },
   {
     "source": "lobsters",
-    "url": "https://inside.java/2026/06/11/thesis-simplify-weak-reference-processing-zgc/",
-    "title": "Simplifying Weak Reference Processing in ZGC"
-  },
-  {
-    "source": "lobsters",
     "url": "https://blog.tenstral.net/2026/06/introducing-pkgcli-a-nicer-command-line-interface-for-packagekit.html",
     "title": "pkgcli: A command-line interface for PackageKit"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://blog.pyodide.org/posts/314-release/",
-    "title": "Pyodide 314.0: WebAssembly wheels for PyPI"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://webxdc.org/",
-    "title": "Webxdc - Secure mini apps for chats"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://www.homepages.ucl.ac.uk/~ucecesf/blog/20260602.html",
-    "title": "Emacs rec mode, an all-text database system"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://opensourceaimustwin.com",
-    "title": "Opensource AI Must Win"
   }
 ]
