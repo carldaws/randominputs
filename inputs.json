@@ -1,8 +1,8 @@
 [
   {
     "source": "hn",
-    "url": "https://wizardzines.com/comics/write-for-one-person/",
-    "title": "Write for One Person"
+    "url": "https://karthinks.com/software/even-more-batteries-included-with-emacs/",
+    "title": "Even more batteries included with Emacs"
   },
   {
     "source": "hn",
@@ -11,18 +11,13 @@
   },
   {
     "source": "hn",
+    "url": "https://feralui.vercel.app/#/captcha",
+    "title": "Prove you're human by winning a claw machine"
+  },
+  {
+    "source": "hn",
     "url": "https://screen.toys/firewood/",
     "title": "Firewood Splitting Simulator"
-  },
-  {
-    "source": "hn",
-    "url": "https://prawns.dev/blogs/memory-wall",
-    "title": "Why Your CPU Is Fast but Your Program Is Slow: Understanding the Memory Wall"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.theregister.com/ai-and-ml/2026/06/14/ai-is-code-and-cant-be-prompted-into-being-smarter/5254141",
-    "title": "AI is code – and can't be prompted into being smarter"
   },
   {
     "source": "hn",
@@ -31,13 +26,43 @@
   },
   {
     "source": "hn",
+    "url": "https://www.markhorrell.com/blog/2012/a-short-history-of-cerro-torre/",
+    "title": "A short history of Cerro Torre, the most controversial mountain (2012)"
+  },
+  {
+    "source": "hn",
     "url": "https://blog.janestreet.com/formal-methods-at-jane-street-index/?from_theconsensus=1",
     "title": "Formal methods and the future of programming"
   },
   {
     "source": "hn",
+    "url": "https://wizardzines.com/comics/write-for-one-person/",
+    "title": "Write for One Person"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.orangecrumbs.com/",
+    "title": "Show HN: Discover Wikipedia articles popular on Hacker News"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.cs.yale.edu/homes/perlis-alan/quotes.html",
+    "title": "Perlisisms (1982)"
+  },
+  {
+    "source": "hn",
     "url": "https://aresluna.org/segmented-type/",
     "title": "Segmented type appreciation corner (2018)"
+  },
+  {
+    "source": "hn",
+    "url": "https://su3.io/posts/zeroserve-caddy-compat",
+    "title": "Caddy compatibility for zeroserve: 3x throughput and 70% lower latency"
+  },
+  {
+    "source": "hn",
+    "url": "https://faroutcompany.com/",
+    "title": "FarOutCompany"
   },
   {
     "source": "hn",
@@ -48,31 +73,6 @@
     "source": "hn",
     "url": "https://0xkrt26.github.io/math_behind_security/2026/06/09/the-story-of-the-hash-function.html",
     "title": "Chopped, Stored, Secured – The Story of the Hash Function"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.cs.yale.edu/homes/perlis-alan/quotes.html",
-    "title": "Perlisisms (1982)"
-  },
-  {
-    "source": "hn",
-    "url": "https://su3.io/posts/zeroserve-caddy-compat",
-    "title": "Caddy compatibility for zeroserve: 3x throughput and 70% lower latency"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.markhorrell.com/blog/2012/a-short-history-of-cerro-torre/",
-    "title": "A short history of Cerro Torre, the most controversial mountain"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.orangecrumbs.com/",
-    "title": "Show HN: Discover Wikipedia articles popular on Hacker News"
-  },
-  {
-    "source": "hn",
-    "url": "https://faroutcompany.com/",
-    "title": "FarOutCompany"
   },
   {
     "source": "hn",
@@ -91,8 +91,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://karthinks.com/software/even-more-batteries-included-with-emacs/",
-    "title": "Even More Batteries Included With Emacs"
+    "url": "https://www.philipzucker.com/notes/Languages/datalog/",
+    "title": "Datalog"
   },
   {
     "source": "lobsters",
@@ -106,8 +106,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://slopscan.ava.pet/",
-    "title": "repo-slopscore: Detecting AI/LLM contributions in git repositories via commit history analysis"
+    "url": "https://breakintochat.com/blog/2026/06/14/the-mystery-of-the-solar-realms-elite-title-screen/",
+    "title": "The mystery of the Solar Realms Elite title screen"
   },
   {
     "source": "lobsters",
@@ -116,13 +116,33 @@
   },
   {
     "source": "lobsters",
+    "url": "https://slopscan.ava.pet/",
+    "title": "repo-slopscore: Detecting AI/LLM contributions in git repositories via commit history analysis"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://services.google.com/fh/files/blogs/google_delayexp.pdf",
+    "title": "Speed Matters for Google Web Search [2009]"
+  },
+  {
+    "source": "lobsters",
     "url": "http://oldvcr.blogspot.com/2026/06/building-serial-and-vga-everything.html",
     "title": "Building a serial and VGA \"everything console\""
   },
   {
     "source": "lobsters",
+    "url": "https://ertu.dev/posts/4_clojure-reaching-c-performance/",
+    "title": "Clojure is almost as fast as C (with some help)"
+  },
+  {
+    "source": "lobsters",
     "url": "https://desfontain.es/blog/banning-noise.html",
     "title": "Banning noise will be a disaster for statistical data products"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://wubingzheng.github.io/en/Decimal-Crates-Comparison.html",
+    "title": "Comparison and Benchmarking of Rust Decimal Crates"
   },
   {
     "source": "lobsters",
@@ -136,6 +156,11 @@
   },
   {
     "source": "lobsters",
+    "url": "https://blog.tenstral.net/2026/06/introducing-pkgcli-a-nicer-command-line-interface-for-packagekit.html",
+    "title": "pkgcli: A command-line interface for PackageKit"
+  },
+  {
+    "source": "lobsters",
     "url": "https://blog.pyodide.org/posts/314-release/",
     "title": "Pyodide 314.0: WebAssembly wheels for PyPI"
   },
@@ -146,37 +171,12 @@
   },
   {
     "source": "lobsters",
-    "url": "https://blog.tenstral.net/2026/06/introducing-pkgcli-a-nicer-command-line-interface-for-packagekit.html",
-    "title": "pkgcli: A command-line interface for PackageKit"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://opensourceaimustwin.com",
-    "title": "Opensource AI Must Win"
-  },
-  {
-    "source": "lobsters",
     "url": "https://www.homepages.ucl.ac.uk/~ucecesf/blog/20260602.html",
     "title": "Emacs rec mode, an all-text database system"
   },
   {
     "source": "lobsters",
-    "url": "https://blog.runevision.com/2026/06/point-cloud-sound-for-irregular-shaped.html",
-    "title": "Point Cloud Sound for irregular shaped audio sources"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://sqltoerdiagram.com/",
-    "title": "ERD Generator from SQL"
-  },
-  {
-    "source": "lobsters",
-    "url": "http://www.righto.com/2026/06/intel-8087-adder-reverse-engineered.html",
-    "title": "The adder at the heart of Intel's 8087 floating-point chip"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://replicated.wiki/blog/uris.html",
-    "title": "Beagle SCM URIs and HTTP verbs with git"
+    "url": "https://opensourceaimustwin.com",
+    "title": "Opensource AI Must Win"
   }
 ]
