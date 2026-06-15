@@ -1,8 +1,13 @@
 [
   {
     "source": "hn",
-    "url": "https://karthinks.com/software/even-more-batteries-included-with-emacs/",
-    "title": "Even more batteries included with Emacs"
+    "url": "https://www.salesforce.com/news/press-releases/2026/06/15/salesforce-signs-definitive-agreement-to-acquire-fin/?bc=HL",
+    "title": "Salesforce to Acquire Fin (formerly Intercom) for $3.6BN"
+  },
+  {
+    "source": "hn",
+    "url": "https://stratechery.com/2026/anthropics-safety-superpower/",
+    "title": "Anthropic's Safety Superpower"
   },
   {
     "source": "hn",
@@ -11,23 +16,18 @@
   },
   {
     "source": "hn",
+    "url": "http://ernesernesto.github.io/writes/portingmatchmorphosistowasm/",
+    "title": "Ported my C game to WASM, here's everybug that I hit"
+  },
+  {
+    "source": "hn",
+    "url": "https://karthinks.com/software/even-more-batteries-included-with-emacs/",
+    "title": "Even more batteries included with Emacs"
+  },
+  {
+    "source": "hn",
     "url": "https://daniel.haxx.se/blog/2026/06/15/curl-summer-of-bliss/",
     "title": "Curl will not accept vulnerability reports during July 2026"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.fractalkitty.com/there-is-3-such-that/",
-    "title": "There Is(Ǝ) – Such That (∋)"
-  },
-  {
-    "source": "hn",
-    "url": "https://bitsy.org/",
-    "title": "Bitsy"
-  },
-  {
-    "source": "hn",
-    "url": "https://screen.toys/firewood/",
-    "title": "Firewood Splitting Simulator"
   },
   {
     "source": "hn",
@@ -36,8 +36,38 @@
   },
   {
     "source": "hn",
+    "url": "https://www.fractalkitty.com/there-is-3-such-that/",
+    "title": "There Is(Ǝ) – Such That (∋)"
+  },
+  {
+    "source": "hn",
+    "url": "https://screen.toys/firewood/",
+    "title": "Firewood Splitting Simulator"
+  },
+  {
+    "source": "hn",
+    "url": "https://bitsy.org/",
+    "title": "Bitsy"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2026.1813281/full",
+    "title": "Successful Psilocybin Treatment of Alzheimer"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.shayon.dev/post/2026/161/building-a-tiny-fuse-filesystem/",
+    "title": "Exploring building a tiny FUSE filesystem"
+  },
+  {
+    "source": "hn",
     "url": "https://www.markhorrell.com/blog/2012/a-short-history-of-cerro-torre/",
     "title": "A short history of Cerro Torre, the most controversial mountain (2012)"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.wsj.com/business/deals/fox-roku-deal-f6e564f9",
+    "title": "Fox to Buy Roku Streaming Service in $22B Deal"
   },
   {
     "source": "hn",
@@ -50,39 +80,29 @@
     "title": "Show HN: Trace – Offline Mac meeting transcripts you can flag mid-call"
   },
   {
-    "source": "hn",
-    "url": "https://www.shayon.dev/post/2026/161/building-a-tiny-fuse-filesystem/",
-    "title": "Exploring building a tiny FUSE filesystem"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.cs.yale.edu/homes/perlis-alan/quotes.html",
-    "title": "Perlisisms (1982)"
-  },
-  {
-    "source": "hn",
-    "url": "https://su3.io/posts/zeroserve-caddy-compat",
-    "title": "Caddy compatibility for zeroserve: 3x throughput and 70% lower latency"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.orangecrumbs.com/",
-    "title": "Show HN: Discover Wikipedia articles popular on Hacker News"
-  },
-  {
-    "source": "hn",
-    "url": "https://aresluna.org/segmented-type/",
-    "title": "Segmented type appreciation corner (2018)"
-  },
-  {
-    "source": "hn",
+    "source": "lobsters",
     "url": "https://wizardzines.com/comics/write-for-one-person/",
-    "title": "Write for One Person"
+    "title": "write for one person"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://pyinfra.com",
+    "title": "pyinfra — agentless infrastructure automation, in plain Python"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://coopi.neocities.org/posts/taking-down-nix-flakes-vs-guix",
+    "title": "Removing my nix flakes vs guix post"
   },
   {
     "source": "lobsters",
     "url": "https://www.rntz.net/post/my-thesis.html",
     "title": "Deconstructing Datalog"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://blog.miguelgrinberg.com/post/i-am-not-a-reverse-centaur",
+    "title": "I Am Not a Reverse Centaur"
   },
   {
     "source": "lobsters",
@@ -96,11 +116,6 @@
   },
   {
     "source": "lobsters",
-    "url": "https://blog.miguelgrinberg.com/post/i-am-not-a-reverse-centaur",
-    "title": "I Am Not a Reverse Centaur"
-  },
-  {
-    "source": "lobsters",
     "url": "http://manishearth.github.io/blog/2026/06/14/diplomat-multi-language-ffi-for-rust-libraries/",
     "title": "Diplomat: Multi-language FFI for Rust Libraries"
   },
@@ -111,8 +126,33 @@
   },
   {
     "source": "lobsters",
+    "url": "https://ertu.dev/posts/4_clojure-reaching-c-performance/",
+    "title": "Clojure is almost as fast as C (with some help)"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://services.google.com/fh/files/blogs/google_delayexp.pdf",
+    "title": "Speed Matters for Google Web Search [2009]"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://wubingzheng.github.io/en/Decimal-Crates-Comparison.html",
+    "title": "Comparison and Benchmarking of Rust Decimal Crates"
+  },
+  {
+    "source": "lobsters",
     "url": "https://www.philipzucker.com/notes/Languages/datalog/",
     "title": "Datalog"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://xavierleroy.org/control-structures/book/index.html",
+    "title": "Xavier Leroy's new book on Control Sturctures in Programming"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://nordstjernen.org/",
+    "title": "Nordstjernen Web Browser"
   },
   {
     "source": "lobsters",
@@ -126,42 +166,7 @@
   },
   {
     "source": "lobsters",
-    "url": "https://wubingzheng.github.io/en/Decimal-Crates-Comparison.html",
-    "title": "Comparison and Benchmarking of Rust Decimal Crates"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://services.google.com/fh/files/blogs/google_delayexp.pdf",
-    "title": "Speed Matters for Google Web Search [2009]"
-  },
-  {
-    "source": "lobsters",
     "url": "https://blog.cryptographyengineering.com/2026/06/09/apples-siri-ai-or-more-shouting-into-the-void-about-private-agents/",
     "title": "The future of Siri, or: why private inference isn’t private enough"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://ertu.dev/posts/4_clojure-reaching-c-performance/",
-    "title": "Clojure is almost as fast as C (with some help)"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://slopscan.ava.pet/",
-    "title": "repo-slopscore: Detecting AI/LLM contributions in git repositories via commit history analysis"
-  },
-  {
-    "source": "lobsters",
-    "url": "http://oldvcr.blogspot.com/2026/06/building-serial-and-vga-everything.html",
-    "title": "Building a serial and VGA \"everything console\""
-  },
-  {
-    "source": "lobsters",
-    "url": "https://inside.java/2026/06/11/thesis-simplify-weak-reference-processing-zgc/",
-    "title": "Simplifying Weak Reference Processing in ZGC"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://desfontain.es/blog/banning-noise.html",
-    "title": "Banning noise will be a disaster for statistical data products"
   }
 ]
