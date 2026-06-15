@@ -16,6 +16,11 @@
   },
   {
     "source": "hn",
+    "url": "https://forgottenbytes.net/commander_keen.html",
+    "title": "Game Engine White Papers Commander Keen"
+  },
+  {
+    "source": "hn",
     "url": "https://roszigit.com/en/blog/timescaledb-compression-hypercore",
     "title": "How TimescaleDB compresses time-series data"
   },
@@ -26,8 +31,13 @@
   },
   {
     "source": "hn",
-    "url": "https://kobzol.github.io/rust/2026/06/15/how-memory-safety-cves-differ-between-rust-and-c-cpp.html",
-    "title": "Memory safety CVEs differ between Rust and C/C++"
+    "url": "https://docs.hetzner.com/general/infrastructure-and-availability/price-adjustment/#cloud-servers",
+    "title": "Hetzner Price Adjustment"
+  },
+  {
+    "source": "hn",
+    "url": "https://fata.dev",
+    "title": "Show HN: Fata – Spaced repetition to fight skill rot from AI coding"
   },
   {
     "source": "hn",
@@ -41,6 +51,11 @@
   },
   {
     "source": "hn",
+    "url": "https://www.sfgate.com/tech/article/sundar-pichai-stanford-commencement-22304888.php",
+    "title": "Around 200 Stanford students walk out as Google CEO takes stage"
+  },
+  {
+    "source": "hn",
     "url": "https://crankgpt.com",
     "title": "CrankGPT"
   },
@@ -51,8 +66,8 @@
   },
   {
     "source": "hn",
-    "url": "https://docs.hetzner.com/general/infrastructure-and-availability/price-adjustment/#cloud-servers",
-    "title": "Hetzner Price Adjustment"
+    "url": "https://kobzol.github.io/rust/2026/06/15/how-memory-safety-cves-differ-between-rust-and-c-cpp.html",
+    "title": "Memory safety CVEs differ between Rust and C/C++"
   },
   {
     "source": "hn",
@@ -68,31 +83,6 @@
     "source": "hn",
     "url": "https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2026.1813281/full",
     "title": "Improvement in advanced Alzheimer’s disease following high-dose psilocybin"
-  },
-  {
-    "source": "hn",
-    "url": "https://fata.dev",
-    "title": "Show HN: Fata – Spaced repetition to fight skill rot from AI coding"
-  },
-  {
-    "source": "hn",
-    "url": "https://mrmarket.lol/what-the-fuck-happened-to-nerds/",
-    "title": "What happened to nerds?"
-  },
-  {
-    "source": "hn",
-    "url": "https://screen.toys/firewood/",
-    "title": "Firewood Splitting Simulator"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.salesforce.com/news/press-releases/2026/06/15/salesforce-signs-definitive-agreement-to-acquire-fin/?bc=HL",
-    "title": "Salesforce to Acquire Fin (formerly Intercom) for $3.6B"
-  },
-  {
-    "source": "hn",
-    "url": "https://stratechery.com/2026/anthropics-safety-superpower/",
-    "title": "Anthropic's Safety Superpower"
   },
   {
     "source": "lobsters",
@@ -121,13 +111,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://www.rntz.net/post/my-thesis.html",
-    "title": "Deconstructing Datalog"
+    "url": "https://blog.miguelgrinberg.com/post/i-am-not-a-reverse-centaur",
+    "title": "I Am Not a Reverse Centaur"
   },
   {
     "source": "lobsters",
-    "url": "https://blog.miguelgrinberg.com/post/i-am-not-a-reverse-centaur",
-    "title": "I Am Not a Reverse Centaur"
+    "url": "https://www.rntz.net/post/my-thesis.html",
+    "title": "Deconstructing Datalog"
   },
   {
     "source": "lobsters",
@@ -156,13 +146,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://services.google.com/fh/files/blogs/google_delayexp.pdf",
-    "title": "Speed Matters for Google Web Search [2009]"
+    "url": "https://www.philipzucker.com/notes/Languages/datalog/",
+    "title": "Datalog"
   },
   {
     "source": "lobsters",
-    "url": "https://www.philipzucker.com/notes/Languages/datalog/",
-    "title": "Datalog"
+    "url": "https://services.google.com/fh/files/blogs/google_delayexp.pdf",
+    "title": "Speed Matters for Google Web Search [2009]"
   },
   {
     "source": "lobsters",
@@ -171,7 +161,7 @@
   },
   {
     "source": "lobsters",
-    "url": "https://wubingzheng.github.io/en/Decimal-Crates-Comparison.html",
-    "title": "Comparison and Benchmarking of Rust Decimal Crates"
+    "url": "https://savearoundtrip.com/",
+    "title": "savearoundtrip: publish an HTTPS DNS record, skip a round trip"
   }
 ]
