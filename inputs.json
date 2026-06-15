@@ -1,18 +1,18 @@
 [
   {
     "source": "hn",
-    "url": "https://daniel.haxx.se/blog/2026/06/15/curl-summer-of-bliss/",
-    "title": "Curl will not accept vulnerability reports during July 2026"
-  },
-  {
-    "source": "hn",
     "url": "https://karthinks.com/software/even-more-batteries-included-with-emacs/",
     "title": "Even more batteries included with Emacs"
   },
   {
     "source": "hn",
-    "url": "https://bitsy.org/",
-    "title": "Bitsy"
+    "url": "https://mrmarket.lol/what-the-fuck-happened-to-nerds/",
+    "title": "What the Fuck Happened to Nerds"
+  },
+  {
+    "source": "hn",
+    "url": "https://daniel.haxx.se/blog/2026/06/15/curl-summer-of-bliss/",
+    "title": "Curl will not accept vulnerability reports during July 2026"
   },
   {
     "source": "hn",
@@ -21,8 +21,18 @@
   },
   {
     "source": "hn",
+    "url": "https://bitsy.org/",
+    "title": "Bitsy"
+  },
+  {
+    "source": "hn",
     "url": "https://screen.toys/firewood/",
     "title": "Firewood Splitting Simulator"
+  },
+  {
+    "source": "hn",
+    "url": "https://zengm.com/blog/2026/06/vibecoded-games/",
+    "title": "Being an old school web-based sports sim dev in the era of vibe coded games"
   },
   {
     "source": "hn",
@@ -31,18 +41,18 @@
   },
   {
     "source": "hn",
-    "url": "https://traceapp.info",
-    "title": "Show HN: Trace – Offline Mac meeting transcripts you can flag mid-call"
-  },
-  {
-    "source": "hn",
     "url": "https://blog.janestreet.com/formal-methods-at-jane-street-index/?from_theconsensus=1",
     "title": "Formal methods and the future of programming"
   },
   {
     "source": "hn",
-    "url": "https://su3.io/posts/zeroserve-caddy-compat",
-    "title": "Caddy compatibility for zeroserve: 3x throughput and 70% lower latency"
+    "url": "https://traceapp.info",
+    "title": "Show HN: Trace – Offline Mac meeting transcripts you can flag mid-call"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.shayon.dev/post/2026/161/building-a-tiny-fuse-filesystem/",
+    "title": "Exploring building a tiny FUSE filesystem"
   },
   {
     "source": "hn",
@@ -51,13 +61,13 @@
   },
   {
     "source": "hn",
-    "url": "https://www.orangecrumbs.com/",
-    "title": "Show HN: Discover Wikipedia articles popular on Hacker News"
+    "url": "https://su3.io/posts/zeroserve-caddy-compat",
+    "title": "Caddy compatibility for zeroserve: 3x throughput and 70% lower latency"
   },
   {
     "source": "hn",
-    "url": "https://wizardzines.com/comics/write-for-one-person/",
-    "title": "Write for One Person"
+    "url": "https://www.orangecrumbs.com/",
+    "title": "Show HN: Discover Wikipedia articles popular on Hacker News"
   },
   {
     "source": "hn",
@@ -66,18 +76,8 @@
   },
   {
     "source": "hn",
-    "url": "https://feralui.vercel.app/#/captcha",
-    "title": "Prove you're human by winning a claw machine"
-  },
-  {
-    "source": "hn",
-    "url": "https://paulgraham.com/earn.html",
-    "title": "How to earn a billion dollars"
-  },
-  {
-    "source": "hn",
-    "url": "https://faroutcompany.com/",
-    "title": "FarOutCompany"
+    "url": "https://wizardzines.com/comics/write-for-one-person/",
+    "title": "Write for One Person"
   },
   {
     "source": "lobsters",
@@ -96,8 +96,18 @@
   },
   {
     "source": "lobsters",
+    "url": "https://blog.miguelgrinberg.com/post/i-am-not-a-reverse-centaur",
+    "title": "I Am Not a Reverse Centaur"
+  },
+  {
+    "source": "lobsters",
     "url": "http://manishearth.github.io/blog/2026/06/14/diplomat-multi-language-ffi-for-rust-libraries/",
     "title": "Diplomat: Multi-language FFI for Rust Libraries"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://breakintochat.com/blog/2026/06/14/the-mystery-of-the-solar-realms-elite-title-screen/",
+    "title": "The mystery of the Solar Realms Elite title screen"
   },
   {
     "source": "lobsters",
@@ -116,23 +126,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://breakintochat.com/blog/2026/06/14/the-mystery-of-the-solar-realms-elite-title-screen/",
-    "title": "The mystery of the Solar Realms Elite title screen"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://blog.cryptographyengineering.com/2026/06/09/apples-siri-ai-or-more-shouting-into-the-void-about-private-agents/",
-    "title": "The future of Siri, or: why private inference isn’t private enough"
-  },
-  {
-    "source": "lobsters",
     "url": "https://wubingzheng.github.io/en/Decimal-Crates-Comparison.html",
     "title": "Comparison and Benchmarking of Rust Decimal Crates"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://slopscan.ava.pet/",
-    "title": "repo-slopscore: Detecting AI/LLM contributions in git repositories via commit history analysis"
   },
   {
     "source": "lobsters",
@@ -141,13 +136,18 @@
   },
   {
     "source": "lobsters",
+    "url": "https://blog.cryptographyengineering.com/2026/06/09/apples-siri-ai-or-more-shouting-into-the-void-about-private-agents/",
+    "title": "The future of Siri, or: why private inference isn’t private enough"
+  },
+  {
+    "source": "lobsters",
     "url": "https://ertu.dev/posts/4_clojure-reaching-c-performance/",
     "title": "Clojure is almost as fast as C (with some help)"
   },
   {
     "source": "lobsters",
-    "url": "https://blog.miguelgrinberg.com/post/i-am-not-a-reverse-centaur",
-    "title": "I Am Not a Reverse Centaur"
+    "url": "https://slopscan.ava.pet/",
+    "title": "repo-slopscore: Detecting AI/LLM contributions in git repositories via commit history analysis"
   },
   {
     "source": "lobsters",
@@ -156,22 +156,12 @@
   },
   {
     "source": "lobsters",
-    "url": "https://desfontain.es/blog/banning-noise.html",
-    "title": "Banning noise will be a disaster for statistical data products"
-  },
-  {
-    "source": "lobsters",
     "url": "https://inside.java/2026/06/11/thesis-simplify-weak-reference-processing-zgc/",
     "title": "Simplifying Weak Reference Processing in ZGC"
   },
   {
     "source": "lobsters",
-    "url": "http://smalldatum.blogspot.com/2026/06/write-heavy-sysbench-tests-large-server.html",
-    "title": "Write-heavy sysbench tests, a large server, modern Postgres and MySQL"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://blog.tenstral.net/2026/06/introducing-pkgcli-a-nicer-command-line-interface-for-packagekit.html",
-    "title": "pkgcli: A command-line interface for PackageKit"
+    "url": "https://desfontain.es/blog/banning-noise.html",
+    "title": "Banning noise will be a disaster for statistical data products"
   }
 ]
