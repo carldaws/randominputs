@@ -11,6 +11,11 @@
   },
   {
     "source": "hn",
+    "url": "https://www.richardosgood.com/posts/banned-book-library/",
+    "title": "Banned Book Library in a Wi-Fi Smart Light Bulb"
+  },
+  {
+    "source": "hn",
     "url": "https://michaelenger.com/blog/i-love-the-computer/",
     "title": "I Love the Computer"
   },
@@ -21,33 +26,8 @@
   },
   {
     "source": "hn",
-    "url": "https://rsgm.dev/post/ai-dev-platform/",
-    "title": "My Homelab AI Dev Platform"
-  },
-  {
-    "source": "hn",
     "url": "https://www.goodinternetmagazine.com/why-i-email-complete-strangers/",
     "title": "Why I Email Complete Strangers"
-  },
-  {
-    "source": "hn",
-    "url": "https://forgottenbytes.net/commander_keen.html",
-    "title": "Game Engine White Papers Commander Keen"
-  },
-  {
-    "source": "hn",
-    "url": "https://docs.hetzner.com/general/infrastructure-and-availability/price-adjustment/#cloud-servers",
-    "title": "Hetzner Price Adjustment"
-  },
-  {
-    "source": "hn",
-    "url": "https://roszigit.com/en/blog/timescaledb-compression-hypercore",
-    "title": "How TimescaleDB compresses time-series data"
-  },
-  {
-    "source": "hn",
-    "url": "https://blog.johnnovak.net/2016/09/21/what-every-coder-should-know-about-gamma/",
-    "title": "What every coder should know about Gamma Correction"
   },
   {
     "source": "hn",
@@ -56,8 +36,33 @@
   },
   {
     "source": "hn",
-    "url": "https://grassdx.com/",
-    "title": "Show HN: Vet turned founder, AI lawn diagnosis"
+    "url": "https://rsgm.dev/post/ai-dev-platform/",
+    "title": "My Homelab AI Dev Platform"
+  },
+  {
+    "source": "hn",
+    "url": "https://docs.hetzner.com/general/infrastructure-and-availability/price-adjustment/#cloud-servers",
+    "title": "Hetzner Price Adjustment"
+  },
+  {
+    "source": "hn",
+    "url": "https://blog.johnnovak.net/2016/09/21/what-every-coder-should-know-about-gamma/",
+    "title": "What every coder should know about Gamma Correction"
+  },
+  {
+    "source": "hn",
+    "url": "https://roszigit.com/en/blog/timescaledb-compression-hypercore",
+    "title": "How TimescaleDB compresses time-series data"
+  },
+  {
+    "source": "hn",
+    "url": "https://forgottenbytes.net/commander_keen.html",
+    "title": "Game Engine White Papers Commander Keen"
+  },
+  {
+    "source": "hn",
+    "url": "https://kcsrk.info/ocaml/oxcaml/teaching/nptel/llm/2026/06/13/an-oxcaml-book-that-runs/",
+    "title": "An O(x)Caml book that runs"
   },
   {
     "source": "hn",
@@ -71,13 +76,13 @@
   },
   {
     "source": "hn",
-    "url": "https://maurycyz.com/projects/glass/1/",
-    "title": "Making glass-to-metal seals for home­made vacuum tubes"
+    "url": "https://grassdx.com/",
+    "title": "Show HN: Vet turned founder, AI lawn diagnosis"
   },
   {
     "source": "hn",
-    "url": "https://kobzol.github.io/rust/2026/06/15/how-memory-safety-cves-differ-between-rust-and-c-cpp.html",
-    "title": "How memory safety CVEs differ between Rust and C/C++"
+    "url": "https://maurycyz.com/projects/glass/1/",
+    "title": "Making glass-to-metal seals for home­made vacuum tubes"
   },
   {
     "source": "hn",
@@ -86,8 +91,8 @@
   },
   {
     "source": "hn",
-    "url": "https://totaldebug.uk/posts/reviving-an-abandoned-open-source-project/",
-    "title": "Reviving an abandoned open-source project: 6 years of Atomic Calendar Revive"
+    "url": "https://kobzol.github.io/rust/2026/06/15/how-memory-safety-cves-differ-between-rust-and-c-cpp.html",
+    "title": "How memory safety CVEs differ between Rust and C/C++"
   },
   {
     "source": "hn",
@@ -96,8 +101,8 @@
   },
   {
     "source": "hn",
-    "url": "https://machine0.io",
-    "title": "Show HN: machine0 – Persistent NixOS VMs You Control from the CLI"
+    "url": "https://totaldebug.uk/posts/reviving-an-abandoned-open-source-project/",
+    "title": "Reviving an abandoned open-source project: 6 years of Atomic Calendar Revive"
   },
   {
     "source": "lobsters",
@@ -136,6 +141,11 @@
   },
   {
     "source": "lobsters",
+    "url": "https://inessential.com/2026/06/15/netnewswire-status.html",
+    "title": "NetNewsWire Status"
+  },
+  {
+    "source": "lobsters",
     "url": "https://blog.miguelgrinberg.com/post/i-am-not-a-reverse-centaur",
     "title": "I Am Not a Reverse Centaur"
   },
@@ -168,11 +178,6 @@
     "source": "lobsters",
     "url": "https://zinnia-os.org/",
     "title": "zinnia: a modular 64-bit Unix-like kernel written in Rust"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://inessential.com/2026/06/15/netnewswire-status.html",
-    "title": "NetNewsWire Status"
   },
   {
     "source": "lobsters",
