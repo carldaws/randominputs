@@ -1,8 +1,18 @@
 [
   {
     "source": "hn",
+    "url": "https://iza.ac/posts/2026/06/food-authenticity/",
+    "title": "What even is food authenticity? Why we guard carbonara, and flatten chicken rice"
+  },
+  {
+    "source": "hn",
     "url": "https://screen.toys/firewood/",
     "title": "Firewood Splitting Simulator"
+  },
+  {
+    "source": "hn",
+    "url": "https://wizardzines.com/comics/write-for-one-person/",
+    "title": "Write for One Person"
   },
   {
     "source": "hn",
@@ -16,13 +26,8 @@
   },
   {
     "source": "hn",
-    "url": "https://www.theregister.com/ai-and-ml/2026/06/14/ai-is-code-and-cant-be-prompted-into-being-smarter/5254141",
-    "title": "AI is code – and can't be prompted into being smarter"
-  },
-  {
-    "source": "hn",
-    "url": "https://su3.io/posts/zeroserve-caddy-compat",
-    "title": "Caddy compatibility for zeroserve: 3x throughput and 70% lower latency"
+    "url": "https://aresluna.org/segmented-type/",
+    "title": "Segmented type appreciation corner (2018)"
   },
   {
     "source": "hn",
@@ -31,13 +36,13 @@
   },
   {
     "source": "hn",
-    "url": "https://www.cs.yale.edu/homes/perlis-alan/quotes.html",
-    "title": "Perlisisms (1982)"
+    "url": "https://su3.io/posts/zeroserve-caddy-compat",
+    "title": "Caddy compatibility for zeroserve: 3x throughput and 70% lower latency"
   },
   {
     "source": "hn",
-    "url": "https://faroutcompany.com/",
-    "title": "FarOutCompany"
+    "url": "https://www.cs.yale.edu/homes/perlis-alan/quotes.html",
+    "title": "Perlisisms (1982)"
   },
   {
     "source": "hn",
@@ -46,18 +51,23 @@
   },
   {
     "source": "hn",
-    "url": "https://fulcrum.inc/2026/06/09/inverse-rubric-optimization.html",
-    "title": "Inverse Rubric Optimization: A testbed for agent science"
+    "url": "https://www.theregister.com/ai-and-ml/2026/06/14/ai-is-code-and-cant-be-prompted-into-being-smarter/5254141",
+    "title": "AI is code – and can't be prompted into being smarter"
   },
   {
     "source": "hn",
-    "url": "https://en.wikipedia.org/wiki/Abu_Fanous",
-    "title": "Abu Fanous"
+    "url": "https://faroutcompany.com/",
+    "title": "FarOutCompany"
   },
   {
     "source": "hn",
     "url": "https://paulgraham.com/earn.html",
     "title": "How to earn a billion dollars"
+  },
+  {
+    "source": "hn",
+    "url": "https://en.wikipedia.org/wiki/Abu_Fanous",
+    "title": "Abu Fanous"
   },
   {
     "source": "lobsters",
@@ -96,13 +106,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://desfontain.es/blog/banning-noise.html",
-    "title": "Banning noise will be a disaster for statistical data products"
+    "url": "http://oldvcr.blogspot.com/2026/06/building-serial-and-vga-everything.html",
+    "title": "Building a serial and VGA \"everything console\""
   },
   {
     "source": "lobsters",
-    "url": "http://oldvcr.blogspot.com/2026/06/building-serial-and-vga-everything.html",
-    "title": "Building a serial and VGA \"everything console\""
+    "url": "https://desfontain.es/blog/banning-noise.html",
+    "title": "Banning noise will be a disaster for statistical data products"
   },
   {
     "source": "lobsters",
@@ -136,13 +146,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://blog.runevision.com/2026/06/point-cloud-sound-for-irregular-shaped.html",
-    "title": "Point Cloud Sound for irregular shaped audio sources"
+    "url": "https://www.homepages.ucl.ac.uk/~ucecesf/blog/20260602.html",
+    "title": "Emacs rec mode, an all-text database system"
   },
   {
     "source": "lobsters",
-    "url": "https://www.homepages.ucl.ac.uk/~ucecesf/blog/20260602.html",
-    "title": "Emacs rec mode, an all-text database system"
+    "url": "https://blog.runevision.com/2026/06/point-cloud-sound-for-irregular-shaped.html",
+    "title": "Point Cloud Sound for irregular shaped audio sources"
   },
   {
     "source": "lobsters",
