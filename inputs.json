@@ -6,13 +6,13 @@
   },
   {
     "source": "hn",
-    "url": "https://www.iroh.computer/blog/v1",
-    "title": "Iroh 1.0"
+    "url": "https://www.richardosgood.com/posts/banned-book-library/",
+    "title": "Banned Book Library in a Wi-Fi Smart Light Bulb"
   },
   {
     "source": "hn",
-    "url": "https://www.richardosgood.com/posts/banned-book-library/",
-    "title": "Banned Book Library in a Wi-Fi Smart Light Bulb"
+    "url": "https://www.iroh.computer/blog/v1",
+    "title": "Iroh 1.0"
   },
   {
     "source": "hn",
@@ -27,17 +27,17 @@
   {
     "source": "hn",
     "url": "https://www.goodinternetmagazine.com/why-i-email-complete-strangers/",
-    "title": "Why I Email Complete Strangers"
-  },
-  {
-    "source": "hn",
-    "url": "https://notnotp.com/notes/what-job-interviews-taught-me-about-kubernetes/",
-    "title": "What job interviews taught me about Kubernetes"
+    "title": "Why I email complete strangers"
   },
   {
     "source": "hn",
     "url": "https://rsgm.dev/post/ai-dev-platform/",
     "title": "My Homelab AI Dev Platform"
+  },
+  {
+    "source": "hn",
+    "url": "https://notnotp.com/notes/what-job-interviews-taught-me-about-kubernetes/",
+    "title": "What job interviews taught me about Kubernetes"
   },
   {
     "source": "hn",
@@ -56,8 +56,8 @@
   },
   {
     "source": "hn",
-    "url": "https://forgottenbytes.net/commander_keen.html",
-    "title": "Game Engine White Papers Commander Keen"
+    "url": "https://www.wsj.com/business/deals/fox-roku-deal-f6e564f9",
+    "title": "Fox to buy Roku"
   },
   {
     "source": "hn",
@@ -66,8 +66,13 @@
   },
   {
     "source": "hn",
-    "url": "https://www.wsj.com/business/deals/fox-roku-deal-f6e564f9",
-    "title": "Fox to buy Roku"
+    "url": "https://forgottenbytes.net/commander_keen.html",
+    "title": "Game Engine White Papers Commander Keen"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.salesforce.com/news/press-releases/2026/06/15/salesforce-signs-definitive-agreement-to-acquire-fin/?bc=HL",
+    "title": "Salesforce to Acquire Fin (formerly Intercom) for $3.6B"
   },
   {
     "source": "hn",
@@ -76,18 +81,8 @@
   },
   {
     "source": "hn",
-    "url": "https://grassdx.com/",
-    "title": "Show HN: Vet turned founder, AI lawn diagnosis"
-  },
-  {
-    "source": "hn",
     "url": "https://maurycyz.com/projects/glass/1/",
     "title": "Making glass-to-metal seals for home­made vacuum tubes"
-  },
-  {
-    "source": "hn",
-    "url": "https://forgottenbytes.net/",
-    "title": "Commander Keen Games (free book)"
   },
   {
     "source": "hn",
@@ -96,13 +91,13 @@
   },
   {
     "source": "hn",
-    "url": "https://nick.zoic.org/art/boot-naked-linux/",
-    "title": "Boot Naked Linux"
+    "url": "https://grassdx.com/",
+    "title": "Show HN: Vet turned founder, AI lawn diagnosis"
   },
   {
     "source": "hn",
-    "url": "https://totaldebug.uk/posts/reviving-an-abandoned-open-source-project/",
-    "title": "Reviving an abandoned open-source project: 6 years of Atomic Calendar Revive"
+    "url": "https://nick.zoic.org/art/boot-naked-linux/",
+    "title": "Boot Naked Linux"
   },
   {
     "source": "lobsters",
@@ -116,13 +111,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://pyinfra.com",
-    "title": "pyinfra — agentless infrastructure automation, in plain Python"
+    "url": "https://www.sacredheartsc.com/blog/freebsd-15-on-a-laptop/",
+    "title": "FreeBSD 15 on a Laptop"
   },
   {
     "source": "lobsters",
-    "url": "https://www.sacredheartsc.com/blog/freebsd-15-on-a-laptop/",
-    "title": "FreeBSD 15 on a Laptop"
+    "url": "https://pyinfra.com",
+    "title": "pyinfra — agentless infrastructure automation, in plain Python"
   },
   {
     "source": "lobsters",
@@ -141,6 +136,11 @@
   },
   {
     "source": "lobsters",
+    "url": "https://xvw.lol/en/articles/emacs-start.html",
+    "title": "Emacs, how it all started (for me)"
+  },
+  {
+    "source": "lobsters",
     "url": "https://inessential.com/2026/06/15/netnewswire-status.html",
     "title": "NetNewsWire Status"
   },
@@ -148,11 +148,6 @@
     "source": "lobsters",
     "url": "https://blog.miguelgrinberg.com/post/i-am-not-a-reverse-centaur",
     "title": "I Am Not a Reverse Centaur"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://xvw.lol/en/articles/emacs-start.html",
-    "title": "Emacs, how it all started (for me)"
   },
   {
     "source": "lobsters",
@@ -176,12 +171,12 @@
   },
   {
     "source": "lobsters",
-    "url": "https://zinnia-os.org/",
-    "title": "zinnia: a modular 64-bit Unix-like kernel written in Rust"
+    "url": "https://ertu.dev/posts/4_clojure-reaching-c-performance/",
+    "title": "Clojure is almost as fast as C (with some help)"
   },
   {
     "source": "lobsters",
-    "url": "https://ertu.dev/posts/4_clojure-reaching-c-performance/",
-    "title": "Clojure is almost as fast as C (with some help)"
+    "url": "https://zinnia-os.org/",
+    "title": "zinnia: a modular 64-bit Unix-like kernel written in Rust"
   }
 ]
