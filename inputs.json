@@ -1,8 +1,23 @@
 [
   {
     "source": "hn",
+    "url": "https://ciechanow.ski/mechanical-watch/",
+    "title": "Mechanical Watch (2022)"
+  },
+  {
+    "source": "hn",
+    "url": "https://tck.mn/blog/correlated-randomness-sts2/",
+    "title": "Correlated randomness in Slay the Spire 2"
+  },
+  {
+    "source": "hn",
     "url": "https://roman.pt/posts/linkedin-backdoor/",
     "title": "A backdoor in a LinkedIn job offer"
+  },
+  {
+    "source": "hn",
+    "url": "https://agewarden.ai/",
+    "title": "Show HN: Voice Age Verification"
   },
   {
     "source": "hn",
@@ -21,13 +36,23 @@
   },
   {
     "source": "hn",
+    "url": "https://www.theregister.com/security/2026/06/15/feds-freaked-over-fable-5-after-simple-fix-this-code-prompt-not-jailbreak-says-researcher/5255827",
+    "title": "Feds freaked over Fable 5 after simple 'fix this code' prompt, not jailbreak"
+  },
+  {
+    "source": "hn",
     "url": "https://tinywind.io",
     "title": "TinyWind: A pixel pirate sailing game with real wind physics (380k+ kms sailed)"
   },
   {
     "source": "hn",
-    "url": "https://www.theregister.com/security/2026/06/15/feds-freaked-over-fable-5-after-simple-fix-this-code-prompt-not-jailbreak-says-researcher/5255827",
-    "title": "Feds freaked over Fable 5 after simple 'fix this code' prompt, not jailbreak"
+    "url": "https://shadycharacters.co.uk/2026/06/ollie-wagner/",
+    "title": "An interview with an Apple emoji designer"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.unicorn-engine.org/",
+    "title": "Unicorn – The Ultimate CPU Emulator"
   },
   {
     "source": "hn",
@@ -36,13 +61,13 @@
   },
   {
     "source": "hn",
-    "url": "https://commodore.net/why-a-flip-phone/",
-    "title": "Commodore Releases Flip Phone"
+    "url": "https://michaelenger.com/blog/i-love-the-computer/",
+    "title": "I Love the Computer"
   },
   {
     "source": "hn",
-    "url": "https://michaelenger.com/blog/i-love-the-computer/",
-    "title": "I Love the Computer"
+    "url": "https://rarehistoricalphotos.com/stalin-era-soviet-union-pictures-martin-manhoff/",
+    "title": "Color Photos of Stalin-Era Soviet Union Taken by a US Diplomat"
   },
   {
     "source": "hn",
@@ -56,13 +81,13 @@
   },
   {
     "source": "hn",
-    "url": "https://cohere.com/blog/north-mini-code",
-    "title": "Cohere's First Model for Developers"
+    "url": "https://www.goodinternetmagazine.com/why-i-email-complete-strangers/",
+    "title": "Why I email complete strangers"
   },
   {
     "source": "hn",
-    "url": "https://www.goodinternetmagazine.com/why-i-email-complete-strangers/",
-    "title": "Why I email complete strangers"
+    "url": "https://cohere.com/blog/north-mini-code",
+    "title": "Cohere's First Model for Developers"
   },
   {
     "source": "hn",
@@ -70,24 +95,9 @@
     "title": "Fox to buy Roku"
   },
   {
-    "source": "hn",
-    "url": "https://notnotp.com/notes/what-job-interviews-taught-me-about-kubernetes/",
-    "title": "What job interviews taught me about Kubernetes"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.salesforce.com/news/press-releases/2026/06/15/salesforce-signs-definitive-agreement-to-acquire-fin/?bc=HL",
-    "title": "Salesforce to Acquire Fin (formerly Intercom) for $3.6B"
-  },
-  {
-    "source": "hn",
-    "url": "https://blog.johnnovak.net/2016/09/21/what-every-coder-should-know-about-gamma/",
-    "title": "What every coder should know about gamma (2016)"
-  },
-  {
-    "source": "hn",
-    "url": "https://forgottenbytes.net/commander_keen.html",
-    "title": "Game Engine White Papers: Commander Keen"
+    "source": "lobsters",
+    "url": "https://www.sacredheartsc.com/blog/freebsd-15-on-a-laptop/",
+    "title": "FreeBSD 15 on a Laptop"
   },
   {
     "source": "lobsters",
@@ -96,8 +106,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://www.sacredheartsc.com/blog/freebsd-15-on-a-laptop/",
-    "title": "FreeBSD 15 on a Laptop"
+    "url": "https://notnotp.com/notes/what-job-interviews-taught-me-about-kubernetes/",
+    "title": "What job interviews taught me about Kubernetes"
   },
   {
     "source": "lobsters",
@@ -116,23 +126,13 @@
   },
   {
     "source": "lobsters",
+    "url": "https://kobzol.github.io/rust/2026/06/15/how-memory-safety-cves-differ-between-rust-and-c-cpp.html",
+    "title": "How memory safety CVEs differ between Rust and C/C++"
+  },
+  {
+    "source": "lobsters",
     "url": "https://filipfila.wordpress.com/2026/06/16/oxygen-6-7-is-here-a-breath-of-fresh-air-for-kdes-classic-theme/",
     "title": "Oxygen 6.7 is here: a breath of fresh air for KDE’s classic theme"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://savearoundtrip.com/",
-    "title": "savearoundtrip: publish an HTTPS DNS record, skip a round trip"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://bbenchoff.github.io/pages/8Tracks.html",
-    "title": "LLMs Will Replace 8-Track Duplication Engineers"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://xavierleroy.org/control-structures/book/index.html",
-    "title": "Control Structures in Programming Languages"
   },
   {
     "source": "lobsters",
@@ -141,28 +141,28 @@
   },
   {
     "source": "lobsters",
+    "url": "https://bbenchoff.github.io/pages/8Tracks.html",
+    "title": "LLMs Will Replace 8-Track Duplication Engineers"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://savearoundtrip.com/",
+    "title": "savearoundtrip: publish an HTTPS DNS record, skip a round trip"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://www.volkerkrause.eu/2026/06/13/kde-android-news-june-2026.html",
+    "title": "KDE Android News (June 2026)"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://xavierleroy.org/control-structures/book/index.html",
+    "title": "Control Structures in Programming Languages"
+  },
+  {
+    "source": "lobsters",
     "url": "https://wizardzines.com/comics/write-for-one-person/",
     "title": "write for one person"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://nick.zoic.org/art/boot-naked-linux/",
-    "title": "Boot Naked Linux"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://tck.mn/blog/correlated-randomness-sts2/",
-    "title": "Correlated randomness in Slay the Spire 2"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://www.jsoftware.com/papers/eem/life.htm",
-    "title": "Life: Nasty, Brutish, and Short"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://xvw.lol/en/articles/emacs-start.html",
-    "title": "Emacs, how it all started (for me)"
   },
   {
     "source": "lobsters",
@@ -171,7 +171,17 @@
   },
   {
     "source": "lobsters",
-    "url": "https://www.volkerkrause.eu/2026/06/13/kde-android-news-june-2026.html",
-    "title": "KDE Android News (June 2026)"
+    "url": "https://nick.zoic.org/art/boot-naked-linux/",
+    "title": "Boot Naked Linux"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://wolfgirl.dev/blog/2026-06-16-async-task-locals-from-scratch/",
+    "title": "Async Task Locals From Scratch"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://xvw.lol/en/articles/emacs-start.html",
+    "title": "Emacs, how it all started (for me)"
   }
 ]
