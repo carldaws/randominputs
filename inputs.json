@@ -22,27 +22,17 @@
   {
     "source": "hn",
     "url": "https://parksb.github.io/en/article/32.html",
-    "title": "But yak shaving is fun"
-  },
-  {
-    "source": "hn",
-    "url": "https://wegfawefgawefg.github.io/asm-shader-toy/",
-    "title": "ASM SHADER TOY – It's shader toy but you code in asm"
+    "title": "But yak shaving is fun (2019)"
   },
   {
     "source": "hn",
     "url": "https://words.filippo.io/frood/",
-    "title": "Frood, an Alpine Initramfs NAS"
+    "title": "Frood, an Alpine Initramfs NAS (2024)"
   },
   {
     "source": "hn",
-    "url": "https://status.claude.com/incidents/xmhsglsz3h3w",
-    "title": "Claude: Elevated errors across many models"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.gilesthomas.com/2026/06/10g-ethernet-switching-to-broadcom-sfp-plus",
-    "title": "10Gb/s Ethernet: switching to a Broadcom SFP+ module"
+    "url": "https://wegfawefgawefg.github.io/asm-shader-toy/",
+    "title": "ASM Shader Toy"
   },
   {
     "source": "hn",
@@ -51,13 +41,23 @@
   },
   {
     "source": "hn",
-    "url": "https://tck.mn/blog/correlated-randomness-sts2/",
-    "title": "Correlated randomness in Slay the Spire 2"
+    "url": "https://www.gilesthomas.com/2026/06/10g-ethernet-switching-to-broadcom-sfp-plus",
+    "title": "10Gb/s Ethernet: switching to a Broadcom SFP+ module"
   },
   {
     "source": "hn",
     "url": "https://blog.janestreet.com/formal-methods-at-jane-street-index/",
     "title": "Formal Methods and the Future of Programming"
+  },
+  {
+    "source": "hn",
+    "url": "https://tck.mn/blog/correlated-randomness-sts2/",
+    "title": "Correlated randomness in Slay the Spire 2"
+  },
+  {
+    "source": "hn",
+    "url": "https://hedgehogreview.com/web-features/thr/posts/companions-on-parnassus",
+    "title": "W.H. Auden and James Schuyler in life and literature"
   },
   {
     "source": "hn",
@@ -91,6 +91,11 @@
   },
   {
     "source": "lobsters",
+    "url": "https://trifectatech.org/blog/zlib-rs-in-firefox/",
+    "title": "zlib-rs in Firefox"
+  },
+  {
+    "source": "lobsters",
     "url": "https://www.sacredheartsc.com/blog/freebsd-15-on-a-laptop/",
     "title": "FreeBSD 15 on a Laptop"
   },
@@ -101,28 +106,23 @@
   },
   {
     "source": "lobsters",
-    "url": "https://alexalejandre.com/programming/interview-with-claude-roux/",
-    "title": "Lobsters Interview with Claudius"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://trifectatech.org/blog/zlib-rs-in-firefox/",
-    "title": "zlib-rs in Firefox"
-  },
-  {
-    "source": "lobsters",
     "url": "https://notnotp.com/notes/what-job-interviews-taught-me-about-kubernetes/",
     "title": "What job interviews taught me about Kubernetes"
   },
   {
     "source": "lobsters",
-    "url": "https://daniel.haxx.se/blog/2026/06/15/curl-summer-of-bliss/",
-    "title": "curl summer of bliss"
+    "url": "https://alexalejandre.com/programming/interview-with-claude-roux/",
+    "title": "Lobsters Interview with Claudius"
   },
   {
     "source": "lobsters",
     "url": "https://filipfila.wordpress.com/2026/06/16/oxygen-6-7-is-here-a-breath-of-fresh-air-for-kdes-classic-theme/",
     "title": "Oxygen 6.7 is here: a breath of fresh air for KDE’s classic theme"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://daniel.haxx.se/blog/2026/06/15/curl-summer-of-bliss/",
+    "title": "curl summer of bliss"
   },
   {
     "source": "lobsters",
@@ -146,6 +146,11 @@
   },
   {
     "source": "lobsters",
+    "url": "https://www.rfc-editor.org/info/rfc10008/",
+    "title": "RFC 10008: The HTTP QUERY Method"
+  },
+  {
+    "source": "lobsters",
     "url": "https://coopi.neocities.org/posts/taking-down-nix-flakes-vs-guix",
     "title": "Removing my nix flakes vs guix post"
   },
@@ -153,90 +158,5 @@
     "source": "lobsters",
     "url": "https://bbenchoff.github.io/pages/8Tracks.html",
     "title": "LLMs Will Replace 8-Track Duplication Engineers"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://andyatkinson.com/postgresql-rds-scaling-aws-christmas-day-peak",
-    "title": "From Christmas Outage to #1 App Store Ranking: An Aura Frames Postgres Scaling Retrospective"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://sqltoerdiagram.com/",
-    "title": "SQL to ER Diagram — Free Online ERD Generator from SQL (no signup)"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://ikyle.me/blog/2026/how-to-setup-a-local-coding-agent-on-macos",
-    "title": "How to Setup a Local Coding Agent on macOS - Kyle Howells"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://matthewbutterick.com/extinction-level-capitalism.html",
-    "title": "Matthew Butterick | Extinction-level capitalism"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://tonsky.me/blog/every-frame-perfect/",
-    "title": "Every Frame Perfect"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://desfontain.es/blog/banning-noise.html",
-    "title": "Banning noise will be a disaster for statistical data products - Ted is writing things"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://garrit.xyz/posts/2026-05-06-dont-trust-large-context-windows",
-    "title": "Don't trust large context windows | Garrit's Notes"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://wizardzines.com/comics/write-for-one-person/",
-    "title": "write for one person"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://tonedear.com/",
-    "title": "Ear Training"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://paulgraham.com/earn.html",
-    "title": "How to Earn a Billion Dollars"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://lr0.org/blog/p/arabic/",
-    "title": "An interactive introduction to the terrific experience of rendering Arabic typography and its technical debt | La Vita Nouva"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://faroutcompany.com/",
-    "title": "Far Out Company — Countercultural visual overload"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://blog.avas.space/llm-circus/",
-    "title": "our workplace LLM mass delusion – ava's blog"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.mayrhofer.eu.org/post/leaving-google/",
-    "title": "Why I’m Forced to Say Farewell: Google Management Has Lost Its Moral Compass | René Mayrhofer"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://blog.simbastack.com/indexed-a-year-of-video-locally/",
-    "title": "While I slept, my 5-year-old MacBook ran Gemma 4 locally and indexed a year of video — simbastack"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://simonwillison.net/2026/Jun/11/fable-is-relentlessly-proactive/",
-    "title": "Claude Fable is relentlessly proactive"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://karthinks.com/software/even-more-batteries-included-with-emacs/",
-    "title": "Even More Batteries Included with Emacs | Karthinks"
   }
 ]
