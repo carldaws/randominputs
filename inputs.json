@@ -16,13 +16,13 @@
   },
   {
     "source": "hn",
-    "url": "https://michaelenger.com/blog/i-love-the-computer/",
-    "title": "I Love the Computer"
+    "url": "https://tinywind.io",
+    "title": "TinyWind: A pixel pirate sailing game with real wind physics (380k+ kms sailed)"
   },
   {
     "source": "hn",
-    "url": "https://tinywind.io",
-    "title": "TinyWind: A pixel pirate sailing game with real wind physics (380k+ kms sailed)"
+    "url": "https://michaelenger.com/blog/i-love-the-computer/",
+    "title": "I Love the Computer"
   },
   {
     "source": "hn",
@@ -36,8 +36,8 @@
   },
   {
     "source": "hn",
-    "url": "https://notnotp.com/notes/what-job-interviews-taught-me-about-kubernetes/",
-    "title": "What job interviews taught me about Kubernetes"
+    "url": "https://www.narracomm.com/amazon-announces-multibillion-dollar-data-center-in-missouri/",
+    "title": "Amazon Announces Multibillion-Dollar Data Center in Missouri"
   },
   {
     "source": "hn",
@@ -51,11 +51,6 @@
   },
   {
     "source": "hn",
-    "url": "https://roszigit.com/en/blog/timescaledb-compression-hypercore",
-    "title": "How TimescaleDB compresses time-series data"
-  },
-  {
-    "source": "hn",
     "url": "https://www.wsj.com/business/deals/fox-roku-deal-f6e564f9",
     "title": "Fox to buy Roku"
   },
@@ -66,8 +61,18 @@
   },
   {
     "source": "hn",
+    "url": "http://ishmeetbindra.com/posts/reviews-have-become-expensive-rewrites-have-become-cheap/",
+    "title": "Reviews have become expensive, rewrites have become cheap"
+  },
+  {
+    "source": "hn",
     "url": "https://forgottenbytes.net/commander_keen.html",
     "title": "Game Engine White Papers Commander Keen"
+  },
+  {
+    "source": "hn",
+    "url": "https://roszigit.com/en/blog/timescaledb-compression-hypercore",
+    "title": "How TimescaleDB compresses time-series data"
   },
   {
     "source": "hn",
@@ -76,13 +81,18 @@
   },
   {
     "source": "hn",
-    "url": "https://fata.dev",
-    "title": "Show HN: Fata – Spaced repetition to fight skill rot from AI coding"
+    "url": "https://notnotp.com/notes/what-job-interviews-taught-me-about-kubernetes/",
+    "title": "What job interviews taught me about Kubernetes"
   },
   {
     "source": "hn",
-    "url": "https://maurycyz.com/projects/glass/1/",
-    "title": "Making glass-to-metal seals for home­made vacuum tubes"
+    "url": "https://cohere.com/blog/north-mini-code",
+    "title": "Cohere's First Model for Developers"
+  },
+  {
+    "source": "hn",
+    "url": "https://fata.dev",
+    "title": "Show HN: Fata – Spaced repetition to fight skill rot from AI coding"
   },
   {
     "source": "hn",
@@ -91,13 +101,18 @@
   },
   {
     "source": "hn",
-    "url": "https://grassdx.com/",
-    "title": "Show HN: Vet turned founder, AI lawn diagnosis"
+    "url": "https://maurycyz.com/projects/glass/1/",
+    "title": "Making glass-to-metal seals for home­made vacuum tubes"
   },
   {
     "source": "hn",
     "url": "https://nick.zoic.org/art/boot-naked-linux/",
     "title": "Boot Naked Linux"
+  },
+  {
+    "source": "hn",
+    "url": "https://grassdx.com/",
+    "title": "Show HN: Vet turned founder, AI lawn diagnosis"
   },
   {
     "source": "lobsters",
@@ -131,6 +146,11 @@
   },
   {
     "source": "lobsters",
+    "url": "https://inessential.com/2026/06/15/netnewswire-status.html",
+    "title": "NetNewsWire Status"
+  },
+  {
+    "source": "lobsters",
     "url": "https://savearoundtrip.com/",
     "title": "savearoundtrip: publish an HTTPS DNS record, skip a round trip"
   },
@@ -138,11 +158,6 @@
     "source": "lobsters",
     "url": "https://xvw.lol/en/articles/emacs-start.html",
     "title": "Emacs, how it all started (for me)"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://inessential.com/2026/06/15/netnewswire-status.html",
-    "title": "NetNewsWire Status"
   },
   {
     "source": "lobsters",
