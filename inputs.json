@@ -6,18 +6,13 @@
   },
   {
     "source": "hn",
-    "url": "https://www.richardosgood.com/posts/banned-book-library/",
-    "title": "Banned Book Library in a Wi-Fi Smart Light Bulb"
-  },
-  {
-    "source": "hn",
     "url": "https://www.iroh.computer/blog/v1",
     "title": "Iroh 1.0"
   },
   {
     "source": "hn",
-    "url": "https://garden-of-flowers.heikkilotvonen.com/",
-    "title": "Show HN: Garden of Flowers – an archive of pictorial typography before ASCII art"
+    "url": "https://www.richardosgood.com/posts/banned-book-library/",
+    "title": "Banned Book Library in a Wi-Fi Smart Light Bulb"
   },
   {
     "source": "hn",
@@ -26,28 +21,18 @@
   },
   {
     "source": "hn",
+    "url": "https://garden-of-flowers.heikkilotvonen.com/",
+    "title": "Show HN: Garden of Flowers – an archive of pictorial typography before ASCII art"
+  },
+  {
+    "source": "hn",
+    "url": "https://sighack.com/post/getting-creative-with-perlin-noise-fields",
+    "title": "Getting Creative with Perlin Noise Fields"
+  },
+  {
+    "source": "hn",
     "url": "https://michaelenger.com/blog/i-love-the-computer/",
     "title": "I Love the Computer"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.narracomm.com/amazon-announces-multibillion-dollar-data-center-in-missouri/",
-    "title": "Amazon Announces Multibillion-Dollar Data Center in Missouri"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.goodinternetmagazine.com/why-i-email-complete-strangers/",
-    "title": "Why I email complete strangers"
-  },
-  {
-    "source": "hn",
-    "url": "https://cohere.com/blog/north-mini-code",
-    "title": "Cohere's First Model for Developers"
-  },
-  {
-    "source": "hn",
-    "url": "https://rsgm.dev/post/ai-dev-platform/",
-    "title": "My Homelab AI Dev Platform"
   },
   {
     "source": "hn",
@@ -56,8 +41,18 @@
   },
   {
     "source": "hn",
-    "url": "https://shonczinner.github.io/posts/embedding-prediction/",
-    "title": "The 90-year-old idea behind JEPA models: Canonical Correlation Analysis"
+    "url": "https://www.goodinternetmagazine.com/why-i-email-complete-strangers/",
+    "title": "Why I email complete strangers"
+  },
+  {
+    "source": "hn",
+    "url": "https://rsgm.dev/post/ai-dev-platform/",
+    "title": "My Homelab AI Dev Platform"
+  },
+  {
+    "source": "hn",
+    "url": "https://cohere.com/blog/north-mini-code",
+    "title": "Cohere's First Model for Developers"
   },
   {
     "source": "hn",
@@ -71,13 +66,8 @@
   },
   {
     "source": "hn",
-    "url": "http://daniellakens.blogspot.com/2014/06/the-null-is-always-false-except-when-it.html",
-    "title": "The Null Is Always False (Except When It Is True) (2014)"
-  },
-  {
-    "source": "hn",
-    "url": "https://blog.johnnovak.net/2016/09/21/what-every-coder-should-know-about-gamma/",
-    "title": "What every coder should know about gamma (2016)"
+    "url": "https://www.narracomm.com/amazon-announces-multibillion-dollar-data-center-in-missouri/",
+    "title": "Amazon Announces Multibillion-Dollar Data Center in Missouri"
   },
   {
     "source": "hn",
@@ -86,8 +76,8 @@
   },
   {
     "source": "hn",
-    "url": "https://roszigit.com/en/blog/timescaledb-compression-hypercore",
-    "title": "How TimescaleDB compresses time-series data"
+    "url": "https://blog.johnnovak.net/2016/09/21/what-every-coder-should-know-about-gamma/",
+    "title": "What every coder should know about gamma (2016)"
   },
   {
     "source": "hn",
@@ -96,8 +86,8 @@
   },
   {
     "source": "hn",
-    "url": "https://grassdx.com/",
-    "title": "Show HN: Veterinarian turned founder, AI lawn diagnosis"
+    "url": "https://roszigit.com/en/blog/timescaledb-compression-hypercore",
+    "title": "How TimescaleDB compresses time-series data"
   },
   {
     "source": "lobsters",
@@ -111,6 +101,11 @@
   },
   {
     "source": "lobsters",
+    "url": "https://inessential.com/2026/06/15/netnewswire-status.html",
+    "title": "NetNewsWire Status"
+  },
+  {
+    "source": "lobsters",
     "url": "https://coopi.neocities.org/posts/taking-down-nix-flakes-vs-guix",
     "title": "Removing my nix flakes vs guix post"
   },
@@ -118,11 +113,6 @@
     "source": "lobsters",
     "url": "https://pyinfra.com",
     "title": "pyinfra — agentless infrastructure automation, in plain Python"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://inessential.com/2026/06/15/netnewswire-status.html",
-    "title": "NetNewsWire Status"
   },
   {
     "source": "lobsters",
@@ -141,11 +131,6 @@
   },
   {
     "source": "lobsters",
-    "url": "https://www.jsoftware.com/papers/eem/life.htm",
-    "title": "Life: Nasty, Brutish, and Short"
-  },
-  {
-    "source": "lobsters",
     "url": "https://xvw.lol/en/articles/emacs-start.html",
     "title": "Emacs, how it all started (for me)"
   },
@@ -161,6 +146,21 @@
   },
   {
     "source": "lobsters",
+    "url": "https://www.jsoftware.com/papers/eem/life.htm",
+    "title": "Life: Nasty, Brutish, and Short"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://tck.mn/blog/correlated-randomness-sts2/",
+    "title": "Correlated randomness in Slay the Spire 2"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://alexalejandre.com/programming/interview-with-claude-roux/",
+    "title": "Lobsters Interview with Claudius"
+  },
+  {
+    "source": "lobsters",
     "url": "https://blog.miguelgrinberg.com/post/i-am-not-a-reverse-centaur",
     "title": "I Am Not a Reverse Centaur"
   },
@@ -168,10 +168,5 @@
     "source": "lobsters",
     "url": "https://www.rntz.net/post/my-thesis.html",
     "title": "Deconstructing Datalog"
-  },
-  {
-    "source": "lobsters",
-    "url": "http://manishearth.github.io/blog/2026/06/14/diplomat-multi-language-ffi-for-rust-libraries/",
-    "title": "Diplomat: Multi-language FFI for Rust Libraries"
   }
 ]
