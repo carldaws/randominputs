@@ -6,13 +6,33 @@
   },
   {
     "source": "hn",
+    "url": "https://status.claude.com/incidents/xmhsglsz3h3w",
+    "title": "Claude: Elevated errors across many models"
+  },
+  {
+    "source": "hn",
     "url": "https://ciechanow.ski/mechanical-watch/",
     "title": "Mechanical Watch (2022)"
   },
   {
     "source": "hn",
+    "url": "https://mareksuppa.com/til/bash-dev-tcp-http-without-curl/",
+    "title": "TIL: You can make HTTP requests without curl using Bash /dev/TCP"
+  },
+  {
+    "source": "hn",
     "url": "https://subq.ai/subq-1-1-small-technical-report",
-    "title": "Subquadratic – Introducing SubQ 1.1 Small"
+    "title": "SubQ 1.1 Small"
+  },
+  {
+    "source": "hn",
+    "url": "https://parksb.github.io/en/article/32.html",
+    "title": "But yak shaving is fun"
+  },
+  {
+    "source": "hn",
+    "url": "https://ursb.me/en/posts/after-ai-takes-everything/",
+    "title": "After AI Takes Everything"
   },
   {
     "source": "hn",
@@ -21,8 +41,8 @@
   },
   {
     "source": "hn",
-    "url": "https://roman.pt/posts/linkedin-backdoor/",
-    "title": "A backdoor in a LinkedIn job offer"
+    "url": "https://blog.janestreet.com/formal-methods-at-jane-street-index/",
+    "title": "Formal Methods and the Future of Programming"
   },
   {
     "source": "hn",
@@ -31,8 +51,8 @@
   },
   {
     "source": "hn",
-    "url": "https://sighack.com/post/getting-creative-with-perlin-noise-fields",
-    "title": "Getting Creative with Perlin Noise Fields"
+    "url": "https://qwen.ai/blog?id=qwen-robotsuite",
+    "title": "Qwen-Robot Suite: A Foundation Model Suite for Physical World Intelligence"
   },
   {
     "source": "hn",
@@ -41,48 +61,33 @@
   },
   {
     "source": "hn",
-    "url": "https://sabareesh.com/posts/blackwell-waterblock/",
-    "title": "4× RTX Pro 6000 Blackwell on Water, and the One Card That Wouldn't Behave"
+    "url": "https://sighack.com/post/getting-creative-with-perlin-noise-fields",
+    "title": "Getting Creative with Perlin Noise Fields"
   },
   {
     "source": "hn",
-    "url": "https://www.theregister.com/security/2026/06/15/feds-freaked-over-fable-5-after-simple-fix-this-code-prompt-not-jailbreak-says-researcher/5255827",
-    "title": "Feds freaked over Fable 5 after simple 'fix this code' prompt, not jailbreak"
+    "url": "https://www.campolalaw.com/why-you-should-never-talk-to-the-po",
+    "title": "Never talk to the police"
   },
   {
     "source": "hn",
     "url": "https://www.richardosgood.com/posts/banned-book-library/",
-    "title": "Banned Book Library in a Wi-Fi Smart Light Bulb"
+    "title": "Banned book library in a wi-fi smart light bulb"
   },
   {
     "source": "hn",
-    "url": "https://tinywind.io",
-    "title": "TinyWind: A pixel pirate sailing game with real wind physics (380k+ kms sailed)"
+    "url": "https://www.theregister.com/security/2026/06/15/feds-freaked-over-fable-5-after-simple-fix-this-code-prompt-not-jailbreak-says-researcher/5255827",
+    "title": "Feds freaked over Fable 5 after 'fix this code', not jailbreak, say researchers"
   },
   {
     "source": "hn",
-    "url": "https://michaelenger.com/blog/i-love-the-computer/",
-    "title": "I Love the Computer"
+    "url": "https://www.rferl.org/a/the-manhoff-archive/28359558.html",
+    "title": "The Manhoff Archives: Color photos of Stalin-era USSR taken by a US diplomat"
   },
   {
     "source": "hn",
-    "url": "https://garden-of-flowers.heikkilotvonen.com/",
-    "title": "Show HN: Garden of Flowers – an archive of pictorial typography before ASCII art"
-  },
-  {
-    "source": "hn",
-    "url": "https://rarehistoricalphotos.com/stalin-era-soviet-union-pictures-martin-manhoff/",
-    "title": "Color Photos of Stalin-Era Soviet Union Taken by a US Diplomat"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.theartofdoingstuff.com/i-fired-google/",
-    "title": "I Fired Google"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.iroh.computer/blog/v1",
-    "title": "Iroh 1.0"
+    "url": "https://roman.pt/posts/linkedin-backdoor/",
+    "title": "A backdoor in a LinkedIn job offer"
   },
   {
     "source": "lobsters",
@@ -106,13 +111,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://alexalejandre.com/programming/interview-with-claude-roux/",
-    "title": "Lobsters Interview with Claudius"
+    "url": "https://www.iroh.computer/blog/v1",
+    "title": "Iroh 1.0 - Dial Keys, not IPs"
   },
   {
     "source": "lobsters",
-    "url": "https://inessential.com/2026/06/15/netnewswire-status.html",
-    "title": "NetNewsWire Status"
+    "url": "https://alexalejandre.com/programming/interview-with-claude-roux/",
+    "title": "Lobsters Interview with Claudius"
   },
   {
     "source": "lobsters",
@@ -121,23 +126,18 @@
   },
   {
     "source": "lobsters",
+    "url": "https://trifectatech.org/blog/zlib-rs-in-firefox/",
+    "title": "zlib-rs in Firefox"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://inessential.com/2026/06/15/netnewswire-status.html",
+    "title": "NetNewsWire Status"
+  },
+  {
+    "source": "lobsters",
     "url": "https://wolfgirl.dev/blog/2026-06-16-async-task-locals-from-scratch/",
     "title": "Async Task Locals From Scratch"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://coopi.neocities.org/posts/taking-down-nix-flakes-vs-guix",
-    "title": "Removing my nix flakes vs guix post"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://pyinfra.com",
-    "title": "pyinfra — agentless infrastructure automation, in plain Python"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://bbenchoff.github.io/pages/8Tracks.html",
-    "title": "LLMs Will Replace 8-Track Duplication Engineers"
   },
   {
     "source": "lobsters",
@@ -146,28 +146,23 @@
   },
   {
     "source": "lobsters",
-    "url": "https://savearoundtrip.com/",
-    "title": "savearoundtrip: publish an HTTPS DNS record, skip a round trip"
+    "url": "https://coopi.neocities.org/posts/taking-down-nix-flakes-vs-guix",
+    "title": "Removing my nix flakes vs guix post"
   },
   {
     "source": "lobsters",
-    "url": "https://trifectatech.org/blog/zlib-rs-in-firefox/",
-    "title": "zlib-rs in Firefox"
+    "url": "https://bbenchoff.github.io/pages/8Tracks.html",
+    "title": "LLMs Will Replace 8-Track Duplication Engineers"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://pyinfra.com",
+    "title": "pyinfra — agentless infrastructure automation, in plain Python"
   },
   {
     "source": "lobsters",
     "url": "https://www.volkerkrause.eu/2026/06/13/kde-android-news-june-2026.html",
     "title": "KDE Android News (June 2026)"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://xavierleroy.org/control-structures/book/index.html",
-    "title": "Control Structures in Programming Languages"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://wizardzines.com/comics/write-for-one-person/",
-    "title": "write for one person"
   },
   {
     "source": "pinboard",
@@ -198,6 +193,11 @@
     "source": "pinboard",
     "url": "https://garrit.xyz/posts/2026-05-06-dont-trust-large-context-windows",
     "title": "Don't trust large context windows | Garrit's Notes"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://wizardzines.com/comics/write-for-one-person/",
+    "title": "write for one person"
   },
   {
     "source": "pinboard",
