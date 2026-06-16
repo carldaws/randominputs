@@ -6,6 +6,11 @@
   },
   {
     "source": "hn",
+    "url": "https://arseniyshestakov.com/2026/06/16/apple-is-about-to-make-hide-my-email-useless/",
+    "title": "Apple is about to make Hide My Email useless"
+  },
+  {
+    "source": "hn",
     "url": "https://mareksuppa.com/til/bash-dev-tcp-http-without-curl/",
     "title": "TIL: You can make HTTP requests without curl using Bash /dev/TCP"
   },
@@ -16,13 +21,23 @@
   },
   {
     "source": "hn",
-    "url": "https://status.claude.com/incidents/xmhsglsz3h3w",
-    "title": "Claude: Elevated errors across many models"
+    "url": "https://parksb.github.io/en/article/32.html",
+    "title": "But yak shaving is fun"
   },
   {
     "source": "hn",
-    "url": "https://parksb.github.io/en/article/32.html",
-    "title": "But yak shaving is fun"
+    "url": "https://wegfawefgawefg.github.io/asm-shader-toy/",
+    "title": "ASM SHADER TOY – It's shader toy but you code in asm"
+  },
+  {
+    "source": "hn",
+    "url": "https://words.filippo.io/frood/",
+    "title": "Frood, an Alpine Initramfs NAS"
+  },
+  {
+    "source": "hn",
+    "url": "https://status.claude.com/incidents/xmhsglsz3h3w",
+    "title": "Claude: Elevated errors across many models"
   },
   {
     "source": "hn",
@@ -31,28 +46,13 @@
   },
   {
     "source": "hn",
-    "url": "https://tck.mn/blog/correlated-randomness-sts2/",
-    "title": "Correlated randomness in Slay the Spire 2"
-  },
-  {
-    "source": "hn",
-    "url": "https://subq.ai/subq-1-1-small-technical-report",
-    "title": "SubQ 1.1 Small"
-  },
-  {
-    "source": "hn",
     "url": "https://tim.blog/2026/06/12/has-ai-already-killed-nonfiction/",
     "title": "Has AI already killed self-help nonfiction books?"
   },
   {
     "source": "hn",
-    "url": "https://qwen.ai/blog?id=qwen-robotsuite",
-    "title": "Qwen-Robot Suite: A Foundation Model Suite for Physical World Intelligence"
-  },
-  {
-    "source": "hn",
-    "url": "https://ursb.me/en/posts/after-ai-takes-everything/",
-    "title": "After AI Takes Everything"
+    "url": "https://tck.mn/blog/correlated-randomness-sts2/",
+    "title": "Correlated randomness in Slay the Spire 2"
   },
   {
     "source": "hn",
@@ -61,33 +61,23 @@
   },
   {
     "source": "hn",
+    "url": "https://qwen.ai/blog?id=qwen-robotsuite",
+    "title": "Qwen-Robot Suite: A Foundation Model Suite for Physical World Intelligence"
+  },
+  {
+    "source": "hn",
+    "url": "https://subq.ai/subq-1-1-small-technical-report",
+    "title": "SubQ 1.1 Small"
+  },
+  {
+    "source": "hn",
     "url": "https://shadycharacters.co.uk/2026/06/ollie-wagner/",
     "title": "An interview with an Apple emoji designer"
   },
   {
     "source": "hn",
-    "url": "https://blog.goodman.dev/blog/octopus-agent-architecture/",
-    "title": "The octopus architecture for AI agents"
-  },
-  {
-    "source": "hn",
     "url": "https://sighack.com/post/getting-creative-with-perlin-noise-fields",
     "title": "Getting Creative with Perlin Noise Fields"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.unicorn-engine.org/",
-    "title": "Unicorn – The Ultimate CPU Emulator"
-  },
-  {
-    "source": "hn",
-    "url": "https://garden-of-flowers.heikkilotvonen.com/",
-    "title": "Show HN: Garden of Flowers – an archive of pictorial typography before ASCII art"
-  },
-  {
-    "source": "hn",
-    "url": "https://exclav.es/2026/06/13/flip-table-storing-arbitrary-data-in-inaturalist/",
-    "title": "Flip TABLE: storing arbitrary data in iNaturalist"
   },
   {
     "source": "lobsters",
@@ -106,18 +96,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://notnotp.com/notes/what-job-interviews-taught-me-about-kubernetes/",
-    "title": "What job interviews taught me about Kubernetes"
-  },
-  {
-    "source": "lobsters",
     "url": "https://www.richardosgood.com/posts/banned-book-library/",
     "title": "Banned book library in a Wi-Fi lightbulb"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://daniel.haxx.se/blog/2026/06/15/curl-summer-of-bliss/",
-    "title": "curl summer of bliss"
   },
   {
     "source": "lobsters",
@@ -126,13 +106,28 @@
   },
   {
     "source": "lobsters",
+    "url": "https://trifectatech.org/blog/zlib-rs-in-firefox/",
+    "title": "zlib-rs in Firefox"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://notnotp.com/notes/what-job-interviews-taught-me-about-kubernetes/",
+    "title": "What job interviews taught me about Kubernetes"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://daniel.haxx.se/blog/2026/06/15/curl-summer-of-bliss/",
+    "title": "curl summer of bliss"
+  },
+  {
+    "source": "lobsters",
     "url": "https://filipfila.wordpress.com/2026/06/16/oxygen-6-7-is-here-a-breath-of-fresh-air-for-kdes-classic-theme/",
     "title": "Oxygen 6.7 is here: a breath of fresh air for KDE’s classic theme"
   },
   {
     "source": "lobsters",
-    "url": "https://trifectatech.org/blog/zlib-rs-in-firefox/",
-    "title": "zlib-rs in Firefox"
+    "url": "https://wolfgirl.dev/blog/2026-06-16-async-task-locals-from-scratch/",
+    "title": "Async Task Locals From Scratch"
   },
   {
     "source": "lobsters",
@@ -151,11 +146,6 @@
   },
   {
     "source": "lobsters",
-    "url": "https://wolfgirl.dev/blog/2026-06-16-async-task-locals-from-scratch/",
-    "title": "Async Task Locals From Scratch"
-  },
-  {
-    "source": "lobsters",
     "url": "https://coopi.neocities.org/posts/taking-down-nix-flakes-vs-guix",
     "title": "Removing my nix flakes vs guix post"
   },
@@ -166,8 +156,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://pyinfra.com",
-    "title": "pyinfra — agentless infrastructure automation, in plain Python"
+    "url": "https://andyatkinson.com/postgresql-rds-scaling-aws-christmas-day-peak",
+    "title": "From Christmas Outage to #1 App Store Ranking: An Aura Frames Postgres Scaling Retrospective"
   },
   {
     "source": "pinboard",
