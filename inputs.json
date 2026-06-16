@@ -6,6 +6,11 @@
   },
   {
     "source": "hn",
+    "url": "https://sighack.com/post/getting-creative-with-perlin-noise-fields",
+    "title": "Getting Creative with Perlin Noise Fields"
+  },
+  {
+    "source": "hn",
     "url": "https://www.iroh.computer/blog/v1",
     "title": "Iroh 1.0"
   },
@@ -21,13 +26,18 @@
   },
   {
     "source": "hn",
+    "url": "https://www.theregister.com/security/2026/06/15/feds-freaked-over-fable-5-after-simple-fix-this-code-prompt-not-jailbreak-says-researcher/5255827",
+    "title": "Feds freaked over Fable 5 after simple 'fix this code' prompt, not jailbreak"
+  },
+  {
+    "source": "hn",
     "url": "https://garden-of-flowers.heikkilotvonen.com/",
     "title": "Show HN: Garden of Flowers – an archive of pictorial typography before ASCII art"
   },
   {
     "source": "hn",
-    "url": "https://sighack.com/post/getting-creative-with-perlin-noise-fields",
-    "title": "Getting Creative with Perlin Noise Fields"
+    "url": "https://commodore.net/why-a-flip-phone/",
+    "title": "Commodore Releases Flip Phone"
   },
   {
     "source": "hn",
@@ -41,11 +51,6 @@
   },
   {
     "source": "hn",
-    "url": "https://www.goodinternetmagazine.com/why-i-email-complete-strangers/",
-    "title": "Why I email complete strangers"
-  },
-  {
-    "source": "hn",
     "url": "https://rsgm.dev/post/ai-dev-platform/",
     "title": "My Homelab AI Dev Platform"
   },
@@ -56,6 +61,11 @@
   },
   {
     "source": "hn",
+    "url": "https://www.goodinternetmagazine.com/why-i-email-complete-strangers/",
+    "title": "Why I email complete strangers"
+  },
+  {
+    "source": "hn",
     "url": "https://www.wsj.com/business/deals/fox-roku-deal-f6e564f9",
     "title": "Fox to buy Roku"
   },
@@ -63,11 +73,6 @@
     "source": "hn",
     "url": "https://notnotp.com/notes/what-job-interviews-taught-me-about-kubernetes/",
     "title": "What job interviews taught me about Kubernetes"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.narracomm.com/amazon-announces-multibillion-dollar-data-center-in-missouri/",
-    "title": "Amazon Announces Multibillion-Dollar Data Center in Missouri"
   },
   {
     "source": "hn",
@@ -83,11 +88,6 @@
     "source": "hn",
     "url": "https://forgottenbytes.net/commander_keen.html",
     "title": "Game Engine White Papers: Commander Keen"
-  },
-  {
-    "source": "hn",
-    "url": "https://roszigit.com/en/blog/timescaledb-compression-hypercore",
-    "title": "How TimescaleDB compresses time-series data"
   },
   {
     "source": "lobsters",
@@ -116,28 +116,13 @@
   },
   {
     "source": "lobsters",
+    "url": "https://filipfila.wordpress.com/2026/06/16/oxygen-6-7-is-here-a-breath-of-fresh-air-for-kdes-classic-theme/",
+    "title": "Oxygen 6.7 is here: a breath of fresh air for KDE’s classic theme"
+  },
+  {
+    "source": "lobsters",
     "url": "https://savearoundtrip.com/",
     "title": "savearoundtrip: publish an HTTPS DNS record, skip a round trip"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://xavierleroy.org/control-structures/book/index.html",
-    "title": "Control Structures in Programming Languages"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://wizardzines.com/comics/write-for-one-person/",
-    "title": "write for one person"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://xvw.lol/en/articles/emacs-start.html",
-    "title": "Emacs, how it all started (for me)"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://nick.zoic.org/art/boot-naked-linux/",
-    "title": "Boot Naked Linux"
   },
   {
     "source": "lobsters",
@@ -146,13 +131,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://www.jsoftware.com/papers/eem/life.htm",
-    "title": "Life: Nasty, Brutish, and Short"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://tck.mn/blog/correlated-randomness-sts2/",
-    "title": "Correlated randomness in Slay the Spire 2"
+    "url": "https://xavierleroy.org/control-structures/book/index.html",
+    "title": "Control Structures in Programming Languages"
   },
   {
     "source": "lobsters",
@@ -161,12 +141,37 @@
   },
   {
     "source": "lobsters",
-    "url": "https://blog.miguelgrinberg.com/post/i-am-not-a-reverse-centaur",
-    "title": "I Am Not a Reverse Centaur"
+    "url": "https://wizardzines.com/comics/write-for-one-person/",
+    "title": "write for one person"
   },
   {
     "source": "lobsters",
-    "url": "https://www.rntz.net/post/my-thesis.html",
-    "title": "Deconstructing Datalog"
+    "url": "https://nick.zoic.org/art/boot-naked-linux/",
+    "title": "Boot Naked Linux"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://tck.mn/blog/correlated-randomness-sts2/",
+    "title": "Correlated randomness in Slay the Spire 2"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://www.jsoftware.com/papers/eem/life.htm",
+    "title": "Life: Nasty, Brutish, and Short"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://xvw.lol/en/articles/emacs-start.html",
+    "title": "Emacs, how it all started (for me)"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://blog.andr2i.com/posts/2026-06-08-optimization-catalog-when-float-division-beats-integer-division",
+    "title": "When float division beats integer division"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://www.volkerkrause.eu/2026/06/13/kde-android-news-june-2026.html",
+    "title": "KDE Android News (June 2026)"
   }
 ]
