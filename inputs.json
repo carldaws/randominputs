@@ -16,6 +16,11 @@
   },
   {
     "source": "hn",
+    "url": "https://garden-of-flowers.heikkilotvonen.com/",
+    "title": "Show HN: Garden of Flowers – an archive of pictorial typography before ASCII art"
+  },
+  {
+    "source": "hn",
     "url": "https://tinywind.io",
     "title": "TinyWind: A pixel pirate sailing game with real wind physics (380k+ kms sailed)"
   },
@@ -26,13 +31,8 @@
   },
   {
     "source": "hn",
-    "url": "https://bobdahacker.com/blog/fifa-hack",
-    "title": "I Could've Rickrolled the FIFA World Cup. All I Needed Was My ID"
-  },
-  {
-    "source": "hn",
-    "url": "https://shonczinner.github.io/posts/embedding-prediction/",
-    "title": "The 90-year-old idea behind JEPA models: Canonical Correlation Analysis"
+    "url": "https://www.narracomm.com/amazon-announces-multibillion-dollar-data-center-in-missouri/",
+    "title": "Amazon Announces Multibillion-Dollar Data Center in Missouri"
   },
   {
     "source": "hn",
@@ -46,11 +46,6 @@
   },
   {
     "source": "hn",
-    "url": "https://www.narracomm.com/amazon-announces-multibillion-dollar-data-center-in-missouri/",
-    "title": "Amazon Announces Multibillion-Dollar Data Center in Missouri"
-  },
-  {
-    "source": "hn",
     "url": "https://rsgm.dev/post/ai-dev-platform/",
     "title": "My Homelab AI Dev Platform"
   },
@@ -61,28 +56,13 @@
   },
   {
     "source": "hn",
+    "url": "https://shonczinner.github.io/posts/embedding-prediction/",
+    "title": "The 90-year-old idea behind JEPA models: Canonical Correlation Analysis"
+  },
+  {
+    "source": "hn",
     "url": "https://www.wsj.com/business/deals/fox-roku-deal-f6e564f9",
     "title": "Fox to buy Roku"
-  },
-  {
-    "source": "hn",
-    "url": "https://blog.johnnovak.net/2016/09/21/what-every-coder-should-know-about-gamma/",
-    "title": "What every coder should know about gamma (2016)"
-  },
-  {
-    "source": "hn",
-    "url": "http://ishmeetbindra.com/posts/reviews-have-become-expensive-rewrites-have-become-cheap/",
-    "title": "Reviews have become expensive, rewrites have become cheap"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.salesforce.com/news/press-releases/2026/06/15/salesforce-signs-definitive-agreement-to-acquire-fin/?bc=HL",
-    "title": "Salesforce to Acquire Fin (formerly Intercom) for $3.6B"
-  },
-  {
-    "source": "hn",
-    "url": "https://forgottenbytes.net/commander_keen.html",
-    "title": "Game Engine White Papers: Commander Keen"
   },
   {
     "source": "hn",
@@ -91,13 +71,28 @@
   },
   {
     "source": "hn",
+    "url": "http://daniellakens.blogspot.com/2014/06/the-null-is-always-false-except-when-it.html",
+    "title": "The Null Is Always False (Except When It Is True) (2014)"
+  },
+  {
+    "source": "hn",
+    "url": "https://blog.johnnovak.net/2016/09/21/what-every-coder-should-know-about-gamma/",
+    "title": "What every coder should know about gamma (2016)"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.salesforce.com/news/press-releases/2026/06/15/salesforce-signs-definitive-agreement-to-acquire-fin/?bc=HL",
+    "title": "Salesforce to Acquire Fin (formerly Intercom) for $3.6B"
+  },
+  {
+    "source": "hn",
     "url": "https://roszigit.com/en/blog/timescaledb-compression-hypercore",
     "title": "How TimescaleDB compresses time-series data"
   },
   {
     "source": "hn",
-    "url": "https://bruceediger.com/posts/honeypot-design/",
-    "title": "Honeypot Design"
+    "url": "https://forgottenbytes.net/commander_keen.html",
+    "title": "Game Engine White Papers: Commander Keen"
   },
   {
     "source": "hn",
@@ -131,8 +126,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://wizardzines.com/comics/write-for-one-person/",
-    "title": "write for one person"
+    "url": "https://savearoundtrip.com/",
+    "title": "savearoundtrip: publish an HTTPS DNS record, skip a round trip"
   },
   {
     "source": "lobsters",
@@ -141,8 +136,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://savearoundtrip.com/",
-    "title": "savearoundtrip: publish an HTTPS DNS record, skip a round trip"
+    "url": "https://wizardzines.com/comics/write-for-one-person/",
+    "title": "write for one person"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://www.jsoftware.com/papers/eem/life.htm",
+    "title": "Life: Nasty, Brutish, and Short"
   },
   {
     "source": "lobsters",
@@ -156,18 +156,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://www.jsoftware.com/papers/eem/life.htm",
-    "title": "Life: Nasty, Brutish, and Short"
+    "url": "https://bbenchoff.github.io/pages/8Tracks.html",
+    "title": "LLMs Will Replace 8-Track Duplication Engineers"
   },
   {
     "source": "lobsters",
     "url": "https://blog.miguelgrinberg.com/post/i-am-not-a-reverse-centaur",
     "title": "I Am Not a Reverse Centaur"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://bbenchoff.github.io/pages/8Tracks.html",
-    "title": "LLMs Will Replace 8-Track Duplication Engineers"
   },
   {
     "source": "lobsters",
@@ -178,10 +173,5 @@
     "source": "lobsters",
     "url": "http://manishearth.github.io/blog/2026/06/14/diplomat-multi-language-ffi-for-rust-libraries/",
     "title": "Diplomat: Multi-language FFI for Rust Libraries"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://karthinks.com/software/even-more-batteries-included-with-emacs/",
-    "title": "Even More Batteries Included With Emacs"
   }
 ]
