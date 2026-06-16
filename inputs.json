@@ -6,8 +6,8 @@
   },
   {
     "source": "hn",
-    "url": "https://status.claude.com/incidents/xmhsglsz3h3w",
-    "title": "Claude: Elevated errors across many models"
+    "url": "https://mareksuppa.com/til/bash-dev-tcp-http-without-curl/",
+    "title": "TIL: You can make HTTP requests without curl using Bash /dev/TCP"
   },
   {
     "source": "hn",
@@ -16,13 +16,8 @@
   },
   {
     "source": "hn",
-    "url": "https://mareksuppa.com/til/bash-dev-tcp-http-without-curl/",
-    "title": "TIL: You can make HTTP requests without curl using Bash /dev/TCP"
-  },
-  {
-    "source": "hn",
-    "url": "https://subq.ai/subq-1-1-small-technical-report",
-    "title": "SubQ 1.1 Small"
+    "url": "https://status.claude.com/incidents/xmhsglsz3h3w",
+    "title": "Claude: Elevated errors across many models"
   },
   {
     "source": "hn",
@@ -31,13 +26,33 @@
   },
   {
     "source": "hn",
-    "url": "https://ursb.me/en/posts/after-ai-takes-everything/",
-    "title": "After AI Takes Everything"
+    "url": "https://www.gilesthomas.com/2026/06/10g-ethernet-switching-to-broadcom-sfp-plus",
+    "title": "10Gb/s Ethernet: switching to a Broadcom SFP+ module"
   },
   {
     "source": "hn",
     "url": "https://tck.mn/blog/correlated-randomness-sts2/",
     "title": "Correlated randomness in Slay the Spire 2"
+  },
+  {
+    "source": "hn",
+    "url": "https://subq.ai/subq-1-1-small-technical-report",
+    "title": "SubQ 1.1 Small"
+  },
+  {
+    "source": "hn",
+    "url": "https://tim.blog/2026/06/12/has-ai-already-killed-nonfiction/",
+    "title": "Has AI already killed self-help nonfiction books?"
+  },
+  {
+    "source": "hn",
+    "url": "https://qwen.ai/blog?id=qwen-robotsuite",
+    "title": "Qwen-Robot Suite: A Foundation Model Suite for Physical World Intelligence"
+  },
+  {
+    "source": "hn",
+    "url": "https://ursb.me/en/posts/after-ai-takes-everything/",
+    "title": "After AI Takes Everything"
   },
   {
     "source": "hn",
@@ -51,13 +66,8 @@
   },
   {
     "source": "hn",
-    "url": "https://qwen.ai/blog?id=qwen-robotsuite",
-    "title": "Qwen-Robot Suite: A Foundation Model Suite for Physical World Intelligence"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.unicorn-engine.org/",
-    "title": "Unicorn – The Ultimate CPU Emulator"
+    "url": "https://blog.goodman.dev/blog/octopus-agent-architecture/",
+    "title": "The octopus architecture for AI agents"
   },
   {
     "source": "hn",
@@ -66,28 +76,28 @@
   },
   {
     "source": "hn",
-    "url": "https://www.campolalaw.com/why-you-should-never-talk-to-the-po",
-    "title": "Never talk to the police"
+    "url": "https://www.unicorn-engine.org/",
+    "title": "Unicorn – The Ultimate CPU Emulator"
   },
   {
     "source": "hn",
-    "url": "https://www.richardosgood.com/posts/banned-book-library/",
-    "title": "Banned book library in a wi-fi smart light bulb"
+    "url": "https://garden-of-flowers.heikkilotvonen.com/",
+    "title": "Show HN: Garden of Flowers – an archive of pictorial typography before ASCII art"
   },
   {
     "source": "hn",
-    "url": "https://www.theregister.com/security/2026/06/15/feds-freaked-over-fable-5-after-simple-fix-this-code-prompt-not-jailbreak-says-researcher/5255827",
-    "title": "Feds freaked over Fable 5 after 'fix this code', not jailbreak, say researchers"
+    "url": "https://exclav.es/2026/06/13/flip-table-storing-arbitrary-data-in-inaturalist/",
+    "title": "Flip TABLE: storing arbitrary data in iNaturalist"
   },
   {
-    "source": "hn",
-    "url": "https://www.rferl.org/a/the-manhoff-archive/28359558.html",
-    "title": "The Manhoff Archives: Color photos of Stalin-era USSR taken by a US diplomat"
-  },
-  {
-    "source": "hn",
+    "source": "lobsters",
     "url": "https://roman.pt/posts/linkedin-backdoor/",
     "title": "A backdoor in a LinkedIn job offer"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://kobzol.github.io/rust/2026/06/15/how-memory-safety-cves-differ-between-rust-and-c-cpp.html",
+    "title": "How memory safety CVEs differ between Rust and C/C++"
   },
   {
     "source": "lobsters",
@@ -101,18 +111,13 @@
   },
   {
     "source": "lobsters",
+    "url": "https://www.richardosgood.com/posts/banned-book-library/",
+    "title": "Banned book library in a Wi-Fi lightbulb"
+  },
+  {
+    "source": "lobsters",
     "url": "https://daniel.haxx.se/blog/2026/06/15/curl-summer-of-bliss/",
     "title": "curl summer of bliss"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://kobzol.github.io/rust/2026/06/15/how-memory-safety-cves-differ-between-rust-and-c-cpp.html",
-    "title": "How memory safety CVEs differ between Rust and C/C++"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://www.iroh.computer/blog/v1",
-    "title": "Iroh 1.0 - Dial Keys, not IPs"
   },
   {
     "source": "lobsters",
@@ -131,18 +136,23 @@
   },
   {
     "source": "lobsters",
+    "url": "https://www.iroh.computer/blog/v1",
+    "title": "Iroh 1.0 - Dial Keys, not IPs"
+  },
+  {
+    "source": "lobsters",
     "url": "https://inessential.com/2026/06/15/netnewswire-status.html",
     "title": "NetNewsWire Status"
   },
   {
     "source": "lobsters",
-    "url": "https://wolfgirl.dev/blog/2026-06-16-async-task-locals-from-scratch/",
-    "title": "Async Task Locals From Scratch"
+    "url": "https://blog.andr2i.com/posts/2026-06-08-optimization-catalog-when-float-division-beats-integer-division",
+    "title": "When float division beats integer division"
   },
   {
     "source": "lobsters",
-    "url": "https://blog.andr2i.com/posts/2026-06-08-optimization-catalog-when-float-division-beats-integer-division",
-    "title": "When float division beats integer division"
+    "url": "https://wolfgirl.dev/blog/2026-06-16-async-task-locals-from-scratch/",
+    "title": "Async Task Locals From Scratch"
   },
   {
     "source": "lobsters",
@@ -158,11 +168,6 @@
     "source": "lobsters",
     "url": "https://pyinfra.com",
     "title": "pyinfra — agentless infrastructure automation, in plain Python"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://www.volkerkrause.eu/2026/06/13/kde-android-news-june-2026.html",
-    "title": "KDE Android News (June 2026)"
   },
   {
     "source": "pinboard",
@@ -243,10 +248,5 @@
     "source": "pinboard",
     "url": "https://karthinks.com/software/even-more-batteries-included-with-emacs/",
     "title": "Even More Batteries Included with Emacs | Karthinks"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://tim.blog/2026/06/12/has-ai-already-killed-nonfiction/",
-    "title": "Has AI Already Killed How-To Nonfiction? Sales Trends, My Personal Data, and What It Might Mean for the Future - The Blog of Author Tim Ferriss"
   }
 ]
