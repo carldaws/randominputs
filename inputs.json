@@ -11,18 +11,23 @@
   },
   {
     "source": "hn",
+    "url": "https://browser-use.com/posts/firecracker-browser-infra",
+    "title": "How we run Firecracker VMs inside EC2 and start browsers in less than 1s"
+  },
+  {
+    "source": "hn",
     "url": "https://www.rfc-editor.org/info/rfc10008/",
     "title": "RFC 10008: The new HTTP Query Method"
   },
   {
     "source": "hn",
-    "url": "https://www.lutr.dev/want-your-images-back-sure-that-ll-be-5-dollars",
-    "title": "Want your images back? That'll be $5"
+    "url": "https://ghostinthedata.info/posts/2026/2026-06-13-human-connection-moat/",
+    "title": "The Competitive Moat That AI Can't Replicate"
   },
   {
     "source": "hn",
-    "url": "https://browser-use.com/posts/firecracker-browser-infra",
-    "title": "How we run Firecracker VMs inside EC2 and start browsers in less than 1s"
+    "url": "https://www.lutr.dev/want-your-images-back-sure-that-ll-be-5-dollars",
+    "title": "Want your images back? That'll be $5"
   },
   {
     "source": "hn",
@@ -41,8 +46,8 @@
   },
   {
     "source": "hn",
-    "url": "https://mathenchant.wordpress.com/2026/06/15/seventeen-camels-and-where-they-can-take-you/",
-    "title": "Seventeen Camels and Where They Can Take You"
+    "url": "https://thehappytraveler.ca/travel-guide-italy/capitoline-wolf-siena-rome-myths/",
+    "title": "The Capitoline Wolf"
   },
   {
     "source": "hn",
@@ -61,8 +66,8 @@
   },
   {
     "source": "hn",
-    "url": "https://ghostinthedata.info/posts/2026/2026-06-13-human-connection-moat/",
-    "title": "The Competitive Moat That AI Can't Replicate"
+    "url": "https://mathenchant.wordpress.com/2026/06/15/seventeen-camels-and-where-they-can-take-you/",
+    "title": "Seventeen Camels and Where They Can Take You"
   },
   {
     "source": "lobsters",
@@ -86,8 +91,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://blog.argus-systems.ai/blog/openbsd-pap-27-year-auth-bypass.html",
-    "title": "A 27-Year-Old Authentication Bypass in OpenBSD's PPP Stack"
+    "url": "https://yogthos.net/posts/2026-06-08-dirge-code.html",
+    "title": "Making budget models punch above their weight with a smart Rust harness"
   },
   {
     "source": "lobsters",
@@ -96,13 +101,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://blog.haskell.org/making-ghc-upgrades-easy/",
-    "title": "Making GHC upgrades easy"
+    "url": "https://blog.argus-systems.ai/blog/openbsd-pap-27-year-auth-bypass.html",
+    "title": "A 27-Year-Old Authentication Bypass in OpenBSD's PPP Stack"
   },
   {
     "source": "lobsters",
-    "url": "https://yogthos.net/posts/2026-06-08-dirge-code.html",
-    "title": "Making budget models punch above their weight with a smart Rust harness"
+    "url": "https://blog.haskell.org/making-ghc-upgrades-easy/",
+    "title": "Making GHC upgrades easy"
   },
   {
     "source": "lobsters",
@@ -131,13 +136,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://juniperspring.org/posts/honda-evil-valet/",
-    "title": "Honda Civics and the Evil Valet"
+    "url": "https://mareksuppa.com/til/bash-dev-tcp-http-without-curl/",
+    "title": "Making HTTP requests from a container that has no curl, using bash /dev/tcp"
   },
   {
     "source": "lobsters",
-    "url": "https://mareksuppa.com/til/bash-dev-tcp-http-without-curl/",
-    "title": "Making HTTP requests from a container that has no curl, using bash /dev/tcp"
+    "url": "https://juniperspring.org/posts/honda-evil-valet/",
+    "title": "Honda Civics and the Evil Valet"
   },
   {
     "source": "pinboard",
