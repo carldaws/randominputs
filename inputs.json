@@ -16,6 +16,11 @@
   },
   {
     "source": "hn",
+    "url": "https://www.sigarch.org/the-return-of-rigorous-full-system-timing-simulation/",
+    "title": "The Return of Rigorous Full-System Timing Simulation"
+  },
+  {
+    "source": "hn",
     "url": "https://www.rfc-editor.org/info/rfc10008/",
     "title": "RFC 10008: The new HTTP Query Method"
   },
@@ -41,28 +46,13 @@
   },
   {
     "source": "hn",
-    "url": "https://kirklandroundabouts.com",
-    "title": "Kirkland Roundabouts"
-  },
-  {
-    "source": "hn",
     "url": "https://www.greptile.com/blog/trex-code-execution",
     "title": "TREX: An AI code reviewer that runs your code"
   },
   {
     "source": "hn",
-    "url": "https://thehappytraveler.ca/travel-guide-italy/capitoline-wolf-siena-rome-myths/",
-    "title": "The Capitoline Wolf"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.makingsoftware.com/chapters/image-compression",
-    "title": "Image Compression"
-  },
-  {
-    "source": "hn",
-    "url": "https://starscope.live/feed",
-    "title": "Show HN: StarScope – Free astronomy dashboard for observers outside the US/UK"
+    "url": "https://kirklandroundabouts.com",
+    "title": "Kirkland Roundabouts"
   },
   {
     "source": "hn",
@@ -71,8 +61,13 @@
   },
   {
     "source": "hn",
-    "url": "https://airfields-freeman.com/",
-    "title": "Abandoned and Little-Known Airfields"
+    "url": "https://www.makingsoftware.com/chapters/image-compression",
+    "title": "Image Compression"
+  },
+  {
+    "source": "hn",
+    "url": "https://loreline.app/en/",
+    "title": "Loreline – Tools for writing interactive fiction"
   },
   {
     "source": "hn",
@@ -81,8 +76,13 @@
   },
   {
     "source": "hn",
-    "url": "https://cells2pixels.github.io/",
-    "title": "Show HN: High-Res Neural Cellular Automata"
+    "url": "https://starscope.live/feed",
+    "title": "Show HN: StarScope – Free astronomy dashboard for observers outside the US/UK"
+  },
+  {
+    "source": "hn",
+    "url": "https://airfields-freeman.com/",
+    "title": "Abandoned and Little-Known Airfields"
   },
   {
     "source": "lobsters",
@@ -106,13 +106,18 @@
   },
   {
     "source": "lobsters",
+    "url": "https://blog.haskell.org/making-ghc-upgrades-easy/",
+    "title": "Making GHC upgrades easy"
+  },
+  {
+    "source": "lobsters",
     "url": "https://yogthos.net/posts/2026-06-08-dirge-code.html",
     "title": "Making budget models punch above their weight with a smart Rust harness"
   },
   {
     "source": "lobsters",
-    "url": "https://blog.haskell.org/making-ghc-upgrades-easy/",
-    "title": "Making GHC upgrades easy"
+    "url": "https://blog.argus-systems.ai/blog/openbsd-pap-27-year-auth-bypass.html",
+    "title": "A 27-Year-Old Authentication Bypass in OpenBSD's PPP Stack"
   },
   {
     "source": "lobsters",
@@ -126,8 +131,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://blog.argus-systems.ai/blog/openbsd-pap-27-year-auth-bypass.html",
-    "title": "A 27-Year-Old Authentication Bypass in OpenBSD's PPP Stack"
+    "url": "https://rousseeuwprize.org/2026",
+    "title": "R Core team wins Rousseeuw Prize for Statistics 2026"
   },
   {
     "source": "lobsters",
@@ -153,95 +158,5 @@
     "source": "lobsters",
     "url": "https://mareksuppa.com/til/bash-dev-tcp-http-without-curl/",
     "title": "Making HTTP requests from a container that has no curl, using bash /dev/tcp"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://sqltoerdiagram.com/",
-    "title": "SQL to ER Diagram — Free Online ERD Generator from SQL (no signup)"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://matthewbutterick.com/extinction-level-capitalism.html",
-    "title": "Matthew Butterick | Extinction-level capitalism"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://paulgraham.com/earn.html",
-    "title": "How to Earn a Billion Dollars"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://news.ycombinator.com/item?id=48542100",
-    "title": "Ask HN: Has anyone replaced Claude/GPT with a local model for daily coding? | Hacker News"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://ikyle.me/blog/2026/how-to-setup-a-local-coding-agent-on-macos",
-    "title": "How to Setup a Local Coding Agent on macOS - Kyle Howells"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://faroutcompany.com/",
-    "title": "Far Out Company — Countercultural visual overload"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.richardosgood.com/posts/banned-book-library/",
-    "title": "Banned Book Library | Rick's Blog"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://wizardzines.com/comics/write-for-one-person/",
-    "title": "write for one person"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://ciechanow.ski/mechanical-watch/",
-    "title": "(500) https://ciechanow.ski/mechanical-watch/"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://tim.blog/2026/06/12/has-ai-already-killed-nonfiction/",
-    "title": "Has AI Already Killed How-To Nonfiction? Sales Trends, My Personal Data, and What It Might Mean for the Future - The Blog of Author Tim Ferriss"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://tonsky.me/blog/every-frame-perfect/",
-    "title": "Every Frame Perfect"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://garrit.xyz/posts/2026-05-06-dont-trust-large-context-windows",
-    "title": "Don't trust large context windows | Garrit's Notes"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://tombedor.dev/human-attention-and-human-effort/",
-    "title": "If You are Asking for Human Attention, Demonstrate Human Effort"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://blog.janestreet.com/formal-methods-at-jane-street-index/",
-    "title": "Jane Street Blog - Formal methods and the future of programming"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://news.ycombinator.com/item?id=48555993",
-    "title": "Running local models is good now | Hacker News"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://rsgm.dev/post/ai-dev-platform/",
-    "title": "My Homelab AI Dev Platform • Rsgm's Blog"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://simonwillison.net/2026/Jun/11/fable-is-relentlessly-proactive/",
-    "title": "Claude Fable is relentlessly proactive"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://karthinks.com/software/even-more-batteries-included-with-emacs/",
-    "title": "Even More Batteries Included with Emacs | Karthinks"
   }
 ]
