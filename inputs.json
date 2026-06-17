@@ -11,11 +11,6 @@
   },
   {
     "source": "hn",
-    "url": "https://writings.stephenwolfram.com/2026/06/launching-version-15-of-wolfram-language-mathematica-built-in-useful-ai-lots-of-new-core-functionality/",
-    "title": "Wolfram Language and Mathematica Version 15, AI Assistant, Symbolic Music, More"
-  },
-  {
-    "source": "hn",
     "url": "https://mareksuppa.com/til/bash-dev-tcp-http-without-curl/",
     "title": "TIL: You can make HTTP requests without curl using Bash /dev/TCP"
   },
@@ -26,23 +21,23 @@
   },
   {
     "source": "hn",
-    "url": "https://kirklandroundabouts.com",
-    "title": "The Magic Roundabout of Seattle Area"
-  },
-  {
-    "source": "hn",
     "url": "https://tim.blog/2026/06/12/has-ai-already-killed-nonfiction/",
     "title": "Has AI already killed self-help nonfiction books?"
   },
   {
     "source": "hn",
-    "url": "https://parksb.github.io/en/article/32.html",
-    "title": "But yak shaving is fun (2019)"
+    "url": "http://ibm1130.org/",
+    "title": "All about the IBM 1130 Computing System"
   },
   {
     "source": "hn",
-    "url": "http://ibm1130.org/",
-    "title": "All about the IBM 1130 Computing System"
+    "url": "https://kirklandroundabouts.com",
+    "title": "The Magic Roundabout of Seattle Area"
+  },
+  {
+    "source": "hn",
+    "url": "https://parksb.github.io/en/article/32.html",
+    "title": "But yak shaving is fun (2019)"
   },
   {
     "source": "hn",
@@ -61,8 +56,13 @@
   },
   {
     "source": "hn",
-    "url": "https://arseniyshestakov.com/2026/06/16/apple-is-about-to-make-hide-my-email-useless/",
-    "title": "Apple is about to make Hide My Email useless"
+    "url": "https://jxmo.io/posts/nce",
+    "title": "Demystifying Noise Contrastive Estimation"
+  },
+  {
+    "source": "hn",
+    "url": "https://blog.janestreet.com/formal-methods-at-jane-street-index/",
+    "title": "Formal Methods and the Future of Programming"
   },
   {
     "source": "hn",
@@ -76,18 +76,13 @@
   },
   {
     "source": "hn",
-    "url": "https://blog.janestreet.com/formal-methods-at-jane-street-index/",
-    "title": "Formal Methods and the Future of Programming"
+    "url": "https://arseniyshestakov.com/2026/06/16/apple-is-about-to-make-hide-my-email-useless/",
+    "title": "Apple is about to make Hide My Email useless"
   },
   {
     "source": "hn",
-    "url": "https://hedgehogreview.com/web-features/thr/posts/companions-on-parnassus",
-    "title": "W.H. Auden and James Schuyler in life and literature"
-  },
-  {
-    "source": "hn",
-    "url": "https://shadycharacters.co.uk/2026/06/ollie-wagner/",
-    "title": "An interview with an Apple emoji designer"
+    "url": "https://sighack.com/post/getting-creative-with-perlin-noise-fields",
+    "title": "Getting Creative with Perlin Noise Fields"
   },
   {
     "source": "lobsters",
@@ -136,13 +131,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://wolfgirl.dev/blog/2026-06-16-async-task-locals-from-scratch/",
-    "title": "Async Task Locals From Scratch"
+    "url": "https://www.rfc-editor.org/info/rfc10008/",
+    "title": "RFC 10008: The HTTP QUERY Method"
   },
   {
     "source": "lobsters",
-    "url": "https://www.rfc-editor.org/info/rfc10008/",
-    "title": "RFC 10008: The HTTP QUERY Method"
+    "url": "https://wolfgirl.dev/blog/2026-06-16-async-task-locals-from-scratch/",
+    "title": "Async Task Locals From Scratch"
   },
   {
     "source": "lobsters",
@@ -163,85 +158,5 @@
     "source": "lobsters",
     "url": "https://blog.andr2i.com/posts/2026-06-08-optimization-catalog-when-float-division-beats-integer-division",
     "title": "When float division beats integer division"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://sqltoerdiagram.com/",
-    "title": "SQL to ER Diagram — Free Online ERD Generator from SQL (no signup)"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://ikyle.me/blog/2026/how-to-setup-a-local-coding-agent-on-macos",
-    "title": "How to Setup a Local Coding Agent on macOS - Kyle Howells"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://matthewbutterick.com/extinction-level-capitalism.html",
-    "title": "Matthew Butterick | Extinction-level capitalism"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://tonsky.me/blog/every-frame-perfect/",
-    "title": "Every Frame Perfect"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://desfontain.es/blog/banning-noise.html",
-    "title": "Banning noise will be a disaster for statistical data products - Ted is writing things"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://garrit.xyz/posts/2026-05-06-dont-trust-large-context-windows",
-    "title": "Don't trust large context windows | Garrit's Notes"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://wizardzines.com/comics/write-for-one-person/",
-    "title": "write for one person"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://tonedear.com/",
-    "title": "Ear Training"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://paulgraham.com/earn.html",
-    "title": "How to Earn a Billion Dollars"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://lr0.org/blog/p/arabic/",
-    "title": "An interactive introduction to the terrific experience of rendering Arabic typography and its technical debt | La Vita Nouva"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://faroutcompany.com/",
-    "title": "Far Out Company — Countercultural visual overload"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://blog.avas.space/llm-circus/",
-    "title": "our workplace LLM mass delusion – ava's blog"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.mayrhofer.eu.org/post/leaving-google/",
-    "title": "Why I’m Forced to Say Farewell: Google Management Has Lost Its Moral Compass | René Mayrhofer"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://blog.simbastack.com/indexed-a-year-of-video-locally/",
-    "title": "While I slept, my 5-year-old MacBook ran Gemma 4 locally and indexed a year of video — simbastack"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://simonwillison.net/2026/Jun/11/fable-is-relentlessly-proactive/",
-    "title": "Claude Fable is relentlessly proactive"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://karthinks.com/software/even-more-batteries-included-with-emacs/",
-    "title": "Even More Batteries Included with Emacs | Karthinks"
   }
 ]
