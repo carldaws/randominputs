@@ -1,11 +1,6 @@
 [
   {
     "source": "hn",
-    "url": "https://runtimewire.com/article/openai-leaked-financials-altman-compute-burn",
-    "title": "Leaked OpenAI financials show $38.5B loss and compute burn"
-  },
-  {
-    "source": "hn",
     "url": "https://vickiboykis.com/2026/06/15/running-local-models-is-good-now/",
     "title": "Running local models is good now"
   },
@@ -31,18 +26,8 @@
   },
   {
     "source": "hn",
-    "url": "http://ibm1130.org/",
-    "title": "All about the IBM 1130 Computing System"
-  },
-  {
-    "source": "hn",
     "url": "https://parksb.github.io/en/article/32.html",
     "title": "But yak shaving is fun (2019)"
-  },
-  {
-    "source": "hn",
-    "url": "https://analogtv.net/mechanical-lab",
-    "title": "A Nipkow Disk Mechanical TV Simulator"
   },
   {
     "source": "hn",
@@ -51,8 +36,8 @@
   },
   {
     "source": "hn",
-    "url": "https://inessential.com/2026/06/15/netnewswire-status.html",
-    "title": "NetNewsWire Status"
+    "url": "https://analogtv.net/mechanical-lab",
+    "title": "A Nipkow Disk Mechanical TV Simulator"
   },
   {
     "source": "hn",
@@ -61,18 +46,18 @@
   },
   {
     "source": "hn",
+    "url": "https://inessential.com/2026/06/15/netnewswire-status.html",
+    "title": "NetNewsWire Status"
+  },
+  {
+    "source": "hn",
+    "url": "http://ibm1130.org/",
+    "title": "All about the IBM 1130 Computing System"
+  },
+  {
+    "source": "hn",
     "url": "https://ciechanow.ski/mechanical-watch/",
     "title": "Mechanical Watch (2022)"
-  },
-  {
-    "source": "hn",
-    "url": "https://blog.janestreet.com/formal-methods-at-jane-street-index/",
-    "title": "Formal Methods and the Future of Programming"
-  },
-  {
-    "source": "hn",
-    "url": "https://arseniyshestakov.com/2026/06/16/apple-is-about-to-make-hide-my-email-useless/",
-    "title": "Apple is about to make Hide My Email useless"
   },
   {
     "source": "hn",
@@ -81,8 +66,8 @@
   },
   {
     "source": "hn",
-    "url": "https://subq.ai/subq-1-1-small-technical-report",
-    "title": "SubQ 1.1 Small"
+    "url": "https://arseniyshestakov.com/2026/06/16/apple-is-about-to-make-hide-my-email-useless/",
+    "title": "Apple is about to make Hide My Email useless"
   },
   {
     "source": "lobsters",
@@ -91,13 +76,23 @@
   },
   {
     "source": "lobsters",
+    "url": "https://trifectatech.org/blog/zlib-rs-in-firefox/",
+    "title": "zlib-rs in Firefox"
+  },
+  {
+    "source": "lobsters",
     "url": "https://kobzol.github.io/rust/2026/06/15/how-memory-safety-cves-differ-between-rust-and-c-cpp.html",
     "title": "How memory safety CVEs differ between Rust and C/C++"
   },
   {
     "source": "lobsters",
-    "url": "https://trifectatech.org/blog/zlib-rs-in-firefox/",
-    "title": "zlib-rs in Firefox"
+    "url": "https://nathan.rs/posts/gzip-lm/",
+    "title": "Can gzip be a language model?"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://alexalejandre.com/programming/interview-with-claude-roux/",
+    "title": "Lobsters Interview with Claudius"
   },
   {
     "source": "lobsters",
@@ -106,8 +101,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://alexalejandre.com/programming/interview-with-claude-roux/",
-    "title": "Lobsters Interview with Claudius"
+    "url": "https://blog.argus-systems.ai/blog/openbsd-pap-27-year-auth-bypass.html",
+    "title": "A 27-Year-Old Authentication Bypass in OpenBSD's PPP Stack"
   },
   {
     "source": "lobsters",
@@ -121,8 +116,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://filipfila.wordpress.com/2026/06/16/oxygen-6-7-is-here-a-breath-of-fresh-air-for-kdes-classic-theme/",
-    "title": "Oxygen 6.7 is here: a breath of fresh air for KDE’s classic theme"
+    "url": "https://juniperspring.org/posts/honda-evil-valet/",
+    "title": "Honda Civics and the Evil Valet"
   },
   {
     "source": "lobsters",
@@ -131,13 +126,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://juniperspring.org/posts/honda-evil-valet/",
-    "title": "Honda Civics and the Evil Valet"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://wolfgirl.dev/blog/2026-06-16-async-task-locals-from-scratch/",
-    "title": "Async Task Locals From Scratch"
+    "url": "https://filipfila.wordpress.com/2026/06/16/oxygen-6-7-is-here-a-breath-of-fresh-air-for-kdes-classic-theme/",
+    "title": "Oxygen 6.7 is here: a breath of fresh air for KDE’s classic theme"
   },
   {
     "source": "lobsters",
@@ -146,22 +136,97 @@
   },
   {
     "source": "lobsters",
+    "url": "https://fnordig.de/2026/06/16/build-your-project-zig-style/",
+    "title": "Build your project Zig-style"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://wolfgirl.dev/blog/2026-06-16-async-task-locals-from-scratch/",
+    "title": "Async Task Locals From Scratch"
+  },
+  {
+    "source": "lobsters",
     "url": "https://daniel.haxx.se/blog/2026/06/15/curl-summer-of-bliss/",
     "title": "curl summer of bliss"
   },
   {
     "source": "lobsters",
-    "url": "https://nathan.rs/posts/gzip-lm/",
-    "title": "Can gzip be a language model?"
+    "url": "https://forgottenbytes.net/commander_keen.html",
+    "title": "Game Engine White Papers: Commander Keen"
   },
   {
-    "source": "lobsters",
-    "url": "https://www.iroh.computer/blog/v1",
-    "title": "Iroh 1.0 - Dial Keys, not IPs"
+    "source": "pinboard",
+    "url": "https://sqltoerdiagram.com/",
+    "title": "SQL to ER Diagram — Free Online ERD Generator from SQL (no signup)"
   },
   {
-    "source": "lobsters",
-    "url": "https://ecs.d2evs.net/posts/2024-05-27-terminals-bad.gmi",
-    "title": "all the ways in which terminals' text rendering is bad (2024)"
+    "source": "pinboard",
+    "url": "https://matthewbutterick.com/extinction-level-capitalism.html",
+    "title": "Matthew Butterick | Extinction-level capitalism"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://paulgraham.com/earn.html",
+    "title": "How to Earn a Billion Dollars"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://news.ycombinator.com/item?id=48542100",
+    "title": "Ask HN: Has anyone replaced Claude/GPT with a local model for daily coding? | Hacker News"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://ikyle.me/blog/2026/how-to-setup-a-local-coding-agent-on-macos",
+    "title": "How to Setup a Local Coding Agent on macOS - Kyle Howells"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://faroutcompany.com/",
+    "title": "Far Out Company — Countercultural visual overload"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://wizardzines.com/comics/write-for-one-person/",
+    "title": "write for one person"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://tonsky.me/blog/every-frame-perfect/",
+    "title": "Every Frame Perfect"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://garrit.xyz/posts/2026-05-06-dont-trust-large-context-windows",
+    "title": "Don't trust large context windows | Garrit's Notes"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://tombedor.dev/human-attention-and-human-effort/",
+    "title": "If You are Asking for Human Attention, Demonstrate Human Effort"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://blog.janestreet.com/formal-methods-at-jane-street-index/",
+    "title": "Jane Street Blog - Formal methods and the future of programming"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://news.ycombinator.com/item?id=48555993",
+    "title": "Running local models is good now | Hacker News"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://rsgm.dev/post/ai-dev-platform/",
+    "title": "My Homelab AI Dev Platform • Rsgm's Blog"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://simonwillison.net/2026/Jun/11/fable-is-relentlessly-proactive/",
+    "title": "Claude Fable is relentlessly proactive"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://karthinks.com/software/even-more-batteries-included-with-emacs/",
+    "title": "Even More Batteries Included with Emacs | Karthinks"
   }
 ]
