@@ -1,6 +1,16 @@
 [
   {
     "source": "hn",
+    "url": "https://artificialanalysis.ai/articles/glm-5-2-is-the-new-leading-open-weights-model-on-the-artificial-analysis-intelligence-index",
+    "title": "GLM-5.2 is the new leading open weights model on Artificial Analysis"
+  },
+  {
+    "source": "hn",
+    "url": "https://cells2pixels.github.io/",
+    "title": "Show HN: High-Res Neural Cellular Automata"
+  },
+  {
+    "source": "hn",
     "url": "https://vickiboykis.com/2026/06/15/running-local-models-is-good-now/",
     "title": "Running local models is good now"
   },
@@ -11,13 +21,13 @@
   },
   {
     "source": "hn",
-    "url": "https://mareksuppa.com/til/bash-dev-tcp-http-without-curl/",
-    "title": "TIL: You can make HTTP requests without curl using Bash /dev/TCP"
+    "url": "https://blog.greg.technology/2026/06/12/map-clustering-is-not-my-favorite.html",
+    "title": "Map Clustering Is Not My Favorite"
   },
   {
     "source": "hn",
-    "url": "https://writings.stephenwolfram.com/2026/06/launching-version-15-of-wolfram-language-mathematica-built-in-useful-ai-lots-of-new-core-functionality/",
-    "title": "Wolfram Language and Mathematica version 15"
+    "url": "https://mareksuppa.com/til/bash-dev-tcp-http-without-curl/",
+    "title": "TIL: You can make HTTP requests without curl using Bash /dev/TCP"
   },
   {
     "source": "hn",
@@ -26,8 +36,13 @@
   },
   {
     "source": "hn",
-    "url": "https://axiommath.ai/territory/the-reveal",
-    "title": "Lattice Triangles Are Rare"
+    "url": "https://writings.stephenwolfram.com/2026/06/launching-version-15-of-wolfram-language-mathematica-built-in-useful-ai-lots-of-new-core-functionality/",
+    "title": "Wolfram Language and Mathematica version 15"
+  },
+  {
+    "source": "hn",
+    "url": "https://stephantul.github.io/blog/unfence/",
+    "title": "From Chesterton's fence to Chesterton's gap"
   },
   {
     "source": "hn",
@@ -41,8 +56,13 @@
   },
   {
     "source": "hn",
-    "url": "https://stephantul.github.io/blog/unfence/",
-    "title": "From Chesterton's fence to Chesterton's gap"
+    "url": "https://artificialanalysis.ai/models/glm-5-2",
+    "title": "GLM 5.2 Performance Benchmarks"
+  },
+  {
+    "source": "hn",
+    "url": "https://axiommath.ai/territory/the-reveal",
+    "title": "Lattice Triangles Are Rare"
   },
   {
     "source": "hn",
@@ -60,14 +80,9 @@
     "title": "A Nipkow Disk Mechanical TV Simulator"
   },
   {
-    "source": "hn",
-    "url": "https://inessential.com/2026/06/15/netnewswire-status.html",
-    "title": "NetNewsWire Status"
-  },
-  {
-    "source": "hn",
-    "url": "https://ciechanow.ski/mechanical-watch/",
-    "title": "Mechanical Watch (2022)"
+    "source": "lobsters",
+    "url": "https://bobdahacker.com/blog/fifa-hack",
+    "title": "I Could've Rickrolled the Entire FIFA World Cup. All I Needed Was My ID"
   },
   {
     "source": "lobsters",
@@ -76,13 +91,18 @@
   },
   {
     "source": "lobsters",
+    "url": "https://nathan.rs/posts/gzip-lm/",
+    "title": "Can gzip be a language model?"
+  },
+  {
+    "source": "lobsters",
     "url": "https://trifectatech.org/blog/zlib-rs-in-firefox/",
     "title": "zlib-rs in Firefox"
   },
   {
     "source": "lobsters",
-    "url": "https://nathan.rs/posts/gzip-lm/",
-    "title": "Can gzip be a language model?"
+    "url": "https://hugodaniel.com/posts/color-picking-oklch/",
+    "title": "Color picking Oklch for mortals"
   },
   {
     "source": "lobsters",
@@ -96,6 +116,11 @@
   },
   {
     "source": "lobsters",
+    "url": "https://blog.haskell.org/making-ghc-upgrades-easy/",
+    "title": "Making GHC upgrades easy"
+  },
+  {
+    "source": "lobsters",
     "url": "https://alexalejandre.com/programming/interview-with-claude-roux/",
     "title": "Lobsters Interview with Claudius"
   },
@@ -103,6 +128,26 @@
     "source": "lobsters",
     "url": "https://www.richardosgood.com/posts/banned-book-library/",
     "title": "Banned book library in a Wi-Fi lightbulb"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://juniperspring.org/posts/honda-evil-valet/",
+    "title": "Honda Civics and the Evil Valet"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://fnordig.de/2026/06/16/build-your-project-zig-style/",
+    "title": "Build your project Zig-style"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://forgottenbytes.net/commander_keen.html",
+    "title": "Game Engine White Papers: Commander Keen"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://www.rfc-editor.org/info/rfc10008/",
+    "title": "RFC 10008: The HTTP QUERY Method"
   },
   {
     "source": "lobsters",
@@ -116,43 +161,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://bobdahacker.com/blog/fifa-hack",
-    "title": "I Could've Rickrolled the Entire FIFA World Cup. All I Needed Was My ID"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://juniperspring.org/posts/honda-evil-valet/",
-    "title": "Honda Civics and the Evil Valet"
-  },
-  {
-    "source": "lobsters",
     "url": "https://tck.mn/blog/correlated-randomness-sts2/",
     "title": "Correlated randomness in Slay the Spire 2"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://fnordig.de/2026/06/16/build-your-project-zig-style/",
-    "title": "Build your project Zig-style"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://www.rfc-editor.org/info/rfc10008/",
-    "title": "RFC 10008: The HTTP QUERY Method"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://filipfila.wordpress.com/2026/06/16/oxygen-6-7-is-here-a-breath-of-fresh-air-for-kdes-classic-theme/",
-    "title": "Oxygen 6.7 is here: a breath of fresh air for KDE’s classic theme"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://wolfgirl.dev/blog/2026-06-16-async-task-locals-from-scratch/",
-    "title": "Async Task Locals From Scratch"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://blog.haskell.org/making-ghc-upgrades-easy/",
-    "title": "Making GHC upgrades easy"
   },
   {
     "source": "pinboard",
@@ -188,6 +198,11 @@
     "source": "pinboard",
     "url": "https://wizardzines.com/comics/write-for-one-person/",
     "title": "write for one person"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://ciechanow.ski/mechanical-watch/",
+    "title": "(500) https://ciechanow.ski/mechanical-watch/"
   },
   {
     "source": "pinboard",
