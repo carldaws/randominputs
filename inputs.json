@@ -1,13 +1,13 @@
 [
   {
     "source": "hn",
-    "url": "https://www.lutr.dev/want-your-images-back-sure-that-ll-be-5-dollars",
-    "title": "Want your images back? Sure... That'll be $5!"
+    "url": "https://lore.org/",
+    "title": "Epic Games announces Lore version control system"
   },
   {
     "source": "hn",
-    "url": "https://lore.org/",
-    "title": "Epic Games announces Lore version control system"
+    "url": "https://www.lutr.dev/want-your-images-back-sure-that-ll-be-5-dollars",
+    "title": "Want your images back? Sure... That'll be $5!"
   },
   {
     "source": "hn",
@@ -21,13 +21,8 @@
   },
   {
     "source": "hn",
-    "url": "https://cells2pixels.github.io/",
-    "title": "Show HN: High-Res Neural Cellular Automata"
-  },
-  {
-    "source": "hn",
-    "url": "https://vickiboykis.com/2026/06/15/running-local-models-is-good-now/",
-    "title": "Running local models is good now"
+    "url": "https://johnowhitaker.github.io/inkwash/about",
+    "title": "Show HN: Inkwash, a watercolor sketching app and explanation"
   },
   {
     "source": "hn",
@@ -36,18 +31,28 @@
   },
   {
     "source": "hn",
+    "url": "https://vickiboykis.com/2026/06/15/running-local-models-is-good-now/",
+    "title": "Running local models is good now"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.thesignalist.io/s/the-dialogue-dividend/",
+    "title": "Why thinking out loud with someone beats thinking alone"
+  },
+  {
+    "source": "hn",
+    "url": "https://cells2pixels.github.io/",
+    "title": "Show HN: High-Res Neural Cellular Automata"
+  },
+  {
+    "source": "hn",
     "url": "https://airfields-freeman.com/",
     "title": "Abandoned and Little-Known Airfields"
   },
   {
     "source": "hn",
-    "url": "https://johnowhitaker.github.io/inkwash/about",
-    "title": "Show HN: Inkwash, a watercolor sketching app and explanation"
-  },
-  {
-    "source": "hn",
-    "url": "https://blog.greg.technology/2026/06/12/map-clustering-is-not-my-favorite.html",
-    "title": "Map Clustering Is Not My Favorite"
+    "url": "https://glasskit.app/ui",
+    "title": "Open-source React UI and D-pad focus engine for Meta Ray-Ban Display"
   },
   {
     "source": "hn",
@@ -56,33 +61,8 @@
   },
   {
     "source": "hn",
-    "url": "https://mll.sh/humiliating-iis-servers-for-fun-and-jail-time/",
-    "title": "Humiliating IIS servers for fun and jail time"
-  },
-  {
-    "source": "hn",
-    "url": "https://mareksuppa.com/til/bash-dev-tcp-http-without-curl/",
-    "title": "TIL: You can make HTTP requests without curl using Bash /dev/TCP"
-  },
-  {
-    "source": "hn",
-    "url": "https://stephantul.github.io/blog/unfence/",
-    "title": "From Chesterton's fence to Chesterton's gap"
-  },
-  {
-    "source": "hn",
-    "url": "https://tim.blog/2026/06/12/has-ai-already-killed-nonfiction/",
-    "title": "Has AI already killed self-help nonfiction books?"
-  },
-  {
-    "source": "hn",
-    "url": "https://writings.stephenwolfram.com/2026/06/launching-version-15-of-wolfram-language-mathematica-built-in-useful-ai-lots-of-new-core-functionality/",
-    "title": "Wolfram Language and Mathematica version 15"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.404media.co/ice-appears-to-be-buying-immigrants-tax-identifiers-from-a-data-broker/",
-    "title": "ICE Appears to Be Buying Immigrants' Tax Identifiers from a Data Broker"
+    "url": "https://blog.greg.technology/2026/06/12/map-clustering-is-not-my-favorite.html",
+    "title": "Map Clustering Is Not My Favorite"
   },
   {
     "source": "lobsters",
@@ -101,13 +81,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://nathan.rs/posts/gzip-lm/",
-    "title": "Can gzip be a language model?"
+    "url": "https://blog.argus-systems.ai/blog/openbsd-pap-27-year-auth-bypass.html",
+    "title": "A 27-Year-Old Authentication Bypass in OpenBSD's PPP Stack"
   },
   {
     "source": "lobsters",
-    "url": "https://blog.argus-systems.ai/blog/openbsd-pap-27-year-auth-bypass.html",
-    "title": "A 27-Year-Old Authentication Bypass in OpenBSD's PPP Stack"
+    "url": "https://nathan.rs/posts/gzip-lm/",
+    "title": "Can gzip be a language model?"
   },
   {
     "source": "lobsters",
@@ -116,8 +96,23 @@
   },
   {
     "source": "lobsters",
+    "url": "https://rousseeuwprize.org/2026",
+    "title": "R Core team wins Rousseeuw Prize for Statistics 2026"
+  },
+  {
+    "source": "lobsters",
     "url": "https://roman.pt/posts/linkedin-backdoor/",
     "title": "A backdoor in a LinkedIn job offer"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://yogthos.net/posts/2026-06-08-dirge-code.html",
+    "title": "Making budget models punch above their weight with a smart Rust harness"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://forgottenbytes.net/commander_keen.html",
+    "title": "Game Engine White Papers: Commander Keen"
   },
   {
     "source": "lobsters",
@@ -126,8 +121,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://forgottenbytes.net/commander_keen.html",
-    "title": "Game Engine White Papers: Commander Keen"
+    "url": "https://mareksuppa.com/til/bash-dev-tcp-http-without-curl/",
+    "title": "Making HTTP requests from a container that has no curl, using bash /dev/tcp"
   },
   {
     "source": "lobsters",
@@ -140,23 +135,93 @@
     "title": "How memory safety CVEs differ between Rust and C/C++"
   },
   {
-    "source": "lobsters",
-    "url": "https://rousseeuwprize.org/2026",
-    "title": "R Core team wins Rousseeuw Prize for Statistics 2026"
+    "source": "pinboard",
+    "url": "https://sqltoerdiagram.com/",
+    "title": "SQL to ER Diagram — Free Online ERD Generator from SQL (no signup)"
   },
   {
-    "source": "lobsters",
-    "url": "https://yogthos.net/posts/2026-06-08-dirge-code.html",
-    "title": "Making budget models punch above their weight with a smart Rust harness"
+    "source": "pinboard",
+    "url": "https://matthewbutterick.com/extinction-level-capitalism.html",
+    "title": "Matthew Butterick | Extinction-level capitalism"
   },
   {
-    "source": "lobsters",
-    "url": "https://jerodsanto.net/2026/06/real-artists-still-ship/",
-    "title": "Real artists still ship"
+    "source": "pinboard",
+    "url": "https://paulgraham.com/earn.html",
+    "title": "How to Earn a Billion Dollars"
   },
   {
-    "source": "lobsters",
-    "url": "https://alexalejandre.com/programming/interview-with-claude-roux/",
-    "title": "Lobsters Interview with Claudius"
+    "source": "pinboard",
+    "url": "https://news.ycombinator.com/item?id=48542100",
+    "title": "Ask HN: Has anyone replaced Claude/GPT with a local model for daily coding? | Hacker News"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://ikyle.me/blog/2026/how-to-setup-a-local-coding-agent-on-macos",
+    "title": "How to Setup a Local Coding Agent on macOS - Kyle Howells"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://faroutcompany.com/",
+    "title": "Far Out Company — Countercultural visual overload"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.richardosgood.com/posts/banned-book-library/",
+    "title": "Banned Book Library | Rick's Blog"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://wizardzines.com/comics/write-for-one-person/",
+    "title": "write for one person"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://ciechanow.ski/mechanical-watch/",
+    "title": "(500) https://ciechanow.ski/mechanical-watch/"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://tim.blog/2026/06/12/has-ai-already-killed-nonfiction/",
+    "title": "Has AI Already Killed How-To Nonfiction? Sales Trends, My Personal Data, and What It Might Mean for the Future - The Blog of Author Tim Ferriss"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://tonsky.me/blog/every-frame-perfect/",
+    "title": "Every Frame Perfect"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://garrit.xyz/posts/2026-05-06-dont-trust-large-context-windows",
+    "title": "Don't trust large context windows | Garrit's Notes"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://tombedor.dev/human-attention-and-human-effort/",
+    "title": "If You are Asking for Human Attention, Demonstrate Human Effort"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://blog.janestreet.com/formal-methods-at-jane-street-index/",
+    "title": "Jane Street Blog - Formal methods and the future of programming"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://news.ycombinator.com/item?id=48555993",
+    "title": "Running local models is good now | Hacker News"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://rsgm.dev/post/ai-dev-platform/",
+    "title": "My Homelab AI Dev Platform • Rsgm's Blog"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://simonwillison.net/2026/Jun/11/fable-is-relentlessly-proactive/",
+    "title": "Claude Fable is relentlessly proactive"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://karthinks.com/software/even-more-batteries-included-with-emacs/",
+    "title": "Even More Batteries Included with Emacs | Karthinks"
   }
 ]
