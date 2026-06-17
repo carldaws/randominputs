@@ -1,6 +1,16 @@
 [
   {
     "source": "hn",
+    "url": "https://www.lutr.dev/want-your-images-back-sure-that-ll-be-5-dollars",
+    "title": "Want your images back? Sure... That'll be $5!"
+  },
+  {
+    "source": "hn",
+    "url": "https://lore.org/",
+    "title": "Epic Games announces Lore version control system"
+  },
+  {
+    "source": "hn",
     "url": "https://artificialanalysis.ai/articles/glm-5-2-is-the-new-leading-open-weights-model-on-the-artificial-analysis-intelligence-index",
     "title": "GLM-5.2 is the new leading open weights model on Artificial Analysis"
   },
@@ -21,13 +31,18 @@
   },
   {
     "source": "hn",
+    "url": "https://www.makingsoftware.com/chapters/image-compression",
+    "title": "Image Compression"
+  },
+  {
+    "source": "hn",
     "url": "https://airfields-freeman.com/",
     "title": "Abandoned and Little-Known Airfields"
   },
   {
     "source": "hn",
-    "url": "https://mll.sh/humiliating-iis-servers-for-fun-and-jail-time/",
-    "title": "Humiliating IIS servers for fun and jail time"
+    "url": "https://johnowhitaker.github.io/inkwash/about",
+    "title": "Show HN: Inkwash, a watercolor sketching app and explanation"
   },
   {
     "source": "hn",
@@ -36,13 +51,23 @@
   },
   {
     "source": "hn",
+    "url": "https://artificialanalysis.ai/models/glm-5-2",
+    "title": "GLM 5.2 Performance Benchmarks"
+  },
+  {
+    "source": "hn",
+    "url": "https://mll.sh/humiliating-iis-servers-for-fun-and-jail-time/",
+    "title": "Humiliating IIS servers for fun and jail time"
+  },
+  {
+    "source": "hn",
     "url": "https://mareksuppa.com/til/bash-dev-tcp-http-without-curl/",
     "title": "TIL: You can make HTTP requests without curl using Bash /dev/TCP"
   },
   {
     "source": "hn",
-    "url": "https://artificialanalysis.ai/models/glm-5-2",
-    "title": "GLM 5.2 Performance Benchmarks"
+    "url": "https://stephantul.github.io/blog/unfence/",
+    "title": "From Chesterton's fence to Chesterton's gap"
   },
   {
     "source": "hn",
@@ -56,33 +81,8 @@
   },
   {
     "source": "hn",
-    "url": "https://www.makingsoftware.com/chapters/image-compression",
-    "title": "Image Compression"
-  },
-  {
-    "source": "hn",
-    "url": "https://stephantul.github.io/blog/unfence/",
-    "title": "From Chesterton's fence to Chesterton's gap"
-  },
-  {
-    "source": "hn",
-    "url": "https://parksb.github.io/en/article/32.html",
-    "title": "But yak shaving is fun (2019)"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.noemamag.com/making-food-out-of-thin-air/",
-    "title": "Making 'food out of thin air' (2024)"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.gilesthomas.com/2026/06/10g-ethernet-switching-to-broadcom-sfp-plus",
-    "title": "10Gb/s Ethernet: switching to a Broadcom SFP+ module"
-  },
-  {
-    "source": "hn",
-    "url": "https://qwen.ai/blog?id=qwen-robotsuite",
-    "title": "Qwen-Robot Suite: A Foundation Model Suite for Physical World Intelligence"
+    "url": "https://www.404media.co/ice-appears-to-be-buying-immigrants-tax-identifiers-from-a-data-broker/",
+    "title": "ICE Appears to Be Buying Immigrants' Tax Identifiers from a Data Broker"
   },
   {
     "source": "lobsters",
@@ -96,18 +96,13 @@
   },
   {
     "source": "lobsters",
+    "url": "https://parksb.github.io/en/article/32.html",
+    "title": "But yak shaving is fun"
+  },
+  {
+    "source": "lobsters",
     "url": "https://nathan.rs/posts/gzip-lm/",
     "title": "Can gzip be a language model?"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://roman.pt/posts/linkedin-backdoor/",
-    "title": "A backdoor in a LinkedIn job offer"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://trifectatech.org/blog/zlib-rs-in-firefox/",
-    "title": "zlib-rs in Firefox"
   },
   {
     "source": "lobsters",
@@ -121,8 +116,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://kobzol.github.io/rust/2026/06/15/how-memory-safety-cves-differ-between-rust-and-c-cpp.html",
-    "title": "How memory safety CVEs differ between Rust and C/C++"
+    "url": "https://roman.pt/posts/linkedin-backdoor/",
+    "title": "A backdoor in a LinkedIn job offer"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://trifectatech.org/blog/zlib-rs-in-firefox/",
+    "title": "zlib-rs in Firefox"
   },
   {
     "source": "lobsters",
@@ -131,27 +131,32 @@
   },
   {
     "source": "lobsters",
-    "url": "https://alexalejandre.com/programming/interview-with-claude-roux/",
-    "title": "Lobsters Interview with Claudius"
-  },
-  {
-    "source": "lobsters",
     "url": "https://juniperspring.org/posts/honda-evil-valet/",
     "title": "Honda Civics and the Evil Valet"
   },
   {
     "source": "lobsters",
-    "url": "https://fnordig.de/2026/06/16/build-your-project-zig-style/",
-    "title": "Build your project Zig-style"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://www.richardosgood.com/posts/banned-book-library/",
-    "title": "Banned book library in a Wi-Fi lightbulb"
+    "url": "https://kobzol.github.io/rust/2026/06/15/how-memory-safety-cves-differ-between-rust-and-c-cpp.html",
+    "title": "How memory safety CVEs differ between Rust and C/C++"
   },
   {
     "source": "lobsters",
     "url": "https://rousseeuwprize.org/2026",
     "title": "R Core team wins Rousseeuw Prize for Statistics 2026"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://yogthos.net/posts/2026-06-08-dirge-code.html",
+    "title": "Making budget models punch above their weight with a smart Rust harness"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://jerodsanto.net/2026/06/real-artists-still-ship/",
+    "title": "Real artists still ship"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://alexalejandre.com/programming/interview-with-claude-roux/",
+    "title": "Lobsters Interview with Claudius"
   }
 ]
