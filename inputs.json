@@ -11,13 +11,13 @@
   },
   {
     "source": "hn",
-    "url": "https://writings.stephenwolfram.com/2026/06/launching-version-15-of-wolfram-language-mathematica-built-in-useful-ai-lots-of-new-core-functionality/",
-    "title": "Wolfram Language and Mathematica Version 15, AI Assistant, Symbolic Music, More"
+    "url": "https://mareksuppa.com/til/bash-dev-tcp-http-without-curl/",
+    "title": "TIL: You can make HTTP requests without curl using Bash /dev/TCP"
   },
   {
     "source": "hn",
-    "url": "https://mareksuppa.com/til/bash-dev-tcp-http-without-curl/",
-    "title": "TIL: You can make HTTP requests without curl using Bash /dev/TCP"
+    "url": "https://writings.stephenwolfram.com/2026/06/launching-version-15-of-wolfram-language-mathematica-built-in-useful-ai-lots-of-new-core-functionality/",
+    "title": "Wolfram Language and Mathematica version 15"
   },
   {
     "source": "hn",
@@ -26,8 +26,23 @@
   },
   {
     "source": "hn",
+    "url": "https://axiommath.ai/territory/the-reveal",
+    "title": "Lattice Triangles Are Rare"
+  },
+  {
+    "source": "hn",
     "url": "https://parksb.github.io/en/article/32.html",
     "title": "But yak shaving is fun (2019)"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.noemamag.com/making-food-out-of-thin-air/",
+    "title": "Making 'food out of thin air' (2024)"
+  },
+  {
+    "source": "hn",
+    "url": "https://stephantul.github.io/blog/unfence/",
+    "title": "From Chesterton's fence to Chesterton's gap"
   },
   {
     "source": "hn",
@@ -36,13 +51,13 @@
   },
   {
     "source": "hn",
-    "url": "https://analogtv.net/mechanical-lab",
-    "title": "A Nipkow Disk Mechanical TV Simulator"
+    "url": "https://qwen.ai/blog?id=qwen-robotsuite",
+    "title": "Qwen-Robot Suite: A Foundation Model Suite for Physical World Intelligence"
   },
   {
     "source": "hn",
-    "url": "https://qwen.ai/blog?id=qwen-robotsuite",
-    "title": "Qwen-Robot Suite: A Foundation Model Suite for Physical World Intelligence"
+    "url": "https://analogtv.net/mechanical-lab",
+    "title": "A Nipkow Disk Mechanical TV Simulator"
   },
   {
     "source": "hn",
@@ -51,23 +66,8 @@
   },
   {
     "source": "hn",
-    "url": "http://ibm1130.org/",
-    "title": "All about the IBM 1130 Computing System"
-  },
-  {
-    "source": "hn",
     "url": "https://ciechanow.ski/mechanical-watch/",
     "title": "Mechanical Watch (2022)"
-  },
-  {
-    "source": "hn",
-    "url": "https://words.filippo.io/frood/",
-    "title": "Frood, an Alpine Initramfs NAS (2024)"
-  },
-  {
-    "source": "hn",
-    "url": "https://arseniyshestakov.com/2026/06/16/apple-is-about-to-make-hide-my-email-useless/",
-    "title": "Apple is about to make Hide My Email useless"
   },
   {
     "source": "lobsters",
@@ -81,13 +81,18 @@
   },
   {
     "source": "lobsters",
+    "url": "https://nathan.rs/posts/gzip-lm/",
+    "title": "Can gzip be a language model?"
+  },
+  {
+    "source": "lobsters",
     "url": "https://kobzol.github.io/rust/2026/06/15/how-memory-safety-cves-differ-between-rust-and-c-cpp.html",
     "title": "How memory safety CVEs differ between Rust and C/C++"
   },
   {
     "source": "lobsters",
-    "url": "https://nathan.rs/posts/gzip-lm/",
-    "title": "Can gzip be a language model?"
+    "url": "https://blog.argus-systems.ai/blog/openbsd-pap-27-year-auth-bypass.html",
+    "title": "A 27-Year-Old Authentication Bypass in OpenBSD's PPP Stack"
   },
   {
     "source": "lobsters",
@@ -101,11 +106,6 @@
   },
   {
     "source": "lobsters",
-    "url": "https://blog.argus-systems.ai/blog/openbsd-pap-27-year-auth-bypass.html",
-    "title": "A 27-Year-Old Authentication Bypass in OpenBSD's PPP Stack"
-  },
-  {
-    "source": "lobsters",
     "url": "https://www.sacredheartsc.com/blog/freebsd-15-on-a-laptop/",
     "title": "FreeBSD 15 on a Laptop"
   },
@@ -113,6 +113,11 @@
     "source": "lobsters",
     "url": "https://notnotp.com/notes/what-job-interviews-taught-me-about-kubernetes/",
     "title": "What job interviews taught me about Kubernetes"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://bobdahacker.com/blog/fifa-hack",
+    "title": "I Could've Rickrolled the Entire FIFA World Cup. All I Needed Was My ID"
   },
   {
     "source": "lobsters",
@@ -126,8 +131,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://filipfila.wordpress.com/2026/06/16/oxygen-6-7-is-here-a-breath-of-fresh-air-for-kdes-classic-theme/",
-    "title": "Oxygen 6.7 is here: a breath of fresh air for KDE’s classic theme"
+    "url": "https://fnordig.de/2026/06/16/build-your-project-zig-style/",
+    "title": "Build your project Zig-style"
   },
   {
     "source": "lobsters",
@@ -136,8 +141,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://fnordig.de/2026/06/16/build-your-project-zig-style/",
-    "title": "Build your project Zig-style"
+    "url": "https://filipfila.wordpress.com/2026/06/16/oxygen-6-7-is-here-a-breath-of-fresh-air-for-kdes-classic-theme/",
+    "title": "Oxygen 6.7 is here: a breath of fresh air for KDE’s classic theme"
   },
   {
     "source": "lobsters",
@@ -146,13 +151,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://daniel.haxx.se/blog/2026/06/15/curl-summer-of-bliss/",
-    "title": "curl summer of bliss"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://forgottenbytes.net/commander_keen.html",
-    "title": "Game Engine White Papers: Commander Keen"
+    "url": "https://blog.haskell.org/making-ghc-upgrades-easy/",
+    "title": "Making GHC upgrades easy"
   },
   {
     "source": "pinboard",
