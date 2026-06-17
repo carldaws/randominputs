@@ -6,13 +6,8 @@
   },
   {
     "source": "hn",
-    "url": "https://kevin.burke.dev/kevin/walnut-creek-single-stair/",
-    "title": "Why Can't Walnut Creek Build 3 Bedroom Apartments with a Playground?"
-  },
-  {
-    "source": "hn",
-    "url": "https://browser-use.com/posts/firecracker-browser-infra",
-    "title": "How we run Firecracker VMs inside EC2 and start browsers in less than 1s"
+    "url": "https://storiedcolors.com/",
+    "title": "Storied Colors – a catalogue of named colors"
   },
   {
     "source": "hn",
@@ -21,13 +16,13 @@
   },
   {
     "source": "hn",
-    "url": "https://storiedcolors.com/",
-    "title": "Storied Colors – a catalogue of named colors"
+    "url": "https://browser-use.com/posts/firecracker-browser-infra",
+    "title": "How we run Firecracker VMs inside EC2 and start browsers in less than 1s"
   },
   {
     "source": "hn",
-    "url": "https://www.sigarch.org/the-return-of-rigorous-full-system-timing-simulation/",
-    "title": "The Return of Rigorous Full-System Timing Simulation"
+    "url": "https://loreline.app/en/",
+    "title": "Loreline – Tools for writing interactive fiction"
   },
   {
     "source": "hn",
@@ -36,8 +31,18 @@
   },
   {
     "source": "hn",
-    "url": "https://loreline.app/en/",
-    "title": "Loreline – Tools for writing interactive fiction"
+    "url": "https://www.sigarch.org/the-return-of-rigorous-full-system-timing-simulation/",
+    "title": "The Return of Rigorous Full-System Timing Simulation"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.bloomberg.com/news/newsletters/2026-06-15/-gliderboy-reinvents-weather-balloon-with-return-flight-home",
+    "title": "Gliderboy Reinvents Humble Weather Balloon with Flight Home"
+  },
+  {
+    "source": "hn",
+    "url": "https://flickey.site",
+    "title": "Made a free macOS menu bar app that fixes typing in the wrong keyboard layout"
   },
   {
     "source": "hn",
@@ -56,11 +61,6 @@
   },
   {
     "source": "hn",
-    "url": "https://flickey.site",
-    "title": "Made a free macOS menu bar app that fixes typing in the wrong keyboard layout"
-  },
-  {
-    "source": "hn",
     "url": "https://www.lutr.dev/want-your-images-back-sure-that-ll-be-5-dollars",
     "title": "Want your images back? That'll be $5"
   },
@@ -68,11 +68,6 @@
     "source": "hn",
     "url": "https://kirklandroundabouts.com",
     "title": "Kirkland Roundabouts"
-  },
-  {
-    "source": "hn",
-    "url": "https://leejo.github.io/2026/06/14/first_drafts/",
-    "title": "A World of First Drafts"
   },
   {
     "source": "hn",
@@ -96,13 +91,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://parksb.github.io/en/article/32.html",
-    "title": "But yak shaving is fun"
+    "url": "https://yogthos.net/posts/2026-06-08-dirge-code.html",
+    "title": "Making budget models punch above their weight with a smart Rust harness"
   },
   {
     "source": "lobsters",
-    "url": "https://yogthos.net/posts/2026-06-08-dirge-code.html",
-    "title": "Making budget models punch above their weight with a smart Rust harness"
+    "url": "https://parksb.github.io/en/article/32.html",
+    "title": "But yak shaving is fun"
   },
   {
     "source": "lobsters",
@@ -111,13 +106,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://blog.argus-systems.ai/blog/openbsd-pap-27-year-auth-bypass.html",
-    "title": "A 27-Year-Old Authentication Bypass in OpenBSD's PPP Stack"
+    "url": "https://nathan.rs/posts/gzip-lm/",
+    "title": "Can gzip be a language model?"
   },
   {
     "source": "lobsters",
-    "url": "https://nathan.rs/posts/gzip-lm/",
-    "title": "Can gzip be a language model?"
+    "url": "https://blog.argus-systems.ai/blog/openbsd-pap-27-year-auth-bypass.html",
+    "title": "A 27-Year-Old Authentication Bypass in OpenBSD's PPP Stack"
   },
   {
     "source": "lobsters",
@@ -146,8 +141,18 @@
   },
   {
     "source": "lobsters",
+    "url": "https://wiesmann.codiferes.net/wordpress/archives/41710",
+    "title": "Future Text API"
+  },
+  {
+    "source": "lobsters",
     "url": "https://mareksuppa.com/til/bash-dev-tcp-http-without-curl/",
     "title": "Making HTTP requests from a container that has no curl, using bash /dev/tcp"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://juniperspring.org/posts/honda-evil-valet/",
+    "title": "Honda Civics and the Evil Valet"
   },
   {
     "source": "pinboard",
