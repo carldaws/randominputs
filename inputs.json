@@ -6,11 +6,6 @@
   },
   {
     "source": "hn",
-    "url": "https://www.lutr.dev/want-your-images-back-sure-that-ll-be-5-dollars",
-    "title": "Want your images back? Sure... That'll be $5!"
-  },
-  {
-    "source": "hn",
     "url": "https://artificialanalysis.ai/articles/glm-5-2-is-the-new-leading-open-weights-model-on-the-artificial-analysis-intelligence-index",
     "title": "GLM-5.2 is the new leading open weights model on Artificial Analysis"
   },
@@ -21,18 +16,18 @@
   },
   {
     "source": "hn",
-    "url": "https://johnowhitaker.github.io/inkwash/about",
-    "title": "Show HN: Inkwash, a watercolor sketching app and explanation"
+    "url": "https://www.lutr.dev/want-your-images-back-sure-that-ll-be-5-dollars",
+    "title": "Want your images back? That'll be $5"
   },
   {
     "source": "hn",
-    "url": "https://www.makingsoftware.com/chapters/image-compression",
-    "title": "Image Compression"
+    "url": "https://browser-use.com/posts/firecracker-browser-infra",
+    "title": "How we run Firecracker VMs inside EC2 and start browsers in less than 1s"
   },
   {
     "source": "hn",
-    "url": "https://vickiboykis.com/2026/06/15/running-local-models-is-good-now/",
-    "title": "Running local models is good now"
+    "url": "https://www.greptile.com/blog/trex-code-execution",
+    "title": "TREX: An AI code reviewer that runs your code"
   },
   {
     "source": "hn",
@@ -41,8 +36,23 @@
   },
   {
     "source": "hn",
-    "url": "https://cells2pixels.github.io/",
-    "title": "Show HN: High-Res Neural Cellular Automata"
+    "url": "https://johnowhitaker.github.io/inkwash/about",
+    "title": "Show HN: Inkwash, a watercolor sketching app and explanation"
+  },
+  {
+    "source": "hn",
+    "url": "https://mathenchant.wordpress.com/2026/06/15/seventeen-camels-and-where-they-can-take-you/",
+    "title": "Seventeen Camels and Where They Can Take You"
+  },
+  {
+    "source": "hn",
+    "url": "https://kirklandroundabouts.com",
+    "title": "Kirkland Roundabouts"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.makingsoftware.com/chapters/image-compression",
+    "title": "Image Compression"
   },
   {
     "source": "hn",
@@ -51,23 +61,18 @@
   },
   {
     "source": "hn",
-    "url": "https://glasskit.app/ui",
-    "title": "Open-source React UI and D-pad focus engine for Meta Ray-Ban Display"
-  },
-  {
-    "source": "hn",
-    "url": "https://artificialanalysis.ai/models/glm-5-2",
-    "title": "GLM 5.2 Performance Benchmarks"
-  },
-  {
-    "source": "hn",
-    "url": "https://blog.greg.technology/2026/06/12/map-clustering-is-not-my-favorite.html",
-    "title": "Map Clustering Is Not My Favorite"
+    "url": "https://ghostinthedata.info/posts/2026/2026-06-13-human-connection-moat/",
+    "title": "The Competitive Moat That AI Can't Replicate"
   },
   {
     "source": "lobsters",
     "url": "https://bobdahacker.com/blog/fifa-hack",
     "title": "I Could've Rickrolled the Entire FIFA World Cup. All I Needed Was My ID"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://blog.unitedheroes.net/5751",
+    "title": "Leaving Mozilla"
   },
   {
     "source": "lobsters",
@@ -96,18 +101,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://rousseeuwprize.org/2026",
-    "title": "R Core team wins Rousseeuw Prize for Statistics 2026"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://roman.pt/posts/linkedin-backdoor/",
-    "title": "A backdoor in a LinkedIn job offer"
-  },
-  {
-    "source": "lobsters",
     "url": "https://yogthos.net/posts/2026-06-08-dirge-code.html",
     "title": "Making budget models punch above their weight with a smart Rust harness"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://rousseeuwprize.org/2026",
+    "title": "R Core team wins Rousseeuw Prize for Statistics 2026"
   },
   {
     "source": "lobsters",
@@ -116,13 +116,18 @@
   },
   {
     "source": "lobsters",
-    "url": "https://trifectatech.org/blog/zlib-rs-in-firefox/",
-    "title": "zlib-rs in Firefox"
+    "url": "https://roman.pt/posts/linkedin-backdoor/",
+    "title": "A backdoor in a LinkedIn job offer"
   },
   {
     "source": "lobsters",
-    "url": "https://mareksuppa.com/til/bash-dev-tcp-http-without-curl/",
-    "title": "Making HTTP requests from a container that has no curl, using bash /dev/tcp"
+    "url": "https://vickiboykis.com/2026/06/15/running-local-models-is-good-now/",
+    "title": "Running local models is good now"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://trifectatech.org/blog/zlib-rs-in-firefox/",
+    "title": "zlib-rs in Firefox"
   },
   {
     "source": "lobsters",
@@ -131,8 +136,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://kobzol.github.io/rust/2026/06/15/how-memory-safety-cves-differ-between-rust-and-c-cpp.html",
-    "title": "How memory safety CVEs differ between Rust and C/C++"
+    "url": "https://mareksuppa.com/til/bash-dev-tcp-http-without-curl/",
+    "title": "Making HTTP requests from a container that has no curl, using bash /dev/tcp"
   },
   {
     "source": "pinboard",
