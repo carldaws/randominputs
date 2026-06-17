@@ -2,17 +2,17 @@
   {
     "source": "hn",
     "url": "https://lore.org/",
-    "title": "Epic Games announces Lore version control system"
-  },
-  {
-    "source": "hn",
-    "url": "https://artificialanalysis.ai/articles/glm-5-2-is-the-new-leading-open-weights-model-on-the-artificial-analysis-intelligence-index",
-    "title": "GLM-5.2 is the new leading open weights model on Artificial Analysis"
+    "title": "Lore – Open source version control system designed for scalability"
   },
   {
     "source": "hn",
     "url": "https://browser-use.com/posts/firecracker-browser-infra",
     "title": "How we run Firecracker VMs inside EC2 and start browsers in less than 1s"
+  },
+  {
+    "source": "hn",
+    "url": "https://artificialanalysis.ai/articles/glm-5-2-is-the-new-leading-open-weights-model-on-the-artificial-analysis-intelligence-index",
+    "title": "GLM-5.2 is the new leading open weights model on Artificial Analysis"
   },
   {
     "source": "hn",
@@ -26,18 +26,13 @@
   },
   {
     "source": "hn",
-    "url": "https://www.lutr.dev/want-your-images-back-sure-that-ll-be-5-dollars",
-    "title": "Want your images back? That'll be $5"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.greptile.com/blog/trex-code-execution",
-    "title": "TREX: An AI code reviewer that runs your code"
-  },
-  {
-    "source": "hn",
     "url": "https://www.thesignalist.io/s/the-dialogue-dividend/",
     "title": "Why thinking out loud with someone beats thinking alone"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.lutr.dev/want-your-images-back-sure-that-ll-be-5-dollars",
+    "title": "Want your images back? That'll be $5"
   },
   {
     "source": "hn",
@@ -46,18 +41,33 @@
   },
   {
     "source": "hn",
-    "url": "https://thehappytraveler.ca/travel-guide-italy/capitoline-wolf-siena-rome-myths/",
-    "title": "The Capitoline Wolf"
-  },
-  {
-    "source": "hn",
     "url": "https://kirklandroundabouts.com",
     "title": "Kirkland Roundabouts"
   },
   {
     "source": "hn",
+    "url": "https://www.greptile.com/blog/trex-code-execution",
+    "title": "TREX: An AI code reviewer that runs your code"
+  },
+  {
+    "source": "hn",
+    "url": "https://thehappytraveler.ca/travel-guide-italy/capitoline-wolf-siena-rome-myths/",
+    "title": "The Capitoline Wolf"
+  },
+  {
+    "source": "hn",
     "url": "https://www.makingsoftware.com/chapters/image-compression",
     "title": "Image Compression"
+  },
+  {
+    "source": "hn",
+    "url": "https://starscope.live/feed",
+    "title": "Show HN: StarScope – Free astronomy dashboard for observers outside the US/UK"
+  },
+  {
+    "source": "hn",
+    "url": "https://flickey.site",
+    "title": "Made a free macOS menu bar app that fixes typing in the wrong keyboard layout"
   },
   {
     "source": "hn",
@@ -68,6 +78,11 @@
     "source": "hn",
     "url": "https://mathenchant.wordpress.com/2026/06/15/seventeen-camels-and-where-they-can-take-you/",
     "title": "Seventeen Camels and Where They Can Take You"
+  },
+  {
+    "source": "hn",
+    "url": "https://cells2pixels.github.io/",
+    "title": "Show HN: High-Res Neural Cellular Automata"
   },
   {
     "source": "lobsters",
@@ -96,23 +111,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://nathan.rs/posts/gzip-lm/",
-    "title": "Can gzip be a language model?"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://blog.argus-systems.ai/blog/openbsd-pap-27-year-auth-bypass.html",
-    "title": "A 27-Year-Old Authentication Bypass in OpenBSD's PPP Stack"
-  },
-  {
-    "source": "lobsters",
     "url": "https://blog.haskell.org/making-ghc-upgrades-easy/",
     "title": "Making GHC upgrades easy"
   },
   {
     "source": "lobsters",
-    "url": "https://rousseeuwprize.org/2026",
-    "title": "R Core team wins Rousseeuw Prize for Statistics 2026"
+    "url": "https://nathan.rs/posts/gzip-lm/",
+    "title": "Can gzip be a language model?"
   },
   {
     "source": "lobsters",
@@ -121,13 +126,23 @@
   },
   {
     "source": "lobsters",
-    "url": "https://roman.pt/posts/linkedin-backdoor/",
-    "title": "A backdoor in a LinkedIn job offer"
+    "url": "https://blog.argus-systems.ai/blog/openbsd-pap-27-year-auth-bypass.html",
+    "title": "A 27-Year-Old Authentication Bypass in OpenBSD's PPP Stack"
   },
   {
     "source": "lobsters",
     "url": "https://vickiboykis.com/2026/06/15/running-local-models-is-good-now/",
     "title": "Running local models is good now"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://roman.pt/posts/linkedin-backdoor/",
+    "title": "A backdoor in a LinkedIn job offer"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://wiesmann.codiferes.net/wordpress/archives/41710",
+    "title": "Future Text API"
   },
   {
     "source": "lobsters",
@@ -138,11 +153,6 @@
     "source": "lobsters",
     "url": "https://mareksuppa.com/til/bash-dev-tcp-http-without-curl/",
     "title": "Making HTTP requests from a container that has no curl, using bash /dev/tcp"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://juniperspring.org/posts/honda-evil-valet/",
-    "title": "Honda Civics and the Evil Valet"
   },
   {
     "source": "pinboard",
