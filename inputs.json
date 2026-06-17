@@ -1,6 +1,11 @@
 [
   {
     "source": "hn",
+    "url": "https://runtimewire.com/article/openai-leaked-financials-altman-compute-burn",
+    "title": "Leaked OpenAI financials show $38.5B loss and compute burn"
+  },
+  {
+    "source": "hn",
     "url": "https://vickiboykis.com/2026/06/15/running-local-models-is-good-now/",
     "title": "Running local models is good now"
   },
@@ -11,13 +16,13 @@
   },
   {
     "source": "hn",
-    "url": "https://mareksuppa.com/til/bash-dev-tcp-http-without-curl/",
-    "title": "TIL: You can make HTTP requests without curl using Bash /dev/TCP"
+    "url": "https://writings.stephenwolfram.com/2026/06/launching-version-15-of-wolfram-language-mathematica-built-in-useful-ai-lots-of-new-core-functionality/",
+    "title": "Wolfram Language and Mathematica Version 15, AI Assistant, Symbolic Music, More"
   },
   {
     "source": "hn",
-    "url": "https://ciechanow.ski/mechanical-watch/",
-    "title": "Mechanical Watch (2022)"
+    "url": "https://mareksuppa.com/til/bash-dev-tcp-http-without-curl/",
+    "title": "TIL: You can make HTTP requests without curl using Bash /dev/TCP"
   },
   {
     "source": "hn",
@@ -31,18 +36,8 @@
   },
   {
     "source": "hn",
-    "url": "https://kirklandroundabouts.com",
-    "title": "The Magic Roundabout of Seattle Area"
-  },
-  {
-    "source": "hn",
     "url": "https://parksb.github.io/en/article/32.html",
     "title": "But yak shaving is fun (2019)"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.gilesthomas.com/2026/06/10g-ethernet-switching-to-broadcom-sfp-plus",
-    "title": "10Gb/s Ethernet: switching to a Broadcom SFP+ module"
   },
   {
     "source": "hn",
@@ -51,18 +46,13 @@
   },
   {
     "source": "hn",
-    "url": "https://tck.mn/blog/correlated-randomness-sts2/",
-    "title": "Correlated randomness in Slay the Spire 2"
+    "url": "https://www.gilesthomas.com/2026/06/10g-ethernet-switching-to-broadcom-sfp-plus",
+    "title": "10Gb/s Ethernet: switching to a Broadcom SFP+ module"
   },
   {
     "source": "hn",
-    "url": "https://jxmo.io/posts/nce",
-    "title": "Demystifying Noise Contrastive Estimation"
-  },
-  {
-    "source": "hn",
-    "url": "https://blog.janestreet.com/formal-methods-at-jane-street-index/",
-    "title": "Formal Methods and the Future of Programming"
+    "url": "https://inessential.com/2026/06/15/netnewswire-status.html",
+    "title": "NetNewsWire Status"
   },
   {
     "source": "hn",
@@ -71,8 +61,13 @@
   },
   {
     "source": "hn",
-    "url": "https://words.filippo.io/frood/",
-    "title": "Frood, an Alpine Initramfs NAS (2024)"
+    "url": "https://ciechanow.ski/mechanical-watch/",
+    "title": "Mechanical Watch (2022)"
+  },
+  {
+    "source": "hn",
+    "url": "https://blog.janestreet.com/formal-methods-at-jane-street-index/",
+    "title": "Formal Methods and the Future of Programming"
   },
   {
     "source": "hn",
@@ -81,8 +76,13 @@
   },
   {
     "source": "hn",
-    "url": "https://sighack.com/post/getting-creative-with-perlin-noise-fields",
-    "title": "Getting Creative with Perlin Noise Fields"
+    "url": "https://words.filippo.io/frood/",
+    "title": "Frood, an Alpine Initramfs NAS (2024)"
+  },
+  {
+    "source": "hn",
+    "url": "https://subq.ai/subq-1-1-small-technical-report",
+    "title": "SubQ 1.1 Small"
   },
   {
     "source": "lobsters",
@@ -106,13 +106,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://www.sacredheartsc.com/blog/freebsd-15-on-a-laptop/",
-    "title": "FreeBSD 15 on a Laptop"
+    "url": "https://alexalejandre.com/programming/interview-with-claude-roux/",
+    "title": "Lobsters Interview with Claudius"
   },
   {
     "source": "lobsters",
-    "url": "https://alexalejandre.com/programming/interview-with-claude-roux/",
-    "title": "Lobsters Interview with Claudius"
+    "url": "https://www.sacredheartsc.com/blog/freebsd-15-on-a-laptop/",
+    "title": "FreeBSD 15 on a Laptop"
   },
   {
     "source": "lobsters",
@@ -126,8 +126,18 @@
   },
   {
     "source": "lobsters",
-    "url": "https://daniel.haxx.se/blog/2026/06/15/curl-summer-of-bliss/",
-    "title": "curl summer of bliss"
+    "url": "https://tck.mn/blog/correlated-randomness-sts2/",
+    "title": "Correlated randomness in Slay the Spire 2"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://juniperspring.org/posts/honda-evil-valet/",
+    "title": "Honda Civics and the Evil Valet"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://wolfgirl.dev/blog/2026-06-16-async-task-locals-from-scratch/",
+    "title": "Async Task Locals From Scratch"
   },
   {
     "source": "lobsters",
@@ -136,8 +146,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://wolfgirl.dev/blog/2026-06-16-async-task-locals-from-scratch/",
-    "title": "Async Task Locals From Scratch"
+    "url": "https://daniel.haxx.se/blog/2026/06/15/curl-summer-of-bliss/",
+    "title": "curl summer of bliss"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://nathan.rs/posts/gzip-lm/",
+    "title": "Can gzip be a language model?"
   },
   {
     "source": "lobsters",
@@ -148,15 +163,5 @@
     "source": "lobsters",
     "url": "https://ecs.d2evs.net/posts/2024-05-27-terminals-bad.gmi",
     "title": "all the ways in which terminals' text rendering is bad (2024)"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://inessential.com/2026/06/15/netnewswire-status.html",
-    "title": "NetNewsWire Status"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://blog.andr2i.com/posts/2026-06-08-optimization-catalog-when-float-division-beats-integer-division",
-    "title": "When float division beats integer division"
   }
 ]
