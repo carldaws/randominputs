@@ -1,18 +1,38 @@
 [
   {
     "source": "hn",
-    "url": "https://chat.deepseek.com/",
-    "title": "DeepSeek Introduces Vision"
-  },
-  {
-    "source": "hn",
     "url": "https://blog.alexellis.io/local-ai-is-not-opus/",
     "title": "Local Qwen isn't a worse Opus, it's a different tool"
   },
   {
     "source": "hn",
+    "url": "https://rbelmont.mameworld.info/?p=1725",
+    "title": "I need your clothes, your boots, and your motorcycle"
+  },
+  {
+    "source": "hn",
     "url": "https://lore.org/",
     "title": "Lore – Open source version control system designed for scalability"
+  },
+  {
+    "source": "hn",
+    "url": "https://btao.org/posts/2026-05-09-the-forge-we-deserve/",
+    "title": "The Forge We Deserve"
+  },
+  {
+    "source": "hn",
+    "url": "https://sogen.dev/",
+    "title": "Sogen – High-performance Windows and Linux userspace emulator"
+  },
+  {
+    "source": "hn",
+    "url": "https://tadaima.bearblog.dev/the-2-year-apartment-rule/",
+    "title": "The 2-Year Apartment Rule"
+  },
+  {
+    "source": "hn",
+    "url": "https://mwi.westpoint.edu/war-books-the-marine-corps-commandants-2026-reading-list/",
+    "title": "War Books: The Marine Corps Commandant's 2026 Reading List"
   },
   {
     "source": "hn",
@@ -31,13 +51,13 @@
   },
   {
     "source": "hn",
-    "url": "https://loreline.app/en/",
-    "title": "Loreline – Tools for writing interactive fiction"
+    "url": "https://worksinprogress.co/issue/how-madrid-built-its-metro-cheaply/",
+    "title": "How Madrid built its metro cheaply (2024)"
   },
   {
     "source": "hn",
-    "url": "https://worksinprogress.co/issue/how-madrid-built-its-metro-cheaply/",
-    "title": "How Madrid built its metro cheaply (2024)"
+    "url": "https://loreline.app/en/",
+    "title": "Loreline – Tools for writing interactive fiction"
   },
   {
     "source": "hn",
@@ -56,28 +76,8 @@
   },
   {
     "source": "hn",
-    "url": "https://sogen.dev/",
-    "title": "Sogen – High-performance Windows and Linux userspace emulator"
-  },
-  {
-    "source": "hn",
-    "url": "https://srijanshukla.com/artifacts/spin-lab/",
-    "title": "Show HN: Spin Lab"
-  },
-  {
-    "source": "hn",
-    "url": "https://johnowhitaker.github.io/inkwash/about",
-    "title": "Show HN: Inkwash, a watercolor sketching app and explanation"
-  },
-  {
-    "source": "hn",
     "url": "https://xeiaso.net/notes/2026/anubis-wasm-vendor-binary/",
     "title": "I Hate Compilers"
-  },
-  {
-    "source": "hn",
-    "url": "https://artificialanalysis.ai/articles/glm-5-2-is-the-new-leading-open-weights-model-on-the-artificial-analysis-intelligence-index",
-    "title": "GLM-5.2 is the new leading open weights model on Artificial Analysis"
   },
   {
     "source": "lobsters",
@@ -101,8 +101,18 @@
   },
   {
     "source": "lobsters",
+    "url": "https://www.abgeo.dev/blog/cli-authentication-the-right-way/",
+    "title": "CLI Authentication, the Right Way"
+  },
+  {
+    "source": "lobsters",
     "url": "https://hugodaniel.com/posts/color-picking-oklch/",
     "title": "Color picking Oklch for mortals"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://salvagedcircuitry.com/sigma-45mm.html",
+    "title": "Sigma 45mm f/2.8 Lens Repair & Analysis"
   },
   {
     "source": "lobsters",
@@ -111,8 +121,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://www.abgeo.dev/blog/cli-authentication-the-right-way/",
-    "title": "CLI Authentication, the Right Way"
+    "url": "https://stackoverflow.blog/2026/06/10/announcing-stack-overflow-for-agents/",
+    "title": "Announcing Stack Overflow for Agents"
   },
   {
     "source": "lobsters",
@@ -131,12 +141,7 @@
   },
   {
     "source": "lobsters",
-    "url": "https://rousseeuwprize.org/2026",
-    "title": "R Core team wins Rousseeuw Prize for Statistics 2026"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://blog.argus-systems.ai/blog/openbsd-pap-27-year-auth-bypass.html",
-    "title": "A 27-Year-Old Authentication Bypass in OpenBSD's PPP Stack"
+    "url": "https://blainsmith.com/articles/rfc-10008-http-query-method/",
+    "title": "RFC 10008: The HTTP QUERY Method"
   }
 ]
