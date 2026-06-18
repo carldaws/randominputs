@@ -16,11 +16,6 @@
   },
   {
     "source": "hn",
-    "url": "https://artificialanalysis.ai/articles/glm-5-2-is-the-new-leading-open-weights-model-on-the-artificial-analysis-intelligence-index",
-    "title": "GLM-5.2 is the new leading open weights model on Artificial Analysis"
-  },
-  {
-    "source": "hn",
     "url": "https://browser-use.com/posts/firecracker-browser-infra",
     "title": "How we run Firecracker VMs inside EC2 and start browsers in less than 1s"
   },
@@ -36,8 +31,8 @@
   },
   {
     "source": "hn",
-    "url": "https://ghostinthedata.info/posts/2026/2026-06-13-human-connection-moat/",
-    "title": "The Competitive Moat That AI Can't Replicate"
+    "url": "https://worksinprogress.co/issue/how-madrid-built-its-metro-cheaply/",
+    "title": "How Madrid built its metro cheaply"
   },
   {
     "source": "hn",
@@ -51,18 +46,13 @@
   },
   {
     "source": "hn",
-    "url": "https://flickey.site",
-    "title": "Made a free macOS menu bar app that fixes typing in the wrong keyboard layout"
-  },
-  {
-    "source": "hn",
-    "url": "https://fruitgrowersnews.com/article/pink-cosmo-berries-a-hit-in-their-trial-season/",
-    "title": "Pink Cosmo berries a hit in their trial season (2023)"
-  },
-  {
-    "source": "hn",
     "url": "https://johnowhitaker.github.io/inkwash/about",
     "title": "Show HN: Inkwash, a watercolor sketching app and explanation"
+  },
+  {
+    "source": "hn",
+    "url": "https://artificialanalysis.ai/articles/glm-5-2-is-the-new-leading-open-weights-model-on-the-artificial-analysis-intelligence-index",
+    "title": "GLM-5.2 is the new leading open weights model on Artificial Analysis"
   },
   {
     "source": "hn",
@@ -71,18 +61,23 @@
   },
   {
     "source": "hn",
-    "url": "https://www.bloomberg.com/news/newsletters/2026-06-15/-gliderboy-reinvents-weather-balloon-with-return-flight-home",
-    "title": "Gliderboy Reinvents Humble Weather Balloon with Flight Home"
+    "url": "https://flickey.site",
+    "title": "Made a free macOS menu bar app that fixes typing in the wrong keyboard layout"
+  },
+  {
+    "source": "hn",
+    "url": "https://srijanshukla.com/artifacts/spin-lab/",
+    "title": "Show HN: Spin Lab"
+  },
+  {
+    "source": "hn",
+    "url": "https://fruitgrowersnews.com/article/pink-cosmo-berries-a-hit-in-their-trial-season/",
+    "title": "Pink Cosmo berries a hit in their trial season (2023)"
   },
   {
     "source": "hn",
     "url": "https://www.makingsoftware.com/chapters/image-compression",
     "title": "Image Compression"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.lutr.dev/want-your-images-back-sure-that-ll-be-5-dollars",
-    "title": "Want your images back? That'll be $5"
   },
   {
     "source": "lobsters",
@@ -153,5 +148,95 @@
     "source": "lobsters",
     "url": "https://trifectatech.org/blog/zlib-rs-in-firefox/",
     "title": "zlib-rs in Firefox"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://sqltoerdiagram.com/",
+    "title": "SQL to ER Diagram — Free Online ERD Generator from SQL (no signup)"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://matthewbutterick.com/extinction-level-capitalism.html",
+    "title": "Matthew Butterick | Extinction-level capitalism"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://paulgraham.com/earn.html",
+    "title": "How to Earn a Billion Dollars"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://news.ycombinator.com/item?id=48542100",
+    "title": "Ask HN: Has anyone replaced Claude/GPT with a local model for daily coding? | Hacker News"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://ikyle.me/blog/2026/how-to-setup-a-local-coding-agent-on-macos",
+    "title": "How to Setup a Local Coding Agent on macOS - Kyle Howells"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://faroutcompany.com/",
+    "title": "Far Out Company — Countercultural visual overload"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.richardosgood.com/posts/banned-book-library/",
+    "title": "Banned Book Library | Rick's Blog"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://wizardzines.com/comics/write-for-one-person/",
+    "title": "write for one person"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://ciechanow.ski/mechanical-watch/",
+    "title": "(500) https://ciechanow.ski/mechanical-watch/"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://tim.blog/2026/06/12/has-ai-already-killed-nonfiction/",
+    "title": "Has AI Already Killed How-To Nonfiction? Sales Trends, My Personal Data, and What It Might Mean for the Future - The Blog of Author Tim Ferriss"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://tonsky.me/blog/every-frame-perfect/",
+    "title": "Every Frame Perfect"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://garrit.xyz/posts/2026-05-06-dont-trust-large-context-windows",
+    "title": "Don't trust large context windows | Garrit's Notes"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://tombedor.dev/human-attention-and-human-effort/",
+    "title": "If You are Asking for Human Attention, Demonstrate Human Effort"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://blog.janestreet.com/formal-methods-at-jane-street-index/",
+    "title": "Jane Street Blog - Formal methods and the future of programming"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://news.ycombinator.com/item?id=48555993",
+    "title": "Running local models is good now | Hacker News"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://rsgm.dev/post/ai-dev-platform/",
+    "title": "My Homelab AI Dev Platform • Rsgm's Blog"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://simonwillison.net/2026/Jun/11/fable-is-relentlessly-proactive/",
+    "title": "Claude Fable is relentlessly proactive"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://karthinks.com/software/even-more-batteries-included-with-emacs/",
+    "title": "Even More Batteries Included with Emacs | Karthinks"
   }
 ]
