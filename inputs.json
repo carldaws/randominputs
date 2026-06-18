@@ -1,6 +1,11 @@
 [
   {
     "source": "hn",
+    "url": "https://chat.deepseek.com/",
+    "title": "DeepSeek Introduces Vision"
+  },
+  {
+    "source": "hn",
     "url": "https://blog.alexellis.io/local-ai-is-not-opus/",
     "title": "Local Qwen isn't a worse Opus, it's a different tool"
   },
@@ -11,58 +16,13 @@
   },
   {
     "source": "hn",
-    "url": "https://xeiaso.net/notes/2026/anubis-wasm-vendor-binary/",
-    "title": "I Hate Compilers"
-  },
-  {
-    "source": "hn",
     "url": "https://www.horg.com/horg/?page_id=921",
     "title": "Taxonomy of the Occlupanida (parasitoids on bread bag tags)"
   },
   {
     "source": "hn",
     "url": "https://storiedcolors.com/",
-    "title": "Storied Colors – a catalogue of named colors"
-  },
-  {
-    "source": "hn",
-    "url": "https://loreline.app/en/",
-    "title": "Loreline – Tools for writing interactive fiction"
-  },
-  {
-    "source": "hn",
-    "url": "https://browser-use.com/posts/firecracker-browser-infra",
-    "title": "How we run Firecracker VMs inside EC2 and start browsers in less than 1s"
-  },
-  {
-    "source": "hn",
-    "url": "https://worksinprogress.co/issue/how-madrid-built-its-metro-cheaply/",
-    "title": "How Madrid built its metro cheaply (2024)"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.rfc-editor.org/info/rfc10008/",
-    "title": "RFC 10008: The new HTTP Query Method"
-  },
-  {
-    "source": "hn",
-    "url": "https://srijanshukla.com/artifacts/spin-lab/",
-    "title": "Show HN: Spin Lab"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.thesignalist.io/s/the-dialogue-dividend/",
-    "title": "Why thinking out loud with someone beats thinking alone"
-  },
-  {
-    "source": "hn",
-    "url": "https://johnowhitaker.github.io/inkwash/about",
-    "title": "Show HN: Inkwash, a watercolor sketching app and explanation"
-  },
-  {
-    "source": "hn",
-    "url": "https://artificialanalysis.ai/articles/glm-5-2-is-the-new-leading-open-weights-model-on-the-artificial-analysis-intelligence-index",
-    "title": "GLM-5.2 is the new leading open weights model on Artificial Analysis"
+    "title": "Storied Colors – A catalogue of named colors"
   },
   {
     "source": "hn",
@@ -71,8 +31,53 @@
   },
   {
     "source": "hn",
-    "url": "https://www.sigarch.org/the-return-of-rigorous-full-system-timing-simulation/",
-    "title": "The Return of Rigorous Full-System Timing Simulation"
+    "url": "https://loreline.app/en/",
+    "title": "Loreline – Tools for writing interactive fiction"
+  },
+  {
+    "source": "hn",
+    "url": "https://worksinprogress.co/issue/how-madrid-built-its-metro-cheaply/",
+    "title": "How Madrid built its metro cheaply (2024)"
+  },
+  {
+    "source": "hn",
+    "url": "https://browser-use.com/posts/firecracker-browser-infra",
+    "title": "How we run Firecracker VMs inside EC2 and start browsers in less than 1s"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.rfc-editor.org/info/rfc10008/",
+    "title": "RFC 10008: The new HTTP Query Method"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.thesignalist.io/s/the-dialogue-dividend/",
+    "title": "Why thinking out loud with someone beats thinking alone"
+  },
+  {
+    "source": "hn",
+    "url": "https://sogen.dev/",
+    "title": "Sogen – High-performance Windows and Linux userspace emulator"
+  },
+  {
+    "source": "hn",
+    "url": "https://srijanshukla.com/artifacts/spin-lab/",
+    "title": "Show HN: Spin Lab"
+  },
+  {
+    "source": "hn",
+    "url": "https://johnowhitaker.github.io/inkwash/about",
+    "title": "Show HN: Inkwash, a watercolor sketching app and explanation"
+  },
+  {
+    "source": "hn",
+    "url": "https://xeiaso.net/notes/2026/anubis-wasm-vendor-binary/",
+    "title": "I Hate Compilers"
+  },
+  {
+    "source": "hn",
+    "url": "https://artificialanalysis.ai/articles/glm-5-2-is-the-new-leading-open-weights-model-on-the-artificial-analysis-intelligence-index",
+    "title": "GLM-5.2 is the new leading open weights model on Artificial Analysis"
   },
   {
     "source": "lobsters",
@@ -86,8 +91,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://hugodaniel.com/posts/color-picking-oklch/",
-    "title": "Color picking Oklch for mortals"
+    "url": "https://rahuljuliato.com/posts/emacs-31-around-the-corner",
+    "title": "Changes in Emacs 31 I'm Already Daily Driving"
   },
   {
     "source": "lobsters",
@@ -96,8 +101,18 @@
   },
   {
     "source": "lobsters",
+    "url": "https://hugodaniel.com/posts/color-picking-oklch/",
+    "title": "Color picking Oklch for mortals"
+  },
+  {
+    "source": "lobsters",
     "url": "https://yogthos.net/posts/2026-06-08-dirge-code.html",
     "title": "Making budget models punch above their weight with a smart Rust harness"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://www.abgeo.dev/blog/cli-authentication-the-right-way/",
+    "title": "CLI Authentication, the Right Way"
   },
   {
     "source": "lobsters",
@@ -108,11 +123,6 @@
     "source": "lobsters",
     "url": "https://blog.haskell.org/making-ghc-upgrades-easy/",
     "title": "Making GHC upgrades easy"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://rahuljuliato.com/posts/emacs-31-around-the-corner",
-    "title": "Changes in Emacs 31 I'm Already Daily Driving"
   },
   {
     "source": "lobsters",
@@ -128,15 +138,5 @@
     "source": "lobsters",
     "url": "https://blog.argus-systems.ai/blog/openbsd-pap-27-year-auth-bypass.html",
     "title": "A 27-Year-Old Authentication Bypass in OpenBSD's PPP Stack"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://forgottenbytes.net/commander_keen.html",
-    "title": "Game Engine White Papers: Commander Keen"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://wiesmann.codiferes.net/wordpress/archives/41710",
-    "title": "Future Text API"
   }
 ]
