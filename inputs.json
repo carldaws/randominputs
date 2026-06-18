@@ -1,8 +1,23 @@
 [
   {
     "source": "hn",
-    "url": "https://rbelmont.mameworld.info/?p=1725",
-    "title": "I need your clothes, your boots, and your motorcycle"
+    "url": "https://www.rahuljuliato.com/posts/emacs-31-around-the-corner",
+    "title": "Emacs 31 Is Around the Corner: The Changes I'm Daily Driving"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.kcl.ac.uk/news/hospitals-and-universities-repurposing-drugs-at-90-lower-cost",
+    "title": "Hospitals and universities repurposing drugs at 90% lower cost"
+  },
+  {
+    "source": "hn",
+    "url": "https://blog.elenarossini.com/w-social-public-institutions-and-the-theater-of-european-digital-sovereignty/",
+    "title": "Has W Social switched to closed source?"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.elastic.co/search-labs/blog/agent-memory-elasticsearch",
+    "title": "We built a persistent agent memory layer on Elasticsearch with 0.89 recall"
   },
   {
     "source": "hn",
@@ -16,18 +31,23 @@
   },
   {
     "source": "hn",
+    "url": "https://www.windowslatest.com/2026/06/15/microsofts-new-outlook-takes-10-seconds-to-do-what-outlook-classic-does-instantly-on-windows/",
+    "title": "Microsoft new Outlook takes 10 seconds to do what Outlook Classic does instantly"
+  },
+  {
+    "source": "hn",
+    "url": "https://rbelmont.mameworld.info/?p=1725",
+    "title": "I need your clothes, your boots, and your motorcycle"
+  },
+  {
+    "source": "hn",
+    "url": "https://vinyl-cache.org/organization/on_vinyl_cache_and_varnish_cache.html#org-vinyl-varnish",
+    "title": "Vinyl Cache and Varnish Cache"
+  },
+  {
+    "source": "hn",
     "url": "https://xeiaso.net/notes/2026/anubis-wasm-vendor-binary/",
     "title": "I hate compilers"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.kcl.ac.uk/news/hospitals-and-universities-repurposing-drugs-at-90-lower-cost",
-    "title": "Hospitals and universities repurposing drugs at 90% lower cost"
-  },
-  {
-    "source": "hn",
-    "url": "https://btao.org/posts/2026-05-09-the-forge-we-deserve/",
-    "title": "The Forge We Deserve"
   },
   {
     "source": "hn",
@@ -41,18 +61,8 @@
   },
   {
     "source": "hn",
-    "url": "https://vinyl-cache.org/organization/on_vinyl_cache_and_varnish_cache.html#org-vinyl-varnish",
-    "title": "Vinyl Cache and Varnish Cache"
-  },
-  {
-    "source": "hn",
     "url": "https://browser-use.com/posts/firecracker-browser-infra",
     "title": "How we run Firecracker VMs inside EC2 and start browsers in less than 1s"
-  },
-  {
-    "source": "hn",
-    "url": "https://storiedcolors.com/",
-    "title": "Storied Colors – A catalogue of named colors"
   },
   {
     "source": "hn",
@@ -61,18 +71,8 @@
   },
   {
     "source": "hn",
-    "url": "https://www.horg.com/horg/?page_id=921",
-    "title": "Taxonomy of the Occlupanida (parasitoids on bread bag tags)"
-  },
-  {
-    "source": "hn",
-    "url": "https://loreline.app/en/",
-    "title": "Loreline – Tools for writing interactive fiction"
-  },
-  {
-    "source": "hn",
-    "url": "https://conf.nim-lang.org/",
-    "title": "Nim Conf 2026 (Online, Sat June 20)"
+    "url": "https://storiedcolors.com/",
+    "title": "Storied Colors – A catalogue of named colors"
   },
   {
     "source": "hn",
@@ -81,18 +81,18 @@
   },
   {
     "source": "hn",
+    "url": "https://www.horg.com/horg/?page_id=921",
+    "title": "Taxonomy of the Occlupanida (parasitoids on bread bag tags)"
+  },
+  {
+    "source": "hn",
     "url": "https://www.rfc-editor.org/info/rfc10008/",
     "title": "RFC 10008: The new HTTP Query Method"
   },
   {
     "source": "hn",
-    "url": "https://www.thesignalist.io/s/the-dialogue-dividend/",
-    "title": "Why thinking out loud with someone beats thinking alone"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://blog.unitedheroes.net/5751",
-    "title": "Leaving Mozilla"
+    "url": "https://loreline.app/en/",
+    "title": "Loreline – Tools for writing interactive fiction"
   },
   {
     "source": "lobsters",
@@ -101,8 +101,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://bobdahacker.com/blog/fifa-hack",
-    "title": "I Could've Rickrolled the Entire FIFA World Cup. All I Needed Was My ID"
+    "url": "https://blog.unitedheroes.net/5751",
+    "title": "Leaving Mozilla"
   },
   {
     "source": "lobsters",
@@ -116,8 +116,18 @@
   },
   {
     "source": "lobsters",
+    "url": "https://bobdahacker.com/blog/fifa-hack",
+    "title": "I Could've Rickrolled the Entire FIFA World Cup. All I Needed Was My ID"
+  },
+  {
+    "source": "lobsters",
     "url": "https://blog.joinmastodon.org/2026/06/mastodon-4.6/",
     "title": "Mastodon 4.6"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://jguer.space/blog/2026-06-15-yay-v13",
+    "title": "yay v13 and the AURpocalypse"
   },
   {
     "source": "lobsters",
@@ -126,8 +136,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://jguer.space/blog/2026-06-15-yay-v13",
-    "title": "yay v13 and the AURpocalypse"
+    "url": "https://stackoverflow.blog/2026/06/10/announcing-stack-overflow-for-agents/",
+    "title": "Announcing Stack Overflow for Agents"
   },
   {
     "source": "lobsters",
