@@ -1,18 +1,28 @@
 [
   {
     "source": "hn",
-    "url": "https://blog.alexellis.io/local-ai-is-not-opus/",
-    "title": "Local Qwen isn't a worse Opus, it's a different tool"
-  },
-  {
-    "source": "hn",
     "url": "https://rbelmont.mameworld.info/?p=1725",
     "title": "I need your clothes, your boots, and your motorcycle"
   },
   {
     "source": "hn",
+    "url": "https://blog.alexellis.io/local-ai-is-not-opus/",
+    "title": "Local Qwen isn't a worse Opus, it's a different tool"
+  },
+  {
+    "source": "hn",
     "url": "https://lore.org/",
     "title": "Lore – Open source version control system designed for scalability"
+  },
+  {
+    "source": "hn",
+    "url": "https://xeiaso.net/notes/2026/anubis-wasm-vendor-binary/",
+    "title": "I hate compilers"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.kcl.ac.uk/news/hospitals-and-universities-repurposing-drugs-at-90-lower-cost",
+    "title": "Hospitals and universities repurposing drugs at 90% lower cost"
   },
   {
     "source": "hn",
@@ -31,13 +41,13 @@
   },
   {
     "source": "hn",
-    "url": "https://mwi.westpoint.edu/war-books-the-marine-corps-commandants-2026-reading-list/",
-    "title": "War Books: The Marine Corps Commandant's 2026 Reading List"
+    "url": "https://vinyl-cache.org/organization/on_vinyl_cache_and_varnish_cache.html#org-vinyl-varnish",
+    "title": "Vinyl Cache and Varnish Cache"
   },
   {
     "source": "hn",
-    "url": "https://www.horg.com/horg/?page_id=921",
-    "title": "Taxonomy of the Occlupanida (parasitoids on bread bag tags)"
+    "url": "https://browser-use.com/posts/firecracker-browser-infra",
+    "title": "How we run Firecracker VMs inside EC2 and start browsers in less than 1s"
   },
   {
     "source": "hn",
@@ -46,13 +56,13 @@
   },
   {
     "source": "hn",
-    "url": "https://conf.nim-lang.org/",
-    "title": "Nim Conf 2026 (Online, Sat June 20)"
+    "url": "https://worksinprogress.co/issue/how-madrid-built-its-metro-cheaply/",
+    "title": "How Madrid built its metro cheaply (2024)"
   },
   {
     "source": "hn",
-    "url": "https://worksinprogress.co/issue/how-madrid-built-its-metro-cheaply/",
-    "title": "How Madrid built its metro cheaply (2024)"
+    "url": "https://www.horg.com/horg/?page_id=921",
+    "title": "Taxonomy of the Occlupanida (parasitoids on bread bag tags)"
   },
   {
     "source": "hn",
@@ -61,8 +71,13 @@
   },
   {
     "source": "hn",
-    "url": "https://browser-use.com/posts/firecracker-browser-infra",
-    "title": "How we run Firecracker VMs inside EC2 and start browsers in less than 1s"
+    "url": "https://conf.nim-lang.org/",
+    "title": "Nim Conf 2026 (Online, Sat June 20)"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.offthebricks.com/articles/smashed-toilet-phone-web-server",
+    "title": "Smashed Toilet Phone Web Server"
   },
   {
     "source": "hn",
@@ -75,24 +90,19 @@
     "title": "Why thinking out loud with someone beats thinking alone"
   },
   {
-    "source": "hn",
-    "url": "https://xeiaso.net/notes/2026/anubis-wasm-vendor-binary/",
-    "title": "I Hate Compilers"
-  },
-  {
     "source": "lobsters",
     "url": "https://blog.unitedheroes.net/5751",
     "title": "Leaving Mozilla"
   },
   {
     "source": "lobsters",
-    "url": "https://bobdahacker.com/blog/fifa-hack",
-    "title": "I Could've Rickrolled the Entire FIFA World Cup. All I Needed Was My ID"
+    "url": "https://rahuljuliato.com/posts/emacs-31-around-the-corner",
+    "title": "Changes in Emacs 31 I'm Already Daily Driving"
   },
   {
     "source": "lobsters",
-    "url": "https://rahuljuliato.com/posts/emacs-31-around-the-corner",
-    "title": "Changes in Emacs 31 I'm Already Daily Driving"
+    "url": "https://bobdahacker.com/blog/fifa-hack",
+    "title": "I Could've Rickrolled the Entire FIFA World Cup. All I Needed Was My ID"
   },
   {
     "source": "lobsters",
@@ -106,13 +116,18 @@
   },
   {
     "source": "lobsters",
+    "url": "https://blog.joinmastodon.org/2026/06/mastodon-4.6/",
+    "title": "Mastodon 4.6"
+  },
+  {
+    "source": "lobsters",
     "url": "https://hugodaniel.com/posts/color-picking-oklch/",
     "title": "Color picking Oklch for mortals"
   },
   {
     "source": "lobsters",
-    "url": "https://salvagedcircuitry.com/sigma-45mm.html",
-    "title": "Sigma 45mm f/2.8 Lens Repair & Analysis"
+    "url": "https://jguer.space/blog/2026-06-15-yay-v13",
+    "title": "yay v13 and the AURpocalypse"
   },
   {
     "source": "lobsters",
@@ -121,8 +136,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://stackoverflow.blog/2026/06/10/announcing-stack-overflow-for-agents/",
-    "title": "Announcing Stack Overflow for Agents"
+    "url": "https://blainsmith.com/articles/rfc-10008-http-query-method/",
+    "title": "RFC 10008: The HTTP QUERY Method"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://blog.kacaii.dev/3mn6n3lvibc2b",
+    "title": "Learning Lustre: Type-safe frontend development"
   },
   {
     "source": "lobsters",
@@ -130,18 +150,83 @@
     "title": "But yak shaving is fun"
   },
   {
-    "source": "lobsters",
-    "url": "https://blog.haskell.org/making-ghc-upgrades-easy/",
-    "title": "Making GHC upgrades easy"
+    "source": "pinboard",
+    "url": "https://vickiboykis.com/2026/06/15/running-local-models-is-good-now/",
+    "title": "Running local models is good now | ✰Vicki Boykis✰"
   },
   {
-    "source": "lobsters",
-    "url": "https://nathan.rs/posts/gzip-lm/",
-    "title": "Can gzip be a language model?"
+    "source": "pinboard",
+    "url": "https://matthewbutterick.com/extinction-level-capitalism.html",
+    "title": "Matthew Butterick | Extinction-level capitalism"
   },
   {
-    "source": "lobsters",
-    "url": "https://blainsmith.com/articles/rfc-10008-http-query-method/",
-    "title": "RFC 10008: The HTTP QUERY Method"
+    "source": "pinboard",
+    "url": "https://news.ycombinator.com/item?id=48542100",
+    "title": "Ask HN: Has anyone replaced Claude/GPT with a local model for daily coding? | Hacker News"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://ciechanow.ski/mechanical-watch/",
+    "title": "(500) https://ciechanow.ski/mechanical-watch/"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.richardosgood.com/posts/banned-book-library/",
+    "title": "Banned Book Library | Rick's Blog"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://mareksuppa.com/til/bash-dev-tcp-http-without-curl/",
+    "title": "Making HTTP requests from a container that has no curl, using bash /dev/tcp · Marek Šuppa"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://news.ycombinator.com/item?id=48555993",
+    "title": "Running local models is good now | Hacker News"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://johnowhitaker.github.io/inkwash/about",
+    "title": "inkwash · how it works"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://tim.blog/2026/06/12/has-ai-already-killed-nonfiction/",
+    "title": "Has AI Already Killed How-To Nonfiction? Sales Trends, My Personal Data, and What It Might Mean for the Future - The Blog of Author Tim Ferriss"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://ghostinthedata.info/posts/2026/2026-06-13-human-connection-moat/",
+    "title": "The Competitive Moat That AI Can't Replicate"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://tombedor.dev/human-attention-and-human-effort/",
+    "title": "If You are Asking for Human Attention, Demonstrate Human Effort"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://rsgm.dev/post/ai-dev-platform/",
+    "title": "My Homelab AI Dev Platform • Rsgm's Blog"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://sqltoerdiagram.com/",
+    "title": "SQL to ER Diagram — Free Online ERD Generator from SQL (no signup)"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://wizardzines.com/comics/write-for-one-person/",
+    "title": "write for one person"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://ikyle.me/blog/2026/how-to-setup-a-local-coding-agent-on-macos",
+    "title": "How to Setup a Local Coding Agent on macOS - Kyle Howells"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.seangoedecke.com/doing-nothing-at-work/",
+    "title": "Doing nothing at work"
   }
 ]
