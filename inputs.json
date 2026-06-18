@@ -11,13 +11,13 @@
   },
   {
     "source": "hn",
-    "url": "https://www.kcl.ac.uk/news/hospitals-and-universities-repurposing-drugs-at-90-lower-cost",
-    "title": "Hospitals and universities repurposing drugs at lower cost"
+    "url": "https://www.wired.com/story/sk-telecom-anthropic-mythos-export-controls/",
+    "title": "The Korean telecom giant at the center of Anthropic's Mythos controversy"
   },
   {
     "source": "hn",
-    "url": "https://www.wired.com/story/sk-telecom-anthropic-mythos-export-controls/",
-    "title": "The Korean telecom giant at the center of Anthropic's Mythos controversy"
+    "url": "https://www.kcl.ac.uk/news/hospitals-and-universities-repurposing-drugs-at-90-lower-cost",
+    "title": "Hospitals and universities repurposing drugs at lower cost"
   },
   {
     "source": "hn",
@@ -26,33 +26,23 @@
   },
   {
     "source": "hn",
-    "url": "https://mroczek.dev/articles/the-token-compression-illusion-why-im-skeptical-of-rtk/",
-    "title": "The Token Compression Illusion: Why I'm Skeptical of RTK"
-  },
-  {
-    "source": "hn",
     "url": "https://agenticresourcediscovery.org/introduction/",
     "title": "Agentic Resource Discovery Specification"
   },
   {
     "source": "hn",
-    "url": "https://xvw.lol/en/articles/emacs-start.html",
-    "title": "Emacs, how it all started for me"
-  },
-  {
-    "source": "hn",
-    "url": "https://gerrymandle.cc/",
-    "title": "Show HN: Gerrymandle - Daily puzzle game where you redraw electoral districts"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.submission.directory/",
-    "title": "A website that lists websites to submit your website to"
+    "url": "https://mroczek.dev/articles/the-token-compression-illusion-why-im-skeptical-of-rtk/",
+    "title": "The Token Compression Illusion: Why I'm Skeptical of RTK"
   },
   {
     "source": "hn",
     "url": "https://nelson.cloud/.gitignore-isnt-the-only-way-to-ignore-files-in-git/",
     "title": ".gitignore Isn't the only way to ignore files in Git"
+  },
+  {
+    "source": "hn",
+    "url": "https://gerrymandle.cc/",
+    "title": "Show HN: Gerrymandle - Daily puzzle game where you redraw electoral districts"
   },
   {
     "source": "hn",
@@ -66,28 +56,28 @@
   },
   {
     "source": "hn",
+    "url": "https://www.submission.directory/",
+    "title": "A website that lists websites to submit your website to"
+  },
+  {
+    "source": "hn",
     "url": "https://www.windowslatest.com/2026/06/15/microsofts-new-outlook-takes-10-seconds-to-do-what-outlook-classic-does-instantly-on-windows/",
     "title": "Microsoft new Outlook takes 10 seconds to do what Outlook Classic does instantly"
   },
   {
     "source": "hn",
+    "url": "https://mcmansionhell.com/post/148605513816/mcmansions-101-what-makes-a-mcmansion-bad",
+    "title": "McMansions 101: What Makes a McMansion Bad Architecture? (2016)"
+  },
+  {
+    "source": "hn",
+    "url": "https://xvw.lol/en/articles/emacs-start.html",
+    "title": "Emacs, how it all started for me"
+  },
+  {
+    "source": "hn",
     "url": "https://neutronbytes.com/2026/01/09/terrapower-in-mega-deal-with-meta-for-eight-natrium-345-mw-advanced-nuclear-plants/",
     "title": "TerraPower in deal with Meta for eight Natrium 345 MW nuclear plants"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.elastic.co/search-labs/blog/agent-memory-elasticsearch",
-    "title": "We built a persistent agent memory layer on Elasticsearch with 0.89 recall"
-  },
-  {
-    "source": "hn",
-    "url": "https://rbelmont.mameworld.info/?p=1725",
-    "title": "I need your clothes, your boots, and your motorcycle"
-  },
-  {
-    "source": "hn",
-    "url": "https://mcmansionhell.com/post/148605513816/mcmansions-101-what-makes-a-mcmansion-bad",
-    "title": "McMansions 101: What Makes a McMansion Bad Architecture?"
   },
   {
     "source": "lobsters",
@@ -101,6 +91,11 @@
   },
   {
     "source": "lobsters",
+    "url": "http://manishearth.github.io/blog/2026/06/17/the-future-of-the-con-is-already-here/",
+    "title": "The Future of the Con Is Already Here, It's Just Not Evenly Distributed"
+  },
+  {
+    "source": "lobsters",
     "url": "https://rahuljuliato.com/posts/emacs-31-around-the-corner",
     "title": "Changes in Emacs 31 I'm Already Daily Driving"
   },
@@ -108,11 +103,6 @@
     "source": "lobsters",
     "url": "https://www.abgeo.dev/blog/cli-authentication-the-right-way/",
     "title": "CLI Authentication, the Right Way"
-  },
-  {
-    "source": "lobsters",
-    "url": "http://manishearth.github.io/blog/2026/06/17/the-future-of-the-con-is-already-here/",
-    "title": "The Future of the Con Is Already Here, It's Just Not Evenly Distributed"
   },
   {
     "source": "lobsters",
@@ -131,13 +121,23 @@
   },
   {
     "source": "lobsters",
+    "url": "https://yogthos.net/posts/2026-06-17-perlin-flow.html",
+    "title": "The Hidden Elegance of Gradient Noise"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://yoebuild.org/blog/time-for-a-new-build-system/",
+    "title": "Is It Time for a New Embedded Linux Build System?"
+  },
+  {
+    "source": "lobsters",
     "url": "https://salvagedcircuitry.com/sigma-45mm.html",
     "title": "Sigma 45mm f/2.8 Lens Repair & Analysis"
   },
   {
     "source": "lobsters",
-    "url": "https://yogthos.net/posts/2026-06-17-perlin-flow.html",
-    "title": "The Hidden Elegance of Gradient Noise"
+    "url": "https://blainsmith.com/articles/rfc-10008-http-query-method/",
+    "title": "RFC 10008: The HTTP QUERY Method"
   },
   {
     "source": "lobsters",
@@ -151,16 +151,6 @@
   },
   {
     "source": "lobsters",
-    "url": "https://blainsmith.com/articles/rfc-10008-http-query-method/",
-    "title": "RFC 10008: The HTTP QUERY Method"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://yoebuild.org/blog/time-for-a-new-build-system/",
-    "title": "Is It Time for a New Embedded Linux Build System?"
-  },
-  {
-    "source": "lobsters",
     "url": "https://jguer.space/blog/2026-06-15-yay-v13",
     "title": "yay v13 and the AURpocalypse"
   },
@@ -171,102 +161,17 @@
   },
   {
     "source": "lobsters",
+    "url": "https://movq.de/blog/postings/2026-06-16/0/POSTING-en.html",
+    "title": "What was nice about the UI of Windows 2000"
+  },
+  {
+    "source": "lobsters",
     "url": "https://stackoverflow.blog/2026/06/10/announcing-stack-overflow-for-agents/",
     "title": "Announcing Stack Overflow for Agents"
   },
   {
     "source": "lobsters",
-    "url": "https://ps.tc/pages/blog-usbliter8.html",
-    "title": "usbliter8- Apple A12/A13 bootrom exploit"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://vickiboykis.com/2026/06/15/running-local-models-is-good-now/",
-    "title": "Running local models is good now | ✰Vicki Boykis✰"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://matthewbutterick.com/extinction-level-capitalism.html",
-    "title": "Matthew Butterick | Extinction-level capitalism"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://storiedcolors.com/",
-    "title": "Storied Colors"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://news.ycombinator.com/item?id=48542100",
-    "title": "Ask HN: Has anyone replaced Claude/GPT with a local model for daily coding? | Hacker News"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://ciechanow.ski/mechanical-watch/",
-    "title": "(500) https://ciechanow.ski/mechanical-watch/"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.richardosgood.com/posts/banned-book-library/",
-    "title": "Banned Book Library | Rick's Blog"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://mareksuppa.com/til/bash-dev-tcp-http-without-curl/",
-    "title": "Making HTTP requests from a container that has no curl, using bash /dev/tcp · Marek Šuppa"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://news.ycombinator.com/item?id=48555993",
-    "title": "Running local models is good now | Hacker News"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://johnowhitaker.github.io/inkwash/about",
-    "title": "inkwash · how it works"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://tim.blog/2026/06/12/has-ai-already-killed-nonfiction/",
-    "title": "Has AI Already Killed How-To Nonfiction? Sales Trends, My Personal Data, and What It Might Mean for the Future - The Blog of Author Tim Ferriss"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://ghostinthedata.info/posts/2026/2026-06-13-human-connection-moat/",
-    "title": "The Competitive Moat That AI Can't Replicate"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://tombedor.dev/human-attention-and-human-effort/",
-    "title": "If You are Asking for Human Attention, Demonstrate Human Effort"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://rsgm.dev/post/ai-dev-platform/",
-    "title": "My Homelab AI Dev Platform • Rsgm's Blog"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://sqltoerdiagram.com/",
-    "title": "SQL to ER Diagram — Free Online ERD Generator from SQL (no signup)"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://parksb.github.io/en/article/32.html",
-    "title": "But yak shaving is fun"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://wizardzines.com/comics/write-for-one-person/",
-    "title": "write for one person"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://ikyle.me/blog/2026/how-to-setup-a-local-coding-agent-on-macos",
-    "title": "How to Setup a Local Coding Agent on macOS - Kyle Howells"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.seangoedecke.com/doing-nothing-at-work/",
-    "title": "Doing nothing at work"
+    "url": "https://bd103.dev/blog/2026-06-18-git-rebase-onto/",
+    "title": "Updating Stacked Pull Requests with git rebase --onto"
   }
 ]
