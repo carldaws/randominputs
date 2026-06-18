@@ -6,28 +6,18 @@
   },
   {
     "source": "hn",
-    "url": "https://www.kcl.ac.uk/news/hospitals-and-universities-repurposing-drugs-at-90-lower-cost",
-    "title": "Hospitals and universities repurposing drugs at 90% lower cost"
-  },
-  {
-    "source": "hn",
     "url": "https://blog.elenarossini.com/w-social-public-institutions-and-the-theater-of-european-digital-sovereignty/",
     "title": "Has W Social switched to closed source?"
   },
   {
     "source": "hn",
-    "url": "https://www.elastic.co/search-labs/blog/agent-memory-elasticsearch",
-    "title": "We built a persistent agent memory layer on Elasticsearch with 0.89 recall"
+    "url": "https://hermes-agent.nousresearch.com/docs/guides/migrate-from-openclaw",
+    "title": "Migrate from OpenClaw"
   },
   {
     "source": "hn",
-    "url": "https://blog.alexellis.io/local-ai-is-not-opus/",
-    "title": "Local Qwen isn't a worse Opus, it's a different tool"
-  },
-  {
-    "source": "hn",
-    "url": "https://lore.org/",
-    "title": "Lore – Open source version control system designed for scalability"
+    "url": "https://www.kcl.ac.uk/news/hospitals-and-universities-repurposing-drugs-at-90-lower-cost",
+    "title": "Hospitals and universities repurposing drugs at 90% lower cost"
   },
   {
     "source": "hn",
@@ -36,13 +26,43 @@
   },
   {
     "source": "hn",
-    "url": "https://rbelmont.mameworld.info/?p=1725",
-    "title": "I need your clothes, your boots, and your motorcycle"
+    "url": "https://blog.alexellis.io/local-ai-is-not-opus/",
+    "title": "Local Qwen isn't a worse Opus, it's a different tool"
+  },
+  {
+    "source": "hn",
+    "url": "https://worksinprogress.co/issue/albertas-war-on-rats/",
+    "title": "How Alberta Eradicated Rats"
+  },
+  {
+    "source": "hn",
+    "url": "https://nelson.cloud/.gitignore-isnt-the-only-way-to-ignore-files-in-git/",
+    "title": ".gitignore Isn't the Only Way to Ignore Files in Git"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.elastic.co/search-labs/blog/agent-memory-elasticsearch",
+    "title": "We built a persistent agent memory layer on Elasticsearch with 0.89 recall"
+  },
+  {
+    "source": "hn",
+    "url": "https://gitlawb.com/node",
+    "title": "Git platform built for agentic era"
+  },
+  {
+    "source": "hn",
+    "url": "https://aras-p.info/blog/2026/06/11/Unity-vs-floating-point/",
+    "title": "Unity vs. Floating Point"
   },
   {
     "source": "hn",
     "url": "https://vinyl-cache.org/organization/on_vinyl_cache_and_varnish_cache.html#org-vinyl-varnish",
     "title": "Vinyl Cache and Varnish Cache"
+  },
+  {
+    "source": "hn",
+    "url": "https://rbelmont.mameworld.info/?p=1725",
+    "title": "I need your clothes, your boots, and your motorcycle"
   },
   {
     "source": "hn",
@@ -56,8 +76,8 @@
   },
   {
     "source": "hn",
-    "url": "https://tadaima.bearblog.dev/the-2-year-apartment-rule/",
-    "title": "The 2-Year Apartment Rule"
+    "url": "https://lore.org/",
+    "title": "Lore – Open source version control system designed for scalability"
   },
   {
     "source": "hn",
@@ -66,38 +86,18 @@
   },
   {
     "source": "hn",
-    "url": "https://worksinprogress.co/issue/how-madrid-built-its-metro-cheaply/",
-    "title": "How Madrid built its metro cheaply (2024)"
-  },
-  {
-    "source": "hn",
-    "url": "https://storiedcolors.com/",
-    "title": "Storied Colors – A catalogue of named colors"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.offthebricks.com/articles/smashed-toilet-phone-web-server",
-    "title": "Smashed Toilet Phone Web Server"
-  },
-  {
-    "source": "hn",
     "url": "https://www.horg.com/horg/?page_id=921",
     "title": "Taxonomy of the Occlupanida (parasitoids on bread bag tags)"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.rfc-editor.org/info/rfc10008/",
-    "title": "RFC 10008: The new HTTP Query Method"
-  },
-  {
-    "source": "hn",
-    "url": "https://loreline.app/en/",
-    "title": "Loreline – Tools for writing interactive fiction"
   },
   {
     "source": "lobsters",
     "url": "https://rahuljuliato.com/posts/emacs-31-around-the-corner",
     "title": "Changes in Emacs 31 I'm Already Daily Driving"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://www.abgeo.dev/blog/cli-authentication-the-right-way/",
+    "title": "CLI Authentication, the Right Way"
   },
   {
     "source": "lobsters",
@@ -111,8 +111,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://www.abgeo.dev/blog/cli-authentication-the-right-way/",
-    "title": "CLI Authentication, the Right Way"
+    "url": "https://blog.joinmastodon.org/2026/06/mastodon-4.6/",
+    "title": "Mastodon 4.6"
   },
   {
     "source": "lobsters",
@@ -121,8 +121,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://blog.joinmastodon.org/2026/06/mastodon-4.6/",
-    "title": "Mastodon 4.6"
+    "url": "https://salvagedcircuitry.com/sigma-45mm.html",
+    "title": "Sigma 45mm f/2.8 Lens Repair & Analysis"
   },
   {
     "source": "lobsters",
@@ -131,18 +131,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://hugodaniel.com/posts/color-picking-oklch/",
-    "title": "Color picking Oklch for mortals"
-  },
-  {
-    "source": "lobsters",
     "url": "https://stackoverflow.blog/2026/06/10/announcing-stack-overflow-for-agents/",
     "title": "Announcing Stack Overflow for Agents"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://yogthos.net/posts/2026-06-08-dirge-code.html",
-    "title": "Making budget models punch above their weight with a smart Rust harness"
   },
   {
     "source": "lobsters",
@@ -151,13 +141,28 @@
   },
   {
     "source": "lobsters",
-    "url": "https://blog.kacaii.dev/3mn6n3lvibc2b",
-    "title": "Learning Lustre: Type-safe frontend development"
+    "url": "https://hugodaniel.com/posts/color-picking-oklch/",
+    "title": "Color picking Oklch for mortals"
   },
   {
     "source": "lobsters",
-    "url": "https://parksb.github.io/en/article/32.html",
-    "title": "But yak shaving is fun"
+    "url": "https://yogthos.net/posts/2026-06-08-dirge-code.html",
+    "title": "Making budget models punch above their weight with a smart Rust harness"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://yogthos.net/posts/2026-06-17-perlin-flow.html",
+    "title": "The Hidden Elegance of Gradient Noise"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://nesbitt.io/2026/06/18/open-source-vs-the-invisible-hand.html",
+    "title": "Open Source vs the Invisible Hand"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://blog.kacaii.dev/3mn6n3lvibc2b",
+    "title": "Learning Lustre: Type-safe frontend development"
   },
   {
     "source": "pinboard",
@@ -168,6 +173,11 @@
     "source": "pinboard",
     "url": "https://matthewbutterick.com/extinction-level-capitalism.html",
     "title": "Matthew Butterick | Extinction-level capitalism"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://storiedcolors.com/",
+    "title": "Storied Colors"
   },
   {
     "source": "pinboard",
@@ -223,6 +233,11 @@
     "source": "pinboard",
     "url": "https://sqltoerdiagram.com/",
     "title": "SQL to ER Diagram — Free Online ERD Generator from SQL (no signup)"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://parksb.github.io/en/article/32.html",
+    "title": "But yak shaving is fun"
   },
   {
     "source": "pinboard",
