@@ -1,8 +1,13 @@
 [
   {
     "source": "hn",
-    "url": "https://arun.is/blog/jr-logo/",
-    "title": "How Japan's railways stayed one while splitting apart"
+    "url": "https://letsencrypt.status.io/#2026",
+    "title": "Let's Encrypt has been down most of today"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.greybeam.ai/blog/duckdb-internals-part-1",
+    "title": "DuckDB Internals: Why Is DuckDB Fast? (Part 1)"
   },
   {
     "source": "hn",
@@ -11,18 +16,18 @@
   },
   {
     "source": "hn",
+    "url": "https://arun.is/blog/jr-logo/",
+    "title": "How Japan's railways stayed one while splitting apart"
+  },
+  {
+    "source": "hn",
+    "url": "https://dfdxlabs.com/research/2026/robotics-setup/",
+    "title": "Building a robotics research setup that lives next to my desk"
+  },
+  {
+    "source": "hn",
     "url": "https://simonwillison.net/2026/Jun/18/datasette-apps/",
     "title": "Datasette Apps: Host custom HTML applications inside Datasette"
-  },
-  {
-    "source": "hn",
-    "url": "https://austinhenley.com/blog/automatingmyjob.html",
-    "title": "Automating my job away"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.dpolakovic.space/blogs/zork-part2#update",
-    "title": "Zork name origin got an update on Wikipedia"
   },
   {
     "source": "hn",
@@ -36,23 +41,8 @@
   },
   {
     "source": "hn",
-    "url": "https://www.bluewin.ch/en/news/switzerland/parliament-lifts-ban-on-new-nuclear-power-plants-3257535.html",
-    "title": "Swiss parliament lifts ban on new nuclear power plants"
-  },
-  {
-    "source": "hn",
-    "url": "https://mroczek.dev/articles/the-token-compression-illusion-why-im-skeptical-of-rtk/",
-    "title": "The Token Compression Illusion: Why I'm Skeptical of RTK"
-  },
-  {
-    "source": "hn",
-    "url": "https://blog.elenarossini.com/w-social-public-institutions-and-the-theater-of-european-digital-sovereignty/",
-    "title": "W Social, public institutions and the theater of European digital sovereignty"
-  },
-  {
-    "source": "hn",
-    "url": "https://dfdxlabs.com/research/2026/robotics-setup/",
-    "title": "Building a robotics research setup that lives next to my desk"
+    "url": "https://www.dpolakovic.space/blogs/zork-part2#update",
+    "title": "Zork name origin got an update on Wikipedia"
   },
   {
     "source": "hn",
@@ -61,18 +51,23 @@
   },
   {
     "source": "hn",
+    "url": "https://blog.elenarossini.com/w-social-public-institutions-and-the-theater-of-european-digital-sovereignty/",
+    "title": "W Social, public institutions and the theater of European digital sovereignty"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.bluewin.ch/en/news/switzerland/parliament-lifts-ban-on-new-nuclear-power-plants-3257535.html",
+    "title": "Swiss parliament lifts ban on new nuclear power plants"
+  },
+  {
+    "source": "hn",
     "url": "https://worksinprogress.co/issue/albertas-war-on-rats/",
     "title": "How Alberta Eradicated Rats"
   },
   {
     "source": "hn",
-    "url": "https://rednafi.com/misc/chezmoi/",
-    "title": "Migrating from GNU Stow to Chezmoi"
-  },
-  {
-    "source": "hn",
-    "url": "https://gerrymandle.cc/",
-    "title": "Show HN: Gerrymandle - Daily puzzle game where you redraw electoral districts"
+    "url": "https://mroczek.dev/articles/the-token-compression-illusion-why-im-skeptical-of-rtk/",
+    "title": "The Token Compression Illusion: Why I'm Skeptical of RTK"
   },
   {
     "source": "hn",
@@ -86,13 +81,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://xeiaso.net/notes/2026/anubis-wasm-vendor-binary/",
-    "title": "I hate compilers"
+    "url": "http://manishearth.github.io/blog/2026/06/17/the-future-of-the-con-is-already-here/",
+    "title": "The Future of the Con Is Already Here, It's Just Not Evenly Distributed"
   },
   {
     "source": "lobsters",
-    "url": "http://manishearth.github.io/blog/2026/06/17/the-future-of-the-con-is-already-here/",
-    "title": "The Future of the Con Is Already Here, It's Just Not Evenly Distributed"
+    "url": "https://xeiaso.net/notes/2026/anubis-wasm-vendor-binary/",
+    "title": "I hate compilers"
   },
   {
     "source": "lobsters",
@@ -101,8 +96,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://rahuljuliato.com/posts/emacs-31-around-the-corner",
-    "title": "Changes in Emacs 31 I'm Already Daily Driving"
+    "url": "https://movq.de/blog/postings/2026-06-16/0/POSTING-en.html",
+    "title": "What was nice about the UI of Windows 2000"
   },
   {
     "source": "lobsters",
@@ -111,8 +106,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://movq.de/blog/postings/2026-06-16/0/POSTING-en.html",
-    "title": "What was nice about the UI of Windows 2000"
+    "url": "https://rahuljuliato.com/posts/emacs-31-around-the-corner",
+    "title": "Changes in Emacs 31 I'm Already Daily Driving"
   },
   {
     "source": "lobsters",
@@ -126,18 +121,18 @@
   },
   {
     "source": "lobsters",
-    "url": "https://blog.unitedheroes.net/5751",
-    "title": "Leaving Mozilla"
-  },
-  {
-    "source": "lobsters",
     "url": "https://yogthos.net/posts/2026-06-17-perlin-flow.html",
     "title": "The Hidden Elegance of Gradient Noise"
   },
   {
     "source": "lobsters",
-    "url": "https://salvagedcircuitry.com/sigma-45mm.html",
-    "title": "Sigma 45mm f/2.8 Lens Repair & Analysis"
+    "url": "https://blog.unitedheroes.net/5751",
+    "title": "Leaving Mozilla"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://bd103.dev/blog/2026-06-18-git-rebase-onto/",
+    "title": "Updating Stacked Pull Requests with git rebase --onto"
   },
   {
     "source": "lobsters",
@@ -156,112 +151,12 @@
   },
   {
     "source": "lobsters",
+    "url": "https://aresluna.org/show-your-hands-honor/",
+    "title": "Show your hands honor for the strange power they bring you"
+  },
+  {
+    "source": "lobsters",
     "url": "https://lore.org/",
     "title": "Epic Games announces Lore version control system"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://bd103.dev/blog/2026-06-18-git-rebase-onto/",
-    "title": "Updating Stacked Pull Requests with git rebase --onto"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://stackoverflow.blog/2026/06/10/announcing-stack-overflow-for-agents/",
-    "title": "Announcing Stack Overflow for Agents"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://nesbitt.io/2026/06/18/open-source-vs-the-invisible-hand.html",
-    "title": "Open Source vs the Invisible Hand"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://vickiboykis.com/2026/06/15/running-local-models-is-good-now/",
-    "title": "Running local models is good now | ✰Vicki Boykis✰"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://matthewbutterick.com/extinction-level-capitalism.html",
-    "title": "Matthew Butterick | Extinction-level capitalism"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://storiedcolors.com/",
-    "title": "Storied Colors"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://news.ycombinator.com/item?id=48542100",
-    "title": "Ask HN: Has anyone replaced Claude/GPT with a local model for daily coding? | Hacker News"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://ciechanow.ski/mechanical-watch/",
-    "title": "(500) https://ciechanow.ski/mechanical-watch/"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.richardosgood.com/posts/banned-book-library/",
-    "title": "Banned Book Library | Rick's Blog"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://mareksuppa.com/til/bash-dev-tcp-http-without-curl/",
-    "title": "Making HTTP requests from a container that has no curl, using bash /dev/tcp · Marek Šuppa"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://news.ycombinator.com/item?id=48555993",
-    "title": "Running local models is good now | Hacker News"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://johnowhitaker.github.io/inkwash/about",
-    "title": "inkwash · how it works"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://tim.blog/2026/06/12/has-ai-already-killed-nonfiction/",
-    "title": "Has AI Already Killed How-To Nonfiction? Sales Trends, My Personal Data, and What It Might Mean for the Future - The Blog of Author Tim Ferriss"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://ghostinthedata.info/posts/2026/2026-06-13-human-connection-moat/",
-    "title": "The Competitive Moat That AI Can't Replicate"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://tombedor.dev/human-attention-and-human-effort/",
-    "title": "If You are Asking for Human Attention, Demonstrate Human Effort"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://rsgm.dev/post/ai-dev-platform/",
-    "title": "My Homelab AI Dev Platform • Rsgm's Blog"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://sqltoerdiagram.com/",
-    "title": "SQL to ER Diagram — Free Online ERD Generator from SQL (no signup)"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://parksb.github.io/en/article/32.html",
-    "title": "But yak shaving is fun"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://wizardzines.com/comics/write-for-one-person/",
-    "title": "write for one person"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://ikyle.me/blog/2026/how-to-setup-a-local-coding-agent-on-macos",
-    "title": "How to Setup a Local Coding Agent on macOS - Kyle Howells"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.seangoedecke.com/doing-nothing-at-work/",
-    "title": "Doing nothing at work"
   }
 ]
