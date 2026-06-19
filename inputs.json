@@ -1,13 +1,23 @@
 [
   {
     "source": "hn",
+    "url": "https://vocabowl-870366514258.us-west1.run.app/",
+    "title": "How many of the 170k English words do you know?"
+  },
+  {
+    "source": "hn",
     "url": "https://www.greybeam.ai/blog/duckdb-internals-part-1",
     "title": "DuckDB Internals: Why Is DuckDB Fast? (Part 1)"
   },
   {
     "source": "hn",
-    "url": "https://wilsoniumite.com/2026/06/19/the-room-the-economy-cant-see/",
-    "title": "The room the economy can't see"
+    "url": "https://ide.mit.edu/sites/default/files/publications/jcurve.pdf",
+    "title": "The Productivity J-Curve [pdf] (2018)"
+  },
+  {
+    "source": "hn",
+    "url": "https://wizardzines.com/comics/surprise/",
+    "title": "\"No Feigning Surprise\""
   },
   {
     "source": "hn",
@@ -21,13 +31,13 @@
   },
   {
     "source": "hn",
-    "url": "https://arun.is/blog/jr-logo/",
-    "title": "How Japan's railways stayed one while splitting apart"
+    "url": "https://akse3d-en.skaperiet.no",
+    "title": "Akse3D – open-source 3D modelling anyone can master"
   },
   {
     "source": "hn",
-    "url": "https://simonwillison.net/2026/Jun/18/datasette-apps/",
-    "title": "Datasette Apps: Host custom HTML applications inside Datasette"
+    "url": "https://arun.is/blog/jr-logo/",
+    "title": "How Japan's railways stayed one while splitting apart"
   },
   {
     "source": "hn",
@@ -36,8 +46,8 @@
   },
   {
     "source": "hn",
-    "url": "https://akse3d-en.skaperiet.no",
-    "title": "Akse3D – open-source 3D modelling anyone can master"
+    "url": "https://simonwillison.net/2026/Jun/18/datasette-apps/",
+    "title": "Datasette Apps: Host custom HTML applications inside Datasette"
   },
   {
     "source": "hn",
@@ -46,8 +56,13 @@
   },
   {
     "source": "hn",
-    "url": "https://dfdxlabs.com/research/2026/robotics-setup/",
-    "title": "Building a robotics research setup that lives next to my desk"
+    "url": "https://wilsoniumite.com/2026/06/19/the-room-the-economy-cant-see/",
+    "title": "The room the economy can't see"
+  },
+  {
+    "source": "hn",
+    "url": "http://paulbuchheit.blogspot.com/2010/02/if-your-product-is-great-it-doesnt-need.html",
+    "title": "If your product is Great, it doesn't need to be Good (2010)"
   },
   {
     "source": "hn",
@@ -55,8 +70,73 @@
     "title": "W Social, public institutions and the theater of European digital sovereignty"
   },
   {
-    "source": "hn",
-    "url": "http://paulbuchheit.blogspot.com/2010/02/if-your-product-is-great-it-doesnt-need.html",
-    "title": "If your product is Great, it doesn't need to be Good (2010)"
+    "source": "lobsters",
+    "url": "http://manishearth.github.io/blog/2026/06/17/the-future-of-the-con-is-already-here/",
+    "title": "The Future of the Con Is Already Here, It's Just Not Evenly Distributed"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://movq.de/blog/postings/2026-06-16/0/POSTING-en.html",
+    "title": "What was nice about the UI of Windows 2000"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://tales.fromprod.com/2026/169/google-workspace-threatening-to-block-firefox.html",
+    "title": "Google workspace threatening to block firefox access"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://xeiaso.net/notes/2026/anubis-wasm-vendor-binary/",
+    "title": "I hate compilers"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://diffshub.com/",
+    "title": "DiffsHub"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://fornjot.app/blog/shutting-down-fornjot/",
+    "title": "Shutting Down Fornjot"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://bd103.dev/blog/2026-06-18-git-rebase-onto/",
+    "title": "Updating Stacked Pull Requests with git rebase --onto"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://charlesleifer.com/blog/aspirational-clownmaxxing-and-joey-s-cadillac-todo-list/",
+    "title": "Aspirational Clownmaxxing and Joey's cadillac todo list"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://aresluna.org/show-your-hands-honor/",
+    "title": "Show your hands honor for the strange power they bring you"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://www.abgeo.dev/blog/cli-authentication-the-right-way/",
+    "title": "CLI Authentication, the Right Way"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://blog.joinmastodon.org/2026/06/mastodon-4.6/",
+    "title": "Mastodon 4.6"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://rahuljuliato.com/posts/emacs-31-around-the-corner",
+    "title": "Changes in Emacs 31 I'm Already Daily Driving"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://noteflakes.com/articles/2026-06-18-syntropy-modules",
+    "title": "Rethinking modularity in Ruby applications"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://www.omgubuntu.co.uk/2026/06/audacity-4-0-beta",
+    "title": "Audacity 4.0 beta lets you test its new (nicer) Qt interface"
   }
 ]
