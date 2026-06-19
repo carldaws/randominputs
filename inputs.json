@@ -1,13 +1,13 @@
 [
   {
     "source": "hn",
-    "url": "https://aiclambake.com/clamtakes/linear-a/",
-    "title": "Amateur may have cracked Linear A, a 120-year-old puzzle"
+    "url": "https://overreacted.io/there-are-no-instances-in-atproto/",
+    "title": "There Are No Instances in ATProto"
   },
   {
     "source": "hn",
-    "url": "https://overreacted.io/there-are-no-instances-in-atproto/",
-    "title": "There Are No Instances in ATProto"
+    "url": "https://aiclambake.com/clamtakes/linear-a/",
+    "title": "Amateur may have cracked Linear A, a 120-year-old puzzle"
   },
   {
     "source": "hn",
@@ -21,18 +21,13 @@
   },
   {
     "source": "hn",
-    "url": "https://www.greybeam.ai/blog/duckdb-internals-part-1",
-    "title": "DuckDB Internals: Why Is DuckDB Fast? (Part 1)"
-  },
-  {
-    "source": "hn",
     "url": "https://metiq.space",
     "title": "Show HN: Metiq: a real time 3D globe for 100 public datasets"
   },
   {
     "source": "hn",
-    "url": "https://erildrun.bearblog.dev/spotify-killed-the-thrill-of-the-hunt/",
-    "title": "Spotify Killed the Thrill of the Hunt"
+    "url": "https://www.greybeam.ai/blog/duckdb-internals-part-1",
+    "title": "DuckDB Internals: Why Is DuckDB Fast? (Part 1)"
   },
   {
     "source": "hn",
@@ -65,19 +60,9 @@
     "title": ".gitignore Isn't the only way to ignore files in Git"
   },
   {
-    "source": "hn",
-    "url": "https://simonwillison.net/2026/Jun/18/datasette-apps/",
-    "title": "Datasette Apps: Host custom HTML applications inside Datasette"
-  },
-  {
-    "source": "hn",
-    "url": "http://paulbuchheit.blogspot.com/2010/02/if-your-product-is-great-it-doesnt-need.html",
-    "title": "If your product is Great, it doesn't need to be Good (2010)"
-  },
-  {
     "source": "lobsters",
-    "url": "http://manishearth.github.io/blog/2026/06/17/the-future-of-the-con-is-already-here/",
-    "title": "The Future of the Con Is Already Here, It's Just Not Evenly Distributed"
+    "url": "https://natkr.com/2026-06-19-nixos-but-smol/",
+    "title": "I can haz smoller NixOS ISOs?"
   },
   {
     "source": "lobsters",
@@ -86,8 +71,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://movq.de/blog/postings/2026-06-16/0/POSTING-en.html",
-    "title": "What was nice about the UI of Windows 2000"
+    "url": "http://manishearth.github.io/blog/2026/06/17/the-future-of-the-con-is-already-here/",
+    "title": "The Future of the Con Is Already Here, It's Just Not Evenly Distributed"
   },
   {
     "source": "lobsters",
@@ -96,8 +81,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://natkr.com/2026-06-19-nixos-but-smol/",
-    "title": "I can haz smoller NixOS ISOs?"
+    "url": "https://movq.de/blog/postings/2026-06-16/0/POSTING-en.html",
+    "title": "What was nice about the UI of Windows 2000"
   },
   {
     "source": "lobsters",
@@ -106,28 +91,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://xeiaso.net/notes/2026/anubis-wasm-vendor-binary/",
-    "title": "I hate compilers"
-  },
-  {
-    "source": "lobsters",
     "url": "https://noteflakes.com/articles/2026-06-18-syntropy-modules",
     "title": "Rethinking modularity in Ruby applications"
   },
   {
     "source": "lobsters",
-    "url": "https://aresluna.org/show-your-hands-honor/",
-    "title": "Show your hands honor for the strange power they bring you"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://bd103.dev/blog/2026-06-18-git-rebase-onto/",
-    "title": "Updating Stacked Pull Requests with git rebase --onto"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://akse3d-en.skaperiet.no/",
-    "title": "Akse3D – open-source 3D modelling anyone can master"
+    "url": "https://xeiaso.net/notes/2026/anubis-wasm-vendor-binary/",
+    "title": "I hate compilers"
   },
   {
     "source": "lobsters",
@@ -136,13 +106,28 @@
   },
   {
     "source": "lobsters",
+    "url": "https://bd103.dev/blog/2026-06-18-git-rebase-onto/",
+    "title": "Updating Stacked Pull Requests with git rebase --onto"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://aresluna.org/show-your-hands-honor/",
+    "title": "Show your hands honor for the strange power they bring you"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://akse3d-en.skaperiet.no/",
+    "title": "Akse3D – open-source 3D modelling anyone can master"
+  },
+  {
+    "source": "lobsters",
     "url": "https://www.abgeo.dev/blog/cli-authentication-the-right-way/",
     "title": "CLI Authentication, the Right Way"
   },
   {
     "source": "lobsters",
-    "url": "https://blog.joinmastodon.org/2026/06/mastodon-4.6/",
-    "title": "Mastodon 4.6"
+    "url": "https://blog.ladybugdb.com/post/better-graph-database-ball/",
+    "title": "Better Graph Database Ball"
   },
   {
     "source": "pinboard",
