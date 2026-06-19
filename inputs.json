@@ -16,8 +16,8 @@
   },
   {
     "source": "hn",
-    "url": "https://mroczek.dev/articles/the-token-compression-illusion-why-im-skeptical-of-rtk/",
-    "title": "The Token Compression Illusion: Why I'm Skeptical of RTK"
+    "url": "https://www.dpolakovic.space/blogs/zork-part2#update",
+    "title": "Zork name origin got an update on Wikipedia"
   },
   {
     "source": "hn",
@@ -26,13 +26,13 @@
   },
   {
     "source": "hn",
-    "url": "https://www.dpolakovic.space/blogs/zork-part2#update",
-    "title": "Zork name origin got an update on Wikipedia"
+    "url": "https://mroczek.dev/articles/the-token-compression-illusion-why-im-skeptical-of-rtk/",
+    "title": "The Token Compression Illusion: Why I'm Skeptical of RTK"
   },
   {
     "source": "hn",
-    "url": "https://blog.elenarossini.com/w-social-public-institutions-and-the-theater-of-european-digital-sovereignty/",
-    "title": "W Social, public institutions and the theater of European digital sovereignty"
+    "url": "https://henry.codes/writing/it-doesnt-matter-if-it-works/",
+    "title": "It doesn't matter if it works"
   },
   {
     "source": "hn",
@@ -41,8 +41,8 @@
   },
   {
     "source": "hn",
-    "url": "http://paulbuchheit.blogspot.com/2010/02/if-your-product-is-great-it-doesnt-need.html",
-    "title": "If your product is Great, it doesn't need to be Good (2010)"
+    "url": "https://blog.elenarossini.com/w-social-public-institutions-and-the-theater-of-european-digital-sovereignty/",
+    "title": "W Social, public institutions and the theater of European digital sovereignty"
   },
   {
     "source": "hn",
@@ -56,13 +56,8 @@
   },
   {
     "source": "hn",
-    "url": "https://exclav.es/2026/06/13/flip-table-storing-arbitrary-data-in-inaturalist/",
-    "title": "Flip TABLE: storing arbitrary data in iNaturalist"
-  },
-  {
-    "source": "hn",
-    "url": "https://gerrymandle.cc/",
-    "title": "Show HN: Gerrymandle - Daily puzzle game where you redraw electoral districts"
+    "url": "http://paulbuchheit.blogspot.com/2010/02/if-your-product-is-great-it-doesnt-need.html",
+    "title": "If your product is Great, it doesn't need to be Good (2010)"
   },
   {
     "source": "hn",
@@ -76,8 +71,13 @@
   },
   {
     "source": "hn",
-    "url": "https://www.submission.directory/",
-    "title": "A website that lists websites to submit your website to"
+    "url": "https://gerrymandle.cc/",
+    "title": "Show HN: Gerrymandle - Daily puzzle game where you redraw electoral districts"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.windowslatest.com/2026/06/15/microsofts-new-outlook-takes-10-seconds-to-do-what-outlook-classic-does-instantly-on-windows/",
+    "title": "Microsoft new Outlook takes 10 seconds to do what Outlook Classic does instantly"
   },
   {
     "source": "lobsters",
@@ -111,13 +111,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://www.omgubuntu.co.uk/2026/06/audacity-4-0-beta",
-    "title": "Audacity 4.0 beta lets you test its new (nicer) Qt interface"
+    "url": "https://movq.de/blog/postings/2026-06-16/0/POSTING-en.html",
+    "title": "What was nice about the UI of Windows 2000"
   },
   {
     "source": "lobsters",
-    "url": "https://movq.de/blog/postings/2026-06-16/0/POSTING-en.html",
-    "title": "What was nice about the UI of Windows 2000"
+    "url": "https://www.omgubuntu.co.uk/2026/06/audacity-4-0-beta",
+    "title": "Audacity 4.0 beta lets you test its new (nicer) Qt interface"
   },
   {
     "source": "lobsters",
@@ -133,6 +133,11 @@
     "source": "lobsters",
     "url": "https://yogthos.net/posts/2026-06-17-perlin-flow.html",
     "title": "The Hidden Elegance of Gradient Noise"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://salvagedcircuitry.com/sigma-45mm.html",
+    "title": "Sigma 45mm f/2.8 Lens Repair & Analysis"
   },
   {
     "source": "lobsters",
@@ -156,6 +161,11 @@
   },
   {
     "source": "lobsters",
+    "url": "https://bd103.dev/blog/2026-06-18-git-rebase-onto/",
+    "title": "Updating Stacked Pull Requests with git rebase --onto"
+  },
+  {
+    "source": "lobsters",
     "url": "https://stackoverflow.blog/2026/06/10/announcing-stack-overflow-for-agents/",
     "title": "Announcing Stack Overflow for Agents"
   },
@@ -165,8 +175,93 @@
     "title": "Open Source vs the Invisible Hand"
   },
   {
-    "source": "lobsters",
-    "url": "https://bd103.dev/blog/2026-06-18-git-rebase-onto/",
-    "title": "Updating Stacked Pull Requests with git rebase --onto"
+    "source": "pinboard",
+    "url": "https://vickiboykis.com/2026/06/15/running-local-models-is-good-now/",
+    "title": "Running local models is good now | ✰Vicki Boykis✰"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://matthewbutterick.com/extinction-level-capitalism.html",
+    "title": "Matthew Butterick | Extinction-level capitalism"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://storiedcolors.com/",
+    "title": "Storied Colors"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://news.ycombinator.com/item?id=48542100",
+    "title": "Ask HN: Has anyone replaced Claude/GPT with a local model for daily coding? | Hacker News"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://ciechanow.ski/mechanical-watch/",
+    "title": "(500) https://ciechanow.ski/mechanical-watch/"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.richardosgood.com/posts/banned-book-library/",
+    "title": "Banned Book Library | Rick's Blog"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://mareksuppa.com/til/bash-dev-tcp-http-without-curl/",
+    "title": "Making HTTP requests from a container that has no curl, using bash /dev/tcp · Marek Šuppa"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://news.ycombinator.com/item?id=48555993",
+    "title": "Running local models is good now | Hacker News"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://johnowhitaker.github.io/inkwash/about",
+    "title": "inkwash · how it works"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://tim.blog/2026/06/12/has-ai-already-killed-nonfiction/",
+    "title": "Has AI Already Killed How-To Nonfiction? Sales Trends, My Personal Data, and What It Might Mean for the Future - The Blog of Author Tim Ferriss"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://ghostinthedata.info/posts/2026/2026-06-13-human-connection-moat/",
+    "title": "The Competitive Moat That AI Can't Replicate"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://tombedor.dev/human-attention-and-human-effort/",
+    "title": "If You are Asking for Human Attention, Demonstrate Human Effort"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://rsgm.dev/post/ai-dev-platform/",
+    "title": "My Homelab AI Dev Platform • Rsgm's Blog"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://sqltoerdiagram.com/",
+    "title": "SQL to ER Diagram — Free Online ERD Generator from SQL (no signup)"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://parksb.github.io/en/article/32.html",
+    "title": "But yak shaving is fun"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://wizardzines.com/comics/write-for-one-person/",
+    "title": "write for one person"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://ikyle.me/blog/2026/how-to-setup-a-local-coding-agent-on-macos",
+    "title": "How to Setup a Local Coding Agent on macOS - Kyle Howells"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.seangoedecke.com/doing-nothing-at-work/",
+    "title": "Doing nothing at work"
   }
 ]
