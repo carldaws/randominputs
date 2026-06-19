@@ -1,13 +1,18 @@
 [
   {
     "source": "hn",
-    "url": "https://overreacted.io/there-are-no-instances-in-atproto/",
-    "title": "There Are No Instances in ATProto"
+    "url": "https://aiclambake.com/clamtakes/linear-a/",
+    "title": "Amateur may have cracked Linear A"
   },
   {
     "source": "hn",
-    "url": "https://aiclambake.com/clamtakes/linear-a/",
-    "title": "Amateur may have cracked Linear A, a 120-year-old puzzle"
+    "url": "https://overreacted.io/there-are-no-instances-in-atproto/",
+    "title": "There are no instances in ATProto"
+  },
+  {
+    "source": "hn",
+    "url": "https://vocabowl-870366514258.us-west1.run.app/",
+    "title": "How many of the 170k English words do you know?"
   },
   {
     "source": "hn",
@@ -21,8 +26,8 @@
   },
   {
     "source": "hn",
-    "url": "https://ide.mit.edu/sites/default/files/publications/jcurve.pdf",
-    "title": "The Productivity J-Curve [pdf] (2018)"
+    "url": "https://cowboystatedaily.com/2026/06/18/giant-banana-pulled-over-in-montana-driver-says-cops-have-stopped-him-100s-of-times/",
+    "title": "Giant Banana Pulled over in Montana Driver Says Cops Have Stopped Him 100s Times"
   },
   {
     "source": "hn",
@@ -31,8 +36,8 @@
   },
   {
     "source": "hn",
-    "url": "https://monictheory.com",
-    "title": "Music generation using Algebra, presented as web MIDI shop"
+    "url": "https://ide.mit.edu/sites/default/files/publications/jcurve.pdf",
+    "title": "The Productivity J-Curve [pdf] (2018)"
   },
   {
     "source": "hn",
@@ -41,8 +46,8 @@
   },
   {
     "source": "hn",
-    "url": "https://cowboystatedaily.com/2026/06/18/giant-banana-pulled-over-in-montana-driver-says-cops-have-stopped-him-100s-of-times/",
-    "title": "Giant Banana Pulled over in Montana Driver Says Cops Have Stopped Him 100s Times"
+    "url": "https://monictheory.com",
+    "title": "Music generation using Algebra, presented as web MIDI shop"
   },
   {
     "source": "hn",
@@ -56,11 +61,6 @@
   },
   {
     "source": "hn",
-    "url": "https://akse3d-en.skaperiet.no",
-    "title": "Akse3D – open-source 3D modelling anyone can master"
-  },
-  {
-    "source": "hn",
     "url": "https://nelson.cloud/.gitignore-isnt-the-only-way-to-ignore-files-in-git/",
     "title": ".gitignore Isn't the only way to ignore files in Git"
   },
@@ -71,13 +71,13 @@
   },
   {
     "source": "lobsters",
-    "url": "http://manishearth.github.io/blog/2026/06/17/the-future-of-the-con-is-already-here/",
-    "title": "The Future of the Con Is Already Here, It's Just Not Evenly Distributed"
+    "url": "https://diffshub.com/",
+    "title": "DiffsHub"
   },
   {
     "source": "lobsters",
-    "url": "https://diffshub.com/",
-    "title": "DiffsHub"
+    "url": "http://manishearth.github.io/blog/2026/06/17/the-future-of-the-con-is-already-here/",
+    "title": "The Future of the Con Is Already Here, It's Just Not Evenly Distributed"
   },
   {
     "source": "lobsters",
@@ -96,6 +96,11 @@
   },
   {
     "source": "lobsters",
+    "url": "https://thatamazingprogrammer.com/posts/stop-naming-your-variables-flag-the-art-of-boolean-prefixes/",
+    "title": "Stop Naming Your Variables \"Flag\": The Art of Boolean Prefixes"
+  },
+  {
+    "source": "lobsters",
     "url": "https://noteflakes.com/articles/2026-06-18-syntropy-modules",
     "title": "Rethinking modularity in Ruby applications"
   },
@@ -106,13 +111,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://aresluna.org/show-your-hands-honor/",
-    "title": "Show your hands honor for the strange power they bring you"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://thatamazingprogrammer.com/posts/stop-naming-your-variables-flag-the-art-of-boolean-prefixes/",
-    "title": "Stop Naming Your Variables \"Flag\": The Art of Boolean Prefixes"
+    "url": "https://surfingcomplexity.blog/wp-content/uploads/2026/06/dear-researchers.pdf",
+    "title": "Dear researchers: help me deal with incidents"
   },
   {
     "source": "lobsters",
@@ -126,12 +126,102 @@
   },
   {
     "source": "lobsters",
-    "url": "https://surfingcomplexity.blog/wp-content/uploads/2026/06/dear-researchers.pdf",
-    "title": "Dear researchers: help me deal with incidents"
-  },
-  {
-    "source": "lobsters",
     "url": "https://www.abgeo.dev/blog/cli-authentication-the-right-way/",
     "title": "CLI Authentication, the Right Way"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://vickiboykis.com/2026/06/15/running-local-models-is-good-now/",
+    "title": "Running local models is good now | ✰Vicki Boykis✰"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://storiedcolors.com/",
+    "title": "Storied Colors"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://matthewbutterick.com/extinction-level-capitalism.html",
+    "title": "Matthew Butterick | Extinction-level capitalism"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://ciechanow.ski/mechanical-watch/",
+    "title": "(500) https://ciechanow.ski/mechanical-watch/"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.richardosgood.com/posts/banned-book-library/",
+    "title": "Banned Book Library | Rick's Blog"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.submission.directory/",
+    "title": "Submission.Directory · Find where to submit your website."
+  },
+  {
+    "source": "pinboard",
+    "url": "https://news.ycombinator.com/item?id=48542100",
+    "title": "Ask HN: Has anyone replaced Claude/GPT with a local model for daily coding? | Hacker News"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://news.ycombinator.com/item?id=48555993",
+    "title": "Running local models is good now | Hacker News"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://lore.org/",
+    "title": "Lore | Next-Generation Open Source Version Control - Lore"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://mareksuppa.com/til/bash-dev-tcp-http-without-curl/",
+    "title": "Making HTTP requests from a container that has no curl, using bash /dev/tcp · Marek Šuppa"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://ghostinthedata.info/posts/2026/2026-06-13-human-connection-moat/",
+    "title": "The Competitive Moat That AI Can't Replicate"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://tim.blog/2026/06/12/has-ai-already-killed-nonfiction/",
+    "title": "Has AI Already Killed How-To Nonfiction? Sales Trends, My Personal Data, and What It Might Mean for the Future - The Blog of Author Tim Ferriss"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://johnowhitaker.github.io/inkwash/about",
+    "title": "inkwash · how it works"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://blog.alexellis.io/local-ai-is-not-opus/",
+    "title": "Local Qwen isn't a worse Opus, it's a different tool"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://rsgm.dev/post/ai-dev-platform/",
+    "title": "My Homelab AI Dev Platform • Rsgm's Blog"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://paulgraham.com/earn.html",
+    "title": "How to Earn a Billion Dollars"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://sqltoerdiagram.com/",
+    "title": "SQL to ER Diagram — Free Online ERD Generator from SQL (no signup)"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://worksinprogress.co/issue/how-madrid-built-its-metro-cheaply/",
+    "title": "How Madrid built its metro cheaply - Works in Progress"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://tombedor.dev/human-attention-and-human-effort/",
+    "title": "If You are Asking for Human Attention, Demonstrate Human Effort"
   }
 ]
