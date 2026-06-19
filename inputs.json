@@ -1,13 +1,23 @@
 [
   {
     "source": "hn",
+    "url": "https://arun.is/blog/jr-logo/",
+    "title": "How Japan's railways stayed one while splitting apart"
+  },
+  {
+    "source": "hn",
     "url": "https://blog.modelcontextprotocol.io/posts/enterprise-managed-auth/",
     "title": "Zero-Touch OAuth for MCP"
   },
   {
     "source": "hn",
-    "url": "https://arun.is/blog/jr-logo/",
-    "title": "How Japan's railways stayed one while splitting apart"
+    "url": "https://simonwillison.net/2026/Jun/18/datasette-apps/",
+    "title": "Datasette Apps: Host custom HTML applications inside Datasette"
+  },
+  {
+    "source": "hn",
+    "url": "https://austinhenley.com/blog/automatingmyjob.html",
+    "title": "Automating my job away"
   },
   {
     "source": "hn",
@@ -21,13 +31,13 @@
   },
   {
     "source": "hn",
-    "url": "https://www.bluewin.ch/en/news/switzerland/parliament-lifts-ban-on-new-nuclear-power-plants-3257535.html",
-    "title": "Swiss parliament lifts ban on new nuclear power plants"
+    "url": "https://nelson.cloud/.gitignore-isnt-the-only-way-to-ignore-files-in-git/",
+    "title": ".gitignore Isn't the only way to ignore files in Git"
   },
   {
     "source": "hn",
-    "url": "https://simonwillison.net/2026/Jun/18/datasette-apps/",
-    "title": "Datasette Apps: Host custom HTML applications inside Datasette"
+    "url": "https://www.bluewin.ch/en/news/switzerland/parliament-lifts-ban-on-new-nuclear-power-plants-3257535.html",
+    "title": "Swiss parliament lifts ban on new nuclear power plants"
   },
   {
     "source": "hn",
@@ -36,13 +46,13 @@
   },
   {
     "source": "hn",
-    "url": "https://nelson.cloud/.gitignore-isnt-the-only-way-to-ignore-files-in-git/",
-    "title": ".gitignore Isn't the only way to ignore files in Git"
+    "url": "https://blog.elenarossini.com/w-social-public-institutions-and-the-theater-of-european-digital-sovereignty/",
+    "title": "W Social, public institutions and the theater of European digital sovereignty"
   },
   {
     "source": "hn",
-    "url": "https://blog.elenarossini.com/w-social-public-institutions-and-the-theater-of-european-digital-sovereignty/",
-    "title": "W Social, public institutions and the theater of European digital sovereignty"
+    "url": "https://dfdxlabs.com/research/2026/robotics-setup/",
+    "title": "Building a robotics research setup that lives next to my desk"
   },
   {
     "source": "hn",
@@ -51,13 +61,8 @@
   },
   {
     "source": "hn",
-    "url": "https://agenticresourcediscovery.org/introduction/",
-    "title": "Agentic Resource Discovery Specification"
-  },
-  {
-    "source": "hn",
-    "url": "https://gerrymandle.cc/",
-    "title": "Show HN: Gerrymandle - Daily puzzle game where you redraw electoral districts"
+    "url": "https://worksinprogress.co/issue/albertas-war-on-rats/",
+    "title": "How Alberta Eradicated Rats"
   },
   {
     "source": "hn",
@@ -66,23 +71,13 @@
   },
   {
     "source": "hn",
-    "url": "https://worksinprogress.co/issue/albertas-war-on-rats/",
-    "title": "How Alberta Eradicated Rats"
+    "url": "https://gerrymandle.cc/",
+    "title": "Show HN: Gerrymandle - Daily puzzle game where you redraw electoral districts"
   },
   {
     "source": "hn",
-    "url": "https://www.wired.com/story/sk-telecom-anthropic-mythos-export-controls/",
-    "title": "The Korean telecom giant at the center of Anthropic's Mythos controversy"
-  },
-  {
-    "source": "hn",
-    "url": "https://worksinprogress.co/issue/how-abolishing-the-stakeholder-state-caused-the-industrial-revolution/",
-    "title": "How Smashing The NIMBYs Created Modern Capitalism"
-  },
-  {
-    "source": "hn",
-    "url": "https://austinhenley.com/blog/automatingmyjob.html",
-    "title": "Automating my job away"
+    "url": "https://agenticresourcediscovery.org/introduction/",
+    "title": "Agentic Resource Discovery Specification"
   },
   {
     "source": "lobsters",
