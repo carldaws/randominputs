@@ -11,6 +11,16 @@
   },
   {
     "source": "hn",
+    "url": "https://raku.foundation",
+    "title": "The Raku Foundation is born"
+  },
+  {
+    "source": "hn",
+    "url": "https://arun.is/blog/jr-logo/",
+    "title": "How Japan's railways stayed one while splitting apart"
+  },
+  {
+    "source": "hn",
     "url": "https://simonwillison.net/2026/Jun/18/datasette-apps/",
     "title": "Datasette Apps: Host custom HTML applications inside Datasette"
   },
@@ -18,11 +28,6 @@
     "source": "hn",
     "url": "https://dfdxlabs.com/research/2026/robotics-setup/",
     "title": "Building a robotics research setup that lives next to my desk"
-  },
-  {
-    "source": "hn",
-    "url": "https://letsencrypt.status.io/#2026",
-    "title": "Many Let's Encrypt renewals had errors today"
   },
   {
     "source": "hn",
@@ -36,13 +41,13 @@
   },
   {
     "source": "hn",
-    "url": "https://arun.is/blog/jr-logo/",
-    "title": "How Japan's railways stayed one while splitting apart"
+    "url": "https://www.wired.com/story/sk-telecom-anthropic-mythos-export-controls/",
+    "title": "The Korean telecom giant at the center of Anthropic's Mythos controversy"
   },
   {
     "source": "hn",
-    "url": "https://akse3d-en.skaperiet.no",
-    "title": "Akse3D – open-source 3D modelling anyone can master"
+    "url": "https://blog.elenarossini.com/w-social-public-institutions-and-the-theater-of-european-digital-sovereignty/",
+    "title": "W Social, public institutions and the theater of European digital sovereignty"
   },
   {
     "source": "hn",
@@ -51,8 +56,8 @@
   },
   {
     "source": "hn",
-    "url": "https://blog.elenarossini.com/w-social-public-institutions-and-the-theater-of-european-digital-sovereignty/",
-    "title": "W Social, public institutions and the theater of European digital sovereignty"
+    "url": "https://letsencrypt.status.io/#2026",
+    "title": "Many Let's Encrypt renewals had errors today"
   },
   {
     "source": "lobsters",
@@ -91,18 +96,28 @@
   },
   {
     "source": "lobsters",
+    "url": "https://bd103.dev/blog/2026-06-18-git-rebase-onto/",
+    "title": "Updating Stacked Pull Requests with git rebase --onto"
+  },
+  {
+    "source": "lobsters",
     "url": "https://www.omgubuntu.co.uk/2026/06/audacity-4-0-beta",
     "title": "Audacity 4.0 beta lets you test its new (nicer) Qt interface"
   },
   {
     "source": "lobsters",
-    "url": "https://yoebuild.org/blog/time-for-a-new-build-system/",
-    "title": "Is It Time for a New Embedded Linux Build System?"
+    "url": "https://aresluna.org/show-your-hands-honor/",
+    "title": "Show your hands honor for the strange power they bring you"
   },
   {
     "source": "lobsters",
-    "url": "https://bd103.dev/blog/2026-06-18-git-rebase-onto/",
-    "title": "Updating Stacked Pull Requests with git rebase --onto"
+    "url": "https://noteflakes.com/articles/2026-06-18-syntropy-modules",
+    "title": "Rethinking modularity in Ruby applications"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://yoebuild.org/blog/time-for-a-new-build-system/",
+    "title": "Is It Time for a New Embedded Linux Build System?"
   },
   {
     "source": "lobsters",
@@ -116,122 +131,17 @@
   },
   {
     "source": "lobsters",
-    "url": "https://salvagedcircuitry.com/sigma-45mm.html",
-    "title": "Sigma 45mm f/2.8 Lens Repair & Analysis"
-  },
-  {
-    "source": "lobsters",
     "url": "https://blainsmith.com/articles/rfc-10008-http-query-method/",
     "title": "RFC 10008: The HTTP QUERY Method"
   },
   {
     "source": "lobsters",
-    "url": "https://aresluna.org/show-your-hands-honor/",
-    "title": "Show your hands honor for the strange power they bring you"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://bobdahacker.com/blog/fifa-hack",
-    "title": "I Could've Rickrolled the Entire FIFA World Cup. All I Needed Was My ID"
+    "url": "https://ps.tc/pages/blog-usbliter8.html",
+    "title": "usbliter8- Apple A12/A13 bootrom exploit"
   },
   {
     "source": "lobsters",
     "url": "https://jguer.space/blog/2026-06-15-yay-v13",
     "title": "yay v13 and the AURpocalypse"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://lore.org/",
-    "title": "Epic Games announces Lore version control system"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://vickiboykis.com/2026/06/15/running-local-models-is-good-now/",
-    "title": "Running local models is good now | ✰Vicki Boykis✰"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://storiedcolors.com/",
-    "title": "Storied Colors"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://matthewbutterick.com/extinction-level-capitalism.html",
-    "title": "Matthew Butterick | Extinction-level capitalism"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://ciechanow.ski/mechanical-watch/",
-    "title": "(500) https://ciechanow.ski/mechanical-watch/"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.richardosgood.com/posts/banned-book-library/",
-    "title": "Banned Book Library | Rick's Blog"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.submission.directory/",
-    "title": "Submission.Directory · Find where to submit your website."
-  },
-  {
-    "source": "pinboard",
-    "url": "https://news.ycombinator.com/item?id=48542100",
-    "title": "Ask HN: Has anyone replaced Claude/GPT with a local model for daily coding? | Hacker News"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://news.ycombinator.com/item?id=48555993",
-    "title": "Running local models is good now | Hacker News"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://mareksuppa.com/til/bash-dev-tcp-http-without-curl/",
-    "title": "Making HTTP requests from a container that has no curl, using bash /dev/tcp · Marek Šuppa"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://ghostinthedata.info/posts/2026/2026-06-13-human-connection-moat/",
-    "title": "The Competitive Moat That AI Can't Replicate"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://tim.blog/2026/06/12/has-ai-already-killed-nonfiction/",
-    "title": "Has AI Already Killed How-To Nonfiction? Sales Trends, My Personal Data, and What It Might Mean for the Future - The Blog of Author Tim Ferriss"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://johnowhitaker.github.io/inkwash/about",
-    "title": "inkwash · how it works"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://blog.alexellis.io/local-ai-is-not-opus/",
-    "title": "Local Qwen isn't a worse Opus, it's a different tool"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://rsgm.dev/post/ai-dev-platform/",
-    "title": "My Homelab AI Dev Platform • Rsgm's Blog"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://paulgraham.com/earn.html",
-    "title": "How to Earn a Billion Dollars"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://sqltoerdiagram.com/",
-    "title": "SQL to ER Diagram — Free Online ERD Generator from SQL (no signup)"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://worksinprogress.co/issue/how-madrid-built-its-metro-cheaply/",
-    "title": "How Madrid built its metro cheaply - Works in Progress"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://tombedor.dev/human-attention-and-human-effort/",
-    "title": "If You are Asking for Human Attention, Demonstrate Human Effort"
   }
 ]
