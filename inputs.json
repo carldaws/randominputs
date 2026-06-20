@@ -1,11 +1,6 @@
 [
   {
     "source": "hn",
-    "url": "https://waxy.org/2026/06/the-wholesale-plagiarism-of-obscure-sorrows/",
-    "title": "Agency stole bestselling author's book, used AI to relaunch as their own"
-  },
-  {
-    "source": "hn",
     "url": "https://www.smpte.org/blog/smpte-makes-its-standards-freely-accessible-openingstandards-library-to-the-global-media-technology-community",
     "title": "SMPTE Makes Its Standards Freely Accessible"
   },
@@ -16,13 +11,13 @@
   },
   {
     "source": "hn",
-    "url": "https://neuviemeporte.github.io/f15-se2/2026/06/20/needyou.html",
-    "title": "DOS Game \"F-15 Strike Eagle II\" reversing project needs DOS test pilots"
+    "url": "https://waxy.org/2026/06/the-wholesale-plagiarism-of-obscure-sorrows/",
+    "title": "The Wholesale Plagiarism of Obscure Sorrows"
   },
   {
     "source": "hn",
-    "url": "https://startupwiki.tech/",
-    "title": "Show HN: StartupWiki – A Free Alternative to Crunchbase"
+    "url": "https://neuviemeporte.github.io/f15-se2/2026/06/20/needyou.html",
+    "title": "DOS Game \"F-15 Strike Eagle II\" reversing project needs DOS test pilots"
   },
   {
     "source": "hn",
@@ -31,23 +26,28 @@
   },
   {
     "source": "hn",
+    "url": "https://startupwiki.tech/",
+    "title": "Show HN: StartupWiki – A Free Alternative to Crunchbase"
+  },
+  {
+    "source": "hn",
     "url": "https://www.argusred.com/cli",
     "title": "Show HN: We post-trained a model that pen tests instead of refusing"
   },
   {
     "source": "hn",
-    "url": "https://escurves.com/",
-    "title": "S‑CURVES a field guide to technology adoption · 1825–2026"
-  },
-  {
-    "source": "hn",
-    "url": "https://vawaa.com/",
-    "title": "Vacation With An Artist – Mini-Apprenticeships with Artists in Their Studios"
+    "url": "https://blog.cloudflare.com/temporary-accounts/",
+    "title": "Temporary Cloudflare accounts for AI agents"
   },
   {
     "source": "hn",
     "url": "https://dancemagazine.com/pointe-shoe-innovation/",
     "title": "Why has the pointe shoe been so resistant to change?"
+  },
+  {
+    "source": "hn",
+    "url": "https://vawaa.com/",
+    "title": "Vacation With An Artist – Mini-Apprenticeships with Artists in Their Studios"
   },
   {
     "source": "hn",
@@ -71,11 +71,6 @@
   },
   {
     "source": "hn",
-    "url": "https://blog.cloudflare.com/temporary-accounts/",
-    "title": "Temporary Cloudflare Accounts for AI Agents"
-  },
-  {
-    "source": "hn",
     "url": "https://www.timwehrle.de/blog/i-stored-a-website-in-a-favicon/",
     "title": "I Stored a Website in a Favicon"
   },
@@ -91,13 +86,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://cauenapier.com/blog/town-square-the-community-deserves-connection/",
-    "title": "Town Square, the community deserves connection"
+    "url": "https://jmmv.dev/2026/06/is-anyone-still-using-emacs.html",
+    "title": "Is anyone still using Emacs?"
   },
   {
     "source": "lobsters",
-    "url": "https://jmmv.dev/2026/06/is-anyone-still-using-emacs.html",
-    "title": "Is anyone still using Emacs?"
+    "url": "https://cauenapier.com/blog/town-square-the-community-deserves-connection/",
+    "title": "Town Square, the community deserves connection"
   },
   {
     "source": "lobsters",
@@ -121,13 +116,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://surfingcomplexity.blog/2026/06/19/i-am-dreading-our-llm-written-incident-report-future/",
-    "title": "I am dreading our LLM-written incident report future"
+    "url": "https://www.andreinc.net/2026/06/15/the-cube-the-epicycles-and-the-human-face/",
+    "title": "The cube, the epicycles and the human face"
   },
   {
     "source": "lobsters",
-    "url": "https://www.andreinc.net/2026/06/15/the-cube-the-epicycles-and-the-human-face/",
-    "title": "The cube, the epicycles and the human face"
+    "url": "https://surfingcomplexity.blog/2026/06/19/i-am-dreading-our-llm-written-incident-report-future/",
+    "title": "I am dreading our LLM-written incident report future"
   },
   {
     "source": "lobsters",
@@ -153,5 +148,95 @@
     "source": "lobsters",
     "url": "http://manishearth.github.io/blog/2026/06/17/the-future-of-the-con-is-already-here/",
     "title": "The Future of the Con Is Already Here, It's Just Not Evenly Distributed"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://storiedcolors.com/",
+    "title": "Storied Colors"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.submission.directory/",
+    "title": "Submission.Directory · Find where to submit your website."
+  },
+  {
+    "source": "pinboard",
+    "url": "https://vickiboykis.com/2026/06/15/running-local-models-is-good-now/",
+    "title": "Running local models is good now | ✰Vicki Boykis✰"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://lore.org/",
+    "title": "Lore | Next-Generation Open Source Version Control - Lore"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://nelson.cloud/.gitignore-isnt-the-only-way-to-ignore-files-in-git/",
+    "title": ".gitignore Isn’t the Only Way To Ignore Files in Git | Nelson Figueroa"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.abgeo.dev/blog/cli-authentication-the-right-way/",
+    "title": "www.abgeo.dev"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://ghostinthedata.info/posts/2026/2026-06-13-human-connection-moat/",
+    "title": "The Competitive Moat That AI Can't Replicate"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://blog.alexellis.io/local-ai-is-not-opus/",
+    "title": "Local Qwen isn't a worse Opus, it's a different tool"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://mareksuppa.com/til/bash-dev-tcp-http-without-curl/",
+    "title": "Making HTTP requests from a container that has no curl, using bash /dev/tcp · Marek Šuppa"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://johnowhitaker.github.io/inkwash/about",
+    "title": "inkwash · how it works"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.greybeam.ai/blog/duckdb-internals-part-1",
+    "title": "DuckDB Internals: Why is DuckDB Fast? | Greybeam"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://worksinprogress.co/issue/how-madrid-built-its-metro-cheaply/",
+    "title": "How Madrid built its metro cheaply - Works in Progress"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://akse3d-en.skaperiet.no/",
+    "title": "Akse — 3D modelling for kids and teens"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://rednafi.com/misc/chezmoi/",
+    "title": "Migrating from GNU stow to chezmoi | Redowan's Reflections"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://artificialanalysis.ai/articles/glm-5-2-is-the-new-leading-open-weights-model-on-the-artificial-analysis-intelligence-index",
+    "title": "GLM-5.2 is the new leading open weights model ( Artificial Analysis Intelligence Index )"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://tonsky.me/blog/every-frame-perfect/",
+    "title": "Every Frame Perfect"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.seangoedecke.com/doing-nothing-at-work/",
+    "title": "Doing nothing at work"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://ciechanow.ski/mechanical-watch/",
+    "title": "(500) https://ciechanow.ski/mechanical-watch/"
   }
 ]
