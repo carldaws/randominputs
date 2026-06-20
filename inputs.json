@@ -1,6 +1,11 @@
 [
   {
     "source": "hn",
+    "url": "https://www.publictechnology.net/2026/06/15/public-order-justice-and-rights/home-office-launches-75m-policeai-to-capitalise-on-artificial-intelligence/",
+    "title": "UK Home Office launches £75M 'PoliceAI' to capitalise on artificial intelligence"
+  },
+  {
+    "source": "hn",
     "url": "https://www.smpte.org/blog/smpte-makes-its-standards-freely-accessible-openingstandards-library-to-the-global-media-technology-community",
     "title": "SMPTE Makes Its Standards Freely Accessible"
   },
@@ -31,13 +36,13 @@
   },
   {
     "source": "hn",
-    "url": "https://www.argusred.com/cli",
-    "title": "Show HN: We post-trained a model that pen tests instead of refusing"
+    "url": "https://blog.cloudflare.com/temporary-accounts/",
+    "title": "Temporary Cloudflare accounts for AI agents"
   },
   {
     "source": "hn",
-    "url": "https://blog.cloudflare.com/temporary-accounts/",
-    "title": "Temporary Cloudflare accounts for AI agents"
+    "url": "https://www.argusred.com/cli",
+    "title": "Show HN: We post-trained a model that pen tests instead of refusing"
   },
   {
     "source": "hn",
@@ -46,8 +51,8 @@
   },
   {
     "source": "hn",
-    "url": "https://vawaa.com/",
-    "title": "Vacation With An Artist – Mini-Apprenticeships with Artists in Their Studios"
+    "url": "https://injuly.in/blog/napkin-inference-cost/index.html",
+    "title": "Inference cost at scale with napkin math"
   },
   {
     "source": "hn",
@@ -56,13 +61,13 @@
   },
   {
     "source": "hn",
-    "url": "https://moultano.wordpress.com/2026/06/19/where-to-find-the-colors-your-screen-cant-show-you/",
-    "title": "Where to Find the Colors Your Screen Can't Show You"
+    "url": "https://vawaa.com/",
+    "title": "Vacation With An Artist – Mini-Apprenticeships with Artists in Their Studios"
   },
   {
     "source": "hn",
-    "url": "https://bootimus.com",
-    "title": "Bootimus – A Self-Contained PXE and HTTP Boot Server"
+    "url": "https://moultano.wordpress.com/2026/06/19/where-to-find-the-colors-your-screen-cant-show-you/",
+    "title": "Where to Find the Colors Your Screen Can't Show You"
   },
   {
     "source": "hn",
@@ -71,18 +76,13 @@
   },
   {
     "source": "hn",
+    "url": "https://bootimus.com",
+    "title": "Bootimus – A Self-Contained PXE and HTTP Boot Server"
+  },
+  {
+    "source": "hn",
     "url": "https://www.timwehrle.de/blog/i-stored-a-website-in-a-favicon/",
     "title": "I Stored a Website in a Favicon"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.not-ship.com/can-you-see-three-trees/",
-    "title": "Can you see three trees?"
-  },
-  {
-    "source": "hn",
-    "url": "https://arrowtsx.dev/bigger-models/",
-    "title": "GPT-5.5 hallucinates 3x more than MIT-licensed GLM-5.2"
   },
   {
     "source": "lobsters",
@@ -116,18 +116,23 @@
   },
   {
     "source": "lobsters",
-    "url": "https://www.andreinc.net/2026/06/15/the-cube-the-epicycles-and-the-human-face/",
-    "title": "The cube, the epicycles and the human face"
-  },
-  {
-    "source": "lobsters",
     "url": "https://surfingcomplexity.blog/2026/06/19/i-am-dreading-our-llm-written-incident-report-future/",
     "title": "I am dreading our LLM-written incident report future"
   },
   {
     "source": "lobsters",
+    "url": "https://www.andreinc.net/2026/06/15/the-cube-the-epicycles-and-the-human-face/",
+    "title": "The cube, the epicycles and the human face"
+  },
+  {
+    "source": "lobsters",
     "url": "https://distrobox.it/posts/announcing_distrobox_next/",
     "title": "Announcing the next generation of Distrobox"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://datavorous.github.io/writing/qairt/",
+    "title": "Reverse Engineering the Qualcomm NPU Compiler"
   },
   {
     "source": "lobsters",
@@ -138,11 +143,6 @@
     "source": "lobsters",
     "url": "https://diffshub.com/",
     "title": "DiffsHub"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://datavorous.github.io/writing/qairt/",
-    "title": "Reverse Engineering the Qualcomm NPU Compiler"
   },
   {
     "source": "lobsters",
