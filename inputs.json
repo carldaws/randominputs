@@ -1,6 +1,11 @@
 [
   {
     "source": "hn",
+    "url": "https://neuviemeporte.github.io/f15-se2/2026/06/20/needyou.html",
+    "title": "DOS Game \"F-15 Strike Eagle II\" reversing project needs DOS test pilots"
+  },
+  {
+    "source": "hn",
     "url": "https://cssquake.com/",
     "title": "CSSQuake"
   },
@@ -11,18 +16,13 @@
   },
   {
     "source": "hn",
-    "url": "https://bootimus.com",
-    "title": "Bootimus – A Self-Contained PXE and HTTP Boot Server"
-  },
-  {
-    "source": "hn",
     "url": "https://vale.rocks/posts/pda-browsers",
     "title": "Web Browsers on PDAS"
   },
   {
     "source": "hn",
-    "url": "https://www.timwehrle.de/blog/i-stored-a-website-in-a-favicon/",
-    "title": "I Stored a Website in a Favicon"
+    "url": "https://bootimus.com",
+    "title": "Bootimus – A Self-Contained PXE and HTTP Boot Server"
   },
   {
     "source": "hn",
@@ -31,8 +31,28 @@
   },
   {
     "source": "hn",
+    "url": "https://www.timwehrle.de/blog/i-stored-a-website-in-a-favicon/",
+    "title": "I Stored a Website in a Favicon"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.bloomberg.com/news/articles/2026-06-20/ubisoft-co-founder-claude-guillemot-dies-in-air-crash-at-age-69",
+    "title": "Ubisoft co-founder Claude Guillemot has died in a plane crash"
+  },
+  {
+    "source": "hn",
     "url": "https://eli.thegreenplace.net/2012/07/12/computed-goto-for-efficient-dispatch-tables",
     "title": "Computed goto for efficient dispatch tables (2012)"
+  },
+  {
+    "source": "hn",
+    "url": "https://vawaa.com/",
+    "title": "Vacation With An Artist – Mini-Apprenticeships with Artists in Their Studios"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.not-ship.com/can-you-see-three-trees/",
+    "title": "Can you see three trees?"
   },
   {
     "source": "hn",
@@ -46,18 +66,8 @@
   },
   {
     "source": "hn",
-    "url": "https://www.not-ship.com/can-you-see-three-trees/",
-    "title": "Can you see three trees?"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.lrt.lt/en/news-in-english/19/2965205/lithuanian-startup-launches-open-source-network-to-detect-shahed-type-drones",
-    "title": "Lithuanian startup launches open-source network to detect Shahed-type drones"
-  },
-  {
-    "source": "hn",
-    "url": "https://mattmahoney.net/dc/dce.html",
-    "title": "Data Compression Explained (2012)"
+    "url": "https://arrowtsx.dev/bigger-models/",
+    "title": "GPT-5.5 hallucinates 3x more than MIT-licensed GLM-5.2"
   },
   {
     "source": "hn",
@@ -66,8 +76,13 @@
   },
   {
     "source": "hn",
-    "url": "https://arrowtsx.dev/bigger-models/",
-    "title": "GPT-5.5 hallucinates 3x more than MIT-licensed GLM-5.2"
+    "url": "https://mattmahoney.net/dc/dce.html",
+    "title": "Data Compression Explained (2012)"
+  },
+  {
+    "source": "hn",
+    "url": "https://pong-in-a-favicon.franzai.com/",
+    "title": "Pong in S Favicon"
   },
   {
     "source": "hn",
@@ -76,8 +91,8 @@
   },
   {
     "source": "hn",
-    "url": "https://point.free/blog/delete-12-flags/",
-    "title": "I restarted a 10 year old Xeon 174 times to delete 12 flags and gain 4 tps"
+    "url": "https://www.lrt.lt/en/news-in-english/19/2965205/lithuanian-startup-launches-open-source-network-to-detect-shahed-type-drones",
+    "title": "Lithuanian startup launches open-source network to detect Shahed-type drones"
   },
   {
     "source": "hn",
@@ -91,28 +106,8 @@
   },
   {
     "source": "hn",
-    "url": "https://pong-in-a-favicon.franzai.com/",
-    "title": "Pong in S Favicon"
-  },
-  {
-    "source": "hn",
-    "url": "https://blog.gingerbeardman.com/2026/06/19/new-old-3d-golf-porting-pc-9801-and-virtual-boy-to-mega-drive/",
-    "title": "New (Old) 3D Golf: Porting PC-9801 and Virtual Boy to Mega Drive"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.bloomberg.com/news/articles/2026-06-20/ubisoft-co-founder-claude-guillemot-dies-in-air-crash-at-age-69",
-    "title": "Ubisoft co-founder Claude Guillemot has died in a plane crash"
-  },
-  {
-    "source": "hn",
-    "url": "https://vocabowl-870366514258.us-west1.run.app/",
-    "title": "How many of the 170k English words do you know?"
-  },
-  {
-    "source": "hn",
-    "url": "https://brooker.co.za/blog/2020/08/06/erlang.html",
-    "title": "Surprising economics of load-balanced systems"
+    "url": "https://en.wikipedia.org/wiki/Sogen_Kato",
+    "title": "Sogen Kato"
   },
   {
     "source": "lobsters",
@@ -136,6 +131,11 @@
   },
   {
     "source": "lobsters",
+    "url": "https://www.andreinc.net/2026/06/15/the-cube-the-epicycles-and-the-human-face/",
+    "title": "The cube, the epicycles and the human face"
+  },
+  {
+    "source": "lobsters",
     "url": "https://surfingcomplexity.blog/2026/06/19/i-am-dreading-our-llm-written-incident-report-future/",
     "title": "I am dreading our LLM-written incident report future"
   },
@@ -151,11 +151,6 @@
   },
   {
     "source": "lobsters",
-    "url": "https://www.andreinc.net/2026/06/15/the-cube-the-epicycles-and-the-human-face/",
-    "title": "The cube, the epicycles and the human face"
-  },
-  {
-    "source": "lobsters",
     "url": "https://charlesleifer.com/blog/aspirational-clownmaxxing-and-joey-s-cadillac-todo-list/",
     "title": "Aspirational Clownmaxxing and Joey's cadillac todo list"
   },
@@ -163,6 +158,11 @@
     "source": "lobsters",
     "url": "https://diffshub.com/",
     "title": "DiffsHub"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://distrobox.it/posts/announcing_distrobox_next/",
+    "title": "Announcing the next generation of Distrobox"
   },
   {
     "source": "lobsters",
