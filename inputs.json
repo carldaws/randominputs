@@ -6,13 +6,23 @@
   },
   {
     "source": "hn",
+    "url": "https://brooker.co.za/blog/2020/08/06/erlang.html",
+    "title": "Surprising Economics of Load-Balanced Systems"
+  },
+  {
+    "source": "hn",
     "url": "https://www.aikido.dev/blog/introducing-code-audit-find-complex-vulnerabilities-hidden-in-your-codebase",
     "title": "Aikido Code Audit"
   },
   {
     "source": "hn",
-    "url": "https://brooker.co.za/blog/2020/08/06/erlang.html",
-    "title": "Surprising Economics of Load-Balanced Systems"
+    "url": "https://mattmahoney.net/dc/dce.html",
+    "title": "Data Compression Explained"
+  },
+  {
+    "source": "hn",
+    "url": "https://digitalorientalist.com/2017/08/21/digital-printing-of-arabic-explaining-the-problem/",
+    "title": "Digital Printing of Arabic: explaining the problem"
   },
   {
     "source": "hn",
@@ -26,8 +36,8 @@
   },
   {
     "source": "hn",
-    "url": "https://digitalorientalist.com/2017/08/21/digital-printing-of-arabic-explaining-the-problem/",
-    "title": "Digital Printing of Arabic: explaining the problem"
+    "url": "https://www.greybeam.ai/blog/duckdb-internals-part-1",
+    "title": "DuckDB Internals Part 1"
   },
   {
     "source": "hn",
@@ -38,21 +48,6 @@
     "source": "hn",
     "url": "https://en.wikipedia.org/wiki/Zenzizenzizenzic",
     "title": "Zenzizenzizenzic"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.greybeam.ai/blog/duckdb-internals-part-1",
-    "title": "DuckDB Internals Part 1"
-  },
-  {
-    "source": "hn",
-    "url": "https://pudding.cool/2026/06/love-story/",
-    "title": "A Love Story"
-  },
-  {
-    "source": "hn",
-    "url": "https://tales.fromprod.com/2026/169/google-workspace-threatening-to-block-firefox.html",
-    "title": "Google workspace threatening to block Firefox access"
   },
   {
     "source": "hn",
@@ -96,13 +91,18 @@
   },
   {
     "source": "lobsters",
+    "url": "https://charlesleifer.com/blog/aspirational-clownmaxxing-and-joey-s-cadillac-todo-list/",
+    "title": "Aspirational Clownmaxxing and Joey's cadillac todo list"
+  },
+  {
+    "source": "lobsters",
     "url": "https://fornjot.app/blog/shutting-down-fornjot/",
     "title": "Shutting Down Fornjot"
   },
   {
     "source": "lobsters",
-    "url": "https://charlesleifer.com/blog/aspirational-clownmaxxing-and-joey-s-cadillac-todo-list/",
-    "title": "Aspirational Clownmaxxing and Joey's cadillac todo list"
+    "url": "https://surfingcomplexity.blog/wp-content/uploads/2026/06/dear-researchers.pdf",
+    "title": "Dear researchers: help me deal with incidents"
   },
   {
     "source": "lobsters",
@@ -111,8 +111,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://surfingcomplexity.blog/wp-content/uploads/2026/06/dear-researchers.pdf",
-    "title": "Dear researchers: help me deal with incidents"
+    "url": "https://tales.fromprod.com/2026/169/google-workspace-threatening-to-block-firefox.html",
+    "title": "Google workspace threatening to block firefox access"
   },
   {
     "source": "lobsters",
