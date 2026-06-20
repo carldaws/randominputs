@@ -1,6 +1,11 @@
 [
   {
     "source": "hn",
+    "url": "https://www.timwehrle.de/blog/i-stored-a-website-in-a-favicon/",
+    "title": "I Stored a Website in a Favicon"
+  },
+  {
+    "source": "hn",
     "url": "https://mattmahoney.net/dc/dce.html",
     "title": "Data Compression Explained (2012)"
   },
@@ -16,13 +21,13 @@
   },
   {
     "source": "hn",
-    "url": "https://mssv.net/2026/06/16/meet-nikolai-evreinov-the-19th-century-nathan-fielder/",
-    "title": "Meet Nikolai Evreinov, the 19th century Nathan Fielder"
+    "url": "https://www.not-ship.com/can-you-see-three-trees/",
+    "title": "Can you see three trees?"
   },
   {
     "source": "hn",
-    "url": "https://adewynter.github.io/notes/aoe2-circuits",
-    "title": "A Perceptron in Age of Empires II"
+    "url": "https://moultano.wordpress.com/2026/06/19/where-to-find-the-colors-your-screen-cant-show-you/",
+    "title": "Where to Find the Colors Your Screen Can't Show You"
   },
   {
     "source": "hn",
@@ -31,8 +36,18 @@
   },
   {
     "source": "hn",
+    "url": "https://adewynter.github.io/notes/aoe2-circuits",
+    "title": "A Perceptron in Age of Empires II"
+  },
+  {
+    "source": "hn",
     "url": "https://blog.plover.com/math/egyptian-fractions.html",
     "title": "Egyptian Fractions"
+  },
+  {
+    "source": "hn",
+    "url": "https://digitalorientalist.com/2017/08/21/digital-printing-of-arabic-explaining-the-problem/",
+    "title": "Digital Printing of Arabic: explaining the problem"
   },
   {
     "source": "hn",
@@ -41,23 +56,23 @@
   },
   {
     "source": "hn",
-    "url": "https://dfdxlabs.com/research/2026/robotics-setup/",
-    "title": "Building a robotics research setup that lives next to my desk"
-  },
-  {
-    "source": "hn",
     "url": "https://metiq.space",
     "title": "Show HN: Metiq: a real time 3D globe for 100 public datasets"
   },
   {
     "source": "hn",
-    "url": "https://en.wikipedia.org/wiki/Zenzizenzizenzic",
-    "title": "Zenzizenzizenzic"
+    "url": "https://arrowtsx.dev/bigger-models/",
+    "title": "GPT-5.5 hallucinates 3x more than MIT-licensed GLM-5.2"
   },
   {
     "source": "hn",
-    "url": "https://digitalorientalist.com/2017/08/21/digital-printing-of-arabic-explaining-the-problem/",
-    "title": "Digital Printing of Arabic: explaining the problem"
+    "url": "https://dfdxlabs.com/research/2026/robotics-setup/",
+    "title": "Building a robotics research setup that lives next to my desk"
+  },
+  {
+    "source": "hn",
+    "url": "https://arcadeheroes.com/2026/06/13/world-cup-2026-soccer-arcade/",
+    "title": "Soccer Arcade Games Through the Years"
   },
   {
     "source": "lobsters",
@@ -121,23 +136,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://aresluna.org/show-your-hands-honor/",
-    "title": "Show your hands honor for the strange power they bring you"
-  },
-  {
-    "source": "lobsters",
     "url": "https://surfingcomplexity.blog/2026/06/19/i-am-dreading-our-llm-written-incident-report-future/",
     "title": "I am dreading our LLM-written incident report future"
   },
   {
     "source": "lobsters",
-    "url": "https://xeiaso.net/notes/2026/anubis-wasm-vendor-binary/",
-    "title": "I hate compilers"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://vickiboykis.com/2026/06/15/running-local-models-is-good-now/",
-    "title": "Running local models is good now | ✰Vicki Boykis✰"
+    "url": "https://aresluna.org/show-your-hands-honor/",
+    "title": "Show your hands honor for the strange power they bring you"
   },
   {
     "source": "pinboard",
@@ -146,33 +151,13 @@
   },
   {
     "source": "pinboard",
-    "url": "https://matthewbutterick.com/extinction-level-capitalism.html",
-    "title": "Matthew Butterick | Extinction-level capitalism"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://ciechanow.ski/mechanical-watch/",
-    "title": "(500) https://ciechanow.ski/mechanical-watch/"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.richardosgood.com/posts/banned-book-library/",
-    "title": "Banned Book Library | Rick's Blog"
-  },
-  {
-    "source": "pinboard",
     "url": "https://www.submission.directory/",
     "title": "Submission.Directory · Find where to submit your website."
   },
   {
     "source": "pinboard",
-    "url": "https://news.ycombinator.com/item?id=48542100",
-    "title": "Ask HN: Has anyone replaced Claude/GPT with a local model for daily coding? | Hacker News"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://news.ycombinator.com/item?id=48555993",
-    "title": "Running local models is good now | Hacker News"
+    "url": "https://vickiboykis.com/2026/06/15/running-local-models-is-good-now/",
+    "title": "Running local models is good now | ✰Vicki Boykis✰"
   },
   {
     "source": "pinboard",
@@ -181,8 +166,13 @@
   },
   {
     "source": "pinboard",
-    "url": "https://mareksuppa.com/til/bash-dev-tcp-http-without-curl/",
-    "title": "Making HTTP requests from a container that has no curl, using bash /dev/tcp · Marek Šuppa"
+    "url": "https://nelson.cloud/.gitignore-isnt-the-only-way-to-ignore-files-in-git/",
+    "title": ".gitignore Isn’t the Only Way To Ignore Files in Git | Nelson Figueroa"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.abgeo.dev/blog/cli-authentication-the-right-way/",
+    "title": "www.abgeo.dev"
   },
   {
     "source": "pinboard",
@@ -191,8 +181,13 @@
   },
   {
     "source": "pinboard",
-    "url": "https://tim.blog/2026/06/12/has-ai-already-killed-nonfiction/",
-    "title": "Has AI Already Killed How-To Nonfiction? Sales Trends, My Personal Data, and What It Might Mean for the Future - The Blog of Author Tim Ferriss"
+    "url": "https://blog.alexellis.io/local-ai-is-not-opus/",
+    "title": "Local Qwen isn't a worse Opus, it's a different tool"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://mareksuppa.com/til/bash-dev-tcp-http-without-curl/",
+    "title": "Making HTTP requests from a container that has no curl, using bash /dev/tcp · Marek Šuppa"
   },
   {
     "source": "pinboard",
@@ -201,23 +196,8 @@
   },
   {
     "source": "pinboard",
-    "url": "https://blog.alexellis.io/local-ai-is-not-opus/",
-    "title": "Local Qwen isn't a worse Opus, it's a different tool"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://rsgm.dev/post/ai-dev-platform/",
-    "title": "My Homelab AI Dev Platform • Rsgm's Blog"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://paulgraham.com/earn.html",
-    "title": "How to Earn a Billion Dollars"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://sqltoerdiagram.com/",
-    "title": "SQL to ER Diagram — Free Online ERD Generator from SQL (no signup)"
+    "url": "https://www.greybeam.ai/blog/duckdb-internals-part-1",
+    "title": "DuckDB Internals: Why is DuckDB Fast? | Greybeam"
   },
   {
     "source": "pinboard",
@@ -226,7 +206,32 @@
   },
   {
     "source": "pinboard",
-    "url": "https://tombedor.dev/human-attention-and-human-effort/",
-    "title": "If You are Asking for Human Attention, Demonstrate Human Effort"
+    "url": "https://akse3d-en.skaperiet.no/",
+    "title": "Akse — 3D modelling for kids and teens"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://rednafi.com/misc/chezmoi/",
+    "title": "Migrating from GNU stow to chezmoi | Redowan's Reflections"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://artificialanalysis.ai/articles/glm-5-2-is-the-new-leading-open-weights-model-on-the-artificial-analysis-intelligence-index",
+    "title": "GLM-5.2 is the new leading open weights model ( Artificial Analysis Intelligence Index )"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://tonsky.me/blog/every-frame-perfect/",
+    "title": "Every Frame Perfect"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.seangoedecke.com/doing-nothing-at-work/",
+    "title": "Doing nothing at work"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://ciechanow.ski/mechanical-watch/",
+    "title": "(500) https://ciechanow.ski/mechanical-watch/"
   }
 ]
