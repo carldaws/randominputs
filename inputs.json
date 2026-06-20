@@ -21,43 +21,13 @@
   },
   {
     "source": "hn",
-    "url": "https://cssquake.com/",
-    "title": "CSSQuake"
-  },
-  {
-    "source": "hn",
-    "url": "https://escurves.com/",
-    "title": "S‑CURVES a field guide to technology adoption · 1825–2026"
-  },
-  {
-    "source": "hn",
     "url": "https://startupwiki.tech/",
     "title": "Show HN: StartupWiki – A Free Alternative to Crunchbase"
   },
   {
     "source": "hn",
-    "url": "https://vawaa.com/",
-    "title": "Vacation With An Artist – Mini-Apprenticeships with Artists in Their Studios"
-  },
-  {
-    "source": "hn",
-    "url": "https://blog.cloudflare.com/temporary-accounts/",
-    "title": "Temporary Cloudflare Accounts for AI Agents"
-  },
-  {
-    "source": "hn",
-    "url": "https://bootimus.com",
-    "title": "Bootimus – A Self-Contained PXE and HTTP Boot Server"
-  },
-  {
-    "source": "hn",
-    "url": "https://moultano.wordpress.com/2026/06/19/where-to-find-the-colors-your-screen-cant-show-you/",
-    "title": "Where to Find the Colors Your Screen Can't Show You"
-  },
-  {
-    "source": "hn",
-    "url": "https://vale.rocks/posts/pda-browsers",
-    "title": "Web Browsers on PDAS"
+    "url": "https://cssquake.com/",
+    "title": "CSSQuake"
   },
   {
     "source": "hn",
@@ -66,13 +36,48 @@
   },
   {
     "source": "hn",
-    "url": "https://www.timwehrle.de/blog/i-stored-a-website-in-a-favicon/",
-    "title": "I Stored a Website in a Favicon"
+    "url": "https://escurves.com/",
+    "title": "S‑CURVES a field guide to technology adoption · 1825–2026"
+  },
+  {
+    "source": "hn",
+    "url": "https://vawaa.com/",
+    "title": "Vacation With An Artist – Mini-Apprenticeships with Artists in Their Studios"
+  },
+  {
+    "source": "hn",
+    "url": "https://dancemagazine.com/pointe-shoe-innovation/",
+    "title": "Why has the pointe shoe been so resistant to change?"
   },
   {
     "source": "hn",
     "url": "https://www.sciencedaily.com/releases/2026/06/260617032207.htm",
     "title": "The ability to regrow body parts is dormant in mammals, not lost"
+  },
+  {
+    "source": "hn",
+    "url": "https://moultano.wordpress.com/2026/06/19/where-to-find-the-colors-your-screen-cant-show-you/",
+    "title": "Where to Find the Colors Your Screen Can't Show You"
+  },
+  {
+    "source": "hn",
+    "url": "https://bootimus.com",
+    "title": "Bootimus – A Self-Contained PXE and HTTP Boot Server"
+  },
+  {
+    "source": "hn",
+    "url": "https://vale.rocks/posts/pda-browsers",
+    "title": "Web Browsers on PDAS"
+  },
+  {
+    "source": "hn",
+    "url": "https://blog.cloudflare.com/temporary-accounts/",
+    "title": "Temporary Cloudflare Accounts for AI Agents"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.timwehrle.de/blog/i-stored-a-website-in-a-favicon/",
+    "title": "I Stored a Website in a Favicon"
   },
   {
     "source": "hn",
@@ -85,29 +90,29 @@
     "title": "GPT-5.5 hallucinates 3x more than MIT-licensed GLM-5.2"
   },
   {
-    "source": "hn",
-    "url": "https://eli.thegreenplace.net/2012/07/12/computed-goto-for-efficient-dispatch-tables",
-    "title": "Computed goto for efficient dispatch tables (2012)"
-  },
-  {
-    "source": "hn",
-    "url": "https://overreacted.io/there-are-no-instances-in-atproto/",
-    "title": "There are no instances in ATProto"
-  },
-  {
     "source": "lobsters",
     "url": "https://cauenapier.com/blog/town-square-the-community-deserves-connection/",
     "title": "Town Square, the community deserves connection"
   },
   {
     "source": "lobsters",
-    "url": "https://natkr.com/2026-06-19-nixos-but-smol/",
-    "title": "I can haz smoller NixOS ISOs?"
+    "url": "https://jmmv.dev/2026/06/is-anyone-still-using-emacs.html",
+    "title": "Is anyone still using Emacs?"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://overreacted.io/there-are-no-instances-in-atproto/",
+    "title": "There Are No Instances in atproto"
   },
   {
     "source": "lobsters",
     "url": "https://brooker.co.za/blog/2026/06/19/waiting.html",
     "title": "Meet Alice. Alice is impatient"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://natkr.com/2026-06-19-nixos-but-smol/",
+    "title": "I can haz smoller NixOS ISOs?"
   },
   {
     "source": "lobsters",
