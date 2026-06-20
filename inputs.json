@@ -6,6 +6,16 @@
   },
   {
     "source": "hn",
+    "url": "https://point.free/blog/delete-12-flags/",
+    "title": "I restarted a 10 year old Xeon 174 times to delete 12 flags and gain 4 tps"
+  },
+  {
+    "source": "hn",
+    "url": "https://bootimus.com",
+    "title": "Bootimus – A Self-Contained PXE and HTTP Boot Server"
+  },
+  {
+    "source": "hn",
     "url": "https://www.timwehrle.de/blog/i-stored-a-website-in-a-favicon/",
     "title": "I Stored a Website in a Favicon"
   },
@@ -21,8 +31,18 @@
   },
   {
     "source": "hn",
-    "url": "https://bootimus.com",
-    "title": "Bootimus – A Self-Contained PXE and HTTP Boot Server"
+    "url": "https://www.lrt.lt/en/news-in-english/19/2965205/lithuanian-startup-launches-open-source-network-to-detect-shahed-type-drones",
+    "title": "Lithuanian startup launches open-source network to detect Shahed-type drones"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.not-ship.com/can-you-see-three-trees/",
+    "title": "Can you see three trees?"
+  },
+  {
+    "source": "hn",
+    "url": "https://eli.thegreenplace.net/2012/07/12/computed-goto-for-efficient-dispatch-tables",
+    "title": "Computed goto for efficient dispatch tables (2012)"
   },
   {
     "source": "hn",
@@ -31,8 +51,8 @@
   },
   {
     "source": "hn",
-    "url": "https://www.not-ship.com/can-you-see-three-trees/",
-    "title": "Can you see three trees?"
+    "url": "https://blog.brownplt.org/2026/06/09/pick.html",
+    "title": "Human Judgment as a Specification"
   },
   {
     "source": "hn",
@@ -46,8 +66,8 @@
   },
   {
     "source": "hn",
-    "url": "https://www.lrt.lt/en/news-in-english/19/2965205/lithuanian-startup-launches-open-source-network-to-detect-shahed-type-drones",
-    "title": "Lithuanian startup launches open-source network to detect Shahed-type drones"
+    "url": "https://blog.cloudflare.com/temporary-accounts/",
+    "title": "Temporary Cloudflare Accounts for AI Agents"
   },
   {
     "source": "hn",
@@ -61,13 +81,18 @@
   },
   {
     "source": "hn",
-    "url": "https://brooker.co.za/blog/2020/08/06/erlang.html",
-    "title": "Surprising economics of load-balanced systems"
+    "url": "https://pong-in-a-favicon.franzai.com/",
+    "title": "Pong in S Favicon"
   },
   {
     "source": "hn",
-    "url": "https://blog.brownplt.org/2026/06/09/pick.html",
-    "title": "Human Judgment as a Specification"
+    "url": "https://blog.gingerbeardman.com/2026/06/19/new-old-3d-golf-porting-pc-9801-and-virtual-boy-to-mega-drive/",
+    "title": "New (Old) 3D Golf: Porting PC-9801 and Virtual Boy to Mega Drive"
+  },
+  {
+    "source": "hn",
+    "url": "https://brooker.co.za/blog/2020/08/06/erlang.html",
+    "title": "Surprising economics of load-balanced systems"
   },
   {
     "source": "hn",
@@ -90,11 +115,6 @@
     "title": "Egyptian Fractions (2006)"
   },
   {
-    "source": "hn",
-    "url": "https://dfdxlabs.com/research/2026/robotics-setup/",
-    "title": "Building a robotics research setup that lives next to my desk"
-  },
-  {
     "source": "lobsters",
     "url": "https://cauenapier.com/blog/town-square-the-community-deserves-connection/",
     "title": "Town Square, the community deserves connection"
@@ -111,8 +131,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://www.smpte.org/blog/smpte-makes-its-standards-freely-accessible-openingstandards-library-to-the-global-media-technology-community",
-    "title": "SMPTE Makes Its Standards Freely Accessible"
+    "url": "https://brooker.co.za/blog/2026/06/19/waiting.html",
+    "title": "Meet Alice. Alice is impatient"
   },
   {
     "source": "lobsters",
@@ -121,13 +141,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://www.andreinc.net/2026/06/15/the-cube-the-epicycles-and-the-human-face/",
-    "title": "The cube, the epicycles and the human face"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://brooker.co.za/blog/2026/06/19/waiting.html",
-    "title": "Meet Alice. Alice is impatient"
+    "url": "https://www.smpte.org/blog/smpte-makes-its-standards-freely-accessible-openingstandards-library-to-the-global-media-technology-community",
+    "title": "SMPTE Makes Its Standards Freely Accessible"
   },
   {
     "source": "lobsters",
@@ -136,8 +151,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://diffshub.com/",
-    "title": "DiffsHub"
+    "url": "https://www.andreinc.net/2026/06/15/the-cube-the-epicycles-and-the-human-face/",
+    "title": "The cube, the epicycles and the human face"
   },
   {
     "source": "lobsters",
@@ -146,13 +161,13 @@
   },
   {
     "source": "lobsters",
-    "url": "http://manishearth.github.io/blog/2026/06/17/the-future-of-the-con-is-already-here/",
-    "title": "The Future of the Con Is Already Here, It's Just Not Evenly Distributed"
+    "url": "https://diffshub.com/",
+    "title": "DiffsHub"
   },
   {
     "source": "lobsters",
-    "url": "https://fornjot.app/blog/shutting-down-fornjot/",
-    "title": "Shutting Down Fornjot"
+    "url": "http://manishearth.github.io/blog/2026/06/17/the-future-of-the-con-is-already-here/",
+    "title": "The Future of the Con Is Already Here, It's Just Not Evenly Distributed"
   },
   {
     "source": "lobsters",
