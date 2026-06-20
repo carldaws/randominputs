@@ -21,6 +21,11 @@
   },
   {
     "source": "hn",
+    "url": "https://bootimus.com",
+    "title": "Bootimus – A Self-Contained PXE and HTTP Boot Server"
+  },
+  {
+    "source": "hn",
     "url": "https://mattmahoney.net/dc/dce.html",
     "title": "Data Compression Explained (2012)"
   },
@@ -41,8 +46,13 @@
   },
   {
     "source": "hn",
-    "url": "https://brooker.co.za/blog/2020/08/06/erlang.html",
-    "title": "Surprising economics of load-balanced systems"
+    "url": "https://www.lrt.lt/en/news-in-english/19/2965205/lithuanian-startup-launches-open-source-network-to-detect-shahed-type-drones",
+    "title": "Lithuanian startup launches open-source network to detect Shahed-type drones"
+  },
+  {
+    "source": "hn",
+    "url": "https://ianbarber.blog/2026/06/19/llms-are-complicated-now/",
+    "title": "LLMs Are Complicated Now"
   },
   {
     "source": "hn",
@@ -51,8 +61,13 @@
   },
   {
     "source": "hn",
-    "url": "https://ianbarber.blog/2026/06/19/llms-are-complicated-now/",
-    "title": "LLMs Are Complicated Now"
+    "url": "https://brooker.co.za/blog/2020/08/06/erlang.html",
+    "title": "Surprising economics of load-balanced systems"
+  },
+  {
+    "source": "hn",
+    "url": "https://blog.brownplt.org/2026/06/09/pick.html",
+    "title": "Human Judgment as a Specification"
   },
   {
     "source": "hn",
@@ -80,24 +95,14 @@
     "title": "Building a robotics research setup that lives next to my desk"
   },
   {
-    "source": "hn",
-    "url": "https://metiq.space",
-    "title": "Show HN: Metiq: a real time 3D globe for 100 public datasets"
-  },
-  {
-    "source": "hn",
-    "url": "https://digitalorientalist.com/2017/08/21/digital-printing-of-arabic-explaining-the-problem/",
-    "title": "Digital Printing of Arabic: explaining the problem"
+    "source": "lobsters",
+    "url": "https://cauenapier.com/blog/town-square-the-community-deserves-connection/",
+    "title": "Town Square, the community deserves connection"
   },
   {
     "source": "lobsters",
     "url": "https://natkr.com/2026-06-19-nixos-but-smol/",
     "title": "I can haz smoller NixOS ISOs?"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://cauenapier.com/blog/town-square-the-community-deserves-connection/",
-    "title": "Town Square, the community deserves connection"
   },
   {
     "source": "lobsters",
@@ -116,18 +121,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://brooker.co.za/blog/2026/06/19/waiting.html",
-    "title": "Meet Alice. Alice is impatient"
-  },
-  {
-    "source": "lobsters",
     "url": "https://www.andreinc.net/2026/06/15/the-cube-the-epicycles-and-the-human-face/",
     "title": "The cube, the epicycles and the human face"
   },
   {
     "source": "lobsters",
-    "url": "https://diffshub.com/",
-    "title": "DiffsHub"
+    "url": "https://brooker.co.za/blog/2026/06/19/waiting.html",
+    "title": "Meet Alice. Alice is impatient"
   },
   {
     "source": "lobsters",
@@ -136,13 +136,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://charlesleifer.com/blog/aspirational-clownmaxxing-and-joey-s-cadillac-todo-list/",
-    "title": "Aspirational Clownmaxxing and Joey's cadillac todo list"
+    "url": "https://diffshub.com/",
+    "title": "DiffsHub"
   },
   {
     "source": "lobsters",
-    "url": "https://datavorous.github.io/writing/qairt/",
-    "title": "Reverse Engineering the Qualcomm NPU Compiler"
+    "url": "https://charlesleifer.com/blog/aspirational-clownmaxxing-and-joey-s-cadillac-todo-list/",
+    "title": "Aspirational Clownmaxxing and Joey's cadillac todo list"
   },
   {
     "source": "lobsters",
@@ -153,5 +153,10 @@
     "source": "lobsters",
     "url": "https://fornjot.app/blog/shutting-down-fornjot/",
     "title": "Shutting Down Fornjot"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://datavorous.github.io/writing/qairt/",
+    "title": "Reverse Engineering the Qualcomm NPU Compiler"
   }
 ]
