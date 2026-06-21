@@ -1,8 +1,13 @@
 [
   {
     "source": "hn",
+    "url": "https://sandimetz.com/blog/2016/1/20/the-wrong-abstraction",
+    "title": "Code duplication is far cheaper than the wrong abstraction (2016)"
+  },
+  {
+    "source": "hn",
     "url": "https://norvig.com/lispy.html",
-    "title": "(How to Write a (Lisp) Interpreter (In Python))"
+    "title": "(How to Write a (Lisp) Interpreter (In Python)) (2010)"
   },
   {
     "source": "hn",
@@ -11,8 +16,23 @@
   },
   {
     "source": "hn",
+    "url": "https://brandur.org/minimum-viable-unit",
+    "title": "The Minimum Viable Unit of Saleable Software"
+  },
+  {
+    "source": "hn",
     "url": "https://www.wired.me/story/commodore-made-a-digital-detox-phone-that-isnt-dumb",
     "title": "Commodore Made a Digital Detox Phone That Isn't Dumb"
+  },
+  {
+    "source": "hn",
+    "url": "https://indianspeedster.github.io/blog/occupancy-math-mi355x/",
+    "title": "Occupancy Math on the AMD MI355X: A From-First-Principles Guide"
+  },
+  {
+    "source": "hn",
+    "url": "https://cleantechnica.com/2026/06/16/shipping-freight-energy-fossil-cargo/",
+    "title": "Fossil Fuels Are 40% of Freight Shipping Tonnage, but Half Its Fuel Use"
   },
   {
     "source": "hn",
@@ -23,11 +43,6 @@
     "source": "hn",
     "url": "https://alexkritchevsky.com/2024/02/28/geometric-algebra.html",
     "title": "The case against geometric algebra (2024)"
-  },
-  {
-    "source": "hn",
-    "url": "https://cleantechnica.com/2026/06/16/shipping-freight-energy-fossil-cargo/",
-    "title": "Fossil Fuels Are 40% of Freight Shipping Tonnage, but Half Its Fuel Use"
   },
   {
     "source": "hn",
@@ -51,13 +66,13 @@
   },
   {
     "source": "hn",
-    "url": "https://neuviemeporte.github.io/f15-se2/2026/06/20/needyou.html",
-    "title": "DOS Game \"F-15 Strike Eagle II\" reversing project needs DOS test pilots"
+    "url": "https://www.bostonglobe.com/2026/06/17/business/lyme-disease-tick-test/",
+    "title": "15-minute at-home Lyme disease tick test"
   },
   {
     "source": "hn",
-    "url": "https://www.bostonglobe.com/2026/06/17/business/lyme-disease-tick-test/",
-    "title": "15-minute at-home Lyme disease tick test"
+    "url": "https://neuviemeporte.github.io/f15-se2/2026/06/20/needyou.html",
+    "title": "DOS Game \"F-15 Strike Eagle II\" reversing project needs DOS test pilots"
   },
   {
     "source": "hn",
@@ -70,39 +85,9 @@
     "title": "UHF X11: X11 Built for VisionOS and Apple Vision Pro"
   },
   {
-    "source": "hn",
-    "url": "https://en.wikipedia.org/wiki/PID_controller",
-    "title": "Proportional-Integral-Derivative Controllers"
-  },
-  {
-    "source": "hn",
-    "url": "https://movq.de/blog/postings/2026-06-20/0/POSTING-en.html",
-    "title": "Windows UI evolution: Clicking an unassociated file"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.philipzucker.com/td4-4bit-cpu/",
-    "title": "Guide to the TD4 4-bit DIY CPU"
-  },
-  {
-    "source": "hn",
-    "url": "https://brooker.co.za/blog/2026/06/19/waiting.html",
-    "title": "Alice is impatient"
-  },
-  {
     "source": "lobsters",
     "url": "https://jmmv.dev/2026/06/is-anyone-still-using-emacs.html",
     "title": "Is anyone still using Emacs?"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://atgreen.github.io/repl-yell/posts/libffi-plan-cache/",
-    "title": "Performance improvements in libffi"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://waxy.org/2026/06/the-wholesale-plagiarism-of-obscure-sorrows/",
-    "title": "The Wholesale Plagiarism of Obscure Sorrows"
   },
   {
     "source": "lobsters",
@@ -111,8 +96,28 @@
   },
   {
     "source": "lobsters",
+    "url": "https://atgreen.github.io/repl-yell/posts/libffi-plan-cache/",
+    "title": "Performance improvements in libffi"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://movq.de/blog/postings/2026-06-20/0/POSTING-en.html",
+    "title": "Windows UI evolution: Clicking an unassociated file"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://waxy.org/2026/06/the-wholesale-plagiarism-of-obscure-sorrows/",
+    "title": "The Wholesale Plagiarism of Obscure Sorrows"
+  },
+  {
+    "source": "lobsters",
     "url": "https://cauenapier.com/blog/town-square-the-community-deserves-connection/",
     "title": "Town Square, the community deserves connection"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://brooker.co.za/blog/2026/06/19/waiting.html",
+    "title": "Meet Alice. Alice is impatient"
   },
   {
     "source": "lobsters",
@@ -148,15 +153,5 @@
     "source": "lobsters",
     "url": "https://natkr.com/2026-06-19-nixos-but-smol/",
     "title": "I can haz smoller NixOS ISOs?"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://surfingcomplexity.blog/2026/06/19/i-am-dreading-our-llm-written-incident-report-future/",
-    "title": "I am dreading our LLM-written incident report future"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://www.andreinc.net/2026/06/15/the-cube-the-epicycles-and-the-human-face/",
-    "title": "The cube, the epicycles and the human face"
   }
 ]
