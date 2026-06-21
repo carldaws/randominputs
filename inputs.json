@@ -1,6 +1,11 @@
 [
   {
     "source": "hn",
+    "url": "https://fosterelli.co/developers-dont-understand-cors",
+    "title": "Developers don't understand CORS (2019)"
+  },
+  {
+    "source": "hn",
     "url": "https://sibexi.co/posts/epoll-vs-io_uring/",
     "title": "Epoll vs. io_uring in Linux"
   },
@@ -16,8 +21,18 @@
   },
   {
     "source": "hn",
-    "url": "https://fosterelli.co/developers-dont-understand-cors",
-    "title": "Developers don't understand CORS (2019)"
+    "url": "https://zeux.io/2026/06/17/zigzag-decoding-avx512/",
+    "title": "Zigzag Decoding with AVX-512"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.sciencedaily.com/releases/2026/06/260614012006.htm",
+    "title": "Your brain was never designed for this much bad news"
+  },
+  {
+    "source": "hn",
+    "url": "https://vinibrasil.com/when-i-reject-ai-code-even-if-it-works/",
+    "title": "When I reject AI code even if it works"
   },
   {
     "source": "hn",
@@ -31,18 +46,13 @@
   },
   {
     "source": "hn",
+    "url": "https://www.philipzucker.com/td4-4bit-cpu/",
+    "title": "Guide to the TD4 4-bit DIY CPU"
+  },
+  {
+    "source": "hn",
     "url": "https://neuviemeporte.github.io/f15-se2/2026/06/20/needyou.html",
     "title": "DOS Game \"F-15 Strike Eagle II\" reversing project needs DOS test pilots"
-  },
-  {
-    "source": "hn",
-    "url": "https://vinibrasil.com/when-i-reject-ai-code-even-if-it-works/",
-    "title": "When I reject AI code even if it works"
-  },
-  {
-    "source": "hn",
-    "url": "https://cssquake.com/",
-    "title": "CSSQuake"
   },
   {
     "source": "hn",
@@ -51,8 +61,13 @@
   },
   {
     "source": "hn",
-    "url": "https://injuly.in/blog/napkin-inference-cost/index.html",
-    "title": "Inference cost at scale with napkin math"
+    "url": "https://blog.cloudflare.com/temporary-accounts/",
+    "title": "Temporary Cloudflare accounts for AI agents"
+  },
+  {
+    "source": "hn",
+    "url": "https://en.wikipedia.org/wiki/Armstrong_effect",
+    "title": "Armstrong Effect"
   },
   {
     "source": "hn",
@@ -61,8 +76,8 @@
   },
   {
     "source": "hn",
-    "url": "https://blog.cloudflare.com/temporary-accounts/",
-    "title": "Temporary Cloudflare accounts for AI agents"
+    "url": "https://injuly.in/blog/napkin-inference-cost/index.html",
+    "title": "Inference cost at scale with napkin math"
   },
   {
     "source": "hn",
@@ -86,6 +101,11 @@
   },
   {
     "source": "lobsters",
+    "url": "https://distrobox.it/posts/announcing_distrobox_next/",
+    "title": "Announcing the next generation of Distrobox"
+  },
+  {
+    "source": "lobsters",
     "url": "https://bevy.org/news/bevy-0-19/",
     "title": "Bevy 0.19"
   },
@@ -101,13 +121,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://distrobox.it/posts/announcing_distrobox_next/",
-    "title": "Announcing the next generation of Distrobox"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://www.andreinc.net/2026/06/15/the-cube-the-epicycles-and-the-human-face/",
-    "title": "The cube, the epicycles and the human face"
+    "url": "https://blog.cloudflare.com/sockmap-tcp-splicing-of-the-future/",
+    "title": "SOCKMAP - TCP splicing of the future"
   },
   {
     "source": "lobsters",
@@ -116,28 +131,23 @@
   },
   {
     "source": "lobsters",
+    "url": "https://www.andreinc.net/2026/06/15/the-cube-the-epicycles-and-the-human-face/",
+    "title": "The cube, the epicycles and the human face"
+  },
+  {
+    "source": "lobsters",
     "url": "https://volunteeramnestyday.net/",
     "title": "Volunteer Responsibility Amnesty Day"
   },
   {
     "source": "lobsters",
-    "url": "https://blog.cloudflare.com/sockmap-tcp-splicing-of-the-future/",
-    "title": "SOCKMAP - TCP splicing of the future"
+    "url": "https://cssquake.com/",
+    "title": "cssQuake - Play Quake in Your Browser"
   },
   {
     "source": "lobsters",
     "url": "https://datavorous.github.io/writing/qairt/",
     "title": "Reverse Engineering the Qualcomm NPU Compiler"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://charlesleifer.com/blog/aspirational-clownmaxxing-and-joey-s-cadillac-todo-list/",
-    "title": "Aspirational Clownmaxxing and Joey's cadillac todo list"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://diffshub.com/",
-    "title": "DiffsHub"
   },
   {
     "source": "pinboard",
