@@ -1,13 +1,8 @@
 [
   {
     "source": "hn",
-    "url": "https://notes.lorenzogravina.com/musings/pre-2022-books",
-    "title": "Pre-2022 Books"
-  },
-  {
-    "source": "hn",
     "url": "https://sibexi.co/posts/epoll-vs-io_uring/",
-    "title": "Epoll vs. Io_uring in Linux"
+    "title": "Epoll vs. io_uring in Linux"
   },
   {
     "source": "hn",
@@ -18,6 +13,11 @@
     "source": "hn",
     "url": "https://www.smpte.org/blog/smpte-makes-its-standards-freely-accessible-openingstandards-library-to-the-global-media-technology-community",
     "title": "SMPTE Makes Its Standards Freely Accessible"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.bostonglobe.com/2026/06/17/business/lyme-disease-tick-test/",
+    "title": "15-minute at-home Lyme disease tick test"
   },
   {
     "source": "hn",
@@ -51,13 +51,13 @@
   },
   {
     "source": "hn",
-    "url": "https://waxy.org/2026/06/the-wholesale-plagiarism-of-obscure-sorrows/",
-    "title": "The Wholesale Plagiarism of Obscure Sorrows"
+    "url": "https://notes.lorenzogravina.com/musings/pre-2022-books",
+    "title": "Pre-2022 Books"
   },
   {
     "source": "hn",
-    "url": "https://www.theregister.com/software/2025/09/03/supermarket-giant-tesco-sues-vmware-for-breach-of-contract/1420651",
-    "title": "Supermarket giant Tesco sues VMware for breach of contract"
+    "url": "https://waxy.org/2026/06/the-wholesale-plagiarism-of-obscure-sorrows/",
+    "title": "The Wholesale Plagiarism of Obscure Sorrows"
   },
   {
     "source": "hn",
@@ -66,13 +66,13 @@
   },
   {
     "source": "hn",
-    "url": "https://www.argusred.com/cli",
-    "title": "Show HN: We post-trained a model that pen tests instead of refusing"
+    "url": "https://www.theregister.com/software/2025/09/03/supermarket-giant-tesco-sues-vmware-for-breach-of-contract/1420651",
+    "title": "Supermarket giant Tesco sues VMware for breach of contract"
   },
   {
     "source": "hn",
-    "url": "https://dancemagazine.com/pointe-shoe-innovation/",
-    "title": "Why has the pointe shoe been so resistant to change?"
+    "url": "https://www.argusred.com/cli",
+    "title": "Show HN: We post-trained a model that pen tests instead of refusing"
   },
   {
     "source": "lobsters",
@@ -91,13 +91,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://natkr.com/2026-06-19-nixos-but-smol/",
-    "title": "I can haz smoller NixOS ISOs?"
+    "url": "https://bevy.org/news/bevy-0-19/",
+    "title": "Bevy 0.19"
   },
   {
     "source": "lobsters",
-    "url": "https://bevy.org/news/bevy-0-19/",
-    "title": "Bevy 0.19"
+    "url": "https://natkr.com/2026-06-19-nixos-but-smol/",
+    "title": "I can haz smoller NixOS ISOs?"
   },
   {
     "source": "lobsters",
@@ -106,18 +106,28 @@
   },
   {
     "source": "lobsters",
-    "url": "https://www.andreinc.net/2026/06/15/the-cube-the-epicycles-and-the-human-face/",
-    "title": "The cube, the epicycles and the human face"
-  },
-  {
-    "source": "lobsters",
     "url": "https://distrobox.it/posts/announcing_distrobox_next/",
     "title": "Announcing the next generation of Distrobox"
   },
   {
     "source": "lobsters",
+    "url": "https://www.andreinc.net/2026/06/15/the-cube-the-epicycles-and-the-human-face/",
+    "title": "The cube, the epicycles and the human face"
+  },
+  {
+    "source": "lobsters",
     "url": "https://www.timwehrle.de/blog/i-stored-a-website-in-a-favicon/",
     "title": "I Stored a Website in a Favicon"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://volunteeramnestyday.net/",
+    "title": "Volunteer Responsibility Amnesty Day"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://blog.cloudflare.com/sockmap-tcp-splicing-of-the-future/",
+    "title": "SOCKMAP - TCP splicing of the future"
   },
   {
     "source": "lobsters",
@@ -162,7 +172,7 @@
   {
     "source": "pinboard",
     "url": "https://www.abgeo.dev/blog/cli-authentication-the-right-way/",
-    "title": "www.abgeo.dev"
+    "title": "cli-authentication-the-right-way"
   },
   {
     "source": "pinboard",
