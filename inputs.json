@@ -6,6 +6,11 @@
   },
   {
     "source": "hn",
+    "url": "https://david.newgas.net/did-my-old-job-only-exist-because-of-fraud/",
+    "title": "Did my old job only exist because of fraud?"
+  },
+  {
+    "source": "hn",
     "url": "https://alexkritchevsky.com/2026/05/25/everything-is-logarithms.html",
     "title": "Everything Is Logarithms"
   },
@@ -26,13 +31,18 @@
   },
   {
     "source": "hn",
+    "url": "https://brandur.org/minimum-viable-unit",
+    "title": "The minimum viable unit of saleable software"
+  },
+  {
+    "source": "hn",
     "url": "https://norvig.com/lispy.html",
     "title": "(How to Write a (Lisp) Interpreter (In Python)) (2010)"
   },
   {
     "source": "hn",
-    "url": "https://brandur.org/minimum-viable-unit",
-    "title": "The minimum viable unit of saleable software"
+    "url": "https://underreacted.leaflet.pub/3mmevu6woys27",
+    "title": "Simple hard way to conjugate Japanese verbs"
   },
   {
     "source": "hn",
@@ -41,8 +51,8 @@
   },
   {
     "source": "hn",
-    "url": "https://david.newgas.net/did-my-old-job-only-exist-because-of-fraud/",
-    "title": "Did my old job only exist because of fraud?"
+    "url": "https://indianspeedster.github.io/blog/occupancy-math-mi355x/",
+    "title": "Occupancy Math on the AMD MI355X: A From-First-Principles Guide"
   },
   {
     "source": "hn",
@@ -51,28 +61,13 @@
   },
   {
     "source": "hn",
-    "url": "https://indianspeedster.github.io/blog/occupancy-math-mi355x/",
-    "title": "Occupancy Math on the AMD MI355X: A From-First-Principles Guide"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.bostonglobe.com/2026/06/17/business/lyme-disease-tick-test/",
-    "title": "15-minute at-home Lyme disease tick test"
-  },
-  {
-    "source": "hn",
     "url": "https://fosterelli.co/developers-dont-understand-cors",
     "title": "Developers don't understand CORS (2019)"
   },
   {
     "source": "hn",
-    "url": "https://townsquare.cauenapier.com/",
-    "title": "Show HN: TownSquare, a tiny presence layer for websites"
-  },
-  {
-    "source": "hn",
-    "url": "https://en.wikipedia.org/wiki/PID_controller",
-    "title": "Proportional-Integral-Derivative (PID) controllers"
+    "url": "https://www.marble.onl/posts/cancel_claude.html",
+    "title": "There is minimal downside to switching to open models"
   },
   {
     "source": "lobsters",
@@ -106,6 +101,11 @@
   },
   {
     "source": "lobsters",
+    "url": "https://alexwlchan.net/2026/wonky-web-apis/",
+    "title": "What can wonky APIs tell us about the web?"
+  },
+  {
+    "source": "lobsters",
     "url": "https://cauenapier.com/blog/town-square-the-community-deserves-connection/",
     "title": "Town Square, the community deserves connection"
   },
@@ -116,18 +116,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://mariusbancila.ro/blog/2026/06/19/improvements-to-stdformat-in-c26/",
-    "title": "Improvements to std::format in C++26"
+    "url": "https://blog.randomoracle.io/2026/06/20/mark-of-the-web-and-pinning-installers-to-sites/",
+    "title": "Mark-of-the-web and pinning installers to sites"
   },
   {
     "source": "lobsters",
     "url": "https://blog.cloudflare.com/sockmap-tcp-splicing-of-the-future/",
     "title": "SOCKMAP - TCP splicing of the future (2019)"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://blog.randomoracle.io/2026/06/20/mark-of-the-web-and-pinning-installers-to-sites/",
-    "title": "Mark-of-the-web and pinning installers to sites"
   },
   {
     "source": "lobsters",
@@ -138,11 +133,6 @@
     "source": "lobsters",
     "url": "https://distrobox.it/posts/announcing_distrobox_next/",
     "title": "Announcing the next generation of Distrobox"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://www.timwehrle.de/blog/i-stored-a-website-in-a-favicon/",
-    "title": "I Stored a Website in a Favicon"
   },
   {
     "source": "pinboard",
