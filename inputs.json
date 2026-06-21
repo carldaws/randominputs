@@ -1,13 +1,13 @@
 [
   {
     "source": "hn",
-    "url": "https://kevinak.se/blog/who-actually-owns-your-atproto-identity-hint-its-probably-not-you",
-    "title": "Who Owns Your ATProto Identity? Hint: It's Probably Not You"
+    "url": "https://norvig.com/lispy.html",
+    "title": "(How to Write a (Lisp) Interpreter (In Python))"
   },
   {
     "source": "hn",
-    "url": "https://alexkritchevsky.com/2024/02/28/geometric-algebra.html",
-    "title": "The case against geometric algebra (2024)"
+    "url": "https://kevinak.se/blog/who-actually-owns-your-atproto-identity-hint-its-probably-not-you",
+    "title": "Who Owns Your ATProto Identity? Hint: It's Probably Not You"
   },
   {
     "source": "hn",
@@ -16,8 +16,18 @@
   },
   {
     "source": "hn",
-    "url": "https://worksinprogress.co/issue/how-abolishing-the-stakeholder-state-caused-the-industrial-revolution/",
-    "title": "Smashing the NIMBYs created modern capitalism"
+    "url": "https://www.humprog.org/~stephen/blog/2026/06/15/#system-call-instrumentation-on-intel-negative-result",
+    "title": "System call instrumentation on Linux/x86‑64 using memory‑indirect calls, part I"
+  },
+  {
+    "source": "hn",
+    "url": "https://alexkritchevsky.com/2024/02/28/geometric-algebra.html",
+    "title": "The case against geometric algebra (2024)"
+  },
+  {
+    "source": "hn",
+    "url": "https://cleantechnica.com/2026/06/16/shipping-freight-energy-fossil-cargo/",
+    "title": "Fossil Fuels Are 40% of Freight Shipping Tonnage, but Half Its Fuel Use"
   },
   {
     "source": "hn",
@@ -41,13 +51,8 @@
   },
   {
     "source": "hn",
-    "url": "https://cleantechnica.com/2026/06/16/shipping-freight-energy-fossil-cargo/",
-    "title": "Fossil Fuels Are 40% of Freight Shipping Tonnage, but Half Its Fuel Use"
-  },
-  {
-    "source": "hn",
-    "url": "https://movq.de/blog/postings/2026-06-20/0/POSTING-en.html",
-    "title": "Windows UI evolution: Clicking an unassociated file"
+    "url": "https://neuviemeporte.github.io/f15-se2/2026/06/20/needyou.html",
+    "title": "DOS Game \"F-15 Strike Eagle II\" reversing project needs DOS test pilots"
   },
   {
     "source": "hn",
@@ -61,11 +66,6 @@
   },
   {
     "source": "hn",
-    "url": "https://neuviemeporte.github.io/f15-se2/2026/06/20/needyou.html",
-    "title": "DOS Game \"F-15 Strike Eagle II\" reversing project needs DOS test pilots"
-  },
-  {
-    "source": "hn",
     "url": "https://www.lispm.net/apps/uhf-x11/",
     "title": "UHF X11: X11 Built for VisionOS and Apple Vision Pro"
   },
@@ -76,8 +76,8 @@
   },
   {
     "source": "hn",
-    "url": "https://frankforce.com/cosmodial-sky-atlas/",
-    "title": "Cosmodial Sky Atlas"
+    "url": "https://movq.de/blog/postings/2026-06-20/0/POSTING-en.html",
+    "title": "Windows UI evolution: Clicking an unassociated file"
   },
   {
     "source": "hn",
@@ -106,13 +106,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://cauenapier.com/blog/town-square-the-community-deserves-connection/",
-    "title": "Town Square, the community deserves connection"
+    "url": "https://postmarketos.org/blog/2026/06/21/v26.06-release/",
+    "title": "postmarketOS v26.06 (Alpen Avocado) released"
   },
   {
     "source": "lobsters",
-    "url": "https://postmarketos.org/blog/2026/06/21/v26.06-release/",
-    "title": "postmarketOS v26.06 (Alpen Avocado) released"
+    "url": "https://cauenapier.com/blog/town-square-the-community-deserves-connection/",
+    "title": "Town Square, the community deserves connection"
   },
   {
     "source": "lobsters",
@@ -123,11 +123,6 @@
     "source": "lobsters",
     "url": "https://overreacted.io/there-are-no-instances-in-atproto/",
     "title": "There Are No Instances in atproto"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://mariusbancila.ro/blog/2026/06/19/improvements-to-stdformat-in-c26/",
-    "title": "Improvements to std::format in C++26"
   },
   {
     "source": "lobsters",
