@@ -1,6 +1,11 @@
 [
   {
     "source": "hn",
+    "url": "https://zeux.io/2026/06/17/zigzag-decoding-avx512/",
+    "title": "Zigzag Decoding with AVX-512"
+  },
+  {
+    "source": "hn",
     "url": "https://fosterelli.co/developers-dont-understand-cors",
     "title": "Developers don't understand CORS (2019)"
   },
@@ -21,18 +26,13 @@
   },
   {
     "source": "hn",
-    "url": "https://zeux.io/2026/06/17/zigzag-decoding-avx512/",
-    "title": "Zigzag Decoding with AVX-512"
-  },
-  {
-    "source": "hn",
     "url": "https://www.sciencedaily.com/releases/2026/06/260614012006.htm",
     "title": "Your brain was never designed for this much bad news"
   },
   {
     "source": "hn",
-    "url": "https://vinibrasil.com/when-i-reject-ai-code-even-if-it-works/",
-    "title": "When I reject AI code even if it works"
+    "url": "https://www.philipzucker.com/td4-4bit-cpu/",
+    "title": "Guide to the TD4 4-bit DIY CPU"
   },
   {
     "source": "hn",
@@ -46,23 +46,18 @@
   },
   {
     "source": "hn",
-    "url": "https://www.philipzucker.com/td4-4bit-cpu/",
-    "title": "Guide to the TD4 4-bit DIY CPU"
-  },
-  {
-    "source": "hn",
     "url": "https://neuviemeporte.github.io/f15-se2/2026/06/20/needyou.html",
     "title": "DOS Game \"F-15 Strike Eagle II\" reversing project needs DOS test pilots"
   },
   {
     "source": "hn",
-    "url": "https://brooker.co.za/blog/2026/06/19/waiting.html",
-    "title": "Alice is impatient"
+    "url": "https://vinibrasil.com/when-i-reject-ai-code-even-if-it-works/",
+    "title": "When I reject AI code even if it works"
   },
   {
     "source": "hn",
-    "url": "https://blog.cloudflare.com/temporary-accounts/",
-    "title": "Temporary Cloudflare accounts for AI agents"
+    "url": "https://www.satisfice.com/blog/archives/488148",
+    "title": "Public Service Announcement: Don't Say You Use AI for Writing"
   },
   {
     "source": "hn",
@@ -71,23 +66,33 @@
   },
   {
     "source": "hn",
+    "url": "https://brooker.co.za/blog/2026/06/19/waiting.html",
+    "title": "Alice is impatient"
+  },
+  {
+    "source": "hn",
+    "url": "https://en.wikipedia.org/wiki/PID_controller",
+    "title": "Proportional-Integral-Derivative Controllers"
+  },
+  {
+    "source": "hn",
+    "url": "https://blog.cloudflare.com/temporary-accounts/",
+    "title": "Temporary Cloudflare accounts for AI agents"
+  },
+  {
+    "source": "hn",
     "url": "https://startupwiki.tech/",
     "title": "Show HN: StartupWiki – A Free Alternative to Crunchbase"
-  },
-  {
-    "source": "hn",
-    "url": "https://injuly.in/blog/napkin-inference-cost/index.html",
-    "title": "Inference cost at scale with napkin math"
-  },
-  {
-    "source": "hn",
-    "url": "https://waxy.org/2026/06/the-wholesale-plagiarism-of-obscure-sorrows/",
-    "title": "The Wholesale Plagiarism of Obscure Sorrows"
   },
   {
     "source": "lobsters",
     "url": "https://jmmv.dev/2026/06/is-anyone-still-using-emacs.html",
     "title": "Is anyone still using Emacs?"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://waxy.org/2026/06/the-wholesale-plagiarism-of-obscure-sorrows/",
+    "title": "The Wholesale Plagiarism of Obscure Sorrows"
   },
   {
     "source": "lobsters",
@@ -121,13 +126,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://blog.cloudflare.com/sockmap-tcp-splicing-of-the-future/",
-    "title": "SOCKMAP - TCP splicing of the future"
+    "url": "https://www.timwehrle.de/blog/i-stored-a-website-in-a-favicon/",
+    "title": "I Stored a Website in a Favicon"
   },
   {
     "source": "lobsters",
-    "url": "https://www.timwehrle.de/blog/i-stored-a-website-in-a-favicon/",
-    "title": "I Stored a Website in a Favicon"
+    "url": "https://blog.cloudflare.com/sockmap-tcp-splicing-of-the-future/",
+    "title": "SOCKMAP - TCP splicing of the future (2019)"
   },
   {
     "source": "lobsters",
@@ -136,23 +141,23 @@
   },
   {
     "source": "lobsters",
+    "url": "https://mariusbancila.ro/blog/2026/06/19/improvements-to-stdformat-in-c26/",
+    "title": "Improvements to std::format in C++26"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://movq.de/blog/postings/2026-06-20/0/POSTING-en.html",
+    "title": "Windows UI evolution: Clicking an unassociated file"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://blog.randomoracle.io/2026/06/20/mark-of-the-web-and-pinning-installers-to-sites/",
+    "title": "Mark-of-the-web and pinning installers to sites"
+  },
+  {
+    "source": "lobsters",
     "url": "https://volunteeramnestyday.net/",
     "title": "Volunteer Responsibility Amnesty Day"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://cssquake.com/",
-    "title": "cssQuake - Play Quake in Your Browser"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://datavorous.github.io/writing/qairt/",
-    "title": "Reverse Engineering the Qualcomm NPU Compiler"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://storiedcolors.com/",
-    "title": "Storied Colors"
   },
   {
     "source": "pinboard",
@@ -161,13 +166,18 @@
   },
   {
     "source": "pinboard",
-    "url": "https://vickiboykis.com/2026/06/15/running-local-models-is-good-now/",
-    "title": "Running local models is good now | ✰Vicki Boykis✰"
+    "url": "https://moultano.wordpress.com/2026/06/19/where-to-find-the-colors-your-screen-cant-show-you/",
+    "title": "Where to Find the Colors Your Screen Can’t Show You – Ryan Moulton's Articles"
   },
   {
     "source": "pinboard",
-    "url": "https://lore.org/",
-    "title": "Lore | Next-Generation Open Source Version Control - Lore"
+    "url": "https://storiedcolors.com/",
+    "title": "Storied Colors"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://vickiboykis.com/2026/06/15/running-local-models-is-good-now/",
+    "title": "Running local models is good now | ✰Vicki Boykis✰"
   },
   {
     "source": "pinboard",
@@ -181,8 +191,8 @@
   },
   {
     "source": "pinboard",
-    "url": "https://ghostinthedata.info/posts/2026/2026-06-13-human-connection-moat/",
-    "title": "The Competitive Moat That AI Can't Replicate"
+    "url": "https://akse3d-en.skaperiet.no/",
+    "title": "Akse — 3D modelling for kids and teens"
   },
   {
     "source": "pinboard",
@@ -191,13 +201,8 @@
   },
   {
     "source": "pinboard",
-    "url": "https://mareksuppa.com/til/bash-dev-tcp-http-without-curl/",
-    "title": "Making HTTP requests from a container that has no curl, using bash /dev/tcp · Marek Šuppa"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://johnowhitaker.github.io/inkwash/about",
-    "title": "inkwash · how it works"
+    "url": "https://lore.org/",
+    "title": "Lore | Next-Generation Open Source Version Control - Lore"
   },
   {
     "source": "pinboard",
@@ -206,13 +211,8 @@
   },
   {
     "source": "pinboard",
-    "url": "https://worksinprogress.co/issue/how-madrid-built-its-metro-cheaply/",
-    "title": "How Madrid built its metro cheaply - Works in Progress"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://akse3d-en.skaperiet.no/",
-    "title": "Akse — 3D modelling for kids and teens"
+    "url": "https://news.ycombinator.com/item?id=48583606",
+    "title": "Advanced Compilers: The Self-Guided Online Course | Hacker News"
   },
   {
     "source": "pinboard",
@@ -221,22 +221,22 @@
   },
   {
     "source": "pinboard",
-    "url": "https://artificialanalysis.ai/articles/glm-5-2-is-the-new-leading-open-weights-model-on-the-artificial-analysis-intelligence-index",
-    "title": "GLM-5.2 is the new leading open weights model ( Artificial Analysis Intelligence Index )"
+    "url": "https://blog.modelcontextprotocol.io/posts/enterprise-managed-auth/",
+    "title": "Enterprise-Managed Authorization: Zero-touch OAuth for MCP | Model Context Protocol Blog"
   },
   {
     "source": "pinboard",
-    "url": "https://tonsky.me/blog/every-frame-perfect/",
-    "title": "Every Frame Perfect"
+    "url": "https://european.social/",
+    "title": "The European Social Stack — An open declaration"
   },
   {
     "source": "pinboard",
-    "url": "https://www.seangoedecke.com/doing-nothing-at-work/",
-    "title": "Doing nothing at work"
+    "url": "https://tim.blog/2026/06/12/has-ai-already-killed-nonfiction/",
+    "title": "Has AI Already Killed How-To Nonfiction? Sales Trends, My Personal Data, and What It Might Mean for the Future - The Blog of Author Tim Ferriss"
   },
   {
     "source": "pinboard",
-    "url": "https://ciechanow.ski/mechanical-watch/",
-    "title": "(500) https://ciechanow.ski/mechanical-watch/"
+    "url": "https://blog.bear.app/2026/06/introducing-lettera-a-native-markdown-editor-for-mac-now-in-beta/",
+    "title": "Introducing Lettera: A Native Markdown Editor for Mac, Now in Beta"
   }
 ]
