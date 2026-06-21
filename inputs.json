@@ -1,8 +1,8 @@
 [
   {
     "source": "hn",
-    "url": "https://fosterelli.co/developers-dont-understand-cors",
-    "title": "Developers don't understand CORS (2019)"
+    "url": "https://alexkritchevsky.com/2024/02/28/geometric-algebra.html",
+    "title": "The case against geometric algebra (2024)"
   },
   {
     "source": "hn",
@@ -11,33 +11,8 @@
   },
   {
     "source": "hn",
-    "url": "https://sibexi.co/posts/epoll-vs-io_uring/",
-    "title": "Epoll vs. io_uring in Linux"
-  },
-  {
-    "source": "hn",
     "url": "https://movq.de/blog/postings/2026-06-20/0/POSTING-en.html",
     "title": "Windows UI evolution: Clicking an unassociated file"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.bostonglobe.com/2026/06/17/business/lyme-disease-tick-test/",
-    "title": "15-minute at-home Lyme disease tick test"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.smpte.org/blog/smpte-makes-its-standards-freely-accessible-openingstandards-library-to-the-global-media-technology-community",
-    "title": "SMPTE Makes Its Standards Freely Accessible"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.lispm.net/apps/uhf-x11/",
-    "title": "UHF X11: X11 Built for VisionOS and Apple Vision Pro"
-  },
-  {
-    "source": "hn",
-    "url": "https://neuviemeporte.github.io/f15-se2/2026/06/20/needyou.html",
-    "title": "DOS Game \"F-15 Strike Eagle II\" reversing project needs DOS test pilots"
   },
   {
     "source": "hn",
@@ -46,18 +21,53 @@
   },
   {
     "source": "hn",
+    "url": "https://sibexi.co/posts/epoll-vs-io_uring/",
+    "title": "Epoll vs. io_uring in Linux"
+  },
+  {
+    "source": "hn",
+    "url": "https://fosterelli.co/developers-dont-understand-cors",
+    "title": "Developers don't understand CORS (2019)"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.bostonglobe.com/2026/06/17/business/lyme-disease-tick-test/",
+    "title": "15-minute at-home Lyme disease tick test"
+  },
+  {
+    "source": "hn",
+    "url": "https://frankforce.com/cosmodial-sky-atlas/",
+    "title": "Cosmodial Sky Atlas"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.smpte.org/blog/smpte-makes-its-standards-freely-accessible-openingstandards-library-to-the-global-media-technology-community",
+    "title": "SMPTE Makes Its Standards Freely Accessible"
+  },
+  {
+    "source": "hn",
+    "url": "https://neuviemeporte.github.io/f15-se2/2026/06/20/needyou.html",
+    "title": "DOS Game \"F-15 Strike Eagle II\" reversing project needs DOS test pilots"
+  },
+  {
+    "source": "hn",
     "url": "https://townsquare.cauenapier.com/",
     "title": "Show HN: TownSquare, a tiny presence layer for websites"
   },
   {
     "source": "hn",
-    "url": "https://www.philipzucker.com/td4-4bit-cpu/",
-    "title": "Guide to the TD4 4-bit DIY CPU"
+    "url": "https://www.lispm.net/apps/uhf-x11/",
+    "title": "UHF X11: X11 Built for VisionOS and Apple Vision Pro"
   },
   {
     "source": "hn",
     "url": "https://en.wikipedia.org/wiki/PID_controller",
     "title": "Proportional-Integral-Derivative Controllers"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.philipzucker.com/td4-4bit-cpu/",
+    "title": "Guide to the TD4 4-bit DIY CPU"
   },
   {
     "source": "hn",
@@ -71,8 +81,8 @@
   },
   {
     "source": "hn",
-    "url": "https://www.sciencedaily.com/releases/2026/06/260614012006.htm",
-    "title": "Your brain was never designed for this much bad news"
+    "url": "https://startupwiki.tech/",
+    "title": "Show HN: StartupWiki – A Free Alternative to Crunchbase"
   },
   {
     "source": "lobsters",
@@ -96,8 +106,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://distrobox.it/posts/announcing_distrobox_next/",
-    "title": "Announcing the next generation of Distrobox"
+    "url": "https://blog.cloudflare.com/sockmap-tcp-splicing-of-the-future/",
+    "title": "SOCKMAP - TCP splicing of the future (2019)"
   },
   {
     "source": "lobsters",
@@ -106,18 +116,13 @@
   },
   {
     "source": "lobsters",
+    "url": "https://distrobox.it/posts/announcing_distrobox_next/",
+    "title": "Announcing the next generation of Distrobox"
+  },
+  {
+    "source": "lobsters",
     "url": "https://bevy.org/news/bevy-0-19/",
     "title": "Bevy 0.19"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://natkr.com/2026-06-19-nixos-but-smol/",
-    "title": "I can haz smoller NixOS ISOs?"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://surfingcomplexity.blog/2026/06/19/i-am-dreading-our-llm-written-incident-report-future/",
-    "title": "I am dreading our LLM-written incident report future"
   },
   {
     "source": "lobsters",
@@ -126,13 +131,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://blog.cloudflare.com/sockmap-tcp-splicing-of-the-future/",
-    "title": "SOCKMAP - TCP splicing of the future (2019)"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://www.andreinc.net/2026/06/15/the-cube-the-epicycles-and-the-human-face/",
-    "title": "The cube, the epicycles and the human face"
+    "url": "https://natkr.com/2026-06-19-nixos-but-smol/",
+    "title": "I can haz smoller NixOS ISOs?"
   },
   {
     "source": "lobsters",
@@ -141,7 +141,97 @@
   },
   {
     "source": "lobsters",
+    "url": "https://surfingcomplexity.blog/2026/06/19/i-am-dreading-our-llm-written-incident-report-future/",
+    "title": "I am dreading our LLM-written incident report future"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://www.andreinc.net/2026/06/15/the-cube-the-epicycles-and-the-human-face/",
+    "title": "The cube, the epicycles and the human face"
+  },
+  {
+    "source": "lobsters",
     "url": "https://volunteeramnestyday.net/",
     "title": "Volunteer Responsibility Amnesty Day"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.submission.directory/",
+    "title": "Submission.Directory · Find where to submit your website."
+  },
+  {
+    "source": "pinboard",
+    "url": "https://moultano.wordpress.com/2026/06/19/where-to-find-the-colors-your-screen-cant-show-you/",
+    "title": "Where to Find the Colors Your Screen Can’t Show You – Ryan Moulton's Articles"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://storiedcolors.com/",
+    "title": "Storied Colors"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://vickiboykis.com/2026/06/15/running-local-models-is-good-now/",
+    "title": "Running local models is good now | ✰Vicki Boykis✰"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://nelson.cloud/.gitignore-isnt-the-only-way-to-ignore-files-in-git/",
+    "title": ".gitignore Isn’t the Only Way To Ignore Files in Git | Nelson Figueroa"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.abgeo.dev/blog/cli-authentication-the-right-way/",
+    "title": "cli-authentication-the-right-way"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://akse3d-en.skaperiet.no/",
+    "title": "Akse — 3D modelling for kids and teens"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://blog.alexellis.io/local-ai-is-not-opus/",
+    "title": "Local Qwen isn't a worse Opus, it's a different tool"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://lore.org/",
+    "title": "Lore | Next-Generation Open Source Version Control - Lore"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.greybeam.ai/blog/duckdb-internals-part-1",
+    "title": "DuckDB Internals: Why is DuckDB Fast? | Greybeam"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://news.ycombinator.com/item?id=48583606",
+    "title": "Advanced Compilers: The Self-Guided Online Course | Hacker News"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://rednafi.com/misc/chezmoi/",
+    "title": "Migrating from GNU stow to chezmoi | Redowan's Reflections"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://blog.modelcontextprotocol.io/posts/enterprise-managed-auth/",
+    "title": "Enterprise-Managed Authorization: Zero-touch OAuth for MCP | Model Context Protocol Blog"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://european.social/",
+    "title": "The European Social Stack — An open declaration"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://tim.blog/2026/06/12/has-ai-already-killed-nonfiction/",
+    "title": "Has AI Already Killed How-To Nonfiction? Sales Trends, My Personal Data, and What It Might Mean for the Future - The Blog of Author Tim Ferriss"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://blog.bear.app/2026/06/introducing-lettera-a-native-markdown-editor-for-mac-now-in-beta/",
+    "title": "Introducing Lettera: A Native Markdown Editor for Mac, Now in Beta"
   }
 ]
