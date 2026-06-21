@@ -1,6 +1,11 @@
 [
   {
     "source": "hn",
+    "url": "https://www.mooreds.com/wordpress/archives/3518",
+    "title": "Ask for no, don't ask for yes (2022)"
+  },
+  {
+    "source": "hn",
     "url": "https://hawksley.dev/blog/json-ld-explained-for-personal-websites/",
     "title": "JSON-LD Explained for Personal Websites"
   },
@@ -23,6 +28,11 @@
     "source": "hn",
     "url": "https://indianspeedster.github.io/blog/occupancy-math-mi355x/",
     "title": "Occupancy Math on the AMD MI355X: A From-First-Principles Guide"
+  },
+  {
+    "source": "hn",
+    "url": "https://bunkum.us/2026/06/18/cocktail-ingredients-milp",
+    "title": "Cocktail Optimization, an Integer Programming Problem"
   },
   {
     "source": "hn",
@@ -56,16 +66,6 @@
   },
   {
     "source": "hn",
-    "url": "https://www.wired.me/story/commodore-made-a-digital-detox-phone-that-isnt-dumb",
-    "title": "The Commodore Callback 8020 smart flip phone"
-  },
-  {
-    "source": "hn",
-    "url": "https://bunkum.us/2026/06/18/cocktail-ingredients-milp",
-    "title": "Cocktail Optimization, an Integer Programming Problem"
-  },
-  {
-    "source": "hn",
     "url": "https://www.sciencedaily.com/releases/2026/06/260614012006.htm",
     "title": "The brain was not designed for this much bad news"
   },
@@ -73,11 +73,6 @@
     "source": "hn",
     "url": "https://sibexi.co/posts/epoll-vs-io_uring/",
     "title": "Epoll vs. io_uring in Linux"
-  },
-  {
-    "source": "hn",
-    "url": "https://hbr.org/2026/06/ai-has-broken-hiring-heres-how-to-fix-it",
-    "title": "The early hiring funnel is now breaking on both ends"
   },
   {
     "source": "lobsters",
@@ -121,13 +116,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://blog.cloudflare.com/sockmap-tcp-splicing-of-the-future/",
-    "title": "SOCKMAP - TCP splicing of the future (2019)"
+    "url": "https://mariusbancila.ro/blog/2026/06/19/improvements-to-stdformat-in-c26/",
+    "title": "Improvements to std::format in C++26"
   },
   {
     "source": "lobsters",
-    "url": "https://mariusbancila.ro/blog/2026/06/19/improvements-to-stdformat-in-c26/",
-    "title": "Improvements to std::format in C++26"
+    "url": "https://blog.cloudflare.com/sockmap-tcp-splicing-of-the-future/",
+    "title": "SOCKMAP - TCP splicing of the future (2019)"
   },
   {
     "source": "lobsters",
@@ -143,11 +138,6 @@
     "source": "lobsters",
     "url": "https://blog.randomoracle.io/2026/06/20/mark-of-the-web-and-pinning-installers-to-sites/",
     "title": "Mark-of-the-web and pinning installers to sites"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://www.timwehrle.de/blog/i-stored-a-website-in-a-favicon/",
-    "title": "I Stored a Website in a Favicon"
   },
   {
     "source": "pinboard",
