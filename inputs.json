@@ -1,6 +1,11 @@
 [
   {
     "source": "hn",
+    "url": "https://hawksley.dev/blog/json-ld-explained-for-personal-websites/",
+    "title": "JSON-LD Explained for Personal Websites"
+  },
+  {
+    "source": "hn",
     "url": "https://sandimetz.com/blog/2016/1/20/the-wrong-abstraction",
     "title": "Prefer duplication over the wrong abstraction (2016)"
   },
@@ -16,18 +21,8 @@
   },
   {
     "source": "hn",
-    "url": "https://hawksley.dev/blog/json-ld-explained-for-personal-websites/",
-    "title": "JSON-LD Explained for Personal Websites"
-  },
-  {
-    "source": "hn",
     "url": "https://indianspeedster.github.io/blog/occupancy-math-mi355x/",
     "title": "Occupancy Math on the AMD MI355X: A From-First-Principles Guide"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.wired.me/story/commodore-made-a-digital-detox-phone-that-isnt-dumb",
-    "title": "The Commodore Callback 8020 smart flip phone"
   },
   {
     "source": "hn",
@@ -41,8 +36,8 @@
   },
   {
     "source": "hn",
-    "url": "https://cleantechnica.com/2026/06/16/shipping-freight-energy-fossil-cargo/",
-    "title": "Fossil Fuels Are 40% of Freight Shipping Tonnage, but Half Its Fuel Use"
+    "url": "https://www.humprog.org/~stephen/blog/2026/06/15/#system-call-instrumentation-on-intel-negative-result",
+    "title": "System call instrumentation on Linux/x86‑64 using memory‑indirect calls, part I"
   },
   {
     "source": "hn",
@@ -51,23 +46,23 @@
   },
   {
     "source": "hn",
-    "url": "https://www.humprog.org/~stephen/blog/2026/06/15/#system-call-instrumentation-on-intel-negative-result",
-    "title": "System call instrumentation on Linux/x86‑64 using memory‑indirect calls, part I"
-  },
-  {
-    "source": "hn",
     "url": "https://en.wikipedia.org/wiki/PID_controller",
     "title": "Proportional-Integral-Derivative (PID) controllers"
   },
   {
     "source": "hn",
-    "url": "https://hbr.org/2026/06/ai-has-broken-hiring-heres-how-to-fix-it",
-    "title": "The early hiring funnel is now breaking on both ends"
+    "url": "https://cleantechnica.com/2026/06/16/shipping-freight-energy-fossil-cargo/",
+    "title": "Fossil Fuels Are 40% of Freight Shipping Tonnage, but Half Its Fuel Use"
   },
   {
     "source": "hn",
-    "url": "https://ociforge.com",
-    "title": "Ocient Database Sandbox"
+    "url": "https://www.wired.me/story/commodore-made-a-digital-detox-phone-that-isnt-dumb",
+    "title": "The Commodore Callback 8020 smart flip phone"
+  },
+  {
+    "source": "hn",
+    "url": "https://bunkum.us/2026/06/18/cocktail-ingredients-milp",
+    "title": "Cocktail Optimization, an Integer Programming Problem"
   },
   {
     "source": "hn",
@@ -81,8 +76,8 @@
   },
   {
     "source": "hn",
-    "url": "https://movq.de/blog/postings/2026-06-20/0/POSTING-en.html",
-    "title": "Windows UI evolution: Clicking an unassociated file"
+    "url": "https://hbr.org/2026/06/ai-has-broken-hiring-heres-how-to-fix-it",
+    "title": "The early hiring funnel is now breaking on both ends"
   },
   {
     "source": "lobsters",
@@ -101,8 +96,18 @@
   },
   {
     "source": "lobsters",
+    "url": "https://movq.de/blog/postings/2026-06-20/0/POSTING-en.html",
+    "title": "Windows UI evolution: Clicking an unassociated file"
+  },
+  {
+    "source": "lobsters",
     "url": "https://waxy.org/2026/06/the-wholesale-plagiarism-of-obscure-sorrows/",
     "title": "The Wholesale Plagiarism of Obscure Sorrows"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://kobzol.github.io/rust/2026/06/21/optimizing-sqlx-test-rebuild-time.html",
+    "title": "Optimizing #[sqlx::test] rebuild time"
   },
   {
     "source": "lobsters",
@@ -131,11 +136,6 @@
   },
   {
     "source": "lobsters",
-    "url": "https://kobzol.github.io/rust/2026/06/21/optimizing-sqlx-test-rebuild-time.html",
-    "title": "Optimizing #[sqlx::test] rebuild time"
-  },
-  {
-    "source": "lobsters",
     "url": "https://distrobox.it/posts/announcing_distrobox_next/",
     "title": "Announcing the next generation of Distrobox"
   },
@@ -150,8 +150,83 @@
     "title": "I Stored a Website in a Favicon"
   },
   {
-    "source": "lobsters",
-    "url": "https://bevy.org/news/bevy-0-19/",
-    "title": "Bevy 0.19"
+    "source": "pinboard",
+    "url": "https://www.submission.directory/",
+    "title": "Submission.Directory · Find where to submit your website."
+  },
+  {
+    "source": "pinboard",
+    "url": "https://moultano.wordpress.com/2026/06/19/where-to-find-the-colors-your-screen-cant-show-you/",
+    "title": "Where to Find the Colors Your Screen Can’t Show You – Ryan Moulton's Articles"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://storiedcolors.com/",
+    "title": "Storied Colors"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://vickiboykis.com/2026/06/15/running-local-models-is-good-now/",
+    "title": "Running local models is good now | ✰Vicki Boykis✰"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://nelson.cloud/.gitignore-isnt-the-only-way-to-ignore-files-in-git/",
+    "title": ".gitignore Isn’t the Only Way To Ignore Files in Git | Nelson Figueroa"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.abgeo.dev/blog/cli-authentication-the-right-way/",
+    "title": "cli-authentication-the-right-way"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://akse3d-en.skaperiet.no/",
+    "title": "Akse — 3D modelling for kids and teens"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://blog.alexellis.io/local-ai-is-not-opus/",
+    "title": "Local Qwen isn't a worse Opus, it's a different tool"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://lore.org/",
+    "title": "Lore | Next-Generation Open Source Version Control - Lore"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.greybeam.ai/blog/duckdb-internals-part-1",
+    "title": "DuckDB Internals: Why is DuckDB Fast? | Greybeam"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://news.ycombinator.com/item?id=48583606",
+    "title": "Advanced Compilers: The Self-Guided Online Course | Hacker News"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://rednafi.com/misc/chezmoi/",
+    "title": "Migrating from GNU stow to chezmoi | Redowan's Reflections"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://blog.modelcontextprotocol.io/posts/enterprise-managed-auth/",
+    "title": "Enterprise-Managed Authorization: Zero-touch OAuth for MCP | Model Context Protocol Blog"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://european.social/",
+    "title": "The European Social Stack — An open declaration"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://tim.blog/2026/06/12/has-ai-already-killed-nonfiction/",
+    "title": "Has AI Already Killed How-To Nonfiction? Sales Trends, My Personal Data, and What It Might Mean for the Future - The Blog of Author Tim Ferriss"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://blog.bear.app/2026/06/introducing-lettera-a-native-markdown-editor-for-mac-now-in-beta/",
+    "title": "Introducing Lettera: A Native Markdown Editor for Mac, Now in Beta"
   }
 ]
