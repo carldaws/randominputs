@@ -11,28 +11,23 @@
   },
   {
     "source": "hn",
+    "url": "https://sakana.ai/fugu/",
+    "title": "Sakana Fugu"
+  },
+  {
+    "source": "hn",
     "url": "https://alexkritchevsky.com/2026/05/25/everything-is-logarithms.html",
     "title": "Everything is logarithms"
   },
   {
     "source": "hn",
-    "url": "https://geohot.github.io//blog/jekyll/update/2026/06/21/the-doom-justifies-the-valuation.html",
-    "title": "The Doom Justifies the Valuation"
+    "url": "https://fil-c.org/inlineasm",
+    "title": "Memory Safe Inline Assembly"
   },
   {
     "source": "hn",
-    "url": "https://mcipetition.com/",
-    "title": "Petition against Meta's employee training data collection for ML models"
-  },
-  {
-    "source": "hn",
-    "url": "https://hawksley.dev/blog/json-ld-explained-for-personal-websites/",
-    "title": "JSON-LD explained for personal websites"
-  },
-  {
-    "source": "hn",
-    "url": "https://powerfox.jazzzny.me/",
-    "title": "PowerFox Browser"
+    "url": "https://www.marble.onl/posts/cancel_claude.html",
+    "title": "There is minimal downside to switching to open models"
   },
   {
     "source": "hn",
@@ -41,13 +36,18 @@
   },
   {
     "source": "hn",
-    "url": "https://blog.minimal.app/conversion-engine/",
-    "title": "From Combinatorial Mess to Linear Elegance: Architecting a Conversion Engine"
+    "url": "https://hawksley.dev/blog/json-ld-explained-for-personal-websites/",
+    "title": "JSON-LD explained for personal websites"
   },
   {
     "source": "hn",
-    "url": "https://www.marble.onl/posts/cancel_claude.html",
-    "title": "There is minimal downside to switching to open models"
+    "url": "https://mcipetition.com/",
+    "title": "Petition against Meta's employee training data collection for ML models"
+  },
+  {
+    "source": "hn",
+    "url": "https://powerfox.jazzzny.me/",
+    "title": "PowerFox Browser"
   },
   {
     "source": "hn",
@@ -57,12 +57,17 @@
   {
     "source": "hn",
     "url": "https://www.openassistivetech.org/how-i-actually-play-video-games-with-sma-the-tools-i-use-every-day/",
-    "title": "I Play Video Games with Spinal Muscular Atrophy"
+    "title": "How I play video games with spinal muscular atrophy"
   },
   {
     "source": "hn",
-    "url": "https://underreacted.leaflet.pub/3mmevu6woys27",
-    "title": "Simple hard way to conjugate Japanese verbs"
+    "url": "https://blog.plover.com/prog/fortran-i.html",
+    "title": "My 1992 view of the problems of computer programming in 1992"
+  },
+  {
+    "source": "hn",
+    "url": "https://blog.minimal.app/conversion-engine/",
+    "title": "From Combinatorial Mess to Linear Elegance: Architecting a Conversion Engine"
   },
   {
     "source": "hn",
@@ -76,6 +81,11 @@
   },
   {
     "source": "hn",
+    "url": "https://lmao.center/blog/wiggle-accidents/",
+    "title": "Help I Accidentally a Wigglegram"
+  },
+  {
+    "source": "hn",
     "url": "https://norvig.com/lispy.html",
     "title": "(How to Write a (Lisp) Interpreter (In Python)) (2010)"
   },
@@ -86,18 +96,8 @@
   },
   {
     "source": "hn",
-    "url": "https://minipcs.zip",
-    "title": "Show HN: MiniPCs.zip – Charting the Pareto frontier of Mini PCs"
-  },
-  {
-    "source": "hn",
-    "url": "https://blog.plover.com/prog/fortran-i.html",
-    "title": "My 1992 view of the problems of computer programming in 1992"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.mooreds.com/wordpress/archives/3518",
-    "title": "Ask for no, don't ask for yes (2022)"
+    "url": "https://geohot.github.io//blog/jekyll/update/2026/06/21/the-doom-justifies-the-valuation.html",
+    "title": "The Doom Justifies the Valuation"
   },
   {
     "source": "lobsters",
@@ -113,6 +113,11 @@
     "source": "lobsters",
     "url": "https://jmmv.dev/2026/06/is-anyone-still-using-emacs.html",
     "title": "Is anyone still using Emacs?"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://fzakaria.com/2026/06/21/nix-build-in-under-100-lines",
+    "title": "nix-build in under 100 lines"
   },
   {
     "source": "lobsters",
@@ -133,11 +138,6 @@
     "source": "lobsters",
     "url": "https://alexwlchan.net/2026/wonky-web-apis/",
     "title": "What can wonky APIs tell us about the web?"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://fzakaria.com/2026/06/21/nix-build-in-under-100-lines",
-    "title": "nix-build in under 100 lines"
   },
   {
     "source": "lobsters",
@@ -168,5 +168,90 @@
     "source": "lobsters",
     "url": "https://blog.cloudflare.com/sockmap-tcp-splicing-of-the-future/",
     "title": "SOCKMAP - TCP splicing of the future (2019)"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.submission.directory/",
+    "title": "Submission.Directory · Find where to submit your website."
+  },
+  {
+    "source": "pinboard",
+    "url": "https://moultano.wordpress.com/2026/06/19/where-to-find-the-colors-your-screen-cant-show-you/",
+    "title": "Where to Find the Colors Your Screen Can’t Show You – Ryan Moulton's Articles"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://storiedcolors.com/",
+    "title": "Storied Colors"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://vickiboykis.com/2026/06/15/running-local-models-is-good-now/",
+    "title": "Running local models is good now | ✰Vicki Boykis✰"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://nelson.cloud/.gitignore-isnt-the-only-way-to-ignore-files-in-git/",
+    "title": ".gitignore Isn’t the Only Way To Ignore Files in Git | Nelson Figueroa"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.abgeo.dev/blog/cli-authentication-the-right-way/",
+    "title": "cli-authentication-the-right-way"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://akse3d-en.skaperiet.no/",
+    "title": "Akse — 3D modelling for kids and teens"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://blog.alexellis.io/local-ai-is-not-opus/",
+    "title": "Local Qwen isn't a worse Opus, it's a different tool"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://overreacted.io/there-are-no-instances-in-atproto/",
+    "title": "There Are No Instances in atproto"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://lore.org/",
+    "title": "Lore | Next-Generation Open Source Version Control - Lore"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.greybeam.ai/blog/duckdb-internals-part-1",
+    "title": "DuckDB Internals: Why is DuckDB Fast? | Greybeam"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://news.ycombinator.com/item?id=48583606",
+    "title": "Advanced Compilers: The Self-Guided Online Course | Hacker News"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://rednafi.com/misc/chezmoi/",
+    "title": "Migrating from GNU stow to chezmoi | Redowan's Reflections"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://blog.modelcontextprotocol.io/posts/enterprise-managed-auth/",
+    "title": "Enterprise-Managed Authorization: Zero-touch OAuth for MCP | Model Context Protocol Blog"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://european.social/",
+    "title": "The European Social Stack — An open declaration"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://tim.blog/2026/06/12/has-ai-already-killed-nonfiction/",
+    "title": "Has AI Already Killed How-To Nonfiction? Sales Trends, My Personal Data, and What It Might Mean for the Future - The Blog of Author Tim Ferriss"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://blog.bear.app/2026/06/introducing-lettera-a-native-markdown-editor-for-mac-now-in-beta/",
+    "title": "Introducing Lettera: A Native Markdown Editor for Mac, Now in Beta"
   }
 ]
