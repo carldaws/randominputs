@@ -1,6 +1,11 @@
 [
   {
     "source": "hn",
+    "url": "https://mrmarket.lol/job-application-asked-for-my-sat-scores/",
+    "title": "Job application asked for my SAT scores"
+  },
+  {
+    "source": "hn",
     "url": "https://blog.dahl.dev/posts/my-mathematical-regression/",
     "title": "My Mathematical Regression"
   },
@@ -21,23 +26,13 @@
   },
   {
     "source": "hn",
-    "url": "https://techstackups.com/comparisons/glm-5.2-vs-opus/",
-    "title": "GLM 5.2 vs. Opus"
-  },
-  {
-    "source": "hn",
-    "url": "https://role-confusion.github.io",
-    "title": "Prompt Injection as Role Confusion"
-  },
-  {
-    "source": "hn",
     "url": "https://fgiesen.wordpress.com/2026/06/21/pivco-huffman-merge-operations/",
     "title": "PivCo-Huffman \"Merge\" Operations"
   },
   {
     "source": "hn",
-    "url": "https://www.righto.com/2020/05/die-analysis-of-8087-math-coprocessors.html",
-    "title": "Die analysis of the 8087 math coprocessor's fast bit shifter (2020)"
+    "url": "https://techstackups.com/comparisons/glm-5.2-vs-opus/",
+    "title": "GLM 5.2 vs. Opus"
   },
   {
     "source": "hn",
@@ -46,18 +41,13 @@
   },
   {
     "source": "hn",
+    "url": "https://www.righto.com/2020/05/die-analysis-of-8087-math-coprocessors.html",
+    "title": "Die analysis of the 8087 math coprocessor's fast bit shifter (2020)"
+  },
+  {
+    "source": "hn",
     "url": "https://patrickmccanna.net/the-text-in-claude-codes-extended-thinking-output-is-not-authentic/",
     "title": "The text in Claude Code’s “Extended Thinking” output"
-  },
-  {
-    "source": "hn",
-    "url": "https://urflow.bearblog.dev/jobs-and-software-is-fucked/",
-    "title": "Jobs and Software Is Fucked"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.theregister.com/personal-tech/2026/06/22/the-memory-crisis-is-getting-so-bad-that-even-retro-ram-prices-are-going-to-the-moon/5259627",
-    "title": "Memory crisis is getting so bad that even retro RAM prices are going to the Moon"
   },
   {
     "source": "hn",
@@ -66,13 +56,13 @@
   },
   {
     "source": "hn",
-    "url": "https://www.chevron.com/newsroom/2026/q2/chevron-signs-20-year-power-agreement-with-microsoft-for-west-texas-data-center",
-    "title": "Chevron signs 20-year power agreement with Microsoft for West Texas data center"
+    "url": "https://www.theregister.com/personal-tech/2026/06/22/the-memory-crisis-is-getting-so-bad-that-even-retro-ram-prices-are-going-to-the-moon/5259627",
+    "title": "Memory crisis is getting so bad that even retro RAM prices are going to the Moon"
   },
   {
     "source": "hn",
-    "url": "https://lmao.center/blog/wiggle-accidents/",
-    "title": "Help I accidentally a wigglegram"
+    "url": "https://www.chevron.com/newsroom/2026/q2/chevron-signs-20-year-power-agreement-with-microsoft-for-west-texas-data-center",
+    "title": "Chevron signs 20-year power agreement with Microsoft for West Texas data center"
   },
   {
     "source": "lobsters",
@@ -83,6 +73,11 @@
     "source": "lobsters",
     "url": "https://www.arp242.net/chestersons-finger.html",
     "title": "Chesterton's middle finger"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://lmao.center/blog/wiggle-accidents/",
+    "title": "help i accidentally a wigglegram"
   },
   {
     "source": "lobsters",
@@ -111,6 +106,11 @@
   },
   {
     "source": "lobsters",
+    "url": "https://www.ietf.org/archive/id/draft-ietf-dmarc-arc-to-historic-00.txt",
+    "title": "Reclassifying DMARC ARC as historic"
+  },
+  {
+    "source": "lobsters",
     "url": "https://postmarketos.org/blog/2026/06/21/v26.06-release/",
     "title": "postmarketOS v26.06 (Alpen Avocado) released"
   },
@@ -121,13 +121,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://fzakaria.com/2026/06/21/nix-build-in-under-100-lines",
-    "title": "nix-build in under 100 lines"
+    "url": "https://momentsingraphics.de/CameraRays.html",
+    "title": "Computing Camera Rays"
   },
   {
     "source": "lobsters",
-    "url": "https://momentsingraphics.de/CameraRays.html",
-    "title": "Computing Camera Rays"
+    "url": "https://fzakaria.com/2026/06/21/nix-build-in-under-100-lines",
+    "title": "nix-build in under 100 lines"
   },
   {
     "source": "lobsters",
@@ -135,8 +135,78 @@
     "title": "Hyperblam: a declarative implementation of the Web Audio API"
   },
   {
-    "source": "lobsters",
-    "url": "https://atgreen.github.io/repl-yell/posts/libffi-plan-cache/",
-    "title": "Performance improvements in libffi"
+    "source": "pinboard",
+    "url": "https://moultano.wordpress.com/2026/06/19/where-to-find-the-colors-your-screen-cant-show-you/",
+    "title": "Where to Find the Colors Your Screen Can’t Show You – Ryan Moulton's Articles"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://akse3d-en.skaperiet.no/",
+    "title": "Akse — 3D modelling for kids and teens"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.submission.directory/",
+    "title": "Submission.Directory · Find where to submit your website."
+  },
+  {
+    "source": "pinboard",
+    "url": "https://vickiboykis.com/2026/06/15/running-local-models-is-good-now/",
+    "title": "Running local models is good now | ✰Vicki Boykis✰"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://aresluna.org/show-your-hands-honor/",
+    "title": "Show your hands honor for the strange power they bring you – Aresluna"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://nelson.cloud/.gitignore-isnt-the-only-way-to-ignore-files-in-git/",
+    "title": ".gitignore Isn’t the Only Way To Ignore Files in Git | Nelson Figueroa"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://overreacted.io/there-are-no-instances-in-atproto/",
+    "title": "There Are No Instances in atproto"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://storiedcolors.com/",
+    "title": "Storied Colors"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.greybeam.ai/blog/duckdb-internals-part-1",
+    "title": "DuckDB Internals: Why is DuckDB Fast? | Greybeam"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://european.social/",
+    "title": "The European Social Stack — An open declaration"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://news.ycombinator.com/item?id=48583606",
+    "title": "Advanced Compilers: The Self-Guided Online Course | Hacker News"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://screen.toys/",
+    "title": "screen toys"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://townsquare.cauenapier.com/",
+    "title": "TownSquare — a tiny presence layer for websites"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://waxy.org/2026/06/the-wholesale-plagiarism-of-obscure-sorrows/",
+    "title": "The Wholesale Plagiarism of Obscure Sorrows - Waxy.org"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://aiclambake.com/clamtakes/linear-a/",
+    "title": "AI Engineer Claims to Have Cracked Linear A — AI Clambake"
   }
 ]
