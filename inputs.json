@@ -6,8 +6,28 @@
   },
   {
     "source": "hn",
+    "url": "https://patrickmccanna.net/the-text-in-claude-codes-extended-thinking-output-is-not-authentic/",
+    "title": "Claude Code's \"extended thinking\" is a summary- not authentic thinking"
+  },
+  {
+    "source": "hn",
+    "url": "https://hustvl.github.io/Moebius/",
+    "title": "Moebius: 0.2B image inpainting model with 10B-level performance"
+  },
+  {
+    "source": "hn",
     "url": "https://docs.deno.com/runtime/desktop/",
     "title": "Deno Desktop"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.chevron.com/newsroom/2026/q2/chevron-signs-20-year-power-agreement-with-microsoft-for-west-texas-data-center",
+    "title": "Chevron signs 20-year power agreement with Microsoft for West Texas data center"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.righto.com/2020/05/die-analysis-of-8087-math-coprocessors.html",
+    "title": "Die analysis of the 8087 math coprocessor's fast bit shifter (2020)"
   },
   {
     "source": "hn",
@@ -16,13 +36,13 @@
   },
   {
     "source": "hn",
-    "url": "https://patrickmccanna.net/the-text-in-claude-codes-extended-thinking-output-is-not-authentic/",
-    "title": "Claude Code's \"extended thinking\" is a summary- not authentic thinking"
+    "url": "https://www.wsj.com/pro/sustainable-business/dhl-set-to-transport-goods-on-new-wind-powered-cargo-ships-eca5d5a0",
+    "title": "DHL Set to Transport Goods on New Wind-Powered Cargo Ships"
   },
   {
     "source": "hn",
-    "url": "https://www.righto.com/2020/05/die-analysis-of-8087-math-coprocessors.html",
-    "title": "Die analysis of the 8087 math coprocessor's fast bit shifter"
+    "url": "https://www.sidhantbansal.com/2026/Granularity-comes-at-a-cost/",
+    "title": "Granularity comes at a cost – Game Theory"
   },
   {
     "source": "hn",
@@ -31,13 +51,18 @@
   },
   {
     "source": "hn",
+    "url": "https://david.newgas.net/did-my-old-job-only-exist-because-of-fraud/",
+    "title": "Did my old job only exist because of fraud?"
+  },
+  {
+    "source": "hn",
     "url": "https://apertvs.ai/",
     "title": "Apertus – Open Foundation Model for Sovereign AI"
   },
   {
     "source": "hn",
-    "url": "https://www.chevron.com/newsroom/2026/q2/chevron-signs-20-year-power-agreement-with-microsoft-for-west-texas-data-center",
-    "title": "Chevron signs 20-year power agreement with Microsoft for West Texas data center"
+    "url": "https://people.idsia.ch/~juergen/ai-boom-roots-munich-1991.html",
+    "title": "Munich 1991: The Roots of the Current AI Boom"
   },
   {
     "source": "hn",
@@ -51,23 +76,13 @@
   },
   {
     "source": "hn",
-    "url": "https://hustvl.github.io/Moebius/",
-    "title": "Moebius: 0.2B image inpainting model with 10B-level performance"
+    "url": "https://www.bloomberg.com/news/articles/2026-06-22/alan-greenspan-dies-at-100-led-fed-during-boom-before-2008-bust",
+    "title": "Alan Greenspan Dies at 100; Led Fed During Boom Before 2008 Bust"
   },
   {
     "source": "hn",
     "url": "https://manticoresearch.com/blog/manticore-search-27-1-5/",
     "title": "Manticore Search 27.1.5: Auth, sharding, conversational and faster vector search"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.sidhantbansal.com/2026/Granularity-comes-at-a-cost/",
-    "title": "Granularity comes at a cost – Game Theory"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.bloomberg.com/news/articles/2026-06-22/alan-greenspan-dies-at-100-led-fed-during-boom-before-2008-bust",
-    "title": "Alan Greenspan Dies at 100; Led Fed During Boom Before 2008 Bust"
   },
   {
     "source": "hn",
@@ -90,21 +105,6 @@
     "title": "Good results fine tuning a local LLM like Qwen 3:0.6B to categorize questions"
   },
   {
-    "source": "hn",
-    "url": "https://alexkritchevsky.com/2026/05/25/everything-is-logarithms.html",
-    "title": "Everything is logarithms"
-  },
-  {
-    "source": "hn",
-    "url": "https://hawksley.dev/blog/json-ld-explained-for-personal-websites/",
-    "title": "JSON-LD explained for personal websites"
-  },
-  {
-    "source": "hn",
-    "url": "https://steveharrison.dev/showdirectorypicker-opens-up-a-whole-new-world/",
-    "title": "window.showDirectoryPicker opens up a whole new world"
-  },
-  {
     "source": "lobsters",
     "url": "https://www.arp242.net/chestersons-finger.html",
     "title": "Chesterton's middle finger"
@@ -116,13 +116,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://pkgdemon.github.io/how-a-computer-should-work.html",
-    "title": "How a Computer Should Work"
+    "url": "https://fzakaria.com/2026/06/21/nix-needs-relocatable-binaries",
+    "title": "Nix needs relocatable binaries"
   },
   {
     "source": "lobsters",
-    "url": "https://fzakaria.com/2026/06/21/nix-needs-relocatable-binaries",
-    "title": "Nix needs relocatable binaries"
+    "url": "https://pkgdemon.github.io/how-a-computer-should-work.html",
+    "title": "How a Computer Should Work"
   },
   {
     "source": "lobsters",
@@ -136,8 +136,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://atgreen.github.io/repl-yell/posts/libffi-plan-cache/",
-    "title": "Performance improvements in libffi"
+    "url": "https://vale.rocks/posts/pda-browsers",
+    "title": "Web Browsers on PDAs"
   },
   {
     "source": "lobsters",
@@ -146,13 +146,18 @@
   },
   {
     "source": "lobsters",
+    "url": "https://atgreen.github.io/repl-yell/posts/libffi-plan-cache/",
+    "title": "Performance improvements in libffi"
+  },
+  {
+    "source": "lobsters",
     "url": "https://alexwlchan.net/2026/wonky-web-apis/",
     "title": "What can wonky APIs tell us about the web?"
   },
   {
     "source": "lobsters",
-    "url": "https://vale.rocks/posts/pda-browsers",
-    "title": "Web Browsers on PDAs"
+    "url": "https://hyperblam.how/",
+    "title": "Hyperblam: a declarative implementation of the Web Audio API"
   },
   {
     "source": "lobsters",
@@ -181,6 +186,11 @@
   },
   {
     "source": "pinboard",
+    "url": "https://aresluna.org/show-your-hands-honor/",
+    "title": "Show your hands honor for the strange power they bring you – Aresluna"
+  },
+  {
+    "source": "pinboard",
     "url": "https://nelson.cloud/.gitignore-isnt-the-only-way-to-ignore-files-in-git/",
     "title": ".gitignore Isn’t the Only Way To Ignore Files in Git | Nelson Figueroa"
   },
@@ -198,11 +208,6 @@
     "source": "pinboard",
     "url": "https://www.greybeam.ai/blog/duckdb-internals-part-1",
     "title": "DuckDB Internals: Why is DuckDB Fast? | Greybeam"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://european.social/",
-    "title": "The European Social Stack — An open declaration"
   },
   {
     "source": "pinboard",
