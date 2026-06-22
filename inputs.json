@@ -1,11 +1,6 @@
 [
   {
     "source": "hn",
-    "url": "https://mrmarket.lol/job-application-asked-for-my-sat-scores/",
-    "title": "Job application asked for my SAT scores"
-  },
-  {
-    "source": "hn",
     "url": "https://blog.dahl.dev/posts/my-mathematical-regression/",
     "title": "My Mathematical Regression"
   },
@@ -26,13 +21,13 @@
   },
   {
     "source": "hn",
-    "url": "https://fgiesen.wordpress.com/2026/06/21/pivco-huffman-merge-operations/",
-    "title": "PivCo-Huffman \"Merge\" Operations"
+    "url": "https://yoebuild.org/blog/time-for-a-new-build-system/",
+    "title": "Is it time for a new Embedded Linux build system?"
   },
   {
     "source": "hn",
-    "url": "https://techstackups.com/comparisons/glm-5.2-vs-opus/",
-    "title": "GLM 5.2 vs. Opus"
+    "url": "https://fgiesen.wordpress.com/2026/06/21/pivco-huffman-merge-operations/",
+    "title": "PivCo-Huffman \"Merge\" Operations"
   },
   {
     "source": "hn",
@@ -41,8 +36,18 @@
   },
   {
     "source": "hn",
+    "url": "https://mrmarket.lol/job-application-asked-for-my-sat-scores/",
+    "title": "Job application asked for my SAT scores"
+  },
+  {
+    "source": "hn",
     "url": "https://www.righto.com/2020/05/die-analysis-of-8087-math-coprocessors.html",
     "title": "Die analysis of the 8087 math coprocessor's fast bit shifter (2020)"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.chevron.com/newsroom/2026/q2/chevron-signs-20-year-power-agreement-with-microsoft-for-west-texas-data-center",
+    "title": "Chevron signs 20-year power agreement with Microsoft for West Texas data center"
   },
   {
     "source": "hn",
@@ -51,18 +56,23 @@
   },
   {
     "source": "hn",
-    "url": "https://docs.deno.com/runtime/desktop/",
-    "title": "Deno Desktop"
-  },
-  {
-    "source": "hn",
     "url": "https://www.theregister.com/personal-tech/2026/06/22/the-memory-crisis-is-getting-so-bad-that-even-retro-ram-prices-are-going-to-the-moon/5259627",
     "title": "Memory crisis is getting so bad that even retro RAM prices are going to the Moon"
   },
   {
     "source": "hn",
-    "url": "https://www.chevron.com/newsroom/2026/q2/chevron-signs-20-year-power-agreement-with-microsoft-for-west-texas-data-center",
-    "title": "Chevron signs 20-year power agreement with Microsoft for West Texas data center"
+    "url": "https://docs.deno.com/runtime/desktop/",
+    "title": "Deno Desktop"
+  },
+  {
+    "source": "hn",
+    "url": "https://lmao.center/blog/wiggle-accidents/",
+    "title": "Help I accidentally a wigglegram"
+  },
+  {
+    "source": "hn",
+    "url": "https://role-confusion.github.io",
+    "title": "Prompt Injection as Role Confusion"
   },
   {
     "source": "lobsters",
@@ -73,11 +83,6 @@
     "source": "lobsters",
     "url": "https://www.arp242.net/chestersons-finger.html",
     "title": "Chesterton's middle finger"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://lmao.center/blog/wiggle-accidents/",
-    "title": "help i accidentally a wigglegram"
   },
   {
     "source": "lobsters",
@@ -101,23 +106,18 @@
   },
   {
     "source": "lobsters",
+    "url": "https://pointieststick.com/2026/06/22/network-shares-still-talking-about-them-in-2026/",
+    "title": "Network shares: still talking about them in 2026"
+  },
+  {
+    "source": "lobsters",
     "url": "https://vale.rocks/posts/pda-browsers",
     "title": "Web Browsers on PDAs"
   },
   {
     "source": "lobsters",
-    "url": "https://www.ietf.org/archive/id/draft-ietf-dmarc-arc-to-historic-00.txt",
-    "title": "Reclassifying DMARC ARC as historic"
-  },
-  {
-    "source": "lobsters",
     "url": "https://postmarketos.org/blog/2026/06/21/v26.06-release/",
     "title": "postmarketOS v26.06 (Alpen Avocado) released"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://pointieststick.com/2026/06/22/network-shares-still-talking-about-them-in-2026/",
-    "title": "Network shares: still talking about them in 2026"
   },
   {
     "source": "lobsters",
@@ -128,11 +128,6 @@
     "source": "lobsters",
     "url": "https://fzakaria.com/2026/06/21/nix-build-in-under-100-lines",
     "title": "nix-build in under 100 lines"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://hyperblam.how/",
-    "title": "Hyperblam: a declarative implementation of the Web Audio API"
   },
   {
     "source": "pinboard",
