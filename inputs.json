@@ -21,13 +21,13 @@
   },
   {
     "source": "hn",
-    "url": "https://techstackups.com/comparisons/glm-5.2-vs-opus/",
-    "title": "GLM 5.2 vs. Opus"
+    "url": "https://people.idsia.ch/~juergen/ai-boom-roots-munich-1991.html",
+    "title": "Munich 1991: The Roots of the Current AI Boom"
   },
   {
     "source": "hn",
-    "url": "https://www.marble.onl/posts/cancel_claude.html",
-    "title": "There is minimal downside to switching to open models"
+    "url": "https://severinbucher.com/posts/writing-postcards-with-a-3d-printer/",
+    "title": "Writing Postcards with a 3D Printer"
   },
   {
     "source": "hn",
@@ -41,13 +41,23 @@
   },
   {
     "source": "hn",
+    "url": "https://clisystems.com/article-UTFS-intro/",
+    "title": "UTFS: A Tar-Like File System for Embedded Systems (2025)"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.marble.onl/posts/cancel_claude.html",
+    "title": "There is minimal downside to switching to open models"
+  },
+  {
+    "source": "hn",
     "url": "https://www.teachmecoolstuff.com/viewarticle/fine-tuning-a-local-llm-to-categorize-questions",
     "title": "Good results fine tuning a local LLM like Qwen 3:0.6B to categorize questions"
   },
   {
     "source": "hn",
-    "url": "https://blog.plover.com/prog/fortran-i.html",
-    "title": "My 1992 view of the problems of computer programming in 1992"
+    "url": "https://techstackups.com/comparisons/glm-5.2-vs-opus/",
+    "title": "GLM 5.2 vs. Opus"
   },
   {
     "source": "hn",
@@ -66,6 +76,11 @@
   },
   {
     "source": "hn",
+    "url": "https://blog.plover.com/prog/fortran-i.html",
+    "title": "My 1992 view of the problems of computer programming in 1992"
+  },
+  {
+    "source": "hn",
     "url": "https://underreacted.leaflet.pub/3mmevu6woys27",
     "title": "Japanese verb conjugation the simple hard way"
   },
@@ -76,43 +91,18 @@
   },
   {
     "source": "hn",
-    "url": "https://www.oldtelephoneroom.ca/1983-northern-telecom-commodore-phone/",
-    "title": "1983 Northern Telecom Commodore Phone"
-  },
-  {
-    "source": "hn",
     "url": "https://powerfox.jazzzny.me/",
     "title": "PowerFox Browser"
   },
   {
     "source": "hn",
+    "url": "https://www.oldtelephoneroom.ca/1983-northern-telecom-commodore-phone/",
+    "title": "1983 Northern Telecom Commodore Phone"
+  },
+  {
+    "source": "hn",
     "url": "https://the-criterion-closet.vercel.app",
     "title": "Show HN: Criterion Closet as a website – pull any of 1,247 films off the shelf"
-  },
-  {
-    "source": "hn",
-    "url": "https://brandur.org/minimum-viable-unit",
-    "title": "The minimum viable unit of saleable software"
-  },
-  {
-    "source": "hn",
-    "url": "https://sandimetz.com/blog/2016/1/20/the-wrong-abstraction",
-    "title": "Prefer duplication over the wrong abstraction (2016)"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://postmarketos.org/blog/2026/06/21/v26.06-release/",
-    "title": "postmarketOS v26.06 (Alpen Avocado) released"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://atgreen.github.io/repl-yell/posts/libffi-plan-cache/",
-    "title": "Performance improvements in libffi"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://fzakaria.com/2026/06/21/nix-build-in-under-100-lines",
-    "title": "nix-build in under 100 lines"
   },
   {
     "source": "lobsters",
@@ -121,8 +111,33 @@
   },
   {
     "source": "lobsters",
+    "url": "https://postmarketos.org/blog/2026/06/21/v26.06-release/",
+    "title": "postmarketOS v26.06 (Alpen Avocado) released"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://fzakaria.com/2026/06/21/nix-build-in-under-100-lines",
+    "title": "nix-build in under 100 lines"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://atgreen.github.io/repl-yell/posts/libffi-plan-cache/",
+    "title": "Performance improvements in libffi"
+  },
+  {
+    "source": "lobsters",
     "url": "https://alexwlchan.net/2026/wonky-web-apis/",
     "title": "What can wonky APIs tell us about the web?"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://momentsingraphics.de/CameraRays.html",
+    "title": "Computing Camera Rays"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://pkgdemon.github.io/how-a-computer-should-work.html",
+    "title": "How a Computer Should Work"
   },
   {
     "source": "lobsters",
@@ -141,28 +156,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://momentsingraphics.de/CameraRays.html",
-    "title": "Computing Camera Rays"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://waxy.org/2026/06/the-wholesale-plagiarism-of-obscure-sorrows/",
-    "title": "The Wholesale Plagiarism of Obscure Sorrows"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://movq.de/blog/postings/2026-06-20/0/POSTING-en.html",
-    "title": "Windows UI evolution: Clicking an unassociated file"
-  },
-  {
-    "source": "lobsters",
     "url": "https://www.humprog.org/~stephen/blog/2026/06/15/#system-call-instrumentation-on-intel-negative-result",
     "title": "System call instrumentation on Linux/x86-64 using memory-indirect calls (in vain?), part one"
   },
   {
     "source": "lobsters",
-    "url": "https://pkgdemon.github.io/how-a-computer-should-work.html",
-    "title": "How a Computer Should Work — Joe Maloney"
+    "url": "https://waxy.org/2026/06/the-wholesale-plagiarism-of-obscure-sorrows/",
+    "title": "The Wholesale Plagiarism of Obscure Sorrows"
   },
   {
     "source": "pinboard",
