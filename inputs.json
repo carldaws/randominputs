@@ -1,58 +1,13 @@
 [
   {
     "source": "hn",
+    "url": "https://nevergivethemyourface.com/",
+    "title": "Never Give Them Your Face"
+  },
+  {
+    "source": "hn",
     "url": "https://docs.deno.com/runtime/desktop/",
     "title": "Deno Desktop"
-  },
-  {
-    "source": "hn",
-    "url": "https://lmao.center/blog/wiggle-accidents/",
-    "title": "Help I accidentally a wigglegram"
-  },
-  {
-    "source": "hn",
-    "url": "https://david.newgas.net/did-my-old-job-only-exist-because-of-fraud/",
-    "title": "Did my old job only exist because of fraud?"
-  },
-  {
-    "source": "hn",
-    "url": "https://apertvs.ai/",
-    "title": "Apertus – Open Foundation Model for Sovereign AI"
-  },
-  {
-    "source": "hn",
-    "url": "https://people.idsia.ch/~juergen/ai-boom-roots-munich-1991.html",
-    "title": "Munich 1991: The Roots of the Current AI Boom"
-  },
-  {
-    "source": "hn",
-    "url": "https://severinbucher.com/posts/writing-postcards-with-a-3d-printer/",
-    "title": "Writing Postcards with a 3D Printer"
-  },
-  {
-    "source": "hn",
-    "url": "https://fil-c.org/inlineasm",
-    "title": "Memory Safe Inline Assembly"
-  },
-  {
-    "source": "hn",
-    "url": "https://alexkritchevsky.com/2026/05/25/everything-is-logarithms.html",
-    "title": "Everything is logarithms"
-  },
-  {
-    "source": "hn",
-    "url": "https://clisystems.com/article-UTFS-intro/",
-    "title": "UTFS: A Tar-Like File System for Embedded Systems (2025)"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.marble.onl/posts/cancel_claude.html",
-    "title": "There is minimal downside to switching to open models"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.teachmecoolstuff.com/viewarticle/fine-tuning-a-local-llm-to-categorize-questions",
-    "title": "Good results fine tuning a local LLM like Qwen 3:0.6B to categorize questions"
   },
   {
     "source": "hn",
@@ -61,18 +16,63 @@
   },
   {
     "source": "hn",
+    "url": "https://patrickmccanna.net/the-text-in-claude-codes-extended-thinking-output-is-not-authentic/",
+    "title": "Claude Code's \"extended thinking\" is a summary- not authentic thinking"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.righto.com/2020/05/die-analysis-of-8087-math-coprocessors.html",
+    "title": "Die analysis of the 8087 math coprocessor's fast bit shifter"
+  },
+  {
+    "source": "hn",
+    "url": "https://lmao.center/blog/wiggle-accidents/",
+    "title": "Help I accidentally a wigglegram"
+  },
+  {
+    "source": "hn",
+    "url": "https://apertvs.ai/",
+    "title": "Apertus – Open Foundation Model for Sovereign AI"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.chevron.com/newsroom/2026/q2/chevron-signs-20-year-power-agreement-with-microsoft-for-west-texas-data-center",
+    "title": "Chevron signs 20-year power agreement with Microsoft for West Texas data center"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.davidrevoy.com/article1154/why-drawing-tablet-brands-wont-collaborate-on-linux-floss-drivers",
+    "title": "Why Drawing Tablet Brands Won't Collaborate on Linux Floss Drivers"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.marble.onl/posts/cancel_claude.html",
+    "title": "There is minimal downside to switching to open models"
+  },
+  {
+    "source": "hn",
+    "url": "https://hustvl.github.io/Moebius/",
+    "title": "Moebius: 0.2B image inpainting model with 10B-level performance"
+  },
+  {
+    "source": "hn",
+    "url": "https://manticoresearch.com/blog/manticore-search-27-1-5/",
+    "title": "Manticore Search 27.1.5: Auth, sharding, conversational and faster vector search"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.sidhantbansal.com/2026/Granularity-comes-at-a-cost/",
+    "title": "Granularity comes at a cost – Game Theory"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.bloomberg.com/news/articles/2026-06-22/alan-greenspan-dies-at-100-led-fed-during-boom-before-2008-bust",
+    "title": "Alan Greenspan Dies at 100; Led Fed During Boom Before 2008 Bust"
+  },
+  {
+    "source": "hn",
     "url": "https://sakana.ai/fugu/",
     "title": "Sakana Fugu"
-  },
-  {
-    "source": "hn",
-    "url": "https://6it.dev/blog/infographics-operation-costs-in-cpu-clock-cycles-take-2-80736",
-    "title": "Efficient C++ Programming for Modern C++ CPUs, Chapter 4/part 2"
-  },
-  {
-    "source": "hn",
-    "url": "https://hawksley.dev/blog/json-ld-explained-for-personal-websites/",
-    "title": "JSON-LD explained for personal websites"
   },
   {
     "source": "hn",
@@ -81,33 +81,48 @@
   },
   {
     "source": "hn",
-    "url": "https://underreacted.leaflet.pub/3mmevu6woys27",
-    "title": "Japanese verb conjugation the simple hard way"
+    "url": "https://fil-c.org/inlineasm",
+    "title": "Memory Safe Inline Assembly"
   },
   {
     "source": "hn",
-    "url": "https://www.openassistivetech.org/how-i-actually-play-video-games-with-sma-the-tools-i-use-every-day/",
-    "title": "How I play video games with spinal muscular atrophy"
+    "url": "https://www.teachmecoolstuff.com/viewarticle/fine-tuning-a-local-llm-to-categorize-questions",
+    "title": "Good results fine tuning a local LLM like Qwen 3:0.6B to categorize questions"
   },
   {
     "source": "hn",
-    "url": "https://powerfox.jazzzny.me/",
-    "title": "PowerFox Browser"
+    "url": "https://alexkritchevsky.com/2026/05/25/everything-is-logarithms.html",
+    "title": "Everything is logarithms"
   },
   {
     "source": "hn",
-    "url": "https://www.oldtelephoneroom.ca/1983-northern-telecom-commodore-phone/",
-    "title": "1983 Northern Telecom Commodore Phone"
+    "url": "https://hawksley.dev/blog/json-ld-explained-for-personal-websites/",
+    "title": "JSON-LD explained for personal websites"
   },
   {
     "source": "hn",
-    "url": "https://the-criterion-closet.vercel.app",
-    "title": "Show HN: Criterion Closet as a website – pull any of 1,247 films off the shelf"
+    "url": "https://steveharrison.dev/showdirectorypicker-opens-up-a-whole-new-world/",
+    "title": "window.showDirectoryPicker opens up a whole new world"
   },
   {
     "source": "lobsters",
     "url": "https://www.arp242.net/chestersons-finger.html",
     "title": "Chesterton's middle finger"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://ruurtjan.com/articles/p99-0ms-autocomplete-for-240-million-domain-names",
+    "title": "p99 0ms* autocomplete for 240 million domain names"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://pkgdemon.github.io/how-a-computer-should-work.html",
+    "title": "How a Computer Should Work"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://fzakaria.com/2026/06/21/nix-needs-relocatable-binaries",
+    "title": "Nix needs relocatable binaries"
   },
   {
     "source": "lobsters",
@@ -126,43 +141,23 @@
   },
   {
     "source": "lobsters",
-    "url": "https://alexwlchan.net/2026/wonky-web-apis/",
-    "title": "What can wonky APIs tell us about the web?"
-  },
-  {
-    "source": "lobsters",
     "url": "https://momentsingraphics.de/CameraRays.html",
     "title": "Computing Camera Rays"
   },
   {
     "source": "lobsters",
-    "url": "https://pkgdemon.github.io/how-a-computer-should-work.html",
-    "title": "How a Computer Should Work"
+    "url": "https://alexwlchan.net/2026/wonky-web-apis/",
+    "title": "What can wonky APIs tell us about the web?"
   },
   {
     "source": "lobsters",
-    "url": "https://jmmv.dev/2026/06/is-anyone-still-using-emacs.html",
-    "title": "Is anyone still using Emacs?"
+    "url": "https://vale.rocks/posts/pda-browsers",
+    "title": "Web Browsers on PDAs"
   },
   {
     "source": "lobsters",
     "url": "https://fgiesen.wordpress.com/2026/06/21/pivco-huffman-merge-operations/",
     "title": "PivCo-Huffman “merge” operations"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://kobzol.github.io/rust/2026/06/21/optimizing-sqlx-test-rebuild-time.html",
-    "title": "Optimizing #[sqlx::test] rebuild time"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://www.humprog.org/~stephen/blog/2026/06/15/#system-call-instrumentation-on-intel-negative-result",
-    "title": "System call instrumentation on Linux/x86-64 using memory-indirect calls (in vain?), part one"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://waxy.org/2026/06/the-wholesale-plagiarism-of-obscure-sorrows/",
-    "title": "The Wholesale Plagiarism of Obscure Sorrows"
   },
   {
     "source": "pinboard",
@@ -183,11 +178,6 @@
     "source": "pinboard",
     "url": "https://vickiboykis.com/2026/06/15/running-local-models-is-good-now/",
     "title": "Running local models is good now | ✰Vicki Boykis✰"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://aresluna.org/show-your-hands-honor/",
-    "title": "Show your hands honor for the strange power they bring you – Aresluna"
   },
   {
     "source": "pinboard",
@@ -228,6 +218,11 @@
     "source": "pinboard",
     "url": "https://townsquare.cauenapier.com/",
     "title": "TownSquare — a tiny presence layer for websites"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://waxy.org/2026/06/the-wholesale-plagiarism-of-obscure-sorrows/",
+    "title": "The Wholesale Plagiarism of Obscure Sorrows - Waxy.org"
   },
   {
     "source": "pinboard",
