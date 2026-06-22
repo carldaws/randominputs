@@ -12,7 +12,7 @@
   {
     "source": "hn",
     "url": "https://alexkritchevsky.com/2026/05/25/everything-is-logarithms.html",
-    "title": "Everything Is Logarithms"
+    "title": "Everything is logarithms"
   },
   {
     "source": "hn",
@@ -23,6 +23,11 @@
     "source": "hn",
     "url": "https://powerfox.jazzzny.me/",
     "title": "PowerFox Browser"
+  },
+  {
+    "source": "hn",
+    "url": "https://underreacted.leaflet.pub/3mmevu6woys27",
+    "title": "Simple hard way to conjugate Japanese verbs"
   },
   {
     "source": "hn",
@@ -41,8 +46,8 @@
   },
   {
     "source": "hn",
-    "url": "https://underreacted.leaflet.pub/3mmevu6woys27",
-    "title": "Simple hard way to conjugate Japanese verbs"
+    "url": "https://the-criterion-closet.vercel.app",
+    "title": "Show HN: Criterion Closet as a website – pull any of 1,247 films off the shelf"
   },
   {
     "source": "hn",
@@ -51,23 +56,28 @@
   },
   {
     "source": "hn",
+    "url": "https://www.marble.onl/posts/cancel_claude.html",
+    "title": "There is minimal downside to switching to open models"
+  },
+  {
+    "source": "hn",
+    "url": "https://minipcs.zip",
+    "title": "Show HN: MiniPCs.zip – Charting the Pareto frontier of Mini PCs"
+  },
+  {
+    "source": "hn",
+    "url": "https://video.intellios.ai",
+    "title": "Show HN: HN Game Stories – mini-documentary of games that hit the front page"
+  },
+  {
+    "source": "hn",
     "url": "https://indianspeedster.github.io/blog/occupancy-math-mi355x/",
     "title": "Occupancy Math on the AMD MI355X: A From-First-Principles Guide"
   },
   {
     "source": "hn",
-    "url": "https://bunkum.us/2026/06/18/cocktail-ingredients-milp",
-    "title": "Cocktail Optimization, an Integer Programming Problem"
-  },
-  {
-    "source": "hn",
-    "url": "https://fosterelli.co/developers-dont-understand-cors",
-    "title": "Developers don't understand CORS (2019)"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.marble.onl/posts/cancel_claude.html",
-    "title": "There is minimal downside to switching to open models"
+    "url": "https://alexkritchevsky.com/2024/02/28/geometric-algebra.html",
+    "title": "The case against geometric algebra (2024)"
   },
   {
     "source": "lobsters",
@@ -106,6 +116,11 @@
   },
   {
     "source": "lobsters",
+    "url": "https://fzakaria.com/2026/06/21/nix-build-in-under-100-lines",
+    "title": "nix-build in under 100 lines"
+  },
+  {
+    "source": "lobsters",
     "url": "https://cauenapier.com/blog/town-square-the-community-deserves-connection/",
     "title": "Town Square, the community deserves connection"
   },
@@ -128,11 +143,6 @@
     "source": "lobsters",
     "url": "https://overreacted.io/there-are-no-instances-in-atproto/",
     "title": "There Are No Instances in atproto"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://distrobox.it/posts/announcing_distrobox_next/",
-    "title": "Announcing the next generation of Distrobox"
   },
   {
     "source": "pinboard",
