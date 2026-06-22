@@ -6,11 +6,6 @@
   },
   {
     "source": "hn",
-    "url": "https://techstackups.com/comparisons/glm-5.2-vs-opus/",
-    "title": "GLM 5.2 vs. Opus"
-  },
-  {
-    "source": "hn",
     "url": "https://lmao.center/blog/wiggle-accidents/",
     "title": "Help I accidentally a wigglegram"
   },
@@ -26,6 +21,11 @@
   },
   {
     "source": "hn",
+    "url": "https://techstackups.com/comparisons/glm-5.2-vs-opus/",
+    "title": "GLM 5.2 vs. Opus"
+  },
+  {
+    "source": "hn",
     "url": "https://www.marble.onl/posts/cancel_claude.html",
     "title": "There is minimal downside to switching to open models"
   },
@@ -36,8 +36,8 @@
   },
   {
     "source": "hn",
-    "url": "https://sakana.ai/fugu/",
-    "title": "Sakana Fugu"
+    "url": "https://alexkritchevsky.com/2026/05/25/everything-is-logarithms.html",
+    "title": "Everything is logarithms"
   },
   {
     "source": "hn",
@@ -46,28 +46,13 @@
   },
   {
     "source": "hn",
-    "url": "https://alexkritchevsky.com/2026/05/25/everything-is-logarithms.html",
-    "title": "Everything is logarithms"
+    "url": "https://blog.plover.com/prog/fortran-i.html",
+    "title": "My 1992 view of the problems of computer programming in 1992"
   },
   {
     "source": "hn",
-    "url": "https://hawksley.dev/blog/json-ld-explained-for-personal-websites/",
-    "title": "JSON-LD explained for personal websites"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.oldtelephoneroom.ca/1983-northern-telecom-commodore-phone/",
-    "title": "1983 Northern Telecom Commodore Phone"
-  },
-  {
-    "source": "hn",
-    "url": "https://underreacted.leaflet.pub/3mmevu6woys27",
-    "title": "Japanese verb conjugation the simple hard way"
-  },
-  {
-    "source": "hn",
-    "url": "https://powerfox.jazzzny.me/",
-    "title": "PowerFox Browser"
+    "url": "https://sakana.ai/fugu/",
+    "title": "Sakana Fugu"
   },
   {
     "source": "hn",
@@ -76,13 +61,33 @@
   },
   {
     "source": "hn",
-    "url": "https://the-criterion-closet.vercel.app",
-    "title": "Show HN: Criterion Closet as a website – pull any of 1,247 films off the shelf"
+    "url": "https://hawksley.dev/blog/json-ld-explained-for-personal-websites/",
+    "title": "JSON-LD explained for personal websites"
   },
   {
     "source": "hn",
-    "url": "https://sandimetz.com/blog/2016/1/20/the-wrong-abstraction",
-    "title": "Prefer duplication over the wrong abstraction (2016)"
+    "url": "https://underreacted.leaflet.pub/3mmevu6woys27",
+    "title": "Japanese verb conjugation the simple hard way"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.openassistivetech.org/how-i-actually-play-video-games-with-sma-the-tools-i-use-every-day/",
+    "title": "How I play video games with spinal muscular atrophy"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.oldtelephoneroom.ca/1983-northern-telecom-commodore-phone/",
+    "title": "1983 Northern Telecom Commodore Phone"
+  },
+  {
+    "source": "hn",
+    "url": "https://powerfox.jazzzny.me/",
+    "title": "PowerFox Browser"
+  },
+  {
+    "source": "hn",
+    "url": "https://the-criterion-closet.vercel.app",
+    "title": "Show HN: Criterion Closet as a website – pull any of 1,247 films off the shelf"
   },
   {
     "source": "hn",
@@ -91,8 +96,8 @@
   },
   {
     "source": "hn",
-    "url": "https://norvig.com/lispy.html",
-    "title": "(How to Write a (Lisp) Interpreter (In Python)) (2010)"
+    "url": "https://sandimetz.com/blog/2016/1/20/the-wrong-abstraction",
+    "title": "Prefer duplication over the wrong abstraction (2016)"
   },
   {
     "source": "lobsters",
@@ -111,6 +116,16 @@
   },
   {
     "source": "lobsters",
+    "url": "https://www.arp242.net/chestersons-finger.html",
+    "title": "Chesterton's middle finger"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://alexwlchan.net/2026/wonky-web-apis/",
+    "title": "What can wonky APIs tell us about the web?"
+  },
+  {
+    "source": "lobsters",
     "url": "https://jmmv.dev/2026/06/is-anyone-still-using-emacs.html",
     "title": "Is anyone still using Emacs?"
   },
@@ -121,18 +136,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://alexwlchan.net/2026/wonky-web-apis/",
-    "title": "What can wonky APIs tell us about the web?"
-  },
-  {
-    "source": "lobsters",
     "url": "https://kobzol.github.io/rust/2026/06/21/optimizing-sqlx-test-rebuild-time.html",
     "title": "Optimizing #[sqlx::test] rebuild time"
   },
   {
     "source": "lobsters",
-    "url": "https://movq.de/blog/postings/2026-06-20/0/POSTING-en.html",
-    "title": "Windows UI evolution: Clicking an unassociated file"
+    "url": "https://momentsingraphics.de/CameraRays.html",
+    "title": "Computing Camera Rays"
   },
   {
     "source": "lobsters",
@@ -141,23 +151,18 @@
   },
   {
     "source": "lobsters",
+    "url": "https://movq.de/blog/postings/2026-06-20/0/POSTING-en.html",
+    "title": "Windows UI evolution: Clicking an unassociated file"
+  },
+  {
+    "source": "lobsters",
     "url": "https://www.humprog.org/~stephen/blog/2026/06/15/#system-call-instrumentation-on-intel-negative-result",
     "title": "System call instrumentation on Linux/x86-64 using memory-indirect calls (in vain?), part one"
   },
   {
     "source": "lobsters",
-    "url": "https://mariusbancila.ro/blog/2026/06/19/improvements-to-stdformat-in-c26/",
-    "title": "Improvements to std::format in C++26"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://cauenapier.com/blog/town-square-the-community-deserves-connection/",
-    "title": "Town Square, the community deserves connection"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://blog.cloudflare.com/sockmap-tcp-splicing-of-the-future/",
-    "title": "SOCKMAP - TCP splicing of the future (2019)"
+    "url": "https://pkgdemon.github.io/how-a-computer-should-work.html",
+    "title": "How a Computer Should Work — Joe Maloney"
   },
   {
     "source": "pinboard",
