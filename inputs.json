@@ -1,16 +1,6 @@
 [
   {
     "source": "hn",
-    "url": "https://nevergivethemyourface.com/",
-    "title": "Never Give Them Your Face"
-  },
-  {
-    "source": "hn",
-    "url": "https://patrickmccanna.net/the-text-in-claude-codes-extended-thinking-output-is-not-authentic/",
-    "title": "Claude Code's \"extended thinking\" is a summary- not authentic thinking"
-  },
-  {
-    "source": "hn",
     "url": "https://hustvl.github.io/Moebius/",
     "title": "Moebius: 0.2B image inpainting model with 10B-level performance"
   },
@@ -21,13 +11,18 @@
   },
   {
     "source": "hn",
-    "url": "https://www.chevron.com/newsroom/2026/q2/chevron-signs-20-year-power-agreement-with-microsoft-for-west-texas-data-center",
-    "title": "Chevron signs 20-year power agreement with Microsoft for West Texas data center"
+    "url": "https://oak.space/oak/oak",
+    "title": "Show HN: Oak – Git replacement designed for agents"
   },
   {
     "source": "hn",
-    "url": "https://www.righto.com/2020/05/die-analysis-of-8087-math-coprocessors.html",
-    "title": "Die analysis of the 8087 math coprocessor's fast bit shifter (2020)"
+    "url": "https://role-confusion.github.io",
+    "title": "Prompt Injection as Role Confusion"
+  },
+  {
+    "source": "hn",
+    "url": "https://patrickmccanna.net/the-text-in-claude-codes-extended-thinking-output-is-not-authentic/",
+    "title": "The text in Claude Code’s “Extended Thinking” output"
   },
   {
     "source": "hn",
@@ -36,13 +31,23 @@
   },
   {
     "source": "hn",
-    "url": "https://www.wsj.com/pro/sustainable-business/dhl-set-to-transport-goods-on-new-wind-powered-cargo-ships-eca5d5a0",
-    "title": "DHL Set to Transport Goods on New Wind-Powered Cargo Ships"
+    "url": "https://blog.dahl.dev/posts/my-mathematical-regression/",
+    "title": "My Mathematical Regression"
   },
   {
     "source": "hn",
-    "url": "https://www.sidhantbansal.com/2026/Granularity-comes-at-a-cost/",
-    "title": "Granularity comes at a cost – Game Theory"
+    "url": "https://www.righto.com/2020/05/die-analysis-of-8087-math-coprocessors.html",
+    "title": "Die analysis of the 8087 math coprocessor's fast bit shifter (2020)"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.chevron.com/newsroom/2026/q2/chevron-signs-20-year-power-agreement-with-microsoft-for-west-texas-data-center",
+    "title": "Chevron signs 20-year power agreement with Microsoft for West Texas data center"
+  },
+  {
+    "source": "hn",
+    "url": "https://steveharrison.dev/showdirectorypicker-opens-up-a-whole-new-world/",
+    "title": "window.showDirectoryPicker opens up a whole new world"
   },
   {
     "source": "hn",
@@ -61,53 +66,23 @@
   },
   {
     "source": "hn",
-    "url": "https://people.idsia.ch/~juergen/ai-boom-roots-munich-1991.html",
-    "title": "Munich 1991: The Roots of the Current AI Boom"
+    "url": "https://www.sidhantbansal.com/2026/Granularity-comes-at-a-cost/",
+    "title": "Granularity comes at a cost"
   },
   {
     "source": "hn",
-    "url": "https://www.davidrevoy.com/article1154/why-drawing-tablet-brands-wont-collaborate-on-linux-floss-drivers",
-    "title": "Why Drawing Tablet Brands Won't Collaborate on Linux Floss Drivers"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.marble.onl/posts/cancel_claude.html",
-    "title": "There is minimal downside to switching to open models"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.bloomberg.com/news/articles/2026-06-22/alan-greenspan-dies-at-100-led-fed-during-boom-before-2008-bust",
-    "title": "Alan Greenspan Dies at 100; Led Fed During Boom Before 2008 Bust"
-  },
-  {
-    "source": "hn",
-    "url": "https://manticoresearch.com/blog/manticore-search-27-1-5/",
-    "title": "Manticore Search 27.1.5: Auth, sharding, conversational and faster vector search"
-  },
-  {
-    "source": "hn",
-    "url": "https://sakana.ai/fugu/",
-    "title": "Sakana Fugu"
-  },
-  {
-    "source": "hn",
-    "url": "https://blog.plover.com/prog/fortran-i.html",
-    "title": "My 1992 view of the problems of computer programming in 1992"
-  },
-  {
-    "source": "hn",
-    "url": "https://fil-c.org/inlineasm",
-    "title": "Memory Safe Inline Assembly"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.teachmecoolstuff.com/viewarticle/fine-tuning-a-local-llm-to-categorize-questions",
-    "title": "Good results fine tuning a local LLM like Qwen 3:0.6B to categorize questions"
+    "url": "https://www.wsj.com/pro/sustainable-business/dhl-set-to-transport-goods-on-new-wind-powered-cargo-ships-eca5d5a0",
+    "title": "DHL Set to Transport Goods on New Wind-Powered Cargo Ships"
   },
   {
     "source": "lobsters",
     "url": "https://www.arp242.net/chestersons-finger.html",
     "title": "Chesterton's middle finger"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://www.davidrevoy.com/article1154/why-drawing-tablet-brands-wont-collaborate-on-linux-floss-drivers",
+    "title": "Why Drawing Tablet Brands Won't Collaborate on Linux FLOSS Drivers"
   },
   {
     "source": "lobsters",
@@ -136,6 +111,11 @@
   },
   {
     "source": "lobsters",
+    "url": "https://atgreen.github.io/repl-yell/posts/libffi-plan-cache/",
+    "title": "Performance improvements in libffi"
+  },
+  {
+    "source": "lobsters",
     "url": "https://vale.rocks/posts/pda-browsers",
     "title": "Web Browsers on PDAs"
   },
@@ -146,8 +126,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://atgreen.github.io/repl-yell/posts/libffi-plan-cache/",
-    "title": "Performance improvements in libffi"
+    "url": "https://people.idsia.ch/~juergen/ai-boom-roots-munich-1991.html",
+    "title": "Munich 1991: the Roots of the Current AI Boom"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://fil-c.org/inlineasm",
+    "title": "Memory Safe Inline Assembly"
   },
   {
     "source": "lobsters",
@@ -156,82 +141,7 @@
   },
   {
     "source": "lobsters",
-    "url": "https://hyperblam.how/",
-    "title": "Hyperblam: a declarative implementation of the Web Audio API"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://fgiesen.wordpress.com/2026/06/21/pivco-huffman-merge-operations/",
-    "title": "PivCo-Huffman “merge” operations"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://moultano.wordpress.com/2026/06/19/where-to-find-the-colors-your-screen-cant-show-you/",
-    "title": "Where to Find the Colors Your Screen Can’t Show You – Ryan Moulton's Articles"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://akse3d-en.skaperiet.no/",
-    "title": "Akse — 3D modelling for kids and teens"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.submission.directory/",
-    "title": "Submission.Directory · Find where to submit your website."
-  },
-  {
-    "source": "pinboard",
-    "url": "https://vickiboykis.com/2026/06/15/running-local-models-is-good-now/",
-    "title": "Running local models is good now | ✰Vicki Boykis✰"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://aresluna.org/show-your-hands-honor/",
-    "title": "Show your hands honor for the strange power they bring you – Aresluna"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://nelson.cloud/.gitignore-isnt-the-only-way-to-ignore-files-in-git/",
-    "title": ".gitignore Isn’t the Only Way To Ignore Files in Git | Nelson Figueroa"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://overreacted.io/there-are-no-instances-in-atproto/",
-    "title": "There Are No Instances in atproto"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://storiedcolors.com/",
-    "title": "Storied Colors"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.greybeam.ai/blog/duckdb-internals-part-1",
-    "title": "DuckDB Internals: Why is DuckDB Fast? | Greybeam"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://news.ycombinator.com/item?id=48583606",
-    "title": "Advanced Compilers: The Self-Guided Online Course | Hacker News"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://screen.toys/",
-    "title": "screen toys"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://townsquare.cauenapier.com/",
-    "title": "TownSquare — a tiny presence layer for websites"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://waxy.org/2026/06/the-wholesale-plagiarism-of-obscure-sorrows/",
-    "title": "The Wholesale Plagiarism of Obscure Sorrows - Waxy.org"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://aiclambake.com/clamtakes/linear-a/",
-    "title": "AI Engineer Claims to Have Cracked Linear A — AI Clambake"
+    "url": "https://blog.racket-lang.org/2026/06/rhombus-v1.0.html",
+    "title": "Rhombus v1.0: A Racket flavored language with syntax"
   }
 ]
