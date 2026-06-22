@@ -1,6 +1,11 @@
 [
   {
     "source": "hn",
+    "url": "https://blog.dahl.dev/posts/my-mathematical-regression/",
+    "title": "My Mathematical Regression"
+  },
+  {
+    "source": "hn",
     "url": "https://hustvl.github.io/Moebius/",
     "title": "Moebius: 0.2B image inpainting model with 10B-level performance"
   },
@@ -21,18 +26,13 @@
   },
   {
     "source": "hn",
-    "url": "https://patrickmccanna.net/the-text-in-claude-codes-extended-thinking-output-is-not-authentic/",
-    "title": "The text in Claude Code’s “Extended Thinking” output"
-  },
-  {
-    "source": "hn",
     "url": "https://techstackups.com/comparisons/glm-5.2-vs-opus/",
     "title": "GLM 5.2 vs. Opus"
   },
   {
     "source": "hn",
-    "url": "https://blog.dahl.dev/posts/my-mathematical-regression/",
-    "title": "My Mathematical Regression"
+    "url": "https://patrickmccanna.net/the-text-in-claude-codes-extended-thinking-output-is-not-authentic/",
+    "title": "The text in Claude Code’s “Extended Thinking” output"
   },
   {
     "source": "hn",
@@ -41,8 +41,13 @@
   },
   {
     "source": "hn",
-    "url": "https://www.chevron.com/newsroom/2026/q2/chevron-signs-20-year-power-agreement-with-microsoft-for-west-texas-data-center",
-    "title": "Chevron signs 20-year power agreement with Microsoft for West Texas data center"
+    "url": "https://lmao.center/blog/wiggle-accidents/",
+    "title": "Help I accidentally a wigglegram"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.theregister.com/personal-tech/2026/06/22/the-memory-crisis-is-getting-so-bad-that-even-retro-ram-prices-are-going-to-the-moon/5259627",
+    "title": "Memory crisis is getting so bad that even retro RAM prices are going to the Moon"
   },
   {
     "source": "hn",
@@ -51,33 +56,8 @@
   },
   {
     "source": "hn",
-    "url": "https://lmao.center/blog/wiggle-accidents/",
-    "title": "Help I accidentally a wigglegram"
-  },
-  {
-    "source": "hn",
-    "url": "https://david.newgas.net/did-my-old-job-only-exist-because-of-fraud/",
-    "title": "Did my old job only exist because of fraud?"
-  },
-  {
-    "source": "hn",
-    "url": "https://apertvs.ai/",
-    "title": "Apertus – Open Foundation Model for Sovereign AI"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.sidhantbansal.com/2026/Granularity-comes-at-a-cost/",
-    "title": "Granularity comes at a cost"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.wsj.com/pro/sustainable-business/dhl-set-to-transport-goods-on-new-wind-powered-cargo-ships-eca5d5a0",
-    "title": "DHL Set to Transport Goods on New Wind-Powered Cargo Ships"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://www.arp242.net/chestersons-finger.html",
-    "title": "Chesterton's middle finger"
+    "url": "https://www.chevron.com/newsroom/2026/q2/chevron-signs-20-year-power-agreement-with-microsoft-for-west-texas-data-center",
+    "title": "Chevron signs 20-year power agreement with Microsoft for West Texas data center"
   },
   {
     "source": "lobsters",
@@ -86,8 +66,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://ruurtjan.com/articles/p99-0ms-autocomplete-for-240-million-domain-names",
-    "title": "p99 0ms* autocomplete for 240 million domain names"
+    "url": "https://www.arp242.net/chestersons-finger.html",
+    "title": "Chesterton's middle finger"
   },
   {
     "source": "lobsters",
@@ -96,8 +76,18 @@
   },
   {
     "source": "lobsters",
+    "url": "https://ruurtjan.com/articles/p99-0ms-autocomplete-for-240-million-domain-names",
+    "title": "p99 0ms* autocomplete for 240 million domain names"
+  },
+  {
+    "source": "lobsters",
     "url": "https://pkgdemon.github.io/how-a-computer-should-work.html",
     "title": "How a Computer Should Work"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://blog.racket-lang.org/2026/06/rhombus-v1.0.html",
+    "title": "Rhombus v1.0: A Racket flavored language with syntax"
   },
   {
     "source": "lobsters",
@@ -108,6 +98,11 @@
     "source": "lobsters",
     "url": "https://fzakaria.com/2026/06/21/nix-build-in-under-100-lines",
     "title": "nix-build in under 100 lines"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://pointieststick.com/2026/06/22/network-shares-still-talking-about-them-in-2026/",
+    "title": "Network shares: still talking about them in 2026"
   },
   {
     "source": "lobsters",
@@ -131,17 +126,7 @@
   },
   {
     "source": "lobsters",
-    "url": "https://fil-c.org/inlineasm",
-    "title": "Memory Safe Inline Assembly"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://alexwlchan.net/2026/wonky-web-apis/",
-    "title": "What can wonky APIs tell us about the web?"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://blog.racket-lang.org/2026/06/rhombus-v1.0.html",
-    "title": "Rhombus v1.0: A Racket flavored language with syntax"
+    "url": "https://hyperblam.how/",
+    "title": "Hyperblam: a declarative implementation of the Web Audio API"
   }
 ]
