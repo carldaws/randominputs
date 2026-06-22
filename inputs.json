@@ -6,23 +6,18 @@
   },
   {
     "source": "hn",
+    "url": "https://arun.is/blog/japan-symbols/",
+    "title": "Japanese symbols that speak without words"
+  },
+  {
+    "source": "hn",
     "url": "https://hustvl.github.io/Moebius/",
     "title": "Moebius: 0.2B image inpainting model with 10B-level performance"
   },
   {
     "source": "hn",
-    "url": "https://docs.deno.com/runtime/desktop/",
-    "title": "Deno Desktop"
-  },
-  {
-    "source": "hn",
     "url": "https://oak.space/oak/oak",
-    "title": "Show HN: Oak – Git replacement designed for agents"
-  },
-  {
-    "source": "hn",
-    "url": "https://role-confusion.github.io",
-    "title": "Prompt Injection as Role Confusion"
+    "title": "Show HN: Oak – Git alternative designed for agents"
   },
   {
     "source": "hn",
@@ -31,8 +26,13 @@
   },
   {
     "source": "hn",
-    "url": "https://patrickmccanna.net/the-text-in-claude-codes-extended-thinking-output-is-not-authentic/",
-    "title": "The text in Claude Code’s “Extended Thinking” output"
+    "url": "https://role-confusion.github.io",
+    "title": "Prompt Injection as Role Confusion"
+  },
+  {
+    "source": "hn",
+    "url": "https://fgiesen.wordpress.com/2026/06/21/pivco-huffman-merge-operations/",
+    "title": "PivCo-Huffman \"Merge\" Operations"
   },
   {
     "source": "hn",
@@ -41,8 +41,18 @@
   },
   {
     "source": "hn",
-    "url": "https://lmao.center/blog/wiggle-accidents/",
-    "title": "Help I accidentally a wigglegram"
+    "url": "https://www.displaymate.com/",
+    "title": "DisplayMate"
+  },
+  {
+    "source": "hn",
+    "url": "https://patrickmccanna.net/the-text-in-claude-codes-extended-thinking-output-is-not-authentic/",
+    "title": "The text in Claude Code’s “Extended Thinking” output"
+  },
+  {
+    "source": "hn",
+    "url": "https://urflow.bearblog.dev/jobs-and-software-is-fucked/",
+    "title": "Jobs and Software Is Fucked"
   },
   {
     "source": "hn",
@@ -51,13 +61,18 @@
   },
   {
     "source": "hn",
-    "url": "https://steveharrison.dev/showdirectorypicker-opens-up-a-whole-new-world/",
-    "title": "window.showDirectoryPicker opens up a whole new world"
+    "url": "https://docs.deno.com/runtime/desktop/",
+    "title": "Deno Desktop"
   },
   {
     "source": "hn",
     "url": "https://www.chevron.com/newsroom/2026/q2/chevron-signs-20-year-power-agreement-with-microsoft-for-west-texas-data-center",
     "title": "Chevron signs 20-year power agreement with Microsoft for West Texas data center"
+  },
+  {
+    "source": "hn",
+    "url": "https://lmao.center/blog/wiggle-accidents/",
+    "title": "Help I accidentally a wigglegram"
   },
   {
     "source": "lobsters",
@@ -81,33 +96,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://pkgdemon.github.io/how-a-computer-should-work.html",
-    "title": "How a Computer Should Work"
-  },
-  {
-    "source": "lobsters",
     "url": "https://blog.racket-lang.org/2026/06/rhombus-v1.0.html",
     "title": "Rhombus v1.0: A Racket flavored language with syntax"
   },
   {
     "source": "lobsters",
-    "url": "https://postmarketos.org/blog/2026/06/21/v26.06-release/",
-    "title": "postmarketOS v26.06 (Alpen Avocado) released"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://fzakaria.com/2026/06/21/nix-build-in-under-100-lines",
-    "title": "nix-build in under 100 lines"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://pointieststick.com/2026/06/22/network-shares-still-talking-about-them-in-2026/",
-    "title": "Network shares: still talking about them in 2026"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://atgreen.github.io/repl-yell/posts/libffi-plan-cache/",
-    "title": "Performance improvements in libffi"
+    "url": "https://pkgdemon.github.io/how-a-computer-should-work.html",
+    "title": "How a Computer Should Work"
   },
   {
     "source": "lobsters",
@@ -116,17 +111,32 @@
   },
   {
     "source": "lobsters",
+    "url": "https://postmarketos.org/blog/2026/06/21/v26.06-release/",
+    "title": "postmarketOS v26.06 (Alpen Avocado) released"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://pointieststick.com/2026/06/22/network-shares-still-talking-about-them-in-2026/",
+    "title": "Network shares: still talking about them in 2026"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://fzakaria.com/2026/06/21/nix-build-in-under-100-lines",
+    "title": "nix-build in under 100 lines"
+  },
+  {
+    "source": "lobsters",
     "url": "https://momentsingraphics.de/CameraRays.html",
     "title": "Computing Camera Rays"
   },
   {
     "source": "lobsters",
-    "url": "https://people.idsia.ch/~juergen/ai-boom-roots-munich-1991.html",
-    "title": "Munich 1991: the Roots of the Current AI Boom"
+    "url": "https://hyperblam.how/",
+    "title": "Hyperblam: a declarative implementation of the Web Audio API"
   },
   {
     "source": "lobsters",
-    "url": "https://hyperblam.how/",
-    "title": "Hyperblam: a declarative implementation of the Web Audio API"
+    "url": "https://atgreen.github.io/repl-yell/posts/libffi-plan-cache/",
+    "title": "Performance improvements in libffi"
   }
 ]
