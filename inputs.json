@@ -1,8 +1,8 @@
 [
   {
     "source": "hn",
-    "url": "https://swelljoe.com/post/will-it-mythos/",
-    "title": "Will It Mythos?"
+    "url": "https://www.stephendiehl.com/posts/bad_place_2026/",
+    "title": "Crypto in 2026: Oh, This Is the Bad Place"
   },
   {
     "source": "hn",
@@ -21,13 +21,13 @@
   },
   {
     "source": "hn",
-    "url": "https://blog.roboflow.com/yolo26/",
-    "title": "An Introduction to YOLO26"
+    "url": "https://owl.billpg.com/8086-segmented-memory-was-a-good-idea-almost/",
+    "title": "8086 Segmented Memory was a good idea"
   },
   {
     "source": "hn",
-    "url": "https://mariusbancila.ro/blog/2026/06/19/improvements-to-stdformat-in-c26/",
-    "title": "Improvements to Std:Format in C++26"
+    "url": "https://swelljoe.com/post/will-it-mythos/",
+    "title": "Will It Mythos?"
   },
   {
     "source": "hn",
@@ -36,13 +36,23 @@
   },
   {
     "source": "hn",
-    "url": "https://hustvl.github.io/Moebius/",
-    "title": "Moebius: 0.2B image inpainting model with 10B-level performance"
+    "url": "https://mariusbancila.ro/blog/2026/06/19/improvements-to-stdformat-in-c26/",
+    "title": "Improvements to Std:Format in C++26"
   },
   {
     "source": "hn",
-    "url": "https://blog.hydroponictrash.solar/cyberdecks-going-analog-and-convivial-technology/",
-    "title": "Cyberdecks, going analog, and convivial technology"
+    "url": "https://blog.roboflow.com/yolo26/",
+    "title": "An Introduction to YOLO26"
+  },
+  {
+    "source": "hn",
+    "url": "https://selforg-npa.github.io/",
+    "title": "Show HN: Neural Particle Automata"
+  },
+  {
+    "source": "hn",
+    "url": "https://hustvl.github.io/Moebius/",
+    "title": "Moebius: 0.2B image inpainting model with 10B-level performance"
   },
   {
     "source": "hn",
@@ -51,13 +61,8 @@
   },
   {
     "source": "hn",
-    "url": "https://captnemo.in/blog/2026/06/17/package-managers-need-hooks/",
-    "title": "Package Managers need global hooks"
-  },
-  {
-    "source": "hn",
-    "url": "https://deepbluedynamics.com/blog/lume-retrieval-primitives",
-    "title": "How Lume Works: The Retrieval Primitives"
+    "url": "https://blog.hydroponictrash.solar/cyberdecks-going-analog-and-convivial-technology/",
+    "title": "Cyberdecks, going analog, and convivial technology"
   },
   {
     "source": "hn",
@@ -66,8 +71,8 @@
   },
   {
     "source": "hn",
-    "url": "https://arun.is/blog/japan-symbols/",
-    "title": "Japanese symbols that speak without words"
+    "url": "https://cowboystatedaily.com/2026/06/18/giant-banana-pulled-over-in-montana-driver-says-cops-have-stopped-him-100s-of-times/",
+    "title": "Giant Banana Pulled Over: Driver Says Cops Have Stopped Him 100s of Times"
   },
   {
     "source": "lobsters",
@@ -86,8 +91,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://fzakaria.com/2026/06/21/nix-needs-relocatable-binaries",
-    "title": "Nix needs relocatable binaries"
+    "url": "https://nega.tv/posts/low-tech-ai-of-elden-ring.html",
+    "title": "The Low-Tech AI Of Elden Ring"
   },
   {
     "source": "lobsters",
@@ -96,8 +101,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://pkgdemon.github.io/how-a-computer-should-work.html",
-    "title": "How a Computer Should Work"
+    "url": "https://fzakaria.com/2026/06/21/nix-needs-relocatable-binaries",
+    "title": "Nix needs relocatable binaries"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://www.markround.com/blog/2026/06/17/25-its-only-when-you-look-back/",
+    "title": "It’s Only When You Look Back"
   },
   {
     "source": "lobsters",
@@ -106,13 +116,28 @@
   },
   {
     "source": "lobsters",
+    "url": "https://pkgdemon.github.io/how-a-computer-should-work.html",
+    "title": "How a Computer Should Work"
+  },
+  {
+    "source": "lobsters",
     "url": "https://docs.deno.com/runtime/desktop/",
     "title": "Deno Desktop apps"
   },
   {
     "source": "lobsters",
-    "url": "https://nega.tv/posts/low-tech-ai-of-elden-ring.html",
-    "title": "The Low-Tech AI Of Elden Ring"
+    "url": "https://akselmo.dev/posts/please-keep-code-descriptions-simple/",
+    "title": "Please keep code descriptions simple"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://www.freedesktop.org/software/systemd/man/257/systemd-bsod.service.html",
+    "title": "systemd-bsod.service"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://alexwlchan.net/2021/slashes/",
+    "title": "A tale of two path separators (2021)"
   },
   {
     "source": "lobsters",
@@ -123,26 +148,6 @@
     "source": "lobsters",
     "url": "https://vale.rocks/posts/pda-browsers",
     "title": "Web Browsers on PDAs"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://www.markround.com/blog/2026/06/17/25-its-only-when-you-look-back/",
-    "title": "It’s Only When You Look Back"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://blog.platypush.tech/article/Local-voice-assistant",
-    "title": "A fully local voice assistant setup"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://www.freedesktop.org/software/systemd/man/257/systemd-bsod.service.html",
-    "title": "systemd-bsod.service"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://memcached.org/blog/how-long-for-real/",
-    "title": "How Long Does That Response Take... For Real?"
   },
   {
     "source": "pinboard",
