@@ -1,6 +1,16 @@
 [
   {
     "source": "hn",
+    "url": "https://www.openculture.com/freeonlinecourses",
+    "title": "1,700 Free Online Courses from Top Universities"
+  },
+  {
+    "source": "hn",
+    "url": "https://jchri.st/blog/in-praise-of-memcached/",
+    "title": "In Praise of Memcached"
+  },
+  {
+    "source": "hn",
     "url": "https://blog.hydroponictrash.solar/cyberdecks-going-analog-and-convivial-technology/",
     "title": "Cyberdecks, going analog, and convivial technology"
   },
@@ -36,13 +46,13 @@
   },
   {
     "source": "hn",
-    "url": "https://mrmarket.lol/job-application-asked-for-my-sat-scores/",
-    "title": "Job application asked for my SAT scores"
+    "url": "https://xenodium.com/ytr-youtube-radio-for-emacs",
+    "title": "ytr: YouTube Radio for Emacs"
   },
   {
     "source": "hn",
-    "url": "https://www.displaymate.com/",
-    "title": "DisplayMate"
+    "url": "https://mrmarket.lol/job-application-asked-for-my-sat-scores/",
+    "title": "Job application asked for my SAT scores"
   },
   {
     "source": "hn",
@@ -51,23 +61,8 @@
   },
   {
     "source": "hn",
-    "url": "https://fgiesen.wordpress.com/2026/06/21/pivco-huffman-merge-operations/",
-    "title": "PivCo-Huffman “merge” operations"
-  },
-  {
-    "source": "hn",
-    "url": "https://xenodium.com/ytr-youtube-radio-for-emacs",
-    "title": "ytr: YouTube Radio for Emacs"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.nyu.edu/about/news-publications/news/2026/june/how-do-flocking-birds-and-schools-of-fish-move--new-research-off.html",
-    "title": "How do flocking birds and schools of fish move?"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.righto.com/2020/05/die-analysis-of-8087-math-coprocessors.html",
-    "title": "Die analysis of the 8087 math coprocessor's fast bit shifter (2020)"
+    "url": "https://www.displaymate.com/",
+    "title": "DisplayMate"
   },
   {
     "source": "hn",
@@ -78,11 +73,6 @@
     "source": "hn",
     "url": "https://docs.deno.com/runtime/desktop/",
     "title": "Deno Desktop"
-  },
-  {
-    "source": "hn",
-    "url": "https://patrickmccanna.net/the-text-in-claude-codes-extended-thinking-output-is-not-authentic/",
-    "title": "The text in Claude Code’s “Extended Thinking” output"
   },
   {
     "source": "lobsters",
@@ -116,13 +106,18 @@
   },
   {
     "source": "lobsters",
+    "url": "https://vale.rocks/posts/pda-browsers",
+    "title": "Web Browsers on PDAs"
+  },
+  {
+    "source": "lobsters",
     "url": "https://pointieststick.com/2026/06/22/network-shares-still-talking-about-them-in-2026/",
     "title": "Network shares: still talking about them in 2026"
   },
   {
     "source": "lobsters",
-    "url": "https://vale.rocks/posts/pda-browsers",
-    "title": "Web Browsers on PDAs"
+    "url": "https://blog.platypush.tech/article/Local-voice-assistant",
+    "title": "A fully local voice assistant setup"
   },
   {
     "source": "lobsters",
@@ -133,11 +128,6 @@
     "source": "lobsters",
     "url": "https://postmarketos.org/blog/2026/06/21/v26.06-release/",
     "title": "postmarketOS v26.06 (Alpen Avocado) released"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://fzakaria.com/2026/06/21/nix-build-in-under-100-lines",
-    "title": "nix-build in under 100 lines"
   },
   {
     "source": "pinboard",
