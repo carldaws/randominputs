@@ -1,23 +1,38 @@
 [
   {
     "source": "hn",
+    "url": "https://www.beautifulpublicdata.com/san-diego-photologs-from-the-1970s/",
+    "title": "San Diego photologs from the 1970s"
+  },
+  {
+    "source": "hn",
     "url": "https://tikz.dev/editor/",
     "title": "Show HN: TikZ Editor – WYSIWYG editor for figures in LaTeX"
   },
   {
     "source": "hn",
-    "url": "https://www.beautifulpublicdata.com/san-diego-photologs-from-the-1970s/",
-    "title": "San Diego Photologs from the 1970s"
-  },
-  {
-    "source": "hn",
-    "url": "https://pluralistic.net/2026/06/23/destroy-the-village/",
-    "title": "Spying on kids to save kids from spying is stupid"
+    "url": "https://sofiakodar.github.io/posts/becomingmanager/",
+    "title": "The truth about being a manager"
   },
   {
     "source": "hn",
     "url": "https://lift4d.github.io/",
     "title": "Lift4D: Harmonizing Single-View 3D Estimation for 4D Reconstruction In-the-Wild"
+  },
+  {
+    "source": "hn",
+    "url": "https://lucumr.pocoo.org/2026/6/23/the-coming-loop/",
+    "title": "The Coming Loop"
+  },
+  {
+    "source": "hn",
+    "url": "https://blog.zarfhome.com/2026/06/steam-machine-oh-no",
+    "title": "I am a person who will look at the Steam Machine and cry"
+  },
+  {
+    "source": "hn",
+    "url": "https://status.claude.com/incidents/jbhf20wjmzrf",
+    "title": "Elevated error rate across multiple models"
   },
   {
     "source": "hn",
@@ -31,18 +46,8 @@
   },
   {
     "source": "hn",
-    "url": "https://noteflakes.com/articles/2026-06-18-syntropy-modules",
-    "title": "Rethinking Modularity in Ruby Applications"
-  },
-  {
-    "source": "hn",
-    "url": "https://dandylyons.github.io/treedocs/",
-    "title": "Show HN: Treedocs: Documentation that automatically checks for staleness"
-  },
-  {
-    "source": "hn",
-    "url": "https://community.ibm.com/community/user/blogs/elizabeth-k-joseph1/2026/06/18/linuxone-open-source-report-may-2026",
-    "title": "Open Source for IBM Z and LinuxONE"
+    "url": "https://atgreen.github.io/repl-yell/posts/libffi-plan-cache/",
+    "title": "Performance Improvements in Libffi"
   },
   {
     "source": "hn",
@@ -51,8 +56,13 @@
   },
   {
     "source": "hn",
-    "url": "https://nand2mario.github.io/posts/2026/80386_early_start/",
-    "title": "80386 Early Start Memory Access"
+    "url": "https://community.ibm.com/community/user/blogs/elizabeth-k-joseph1/2026/06/18/linuxone-open-source-report-may-2026",
+    "title": "Open Source for IBM Z and LinuxONE"
+  },
+  {
+    "source": "hn",
+    "url": "https://dandylyons.github.io/treedocs/",
+    "title": "Show HN: Treedocs: Documentation that automatically checks for staleness"
   },
   {
     "source": "hn",
@@ -61,23 +71,13 @@
   },
   {
     "source": "hn",
-    "url": "https://blog.arusekk.pl/posts/lossless-gif-recompression/",
-    "title": "Lossless GIF recompression via exhaustive search"
+    "url": "https://pluralistic.net/2026/06/23/destroy-the-village/",
+    "title": "What we call \"age verification\" is actually mass surveillance"
   },
   {
     "source": "hn",
-    "url": "https://www.stephendiehl.com/posts/bad_place_2026/",
-    "title": "Crypto in 2026: Oh, This Is the Bad Place"
-  },
-  {
-    "source": "hn",
-    "url": "https://selforg-npa.github.io/",
-    "title": "Show HN: Neural Particle Automata"
-  },
-  {
-    "source": "hn",
-    "url": "https://jchri.st/blog/in-praise-of-memcached/",
-    "title": "In praise of memcached"
+    "url": "https://nand2mario.github.io/posts/2026/80386_early_start/",
+    "title": "80386 Early Start Memory Access"
   },
   {
     "source": "lobsters",
@@ -106,13 +106,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://www.arp242.net/chestersons-finger.html",
-    "title": "Chesterton's middle finger"
+    "url": "https://blobly.medv.io/",
+    "title": "Blobly"
   },
   {
     "source": "lobsters",
-    "url": "https://blobly.medv.io/",
-    "title": "Blobly"
+    "url": "https://www.arp242.net/chestersons-finger.html",
+    "title": "Chesterton's middle finger"
   },
   {
     "source": "lobsters",
@@ -121,23 +121,23 @@
   },
   {
     "source": "lobsters",
-    "url": "https://xenodium.com/ytr-youtube-radio-for-emacs",
-    "title": "ytr: YouTube radio for Emacs"
-  },
-  {
-    "source": "lobsters",
     "url": "https://blog.racket-lang.org/2026/06/rhombus-v1.0.html",
     "title": "Rhombus v1.0: A Racket flavored language with syntax"
   },
   {
     "source": "lobsters",
-    "url": "https://fzakaria.com/2026/06/21/nix-needs-relocatable-binaries",
-    "title": "Nix needs relocatable binaries"
+    "url": "https://xenodium.com/ytr-youtube-radio-for-emacs",
+    "title": "ytr: YouTube radio for Emacs"
   },
   {
     "source": "lobsters",
     "url": "https://alexwlchan.net/2021/slashes/",
     "title": "A tale of two path separators (2021)"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://fzakaria.com/2026/06/21/nix-needs-relocatable-binaries",
+    "title": "Nix needs relocatable binaries"
   },
   {
     "source": "lobsters",
@@ -148,110 +148,5 @@
     "source": "lobsters",
     "url": "https://ruurtjan.com/articles/p99-0ms-autocomplete-for-240-million-domain-names",
     "title": "p99 0ms* autocomplete for 240 million domain names"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://pkgdemon.github.io/how-a-computer-should-work.html",
-    "title": "How a Computer Should Work"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://moultano.wordpress.com/2026/06/19/where-to-find-the-colors-your-screen-cant-show-you/",
-    "title": "Where to Find the Colors Your Screen Can’t Show You – Ryan Moulton's Articles"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://docs.deno.com/runtime/desktop/",
-    "title": "Desktop apps | Deno Docs"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://nevergivethemyourface.com/",
-    "title": "Never Give Them Your Face"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://townsquare.cauenapier.com/",
-    "title": "TownSquare — a tiny presence layer for websites"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://hawksley.dev/blog/json-ld-explained-for-personal-websites/",
-    "title": "JSON-LD Explained for Personal Websites | Ethan Hawksley"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://european.social/",
-    "title": "The European Social Stack — An open declaration"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://alexkritchevsky.com/2026/05/25/everything-is-logarithms.html",
-    "title": "Everything Is Logarithms"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.marble.onl/posts/cancel_claude.html",
-    "title": "cancel_claude"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://screen.toys/",
-    "title": "screen toys"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://overreacted.io/there-are-no-instances-in-atproto/",
-    "title": "There Are No Instances in atproto"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://aresluna.org/show-your-hands-honor/",
-    "title": "Show your hands honor for the strange power they bring you – Aresluna"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://techstackups.com/comparisons/glm-5.2-vs-opus/",
-    "title": "GLM-5.2 vs Claude Opus | Tech Stackups"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://apertvs.ai/",
-    "title": "APERTVS.ai Fully Open Foundation Model for Sovereign AI Developed by the Swiss AI Initiative as a collaborative effort between EPFL, ETH Zurich, and CSCS. Open weights, open data, open science"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://hyperblam.how/",
-    "title": "Hyperblam Docs Home : HYPERBLAM"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.openculture.com/freeonlinecourses",
-    "title": "1200 Free Online Courses from Top Universities | Open Culture"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://vickiboykis.com/2026/06/15/running-local-models-is-good-now/",
-    "title": "Running local models is good now | ✰Vicki Boykis✰"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://waxy.org/2026/06/the-wholesale-plagiarism-of-obscure-sorrows/",
-    "title": "The Wholesale Plagiarism of Obscure Sorrows - Waxy.org"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://matthewbutterick.com/extinction-level-capitalism.html",
-    "title": "Matthew Butterick | Extinction-level capitalism"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.robinsloan.com/lab/de-datafication/",
-    "title": "De-datafication"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://cs336.stanford.edu/spring2025/",
-    "title": "Stanford CS336 | Language Modeling from Scratch (2025)"
   }
 ]
