@@ -16,23 +16,13 @@
   },
   {
     "source": "hn",
-    "url": "https://english.news.cn/20260624/65f1b6192cd947e28849776a5aef05c6/c.html",
-    "title": "All train services in Germany halted after train radio communications disruption"
-  },
-  {
-    "source": "hn",
-    "url": "https://tikz.dev/editor/",
-    "title": "Show HN: TikZ Editor – WYSIWYG editor for figures in LaTeX"
-  },
-  {
-    "source": "hn",
     "url": "https://dynomight.net/vitamin-d/",
     "title": "The worthlessness of Vitamin D is mildly exaggerated"
   },
   {
     "source": "hn",
     "url": "https://hai.stanford.edu/news/ai-hiring-tools-can-yield-racial-bias-and-systemic-rejection",
-    "title": "AI Hiring Tools Yield Racial Bias and Systemic Rejection; 26% Black & 15% Asian"
+    "title": "Algorithmic Monocultures in Hiring"
   },
   {
     "source": "hn",
@@ -41,13 +31,18 @@
   },
   {
     "source": "hn",
-    "url": "https://www.beautifulpublicdata.com/san-diego-photologs-from-the-1970s/",
-    "title": "San Diego photologs from the 1970s"
+    "url": "https://lift4d.github.io/",
+    "title": "Lift4D: Harmonizing Single-View 3D Estimation for 4D Reconstruction In-the-Wild"
   },
   {
     "source": "hn",
-    "url": "https://lift4d.github.io/",
-    "title": "Lift4D: Harmonizing Single-View 3D Estimation for 4D Reconstruction In-the-Wild"
+    "url": "https://galton.org/fingerprints/faulds-1880-nature-furrows.pdf",
+    "title": "On the Skin-Furrows of the Hand (1880) [pdf]"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.beautifulpublicdata.com/san-diego-photologs-from-the-1970s/",
+    "title": "San Diego photologs from the 1970s"
   },
   {
     "source": "hn",
@@ -58,21 +53,6 @@
     "source": "hn",
     "url": "https://atgreen.github.io/repl-yell/posts/libffi-plan-cache/",
     "title": "Performance Improvements in Libffi"
-  },
-  {
-    "source": "hn",
-    "url": "https://no-ai-coauthors.dev",
-    "title": "No AI Co-Authors. A Manifesto"
-  },
-  {
-    "source": "hn",
-    "url": "https://nega.tv/posts/low-tech-ai-of-elden-ring.html",
-    "title": "The Low-Tech AI of Elden Ring"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.404media.co/madison-square-garden-made-dossier-on-activists-who-opposed-facial-recognition/",
-    "title": "MSG Made Dossier on Activists Who Opposed Facial Recognition"
   },
   {
     "source": "lobsters",
@@ -101,6 +81,11 @@
   },
   {
     "source": "lobsters",
+    "url": "https://nega.tv/posts/low-tech-ai-of-elden-ring.html",
+    "title": "The Low-Tech AI Of Elden Ring"
+  },
+  {
+    "source": "lobsters",
     "url": "https://blobly.medv.io/",
     "title": "Blobly"
   },
@@ -116,18 +101,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://blog.racket-lang.org/2026/06/rhombus-v1.0.html",
-    "title": "Rhombus v1.0: A Racket flavored language with syntax"
-  },
-  {
-    "source": "lobsters",
     "url": "https://xenodium.com/ytr-youtube-radio-for-emacs",
     "title": "ytr: YouTube radio for Emacs"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://fzakaria.com/2026/06/21/nix-needs-relocatable-binaries",
-    "title": "Nix needs relocatable binaries"
   },
   {
     "source": "lobsters",
@@ -136,13 +111,23 @@
   },
   {
     "source": "lobsters",
-    "url": "https://shaping.systems/blog/ai-sucks-hating-it-is-not-enough/",
-    "title": "AI sucks. Hating it is not enough"
+    "url": "https://blog.racket-lang.org/2026/06/rhombus-v1.0.html",
+    "title": "Rhombus v1.0: A Racket flavored language with syntax"
   },
   {
     "source": "lobsters",
     "url": "https://data-star.dev/essays/datastar_its_pretty_good",
     "title": "Datastar – It’s Pretty Good"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://fzakaria.com/2026/06/21/nix-needs-relocatable-binaries",
+    "title": "Nix needs relocatable binaries"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://shaping.systems/blog/ai-sucks-hating-it-is-not-enough/",
+    "title": "AI sucks. Hating it is not enough"
   },
   {
     "source": "pinboard",
