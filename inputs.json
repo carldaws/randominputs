@@ -6,13 +6,13 @@
   },
   {
     "source": "hn",
-    "url": "https://jchri.st/blog/in-praise-of-memcached/",
-    "title": "In praise of memcached"
+    "url": "https://www.wsj.com/business/media/polymarket-social-media-bets-prediction-market-441cdeb5?st=HhTZY2",
+    "title": "Polymarket has flooded social media with deceptive videos by paid creators"
   },
   {
     "source": "hn",
-    "url": "https://www.wsj.com/business/media/polymarket-social-media-bets-prediction-market-441cdeb5?st=HhTZY2",
-    "title": "Polymarket has flooded social media with deceptive videos by paid creators"
+    "url": "https://jchri.st/blog/in-praise-of-memcached/",
+    "title": "In praise of memcached"
   },
   {
     "source": "hn",
@@ -21,23 +21,13 @@
   },
   {
     "source": "hn",
-    "url": "https://blog.hydroponictrash.solar/cyberdecks-going-analog-and-convivial-technology/",
-    "title": "Cyberdecks, going analog, and convivial technology"
-  },
-  {
-    "source": "hn",
     "url": "https://blog.dahl.dev/posts/my-mathematical-regression/",
     "title": "My Mathematical Regression"
   },
   {
     "source": "hn",
-    "url": "https://arun.is/blog/japan-symbols/",
-    "title": "Japanese symbols that speak without words"
-  },
-  {
-    "source": "hn",
-    "url": "https://captnemo.in/blog/2026/06/17/package-managers-need-hooks/",
-    "title": "Package Managers need global hooks"
+    "url": "https://blog.hydroponictrash.solar/cyberdecks-going-analog-and-convivial-technology/",
+    "title": "Cyberdecks, going analog, and convivial technology"
   },
   {
     "source": "hn",
@@ -46,8 +36,8 @@
   },
   {
     "source": "hn",
-    "url": "https://cowboystatedaily.com/2026/06/18/giant-banana-pulled-over-in-montana-driver-says-cops-have-stopped-him-100s-of-times/",
-    "title": "Giant Banana Pulled Over: Driver Says Cops Have Stopped Him 100s of Times"
+    "url": "https://arun.is/blog/japan-symbols/",
+    "title": "Japanese symbols that speak without words"
   },
   {
     "source": "hn",
@@ -56,8 +46,13 @@
   },
   {
     "source": "hn",
-    "url": "https://yoebuild.org/blog/time-for-a-new-build-system/",
-    "title": "Is it time for a new Embedded Linux build system?"
+    "url": "https://captnemo.in/blog/2026/06/17/package-managers-need-hooks/",
+    "title": "Package Managers need global hooks"
+  },
+  {
+    "source": "hn",
+    "url": "https://deepbluedynamics.com/blog/lume-retrieval-primitives",
+    "title": "How Lume Works: The Retrieval Primitives"
   },
   {
     "source": "hn",
@@ -71,13 +66,18 @@
   },
   {
     "source": "hn",
-    "url": "https://mrmarket.lol/job-application-asked-for-my-sat-scores/",
-    "title": "Job application asked for my SAT scores"
+    "url": "https://www.chevron.com/newsroom/2026/q2/chevron-signs-20-year-power-agreement-with-microsoft-for-west-texas-data-center",
+    "title": "Chevron signs 20-year power agreement with Microsoft for West Texas data center"
   },
   {
     "source": "hn",
     "url": "https://xenodium.com/ytr-youtube-radio-for-emacs",
     "title": "ytr: YouTube Radio for Emacs"
+  },
+  {
+    "source": "hn",
+    "url": "https://docs.deno.com/runtime/desktop/",
+    "title": "Deno Desktop"
   },
   {
     "source": "lobsters",
@@ -111,8 +111,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://docs.deno.com/runtime/desktop/",
-    "title": "Deno Desktop apps"
+    "url": "https://blobly.medv.io/",
+    "title": "Blobly"
   },
   {
     "source": "lobsters",
@@ -126,16 +126,6 @@
   },
   {
     "source": "lobsters",
-    "url": "https://blobly.medv.io/",
-    "title": "Blobly"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://alexwlchan.net/2021/slashes/",
-    "title": "A tale of two path separators (2021)"
-  },
-  {
-    "source": "lobsters",
     "url": "https://blog.platypush.tech/article/Local-voice-assistant",
     "title": "A fully local voice assistant setup"
   },
@@ -143,6 +133,11 @@
     "source": "lobsters",
     "url": "https://www.freedesktop.org/software/systemd/man/257/systemd-bsod.service.html",
     "title": "systemd-bsod.service"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://alexwlchan.net/2021/slashes/",
+    "title": "A tale of two path separators (2021)"
   },
   {
     "source": "lobsters",
@@ -156,58 +151,8 @@
   },
   {
     "source": "pinboard",
-    "url": "https://akse3d-en.skaperiet.no/",
-    "title": "Akse — 3D modelling for kids and teens"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.submission.directory/",
-    "title": "Submission.Directory · Find where to submit your website."
-  },
-  {
-    "source": "pinboard",
-    "url": "https://vickiboykis.com/2026/06/15/running-local-models-is-good-now/",
-    "title": "Running local models is good now | ✰Vicki Boykis✰"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://aresluna.org/show-your-hands-honor/",
-    "title": "Show your hands honor for the strange power they bring you – Aresluna"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://nelson.cloud/.gitignore-isnt-the-only-way-to-ignore-files-in-git/",
-    "title": ".gitignore Isn’t the Only Way To Ignore Files in Git | Nelson Figueroa"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://overreacted.io/there-are-no-instances-in-atproto/",
-    "title": "There Are No Instances in atproto"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://storiedcolors.com/",
-    "title": "Storied Colors"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.greybeam.ai/blog/duckdb-internals-part-1",
-    "title": "DuckDB Internals: Why is DuckDB Fast? | Greybeam"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://european.social/",
-    "title": "The European Social Stack — An open declaration"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://news.ycombinator.com/item?id=48583606",
-    "title": "Advanced Compilers: The Self-Guided Online Course | Hacker News"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://screen.toys/",
-    "title": "screen toys"
+    "url": "https://nevergivethemyourface.com/",
+    "title": "Never Give Them Your Face"
   },
   {
     "source": "pinboard",
@@ -216,12 +161,77 @@
   },
   {
     "source": "pinboard",
+    "url": "https://hawksley.dev/blog/json-ld-explained-for-personal-websites/",
+    "title": "JSON-LD Explained for Personal Websites | Ethan Hawksley"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://european.social/",
+    "title": "The European Social Stack — An open declaration"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://alexkritchevsky.com/2026/05/25/everything-is-logarithms.html",
+    "title": "Everything Is Logarithms"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.marble.onl/posts/cancel_claude.html",
+    "title": "cancel_claude"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://screen.toys/",
+    "title": "screen toys"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://overreacted.io/there-are-no-instances-in-atproto/",
+    "title": "There Are No Instances in atproto"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://aresluna.org/show-your-hands-honor/",
+    "title": "Show your hands honor for the strange power they bring you – Aresluna"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://techstackups.com/comparisons/glm-5.2-vs-opus/",
+    "title": "GLM-5.2 vs Claude Opus | Tech Stackups"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://apertvs.ai/",
+    "title": "APERTVS.ai Fully Open Foundation Model for Sovereign AI Developed by the Swiss AI Initiative as a collaborative effort between EPFL, ETH Zurich, and CSCS. Open weights, open data, open science"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://hyperblam.how/",
+    "title": "Hyperblam Docs Home : HYPERBLAM"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://vickiboykis.com/2026/06/15/running-local-models-is-good-now/",
+    "title": "Running local models is good now | ✰Vicki Boykis✰"
+  },
+  {
+    "source": "pinboard",
     "url": "https://waxy.org/2026/06/the-wholesale-plagiarism-of-obscure-sorrows/",
     "title": "The Wholesale Plagiarism of Obscure Sorrows - Waxy.org"
   },
   {
     "source": "pinboard",
-    "url": "https://aiclambake.com/clamtakes/linear-a/",
-    "title": "AI Engineer Claims to Have Cracked Linear A — AI Clambake"
+    "url": "https://matthewbutterick.com/extinction-level-capitalism.html",
+    "title": "Matthew Butterick | Extinction-level capitalism"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.robinsloan.com/lab/de-datafication/",
+    "title": "De-datafication"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://cs336.stanford.edu/spring2025/",
+    "title": "Stanford CS336 | Language Modeling from Scratch (2025)"
   }
 ]
