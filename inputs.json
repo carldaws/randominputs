@@ -1,6 +1,11 @@
 [
   {
     "source": "hn",
+    "url": "https://www.the3dprintingnerd.com/ab2047",
+    "title": "California AB 2047 makes 3d printers off-limits to students, educators, business"
+  },
+  {
+    "source": "hn",
     "url": "http://www.jerrysmap.com/the-map",
     "title": "Jerry's Map"
   },
@@ -21,8 +26,8 @@
   },
   {
     "source": "hn",
-    "url": "https://hai.stanford.edu/news/ai-hiring-tools-can-yield-racial-bias-and-systemic-rejection",
-    "title": "Algorithmic Monocultures in Hiring"
+    "url": "https://tikz.dev/editor/",
+    "title": "Show HN: TikZ Editor – WYSIWYG editor for figures in LaTeX"
   },
   {
     "source": "hn",
@@ -31,13 +36,13 @@
   },
   {
     "source": "hn",
-    "url": "https://lift4d.github.io/",
-    "title": "Lift4D: Harmonizing Single-View 3D Estimation for 4D Reconstruction In-the-Wild"
+    "url": "https://hai.stanford.edu/news/ai-hiring-tools-can-yield-racial-bias-and-systemic-rejection",
+    "title": "Algorithmic Monocultures in Hiring"
   },
   {
     "source": "hn",
-    "url": "https://galton.org/fingerprints/faulds-1880-nature-furrows.pdf",
-    "title": "On the Skin-Furrows of the Hand (1880) [pdf]"
+    "url": "https://lift4d.github.io/",
+    "title": "Lift4D: Harmonizing Single-View 3D Estimation for 4D Reconstruction In-the-Wild"
   },
   {
     "source": "hn",
@@ -46,13 +51,18 @@
   },
   {
     "source": "hn",
+    "url": "https://galton.org/fingerprints/faulds-1880-nature-furrows.pdf",
+    "title": "On the Skin-Furrows of the Hand (1880) [pdf]"
+  },
+  {
+    "source": "hn",
     "url": "https://plotnine.org/",
     "title": "Plotnine"
   },
   {
     "source": "hn",
-    "url": "https://atgreen.github.io/repl-yell/posts/libffi-plan-cache/",
-    "title": "Performance Improvements in Libffi"
+    "url": "https://daringfireball.net/linked/2026/06/22/apple-device-prices-when",
+    "title": "Apple is going to raise device prices, but when?"
   },
   {
     "source": "lobsters",
@@ -111,23 +121,23 @@
   },
   {
     "source": "lobsters",
-    "url": "https://blog.racket-lang.org/2026/06/rhombus-v1.0.html",
-    "title": "Rhombus v1.0: A Racket flavored language with syntax"
-  },
-  {
-    "source": "lobsters",
     "url": "https://data-star.dev/essays/datastar_its_pretty_good",
     "title": "Datastar – It’s Pretty Good"
   },
   {
     "source": "lobsters",
-    "url": "https://fzakaria.com/2026/06/21/nix-needs-relocatable-binaries",
-    "title": "Nix needs relocatable binaries"
+    "url": "https://blog.racket-lang.org/2026/06/rhombus-v1.0.html",
+    "title": "Rhombus v1.0: A Racket flavored language with syntax"
   },
   {
     "source": "lobsters",
     "url": "https://shaping.systems/blog/ai-sucks-hating-it-is-not-enough/",
     "title": "AI sucks. Hating it is not enough"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://fzakaria.com/2026/06/21/nix-needs-relocatable-binaries",
+    "title": "Nix needs relocatable binaries"
   },
   {
     "source": "pinboard",
