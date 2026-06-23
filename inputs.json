@@ -1,13 +1,33 @@
 [
   {
     "source": "hn",
+    "url": "https://status.claude.com/incidents/jbhf20wjmzrf",
+    "title": "Elevated error rate across multiple models"
+  },
+  {
+    "source": "hn",
+    "url": "https://pluralistic.net/2026/06/23/destroy-the-village/",
+    "title": "Spying on kids to save kids from spying is stupid"
+  },
+  {
+    "source": "hn",
+    "url": "https://tikz.dev/editor/",
+    "title": "Show HN: TikZ Editor – WYSIWYG editor for figures in LaTeX"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.404media.co/madison-square-garden-made-dossier-on-activists-who-opposed-facial-recognition/",
+    "title": "MSG Made Dossier on Activists Who Opposed Facial Recognition"
+  },
+  {
+    "source": "hn",
     "url": "https://plotnine.org/",
     "title": "Plotnine"
   },
   {
     "source": "hn",
-    "url": "https://lucumr.pocoo.org/2026/6/23/the-coming-loop/",
-    "title": "The Coming Loop"
+    "url": "https://worksinprogress.co/issue/the-wonder-of-epidurals/",
+    "title": "Epidurals are a miracle technology"
   },
   {
     "source": "hn",
@@ -21,23 +41,23 @@
   },
   {
     "source": "hn",
-    "url": "https://jchri.st/blog/in-praise-of-memcached/",
-    "title": "In praise of memcached"
-  },
-  {
-    "source": "hn",
     "url": "https://selforg-npa.github.io/",
     "title": "Show HN: Neural Particle Automata"
   },
   {
     "source": "hn",
-    "url": "https://worksinprogress.co/issue/the-wonder-of-epidurals/",
-    "title": "Epidurals are a miracle technology"
+    "url": "https://jchri.st/blog/in-praise-of-memcached/",
+    "title": "In praise of memcached"
   },
   {
     "source": "hn",
-    "url": "https://daringfireball.net/linked/2026/06/22/apple-device-prices-when",
-    "title": "Apple is going to raise device prices, but when?"
+    "url": "https://gopeek-lovat.vercel.app/blog-you-already-have-a-git-server.html",
+    "title": "You already have a Git server"
+  },
+  {
+    "source": "hn",
+    "url": "https://blog.arusekk.pl/posts/lossless-gif-recompression/",
+    "title": "Lossless GIF recompression via exhaustive search"
   },
   {
     "source": "hn",
@@ -46,33 +66,28 @@
   },
   {
     "source": "hn",
-    "url": "https://blog.dahl.dev/posts/my-mathematical-regression/",
-    "title": "My Mathematical Regression"
-  },
-  {
-    "source": "hn",
     "url": "https://owl.billpg.com/8086-segmented-memory-was-a-good-idea-almost/",
     "title": "8086 Segmented Memory was a good idea"
   },
   {
     "source": "hn",
-    "url": "https://blog.roboflow.com/yolo26/",
-    "title": "An Introduction to YOLO26"
+    "url": "https://daringfireball.net/linked/2026/06/22/apple-device-prices-when",
+    "title": "Apple is going to raise device prices, but when?"
   },
   {
     "source": "hn",
-    "url": "https://hustvl.github.io/Moebius/",
-    "title": "Moebius: 0.2B image inpainting model with 10B-level performance"
+    "url": "https://blog.dahl.dev/posts/my-mathematical-regression/",
+    "title": "My Mathematical Regression"
   },
   {
     "source": "hn",
-    "url": "https://oak.space/oak/oak",
-    "title": "Show HN: Oak – Git alternative designed for agents"
+    "url": "https://lucumr.pocoo.org/2026/6/23/the-coming-loop/",
+    "title": "The Coming Loop"
   },
   {
     "source": "hn",
-    "url": "https://j3d.org/matrix_faq/matrfaq_latest.html",
-    "title": "Matrix and Quaternion FAQ"
+    "url": "https://nand2mario.github.io/posts/2026/80386_early_start/",
+    "title": "80386 Early Start Memory Access"
   },
   {
     "source": "lobsters",
@@ -86,6 +101,11 @@
   },
   {
     "source": "lobsters",
+    "url": "https://akselmo.dev/posts/please-keep-code-descriptions-simple/",
+    "title": "Please keep code descriptions simple"
+  },
+  {
+    "source": "lobsters",
     "url": "https://nega.tv/posts/low-tech-ai-of-elden-ring.html",
     "title": "The Low-Tech AI Of Elden Ring"
   },
@@ -93,6 +113,11 @@
     "source": "lobsters",
     "url": "https://haskellforall.com/2026/06/record-type-inference-for-dummies",
     "title": "Record type inference for dummies"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://words.filippo.io/vuln-reports/",
+    "title": "Vulnerability Reports Are Not Special Anymore"
   },
   {
     "source": "lobsters",
@@ -131,38 +156,23 @@
   },
   {
     "source": "lobsters",
-    "url": "https://pkgdemon.github.io/how-a-computer-should-work.html",
-    "title": "How a Computer Should Work"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://docs.deno.com/runtime/desktop/",
-    "title": "Deno Desktop apps"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://akselmo.dev/posts/please-keep-code-descriptions-simple/",
-    "title": "Please keep code descriptions simple"
-  },
-  {
-    "source": "lobsters",
     "url": "https://www.freedesktop.org/software/systemd/man/257/systemd-bsod.service.html",
     "title": "systemd-bsod.service"
   },
   {
     "source": "lobsters",
-    "url": "https://pointieststick.com/2026/06/22/network-shares-still-talking-about-them-in-2026/",
-    "title": "Network shares: still talking about them in 2026"
+    "url": "https://pkgdemon.github.io/how-a-computer-should-work.html",
+    "title": "How a Computer Should Work"
   },
   {
     "source": "lobsters",
-    "url": "https://blog.platypush.tech/article/Local-voice-assistant",
-    "title": "A fully local voice assistant setup"
+    "url": "https://xenodium.com/ytr-youtube-radio-for-emacs",
+    "title": "ytr: YouTube radio for Emacs"
   },
   {
     "source": "lobsters",
-    "url": "https://nchammas.com/writing/custom-query-language-implementation",
-    "title": "Implementing a Custom Query Language with Python and Apache Spark"
+    "url": "https://docs.deno.com/runtime/desktop/",
+    "title": "Deno Desktop apps"
   },
   {
     "source": "pinboard",
