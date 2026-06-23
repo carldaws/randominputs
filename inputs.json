@@ -1,13 +1,13 @@
 [
   {
     "source": "hn",
-    "url": "https://lucumr.pocoo.org/2026/6/23/the-coming-loop/",
-    "title": "The Coming Loop"
+    "url": "https://plotnine.org/",
+    "title": "Plotnine"
   },
   {
     "source": "hn",
-    "url": "https://plotnine.org/",
-    "title": "Plotnine"
+    "url": "https://lucumr.pocoo.org/2026/6/23/the-coming-loop/",
+    "title": "The Coming Loop"
   },
   {
     "source": "hn",
@@ -26,13 +26,13 @@
   },
   {
     "source": "hn",
-    "url": "https://owl.billpg.com/8086-segmented-memory-was-a-good-idea-almost/",
-    "title": "8086 Segmented Memory was a good idea"
+    "url": "https://selforg-npa.github.io/",
+    "title": "Show HN: Neural Particle Automata"
   },
   {
     "source": "hn",
-    "url": "https://selforg-npa.github.io/",
-    "title": "Show HN: Neural Particle Automata"
+    "url": "https://worksinprogress.co/issue/the-wonder-of-epidurals/",
+    "title": "Epidurals are a miracle technology"
   },
   {
     "source": "hn",
@@ -41,13 +41,18 @@
   },
   {
     "source": "hn",
+    "url": "https://cowboystatedaily.com/2026/06/18/giant-banana-pulled-over-in-montana-driver-says-cops-have-stopped-him-100s-of-times/",
+    "title": "Giant Banana Pulled Over: Driver Says Cops Have Stopped Him 100s of Times"
+  },
+  {
+    "source": "hn",
     "url": "https://blog.dahl.dev/posts/my-mathematical-regression/",
     "title": "My Mathematical Regression"
   },
   {
     "source": "hn",
-    "url": "https://en.wikipedia.org/wiki/User:Larry_Sanger",
-    "title": "Wikipedia cofounder Larry Sanger blocked from editing Wikipedia"
+    "url": "https://owl.billpg.com/8086-segmented-memory-was-a-good-idea-almost/",
+    "title": "8086 Segmented Memory was a good idea"
   },
   {
     "source": "hn",
@@ -61,38 +66,18 @@
   },
   {
     "source": "hn",
-    "url": "https://cowboystatedaily.com/2026/06/18/giant-banana-pulled-over-in-montana-driver-says-cops-have-stopped-him-100s-of-times/",
-    "title": "Giant Banana Pulled Over: Driver Says Cops Have Stopped Him 100s of Times"
-  },
-  {
-    "source": "hn",
-    "url": "https://worksinprogress.co/issue/the-wonder-of-epidurals/",
-    "title": "Epidurals are a miracle technology"
-  },
-  {
-    "source": "hn",
-    "url": "https://mariusbancila.ro/blog/2026/06/19/improvements-to-stdformat-in-c26/",
-    "title": "Improvements to Std:Format in C++26"
-  },
-  {
-    "source": "hn",
     "url": "https://oak.space/oak/oak",
     "title": "Show HN: Oak – Git alternative designed for agents"
   },
   {
     "source": "hn",
-    "url": "https://captnemo.in/blog/2026/06/17/package-managers-need-hooks/",
-    "title": "Package Managers need global hooks"
+    "url": "https://j3d.org/matrix_faq/matrfaq_latest.html",
+    "title": "Matrix and Quaternion FAQ"
   },
   {
     "source": "lobsters",
     "url": "https://www.davidrevoy.com/article1154/why-drawing-tablet-brands-wont-collaborate-on-linux-floss-drivers",
     "title": "Why Drawing Tablet Brands Won't Collaborate on Linux FLOSS Drivers"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://www.arp242.net/chestersons-finger.html",
-    "title": "Chesterton's middle finger"
   },
   {
     "source": "lobsters",
@@ -103,6 +88,16 @@
     "source": "lobsters",
     "url": "https://nega.tv/posts/low-tech-ai-of-elden-ring.html",
     "title": "The Low-Tech AI Of Elden Ring"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://haskellforall.com/2026/06/record-type-inference-for-dummies",
+    "title": "Record type inference for dummies"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://www.arp242.net/chestersons-finger.html",
+    "title": "Chesterton's middle finger"
   },
   {
     "source": "lobsters",
@@ -123,6 +118,11 @@
     "source": "lobsters",
     "url": "https://fzakaria.com/2026/06/21/nix-needs-relocatable-binaries",
     "title": "Nix needs relocatable binaries"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://alexwlchan.net/2021/slashes/",
+    "title": "A tale of two path separators (2021)"
   },
   {
     "source": "lobsters",
@@ -151,13 +151,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://alexwlchan.net/2021/slashes/",
-    "title": "A tale of two path separators (2021)"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://haskellforall.com/2026/06/record-type-inference-for-dummies",
-    "title": "Record type inference for dummies"
+    "url": "https://pointieststick.com/2026/06/22/network-shares-still-talking-about-them-in-2026/",
+    "title": "Network shares: still talking about them in 2026"
   },
   {
     "source": "lobsters",
@@ -168,11 +163,6 @@
     "source": "lobsters",
     "url": "https://nchammas.com/writing/custom-query-language-implementation",
     "title": "Implementing a Custom Query Language with Python and Apache Spark"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://pointieststick.com/2026/06/22/network-shares-still-talking-about-them-in-2026/",
-    "title": "Network shares: still talking about them in 2026"
   },
   {
     "source": "pinboard",
