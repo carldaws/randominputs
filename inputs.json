@@ -1,13 +1,23 @@
 [
   {
     "source": "hn",
-    "url": "https://www.openculture.com/freeonlinecourses",
-    "title": "1,700 Free Online Courses from Top Universities"
+    "url": "https://swelljoe.com/post/will-it-mythos/",
+    "title": "Will It Mythos?"
   },
   {
     "source": "hn",
     "url": "https://jchri.st/blog/in-praise-of-memcached/",
-    "title": "In Praise of Memcached"
+    "title": "In praise of memcached"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.wsj.com/business/media/polymarket-social-media-bets-prediction-market-441cdeb5?st=HhTZY2",
+    "title": "Polymarket has flooded social media with deceptive videos by paid creators"
+  },
+  {
+    "source": "hn",
+    "url": "https://blog.roboflow.com/yolo26/",
+    "title": "An Introduction to YOLO26"
   },
   {
     "source": "hn",
@@ -26,8 +36,8 @@
   },
   {
     "source": "hn",
-    "url": "https://yoebuild.org/blog/time-for-a-new-build-system/",
-    "title": "Is it time for a new Embedded Linux build system?"
+    "url": "https://captnemo.in/blog/2026/06/17/package-managers-need-hooks/",
+    "title": "Package Managers need global hooks"
   },
   {
     "source": "hn",
@@ -36,33 +46,23 @@
   },
   {
     "source": "hn",
+    "url": "https://cowboystatedaily.com/2026/06/18/giant-banana-pulled-over-in-montana-driver-says-cops-have-stopped-him-100s-of-times/",
+    "title": "Giant Banana Pulled Over: Driver Says Cops Have Stopped Him 100s of Times"
+  },
+  {
+    "source": "hn",
     "url": "https://oak.space/oak/oak",
     "title": "Show HN: Oak – Git alternative designed for agents"
   },
   {
     "source": "hn",
-    "url": "https://role-confusion.github.io",
-    "title": "Prompt Injection as Role Confusion"
+    "url": "https://yoebuild.org/blog/time-for-a-new-build-system/",
+    "title": "Is it time for a new Embedded Linux build system?"
   },
   {
     "source": "hn",
-    "url": "https://xenodium.com/ytr-youtube-radio-for-emacs",
-    "title": "ytr: YouTube Radio for Emacs"
-  },
-  {
-    "source": "hn",
-    "url": "https://mrmarket.lol/job-application-asked-for-my-sat-scores/",
-    "title": "Job application asked for my SAT scores"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.chevron.com/newsroom/2026/q2/chevron-signs-20-year-power-agreement-with-microsoft-for-west-texas-data-center",
-    "title": "Chevron signs 20-year power agreement with Microsoft for West Texas data center"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.displaymate.com/",
-    "title": "DisplayMate"
+    "url": "https://www.openculture.com/freeonlinecourses",
+    "title": "1,700 free online courses from top universities"
   },
   {
     "source": "hn",
@@ -71,8 +71,13 @@
   },
   {
     "source": "hn",
-    "url": "https://docs.deno.com/runtime/desktop/",
-    "title": "Deno Desktop"
+    "url": "https://mrmarket.lol/job-application-asked-for-my-sat-scores/",
+    "title": "Job application asked for my SAT scores"
+  },
+  {
+    "source": "hn",
+    "url": "https://xenodium.com/ytr-youtube-radio-for-emacs",
+    "title": "ytr: YouTube Radio for Emacs"
   },
   {
     "source": "lobsters",
@@ -106,8 +111,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://vale.rocks/posts/pda-browsers",
-    "title": "Web Browsers on PDAs"
+    "url": "https://docs.deno.com/runtime/desktop/",
+    "title": "Deno Desktop apps"
   },
   {
     "source": "lobsters",
@@ -116,18 +121,33 @@
   },
   {
     "source": "lobsters",
+    "url": "https://vale.rocks/posts/pda-browsers",
+    "title": "Web Browsers on PDAs"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://blobly.medv.io/",
+    "title": "Blobly"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://alexwlchan.net/2021/slashes/",
+    "title": "A tale of two path separators (2021)"
+  },
+  {
+    "source": "lobsters",
     "url": "https://blog.platypush.tech/article/Local-voice-assistant",
     "title": "A fully local voice assistant setup"
   },
   {
     "source": "lobsters",
-    "url": "https://momentsingraphics.de/CameraRays.html",
-    "title": "Computing Camera Rays"
+    "url": "https://www.freedesktop.org/software/systemd/man/257/systemd-bsod.service.html",
+    "title": "systemd-bsod.service"
   },
   {
     "source": "lobsters",
-    "url": "https://postmarketos.org/blog/2026/06/21/v26.06-release/",
-    "title": "postmarketOS v26.06 (Alpen Avocado) released"
+    "url": "https://momentsingraphics.de/CameraRays.html",
+    "title": "Computing Camera Rays"
   },
   {
     "source": "pinboard",
