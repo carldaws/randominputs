@@ -11,6 +11,11 @@
   },
   {
     "source": "hn",
+    "url": "https://plotnine.org/",
+    "title": "Plotnine"
+  },
+  {
+    "source": "hn",
     "url": "https://jchri.st/blog/in-praise-of-memcached/",
     "title": "In praise of memcached"
   },
@@ -21,13 +26,13 @@
   },
   {
     "source": "hn",
-    "url": "https://blog.dahl.dev/posts/my-mathematical-regression/",
-    "title": "My Mathematical Regression"
+    "url": "https://mariusbancila.ro/blog/2026/06/19/improvements-to-stdformat-in-c26/",
+    "title": "Improvements to Std:Format in C++26"
   },
   {
     "source": "hn",
-    "url": "https://blog.hydroponictrash.solar/cyberdecks-going-analog-and-convivial-technology/",
-    "title": "Cyberdecks, going analog, and convivial technology"
+    "url": "https://blog.dahl.dev/posts/my-mathematical-regression/",
+    "title": "My Mathematical Regression"
   },
   {
     "source": "hn",
@@ -36,8 +41,8 @@
   },
   {
     "source": "hn",
-    "url": "https://arun.is/blog/japan-symbols/",
-    "title": "Japanese symbols that speak without words"
+    "url": "https://blog.hydroponictrash.solar/cyberdecks-going-analog-and-convivial-technology/",
+    "title": "Cyberdecks, going analog, and convivial technology"
   },
   {
     "source": "hn",
@@ -56,28 +61,13 @@
   },
   {
     "source": "hn",
-    "url": "https://www.openculture.com/freeonlinecourses",
-    "title": "1,700 free online courses from top universities"
-  },
-  {
-    "source": "hn",
     "url": "https://lmao.center/blog/wiggle-accidents/",
     "title": "Help I accidentally a wigglegram"
   },
   {
     "source": "hn",
-    "url": "https://www.chevron.com/newsroom/2026/q2/chevron-signs-20-year-power-agreement-with-microsoft-for-west-texas-data-center",
-    "title": "Chevron signs 20-year power agreement with Microsoft for West Texas data center"
-  },
-  {
-    "source": "hn",
-    "url": "https://xenodium.com/ytr-youtube-radio-for-emacs",
-    "title": "ytr: YouTube Radio for Emacs"
-  },
-  {
-    "source": "hn",
-    "url": "https://docs.deno.com/runtime/desktop/",
-    "title": "Deno Desktop"
+    "url": "https://arun.is/blog/japan-symbols/",
+    "title": "Japanese symbols that speak without words"
   },
   {
     "source": "lobsters",
@@ -91,6 +81,11 @@
   },
   {
     "source": "lobsters",
+    "url": "https://blobly.medv.io/",
+    "title": "Blobly"
+  },
+  {
+    "source": "lobsters",
     "url": "https://fzakaria.com/2026/06/21/nix-needs-relocatable-binaries",
     "title": "Nix needs relocatable binaries"
   },
@@ -101,18 +96,23 @@
   },
   {
     "source": "lobsters",
-    "url": "https://ruurtjan.com/articles/p99-0ms-autocomplete-for-240-million-domain-names",
-    "title": "p99 0ms* autocomplete for 240 million domain names"
-  },
-  {
-    "source": "lobsters",
     "url": "https://pkgdemon.github.io/how-a-computer-should-work.html",
     "title": "How a Computer Should Work"
   },
   {
     "source": "lobsters",
-    "url": "https://blobly.medv.io/",
-    "title": "Blobly"
+    "url": "https://ruurtjan.com/articles/p99-0ms-autocomplete-for-240-million-domain-names",
+    "title": "p99 0ms* autocomplete for 240 million domain names"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://docs.deno.com/runtime/desktop/",
+    "title": "Deno Desktop apps"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://nega.tv/posts/low-tech-ai-of-elden-ring.html",
+    "title": "The Low-Tech AI Of Elden Ring"
   },
   {
     "source": "lobsters",
@@ -126,6 +126,11 @@
   },
   {
     "source": "lobsters",
+    "url": "https://www.markround.com/blog/2026/06/17/25-its-only-when-you-look-back/",
+    "title": "It’s Only When You Look Back"
+  },
+  {
+    "source": "lobsters",
     "url": "https://blog.platypush.tech/article/Local-voice-assistant",
     "title": "A fully local voice assistant setup"
   },
@@ -136,13 +141,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://alexwlchan.net/2021/slashes/",
-    "title": "A tale of two path separators (2021)"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://momentsingraphics.de/CameraRays.html",
-    "title": "Computing Camera Rays"
+    "url": "https://memcached.org/blog/how-long-for-real/",
+    "title": "How Long Does That Response Take... For Real?"
   },
   {
     "source": "pinboard",
@@ -208,6 +208,11 @@
     "source": "pinboard",
     "url": "https://hyperblam.how/",
     "title": "Hyperblam Docs Home : HYPERBLAM"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.openculture.com/freeonlinecourses",
+    "title": "1200 Free Online Courses from Top Universities | Open Culture"
   },
   {
     "source": "pinboard",
