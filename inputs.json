@@ -1,8 +1,8 @@
 [
   {
     "source": "hn",
-    "url": "https://www.beautifulpublicdata.com/san-diego-photologs-from-the-1970s/",
-    "title": "San Diego photologs from the 1970s"
+    "url": "http://www.jerrysmap.com/the-map",
+    "title": "Jerry's Map"
   },
   {
     "source": "hn",
@@ -11,8 +11,8 @@
   },
   {
     "source": "hn",
-    "url": "https://sofiakodar.github.io/posts/becomingmanager/",
-    "title": "The truth about being a manager"
+    "url": "https://www.beautifulpublicdata.com/san-diego-photologs-from-the-1970s/",
+    "title": "San Diego photologs from the 1970s"
   },
   {
     "source": "hn",
@@ -21,28 +21,13 @@
   },
   {
     "source": "hn",
+    "url": "https://dynomight.net/vitamin-d/",
+    "title": "The worthlessness of Vitamin D is mildly exaggerated"
+  },
+  {
+    "source": "hn",
     "url": "https://lucumr.pocoo.org/2026/6/23/the-coming-loop/",
     "title": "The Coming Loop"
-  },
-  {
-    "source": "hn",
-    "url": "https://blog.zarfhome.com/2026/06/steam-machine-oh-no",
-    "title": "I am a person who will look at the Steam Machine and cry"
-  },
-  {
-    "source": "hn",
-    "url": "https://status.claude.com/incidents/jbhf20wjmzrf",
-    "title": "Elevated error rate across multiple models"
-  },
-  {
-    "source": "hn",
-    "url": "https://plotnine.org/",
-    "title": "Plotnine"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.404media.co/madison-square-garden-made-dossier-on-activists-who-opposed-facial-recognition/",
-    "title": "MSG Made Dossier on Activists Who Opposed Facial Recognition"
   },
   {
     "source": "hn",
@@ -51,18 +36,23 @@
   },
   {
     "source": "hn",
+    "url": "https://plotnine.org/",
+    "title": "Plotnine"
+  },
+  {
+    "source": "hn",
+    "url": "https://status.claude.com/incidents/jbhf20wjmzrf",
+    "title": "Elevated error rate across multiple models"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.404media.co/madison-square-garden-made-dossier-on-activists-who-opposed-facial-recognition/",
+    "title": "MSG Made Dossier on Activists Who Opposed Facial Recognition"
+  },
+  {
+    "source": "hn",
     "url": "https://nega.tv/posts/low-tech-ai-of-elden-ring.html",
     "title": "The Low-Tech AI of Elden Ring"
-  },
-  {
-    "source": "hn",
-    "url": "https://community.ibm.com/community/user/blogs/elizabeth-k-joseph1/2026/06/18/linuxone-open-source-report-may-2026",
-    "title": "Open Source for IBM Z and LinuxONE"
-  },
-  {
-    "source": "hn",
-    "url": "https://dandylyons.github.io/treedocs/",
-    "title": "Show HN: Treedocs: Documentation that automatically checks for staleness"
   },
   {
     "source": "hn",
@@ -71,13 +61,13 @@
   },
   {
     "source": "hn",
-    "url": "https://pluralistic.net/2026/06/23/destroy-the-village/",
-    "title": "What we call \"age verification\" is actually mass surveillance"
+    "url": "https://blog.arusekk.pl/posts/lossless-gif-recompression/",
+    "title": "Lossless GIF recompression via exhaustive search"
   },
   {
     "source": "hn",
-    "url": "https://nand2mario.github.io/posts/2026/80386_early_start/",
-    "title": "80386 Early Start Memory Access"
+    "url": "https://pluralistic.net/2026/06/23/destroy-the-village/",
+    "title": "What we call \"age verification\" is actually mass surveillance"
   },
   {
     "source": "lobsters",
@@ -96,13 +86,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://www.davidrevoy.com/article1154/why-drawing-tablet-brands-wont-collaborate-on-linux-floss-drivers",
-    "title": "Why Drawing Tablet Brands Won't Collaborate on Linux FLOSS Drivers"
+    "url": "https://haskellforall.com/2026/06/record-type-inference-for-dummies",
+    "title": "Record type inference for dummies"
   },
   {
     "source": "lobsters",
-    "url": "https://haskellforall.com/2026/06/record-type-inference-for-dummies",
-    "title": "Record type inference for dummies"
+    "url": "https://www.davidrevoy.com/article1154/why-drawing-tablet-brands-wont-collaborate-on-linux-floss-drivers",
+    "title": "Why Drawing Tablet Brands Won't Collaborate on Linux FLOSS Drivers"
   },
   {
     "source": "lobsters",
