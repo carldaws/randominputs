@@ -1,6 +1,11 @@
 [
   {
     "source": "hn",
+    "url": "https://www.cwu.org/press_release/wikipedia-workers-to-seek-union-recognition/",
+    "title": "Wikipedia Workers to Seek Union Recognition"
+  },
+  {
+    "source": "hn",
     "url": "https://rubyllm.com/",
     "title": "RubyLLM: A Ruby framework for all major AI providers"
   },
@@ -16,8 +21,8 @@
   },
   {
     "source": "hn",
-    "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-computer-use-gemini-3-5-flash/",
-    "title": "Computer use in Gemini 3.5 Flash"
+    "url": "https://www.krea.ai/blog/krea-2-technical-report",
+    "title": "Krea 2: SOTA open-weights 12B image model"
   },
   {
     "source": "hn",
@@ -26,13 +31,23 @@
   },
   {
     "source": "hn",
-    "url": "https://www.krea.ai/blog/krea-2-technical-report",
-    "title": "Krea 2: SOTA open-weights 12B image model"
+    "url": "https://lookaway.com",
+    "title": "Show HN: LookAway, a Mac break reminder that knows when not to interrupt"
   },
   {
     "source": "hn",
     "url": "https://astral-os.org/posts/2026/04/03/wine-on-astral.html",
     "title": "Running Windows Games on a Hobby OS with Wine"
+  },
+  {
+    "source": "hn",
+    "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-computer-use-gemini-3-5-flash/",
+    "title": "Computer use in Gemini 3.5 Flash"
+  },
+  {
+    "source": "hn",
+    "url": "https://posthog.com/blog/sql-parser",
+    "title": "I rewrote PostHog's SQL parser, 70x faster, while barely looking at the code"
   },
   {
     "source": "hn",
@@ -43,11 +58,6 @@
     "source": "hn",
     "url": "https://svpow.com/2026/06/04/genuinely-my-all-time-favourite-image-mamenchisaurus-hochuanensis/",
     "title": "Genuinely, my all-time favourite image: Mamenchisaurus hochuanensis"
-  },
-  {
-    "source": "hn",
-    "url": "https://werd.io/journalism-is-rearranging-the-deckchairs-it-needs-to-reinvent-itself/",
-    "title": "Journalism is rearranging the deckchairs. It needs to reinvent itself"
   },
   {
     "source": "hn",
@@ -70,16 +80,6 @@
     "title": "Show HN: Pure Effect – Reproduce production bugs on your laptop without a DB"
   },
   {
-    "source": "hn",
-    "url": "https://blog.omgmog.net/post/xteink-x4-e-ink-reader/",
-    "title": "The Xteink X4 E-Ink Reader"
-  },
-  {
-    "source": "hn",
-    "url": "https://posthog.com/blog/sql-parser",
-    "title": "I rewrote PostHog's SQL parser, 70x faster, while barely looking at the code"
-  },
-  {
     "source": "lobsters",
     "url": "https://binaryigor.com/the-joy-and-power-of-understanding.html",
     "title": "The Joy and Power of Understanding"
@@ -92,17 +92,17 @@
   {
     "source": "lobsters",
     "url": "https://ngrok.com/blog/aol-was-down-1996",
-    "title": "AOL was down (1996)"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://refactoringenglish.com/excerpts/write-an-effective-design-doc/",
-    "title": "How to Write an Effective Software Design Document"
+    "title": "AOL was down (1996) (2026)"
   },
   {
     "source": "lobsters",
     "url": "https://utaw.tech/news/wikipedia-recognition",
     "title": "UK Wikipedia Workers seek union recognition"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://refactoringenglish.com/excerpts/write-an-effective-design-doc/",
+    "title": "How to Write an Effective Software Design Document"
   },
   {
     "source": "lobsters",
@@ -116,6 +116,11 @@
   },
   {
     "source": "lobsters",
+    "url": "https://slint.dev/blog/slint-1.17-released",
+    "title": "Slint 1.17 Released"
+  },
+  {
+    "source": "lobsters",
     "url": "https://blog.glyph.im/2026/06/adversarial-communication.html",
     "title": "Adversarial Communication"
   },
@@ -126,8 +131,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://slint.dev/blog/slint-1.17-released",
-    "title": "Slint 1.17 Released"
+    "url": "https://blog.cloudflare.com/hyper-bug/",
+    "title": "How we found a bug in the hyper HTTP library"
   },
   {
     "source": "lobsters",
@@ -136,13 +141,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://blog.cloudflare.com/hyper-bug/",
-    "title": "How we found a bug in the hyper HTTP library"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://haskellforall.com/2026/06/record-type-inference-for-dummies",
-    "title": "Record type inference for dummies"
+    "url": "https://andyatkinson.com/how-aura-frames-scales-for-peak-load-ruby-on-rails",
+    "title": "Scaling Rails: 41M Req/Hour, 8 DBs, disable_joins: true"
   },
   {
     "source": "lobsters",
@@ -151,18 +151,18 @@
   },
   {
     "source": "lobsters",
+    "url": "https://steveharrison.dev/showdirectorypicker-opens-up-a-whole-new-world/",
+    "title": "window.showDirectoryPicker opens up a whole new world"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://haskellforall.com/2026/06/record-type-inference-for-dummies",
+    "title": "Record type inference for dummies"
+  },
+  {
+    "source": "lobsters",
     "url": "https://kittenlabs.de/blamba/",
     "title": "Blåmba"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://www.markround.com/blog/2026/06/17/25-its-only-when-you-look-back/",
-    "title": "It’s Only When You Look Back"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://eieio.games/blog/legibility-of-effort/",
-    "title": "Legibility of Effort"
   },
   {
     "source": "pinboard",
