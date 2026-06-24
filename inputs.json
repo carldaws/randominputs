@@ -2,22 +2,12 @@
   {
     "source": "hn",
     "url": "https://rubyllm.com/",
-    "title": "RubyLLM: A single, beautiful Ruby framework for all major AI providers"
+    "title": "RubyLLM: A Ruby framework for all major AI providers"
   },
   {
     "source": "hn",
     "url": "https://bunny.net/blog/were-making-bunny-dns-free/",
-    "title": "We're making Bunny DNS free: because a faster internet won't build itself"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.krea.ai/blog/krea-2-technical-report",
-    "title": "Krea 2 Technical Report"
-  },
-  {
-    "source": "hn",
-    "url": "https://paolino.me/founding-a-company-in-germany/",
-    "title": "Founding a company in Germany: €9600, 152 days and I still can't send an invoice"
+    "title": "We’re making Bunny DNS free"
   },
   {
     "source": "hn",
@@ -26,18 +16,13 @@
   },
   {
     "source": "hn",
-    "url": "https://pure-effect.org",
-    "title": "Show HN: Pure Effect – Reproduce production bugs on your laptop without a DB"
+    "url": "https://www.browserbase.com/blog/why-captchas-are-getting-harder",
+    "title": "CAPTCHAs have failed for 20 years"
   },
   {
     "source": "hn",
-    "url": "https://words.filippo.io/vuln-reports/",
-    "title": "Vulnerability reports are not special anymore"
-  },
-  {
-    "source": "hn",
-    "url": "https://home.cern/francois-englert-1932-2026/",
-    "title": "François Englert (1932 – 2026)"
+    "url": "https://www.krea.ai/blog/krea-2-technical-report",
+    "title": "Krea 2: SOTA open-weights 12B image model"
   },
   {
     "source": "hn",
@@ -46,8 +31,33 @@
   },
   {
     "source": "hn",
-    "url": "https://ben-mini.com/2026/stealing-is-a-skill",
-    "title": "Stealing Is a Skill"
+    "url": "https://www.greptile.com/blog/prs-on-openclaw",
+    "title": "PR spam today looks like email spam in the early 2000s"
+  },
+  {
+    "source": "hn",
+    "url": "https://paolino.me/founding-a-company-in-germany/",
+    "title": "Founding a company in Germany: €9600, 152 days and I still can't send an invoice"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.theregister.com/research/2026/06/24/boffin-claims-microsofts-supposed-quantum-leap-does-not-compute-due-to-basic-python-errors/5260489",
+    "title": "Boffin claims Microsoft's \"quantum leap\" is invalid due to \"basic Python errors\""
+  },
+  {
+    "source": "hn",
+    "url": "https://www.monolisa.dev/",
+    "title": "Show HN: Monolisa v3 – a typeface for developers and creatives"
+  },
+  {
+    "source": "hn",
+    "url": "https://pure-effect.org",
+    "title": "Show HN: Pure Effect – Reproduce production bugs on your laptop without a DB"
+  },
+  {
+    "source": "hn",
+    "url": "https://home.cern/francois-englert-1932-2026/",
+    "title": "François Englert (1932 – 2026)"
   },
   {
     "source": "hn",
@@ -56,98 +66,98 @@
   },
   {
     "source": "hn",
+    "url": "https://ben-mini.com/2026/stealing-is-a-skill",
+    "title": "Stealing Is a Skill"
+  },
+  {
+    "source": "hn",
     "url": "https://rworks.dev/posts/too-many-R-packages/",
     "title": "Too many R packages: CRAN is inundated with submissions"
   },
   {
-    "source": "hn",
-    "url": "http://beyondloom.com/blog/vectorgraphics.html",
-    "title": "Vector Graphics in Lil"
-  },
-  {
-    "source": "hn",
-    "url": "https://blog.racket-lang.org/2026/06/rhombus-v1.0.html",
-    "title": "Rhombus Language 1.0"
+    "source": "lobsters",
+    "url": "https://gitlab.gnome.org/balooii/gimp-0.54",
+    "title": "Flatpak package for GIMP 0.54.1 (1996)"
   },
   {
     "source": "lobsters",
-    "url": "https://www.davidrevoy.com/article1154/why-drawing-tablet-brands-wont-collaborate-on-linux-floss-drivers",
-    "title": "Why Drawing Tablet Brands Won't Collaborate on Linux FLOSS Drivers"
+    "url": "https://binaryigor.com/the-joy-and-power-of-understanding.html",
+    "title": "The Joy and Power of Understanding"
   },
   {
     "source": "lobsters",
-    "url": "https://people.kernel.org/paulmck/c-pointer-zap-and-oota-progress",
-    "title": "C++ Lifetime-End Pointer-Zap and OOTA Progress"
+    "url": "https://blog.glyph.im/2026/06/adversarial-communication.html",
+    "title": "Adversarial Communication"
   },
   {
     "source": "lobsters",
-    "url": "https://trop.in/blog/context-makes-tests-reusable",
-    "title": "Context Makes Tests Reusable"
+    "url": "https://lucumr.pocoo.org/2026/6/23/the-coming-loop/",
+    "title": "The Coming Loop"
   },
   {
     "source": "lobsters",
-    "url": "https://xenodium.com/ytr-youtube-radio-for-emacs",
-    "title": "ytr: YouTube radio for Emacs"
+    "url": "https://akselmo.dev/posts/please-keep-code-descriptions-simple/",
+    "title": "Please keep code descriptions simple"
   },
   {
     "source": "lobsters",
-    "url": "https://data-star.dev/essays/datastar_its_pretty_good",
-    "title": "Datastar – It’s Pretty Good"
+    "url": "https://ngrok.com/blog/aol-was-down-1996",
+    "title": "AOL was down (1996)"
   },
   {
     "source": "lobsters",
-    "url": "https://sujato.me/papal.html",
-    "title": "Papal Encyclical on AI From a Buddhist Monk’s Perspective"
+    "url": "https://words.filippo.io/vuln-reports/",
+    "title": "Vulnerability Reports Are Not Special Anymore"
   },
   {
     "source": "lobsters",
-    "url": "https://blobly.medv.io/",
-    "title": "Blobly"
+    "url": "https://haskellforall.com/2026/06/record-type-inference-for-dummies",
+    "title": "Record type inference for dummies"
   },
   {
     "source": "lobsters",
-    "url": "https://shaping.systems/blog/ai-sucks-hating-it-is-not-enough/",
-    "title": "AI sucks. Hating it is not enough"
+    "url": "https://blog.cloudflare.com/hyper-bug/",
+    "title": "How we found a bug in the hyper HTTP library"
   },
   {
     "source": "lobsters",
-    "url": "https://www.arp242.net/chestersons-finger.html",
-    "title": "Chesterton's middle finger"
+    "url": "https://utaw.tech/news/wikipedia-recognition",
+    "title": "UK Wikipedia Workers seek union recognition"
   },
   {
     "source": "lobsters",
-    "url": "https://lmao.center/blog/wiggle-accidents/",
-    "title": "help i accidentally a wigglegram"
+    "url": "https://rubycentral.org/news/announcing-the-rubyconf-vip-raffle/",
+    "title": "Announcing the RubyConf VIP Raffle"
   },
   {
     "source": "lobsters",
-    "url": "https://alexwlchan.net/2021/slashes/",
-    "title": "A tale of two path separators (2021)"
+    "url": "https://www.markround.com/blog/2026/06/17/25-its-only-when-you-look-back/",
+    "title": "It’s Only When You Look Back"
   },
   {
     "source": "lobsters",
-    "url": "https://fzakaria.com/2026/06/21/nix-needs-relocatable-binaries",
-    "title": "Nix needs relocatable binaries"
+    "url": "https://davidlattimore.github.io/posts/2023/10/09/making-supply-chain-attacks-harder.html",
+    "title": "Making Rust supply chain attacks harder with Cackle (2023)"
   },
   {
     "source": "lobsters",
-    "url": "https://www.freedesktop.org/software/systemd/man/257/systemd-bsod.service.html",
-    "title": "systemd-bsod.service"
+    "url": "https://refactoringenglish.com/excerpts/write-an-effective-design-doc/",
+    "title": "How to Write an Effective Software Design Document"
   },
   {
     "source": "lobsters",
-    "url": "https://pkgdemon.github.io/how-a-computer-should-work.html",
-    "title": "How a Computer Should Work"
+    "url": "https://eieio.games/blog/legibility-of-effort/",
+    "title": "Legibility of Effort"
   },
   {
     "source": "lobsters",
-    "url": "https://ruurtjan.com/articles/p99-0ms-autocomplete-for-240-million-domain-names",
-    "title": "p99 0ms* autocomplete for 240 million domain names"
+    "url": "https://slint.dev/blog/slint-1.17-released",
+    "title": "Slint 1.17 Released"
   },
   {
     "source": "lobsters",
-    "url": "https://nchammas.com/writing/custom-query-language-implementation",
-    "title": "Implementing a Custom Query Language with Python and Apache Spark"
+    "url": "https://nega.tv/posts/low-tech-ai-of-elden-ring.html",
+    "title": "The Low-Tech AI Of Elden Ring"
   },
   {
     "source": "pinboard",
@@ -158,11 +168,6 @@
     "source": "pinboard",
     "url": "https://docs.deno.com/runtime/desktop/",
     "title": "Desktop apps | Deno Docs"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://lucumr.pocoo.org/2026/6/23/the-coming-loop/",
-    "title": "The Coming Loop | Armin Ronacher's Thoughts and Writings"
   },
   {
     "source": "pinboard",
@@ -223,6 +228,11 @@
     "source": "pinboard",
     "url": "https://the-criterion-closet.vercel.app/",
     "title": "The Closet — the Criterion Collection"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://lmao.center/blog/wiggle-accidents/",
+    "title": "help i accidentally a wigglegram"
   },
   {
     "source": "pinboard",
