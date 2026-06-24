@@ -31,6 +31,11 @@
   },
   {
     "source": "hn",
+    "url": "https://blogs.nvidia.com/blog/liquid-cooling-ai-factories/",
+    "title": "45°C cooling design cuts data center water use to near zero"
+  },
+  {
+    "source": "hn",
     "url": "https://ben-mini.com/2026/stealing-is-a-skill",
     "title": "Stealing Is a Skill"
   },
@@ -41,8 +46,8 @@
   },
   {
     "source": "hn",
-    "url": "https://astral-os.org/posts/2026/04/03/wine-on-astral.html",
-    "title": "Running Windows Games on a Hobby OS with Wine"
+    "url": "https://sebastiangarren.com/2026/06/17/lending-is-meritorious-and-should-be-praised-how-the-fifth-lateran-council-unlocked-financial-theory/",
+    "title": "How the Fifth Lateran Council unlocked financial theory"
   },
   {
     "source": "hn",
@@ -51,18 +56,18 @@
   },
   {
     "source": "hn",
-    "url": "https://blogs.nvidia.com/blog/liquid-cooling-ai-factories/",
-    "title": "45°C cooling design cuts data center water use to near zero"
-  },
-  {
-    "source": "hn",
-    "url": "https://sebastiangarren.com/2026/06/17/lending-is-meritorious-and-should-be-praised-how-the-fifth-lateran-council-unlocked-financial-theory/",
-    "title": "How the Fifth Lateran Council unlocked financial theory"
+    "url": "https://astral-os.org/posts/2026/04/03/wine-on-astral.html",
+    "title": "Running Windows Games on a Hobby OS with Wine"
   },
   {
     "source": "hn",
     "url": "https://www.monolisa.dev/",
     "title": "Show HN: Monolisa v3 – a typeface for developers and creatives"
+  },
+  {
+    "source": "hn",
+    "url": "https://thomasliao.com/eval-startups",
+    "title": "Why eval startups fail (2025)"
   },
   {
     "source": "hn",
@@ -81,13 +86,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://refactoringenglish.com/excerpts/write-an-effective-design-doc/",
-    "title": "How to Write an Effective Software Design Document"
+    "url": "https://ngrok.com/blog/aol-was-down-1996",
+    "title": "AOL was down (1996) (2026)"
   },
   {
     "source": "lobsters",
-    "url": "https://ngrok.com/blog/aol-was-down-1996",
-    "title": "AOL was down (1996) (2026)"
+    "url": "https://refactoringenglish.com/excerpts/write-an-effective-design-doc/",
+    "title": "How to Write an Effective Software Design Document"
   },
   {
     "source": "lobsters",
@@ -103,11 +108,6 @@
     "source": "lobsters",
     "url": "https://slint.dev/blog/slint-1.17-released",
     "title": "Slint 1.17 Released"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://rubycentral.org/news/announcing-the-rubyconf-vip-raffle/",
-    "title": "Announcing the RubyConf VIP Raffle"
   },
   {
     "source": "lobsters",
@@ -133,6 +133,11 @@
     "source": "lobsters",
     "url": "https://kittenlabs.de/blamba/",
     "title": "Blåmba"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://httpwg.org/http-extensions/draft-ietf-httpbis-safe-method-w-body.html#section-1-5.2",
+    "title": "The HTTP QUERY Method"
   },
   {
     "source": "lobsters",
