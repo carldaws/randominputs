@@ -6,6 +6,21 @@
   },
   {
     "source": "hn",
+    "url": "https://www.krea.ai/blog/krea-2-technical-report",
+    "title": "Krea 2 Technical Report"
+  },
+  {
+    "source": "hn",
+    "url": "https://rworks.dev/posts/too-many-R-packages/",
+    "title": "Too many R packages: CRAN is inundated with submissions"
+  },
+  {
+    "source": "hn",
+    "url": "https://paolino.me/founding-a-company-in-germany/",
+    "title": "Founding a company in Germany: €9600, 152 days and I still can't send an invoice"
+  },
+  {
+    "source": "hn",
     "url": "https://words.filippo.io/vuln-reports/",
     "title": "Vulnerability reports are not special anymore"
   },
@@ -13,6 +28,11 @@
     "source": "hn",
     "url": "http://www.jerrysmap.com/the-map",
     "title": "Jerry's Map"
+  },
+  {
+    "source": "hn",
+    "url": "https://home.cern/francois-englert-1932-2026/",
+    "title": "François Englert (1932 – 2026)"
   },
   {
     "source": "hn",
@@ -26,8 +46,8 @@
   },
   {
     "source": "hn",
-    "url": "https://glyphcss.com",
-    "title": "Show HN: An ASCII 3D Rendering Engine"
+    "url": "https://fortune.com/2026/06/24/reid-hoffman-spacex-musk-openai-anthropic-gen-z-mistake/",
+    "title": "Reid Hoffman says SpaceX 'not an AI company', xAI 'complete train wreck'"
   },
   {
     "source": "hn",
@@ -41,8 +61,8 @@
   },
   {
     "source": "hn",
-    "url": "https://home.cern/francois-englert-1932-2026/",
-    "title": "François Englert (1932 – 2026)"
+    "url": "https://dynomight.net/vitamin-d/",
+    "title": "The worthlessness of Vitamin D is mildly exaggerated"
   },
   {
     "source": "hn",
@@ -51,28 +71,13 @@
   },
   {
     "source": "hn",
-    "url": "https://dynomight.net/vitamin-d/",
-    "title": "The worthlessness of Vitamin D is mildly exaggerated"
-  },
-  {
-    "source": "hn",
     "url": "https://ps.tc/pages/blog-usbliter8.html",
     "title": "Usbliter8: an A12/A13 SecureROM Exploit"
   },
   {
-    "source": "hn",
-    "url": "https://www.thedrive.com/news/this-man-was-gifted-his-dream-car-by-the-notorious-hacker-he-put-in-prison",
-    "title": "A man was gifted his dream car by Kevin Mitnick, who he helped put in prison"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.muppetlabs.com/~breadbox/software/tiny/revisit.html",
-    "title": "The Teensy Executable Revisited"
-  },
-  {
-    "source": "hn",
-    "url": "https://nega.tv/posts/low-tech-ai-of-elden-ring.html",
-    "title": "The Low-Tech AI of Elden Ring"
+    "source": "lobsters",
+    "url": "https://gitlab.gnome.org/balooii/gimp-0.54",
+    "title": "Flatpak package for GIMP 0.54.1 (1996)"
   },
   {
     "source": "lobsters",
@@ -101,23 +106,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://gitlab.gnome.org/balooii/gimp-0.54",
-    "title": "Flatpak package for GIMP 0.54.1 (1996)"
-  },
-  {
-    "source": "lobsters",
     "url": "https://www.markround.com/blog/2026/06/17/25-its-only-when-you-look-back/",
     "title": "It’s Only When You Look Back"
   },
   {
     "source": "lobsters",
-    "url": "https://blog.cloudflare.com/hyper-bug/",
-    "title": "How we found a bug in the hyper HTTP library"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://pan.earth/posts/antithesis-broligarchy.html",
-    "title": "TWM antithesis: Broligarchy"
+    "url": "https://lucumr.pocoo.org/2026/6/23/the-coming-loop/",
+    "title": "The Coming Loop"
   },
   {
     "source": "lobsters",
@@ -126,8 +121,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://lucumr.pocoo.org/2026/6/23/the-coming-loop/",
-    "title": "The Coming Loop"
+    "url": "https://blog.cloudflare.com/hyper-bug/",
+    "title": "How we found a bug in the hyper HTTP library"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://nega.tv/posts/low-tech-ai-of-elden-ring.html",
+    "title": "The Low-Tech AI Of Elden Ring"
   },
   {
     "source": "lobsters",
