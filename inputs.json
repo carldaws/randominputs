@@ -6,13 +6,18 @@
   },
   {
     "source": "hn",
+    "url": "https://ben-mini.com/2026/stealing-is-a-skill",
+    "title": "Stealing Is a Skill"
+  },
+  {
+    "source": "hn",
     "url": "https://www.krea.ai/blog/krea-2-technical-report",
     "title": "Krea 2 Technical Report"
   },
   {
     "source": "hn",
-    "url": "https://rworks.dev/posts/too-many-R-packages/",
-    "title": "Too many R packages: CRAN is inundated with submissions"
+    "url": "https://astral-os.org/posts/2026/04/03/wine-on-astral.html",
+    "title": "Running Windows Games on a Hobby OS with Wine"
   },
   {
     "source": "hn",
@@ -41,8 +46,18 @@
   },
   {
     "source": "hn",
-    "url": "https://thomasliao.com/eval-startups",
-    "title": "Why eval startups fail (2025)"
+    "url": "https://pure-effect.org",
+    "title": "Show HN: Pure Effect – Reproduce production bugs on your laptop without a DB"
+  },
+  {
+    "source": "hn",
+    "url": "https://rworks.dev/posts/too-many-R-packages/",
+    "title": "Too many R packages: CRAN is inundated with submissions"
+  },
+  {
+    "source": "hn",
+    "url": "https://blog.racket-lang.org/2026/06/rhombus-v1.0.html",
+    "title": "Rhombus Language 1.0"
   },
   {
     "source": "hn",
@@ -56,11 +71,6 @@
   },
   {
     "source": "hn",
-    "url": "https://blog.racket-lang.org/2026/06/rhombus-v1.0.html",
-    "title": "Rhombus Language 1.0"
-  },
-  {
-    "source": "hn",
     "url": "https://dynomight.net/vitamin-d/",
     "title": "The worthlessness of Vitamin D is mildly exaggerated"
   },
@@ -70,19 +80,14 @@
     "title": "Show HN: TikZ Editor – WYSIWYG editor for figures in LaTeX"
   },
   {
-    "source": "hn",
-    "url": "https://ps.tc/pages/blog-usbliter8.html",
-    "title": "Usbliter8: an A12/A13 SecureROM Exploit"
-  },
-  {
     "source": "lobsters",
     "url": "https://gitlab.gnome.org/balooii/gimp-0.54",
     "title": "Flatpak package for GIMP 0.54.1 (1996)"
   },
   {
     "source": "lobsters",
-    "url": "https://akselmo.dev/posts/please-keep-code-descriptions-simple/",
-    "title": "Please keep code descriptions simple"
+    "url": "https://binaryigor.com/the-joy-and-power-of-understanding.html",
+    "title": "The Joy and Power of Understanding"
   },
   {
     "source": "lobsters",
@@ -91,8 +96,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://binaryigor.com/the-joy-and-power-of-understanding.html",
-    "title": "The Joy and Power of Understanding"
+    "url": "https://akselmo.dev/posts/please-keep-code-descriptions-simple/",
+    "title": "Please keep code descriptions simple"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://lucumr.pocoo.org/2026/6/23/the-coming-loop/",
+    "title": "The Coming Loop"
   },
   {
     "source": "lobsters",
@@ -111,11 +121,6 @@
   },
   {
     "source": "lobsters",
-    "url": "https://lucumr.pocoo.org/2026/6/23/the-coming-loop/",
-    "title": "The Coming Loop"
-  },
-  {
-    "source": "lobsters",
     "url": "https://davidlattimore.github.io/posts/2023/10/09/making-supply-chain-attacks-harder.html",
     "title": "Making Rust supply chain attacks harder with Cackle (2023)"
   },
@@ -126,18 +131,23 @@
   },
   {
     "source": "lobsters",
+    "url": "https://ngrok.com/blog/aol-was-down-1996",
+    "title": "AOL was down (1996)"
+  },
+  {
+    "source": "lobsters",
     "url": "https://nega.tv/posts/low-tech-ai-of-elden-ring.html",
     "title": "The Low-Tech AI Of Elden Ring"
   },
   {
     "source": "lobsters",
-    "url": "https://www.davidrevoy.com/article1154/why-drawing-tablet-brands-wont-collaborate-on-linux-floss-drivers",
-    "title": "Why Drawing Tablet Brands Won't Collaborate on Linux FLOSS Drivers"
+    "url": "https://slint.dev/blog/slint-1.17-released",
+    "title": "Slint 1.17 Released"
   },
   {
     "source": "lobsters",
-    "url": "https://trop.in/blog/context-makes-tests-reusable",
-    "title": "Context Makes Tests Reusable"
+    "url": "https://www.davidrevoy.com/article1154/why-drawing-tablet-brands-wont-collaborate-on-linux-floss-drivers",
+    "title": "Why Drawing Tablet Brands Won't Collaborate on Linux FLOSS Drivers"
   },
   {
     "source": "pinboard",
