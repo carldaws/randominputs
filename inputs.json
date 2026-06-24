@@ -1,13 +1,13 @@
 [
   {
     "source": "hn",
-    "url": "https://words.filippo.io/vuln-reports/",
-    "title": "Vulnerability reports are not special anymore"
+    "url": "https://bunny.net/blog/were-making-bunny-dns-free/",
+    "title": "We're making Bunny DNS free: because a faster internet won't build itself"
   },
   {
     "source": "hn",
-    "url": "https://glyphcss.com",
-    "title": "Show HN: An ASCII 3D Rendering Engine"
+    "url": "https://words.filippo.io/vuln-reports/",
+    "title": "Vulnerability reports are not special anymore"
   },
   {
     "source": "hn",
@@ -16,23 +16,28 @@
   },
   {
     "source": "hn",
-    "url": "https://thomasliao.com/eval-startups",
-    "title": "Why eval startups fail (2025)"
-  },
-  {
-    "source": "hn",
     "url": "https://swipe.futo.tech/",
     "title": "FUTO Swipe – A new swipe typing model"
   },
   {
     "source": "hn",
-    "url": "https://blog.racket-lang.org/2026/06/rhombus-v1.0.html",
-    "title": "Rhombus Language 1.0"
+    "url": "https://glyphcss.com",
+    "title": "Show HN: An ASCII 3D Rendering Engine"
   },
   {
     "source": "hn",
-    "url": "https://www.thedrive.com/news/this-man-was-gifted-his-dream-car-by-the-notorious-hacker-he-put-in-prison",
-    "title": "A man was gifted his dream car by Kevin Mitnick, who he helped put in prison"
+    "url": "https://thomasliao.com/eval-startups",
+    "title": "Why eval startups fail (2025)"
+  },
+  {
+    "source": "hn",
+    "url": "http://beyondloom.com/blog/vectorgraphics.html",
+    "title": "Vector Graphics in Lil"
+  },
+  {
+    "source": "hn",
+    "url": "https://blog.racket-lang.org/2026/06/rhombus-v1.0.html",
+    "title": "Rhombus Language 1.0"
   },
   {
     "source": "hn",
@@ -51,6 +56,11 @@
   },
   {
     "source": "hn",
+    "url": "https://www.thedrive.com/news/this-man-was-gifted-his-dream-car-by-the-notorious-hacker-he-put-in-prison",
+    "title": "A man was gifted his dream car by Kevin Mitnick, who he helped put in prison"
+  },
+  {
+    "source": "hn",
     "url": "https://www.wired.com/story/meta-pauses-employee-tracking-program-following-internal-security-breach/",
     "title": "Meta Pauses Employee-Tracking Program Following Internal Data Leak"
   },
@@ -58,11 +68,6 @@
     "source": "hn",
     "url": "https://www.muppetlabs.com/~breadbox/software/tiny/revisit.html",
     "title": "The Teensy Executable Revisited"
-  },
-  {
-    "source": "hn",
-    "url": "https://fogus.me/fun/lithp/",
-    "title": "Lithp.py (~2008)"
   },
   {
     "source": "hn",
@@ -75,24 +80,9 @@
     "title": "The Low-Tech AI of Elden Ring"
   },
   {
-    "source": "hn",
-    "url": "https://primecrunch.com/blog/2/hunting-million-digit-primes-from-my-loft",
-    "title": "Hunting Million-Digit Primes from My Loft"
-  },
-  {
     "source": "lobsters",
     "url": "https://akselmo.dev/posts/please-keep-code-descriptions-simple/",
     "title": "Please keep code descriptions simple"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://haskellforall.com/2026/06/record-type-inference-for-dummies",
-    "title": "Record type inference for dummies"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://www.markround.com/blog/2026/06/17/25-its-only-when-you-look-back/",
-    "title": "It’s Only When You Look Back"
   },
   {
     "source": "lobsters",
@@ -101,8 +91,18 @@
   },
   {
     "source": "lobsters",
+    "url": "https://haskellforall.com/2026/06/record-type-inference-for-dummies",
+    "title": "Record type inference for dummies"
+  },
+  {
+    "source": "lobsters",
     "url": "https://eieio.games/blog/legibility-of-effort/",
     "title": "Legibility of Effort"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://www.markround.com/blog/2026/06/17/25-its-only-when-you-look-back/",
+    "title": "It’s Only When You Look Back"
   },
   {
     "source": "lobsters",
@@ -116,23 +116,33 @@
   },
   {
     "source": "lobsters",
+    "url": "https://binaryigor.com/the-joy-and-power-of-understanding.html",
+    "title": "The Joy and Power of Understanding"
+  },
+  {
+    "source": "lobsters",
     "url": "https://www.davidrevoy.com/article1154/why-drawing-tablet-brands-wont-collaborate-on-linux-floss-drivers",
     "title": "Why Drawing Tablet Brands Won't Collaborate on Linux FLOSS Drivers"
   },
   {
     "source": "lobsters",
+    "url": "https://lucumr.pocoo.org/2026/6/23/the-coming-loop/",
+    "title": "The Coming Loop"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://gitlab.gnome.org/balooii/gimp-0.54",
+    "title": "Flatpak package for GIMP 0.54.1 (1996)"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://pan.earth/posts/antithesis-broligarchy.html",
+    "title": "TWM antithesis: Broligarchy"
+  },
+  {
+    "source": "lobsters",
     "url": "https://xenodium.com/ytr-youtube-radio-for-emacs",
     "title": "ytr: YouTube radio for Emacs"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://data-star.dev/essays/datastar_its_pretty_good",
-    "title": "Datastar – It’s Pretty Good"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://blobly.medv.io/",
-    "title": "Blobly"
   },
   {
     "source": "pinboard",
@@ -143,11 +153,6 @@
     "source": "pinboard",
     "url": "https://docs.deno.com/runtime/desktop/",
     "title": "Desktop apps | Deno Docs"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://lucumr.pocoo.org/2026/6/23/the-coming-loop/",
-    "title": "The Coming Loop | Armin Ronacher's Thoughts and Writings"
   },
   {
     "source": "pinboard",
