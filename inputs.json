@@ -11,8 +11,8 @@
   },
   {
     "source": "hn",
-    "url": "https://www.browserbase.com/blog/why-captchas-are-getting-harder",
-    "title": "CAPTCHAs have failed for 20 years"
+    "url": "https://blog.omgmog.net/post/xteink-x4-e-ink-reader/",
+    "title": "The Xteink X4 E-Ink Reader"
   },
   {
     "source": "hn",
@@ -21,13 +21,13 @@
   },
   {
     "source": "hn",
-    "url": "https://blog.omgmog.net/post/xteink-x4-e-ink-reader/",
-    "title": "The Xteink X4 E-Ink Reader"
+    "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-computer-use-gemini-3-5-flash/",
+    "title": "Computer use in Gemini 3.5 Flash"
   },
   {
     "source": "hn",
-    "url": "https://astral-os.org/posts/2026/04/03/wine-on-astral.html",
-    "title": "Running Windows Games on a Hobby OS with Wine"
+    "url": "https://ben-mini.com/2026/stealing-is-a-skill",
+    "title": "Stealing Is a Skill"
   },
   {
     "source": "hn",
@@ -36,8 +36,23 @@
   },
   {
     "source": "hn",
+    "url": "https://astral-os.org/posts/2026/04/03/wine-on-astral.html",
+    "title": "Running Windows Games on a Hobby OS with Wine"
+  },
+  {
+    "source": "hn",
     "url": "https://svpow.com/2026/06/04/genuinely-my-all-time-favourite-image-mamenchisaurus-hochuanensis/",
     "title": "Genuinely, my all-time favourite image: Mamenchisaurus hochuanensis"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.monolisa.dev/",
+    "title": "Show HN: Monolisa v3 – a typeface for developers and creatives"
+  },
+  {
+    "source": "hn",
+    "url": "https://thomasliao.com/eval-startups",
+    "title": "Why eval startups fail (2025)"
   },
   {
     "source": "hn",
@@ -46,8 +61,13 @@
   },
   {
     "source": "hn",
-    "url": "https://www.monolisa.dev/",
-    "title": "Show HN: Monolisa v3 – a typeface for developers and creatives"
+    "url": "https://werd.io/journalism-is-rearranging-the-deckchairs-it-needs-to-reinvent-itself/",
+    "title": "Journalism is rearranging the deckchairs. It needs to reinvent itself"
+  },
+  {
+    "source": "hn",
+    "url": "https://rworks.dev/posts/too-many-R-packages/",
+    "title": "Too many R packages: CRAN is inundated with submissions"
   },
   {
     "source": "hn",
@@ -61,18 +81,8 @@
   },
   {
     "source": "hn",
-    "url": "https://ucbskyadrs.github.io/blog/levi/",
-    "title": "Systems optimization should be part of CI/CD"
-  },
-  {
-    "source": "hn",
-    "url": "https://ben-mini.com/2026/stealing-is-a-skill",
-    "title": "Stealing Is a Skill"
-  },
-  {
-    "source": "hn",
-    "url": "https://home.cern/francois-englert-1932-2026/",
-    "title": "François Englert (1932 – 2026)"
+    "url": "https://www.browserbase.com/blog/why-captchas-are-getting-harder",
+    "title": "CAPTCHAs have failed for 20 years"
   },
   {
     "source": "lobsters",
@@ -91,28 +101,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://lucumr.pocoo.org/2026/6/23/the-coming-loop/",
-    "title": "The Coming Loop"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://blog.glyph.im/2026/06/adversarial-communication.html",
-    "title": "Adversarial Communication"
-  },
-  {
-    "source": "lobsters",
     "url": "https://utaw.tech/news/wikipedia-recognition",
     "title": "UK Wikipedia Workers seek union recognition"
   },
   {
     "source": "lobsters",
-    "url": "https://akselmo.dev/posts/please-keep-code-descriptions-simple/",
-    "title": "Please keep code descriptions simple"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://rubycentral.org/news/announcing-the-rubyconf-vip-raffle/",
-    "title": "Announcing the RubyConf VIP Raffle"
+    "url": "https://lucumr.pocoo.org/2026/6/23/the-coming-loop/",
+    "title": "The Coming Loop"
   },
   {
     "source": "lobsters",
@@ -121,13 +116,28 @@
   },
   {
     "source": "lobsters",
-    "url": "https://words.filippo.io/vuln-reports/",
-    "title": "Vulnerability Reports Are Not Special Anymore"
+    "url": "https://rubycentral.org/news/announcing-the-rubyconf-vip-raffle/",
+    "title": "Announcing the RubyConf VIP Raffle"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://blog.glyph.im/2026/06/adversarial-communication.html",
+    "title": "Adversarial Communication"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://akselmo.dev/posts/please-keep-code-descriptions-simple/",
+    "title": "Please keep code descriptions simple"
   },
   {
     "source": "lobsters",
     "url": "https://slint.dev/blog/slint-1.17-released",
     "title": "Slint 1.17 Released"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://words.filippo.io/vuln-reports/",
+    "title": "Vulnerability Reports Are Not Special Anymore"
   },
   {
     "source": "lobsters",
@@ -158,6 +168,11 @@
     "source": "lobsters",
     "url": "https://kittenlabs.de/blamba/",
     "title": "Blåmba"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://steveharrison.dev/showdirectorypicker-opens-up-a-whole-new-world/",
+    "title": "window.showDirectoryPicker opens up a whole new world"
   },
   {
     "source": "pinboard",
