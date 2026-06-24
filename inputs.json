@@ -11,11 +11,6 @@
   },
   {
     "source": "hn",
-    "url": "https://blog.omgmog.net/post/xteink-x4-e-ink-reader/",
-    "title": "The Xteink X4 E-Ink Reader"
-  },
-  {
-    "source": "hn",
     "url": "https://www.greptile.com/blog/prs-on-openclaw",
     "title": "PR spam today looks like email spam in the early 2000s"
   },
@@ -41,23 +36,13 @@
   },
   {
     "source": "hn",
-    "url": "https://svpow.com/2026/06/04/genuinely-my-all-time-favourite-image-mamenchisaurus-hochuanensis/",
-    "title": "Genuinely, my all-time favourite image: Mamenchisaurus hochuanensis"
-  },
-  {
-    "source": "hn",
     "url": "https://www.monolisa.dev/",
     "title": "Show HN: Monolisa v3 – a typeface for developers and creatives"
   },
   {
     "source": "hn",
-    "url": "https://thomasliao.com/eval-startups",
-    "title": "Why eval startups fail (2025)"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.theregister.com/research/2026/06/24/boffin-claims-microsofts-supposed-quantum-leap-does-not-compute-due-to-basic-python-errors/5260489",
-    "title": "Boffin claims Microsoft's \"quantum leap\" is invalid due to \"basic Python errors\""
+    "url": "https://svpow.com/2026/06/04/genuinely-my-all-time-favourite-image-mamenchisaurus-hochuanensis/",
+    "title": "Genuinely, my all-time favourite image: Mamenchisaurus hochuanensis"
   },
   {
     "source": "hn",
@@ -66,8 +51,18 @@
   },
   {
     "source": "hn",
+    "url": "https://thomasliao.com/eval-startups",
+    "title": "Why eval startups fail (2025)"
+  },
+  {
+    "source": "hn",
     "url": "https://rworks.dev/posts/too-many-R-packages/",
     "title": "Too many R packages: CRAN is inundated with submissions"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.theregister.com/research/2026/06/24/boffin-claims-microsofts-supposed-quantum-leap-does-not-compute-due-to-basic-python-errors/5260489",
+    "title": "Boffin claims Microsoft’s “quantum leap” is invalid due to “basic Python errors”"
   },
   {
     "source": "hn",
@@ -76,18 +71,13 @@
   },
   {
     "source": "hn",
-    "url": "https://paolino.me/founding-a-company-in-germany/",
-    "title": "Founding a company in Germany: €9600, 152 days and I still can't send an invoice"
+    "url": "https://blog.omgmog.net/post/xteink-x4-e-ink-reader/",
+    "title": "The Xteink X4 E-Ink Reader"
   },
   {
     "source": "hn",
-    "url": "https://www.browserbase.com/blog/why-captchas-are-getting-harder",
-    "title": "CAPTCHAs have failed for 20 years"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://gitlab.gnome.org/balooii/gimp-0.54",
-    "title": "Flatpak package for GIMP 0.54.1 (1996)"
+    "url": "https://posthog.com/blog/sql-parser",
+    "title": "I rewrote PostHog's SQL parser, 70x faster, while barely looking at the code"
   },
   {
     "source": "lobsters",
@@ -96,8 +86,18 @@
   },
   {
     "source": "lobsters",
+    "url": "https://gitlab.gnome.org/balooii/gimp-0.54",
+    "title": "Flatpak package for GIMP 0.54.1 (1996)"
+  },
+  {
+    "source": "lobsters",
     "url": "https://ngrok.com/blog/aol-was-down-1996",
     "title": "AOL was down (1996)"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://refactoringenglish.com/excerpts/write-an-effective-design-doc/",
+    "title": "How to Write an Effective Software Design Document"
   },
   {
     "source": "lobsters",
@@ -108,11 +108,6 @@
     "source": "lobsters",
     "url": "https://lucumr.pocoo.org/2026/6/23/the-coming-loop/",
     "title": "The Coming Loop"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://refactoringenglish.com/excerpts/write-an-effective-design-doc/",
-    "title": "How to Write an Effective Software Design Document"
   },
   {
     "source": "lobsters",
@@ -156,6 +151,11 @@
   },
   {
     "source": "lobsters",
+    "url": "https://kittenlabs.de/blamba/",
+    "title": "Blåmba"
+  },
+  {
+    "source": "lobsters",
     "url": "https://www.markround.com/blog/2026/06/17/25-its-only-when-you-look-back/",
     "title": "It’s Only When You Look Back"
   },
@@ -163,16 +163,6 @@
     "source": "lobsters",
     "url": "https://eieio.games/blog/legibility-of-effort/",
     "title": "Legibility of Effort"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://kittenlabs.de/blamba/",
-    "title": "Blåmba"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://steveharrison.dev/showdirectorypicker-opens-up-a-whole-new-world/",
-    "title": "window.showDirectoryPicker opens up a whole new world"
   },
   {
     "source": "pinboard",
