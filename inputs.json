@@ -11,23 +11,18 @@
   },
   {
     "source": "hn",
-    "url": "https://www.thedrive.com/news/this-man-was-gifted-his-dream-car-by-the-notorious-hacker-he-put-in-prison",
-    "title": "A man was gifted his dream car by Kevin Mitnick, who he helped put in prison"
-  },
-  {
-    "source": "hn",
     "url": "https://swipe.futo.tech/",
     "title": "FUTO Swipe – A new swipe typing model"
   },
   {
     "source": "hn",
-    "url": "https://ps.tc/pages/blog-usbliter8.html",
-    "title": "Usbliter8: an A12/A13 SecureROM Exploit"
+    "url": "https://glyphcss.com",
+    "title": "Show HN: An ASCII 3D Rendering Engine"
   },
   {
     "source": "hn",
-    "url": "https://www.lse.ac.uk/granthaminstitute/events/extreme-heat-improving-governance-and-strengthening-action-around-the-world/",
-    "title": "Extreme Heat conference cancelled due to extreme heat warning"
+    "url": "https://ps.tc/pages/blog-usbliter8.html",
+    "title": "Usbliter8: an A12/A13 SecureROM Exploit"
   },
   {
     "source": "hn",
@@ -56,28 +51,38 @@
   },
   {
     "source": "hn",
+    "url": "https://www.muppetlabs.com/~breadbox/software/tiny/revisit.html",
+    "title": "The Teensy Executable Revisited"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.thedrive.com/news/this-man-was-gifted-his-dream-car-by-the-notorious-hacker-he-put-in-prison",
+    "title": "A man was gifted his dream car by Kevin Mitnick, who he helped put in prison"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.lse.ac.uk/granthaminstitute/events/extreme-heat-improving-governance-and-strengthening-action-around-the-world/",
+    "title": "Extreme Heat conference cancelled due to extreme heat warning"
+  },
+  {
+    "source": "hn",
+    "url": "https://primecrunch.com/blog/2/hunting-million-digit-primes-from-my-loft",
+    "title": "Hunting Million-Digit Primes from My Loft"
+  },
+  {
+    "source": "hn",
     "url": "https://www.patrickdomanico.com/bpm/2026/06/16/inventing-the-future-one-lisp-machine-at-a-time/",
     "title": "Inventing the Future, One Lisp Machine at a Time"
   },
   {
     "source": "hn",
-    "url": "https://qsoe-dev.blogspot.com/2026/06/qsoe-project-v01-is-released.html",
-    "title": "QSOE: QNX-inspired OS with dual-kernel architecture"
-  },
-  {
-    "source": "hn",
-    "url": "https://natkr.com/2026-06-19-nixos-but-smol/",
-    "title": "I can haz smoller NixOS ISOs?"
-  },
-  {
-    "source": "hn",
-    "url": "https://fastubu.com/",
-    "title": "Show HN: FastUbu – An Ultrafast Video Archive"
-  },
-  {
-    "source": "hn",
     "url": "https://nega.tv/posts/low-tech-ai-of-elden-ring.html",
     "title": "The Low-Tech AI of Elden Ring"
+  },
+  {
+    "source": "hn",
+    "url": "https://qsoe-dev.blogspot.com/2026/06/qsoe-project-v01-is-released.html",
+    "title": "QSOE: QNX-inspired OS with dual-kernel architecture"
   },
   {
     "source": "lobsters",
@@ -101,18 +106,28 @@
   },
   {
     "source": "lobsters",
+    "url": "https://blog.glyph.im/2026/06/adversarial-communication.html",
+    "title": "Adversarial Communication"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://eieio.games/blog/legibility-of-effort/",
+    "title": "Legibility of Effort"
+  },
+  {
+    "source": "lobsters",
     "url": "https://blog.cloudflare.com/hyper-bug/",
     "title": "How we found a bug in the hyper HTTP library"
   },
   {
     "source": "lobsters",
-    "url": "https://blobly.medv.io/",
-    "title": "Blobly"
+    "url": "https://xenodium.com/ytr-youtube-radio-for-emacs",
+    "title": "ytr: YouTube radio for Emacs"
   },
   {
     "source": "lobsters",
-    "url": "https://xenodium.com/ytr-youtube-radio-for-emacs",
-    "title": "ytr: YouTube radio for Emacs"
+    "url": "https://blobly.medv.io/",
+    "title": "Blobly"
   },
   {
     "source": "lobsters",
@@ -128,5 +143,105 @@
     "source": "lobsters",
     "url": "https://lmao.center/blog/wiggle-accidents/",
     "title": "help i accidentally a wigglegram"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://moultano.wordpress.com/2026/06/19/where-to-find-the-colors-your-screen-cant-show-you/",
+    "title": "Where to Find the Colors Your Screen Can’t Show You – Ryan Moulton's Articles"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://docs.deno.com/runtime/desktop/",
+    "title": "Desktop apps | Deno Docs"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://nevergivethemyourface.com/",
+    "title": "Never Give Them Your Face"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://townsquare.cauenapier.com/",
+    "title": "TownSquare — a tiny presence layer for websites"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://hawksley.dev/blog/json-ld-explained-for-personal-websites/",
+    "title": "JSON-LD Explained for Personal Websites | Ethan Hawksley"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://european.social/",
+    "title": "The European Social Stack — An open declaration"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://alexkritchevsky.com/2026/05/25/everything-is-logarithms.html",
+    "title": "Everything Is Logarithms"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.marble.onl/posts/cancel_claude.html",
+    "title": "cancel_claude"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://screen.toys/",
+    "title": "screen toys"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://overreacted.io/there-are-no-instances-in-atproto/",
+    "title": "There Are No Instances in atproto"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://aresluna.org/show-your-hands-honor/",
+    "title": "Show your hands honor for the strange power they bring you – Aresluna"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://techstackups.com/comparisons/glm-5.2-vs-opus/",
+    "title": "GLM-5.2 vs Claude Opus | Tech Stackups"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://apertvs.ai/",
+    "title": "APERTVS.ai Fully Open Foundation Model for Sovereign AI Developed by the Swiss AI Initiative as a collaborative effort between EPFL, ETH Zurich, and CSCS. Open weights, open data, open science"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://hyperblam.how/",
+    "title": "Hyperblam Docs Home : HYPERBLAM"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.openculture.com/freeonlinecourses",
+    "title": "1200 Free Online Courses from Top Universities | Open Culture"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://vickiboykis.com/2026/06/15/running-local-models-is-good-now/",
+    "title": "Running local models is good now | ✰Vicki Boykis✰"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://waxy.org/2026/06/the-wholesale-plagiarism-of-obscure-sorrows/",
+    "title": "The Wholesale Plagiarism of Obscure Sorrows - Waxy.org"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://matthewbutterick.com/extinction-level-capitalism.html",
+    "title": "Matthew Butterick | Extinction-level capitalism"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.robinsloan.com/lab/de-datafication/",
+    "title": "De-datafication"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://cs336.stanford.edu/spring2025/",
+    "title": "Stanford CS336 | Language Modeling from Scratch (2025)"
   }
 ]
