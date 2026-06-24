@@ -1,11 +1,6 @@
 [
   {
     "source": "hn",
-    "url": "https://www.cwu.org/press_release/wikipedia-workers-to-seek-union-recognition/",
-    "title": "Wikipedia Workers to Seek Union Recognition"
-  },
-  {
-    "source": "hn",
     "url": "https://rubyllm.com/",
     "title": "RubyLLM: A Ruby framework for all major AI providers"
   },
@@ -21,13 +16,13 @@
   },
   {
     "source": "hn",
-    "url": "https://www.krea.ai/blog/krea-2-technical-report",
-    "title": "Krea 2: SOTA open-weights 12B image model"
+    "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-computer-use-gemini-3-5-flash/",
+    "title": "Computer use in Gemini 3.5 Flash"
   },
   {
     "source": "hn",
-    "url": "https://ben-mini.com/2026/stealing-is-a-skill",
-    "title": "Stealing Is a Skill"
+    "url": "https://blog.omgmog.net/post/xteink-x4-e-ink-reader/",
+    "title": "The Xteink X4 E-Ink Reader"
   },
   {
     "source": "hn",
@@ -36,18 +31,33 @@
   },
   {
     "source": "hn",
+    "url": "https://ben-mini.com/2026/stealing-is-a-skill",
+    "title": "Stealing Is a Skill"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.krea.ai/blog/krea-2-technical-report",
+    "title": "Krea 2: SOTA open-weights 12B image model"
+  },
+  {
+    "source": "hn",
     "url": "https://astral-os.org/posts/2026/04/03/wine-on-astral.html",
     "title": "Running Windows Games on a Hobby OS with Wine"
   },
   {
     "source": "hn",
-    "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-computer-use-gemini-3-5-flash/",
-    "title": "Computer use in Gemini 3.5 Flash"
+    "url": "https://natkr.com/2026-06-19-nixos-but-smol/",
+    "title": "I can haz smoller NixOS ISOs?"
   },
   {
     "source": "hn",
-    "url": "https://posthog.com/blog/sql-parser",
-    "title": "I rewrote PostHog's SQL parser, 70x faster, while barely looking at the code"
+    "url": "https://blogs.nvidia.com/blog/liquid-cooling-ai-factories/",
+    "title": "45°C cooling design cuts data center water use to near zero"
+  },
+  {
+    "source": "hn",
+    "url": "https://sebastiangarren.com/2026/06/17/lending-is-meritorious-and-should-be-praised-how-the-fifth-lateran-council-unlocked-financial-theory/",
+    "title": "How the Fifth Lateran Council unlocked financial theory"
   },
   {
     "source": "hn",
@@ -60,39 +70,9 @@
     "title": "Genuinely, my all-time favourite image: Mamenchisaurus hochuanensis"
   },
   {
-    "source": "hn",
-    "url": "https://thomasliao.com/eval-startups",
-    "title": "Why eval startups fail (2025)"
-  },
-  {
-    "source": "hn",
-    "url": "https://rworks.dev/posts/too-many-R-packages/",
-    "title": "Too many R packages: CRAN is inundated with submissions"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.theregister.com/research/2026/06/24/boffin-claims-microsofts-supposed-quantum-leap-does-not-compute-due-to-basic-python-errors/5260489",
-    "title": "Boffin claims Microsoft’s “quantum leap” is invalid due to “basic Python errors”"
-  },
-  {
-    "source": "hn",
-    "url": "https://pure-effect.org",
-    "title": "Show HN: Pure Effect – Reproduce production bugs on your laptop without a DB"
-  },
-  {
     "source": "lobsters",
     "url": "https://binaryigor.com/the-joy-and-power-of-understanding.html",
     "title": "The Joy and Power of Understanding"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://gitlab.gnome.org/balooii/gimp-0.54",
-    "title": "Flatpak package for GIMP 0.54.1 (1996)"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://ngrok.com/blog/aol-was-down-1996",
-    "title": "AOL was down (1996) (2026)"
   },
   {
     "source": "lobsters",
@@ -106,13 +86,18 @@
   },
   {
     "source": "lobsters",
-    "url": "https://lucumr.pocoo.org/2026/6/23/the-coming-loop/",
-    "title": "The Coming Loop"
+    "url": "https://ngrok.com/blog/aol-was-down-1996",
+    "title": "AOL was down (1996) (2026)"
   },
   {
     "source": "lobsters",
-    "url": "https://rubycentral.org/news/announcing-the-rubyconf-vip-raffle/",
-    "title": "Announcing the RubyConf VIP Raffle"
+    "url": "https://gitlab.gnome.org/balooii/gimp-0.54",
+    "title": "Flatpak package for GIMP 0.54.1 (1996)"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://lucumr.pocoo.org/2026/6/23/the-coming-loop/",
+    "title": "The Coming Loop"
   },
   {
     "source": "lobsters",
@@ -121,23 +106,18 @@
   },
   {
     "source": "lobsters",
+    "url": "https://rubycentral.org/news/announcing-the-rubyconf-vip-raffle/",
+    "title": "Announcing the RubyConf VIP Raffle"
+  },
+  {
+    "source": "lobsters",
     "url": "https://blog.glyph.im/2026/06/adversarial-communication.html",
     "title": "Adversarial Communication"
   },
   {
     "source": "lobsters",
-    "url": "https://akselmo.dev/posts/please-keep-code-descriptions-simple/",
-    "title": "Please keep code descriptions simple"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://blog.cloudflare.com/hyper-bug/",
-    "title": "How we found a bug in the hyper HTTP library"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://words.filippo.io/vuln-reports/",
-    "title": "Vulnerability Reports Are Not Special Anymore"
+    "url": "https://whynothugo.nl/journal/2026/06/24/ignore-dnssec-if-you-like-mitm-attacks/",
+    "title": "Ignore DNSSEC if you like MITM attacks"
   },
   {
     "source": "lobsters",
@@ -146,23 +126,28 @@
   },
   {
     "source": "lobsters",
-    "url": "https://davidlattimore.github.io/posts/2023/10/09/making-supply-chain-attacks-harder.html",
-    "title": "Making Rust supply chain attacks harder with Cackle (2023)"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://steveharrison.dev/showdirectorypicker-opens-up-a-whole-new-world/",
-    "title": "window.showDirectoryPicker opens up a whole new world"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://haskellforall.com/2026/06/record-type-inference-for-dummies",
-    "title": "Record type inference for dummies"
+    "url": "https://akselmo.dev/posts/please-keep-code-descriptions-simple/",
+    "title": "Please keep code descriptions simple"
   },
   {
     "source": "lobsters",
     "url": "https://kittenlabs.de/blamba/",
     "title": "Blåmba"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://blog.cloudflare.com/hyper-bug/",
+    "title": "How we found a bug in the hyper HTTP library"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://davidlattimore.github.io/posts/2023/10/09/making-supply-chain-attacks-harder.html",
+    "title": "Making Rust supply chain attacks harder with Cackle (2023)"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://words.filippo.io/vuln-reports/",
+    "title": "Vulnerability Reports Are Not Special Anymore"
   },
   {
     "source": "pinboard",
