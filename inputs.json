@@ -6,8 +6,18 @@
   },
   {
     "source": "hn",
+    "url": "https://glyphcss.com",
+    "title": "Show HN: An ASCII 3D Rendering Engine"
+  },
+  {
+    "source": "hn",
     "url": "http://www.jerrysmap.com/the-map",
     "title": "Jerry's Map"
+  },
+  {
+    "source": "hn",
+    "url": "https://thomasliao.com/eval-startups",
+    "title": "Why eval startups fail (2025)"
   },
   {
     "source": "hn",
@@ -16,13 +26,13 @@
   },
   {
     "source": "hn",
-    "url": "https://glyphcss.com",
-    "title": "Show HN: An ASCII 3D Rendering Engine"
+    "url": "https://blog.racket-lang.org/2026/06/rhombus-v1.0.html",
+    "title": "Rhombus Language 1.0"
   },
   {
     "source": "hn",
-    "url": "https://blog.racket-lang.org/2026/06/rhombus-v1.0.html",
-    "title": "Rhombus Language 1.0"
+    "url": "https://www.thedrive.com/news/this-man-was-gifted-his-dream-car-by-the-notorious-hacker-he-put-in-prison",
+    "title": "A man was gifted his dream car by Kevin Mitnick, who he helped put in prison"
   },
   {
     "source": "hn",
@@ -33,16 +43,6 @@
     "source": "hn",
     "url": "https://tikz.dev/editor/",
     "title": "Show HN: TikZ Editor – WYSIWYG editor for figures in LaTeX"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.thedrive.com/news/this-man-was-gifted-his-dream-car-by-the-notorious-hacker-he-put-in-prison",
-    "title": "A man was gifted his dream car by Kevin Mitnick, who he helped put in prison"
-  },
-  {
-    "source": "hn",
-    "url": "https://fogus.me/fun/lithp/",
-    "title": "Lithp.py (~2008)"
   },
   {
     "source": "hn",
@@ -61,6 +61,11 @@
   },
   {
     "source": "hn",
+    "url": "https://fogus.me/fun/lithp/",
+    "title": "Lithp.py (~2008)"
+  },
+  {
+    "source": "hn",
     "url": "https://www.patrickdomanico.com/bpm/2026/06/16/inventing-the-future-one-lisp-machine-at-a-time/",
     "title": "Inventing the Future, One Lisp Machine at a Time"
   },
@@ -71,8 +76,8 @@
   },
   {
     "source": "hn",
-    "url": "https://qsoe-dev.blogspot.com/2026/06/qsoe-project-v01-is-released.html",
-    "title": "QSOE: QNX-inspired OS with dual-kernel architecture"
+    "url": "https://primecrunch.com/blog/2/hunting-million-digit-primes-from-my-loft",
+    "title": "Hunting Million-Digit Primes from My Loft"
   },
   {
     "source": "lobsters",
@@ -81,13 +86,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://www.markround.com/blog/2026/06/17/25-its-only-when-you-look-back/",
-    "title": "It’s Only When You Look Back"
+    "url": "https://haskellforall.com/2026/06/record-type-inference-for-dummies",
+    "title": "Record type inference for dummies"
   },
   {
     "source": "lobsters",
-    "url": "https://haskellforall.com/2026/06/record-type-inference-for-dummies",
-    "title": "Record type inference for dummies"
+    "url": "https://www.markround.com/blog/2026/06/17/25-its-only-when-you-look-back/",
+    "title": "It’s Only When You Look Back"
   },
   {
     "source": "lobsters",
@@ -101,11 +106,6 @@
   },
   {
     "source": "lobsters",
-    "url": "https://www.davidrevoy.com/article1154/why-drawing-tablet-brands-wont-collaborate-on-linux-floss-drivers",
-    "title": "Why Drawing Tablet Brands Won't Collaborate on Linux FLOSS Drivers"
-  },
-  {
-    "source": "lobsters",
     "url": "https://blog.cloudflare.com/hyper-bug/",
     "title": "How we found a bug in the hyper HTTP library"
   },
@@ -113,6 +113,11 @@
     "source": "lobsters",
     "url": "https://davidlattimore.github.io/posts/2023/10/09/making-supply-chain-attacks-harder.html",
     "title": "Making Rust supply chain attacks harder with Cackle (2023)"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://www.davidrevoy.com/article1154/why-drawing-tablet-brands-wont-collaborate-on-linux-floss-drivers",
+    "title": "Why Drawing Tablet Brands Won't Collaborate on Linux FLOSS Drivers"
   },
   {
     "source": "lobsters",
@@ -130,8 +135,103 @@
     "title": "Blobly"
   },
   {
-    "source": "lobsters",
-    "url": "https://www.arp242.net/chestersons-finger.html",
-    "title": "Chesterton's middle finger"
+    "source": "pinboard",
+    "url": "https://moultano.wordpress.com/2026/06/19/where-to-find-the-colors-your-screen-cant-show-you/",
+    "title": "Where to Find the Colors Your Screen Can’t Show You – Ryan Moulton's Articles"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://docs.deno.com/runtime/desktop/",
+    "title": "Desktop apps | Deno Docs"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://lucumr.pocoo.org/2026/6/23/the-coming-loop/",
+    "title": "The Coming Loop | Armin Ronacher's Thoughts and Writings"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://nevergivethemyourface.com/",
+    "title": "Never Give Them Your Face"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://hawksley.dev/blog/json-ld-explained-for-personal-websites/",
+    "title": "JSON-LD Explained for Personal Websites | Ethan Hawksley"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.marble.onl/posts/cancel_claude.html",
+    "title": "cancel_claude"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.openculture.com/freeonlinecourses",
+    "title": "1200 Free Online Courses from Top Universities | Open Culture"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://techstackups.com/comparisons/glm-5.2-vs-opus/",
+    "title": "GLM-5.2 vs Claude Opus | Tech Stackups"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://alexkritchevsky.com/2026/05/25/everything-is-logarithms.html",
+    "title": "Everything Is Logarithms"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://birdclaw.sh/",
+    "title": "birdclaw — Local Twitter memory in SQLite"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://arun.is/blog/japan-symbols/",
+    "title": "Japanese symbols that speak without words"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://plotnine.org/",
+    "title": "plotnine 0.13.4 - A Grammar of Graphics for Python"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://aresluna.org/show-your-hands-honor/",
+    "title": "Show your hands honor for the strange power they bring you – Aresluna"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://the-criterion-closet.vercel.app/",
+    "title": "The Closet — the Criterion Collection"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://lmao.center/blog/wiggle-accidents/",
+    "title": "help i accidentally a wigglegram"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.jerrysmap.com/the-map",
+    "title": "The Map — Jerry's Map"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://townsquare.cauenapier.com/",
+    "title": "TownSquare — a tiny presence layer for websites"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://open-foundry.com/",
+    "title": "Open Foundry"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://hyperblam.how/",
+    "title": "Hyperblam Docs Home : HYPERBLAM"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://screen.toys/",
+    "title": "screen toys"
   }
 ]
