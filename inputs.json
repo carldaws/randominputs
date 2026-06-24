@@ -1,18 +1,8 @@
 [
   {
     "source": "hn",
-    "url": "https://www.the3dprintingnerd.com/ab2047",
-    "title": "California AB 2047 makes 3d printers off-limits to students, educators, business"
-  },
-  {
-    "source": "hn",
     "url": "http://www.jerrysmap.com/the-map",
     "title": "Jerry's Map"
-  },
-  {
-    "source": "hn",
-    "url": "https://milek7.pl/mailverifyspam/",
-    "title": "Don't verify email addresses by sending spam to them"
   },
   {
     "source": "hn",
@@ -21,8 +11,18 @@
   },
   {
     "source": "hn",
-    "url": "https://dynomight.net/vitamin-d/",
-    "title": "The worthlessness of Vitamin D is mildly exaggerated"
+    "url": "https://www.thedrive.com/news/this-man-was-gifted-his-dream-car-by-the-notorious-hacker-he-put-in-prison",
+    "title": "A man was gifted his dream car by Kevin Mitnick, who he helped put in prison"
+  },
+  {
+    "source": "hn",
+    "url": "https://ps.tc/pages/blog-usbliter8.html",
+    "title": "Usbliter8: an A12/A13 SecureROM Exploit"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.lse.ac.uk/granthaminstitute/events/extreme-heat-improving-governance-and-strengthening-action-around-the-world/",
+    "title": "Extreme Heat conference cancelled due to extreme heat warning"
   },
   {
     "source": "hn",
@@ -36,43 +36,58 @@
   },
   {
     "source": "hn",
-    "url": "https://hai.stanford.edu/news/ai-hiring-tools-can-yield-racial-bias-and-systemic-rejection",
-    "title": "Algorithmic Monocultures in Hiring"
+    "url": "https://words.filippo.io/vuln-reports/",
+    "title": "Vulnerability reports are not special anymore"
   },
   {
     "source": "hn",
-    "url": "https://lift4d.github.io/",
-    "title": "Lift4D: Harmonizing Single-View 3D Estimation for 4D Reconstruction In-the-Wild"
+    "url": "https://dynomight.net/vitamin-d/",
+    "title": "The worthlessness of Vitamin D is mildly exaggerated"
   },
   {
     "source": "hn",
-    "url": "https://www.beautifulpublicdata.com/san-diego-photologs-from-the-1970s/",
-    "title": "San Diego photologs from the 1970s"
+    "url": "https://www.patrickdomanico.com/bpm/2026/06/16/inventing-the-future-one-lisp-machine-at-a-time/",
+    "title": "Inventing the Future, One Lisp Machine at a Time"
   },
   {
     "source": "hn",
-    "url": "https://galton.org/fingerprints/faulds-1880-nature-furrows.pdf",
-    "title": "On the Skin-Furrows of the Hand (1880) [pdf]"
+    "url": "https://blog.racket-lang.org/2026/06/rhombus-v1.0.html",
+    "title": "Rhombus Language 1.0"
   },
   {
     "source": "hn",
-    "url": "https://plotnine.org/",
-    "title": "Plotnine"
+    "url": "https://milek7.pl/mailverifyspam/",
+    "title": "Don't verify email addresses by sending spam to them"
   },
   {
     "source": "hn",
-    "url": "https://daringfireball.net/linked/2026/06/22/apple-device-prices-when",
-    "title": "Apple is going to raise device prices, but when?"
+    "url": "https://natkr.com/2026-06-19-nixos-but-smol/",
+    "title": "I can haz smoller NixOS ISOs?"
+  },
+  {
+    "source": "hn",
+    "url": "https://truths-and-loves.ghost.io/ai-has-already-killed-academia-as-we-know-it/",
+    "title": "AI has already killed academia as we know it?"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.monolisa.dev/",
+    "title": "Show HN: Monolisa v3 – a typeface for developers and creatives"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.the3dprintingnerd.com/ab2047",
+    "title": "California AB 2047 makes 3D printers off-limits to students, educators, business"
+  },
+  {
+    "source": "hn",
+    "url": "https://nega.tv/posts/low-tech-ai-of-elden-ring.html",
+    "title": "The Low-Tech AI of Elden Ring"
   },
   {
     "source": "lobsters",
     "url": "https://akselmo.dev/posts/please-keep-code-descriptions-simple/",
     "title": "Please keep code descriptions simple"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://words.filippo.io/vuln-reports/",
-    "title": "Vulnerability Reports Are Not Special Anymore"
   },
   {
     "source": "lobsters",
@@ -91,11 +106,6 @@
   },
   {
     "source": "lobsters",
-    "url": "https://nega.tv/posts/low-tech-ai-of-elden-ring.html",
-    "title": "The Low-Tech AI Of Elden Ring"
-  },
-  {
-    "source": "lobsters",
     "url": "https://blobly.medv.io/",
     "title": "Blobly"
   },
@@ -106,13 +116,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://lmao.center/blog/wiggle-accidents/",
-    "title": "help i accidentally a wigglegram"
+    "url": "https://xenodium.com/ytr-youtube-radio-for-emacs",
+    "title": "ytr: YouTube radio for Emacs"
   },
   {
     "source": "lobsters",
-    "url": "https://xenodium.com/ytr-youtube-radio-for-emacs",
-    "title": "ytr: YouTube radio for Emacs"
+    "url": "https://lmao.center/blog/wiggle-accidents/",
+    "title": "help i accidentally a wigglegram"
   },
   {
     "source": "lobsters",
@@ -126,117 +136,7 @@
   },
   {
     "source": "lobsters",
-    "url": "https://blog.racket-lang.org/2026/06/rhombus-v1.0.html",
-    "title": "Rhombus v1.0: A Racket flavored language with syntax"
-  },
-  {
-    "source": "lobsters",
     "url": "https://shaping.systems/blog/ai-sucks-hating-it-is-not-enough/",
     "title": "AI sucks. Hating it is not enough"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://fzakaria.com/2026/06/21/nix-needs-relocatable-binaries",
-    "title": "Nix needs relocatable binaries"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://moultano.wordpress.com/2026/06/19/where-to-find-the-colors-your-screen-cant-show-you/",
-    "title": "Where to Find the Colors Your Screen Can’t Show You – Ryan Moulton's Articles"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://docs.deno.com/runtime/desktop/",
-    "title": "Desktop apps | Deno Docs"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://nevergivethemyourface.com/",
-    "title": "Never Give Them Your Face"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://townsquare.cauenapier.com/",
-    "title": "TownSquare — a tiny presence layer for websites"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://hawksley.dev/blog/json-ld-explained-for-personal-websites/",
-    "title": "JSON-LD Explained for Personal Websites | Ethan Hawksley"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://european.social/",
-    "title": "The European Social Stack — An open declaration"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://alexkritchevsky.com/2026/05/25/everything-is-logarithms.html",
-    "title": "Everything Is Logarithms"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.marble.onl/posts/cancel_claude.html",
-    "title": "cancel_claude"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://screen.toys/",
-    "title": "screen toys"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://overreacted.io/there-are-no-instances-in-atproto/",
-    "title": "There Are No Instances in atproto"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://aresluna.org/show-your-hands-honor/",
-    "title": "Show your hands honor for the strange power they bring you – Aresluna"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://techstackups.com/comparisons/glm-5.2-vs-opus/",
-    "title": "GLM-5.2 vs Claude Opus | Tech Stackups"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://apertvs.ai/",
-    "title": "APERTVS.ai Fully Open Foundation Model for Sovereign AI Developed by the Swiss AI Initiative as a collaborative effort between EPFL, ETH Zurich, and CSCS. Open weights, open data, open science"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://hyperblam.how/",
-    "title": "Hyperblam Docs Home : HYPERBLAM"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.openculture.com/freeonlinecourses",
-    "title": "1200 Free Online Courses from Top Universities | Open Culture"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://vickiboykis.com/2026/06/15/running-local-models-is-good-now/",
-    "title": "Running local models is good now | ✰Vicki Boykis✰"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://waxy.org/2026/06/the-wholesale-plagiarism-of-obscure-sorrows/",
-    "title": "The Wholesale Plagiarism of Obscure Sorrows - Waxy.org"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://matthewbutterick.com/extinction-level-capitalism.html",
-    "title": "Matthew Butterick | Extinction-level capitalism"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.robinsloan.com/lab/de-datafication/",
-    "title": "De-datafication"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://cs336.stanford.edu/spring2025/",
-    "title": "Stanford CS336 | Language Modeling from Scratch (2025)"
   }
 ]
