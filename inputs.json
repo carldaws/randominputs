@@ -26,13 +26,18 @@
   },
   {
     "source": "hn",
-    "url": "https://lookaway.com",
-    "title": "Show HN: LookAway, a Mac break reminder that knows when not to interrupt"
+    "url": "https://rerun.io/blog/data-layer-tax",
+    "title": "Robotics Teams Are Rebuilding the Data Stack from Scratch"
   },
   {
     "source": "hn",
     "url": "https://blogs.nvidia.com/blog/liquid-cooling-ai-factories/",
     "title": "45°C cooling design cuts data center water use to near zero"
+  },
+  {
+    "source": "hn",
+    "url": "https://lookaway.com",
+    "title": "Show HN: LookAway, a Mac break reminder that knows when not to interrupt"
   },
   {
     "source": "hn",
@@ -63,16 +68,6 @@
     "source": "hn",
     "url": "https://www.monolisa.dev/",
     "title": "Show HN: Monolisa v3 – a typeface for developers and creatives"
-  },
-  {
-    "source": "hn",
-    "url": "https://thomasliao.com/eval-startups",
-    "title": "Why eval startups fail (2025)"
-  },
-  {
-    "source": "hn",
-    "url": "https://svpow.com/2026/06/04/genuinely-my-all-time-favourite-image-mamenchisaurus-hochuanensis/",
-    "title": "Genuinely, my all-time favourite image: Mamenchisaurus hochuanensis"
   },
   {
     "source": "lobsters",
@@ -111,6 +106,11 @@
   },
   {
     "source": "lobsters",
+    "url": "https://rubycentral.org/news/announcing-the-rubyconf-vip-raffle/",
+    "title": "Announcing the RubyConf VIP Raffle"
+  },
+  {
+    "source": "lobsters",
     "url": "https://blog.glyph.im/2026/06/adversarial-communication.html",
     "title": "Adversarial Communication"
   },
@@ -141,6 +141,11 @@
   },
   {
     "source": "lobsters",
+    "url": "https://teddd.srht.site/sacr3d/",
+    "title": "Sacr3d: A rendering engine toolbox to do 3D graphics in Scheme"
+  },
+  {
+    "source": "lobsters",
     "url": "https://blog.cloudflare.com/hyper-bug/",
     "title": "How we found a bug in the hyper HTTP library"
   },
@@ -148,11 +153,6 @@
     "source": "lobsters",
     "url": "https://davidlattimore.github.io/posts/2023/10/09/making-supply-chain-attacks-harder.html",
     "title": "Making Rust supply chain attacks harder with Cackle (2023)"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://words.filippo.io/vuln-reports/",
-    "title": "Vulnerability Reports Are Not Special Anymore"
   },
   {
     "source": "pinboard",
