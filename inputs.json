@@ -16,13 +16,18 @@
   },
   {
     "source": "hn",
-    "url": "https://blog.jim-nielsen.com/2026/blogging-stating-the-obvious/",
-    "title": "Blogging can just be stating the obvious"
+    "url": "https://utaw.tech/news/wikipedia-recognition",
+    "title": "Wikipedia Workers in Britain set global first by seeking union recognition"
   },
   {
     "source": "hn",
-    "url": "https://utaw.tech/news/wikipedia-recognition",
-    "title": "Wikipedia Workers in Britain set global first by seeking union recognition"
+    "url": "https://hackernewstrends.com",
+    "title": "Show HN: I made Google Trends for Hacker News by indexing 18 years of comments"
+  },
+  {
+    "source": "hn",
+    "url": "https://blog.jim-nielsen.com/2026/blogging-stating-the-obvious/",
+    "title": "Blogging can just be stating the obvious"
   },
   {
     "source": "hn",
@@ -31,8 +36,8 @@
   },
   {
     "source": "hn",
-    "url": "https://dolphin-emu.org/blog/2026/06/25/dolphin-progress-report-release-2606/",
-    "title": "Dolphin Emulator Progress Release 2606"
+    "url": "https://blog.georeactor.com/books-06-26b",
+    "title": "Lianda and the Long March"
   },
   {
     "source": "hn",
@@ -41,13 +46,18 @@
   },
   {
     "source": "hn",
+    "url": "https://rubyllm.com/",
+    "title": "RubyLLM: A Ruby framework for all major AI providers"
+  },
+  {
+    "source": "hn",
     "url": "https://aeon.co/essays/literature-fans-should-welcome-ai-as-a-fellow-wordsmith",
     "title": "Words, Words, Words"
   },
   {
     "source": "hn",
-    "url": "https://rubyllm.com/",
-    "title": "RubyLLM: A Ruby framework for all major AI providers"
+    "url": "https://dolphin-emu.org/blog/2026/06/25/dolphin-progress-report-release-2606/",
+    "title": "Dolphin Emulator Progress Release 2606"
   },
   {
     "source": "hn",
@@ -55,89 +65,89 @@
     "title": "PR spam today looks like email spam in the early 2000s"
   },
   {
-    "source": "hn",
-    "url": "https://markdy.com",
-    "title": "Markdy: Like Mermaid Diagrams, but for Motion"
-  },
-  {
-    "source": "hn",
+    "source": "lobsters",
     "url": "https://blog.omgmog.net/post/xteink-x4-e-ink-reader/",
     "title": "The Xteink X4 E-Ink Reader"
   },
   {
-    "source": "hn",
-    "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-computer-use-gemini-3-5-flash/",
-    "title": "Computer use in Gemini 3.5 Flash"
+    "source": "lobsters",
+    "url": "https://areweglobalshortcutsyet.github.io",
+    "title": "Are We GlobalShortcuts Yet?"
   },
   {
     "source": "lobsters",
-    "url": "https://trop.in/blog/context-makes-tests-reusable",
-    "title": "Context Makes Tests Reusable"
+    "url": "https://ziglang.org/devlog/2026/?2026-06-25#2026-06-25",
+    "title": "New @bitCast Semantics and LLVM Backend Improvements"
   },
   {
     "source": "lobsters",
-    "url": "https://www.davidrevoy.com/article1154/why-drawing-tablet-brands-wont-collaborate-on-linux-floss-drivers",
-    "title": "Why Drawing Tablet Brands Won't Collaborate on Linux FLOSS Drivers"
+    "url": "https://binaryigor.com/the-joy-and-power-of-understanding.html",
+    "title": "The Joy and Power of Understanding"
   },
   {
     "source": "lobsters",
-    "url": "https://people.kernel.org/paulmck/c-pointer-zap-and-oota-progress",
-    "title": "C++ Lifetime-End Pointer-Zap and OOTA Progress"
+    "url": "https://tangled.org/desertthunder.dev/tropius",
+    "title": "tropius: detect AI tropes in prose"
   },
   {
     "source": "lobsters",
-    "url": "https://xenodium.com/ytr-youtube-radio-for-emacs",
-    "title": "ytr: YouTube radio for Emacs"
+    "url": "https://astral-os.org/posts/2026/04/03/wine-on-astral.html",
+    "title": "Porting WINE to a new Hobby OS"
   },
   {
     "source": "lobsters",
-    "url": "https://data-star.dev/essays/datastar_its_pretty_good",
-    "title": "Datastar – It’s Pretty Good"
+    "url": "https://refactoringenglish.com/excerpts/write-an-effective-design-doc/",
+    "title": "How to Write an Effective Software Design Document"
   },
   {
     "source": "lobsters",
-    "url": "https://shaping.systems/blog/ai-sucks-hating-it-is-not-enough/",
-    "title": "AI sucks. Hating it is not enough"
+    "url": "https://ngrok.com/blog/aol-was-down-1996",
+    "title": "AOL was down (1996) (2026)"
   },
   {
     "source": "lobsters",
-    "url": "https://blobly.medv.io/",
-    "title": "Blobly"
+    "url": "https://chrismorgan.info/font-family",
+    "title": "font-family recommendations"
   },
   {
     "source": "lobsters",
-    "url": "https://www.arp242.net/chestersons-finger.html",
-    "title": "Chesterton's middle finger"
+    "url": "https://whynothugo.nl/journal/2026/06/24/ignore-dnssec-if-you-like-mitm-attacks/",
+    "title": "Ignore DNSSEC if you like MITM attacks"
   },
   {
     "source": "lobsters",
-    "url": "https://lmao.center/blog/wiggle-accidents/",
-    "title": "help i accidentally a wigglegram"
+    "url": "https://andyatkinson.com/how-aura-frames-scales-for-peak-load-ruby-on-rails",
+    "title": "Scaling Rails: 41M Req/Hour, 8 DBs, disable_joins: true"
   },
   {
     "source": "lobsters",
-    "url": "https://alexwlchan.net/2021/slashes/",
-    "title": "A tale of two path separators (2021)"
+    "url": "https://gitlab.gnome.org/balooii/gimp-0.54",
+    "title": "Flatpak package for GIMP 0.54.1 (1996)"
   },
   {
     "source": "lobsters",
-    "url": "https://blog.racket-lang.org/2026/06/rhombus-v1.0.html",
-    "title": "Rhombus v1.0: A Racket flavored language with syntax"
+    "url": "https://yllan.org/software/OS9Map/",
+    "title": "OS9Map: OpenStreetMap for Mac OS 9"
   },
   {
     "source": "lobsters",
-    "url": "https://fzakaria.com/2026/06/21/nix-needs-relocatable-binaries",
-    "title": "Nix needs relocatable binaries"
+    "url": "https://teddd.srht.site/sacr3d/",
+    "title": "Sacr3d: A rendering engine toolbox to do 3D graphics in Scheme"
   },
   {
     "source": "lobsters",
-    "url": "https://www.freedesktop.org/software/systemd/man/257/systemd-bsod.service.html",
-    "title": "systemd-bsod.service"
-  },
-  {
-    "source": "pinboard",
     "url": "https://lucumr.pocoo.org/2026/6/23/the-coming-loop/",
-    "title": "The Coming Loop | Armin Ronacher's Thoughts and Writings"
+    "title": "The Coming Loop"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://kittenlabs.de/blamba/",
+    "title": "Blåmba"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://slint.dev/blog/slint-1.17-released",
+    "title": "Slint 1.17 Released"
   },
   {
     "source": "pinboard",
@@ -203,6 +213,11 @@
     "source": "pinboard",
     "url": "https://apertvs.ai/",
     "title": "APERTVS.ai Fully Open Foundation Model for Sovereign AI Developed by the Swiss AI Initiative as a collaborative effort between EPFL, ETH Zurich, and CSCS. Open weights, open data, open science"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://lmao.center/blog/wiggle-accidents/",
+    "title": "help i accidentally a wigglegram"
   },
   {
     "source": "pinboard",
