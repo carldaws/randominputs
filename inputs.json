@@ -1,13 +1,18 @@
 [
   {
     "source": "hn",
+    "url": "https://unconv.ai/blog/introducing-un-0-generating-images-with-coupled-oscillators/",
+    "title": "Un-0: Generating Images with Coupled Oscillators"
+  },
+  {
+    "source": "hn",
     "url": "https://explorer.oxide.computer/",
     "title": "Oxide computer 3D rack guided tour"
   },
   {
     "source": "hn",
-    "url": "https://unconv.ai/blog/introducing-un-0-generating-images-with-coupled-oscillators/",
-    "title": "Un-0: Generating Images with Coupled Oscillators"
+    "url": "https://williamdue.github.io/blog/parallel-parentheses-matching",
+    "title": "Parallel Parentheses Matching"
   },
   {
     "source": "hn",
@@ -16,8 +21,8 @@
   },
   {
     "source": "hn",
-    "url": "https://rozumem.xyz/posts/17",
-    "title": "The Doorman's Fallacy in Action"
+    "url": "https://signoregalilei.com/2026/06/20/the-last-romans-are-still-around/",
+    "title": "The last Romans are still around"
   },
   {
     "source": "hn",
@@ -28,16 +33,6 @@
     "source": "hn",
     "url": "https://iza.ac/posts/2026/06/intuitive-cooking/",
     "title": "The anxiety of the perfect loaf: the illusion of culinary precision"
-  },
-  {
-    "source": "hn",
-    "url": "https://hl2.slqnt.dev/",
-    "title": "Half-Life 2 in a Browser"
-  },
-  {
-    "source": "hn",
-    "url": "https://williamdue.github.io/blog/parallel-parentheses-matching",
-    "title": "Parallel Parentheses Matching"
   },
   {
     "source": "hn",
@@ -56,11 +51,6 @@
   },
   {
     "source": "hn",
-    "url": "https://signoregalilei.com/2026/06/20/the-last-romans-are-still-around/",
-    "title": "The last Romans are still around"
-  },
-  {
-    "source": "hn",
     "url": "https://pete.design/tw-fade",
     "title": "Tw-fade: pure CSS scroll-driven edge masking"
   },
@@ -68,11 +58,6 @@
     "source": "hn",
     "url": "https://trakkr.ai/bias",
     "title": "Political bias in AI: Where the AI models stand"
-  },
-  {
-    "source": "hn",
-    "url": "https://en.wikipedia.org/wiki/52-hertz_whale",
-    "title": "52-hertz whale"
   },
   {
     "source": "lobsters",
@@ -148,11 +133,6 @@
     "source": "lobsters",
     "url": "https://netzhansa.com/echoes-of-the-ai-winter/",
     "title": "Echoes of the AI Winter | netzhansa"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://gitlab.gnome.org/balooii/gimp-0.54",
-    "title": "Flatpak package for GIMP 0.54.1 (1996)"
   },
   {
     "source": "pinboard",
