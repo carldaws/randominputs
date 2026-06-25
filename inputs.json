@@ -1,8 +1,18 @@
 [
   {
     "source": "hn",
+    "url": "https://www.crosscanon.com/",
+    "title": "Bible as RAG Database"
+  },
+  {
+    "source": "hn",
     "url": "https://blog.jim-nielsen.com/2026/blogging-stating-the-obvious/",
     "title": "Blogging can just be stating the obvious"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.pangram.com/pangram-space",
+    "title": "Exploring the internal representations of Pangram 3.3.2"
   },
   {
     "source": "hn",
@@ -11,18 +21,23 @@
   },
   {
     "source": "hn",
-    "url": "https://www.greptile.com/blog/prs-on-openclaw",
-    "title": "PR spam today looks like email spam in the early 2000s"
-  },
-  {
-    "source": "hn",
     "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-computer-use-gemini-3-5-flash/",
     "title": "Computer use in Gemini 3.5 Flash"
   },
   {
     "source": "hn",
+    "url": "https://www.greptile.com/blog/prs-on-openclaw",
+    "title": "PR spam today looks like email spam in the early 2000s"
+  },
+  {
+    "source": "hn",
     "url": "https://blogs.nvidia.com/blog/liquid-cooling-ai-factories/",
     "title": "45°C cooling design cuts data center water use to near zero"
+  },
+  {
+    "source": "hn",
+    "url": "https://lithub.com/are-writers-intrinsically-vulnerable-to-alcohol-and-drugs/",
+    "title": "Writers and Drugs"
   },
   {
     "source": "hn",
@@ -36,6 +51,11 @@
   },
   {
     "source": "hn",
+    "url": "https://victorribeiro.com/wordit/",
+    "title": "Show HN: Wordit – Change One Letter, Keep the Chain Going"
+  },
+  {
+    "source": "hn",
     "url": "https://ben-mini.com/2026/stealing-is-a-skill",
     "title": "Stealing Is a Skill"
   },
@@ -46,33 +66,8 @@
   },
   {
     "source": "hn",
-    "url": "https://www.markround.com/blog/2026/06/17/25-its-only-when-you-look-back/",
-    "title": "It's Only When You Look Back"
-  },
-  {
-    "source": "hn",
-    "url": "https://lookaway.com",
-    "title": "Show HN: LookAway, a Mac break reminder that knows when not to interrupt"
-  },
-  {
-    "source": "hn",
-    "url": "https://rerun.io/blog/data-layer-tax",
-    "title": "Robotics Teams Are Rebuilding the Data Stack from Scratch"
-  },
-  {
-    "source": "hn",
     "url": "https://sebastiangarren.com/2026/06/17/lending-is-meritorious-and-should-be-praised-how-the-fifth-lateran-council-unlocked-financial-theory/",
     "title": "How the Fifth Lateran Council unlocked financial theory"
-  },
-  {
-    "source": "hn",
-    "url": "https://posthog.com/blog/sql-parser",
-    "title": "I rewrote PostHog's SQL parser, 70x faster, while barely looking at the code"
-  },
-  {
-    "source": "hn",
-    "url": "https://bunny.net/blog/were-making-bunny-dns-free/",
-    "title": "We’re making Bunny DNS free"
   },
   {
     "source": "lobsters",
@@ -81,13 +76,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://astral-os.org/posts/2026/04/03/wine-on-astral.html",
-    "title": "Porting WINE to a new Hobby OS"
+    "url": "https://utaw.tech/news/wikipedia-recognition",
+    "title": "UK Wikipedia Workers seek union recognition"
   },
   {
     "source": "lobsters",
-    "url": "https://utaw.tech/news/wikipedia-recognition",
-    "title": "UK Wikipedia Workers seek union recognition"
+    "url": "https://astral-os.org/posts/2026/04/03/wine-on-astral.html",
+    "title": "Porting WINE to a new Hobby OS"
   },
   {
     "source": "lobsters",
@@ -106,13 +101,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://areweglobalshortcutsyet.github.io",
-    "title": "Are We GlobalShortcuts Yet?"
+    "url": "https://whynothugo.nl/journal/2026/06/24/ignore-dnssec-if-you-like-mitm-attacks/",
+    "title": "Ignore DNSSEC if you like MITM attacks"
   },
   {
     "source": "lobsters",
-    "url": "https://whynothugo.nl/journal/2026/06/24/ignore-dnssec-if-you-like-mitm-attacks/",
-    "title": "Ignore DNSSEC if you like MITM attacks"
+    "url": "https://areweglobalshortcutsyet.github.io",
+    "title": "Are We GlobalShortcuts Yet?"
   },
   {
     "source": "lobsters",
@@ -121,8 +116,18 @@
   },
   {
     "source": "lobsters",
+    "url": "https://teddd.srht.site/sacr3d/",
+    "title": "Sacr3d: A rendering engine toolbox to do 3D graphics in Scheme"
+  },
+  {
+    "source": "lobsters",
     "url": "https://slint.dev/blog/slint-1.17-released",
     "title": "Slint 1.17 Released"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://rubycentral.org/news/announcing-the-rubyconf-vip-raffle/",
+    "title": "Announcing the RubyConf VIP Raffle"
   },
   {
     "source": "lobsters",
@@ -136,8 +141,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://rubycentral.org/news/announcing-the-rubyconf-vip-raffle/",
-    "title": "Announcing the RubyConf VIP Raffle"
+    "url": "https://kittenlabs.de/blamba/",
+    "title": "Blåmba"
   },
   {
     "source": "lobsters",
@@ -146,23 +151,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://teddd.srht.site/sacr3d/",
-    "title": "Sacr3d: A rendering engine toolbox to do 3D graphics in Scheme"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://kittenlabs.de/blamba/",
-    "title": "Blåmba"
-  },
-  {
-    "source": "lobsters",
     "url": "https://akselmo.dev/posts/please-keep-code-descriptions-simple/",
     "title": "Please keep code descriptions simple"
   },
   {
     "source": "lobsters",
-    "url": "https://blog.cloudflare.com/hyper-bug/",
-    "title": "How we found a bug in the hyper HTTP library"
+    "url": "https://snarky.ca/why-i-wrote-pep-832-virtual-environment-discovery/",
+    "title": "Why I wrote PEP 832 -- virtual environment discovery"
   },
   {
     "source": "pinboard",
