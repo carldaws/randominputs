@@ -6,8 +6,8 @@
   },
   {
     "source": "hn",
-    "url": "https://utaw.tech/news/wikipedia-recognition",
-    "title": "Wikipedia Workers in Britain set global first by seeking union recognition"
+    "url": "https://dolphin-emu.org/blog/2026/06/25/dolphin-progress-report-release-2606/",
+    "title": "Dolphin Emulator Progress Release 2606"
   },
   {
     "source": "hn",
@@ -16,13 +16,18 @@
   },
   {
     "source": "hn",
+    "url": "https://blog.jim-nielsen.com/2026/blogging-stating-the-obvious/",
+    "title": "Blogging can just be stating the obvious"
+  },
+  {
+    "source": "hn",
     "url": "https://markdy.com",
     "title": "Markdy: Like Mermaid Diagrams, but for Motion"
   },
   {
     "source": "hn",
-    "url": "https://blog.jim-nielsen.com/2026/blogging-stating-the-obvious/",
-    "title": "Blogging can just be stating the obvious"
+    "url": "https://utaw.tech/news/wikipedia-recognition",
+    "title": "Wikipedia Workers in Britain set global first by seeking union recognition"
   },
   {
     "source": "hn",
@@ -36,8 +41,8 @@
   },
   {
     "source": "hn",
-    "url": "https://kellyshortridge.com/blog/posts/shall-we-play-a-coordination-game/",
-    "title": "Shall We Play a Coordination Game?"
+    "url": "https://aeon.co/essays/literature-fans-should-welcome-ai-as-a-fellow-wordsmith",
+    "title": "Words, Words, Words"
   },
   {
     "source": "hn",
@@ -46,23 +51,13 @@
   },
   {
     "source": "hn",
-    "url": "https://jamesoclaire.com/2026/06/25/the-unbearable-cheapness-of-open-weight-models/",
-    "title": "The Unbearable Cheapness of Open Weight Models"
-  },
-  {
-    "source": "hn",
-    "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-computer-use-gemini-3-5-flash/",
-    "title": "Computer use in Gemini 3.5 Flash"
-  },
-  {
-    "source": "hn",
     "url": "https://blog.omgmog.net/post/xteink-x4-e-ink-reader/",
     "title": "The Xteink X4 E-Ink Reader"
   },
   {
     "source": "hn",
-    "url": "https://www.krea.ai/blog/krea-2-technical-report",
-    "title": "Krea 2: SOTA open-weights 12B image model"
+    "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-computer-use-gemini-3-5-flash/",
+    "title": "Computer use in Gemini 3.5 Flash"
   },
   {
     "source": "lobsters",
@@ -98,6 +93,11 @@
     "source": "lobsters",
     "url": "https://gitlab.gnome.org/balooii/gimp-0.54",
     "title": "Flatpak package for GIMP 0.54.1 (1996)"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://tangled.org/desertthunder.dev/tropius",
+    "title": "tropius: detect AI tropes in prose"
   },
   {
     "source": "lobsters",
@@ -140,8 +140,88 @@
     "title": "Adversarial Communication"
   },
   {
-    "source": "lobsters",
-    "url": "https://snarky.ca/why-i-wrote-pep-832-virtual-environment-discovery/",
-    "title": "Why I wrote PEP 832 -- virtual environment discovery"
+    "source": "pinboard",
+    "url": "https://moultano.wordpress.com/2026/06/19/where-to-find-the-colors-your-screen-cant-show-you/",
+    "title": "Where to Find the Colors Your Screen Can’t Show You – Ryan Moulton's Articles"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://nevergivethemyourface.com/",
+    "title": "Never Give Them Your Face"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.openculture.com/freeonlinecourses",
+    "title": "1200 Free Online Courses from Top Universities | Open Culture"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://tikz.dev/editor/",
+    "title": "TikZ Editor"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://docs.deno.com/runtime/desktop/",
+    "title": "Desktop apps | Deno Docs"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://plotnine.org/",
+    "title": "plotnine 0.13.4 - A Grammar of Graphics for Python"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://birdclaw.sh/",
+    "title": "birdclaw — Local Twitter memory in SQLite"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.marble.onl/posts/cancel_claude.html",
+    "title": "cancel_claude"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://arun.is/blog/japan-symbols/",
+    "title": "Japanese symbols that speak without words"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://eieio.games/blog/legibility-of-effort/",
+    "title": "Legibility of Effort · eieio.games"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://techstackups.com/comparisons/glm-5.2-vs-opus/",
+    "title": "GLM-5.2 vs Claude Opus | Tech Stackups"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://hyperblam.how/",
+    "title": "Hyperblam Docs Home : HYPERBLAM"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://apertvs.ai/",
+    "title": "APERTVS.ai Fully Open Foundation Model for Sovereign AI Developed by the Swiss AI Initiative as a collaborative effort between EPFL, ETH Zurich, and CSCS. Open weights, open data, open science"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://lmao.center/blog/wiggle-accidents/",
+    "title": "help i accidentally a wigglegram"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://news.ycombinator.com/item?id=48649435",
+    "title": "Jerry's Map | Hacker News"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.jerrysmap.com/the-map",
+    "title": "The Map — Jerry's Map"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://the-criterion-closet.vercel.app/",
+    "title": "The Closet — the Criterion Collection"
   }
 ]
