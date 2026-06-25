@@ -11,13 +11,18 @@
   },
   {
     "source": "hn",
+    "url": "https://ziglang.org/devlog/2026/#2026-06-25",
+    "title": "Zig's New BitCast Semantics and LLVM Back End Improvements"
+  },
+  {
+    "source": "hn",
     "url": "https://dev.karltryggvason.com/you-cant-unit-test-for-taste/",
     "title": "You can't unit test for taste"
   },
   {
     "source": "hn",
-    "url": "https://ziglang.org/devlog/2026/#2026-06-25",
-    "title": "Zig's New BitCast Semantics and LLVM Back End Improvements"
+    "url": "https://pete.design/tw-fade",
+    "title": "Tw-fade: pure CSS scroll-driven edge masking"
   },
   {
     "source": "hn",
@@ -28,6 +33,11 @@
     "source": "hn",
     "url": "https://blog.cloudflare.com/oauth-for-all/",
     "title": "Cloudflare launched self-managed OAuth for all"
+  },
+  {
+    "source": "hn",
+    "url": "https://group.softbank/media/Project/sbg/sbg/pdf/ir/investors/shareholders/2026/shareholders-meeting_46_05_en.pdf",
+    "title": "SoftBank 2026 AGM [pdf]"
   },
   {
     "source": "hn",
@@ -46,16 +56,6 @@
   },
   {
     "source": "hn",
-    "url": "https://group.softbank/media/Project/sbg/sbg/pdf/ir/investors/shareholders/2026/shareholders-meeting_46_05_en.pdf",
-    "title": "SoftBank 2026 AGM [pdf]"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.americanbanker.com/news/as-banks-close-accounts-experts-point-to-immigration-crackdown",
-    "title": "As banks close accounts, experts point to immigration crackdown"
-  },
-  {
-    "source": "hn",
     "url": "https://www.startupsbr.com/sao-paulo",
     "title": "Show HN: StartupsBR – A map of Brazilian startups"
   },
@@ -65,19 +65,9 @@
     "title": "RubyLLM: A Ruby framework for all major AI providers"
   },
   {
-    "source": "hn",
-    "url": "https://aeon.co/essays/literature-fans-should-welcome-ai-as-a-fellow-wordsmith",
-    "title": "Words, Words, Words"
-  },
-  {
     "source": "lobsters",
     "url": "https://blog.omgmog.net/post/xteink-x4-e-ink-reader/",
     "title": "The Xteink X4 E-Ink Reader"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://ziglang.org/devlog/2026/?2026-06-25#2026-06-25",
-    "title": "New @bitCast Semantics and LLVM Backend Improvements"
   },
   {
     "source": "lobsters",
@@ -86,8 +76,18 @@
   },
   {
     "source": "lobsters",
+    "url": "https://ziglang.org/devlog/2026/?2026-06-25#2026-06-25",
+    "title": "New @bitCast Semantics and LLVM Backend Improvements"
+  },
+  {
+    "source": "lobsters",
     "url": "https://areweglobalshortcutsyet.github.io",
     "title": "Are We GlobalShortcuts Yet?"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://ohadravid.github.io/posts/2026-06-tool-talking/",
+    "title": "The Exhaustion of Talking to a Tool"
   },
   {
     "source": "lobsters",
@@ -106,13 +106,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://ohadravid.github.io/posts/2026-06-tool-talking/",
-    "title": "The Exhaustion of Talking to a Tool"
+    "url": "https://refactoringenglish.com/excerpts/write-an-effective-design-doc/",
+    "title": "How to Write an Effective Software Design Document"
   },
   {
     "source": "lobsters",
-    "url": "https://refactoringenglish.com/excerpts/write-an-effective-design-doc/",
-    "title": "How to Write an Effective Software Design Document"
+    "url": "https://yllan.org/software/OS9Map/",
+    "title": "OS9Map: OpenStreetMap for Mac OS 9"
   },
   {
     "source": "lobsters",
@@ -131,11 +131,6 @@
   },
   {
     "source": "lobsters",
-    "url": "https://yllan.org/software/OS9Map/",
-    "title": "OS9Map: OpenStreetMap for Mac OS 9"
-  },
-  {
-    "source": "lobsters",
     "url": "https://gitlab.gnome.org/balooii/gimp-0.54",
     "title": "Flatpak package for GIMP 0.54.1 (1996)"
   },
@@ -151,92 +146,7 @@
   },
   {
     "source": "lobsters",
-    "url": "https://kittenlabs.de/blamba/",
-    "title": "Blåmba"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://moultano.wordpress.com/2026/06/19/where-to-find-the-colors-your-screen-cant-show-you/",
-    "title": "Where to Find the Colors Your Screen Can’t Show You – Ryan Moulton's Articles"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://nevergivethemyourface.com/",
-    "title": "Never Give Them Your Face"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.openculture.com/freeonlinecourses",
-    "title": "1200 Free Online Courses from Top Universities | Open Culture"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://tikz.dev/editor/",
-    "title": "TikZ Editor"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://docs.deno.com/runtime/desktop/",
-    "title": "Desktop apps | Deno Docs"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://plotnine.org/",
-    "title": "plotnine 0.13.4 - A Grammar of Graphics for Python"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://birdclaw.sh/",
-    "title": "birdclaw — Local Twitter memory in SQLite"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.marble.onl/posts/cancel_claude.html",
-    "title": "cancel_claude"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://arun.is/blog/japan-symbols/",
-    "title": "Japanese symbols that speak without words"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://eieio.games/blog/legibility-of-effort/",
-    "title": "Legibility of Effort · eieio.games"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://techstackups.com/comparisons/glm-5.2-vs-opus/",
-    "title": "GLM-5.2 vs Claude Opus | Tech Stackups"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://hyperblam.how/",
-    "title": "Hyperblam Docs Home : HYPERBLAM"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://apertvs.ai/",
-    "title": "APERTVS.ai Fully Open Foundation Model for Sovereign AI Developed by the Swiss AI Initiative as a collaborative effort between EPFL, ETH Zurich, and CSCS. Open weights, open data, open science"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://lmao.center/blog/wiggle-accidents/",
-    "title": "help i accidentally a wigglegram"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://news.ycombinator.com/item?id=48649435",
-    "title": "Jerry's Map | Hacker News"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.jerrysmap.com/the-map",
-    "title": "The Map — Jerry's Map"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://the-criterion-closet.vercel.app/",
-    "title": "The Closet — the Criterion Collection"
+    "url": "https://recyclebin.zip/posts/2026-05-25-secret-scanning-fleet-bagel/",
+    "title": "Detecting and removing dangerous secrets on dev workstations before Shai-Hulud does"
   }
 ]
