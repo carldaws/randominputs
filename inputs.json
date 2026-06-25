@@ -6,8 +6,18 @@
   },
   {
     "source": "hn",
+    "url": "https://unconv.ai/blog/introducing-un-0-generating-images-with-coupled-oscillators/",
+    "title": "Un-0: Generating Images with Coupled Oscillators"
+  },
+  {
+    "source": "hn",
     "url": "https://ziglang.org/devlog/2026/#2026-06-25",
     "title": "Zig's new bitCast semantics and LLVM back end improvements"
+  },
+  {
+    "source": "hn",
+    "url": "https://rozumem.xyz/posts/17",
+    "title": "The Doorman's Fallacy in Action"
   },
   {
     "source": "hn",
@@ -21,13 +31,13 @@
   },
   {
     "source": "hn",
-    "url": "https://dev.karltryggvason.com/you-cant-unit-test-for-taste/",
-    "title": "You can't unit test for taste"
+    "url": "https://hl2.slqnt.dev/",
+    "title": "Half-Life 2 in a Browser"
   },
   {
     "source": "hn",
-    "url": "https://hl2.slqnt.dev/",
-    "title": "Half-Life 2 in a Browser"
+    "url": "https://williamdue.github.io/blog/parallel-parentheses-matching",
+    "title": "Parallel Parentheses Matching"
   },
   {
     "source": "hn",
@@ -36,13 +46,18 @@
   },
   {
     "source": "hn",
+    "url": "https://dev.karltryggvason.com/you-cant-unit-test-for-taste/",
+    "title": "You can't unit test for taste"
+  },
+  {
+    "source": "hn",
     "url": "https://hackernewstrends.com",
     "title": "Show HN: I made Google Trends for Hacker News by indexing 18 years of comments"
   },
   {
     "source": "hn",
-    "url": "https://rozumem.xyz/posts/17",
-    "title": "The Doorman's Fallacy in Action"
+    "url": "https://signoregalilei.com/2026/06/20/the-last-romans-are-still-around/",
+    "title": "The last Romans are still around"
   },
   {
     "source": "hn",
@@ -51,28 +66,13 @@
   },
   {
     "source": "hn",
-    "url": "https://en.wikipedia.org/wiki/52-hertz_whale",
-    "title": "52-hertz whale"
-  },
-  {
-    "source": "hn",
     "url": "https://trakkr.ai/bias",
     "title": "Political bias in AI: Where the AI models stand"
   },
   {
     "source": "hn",
-    "url": "https://blog.cloudflare.com/oauth-for-all/",
-    "title": "OAuth for all"
-  },
-  {
-    "source": "hn",
-    "url": "https://minipcs.zip",
-    "title": "Show HN: MiniPCs.zip – Charting the Pareto frontier of Mini PCs"
-  },
-  {
-    "source": "hn",
-    "url": "https://jamesoclaire.com/2026/06/25/the-unbearable-cheapness-of-open-weight-models/",
-    "title": "The unbearable cheapness of open weight models"
+    "url": "https://en.wikipedia.org/wiki/52-hertz_whale",
+    "title": "52-hertz whale"
   },
   {
     "source": "lobsters",
