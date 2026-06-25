@@ -6,6 +6,11 @@
   },
   {
     "source": "hn",
+    "url": "https://utaw.tech/news/wikipedia-recognition",
+    "title": "Wikipedia Workers in Britain set global first by seeking union recognition"
+  },
+  {
+    "source": "hn",
     "url": "https://blog.cloudflare.com/oauth-for-all/",
     "title": "Cloudflare launched self-managed OAuth for all"
   },
@@ -31,6 +36,11 @@
   },
   {
     "source": "hn",
+    "url": "https://kellyshortridge.com/blog/posts/shall-we-play-a-coordination-game/",
+    "title": "Shall We Play a Coordination Game?"
+  },
+  {
+    "source": "hn",
     "url": "https://www.greptile.com/blog/prs-on-openclaw",
     "title": "PR spam today looks like email spam in the early 2000s"
   },
@@ -51,11 +61,6 @@
   },
   {
     "source": "hn",
-    "url": "https://www.pangram.com/pangram-space",
-    "title": "Exploring the internal representations of Pangram 3.3.2"
-  },
-  {
-    "source": "hn",
     "url": "https://www.krea.ai/blog/krea-2-technical-report",
     "title": "Krea 2: SOTA open-weights 12B image model"
   },
@@ -63,11 +68,6 @@
     "source": "lobsters",
     "url": "https://binaryigor.com/the-joy-and-power-of-understanding.html",
     "title": "The Joy and Power of Understanding"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://utaw.tech/news/wikipedia-recognition",
-    "title": "UK Wikipedia Workers seek union recognition"
   },
   {
     "source": "lobsters",
@@ -140,88 +140,8 @@
     "title": "Adversarial Communication"
   },
   {
-    "source": "pinboard",
-    "url": "https://moultano.wordpress.com/2026/06/19/where-to-find-the-colors-your-screen-cant-show-you/",
-    "title": "Where to Find the Colors Your Screen Can’t Show You – Ryan Moulton's Articles"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://nevergivethemyourface.com/",
-    "title": "Never Give Them Your Face"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.openculture.com/freeonlinecourses",
-    "title": "1200 Free Online Courses from Top Universities | Open Culture"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://tikz.dev/editor/",
-    "title": "TikZ Editor"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://docs.deno.com/runtime/desktop/",
-    "title": "Desktop apps | Deno Docs"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://plotnine.org/",
-    "title": "plotnine 0.13.4 - A Grammar of Graphics for Python"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://birdclaw.sh/",
-    "title": "birdclaw — Local Twitter memory in SQLite"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.marble.onl/posts/cancel_claude.html",
-    "title": "cancel_claude"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://arun.is/blog/japan-symbols/",
-    "title": "Japanese symbols that speak without words"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://eieio.games/blog/legibility-of-effort/",
-    "title": "Legibility of Effort · eieio.games"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://techstackups.com/comparisons/glm-5.2-vs-opus/",
-    "title": "GLM-5.2 vs Claude Opus | Tech Stackups"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://hyperblam.how/",
-    "title": "Hyperblam Docs Home : HYPERBLAM"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://apertvs.ai/",
-    "title": "APERTVS.ai Fully Open Foundation Model for Sovereign AI Developed by the Swiss AI Initiative as a collaborative effort between EPFL, ETH Zurich, and CSCS. Open weights, open data, open science"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://lmao.center/blog/wiggle-accidents/",
-    "title": "help i accidentally a wigglegram"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://news.ycombinator.com/item?id=48649435",
-    "title": "Jerry's Map | Hacker News"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.jerrysmap.com/the-map",
-    "title": "The Map — Jerry's Map"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://the-criterion-closet.vercel.app/",
-    "title": "The Closet — the Criterion Collection"
+    "source": "lobsters",
+    "url": "https://snarky.ca/why-i-wrote-pep-832-virtual-environment-discovery/",
+    "title": "Why I wrote PEP 832 -- virtual environment discovery"
   }
 ]
