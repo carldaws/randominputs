@@ -21,18 +21,8 @@
   },
   {
     "source": "hn",
-    "url": "https://hackernewstrends.com",
-    "title": "Show HN: I made Google Trends for Hacker News by indexing 18 years of comments"
-  },
-  {
-    "source": "hn",
     "url": "https://hl2.slqnt.dev/",
     "title": "Half-Life 2 in a Browser"
-  },
-  {
-    "source": "hn",
-    "url": "https://pete.design/tw-fade",
-    "title": "Tw-fade: pure CSS scroll-driven edge masking"
   },
   {
     "source": "hn",
@@ -41,18 +31,23 @@
   },
   {
     "source": "hn",
+    "url": "https://hackernewstrends.com",
+    "title": "Show HN: I made Google Trends for Hacker News by indexing 18 years of comments"
+  },
+  {
+    "source": "hn",
     "url": "https://en.wikipedia.org/wiki/52-hertz_whale",
     "title": "52-hertz whale"
   },
   {
     "source": "hn",
-    "url": "https://blog.cloudflare.com/oauth-for-all/",
-    "title": "Cloudflare launched self-managed OAuth for all"
+    "url": "https://pete.design/tw-fade",
+    "title": "Tw-fade: pure CSS scroll-driven edge masking"
   },
   {
     "source": "hn",
-    "url": "https://minipcs.zip",
-    "title": "Show HN: MiniPCs.zip – Charting the Pareto frontier of Mini PCs"
+    "url": "https://blog.cloudflare.com/oauth-for-all/",
+    "title": "OAuth for all"
   },
   {
     "source": "hn",
@@ -61,18 +56,23 @@
   },
   {
     "source": "hn",
-    "url": "https://www.crosscanon.com/",
-    "title": "Show HN: Bible as RAG Database"
+    "url": "https://minipcs.zip",
+    "title": "Show HN: MiniPCs.zip – Charting the Pareto frontier of Mini PCs"
   },
   {
     "source": "hn",
-    "url": "https://www.theregister.com/legal/2026/06/25/european-commission-lines-up-amazon-and-microsoft-for-cloud-gatekeeper-status/5262127",
-    "title": "European Commission lines up Amazon and Microsoft for cloud gatekeeper status"
+    "url": "https://blog.jim-nielsen.com/2026/blogging-stating-the-obvious/",
+    "title": "Blogging can just be stating the obvious"
+  },
+  {
+    "source": "hn",
+    "url": "https://jamesoclaire.com/2026/06/25/the-unbearable-cheapness-of-open-weight-models/",
+    "title": "The unbearable cheapness of open weight models"
   },
   {
     "source": "lobsters",
-    "url": "https://blog.omgmog.net/post/xteink-x4-e-ink-reader/",
-    "title": "The Xteink X4 E-Ink Reader"
+    "url": "https://chrismorgan.info/font-family",
+    "title": "font-family recommendations"
   },
   {
     "source": "lobsters",
@@ -81,8 +81,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://chrismorgan.info/font-family",
-    "title": "font-family recommendations"
+    "url": "https://blog.omgmog.net/post/xteink-x4-e-ink-reader/",
+    "title": "The Xteink X4 E-Ink Reader"
   },
   {
     "source": "lobsters",
@@ -141,102 +141,7 @@
   },
   {
     "source": "lobsters",
-    "url": "https://recyclebin.zip/posts/2026-05-25-secret-scanning-fleet-bagel/",
-    "title": "Detecting and removing dangerous secrets on dev workstations before Shai-Hulud does"
-  },
-  {
-    "source": "lobsters",
     "url": "https://gitlab.gnome.org/balooii/gimp-0.54",
     "title": "Flatpak package for GIMP 0.54.1 (1996)"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://lucumr.pocoo.org/2026/6/23/the-coming-loop/",
-    "title": "The Coming Loop | Armin Ronacher's Thoughts and Writings"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://moultano.wordpress.com/2026/06/19/where-to-find-the-colors-your-screen-cant-show-you/",
-    "title": "Where to Find the Colors Your Screen Can’t Show You – Ryan Moulton's Articles"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://nevergivethemyourface.com/",
-    "title": "Never Give Them Your Face"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.openculture.com/freeonlinecourses",
-    "title": "1200 Free Online Courses from Top Universities | Open Culture"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://tikz.dev/editor/",
-    "title": "TikZ Editor"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://docs.deno.com/runtime/desktop/",
-    "title": "Desktop apps | Deno Docs"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://plotnine.org/",
-    "title": "plotnine 0.13.4 - A Grammar of Graphics for Python"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://birdclaw.sh/",
-    "title": "birdclaw — Local Twitter memory in SQLite"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.marble.onl/posts/cancel_claude.html",
-    "title": "cancel_claude"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://arun.is/blog/japan-symbols/",
-    "title": "Japanese symbols that speak without words"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://eieio.games/blog/legibility-of-effort/",
-    "title": "Legibility of Effort · eieio.games"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://techstackups.com/comparisons/glm-5.2-vs-opus/",
-    "title": "GLM-5.2 vs Claude Opus | Tech Stackups"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://hyperblam.how/",
-    "title": "Hyperblam Docs Home : HYPERBLAM"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://apertvs.ai/",
-    "title": "APERTVS.ai Fully Open Foundation Model for Sovereign AI Developed by the Swiss AI Initiative as a collaborative effort between EPFL, ETH Zurich, and CSCS. Open weights, open data, open science"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://lmao.center/blog/wiggle-accidents/",
-    "title": "help i accidentally a wigglegram"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://news.ycombinator.com/item?id=48649435",
-    "title": "Jerry's Map | Hacker News"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.jerrysmap.com/the-map",
-    "title": "The Map — Jerry's Map"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://the-criterion-closet.vercel.app/",
-    "title": "The Closet — the Criterion Collection"
   }
 ]
