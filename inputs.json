@@ -26,18 +26,8 @@
   },
   {
     "source": "hn",
-    "url": "https://rerun.io/blog/data-layer-tax",
-    "title": "Robotics Teams Are Rebuilding the Data Stack from Scratch"
-  },
-  {
-    "source": "hn",
     "url": "https://blogs.nvidia.com/blog/liquid-cooling-ai-factories/",
     "title": "45°C cooling design cuts data center water use to near zero"
-  },
-  {
-    "source": "hn",
-    "url": "https://lookaway.com",
-    "title": "Show HN: LookAway, a Mac break reminder that knows when not to interrupt"
   },
   {
     "source": "hn",
@@ -46,13 +36,13 @@
   },
   {
     "source": "hn",
-    "url": "https://www.krea.ai/blog/krea-2-technical-report",
-    "title": "Krea 2: SOTA open-weights 12B image model"
+    "url": "https://lookaway.com",
+    "title": "Show HN: LookAway, a Mac break reminder that knows when not to interrupt"
   },
   {
     "source": "hn",
-    "url": "https://sebastiangarren.com/2026/06/17/lending-is-meritorious-and-should-be-praised-how-the-fifth-lateran-council-unlocked-financial-theory/",
-    "title": "How the Fifth Lateran Council unlocked financial theory"
+    "url": "https://www.krea.ai/blog/krea-2-technical-report",
+    "title": "Krea 2: SOTA open-weights 12B image model"
   },
   {
     "source": "hn",
@@ -61,13 +51,38 @@
   },
   {
     "source": "hn",
-    "url": "https://astral-os.org/posts/2026/04/03/wine-on-astral.html",
-    "title": "Running Windows Games on a Hobby OS with Wine"
+    "url": "https://www.markround.com/blog/2026/06/17/25-its-only-when-you-look-back/",
+    "title": "It's Only When You Look Back"
+  },
+  {
+    "source": "hn",
+    "url": "https://rerun.io/blog/data-layer-tax",
+    "title": "Robotics Teams Are Rebuilding the Data Stack from Scratch"
+  },
+  {
+    "source": "hn",
+    "url": "https://sebastiangarren.com/2026/06/17/lending-is-meritorious-and-should-be-praised-how-the-fifth-lateran-council-unlocked-financial-theory/",
+    "title": "How the Fifth Lateran Council unlocked financial theory"
+  },
+  {
+    "source": "hn",
+    "url": "https://victorribeiro.com/wordit/",
+    "title": "Show HN: Wordit – Change One Letter, Keep the Chain Going"
   },
   {
     "source": "hn",
     "url": "https://www.monolisa.dev/",
     "title": "Show HN: Monolisa v3 – a typeface for developers and creatives"
+  },
+  {
+    "source": "hn",
+    "url": "https://astral-os.org/posts/2026/04/03/wine-on-astral.html",
+    "title": "Running Windows Games on a Hobby OS with Wine"
+  },
+  {
+    "source": "hn",
+    "url": "https://thomasliao.com/eval-startups",
+    "title": "Why eval startups fail (2025)"
   },
   {
     "source": "lobsters",
@@ -76,13 +91,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://utaw.tech/news/wikipedia-recognition",
-    "title": "UK Wikipedia Workers seek union recognition"
+    "url": "https://ngrok.com/blog/aol-was-down-1996",
+    "title": "AOL was down (1996) (2026)"
   },
   {
     "source": "lobsters",
-    "url": "https://ngrok.com/blog/aol-was-down-1996",
-    "title": "AOL was down (1996) (2026)"
+    "url": "https://utaw.tech/news/wikipedia-recognition",
+    "title": "UK Wikipedia Workers seek union recognition"
   },
   {
     "source": "lobsters",
@@ -101,13 +116,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://slint.dev/blog/slint-1.17-released",
-    "title": "Slint 1.17 Released"
+    "url": "https://whynothugo.nl/journal/2026/06/24/ignore-dnssec-if-you-like-mitm-attacks/",
+    "title": "Ignore DNSSEC if you like MITM attacks"
   },
   {
     "source": "lobsters",
-    "url": "https://rubycentral.org/news/announcing-the-rubyconf-vip-raffle/",
-    "title": "Announcing the RubyConf VIP Raffle"
+    "url": "https://slint.dev/blog/slint-1.17-released",
+    "title": "Slint 1.17 Released"
   },
   {
     "source": "lobsters",
@@ -116,8 +131,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://whynothugo.nl/journal/2026/06/24/ignore-dnssec-if-you-like-mitm-attacks/",
-    "title": "Ignore DNSSEC if you like MITM attacks"
+    "url": "https://rubycentral.org/news/announcing-the-rubyconf-vip-raffle/",
+    "title": "Announcing the RubyConf VIP Raffle"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://httpwg.org/http-extensions/draft-ietf-httpbis-safe-method-w-body.html#section-1-5.2",
+    "title": "The HTTP QUERY Method"
   },
   {
     "source": "lobsters",
@@ -136,11 +156,6 @@
   },
   {
     "source": "lobsters",
-    "url": "https://httpwg.org/http-extensions/draft-ietf-httpbis-safe-method-w-body.html#section-1-5.2",
-    "title": "The HTTP QUERY Method"
-  },
-  {
-    "source": "lobsters",
     "url": "https://teddd.srht.site/sacr3d/",
     "title": "Sacr3d: A rendering engine toolbox to do 3D graphics in Scheme"
   },
@@ -148,11 +163,6 @@
     "source": "lobsters",
     "url": "https://blog.cloudflare.com/hyper-bug/",
     "title": "How we found a bug in the hyper HTTP library"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://davidlattimore.github.io/posts/2023/10/09/making-supply-chain-attacks-harder.html",
-    "title": "Making Rust supply chain attacks harder with Cackle (2023)"
   },
   {
     "source": "pinboard",
