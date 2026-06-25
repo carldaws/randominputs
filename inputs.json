@@ -1,18 +1,8 @@
 [
   {
     "source": "hn",
-    "url": "https://hackernewstrends.com",
-    "title": "Show HN: I made Google Trends for Hacker News by indexing 18 years of comments"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.bloomberg.com/news/articles/2026-06-25/ford-has-been-rehiring-quality-inspectors-after-ai-fell-short",
-    "title": "Ford rehires 350 engineers after AI fails to preserve expertise or train juniors"
-  },
-  {
-    "source": "hn",
     "url": "https://ziglang.org/devlog/2026/#2026-06-25",
-    "title": "Zig's New BitCast Semantics and LLVM Back End Improvements"
+    "title": "Zig's new bitCast semantics and LLVM back end improvements"
   },
   {
     "source": "hn",
@@ -21,13 +11,33 @@
   },
   {
     "source": "hn",
+    "url": "https://hackernewstrends.com",
+    "title": "Show HN: I made Google Trends for Hacker News by indexing 18 years of comments"
+  },
+  {
+    "source": "hn",
+    "url": "https://hl2.slqnt.dev/",
+    "title": "Half-Life 2 in a Browser"
+  },
+  {
+    "source": "hn",
+    "url": "https://yllan.org/software/OS9Map/",
+    "title": "OS9Map"
+  },
+  {
+    "source": "hn",
     "url": "https://pete.design/tw-fade",
     "title": "Tw-fade: pure CSS scroll-driven edge masking"
   },
   {
     "source": "hn",
-    "url": "https://utaw.tech/news/wikipedia-recognition",
-    "title": "Wikipedia Workers in Britain set global first by seeking union recognition"
+    "url": "https://trakkr.ai/bias",
+    "title": "Political bias in AI: Where the AI models stand"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.crosscanon.com/",
+    "title": "Show HN: Bible as RAG Database"
   },
   {
     "source": "hn",
@@ -41,28 +51,28 @@
   },
   {
     "source": "hn",
+    "url": "https://minipcs.zip",
+    "title": "Show HN: MiniPCs.zip – Charting the Pareto frontier of Mini PCs"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.bloomberg.com/news/articles/2026-06-25/ford-has-been-rehiring-quality-inspectors-after-ai-fell-short",
+    "title": "Ford AI hiccups push carmaker to rehire ‘gray beard’ inspectors"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.theregister.com/legal/2026/06/25/european-commission-lines-up-amazon-and-microsoft-for-cloud-gatekeeper-status/5262127",
+    "title": "European Commission lines up Amazon and Microsoft for cloud gatekeeper status"
+  },
+  {
+    "source": "hn",
+    "url": "https://jamesoclaire.com/2026/06/25/the-unbearable-cheapness-of-open-weight-models/",
+    "title": "The unbearable cheapness of open weight models"
+  },
+  {
+    "source": "hn",
     "url": "https://blog.jim-nielsen.com/2026/blogging-stating-the-obvious/",
     "title": "Blogging can just be stating the obvious"
-  },
-  {
-    "source": "hn",
-    "url": "https://blog.georeactor.com/books-06-26b",
-    "title": "Lianda and the Long March"
-  },
-  {
-    "source": "hn",
-    "url": "https://blogs.nvidia.com/blog/liquid-cooling-ai-factories/",
-    "title": "45°C cooling design cuts data center water use to near zero"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.startupsbr.com/sao-paulo",
-    "title": "Show HN: StartupsBR – A map of Brazilian startups"
-  },
-  {
-    "source": "hn",
-    "url": "https://rubyllm.com/",
-    "title": "RubyLLM: A Ruby framework for all major AI providers"
   },
   {
     "source": "lobsters",
@@ -81,18 +91,23 @@
   },
   {
     "source": "lobsters",
-    "url": "https://areweglobalshortcutsyet.github.io",
-    "title": "Are We GlobalShortcuts Yet?"
-  },
-  {
-    "source": "lobsters",
     "url": "https://ohadravid.github.io/posts/2026-06-tool-talking/",
     "title": "The Exhaustion of Talking to a Tool"
   },
   {
     "source": "lobsters",
+    "url": "https://areweglobalshortcutsyet.github.io",
+    "title": "Are We GlobalShortcuts Yet?"
+  },
+  {
+    "source": "lobsters",
     "url": "https://tangled.org/desertthunder.dev/tropius",
     "title": "tropius: detect AI tropes in prose"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://utaw.tech/news/wikipedia-recognition",
+    "title": "UK Wikipedia Workers seek union recognition"
   },
   {
     "source": "lobsters",
@@ -111,23 +126,18 @@
   },
   {
     "source": "lobsters",
-    "url": "https://yllan.org/software/OS9Map/",
-    "title": "OS9Map: OpenStreetMap for Mac OS 9"
-  },
-  {
-    "source": "lobsters",
     "url": "https://ngrok.com/blog/aol-was-down-1996",
     "title": "AOL was down (1996) (2026)"
   },
   {
     "source": "lobsters",
-    "url": "https://whynothugo.nl/journal/2026/06/24/ignore-dnssec-if-you-like-mitm-attacks/",
-    "title": "Ignore DNSSEC if you like MITM attacks"
+    "url": "https://andyatkinson.com/how-aura-frames-scales-for-peak-load-ruby-on-rails",
+    "title": "Scaling Rails: 41M Req/Hour, 8 DBs, disable_joins: true"
   },
   {
     "source": "lobsters",
-    "url": "https://andyatkinson.com/how-aura-frames-scales-for-peak-load-ruby-on-rails",
-    "title": "Scaling Rails: 41M Req/Hour, 8 DBs, disable_joins: true"
+    "url": "https://whynothugo.nl/journal/2026/06/24/ignore-dnssec-if-you-like-mitm-attacks/",
+    "title": "Ignore DNSSEC if you like MITM attacks"
   },
   {
     "source": "lobsters",
@@ -145,8 +155,88 @@
     "title": "The Coming Loop"
   },
   {
-    "source": "lobsters",
-    "url": "https://recyclebin.zip/posts/2026-05-25-secret-scanning-fleet-bagel/",
-    "title": "Detecting and removing dangerous secrets on dev workstations before Shai-Hulud does"
+    "source": "pinboard",
+    "url": "https://moultano.wordpress.com/2026/06/19/where-to-find-the-colors-your-screen-cant-show-you/",
+    "title": "Where to Find the Colors Your Screen Can’t Show You – Ryan Moulton's Articles"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://nevergivethemyourface.com/",
+    "title": "Never Give Them Your Face"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.openculture.com/freeonlinecourses",
+    "title": "1200 Free Online Courses from Top Universities | Open Culture"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://tikz.dev/editor/",
+    "title": "TikZ Editor"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://docs.deno.com/runtime/desktop/",
+    "title": "Desktop apps | Deno Docs"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://plotnine.org/",
+    "title": "plotnine 0.13.4 - A Grammar of Graphics for Python"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://birdclaw.sh/",
+    "title": "birdclaw — Local Twitter memory in SQLite"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.marble.onl/posts/cancel_claude.html",
+    "title": "cancel_claude"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://arun.is/blog/japan-symbols/",
+    "title": "Japanese symbols that speak without words"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://eieio.games/blog/legibility-of-effort/",
+    "title": "Legibility of Effort · eieio.games"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://techstackups.com/comparisons/glm-5.2-vs-opus/",
+    "title": "GLM-5.2 vs Claude Opus | Tech Stackups"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://hyperblam.how/",
+    "title": "Hyperblam Docs Home : HYPERBLAM"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://apertvs.ai/",
+    "title": "APERTVS.ai Fully Open Foundation Model for Sovereign AI Developed by the Swiss AI Initiative as a collaborative effort between EPFL, ETH Zurich, and CSCS. Open weights, open data, open science"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://lmao.center/blog/wiggle-accidents/",
+    "title": "help i accidentally a wigglegram"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://news.ycombinator.com/item?id=48649435",
+    "title": "Jerry's Map | Hacker News"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.jerrysmap.com/the-map",
+    "title": "The Map — Jerry's Map"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://the-criterion-closet.vercel.app/",
+    "title": "The Closet — the Criterion Collection"
   }
 ]
