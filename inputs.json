@@ -1,8 +1,8 @@
 [
   {
     "source": "hn",
-    "url": "https://www.crosscanon.com/",
-    "title": "Bible as RAG Database"
+    "url": "https://blog.cloudflare.com/oauth-for-all/",
+    "title": "Cloudflare launched self-managed OAuth for all"
   },
   {
     "source": "hn",
@@ -11,8 +11,8 @@
   },
   {
     "source": "hn",
-    "url": "https://www.pangram.com/pangram-space",
-    "title": "Exploring the internal representations of Pangram 3.3.2"
+    "url": "https://blogs.nvidia.com/blog/liquid-cooling-ai-factories/",
+    "title": "45°C cooling design cuts data center water use to near zero"
   },
   {
     "source": "hn",
@@ -21,23 +21,23 @@
   },
   {
     "source": "hn",
-    "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-computer-use-gemini-3-5-flash/",
-    "title": "Computer use in Gemini 3.5 Flash"
-  },
-  {
-    "source": "hn",
     "url": "https://www.greptile.com/blog/prs-on-openclaw",
     "title": "PR spam today looks like email spam in the early 2000s"
   },
   {
     "source": "hn",
-    "url": "https://blogs.nvidia.com/blog/liquid-cooling-ai-factories/",
-    "title": "45°C cooling design cuts data center water use to near zero"
+    "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-computer-use-gemini-3-5-flash/",
+    "title": "Computer use in Gemini 3.5 Flash"
   },
   {
     "source": "hn",
-    "url": "https://lithub.com/are-writers-intrinsically-vulnerable-to-alcohol-and-drugs/",
-    "title": "Writers and Drugs"
+    "url": "https://www.ign.com/articles/grand-theft-auto-6-physical-copies-wont-include-a-disc-will-just-be-a-code-in-a-box",
+    "title": "GTA 6 Physical Copies Won't Include a Disc, Will Just Be a Code in a Box"
+  },
+  {
+    "source": "hn",
+    "url": "https://kobzol.github.io/rust/2026/06/21/optimizing-sqlx-test-rebuild-time.html",
+    "title": "Optimizing [sqlx:test] rebuild time"
   },
   {
     "source": "hn",
@@ -46,28 +46,18 @@
   },
   {
     "source": "hn",
-    "url": "https://www.krea.ai/blog/krea-2-technical-report",
-    "title": "Krea 2: SOTA open-weights 12B image model"
+    "url": "https://www.crosscanon.com/",
+    "title": "Bible as RAG Database"
   },
   {
     "source": "hn",
-    "url": "https://victorribeiro.com/wordit/",
-    "title": "Show HN: Wordit – Change One Letter, Keep the Chain Going"
+    "url": "https://www.pangram.com/pangram-space",
+    "title": "Exploring the internal representations of Pangram 3.3.2"
   },
   {
     "source": "hn",
-    "url": "https://ben-mini.com/2026/stealing-is-a-skill",
-    "title": "Stealing Is a Skill"
-  },
-  {
-    "source": "hn",
-    "url": "https://natkr.com/2026-06-19-nixos-but-smol/",
-    "title": "I can haz smoller NixOS ISOs?"
-  },
-  {
-    "source": "hn",
-    "url": "https://sebastiangarren.com/2026/06/17/lending-is-meritorious-and-should-be-praised-how-the-fifth-lateran-council-unlocked-financial-theory/",
-    "title": "How the Fifth Lateran Council unlocked financial theory"
+    "url": "https://lithub.com/are-writers-intrinsically-vulnerable-to-alcohol-and-drugs/",
+    "title": "Writers and Drugs"
   },
   {
     "source": "lobsters",
@@ -96,11 +86,6 @@
   },
   {
     "source": "lobsters",
-    "url": "https://gitlab.gnome.org/balooii/gimp-0.54",
-    "title": "Flatpak package for GIMP 0.54.1 (1996)"
-  },
-  {
-    "source": "lobsters",
     "url": "https://whynothugo.nl/journal/2026/06/24/ignore-dnssec-if-you-like-mitm-attacks/",
     "title": "Ignore DNSSEC if you like MITM attacks"
   },
@@ -108,6 +93,16 @@
     "source": "lobsters",
     "url": "https://areweglobalshortcutsyet.github.io",
     "title": "Are We GlobalShortcuts Yet?"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://gitlab.gnome.org/balooii/gimp-0.54",
+    "title": "Flatpak package for GIMP 0.54.1 (1996)"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://andyatkinson.com/how-aura-frames-scales-for-peak-load-ruby-on-rails",
+    "title": "Scaling Rails: 41M Req/Hour, 8 DBs, disable_joins: true"
   },
   {
     "source": "lobsters",
@@ -121,13 +116,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://slint.dev/blog/slint-1.17-released",
-    "title": "Slint 1.17 Released"
+    "url": "https://rubycentral.org/news/announcing-the-rubyconf-vip-raffle/",
+    "title": "Announcing the RubyConf VIP Raffle"
   },
   {
     "source": "lobsters",
-    "url": "https://rubycentral.org/news/announcing-the-rubyconf-vip-raffle/",
-    "title": "Announcing the RubyConf VIP Raffle"
+    "url": "https://slint.dev/blog/slint-1.17-released",
+    "title": "Slint 1.17 Released"
   },
   {
     "source": "lobsters",
@@ -146,18 +141,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://andyatkinson.com/how-aura-frames-scales-for-peak-load-ruby-on-rails",
-    "title": "Scaling Rails: 41M Req/Hour, 8 DBs, disable_joins: true"
+    "url": "https://snarky.ca/why-i-wrote-pep-832-virtual-environment-discovery/",
+    "title": "Why I wrote PEP 832 -- virtual environment discovery"
   },
   {
     "source": "lobsters",
     "url": "https://akselmo.dev/posts/please-keep-code-descriptions-simple/",
     "title": "Please keep code descriptions simple"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://snarky.ca/why-i-wrote-pep-832-virtual-environment-discovery/",
-    "title": "Why I wrote PEP 832 -- virtual environment discovery"
   },
   {
     "source": "pinboard",
