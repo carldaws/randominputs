@@ -1,13 +1,13 @@
 [
   {
     "source": "hn",
-    "url": "https://hl2.slqnt.dev/",
-    "title": "Half-Life 2 in a Browser"
+    "url": "https://dolphin-emu.org/blog/2026/06/25/dolphin-progress-report-release-2606/",
+    "title": "Dolphin Emulator Progress Release 2606"
   },
   {
     "source": "hn",
-    "url": "https://dolphin-emu.org/blog/2026/06/25/dolphin-progress-report-release-2606/",
-    "title": "Dolphin Emulator Progress Release 2606"
+    "url": "https://hl2.slqnt.dev/",
+    "title": "Half-Life 2 in a Browser"
   },
   {
     "source": "hn",
@@ -26,8 +26,8 @@
   },
   {
     "source": "hn",
-    "url": "https://utaw.tech/news/wikipedia-recognition",
-    "title": "Wikipedia Workers in Britain set global first by seeking union recognition"
+    "url": "https://aeon.co/essays/literature-fans-should-welcome-ai-as-a-fellow-wordsmith",
+    "title": "Words, Words, Words"
   },
   {
     "source": "hn",
@@ -36,13 +36,18 @@
   },
   {
     "source": "hn",
-    "url": "https://rubyllm.com/",
-    "title": "RubyLLM: A Ruby framework for all major AI providers"
+    "url": "https://utaw.tech/news/wikipedia-recognition",
+    "title": "Wikipedia Workers in Britain set global first by seeking union recognition"
   },
   {
     "source": "hn",
-    "url": "https://aeon.co/essays/literature-fans-should-welcome-ai-as-a-fellow-wordsmith",
-    "title": "Words, Words, Words"
+    "url": "https://www.startupsbr.com/sao-paulo",
+    "title": "Show HN: StartupsBR – A map of Brazilian startups"
+  },
+  {
+    "source": "hn",
+    "url": "https://rubyllm.com/",
+    "title": "RubyLLM: A Ruby framework for all major AI providers"
   },
   {
     "source": "hn",
@@ -66,13 +71,18 @@
   },
   {
     "source": "lobsters",
+    "url": "https://areweglobalshortcutsyet.github.io",
+    "title": "Are We GlobalShortcuts Yet?"
+  },
+  {
+    "source": "lobsters",
     "url": "https://astral-os.org/posts/2026/04/03/wine-on-astral.html",
     "title": "Porting WINE to a new Hobby OS"
   },
   {
     "source": "lobsters",
-    "url": "https://areweglobalshortcutsyet.github.io",
-    "title": "Are We GlobalShortcuts Yet?"
+    "url": "https://refactoringenglish.com/excerpts/write-an-effective-design-doc/",
+    "title": "How to Write an Effective Software Design Document"
   },
   {
     "source": "lobsters",
@@ -81,8 +91,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://refactoringenglish.com/excerpts/write-an-effective-design-doc/",
-    "title": "How to Write an Effective Software Design Document"
+    "url": "https://tangled.org/desertthunder.dev/tropius",
+    "title": "tropius: detect AI tropes in prose"
   },
   {
     "source": "lobsters",
@@ -93,11 +103,6 @@
     "source": "lobsters",
     "url": "https://gitlab.gnome.org/balooii/gimp-0.54",
     "title": "Flatpak package for GIMP 0.54.1 (1996)"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://tangled.org/desertthunder.dev/tropius",
-    "title": "tropius: detect AI tropes in prose"
   },
   {
     "source": "lobsters",
@@ -126,6 +131,11 @@
   },
   {
     "source": "lobsters",
+    "url": "https://ziglang.org/devlog/2026/?2026-06-25#2026-06-25",
+    "title": "New @bitCast Semantics and LLVM Backend Improvements"
+  },
+  {
+    "source": "lobsters",
     "url": "https://httpwg.org/http-extensions/draft-ietf-httpbis-safe-method-w-body.html#section-1-5.2",
     "title": "The HTTP QUERY Method"
   },
@@ -133,11 +143,6 @@
     "source": "lobsters",
     "url": "https://rubycentral.org/news/announcing-the-rubyconf-vip-raffle/",
     "title": "Announcing the RubyConf VIP Raffle"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://blog.glyph.im/2026/06/adversarial-communication.html",
-    "title": "Adversarial Communication"
   },
   {
     "source": "pinboard",
