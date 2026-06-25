@@ -1,8 +1,18 @@
 [
   {
     "source": "hn",
+    "url": "https://hl2.slqnt.dev/",
+    "title": "Half-Life 2 in a Browser"
+  },
+  {
+    "source": "hn",
     "url": "https://blog.cloudflare.com/oauth-for-all/",
     "title": "Cloudflare launched self-managed OAuth for all"
+  },
+  {
+    "source": "hn",
+    "url": "https://markdy.com",
+    "title": "Markdy: Like Mermaid Diagrams, but for Motion"
   },
   {
     "source": "hn",
@@ -26,18 +36,13 @@
   },
   {
     "source": "hn",
+    "url": "https://jamesoclaire.com/2026/06/25/the-unbearable-cheapness-of-open-weight-models/",
+    "title": "The Unbearable Cheapness of Open Weight Models"
+  },
+  {
+    "source": "hn",
     "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-computer-use-gemini-3-5-flash/",
     "title": "Computer use in Gemini 3.5 Flash"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.ign.com/articles/grand-theft-auto-6-physical-copies-wont-include-a-disc-will-just-be-a-code-in-a-box",
-    "title": "GTA 6 Physical Copies Won't Include a Disc, Will Just Be a Code in a Box"
-  },
-  {
-    "source": "hn",
-    "url": "https://kobzol.github.io/rust/2026/06/21/optimizing-sqlx-test-rebuild-time.html",
-    "title": "Optimizing [sqlx:test] rebuild time"
   },
   {
     "source": "hn",
@@ -46,18 +51,13 @@
   },
   {
     "source": "hn",
-    "url": "https://www.crosscanon.com/",
-    "title": "Bible as RAG Database"
-  },
-  {
-    "source": "hn",
     "url": "https://www.pangram.com/pangram-space",
     "title": "Exploring the internal representations of Pangram 3.3.2"
   },
   {
     "source": "hn",
-    "url": "https://lithub.com/are-writers-intrinsically-vulnerable-to-alcohol-and-drugs/",
-    "title": "Writers and Drugs"
+    "url": "https://www.krea.ai/blog/krea-2-technical-report",
+    "title": "Krea 2: SOTA open-weights 12B image model"
   },
   {
     "source": "lobsters",
@@ -76,6 +76,11 @@
   },
   {
     "source": "lobsters",
+    "url": "https://areweglobalshortcutsyet.github.io",
+    "title": "Are We GlobalShortcuts Yet?"
+  },
+  {
+    "source": "lobsters",
     "url": "https://ngrok.com/blog/aol-was-down-1996",
     "title": "AOL was down (1996) (2026)"
   },
@@ -88,11 +93,6 @@
     "source": "lobsters",
     "url": "https://whynothugo.nl/journal/2026/06/24/ignore-dnssec-if-you-like-mitm-attacks/",
     "title": "Ignore DNSSEC if you like MITM attacks"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://areweglobalshortcutsyet.github.io",
-    "title": "Are We GlobalShortcuts Yet?"
   },
   {
     "source": "lobsters",
@@ -116,8 +116,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://rubycentral.org/news/announcing-the-rubyconf-vip-raffle/",
-    "title": "Announcing the RubyConf VIP Raffle"
+    "url": "https://kittenlabs.de/blamba/",
+    "title": "Blåmba"
   },
   {
     "source": "lobsters",
@@ -126,28 +126,18 @@
   },
   {
     "source": "lobsters",
-    "url": "https://blog.glyph.im/2026/06/adversarial-communication.html",
-    "title": "Adversarial Communication"
-  },
-  {
-    "source": "lobsters",
     "url": "https://httpwg.org/http-extensions/draft-ietf-httpbis-safe-method-w-body.html#section-1-5.2",
     "title": "The HTTP QUERY Method"
   },
   {
     "source": "lobsters",
-    "url": "https://kittenlabs.de/blamba/",
-    "title": "Blåmba"
+    "url": "https://rubycentral.org/news/announcing-the-rubyconf-vip-raffle/",
+    "title": "Announcing the RubyConf VIP Raffle"
   },
   {
     "source": "lobsters",
-    "url": "https://snarky.ca/why-i-wrote-pep-832-virtual-environment-discovery/",
-    "title": "Why I wrote PEP 832 -- virtual environment discovery"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://akselmo.dev/posts/please-keep-code-descriptions-simple/",
-    "title": "Please keep code descriptions simple"
+    "url": "https://blog.glyph.im/2026/06/adversarial-communication.html",
+    "title": "Adversarial Communication"
   },
   {
     "source": "pinboard",
@@ -156,28 +146,8 @@
   },
   {
     "source": "pinboard",
-    "url": "https://docs.deno.com/runtime/desktop/",
-    "title": "Desktop apps | Deno Docs"
-  },
-  {
-    "source": "pinboard",
     "url": "https://nevergivethemyourface.com/",
     "title": "Never Give Them Your Face"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://tikz.dev/editor/",
-    "title": "TikZ Editor"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://hawksley.dev/blog/json-ld-explained-for-personal-websites/",
-    "title": "JSON-LD Explained for Personal Websites | Ethan Hawksley"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.marble.onl/posts/cancel_claude.html",
-    "title": "cancel_claude"
   },
   {
     "source": "pinboard",
@@ -186,23 +156,13 @@
   },
   {
     "source": "pinboard",
-    "url": "https://techstackups.com/comparisons/glm-5.2-vs-opus/",
-    "title": "GLM-5.2 vs Claude Opus | Tech Stackups"
+    "url": "https://tikz.dev/editor/",
+    "title": "TikZ Editor"
   },
   {
     "source": "pinboard",
-    "url": "https://alexkritchevsky.com/2026/05/25/everything-is-logarithms.html",
-    "title": "Everything Is Logarithms"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://birdclaw.sh/",
-    "title": "birdclaw — Local Twitter memory in SQLite"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://arun.is/blog/japan-symbols/",
-    "title": "Japanese symbols that speak without words"
+    "url": "https://docs.deno.com/runtime/desktop/",
+    "title": "Desktop apps | Deno Docs"
   },
   {
     "source": "pinboard",
@@ -211,33 +171,28 @@
   },
   {
     "source": "pinboard",
-    "url": "https://aresluna.org/show-your-hands-honor/",
-    "title": "Show your hands honor for the strange power they bring you – Aresluna"
+    "url": "https://birdclaw.sh/",
+    "title": "birdclaw — Local Twitter memory in SQLite"
   },
   {
     "source": "pinboard",
-    "url": "https://the-criterion-closet.vercel.app/",
-    "title": "The Closet — the Criterion Collection"
+    "url": "https://www.marble.onl/posts/cancel_claude.html",
+    "title": "cancel_claude"
   },
   {
     "source": "pinboard",
-    "url": "https://lmao.center/blog/wiggle-accidents/",
-    "title": "help i accidentally a wigglegram"
+    "url": "https://arun.is/blog/japan-symbols/",
+    "title": "Japanese symbols that speak without words"
   },
   {
     "source": "pinboard",
-    "url": "https://www.jerrysmap.com/the-map",
-    "title": "The Map — Jerry's Map"
+    "url": "https://eieio.games/blog/legibility-of-effort/",
+    "title": "Legibility of Effort · eieio.games"
   },
   {
     "source": "pinboard",
-    "url": "https://townsquare.cauenapier.com/",
-    "title": "TownSquare — a tiny presence layer for websites"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://open-foundry.com/",
-    "title": "Open Foundry"
+    "url": "https://techstackups.com/comparisons/glm-5.2-vs-opus/",
+    "title": "GLM-5.2 vs Claude Opus | Tech Stackups"
   },
   {
     "source": "pinboard",
@@ -246,7 +201,27 @@
   },
   {
     "source": "pinboard",
-    "url": "https://screen.toys/",
-    "title": "screen toys"
+    "url": "https://apertvs.ai/",
+    "title": "APERTVS.ai Fully Open Foundation Model for Sovereign AI Developed by the Swiss AI Initiative as a collaborative effort between EPFL, ETH Zurich, and CSCS. Open weights, open data, open science"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://lmao.center/blog/wiggle-accidents/",
+    "title": "help i accidentally a wigglegram"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://news.ycombinator.com/item?id=48649435",
+    "title": "Jerry's Map | Hacker News"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.jerrysmap.com/the-map",
+    "title": "The Map — Jerry's Map"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://the-criterion-closet.vercel.app/",
+    "title": "The Closet — the Criterion Collection"
   }
 ]
