@@ -11,13 +11,13 @@
   },
   {
     "source": "hn",
-    "url": "https://scottaaronson.blog/?p=9851",
-    "title": "Bipartite Matching Is in NC"
+    "url": "https://graphicore.github.io/librebarcode/",
+    "title": "Libre Barcode Project"
   },
   {
     "source": "hn",
-    "url": "https://graphicore.github.io/librebarcode/",
-    "title": "Libre Barcode Project"
+    "url": "https://scottaaronson.blog/?p=9851",
+    "title": "Bipartite Matching Is in NC"
   },
   {
     "source": "hn",
@@ -51,11 +51,6 @@
   },
   {
     "source": "hn",
-    "url": "https://mas-bandwidth.com/the-best-thing-that-has-ever-happened-for-multiplayer-games/",
-    "title": "The best thing that has ever happened for multiplayer games"
-  },
-  {
-    "source": "hn",
     "url": "https://rozumem.xyz/posts/17",
     "title": "The Doorman's Fallacy in action"
   },
@@ -63,6 +58,11 @@
     "source": "hn",
     "url": "https://ziglang.org/devlog/2026/#2026-06-25",
     "title": "Zig's new bitCast semantics and LLVM back end improvements"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://fzakaria.com/2026/06/25/guixpkgs-every-guix-package-as-a-nix-flake",
+    "title": "GuixPkgs: every Guix package, as a Nix flake"
   },
   {
     "source": "lobsters",
@@ -76,11 +76,6 @@
   },
   {
     "source": "lobsters",
-    "url": "https://fzakaria.com/2026/06/25/guixpkgs-every-guix-package-as-a-nix-flake",
-    "title": "GuixPkgs: every Guix package, as a Nix flake"
-  },
-  {
-    "source": "lobsters",
     "url": "https://ziglang.org/devlog/2026/#2026-06-26",
     "title": "SPIR-V Backend Progress"
   },
@@ -88,6 +83,16 @@
     "source": "lobsters",
     "url": "https://chrismorgan.info/font-family",
     "title": "font-family recommendations"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://grack.com/blog/2026/06/25/dissecting-a-failed-nation-state-attack/",
+    "title": "Anatomy of a Failed (Nation-State?) Attack"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://www.augusteo.com/blog/how-pgbouncer-works/",
+    "title": "How PgBouncer Works"
   },
   {
     "source": "lobsters",
@@ -101,11 +106,6 @@
   },
   {
     "source": "lobsters",
-    "url": "https://www.augusteo.com/blog/how-pgbouncer-works/",
-    "title": "How PgBouncer Works"
-  },
-  {
-    "source": "lobsters",
     "url": "https://yllan.org/software/OS9Map/",
     "title": "OS9Map: OpenStreetMap for Mac OS 9"
   },
@@ -113,11 +113,6 @@
     "source": "lobsters",
     "url": "https://netzhansa.com/echoes-of-the-ai-winter/",
     "title": "Echoes of the AI Winter"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://areweglobalshortcutsyet.github.io",
-    "title": "Are We GlobalShortcuts Yet?"
   },
   {
     "source": "pinboard",
