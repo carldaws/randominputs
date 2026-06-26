@@ -1,13 +1,13 @@
 [
   {
     "source": "hn",
-    "url": "https://nesbitt.io/2026/06/26/incident-report-cve-2026-lgtm.html",
-    "title": "Incident CVE-2026-LGTM"
+    "url": "https://alephneuro.com/blog/ultrasound-brain",
+    "title": "Ultrasound imaging of the brain"
   },
   {
     "source": "hn",
-    "url": "https://alephneuro.com/blog/ultrasound-brain",
-    "title": "Ultrasound Imaging of the Brain"
+    "url": "https://nesbitt.io/2026/06/26/incident-report-cve-2026-lgtm.html",
+    "title": "Incident CVE-2026-LGTM"
   },
   {
     "source": "hn",
@@ -31,6 +31,11 @@
   },
   {
     "source": "hn",
+    "url": "https://ohadravid.github.io/posts/2026-06-tool-talking/",
+    "title": "The Exhaustion of Talking to a Tool"
+  },
+  {
+    "source": "hn",
     "url": "https://akrites.org/letter/",
     "title": "We all depend on open source. We will defend it together"
   },
@@ -41,23 +46,18 @@
   },
   {
     "source": "hn",
-    "url": "https://unconv.ai/blog/introducing-un-0-generating-images-with-coupled-oscillators/",
-    "title": "Un-0: Generating Images with Coupled Oscillators"
-  },
-  {
-    "source": "hn",
     "url": "https://worksinprogress.co/issue/microbubbles/",
     "title": "Microbubbles in Medicine"
   },
   {
     "source": "hn",
-    "url": "https://rozumem.xyz/posts/17",
-    "title": "The Doorman's Fallacy in action"
+    "url": "https://unconv.ai/blog/introducing-un-0-generating-images-with-coupled-oscillators/",
+    "title": "Un-0: Generating Images with Coupled Oscillators"
   },
   {
     "source": "hn",
-    "url": "https://ziglang.org/devlog/2026/#2026-06-25",
-    "title": "Zig's new bitCast semantics and LLVM back end improvements"
+    "url": "https://rozumem.xyz/posts/17",
+    "title": "The Doorman's Fallacy in action"
   },
   {
     "source": "lobsters",
@@ -66,13 +66,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://ohadravid.github.io/posts/2026-06-tool-talking/",
-    "title": "The Exhaustion of Talking to a Tool"
+    "url": "https://ebellani.github.io/blog/2026/all-you-need-is-postgresql/",
+    "title": "All you need is PostgreSQL"
   },
   {
     "source": "lobsters",
-    "url": "https://ebellani.github.io/blog/2026/all-you-need-is-postgresql/",
-    "title": "All you need is PostgreSQL"
+    "url": "https://grack.com/blog/2026/06/25/dissecting-a-failed-nation-state-attack/",
+    "title": "Anatomy of a Failed (Nation-State?) Attack"
   },
   {
     "source": "lobsters",
@@ -83,11 +83,6 @@
     "source": "lobsters",
     "url": "https://chrismorgan.info/font-family",
     "title": "font-family recommendations"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://grack.com/blog/2026/06/25/dissecting-a-failed-nation-state-attack/",
-    "title": "Anatomy of a Failed (Nation-State?) Attack"
   },
   {
     "source": "lobsters",
