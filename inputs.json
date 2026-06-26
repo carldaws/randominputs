@@ -1,13 +1,23 @@
 [
   {
     "source": "hn",
-    "url": "https://gossamer-lang.org/",
-    "title": "Gossamer: a Rust-flavoured language with real goroutines and pause-free memory"
+    "url": "https://svpow.com/2026/05/15/the-bizarre-headgear-exhibit-at-the-sam-noble-museum-is-incredible/",
+    "title": "The \"Bizarre Headgear\" Exhibit at the Sam Noble Museum Is Incredible"
   },
   {
     "source": "hn",
     "url": "https://mlc.ai/modern-gpu-programming-for-mlsys/",
     "title": "Modern GPU Programming for MLSys"
+  },
+  {
+    "source": "hn",
+    "url": "https://hightouch.com/careers#open-positions",
+    "title": "Hightouch (YC S19) Is Hiring"
+  },
+  {
+    "source": "hn",
+    "url": "https://gossamer-lang.org/",
+    "title": "Gossamer: a Rust-flavoured language with real goroutines and pause-free memory"
   },
   {
     "source": "hn",
@@ -21,8 +31,8 @@
   },
   {
     "source": "hn",
-    "url": "https://svpow.com/2026/05/15/the-bizarre-headgear-exhibit-at-the-sam-noble-museum-is-incredible/",
-    "title": "The \"Bizarre Headgear\" Exhibit at the Sam Noble Museum Is Incredible"
+    "url": "https://acoup.blog/2026/06/26/collections-pre-modern-armies-for-worldbuilders-part-iii-paying-for-it/",
+    "title": "Pre-Modern Armies for Worldbuilders, Part III: Paying for It"
   },
   {
     "source": "hn",
@@ -41,13 +51,13 @@
   },
   {
     "source": "hn",
-    "url": "https://www.jeffgeerling.com/blog/2026/framework-10g-ethernet-module-usb-c-complexity/",
-    "title": "Framework's 10G Ethernet module exposes USB-C's complexity"
+    "url": "https://www.swiftlatex.com/",
+    "title": "LaTeX.wasm: LaTeX Engines in Browsers"
   },
   {
     "source": "hn",
-    "url": "https://www.swiftlatex.com/",
-    "title": "LaTeX.wasm: LaTeX Engines in Browsers"
+    "url": "https://ngrok.com/blog/aol-was-down-1996",
+    "title": "A human postmortem of the 1996 AOL outage"
   },
   {
     "source": "hn",
@@ -56,18 +66,13 @@
   },
   {
     "source": "hn",
-    "url": "https://nesbitt.io/2026/06/26/incident-report-cve-2026-lgtm.html",
-    "title": "Incident CVE-2026-LGTM"
-  },
-  {
-    "source": "hn",
     "url": "https://blog.matthewbrunelle.com/my-steam-machine-is-a-50ft-hdmi-cable/",
     "title": "My Steam Machine is a 50ft HDMI cable"
   },
   {
     "source": "hn",
-    "url": "https://jan-herlyn.com/blog/doing-a-masters-while-working/",
-    "title": "Doing a masters while working in Spain"
+    "url": "https://nesbitt.io/2026/06/26/incident-report-cve-2026-lgtm.html",
+    "title": "Incident CVE-2026-LGTM"
   },
   {
     "source": "lobsters",
@@ -96,6 +101,11 @@
   },
   {
     "source": "lobsters",
+    "url": "https://devenv.sh/blog/2026/06/26/making-devenv-start-fast-and-the-whole-nixpkgs-with-it/",
+    "title": "Making devenv start fast, and the whole nixpkgs with it - devenv"
+  },
+  {
+    "source": "lobsters",
     "url": "https://ziglang.org/devlog/2026/#2026-06-26",
     "title": "SPIR-V Backend Progress"
   },
@@ -106,13 +116,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://devenv.sh/blog/2026/06/26/making-devenv-start-fast-and-the-whole-nixpkgs-with-it/",
-    "title": "Making devenv start fast, and the whole nixpkgs with it - devenv"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://yeokhengmeng.com/2026/06/swift-on-apple-ii/",
-    "title": "Bringing Swift to the Apple II"
+    "url": "https://en.wikipedia.org/wiki/L-system",
+    "title": "L-system"
   },
   {
     "source": "lobsters",
@@ -121,18 +126,23 @@
   },
   {
     "source": "lobsters",
+    "url": "https://yeokhengmeng.com/2026/06/swift-on-apple-ii/",
+    "title": "Bringing Swift to the Apple II"
+  },
+  {
+    "source": "lobsters",
     "url": "https://explorer.oxide.computer/",
     "title": "Oxide Rack 3D Explorer"
   },
   {
     "source": "lobsters",
-    "url": "https://blog.omgmog.net/post/xteink-x4-e-ink-reader/",
-    "title": "The Xteink X4 E-Ink Reader"
+    "url": "https://yllan.org/software/OS9Map/",
+    "title": "OS9Map: OpenStreetMap for Mac OS 9"
   },
   {
     "source": "lobsters",
-    "url": "https://yllan.org/software/OS9Map/",
-    "title": "OS9Map: OpenStreetMap for Mac OS 9"
+    "url": "https://blog.omgmog.net/post/xteink-x4-e-ink-reader/",
+    "title": "The Xteink X4 E-Ink Reader"
   },
   {
     "source": "pinboard",
