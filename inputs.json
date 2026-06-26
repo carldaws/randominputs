@@ -1,6 +1,11 @@
 [
   {
     "source": "hn",
+    "url": "https://www.bloomberg.com/news/articles/2026-06-25/apple-to-skip-high-end-m6-mac-chips-to-launch-m7-pro-m7-max-m7-ultra-instead?embedded-checkout=true",
+    "title": "Apple to skip high-end M6 Mac chips in favor of AI-focused M7 line"
+  },
+  {
+    "source": "hn",
     "url": "https://unconv.ai/blog/introducing-un-0-generating-images-with-coupled-oscillators/",
     "title": "Un-0: Generating Images with Coupled Oscillators"
   },
@@ -11,8 +16,8 @@
   },
   {
     "source": "hn",
-    "url": "https://www.newyorker.com/business/currency/silicon-valley-has-an-empathy-vacuum",
-    "title": "Silicon Valley Has an Empathy Vacuum (2016)"
+    "url": "https://corentin-core.github.io/posts/ruxe-type-level-disjointness/",
+    "title": "A data race that doesn't compile (in Rust)"
   },
   {
     "source": "hn",
@@ -21,13 +26,8 @@
   },
   {
     "source": "hn",
-    "url": "https://rozumem.xyz/posts/17",
-    "title": "The Doorman's Fallacy in action"
-  },
-  {
-    "source": "hn",
-    "url": "https://ziglang.org/devlog/2026/#2026-06-25",
-    "title": "Zig's new bitCast semantics and LLVM back end improvements"
+    "url": "https://www.jeffgeerling.com/blog/2026/framework-10g-ethernet-module-usb-c-complexity/",
+    "title": "Framework's 10G Ethernet module exposes USB-C's complexity"
   },
   {
     "source": "hn",
@@ -36,18 +36,13 @@
   },
   {
     "source": "hn",
-    "url": "https://signoregalilei.com/2026/06/20/the-last-romans-are-still-around/",
-    "title": "The last Romans are still around"
+    "url": "https://ziglang.org/devlog/2026/#2026-06-25",
+    "title": "Zig's new bitCast semantics and LLVM back end improvements"
   },
   {
     "source": "hn",
-    "url": "http://edwardfeser.blogspot.com/2026/06/what-is-mechanical-world-picture.html",
-    "title": "What is the mechanical world picture?"
-  },
-  {
-    "source": "hn",
-    "url": "https://dev.karltryggvason.com/you-cant-unit-test-for-taste/",
-    "title": "You can't unit test for taste"
+    "url": "https://rozumem.xyz/posts/17",
+    "title": "The Doorman's Fallacy in action"
   },
   {
     "source": "hn",
@@ -56,8 +51,18 @@
   },
   {
     "source": "hn",
-    "url": "https://trakkr.ai/bias",
-    "title": "Political bias in AI: Where the AI models stand"
+    "url": "https://signoregalilei.com/2026/06/20/the-last-romans-are-still-around/",
+    "title": "The last Romans are still around"
+  },
+  {
+    "source": "hn",
+    "url": "https://dev.karltryggvason.com/you-cant-unit-test-for-taste/",
+    "title": "You can't unit test for taste"
+  },
+  {
+    "source": "hn",
+    "url": "http://edwardfeser.blogspot.com/2026/06/what-is-mechanical-world-picture.html",
+    "title": "What is the mechanical world picture?"
   },
   {
     "source": "lobsters",
@@ -71,13 +76,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://blog.omgmog.net/post/xteink-x4-e-ink-reader/",
-    "title": "The Xteink X4 E-Ink Reader"
+    "url": "https://ziglang.org/devlog/2026/?2026-06-25#2026-06-25",
+    "title": "New @bitCast Semantics and LLVM Backend Improvements"
   },
   {
     "source": "lobsters",
-    "url": "https://ziglang.org/devlog/2026/?2026-06-25#2026-06-25",
-    "title": "New @bitCast Semantics and LLVM Backend Improvements"
+    "url": "https://blog.omgmog.net/post/xteink-x4-e-ink-reader/",
+    "title": "The Xteink X4 E-Ink Reader"
   },
   {
     "source": "lobsters",
@@ -96,6 +101,11 @@
   },
   {
     "source": "lobsters",
+    "url": "https://netzhansa.com/echoes-of-the-ai-winter/",
+    "title": "Echoes of the AI Winter"
+  },
+  {
+    "source": "lobsters",
     "url": "https://binaryigor.com/the-joy-and-power-of-understanding.html",
     "title": "The Joy and Power of Understanding"
   },
@@ -103,11 +113,6 @@
     "source": "lobsters",
     "url": "https://astral-os.org/posts/2026/04/03/wine-on-astral.html",
     "title": "Porting WINE to a new Hobby OS"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://netzhansa.com/echoes-of-the-ai-winter/",
-    "title": "Echoes of the AI Winter"
   },
   {
     "source": "lobsters",
