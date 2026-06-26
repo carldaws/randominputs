@@ -21,28 +21,23 @@
   },
   {
     "source": "hn",
+    "url": "https://scottaaronson.blog/?p=9851",
+    "title": "Bipartite Matching Is in NC"
+  },
+  {
+    "source": "hn",
     "url": "https://explorer.oxide.computer/",
     "title": "Oxide computer 3D rack guided tour"
   },
   {
     "source": "hn",
-    "url": "https://blog.matthewbrunelle.com/my-steam-machine-is-a-50ft-hdmi-cable/",
-    "title": "My Steam Machine Is a 50ft HDMI Cable"
-  },
-  {
-    "source": "hn",
-    "url": "https://jan-herlyn.com/blog/doing-a-masters-while-working/",
-    "title": "Doing a masters while working in Spain"
+    "url": "https://worksinprogress.co/issue/microbubbles/",
+    "title": "Microbubbles in Medicine"
   },
   {
     "source": "hn",
     "url": "https://unconv.ai/blog/introducing-un-0-generating-images-with-coupled-oscillators/",
     "title": "Un-0: Generating Images with Coupled Oscillators"
-  },
-  {
-    "source": "hn",
-    "url": "https://worksinprogress.co/issue/microbubbles/",
-    "title": "Microbubbles in Medicine"
   },
   {
     "source": "hn",
@@ -58,11 +53,6 @@
     "source": "hn",
     "url": "https://rozumem.xyz/posts/17",
     "title": "The Doorman's Fallacy in action"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.bloomberg.com/news/articles/2026-06-25/apple-to-skip-high-end-m6-mac-chips-to-launch-m7-pro-m7-max-m7-ultra-instead?embedded-checkout=true",
-    "title": "Apple to skip high-end M6 Mac chips in favor of AI-focused M7 line"
   },
   {
     "source": "hn",
@@ -83,6 +73,16 @@
     "source": "hn",
     "url": "https://signoregalilei.com/2026/06/20/the-last-romans-are-still-around/",
     "title": "The last Romans are still around"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.bloomberg.com/news/articles/2026-06-25/apple-to-skip-high-end-m6-mac-chips-to-launch-m7-pro-m7-max-m7-ultra-instead?embedded-checkout=true",
+    "title": "Apple to skip high-end M6 Mac chips in favor of AI-focused M7 line"
+  },
+  {
+    "source": "hn",
+    "url": "https://blog.matthewbrunelle.com/my-steam-machine-is-a-50ft-hdmi-cable/",
+    "title": "My Steam Machine Is a 50ft HDMI Cable"
   },
   {
     "source": "lobsters",
@@ -128,11 +128,6 @@
     "source": "lobsters",
     "url": "https://tangled.org/desertthunder.dev/tropius",
     "title": "tropius: detect AI tropes in prose"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://utaw.tech/news/wikipedia-recognition",
-    "title": "UK Wikipedia Workers seek union recognition"
   },
   {
     "source": "pinboard",
