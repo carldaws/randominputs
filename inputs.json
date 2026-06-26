@@ -26,18 +26,23 @@
   },
   {
     "source": "hn",
+    "url": "https://healeycodes.com/a-tiny-compiler-for-data-parallel-kernels",
+    "title": "A Tiny Compiler for Data-Parallel Kernels"
+  },
+  {
+    "source": "hn",
     "url": "https://mlc.ai/modern-gpu-programming-for-mlsys/",
     "title": "Modern GPU Programming for MLSys"
   },
   {
     "source": "hn",
-    "url": "https://acoup.blog/2026/06/26/collections-pre-modern-armies-for-worldbuilders-part-iii-paying-for-it/",
-    "title": "Pre-Modern Armies for Worldbuilders, Part III: Paying for It"
+    "url": "https://ngrok.com/blog/aol-was-down-1996",
+    "title": "A human postmortem of the 1996 AOL outage"
   },
   {
     "source": "hn",
-    "url": "https://ngrok.com/blog/aol-was-down-1996",
-    "title": "A human postmortem of the 1996 AOL outage"
+    "url": "https://acoup.blog/2026/06/26/collections-pre-modern-armies-for-worldbuilders-part-iii-paying-for-it/",
+    "title": "Pre-Modern Armies for Worldbuilders, Part III: Paying for It"
   },
   {
     "source": "hn",
@@ -86,8 +91,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://ohadravid.github.io/posts/2026-06-tool-talking/",
-    "title": "The Exhaustion of Talking to a Tool"
+    "url": "https://devenv.sh/blog/2026/06/26/making-devenv-start-fast-and-the-whole-nixpkgs-with-it/",
+    "title": "Making devenv start fast, and the whole nixpkgs with it - devenv"
   },
   {
     "source": "lobsters",
@@ -96,18 +101,13 @@
   },
   {
     "source": "lobsters",
+    "url": "https://ohadravid.github.io/posts/2026-06-tool-talking/",
+    "title": "The Exhaustion of Talking to a Tool"
+  },
+  {
+    "source": "lobsters",
     "url": "https://www.augusteo.com/blog/how-pgbouncer-works/",
     "title": "How PgBouncer Works"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://devenv.sh/blog/2026/06/26/making-devenv-start-fast-and-the-whole-nixpkgs-with-it/",
-    "title": "Making devenv start fast, and the whole nixpkgs with it - devenv"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://ziglang.org/devlog/2026/#2026-06-26",
-    "title": "SPIR-V Backend Progress"
   },
   {
     "source": "lobsters",
@@ -116,18 +116,23 @@
   },
   {
     "source": "lobsters",
+    "url": "https://ziglang.org/devlog/2026/#2026-06-26",
+    "title": "SPIR-V Backend Progress"
+  },
+  {
+    "source": "lobsters",
     "url": "https://chrismorgan.info/font-family",
     "title": "font-family recommendations"
   },
   {
     "source": "lobsters",
-    "url": "https://www.jonashietala.se/blog/2026/06/26/designing_a_personal_pebble_watchface/",
-    "title": "Designing a personal Pebble watchface"
+    "url": "https://explorer.oxide.computer/",
+    "title": "Oxide Rack 3D Explorer"
   },
   {
     "source": "lobsters",
-    "url": "https://explorer.oxide.computer/",
-    "title": "Oxide Rack 3D Explorer"
+    "url": "https://www.jonashietala.se/blog/2026/06/26/designing_a_personal_pebble_watchface/",
+    "title": "Designing a personal Pebble watchface"
   },
   {
     "source": "lobsters",
