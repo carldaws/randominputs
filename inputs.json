@@ -1,13 +1,13 @@
 [
   {
     "source": "hn",
-    "url": "https://akrites.org/letter/",
-    "title": "We All Depend on Open Source. We Will Defend It Together"
+    "url": "https://nesbitt.io/2026/06/26/incident-report-cve-2026-lgtm.html",
+    "title": "Incident CVE-2026-LGTM"
   },
   {
     "source": "hn",
-    "url": "https://graphicore.github.io/librebarcode/",
-    "title": "Libre Barcode Project"
+    "url": "https://alephneuro.com/blog/ultrasound-brain",
+    "title": "Ultrasound Imaging of the Brain"
   },
   {
     "source": "hn",
@@ -16,8 +16,8 @@
   },
   {
     "source": "hn",
-    "url": "https://www.jeffgeerling.com/blog/2026/framework-10g-ethernet-module-usb-c-complexity/",
-    "title": "Framework's 10G Ethernet module exposes USB-C's complexity"
+    "url": "https://graphicore.github.io/librebarcode/",
+    "title": "Libre Barcode Project"
   },
   {
     "source": "hn",
@@ -26,13 +26,18 @@
   },
   {
     "source": "hn",
-    "url": "https://explorer.oxide.computer/",
-    "title": "Oxide computer 3D rack guided tour"
+    "url": "https://www.jeffgeerling.com/blog/2026/framework-10g-ethernet-module-usb-c-complexity/",
+    "title": "Framework's 10G Ethernet module exposes USB-C's complexity"
   },
   {
     "source": "hn",
-    "url": "https://worksinprogress.co/issue/microbubbles/",
-    "title": "Microbubbles in Medicine"
+    "url": "https://akrites.org/letter/",
+    "title": "We all depend on open source. We will defend it together"
+  },
+  {
+    "source": "hn",
+    "url": "https://explorer.oxide.computer/",
+    "title": "Oxide computer 3D rack guided tour"
   },
   {
     "source": "hn",
@@ -41,13 +46,13 @@
   },
   {
     "source": "hn",
-    "url": "https://ziglang.org/devlog/2026/#2026-06-25",
-    "title": "Zig's new bitCast semantics and LLVM back end improvements"
+    "url": "https://worksinprogress.co/issue/microbubbles/",
+    "title": "Microbubbles in Medicine"
   },
   {
     "source": "hn",
-    "url": "https://yllan.org/software/OS9Map/",
-    "title": "OS9Map"
+    "url": "https://mas-bandwidth.com/the-best-thing-that-has-ever-happened-for-multiplayer-games/",
+    "title": "The best thing that has ever happened for multiplayer games"
   },
   {
     "source": "hn",
@@ -56,18 +61,8 @@
   },
   {
     "source": "hn",
-    "url": "https://jan-herlyn.com/blog/doing-a-masters-while-working/",
-    "title": "Doing a masters while working in Spain"
-  },
-  {
-    "source": "hn",
-    "url": "http://haskellforall.com/2026/06/record-type-inference-for-dummies",
-    "title": "Record type inference for dummies"
-  },
-  {
-    "source": "hn",
-    "url": "https://signoregalilei.com/2026/06/20/the-last-romans-are-still-around/",
-    "title": "The last Romans are still around"
+    "url": "https://ziglang.org/devlog/2026/#2026-06-25",
+    "title": "Zig's new bitCast semantics and LLVM back end improvements"
   },
   {
     "source": "lobsters",
@@ -76,8 +71,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://chrismorgan.info/font-family",
-    "title": "font-family recommendations"
+    "url": "https://ebellani.github.io/blog/2026/all-you-need-is-postgresql/",
+    "title": "All you need is PostgreSQL"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://fzakaria.com/2026/06/25/guixpkgs-every-guix-package-as-a-nix-flake",
+    "title": "GuixPkgs: every Guix package, as a Nix flake"
   },
   {
     "source": "lobsters",
@@ -86,8 +86,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://ebellani.github.io/blog/2026/all-you-need-is-postgresql/",
-    "title": "All you need is PostgreSQL"
+    "url": "https://chrismorgan.info/font-family",
+    "title": "font-family recommendations"
   },
   {
     "source": "lobsters",
@@ -101,13 +101,18 @@
   },
   {
     "source": "lobsters",
-    "url": "https://netzhansa.com/echoes-of-the-ai-winter/",
-    "title": "Echoes of the AI Winter"
+    "url": "https://www.augusteo.com/blog/how-pgbouncer-works/",
+    "title": "How PgBouncer Works"
   },
   {
     "source": "lobsters",
-    "url": "https://fzakaria.com/2026/06/25/guixpkgs-every-guix-package-as-a-nix-flake",
-    "title": "GuixPkgs: every Guix package, as a Nix flake"
+    "url": "https://yllan.org/software/OS9Map/",
+    "title": "OS9Map: OpenStreetMap for Mac OS 9"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://netzhansa.com/echoes-of-the-ai-winter/",
+    "title": "Echoes of the AI Winter"
   },
   {
     "source": "lobsters",
