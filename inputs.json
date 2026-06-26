@@ -6,6 +6,16 @@
   },
   {
     "source": "hn",
+    "url": "https://www.jeffgeerling.com/blog/2026/framework-10g-ethernet-module-usb-c-complexity/",
+    "title": "Framework's 10G Ethernet module exposes USB-C's complexity"
+  },
+  {
+    "source": "hn",
+    "url": "https://corentin-core.github.io/posts/ruxe-type-level-disjointness/",
+    "title": "A data race that doesn't compile"
+  },
+  {
+    "source": "hn",
     "url": "https://unconv.ai/blog/introducing-un-0-generating-images-with-coupled-oscillators/",
     "title": "Un-0: Generating Images with Coupled Oscillators"
   },
@@ -16,28 +26,13 @@
   },
   {
     "source": "hn",
-    "url": "https://corentin-core.github.io/posts/ruxe-type-level-disjointness/",
-    "title": "A data race that doesn't compile (in Rust)"
+    "url": "http://trianglefire.ilr.cornell.edu/index.html",
+    "title": "Eyewitness at the Triangle (1911)"
   },
   {
     "source": "hn",
     "url": "https://williamdue.github.io/blog/parallel-parentheses-matching",
     "title": "Parallel Parentheses Matching"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.jeffgeerling.com/blog/2026/framework-10g-ethernet-module-usb-c-complexity/",
-    "title": "Framework's 10G Ethernet module exposes USB-C's complexity"
-  },
-  {
-    "source": "hn",
-    "url": "https://yllan.org/software/OS9Map/",
-    "title": "OS9Map"
-  },
-  {
-    "source": "hn",
-    "url": "https://ziglang.org/devlog/2026/#2026-06-25",
-    "title": "Zig's new bitCast semantics and LLVM back end improvements"
   },
   {
     "source": "hn",
@@ -51,6 +46,16 @@
   },
   {
     "source": "hn",
+    "url": "https://yllan.org/software/OS9Map/",
+    "title": "OS9Map"
+  },
+  {
+    "source": "hn",
+    "url": "https://ziglang.org/devlog/2026/#2026-06-25",
+    "title": "Zig's new bitCast semantics and LLVM back end improvements"
+  },
+  {
+    "source": "hn",
     "url": "https://signoregalilei.com/2026/06/20/the-last-romans-are-still-around/",
     "title": "The last Romans are still around"
   },
@@ -58,11 +63,6 @@
     "source": "hn",
     "url": "https://dev.karltryggvason.com/you-cant-unit-test-for-taste/",
     "title": "You can't unit test for taste"
-  },
-  {
-    "source": "hn",
-    "url": "http://edwardfeser.blogspot.com/2026/06/what-is-mechanical-world-picture.html",
-    "title": "What is the mechanical world picture?"
   },
   {
     "source": "lobsters",
@@ -131,13 +131,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://whynothugo.nl/journal/2026/06/24/ignore-dnssec-if-you-like-mitm-attacks/",
-    "title": "Ignore DNSSEC if you like MITM attacks"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://akrites.org/",
-    "title": "Akrites: Coordinated, confidential vulnerability remediation for the open source software critical infrastructure depends on"
+    "url": "https://blog.jimmac.eu/posts/flatpak-org-zola/",
+    "title": "Flatpak.org Rewrite"
   },
   {
     "source": "pinboard",
