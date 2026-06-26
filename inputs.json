@@ -1,18 +1,13 @@
 [
   {
     "source": "hn",
-    "url": "https://graphicore.github.io/librebarcode/",
-    "title": "Libre Barcode Project"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.jeffgeerling.com/blog/2026/framework-10g-ethernet-module-usb-c-complexity/",
-    "title": "Framework's 10G Ethernet module exposes USB-C's complexity"
-  },
-  {
-    "source": "hn",
     "url": "https://akrites.org/letter/",
     "title": "We All Depend on Open Source. We Will Defend It Together"
+  },
+  {
+    "source": "hn",
+    "url": "https://graphicore.github.io/librebarcode/",
+    "title": "Libre Barcode Project"
   },
   {
     "source": "hn",
@@ -21,8 +16,8 @@
   },
   {
     "source": "hn",
-    "url": "https://www.bloomberg.com/news/articles/2026-06-25/apple-to-skip-high-end-m6-mac-chips-to-launch-m7-pro-m7-max-m7-ultra-instead?embedded-checkout=true",
-    "title": "Apple to skip high-end M6 Mac chips in favor of AI-focused M7 line"
+    "url": "https://www.jeffgeerling.com/blog/2026/framework-10g-ethernet-module-usb-c-complexity/",
+    "title": "Framework's 10G Ethernet module exposes USB-C's complexity"
   },
   {
     "source": "hn",
@@ -31,13 +26,23 @@
   },
   {
     "source": "hn",
+    "url": "https://jan-herlyn.com/blog/doing-a-masters-while-working/",
+    "title": "Doing a masters while working in Spain"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.theregister.com/systems/2026/06/25/micron-locks-in-historically-high-memory-prices-for-five-years/5261854",
+    "title": "Micron locks in historically high memory prices for five years"
+  },
+  {
+    "source": "hn",
     "url": "https://unconv.ai/blog/introducing-un-0-generating-images-with-coupled-oscillators/",
     "title": "Un-0: Generating Images with Coupled Oscillators"
   },
   {
     "source": "hn",
-    "url": "https://jan-herlyn.com/blog/doing-a-masters-while-working/",
-    "title": "Doing a masters while working in Spain"
+    "url": "https://www.bloomberg.com/news/articles/2026-06-25/apple-to-skip-high-end-m6-mac-chips-to-launch-m7-pro-m7-max-m7-ultra-instead?embedded-checkout=true",
+    "title": "Apple to skip high-end M6 Mac chips in favor of AI-focused M7 line"
   },
   {
     "source": "hn",
@@ -51,18 +56,23 @@
   },
   {
     "source": "hn",
+    "url": "https://ziglang.org/devlog/2026/#2026-06-25",
+    "title": "Zig's new bitCast semantics and LLVM back end improvements"
+  },
+  {
+    "source": "hn",
     "url": "https://williamdue.github.io/blog/parallel-parentheses-matching",
     "title": "Parallel Parentheses Matching"
   },
   {
     "source": "hn",
-    "url": "http://trianglefire.ilr.cornell.edu/index.html",
-    "title": "Eyewitness at the Triangle (1911)"
+    "url": "https://blog.cloudflare.com/sockmap-tcp-splicing-of-the-future/",
+    "title": "SOCKMAP - TCP splicing of the future"
   },
   {
     "source": "hn",
-    "url": "https://ziglang.org/devlog/2026/#2026-06-25",
-    "title": "Zig's new bitCast semantics and LLVM back end improvements"
+    "url": "http://trianglefire.ilr.cornell.edu/index.html",
+    "title": "Eyewitness at the Triangle (1911)"
   },
   {
     "source": "hn",
@@ -96,13 +106,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://areweglobalshortcutsyet.github.io",
-    "title": "Are We GlobalShortcuts Yet?"
+    "url": "https://ziglang.org/devlog/2026/#2026-06-26",
+    "title": "SPIR-V Backend Progress"
   },
   {
     "source": "lobsters",
-    "url": "https://ziglang.org/devlog/2026/#2026-06-26",
-    "title": "SPIR-V Backend Progress"
+    "url": "https://areweglobalshortcutsyet.github.io",
+    "title": "Are We GlobalShortcuts Yet?"
   },
   {
     "source": "lobsters",
@@ -123,11 +133,6 @@
     "source": "lobsters",
     "url": "https://binaryigor.com/the-joy-and-power-of-understanding.html",
     "title": "The Joy and Power of Understanding"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://astral-os.org/posts/2026/04/03/wine-on-astral.html",
-    "title": "Porting WINE to a new Hobby OS"
   },
   {
     "source": "pinboard",
