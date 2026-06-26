@@ -26,13 +26,13 @@
   },
   {
     "source": "hn",
-    "url": "https://jan-herlyn.com/blog/doing-a-masters-while-working/",
-    "title": "Doing a masters while working in Spain"
+    "url": "https://blog.matthewbrunelle.com/my-steam-machine-is-a-50ft-hdmi-cable/",
+    "title": "My Steam Machine Is a 50ft HDMI Cable"
   },
   {
     "source": "hn",
-    "url": "https://www.theregister.com/systems/2026/06/25/micron-locks-in-historically-high-memory-prices-for-five-years/5261854",
-    "title": "Micron locks in historically high memory prices for five years"
+    "url": "https://jan-herlyn.com/blog/doing-a-masters-while-working/",
+    "title": "Doing a masters while working in Spain"
   },
   {
     "source": "hn",
@@ -41,13 +41,8 @@
   },
   {
     "source": "hn",
-    "url": "https://www.bloomberg.com/news/articles/2026-06-25/apple-to-skip-high-end-m6-mac-chips-to-launch-m7-pro-m7-max-m7-ultra-instead?embedded-checkout=true",
-    "title": "Apple to skip high-end M6 Mac chips in favor of AI-focused M7 line"
-  },
-  {
-    "source": "hn",
-    "url": "https://rozumem.xyz/posts/17",
-    "title": "The Doorman's Fallacy in action"
+    "url": "https://worksinprogress.co/issue/microbubbles/",
+    "title": "Microbubbles in Medicine"
   },
   {
     "source": "hn",
@@ -61,28 +56,33 @@
   },
   {
     "source": "hn",
-    "url": "https://williamdue.github.io/blog/parallel-parentheses-matching",
-    "title": "Parallel Parentheses Matching"
+    "url": "https://rozumem.xyz/posts/17",
+    "title": "The Doorman's Fallacy in action"
   },
   {
     "source": "hn",
-    "url": "https://blog.cloudflare.com/sockmap-tcp-splicing-of-the-future/",
-    "title": "SOCKMAP - TCP splicing of the future"
-  },
-  {
-    "source": "hn",
-    "url": "http://trianglefire.ilr.cornell.edu/index.html",
-    "title": "Eyewitness at the Triangle (1911)"
-  },
-  {
-    "source": "hn",
-    "url": "https://signoregalilei.com/2026/06/20/the-last-romans-are-still-around/",
-    "title": "The last Romans are still around"
+    "url": "https://www.bloomberg.com/news/articles/2026-06-25/apple-to-skip-high-end-m6-mac-chips-to-launch-m7-pro-m7-max-m7-ultra-instead?embedded-checkout=true",
+    "title": "Apple to skip high-end M6 Mac chips in favor of AI-focused M7 line"
   },
   {
     "source": "hn",
     "url": "http://haskellforall.com/2026/06/record-type-inference-for-dummies",
     "title": "Record type inference for dummies"
+  },
+  {
+    "source": "hn",
+    "url": "https://williamdue.github.io/blog/parallel-parentheses-matching",
+    "title": "Parallel Parentheses Matching"
+  },
+  {
+    "source": "hn",
+    "url": "https://dev.karltryggvason.com/you-cant-unit-test-for-taste/",
+    "title": "You can't unit test for taste"
+  },
+  {
+    "source": "hn",
+    "url": "https://signoregalilei.com/2026/06/20/the-last-romans-are-still-around/",
+    "title": "The last Romans are still around"
   },
   {
     "source": "lobsters",
@@ -96,6 +96,11 @@
   },
   {
     "source": "lobsters",
+    "url": "https://ziglang.org/devlog/2026/#2026-06-26",
+    "title": "SPIR-V Backend Progress"
+  },
+  {
+    "source": "lobsters",
     "url": "https://ziglang.org/devlog/2026/?2026-06-25#2026-06-25",
     "title": "New @bitCast Semantics and LLVM Backend Improvements"
   },
@@ -106,8 +111,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://ziglang.org/devlog/2026/#2026-06-26",
-    "title": "SPIR-V Backend Progress"
+    "url": "https://ebellani.github.io/blog/2026/all-you-need-is-postgresql/",
+    "title": "All you need is PostgreSQL"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://netzhansa.com/echoes-of-the-ai-winter/",
+    "title": "Echoes of the AI Winter"
   },
   {
     "source": "lobsters",
@@ -121,18 +131,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://netzhansa.com/echoes-of-the-ai-winter/",
-    "title": "Echoes of the AI Winter"
-  },
-  {
-    "source": "lobsters",
     "url": "https://utaw.tech/news/wikipedia-recognition",
     "title": "UK Wikipedia Workers seek union recognition"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://binaryigor.com/the-joy-and-power-of-understanding.html",
-    "title": "The Joy and Power of Understanding"
   },
   {
     "source": "pinboard",
