@@ -6,23 +6,33 @@
   },
   {
     "source": "hn",
+    "url": "https://gossamer-lang.org/",
+    "title": "Gossamer: a Rust-flavoured language with real goroutines and pause-free memory"
+  },
+  {
+    "source": "hn",
     "url": "https://mlc.ai/modern-gpu-programming-for-mlsys/",
     "title": "Modern GPU Programming for MLSys"
   },
   {
     "source": "hn",
+    "url": "https://lefakkomies.github.io/pynomo-doc/introduction/introduction.html#what-is-a-nomogram-and-why-would-it-interest-me",
+    "title": "What Is a Nomogram and Why Would It Interest Me?"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.jtekt.co.jp/e/products/capacitor/capacitor_about.html",
+    "title": "What is a Lithium-ion capacitor?"
+  },
+  {
+    "source": "hn",
+    "url": "https://svpow.com/2026/05/15/the-bizarre-headgear-exhibit-at-the-sam-noble-museum-is-incredible/",
+    "title": "The \"Bizarre Headgear\" Exhibit at the Sam Noble Museum Is Incredible"
+  },
+  {
+    "source": "hn",
     "url": "https://graphicore.github.io/librebarcode/",
     "title": "Libre Barcode Project"
-  },
-  {
-    "source": "hn",
-    "url": "https://nesbitt.io/2026/06/26/incident-report-cve-2026-lgtm.html",
-    "title": "Incident CVE-2026-LGTM"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.swiftlatex.com/",
-    "title": "LaTeX.wasm: LaTeX Engines in Browsers"
   },
   {
     "source": "hn",
@@ -36,23 +46,23 @@
   },
   {
     "source": "hn",
+    "url": "https://nesbitt.io/2026/06/26/incident-report-cve-2026-lgtm.html",
+    "title": "Incident CVE-2026-LGTM"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.swiftlatex.com/",
+    "title": "LaTeX.wasm: LaTeX Engines in Browsers"
+  },
+  {
+    "source": "hn",
     "url": "https://scottaaronson.blog/?p=9851",
     "title": "Bipartite Matching Is in NC"
   },
   {
     "source": "hn",
-    "url": "https://www.jtekt.co.jp/e/products/capacitor/capacitor_about.html",
-    "title": "What is a Lithium-ion capacitor?"
-  },
-  {
-    "source": "hn",
     "url": "https://explorer.oxide.computer/",
     "title": "Oxide computer 3D rack guided tour"
-  },
-  {
-    "source": "hn",
-    "url": "https://akrites.org/letter/",
-    "title": "We all depend on open source. We will defend it together"
   },
   {
     "source": "lobsters",
@@ -81,13 +91,18 @@
   },
   {
     "source": "lobsters",
+    "url": "https://www.augusteo.com/blog/how-pgbouncer-works/",
+    "title": "How PgBouncer Works"
+  },
+  {
+    "source": "lobsters",
     "url": "https://chrismorgan.info/font-family",
     "title": "font-family recommendations"
   },
   {
     "source": "lobsters",
-    "url": "https://www.augusteo.com/blog/how-pgbouncer-works/",
-    "title": "How PgBouncer Works"
+    "url": "https://devenv.sh/blog/2026/06/26/making-devenv-start-fast-and-the-whole-nixpkgs-with-it/",
+    "title": "Making devenv start fast, and the whole nixpkgs with it - devenv"
   },
   {
     "source": "lobsters",
