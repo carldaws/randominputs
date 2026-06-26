@@ -11,6 +11,11 @@
   },
   {
     "source": "hn",
+    "url": "https://akrites.org/letter/",
+    "title": "We All Depend on Open Source. We Will Defend It Together"
+  },
+  {
+    "source": "hn",
     "url": "https://www.fernandoi.cl/posts/hackmyclaw/",
     "title": "What happened after 2k people tried to hack my AI assistant"
   },
@@ -36,18 +41,8 @@
   },
   {
     "source": "hn",
-    "url": "http://trianglefire.ilr.cornell.edu/index.html",
-    "title": "Eyewitness at the Triangle (1911)"
-  },
-  {
-    "source": "hn",
     "url": "https://rozumem.xyz/posts/17",
     "title": "The Doorman's Fallacy in action"
-  },
-  {
-    "source": "hn",
-    "url": "https://williamdue.github.io/blog/parallel-parentheses-matching",
-    "title": "Parallel Parentheses Matching"
   },
   {
     "source": "hn",
@@ -56,13 +51,18 @@
   },
   {
     "source": "hn",
-    "url": "https://ziglang.org/devlog/2026/#2026-06-25",
-    "title": "Zig's new bitCast semantics and LLVM back end improvements"
+    "url": "https://williamdue.github.io/blog/parallel-parentheses-matching",
+    "title": "Parallel Parentheses Matching"
   },
   {
     "source": "hn",
-    "url": "http://haskellforall.com/2026/06/record-type-inference-for-dummies",
-    "title": "Record type inference for dummies"
+    "url": "http://trianglefire.ilr.cornell.edu/index.html",
+    "title": "Eyewitness at the Triangle (1911)"
+  },
+  {
+    "source": "hn",
+    "url": "https://ziglang.org/devlog/2026/#2026-06-25",
+    "title": "Zig's new bitCast semantics and LLVM back end improvements"
   },
   {
     "source": "hn",
@@ -71,13 +71,8 @@
   },
   {
     "source": "hn",
-    "url": "https://dev.karltryggvason.com/you-cant-unit-test-for-taste/",
-    "title": "You can't unit test for taste"
-  },
-  {
-    "source": "hn",
-    "url": "https://corentin-core.github.io/posts/ruxe-type-level-disjointness/",
-    "title": "A data race that doesn't compile"
+    "url": "http://haskellforall.com/2026/06/record-type-inference-for-dummies",
+    "title": "Record type inference for dummies"
   },
   {
     "source": "lobsters",
@@ -106,6 +101,11 @@
   },
   {
     "source": "lobsters",
+    "url": "https://ziglang.org/devlog/2026/#2026-06-26",
+    "title": "SPIR-V Backend Progress"
+  },
+  {
+    "source": "lobsters",
     "url": "https://tangled.org/desertthunder.dev/tropius",
     "title": "tropius: detect AI tropes in prose"
   },
@@ -130,44 +130,9 @@
     "title": "Porting WINE to a new Hobby OS"
   },
   {
-    "source": "lobsters",
-    "url": "https://ziglang.org/devlog/2026/#2026-06-26",
-    "title": "SPIR-V Backend Progress"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://refactoringenglish.com/excerpts/write-an-effective-design-doc/",
-    "title": "How to Write an Effective Software Design Document"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://ngrok.com/blog/aol-was-down-1996",
-    "title": "AOL was down (1996) (2026)"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://andyatkinson.com/how-aura-frames-scales-for-peak-load-ruby-on-rails",
-    "title": "Scaling Rails: 41M Req/Hour, 8 DBs, disable_joins: true"
-  },
-  {
     "source": "pinboard",
     "url": "https://lucumr.pocoo.org/2026/6/23/the-coming-loop/",
     "title": "The Coming Loop | Armin Ronacher's Thoughts and Writings"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://moultano.wordpress.com/2026/06/19/where-to-find-the-colors-your-screen-cant-show-you/",
-    "title": "Where to Find the Colors Your Screen Can’t Show You – Ryan Moulton's Articles"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://nevergivethemyourface.com/",
-    "title": "Never Give Them Your Face"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.openculture.com/freeonlinecourses",
-    "title": "1200 Free Online Courses from Top Universities | Open Culture"
   },
   {
     "source": "pinboard",
@@ -176,28 +141,8 @@
   },
   {
     "source": "pinboard",
-    "url": "https://docs.deno.com/runtime/desktop/",
-    "title": "Desktop apps | Deno Docs"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://plotnine.org/",
-    "title": "plotnine 0.13.4 - A Grammar of Graphics for Python"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://birdclaw.sh/",
-    "title": "birdclaw — Local Twitter memory in SQLite"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.marble.onl/posts/cancel_claude.html",
-    "title": "cancel_claude"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://arun.is/blog/japan-symbols/",
-    "title": "Japanese symbols that speak without words"
+    "url": "https://moultano.wordpress.com/2026/06/19/where-to-find-the-colors-your-screen-cant-show-you/",
+    "title": "Where to Find the Colors Your Screen Can’t Show You – Ryan Moulton's Articles"
   },
   {
     "source": "pinboard",
@@ -206,23 +151,53 @@
   },
   {
     "source": "pinboard",
-    "url": "https://techstackups.com/comparisons/glm-5.2-vs-opus/",
-    "title": "GLM-5.2 vs Claude Opus | Tech Stackups"
+    "url": "https://www.openculture.com/freeonlinecourses",
+    "title": "1200 Free Online Courses from Top Universities | Open Culture"
   },
   {
     "source": "pinboard",
-    "url": "https://hyperblam.how/",
-    "title": "Hyperblam Docs Home : HYPERBLAM"
+    "url": "https://plotnine.org/",
+    "title": "plotnine 0.13.4 - A Grammar of Graphics for Python"
   },
   {
     "source": "pinboard",
-    "url": "https://apertvs.ai/",
-    "title": "APERTVS.ai Fully Open Foundation Model for Sovereign AI Developed by the Swiss AI Initiative as a collaborative effort between EPFL, ETH Zurich, and CSCS. Open weights, open data, open science"
+    "url": "https://buttondown.com/maiht3k/archive/how-to-talk-about-ai-without-adding-to-the/",
+    "title": "How to talk about \"AI\" without adding to the anthropomorphization • Buttondown"
   },
   {
     "source": "pinboard",
-    "url": "https://lmao.center/blog/wiggle-accidents/",
-    "title": "help i accidentally a wigglegram"
+    "url": "https://aworkinglibrary.com/writing/umyazu",
+    "title": "Umyazu - A Working Library"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://markdy.com/",
+    "title": "Markdy — Open-Source Animation DSL Engine"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://birdclaw.sh/",
+    "title": "birdclaw — Local Twitter memory in SQLite"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://arun.is/blog/japan-symbols/",
+    "title": "Japanese symbols that speak without words"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.krea.ai/blog/krea-2-technical-report",
+    "title": "Krea 2 Technical Report - Krea"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://words.filippo.io/vuln-reports/",
+    "title": "Vulnerability Reports Are Not Special Anymore"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://pete.design/tw-fade",
+    "title": "tw-fade - Tailwind CSS scroll-edge fading with CSS masks"
   },
   {
     "source": "pinboard",
@@ -231,12 +206,22 @@
   },
   {
     "source": "pinboard",
+    "url": "https://dynomight.net/vitamin-d/",
+    "title": "The worthlessness of vitamin D is mildly exaggerated"
+  },
+  {
+    "source": "pinboard",
     "url": "https://www.jerrysmap.com/the-map",
     "title": "The Map — Jerry's Map"
   },
   {
     "source": "pinboard",
-    "url": "https://the-criterion-closet.vercel.app/",
-    "title": "The Closet — the Criterion Collection"
+    "url": "https://blog.jim-nielsen.com/2026/blogging-stating-the-obvious/",
+    "title": "Blogging Can Just Be Stating The Obvious - Jim Nielsen’s Blog"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://lmao.center/blog/wiggle-accidents/",
+    "title": "help i accidentally a wigglegram"
   }
 ]
