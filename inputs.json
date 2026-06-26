@@ -1,23 +1,13 @@
 [
   {
     "source": "hn",
+    "url": "https://blog.doubleword.ai/frontier-os-llm",
+    "title": "The gap between open weights LLMs and closed source LLMs"
+  },
+  {
+    "source": "hn",
     "url": "https://svpow.com/2026/05/15/the-bizarre-headgear-exhibit-at-the-sam-noble-museum-is-incredible/",
-    "title": "The \"Bizarre Headgear\" Exhibit at the Sam Noble Museum Is Incredible"
-  },
-  {
-    "source": "hn",
-    "url": "https://mlc.ai/modern-gpu-programming-for-mlsys/",
-    "title": "Modern GPU Programming for MLSys"
-  },
-  {
-    "source": "hn",
-    "url": "https://hightouch.com/careers#open-positions",
-    "title": "Hightouch (YC S19) Is Hiring"
-  },
-  {
-    "source": "hn",
-    "url": "https://gossamer-lang.org/",
-    "title": "Gossamer: a Rust-flavoured language with real goroutines and pause-free memory"
+    "title": "The \"Bizarre Headgear\" exhibit at the Sam Noble museum"
   },
   {
     "source": "hn",
@@ -26,8 +16,18 @@
   },
   {
     "source": "hn",
+    "url": "https://hightouch.com/careers#open-positions",
+    "title": "Hightouch (YC S19) Is Hiring"
+  },
+  {
+    "source": "hn",
     "url": "https://lefakkomies.github.io/pynomo-doc/introduction/introduction.html#what-is-a-nomogram-and-why-would-it-interest-me",
     "title": "What Is a Nomogram and Why Would It Interest Me?"
+  },
+  {
+    "source": "hn",
+    "url": "https://mlc.ai/modern-gpu-programming-for-mlsys/",
+    "title": "Modern GPU Programming for MLSys"
   },
   {
     "source": "hn",
@@ -36,18 +36,23 @@
   },
   {
     "source": "hn",
-    "url": "https://www.jtekt.co.jp/e/products/capacitor/capacitor_about.html",
-    "title": "What is a Lithium-ion capacitor?"
+    "url": "https://ngrok.com/blog/aol-was-down-1996",
+    "title": "A human postmortem of the 1996 AOL outage"
   },
   {
     "source": "hn",
-    "url": "https://graphicore.github.io/librebarcode/",
-    "title": "Libre Barcode Project"
+    "url": "https://www.outsideonline.com/outdoor-adventure/environment/nps-internal-memo-deaths/?link_source=ta_first_comment&taid=6a3dae4f4d2dce00016deef8&utm_content=trueanthem&utm_medium=social&utm_source=facebook",
+    "title": "The National Parks Were Reportedly Told to Stay Silent on Deaths"
   },
   {
     "source": "hn",
-    "url": "https://www.fernandoi.cl/posts/hackmyclaw/",
-    "title": "What happened after 2k people tried to hack my AI assistant"
+    "url": "https://www.jonhilty.com/lippmann",
+    "title": "Lippmann Photography"
+  },
+  {
+    "source": "hn",
+    "url": "https://gossamer-lang.org/",
+    "title": "Gossamer: a Rust-flavoured language with real goroutines and pause-free memory"
   },
   {
     "source": "hn",
@@ -56,23 +61,13 @@
   },
   {
     "source": "hn",
-    "url": "https://ngrok.com/blog/aol-was-down-1996",
-    "title": "A human postmortem of the 1996 AOL outage"
-  },
-  {
-    "source": "hn",
-    "url": "https://scottaaronson.blog/?p=9851",
-    "title": "Bipartite Matching Is in NC"
-  },
-  {
-    "source": "hn",
     "url": "https://blog.matthewbrunelle.com/my-steam-machine-is-a-50ft-hdmi-cable/",
     "title": "My Steam Machine is a 50ft HDMI cable"
   },
   {
     "source": "hn",
-    "url": "https://nesbitt.io/2026/06/26/incident-report-cve-2026-lgtm.html",
-    "title": "Incident CVE-2026-LGTM"
+    "url": "https://scottaaronson.blog/?p=9851",
+    "title": "Bipartite Matching Is in NC"
   },
   {
     "source": "lobsters",
@@ -96,6 +91,11 @@
   },
   {
     "source": "lobsters",
+    "url": "https://nesbitt.io/2026/06/26/incident-report-cve-2026-lgtm.html",
+    "title": "Incident Report: CVE-2026-LGTM"
+  },
+  {
+    "source": "lobsters",
     "url": "https://www.augusteo.com/blog/how-pgbouncer-works/",
     "title": "How PgBouncer Works"
   },
@@ -111,13 +111,23 @@
   },
   {
     "source": "lobsters",
+    "url": "https://en.wikipedia.org/wiki/L-system",
+    "title": "L-system"
+  },
+  {
+    "source": "lobsters",
     "url": "https://chrismorgan.info/font-family",
     "title": "font-family recommendations"
   },
   {
     "source": "lobsters",
-    "url": "https://en.wikipedia.org/wiki/L-system",
-    "title": "L-system"
+    "url": "https://www.jonashietala.se/blog/2026/06/26/designing_a_personal_pebble_watchface/",
+    "title": "Designing a personal Pebble watchface"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://explorer.oxide.computer/",
+    "title": "Oxide Rack 3D Explorer"
   },
   {
     "source": "lobsters",
@@ -128,21 +138,6 @@
     "source": "lobsters",
     "url": "https://yeokhengmeng.com/2026/06/swift-on-apple-ii/",
     "title": "Bringing Swift to the Apple II"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://explorer.oxide.computer/",
-    "title": "Oxide Rack 3D Explorer"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://yllan.org/software/OS9Map/",
-    "title": "OS9Map: OpenStreetMap for Mac OS 9"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://blog.omgmog.net/post/xteink-x4-e-ink-reader/",
-    "title": "The Xteink X4 E-Ink Reader"
   },
   {
     "source": "pinboard",
@@ -168,6 +163,11 @@
     "source": "pinboard",
     "url": "https://www.openculture.com/freeonlinecourses",
     "title": "1200 Free Online Courses from Top Universities | Open Culture"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://blog.omgmog.net/post/xteink-x4-e-ink-reader/",
+    "title": "The Xteink X4 E-Ink Reader — Max Glenister"
   },
   {
     "source": "pinboard",
