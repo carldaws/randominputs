@@ -31,8 +31,8 @@
   },
   {
     "source": "hn",
-    "url": "https://ohadravid.github.io/posts/2026-06-tool-talking/",
-    "title": "The Exhaustion of Talking to a Tool"
+    "url": "https://www.swiftlatex.com/",
+    "title": "LaTeX.wasm: LaTeX Engines in Browsers"
   },
   {
     "source": "hn",
@@ -46,18 +46,8 @@
   },
   {
     "source": "hn",
-    "url": "https://worksinprogress.co/issue/microbubbles/",
-    "title": "Microbubbles in Medicine"
-  },
-  {
-    "source": "hn",
     "url": "https://unconv.ai/blog/introducing-un-0-generating-images-with-coupled-oscillators/",
     "title": "Un-0: Generating Images with Coupled Oscillators"
-  },
-  {
-    "source": "hn",
-    "url": "https://rozumem.xyz/posts/17",
-    "title": "The Doorman's Fallacy in action"
   },
   {
     "source": "lobsters",
@@ -66,13 +56,18 @@
   },
   {
     "source": "lobsters",
-    "url": "https://ebellani.github.io/blog/2026/all-you-need-is-postgresql/",
-    "title": "All you need is PostgreSQL"
+    "url": "https://grack.com/blog/2026/06/25/dissecting-a-failed-nation-state-attack/",
+    "title": "Anatomy of a Failed (Nation-State?) Attack"
   },
   {
     "source": "lobsters",
-    "url": "https://grack.com/blog/2026/06/25/dissecting-a-failed-nation-state-attack/",
-    "title": "Anatomy of a Failed (Nation-State?) Attack"
+    "url": "https://ohadravid.github.io/posts/2026-06-tool-talking/",
+    "title": "The Exhaustion of Talking to a Tool"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://ebellani.github.io/blog/2026/all-you-need-is-postgresql/",
+    "title": "All you need is PostgreSQL"
   },
   {
     "source": "lobsters",
@@ -103,6 +98,11 @@
     "source": "lobsters",
     "url": "https://yllan.org/software/OS9Map/",
     "title": "OS9Map: OpenStreetMap for Mac OS 9"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://iankduncan.com/engineering/2026-06-26-the-new-blub-paradox/",
+    "title": "The New Blub Paradox, or: Why TypeScript Is a Poor Choice for the AI Era"
   },
   {
     "source": "lobsters",
