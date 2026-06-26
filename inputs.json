@@ -11,13 +11,13 @@
   },
   {
     "source": "hn",
-    "url": "https://williamdue.github.io/blog/parallel-parentheses-matching",
-    "title": "Parallel Parentheses Matching"
+    "url": "https://www.newyorker.com/business/currency/silicon-valley-has-an-empathy-vacuum",
+    "title": "Silicon Valley Has an Empathy Vacuum (2016)"
   },
   {
     "source": "hn",
-    "url": "https://ziglang.org/devlog/2026/#2026-06-25",
-    "title": "Zig's new bitCast semantics and LLVM back end improvements"
+    "url": "https://williamdue.github.io/blog/parallel-parentheses-matching",
+    "title": "Parallel Parentheses Matching"
   },
   {
     "source": "hn",
@@ -26,8 +26,23 @@
   },
   {
     "source": "hn",
+    "url": "https://ziglang.org/devlog/2026/#2026-06-25",
+    "title": "Zig's new bitCast semantics and LLVM back end improvements"
+  },
+  {
+    "source": "hn",
     "url": "https://yllan.org/software/OS9Map/",
     "title": "OS9Map"
+  },
+  {
+    "source": "hn",
+    "url": "https://signoregalilei.com/2026/06/20/the-last-romans-are-still-around/",
+    "title": "The last Romans are still around"
+  },
+  {
+    "source": "hn",
+    "url": "http://edwardfeser.blogspot.com/2026/06/what-is-mechanical-world-picture.html",
+    "title": "What is the mechanical world picture?"
   },
   {
     "source": "hn",
@@ -36,18 +51,13 @@
   },
   {
     "source": "hn",
-    "url": "https://hackernewstrends.com",
-    "title": "Show HN: I made Google Trends for Hacker News by indexing 18 years of comments"
+    "url": "http://haskellforall.com/2026/06/record-type-inference-for-dummies",
+    "title": "Record type inference for dummies"
   },
   {
     "source": "hn",
     "url": "https://trakkr.ai/bias",
     "title": "Political bias in AI: Where the AI models stand"
-  },
-  {
-    "source": "hn",
-    "url": "https://pete.design/tw-fade",
-    "title": "Tw-fade: pure CSS scroll-driven edge masking"
   },
   {
     "source": "lobsters",
@@ -96,13 +106,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://refactoringenglish.com/excerpts/write-an-effective-design-doc/",
-    "title": "How to Write an Effective Software Design Document"
+    "url": "https://netzhansa.com/echoes-of-the-ai-winter/",
+    "title": "Echoes of the AI Winter"
   },
   {
     "source": "lobsters",
-    "url": "https://netzhansa.com/echoes-of-the-ai-winter/",
-    "title": "Echoes of the AI Winter"
+    "url": "https://refactoringenglish.com/excerpts/write-an-effective-design-doc/",
+    "title": "How to Write an Effective Software Design Document"
   },
   {
     "source": "lobsters",
@@ -121,8 +131,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://blog.jimmac.eu/posts/flatpak-org-zola/",
-    "title": "Flatpak.org Rewrite"
+    "url": "https://akrites.org/",
+    "title": "Akrites: Coordinated, confidential vulnerability remediation for the open source software critical infrastructure depends on"
   },
   {
     "source": "pinboard",
