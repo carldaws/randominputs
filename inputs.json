@@ -1,11 +1,6 @@
 [
   {
     "source": "hn",
-    "url": "https://alephneuro.com/blog/ultrasound-brain",
-    "title": "Ultrasound imaging of the brain"
-  },
-  {
-    "source": "hn",
     "url": "https://gossamer-lang.org/",
     "title": "Gossamer: a Rust-flavoured language with real goroutines and pause-free memory"
   },
@@ -16,18 +11,23 @@
   },
   {
     "source": "hn",
+    "url": "https://alephneuro.com/blog/ultrasound-brain",
+    "title": "Ultrasound imaging of the brain"
+  },
+  {
+    "source": "hn",
     "url": "https://lefakkomies.github.io/pynomo-doc/introduction/introduction.html#what-is-a-nomogram-and-why-would-it-interest-me",
     "title": "What Is a Nomogram and Why Would It Interest Me?"
   },
   {
     "source": "hn",
-    "url": "https://www.jtekt.co.jp/e/products/capacitor/capacitor_about.html",
-    "title": "What is a Lithium-ion capacitor?"
+    "url": "https://svpow.com/2026/05/15/the-bizarre-headgear-exhibit-at-the-sam-noble-museum-is-incredible/",
+    "title": "The \"Bizarre Headgear\" Exhibit at the Sam Noble Museum Is Incredible"
   },
   {
     "source": "hn",
-    "url": "https://svpow.com/2026/05/15/the-bizarre-headgear-exhibit-at-the-sam-noble-museum-is-incredible/",
-    "title": "The \"Bizarre Headgear\" Exhibit at the Sam Noble Museum Is Incredible"
+    "url": "https://www.jtekt.co.jp/e/products/capacitor/capacitor_about.html",
+    "title": "What is a Lithium-ion capacitor?"
   },
   {
     "source": "hn",
@@ -46,11 +46,6 @@
   },
   {
     "source": "hn",
-    "url": "https://nesbitt.io/2026/06/26/incident-report-cve-2026-lgtm.html",
-    "title": "Incident CVE-2026-LGTM"
-  },
-  {
-    "source": "hn",
     "url": "https://www.swiftlatex.com/",
     "title": "LaTeX.wasm: LaTeX Engines in Browsers"
   },
@@ -61,8 +56,18 @@
   },
   {
     "source": "hn",
-    "url": "https://explorer.oxide.computer/",
-    "title": "Oxide computer 3D rack guided tour"
+    "url": "https://nesbitt.io/2026/06/26/incident-report-cve-2026-lgtm.html",
+    "title": "Incident CVE-2026-LGTM"
+  },
+  {
+    "source": "hn",
+    "url": "https://blog.matthewbrunelle.com/my-steam-machine-is-a-50ft-hdmi-cable/",
+    "title": "My Steam Machine is a 50ft HDMI cable"
+  },
+  {
+    "source": "hn",
+    "url": "https://jan-herlyn.com/blog/doing-a-masters-while-working/",
+    "title": "Doing a masters while working in Spain"
   },
   {
     "source": "lobsters",
@@ -86,13 +91,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://ziglang.org/devlog/2026/#2026-06-26",
-    "title": "SPIR-V Backend Progress"
+    "url": "https://www.augusteo.com/blog/how-pgbouncer-works/",
+    "title": "How PgBouncer Works"
   },
   {
     "source": "lobsters",
-    "url": "https://www.augusteo.com/blog/how-pgbouncer-works/",
-    "title": "How PgBouncer Works"
+    "url": "https://ziglang.org/devlog/2026/#2026-06-26",
+    "title": "SPIR-V Backend Progress"
   },
   {
     "source": "lobsters",
@@ -106,8 +111,18 @@
   },
   {
     "source": "lobsters",
+    "url": "https://yeokhengmeng.com/2026/06/swift-on-apple-ii/",
+    "title": "Bringing Swift to the Apple II"
+  },
+  {
+    "source": "lobsters",
     "url": "https://ziglang.org/devlog/2026/?2026-06-25#2026-06-25",
     "title": "New @bitCast Semantics and LLVM Backend Improvements"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://explorer.oxide.computer/",
+    "title": "Oxide Rack 3D Explorer"
   },
   {
     "source": "lobsters",
@@ -118,11 +133,6 @@
     "source": "lobsters",
     "url": "https://yllan.org/software/OS9Map/",
     "title": "OS9Map: OpenStreetMap for Mac OS 9"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://yeokhengmeng.com/2026/06/swift-on-apple-ii/",
-    "title": "Bringing Swift to the Apple II"
   },
   {
     "source": "pinboard",
