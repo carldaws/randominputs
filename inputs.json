@@ -1,8 +1,18 @@
 [
   {
     "source": "hn",
+    "url": "https://www.openra.net/",
+    "title": "OpenRA"
+  },
+  {
+    "source": "hn",
     "url": "https://w.pitula.me/fintech-engineering-handbook/",
     "title": "Fintech Engineering Handbook"
+  },
+  {
+    "source": "hn",
+    "url": "https://dervis.de/physical/",
+    "title": "If you can't hold it, you don't own it"
   },
   {
     "source": "hn",
@@ -16,6 +26,21 @@
   },
   {
     "source": "hn",
+    "url": "https://blog.khinsen.net/posts/2026/06/25/cultures.html",
+    "title": "Cultures of Making and Relating"
+  },
+  {
+    "source": "hn",
+    "url": "https://blog.mrcroxx.com/posts/task-failed-successfully-saturating-nic-and-disk-bandwidth/",
+    "title": "Task Failed Successfully: Saturating NIC and Disk Bandwidth"
+  },
+  {
+    "source": "hn",
+    "url": "https://howtotestfrontend.com/courses/jest-vitest-fundamentals",
+    "title": "Jest/Vitest interactive course (runs in the browser)"
+  },
+  {
+    "source": "hn",
     "url": "https://www.semafor.com/article/06/27/2026/us-releases-powerful-anthropic-model-mythos-to-some-us-companies",
     "title": "U.S. allows Anthropic to release Mythos AI to ‘trusted’ US organizations"
   },
@@ -26,13 +51,8 @@
   },
   {
     "source": "hn",
-    "url": "https://blog.khinsen.net/posts/2026/06/25/cultures.html",
-    "title": "Cultures of Making and Relating"
-  },
-  {
-    "source": "hn",
-    "url": "https://howtotestfrontend.com/courses/jest-vitest-fundamentals",
-    "title": "Jest/Vitest interactive course (runs in the browser)"
+    "url": "https://grack.com/blog/2026/06/25/dissecting-a-failed-nation-state-attack/",
+    "title": "Anatomy of a Failed (Nation-State?) Attack"
   },
   {
     "source": "hn",
@@ -46,13 +66,8 @@
   },
   {
     "source": "hn",
-    "url": "https://grack.com/blog/2026/06/25/dissecting-a-failed-nation-state-attack/",
-    "title": "Anatomy of a Failed (Nation-State?) Attack"
-  },
-  {
-    "source": "hn",
-    "url": "https://popflame.quickish.space/hn-flipboard/",
-    "title": "Show HN: Hacker News on a train station-style flip board"
+    "url": "https://news.mccombs.utexas.edu/research/foreign-funds-help-make-housing-unaffordable/",
+    "title": "International investment and local rules push prices up faster than supply"
   },
   {
     "source": "hn",
@@ -66,18 +81,8 @@
   },
   {
     "source": "hn",
-    "url": "https://news.mccombs.utexas.edu/research/foreign-funds-help-make-housing-unaffordable/",
-    "title": "Foreign funds help make housing unaffordable: research"
-  },
-  {
-    "source": "hn",
-    "url": "https://daringfireball.net/2026/06/om",
-    "title": "Om"
-  },
-  {
-    "source": "hn",
-    "url": "https://lefakkomies.github.io/pynomo-doc/introduction/introduction.html#what-is-a-nomogram-and-why-would-it-interest-me",
-    "title": "What Is a Nomogram and Why Would It Interest Me?"
+    "url": "https://popflame.quickish.space/hn-flipboard/",
+    "title": "Show HN: Hacker News on a train station-style flip board"
   },
   {
     "source": "lobsters",
@@ -86,13 +91,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://ratfactor.com/cards/text-files-as-ui",
-    "title": "Text files as a user interface"
+    "url": "https://openzl.org/",
+    "title": "OpenZL"
   },
   {
     "source": "lobsters",
-    "url": "https://openzl.org/",
-    "title": "OpenZL"
+    "url": "https://ratfactor.com/cards/text-files-as-ui",
+    "title": "Text files as a user interface"
   },
   {
     "source": "lobsters",
@@ -121,6 +126,11 @@
   },
   {
     "source": "lobsters",
+    "url": "https://strebkov.dev/posts/shard-your-locks/",
+    "title": "Shard your locks: benchmarking 6 Go cache designs"
+  },
+  {
+    "source": "lobsters",
     "url": "https://healeycodes.com/a-tiny-compiler-for-data-parallel-kernels",
     "title": "A Tiny Compiler for Data-Parallel Kernels"
   },
@@ -131,6 +141,11 @@
   },
   {
     "source": "lobsters",
+    "url": "https://www.ufried.com/blog/essence_of_architecture_3",
+    "title": "The essence of architectural work - Part 3"
+  },
+  {
+    "source": "lobsters",
     "url": "https://www.augusteo.com/blog/how-pgbouncer-works/",
     "title": "How PgBouncer Works"
   },
@@ -138,16 +153,6 @@
     "source": "lobsters",
     "url": "https://ohadravid.github.io/posts/2026-06-tool-talking/",
     "title": "The Exhaustion of Talking to a Tool"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://www.ufried.com/blog/essence_of_architecture_3",
-    "title": "The essence of architectural work - Part 3"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://www.blog.akhil.cc/type-inference-part-1",
-    "title": "Type Inference (Part 1)"
   },
   {
     "source": "pinboard",
@@ -183,6 +188,11 @@
     "source": "pinboard",
     "url": "https://aworkinglibrary.com/writing/umyazu",
     "title": "Umyazu - A Working Library"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://daringfireball.net/2026/06/om",
+    "title": "Daring Fireball: Om"
   },
   {
     "source": "pinboard",
