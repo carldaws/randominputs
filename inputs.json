@@ -26,13 +26,18 @@
   },
   {
     "source": "hn",
+    "url": "https://dervis.de/physical/",
+    "title": "If you can't hold it, you don't own it"
+  },
+  {
+    "source": "hn",
     "url": "https://www.beercss.com",
     "title": "Beer CSS – Build material design in record time"
   },
   {
     "source": "hn",
-    "url": "https://dervis.de/physical/",
-    "title": "If you can't hold it, you don't own it"
+    "url": "https://www.theregister.com/software/2026/06/26/one-man-two-kernels-and-a-lot-of-risc-v/5262858",
+    "title": "One man, two kernels, and a lot of RISC-V"
   },
   {
     "source": "hn",
@@ -51,6 +56,11 @@
   },
   {
     "source": "hn",
+    "url": "https://blog.doubleword.ai/frontier-os-llm",
+    "title": "The gap between open weights LLMs and closed source LLMs"
+  },
+  {
+    "source": "hn",
     "url": "https://howtotestfrontend.com/courses/jest-vitest-fundamentals",
     "title": "Jest/Vitest interactive course (runs in the browser)"
   },
@@ -60,34 +70,19 @@
     "title": "Anatomy of a Failed (Nation-State?) Attack"
   },
   {
-    "source": "hn",
-    "url": "https://www.semafor.com/article/06/27/2026/us-releases-powerful-anthropic-model-mythos-to-some-us-companies",
-    "title": "U.S. allows Anthropic to release Mythos AI to ‘trusted’ US organizations"
-  },
-  {
-    "source": "hn",
-    "url": "https://blog.doubleword.ai/frontier-os-llm",
-    "title": "The gap between open weights LLMs and closed source LLMs"
-  },
-  {
-    "source": "hn",
-    "url": "https://news.mccombs.utexas.edu/research/foreign-funds-help-make-housing-unaffordable/",
-    "title": "International investment and local rules push prices up faster than supply"
-  },
-  {
-    "source": "hn",
-    "url": "https://kirill.korins.ky/articles/hellishly-slow-level-13-deflate-compression/",
-    "title": "Hellishly Slow Level 13 Deflate Compression"
-  },
-  {
     "source": "lobsters",
-    "url": "https://worldcup.reeseric.ci",
-    "title": "FIFA Interactive Bracket (World Cup)"
+    "url": "https://lyra.horse/blog/2026/06/reddit-spam-internals/",
+    "title": "A peek into Reddit's anti-spam internals"
   },
   {
     "source": "lobsters",
     "url": "https://blog.weineng.me/posts/slowest_add/",
     "title": "Data Access Patterns That Makes Your CPU Really Angry"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://worldcup.reeseric.ci",
+    "title": "FIFA Interactive Bracket (World Cup)"
   },
   {
     "source": "lobsters",
@@ -106,11 +101,6 @@
   },
   {
     "source": "lobsters",
-    "url": "https://lyra.horse/blog/2026/06/reddit-spam-internals/",
-    "title": "A peek into Reddit's anti-spam internals"
-  },
-  {
-    "source": "lobsters",
     "url": "https://stonetools.ghost.io/visualbasic-win31/",
     "title": "Visual Basic on the PC w/Windows 3.1"
   },
@@ -126,13 +116,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://fzakaria.com/2026/06/25/guixpkgs-every-guix-package-as-a-nix-flake",
-    "title": "GuixPkgs: every Guix package, as a Nix flake"
+    "url": "https://nesbitt.io/2026/06/26/incident-report-cve-2026-lgtm.html",
+    "title": "Incident Report: CVE-2026-LGTM"
   },
   {
     "source": "lobsters",
-    "url": "https://nesbitt.io/2026/06/26/incident-report-cve-2026-lgtm.html",
-    "title": "Incident Report: CVE-2026-LGTM"
+    "url": "https://fzakaria.com/2026/06/25/guixpkgs-every-guix-package-as-a-nix-flake",
+    "title": "GuixPkgs: every Guix package, as a Nix flake"
   },
   {
     "source": "lobsters",
