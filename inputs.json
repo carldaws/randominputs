@@ -1,6 +1,16 @@
 [
   {
     "source": "hn",
+    "url": "https://w.pitula.me/fintech-engineering-handbook/",
+    "title": "Fintech Engineering Handbook"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.beercss.com",
+    "title": "Beer CSS – Build material design in record time"
+  },
+  {
+    "source": "hn",
     "url": "https://www.sfwriter.com/wordstar.htm",
     "title": "WordStar: A Writer's Word Processor (1996)"
   },
@@ -21,23 +31,13 @@
   },
   {
     "source": "hn",
-    "url": "https://howtotestfrontend.com/courses/jest-vitest-fundamentals",
-    "title": "Jest/Vitest interactive course (runs in the browser)"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.beercss.com",
-    "title": "Beer CSS – Build material design in record time"
-  },
-  {
-    "source": "hn",
     "url": "https://kirill.korins.ky/articles/hellishly-slow-level-13-deflate-compression/",
     "title": "Hellishly Slow Level 13 Deflate Compression"
   },
   {
     "source": "hn",
-    "url": "https://popflame.quickish.space/hn-flipboard/",
-    "title": "Show HN: Hacker News on a train station-style flip board"
+    "url": "https://howtotestfrontend.com/courses/jest-vitest-fundamentals",
+    "title": "Jest/Vitest interactive course (runs in the browser)"
   },
   {
     "source": "hn",
@@ -46,13 +46,8 @@
   },
   {
     "source": "hn",
-    "url": "https://news.mccombs.utexas.edu/research/foreign-funds-help-make-housing-unaffordable/",
-    "title": "Foreign funds help make housing unaffordable: research"
-  },
-  {
-    "source": "hn",
-    "url": "https://daringfireball.net/2026/06/om",
-    "title": "Om"
+    "url": "https://popflame.quickish.space/hn-flipboard/",
+    "title": "Show HN: Hacker News on a train station-style flip board"
   },
   {
     "source": "hn",
@@ -61,18 +56,23 @@
   },
   {
     "source": "hn",
-    "url": "https://nerocam.com/scc_tap.asp",
-    "title": "SCC Technical Assistance Program"
-  },
-  {
-    "source": "hn",
     "url": "https://blog.doubleword.ai/frontier-os-llm",
     "title": "The gap between open weights LLMs and closed source LLMs"
   },
   {
     "source": "hn",
-    "url": "https://hightouch.com/careers#open-positions",
-    "title": "Hightouch (YC S19) Is Hiring"
+    "url": "https://daringfireball.net/2026/06/om",
+    "title": "Om"
+  },
+  {
+    "source": "hn",
+    "url": "https://news.mccombs.utexas.edu/research/foreign-funds-help-make-housing-unaffordable/",
+    "title": "Foreign funds help make housing unaffordable: research"
+  },
+  {
+    "source": "hn",
+    "url": "https://nerocam.com/scc_tap.asp",
+    "title": "SCC Technical Assistance Program"
   },
   {
     "source": "hn",
@@ -88,6 +88,11 @@
     "source": "lobsters",
     "url": "https://stonetools.ghost.io/visualbasic-win31/",
     "title": "Visual Basic on the PC w/Windows 3.1"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://openzl.org/",
+    "title": "OpenZL"
   },
   {
     "source": "lobsters",
@@ -111,13 +116,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://openzl.org/",
-    "title": "OpenZL"
+    "url": "https://nesbitt.io/2026/06/26/incident-report-cve-2026-lgtm.html",
+    "title": "Incident Report: CVE-2026-LGTM"
   },
   {
     "source": "lobsters",
-    "url": "https://nesbitt.io/2026/06/26/incident-report-cve-2026-lgtm.html",
-    "title": "Incident Report: CVE-2026-LGTM"
+    "url": "https://healeycodes.com/a-tiny-compiler-for-data-parallel-kernels",
+    "title": "A Tiny Compiler for Data-Parallel Kernels"
   },
   {
     "source": "lobsters",
@@ -133,11 +138,6 @@
     "source": "lobsters",
     "url": "https://ohadravid.github.io/posts/2026-06-tool-talking/",
     "title": "The Exhaustion of Talking to a Tool"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://healeycodes.com/a-tiny-compiler-for-data-parallel-kernels",
-    "title": "A Tiny Compiler for Data-Parallel Kernels"
   },
   {
     "source": "lobsters",
