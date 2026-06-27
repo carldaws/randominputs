@@ -6,13 +6,13 @@
   },
   {
     "source": "hn",
-    "url": "https://svpow.com/2026/05/15/the-bizarre-headgear-exhibit-at-the-sam-noble-museum-is-incredible/",
-    "title": "The \"Bizarre Headgear\" exhibit at the Sam Noble museum"
+    "url": "https://healeycodes.com/a-tiny-compiler-for-data-parallel-kernels",
+    "title": "A Tiny Compiler for Data-Parallel Kernels"
   },
   {
     "source": "hn",
-    "url": "https://alephneuro.com/blog/ultrasound-brain",
-    "title": "Ultrasound imaging of the brain"
+    "url": "https://svpow.com/2026/05/15/the-bizarre-headgear-exhibit-at-the-sam-noble-museum-is-incredible/",
+    "title": "The \"Bizarre Headgear\" exhibit at the Sam Noble museum"
   },
   {
     "source": "hn",
@@ -21,18 +21,13 @@
   },
   {
     "source": "hn",
+    "url": "https://alephneuro.com/blog/ultrasound-brain",
+    "title": "Ultrasound imaging of the brain"
+  },
+  {
+    "source": "hn",
     "url": "https://lefakkomies.github.io/pynomo-doc/introduction/introduction.html#what-is-a-nomogram-and-why-would-it-interest-me",
     "title": "What Is a Nomogram and Why Would It Interest Me?"
-  },
-  {
-    "source": "hn",
-    "url": "https://healeycodes.com/a-tiny-compiler-for-data-parallel-kernels",
-    "title": "A Tiny Compiler for Data-Parallel Kernels"
-  },
-  {
-    "source": "hn",
-    "url": "https://mlc.ai/modern-gpu-programming-for-mlsys/",
-    "title": "Modern GPU Programming for MLSys"
   },
   {
     "source": "hn",
@@ -41,13 +36,13 @@
   },
   {
     "source": "hn",
-    "url": "https://acoup.blog/2026/06/26/collections-pre-modern-armies-for-worldbuilders-part-iii-paying-for-it/",
-    "title": "Pre-Modern Armies for Worldbuilders, Part III: Paying for It"
+    "url": "https://gossamer-lang.org/",
+    "title": "Gossamer: a Rust-flavoured language with real goroutines and pause-free memory"
   },
   {
     "source": "hn",
-    "url": "https://www.outsideonline.com/outdoor-adventure/environment/nps-internal-memo-deaths/?link_source=ta_first_comment&taid=6a3dae4f4d2dce00016deef8&utm_content=trueanthem&utm_medium=social&utm_source=facebook",
-    "title": "The National Parks Were Reportedly Told to Stay Silent on Deaths"
+    "url": "https://acoup.blog/2026/06/26/collections-pre-modern-armies-for-worldbuilders-part-iii-paying-for-it/",
+    "title": "Pre-Modern Armies for Worldbuilders, Part III: Paying for It"
   },
   {
     "source": "hn",
@@ -56,8 +51,8 @@
   },
   {
     "source": "hn",
-    "url": "https://gossamer-lang.org/",
-    "title": "Gossamer: a Rust-flavoured language with real goroutines and pause-free memory"
+    "url": "https://mlc.ai/modern-gpu-programming-for-mlsys/",
+    "title": "Modern GPU Programming for MLSys"
   },
   {
     "source": "hn",
@@ -71,8 +66,8 @@
   },
   {
     "source": "hn",
-    "url": "https://scottaaronson.blog/?p=9851",
-    "title": "Bipartite Matching Is in NC"
+    "url": "https://daringfireball.net/2026/06/om",
+    "title": "Om"
   },
   {
     "source": "lobsters",
@@ -121,8 +116,18 @@
   },
   {
     "source": "lobsters",
+    "url": "https://stonetools.ghost.io/visualbasic-win31/",
+    "title": "Visual Basic on the PC w/Windows 3.1"
+  },
+  {
+    "source": "lobsters",
     "url": "https://chrismorgan.info/font-family",
     "title": "font-family recommendations"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://yeokhengmeng.com/2026/06/swift-on-apple-ii/",
+    "title": "Bringing Swift to the Apple II"
   },
   {
     "source": "lobsters",
@@ -131,18 +136,13 @@
   },
   {
     "source": "lobsters",
+    "url": "https://www.blog.akhil.cc/type-inference-part-1",
+    "title": "Type Inference (Part 1)"
+  },
+  {
+    "source": "lobsters",
     "url": "https://www.jonashietala.se/blog/2026/06/26/designing_a_personal_pebble_watchface/",
     "title": "Designing a personal Pebble watchface"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://ziglang.org/devlog/2026/?2026-06-25#2026-06-25",
-    "title": "New @bitCast Semantics and LLVM Backend Improvements"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://yeokhengmeng.com/2026/06/swift-on-apple-ii/",
-    "title": "Bringing Swift to the Apple II"
   },
   {
     "source": "pinboard",
