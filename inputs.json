@@ -16,13 +16,18 @@
   },
   {
     "source": "hn",
-    "url": "https://hightouch.com/careers#open-positions",
-    "title": "Hightouch (YC S19) Is Hiring"
+    "url": "https://daringfireball.net/2026/06/om",
+    "title": "Om"
   },
   {
     "source": "hn",
     "url": "https://alephneuro.com/blog/ultrasound-brain",
     "title": "Ultrasound imaging of the brain"
+  },
+  {
+    "source": "hn",
+    "url": "https://hightouch.com/careers#open-positions",
+    "title": "Hightouch (YC S19) Is Hiring"
   },
   {
     "source": "hn",
@@ -36,13 +41,18 @@
   },
   {
     "source": "hn",
-    "url": "https://gossamer-lang.org/",
-    "title": "Gossamer: a Rust-flavoured language with real goroutines and pause-free memory"
+    "url": "https://www.foster77.co.uk/Foster,%20Scottish%20Mathematical%20Council%20Journal,%20Making%20sense%20of%20proof%20by%20contradiction.pdf",
+    "title": "Making Sense of Proof by Contradiction [pdf]"
   },
   {
     "source": "hn",
     "url": "https://acoup.blog/2026/06/26/collections-pre-modern-armies-for-worldbuilders-part-iii-paying-for-it/",
     "title": "Pre-Modern Armies for Worldbuilders, Part III: Paying for It"
+  },
+  {
+    "source": "hn",
+    "url": "https://gossamer-lang.org/",
+    "title": "Gossamer: a Rust-flavoured language with real goroutines and pause-free memory"
   },
   {
     "source": "hn",
@@ -63,11 +73,6 @@
     "source": "hn",
     "url": "https://blog.matthewbrunelle.com/my-steam-machine-is-a-50ft-hdmi-cable/",
     "title": "My Steam Machine is a 50ft HDMI cable"
-  },
-  {
-    "source": "hn",
-    "url": "https://daringfireball.net/2026/06/om",
-    "title": "Om"
   },
   {
     "source": "lobsters",
@@ -96,6 +101,11 @@
   },
   {
     "source": "lobsters",
+    "url": "https://en.wikipedia.org/wiki/L-system",
+    "title": "L-system"
+  },
+  {
+    "source": "lobsters",
     "url": "https://ohadravid.github.io/posts/2026-06-tool-talking/",
     "title": "The Exhaustion of Talking to a Tool"
   },
@@ -106,8 +116,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://en.wikipedia.org/wiki/L-system",
-    "title": "L-system"
+    "url": "https://stonetools.ghost.io/visualbasic-win31/",
+    "title": "Visual Basic on the PC w/Windows 3.1"
   },
   {
     "source": "lobsters",
@@ -116,8 +126,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://stonetools.ghost.io/visualbasic-win31/",
-    "title": "Visual Basic on the PC w/Windows 3.1"
+    "url": "https://yeokhengmeng.com/2026/06/swift-on-apple-ii/",
+    "title": "Bringing Swift to the Apple II"
   },
   {
     "source": "lobsters",
@@ -126,23 +136,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://yeokhengmeng.com/2026/06/swift-on-apple-ii/",
-    "title": "Bringing Swift to the Apple II"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://explorer.oxide.computer/",
-    "title": "Oxide Rack 3D Explorer"
-  },
-  {
-    "source": "lobsters",
     "url": "https://www.blog.akhil.cc/type-inference-part-1",
     "title": "Type Inference (Part 1)"
   },
   {
     "source": "lobsters",
-    "url": "https://www.jonashietala.se/blog/2026/06/26/designing_a_personal_pebble_watchface/",
-    "title": "Designing a personal Pebble watchface"
+    "url": "https://explorer.oxide.computer/",
+    "title": "Oxide Rack 3D Explorer"
   },
   {
     "source": "pinboard",
