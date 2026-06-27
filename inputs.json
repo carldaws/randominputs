@@ -1,28 +1,18 @@
 [
   {
     "source": "hn",
+    "url": "https://www.sfwriter.com/wordstar.htm",
+    "title": "WordStar: A Writer's Word Processor (1996)"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.semafor.com/article/06/27/2026/us-releases-powerful-anthropic-model-mythos-to-some-us-companies",
+    "title": "U.S. allows Anthropic to release Mythos AI to ‘trusted’ US organizations"
+  },
+  {
+    "source": "hn",
     "url": "https://popflame.quickish.space/hn-flipboard/",
-    "title": "Show HN: Hacker News on a Train Station Style Flip Board"
-  },
-  {
-    "source": "hn",
-    "url": "https://blog.doubleword.ai/frontier-os-llm",
-    "title": "The gap between open weights LLMs and closed source LLMs"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.foster77.co.uk/Foster,%20Scottish%20Mathematical%20Council%20Journal,%20Making%20sense%20of%20proof%20by%20contradiction.pdf",
-    "title": "Making Sense of Proof by Contradiction [pdf]"
-  },
-  {
-    "source": "hn",
-    "url": "https://healeycodes.com/a-tiny-compiler-for-data-parallel-kernels",
-    "title": "A Tiny Compiler for Data-Parallel Kernels"
-  },
-  {
-    "source": "hn",
-    "url": "https://svpow.com/2026/05/15/the-bizarre-headgear-exhibit-at-the-sam-noble-museum-is-incredible/",
-    "title": "The \"Bizarre Headgear\" exhibit at the Sam Noble museum"
+    "title": "Show HN: Hacker News on a train station-style flip board"
   },
   {
     "source": "hn",
@@ -31,13 +21,38 @@
   },
   {
     "source": "hn",
+    "url": "https://fusion-lang.org/",
+    "title": "Fusion Programming Language"
+  },
+  {
+    "source": "hn",
+    "url": "https://blog.doubleword.ai/frontier-os-llm",
+    "title": "The gap between open weights LLMs and closed source LLMs"
+  },
+  {
+    "source": "hn",
     "url": "https://daringfireball.net/2026/06/om",
     "title": "Om"
   },
   {
     "source": "hn",
+    "url": "https://news.mccombs.utexas.edu/research/foreign-funds-help-make-housing-unaffordable/",
+    "title": "Foreign funds help make housing unaffordable: research"
+  },
+  {
+    "source": "hn",
+    "url": "https://grack.com/blog/2026/06/25/dissecting-a-failed-nation-state-attack/",
+    "title": "Anatomy of a Failed (Nation-State?) Attack"
+  },
+  {
+    "source": "hn",
     "url": "https://alephneuro.com/blog/ultrasound-brain",
     "title": "Ultrasound imaging of the brain"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.foster77.co.uk/Foster,%20Scottish%20Mathematical%20Council%20Journal,%20Making%20sense%20of%20proof%20by%20contradiction.pdf",
+    "title": "Making Sense of Proof by Contradiction [pdf]"
   },
   {
     "source": "hn",
@@ -51,6 +66,21 @@
   },
   {
     "source": "hn",
+    "url": "https://healeycodes.com/a-tiny-compiler-for-data-parallel-kernels",
+    "title": "A Tiny Compiler for Data-Parallel Kernels"
+  },
+  {
+    "source": "hn",
+    "url": "https://nsspot.herokuapp.com/imagetoaudio/",
+    "title": "Show HN: Turn images into audio that can be decoded with a spectrogram"
+  },
+  {
+    "source": "hn",
+    "url": "https://svpow.com/2026/05/15/the-bizarre-headgear-exhibit-at-the-sam-noble-museum-is-incredible/",
+    "title": "The \"Bizarre Headgear\" exhibit at the Sam Noble museum"
+  },
+  {
+    "source": "hn",
     "url": "https://acoup.blog/2026/06/26/collections-pre-modern-armies-for-worldbuilders-part-iii-paying-for-it/",
     "title": "Pre-Modern Armies for Worldbuilders, Part III: Paying for It"
   },
@@ -58,96 +88,6 @@
     "source": "hn",
     "url": "https://ngrok.com/blog/aol-was-down-1996",
     "title": "A human postmortem of the 1996 AOL outage"
-  },
-  {
-    "source": "hn",
-    "url": "https://mlc.ai/modern-gpu-programming-for-mlsys/",
-    "title": "Modern GPU Programming for MLSys"
-  },
-  {
-    "source": "hn",
-    "url": "https://gossamer-lang.org/",
-    "title": "Gossamer: a Rust-flavoured language with real goroutines and pause-free memory"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.swiftlatex.com/",
-    "title": "LaTeX.wasm: LaTeX Engines in Browsers"
-  },
-  {
-    "source": "hn",
-    "url": "https://blog.matthewbrunelle.com/my-steam-machine-is-a-50ft-hdmi-cable/",
-    "title": "My Steam Machine is a 50ft HDMI cable"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://grack.com/blog/2026/06/25/dissecting-a-failed-nation-state-attack/",
-    "title": "Anatomy of a Failed (Nation-State?) Attack"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://fzakaria.com/2026/06/25/guixpkgs-every-guix-package-as-a-nix-flake",
-    "title": "GuixPkgs: every Guix package, as a Nix flake"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://ebellani.github.io/blog/2026/all-you-need-is-postgresql/",
-    "title": "All you need is PostgreSQL"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://devenv.sh/blog/2026/06/26/making-devenv-start-fast-and-the-whole-nixpkgs-with-it/",
-    "title": "Making devenv start fast, and the whole nixpkgs with it - devenv"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://nesbitt.io/2026/06/26/incident-report-cve-2026-lgtm.html",
-    "title": "Incident Report: CVE-2026-LGTM"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://en.wikipedia.org/wiki/L-system",
-    "title": "L-system"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://www.augusteo.com/blog/how-pgbouncer-works/",
-    "title": "How PgBouncer Works"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://ohadravid.github.io/posts/2026-06-tool-talking/",
-    "title": "The Exhaustion of Talking to a Tool"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://stonetools.ghost.io/visualbasic-win31/",
-    "title": "Visual Basic on the PC w/Windows 3.1"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://ziglang.org/devlog/2026/#2026-06-26",
-    "title": "SPIR-V Backend Progress"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://yeokhengmeng.com/2026/06/swift-on-apple-ii/",
-    "title": "Bringing Swift to the Apple II"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://chrismorgan.info/font-family",
-    "title": "font-family recommendations"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://www.blog.akhil.cc/type-inference-part-1",
-    "title": "Type Inference (Part 1)"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://explorer.oxide.computer/",
-    "title": "Oxide Rack 3D Explorer"
   },
   {
     "source": "pinboard",
