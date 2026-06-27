@@ -11,18 +11,8 @@
   },
   {
     "source": "hn",
-    "url": "https://en.wikipedia.org/wiki/Underarm_bowling_incident_of_1981",
-    "title": "Underarm Bowling Incident of 1981"
-  },
-  {
-    "source": "hn",
     "url": "https://danluu.com/discontinuities/",
     "title": "Suspicious Discontinuities"
-  },
-  {
-    "source": "hn",
-    "url": "https://pluralistic.net/2026/06/27/zuckerstreisand-2/",
-    "title": "Zuckerberg's Increasingly Bizarre War on Whistleblowers"
   },
   {
     "source": "hn",
@@ -31,13 +21,23 @@
   },
   {
     "source": "hn",
-    "url": "https://www.beercss.com",
-    "title": "Beer CSS – Build material design in record time"
+    "url": "https://pluralistic.net/2026/06/27/zuckerstreisand-2/",
+    "title": "Zuckerberg's Increasingly Bizarre War on Whistleblowers"
   },
   {
     "source": "hn",
     "url": "https://www.theregister.com/software/2026/06/26/one-man-two-kernels-and-a-lot-of-risc-v/5262858",
     "title": "One man, two kernels, and a lot of RISC-V"
+  },
+  {
+    "source": "hn",
+    "url": "https://en.wikipedia.org/wiki/Underarm_bowling_incident_of_1981",
+    "title": "Underarm Bowling Incident of 1981"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.beercss.com",
+    "title": "Beer CSS – Build material design in record time"
   },
   {
     "source": "hn",
@@ -56,8 +56,8 @@
   },
   {
     "source": "hn",
-    "url": "https://blog.doubleword.ai/frontier-os-llm",
-    "title": "The gap between open weights LLMs and closed source LLMs"
+    "url": "https://grack.com/blog/2026/06/25/dissecting-a-failed-nation-state-attack/",
+    "title": "Anatomy of a Failed (Nation-State?) Attack"
   },
   {
     "source": "hn",
@@ -66,8 +66,8 @@
   },
   {
     "source": "hn",
-    "url": "https://grack.com/blog/2026/06/25/dissecting-a-failed-nation-state-attack/",
-    "title": "Anatomy of a Failed (Nation-State?) Attack"
+    "url": "https://blog.doubleword.ai/frontier-os-llm",
+    "title": "The gap between open weights LLMs and closed source LLMs"
   },
   {
     "source": "lobsters",
@@ -128,10 +128,5 @@
     "source": "lobsters",
     "url": "https://healeycodes.com/a-tiny-compiler-for-data-parallel-kernels",
     "title": "A Tiny Compiler for Data-Parallel Kernels"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://en.wikipedia.org/wiki/L-system",
-    "title": "L-system"
   }
 ]
