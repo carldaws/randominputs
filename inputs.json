@@ -6,11 +6,6 @@
   },
   {
     "source": "hn",
-    "url": "https://fortune.com/2026/06/26/meta-wynn-williams-surveillance-gag-order-lawsuit-2026/",
-    "title": "'Careless People' author claims Meta surveilled her for 12mos to enforce silence"
-  },
-  {
-    "source": "hn",
     "url": "https://cauenapier.com/blog/townsquare_release/",
     "title": "Turn your site into a place people can bump into each other"
   },
@@ -18,6 +13,16 @@
     "source": "hn",
     "url": "https://w.pitula.me/fintech-engineering-handbook/",
     "title": "Fintech Engineering Handbook"
+  },
+  {
+    "source": "hn",
+    "url": "https://dervis.de/physical/",
+    "title": "The case for physical media ownership"
+  },
+  {
+    "source": "hn",
+    "url": "https://dobrowolski.dev/article/enhancing-x11-application-security-with-lxc/",
+    "title": "Enhancing X11 Application Security with LXC"
   },
   {
     "source": "hn",
@@ -31,18 +36,8 @@
   },
   {
     "source": "hn",
-    "url": "https://dervis.de/physical/",
-    "title": "The case for physical media ownership"
-  },
-  {
-    "source": "hn",
     "url": "https://knob.monster/how-do-you-keep-web-midi-from-crashing-a-1983-synthesizer",
     "title": "How do you keep Web MIDI from crashing a 1983 synthesizer?"
-  },
-  {
-    "source": "hn",
-    "url": "https://blog.jgc.org/2026/06/the-eerie-interface-of-man-and-machine.html",
-    "title": "The eerie interface of man and machine (Life Magazine, October 1967)"
   },
   {
     "source": "hn",
@@ -51,13 +46,13 @@
   },
   {
     "source": "hn",
-    "url": "https://foxmoss.com/blog/radish/",
-    "title": "Running a software jam in a world of slop"
+    "url": "https://blog.jgc.org/2026/06/the-eerie-interface-of-man-and-machine.html",
+    "title": "The eerie interface of man and machine (Life Magazine, October 1967)"
   },
   {
     "source": "hn",
-    "url": "https://worksinprogress.co/issue/should-european-housing-politics-be-americanized/",
-    "title": "Should European housing politics be Americanized?"
+    "url": "https://magic.wizards.com/en/news/feature/remembering-the-life-and-artwork-of-ron-spears",
+    "title": "Remembering the life and artwork of Ron Spears"
   },
   {
     "source": "hn",
@@ -66,8 +61,18 @@
   },
   {
     "source": "hn",
+    "url": "https://foxmoss.com/blog/radish/",
+    "title": "Running a software jam in a world of slop"
+  },
+  {
+    "source": "hn",
     "url": "https://pudding.cool/2026/06/menu-story/",
     "title": "A History of Menus Is a Menu of History"
+  },
+  {
+    "source": "hn",
+    "url": "https://en.wikipedia.org/wiki/Underarm_bowling_incident_of_1981",
+    "title": "Underarm bowling incident of 1981"
   },
   {
     "source": "lobsters",
@@ -91,13 +96,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://www.stephendiehl.com/posts/prism/",
-    "title": "Prism: An Impure Functional Language With Typed Effects"
+    "url": "https://strebkov.dev/posts/shard-your-locks/",
+    "title": "Shard your locks: benchmarking 6 Go cache designs"
   },
   {
     "source": "lobsters",
-    "url": "https://strebkov.dev/posts/shard-your-locks/",
-    "title": "Shard your locks: benchmarking 6 Go cache designs"
+    "url": "https://www.stephendiehl.com/posts/prism/",
+    "title": "Prism: An Impure Functional Language With Typed Effects"
   },
   {
     "source": "lobsters",
@@ -106,8 +111,18 @@
   },
   {
     "source": "lobsters",
+    "url": "http://occ.sdf.org/",
+    "title": "The Old Computer Challenge"
+  },
+  {
+    "source": "lobsters",
     "url": "https://grack.com/blog/2026/06/25/dissecting-a-failed-nation-state-attack/",
     "title": "Anatomy of a Failed (Nation-State?) Attack"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://blog.einval.com/2026/06/27#its_dead_jim",
+    "title": "It's dead, Jim! (UEFI CA expiry)"
   },
   {
     "source": "lobsters",
@@ -118,15 +133,5 @@
     "source": "lobsters",
     "url": "https://devenv.sh/blog/2026/06/26/making-devenv-start-fast-and-the-whole-nixpkgs-with-it/",
     "title": "Making devenv start fast, and the whole nixpkgs with it - devenv"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://ebellani.github.io/blog/2026/all-you-need-is-postgresql/",
-    "title": "All you need is PostgreSQL"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://nesbitt.io/2026/06/26/incident-report-cve-2026-lgtm.html",
-    "title": "Incident Report: CVE-2026-LGTM"
   }
 ]
