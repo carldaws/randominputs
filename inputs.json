@@ -16,13 +16,13 @@
   },
   {
     "source": "hn",
-    "url": "https://popflame.quickish.space/hn-flipboard/",
-    "title": "Show HN: Hacker News on a train station-style flip board"
+    "url": "https://fusion-lang.org/",
+    "title": "Fusion Programming Language"
   },
   {
     "source": "hn",
-    "url": "https://fusion-lang.org/",
-    "title": "Fusion Programming Language"
+    "url": "https://popflame.quickish.space/hn-flipboard/",
+    "title": "Show HN: Hacker News on a train station-style flip board"
   },
   {
     "source": "hn",
@@ -31,28 +31,23 @@
   },
   {
     "source": "hn",
-    "url": "https://nerocam.com/scc_tap.asp",
-    "title": "SCC Technical Assistance Program"
-  },
-  {
-    "source": "hn",
-    "url": "https://news.mccombs.utexas.edu/research/foreign-funds-help-make-housing-unaffordable/",
-    "title": "Foreign funds help make housing unaffordable: research"
-  },
-  {
-    "source": "hn",
     "url": "https://grack.com/blog/2026/06/25/dissecting-a-failed-nation-state-attack/",
     "title": "Anatomy of a Failed (Nation-State?) Attack"
   },
   {
     "source": "hn",
-    "url": "https://daringfireball.net/2026/06/om",
-    "title": "Om"
+    "url": "https://nerocam.com/scc_tap.asp",
+    "title": "SCC Technical Assistance Program"
   },
   {
     "source": "hn",
     "url": "https://lovable.dev/blog/building-apps-using-tanstack-start",
     "title": "Building apps using TanStack Start"
+  },
+  {
+    "source": "hn",
+    "url": "https://daringfireball.net/2026/06/om",
+    "title": "Om"
   },
   {
     "source": "hn",
@@ -66,13 +61,8 @@
   },
   {
     "source": "hn",
-    "url": "https://www.foster77.co.uk/Foster,%20Scottish%20Mathematical%20Council%20Journal,%20Making%20sense%20of%20proof%20by%20contradiction.pdf",
-    "title": "Making Sense of Proof by Contradiction [pdf]"
-  },
-  {
-    "source": "hn",
-    "url": "https://hightouch.com/careers#open-positions",
-    "title": "Hightouch (YC S19) Is Hiring"
+    "url": "https://news.mccombs.utexas.edu/research/foreign-funds-help-make-housing-unaffordable/",
+    "title": "Foreign funds help make housing unaffordable: research"
   },
   {
     "source": "hn",
@@ -81,8 +71,8 @@
   },
   {
     "source": "hn",
-    "url": "https://healeycodes.com/a-tiny-compiler-for-data-parallel-kernels",
-    "title": "A Tiny Compiler for Data-Parallel Kernels"
+    "url": "https://hightouch.com/careers#open-positions",
+    "title": "Hightouch (YC S19) Is Hiring"
   },
   {
     "source": "hn",
@@ -91,8 +81,13 @@
   },
   {
     "source": "hn",
-    "url": "https://ngrok.com/blog/aol-was-down-1996",
-    "title": "A human postmortem of the 1996 AOL outage"
+    "url": "https://healeycodes.com/a-tiny-compiler-for-data-parallel-kernels",
+    "title": "A Tiny Compiler for Data-Parallel Kernels"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.foster77.co.uk/Foster,%20Scottish%20Mathematical%20Council%20Journal,%20Making%20sense%20of%20proof%20by%20contradiction.pdf",
+    "title": "Making Sense of Proof by Contradiction [pdf]"
   },
   {
     "source": "lobsters",
@@ -111,13 +106,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://devenv.sh/blog/2026/06/26/making-devenv-start-fast-and-the-whole-nixpkgs-with-it/",
-    "title": "Making devenv start fast, and the whole nixpkgs with it - devenv"
+    "url": "https://ratfactor.com/cards/text-files-as-ui",
+    "title": "Text files as a user interface"
   },
   {
     "source": "lobsters",
-    "url": "https://ratfactor.com/cards/text-files-as-ui",
-    "title": "Text files as a user interface"
+    "url": "https://devenv.sh/blog/2026/06/26/making-devenv-start-fast-and-the-whole-nixpkgs-with-it/",
+    "title": "Making devenv start fast, and the whole nixpkgs with it - devenv"
   },
   {
     "source": "lobsters",
@@ -126,13 +121,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://en.wikipedia.org/wiki/L-system",
-    "title": "L-system"
+    "url": "https://worldcup.reeseric.ci",
+    "title": "FIFA Interactive Bracket (World Cup)"
   },
   {
     "source": "lobsters",
-    "url": "https://www.augusteo.com/blog/how-pgbouncer-works/",
-    "title": "How PgBouncer Works"
+    "url": "https://en.wikipedia.org/wiki/L-system",
+    "title": "L-system"
   },
   {
     "source": "lobsters",
@@ -141,23 +136,23 @@
   },
   {
     "source": "lobsters",
+    "url": "https://www.augusteo.com/blog/how-pgbouncer-works/",
+    "title": "How PgBouncer Works"
+  },
+  {
+    "source": "lobsters",
     "url": "https://ziglang.org/devlog/2026/#2026-06-26",
     "title": "SPIR-V Backend Progress"
   },
   {
     "source": "lobsters",
-    "url": "https://yeokhengmeng.com/2026/06/swift-on-apple-ii/",
-    "title": "Bringing Swift to the Apple II"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://chrismorgan.info/font-family",
-    "title": "font-family recommendations"
-  },
-  {
-    "source": "lobsters",
     "url": "https://www.blog.akhil.cc/type-inference-part-1",
     "title": "Type Inference (Part 1)"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://yeokhengmeng.com/2026/06/swift-on-apple-ii/",
+    "title": "Bringing Swift to the Apple II"
   },
   {
     "source": "pinboard",
