@@ -1,13 +1,13 @@
 [
   {
     "source": "hn",
-    "url": "https://www.openttd.org/news/2026/06/25/openttd-16-0-beta1",
-    "title": "OpenTTD 16.0-Beta1"
+    "url": "https://www.sfwriter.com/wordstar.htm",
+    "title": "WordStar: A Writer's Word Processor (1996)"
   },
   {
     "source": "hn",
-    "url": "https://www.sfwriter.com/wordstar.htm",
-    "title": "WordStar: A Writer's Word Processor (1996)"
+    "url": "https://www.openttd.org/news/2026/06/25/openttd-16-0-beta1",
+    "title": "OpenTTD 16.0-Beta1"
   },
   {
     "source": "hn",
@@ -21,18 +21,8 @@
   },
   {
     "source": "hn",
-    "url": "https://popflame.quickish.space/hn-flipboard/",
-    "title": "Show HN: Hacker News on a train station-style flip board"
-  },
-  {
-    "source": "hn",
     "url": "https://kirill.korins.ky/articles/hellishly-slow-level-13-deflate-compression/",
     "title": "Hellishly Slow Level 13 Deflate Compression"
-  },
-  {
-    "source": "hn",
-    "url": "https://grack.com/blog/2026/06/25/dissecting-a-failed-nation-state-attack/",
-    "title": "Anatomy of a Failed (Nation-State?) Attack"
   },
   {
     "source": "hn",
@@ -41,8 +31,8 @@
   },
   {
     "source": "hn",
-    "url": "https://lovable.dev/blog/building-apps-using-tanstack-start",
-    "title": "Building apps using TanStack Start"
+    "url": "https://popflame.quickish.space/hn-flipboard/",
+    "title": "Show HN: Hacker News on a train station-style flip board"
   },
   {
     "source": "hn",
@@ -51,8 +41,13 @@
   },
   {
     "source": "hn",
-    "url": "https://blog.doubleword.ai/frontier-os-llm",
-    "title": "The gap between open weights LLMs and closed source LLMs"
+    "url": "https://news.mccombs.utexas.edu/research/foreign-funds-help-make-housing-unaffordable/",
+    "title": "Foreign funds help make housing unaffordable: research"
+  },
+  {
+    "source": "hn",
+    "url": "https://grack.com/blog/2026/06/25/dissecting-a-failed-nation-state-attack/",
+    "title": "Anatomy of a Failed (Nation-State?) Attack"
   },
   {
     "source": "hn",
@@ -61,8 +56,8 @@
   },
   {
     "source": "hn",
-    "url": "https://news.mccombs.utexas.edu/research/foreign-funds-help-make-housing-unaffordable/",
-    "title": "Foreign funds help make housing unaffordable: research"
+    "url": "https://blog.doubleword.ai/frontier-os-llm",
+    "title": "The gap between open weights LLMs and closed source LLMs"
   },
   {
     "source": "hn",
@@ -71,13 +66,13 @@
   },
   {
     "source": "hn",
-    "url": "https://hightouch.com/careers#open-positions",
-    "title": "Hightouch (YC S19) Is Hiring"
+    "url": "https://acoup.blog/2026/06/26/collections-pre-modern-armies-for-worldbuilders-part-iii-paying-for-it/",
+    "title": "Pre-Modern Armies for Worldbuilders, Part III: Paying for It"
   },
   {
     "source": "hn",
-    "url": "https://acoup.blog/2026/06/26/collections-pre-modern-armies-for-worldbuilders-part-iii-paying-for-it/",
-    "title": "Pre-Modern Armies for Worldbuilders, Part III: Paying for It"
+    "url": "https://hightouch.com/careers#open-positions",
+    "title": "Hightouch (YC S19) Is Hiring"
   },
   {
     "source": "hn",
@@ -91,23 +86,13 @@
   },
   {
     "source": "lobsters",
+    "url": "https://worldcup.reeseric.ci",
+    "title": "FIFA Interactive Bracket (World Cup)"
+  },
+  {
+    "source": "lobsters",
     "url": "https://stonetools.ghost.io/visualbasic-win31/",
     "title": "Visual Basic on the PC w/Windows 3.1"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://ebellani.github.io/blog/2026/all-you-need-is-postgresql/",
-    "title": "All you need is PostgreSQL"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://fzakaria.com/2026/06/25/guixpkgs-every-guix-package-as-a-nix-flake",
-    "title": "GuixPkgs: every Guix package, as a Nix flake"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://ratfactor.com/cards/text-files-as-ui",
-    "title": "Text files as a user interface"
   },
   {
     "source": "lobsters",
@@ -116,18 +101,33 @@
   },
   {
     "source": "lobsters",
+    "url": "https://ebellani.github.io/blog/2026/all-you-need-is-postgresql/",
+    "title": "All you need is PostgreSQL"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://ratfactor.com/cards/text-files-as-ui",
+    "title": "Text files as a user interface"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://fzakaria.com/2026/06/25/guixpkgs-every-guix-package-as-a-nix-flake",
+    "title": "GuixPkgs: every Guix package, as a Nix flake"
+  },
+  {
+    "source": "lobsters",
     "url": "https://nesbitt.io/2026/06/26/incident-report-cve-2026-lgtm.html",
     "title": "Incident Report: CVE-2026-LGTM"
   },
   {
     "source": "lobsters",
-    "url": "https://worldcup.reeseric.ci",
-    "title": "FIFA Interactive Bracket (World Cup)"
+    "url": "https://en.wikipedia.org/wiki/L-system",
+    "title": "L-system"
   },
   {
     "source": "lobsters",
-    "url": "https://en.wikipedia.org/wiki/L-system",
-    "title": "L-system"
+    "url": "https://openzl.org/",
+    "title": "OpenZL"
   },
   {
     "source": "lobsters",
@@ -141,18 +141,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://ziglang.org/devlog/2026/#2026-06-26",
-    "title": "SPIR-V Backend Progress"
+    "url": "https://www.ufried.com/blog/essence_of_architecture_3",
+    "title": "The essence of architectural work - Part 3"
   },
   {
     "source": "lobsters",
     "url": "https://www.blog.akhil.cc/type-inference-part-1",
     "title": "Type Inference (Part 1)"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://yeokhengmeng.com/2026/06/swift-on-apple-ii/",
-    "title": "Bringing Swift to the Apple II"
   },
   {
     "source": "pinboard",
