@@ -21,13 +21,18 @@
   },
   {
     "source": "hn",
-    "url": "https://kirill.korins.ky/articles/hellishly-slow-level-13-deflate-compression/",
-    "title": "Hellishly Slow Level 13 Deflate Compression"
+    "url": "https://howtotestfrontend.com/courses/jest-vitest-fundamentals",
+    "title": "Jest/Vitest interactive course (runs in the browser)"
   },
   {
     "source": "hn",
-    "url": "https://nerocam.com/scc_tap.asp",
-    "title": "SCC Technical Assistance Program"
+    "url": "https://www.beercss.com",
+    "title": "Beer CSS – Build material design in record time"
+  },
+  {
+    "source": "hn",
+    "url": "https://kirill.korins.ky/articles/hellishly-slow-level-13-deflate-compression/",
+    "title": "Hellishly Slow Level 13 Deflate Compression"
   },
   {
     "source": "hn",
@@ -36,8 +41,8 @@
   },
   {
     "source": "hn",
-    "url": "https://daringfireball.net/2026/06/om",
-    "title": "Om"
+    "url": "https://grack.com/blog/2026/06/25/dissecting-a-failed-nation-state-attack/",
+    "title": "Anatomy of a Failed (Nation-State?) Attack"
   },
   {
     "source": "hn",
@@ -46,8 +51,8 @@
   },
   {
     "source": "hn",
-    "url": "https://grack.com/blog/2026/06/25/dissecting-a-failed-nation-state-attack/",
-    "title": "Anatomy of a Failed (Nation-State?) Attack"
+    "url": "https://daringfireball.net/2026/06/om",
+    "title": "Om"
   },
   {
     "source": "hn",
@@ -56,18 +61,13 @@
   },
   {
     "source": "hn",
+    "url": "https://nerocam.com/scc_tap.asp",
+    "title": "SCC Technical Assistance Program"
+  },
+  {
+    "source": "hn",
     "url": "https://blog.doubleword.ai/frontier-os-llm",
     "title": "The gap between open weights LLMs and closed source LLMs"
-  },
-  {
-    "source": "hn",
-    "url": "https://lefakkomies.github.io/pynomo-doc/introduction/introduction.html#what-is-a-nomogram-and-why-would-it-interest-me",
-    "title": "What Is a Nomogram and Why Would It Interest Me?"
-  },
-  {
-    "source": "hn",
-    "url": "https://acoup.blog/2026/06/26/collections-pre-modern-armies-for-worldbuilders-part-iii-paying-for-it/",
-    "title": "Pre-Modern Armies for Worldbuilders, Part III: Paying for It"
   },
   {
     "source": "hn",
@@ -76,13 +76,8 @@
   },
   {
     "source": "hn",
-    "url": "https://healeycodes.com/a-tiny-compiler-for-data-parallel-kernels",
-    "title": "A Tiny Compiler for Data-Parallel Kernels"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.foster77.co.uk/Foster,%20Scottish%20Mathematical%20Council%20Journal,%20Making%20sense%20of%20proof%20by%20contradiction.pdf",
-    "title": "Making Sense of Proof by Contradiction [pdf]"
+    "url": "https://lefakkomies.github.io/pynomo-doc/introduction/introduction.html#what-is-a-nomogram-and-why-would-it-interest-me",
+    "title": "What Is a Nomogram and Why Would It Interest Me?"
   },
   {
     "source": "lobsters",
@@ -96,6 +91,11 @@
   },
   {
     "source": "lobsters",
+    "url": "https://ratfactor.com/cards/text-files-as-ui",
+    "title": "Text files as a user interface"
+  },
+  {
+    "source": "lobsters",
     "url": "https://devenv.sh/blog/2026/06/26/making-devenv-start-fast-and-the-whole-nixpkgs-with-it/",
     "title": "Making devenv start fast, and the whole nixpkgs with it - devenv"
   },
@@ -106,13 +106,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://ratfactor.com/cards/text-files-as-ui",
-    "title": "Text files as a user interface"
+    "url": "https://fzakaria.com/2026/06/25/guixpkgs-every-guix-package-as-a-nix-flake",
+    "title": "GuixPkgs: every Guix package, as a Nix flake"
   },
   {
     "source": "lobsters",
-    "url": "https://fzakaria.com/2026/06/25/guixpkgs-every-guix-package-as-a-nix-flake",
-    "title": "GuixPkgs: every Guix package, as a Nix flake"
+    "url": "https://openzl.org/",
+    "title": "OpenZL"
   },
   {
     "source": "lobsters",
@@ -126,8 +126,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://openzl.org/",
-    "title": "OpenZL"
+    "url": "https://www.augusteo.com/blog/how-pgbouncer-works/",
+    "title": "How PgBouncer Works"
   },
   {
     "source": "lobsters",
@@ -136,8 +136,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://www.augusteo.com/blog/how-pgbouncer-works/",
-    "title": "How PgBouncer Works"
+    "url": "https://healeycodes.com/a-tiny-compiler-for-data-parallel-kernels",
+    "title": "A Tiny Compiler for Data-Parallel Kernels"
   },
   {
     "source": "lobsters",
