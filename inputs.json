@@ -6,8 +6,8 @@
   },
   {
     "source": "hn",
-    "url": "https://danluu.com/discontinuities/",
-    "title": "Suspicious Discontinuities (2020)"
+    "url": "https://cauenapier.com/blog/townsquare_release/",
+    "title": "Turn your site into a place people can bump into each other"
   },
   {
     "source": "hn",
@@ -16,8 +16,18 @@
   },
   {
     "source": "hn",
+    "url": "https://danluu.com/discontinuities/",
+    "title": "Suspicious Discontinuities (2020)"
+  },
+  {
+    "source": "hn",
     "url": "https://pluralistic.net/2026/06/27/zuckerstreisand-2/",
     "title": "Zuckerberg's Increasingly Bizarre War on Whistleblowers"
+  },
+  {
+    "source": "hn",
+    "url": "https://dervis.de/physical/",
+    "title": "If you can't hold it, you don't own it"
   },
   {
     "source": "hn",
@@ -26,8 +36,8 @@
   },
   {
     "source": "hn",
-    "url": "https://dervis.de/physical/",
-    "title": "If you can't hold it, you don't own it"
+    "url": "https://pudding.cool/2026/06/menu-story/",
+    "title": "A History of Menus Is a Menu of History"
   },
   {
     "source": "hn",
@@ -46,23 +56,13 @@
   },
   {
     "source": "hn",
-    "url": "https://en.wikipedia.org/wiki/Underarm_bowling_incident_of_1981",
-    "title": "Underarm Bowling Incident of 1981"
-  },
-  {
-    "source": "hn",
-    "url": "https://grack.com/blog/2026/06/25/dissecting-a-failed-nation-state-attack/",
-    "title": "Anatomy of a Failed (Nation-State?) Attack"
+    "url": "https://revise.io/blog/06-27-2026/no-i-swear-i-wrote-this",
+    "title": "\"No, I swear I wrote this.\""
   },
   {
     "source": "hn",
     "url": "https://blog.khinsen.net/posts/2026/06/25/cultures.html",
     "title": "Cultures of Making and Relating"
-  },
-  {
-    "source": "hn",
-    "url": "https://howtotestfrontend.com/courses/jest-vitest-fundamentals",
-    "title": "Jest/Vitest interactive course (runs in the browser)"
   },
   {
     "source": "lobsters",
@@ -96,6 +96,11 @@
   },
   {
     "source": "lobsters",
+    "url": "https://grack.com/blog/2026/06/25/dissecting-a-failed-nation-state-attack/",
+    "title": "Anatomy of a Failed (Nation-State?) Attack"
+  },
+  {
+    "source": "lobsters",
     "url": "https://stonetools.ghost.io/visualbasic-win31/",
     "title": "Visual Basic on the PC w/Windows 3.1"
   },
@@ -118,10 +123,5 @@
     "source": "lobsters",
     "url": "https://fzakaria.com/2026/06/25/guixpkgs-every-guix-package-as-a-nix-flake",
     "title": "GuixPkgs: every Guix package, as a Nix flake"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://healeycodes.com/a-tiny-compiler-for-data-parallel-kernels",
-    "title": "A Tiny Compiler for Data-Parallel Kernels"
   }
 ]
