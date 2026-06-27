@@ -6,18 +6,13 @@
   },
   {
     "source": "hn",
+    "url": "https://danluu.com/discontinuities/",
+    "title": "Suspicious Discontinuities (2020)"
+  },
+  {
+    "source": "hn",
     "url": "https://w.pitula.me/fintech-engineering-handbook/",
     "title": "Fintech Engineering Handbook"
-  },
-  {
-    "source": "hn",
-    "url": "https://danluu.com/discontinuities/",
-    "title": "Suspicious Discontinuities"
-  },
-  {
-    "source": "hn",
-    "url": "https://dervis.de/physical/",
-    "title": "If you can't hold it, you don't own it"
   },
   {
     "source": "hn",
@@ -31,13 +26,8 @@
   },
   {
     "source": "hn",
-    "url": "https://en.wikipedia.org/wiki/Underarm_bowling_incident_of_1981",
-    "title": "Underarm Bowling Incident of 1981"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.beercss.com",
-    "title": "Beer CSS – Build material design in record time"
+    "url": "https://dervis.de/physical/",
+    "title": "If you can't hold it, you don't own it"
   },
   {
     "source": "hn",
@@ -46,13 +36,18 @@
   },
   {
     "source": "hn",
+    "url": "https://www.beercss.com",
+    "title": "Beer CSS – Build material design in record time"
+  },
+  {
+    "source": "hn",
     "url": "https://www.sfwriter.com/wordstar.htm",
     "title": "WordStar: A Writer's Word Processor (1996)"
   },
   {
     "source": "hn",
-    "url": "https://blog.khinsen.net/posts/2026/06/25/cultures.html",
-    "title": "Cultures of Making and Relating"
+    "url": "https://en.wikipedia.org/wiki/Underarm_bowling_incident_of_1981",
+    "title": "Underarm Bowling Incident of 1981"
   },
   {
     "source": "hn",
@@ -61,13 +56,13 @@
   },
   {
     "source": "hn",
-    "url": "https://howtotestfrontend.com/courses/jest-vitest-fundamentals",
-    "title": "Jest/Vitest interactive course (runs in the browser)"
+    "url": "https://blog.khinsen.net/posts/2026/06/25/cultures.html",
+    "title": "Cultures of Making and Relating"
   },
   {
     "source": "hn",
-    "url": "https://blog.doubleword.ai/frontier-os-llm",
-    "title": "The gap between open weights LLMs and closed source LLMs"
+    "url": "https://howtotestfrontend.com/courses/jest-vitest-fundamentals",
+    "title": "Jest/Vitest interactive course (runs in the browser)"
   },
   {
     "source": "lobsters",
@@ -91,13 +86,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://ratfactor.com/cards/text-files-as-ui",
-    "title": "Text files as a user interface"
+    "url": "https://strebkov.dev/posts/shard-your-locks/",
+    "title": "Shard your locks: benchmarking 6 Go cache designs"
   },
   {
     "source": "lobsters",
-    "url": "https://strebkov.dev/posts/shard-your-locks/",
-    "title": "Shard your locks: benchmarking 6 Go cache designs"
+    "url": "https://ratfactor.com/cards/text-files-as-ui",
+    "title": "Text files as a user interface"
   },
   {
     "source": "lobsters",
