@@ -1,5 +1,75 @@
 [
   {
+    "source": "hn",
+    "url": "https://decomp-academy.dev",
+    "title": "Show HN: Decomp Academy – Learn to decompile GameCube games into matching C"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.openra.net/",
+    "title": "OpenRA"
+  },
+  {
+    "source": "hn",
+    "url": "https://magnusross.github.io/posts/reflecting-to-optimise/",
+    "title": "Reflecting to optimise"
+  },
+  {
+    "source": "hn",
+    "url": "https://shapeofthesystem.com/posts/2026/02/03/bounded-cognition",
+    "title": "Engineering for Bounded Cognition"
+  },
+  {
+    "source": "hn",
+    "url": "https://w.pitula.me/fintech-engineering-handbook/",
+    "title": "Fintech Engineering Handbook"
+  },
+  {
+    "source": "hn",
+    "url": "https://nikkei.shorthandstories.com/can-china-build-its-own-asml/",
+    "title": "Can China build its own ASML?"
+  },
+  {
+    "source": "hn",
+    "url": "https://cauenapier.com/blog/townsquare_release/",
+    "title": "Turn your site into a place people can bump into each other"
+  },
+  {
+    "source": "hn",
+    "url": "https://dervis.de/physical/",
+    "title": "The case for physical media ownership"
+  },
+  {
+    "source": "hn",
+    "url": "https://the.scapegoat.dev/turning-music-into-a-chore-is-what-made-me-an-artist/",
+    "title": "Turning music into a chore is how I became a musician (2022)"
+  },
+  {
+    "source": "hn",
+    "url": "https://dobrowolski.dev/article/enhancing-x11-application-security-with-lxc/",
+    "title": "Enhancing X11 Application Security with LXC (2025)"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.thedrive.com/news/feds-killed-polestar-and-spared-volvo-that-should-terrify-you",
+    "title": "Feds Killed Polestar and Spared Volvo"
+  },
+  {
+    "source": "hn",
+    "url": "https://danluu.com/discontinuities/",
+    "title": "Suspicious Discontinuities (2020)"
+  },
+  {
+    "source": "hn",
+    "url": "https://jayacunzo.com/blog/your-move-chief",
+    "title": "The best response to AI slop and online noise is from Robin Williams"
+  },
+  {
+    "source": "hn",
+    "url": "https://knob.monster/how-do-you-keep-web-midi-from-crashing-a-1983-synthesizer",
+    "title": "How do you keep Web MIDI from crashing a 1983 synthesizer?"
+  },
+  {
     "source": "lobsters",
     "url": "https://lyra.horse/blog/2026/06/reddit-spam-internals/",
     "title": "A peek into Reddit's anti-spam internals"
@@ -16,18 +86,23 @@
   },
   {
     "source": "lobsters",
+    "url": "https://blog.einval.com/2026/06/27#its_dead_jim",
+    "title": "It's dead, Jim! (UEFI CA expiry)"
+  },
+  {
+    "source": "lobsters",
     "url": "http://occ.sdf.org/",
     "title": "The Old Computer Challenge"
   },
   {
     "source": "lobsters",
-    "url": "https://worldcup.reeseric.ci",
-    "title": "FIFA Interactive Bracket (World Cup)"
+    "url": "https://makerspet.com/blog/building-an-open-source-robot-vacuum-meet-oomwoo/",
+    "title": "Building an Open-Source Robot Vacuum — Meet oomwoo"
   },
   {
     "source": "lobsters",
-    "url": "https://blog.einval.com/2026/06/27#its_dead_jim",
-    "title": "It's dead, Jim! (UEFI CA expiry)"
+    "url": "https://worldcup.reeseric.ci",
+    "title": "FIFA Interactive Bracket (World Cup)"
   },
   {
     "source": "lobsters",
@@ -56,23 +131,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://makerspet.com/blog/building-an-open-source-robot-vacuum-meet-oomwoo/",
-    "title": "Building an Open-Source Robot Vacuum — Meet oomwoo"
-  },
-  {
-    "source": "lobsters",
     "url": "https://grack.com/blog/2026/06/25/dissecting-a-failed-nation-state-attack/",
     "title": "Anatomy of a Failed (Nation-State?) Attack"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://stonetools.ghost.io/visualbasic-win31/",
-    "title": "Visual Basic on the PC w/Windows 3.1"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://w.pitula.me/fintech-engineering-handbook/",
-    "title": "Fintech Engineering Handbook"
   },
   {
     "source": "pinboard",
