@@ -6,13 +6,8 @@
   },
   {
     "source": "hn",
-    "url": "http://oldvcr.blogspot.com/2026/06/working-around-dragons-with-lemote.html",
-    "title": "Working around dragons with the Lemote Yeeloong laptop and OpenBSD"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.openculture.com/2020/10/daisugi.html",
-    "title": "Daisugi, the Japanese technique of growing trees out of other trees (2020)"
+    "url": "https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks/",
+    "title": "Semgrep: GLM 5.2 beats Claude in our Cyber Benchmarks"
   },
   {
     "source": "hn",
@@ -21,18 +16,8 @@
   },
   {
     "source": "hn",
-    "url": "https://www.righto.com/2026/06/space-shuttle-io-processor-boards.html",
-    "title": "Examining circuit boards from the Space Shuttle's I/O Processor"
-  },
-  {
-    "source": "hn",
-    "url": "https://frequal.com/Perspectives/DrmFreeAuthors.html",
-    "title": "Show HN: DRM-Free Books"
-  },
-  {
-    "source": "hn",
-    "url": "https://aresluna.org/the-curious-case-of-the-disappearing-polish-s/",
-    "title": "The curious case of the disappearing Polish S (2015)"
+    "url": "http://oldvcr.blogspot.com/2026/06/working-around-dragons-with-lemote.html",
+    "title": "Working around dragons with the Lemote Yeeloong laptop and OpenBSD"
   },
   {
     "source": "hn",
@@ -41,8 +26,38 @@
   },
   {
     "source": "hn",
+    "url": "https://dam.stanford.edu/memory-prices.html",
+    "title": "Historical memory prices 1960-2026"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.righto.com/2026/06/space-shuttle-io-processor-boards.html",
+    "title": "Examining circuit boards from the Space Shuttle's I/O Processor"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.openculture.com/2020/10/daisugi.html",
+    "title": "Daisugi, the Japanese technique of growing trees out of other trees (2020)"
+  },
+  {
+    "source": "hn",
+    "url": "https://aresluna.org/the-curious-case-of-the-disappearing-polish-s/",
+    "title": "The curious case of the disappearing Polish S (2015)"
+  },
+  {
+    "source": "hn",
+    "url": "https://frequal.com/Perspectives/DrmFreeAuthors.html",
+    "title": "Show HN: DRM-Free Books"
+  },
+  {
+    "source": "hn",
     "url": "https://www.patrick-breyer.de/en/double-threat-to-private-communications-undemocratic-chat-control-backroom-deals-and-imminent-concessions-spark-relaunch-of-fightchatcontrol-eu/",
     "title": "EU to legislate about Chat Control behind closed doors"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.pcmag.com/opinions/the-us-used-to-demand-the-best-tech-now-we-ban-it",
+    "title": "The US Used to Demand the Best Tech. Now We Ban It"
   },
   {
     "source": "hn",
@@ -55,49 +70,9 @@
     "title": "Linux Kills Strncpy"
   },
   {
-    "source": "hn",
-    "url": "https://dam.stanford.edu/memory-prices.html",
-    "title": "Historical memory prices 1960-2026"
-  },
-  {
-    "source": "hn",
-    "url": "https://adiamond.me/2026/06/software-engineering-in-the-age-of-ai/",
-    "title": "Reflections on software engineering in the age of AI"
-  },
-  {
-    "source": "hn",
-    "url": "https://keremcosar.uvacreate.virginia.edu/publications/BCCH-BronzeAgeTrade-qje.pdf",
-    "title": "Trade, merchants, and the lost cities of the Bronze Age (2019) [pdf]"
-  },
-  {
-    "source": "hn",
-    "url": "https://papersplease.org/wp/2026/06/27/california-legislature-agrees-to-upload-drivers-licenses-to-national-database/",
-    "title": "California legislature agrees to upload driver's licenses to national database"
-  },
-  {
-    "source": "hn",
-    "url": "https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks/",
-    "title": "Semgrep: GLM 5.2 beats Claude in our Cyber Benchmarks"
-  },
-  {
-    "source": "hn",
-    "url": "https://devz.cl/posts/do-babies-dream-of-electric-sheep/",
-    "title": "Do Babies Dream of Baby Sheep?"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.jonashietala.se/blog/2026/06/26/designing_a_personal_pebble_watchface/",
-    "title": "Designing a Personal Pebble Watchface"
-  },
-  {
     "source": "lobsters",
     "url": "https://gracefulliberty.com/articles/towards-understandable-software/",
     "title": "Towards Understandable Software"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://lyra.horse/blog/2026/06/reddit-spam-internals/",
-    "title": "A peek into Reddit's anti-spam internals"
   },
   {
     "source": "lobsters",
@@ -106,8 +81,18 @@
   },
   {
     "source": "lobsters",
+    "url": "https://lyra.horse/blog/2026/06/reddit-spam-internals/",
+    "title": "A peek into Reddit's anti-spam internals"
+  },
+  {
+    "source": "lobsters",
     "url": "https://blog.weineng.me/posts/slowest_add/",
     "title": "Data Access Patterns That Makes Your CPU Really Angry"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://www.stephendiehl.com/posts/prism/",
+    "title": "Prism: An Impure Functional Language With Typed Effects"
   },
   {
     "source": "lobsters",
@@ -117,12 +102,12 @@
   {
     "source": "lobsters",
     "url": "https://www.cl.cam.ac.uk/~nk480/parsing.pdf",
-    "title": "A Typed, Algebraic Approach to Parsing"
+    "title": "A Typed, Algebraic Approach to Parsing (2019)"
   },
   {
     "source": "lobsters",
-    "url": "https://www.stephendiehl.com/posts/prism/",
-    "title": "Prism: An Impure Functional Language With Typed Effects"
+    "url": "http://www.righto.com/2026/06/space-shuttle-io-processor-boards.html",
+    "title": "Examining circuit boards from the Space Shuttle's I/O Processor"
   },
   {
     "source": "lobsters",
@@ -141,8 +126,8 @@
   },
   {
     "source": "lobsters",
-    "url": "http://www.righto.com/2026/06/space-shuttle-io-processor-boards.html",
-    "title": "Examining circuit boards from the Space Shuttle's I/O Processor"
+    "url": "https://mikehowells.com/2026/06/21/the-curious-case-of-aa-ns-charter-com/",
+    "title": "The Curious Case of aa.ns.charter.com"
   },
   {
     "source": "lobsters",
@@ -151,7 +136,7 @@
   },
   {
     "source": "lobsters",
-    "url": "https://mikehowells.com/2026/06/21/the-curious-case-of-aa-ns-charter-com/",
-    "title": "The Curious Case of aa.ns.charter.com"
+    "url": "https://stonetools.ghost.io/hypercard-mac/",
+    "title": "HyperCard on the Macintosh"
   }
 ]
