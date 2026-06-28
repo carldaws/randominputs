@@ -6,13 +6,18 @@
   },
   {
     "source": "hn",
-    "url": "https://www.openculture.com/2020/10/daisugi.html",
-    "title": "Daisugi the Japanese Technique of Trees Out of Trees, Making Exact Straight Wood (2020)"
+    "url": "http://oldvcr.blogspot.com/2026/06/working-around-dragons-with-lemote.html",
+    "title": "Working around dragons with the Lemote Yeeloong laptop and OpenBSD"
   },
   {
     "source": "hn",
-    "url": "http://oldvcr.blogspot.com/2026/06/working-around-dragons-with-lemote.html",
-    "title": "Working around dragons with the Lemote Yeeloong laptop and OpenBSD"
+    "url": "https://adiamond.me/2026/06/software-engineering-in-the-age-of-ai/",
+    "title": "Reflections on Software Engineering in the Age of AI"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.openculture.com/2020/10/daisugi.html",
+    "title": "Daisugi, the Japanese technique of growing trees out of other trees (2020)"
   },
   {
     "source": "hn",
@@ -21,8 +26,23 @@
   },
   {
     "source": "hn",
+    "url": "https://www.theatlantic.com/magazine/2026/07/boeing-747-retirement/687304/",
+    "title": "The Boeing 747 Begins Its Final Descent"
+  },
+  {
+    "source": "hn",
     "url": "https://aresluna.org/the-curious-case-of-the-disappearing-polish-s/",
     "title": "The curious case of the disappearing Polish S (2015)"
+  },
+  {
+    "source": "hn",
+    "url": "https://frequal.com/Perspectives/DrmFreeAuthors.html",
+    "title": "Show HN: DRM-Free Books"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.cbsnews.com/detroit/news/workplace-boundaries-act-employees-after-hours/",
+    "title": "Michigan bill would bar employers from requiring after-hours coms with workers"
   },
   {
     "source": "hn",
@@ -31,8 +51,8 @@
   },
   {
     "source": "hn",
-    "url": "https://www.cbsnews.com/detroit/news/workplace-boundaries-act-employees-after-hours/",
-    "title": "Michigan bill would bar employers from requiring after-hours coms with workers"
+    "url": "https://vickiboykis.com/2026/04/20/build-yourself-flowers/",
+    "title": "Build Yourself Flowers"
   },
   {
     "source": "hn",
@@ -46,28 +66,13 @@
   },
   {
     "source": "hn",
-    "url": "https://adiamond.me/2026/06/software-engineering-in-the-age-of-ai/",
-    "title": "Reflections on Software Engineering in the Age of AI"
-  },
-  {
-    "source": "hn",
     "url": "https://yeokhengmeng.com/2026/06/swift-on-apple-ii/",
     "title": "Bringing Swift to the Apple ]["
   },
   {
     "source": "hn",
-    "url": "https://www.theatlantic.com/magazine/2026/07/boeing-747-retirement/687304/",
-    "title": "The Boeing 747 Begins Its Final Descent"
-  },
-  {
-    "source": "hn",
     "url": "https://www.jonashietala.se/blog/2026/06/26/designing_a_personal_pebble_watchface/",
     "title": "Designing a Personal Pebble Watchface"
-  },
-  {
-    "source": "hn",
-    "url": "https://decomp-academy.dev",
-    "title": "Show HN: Decomp Academy – Learn to decompile GameCube games into matching C"
   },
   {
     "source": "lobsters",
@@ -76,13 +81,18 @@
   },
   {
     "source": "lobsters",
+    "url": "https://victoriametrics.com/blog/victorialogs-internals-columnar-storage-on-disk/",
+    "title": "How VictoriaLogs Stores Your Logs in a Columnar Layout"
+  },
+  {
+    "source": "lobsters",
     "url": "https://blog.weineng.me/posts/slowest_add/",
     "title": "Data Access Patterns That Makes Your CPU Really Angry"
   },
   {
     "source": "lobsters",
-    "url": "https://victoriametrics.com/blog/victorialogs-internals-columnar-storage-on-disk/",
-    "title": "How VictoriaLogs Stores Your Logs in a Columnar Layout"
+    "url": "https://gracefulliberty.com/articles/towards-understandable-software/",
+    "title": "Towards Understandable Software"
   },
   {
     "source": "lobsters",
@@ -96,8 +106,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://gracefulliberty.com/articles/towards-understandable-software/",
-    "title": "Towards Understandable Software"
+    "url": "https://www.cl.cam.ac.uk/~nk480/parsing.pdf",
+    "title": "A Typed, Algebraic Approach to Parsing"
   },
   {
     "source": "lobsters",
@@ -111,16 +121,6 @@
   },
   {
     "source": "lobsters",
-    "url": "https://www.cl.cam.ac.uk/~nk480/parsing.pdf",
-    "title": "A Typed, Algebraic Approach to Parsing"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://emacsconf.org/2026/cfp/",
-    "title": "Call for participation"
-  },
-  {
-    "source": "lobsters",
     "url": "https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks",
     "title": "We have Mythos at Home: GLM 5.2 beats Claude in our Cyber Benchmarks"
   },
@@ -131,7 +131,12 @@
   },
   {
     "source": "lobsters",
-    "url": "https://worldcup.reeseric.ci",
-    "title": "FIFA Interactive Bracket (World Cup)"
+    "url": "https://emacsconf.org/2026/cfp/",
+    "title": "Call for participation"
+  },
+  {
+    "source": "lobsters",
+    "url": "http://www.righto.com/2026/06/space-shuttle-io-processor-boards.html",
+    "title": "Examining circuit boards from the Space Shuttle's I/O Processor"
   }
 ]
