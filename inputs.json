@@ -11,13 +11,8 @@
   },
   {
     "source": "hn",
-    "url": "https://dobrowolski.dev/article/enhancing-x11-application-security-with-lxc/",
-    "title": "Enhancing X11 Application Security with LXC"
-  },
-  {
-    "source": "hn",
-    "url": "https://jayacunzo.com/blog/your-move-chief",
-    "title": "Response to AI slop is from Robin Williams"
+    "url": "https://thedailyeconomy.org/article/ancient-clay-tablets-show-markets-worked-4000-years-before-economists-explained-them/",
+    "title": "Ancient Tablets Show Markets Worked 4k Years Before Economists Explained Them"
   },
   {
     "source": "hn",
@@ -26,8 +21,8 @@
   },
   {
     "source": "hn",
-    "url": "https://dervis.de/physical/",
-    "title": "The case for physical media ownership"
+    "url": "https://dobrowolski.dev/article/enhancing-x11-application-security-with-lxc/",
+    "title": "Enhancing X11 Application Security with LXC"
   },
   {
     "source": "hn",
@@ -36,13 +31,8 @@
   },
   {
     "source": "hn",
-    "url": "https://danluu.com/discontinuities/",
-    "title": "Suspicious Discontinuities (2020)"
-  },
-  {
-    "source": "hn",
-    "url": "https://knob.monster/how-do-you-keep-web-midi-from-crashing-a-1983-synthesizer",
-    "title": "How do you keep Web MIDI from crashing a 1983 synthesizer?"
+    "url": "https://dervis.de/physical/",
+    "title": "The case for physical media ownership"
   },
   {
     "source": "hn",
@@ -51,13 +41,23 @@
   },
   {
     "source": "hn",
-    "url": "https://www.theregister.com/software/2026/06/26/one-man-two-kernels-and-a-lot-of-risc-v/5262858",
-    "title": "One man, two kernels, and a lot of RISC-V"
+    "url": "https://danluu.com/discontinuities/",
+    "title": "Suspicious Discontinuities (2020)"
   },
   {
     "source": "hn",
-    "url": "https://www.theatlantic.com/magazine/2026/08/writers-way-galapagos-charles-darwin-travel/687480/",
-    "title": "Paradise Revisited: What Darwin Saw in the Galápagos"
+    "url": "https://jayacunzo.com/blog/your-move-chief",
+    "title": "Response to AI slop is from Robin Williams"
+  },
+  {
+    "source": "hn",
+    "url": "https://shapeofthesystem.com/posts/2026/02/03/bounded-cognition",
+    "title": "The Shape of the System - Engineering for Bounded Cognition"
+  },
+  {
+    "source": "hn",
+    "url": "https://knob.monster/how-do-you-keep-web-midi-from-crashing-a-1983-synthesizer",
+    "title": "How do you keep Web MIDI from crashing a 1983 synthesizer?"
   },
   {
     "source": "lobsters",
@@ -76,18 +76,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://worldcup.reeseric.ci",
-    "title": "FIFA Interactive Bracket (World Cup)"
-  },
-  {
-    "source": "lobsters",
     "url": "http://occ.sdf.org/",
     "title": "The Old Computer Challenge"
   },
   {
     "source": "lobsters",
-    "url": "https://openzl.org/",
-    "title": "OpenZL"
+    "url": "https://worldcup.reeseric.ci",
+    "title": "FIFA Interactive Bracket (World Cup)"
   },
   {
     "source": "lobsters",
@@ -96,13 +91,28 @@
   },
   {
     "source": "lobsters",
-    "url": "https://ratfactor.com/cards/text-files-as-ui",
-    "title": "Text files as a user interface"
+    "url": "https://openzl.org/",
+    "title": "OpenZL"
   },
   {
     "source": "lobsters",
     "url": "https://blog.einval.com/2026/06/27#its_dead_jim",
     "title": "It's dead, Jim! (UEFI CA expiry)"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://ratfactor.com/cards/text-files-as-ui",
+    "title": "Text files as a user interface"
+  },
+  {
+    "source": "lobsters",
+    "url": "http://oldvcr.blogspot.com/2026/06/working-around-dragons-with-lemote.html",
+    "title": "Working around dragons with the Lemote Yeeloong laptop and OpenBSD"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://makerspet.com/blog/building-an-open-source-robot-vacuum-meet-oomwoo/",
+    "title": "Building an Open-Source Robot Vacuum — Meet oomwoo"
   },
   {
     "source": "lobsters",
