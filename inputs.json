@@ -1,6 +1,11 @@
 [
   {
     "source": "hn",
+    "url": "https://decomp-academy.dev",
+    "title": "Show HN: Decomp Academy – Learn to decompile GameCube games into matching C"
+  },
+  {
+    "source": "hn",
     "url": "https://www.openra.net/",
     "title": "OpenRA"
   },
@@ -8,6 +13,11 @@
     "source": "hn",
     "url": "https://dobrowolski.dev/article/enhancing-x11-application-security-with-lxc/",
     "title": "Enhancing X11 Application Security with LXC"
+  },
+  {
+    "source": "hn",
+    "url": "https://jayacunzo.com/blog/your-move-chief",
+    "title": "Response to AI slop is from Robin Williams"
   },
   {
     "source": "hn",
@@ -36,18 +46,8 @@
   },
   {
     "source": "hn",
-    "url": "https://www.theatlantic.com/magazine/2026/08/writers-way-galapagos-charles-darwin-travel/687480/",
-    "title": "Paradise Revisited: What Darwin Saw in the Galápagos"
-  },
-  {
-    "source": "hn",
-    "url": "https://starglyphs.com",
-    "title": "Show HN: Starglyphs - A constellation puzzle game based on Euler paths"
-  },
-  {
-    "source": "hn",
-    "url": "https://blog.jgc.org/2026/06/the-eerie-interface-of-man-and-machine.html",
-    "title": "The eerie interface of man and machine (Life Magazine, October 1967)"
+    "url": "https://www.thedrive.com/news/feds-killed-polestar-and-spared-volvo-that-should-terrify-you",
+    "title": "Feds Killed Polestar and Spared Volvo. That Should Terrify You"
   },
   {
     "source": "hn",
@@ -56,13 +56,8 @@
   },
   {
     "source": "hn",
-    "url": "https://pluralistic.net/2026/06/27/zuckerstreisand-2/",
-    "title": "Zuckerberg's war on whistleblowers"
-  },
-  {
-    "source": "hn",
-    "url": "https://foxmoss.com/blog/radish/",
-    "title": "Running a software jam in a world of slop"
+    "url": "https://www.theatlantic.com/magazine/2026/08/writers-way-galapagos-charles-darwin-travel/687480/",
+    "title": "Paradise Revisited: What Darwin Saw in the Galápagos"
   },
   {
     "source": "lobsters",
@@ -86,6 +81,11 @@
   },
   {
     "source": "lobsters",
+    "url": "http://occ.sdf.org/",
+    "title": "The Old Computer Challenge"
+  },
+  {
+    "source": "lobsters",
     "url": "https://openzl.org/",
     "title": "OpenZL"
   },
@@ -101,11 +101,6 @@
   },
   {
     "source": "lobsters",
-    "url": "http://occ.sdf.org/",
-    "title": "The Old Computer Challenge"
-  },
-  {
-    "source": "lobsters",
     "url": "https://blog.einval.com/2026/06/27#its_dead_jim",
     "title": "It's dead, Jim! (UEFI CA expiry)"
   },
@@ -118,10 +113,5 @@
     "source": "lobsters",
     "url": "https://stonetools.ghost.io/visualbasic-win31/",
     "title": "Visual Basic on the PC w/Windows 3.1"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://devenv.sh/blog/2026/06/26/making-devenv-start-fast-and-the-whole-nixpkgs-with-it/",
-    "title": "Making devenv start fast, and the whole nixpkgs with it - devenv"
   }
 ]
