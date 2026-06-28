@@ -1,13 +1,13 @@
 [
   {
     "source": "hn",
-    "url": "https://www.openra.net/",
-    "title": "OpenRA"
+    "url": "https://decomp-academy.dev",
+    "title": "Show HN: Decomp Academy – Learn to decompile GameCube games into matching C"
   },
   {
     "source": "hn",
-    "url": "https://decomp-academy.dev",
-    "title": "Show HN: Decomp Academy – Learn to decompile GameCube games into matching C"
+    "url": "https://yeokhengmeng.com/2026/06/swift-on-apple-ii/",
+    "title": "Bringing Swift to the Apple ]["
   },
   {
     "source": "hn",
@@ -16,33 +16,8 @@
   },
   {
     "source": "hn",
-    "url": "https://w.pitula.me/fintech-engineering-handbook/",
-    "title": "Fintech Engineering Handbook"
-  },
-  {
-    "source": "hn",
-    "url": "https://magnusross.github.io/posts/reflecting-to-optimise/",
-    "title": "Reflecting to optimise"
-  },
-  {
-    "source": "hn",
-    "url": "https://static.barik.net/barik/publications/chi2026/vaithilingam_celestial_chi26.pdf",
-    "title": "Instantiating UI Components with Distinguishing Variations [pdf]"
-  },
-  {
-    "source": "hn",
-    "url": "https://typographica.org/on-typography/jim-parkinson-1941-2025/",
-    "title": "From Hallmark to neon signs: A look at Jim Parkinson's career in letter art"
-  },
-  {
-    "source": "hn",
     "url": "https://cauenapier.com/blog/townsquare_release/",
     "title": "Turn your site into a place people can bump into each other"
-  },
-  {
-    "source": "hn",
-    "url": "https://dervis.de/physical/",
-    "title": "The case for physical media ownership"
   },
   {
     "source": "hn",
@@ -51,8 +26,18 @@
   },
   {
     "source": "hn",
-    "url": "https://jayacunzo.com/blog/your-move-chief",
-    "title": "The best response to AI slop and online noise is from Robin Williams"
+    "url": "https://typographica.org/on-typography/jim-parkinson-1941-2025/",
+    "title": "From Hallmark to neon signs: A look at Jim Parkinson's career in letter art"
+  },
+  {
+    "source": "hn",
+    "url": "https://dervis.de/physical/",
+    "title": "The case for physical media ownership"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.openra.net/",
+    "title": "OpenRA"
   },
   {
     "source": "hn",
@@ -61,13 +46,13 @@
   },
   {
     "source": "hn",
-    "url": "https://danluu.com/discontinuities/",
-    "title": "Suspicious Discontinuities (2020)"
+    "url": "https://jayacunzo.com/blog/your-move-chief",
+    "title": "The best response to AI slop and online noise is from Robin Williams"
   },
   {
     "source": "hn",
-    "url": "https://dobrowolski.dev/article/enhancing-x11-application-security-with-lxc/",
-    "title": "Enhancing x11 Application Security with LXC (2025)"
+    "url": "https://danluu.com/discontinuities/",
+    "title": "Suspicious Discontinuities (2020)"
   },
   {
     "source": "lobsters",
@@ -86,13 +71,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://makerspet.com/blog/building-an-open-source-robot-vacuum-meet-oomwoo/",
-    "title": "Building an Open-Source Robot Vacuum — Meet oomwoo"
+    "url": "http://oldvcr.blogspot.com/2026/06/working-around-dragons-with-lemote.html",
+    "title": "Working around dragons with the Lemote Yeeloong laptop and OpenBSD"
   },
   {
     "source": "lobsters",
-    "url": "http://oldvcr.blogspot.com/2026/06/working-around-dragons-with-lemote.html",
-    "title": "Working around dragons with the Lemote Yeeloong laptop and OpenBSD"
+    "url": "https://makerspet.com/blog/building-an-open-source-robot-vacuum-meet-oomwoo/",
+    "title": "Building an Open-Source Robot Vacuum — Meet oomwoo"
   },
   {
     "source": "lobsters",
@@ -101,8 +86,18 @@
   },
   {
     "source": "lobsters",
+    "url": "https://victoriametrics.com/blog/victorialogs-internals-columnar-storage-on-disk/",
+    "title": "How VictoriaLogs Stores Your Logs in a Columnar Layout"
+  },
+  {
+    "source": "lobsters",
     "url": "http://occ.sdf.org/",
     "title": "The Old Computer Challenge"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://emacsconf.org/2026/cfp/",
+    "title": "Call for participation"
   },
   {
     "source": "lobsters",
@@ -113,11 +108,6 @@
     "source": "lobsters",
     "url": "https://strebkov.dev/posts/shard-your-locks/",
     "title": "Shard your locks: benchmarking 6 Go cache designs"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://emacsconf.org/2026/cfp/",
-    "title": "Call for participation"
   },
   {
     "source": "lobsters",
@@ -133,6 +123,11 @@
     "source": "lobsters",
     "url": "https://ratfactor.com/cards/text-files-as-ui",
     "title": "Text files as a user interface"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://w.pitula.me/fintech-engineering-handbook/",
+    "title": "Fintech Engineering Handbook"
   },
   {
     "source": "pinboard",
