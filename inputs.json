@@ -1,13 +1,18 @@
 [
   {
     "source": "hn",
+    "url": "https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks/",
+    "title": "GLM 5.2 beats Claude in our benchmarks"
+  },
+  {
+    "source": "hn",
     "url": "https://pudding.cool/2026/06/menu-story/",
     "title": "5k menus from the New York Public Library’s Buttolph Collection (1880-1920)"
   },
   {
     "source": "hn",
-    "url": "https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks/",
-    "title": "Semgrep: GLM 5.2 beats Claude in our Cyber Benchmarks"
+    "url": "https://dam.stanford.edu/memory-prices.html",
+    "title": "Historical memory prices 1960-2026"
   },
   {
     "source": "hn",
@@ -26,8 +31,8 @@
   },
   {
     "source": "hn",
-    "url": "https://dam.stanford.edu/memory-prices.html",
-    "title": "Historical memory prices 1960-2026"
+    "url": "https://www.openculture.com/2020/10/daisugi.html",
+    "title": "Daisugi, the Japanese technique of growing trees out of other trees (2020)"
   },
   {
     "source": "hn",
@@ -36,23 +41,8 @@
   },
   {
     "source": "hn",
-    "url": "https://www.openculture.com/2020/10/daisugi.html",
-    "title": "Daisugi, the Japanese technique of growing trees out of other trees (2020)"
-  },
-  {
-    "source": "hn",
-    "url": "https://aresluna.org/the-curious-case-of-the-disappearing-polish-s/",
-    "title": "The curious case of the disappearing Polish S (2015)"
-  },
-  {
-    "source": "hn",
-    "url": "https://frequal.com/Perspectives/DrmFreeAuthors.html",
-    "title": "Show HN: DRM-Free Books"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.patrick-breyer.de/en/double-threat-to-private-communications-undemocratic-chat-control-backroom-deals-and-imminent-concessions-spark-relaunch-of-fightchatcontrol-eu/",
-    "title": "EU to legislate about Chat Control behind closed doors"
+    "url": "https://harpers.org/archive/2008/02/staying-awake/",
+    "title": "Staying Awake (2008)"
   },
   {
     "source": "hn",
@@ -61,13 +51,28 @@
   },
   {
     "source": "hn",
-    "url": "https://www.cbsnews.com/detroit/news/workplace-boundaries-act-employees-after-hours/",
-    "title": "Michigan bill would bar employers from requiring after-hours coms with workers"
+    "url": "https://frequal.com/Perspectives/DrmFreeAuthors.html",
+    "title": "Show HN: DRM-Free Books"
   },
   {
     "source": "hn",
-    "url": "https://smist08.wordpress.com/2026/06/25/linux-kills-strncpy/",
-    "title": "Linux Kills Strncpy"
+    "url": "https://www.britishorigami.org/cp-lister-list/the-1955-exhibition-by-akira-yoshizawa/",
+    "title": "British Origami: the 1955 exhibition by Akira Yoshizawa"
+  },
+  {
+    "source": "hn",
+    "url": "https://aresluna.org/the-curious-case-of-the-disappearing-polish-s/",
+    "title": "The curious case of the disappearing Polish S (2015)"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.patrick-breyer.de/en/double-threat-to-private-communications-undemocratic-chat-control-backroom-deals-and-imminent-concessions-spark-relaunch-of-fightchatcontrol-eu/",
+    "title": "EU to legislate about Chat Control behind closed doors"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.cbsnews.com/detroit/news/workplace-boundaries-act-employees-after-hours/",
+    "title": "Michigan bill would bar employers from requiring after-hours coms with workers"
   },
   {
     "source": "lobsters",
@@ -91,8 +96,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://www.stephendiehl.com/posts/prism/",
-    "title": "Prism: An Impure Functional Language With Typed Effects"
+    "url": "https://www.cl.cam.ac.uk/~nk480/parsing.pdf",
+    "title": "A Typed, Algebraic Approach to Parsing (2019)"
   },
   {
     "source": "lobsters",
@@ -101,13 +106,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://www.cl.cam.ac.uk/~nk480/parsing.pdf",
-    "title": "A Typed, Algebraic Approach to Parsing (2019)"
-  },
-  {
-    "source": "lobsters",
-    "url": "http://www.righto.com/2026/06/space-shuttle-io-processor-boards.html",
-    "title": "Examining circuit boards from the Space Shuttle's I/O Processor"
+    "url": "https://www.stephendiehl.com/posts/prism/",
+    "title": "Prism: An Impure Functional Language With Typed Effects"
   },
   {
     "source": "lobsters",
@@ -116,8 +116,23 @@
   },
   {
     "source": "lobsters",
+    "url": "http://www.righto.com/2026/06/space-shuttle-io-processor-boards.html",
+    "title": "Examining circuit boards from the Space Shuttle's I/O Processor"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://stonetools.ghost.io/hypercard-mac/",
+    "title": "HyperCard on the Macintosh"
+  },
+  {
+    "source": "lobsters",
     "url": "https://blog.einval.com/2026/06/27#its_dead_jim",
     "title": "It's dead, Jim! (UEFI CA expiry)"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://datakinds.github.io//2020/03/15/modeling-the-coronavirus-outbreak-with-j",
+    "title": "Modeling the COVID-19 Outbreak with J"
   },
   {
     "source": "lobsters",
@@ -133,10 +148,5 @@
     "source": "lobsters",
     "url": "https://collider.ee/blog/2026-06-28-1500_a_hash_proves_the_bytes_not_the_source/",
     "title": "A hash proves the bytes, not the source"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://stonetools.ghost.io/hypercard-mac/",
-    "title": "HyperCard on the Macintosh"
   }
 ]
