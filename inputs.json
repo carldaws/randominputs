@@ -16,13 +16,13 @@
   },
   {
     "source": "hn",
-    "url": "https://cauenapier.com/blog/townsquare_release/",
-    "title": "Turn your site into a place people can bump into each other"
+    "url": "https://dervis.de/physical/",
+    "title": "The case for physical media ownership"
   },
   {
     "source": "hn",
-    "url": "https://dervis.de/physical/",
-    "title": "The case for physical media ownership"
+    "url": "https://cauenapier.com/blog/townsquare_release/",
+    "title": "Turn your site into a place people can bump into each other"
   },
   {
     "source": "hn",
@@ -31,13 +31,13 @@
   },
   {
     "source": "hn",
-    "url": "https://www.theatlantic.com/magazine/2026/08/writers-way-galapagos-charles-darwin-travel/687480/",
-    "title": "Paradise Revisited: What Darwin Saw in the Galápagos"
+    "url": "https://knob.monster/how-do-you-keep-web-midi-from-crashing-a-1983-synthesizer",
+    "title": "How do you keep Web MIDI from crashing a 1983 synthesizer?"
   },
   {
     "source": "hn",
-    "url": "https://knob.monster/how-do-you-keep-web-midi-from-crashing-a-1983-synthesizer",
-    "title": "How do you keep Web MIDI from crashing a 1983 synthesizer?"
+    "url": "https://www.theatlantic.com/magazine/2026/08/writers-way-galapagos-charles-darwin-travel/687480/",
+    "title": "Paradise Revisited: What Darwin Saw in the Galápagos"
   },
   {
     "source": "hn",
@@ -63,11 +63,6 @@
     "source": "hn",
     "url": "https://foxmoss.com/blog/radish/",
     "title": "Running a software jam in a world of slop"
-  },
-  {
-    "source": "hn",
-    "url": "https://magic.wizards.com/en/news/feature/remembering-the-life-and-artwork-of-ron-spears",
-    "title": "Remembering the life and artwork of Ron Spears"
   },
   {
     "source": "lobsters",
@@ -111,13 +106,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://grack.com/blog/2026/06/25/dissecting-a-failed-nation-state-attack/",
-    "title": "Anatomy of a Failed (Nation-State?) Attack"
+    "url": "https://blog.einval.com/2026/06/27#its_dead_jim",
+    "title": "It's dead, Jim! (UEFI CA expiry)"
   },
   {
     "source": "lobsters",
-    "url": "https://blog.einval.com/2026/06/27#its_dead_jim",
-    "title": "It's dead, Jim! (UEFI CA expiry)"
+    "url": "https://grack.com/blog/2026/06/25/dissecting-a-failed-nation-state-attack/",
+    "title": "Anatomy of a Failed (Nation-State?) Attack"
   },
   {
     "source": "lobsters",
@@ -128,100 +123,5 @@
     "source": "lobsters",
     "url": "https://devenv.sh/blog/2026/06/26/making-devenv-start-fast-and-the-whole-nixpkgs-with-it/",
     "title": "Making devenv start fast, and the whole nixpkgs with it - devenv"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://buttondown.com/maiht3k/archive/how-to-talk-about-ai-without-adding-to-the/",
-    "title": "How to talk about \"AI\" without adding to the anthropomorphization • Buttondown"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://nesbitt.io/2026/06/26/incident-report-cve-2026-lgtm.html",
-    "title": "Incident Report: CVE-2026-LGTM | Andrew Nesbitt"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://markdy.com/",
-    "title": "Markdy — Open-Source Animation DSL Engine"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://blog.omgmog.net/post/xteink-x4-e-ink-reader/",
-    "title": "The Xteink X4 E-Ink Reader — Max Glenister"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://lucumr.pocoo.org/2026/6/23/the-coming-loop/",
-    "title": "The Coming Loop | Armin Ronacher's Thoughts and Writings"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.wired.com/story/british-police-built-a-sprawling-crime-prediction-machine-some-results-couldnt-be-trusted/",
-    "title": "British Police Built a Sprawling Crime-Prediction Machine. Some Results Couldn’t Be Trusted"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://moultano.wordpress.com/2026/06/19/where-to-find-the-colors-your-screen-cant-show-you/",
-    "title": "Where to Find the Colors Your Screen Can’t Show You – Ryan Moulton's Articles"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://aworkinglibrary.com/writing/umyazu",
-    "title": "Umyazu - A Working Library"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://daringfireball.net/2026/06/om",
-    "title": "Daring Fireball: Om"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.openculture.com/freeonlinecourses",
-    "title": "1200 Free Online Courses from Top Universities | Open Culture"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://lr0.org/blog/p/arabic/",
-    "title": "An interactive introduction to the terrific experience of rendering Arabic typography and its technical debt | La Vita Nouva"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://graphicore.github.io/librebarcode/",
-    "title": "Home | Libre Barcode Project"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://blog.jim-nielsen.com/2026/blogging-stating-the-obvious/",
-    "title": "Blogging Can Just Be Stating The Obvious - Jim Nielsen’s Blog"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://pete.design/tw-fade",
-    "title": "tw-fade - Tailwind CSS scroll-edge fading with CSS masks"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.krea.ai/blog/krea-2-technical-report",
-    "title": "Krea 2 Technical Report - Krea"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://words.filippo.io/vuln-reports/",
-    "title": "Vulnerability Reports Are Not Special Anymore"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://binaryigor.com/the-joy-and-power-of-understanding.html",
-    "title": "The Joy and Power of Understanding"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://yllan.org/software/OS9Map/",
-    "title": "OS9Map | yllan's stories"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://hackernewstrends.com/",
-    "title": "Hacker News Trends - Search & Chart Any Topic Over Time"
   }
 ]
