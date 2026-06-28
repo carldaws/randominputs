@@ -6,6 +6,16 @@
   },
   {
     "source": "hn",
+    "url": "https://qsoe.net",
+    "title": "A QNX-inspired operating system with selectable kernels"
+  },
+  {
+    "source": "hn",
+    "url": "https://xonaly.com/",
+    "title": "Xonaly – Canada's Independent Search Engine"
+  },
+  {
+    "source": "hn",
     "url": "https://pudding.cool/2026/06/menu-story/",
     "title": "5k menus from the New York Public Library’s Buttolph Collection (1880-1920)"
   },
@@ -16,13 +26,18 @@
   },
   {
     "source": "hn",
+    "url": "http://oldvcr.blogspot.com/2026/06/working-around-dragons-with-lemote.html",
+    "title": "Working around dragons with the Lemote Yeeloong laptop and OpenBSD"
+  },
+  {
+    "source": "hn",
     "url": "https://www.theatlantic.com/magazine/2026/07/boeing-747-retirement/687304/",
     "title": "The Boeing 747 begins its final descent"
   },
   {
     "source": "hn",
-    "url": "http://oldvcr.blogspot.com/2026/06/working-around-dragons-with-lemote.html",
-    "title": "Working around dragons with the Lemote Yeeloong laptop and OpenBSD"
+    "url": "https://altermag.com/articles/designing-a-summer-ice-cream-for-india",
+    "title": "The food science behind designing an ice cream"
   },
   {
     "source": "hn",
@@ -31,8 +46,23 @@
   },
   {
     "source": "hn",
+    "url": "https://frequal.com/Perspectives/DrmFreeAuthors.html",
+    "title": "Show HN: DRM-Free Books"
+  },
+  {
+    "source": "hn",
     "url": "https://www.righto.com/2026/06/space-shuttle-io-processor-boards.html",
     "title": "Examining circuit boards from the Space Shuttle's I/O Processor"
+  },
+  {
+    "source": "hn",
+    "url": "https://alganet.github.io/blog/2026-06-28-12-POSIX-Is-Not-A-Shell.html",
+    "title": "POSIX Is Not a Shell"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.britishorigami.org/cp-lister-list/the-1955-exhibition-by-akira-yoshizawa/",
+    "title": "British Origami: the 1955 exhibition by Akira Yoshizawa (2005)"
   },
   {
     "source": "hn",
@@ -41,33 +71,13 @@
   },
   {
     "source": "hn",
-    "url": "https://frequal.com/Perspectives/DrmFreeAuthors.html",
-    "title": "Show HN: DRM-Free Books"
-  },
-  {
-    "source": "hn",
     "url": "https://archive.org/details/colby1968-computer-aided-language-development-in-non-speaking-children",
     "title": "Computer-Aided Language Development in Nonspeaking Children (1968) [pdf]"
   },
   {
     "source": "hn",
-    "url": "https://www.pcmag.com/opinions/the-us-used-to-demand-the-best-tech-now-we-ban-it",
-    "title": "The US Used to Demand the Best Tech. Now We Ban It"
-  },
-  {
-    "source": "hn",
     "url": "https://aresluna.org/the-curious-case-of-the-disappearing-polish-s/",
     "title": "The curious case of the disappearing Polish S (2015)"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.britishorigami.org/cp-lister-list/the-1955-exhibition-by-akira-yoshizawa/",
-    "title": "British Origami: the 1955 exhibition by Akira Yoshizawa"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.patrick-breyer.de/en/double-threat-to-private-communications-undemocratic-chat-control-backroom-deals-and-imminent-concessions-spark-relaunch-of-fightchatcontrol-eu/",
-    "title": "EU to legislate about Chat Control behind closed doors"
   },
   {
     "source": "lobsters",
@@ -96,23 +106,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://www.stephendiehl.com/posts/prism/",
-    "title": "Prism: An Impure Functional Language With Typed Effects"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://makerspet.com/blog/building-an-open-source-robot-vacuum-meet-oomwoo/",
-    "title": "Building an Open-Source Robot Vacuum — Meet oomwoo"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks",
-    "title": "We have Mythos at Home: GLM 5.2 beats Claude in our Cyber Benchmarks"
-  },
-  {
-    "source": "lobsters",
-    "url": "http://www.righto.com/2026/06/space-shuttle-io-processor-boards.html",
-    "title": "Examining circuit boards from the Space Shuttle's I/O Processor"
+    "url": "https://www.patrick-breyer.de/en/double-threat-to-private-communications-undemocratic-chat-control-backroom-deals-and-imminent-concessions-spark-relaunch-of-fightchatcontrol-eu/",
+    "title": "“Double Threat” to Private Communications: Undemocratic Chat Control Backroom Deals and Imminent Concessions Spark Relaunch of fightchatcontrol.eu"
   },
   {
     "source": "lobsters",
@@ -121,13 +116,23 @@
   },
   {
     "source": "lobsters",
-    "url": "https://blog.einval.com/2026/06/27#its_dead_jim",
-    "title": "It's dead, Jim! (UEFI CA expiry)"
+    "url": "https://makerspet.com/blog/building-an-open-source-robot-vacuum-meet-oomwoo/",
+    "title": "Building an Open-Source Robot Vacuum — Meet oomwoo"
   },
   {
     "source": "lobsters",
-    "url": "http://occ.sdf.org/",
-    "title": "The Old Computer Challenge"
+    "url": "https://www.stephendiehl.com/posts/prism/",
+    "title": "Prism: An Impure Functional Language With Typed Effects"
+  },
+  {
+    "source": "lobsters",
+    "url": "http://www.righto.com/2026/06/space-shuttle-io-processor-boards.html",
+    "title": "Examining circuit boards from the Space Shuttle's I/O Processor"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks",
+    "title": "We have Mythos at Home: GLM 5.2 beats Claude in our Cyber Benchmarks"
   },
   {
     "source": "lobsters",
@@ -136,12 +141,22 @@
   },
   {
     "source": "lobsters",
-    "url": "https://algassert.com/post/2603",
-    "title": "Unfathomable bugs #10: The Broken Windows Build"
+    "url": "https://blog.einval.com/2026/06/27#its_dead_jim",
+    "title": "It's dead, Jim! (UEFI CA expiry)"
   },
   {
     "source": "lobsters",
     "url": "https://mikehowells.com/2026/06/21/the-curious-case-of-aa-ns-charter-com/",
     "title": "The Curious Case of aa.ns.charter.com"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://algassert.com/post/2603",
+    "title": "Unfathomable bugs #10: The Broken Windows Build"
+  },
+  {
+    "source": "lobsters",
+    "url": "http://occ.sdf.org/",
+    "title": "The Old Computer Challenge"
   }
 ]
