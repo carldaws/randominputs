@@ -1,23 +1,38 @@
 [
   {
     "source": "hn",
+    "url": "https://pudding.cool/2026/06/menu-collection/",
+    "title": "5k Restaurant Menus, Years 1880-1920"
+  },
+  {
+    "source": "hn",
     "url": "https://aresluna.org/the-curious-case-of-the-disappearing-polish-s/",
     "title": "The curious case of the disappearing Polish S"
   },
   {
     "source": "hn",
-    "url": "https://www.dnews.gr/eidhseis/news-in-english/596650/greece-is-richer-so-why-do-so-many-greeks-still-feel-poor",
-    "title": "Greece Is Richer. So Why Do So Many Greeks Still Feel Poor?"
+    "url": "https://devz.cl/posts/do-babies-dream-of-electric-sheep/",
+    "title": "Do Babies Dream of Baby Sheep?"
   },
   {
     "source": "hn",
-    "url": "https://www.bloomberg.com/news/articles/2026-06-28/austria-lobbies-eu-to-host-anthropic-after-us-access-curbs",
-    "title": "Austria Lobbies EU to Host Anthropic After US Access Curbs"
+    "url": "https://www.patrick-breyer.de/en/double-threat-to-private-communications-undemocratic-chat-control-backroom-deals-and-imminent-concessions-spark-relaunch-of-fightchatcontrol-eu/",
+    "title": "EU to legislate about Chat Control behind closed doors"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.cbsnews.com/detroit/news/workplace-boundaries-act-employees-after-hours/",
+    "title": "Michigan bill would bar employers from requiring after-hours coms with workers"
   },
   {
     "source": "hn",
     "url": "https://yeokhengmeng.com/2026/06/swift-on-apple-ii/",
     "title": "Bringing Swift to the Apple ]["
+  },
+  {
+    "source": "hn",
+    "url": "https://www.bloomberg.com/news/articles/2026-06-28/austria-lobbies-eu-to-host-anthropic-after-us-access-curbs",
+    "title": "Austria Lobbies EU to Host Anthropic After US Access Curbs"
   },
   {
     "source": "hn",
@@ -36,18 +51,8 @@
   },
   {
     "source": "hn",
-    "url": "https://typographica.org/on-typography/jim-parkinson-1941-2025/",
-    "title": "From Hallmark to neon signs: A look at Jim Parkinson's career in letter art"
-  },
-  {
-    "source": "hn",
     "url": "https://the.scapegoat.dev/turning-music-into-a-chore-is-what-made-me-an-artist/",
     "title": "Turning music into a chore is how I became a musician (2022)"
-  },
-  {
-    "source": "hn",
-    "url": "https://johncarlosbaez.wordpress.com/2026/05/29/from-pentagons-to-pentagrams/",
-    "title": "From Pentagons to Pentagrams"
   },
   {
     "source": "lobsters",
@@ -61,13 +66,18 @@
   },
   {
     "source": "lobsters",
+    "url": "https://makerspet.com/blog/building-an-open-source-robot-vacuum-meet-oomwoo/",
+    "title": "Building an Open-Source Robot Vacuum — Meet oomwoo"
+  },
+  {
+    "source": "lobsters",
     "url": "https://www.stephendiehl.com/posts/prism/",
     "title": "Prism: An Impure Functional Language With Typed Effects"
   },
   {
     "source": "lobsters",
-    "url": "https://makerspet.com/blog/building-an-open-source-robot-vacuum-meet-oomwoo/",
-    "title": "Building an Open-Source Robot Vacuum — Meet oomwoo"
+    "url": "https://victoriametrics.com/blog/victorialogs-internals-columnar-storage-on-disk/",
+    "title": "How VictoriaLogs Stores Your Logs in a Columnar Layout"
   },
   {
     "source": "lobsters",
@@ -81,18 +91,13 @@
   },
   {
     "source": "lobsters",
+    "url": "https://gracefulliberty.com/articles/towards-understandable-software/",
+    "title": "Towards Understandable Software"
+  },
+  {
+    "source": "lobsters",
     "url": "http://occ.sdf.org/",
     "title": "The Old Computer Challenge"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://victoriametrics.com/blog/victorialogs-internals-columnar-storage-on-disk/",
-    "title": "How VictoriaLogs Stores Your Logs in a Columnar Layout"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://emacsconf.org/2026/cfp/",
-    "title": "Call for participation"
   },
   {
     "source": "lobsters",
@@ -101,8 +106,18 @@
   },
   {
     "source": "lobsters",
+    "url": "https://emacsconf.org/2026/cfp/",
+    "title": "Call for participation"
+  },
+  {
+    "source": "lobsters",
     "url": "https://strebkov.dev/posts/shard-your-locks/",
     "title": "Shard your locks: benchmarking 6 Go cache designs"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks",
+    "title": "We have Mythos at Home: GLM 5.2 beats Claude in our Cyber Benchmarks"
   },
   {
     "source": "lobsters",
@@ -113,10 +128,5 @@
     "source": "lobsters",
     "url": "https://www.auditablelicense.org",
     "title": "Auditable Commercial License (ACL) v1.0"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://ratfactor.com/cards/text-files-as-ui",
-    "title": "Text files as a user interface"
   }
 ]
