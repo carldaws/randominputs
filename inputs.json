@@ -1,13 +1,28 @@
 [
   {
     "source": "hn",
-    "url": "https://decomp-academy.dev",
-    "title": "Show HN: Decomp Academy – Learn to decompile GameCube games into matching C"
+    "url": "https://aresluna.org/the-curious-case-of-the-disappearing-polish-s/",
+    "title": "The curious case of the disappearing Polish S"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.dnews.gr/eidhseis/news-in-english/596650/greece-is-richer-so-why-do-so-many-greeks-still-feel-poor",
+    "title": "Greece Is Richer. So Why Do So Many Greeks Still Feel Poor?"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.bloomberg.com/news/articles/2026-06-28/austria-lobbies-eu-to-host-anthropic-after-us-access-curbs",
+    "title": "Austria Lobbies EU to Host Anthropic After US Access Curbs"
   },
   {
     "source": "hn",
     "url": "https://yeokhengmeng.com/2026/06/swift-on-apple-ii/",
     "title": "Bringing Swift to the Apple ]["
+  },
+  {
+    "source": "hn",
+    "url": "https://decomp-academy.dev",
+    "title": "Show HN: Decomp Academy – Learn to decompile GameCube games into matching C"
   },
   {
     "source": "hn",
@@ -21,23 +36,8 @@
   },
   {
     "source": "hn",
-    "url": "https://johncarlosbaez.wordpress.com/2026/05/29/from-pentagons-to-pentagrams/",
-    "title": "From Pentagons to Pentagrams"
-  },
-  {
-    "source": "hn",
     "url": "https://typographica.org/on-typography/jim-parkinson-1941-2025/",
     "title": "From Hallmark to neon signs: A look at Jim Parkinson's career in letter art"
-  },
-  {
-    "source": "hn",
-    "url": "https://dervis.de/physical/",
-    "title": "The case for physical media ownership"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.openra.net/",
-    "title": "OpenRA"
   },
   {
     "source": "hn",
@@ -46,13 +46,8 @@
   },
   {
     "source": "hn",
-    "url": "https://jayacunzo.com/blog/your-move-chief",
-    "title": "The best response to AI slop and online noise is from Robin Williams"
-  },
-  {
-    "source": "hn",
-    "url": "https://danluu.com/discontinuities/",
-    "title": "Suspicious Discontinuities (2020)"
+    "url": "https://johncarlosbaez.wordpress.com/2026/05/29/from-pentagons-to-pentagrams/",
+    "title": "From Pentagons to Pentagrams"
   },
   {
     "source": "lobsters",
@@ -71,13 +66,13 @@
   },
   {
     "source": "lobsters",
-    "url": "http://oldvcr.blogspot.com/2026/06/working-around-dragons-with-lemote.html",
-    "title": "Working around dragons with the Lemote Yeeloong laptop and OpenBSD"
+    "url": "https://makerspet.com/blog/building-an-open-source-robot-vacuum-meet-oomwoo/",
+    "title": "Building an Open-Source Robot Vacuum — Meet oomwoo"
   },
   {
     "source": "lobsters",
-    "url": "https://makerspet.com/blog/building-an-open-source-robot-vacuum-meet-oomwoo/",
-    "title": "Building an Open-Source Robot Vacuum — Meet oomwoo"
+    "url": "http://oldvcr.blogspot.com/2026/06/working-around-dragons-with-lemote.html",
+    "title": "Working around dragons with the Lemote Yeeloong laptop and OpenBSD"
   },
   {
     "source": "lobsters",
@@ -86,13 +81,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://victoriametrics.com/blog/victorialogs-internals-columnar-storage-on-disk/",
-    "title": "How VictoriaLogs Stores Your Logs in a Columnar Layout"
+    "url": "http://occ.sdf.org/",
+    "title": "The Old Computer Challenge"
   },
   {
     "source": "lobsters",
-    "url": "http://occ.sdf.org/",
-    "title": "The Old Computer Challenge"
+    "url": "https://victoriametrics.com/blog/victorialogs-internals-columnar-storage-on-disk/",
+    "title": "How VictoriaLogs Stores Your Logs in a Columnar Layout"
   },
   {
     "source": "lobsters",
@@ -123,110 +118,5 @@
     "source": "lobsters",
     "url": "https://ratfactor.com/cards/text-files-as-ui",
     "title": "Text files as a user interface"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://w.pitula.me/fintech-engineering-handbook/",
-    "title": "Fintech Engineering Handbook"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://markdy.com/",
-    "title": "Markdy — Open-Source Animation DSL Engine"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://daringfireball.net/2026/06/om",
-    "title": "Daring Fireball: Om"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://buttondown.com/maiht3k/archive/how-to-talk-about-ai-without-adding-to-the/",
-    "title": "How to talk about \"AI\" without adding to the anthropomorphization • Buttondown"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://nesbitt.io/2026/06/26/incident-report-cve-2026-lgtm.html",
-    "title": "Incident Report: CVE-2026-LGTM | Andrew Nesbitt"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://lr0.org/blog/p/arabic/",
-    "title": "An interactive introduction to the terrific experience of rendering Arabic typography and its technical debt | La Vita Nouva"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://graphicore.github.io/librebarcode/",
-    "title": "Home | Libre Barcode Project"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://blog.omgmog.net/post/xteink-x4-e-ink-reader/",
-    "title": "The Xteink X4 E-Ink Reader — Max Glenister"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://pete.design/tw-fade",
-    "title": "tw-fade - Tailwind CSS scroll-edge fading with CSS masks"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://refactoringenglish.com/excerpts/write-an-effective-design-doc/",
-    "title": "How to Write an Effective Software Design Document"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://lefakkomies.github.io/pynomo-doc/introduction/introduction.html#what-is-a-nomogram-and-why-would-it-interest-me",
-    "title": "Nomograms (python)"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.wired.com/story/british-police-built-a-sprawling-crime-prediction-machine-some-results-couldnt-be-trusted/",
-    "title": "British Police Built a Sprawling Crime-Prediction Machine. Some Results Couldn’t Be Trusted"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://evmar.github.io/jjtut/",
-    "title": "Evan's Jujutsu Tutorial"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://yllan.org/software/OS9Map/",
-    "title": "OS9Map | yllan's stories"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://mlc.ai/modern-gpu-programming-for-mlsys/#",
-    "title": "Modern GPU Programming For MLSys — Modern GPU Programming For MLSys"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.fernandoi.cl/posts/hackmyclaw/",
-    "title": "What happened after 2,000 people tried to hack my AI assistant — Fernando Irarrázaval"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.dbreunig.com/2026/06/22/the-problem-is-prompt-debt.html",
-    "title": "The Problem is Prompt Debt"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.openculture.com/freeonlinecourses",
-    "title": "1200 Free Online Courses from Top Universities | Open Culture"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://vickiboykis.com/2026/06/15/running-local-models-is-good-now/",
-    "title": "Running local models is good now | ✰Vicki Boykis✰"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.semafor.com/article/06/27/2026/us-releases-powerful-anthropic-model-mythos-to-some-us-companies",
-    "title": "Exclusive: US releases powerful Anthropic model Mythos to some US companies"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://sofiakodar.github.io/posts/becomingmanager/",
-    "title": "The truth about being a manager"
   }
 ]
