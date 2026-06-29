@@ -6,6 +6,11 @@
   },
   {
     "source": "hn",
+    "url": "https://schamper.dev/dissecting-apples-sparse-image-format-asif/",
+    "title": "Dissecting Apple's Sparse Image Format (ASIF)"
+  },
+  {
+    "source": "hn",
     "url": "https://dam.stanford.edu/memory-prices.html",
     "title": "Historical memory prices 1960-2026"
   },
@@ -16,13 +21,13 @@
   },
   {
     "source": "hn",
-    "url": "https://blog.plover.com/lang/bismillah.html",
-    "title": "Deciphering Basmala"
+    "url": "https://blog.cloudflare.com/hyper-bug/",
+    "title": "We found a bug in the hyper HTTP library"
   },
   {
     "source": "hn",
-    "url": "https://www.theatlantic.com/magazine/2026/07/boeing-747-retirement/687304/",
-    "title": "The Boeing 747 begins its final descent"
+    "url": "https://blog.plover.com/lang/bismillah.html",
+    "title": "Deciphering basmala"
   },
   {
     "source": "hn",
@@ -36,13 +41,13 @@
   },
   {
     "source": "hn",
-    "url": "https://www.openculture.com/2020/10/daisugi.html",
-    "title": "Daisugi, the Japanese technique of growing trees out of other trees (2020)"
+    "url": "https://www.theatlantic.com/magazine/2026/07/boeing-747-retirement/687304/",
+    "title": "The Boeing 747 begins its final descent"
   },
   {
     "source": "hn",
-    "url": "https://www.idler.co.uk/",
-    "title": "Idler Magazine"
+    "url": "https://www.openculture.com/2020/10/daisugi.html",
+    "title": "Daisugi, the Japanese technique of growing trees out of other trees (2020)"
   },
   {
     "source": "hn",
@@ -51,13 +56,13 @@
   },
   {
     "source": "hn",
-    "url": "https://aresluna.org/the-curious-case-of-the-disappearing-polish-s/",
-    "title": "The curious case of the disappearing Polish S (2015)"
+    "url": "https://www.idler.co.uk/",
+    "title": "Idler Magazine"
   },
   {
     "source": "hn",
-    "url": "https://frequal.com/Perspectives/DrmFreeAuthors.html",
-    "title": "Show HN: DRM-Free Books"
+    "url": "https://aresluna.org/the-curious-case-of-the-disappearing-polish-s/",
+    "title": "The curious case of the disappearing Polish S (2015)"
   },
   {
     "source": "lobsters",
@@ -76,6 +81,11 @@
   },
   {
     "source": "lobsters",
+    "url": "https://stonetools.ghost.io/hypercard-mac/",
+    "title": "HyperCard on the Macintosh"
+  },
+  {
+    "source": "lobsters",
     "url": "https://www.cl.cam.ac.uk/~nk480/parsing.pdf",
     "title": "A Typed, Algebraic Approach to Parsing (2019)"
   },
@@ -86,8 +96,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://stonetools.ghost.io/hypercard-mac/",
-    "title": "HyperCard on the Macintosh"
+    "url": "https://www.jayfreestone.com/writing/you-might-not-need-a-service-worker/",
+    "title": "You might not need… a service worker"
   },
   {
     "source": "lobsters",
@@ -101,18 +111,18 @@
   },
   {
     "source": "lobsters",
-    "url": "https://www.jayfreestone.com/writing/you-might-not-need-a-service-worker/",
-    "title": "You might not need… a service worker"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://blog.weineng.me/posts/slowest_add/",
-    "title": "Data Access Patterns That Makes Your CPU Really Angry"
+    "url": "https://monadicsheep.org/blog/call-for-canvas-patch-testers.html",
+    "title": "Canvas patch: we need testers"
   },
   {
     "source": "lobsters",
     "url": "http://www.righto.com/2026/06/space-shuttle-io-processor-boards.html",
     "title": "Examining circuit boards from the Space Shuttle's I/O Processor"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://blog.weineng.me/posts/slowest_add/",
+    "title": "Data Access Patterns That Makes Your CPU Really Angry"
   },
   {
     "source": "lobsters",
@@ -131,6 +141,11 @@
   },
   {
     "source": "lobsters",
+    "url": "https://forkingmad.blog/tech-morality-is-hard/",
+    "title": "Tech Morality is Hard"
+  },
+  {
+    "source": "lobsters",
     "url": "https://maskray.me/blog/2026-06-28-optimizing-llvm-bump-allocator",
     "title": "Optimizing LLVM's bump allocator"
   },
@@ -138,10 +153,5 @@
     "source": "lobsters",
     "url": "https://algassert.com/post/2603",
     "title": "Unfathomable bugs #10: The Broken Windows Build"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://forkingmad.blog/tech-morality-is-hard/",
-    "title": "Tech Morality is Hard"
   }
 ]
