@@ -7,7 +7,7 @@
   {
     "source": "hn",
     "url": "https://hccf.onmy.cloud/2026/06/21/reclaiming-our-digital-selves-hccfs-vision-for-a-human-centered-top-level-domain/",
-    "title": "Announcing .self: A New Top-Level Domain Designed to Support Self-Hosting"
+    "title": ".self: A new top-level domain designed to support self-hosting"
   },
   {
     "source": "hn",
@@ -26,8 +26,8 @@
   },
   {
     "source": "hn",
-    "url": "https://worksinprogress.co/issue/how-to-lie-about-radiation/",
-    "title": "The Radiation Exposure Lie"
+    "url": "https://vllm.ai/blog/2026-06-29-micro-agent-frontier-models",
+    "title": "Micro-Agent: Beat Frontier Models with Collaboration Inside Model API"
   },
   {
     "source": "hn",
@@ -36,18 +36,23 @@
   },
   {
     "source": "hn",
-    "url": "https://vllm.ai/blog/2026-06-29-micro-agent-frontier-models",
-    "title": "Micro-Agent: Beat Frontier Models with Collaboration Inside Model API"
+    "url": "https://htmx.org/essays/working-with-ai/",
+    "title": "Working With AI: A concrete example"
   },
   {
     "source": "hn",
-    "url": "https://www.cpushack.com/2026/06/03/sandia-national-labs-sa3000-8085-cpu/",
-    "title": "Sandia National Labs SA3000 8085 CPU"
+    "url": "https://deep-reinforce.com/ornith_1_0.html",
+    "title": "Ornith-1.0: Self-scaffolding LLMs for agentic coding"
   },
   {
     "source": "hn",
-    "url": "https://thomaswc.com/blog/the_return_of_aop.html",
-    "title": "The Return of Aspect Oriented Programming"
+    "url": "https://www.cringely.com/2026/05/28/the-permission-slip/",
+    "title": "The Permission Slip"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.savingourstars.org/darkskylighting#whatisdarkskylighting",
+    "title": "Dark Sky Lighting"
   },
   {
     "source": "hn",
@@ -56,18 +61,18 @@
   },
   {
     "source": "hn",
-    "url": "https://thomasdullien.github.io/guides/entrepreneurship/",
-    "title": "Halvar's Guide to Entrepreneurship"
+    "url": "https://www.cpushack.com/2026/06/03/sandia-national-labs-sa3000-8085-cpu/",
+    "title": "Sandia National Labs SA3000 8085 CPU"
   },
   {
     "source": "hn",
-    "url": "https://alexwlchan.net/2026/computer-room/",
-    "title": "Rebuilding the Computer Room"
+    "url": "https://www.outsideonline.com/health/wellness/sunscreen-sun-exposure-skin-cancer-science/",
+    "title": "Is sunscreen the new margarine? (2021)"
   },
   {
     "source": "hn",
-    "url": "https://tidal.com/ai-policy",
-    "title": "Tidal AI Policy"
+    "url": "https://cambridgeanalytica.org/data-breaches-scandals/passports-driver-licenses-exposed-public-internet-2026-51096/",
+    "title": "One million passports leaked online"
   },
   {
     "source": "hn",
@@ -76,8 +81,18 @@
   },
   {
     "source": "hn",
-    "url": "https://blog.pragmaticengineer.com/pollen-tried-to-remove-my-article-about-callum-negus-fancey-and-google-is-assisting-to-it/",
-    "title": "Pollen tried to remove my article and Google is assisting with it"
+    "url": "https://alexwlchan.net/2026/computer-room/",
+    "title": "Rebuilding the Computer Room"
+  },
+  {
+    "source": "hn",
+    "url": "https://worksinprogress.co/issue/how-to-lie-about-radiation/",
+    "title": "The Radiation Exposure Lie"
+  },
+  {
+    "source": "hn",
+    "url": "https://thomaswc.com/blog/the_return_of_aop.html",
+    "title": "The Return of Aspect Oriented Programming"
   },
   {
     "source": "lobsters",
@@ -96,13 +111,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://monadicsheep.org/blog/call-for-canvas-patch-testers.html",
-    "title": "Canvas patch: we need testers"
+    "url": "https://verdagon.dev/blog/ante-blending-borrowing-rc",
+    "title": "Ante: New Way to Blend Borrow Checking and Reference Counting"
   },
   {
     "source": "lobsters",
-    "url": "https://verdagon.dev/blog/ante-blending-borrowing-rc",
-    "title": "Ante: New Way to Blend Borrow Checking and Reference Counting"
+    "url": "https://monadicsheep.org/blog/call-for-canvas-patch-testers.html",
+    "title": "Canvas patch: we need testers"
   },
   {
     "source": "lobsters",
@@ -111,13 +126,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://www.patrick-breyer.de/en/double-threat-to-private-communications-undemocratic-chat-control-backroom-deals-and-imminent-concessions-spark-relaunch-of-fightchatcontrol-eu/",
-    "title": "“Double Threat” to Private Communications: Undemocratic Chat Control Backroom Deals and Imminent Concessions Spark Relaunch of fightchatcontrol.eu"
+    "url": "https://exploring-better-ways.bellroy.com/haskell-koan-type-checked-non-empty-strings.html",
+    "title": "Type-checked non-empty strings"
   },
   {
     "source": "lobsters",
-    "url": "https://exploring-better-ways.bellroy.com/haskell-koan-type-checked-non-empty-strings.html",
-    "title": "Type-checked non-empty strings"
+    "url": "https://bnewbold.leaflet.pub/3mph4hzvbdc2v",
+    "title": "The AT-URI Syntax Mess"
   },
   {
     "source": "lobsters",
@@ -146,6 +161,11 @@
   },
   {
     "source": "lobsters",
+    "url": "https://cyberstan.co.uk/drm-lpe-linux/",
+    "title": "Unprivileged root via a use-after-free in DRM GEM change_handle (CVE-2026-46215)"
+  },
+  {
+    "source": "lobsters",
     "url": "https://autocrypt2.org",
     "title": "Autocrypt v2 - Post-Quantum and Reliable Deletion"
   },
@@ -153,110 +173,5 @@
     "source": "lobsters",
     "url": "https://stonetools.ghost.io/hypercard-mac/",
     "title": "HyperCard on the Macintosh"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://cyberstan.co.uk/drm-lpe-linux/",
-    "title": "Unprivileged root via a use-after-free in DRM GEM change_handle (CVE-2026-46215)"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://w.pitula.me/fintech-engineering-handbook/",
-    "title": "Fintech Engineering Handbook"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://daringfireball.net/2026/06/om",
-    "title": "Daring Fireball: Om"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://nesbitt.io/2026/06/26/incident-report-cve-2026-lgtm.html",
-    "title": "Incident Report: CVE-2026-LGTM | Andrew Nesbitt"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://graphicore.github.io/librebarcode/",
-    "title": "Home | Libre Barcode Project"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://mlc.ai/modern-gpu-programming-for-mlsys/#",
-    "title": "Modern GPU Programming For MLSys — Modern GPU Programming For MLSys"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://lr0.org/blog/p/arabic/",
-    "title": "An interactive introduction to the terrific experience of rendering Arabic typography and its technical debt | La Vita Nouva"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://lefakkomies.github.io/pynomo-doc/introduction/introduction.html#what-is-a-nomogram-and-why-would-it-interest-me",
-    "title": "Nomograms (python)"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://yllan.org/software/OS9Map/",
-    "title": "OS9Map | yllan's stories"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://cauenapier.com/blog/townsquare_release/",
-    "title": "Turn your site into a place people can bump into each other - cauenapier"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://blog.omgmog.net/post/xteink-x4-e-ink-reader/",
-    "title": "The Xteink X4 E-Ink Reader — Max Glenister"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://evmar.github.io/jjtut/",
-    "title": "Evan's Jujutsu Tutorial"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://dervis.de/physical/",
-    "title": "If You Can't Hold It, You Don't Own It | Cem Dervis"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://refactoringenglish.com/excerpts/write-an-effective-design-doc/",
-    "title": "How to Write an Effective Software Design Document"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://vickiboykis.com/2026/06/15/running-local-models-is-good-now/",
-    "title": "Running local models is good now | ✰Vicki Boykis✰"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.openra.net/",
-    "title": "OpenRA"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://ma.tt/2026/06/om-forever/",
-    "title": "All Roads Lead to Om"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://jayacunzo.com/blog/your-move-chief",
-    "title": "The best response to AI slop, infinite advice, and online noise is from Robin Williams"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://markdy.com/",
-    "title": "Markdy — Open-Source Animation DSL Engine"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.beercss.com/",
-    "title": "Beercss since 2021"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://marelle.forge.apps.education.fr/",
-    "title": "Marelle | Police cursive libre pour l’enseignement de l’écriture à l’école élémentaire"
   }
 ]
