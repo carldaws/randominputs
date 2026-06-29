@@ -1,8 +1,8 @@
 [
   {
     "source": "hn",
-    "url": "https://humphri.es/blog/WATaBoy/",
-    "title": "WATaBoy: JIT-Ing Game Boy Instructions to WASM Beats a Native Interpreter"
+    "url": "https://quesma.com/blog/qwen-36-is-awesome/",
+    "title": "Qwen 3.6 27B is the sweet spot for local development"
   },
   {
     "source": "hn",
@@ -11,13 +11,13 @@
   },
   {
     "source": "hn",
-    "url": "https://fergusfinn.com/blog/what-happens-when-you-run-a-gpu-kernel/",
-    "title": "What happens when you run a CUDA kernel?"
+    "url": "https://humphri.es/blog/WATaBoy/",
+    "title": "WATaBoy: JIT-Ing Game Boy Instructions to WASM Beats a Native Interpreter"
   },
   {
     "source": "hn",
-    "url": "https://voxelmanip.se/2026/06/28/building-principia-for-windows-xp/",
-    "title": "Building Principia for Windows XP"
+    "url": "https://fergusfinn.com/blog/what-happens-when-you-run-a-gpu-kernel/",
+    "title": "What happens when you run a CUDA kernel?"
   },
   {
     "source": "hn",
@@ -31,21 +31,6 @@
   },
   {
     "source": "hn",
-    "url": "https://philipbohun.com/blog/0011.html",
-    "title": "Microsoft Needs Windows Lite"
-  },
-  {
-    "source": "hn",
-    "url": "https://blog.pragmaticengineer.com/pollen-tried-to-remove-my-article-about-callum-negus-fancey-and-google-is-assisting-to-it/",
-    "title": "Pollen tried to remove my article and Google is assisting with it"
-  },
-  {
-    "source": "hn",
-    "url": "https://en.sedaily.com/international/2026/06/29/samsung-sk-hynix-micron-sued-in-us-over-memory-price-fixing",
-    "title": "Samsung, SK Hynix, Micron Sued in US over Memory Price Fixing"
-  },
-  {
-    "source": "hn",
     "url": "https://thomaswc.com/blog/the_return_of_aop.html",
     "title": "The Return of Aspect Oriented Programming"
   },
@@ -56,8 +41,18 @@
   },
   {
     "source": "hn",
-    "url": "https://exploring-better-ways.bellroy.com/haskell-koan-type-checked-non-empty-strings.html",
-    "title": "Type-checked non-empty strings"
+    "url": "https://en.sedaily.com/international/2026/06/29/samsung-sk-hynix-micron-sued-in-us-over-memory-price-fixing",
+    "title": "Samsung, SK Hynix, Micron Sued in US over Memory Price Fixing"
+  },
+  {
+    "source": "hn",
+    "url": "https://blog.pragmaticengineer.com/pollen-tried-to-remove-my-article-about-callum-negus-fancey-and-google-is-assisting-to-it/",
+    "title": "Pollen tried to remove my article and Google is assisting with it"
+  },
+  {
+    "source": "hn",
+    "url": "https://voxelmanip.se/2026/06/28/building-principia-for-windows-xp/",
+    "title": "Building Principia for Windows XP"
   },
   {
     "source": "hn",
@@ -66,18 +61,18 @@
   },
   {
     "source": "hn",
+    "url": "https://worksinprogress.co/issue/how-to-lie-about-radiation/",
+    "title": "The Radiation Exposure Lie"
+  },
+  {
+    "source": "hn",
+    "url": "https://exploring-better-ways.bellroy.com/haskell-koan-type-checked-non-empty-strings.html",
+    "title": "Type-checked non-empty strings"
+  },
+  {
+    "source": "hn",
     "url": "https://schamper.dev/dissecting-apples-sparse-image-format-asif/",
     "title": "Dissecting Apple's Sparse Image Format (ASIF)"
-  },
-  {
-    "source": "hn",
-    "url": "https://blog.cloudflare.com/hyper-bug/",
-    "title": "We found a bug in the hyper HTTP library"
-  },
-  {
-    "source": "hn",
-    "url": "https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks/",
-    "title": "GLM 5.2 beats Claude in our benchmarks"
   },
   {
     "source": "lobsters",
@@ -106,6 +101,11 @@
   },
   {
     "source": "lobsters",
+    "url": "https://vrong.me/blog/what-is-pinning-in-rust/",
+    "title": "What is `std::pin::Pin` in Rust?"
+  },
+  {
+    "source": "lobsters",
     "url": "https://www.patrick-breyer.de/en/double-threat-to-private-communications-undemocratic-chat-control-backroom-deals-and-imminent-concessions-spark-relaunch-of-fightchatcontrol-eu/",
     "title": "“Double Threat” to Private Communications: Undemocratic Chat Control Backroom Deals and Imminent Concessions Spark Relaunch of fightchatcontrol.eu"
   },
@@ -126,6 +126,11 @@
   },
   {
     "source": "lobsters",
+    "url": "https://nebusec.ai/research/v8-cve-2026-6307-writeup/",
+    "title": "Longinus: 2 Boundaries in One Bug, Piercing Chrome’s Renderer and V8 Sandbox with a Single Vulnerability, CVE-2026-6307"
+  },
+  {
+    "source": "lobsters",
     "url": "https://stonetools.ghost.io/hypercard-mac/",
     "title": "HyperCard on the Macintosh"
   },
@@ -136,16 +141,6 @@
   },
   {
     "source": "lobsters",
-    "url": "https://vrong.me/blog/what-is-pinning-in-rust/",
-    "title": "What is `std::pin::Pin` in Rust?"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://nebusec.ai/research/v8-cve-2026-6307-writeup/",
-    "title": "Longinus: 2 Boundaries in One Bug, Piercing Chrome’s Renderer and V8 Sandbox with a Single Vulnerability, CVE-2026-6307"
-  },
-  {
-    "source": "lobsters",
     "url": "https://nibblestew.blogspot.com/2026/06/pystd-standard-library-similar-ish.html",
     "title": "Pystd standard library, similar-ish functionality with a fraction of the compile time"
   },
@@ -153,11 +148,6 @@
     "source": "lobsters",
     "url": "https://www.cl.cam.ac.uk/~nk480/parsing.pdf",
     "title": "A Typed, Algebraic Approach to Parsing (2019)"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://victoriametrics.com/blog/victorialogs-internals-columnar-storage-on-disk/",
-    "title": "How VictoriaLogs Stores Your Logs in a Columnar Layout"
   },
   {
     "source": "pinboard",
