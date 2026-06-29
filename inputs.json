@@ -16,18 +16,23 @@
   },
   {
     "source": "hn",
-    "url": "https://pudding.cool/2026/06/menu-story/",
-    "title": "5k menus from the New York Public Library’s Buttolph Collection (1880-1920)"
-  },
-  {
-    "source": "hn",
     "url": "https://blog.cloudflare.com/hyper-bug/",
     "title": "We found a bug in the hyper HTTP library"
   },
   {
     "source": "hn",
+    "url": "https://pudding.cool/2026/06/menu-story/",
+    "title": "5k menus from the New York Public Library’s Buttolph Collection (1880-1920)"
+  },
+  {
+    "source": "hn",
     "url": "https://blog.plover.com/lang/bismillah.html",
     "title": "Deciphering basmala"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.wildmanlife.com/the-forgotten-castles-of-the-garamantes/",
+    "title": "The Forgotten Castles of the Garamantes"
   },
   {
     "source": "hn",
@@ -56,11 +61,6 @@
   },
   {
     "source": "hn",
-    "url": "https://www.idler.co.uk/",
-    "title": "Idler Magazine"
-  },
-  {
-    "source": "hn",
     "url": "https://aresluna.org/the-curious-case-of-the-disappearing-polish-s/",
     "title": "The curious case of the disappearing Polish S (2015)"
   },
@@ -81,18 +81,13 @@
   },
   {
     "source": "lobsters",
+    "url": "https://monadicsheep.org/blog/call-for-canvas-patch-testers.html",
+    "title": "Canvas patch: we need testers"
+  },
+  {
+    "source": "lobsters",
     "url": "https://stonetools.ghost.io/hypercard-mac/",
     "title": "HyperCard on the Macintosh"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://www.cl.cam.ac.uk/~nk480/parsing.pdf",
-    "title": "A Typed, Algebraic Approach to Parsing (2019)"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://victoriametrics.com/blog/victorialogs-internals-columnar-storage-on-disk/",
-    "title": "How VictoriaLogs Stores Your Logs in a Columnar Layout"
   },
   {
     "source": "lobsters",
@@ -101,48 +96,18 @@
   },
   {
     "source": "lobsters",
+    "url": "https://victoriametrics.com/blog/victorialogs-internals-columnar-storage-on-disk/",
+    "title": "How VictoriaLogs Stores Your Logs in a Columnar Layout"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://www.cl.cam.ac.uk/~nk480/parsing.pdf",
+    "title": "A Typed, Algebraic Approach to Parsing (2019)"
+  },
+  {
+    "source": "lobsters",
     "url": "https://lyra.horse/blog/2026/06/reddit-spam-internals/",
     "title": "A peek into Reddit's anti-spam internals"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks",
-    "title": "We have Mythos at Home: GLM 5.2 beats Claude in our Cyber Benchmarks"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://monadicsheep.org/blog/call-for-canvas-patch-testers.html",
-    "title": "Canvas patch: we need testers"
-  },
-  {
-    "source": "lobsters",
-    "url": "http://www.righto.com/2026/06/space-shuttle-io-processor-boards.html",
-    "title": "Examining circuit boards from the Space Shuttle's I/O Processor"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://blog.weineng.me/posts/slowest_add/",
-    "title": "Data Access Patterns That Makes Your CPU Really Angry"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://hovinen.me/announcements/2026/06/24/introducing-test-that.html",
-    "title": "Introducing Test That"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://www.stephendiehl.com/posts/prism/",
-    "title": "Prism: An Impure Functional Language With Typed Effects"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://makerspet.com/blog/building-an-open-source-robot-vacuum-meet-oomwoo/",
-    "title": "Building an Open-Source Robot Vacuum — Meet oomwoo"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://forkingmad.blog/tech-morality-is-hard/",
-    "title": "Tech Morality is Hard"
   },
   {
     "source": "lobsters",
@@ -151,7 +116,32 @@
   },
   {
     "source": "lobsters",
-    "url": "https://algassert.com/post/2603",
-    "title": "Unfathomable bugs #10: The Broken Windows Build"
+    "url": "https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks",
+    "title": "We have Mythos at Home: GLM 5.2 beats Claude in our Cyber Benchmarks"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://hovinen.me/announcements/2026/06/24/introducing-test-that.html",
+    "title": "Introducing Test That"
+  },
+  {
+    "source": "lobsters",
+    "url": "http://www.righto.com/2026/06/space-shuttle-io-processor-boards.html",
+    "title": "Examining circuit boards from the Space Shuttle's I/O Processor"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://forkingmad.blog/tech-morality-is-hard/",
+    "title": "Tech Morality is Hard"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://blog.weineng.me/posts/slowest_add/",
+    "title": "Data Access Patterns That Makes Your CPU Really Angry"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://www.stephendiehl.com/posts/prism/",
+    "title": "Prism: An Impure Functional Language With Typed Effects"
   }
 ]
