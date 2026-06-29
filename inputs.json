@@ -21,13 +21,13 @@
   },
   {
     "source": "hn",
-    "url": "https://fergusfinn.com/blog/what-happens-when-you-run-a-gpu-kernel/",
-    "title": "What happens when you run a CUDA kernel?"
+    "url": "https://worksinprogress.co/issue/how-to-lie-about-radiation/",
+    "title": "The Radiation Exposure Lie"
   },
   {
     "source": "hn",
-    "url": "https://worksinprogress.co/issue/how-to-lie-about-radiation/",
-    "title": "The Radiation Exposure Lie"
+    "url": "https://fergusfinn.com/blog/what-happens-when-you-run-a-gpu-kernel/",
+    "title": "What happens when you run a CUDA kernel?"
   },
   {
     "source": "hn",
@@ -63,16 +63,6 @@
     "source": "hn",
     "url": "https://alexwlchan.net/2026/computer-room/",
     "title": "Rebuilding the Computer Room"
-  },
-  {
-    "source": "hn",
-    "url": "https://schamper.dev/dissecting-apples-sparse-image-format-asif/",
-    "title": "Dissecting Apple's Sparse Image Format (ASIF)"
-  },
-  {
-    "source": "hn",
-    "url": "https://exploring-better-ways.bellroy.com/haskell-koan-type-checked-non-empty-strings.html",
-    "title": "Type-checked non-empty strings"
   },
   {
     "source": "lobsters",
@@ -116,6 +106,16 @@
   },
   {
     "source": "lobsters",
+    "url": "https://exploring-better-ways.bellroy.com/haskell-koan-type-checked-non-empty-strings.html",
+    "title": "Type-checked non-empty strings"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://nebusec.ai/research/v8-cve-2026-6307-writeup/",
+    "title": "Longinus: 2 Boundaries in One Bug, Piercing Chrome’s Renderer and V8 Sandbox with a Single Vulnerability, CVE-2026-6307"
+  },
+  {
+    "source": "lobsters",
     "url": "https://maskray.me/blog/2026-06-28-optimizing-llvm-bump-allocator",
     "title": "Optimizing LLVM's bump allocator"
   },
@@ -126,8 +126,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://nebusec.ai/research/v8-cve-2026-6307-writeup/",
-    "title": "Longinus: 2 Boundaries in One Bug, Piercing Chrome’s Renderer and V8 Sandbox with a Single Vulnerability, CVE-2026-6307"
+    "url": "https://autocrypt2.org",
+    "title": "Autocrypt v2 - Post-Quantum and Reliable Deletion"
   },
   {
     "source": "lobsters",
@@ -136,8 +136,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://autocrypt2.org",
-    "title": "Autocrypt v2 - Post-Quantum and Reliable Deletion"
+    "url": "https://antonz.org/solod-v0-2/",
+    "title": "Solod v0.2: Networking, new targets, friendlier interop"
   },
   {
     "source": "lobsters",
