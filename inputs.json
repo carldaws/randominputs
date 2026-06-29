@@ -1,13 +1,18 @@
 [
   {
     "source": "hn",
+    "url": "https://hccf.onmy.cloud/2026/06/21/reclaiming-our-digital-selves-hccfs-vision-for-a-human-centered-top-level-domain/",
+    "title": ".self: A new top-level domain designed to support self-hosting"
+  },
+  {
+    "source": "hn",
     "url": "https://quesma.com/blog/qwen-36-is-awesome/",
     "title": "Qwen 3.6 27B is the sweet spot for local development"
   },
   {
     "source": "hn",
-    "url": "https://hccf.onmy.cloud/2026/06/21/reclaiming-our-digital-selves-hccfs-vision-for-a-human-centered-top-level-domain/",
-    "title": ".self: A new top-level domain designed to support self-hosting"
+    "url": "https://weblog.rogueamoeba.com/2026/06/26/free-the-icons/",
+    "title": "Free the Icons"
   },
   {
     "source": "hn",
@@ -16,23 +21,23 @@
   },
   {
     "source": "hn",
-    "url": "https://humphri.es/blog/WATaBoy/",
-    "title": "WATaBoy: JIT-Ing Game Boy Instructions to WASM Beats a Native Interpreter"
-  },
-  {
-    "source": "hn",
     "url": "https://lucassifoni.info/blog/hiking-with-wallace/",
     "title": "Wallace the 6 inch f/2.8 telescope, building it, and hiking with it"
   },
   {
     "source": "hn",
-    "url": "https://vllm.ai/blog/2026-06-29-micro-agent-frontier-models",
-    "title": "Micro-Agent: Beat Frontier Models with Collaboration Inside Model API"
+    "url": "https://humphri.es/blog/WATaBoy/",
+    "title": "WATaBoy: JIT-Ing Game Boy Instructions to WASM Beats a Native Interpreter"
   },
   {
     "source": "hn",
     "url": "https://fergusfinn.com/blog/what-happens-when-you-run-a-gpu-kernel/",
     "title": "What happens when you run a CUDA kernel?"
+  },
+  {
+    "source": "hn",
+    "url": "https://vllm.ai/blog/2026-06-29-micro-agent-frontier-models",
+    "title": "Micro-Agent: Beat Frontier Models with Collaboration Inside Model API"
   },
   {
     "source": "hn",
@@ -46,28 +51,8 @@
   },
   {
     "source": "hn",
-    "url": "https://www.cringely.com/2026/05/28/the-permission-slip/",
-    "title": "The Permission Slip"
-  },
-  {
-    "source": "hn",
     "url": "https://www.savingourstars.org/darkskylighting#whatisdarkskylighting",
     "title": "Dark Sky Lighting"
-  },
-  {
-    "source": "hn",
-    "url": "https://chrismorgan.info/font-family",
-    "title": "Font-Family Recommendations"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.cpushack.com/2026/06/03/sandia-national-labs-sa3000-8085-cpu/",
-    "title": "Sandia National Labs SA3000 8085 CPU"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.outsideonline.com/health/wellness/sunscreen-sun-exposure-skin-cancer-science/",
-    "title": "Is sunscreen the new margarine? (2021)"
   },
   {
     "source": "hn",
@@ -76,8 +61,13 @@
   },
   {
     "source": "hn",
-    "url": "https://www.auditablelicense.org/",
-    "title": "ACL 1.0: A source-available commercial license for the AI era"
+    "url": "https://www.cpushack.com/2026/06/03/sandia-national-labs-sa3000-8085-cpu/",
+    "title": "Sandia National Labs SA3000 8085 CPU"
+  },
+  {
+    "source": "hn",
+    "url": "https://chrismorgan.info/font-family",
+    "title": "Font-Family Recommendations"
   },
   {
     "source": "hn",
@@ -86,13 +76,13 @@
   },
   {
     "source": "hn",
-    "url": "https://worksinprogress.co/issue/how-to-lie-about-radiation/",
-    "title": "The Radiation Exposure Lie"
+    "url": "https://www.outsideonline.com/health/wellness/sunscreen-sun-exposure-skin-cancer-science/",
+    "title": "Is sunscreen the new margarine? (2021)"
   },
   {
     "source": "hn",
-    "url": "https://thomaswc.com/blog/the_return_of_aop.html",
-    "title": "The Return of Aspect Oriented Programming"
+    "url": "https://thomasdullien.github.io/guides/entrepreneurship/",
+    "title": "Halvar's Guide to Entrepreneurship"
   },
   {
     "source": "lobsters",
@@ -121,13 +111,23 @@
   },
   {
     "source": "lobsters",
+    "url": "https://exploring-better-ways.bellroy.com/haskell-koan-type-checked-non-empty-strings.html",
+    "title": "Type-checked non-empty strings"
+  },
+  {
+    "source": "lobsters",
     "url": "https://www.rntz.net/post/2026-06-11-datalog-nontermination.html",
     "title": "Evaluation order and nontermination in query languages"
   },
   {
     "source": "lobsters",
-    "url": "https://exploring-better-ways.bellroy.com/haskell-koan-type-checked-non-empty-strings.html",
-    "title": "Type-checked non-empty strings"
+    "url": "https://www.patrick-breyer.de/en/double-threat-to-private-communications-undemocratic-chat-control-backroom-deals-and-imminent-concessions-spark-relaunch-of-fightchatcontrol-eu/",
+    "title": "“Double Threat” to Private Communications: Undemocratic Chat Control Backroom Deals and Imminent Concessions Spark Relaunch of fightchatcontrol.eu"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://nebusec.ai/research/v8-cve-2026-6307-writeup/",
+    "title": "Longinus: 2 Boundaries in One Bug, Piercing Chrome’s Renderer and V8 Sandbox with a Single Vulnerability, CVE-2026-6307"
   },
   {
     "source": "lobsters",
@@ -141,8 +141,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://nebusec.ai/research/v8-cve-2026-6307-writeup/",
-    "title": "Longinus: 2 Boundaries in One Bug, Piercing Chrome’s Renderer and V8 Sandbox with a Single Vulnerability, CVE-2026-6307"
+    "url": "https://maskray.me/blog/2026-06-28-optimizing-llvm-bump-allocator",
+    "title": "Optimizing LLVM's bump allocator"
   },
   {
     "source": "lobsters",
@@ -156,18 +156,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://maskray.me/blog/2026-06-28-optimizing-llvm-bump-allocator",
-    "title": "Optimizing LLVM's bump allocator"
+    "url": "https://autocrypt2.org",
+    "title": "Autocrypt v2 - Post-Quantum and Reliable Deletion"
   },
   {
     "source": "lobsters",
     "url": "https://cyberstan.co.uk/drm-lpe-linux/",
     "title": "Unprivileged root via a use-after-free in DRM GEM change_handle (CVE-2026-46215)"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://autocrypt2.org",
-    "title": "Autocrypt v2 - Post-Quantum and Reliable Deletion"
   },
   {
     "source": "lobsters",
