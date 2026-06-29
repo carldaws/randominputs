@@ -1,23 +1,28 @@
 [
   {
     "source": "hn",
+    "url": "https://fergusfinn.com/blog/what-happens-when-you-run-a-gpu-kernel/",
+    "title": "What happens when you run a CUDA kernel?"
+  },
+  {
+    "source": "hn",
+    "url": "https://voxelmanip.se/2026/06/28/building-principia-for-windows-xp/",
+    "title": "Building Principia for Windows XP"
+  },
+  {
+    "source": "hn",
     "url": "https://www.cpushack.com/2026/06/03/sandia-national-labs-sa3000-8085-cpu/",
     "title": "Sandia National Labs SA3000 8085 CPU"
   },
   {
     "source": "hn",
+    "url": "https://tidal.com/ai-policy",
+    "title": "Tidal AI Policy"
+  },
+  {
+    "source": "hn",
     "url": "https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks/",
     "title": "GLM 5.2 beats Claude in our benchmarks"
-  },
-  {
-    "source": "hn",
-    "url": "https://blog.pragmaticengineer.com/pollen-tried-to-remove-my-article-about-callum-negus-fancey-and-google-is-assisting-to-it/",
-    "title": "Pollen (CEO Negus-Fancey, CTO Wright) tried to remove article, and Google helped"
-  },
-  {
-    "source": "hn",
-    "url": "https://alexwlchan.net/2026/computer-room/",
-    "title": "Rebuilding the Computer Room"
   },
   {
     "source": "hn",
@@ -31,6 +36,26 @@
   },
   {
     "source": "hn",
+    "url": "https://blog.pragmaticengineer.com/pollen-tried-to-remove-my-article-about-callum-negus-fancey-and-google-is-assisting-to-it/",
+    "title": "Pollen tried to remove my article and Google is assisting with it"
+  },
+  {
+    "source": "hn",
+    "url": "https://alexwlchan.net/2026/computer-room/",
+    "title": "Rebuilding the Computer Room"
+  },
+  {
+    "source": "hn",
+    "url": "https://en.sedaily.com/international/2026/06/29/samsung-sk-hynix-micron-sued-in-us-over-memory-price-fixing",
+    "title": "Samsung, SK Hynix, Micron Sued in US over Memory Price Fixing"
+  },
+  {
+    "source": "hn",
+    "url": "https://davidpoblador.com/deep-dives/the-descent/",
+    "title": "A field guide to the modern front end for developers who hand-wrote HTML"
+  },
+  {
+    "source": "hn",
     "url": "https://schamper.dev/dissecting-apples-sparse-image-format-asif/",
     "title": "Dissecting Apple's Sparse Image Format (ASIF)"
   },
@@ -41,48 +66,18 @@
   },
   {
     "source": "hn",
-    "url": "https://blog.cloudflare.com/hyper-bug/",
-    "title": "We found a bug in the hyper HTTP library"
-  },
-  {
-    "source": "hn",
     "url": "https://dam.stanford.edu/memory-prices.html",
     "title": "Historical memory prices 1960-2026"
   },
   {
     "source": "hn",
+    "url": "https://blog.cloudflare.com/hyper-bug/",
+    "title": "We found a bug in the hyper HTTP library"
+  },
+  {
+    "source": "hn",
     "url": "https://pudding.cool/2026/06/menu-story/",
     "title": "5k menus from the New York Public Library’s Buttolph Collection (1880-1920)"
-  },
-  {
-    "source": "hn",
-    "url": "http://oldvcr.blogspot.com/2026/06/working-around-dragons-with-lemote.html",
-    "title": "Working around dragons with the Lemote Yeeloong laptop and OpenBSD"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.openculture.com/2020/10/daisugi.html",
-    "title": "Daisugi, the Japanese technique of growing trees out of other trees (2020)"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.bloomberg.com/news/features/2020-06-23/golden-geese-and-unicorns-inside-the-eccentric-presentations-of-masayoshi-son",
-    "title": "The Baffling World of Masayoshi Son's Presentations (2020)"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.theatlantic.com/magazine/2026/07/boeing-747-retirement/687304/",
-    "title": "The Boeing 747 begins its final descent"
-  },
-  {
-    "source": "hn",
-    "url": "https://en.sedaily.com/international/2026/06/29/samsung-sk-hynix-micron-sued-in-us-over-memory-price-fixing",
-    "title": "Samsung, SK Hynix, Micron Sued in US over Memory Price Fixing"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://verdagon.dev/blog/ante-blending-borrowing-rc",
-    "title": "Ante: New Way to Blend Borrow Checking and Reference Counting"
   },
   {
     "source": "lobsters",
@@ -91,8 +86,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://gracefulliberty.com/articles/towards-understandable-software/",
-    "title": "Towards Understandable Software"
+    "url": "https://verdagon.dev/blog/ante-blending-borrowing-rc",
+    "title": "Ante: New Way to Blend Borrow Checking and Reference Counting"
   },
   {
     "source": "lobsters",
@@ -101,13 +96,43 @@
   },
   {
     "source": "lobsters",
+    "url": "https://gracefulliberty.com/articles/towards-understandable-software/",
+    "title": "Towards Understandable Software"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://blog.colinbreck.com/when-impressive-performance-gains-do-not-matter/",
+    "title": "When Impressive Performance Gains Do Not Matter"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://www.rntz.net/post/2026-06-11-datalog-nontermination.html",
+    "title": "Evaluation order and nontermination in query languages"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://weinholt.se/articles/loko-scheme-0-13-0/",
+    "title": "Loko Scheme 0.13.0"
+  },
+  {
+    "source": "lobsters",
     "url": "https://www.jayfreestone.com/writing/you-might-not-need-a-service-worker/",
     "title": "You might not need… a service worker"
   },
   {
     "source": "lobsters",
+    "url": "https://maskray.me/blog/2026-06-28-optimizing-llvm-bump-allocator",
+    "title": "Optimizing LLVM's bump allocator"
+  },
+  {
+    "source": "lobsters",
     "url": "https://stonetools.ghost.io/hypercard-mac/",
     "title": "HyperCard on the Macintosh"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://autocrypt2.org",
+    "title": "Autocrypt v2 - Post-Quantum and Reliable Deletion"
   },
   {
     "source": "lobsters",
@@ -121,8 +146,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://maskray.me/blog/2026-06-28-optimizing-llvm-bump-allocator",
-    "title": "Optimizing LLVM's bump allocator"
+    "url": "https://forkingmad.blog/tech-morality-is-hard/",
+    "title": "Tech Morality is Hard"
   },
   {
     "source": "lobsters",
@@ -131,33 +156,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://autocrypt2.org",
-    "title": "Autocrypt v2 - Post-Quantum and Reliable Deletion"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://forkingmad.blog/tech-morality-is-hard/",
-    "title": "Tech Morality is Hard"
-  },
-  {
-    "source": "lobsters",
     "url": "https://hovinen.me/announcements/2026/06/24/introducing-test-that.html",
     "title": "Introducing Test That"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://lyra.horse/blog/2026/06/reddit-spam-internals/",
-    "title": "A peek into Reddit's anti-spam internals"
-  },
-  {
-    "source": "lobsters",
-    "url": "http://www.righto.com/2026/06/space-shuttle-io-processor-boards.html",
-    "title": "Examining circuit boards from the Space Shuttle's I/O Processor"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://blog.colinbreck.com/when-impressive-performance-gains-do-not-matter/",
-    "title": "When Impressive Performance Gains Do Not Matter"
   },
   {
     "source": "pinboard",
