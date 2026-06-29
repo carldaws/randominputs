@@ -16,8 +16,18 @@
   },
   {
     "source": "hn",
+    "url": "https://phys.org/news/2026-06-scientists-molecular-evidence-liquid.html",
+    "title": "Scientists find molecular-level evidence for two structures in liquid water"
+  },
+  {
+    "source": "hn",
     "url": "https://probablymarcus.com/blocks/2026/06/28/native-graphical-shell-for-SSH.html",
     "title": "A native graphical shell for SSH"
+  },
+  {
+    "source": "hn",
+    "url": "https://humphri.es/blog/WATaBoy/",
+    "title": "WATaBoy: JIT-Ing Game Boy Instructions to WASM Beats a Native Interpreter"
   },
   {
     "source": "hn",
@@ -26,8 +36,8 @@
   },
   {
     "source": "hn",
-    "url": "https://humphri.es/blog/WATaBoy/",
-    "title": "WATaBoy: JIT-Ing Game Boy Instructions to WASM Beats a Native Interpreter"
+    "url": "https://htmx.org/essays/working-with-ai/",
+    "title": "Working With AI: A concrete example"
   },
   {
     "source": "hn",
@@ -41,18 +51,13 @@
   },
   {
     "source": "hn",
-    "url": "https://htmx.org/essays/working-with-ai/",
-    "title": "Working With AI: A concrete example"
+    "url": "https://www.savingourstars.org/darkskylighting#whatisdarkskylighting",
+    "title": "Dark Sky Lighting"
   },
   {
     "source": "hn",
     "url": "https://deep-reinforce.com/ornith_1_0.html",
     "title": "Ornith-1.0: Self-scaffolding LLMs for agentic coding"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.savingourstars.org/darkskylighting#whatisdarkskylighting",
-    "title": "Dark Sky Lighting"
   },
   {
     "source": "hn",
@@ -71,18 +76,13 @@
   },
   {
     "source": "hn",
+    "url": "https://www.outsideonline.com/health/wellness/sunscreen-sun-exposure-skin-cancer-science/",
+    "title": "Is sunscreen the new margarine? (2019)"
+  },
+  {
+    "source": "hn",
     "url": "https://alexwlchan.net/2026/computer-room/",
     "title": "Rebuilding the Computer Room"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.outsideonline.com/health/wellness/sunscreen-sun-exposure-skin-cancer-science/",
-    "title": "Is sunscreen the new margarine? (2021)"
-  },
-  {
-    "source": "hn",
-    "url": "https://thomasdullien.github.io/guides/entrepreneurship/",
-    "title": "Halvar's Guide to Entrepreneurship"
   },
   {
     "source": "lobsters",
@@ -111,8 +111,18 @@
   },
   {
     "source": "lobsters",
+    "url": "https://blog.vrypan.net/2026/06/29/260629-whats-wrong-with-eu-age-verification/",
+    "title": "What's wrong with EU age verification? (Nothing)"
+  },
+  {
+    "source": "lobsters",
     "url": "https://exploring-better-ways.bellroy.com/haskell-koan-type-checked-non-empty-strings.html",
     "title": "Type-checked non-empty strings"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://bnewbold.leaflet.pub/3mph4hzvbdc2v",
+    "title": "The AT-URI Syntax Mess"
   },
   {
     "source": "lobsters",
@@ -131,23 +141,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://bnewbold.leaflet.pub/3mph4hzvbdc2v",
-    "title": "The AT-URI Syntax Mess"
-  },
-  {
-    "source": "lobsters",
     "url": "https://gracefulliberty.com/articles/towards-understandable-software/",
     "title": "Towards Understandable Software"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://maskray.me/blog/2026-06-28-optimizing-llvm-bump-allocator",
-    "title": "Optimizing LLVM's bump allocator"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://antonz.org/solod-v0-2/",
-    "title": "Solod v0.2: Networking, new targets, friendlier interop"
   },
   {
     "source": "lobsters",
@@ -156,8 +151,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://autocrypt2.org",
-    "title": "Autocrypt v2 - Post-Quantum and Reliable Deletion"
+    "url": "https://maskray.me/blog/2026-06-28-optimizing-llvm-bump-allocator",
+    "title": "Optimizing LLVM's bump allocator"
   },
   {
     "source": "lobsters",
@@ -166,7 +161,17 @@
   },
   {
     "source": "lobsters",
-    "url": "https://stonetools.ghost.io/hypercard-mac/",
-    "title": "HyperCard on the Macintosh"
+    "url": "https://antonz.org/solod-v0-2/",
+    "title": "Solod v0.2: Networking, new targets, friendlier interop"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://blog.tangled.org/spindle-microvm/",
+    "title": "Spindle's new microVM engine"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://autocrypt2.org",
+    "title": "Autocrypt v2 - Post-Quantum and Reliable Deletion"
   }
 ]
