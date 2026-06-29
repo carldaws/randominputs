@@ -16,8 +16,23 @@
   },
   {
     "source": "hn",
+    "url": "https://lucassifoni.info/blog/hiking-with-wallace/",
+    "title": "Wallace the 6 inch f/2.8 telescope, building it, and hiking with it"
+  },
+  {
+    "source": "hn",
     "url": "https://fergusfinn.com/blog/what-happens-when-you-run-a-gpu-kernel/",
     "title": "What happens when you run a CUDA kernel?"
+  },
+  {
+    "source": "hn",
+    "url": "https://worksinprogress.co/issue/how-to-lie-about-radiation/",
+    "title": "The Radiation Exposure Lie"
+  },
+  {
+    "source": "hn",
+    "url": "https://thomaswc.com/blog/the_return_of_aop.html",
+    "title": "The Return of Aspect Oriented Programming"
   },
   {
     "source": "hn",
@@ -31,23 +46,8 @@
   },
   {
     "source": "hn",
-    "url": "https://thomaswc.com/blog/the_return_of_aop.html",
-    "title": "The Return of Aspect Oriented Programming"
-  },
-  {
-    "source": "hn",
     "url": "https://thomasdullien.github.io/guides/entrepreneurship/",
     "title": "Halvar's Guide to Entrepreneurship"
-  },
-  {
-    "source": "hn",
-    "url": "https://en.sedaily.com/international/2026/06/29/samsung-sk-hynix-micron-sued-in-us-over-memory-price-fixing",
-    "title": "Samsung, SK Hynix, Micron Sued in US over Memory Price Fixing"
-  },
-  {
-    "source": "hn",
-    "url": "https://blog.pragmaticengineer.com/pollen-tried-to-remove-my-article-about-callum-negus-fancey-and-google-is-assisting-to-it/",
-    "title": "Pollen tried to remove my article and Google is assisting with it"
   },
   {
     "source": "hn",
@@ -56,18 +56,13 @@
   },
   {
     "source": "hn",
+    "url": "https://blog.pragmaticengineer.com/pollen-tried-to-remove-my-article-about-callum-negus-fancey-and-google-is-assisting-to-it/",
+    "title": "Pollen tried to remove my article and Google is assisting with it"
+  },
+  {
+    "source": "hn",
     "url": "https://alexwlchan.net/2026/computer-room/",
     "title": "Rebuilding the Computer Room"
-  },
-  {
-    "source": "hn",
-    "url": "https://worksinprogress.co/issue/how-to-lie-about-radiation/",
-    "title": "The Radiation Exposure Lie"
-  },
-  {
-    "source": "hn",
-    "url": "https://exploring-better-ways.bellroy.com/haskell-koan-type-checked-non-empty-strings.html",
-    "title": "Type-checked non-empty strings"
   },
   {
     "source": "hn",
@@ -75,9 +70,19 @@
     "title": "Dissecting Apple's Sparse Image Format (ASIF)"
   },
   {
+    "source": "hn",
+    "url": "https://exploring-better-ways.bellroy.com/haskell-koan-type-checked-non-empty-strings.html",
+    "title": "Type-checked non-empty strings"
+  },
+  {
     "source": "lobsters",
     "url": "https://blog.colinbreck.com/when-impressive-performance-gains-do-not-matter/",
     "title": "When Impressive Performance Gains Do Not Matter"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://vrong.me/blog/what-is-pinning-in-rust/",
+    "title": "What is `std::pin::Pin` in Rust?"
   },
   {
     "source": "lobsters",
@@ -98,11 +103,6 @@
     "source": "lobsters",
     "url": "https://www.rntz.net/post/2026-06-11-datalog-nontermination.html",
     "title": "Evaluation order and nontermination in query languages"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://vrong.me/blog/what-is-pinning-in-rust/",
-    "title": "What is `std::pin::Pin` in Rust?"
   },
   {
     "source": "lobsters",
@@ -143,11 +143,6 @@
     "source": "lobsters",
     "url": "https://nibblestew.blogspot.com/2026/06/pystd-standard-library-similar-ish.html",
     "title": "Pystd standard library, similar-ish functionality with a fraction of the compile time"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://www.cl.cam.ac.uk/~nk480/parsing.pdf",
-    "title": "A Typed, Algebraic Approach to Parsing (2019)"
   },
   {
     "source": "pinboard",
