@@ -6,18 +6,8 @@
   },
   {
     "source": "hn",
-    "url": "https://xonaly.com/",
-    "title": "Xonaly – Canada's Independent Search Engine"
-  },
-  {
-    "source": "hn",
     "url": "https://qsoe.net",
     "title": "A QNX-inspired operating system with selectable kernels"
-  },
-  {
-    "source": "hn",
-    "url": "https://funnelfiasco.com/blog/2026/06/28/on-cigarettes/",
-    "title": "Cigarettes"
   },
   {
     "source": "hn",
@@ -31,6 +21,16 @@
   },
   {
     "source": "hn",
+    "url": "https://www.phantafield.com/whitepaper",
+    "title": "Sophon PFG-1: a monolithic-3D AI ASIC with 330 GB of on-die DRAM and no HBM"
+  },
+  {
+    "source": "hn",
+    "url": "https://blog.plover.com/lang/bismillah.html",
+    "title": "Deciphering Basmala"
+  },
+  {
+    "source": "hn",
     "url": "https://www.theatlantic.com/magazine/2026/07/boeing-747-retirement/687304/",
     "title": "The Boeing 747 begins its final descent"
   },
@@ -41,18 +41,18 @@
   },
   {
     "source": "hn",
-    "url": "https://altermag.com/articles/designing-a-summer-ice-cream-for-india",
-    "title": "The food science behind designing an ice cream"
-  },
-  {
-    "source": "hn",
-    "url": "https://alganet.github.io/blog/2026-06-28-12-POSIX-Is-Not-A-Shell.html",
-    "title": "POSIX Is Not a Shell"
+    "url": "https://xonaly.com/",
+    "title": "Xonaly – Canada's Independent Search Engine"
   },
   {
     "source": "hn",
     "url": "https://www.openculture.com/2020/10/daisugi.html",
     "title": "Daisugi, the Japanese technique of growing trees out of other trees (2020)"
+  },
+  {
+    "source": "hn",
+    "url": "https://alganet.github.io/blog/2026-06-28-12-POSIX-Is-Not-A-Shell.html",
+    "title": "POSIX Is Not a Shell"
   },
   {
     "source": "hn",
@@ -73,11 +73,6 @@
     "source": "hn",
     "url": "https://aresluna.org/the-curious-case-of-the-disappearing-polish-s/",
     "title": "The curious case of the disappearing Polish S (2015)"
-  },
-  {
-    "source": "hn",
-    "url": "https://archive.org/details/colby1968-computer-aided-language-development-in-non-speaking-children",
-    "title": "Computer-Aided Language Development in Nonspeaking Children (1968) [pdf]"
   },
   {
     "source": "lobsters",
@@ -141,6 +136,16 @@
   },
   {
     "source": "lobsters",
+    "url": "https://mikehowells.com/2026/06/21/the-curious-case-of-aa-ns-charter-com/",
+    "title": "The Curious Case of aa.ns.charter.com"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://algassert.com/post/2603",
+    "title": "Unfathomable bugs #10: The Broken Windows Build"
+  },
+  {
+    "source": "lobsters",
     "url": "https://datakinds.github.io//2020/03/15/modeling-the-coronavirus-outbreak-with-j",
     "title": "Modeling the COVID-19 Outbreak with J"
   },
@@ -151,12 +156,7 @@
   },
   {
     "source": "lobsters",
-    "url": "https://mikehowells.com/2026/06/21/the-curious-case-of-aa-ns-charter-com/",
-    "title": "The Curious Case of aa.ns.charter.com"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://algassert.com/post/2603",
-    "title": "Unfathomable bugs #10: The Broken Windows Build"
+    "url": "https://forkingmad.blog/tech-morality-is-hard/",
+    "title": "Tech Morality is Hard"
   }
 ]
