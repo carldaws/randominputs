@@ -6,11 +6,6 @@
   },
   {
     "source": "hn",
-    "url": "https://qsoe.net",
-    "title": "A QNX-inspired operating system with selectable kernels"
-  },
-  {
-    "source": "hn",
     "url": "https://dam.stanford.edu/memory-prices.html",
     "title": "Historical memory prices 1960-2026"
   },
@@ -18,11 +13,6 @@
     "source": "hn",
     "url": "https://pudding.cool/2026/06/menu-story/",
     "title": "5k menus from the New York Public Library’s Buttolph Collection (1880-1920)"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.phantafield.com/whitepaper",
-    "title": "Sophon PFG-1: a monolithic-3D AI ASIC with 330 GB of on-die DRAM and no HBM"
   },
   {
     "source": "hn",
@@ -41,18 +31,13 @@
   },
   {
     "source": "hn",
-    "url": "https://xonaly.com/",
-    "title": "Xonaly – Canada's Independent Search Engine"
-  },
-  {
-    "source": "hn",
     "url": "https://www.openculture.com/2020/10/daisugi.html",
     "title": "Daisugi, the Japanese technique of growing trees out of other trees (2020)"
   },
   {
     "source": "hn",
-    "url": "https://alganet.github.io/blog/2026-06-28-12-POSIX-Is-Not-A-Shell.html",
-    "title": "POSIX Is Not a Shell"
+    "url": "https://www.bloomberg.com/news/features/2020-06-23/golden-geese-and-unicorns-inside-the-eccentric-presentations-of-masayoshi-son",
+    "title": "The Baffling World of Masayoshi Son's Presentations (2020)"
   },
   {
     "source": "hn",
@@ -61,18 +46,23 @@
   },
   {
     "source": "hn",
+    "url": "https://xonaly.com/",
+    "title": "Xonaly – Canada's Independent Search Engine"
+  },
+  {
+    "source": "hn",
     "url": "https://www.righto.com/2026/06/space-shuttle-io-processor-boards.html",
     "title": "Examining circuit boards from the Space Shuttle's I/O Processor"
   },
   {
     "source": "hn",
-    "url": "https://www.britishorigami.org/cp-lister-list/the-1955-exhibition-by-akira-yoshizawa/",
-    "title": "British Origami: the 1955 exhibition by Akira Yoshizawa (2005)"
+    "url": "https://aresluna.org/the-curious-case-of-the-disappearing-polish-s/",
+    "title": "The curious case of the disappearing Polish S (2015)"
   },
   {
     "source": "hn",
-    "url": "https://aresluna.org/the-curious-case-of-the-disappearing-polish-s/",
-    "title": "The curious case of the disappearing Polish S (2015)"
+    "url": "https://www.britishorigami.org/cp-lister-list/the-1955-exhibition-by-akira-yoshizawa/",
+    "title": "British Origami: the 1955 exhibition by Akira Yoshizawa (2005)"
   },
   {
     "source": "lobsters",
@@ -86,13 +76,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://lyra.horse/blog/2026/06/reddit-spam-internals/",
-    "title": "A peek into Reddit's anti-spam internals"
+    "url": "https://www.cl.cam.ac.uk/~nk480/parsing.pdf",
+    "title": "A Typed, Algebraic Approach to Parsing (2019)"
   },
   {
     "source": "lobsters",
-    "url": "https://www.cl.cam.ac.uk/~nk480/parsing.pdf",
-    "title": "A Typed, Algebraic Approach to Parsing (2019)"
+    "url": "https://stonetools.ghost.io/hypercard-mac/",
+    "title": "HyperCard on the Macintosh"
   },
   {
     "source": "lobsters",
@@ -101,8 +91,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://stonetools.ghost.io/hypercard-mac/",
-    "title": "HyperCard on the Macintosh"
+    "url": "https://lyra.horse/blog/2026/06/reddit-spam-internals/",
+    "title": "A peek into Reddit's anti-spam internals"
   },
   {
     "source": "lobsters",
@@ -121,8 +111,18 @@
   },
   {
     "source": "lobsters",
+    "url": "https://hovinen.me/announcements/2026/06/24/introducing-test-that.html",
+    "title": "Introducing Test That"
+  },
+  {
+    "source": "lobsters",
     "url": "https://makerspet.com/blog/building-an-open-source-robot-vacuum-meet-oomwoo/",
     "title": "Building an Open-Source Robot Vacuum — Meet oomwoo"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://verdagon.dev/blog/ante-blending-borrowing-rc",
+    "title": "Ante: New Way to Blend Borrow Checking and Reference Counting"
   },
   {
     "source": "lobsters",
@@ -131,18 +131,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://hovinen.me/announcements/2026/06/24/introducing-test-that.html",
-    "title": "Introducing Test That"
+    "url": "https://algassert.com/post/2603",
+    "title": "Unfathomable bugs #10: The Broken Windows Build"
   },
   {
     "source": "lobsters",
     "url": "https://mikehowells.com/2026/06/21/the-curious-case-of-aa-ns-charter-com/",
     "title": "The Curious Case of aa.ns.charter.com"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://algassert.com/post/2603",
-    "title": "Unfathomable bugs #10: The Broken Windows Build"
   },
   {
     "source": "lobsters",
@@ -158,5 +153,110 @@
     "source": "lobsters",
     "url": "https://forkingmad.blog/tech-morality-is-hard/",
     "title": "Tech Morality is Hard"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://w.pitula.me/fintech-engineering-handbook/",
+    "title": "Fintech Engineering Handbook"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://markdy.com/",
+    "title": "Markdy — Open-Source Animation DSL Engine"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://daringfireball.net/2026/06/om",
+    "title": "Daring Fireball: Om"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://buttondown.com/maiht3k/archive/how-to-talk-about-ai-without-adding-to-the/",
+    "title": "How to talk about \"AI\" without adding to the anthropomorphization • Buttondown"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://nesbitt.io/2026/06/26/incident-report-cve-2026-lgtm.html",
+    "title": "Incident Report: CVE-2026-LGTM | Andrew Nesbitt"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://lr0.org/blog/p/arabic/",
+    "title": "An interactive introduction to the terrific experience of rendering Arabic typography and its technical debt | La Vita Nouva"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://graphicore.github.io/librebarcode/",
+    "title": "Home | Libre Barcode Project"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://blog.omgmog.net/post/xteink-x4-e-ink-reader/",
+    "title": "The Xteink X4 E-Ink Reader — Max Glenister"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://pete.design/tw-fade",
+    "title": "tw-fade - Tailwind CSS scroll-edge fading with CSS masks"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://refactoringenglish.com/excerpts/write-an-effective-design-doc/",
+    "title": "How to Write an Effective Software Design Document"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://lefakkomies.github.io/pynomo-doc/introduction/introduction.html#what-is-a-nomogram-and-why-would-it-interest-me",
+    "title": "Nomograms (python)"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.wired.com/story/british-police-built-a-sprawling-crime-prediction-machine-some-results-couldnt-be-trusted/",
+    "title": "British Police Built a Sprawling Crime-Prediction Machine. Some Results Couldn’t Be Trusted"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://evmar.github.io/jjtut/",
+    "title": "Evan's Jujutsu Tutorial"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://yllan.org/software/OS9Map/",
+    "title": "OS9Map | yllan's stories"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://mlc.ai/modern-gpu-programming-for-mlsys/#",
+    "title": "Modern GPU Programming For MLSys — Modern GPU Programming For MLSys"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.fernandoi.cl/posts/hackmyclaw/",
+    "title": "What happened after 2,000 people tried to hack my AI assistant — Fernando Irarrázaval"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.dbreunig.com/2026/06/22/the-problem-is-prompt-debt.html",
+    "title": "The Problem is Prompt Debt"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.openculture.com/freeonlinecourses",
+    "title": "1200 Free Online Courses from Top Universities | Open Culture"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://vickiboykis.com/2026/06/15/running-local-models-is-good-now/",
+    "title": "Running local models is good now | ✰Vicki Boykis✰"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.semafor.com/article/06/27/2026/us-releases-powerful-anthropic-model-mythos-to-some-us-companies",
+    "title": "Exclusive: US releases powerful Anthropic model Mythos to some US companies"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://sofiakodar.github.io/posts/becomingmanager/",
+    "title": "The truth about being a manager"
   }
 ]
