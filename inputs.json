@@ -6,18 +6,23 @@
   },
   {
     "source": "hn",
+    "url": "https://blog.pragmaticengineer.com/pollen-tried-to-remove-my-article-about-callum-negus-fancey-and-google-is-assisting-to-it/",
+    "title": "Pollen (CEO Negus-Fancey, CTO Wright) tried to remove article, and Google helped"
+  },
+  {
+    "source": "hn",
     "url": "https://schamper.dev/dissecting-apples-sparse-image-format-asif/",
     "title": "Dissecting Apple's Sparse Image Format (ASIF)"
   },
   {
     "source": "hn",
-    "url": "https://dam.stanford.edu/memory-prices.html",
-    "title": "Historical memory prices 1960-2026"
+    "url": "https://blog.cloudflare.com/hyper-bug/",
+    "title": "We found a bug in the hyper HTTP library"
   },
   {
     "source": "hn",
-    "url": "https://blog.cloudflare.com/hyper-bug/",
-    "title": "We found a bug in the hyper HTTP library"
+    "url": "https://dam.stanford.edu/memory-prices.html",
+    "title": "Historical memory prices 1960-2026"
   },
   {
     "source": "hn",
@@ -31,13 +36,8 @@
   },
   {
     "source": "hn",
-    "url": "https://www.wildmanlife.com/the-forgotten-castles-of-the-garamantes/",
-    "title": "The Forgotten Castles of the Garamantes"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.bloomberg.com/news/features/2020-06-23/golden-geese-and-unicorns-inside-the-eccentric-presentations-of-masayoshi-son",
-    "title": "The Baffling World of Masayoshi Son's Presentations (2020)"
+    "url": "https://thomasdullien.github.io/guides/entrepreneurship/",
+    "title": "Halvar's Guide to Entrepreneurship"
   },
   {
     "source": "hn",
@@ -56,13 +56,8 @@
   },
   {
     "source": "hn",
-    "url": "https://www.righto.com/2026/06/space-shuttle-io-processor-boards.html",
-    "title": "Examining circuit boards from the Space Shuttle's I/O Processor"
-  },
-  {
-    "source": "hn",
-    "url": "https://aresluna.org/the-curious-case-of-the-disappearing-polish-s/",
-    "title": "The curious case of the disappearing Polish S (2015)"
+    "url": "https://www.bloomberg.com/news/features/2020-06-23/golden-geese-and-unicorns-inside-the-eccentric-presentations-of-masayoshi-son",
+    "title": "The Baffling World of Masayoshi Son's Presentations (2020)"
   },
   {
     "source": "lobsters",
@@ -76,18 +71,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://verdagon.dev/blog/ante-blending-borrowing-rc",
-    "title": "Ante: New Way to Blend Borrow Checking and Reference Counting"
-  },
-  {
-    "source": "lobsters",
     "url": "https://monadicsheep.org/blog/call-for-canvas-patch-testers.html",
     "title": "Canvas patch: we need testers"
   },
   {
     "source": "lobsters",
-    "url": "https://stonetools.ghost.io/hypercard-mac/",
-    "title": "HyperCard on the Macintosh"
+    "url": "https://verdagon.dev/blog/ante-blending-borrowing-rc",
+    "title": "Ante: New Way to Blend Borrow Checking and Reference Counting"
   },
   {
     "source": "lobsters",
@@ -96,8 +86,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://victoriametrics.com/blog/victorialogs-internals-columnar-storage-on-disk/",
-    "title": "How VictoriaLogs Stores Your Logs in a Columnar Layout"
+    "url": "https://stonetools.ghost.io/hypercard-mac/",
+    "title": "HyperCard on the Macintosh"
   },
   {
     "source": "lobsters",
@@ -106,8 +96,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://lyra.horse/blog/2026/06/reddit-spam-internals/",
-    "title": "A peek into Reddit's anti-spam internals"
+    "url": "https://victoriametrics.com/blog/victorialogs-internals-columnar-storage-on-disk/",
+    "title": "How VictoriaLogs Stores Your Logs in a Columnar Layout"
   },
   {
     "source": "lobsters",
@@ -121,6 +111,21 @@
   },
   {
     "source": "lobsters",
+    "url": "https://lyra.horse/blog/2026/06/reddit-spam-internals/",
+    "title": "A peek into Reddit's anti-spam internals"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://forkingmad.blog/tech-morality-is-hard/",
+    "title": "Tech Morality is Hard"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://autocrypt2.org",
+    "title": "Autocrypt v2 - Post-Quantum and Reliable Deletion"
+  },
+  {
+    "source": "lobsters",
     "url": "https://hovinen.me/announcements/2026/06/24/introducing-test-that.html",
     "title": "Introducing Test That"
   },
@@ -131,11 +136,6 @@
   },
   {
     "source": "lobsters",
-    "url": "https://forkingmad.blog/tech-morality-is-hard/",
-    "title": "Tech Morality is Hard"
-  },
-  {
-    "source": "lobsters",
     "url": "https://blog.weineng.me/posts/slowest_add/",
     "title": "Data Access Patterns That Makes Your CPU Really Angry"
   },
@@ -143,5 +143,105 @@
     "source": "lobsters",
     "url": "https://www.stephendiehl.com/posts/prism/",
     "title": "Prism: An Impure Functional Language With Typed Effects"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://w.pitula.me/fintech-engineering-handbook/",
+    "title": "Fintech Engineering Handbook"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://daringfireball.net/2026/06/om",
+    "title": "Daring Fireball: Om"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://nesbitt.io/2026/06/26/incident-report-cve-2026-lgtm.html",
+    "title": "Incident Report: CVE-2026-LGTM | Andrew Nesbitt"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://graphicore.github.io/librebarcode/",
+    "title": "Home | Libre Barcode Project"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://mlc.ai/modern-gpu-programming-for-mlsys/#",
+    "title": "Modern GPU Programming For MLSys — Modern GPU Programming For MLSys"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://lr0.org/blog/p/arabic/",
+    "title": "An interactive introduction to the terrific experience of rendering Arabic typography and its technical debt | La Vita Nouva"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://lefakkomies.github.io/pynomo-doc/introduction/introduction.html#what-is-a-nomogram-and-why-would-it-interest-me",
+    "title": "Nomograms (python)"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://yllan.org/software/OS9Map/",
+    "title": "OS9Map | yllan's stories"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://cauenapier.com/blog/townsquare_release/",
+    "title": "Turn your site into a place people can bump into each other - cauenapier"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://blog.omgmog.net/post/xteink-x4-e-ink-reader/",
+    "title": "The Xteink X4 E-Ink Reader — Max Glenister"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://evmar.github.io/jjtut/",
+    "title": "Evan's Jujutsu Tutorial"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://dervis.de/physical/",
+    "title": "If You Can't Hold It, You Don't Own It | Cem Dervis"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://refactoringenglish.com/excerpts/write-an-effective-design-doc/",
+    "title": "How to Write an Effective Software Design Document"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://vickiboykis.com/2026/06/15/running-local-models-is-good-now/",
+    "title": "Running local models is good now | ✰Vicki Boykis✰"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.openra.net/",
+    "title": "OpenRA"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://ma.tt/2026/06/om-forever/",
+    "title": "All Roads Lead to Om | Matt Mullenweg"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://jayacunzo.com/blog/your-move-chief",
+    "title": "The best response to AI slop, infinite advice, and online noise is from Robin Williams"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://markdy.com/",
+    "title": "Markdy — Open-Source Animation DSL Engine"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.beercss.com/",
+    "title": "Beercss since 2021"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://marelle.forge.apps.education.fr/",
+    "title": "Marelle | Police cursive libre pour l’enseignement de l’écriture à l’école élémentaire"
   }
 ]
