@@ -6,6 +6,11 @@
   },
   {
     "source": "hn",
+    "url": "https://hccf.onmy.cloud/2026/06/21/reclaiming-our-digital-selves-hccfs-vision-for-a-human-centered-top-level-domain/",
+    "title": "Announcing .self: A New Top-Level Domain Designed to Support Self-Hosting"
+  },
+  {
+    "source": "hn",
     "url": "https://probablymarcus.com/blocks/2026/06/28/native-graphical-shell-for-SSH.html",
     "title": "A native graphical shell for SSH"
   },
@@ -31,8 +36,8 @@
   },
   {
     "source": "hn",
-    "url": "https://thomaswc.com/blog/the_return_of_aop.html",
-    "title": "The Return of Aspect Oriented Programming"
+    "url": "https://vllm.ai/blog/2026-06-29-micro-agent-frontier-models",
+    "title": "Micro-Agent: Beat Frontier Models with Collaboration Inside Model API"
   },
   {
     "source": "hn",
@@ -41,8 +46,13 @@
   },
   {
     "source": "hn",
-    "url": "https://tidal.com/ai-policy",
-    "title": "Tidal AI Policy"
+    "url": "https://thomaswc.com/blog/the_return_of_aop.html",
+    "title": "The Return of Aspect Oriented Programming"
+  },
+  {
+    "source": "hn",
+    "url": "https://chrismorgan.info/font-family",
+    "title": "Font-Family Recommendations"
   },
   {
     "source": "hn",
@@ -51,18 +61,23 @@
   },
   {
     "source": "hn",
-    "url": "https://voxelmanip.se/2026/06/28/building-principia-for-windows-xp/",
-    "title": "Building Principia for Windows XP"
+    "url": "https://alexwlchan.net/2026/computer-room/",
+    "title": "Rebuilding the Computer Room"
+  },
+  {
+    "source": "hn",
+    "url": "https://tidal.com/ai-policy",
+    "title": "Tidal AI Policy"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.auditablelicense.org/",
+    "title": "ACL 1.0: A source-available commercial license for the AI era"
   },
   {
     "source": "hn",
     "url": "https://blog.pragmaticengineer.com/pollen-tried-to-remove-my-article-about-callum-negus-fancey-and-google-is-assisting-to-it/",
     "title": "Pollen tried to remove my article and Google is assisting with it"
-  },
-  {
-    "source": "hn",
-    "url": "https://alexwlchan.net/2026/computer-room/",
-    "title": "Rebuilding the Computer Room"
   },
   {
     "source": "lobsters",
@@ -76,6 +91,11 @@
   },
   {
     "source": "lobsters",
+    "url": "https://weinholt.se/articles/loko-scheme-0-13-0/",
+    "title": "Loko Scheme 0.13.0"
+  },
+  {
+    "source": "lobsters",
     "url": "https://monadicsheep.org/blog/call-for-canvas-patch-testers.html",
     "title": "Canvas patch: we need testers"
   },
@@ -83,11 +103,6 @@
     "source": "lobsters",
     "url": "https://verdagon.dev/blog/ante-blending-borrowing-rc",
     "title": "Ante: New Way to Blend Borrow Checking and Reference Counting"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://weinholt.se/articles/loko-scheme-0-13-0/",
-    "title": "Loko Scheme 0.13.0"
   },
   {
     "source": "lobsters",
@@ -101,13 +116,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://gracefulliberty.com/articles/towards-understandable-software/",
-    "title": "Towards Understandable Software"
+    "url": "https://exploring-better-ways.bellroy.com/haskell-koan-type-checked-non-empty-strings.html",
+    "title": "Type-checked non-empty strings"
   },
   {
     "source": "lobsters",
-    "url": "https://exploring-better-ways.bellroy.com/haskell-koan-type-checked-non-empty-strings.html",
-    "title": "Type-checked non-empty strings"
+    "url": "https://gracefulliberty.com/articles/towards-understandable-software/",
+    "title": "Towards Understandable Software"
   },
   {
     "source": "lobsters",
@@ -116,13 +131,18 @@
   },
   {
     "source": "lobsters",
-    "url": "https://maskray.me/blog/2026-06-28-optimizing-llvm-bump-allocator",
-    "title": "Optimizing LLVM's bump allocator"
+    "url": "https://antonz.org/solod-v0-2/",
+    "title": "Solod v0.2: Networking, new targets, friendlier interop"
   },
   {
     "source": "lobsters",
     "url": "https://www.jayfreestone.com/writing/you-might-not-need-a-service-worker/",
     "title": "You might not need… a service worker"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://maskray.me/blog/2026-06-28-optimizing-llvm-bump-allocator",
+    "title": "Optimizing LLVM's bump allocator"
   },
   {
     "source": "lobsters",
@@ -136,13 +156,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://antonz.org/solod-v0-2/",
-    "title": "Solod v0.2: Networking, new targets, friendlier interop"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://nibblestew.blogspot.com/2026/06/pystd-standard-library-similar-ish.html",
-    "title": "Pystd standard library, similar-ish functionality with a fraction of the compile time"
+    "url": "https://cyberstan.co.uk/drm-lpe-linux/",
+    "title": "Unprivileged root via a use-after-free in DRM GEM change_handle (CVE-2026-46215)"
   },
   {
     "source": "pinboard",
@@ -222,7 +237,7 @@
   {
     "source": "pinboard",
     "url": "https://ma.tt/2026/06/om-forever/",
-    "title": "All Roads Lead to Om | Matt Mullenweg"
+    "title": "All Roads Lead to Om"
   },
   {
     "source": "pinboard",
