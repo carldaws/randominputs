@@ -6,8 +6,13 @@
   },
   {
     "source": "hn",
-    "url": "https://cekrem.github.io/posts/parse-dont-validate-typescript/",
-    "title": "Parse, Don't Validate – In a Language That Doesn't Want You To"
+    "url": "https://www.gutenberg.org/ebooks/24518",
+    "title": "Memoirs of Extraordinary Popular Delusions and the Madness of Crowds (1852)"
+  },
+  {
+    "source": "hn",
+    "url": "https://ranpara.net/posts/words-are-a-byproduct-of-consciousness/",
+    "title": "Words Are a Byproduct of Consciousness. For LLMs, It's Backwards"
   },
   {
     "source": "hn",
@@ -16,13 +21,18 @@
   },
   {
     "source": "hn",
-    "url": "https://www.gutenberg.org/ebooks/24518",
-    "title": "Memoirs of Extraordinary Popular Delusions and the Madness of Crowds"
+    "url": "https://vosen.github.io/ZLUDA/blog/zluda-update-q1q2-2026/",
+    "title": "Zluda 6 release (run unmodified CUDA applications on non-Nvidia GPUs)"
   },
   {
     "source": "hn",
     "url": "https://quesma.com/blog/qwen-36-is-awesome/",
     "title": "Qwen 3.6 27B is the sweet spot for local development"
+  },
+  {
+    "source": "hn",
+    "url": "https://cekrem.github.io/posts/parse-dont-validate-typescript/",
+    "title": "Parse, Don't Validate – In a Language That Doesn't Want You To"
   },
   {
     "source": "hn",
@@ -36,8 +46,13 @@
   },
   {
     "source": "hn",
-    "url": "https://vosen.github.io/ZLUDA/blog/zluda-update-q1q2-2026/",
-    "title": "Zluda 6 release (run unmodified CUDA applications on non-Nvidia GPUs)"
+    "url": "https://taonaw.com/2026/06/27/have-you-restarted-your-computer.html",
+    "title": "Have You Restarted Your Computer This Week?"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.knopper.net/knoppix/index-en.html",
+    "title": "Knoppix"
   },
   {
     "source": "hn",
@@ -56,13 +71,13 @@
   },
   {
     "source": "hn",
-    "url": "http://occ.sdf.org/",
-    "title": "Old Computer Challenge"
+    "url": "https://obsolescence.dev/pdp1-lisp-introduction.html",
+    "title": "Exploring PDP-1 Lisp (1960)"
   },
   {
     "source": "hn",
-    "url": "https://obsolescence.dev/pdp1-lisp-introduction.html",
-    "title": "Exploring PDP-1 Lisp (1960)"
+    "url": "http://occ.sdf.org/",
+    "title": "Old Computer Challenge"
   },
   {
     "source": "hn",
@@ -75,54 +90,9 @@
     "title": "How to corrupt an SQLite database file"
   },
   {
-    "source": "hn",
-    "url": "https://twoheads.net/the-promise-is-unattended-work/",
-    "title": "The operating cost starts after the demo"
-  },
-  {
-    "source": "hn",
-    "url": "https://ziglang.org/devlog/2026/#2026-06-26",
-    "title": "Zig – SPIR-V Backend Progress"
-  },
-  {
-    "source": "hn",
-    "url": "https://antaresindustries.com/updates/antares-achieves-criticality",
-    "title": "Antares Achieves Criticality of Mark-0 Reactor"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.savingourstars.org/darkskylighting#whatisdarkskylighting",
-    "title": "Dark Sky Lighting"
-  },
-  {
     "source": "lobsters",
     "url": "https://blog.vrypan.net/2026/06/29/260629-whats-wrong-with-eu-age-verification/",
     "title": "What's wrong with EU age verification? (Nothing)"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://vrong.me/blog/what-is-pinning-in-rust/",
-    "title": "What is `std::pin::Pin` in Rust?"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://blog.colinbreck.com/when-impressive-performance-gains-do-not-matter/",
-    "title": "When Impressive Performance Gains Do Not Matter"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://marcin.juszkiewicz.com.pl/2026/06/26/the-end-of-the-aarch64-desktop-experiment/",
-    "title": "The end of the AArch64 desktopexperiment"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://roscidus.com/blog/blog/2025/06/24/graphics/",
-    "title": "Investigating Linux graphics (2025)"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://tangled.org/elidowling.com/jj_tui",
-    "title": "jj_tui: terminal user interface to jujutsu focused on speed and clarity"
   },
   {
     "source": "lobsters",
@@ -131,18 +101,38 @@
   },
   {
     "source": "lobsters",
-    "url": "https://www.wezm.net/v2/posts/2026/bre/",
-    "title": "Platform Support for GNU Extensions to Basic Regular Expressions"
+    "url": "https://marcin.juszkiewicz.com.pl/2026/06/26/the-end-of-the-aarch64-desktop-experiment/",
+    "title": "The end of the AArch64 desktopexperiment"
   },
   {
     "source": "lobsters",
-    "url": "https://humphri.es/blog/WATaBoy/",
-    "title": "WATaBoy: JIT-ing Game Boy Instructions to Wasm Beats a Native Interpreter"
+    "url": "https://vrong.me/blog/what-is-pinning-in-rust/",
+    "title": "What is `std::pin::Pin` in Rust?"
   },
   {
     "source": "lobsters",
-    "url": "https://readerunner.wordpress.com/2021/09/13/diagrams-for-penrose-tiles/",
-    "title": "Diagrams for Penrose Tiles"
+    "url": "https://roscidus.com/blog/blog/2025/06/24/graphics/",
+    "title": "Investigating Linux graphics (2025)"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://blog.colinbreck.com/when-impressive-performance-gains-do-not-matter/",
+    "title": "When Impressive Performance Gains Do Not Matter"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://tangled.org/elidowling.com/jj_tui",
+    "title": "jj_tui: terminal user interface to jujutsu focused on speed and clarity"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://servo.org/blog/2026/06/30/may-in-servo/",
+    "title": "May in Servo: user scripts, mp4 compat, blackboxing in DevTools, and more"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://value.gay/blog/furality-ultra-av",
+    "title": "Furality Ultra Club A/V Writeup"
   },
   {
     "source": "lobsters",
@@ -151,23 +141,18 @@
   },
   {
     "source": "lobsters",
-    "url": "https://probablymarcus.com/blocks/2026/06/28/native-graphical-shell-for-SSH.html",
-    "title": "A native graphical shell for SSH"
+    "url": "https://www.wezm.net/v2/posts/2026/bre/",
+    "title": "Platform Support for GNU Extensions to Basic Regular Expressions"
   },
   {
     "source": "lobsters",
-    "url": "https://weinholt.se/articles/loko-scheme-0-13-0/",
-    "title": "Loko Scheme 0.13.0"
+    "url": "https://readerunner.wordpress.com/2021/09/13/diagrams-for-penrose-tiles/",
+    "title": "Diagrams for Penrose Tiles"
   },
   {
     "source": "lobsters",
-    "url": "https://bnewbold.leaflet.pub/3mph4hzvbdc2v",
-    "title": "The AT-URI Syntax Mess"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://value.gay/blog/furality-ultra-av",
-    "title": "Furality Ultra Club A/V Writeup"
+    "url": "https://humphri.es/blog/WATaBoy/",
+    "title": "WATaBoy: JIT-ing Game Boy Instructions to Wasm Beats a Native Interpreter"
   },
   {
     "source": "lobsters",
@@ -181,8 +166,33 @@
   },
   {
     "source": "lobsters",
+    "url": "https://bnewbold.leaflet.pub/3mph4hzvbdc2v",
+    "title": "The AT-URI Syntax Mess"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://weinholt.se/articles/loko-scheme-0-13-0/",
+    "title": "Loko Scheme 0.13.0"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://slint.dev/blog/slint-and-the-nodejs-event-loop",
+    "title": "Slint and the Node.js Event Loop"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://probablymarcus.com/blocks/2026/06/28/native-graphical-shell-for-SSH.html",
+    "title": "A native graphical shell for SSH"
+  },
+  {
+    "source": "lobsters",
     "url": "https://verdagon.dev/blog/ante-blending-borrowing-rc",
     "title": "Ante: New Way to Blend Borrow Checking and Reference Counting"
+  },
+  {
+    "source": "lobsters",
+    "url": "http://peter.eisentraut.org/blog/2026/06/30/waiting-for-sql-202y-stockholm-meeting-report",
+    "title": "Waiting for SQL:202y: Stockholm (BMA) meeting report"
   },
   {
     "source": "lobsters",
@@ -195,13 +205,88 @@
     "title": "Canvas patch: we need testers"
   },
   {
-    "source": "lobsters",
-    "url": "https://www.rntz.net/post/2026-06-11-datalog-nontermination.html",
-    "title": "Evaluation order and nontermination in query languages"
+    "source": "pinboard",
+    "url": "https://w.pitula.me/fintech-engineering-handbook/",
+    "title": "Fintech Engineering Handbook"
   },
   {
-    "source": "lobsters",
-    "url": "https://servo.org/blog/2026/06/30/may-in-servo/",
-    "title": "May in Servo: user scripts, mp4 compat, blackboxing in DevTools, and more"
+    "source": "pinboard",
+    "url": "https://fergusfinn.com/blog/what-happens-when-you-run-a-gpu-kernel/",
+    "title": "What happens when you run a CUDA kernel"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://daringfireball.net/2026/06/om",
+    "title": "Daring Fireball: Om"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://refactoringenglish.com/excerpts/write-an-effective-design-doc/",
+    "title": "How to Write an Effective Software Design Document"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks/",
+    "title": "We have Mythos at Home: GLM 5.2 beats Claude in our Cyber Benchmarks | Semgrep"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://dervis.de/physical/",
+    "title": "If You Can't Hold It, You Don't Own It | Cem Dervis"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://pudding.cool/2026/06/menu-story/",
+    "title": "A History of Menus is a Menu of History | The Pudding"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.beercss.com/",
+    "title": "Beercss since 2021"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://news.ycombinator.com/item?id=48721903",
+    "title": "Qwen 3.6 27B is the sweet spot for local development | Hacker News"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://alexwlchan.net/2026/computer-room/",
+    "title": "Rebuilding the computer room – alexwlchan"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.openra.net/",
+    "title": "OpenRA"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://blog.omgmog.net/post/xteink-x4-e-ink-reader/",
+    "title": "The Xteink X4 E-Ink Reader — Max Glenister"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://jayacunzo.com/blog/your-move-chief",
+    "title": "The best response to AI slop, infinite advice, and online noise is from Robin Williams"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.sfwriter.com/wordstar.htm",
+    "title": "Science Fiction Writer Robert J. Sawyer: WordStar: A Writer's Word Processor"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://thomasdullien.github.io/guides/entrepreneurship/",
+    "title": "Halvar’s Guide to Entrepreneurship – Thomas Dullien / Halvar Flake"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.schneier.com/blog/archives/2026/06/ai-and-liability.html",
+    "title": "AI and Liability - Schneier on Security"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://nesbitt.io/2026/06/26/incident-report-cve-2026-lgtm.html",
+    "title": "Incident Report: CVE-2026-LGTM | Andrew Nesbitt"
   }
 ]
