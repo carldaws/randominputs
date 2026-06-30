@@ -6,6 +6,11 @@
   },
   {
     "source": "hn",
+    "url": "https://antaresindustries.com/updates/antares-achieves-criticality",
+    "title": "Antares Achieves Criticality of Mark-0 Reactor"
+  },
+  {
+    "source": "hn",
     "url": "https://quesma.com/blog/qwen-36-is-awesome/",
     "title": "Qwen 3.6 27B is the sweet spot for local development"
   },
@@ -18,6 +23,16 @@
     "source": "hn",
     "url": "https://weblog.rogueamoeba.com/2026/06/26/free-the-icons/",
     "title": "Free the Icons"
+  },
+  {
+    "source": "hn",
+    "url": "https://vflash.github.io/Tyaff/",
+    "title": "I spent 6 days building my VDOM library as I hated how React handles memo"
+  },
+  {
+    "source": "hn",
+    "url": "https://twoheads.net/the-promise-is-unattended-work/",
+    "title": "The operating cost starts after the demo"
   },
   {
     "source": "hn",
@@ -41,26 +56,6 @@
   },
   {
     "source": "hn",
-    "url": "https://marcin.juszkiewicz.com.pl/2026/06/26/the-end-of-the-aarch64-desktop-experiment/",
-    "title": "The end of the AArch64 desktop experiment"
-  },
-  {
-    "source": "hn",
-    "url": "https://cse.buffalo.edu/tech-reports/2014-04.pdf",
-    "title": "Logical Physical Clocks and Consistent Snapshots in Globally Distributed DB [pdf]"
-  },
-  {
-    "source": "hn",
-    "url": "https://moondream.ai/blog/popping-the-gpu-bubble",
-    "title": "Popping the GPU Bubble"
-  },
-  {
-    "source": "hn",
-    "url": "https://ziglang.org/devlog/2026/#2026-06-26",
-    "title": "Zig – SPIR-V Backend Progress"
-  },
-  {
-    "source": "hn",
     "url": "https://www.sqlite.org/howtocorrupt.html",
     "title": "How to corrupt an SQLite database file"
   },
@@ -71,18 +66,13 @@
   },
   {
     "source": "hn",
+    "url": "https://ziglang.org/devlog/2026/#2026-06-26",
+    "title": "Zig – SPIR-V Backend Progress"
+  },
+  {
+    "source": "hn",
     "url": "https://www.savingourstars.org/darkskylighting#whatisdarkskylighting",
     "title": "Dark Sky Lighting"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.britishorigami.org/cp-lister-list/the-1955-exhibition-by-akira-yoshizawa/",
-    "title": "British Origami: the 1955 exhibition by Akira Yoshizawa (2005)"
-  },
-  {
-    "source": "hn",
-    "url": "https://humphri.es/blog/WATaBoy/",
-    "title": "WATaBoy: JIT-Ing Game Boy Instructions to WASM Beats a Native Interpreter"
   },
   {
     "source": "hn",
@@ -91,13 +81,28 @@
   },
   {
     "source": "hn",
+    "url": "https://marcin.juszkiewicz.com.pl/2026/06/26/the-end-of-the-aarch64-desktop-experiment/",
+    "title": "The end of the AArch64 desktop experiment"
+  },
+  {
+    "source": "hn",
     "url": "https://fergusfinn.com/blog/what-happens-when-you-run-a-gpu-kernel/",
     "title": "What happens when you run a CUDA kernel?"
   },
   {
     "source": "hn",
-    "url": "https://lucassifoni.info/blog/hiking-with-wallace/",
-    "title": "Wallace the 6 inch f/2.8 telescope, building it, and hiking with it"
+    "url": "https://humphri.es/blog/WATaBoy/",
+    "title": "WATaBoy: JIT-Ing Game Boy Instructions to WASM Beats a Native Interpreter"
+  },
+  {
+    "source": "hn",
+    "url": "https://moondream.ai/blog/popping-the-gpu-bubble",
+    "title": "Popping the GPU Bubble"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.britishorigami.org/cp-lister-list/the-1955-exhibition-by-akira-yoshizawa/",
+    "title": "British Origami: the 1955 exhibition by Akira Yoshizawa (2005)"
   },
   {
     "source": "lobsters",
@@ -116,8 +121,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://weinholt.se/articles/loko-scheme-0-13-0/",
-    "title": "Loko Scheme 0.13.0"
+    "url": "https://roscidus.com/blog/blog/2025/06/24/graphics/",
+    "title": "Investigating Linux graphics (2025)"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://tangled.org/elidowling.com/jj_tui",
+    "title": "jj_tui: terminal user interface to jujutsu focused on speed and clarity"
   },
   {
     "source": "lobsters",
@@ -126,13 +136,18 @@
   },
   {
     "source": "lobsters",
-    "url": "https://blog.tangled.org/spindle-microvm/",
-    "title": "Spindle's new microVM engine"
+    "url": "https://rheo.ohrg.org",
+    "title": "Rheo 0.4.0"
   },
   {
     "source": "lobsters",
-    "url": "https://roscidus.com/blog/blog/2025/06/24/graphics/",
-    "title": "Investigating Linux graphics (2025)"
+    "url": "https://weinholt.se/articles/loko-scheme-0-13-0/",
+    "title": "Loko Scheme 0.13.0"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://blog.tangled.org/spindle-microvm/",
+    "title": "Spindle's new microVM engine"
   },
   {
     "source": "lobsters",
@@ -141,13 +156,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://verdagon.dev/blog/ante-blending-borrowing-rc",
-    "title": "Ante: New Way to Blend Borrow Checking and Reference Counting"
+    "url": "https://30fps.net/pages/revisiting-yliluoma-2/",
+    "title": "Revisiting Yliluoma’s ordered dither algorithm"
   },
   {
     "source": "lobsters",
-    "url": "https://monadicsheep.org/blog/call-for-canvas-patch-testers.html",
-    "title": "Canvas patch: we need testers"
+    "url": "https://verdagon.dev/blog/ante-blending-borrowing-rc",
+    "title": "Ante: New Way to Blend Borrow Checking and Reference Counting"
   },
   {
     "source": "lobsters",
@@ -156,13 +171,18 @@
   },
   {
     "source": "lobsters",
-    "url": "https://30fps.net/pages/revisiting-yliluoma-2/",
-    "title": "Revisiting Yliluoma’s ordered dither algorithm"
+    "url": "https://monadicsheep.org/blog/call-for-canvas-patch-testers.html",
+    "title": "Canvas patch: we need testers"
   },
   {
     "source": "lobsters",
     "url": "https://www.rntz.net/post/2026-06-11-datalog-nontermination.html",
     "title": "Evaluation order and nontermination in query languages"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://value.gay/blog/furality-ultra-av",
+    "title": "Furality Ultra Club A/V Writeup"
   },
   {
     "source": "lobsters",
@@ -176,18 +196,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://tangled.org/elidowling.com/jj_tui",
-    "title": "jj_tui: terminal user interface to jujutsu focused on speed and clarity"
-  },
-  {
-    "source": "lobsters",
     "url": "https://gracefulliberty.com/articles/towards-understandable-software/",
     "title": "Towards Understandable Software"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://cyberstan.co.uk/drm-lpe-linux/",
-    "title": "Unprivileged root via a use-after-free in DRM GEM change_handle (CVE-2026-46215)"
   },
   {
     "source": "pinboard",
