@@ -1,11 +1,6 @@
 [
   {
     "source": "hn",
-    "url": "https://unix.foo/posts/last-people-who-know-how-it-works/",
-    "title": "We Are the Last People Who Know How It Works"
-  },
-  {
-    "source": "hn",
     "url": "https://gauthier-lechevalier.com/radar",
     "title": "I built a mmWave material classification radar"
   },
@@ -21,23 +16,23 @@
   },
   {
     "source": "hn",
-    "url": "https://www.gutenberg.org/ebooks/24518",
-    "title": "Memoirs of Extraordinary Popular Delusions and the Madness of Crowds (1852)"
-  },
-  {
-    "source": "hn",
     "url": "https://wakamoleguy.com/p/flexible-gates",
     "title": "Don't Make Gates Optional, Make Them Flexible"
   },
   {
     "source": "hn",
-    "url": "https://apparent.social/heat-map",
-    "title": "Show HN: I made a heatmap of 3400 VCs who are open to cold emails"
+    "url": "https://www.gutenberg.org/ebooks/24518",
+    "title": "Memoirs of Extraordinary Popular Delusions and the Madness of Crowds (1852)"
   },
   {
     "source": "hn",
     "url": "https://opensourcelowtech.org/",
     "title": "Open Source Low Tech"
+  },
+  {
+    "source": "hn",
+    "url": "https://lyra.horse/blog/2026/06/reddit-spam-internals/",
+    "title": "A peek into Reddit's anti-spam internals"
   },
   {
     "source": "hn",
@@ -56,6 +51,11 @@
   },
   {
     "source": "hn",
+    "url": "https://stonecarver.com/",
+    "title": "Walter S. Arnold: Sculptor/Stone Carver"
+  },
+  {
+    "source": "hn",
     "url": "https://hccf.onmy.cloud/2026/06/21/reclaiming-our-digital-selves-hccfs-vision-for-a-human-centered-top-level-domain/",
     "title": ".self: A new top-level domain designed to support self-hosting"
   },
@@ -68,6 +68,11 @@
     "source": "hn",
     "url": "https://www.bloomberg.com/news/articles/2026-06-24/inside-the-shadow-market-selling-access-to-amazon-employees",
     "title": "Amazon Seller Reveals Rare Glimpse of Shadow Bribery Market"
+  },
+  {
+    "source": "hn",
+    "url": "https://antaresindustries.com/updates/antares-achieves-criticality",
+    "title": "Antares achieves criticality of Mark-0 reactor"
   },
   {
     "source": "lobsters",
@@ -86,8 +91,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://marcin.juszkiewicz.com.pl/2026/06/26/the-end-of-the-aarch64-desktop-experiment/",
-    "title": "The end of the AArch64 desktop experiment"
+    "url": "https://cekrem.github.io/posts/parse-dont-validate-typescript/",
+    "title": "Parse, Don't Validate — In a Language That Doesn't Want You To"
   },
   {
     "source": "lobsters",
@@ -96,13 +101,18 @@
   },
   {
     "source": "lobsters",
-    "url": "https://cekrem.github.io/posts/parse-dont-validate-typescript/",
-    "title": "Parse, Don't Validate — In a Language That Doesn't Want You To"
+    "url": "https://marcin.juszkiewicz.com.pl/2026/06/26/the-end-of-the-aarch64-desktop-experiment/",
+    "title": "The end of the AArch64 desktop experiment"
   },
   {
     "source": "lobsters",
     "url": "https://roscidus.com/blog/blog/2025/06/24/graphics/",
     "title": "Investigating Linux graphics (2025)"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://www.feistyduck.com/newsletter/issue_138_the_threat_of_residential_proxies",
+    "title": "The Threat of Residential Proxies"
   },
   {
     "source": "lobsters",
@@ -121,13 +131,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://vercel.com/blog/dockerfile-on-vercel",
-    "title": "Run any Dockerfile on Vercel"
+    "url": "https://soatok.blog/2026/06/30/soatoks-informal-guide-to-threat-models/",
+    "title": "Soatok’s Informal Guide to Threat Models"
   },
   {
     "source": "lobsters",
-    "url": "https://soatok.blog/2026/06/30/soatoks-informal-guide-to-threat-models/",
-    "title": "Soatok’s Informal Guide to Threat Models"
+    "url": "https://vercel.com/blog/dockerfile-on-vercel",
+    "title": "Run any Dockerfile on Vercel"
   },
   {
     "source": "lobsters",
@@ -136,8 +146,18 @@
   },
   {
     "source": "lobsters",
+    "url": "https://k-monk.org/blog/generating-the-p3-tiling/",
+    "title": "Generating the P3 Tiling"
+  },
+  {
+    "source": "lobsters",
     "url": "https://fil-c.org/context_switches",
     "title": "Memory Safe Context Switching"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://blog.tangled.org/spindle-microvm/",
+    "title": "Spindle's new microVM engine"
   },
   {
     "source": "lobsters",
@@ -151,8 +171,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://blog.tangled.org/spindle-microvm/",
-    "title": "Spindle's new microVM engine"
+    "url": "https://value.gay/blog/furality-ultra-av",
+    "title": "Furality Ultra Club A/V Writeup"
   },
   {
     "source": "lobsters",
@@ -161,22 +181,7 @@
   },
   {
     "source": "lobsters",
-    "url": "https://k-monk.org/blog/generating-the-p3-tiling/",
-    "title": "Generating the P3 Tiling"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://value.gay/blog/furality-ultra-av",
-    "title": "Furality Ultra Club A/V Writeup"
-  },
-  {
-    "source": "lobsters",
     "url": "https://30fps.net/pages/revisiting-yliluoma-2/",
     "title": "Revisiting Yliluoma’s ordered dither algorithm"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://bnewbold.leaflet.pub/3mph4hzvbdc2v",
-    "title": "The AT-URI Syntax Mess"
   }
 ]
