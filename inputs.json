@@ -11,8 +11,18 @@
   },
   {
     "source": "hn",
+    "url": "https://europeancorrespondent.com/en/r/the-us-ambassador-had-belgian-police-stop-our-reporting",
+    "title": "The US ambassador had Belgian police stop our reporting"
+  },
+  {
+    "source": "hn",
     "url": "https://quesma.com/blog/qwen-36-is-awesome/",
     "title": "Qwen 3.6 27B is the sweet spot for local development"
+  },
+  {
+    "source": "hn",
+    "url": "https://cekrem.github.io/posts/parse-dont-validate-typescript/",
+    "title": "Parse, Don't Validate – In a Language That Doesn't Want You To"
   },
   {
     "source": "hn",
@@ -23,11 +33,6 @@
     "source": "hn",
     "url": "https://weblog.rogueamoeba.com/2026/06/26/free-the-icons/",
     "title": "Free the Icons"
-  },
-  {
-    "source": "hn",
-    "url": "https://vflash.github.io/Tyaff/",
-    "title": "I spent 6 days building my VDOM library as I hated how React handles memo"
   },
   {
     "source": "hn",
@@ -56,18 +61,23 @@
   },
   {
     "source": "hn",
+    "url": "https://letters.unchartedpathbreakthroughs.com/posts/why-problem-statements-arent-enough",
+    "title": "Why Problem Statements Aren't Enough"
+  },
+  {
+    "source": "hn",
     "url": "https://www.sqlite.org/howtocorrupt.html",
     "title": "How to corrupt an SQLite database file"
   },
   {
     "source": "hn",
-    "url": "https://notes.shixiangxi.com/en/docs/appendix/alan-kay-on-oop/",
-    "title": "Alan Kay on the meaning of \"object-oriented programming\" (2003)"
+    "url": "https://ziglang.org/devlog/2026/#2026-06-26",
+    "title": "Zig – SPIR-V Backend Progress"
   },
   {
     "source": "hn",
-    "url": "https://ziglang.org/devlog/2026/#2026-06-26",
-    "title": "Zig – SPIR-V Backend Progress"
+    "url": "https://notes.shixiangxi.com/en/docs/appendix/alan-kay-on-oop/",
+    "title": "Alan Kay on the meaning of \"object-oriented programming\" (2003)"
   },
   {
     "source": "hn",
@@ -78,31 +88,6 @@
     "source": "hn",
     "url": "https://probablymarcus.com/blocks/2026/06/28/native-graphical-shell-for-SSH.html",
     "title": "A native graphical shell for SSH"
-  },
-  {
-    "source": "hn",
-    "url": "https://marcin.juszkiewicz.com.pl/2026/06/26/the-end-of-the-aarch64-desktop-experiment/",
-    "title": "The end of the AArch64 desktop experiment"
-  },
-  {
-    "source": "hn",
-    "url": "https://fergusfinn.com/blog/what-happens-when-you-run-a-gpu-kernel/",
-    "title": "What happens when you run a CUDA kernel?"
-  },
-  {
-    "source": "hn",
-    "url": "https://humphri.es/blog/WATaBoy/",
-    "title": "WATaBoy: JIT-Ing Game Boy Instructions to WASM Beats a Native Interpreter"
-  },
-  {
-    "source": "hn",
-    "url": "https://moondream.ai/blog/popping-the-gpu-bubble",
-    "title": "Popping the GPU Bubble"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.britishorigami.org/cp-lister-list/the-1955-exhibition-by-akira-yoshizawa/",
-    "title": "British Origami: the 1955 exhibition by Akira Yoshizawa (2005)"
   },
   {
     "source": "lobsters",
@@ -121,6 +106,11 @@
   },
   {
     "source": "lobsters",
+    "url": "https://marcin.juszkiewicz.com.pl/2026/06/26/the-end-of-the-aarch64-desktop-experiment/",
+    "title": "The end of the AArch64 desktopexperiment"
+  },
+  {
+    "source": "lobsters",
     "url": "https://roscidus.com/blog/blog/2025/06/24/graphics/",
     "title": "Investigating Linux graphics (2025)"
   },
@@ -131,18 +121,18 @@
   },
   {
     "source": "lobsters",
+    "url": "https://humphri.es/blog/WATaBoy/",
+    "title": "WATaBoy: JIT-ing Game Boy Instructions to Wasm Beats a Native Interpreter"
+  },
+  {
+    "source": "lobsters",
     "url": "https://bnewbold.leaflet.pub/3mph4hzvbdc2v",
     "title": "The AT-URI Syntax Mess"
   },
   {
     "source": "lobsters",
-    "url": "https://rheo.ohrg.org",
-    "title": "Rheo 0.4.0"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://weinholt.se/articles/loko-scheme-0-13-0/",
-    "title": "Loko Scheme 0.13.0"
+    "url": "https://value.gay/blog/furality-ultra-av",
+    "title": "Furality Ultra Club A/V Writeup"
   },
   {
     "source": "lobsters",
@@ -151,13 +141,18 @@
   },
   {
     "source": "lobsters",
-    "url": "https://www.wezm.net/v2/posts/2026/bre/",
-    "title": "Platform Support for GNU Extensions to Basic Regular Expressions"
+    "url": "https://weinholt.se/articles/loko-scheme-0-13-0/",
+    "title": "Loko Scheme 0.13.0"
   },
   {
     "source": "lobsters",
     "url": "https://30fps.net/pages/revisiting-yliluoma-2/",
     "title": "Revisiting Yliluoma’s ordered dither algorithm"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://www.wezm.net/v2/posts/2026/bre/",
+    "title": "Platform Support for GNU Extensions to Basic Regular Expressions"
   },
   {
     "source": "lobsters",
@@ -176,18 +171,23 @@
   },
   {
     "source": "lobsters",
+    "url": "https://readerunner.wordpress.com/2021/09/13/diagrams-for-penrose-tiles/",
+    "title": "Diagrams for Penrose Tiles"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://byorgey.github.io/blog/posts/2026/06/26/FTA.lagda.html",
+    "title": "Proving the Fundamental Theorem of Arithmetic in Agda"
+  },
+  {
+    "source": "lobsters",
     "url": "https://www.rntz.net/post/2026-06-11-datalog-nontermination.html",
     "title": "Evaluation order and nontermination in query languages"
   },
   {
     "source": "lobsters",
-    "url": "https://value.gay/blog/furality-ultra-av",
-    "title": "Furality Ultra Club A/V Writeup"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://nebusec.ai/research/v8-cve-2026-6307-writeup/",
-    "title": "Longinus: 2 Boundaries in One Bug, Piercing Chrome’s Renderer and V8 Sandbox with a Single Vulnerability, CVE-2026-6307"
+    "url": "http://peter.eisentraut.org/blog/2026/06/30/waiting-for-sql-202y-stockholm-meeting-report",
+    "title": "Waiting for SQL:202y: Stockholm (BMA) meeting report"
   },
   {
     "source": "lobsters",
@@ -195,14 +195,14 @@
     "title": "“Double Threat” to Private Communications: Undemocratic Chat Control Backroom Deals and Imminent Concessions Spark Relaunch of fightchatcontrol.eu"
   },
   {
-    "source": "lobsters",
-    "url": "https://gracefulliberty.com/articles/towards-understandable-software/",
-    "title": "Towards Understandable Software"
-  },
-  {
     "source": "pinboard",
     "url": "https://w.pitula.me/fintech-engineering-handbook/",
     "title": "Fintech Engineering Handbook"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://fergusfinn.com/blog/what-happens-when-you-run-a-gpu-kernel/",
+    "title": "What happens when you run a CUDA kernel"
   },
   {
     "source": "pinboard",
