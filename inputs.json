@@ -1,18 +1,18 @@
 [
   {
     "source": "hn",
-    "url": "https://opensourcelowtech.org/",
-    "title": "Open Source Low Tech"
-  },
-  {
-    "source": "hn",
-    "url": "https://antaresindustries.com/updates/antares-achieves-criticality",
-    "title": "Antares Achieves Criticality of Mark-0 Reactor"
-  },
-  {
-    "source": "hn",
     "url": "https://europeancorrespondent.com/en/r/the-us-ambassador-had-belgian-police-stop-our-reporting",
     "title": "The US ambassador had Belgian police stop our reporting"
+  },
+  {
+    "source": "hn",
+    "url": "https://cekrem.github.io/posts/parse-dont-validate-typescript/",
+    "title": "Parse, Don't Validate – In a Language That Doesn't Want You To"
+  },
+  {
+    "source": "hn",
+    "url": "https://opensourcelowtech.org/",
+    "title": "Open Source Low Tech"
   },
   {
     "source": "hn",
@@ -21,8 +21,8 @@
   },
   {
     "source": "hn",
-    "url": "https://cekrem.github.io/posts/parse-dont-validate-typescript/",
-    "title": "Parse, Don't Validate – In a Language That Doesn't Want You To"
+    "url": "https://antaresindustries.com/updates/antares-achieves-criticality",
+    "title": "Antares Achieves Criticality of Mark-0 Reactor"
   },
   {
     "source": "hn",
@@ -51,13 +51,13 @@
   },
   {
     "source": "hn",
-    "url": "https://obsolescence.dev/pdp1-lisp-introduction.html",
-    "title": "Exploring PDP-1 Lisp (1960)"
+    "url": "http://occ.sdf.org/",
+    "title": "Old Computer Challenge"
   },
   {
     "source": "hn",
-    "url": "http://occ.sdf.org/",
-    "title": "Old Computer Challenge"
+    "url": "https://obsolescence.dev/pdp1-lisp-introduction.html",
+    "title": "Exploring PDP-1 Lisp (1960)"
   },
   {
     "source": "hn",
@@ -76,18 +76,18 @@
   },
   {
     "source": "hn",
-    "url": "https://notes.shixiangxi.com/en/docs/appendix/alan-kay-on-oop/",
-    "title": "Alan Kay on the meaning of \"object-oriented programming\" (2003)"
-  },
-  {
-    "source": "hn",
     "url": "https://www.savingourstars.org/darkskylighting#whatisdarkskylighting",
     "title": "Dark Sky Lighting"
   },
   {
     "source": "hn",
-    "url": "https://probablymarcus.com/blocks/2026/06/28/native-graphical-shell-for-SSH.html",
-    "title": "A native graphical shell for SSH"
+    "url": "https://humphri.es/blog/WATaBoy/",
+    "title": "WATaBoy: JIT-Ing Game Boy Instructions to WASM Beats a Native Interpreter"
+  },
+  {
+    "source": "hn",
+    "url": "https://fergusfinn.com/blog/what-happens-when-you-run-a-gpu-kernel/",
+    "title": "What happens when you run a CUDA kernel?"
   },
   {
     "source": "lobsters",
@@ -121,8 +121,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://humphri.es/blog/WATaBoy/",
-    "title": "WATaBoy: JIT-ing Game Boy Instructions to Wasm Beats a Native Interpreter"
+    "url": "https://www.wezm.net/v2/posts/2026/bre/",
+    "title": "Platform Support for GNU Extensions to Basic Regular Expressions"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://weinholt.se/articles/loko-scheme-0-13-0/",
+    "title": "Loko Scheme 0.13.0"
   },
   {
     "source": "lobsters",
@@ -141,18 +146,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://weinholt.se/articles/loko-scheme-0-13-0/",
-    "title": "Loko Scheme 0.13.0"
-  },
-  {
-    "source": "lobsters",
     "url": "https://30fps.net/pages/revisiting-yliluoma-2/",
     "title": "Revisiting Yliluoma’s ordered dither algorithm"
   },
   {
     "source": "lobsters",
-    "url": "https://www.wezm.net/v2/posts/2026/bre/",
-    "title": "Platform Support for GNU Extensions to Basic Regular Expressions"
+    "url": "https://probablymarcus.com/blocks/2026/06/28/native-graphical-shell-for-SSH.html",
+    "title": "A native graphical shell for SSH"
   },
   {
     "source": "lobsters",
@@ -198,11 +198,6 @@
     "source": "pinboard",
     "url": "https://w.pitula.me/fintech-engineering-handbook/",
     "title": "Fintech Engineering Handbook"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://fergusfinn.com/blog/what-happens-when-you-run-a-gpu-kernel/",
-    "title": "What happens when you run a CUDA kernel"
   },
   {
     "source": "pinboard",
