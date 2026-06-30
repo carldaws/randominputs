@@ -1,13 +1,13 @@
 [
   {
     "source": "hn",
-    "url": "https://hccf.onmy.cloud/2026/06/21/reclaiming-our-digital-selves-hccfs-vision-for-a-human-centered-top-level-domain/",
-    "title": ".self: A new top-level domain designed to support self-hosting"
+    "url": "https://quesma.com/blog/qwen-36-is-awesome/",
+    "title": "Qwen 3.6 27B is the sweet spot for local development"
   },
   {
     "source": "hn",
-    "url": "https://quesma.com/blog/qwen-36-is-awesome/",
-    "title": "Qwen 3.6 27B is the sweet spot for local development"
+    "url": "https://hccf.onmy.cloud/2026/06/21/reclaiming-our-digital-selves-hccfs-vision-for-a-human-centered-top-level-domain/",
+    "title": ".self: A new top-level domain designed to support self-hosting"
   },
   {
     "source": "hn",
@@ -21,11 +21,6 @@
   },
   {
     "source": "hn",
-    "url": "https://phys.org/news/2026-06-scientists-molecular-evidence-liquid.html",
-    "title": "Scientists find molecular-level evidence for two structures in liquid water"
-  },
-  {
-    "source": "hn",
     "url": "https://obsolescence.dev/pdp1-lisp-introduction.html",
     "title": "Exploring PDP-1 Lisp (1960)"
   },
@@ -36,13 +31,18 @@
   },
   {
     "source": "hn",
-    "url": "https://probablymarcus.com/blocks/2026/06/28/native-graphical-shell-for-SSH.html",
-    "title": "A native graphical shell for SSH"
+    "url": "https://mrkt30.com/why-wont-europe-build-ai-data-centers-in-iceland/",
+    "title": "Why Won't Europe Build AI Data Centers in Iceland?"
   },
   {
     "source": "hn",
-    "url": "https://andersmurphy.com/2026/06/07/sqlite-improving-performance-with-pre-sort.html",
-    "title": "SQLite improving performance with pre-sort"
+    "url": "https://phys.org/news/2026-06-scientists-molecular-evidence-liquid.html",
+    "title": "Scientists find molecular-level evidence for two structures in liquid water"
+  },
+  {
+    "source": "hn",
+    "url": "https://probablymarcus.com/blocks/2026/06/28/native-graphical-shell-for-SSH.html",
+    "title": "A native graphical shell for SSH"
   },
   {
     "source": "hn",
@@ -51,18 +51,28 @@
   },
   {
     "source": "hn",
-    "url": "https://lucassifoni.info/blog/hiking-with-wallace/",
-    "title": "Wallace the 6 inch f/2.8 telescope, building it, and hiking with it"
-  },
-  {
-    "source": "hn",
     "url": "https://cambridgeanalytica.org/data-breaches-scandals/passports-driver-licenses-exposed-public-internet-2026-51096/",
     "title": "One million passports leaked online"
   },
   {
     "source": "hn",
-    "url": "https://htmx.org/essays/working-with-ai/",
-    "title": "Working With AI: A concrete example"
+    "url": "https://lucassifoni.info/blog/hiking-with-wallace/",
+    "title": "Wallace the 6 inch f/2.8 telescope, building it, and hiking with it"
+  },
+  {
+    "source": "hn",
+    "url": "https://andersmurphy.com/2026/06/07/sqlite-improving-performance-with-pre-sort.html",
+    "title": "SQLite improving performance with pre-sort"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.savingourstars.org/darkskylighting#whatisdarkskylighting",
+    "title": "Dark Sky Lighting"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.esa.int/Science_Exploration/Space_Science/Rosetta/Philae_s_extraordinary_comet_landing_relived",
+    "title": "Philae's extraordinary comet landing relived (2024)"
   },
   {
     "source": "hn",
@@ -71,8 +81,8 @@
   },
   {
     "source": "hn",
-    "url": "https://www.savingourstars.org/darkskylighting#whatisdarkskylighting",
-    "title": "Dark Sky Lighting"
+    "url": "https://htmx.org/essays/working-with-ai/",
+    "title": "Working With AI: A concrete example"
   },
   {
     "source": "hn",
@@ -101,13 +111,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://weinholt.se/articles/loko-scheme-0-13-0/",
-    "title": "Loko Scheme 0.13.0"
+    "url": "https://blog.vrypan.net/2026/06/29/260629-whats-wrong-with-eu-age-verification/",
+    "title": "What's wrong with EU age verification? (Nothing)"
   },
   {
     "source": "lobsters",
-    "url": "https://blog.vrypan.net/2026/06/29/260629-whats-wrong-with-eu-age-verification/",
-    "title": "What's wrong with EU age verification? (Nothing)"
+    "url": "https://weinholt.se/articles/loko-scheme-0-13-0/",
+    "title": "Loko Scheme 0.13.0"
   },
   {
     "source": "lobsters",
@@ -141,8 +151,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://www.patrick-breyer.de/en/double-threat-to-private-communications-undemocratic-chat-control-backroom-deals-and-imminent-concessions-spark-relaunch-of-fightchatcontrol-eu/",
-    "title": "“Double Threat” to Private Communications: Undemocratic Chat Control Backroom Deals and Imminent Concessions Spark Relaunch of fightchatcontrol.eu"
+    "url": "https://blog.tangled.org/spindle-microvm/",
+    "title": "Spindle's new microVM engine"
   },
   {
     "source": "lobsters",
@@ -151,8 +161,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://blog.tangled.org/spindle-microvm/",
-    "title": "Spindle's new microVM engine"
+    "url": "https://www.patrick-breyer.de/en/double-threat-to-private-communications-undemocratic-chat-control-backroom-deals-and-imminent-concessions-spark-relaunch-of-fightchatcontrol-eu/",
+    "title": "“Double Threat” to Private Communications: Undemocratic Chat Control Backroom Deals and Imminent Concessions Spark Relaunch of fightchatcontrol.eu"
   },
   {
     "source": "lobsters",
@@ -166,8 +176,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://www.jayfreestone.com/writing/you-might-not-need-a-service-worker/",
-    "title": "You might not need… a service worker"
+    "url": "https://30fps.net/pages/revisiting-yliluoma-2/",
+    "title": "Revisiting Yliluoma’s ordered dither algorithm"
   },
   {
     "source": "lobsters",
@@ -176,12 +186,12 @@
   },
   {
     "source": "lobsters",
-    "url": "https://antonz.org/solod-v0-2/",
-    "title": "Solod v0.2: Networking, new targets, friendlier interop"
+    "url": "https://www.jayfreestone.com/writing/you-might-not-need-a-service-worker/",
+    "title": "You might not need… a service worker"
   },
   {
     "source": "lobsters",
-    "url": "https://30fps.net/pages/revisiting-yliluoma-2/",
-    "title": "Revisiting Yliluoma’s ordered dither algorithm"
+    "url": "https://antonz.org/solod-v0-2/",
+    "title": "Solod v0.2: Networking, new targets, friendlier interop"
   }
 ]
