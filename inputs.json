@@ -1,18 +1,13 @@
 [
   {
     "source": "hn",
-    "url": "https://europeancorrespondent.com/en/r/the-us-ambassador-had-belgian-police-stop-our-reporting",
-    "title": "The US ambassador had Belgian police stop our reporting"
+    "url": "https://libertystreeteconomics.newyorkfed.org/2026/06/the-post-covid-decline-in-the-labor-share/",
+    "title": "The labor share of income in the US is at its lowest post-war level"
   },
   {
     "source": "hn",
     "url": "https://www.gutenberg.org/ebooks/24518",
     "title": "Memoirs of Extraordinary Popular Delusions and the Madness of Crowds (1852)"
-  },
-  {
-    "source": "hn",
-    "url": "https://ranpara.net/posts/words-are-a-byproduct-of-consciousness/",
-    "title": "Words Are a Byproduct of Consciousness. For LLMs, It's Backwards"
   },
   {
     "source": "hn",
@@ -26,13 +21,13 @@
   },
   {
     "source": "hn",
-    "url": "https://quesma.com/blog/qwen-36-is-awesome/",
-    "title": "Qwen 3.6 27B is the sweet spot for local development"
+    "url": "https://www.knopper.net/knoppix/index-en.html",
+    "title": "Knoppix"
   },
   {
     "source": "hn",
-    "url": "https://cekrem.github.io/posts/parse-dont-validate-typescript/",
-    "title": "Parse, Don't Validate – In a Language That Doesn't Want You To"
+    "url": "https://quesma.com/blog/qwen-36-is-awesome/",
+    "title": "Qwen 3.6 27B is the sweet spot for local development"
   },
   {
     "source": "hn",
@@ -46,13 +41,8 @@
   },
   {
     "source": "hn",
-    "url": "https://taonaw.com/2026/06/27/have-you-restarted-your-computer.html",
-    "title": "Have You Restarted Your Computer This Week?"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.knopper.net/knoppix/index-en.html",
-    "title": "Knoppix"
+    "url": "https://cekrem.github.io/posts/parse-dont-validate-typescript/",
+    "title": "Parse, Don't Validate – In a Language That Doesn't Want You To"
   },
   {
     "source": "hn",
@@ -71,8 +61,13 @@
   },
   {
     "source": "hn",
-    "url": "https://obsolescence.dev/pdp1-lisp-introduction.html",
-    "title": "Exploring PDP-1 Lisp (1960)"
+    "url": "https://letters.unchartedpathbreakthroughs.com/posts/why-problem-statements-arent-enough",
+    "title": "Why problem statements aren't enough"
+  },
+  {
+    "source": "hn",
+    "url": "https://europeancorrespondent.com/en/r/the-us-ambassador-had-belgian-police-stop-our-reporting",
+    "title": "The US ambassador had Belgian police stop our reporting"
   },
   {
     "source": "hn",
@@ -81,8 +76,8 @@
   },
   {
     "source": "hn",
-    "url": "https://letters.unchartedpathbreakthroughs.com/posts/why-problem-statements-arent-enough",
-    "title": "Why problem statements aren't enough"
+    "url": "https://obsolescence.dev/pdp1-lisp-introduction.html",
+    "title": "Exploring PDP-1 Lisp (1960)"
   },
   {
     "source": "hn",
@@ -131,6 +126,16 @@
   },
   {
     "source": "lobsters",
+    "url": "https://readerunner.wordpress.com/2021/09/13/diagrams-for-penrose-tiles/",
+    "title": "Diagrams for Penrose Tiles"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://www.wezm.net/v2/posts/2026/bre/",
+    "title": "Platform Support for GNU Extensions to Basic Regular Expressions"
+  },
+  {
+    "source": "lobsters",
     "url": "https://value.gay/blog/furality-ultra-av",
     "title": "Furality Ultra Club A/V Writeup"
   },
@@ -141,13 +146,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://www.wezm.net/v2/posts/2026/bre/",
-    "title": "Platform Support for GNU Extensions to Basic Regular Expressions"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://readerunner.wordpress.com/2021/09/13/diagrams-for-penrose-tiles/",
-    "title": "Diagrams for Penrose Tiles"
+    "url": "https://30fps.net/pages/revisiting-yliluoma-2/",
+    "title": "Revisiting Yliluoma’s ordered dither algorithm"
   },
   {
     "source": "lobsters",
@@ -156,8 +156,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://30fps.net/pages/revisiting-yliluoma-2/",
-    "title": "Revisiting Yliluoma’s ordered dither algorithm"
+    "url": "https://soatok.blog/2026/06/30/soatoks-informal-guide-to-threat-models/",
+    "title": "Soatok’s Informal Guide to Threat Models"
   },
   {
     "source": "lobsters",
@@ -171,6 +171,11 @@
   },
   {
     "source": "lobsters",
+    "url": "https://probablymarcus.com/blocks/2026/06/28/native-graphical-shell-for-SSH.html",
+    "title": "A native graphical shell for SSH"
+  },
+  {
+    "source": "lobsters",
     "url": "https://weinholt.se/articles/loko-scheme-0-13-0/",
     "title": "Loko Scheme 0.13.0"
   },
@@ -181,28 +186,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://probablymarcus.com/blocks/2026/06/28/native-graphical-shell-for-SSH.html",
-    "title": "A native graphical shell for SSH"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://verdagon.dev/blog/ante-blending-borrowing-rc",
-    "title": "Ante: New Way to Blend Borrow Checking and Reference Counting"
-  },
-  {
-    "source": "lobsters",
     "url": "http://peter.eisentraut.org/blog/2026/06/30/waiting-for-sql-202y-stockholm-meeting-report",
     "title": "Waiting for SQL:202y: Stockholm (BMA) meeting report"
   },
   {
     "source": "lobsters",
-    "url": "https://exploring-better-ways.bellroy.com/haskell-koan-type-checked-non-empty-strings.html",
-    "title": "Type-checked non-empty strings"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://monadicsheep.org/blog/call-for-canvas-patch-testers.html",
-    "title": "Canvas patch: we need testers"
+    "url": "https://verdagon.dev/blog/ante-blending-borrowing-rc",
+    "title": "Ante: New Way to Blend Borrow Checking and Reference Counting"
   },
   {
     "source": "pinboard",
