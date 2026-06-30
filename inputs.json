@@ -26,18 +26,18 @@
   },
   {
     "source": "hn",
-    "url": "https://humphri.es/blog/WATaBoy/",
-    "title": "WATaBoy: JIT-Ing Game Boy Instructions to WASM Beats a Native Interpreter"
-  },
-  {
-    "source": "hn",
     "url": "https://lucassifoni.info/blog/hiking-with-wallace/",
     "title": "Wallace the 6 inch f/2.8 telescope, building it, and hiking with it"
   },
   {
     "source": "hn",
-    "url": "https://htmx.org/essays/working-with-ai/",
-    "title": "Working With AI: A concrete example"
+    "url": "https://humphri.es/blog/WATaBoy/",
+    "title": "WATaBoy: JIT-Ing Game Boy Instructions to WASM Beats a Native Interpreter"
+  },
+  {
+    "source": "hn",
+    "url": "https://andersmurphy.com/2026/06/07/sqlite-improving-performance-with-pre-sort.html",
+    "title": "SQLite improving performance with pre-sort"
   },
   {
     "source": "hn",
@@ -51,6 +51,16 @@
   },
   {
     "source": "hn",
+    "url": "https://htmx.org/essays/working-with-ai/",
+    "title": "Working With AI: A concrete example"
+  },
+  {
+    "source": "hn",
+    "url": "https://cambridgeanalytica.org/data-breaches-scandals/passports-driver-licenses-exposed-public-internet-2026-51096/",
+    "title": "One million passports leaked online"
+  },
+  {
+    "source": "hn",
     "url": "https://www.savingourstars.org/darkskylighting#whatisdarkskylighting",
     "title": "Dark Sky Lighting"
   },
@@ -58,11 +68,6 @@
     "source": "hn",
     "url": "https://deep-reinforce.com/ornith_1_0.html",
     "title": "Ornith-1.0: Self-scaffolding LLMs for agentic coding"
-  },
-  {
-    "source": "hn",
-    "url": "https://cambridgeanalytica.org/data-breaches-scandals/passports-driver-licenses-exposed-public-internet-2026-51096/",
-    "title": "One million passports leaked online"
   },
   {
     "source": "hn",
@@ -141,8 +146,18 @@
   },
   {
     "source": "lobsters",
+    "url": "https://blog.tangled.org/spindle-microvm/",
+    "title": "Spindle's new microVM engine"
+  },
+  {
+    "source": "lobsters",
     "url": "https://gracefulliberty.com/articles/towards-understandable-software/",
     "title": "Towards Understandable Software"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://cyberstan.co.uk/drm-lpe-linux/",
+    "title": "Unprivileged root via a use-after-free in DRM GEM change_handle (CVE-2026-46215)"
   },
   {
     "source": "lobsters",
@@ -156,22 +171,12 @@
   },
   {
     "source": "lobsters",
-    "url": "https://cyberstan.co.uk/drm-lpe-linux/",
-    "title": "Unprivileged root via a use-after-free in DRM GEM change_handle (CVE-2026-46215)"
+    "url": "https://marcin.juszkiewicz.com.pl/2026/06/26/the-end-of-the-aarch64-desktop-experiment/",
+    "title": "The end of the AArch64 desktopexperiment"
   },
   {
     "source": "lobsters",
     "url": "https://antonz.org/solod-v0-2/",
     "title": "Solod v0.2: Networking, new targets, friendlier interop"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://blog.tangled.org/spindle-microvm/",
-    "title": "Spindle's new microVM engine"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://autocrypt2.org",
-    "title": "Autocrypt v2 - Post-Quantum and Reliable Deletion"
   }
 ]
