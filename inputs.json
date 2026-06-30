@@ -16,13 +16,13 @@
   },
   {
     "source": "hn",
-    "url": "https://fil-c.org/context_switches",
-    "title": "Memory Safe Context Switching (longjmp, setjmp) in Fil-C"
+    "url": "http://occ.sdf.org/",
+    "title": "Old Computer Challenge"
   },
   {
     "source": "hn",
-    "url": "https://obsolescence.dev/pdp1-lisp-introduction.html",
-    "title": "Exploring PDP-1 Lisp (1960)"
+    "url": "https://fil-c.org/context_switches",
+    "title": "Memory Safe Context Switching"
   },
   {
     "source": "hn",
@@ -31,8 +31,8 @@
   },
   {
     "source": "hn",
-    "url": "https://mrkt30.com/why-wont-europe-build-ai-data-centers-in-iceland/",
-    "title": "Why Won't Europe Build AI Data Centers in Iceland?"
+    "url": "https://obsolescence.dev/pdp1-lisp-introduction.html",
+    "title": "Exploring PDP-1 Lisp (1960)"
   },
   {
     "source": "hn",
@@ -41,33 +41,18 @@
   },
   {
     "source": "hn",
+    "url": "https://www.sqlite.org/howtocorrupt.html",
+    "title": "How to corrupt an SQLite database file"
+  },
+  {
+    "source": "hn",
+    "url": "https://ziglang.org/devlog/2026/#2026-06-26",
+    "title": "Zig – SPIR-V Backend Progress"
+  },
+  {
+    "source": "hn",
     "url": "https://probablymarcus.com/blocks/2026/06/28/native-graphical-shell-for-SSH.html",
     "title": "A native graphical shell for SSH"
-  },
-  {
-    "source": "hn",
-    "url": "https://humphri.es/blog/WATaBoy/",
-    "title": "WATaBoy: JIT-Ing Game Boy Instructions to WASM Beats a Native Interpreter"
-  },
-  {
-    "source": "hn",
-    "url": "https://cambridgeanalytica.org/data-breaches-scandals/passports-driver-licenses-exposed-public-internet-2026-51096/",
-    "title": "One million passports leaked online"
-  },
-  {
-    "source": "hn",
-    "url": "https://lucassifoni.info/blog/hiking-with-wallace/",
-    "title": "Wallace the 6 inch f/2.8 telescope, building it, and hiking with it"
-  },
-  {
-    "source": "hn",
-    "url": "https://andersmurphy.com/2026/06/07/sqlite-improving-performance-with-pre-sort.html",
-    "title": "SQLite improving performance with pre-sort"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.savingourstars.org/darkskylighting#whatisdarkskylighting",
-    "title": "Dark Sky Lighting"
   },
   {
     "source": "hn",
@@ -76,8 +61,28 @@
   },
   {
     "source": "hn",
+    "url": "https://humphri.es/blog/WATaBoy/",
+    "title": "WATaBoy: JIT-Ing Game Boy Instructions to WASM Beats a Native Interpreter"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.savingourstars.org/darkskylighting#whatisdarkskylighting",
+    "title": "Dark Sky Lighting"
+  },
+  {
+    "source": "hn",
+    "url": "https://lucassifoni.info/blog/hiking-with-wallace/",
+    "title": "Wallace the 6 inch f/2.8 telescope, building it, and hiking with it"
+  },
+  {
+    "source": "hn",
     "url": "https://fergusfinn.com/blog/what-happens-when-you-run-a-gpu-kernel/",
     "title": "What happens when you run a CUDA kernel?"
+  },
+  {
+    "source": "hn",
+    "url": "https://notes.shixiangxi.com/en/docs/appendix/alan-kay-on-oop/",
+    "title": "Alan Kay on the meaning of \"object-oriented programming\" (2003)"
   },
   {
     "source": "hn",
@@ -86,18 +91,8 @@
   },
   {
     "source": "hn",
-    "url": "https://vllm.ai/blog/2026-06-29-micro-agent-frontier-models",
-    "title": "Micro-Agent: Beat Frontier Models with Collaboration Inside Model API"
-  },
-  {
-    "source": "hn",
     "url": "https://www.cpushack.com/2026/06/03/sandia-national-labs-sa3000-8085-cpu/",
     "title": "Sandia National Labs SA3000 8085 CPU"
-  },
-  {
-    "source": "hn",
-    "url": "https://deep-reinforce.com/ornith_1_0.html",
-    "title": "Ornith-1.0: Self-scaffolding LLMs for agentic coding"
   },
   {
     "source": "lobsters",
@@ -116,6 +111,11 @@
   },
   {
     "source": "lobsters",
+    "url": "https://marcin.juszkiewicz.com.pl/2026/06/26/the-end-of-the-aarch64-desktop-experiment/",
+    "title": "The end of the AArch64 desktopexperiment"
+  },
+  {
+    "source": "lobsters",
     "url": "https://weinholt.se/articles/loko-scheme-0-13-0/",
     "title": "Loko Scheme 0.13.0"
   },
@@ -126,18 +126,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://monadicsheep.org/blog/call-for-canvas-patch-testers.html",
-    "title": "Canvas patch: we need testers"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://marcin.juszkiewicz.com.pl/2026/06/26/the-end-of-the-aarch64-desktop-experiment/",
-    "title": "The end of the AArch64 desktopexperiment"
-  },
-  {
-    "source": "lobsters",
     "url": "https://bnewbold.leaflet.pub/3mph4hzvbdc2v",
     "title": "The AT-URI Syntax Mess"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://monadicsheep.org/blog/call-for-canvas-patch-testers.html",
+    "title": "Canvas patch: we need testers"
   },
   {
     "source": "lobsters",
@@ -146,13 +141,18 @@
   },
   {
     "source": "lobsters",
-    "url": "https://www.rntz.net/post/2026-06-11-datalog-nontermination.html",
-    "title": "Evaluation order and nontermination in query languages"
+    "url": "https://30fps.net/pages/revisiting-yliluoma-2/",
+    "title": "Revisiting Yliluoma’s ordered dither algorithm"
   },
   {
     "source": "lobsters",
     "url": "https://blog.tangled.org/spindle-microvm/",
     "title": "Spindle's new microVM engine"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://www.rntz.net/post/2026-06-11-datalog-nontermination.html",
+    "title": "Evaluation order and nontermination in query languages"
   },
   {
     "source": "lobsters",
@@ -176,11 +176,6 @@
   },
   {
     "source": "lobsters",
-    "url": "https://30fps.net/pages/revisiting-yliluoma-2/",
-    "title": "Revisiting Yliluoma’s ordered dither algorithm"
-  },
-  {
-    "source": "lobsters",
     "url": "https://maskray.me/blog/2026-06-28-optimizing-llvm-bump-allocator",
     "title": "Optimizing LLVM's bump allocator"
   },
@@ -188,10 +183,5 @@
     "source": "lobsters",
     "url": "https://www.jayfreestone.com/writing/you-might-not-need-a-service-worker/",
     "title": "You might not need… a service worker"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://antonz.org/solod-v0-2/",
-    "title": "Solod v0.2: Networking, new targets, friendlier interop"
   }
 ]
