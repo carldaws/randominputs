@@ -1,6 +1,11 @@
 [
   {
     "source": "hn",
+    "url": "https://opensourcelowtech.org/",
+    "title": "Open Source Low Tech"
+  },
+  {
+    "source": "hn",
     "url": "https://quesma.com/blog/qwen-36-is-awesome/",
     "title": "Qwen 3.6 27B is the sweet spot for local development"
   },
@@ -16,23 +21,13 @@
   },
   {
     "source": "hn",
-    "url": "https://longcat.chat/blog/longcat-2.0/",
-    "title": "LongCat-2.0, a large-scale MoE model with 1.6T total and 48B Active"
-  },
-  {
-    "source": "hn",
     "url": "https://fil-c.org/context_switches",
     "title": "Memory Safe Context Switching"
   },
   {
     "source": "hn",
-    "url": "https://opensourcelowtech.org/",
-    "title": "Open Source Low Tech"
-  },
-  {
-    "source": "hn",
-    "url": "http://occ.sdf.org/",
-    "title": "Old Computer Challenge"
+    "url": "https://longcat.chat/blog/longcat-2.0/",
+    "title": "LongCat-2.0, a large-scale MoE model with 1.6T total and 48B Active"
   },
   {
     "source": "hn",
@@ -41,8 +36,8 @@
   },
   {
     "source": "hn",
-    "url": "https://moondream.ai/blog/popping-the-gpu-bubble",
-    "title": "Popping the GPU Bubble"
+    "url": "http://occ.sdf.org/",
+    "title": "Old Computer Challenge"
   },
   {
     "source": "hn",
@@ -51,13 +46,13 @@
   },
   {
     "source": "hn",
-    "url": "https://www.sqlite.org/howtocorrupt.html",
-    "title": "How to corrupt an SQLite database file"
+    "url": "https://cse.buffalo.edu/tech-reports/2014-04.pdf",
+    "title": "Logical Physical Clocks and Consistent Snapshots in Globally Distributed DB [pdf]"
   },
   {
     "source": "hn",
-    "url": "https://www.britishorigami.org/cp-lister-list/the-1955-exhibition-by-akira-yoshizawa/",
-    "title": "British Origami: the 1955 exhibition by Akira Yoshizawa (2005)"
+    "url": "https://moondream.ai/blog/popping-the-gpu-bubble",
+    "title": "Popping the GPU Bubble"
   },
   {
     "source": "hn",
@@ -66,23 +61,13 @@
   },
   {
     "source": "hn",
+    "url": "https://www.sqlite.org/howtocorrupt.html",
+    "title": "How to corrupt an SQLite database file"
+  },
+  {
+    "source": "hn",
     "url": "https://notes.shixiangxi.com/en/docs/appendix/alan-kay-on-oop/",
     "title": "Alan Kay on the meaning of \"object-oriented programming\" (2003)"
-  },
-  {
-    "source": "hn",
-    "url": "https://probablymarcus.com/blocks/2026/06/28/native-graphical-shell-for-SSH.html",
-    "title": "A native graphical shell for SSH"
-  },
-  {
-    "source": "hn",
-    "url": "https://med.stanford.edu/news/all-news/2025/09/daylight-saving-time.html",
-    "title": "Study suggests most Americans would be healthier without daylight saving time"
-  },
-  {
-    "source": "hn",
-    "url": "https://humphri.es/blog/WATaBoy/",
-    "title": "WATaBoy: JIT-Ing Game Boy Instructions to WASM Beats a Native Interpreter"
   },
   {
     "source": "hn",
@@ -91,18 +76,23 @@
   },
   {
     "source": "hn",
+    "url": "https://www.britishorigami.org/cp-lister-list/the-1955-exhibition-by-akira-yoshizawa/",
+    "title": "British Origami: the 1955 exhibition by Akira Yoshizawa (2005)"
+  },
+  {
+    "source": "hn",
+    "url": "https://humphri.es/blog/WATaBoy/",
+    "title": "WATaBoy: JIT-Ing Game Boy Instructions to WASM Beats a Native Interpreter"
+  },
+  {
+    "source": "hn",
+    "url": "https://probablymarcus.com/blocks/2026/06/28/native-graphical-shell-for-SSH.html",
+    "title": "A native graphical shell for SSH"
+  },
+  {
+    "source": "hn",
     "url": "https://fergusfinn.com/blog/what-happens-when-you-run-a-gpu-kernel/",
     "title": "What happens when you run a CUDA kernel?"
-  },
-  {
-    "source": "hn",
-    "url": "https://htmx.org/essays/working-with-ai/",
-    "title": "Working With AI: A concrete example"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.esa.int/Science_Exploration/Space_Science/Rosetta/Philae_s_extraordinary_comet_landing_relived",
-    "title": "Philae's extraordinary comet landing relived (2024)"
   },
   {
     "source": "hn",
@@ -111,8 +101,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://blog.colinbreck.com/when-impressive-performance-gains-do-not-matter/",
-    "title": "When Impressive Performance Gains Do Not Matter"
+    "url": "https://blog.vrypan.net/2026/06/29/260629-whats-wrong-with-eu-age-verification/",
+    "title": "What's wrong with EU age verification? (Nothing)"
   },
   {
     "source": "lobsters",
@@ -121,13 +111,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://blog.vrypan.net/2026/06/29/260629-whats-wrong-with-eu-age-verification/",
-    "title": "What's wrong with EU age verification? (Nothing)"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://bnewbold.leaflet.pub/3mph4hzvbdc2v",
-    "title": "The AT-URI Syntax Mess"
+    "url": "https://blog.colinbreck.com/when-impressive-performance-gains-do-not-matter/",
+    "title": "When Impressive Performance Gains Do Not Matter"
   },
   {
     "source": "lobsters",
@@ -136,13 +121,28 @@
   },
   {
     "source": "lobsters",
-    "url": "https://verdagon.dev/blog/ante-blending-borrowing-rc",
-    "title": "Ante: New Way to Blend Borrow Checking and Reference Counting"
+    "url": "https://bnewbold.leaflet.pub/3mph4hzvbdc2v",
+    "title": "The AT-URI Syntax Mess"
   },
   {
     "source": "lobsters",
     "url": "https://blog.tangled.org/spindle-microvm/",
     "title": "Spindle's new microVM engine"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://roscidus.com/blog/blog/2025/06/24/graphics/",
+    "title": "Investigating Linux graphics (2025)"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://www.wezm.net/v2/posts/2026/bre/",
+    "title": "Platform Support for GNU Extensions to Basic Regular Expressions"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://verdagon.dev/blog/ante-blending-borrowing-rc",
+    "title": "Ante: New Way to Blend Borrow Checking and Reference Counting"
   },
   {
     "source": "lobsters",
@@ -166,11 +166,6 @@
   },
   {
     "source": "lobsters",
-    "url": "https://roscidus.com/blog/blog/2025/06/24/graphics/",
-    "title": "Investigating Linux graphics (2025)"
-  },
-  {
-    "source": "lobsters",
     "url": "https://nebusec.ai/research/v8-cve-2026-6307-writeup/",
     "title": "Longinus: 2 Boundaries in One Bug, Piercing Chrome’s Renderer and V8 Sandbox with a Single Vulnerability, CVE-2026-6307"
   },
@@ -178,6 +173,11 @@
     "source": "lobsters",
     "url": "https://www.patrick-breyer.de/en/double-threat-to-private-communications-undemocratic-chat-control-backroom-deals-and-imminent-concessions-spark-relaunch-of-fightchatcontrol-eu/",
     "title": "“Double Threat” to Private Communications: Undemocratic Chat Control Backroom Deals and Imminent Concessions Spark Relaunch of fightchatcontrol.eu"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://tangled.org/elidowling.com/jj_tui",
+    "title": "jj_tui: terminal user interface to jujutsu focused on speed and clarity"
   },
   {
     "source": "lobsters",
@@ -190,13 +190,83 @@
     "title": "Unprivileged root via a use-after-free in DRM GEM change_handle (CVE-2026-46215)"
   },
   {
-    "source": "lobsters",
-    "url": "https://maskray.me/blog/2026-06-28-optimizing-llvm-bump-allocator",
-    "title": "Optimizing LLVM's bump allocator"
+    "source": "pinboard",
+    "url": "https://w.pitula.me/fintech-engineering-handbook/",
+    "title": "Fintech Engineering Handbook"
   },
   {
-    "source": "lobsters",
-    "url": "https://www.jayfreestone.com/writing/you-might-not-need-a-service-worker/",
-    "title": "You might not need… a service worker"
+    "source": "pinboard",
+    "url": "https://daringfireball.net/2026/06/om",
+    "title": "Daring Fireball: Om"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://refactoringenglish.com/excerpts/write-an-effective-design-doc/",
+    "title": "How to Write an Effective Software Design Document"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks/",
+    "title": "We have Mythos at Home: GLM 5.2 beats Claude in our Cyber Benchmarks | Semgrep"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://dervis.de/physical/",
+    "title": "If You Can't Hold It, You Don't Own It | Cem Dervis"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://pudding.cool/2026/06/menu-story/",
+    "title": "A History of Menus is a Menu of History | The Pudding"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.beercss.com/",
+    "title": "Beercss since 2021"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://news.ycombinator.com/item?id=48721903",
+    "title": "Qwen 3.6 27B is the sweet spot for local development | Hacker News"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://alexwlchan.net/2026/computer-room/",
+    "title": "Rebuilding the computer room – alexwlchan"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.openra.net/",
+    "title": "OpenRA"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://blog.omgmog.net/post/xteink-x4-e-ink-reader/",
+    "title": "The Xteink X4 E-Ink Reader — Max Glenister"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://jayacunzo.com/blog/your-move-chief",
+    "title": "The best response to AI slop, infinite advice, and online noise is from Robin Williams"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.sfwriter.com/wordstar.htm",
+    "title": "Science Fiction Writer Robert J. Sawyer: WordStar: A Writer's Word Processor"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://thomasdullien.github.io/guides/entrepreneurship/",
+    "title": "Halvar’s Guide to Entrepreneurship – Thomas Dullien / Halvar Flake"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.schneier.com/blog/archives/2026/06/ai-and-liability.html",
+    "title": "AI and Liability - Schneier on Security"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://nesbitt.io/2026/06/26/incident-report-cve-2026-lgtm.html",
+    "title": "Incident Report: CVE-2026-LGTM | Andrew Nesbitt"
   }
 ]
