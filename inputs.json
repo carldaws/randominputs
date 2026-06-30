@@ -16,8 +16,23 @@
   },
   {
     "source": "hn",
+    "url": "https://fil-c.org/context_switches",
+    "title": "Memory Safe Context Switching (longjmp, setjmp) in Fil-C"
+  },
+  {
+    "source": "hn",
     "url": "https://phys.org/news/2026-06-scientists-molecular-evidence-liquid.html",
     "title": "Scientists find molecular-level evidence for two structures in liquid water"
+  },
+  {
+    "source": "hn",
+    "url": "https://obsolescence.dev/pdp1-lisp-introduction.html",
+    "title": "Exploring PDP-1 Lisp (1960)"
+  },
+  {
+    "source": "hn",
+    "url": "https://longcat.chat/blog/longcat-2.0/",
+    "title": "LongCat-2.0, a large-scale MoE model with 1.6T total and 48B Active"
   },
   {
     "source": "hn",
@@ -26,8 +41,8 @@
   },
   {
     "source": "hn",
-    "url": "https://lucassifoni.info/blog/hiking-with-wallace/",
-    "title": "Wallace the 6 inch f/2.8 telescope, building it, and hiking with it"
+    "url": "https://andersmurphy.com/2026/06/07/sqlite-improving-performance-with-pre-sort.html",
+    "title": "SQLite improving performance with pre-sort"
   },
   {
     "source": "hn",
@@ -36,23 +51,8 @@
   },
   {
     "source": "hn",
-    "url": "https://andersmurphy.com/2026/06/07/sqlite-improving-performance-with-pre-sort.html",
-    "title": "SQLite improving performance with pre-sort"
-  },
-  {
-    "source": "hn",
-    "url": "https://fergusfinn.com/blog/what-happens-when-you-run-a-gpu-kernel/",
-    "title": "What happens when you run a CUDA kernel?"
-  },
-  {
-    "source": "hn",
-    "url": "https://vllm.ai/blog/2026-06-29-micro-agent-frontier-models",
-    "title": "Micro-Agent: Beat Frontier Models with Collaboration Inside Model API"
-  },
-  {
-    "source": "hn",
-    "url": "https://htmx.org/essays/working-with-ai/",
-    "title": "Working With AI: A concrete example"
+    "url": "https://lucassifoni.info/blog/hiking-with-wallace/",
+    "title": "Wallace the 6 inch f/2.8 telescope, building it, and hiking with it"
   },
   {
     "source": "hn",
@@ -61,13 +61,23 @@
   },
   {
     "source": "hn",
+    "url": "https://htmx.org/essays/working-with-ai/",
+    "title": "Working With AI: A concrete example"
+  },
+  {
+    "source": "hn",
+    "url": "https://fergusfinn.com/blog/what-happens-when-you-run-a-gpu-kernel/",
+    "title": "What happens when you run a CUDA kernel?"
+  },
+  {
+    "source": "hn",
     "url": "https://www.savingourstars.org/darkskylighting#whatisdarkskylighting",
     "title": "Dark Sky Lighting"
   },
   {
     "source": "hn",
-    "url": "https://deep-reinforce.com/ornith_1_0.html",
-    "title": "Ornith-1.0: Self-scaffolding LLMs for agentic coding"
+    "url": "https://vllm.ai/blog/2026-06-29-micro-agent-frontier-models",
+    "title": "Micro-Agent: Beat Frontier Models with Collaboration Inside Model API"
   },
   {
     "source": "hn",
@@ -76,18 +86,8 @@
   },
   {
     "source": "hn",
-    "url": "https://chrismorgan.info/font-family",
-    "title": "Font-Family Recommendations"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.outsideonline.com/health/wellness/sunscreen-sun-exposure-skin-cancer-science/",
-    "title": "Is sunscreen the new margarine? (2019)"
-  },
-  {
-    "source": "hn",
-    "url": "https://alexwlchan.net/2026/computer-room/",
-    "title": "Rebuilding the Computer Room"
+    "url": "https://deep-reinforce.com/ornith_1_0.html",
+    "title": "Ornith-1.0: Self-scaffolding LLMs for agentic coding"
   },
   {
     "source": "lobsters",
@@ -106,6 +106,11 @@
   },
   {
     "source": "lobsters",
+    "url": "https://blog.vrypan.net/2026/06/29/260629-whats-wrong-with-eu-age-verification/",
+    "title": "What's wrong with EU age verification? (Nothing)"
+  },
+  {
+    "source": "lobsters",
     "url": "https://verdagon.dev/blog/ante-blending-borrowing-rc",
     "title": "Ante: New Way to Blend Borrow Checking and Reference Counting"
   },
@@ -116,18 +121,18 @@
   },
   {
     "source": "lobsters",
-    "url": "https://blog.vrypan.net/2026/06/29/260629-whats-wrong-with-eu-age-verification/",
-    "title": "What's wrong with EU age verification? (Nothing)"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://exploring-better-ways.bellroy.com/haskell-koan-type-checked-non-empty-strings.html",
-    "title": "Type-checked non-empty strings"
+    "url": "https://marcin.juszkiewicz.com.pl/2026/06/26/the-end-of-the-aarch64-desktop-experiment/",
+    "title": "The end of the AArch64 desktopexperiment"
   },
   {
     "source": "lobsters",
     "url": "https://bnewbold.leaflet.pub/3mph4hzvbdc2v",
     "title": "The AT-URI Syntax Mess"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://exploring-better-ways.bellroy.com/haskell-koan-type-checked-non-empty-strings.html",
+    "title": "Type-checked non-empty strings"
   },
   {
     "source": "lobsters",
@@ -171,12 +176,12 @@
   },
   {
     "source": "lobsters",
-    "url": "https://marcin.juszkiewicz.com.pl/2026/06/26/the-end-of-the-aarch64-desktop-experiment/",
-    "title": "The end of the AArch64 desktopexperiment"
+    "url": "https://antonz.org/solod-v0-2/",
+    "title": "Solod v0.2: Networking, new targets, friendlier interop"
   },
   {
     "source": "lobsters",
-    "url": "https://antonz.org/solod-v0-2/",
-    "title": "Solod v0.2: Networking, new targets, friendlier interop"
+    "url": "https://30fps.net/pages/revisiting-yliluoma-2/",
+    "title": "Revisiting Yliluoma’s ordered dither algorithm"
   }
 ]
