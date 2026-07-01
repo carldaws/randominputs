@@ -1,28 +1,13 @@
 [
   {
     "source": "hn",
+    "url": "https://wangcong.org/2026-06-30-why-i-stopped-arguing-with-people.html",
+    "title": "Why I Stopped Arguing with People"
+  },
+  {
+    "source": "hn",
     "url": "https://asahilinux.org/2026/06/progress-report-7-1/",
     "title": "Asahi Linux 7.1 Progress Report"
-  },
-  {
-    "source": "hn",
-    "url": "https://cleberg.net/blog/internet.html",
-    "title": "The Internet I Grew Up with Doesn't Exist Anymore"
-  },
-  {
-    "source": "hn",
-    "url": "https://phys.org/news/2026-06-newly-australian-ballista-spider-snare.html",
-    "title": "Newly discovered spider builds spring loaded snare to catch ants"
-  },
-  {
-    "source": "hn",
-    "url": "https://blog.arxiv.org/2026/06/30/arxivs-next-chapter/",
-    "title": "ArXiv's Next Chapter"
-  },
-  {
-    "source": "hn",
-    "url": "https://maskray.me/blog/2026-06-27-a-deep-dive-into-smallvector-push-back",
-    "title": "A deep dive into SmallVector:push_back"
   },
   {
     "source": "hn",
@@ -31,13 +16,33 @@
   },
   {
     "source": "hn",
-    "url": "https://ayushtambde.com/blog/matrix-orthogonalization-improves-memory-in-recurrent-models/",
-    "title": "Matrix Orthogonalization Improves Memory in Recurrent Models"
+    "url": "https://phys.org/news/2026-06-newly-australian-ballista-spider-snare.html",
+    "title": "Newly discovered spider builds spring loaded snare to catch ants"
   },
   {
     "source": "hn",
-    "url": "https://www.omgubuntu.co.uk/2026/06/pine64-pinevoice-riscv-smart-speaker-launch",
-    "title": "Pine64 launch $50 smart speaker for Home Assistant tinkerers"
+    "url": "https://cleberg.net/blog/internet.html",
+    "title": "The Internet I Grew Up with Doesn't Exist Anymore"
+  },
+  {
+    "source": "hn",
+    "url": "https://maskray.me/blog/2026-06-27-a-deep-dive-into-smallvector-push-back",
+    "title": "A deep dive into SmallVector:push_back"
+  },
+  {
+    "source": "hn",
+    "url": "https://blog.arxiv.org/2026/06/30/arxivs-next-chapter/",
+    "title": "ArXiv's Next Chapter"
+  },
+  {
+    "source": "hn",
+    "url": "https://fpanalysistools.org/ISC26/",
+    "title": "Compiler-Assisted Floating-Point Error Analysis and Profiling with FPChecker"
+  },
+  {
+    "source": "hn",
+    "url": "https://ayushtambde.com/blog/matrix-orthogonalization-improves-memory-in-recurrent-models/",
+    "title": "Matrix Orthogonalization Improves Memory in Recurrent Models"
   },
   {
     "source": "hn",
@@ -51,13 +56,8 @@
   },
   {
     "source": "hn",
-    "url": "https://www.dongascience.com/en/news/30374",
-    "title": "Register Korea's First PC 'SE-8001' as a National Important Material"
-  },
-  {
-    "source": "hn",
-    "url": "https://en.wikipedia.org/wiki/Forestiere_Underground_Gardens",
-    "title": "Forestiere Underground Gardens"
+    "url": "https://www.omgubuntu.co.uk/2026/06/pine64-pinevoice-riscv-smart-speaker-launch",
+    "title": "Pine64 launch $50 smart speaker for Home Assistant tinkerers"
   },
   {
     "source": "hn",
@@ -66,13 +66,13 @@
   },
   {
     "source": "hn",
-    "url": "https://nibblestew.blogspot.com/2026/06/pystd-standard-library-similar-ish.html",
-    "title": "Pystd, similar-ish functionality with a fraction of the compile time"
+    "url": "https://www.dongascience.com/en/news/30374",
+    "title": "Register Korea's First PC 'SE-8001' as a National Important Material"
   },
   {
     "source": "hn",
-    "url": "https://soranews24.com/2026/06/30/tokyo-has-only-two-barley-tea-makers-and-we-visited-one-to-see-how-mugicha-is-made/",
-    "title": "Tokyo has only two barley tea makers, we visited one to see how mugicha is made"
+    "url": "https://en.wikipedia.org/wiki/Forestiere_Underground_Gardens",
+    "title": "Forestiere Underground Gardens"
   },
   {
     "source": "lobsters",
@@ -101,13 +101,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://servo.org/blog/2026/06/30/may-in-servo/",
-    "title": "May in Servo: user scripts, mp4 compat, blackboxing in DevTools, and more"
+    "url": "https://minoki.github.io/posts/2026-06-30-haskell-inline-asm.html",
+    "title": "Low-level Haskell: The cursed way to emulate inline assembly in Haskell/GHC"
   },
   {
     "source": "lobsters",
-    "url": "https://minoki.github.io/posts/2026-06-30-haskell-inline-asm.html",
-    "title": "Low-level Haskell: The cursed way to emulate inline assembly in Haskell/GHC"
+    "url": "https://servo.org/blog/2026/06/30/may-in-servo/",
+    "title": "May in Servo: user scripts, mp4 compat, blackboxing in DevTools, and more"
   },
   {
     "source": "lobsters",
@@ -123,6 +123,11 @@
     "source": "lobsters",
     "url": "https://benjaminhollon.com/musings/stop-asking-writers-about-ai/",
     "title": "stop asking writers about \"AI\""
+  },
+  {
+    "source": "lobsters",
+    "url": "https://ziglang.org/devlog/2026/?2026-06-30#2026-06-30",
+    "title": "All Package Management Functionality Moved from Compiler to Build System"
   },
   {
     "source": "lobsters",
@@ -148,110 +153,5 @@
     "source": "lobsters",
     "url": "https://vosen.github.io/ZLUDA/blog/zluda-update-q1q2-2026/",
     "title": "ZLUDA 6 release (run CUDA on non-Nvidia GPUs)"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://soatok.blog/2026/06/30/soatoks-informal-guide-to-threat-models/",
-    "title": "Soatok’s Informal Guide to Threat Models"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://marcin.juszkiewicz.com.pl/2026/06/26/the-end-of-the-aarch64-desktop-experiment/",
-    "title": "The end of the AArch64 desktop experiment"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://quesma.com/blog/qwen-36-is-awesome/",
-    "title": "Qwen 3.6 27B is the sweet spot for local development - Quesma Blog"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://fergusfinn.com/blog/what-happens-when-you-run-a-gpu-kernel/",
-    "title": "What happens when you run a CUDA kernel"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://w.pitula.me/fintech-engineering-handbook/",
-    "title": "Fintech Engineering Handbook"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://news.ycombinator.com/item?id=48721903",
-    "title": "Qwen 3.6 27B is the sweet spot for local development | Hacker News"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks/",
-    "title": "We have Mythos at Home: GLM 5.2 beats Claude in our Cyber Benchmarks | Semgrep"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://opensourcelowtech.org/",
-    "title": "Open Source Low Tech"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://adiamond.me/2026/06/software-engineering-in-the-age-of-ai/",
-    "title": "Software Engineering in the Age of AI"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://alexwlchan.net/2026/computer-room/",
-    "title": "Rebuilding the computer room – alexwlchan"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://refactoringenglish.com/excerpts/write-an-effective-design-doc/",
-    "title": "How to Write an Effective Software Design Document"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://jayacunzo.com/blog/your-move-chief",
-    "title": "The best response to AI slop, infinite advice, and online noise is from Robin Williams"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://news.ycombinator.com/item?id=48724230",
-    "title": ".self: A new top-level domain designed to support self-hosting | Hacker News"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://role-confusion.github.io/",
-    "title": "Prompt Injection as Role Confusion"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://futurism.com/artificial-intelligence/bosses-obsessed-with-ai",
-    "title": "Bosses Are Becoming Obsessed With AI, Using It to Make Every Decision, Barraging Their Employees With Nonsensical ChatGPT Directives, and Even Asking It Who to Fire"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://lareviewofbooks.org/article/dangerous-dirty-violent-young-ayers-dohrn-weather-underground/",
-    "title": "A Better World Is Not Possible | Los Angeles Review of Books"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://daringfireball.net/2026/06/om",
-    "title": "Daring Fireball: Om"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://dervis.de/physical/",
-    "title": "If You Can't Hold It, You Don't Own It | Cem Dervis"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://sleepingrobots.com/dreams/stop-using-ollama/",
-    "title": "Friends Don't Let Friends Use Ollama | Sleeping Robots"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://gauthier-lechevalier.com/radar",
-    "title": "https://gauthier-lechevalier.com/radar"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://thomasdullien.github.io/guides/entrepreneurship/",
-    "title": "Halvar’s Guide to Entrepreneurship – Thomas Dullien / Halvar Flake"
   }
 ]
