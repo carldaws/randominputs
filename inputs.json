@@ -1,43 +1,13 @@
 [
   {
     "source": "hn",
-    "url": "https://biotic.org/research/spudcell/",
-    "title": "SpudCell: The first synthetic cell with a complete cell cycle"
-  },
-  {
-    "source": "hn",
-    "url": "https://asahilinux.org/2026/06/progress-report-7-1/",
-    "title": "Asahi Linux 7.1 Progress Report"
-  },
-  {
-    "source": "hn",
-    "url": "https://wangcong.org/2026-06-30-why-i-stopped-arguing-with-people.html",
-    "title": "Why I Stopped Arguing with People"
-  },
-  {
-    "source": "hn",
     "url": "https://box2d.org/posts/2026/06/announcing-box3d/",
-    "title": "Announcing Box3D :: Box2D"
+    "title": "Announcing the release of Box3D, an open source 3D physics engine"
   },
   {
     "source": "hn",
-    "url": "https://mynintendonews.com/2026/06/26/nintendo-has-raised-its-employees-base-salary-by-10/",
-    "title": "Nintendo has raised its employees base salary by 10%"
-  },
-  {
-    "source": "hn",
-    "url": "https://blog.cloudflare.com/monetization-gateway/",
-    "title": "Monetization Gateway"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.red-lang.org/2026/06/static-linking-support.html",
-    "title": "Red Programming Language: Static linking support"
-  },
-  {
-    "source": "hn",
-    "url": "https://phys.org/news/2026-06-newly-australian-ballista-spider-snare.html",
-    "title": "Newly discovered spider builds spring loaded snare to catch ants"
+    "url": "https://cerebrium.ai/blog/reducing-gpu-cold-starts-with-memory-snapshots-restoring-cuda-workloads-in-second",
+    "title": "Reduce GVisor Cold Starts with GPU Snapshotting"
   },
   {
     "source": "hn",
@@ -46,8 +16,43 @@
   },
   {
     "source": "hn",
+    "url": "https://blog.cloudflare.com/monetization-gateway/",
+    "title": "Monetization Gateway"
+  },
+  {
+    "source": "hn",
+    "url": "https://asahilinux.org/2026/06/progress-report-7-1/",
+    "title": "Asahi Linux 7.1 Progress Report"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.red-lang.org/2026/06/static-linking-support.html",
+    "title": "Red Programming Language: Static linking support"
+  },
+  {
+    "source": "hn",
     "url": "https://hypertalking.com/2023/05/15/1-bit-pixel-art-emojis/",
     "title": "1-Bit Pixel Art Emojis"
+  },
+  {
+    "source": "hn",
+    "url": "https://mynintendonews.com/2026/06/26/nintendo-has-raised-its-employees-base-salary-by-10/",
+    "title": "Nintendo has raised its employees base salary by 10%"
+  },
+  {
+    "source": "hn",
+    "url": "https://phys.org/news/2026-06-newly-australian-ballista-spider-snare.html",
+    "title": "Newly discovered spider builds spring loaded snare to catch ants"
+  },
+  {
+    "source": "hn",
+    "url": "https://wangcong.org/2026-06-30-why-i-stopped-arguing-with-people.html",
+    "title": "Most arguments are about ego, not ideas"
+  },
+  {
+    "source": "hn",
+    "url": "https://mainmatter.com/c-to-rust-migration-book/",
+    "title": "The C to Rust migration book"
   },
   {
     "source": "hn",
@@ -56,8 +61,8 @@
   },
   {
     "source": "hn",
-    "url": "https://fpanalysistools.org/ISC26/",
-    "title": "Compiler-Assisted Floating-Point Error Analysis and Profiling with FPChecker"
+    "url": "https://golemui.com",
+    "title": "Show HN: GolemUI – The new paradigm for JavaScript forms"
   },
   {
     "source": "hn",
@@ -66,18 +71,8 @@
   },
   {
     "source": "hn",
-    "url": "https://cleberg.net/blog/internet.html",
-    "title": "The Internet I Grew Up with Doesn't Exist Anymore"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.thedrive.com/news/your-kids-school-bus-is-about-to-become-a-roaming-surveillance-vehicle",
-    "title": "Your Kids' School Bus Is About to Become a Roaming Surveillance Vehicle"
-  },
-  {
-    "source": "hn",
-    "url": "https://frondruntime.dev",
-    "title": "Show HN: Frond – a frontend runtime for your app's dependency graph"
+    "url": "https://www.conception.bio/science-and-updates/the-first-early-human-eggs-from-stem-cells",
+    "title": "The first early human eggs from stem cells"
   },
   {
     "source": "lobsters",
@@ -98,6 +93,11 @@
     "source": "lobsters",
     "url": "https://ziglang.org/devlog/2026/?2026-06-30#2026-06-30",
     "title": "All Package Management Functionality Moved from Compiler to Build System"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://cleberg.net/blog/internet.html",
+    "title": "The Internet I Grew Up With Doesn’t Exist Anymore"
   },
   {
     "source": "lobsters",
@@ -145,8 +145,98 @@
     "title": "stop asking writers about \"AI\""
   },
   {
-    "source": "lobsters",
-    "url": "https://blog.vrypan.net/2026/06/29/260629-whats-wrong-with-eu-age-verification/",
-    "title": "What's wrong with EU age verification? (Nothing)"
+    "source": "pinboard",
+    "url": "https://quesma.com/blog/qwen-36-is-awesome/",
+    "title": "Qwen 3.6 27B is the sweet spot for local development - Quesma Blog"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://fergusfinn.com/blog/what-happens-when-you-run-a-gpu-kernel/",
+    "title": "What happens when you run a CUDA kernel"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://w.pitula.me/fintech-engineering-handbook/",
+    "title": "Fintech Engineering Handbook"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://news.ycombinator.com/item?id=48721903",
+    "title": "Qwen 3.6 27B is the sweet spot for local development | Hacker News"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks/",
+    "title": "We have Mythos at Home: GLM 5.2 beats Claude in our Cyber Benchmarks | Semgrep"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://opensourcelowtech.org/",
+    "title": "Open Source Low Tech"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://adiamond.me/2026/06/software-engineering-in-the-age-of-ai/",
+    "title": "Software Engineering in the Age of AI"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://alexwlchan.net/2026/computer-room/",
+    "title": "Rebuilding the computer room – alexwlchan"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://refactoringenglish.com/excerpts/write-an-effective-design-doc/",
+    "title": "How to Write an Effective Software Design Document"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://jayacunzo.com/blog/your-move-chief",
+    "title": "The best response to AI slop, infinite advice, and online noise is from Robin Williams"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://news.ycombinator.com/item?id=48724230",
+    "title": ".self: A new top-level domain designed to support self-hosting | Hacker News"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://role-confusion.github.io/",
+    "title": "Prompt Injection as Role Confusion"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://futurism.com/artificial-intelligence/bosses-obsessed-with-ai",
+    "title": "Bosses Are Becoming Obsessed With AI, Using It to Make Every Decision, Barraging Their Employees With Nonsensical ChatGPT Directives, and Even Asking It Who to Fire"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://lareviewofbooks.org/article/dangerous-dirty-violent-young-ayers-dohrn-weather-underground/",
+    "title": "A Better World Is Not Possible | Los Angeles Review of Books"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://daringfireball.net/2026/06/om",
+    "title": "Daring Fireball: Om"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://dervis.de/physical/",
+    "title": "If You Can't Hold It, You Don't Own It | Cem Dervis"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://sleepingrobots.com/dreams/stop-using-ollama/",
+    "title": "Friends Don't Let Friends Use Ollama | Sleeping Robots"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://gauthier-lechevalier.com/radar",
+    "title": "https://gauthier-lechevalier.com/radar"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://thomasdullien.github.io/guides/entrepreneurship/",
+    "title": "Halvar’s Guide to Entrepreneurship – Thomas Dullien / Halvar Flake"
   }
 ]
