@@ -16,6 +16,16 @@
   },
   {
     "source": "hn",
+    "url": "https://hengefinder.com/",
+    "title": "Hengefinder"
+  },
+  {
+    "source": "hn",
+    "url": "https://verdagon.dev/blog/ante-blending-borrowing-rc",
+    "title": "Ante: A new way to blend borrow checking and reference counting"
+  },
+  {
+    "source": "hn",
     "url": "https://gauthier-lechevalier.com/radar",
     "title": "I built a mmWave material classification radar (2025)"
   },
@@ -26,18 +36,8 @@
   },
   {
     "source": "hn",
-    "url": "https://hengefinder.com/",
-    "title": "Hengefinder"
-  },
-  {
-    "source": "hn",
     "url": "https://home.cern/cern-bids-farewell-to-the-lhc-and-enters-long-shutdown-3/",
     "title": "CERN bids farewell to the LHC and enters Long Shutdown 3"
-  },
-  {
-    "source": "hn",
-    "url": "https://verdagon.dev/blog/ante-blending-borrowing-rc",
-    "title": "Ante: A new way to blend borrow checking and reference counting"
   },
   {
     "source": "hn",
@@ -51,18 +51,8 @@
   },
   {
     "source": "hn",
-    "url": "https://blog.cr.yp.to/20260630-risk.html",
-    "title": "Understanding lattice risks: Many differences between marketing and reality"
-  },
-  {
-    "source": "hn",
     "url": "https://www.knopper.net/knoppix/index-en.html",
     "title": "Knoppix"
-  },
-  {
-    "source": "hn",
-    "url": "https://taonaw.com/2026/06/27/have-you-restarted-your-computer.html",
-    "title": "Have you restarted your computer this week?"
   },
   {
     "source": "hn",
@@ -71,13 +61,23 @@
   },
   {
     "source": "hn",
-    "url": "https://www.gutenberg.org/ebooks/24518",
-    "title": "Memoirs of Extraordinary Popular Delusions and the Madness of Crowds (1852)"
+    "url": "https://weinholt.se/articles/loko-scheme-0-13-0/",
+    "title": "Loko Scheme 0.13.0"
+  },
+  {
+    "source": "hn",
+    "url": "https://taonaw.com/2026/06/27/have-you-restarted-your-computer.html",
+    "title": "Have you restarted your computer this week?"
   },
   {
     "source": "hn",
     "url": "https://louwrentius.com/i-build-a-10-inch-mini-rack-from-aluminium-extrusions.html",
     "title": "I built a 10 inch mini rack from aluminium extrusions"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://caiustheory.com/jj-jj-jj-jj-jj/",
+    "title": "jj jj jj jj jj"
   },
   {
     "source": "lobsters",
@@ -101,11 +101,6 @@
   },
   {
     "source": "lobsters",
-    "url": "https://caiustheory.com/jj-jj-jj-jj-jj/",
-    "title": "jj jj jj jj jj"
-  },
-  {
-    "source": "lobsters",
     "url": "https://cekrem.github.io/posts/parse-dont-validate-typescript/",
     "title": "Parse, Don't Validate — In a Language That Doesn't Want You To"
   },
@@ -126,18 +121,23 @@
   },
   {
     "source": "lobsters",
+    "url": "https://k-monk.org/blog/generating-the-p3-tiling/",
+    "title": "Generating the P3 Tiling"
+  },
+  {
+    "source": "lobsters",
     "url": "https://soatok.blog/2026/06/30/soatoks-informal-guide-to-threat-models/",
     "title": "Soatok’s Informal Guide to Threat Models"
   },
   {
     "source": "lobsters",
-    "url": "https://vrong.me/blog/what-is-pinning-in-rust/",
-    "title": "What is `std::pin::Pin` in Rust?"
+    "url": "https://dustycloud.org/blog/what-happened-to-the-fight-for-the-internet/",
+    "title": "What happened to the fight for the internet?"
   },
   {
     "source": "lobsters",
-    "url": "https://k-monk.org/blog/generating-the-p3-tiling/",
-    "title": "Generating the P3 Tiling"
+    "url": "https://vrong.me/blog/what-is-pinning-in-rust/",
+    "title": "What is `std::pin::Pin` in Rust?"
   },
   {
     "source": "lobsters",
@@ -161,117 +161,22 @@
   },
   {
     "source": "lobsters",
-    "url": "https://probablymarcus.com/blocks/2026/06/28/native-graphical-shell-for-SSH.html",
-    "title": "A native graphical shell for SSH"
-  },
-  {
-    "source": "lobsters",
     "url": "https://fil-c.org/context_switches",
     "title": "Memory Safe Context Switching"
   },
   {
     "source": "lobsters",
+    "url": "https://vosen.github.io/ZLUDA/blog/zluda-update-q1q2-2026/",
+    "title": "ZLUDA 6 release (run CUDA on non-Nvidia GPUs)"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://probablymarcus.com/blocks/2026/06/28/native-graphical-shell-for-SSH.html",
+    "title": "A native graphical shell for SSH"
+  },
+  {
+    "source": "lobsters",
     "url": "https://www.wezm.net/v2/posts/2026/bre/",
     "title": "Platform Support for GNU Extensions to Basic Regular Expressions"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://blog.tangled.org/spindle-microvm/",
-    "title": "Spindle's new microVM engine"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://value.gay/blog/furality-ultra-av",
-    "title": "Furality Ultra Club A/V Writeup"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://w.pitula.me/fintech-engineering-handbook/",
-    "title": "Fintech Engineering Handbook"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://quesma.com/blog/qwen-36-is-awesome/",
-    "title": "Qwen 3.6 27B is the sweet spot for local development - Quesma Blog"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://fergusfinn.com/blog/what-happens-when-you-run-a-gpu-kernel/",
-    "title": "What happens when you run a CUDA kernel"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://daringfireball.net/2026/06/om",
-    "title": "Daring Fireball: Om"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://refactoringenglish.com/excerpts/write-an-effective-design-doc/",
-    "title": "How to Write an Effective Software Design Document"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks/",
-    "title": "We have Mythos at Home: GLM 5.2 beats Claude in our Cyber Benchmarks | Semgrep"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://dervis.de/physical/",
-    "title": "If You Can't Hold It, You Don't Own It | Cem Dervis"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://pudding.cool/2026/06/menu-story/",
-    "title": "A History of Menus is a Menu of History | The Pudding"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.beercss.com/",
-    "title": "Beercss since 2021"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://news.ycombinator.com/item?id=48721903",
-    "title": "Qwen 3.6 27B is the sweet spot for local development | Hacker News"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://alexwlchan.net/2026/computer-room/",
-    "title": "Rebuilding the computer room – alexwlchan"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.openra.net/",
-    "title": "OpenRA"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://blog.omgmog.net/post/xteink-x4-e-ink-reader/",
-    "title": "The Xteink X4 E-Ink Reader — Max Glenister"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://jayacunzo.com/blog/your-move-chief",
-    "title": "The best response to AI slop, infinite advice, and online noise is from Robin Williams"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.sfwriter.com/wordstar.htm",
-    "title": "Science Fiction Writer Robert J. Sawyer: WordStar: A Writer's Word Processor"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://thomasdullien.github.io/guides/entrepreneurship/",
-    "title": "Halvar’s Guide to Entrepreneurship – Thomas Dullien / Halvar Flake"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.schneier.com/blog/archives/2026/06/ai-and-liability.html",
-    "title": "AI and Liability - Schneier on Security"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://nesbitt.io/2026/06/26/incident-report-cve-2026-lgtm.html",
-    "title": "Incident Report: CVE-2026-LGTM | Andrew Nesbitt"
   }
 ]
