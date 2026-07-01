@@ -6,13 +6,13 @@
   },
   {
     "source": "hn",
-    "url": "https://box2d.org/posts/2026/06/announcing-box3d/",
-    "title": "Box3D, an open source 3D physics engine"
+    "url": "https://zcode.z.ai/cn",
+    "title": "ZCode: Claude Code from the Makers of GLM"
   },
   {
     "source": "hn",
-    "url": "https://blog.cloudflare.com/monetization-gateway/",
-    "title": "Monetization Gateway"
+    "url": "https://box2d.org/posts/2026/06/announcing-box3d/",
+    "title": "Box3D, an open source 3D physics engine"
   },
   {
     "source": "hn",
@@ -26,28 +26,28 @@
   },
   {
     "source": "hn",
+    "url": "https://blog.cloudflare.com/monetization-gateway/",
+    "title": "Monetization Gateway"
+  },
+  {
+    "source": "hn",
+    "url": "https://wasm.chdb.io/",
+    "title": "A complete ClickHouse OLAP engine, compiled to WebAssembly"
+  },
+  {
+    "source": "hn",
     "url": "https://hanakai.org/blog/2026/06/30/hanami-3-0-in-full-bloom",
     "title": "Hanami 3.0: In Full Bloom"
   },
   {
     "source": "hn",
-    "url": "https://cerebrium.ai/blog/reducing-gpu-cold-starts-with-memory-snapshots-restoring-cuda-workloads-in-second",
-    "title": "Reduce GVisor Cold Starts with GPU Snapshotting"
-  },
-  {
-    "source": "hn",
-    "url": "https://hackerask.com/posts/pentesting-cheatsheet/",
-    "title": "My OSCP Pentesting Cheatsheet"
-  },
-  {
-    "source": "hn",
-    "url": "https://qr.jim.sh/",
-    "title": "Show HN: QR code renderer in a TrueType font"
-  },
-  {
-    "source": "hn",
     "url": "https://hypertalking.com/2023/05/15/1-bit-pixel-art-emojis/",
     "title": "1-Bit Pixel Art Emojis"
+  },
+  {
+    "source": "hn",
+    "url": "https://cerebrium.ai/blog/reducing-gpu-cold-starts-with-memory-snapshots-restoring-cuda-workloads-in-second",
+    "title": "Reduce GVisor Cold Starts with GPU Snapshotting"
   },
   {
     "source": "hn",
@@ -70,19 +70,24 @@
     "title": "Nintendo has raised its employees base salary by 10%"
   },
   {
+    "source": "hn",
+    "url": "https://qr.jim.sh/",
+    "title": "Show HN: QR code renderer in a TrueType font"
+  },
+  {
     "source": "lobsters",
     "url": "https://dustycloud.org/blog/what-happened-to-the-fight-for-the-internet/",
     "title": "What happened to the fight for the internet?"
   },
   {
     "source": "lobsters",
-    "url": "https://caiustheory.com/jj-jj-jj-jj-jj/",
-    "title": "jj jj jj jj jj"
+    "url": "https://robheghan.prose.sh/26_06_30_uruky",
+    "title": "Uruky - The Paid European Search Engine"
   },
   {
     "source": "lobsters",
-    "url": "https://robheghan.prose.sh/26_06_30_uruky",
-    "title": "Uruky - The Paid European Search Engine"
+    "url": "https://caiustheory.com/jj-jj-jj-jj-jj/",
+    "title": "jj jj jj jj jj"
   },
   {
     "source": "lobsters",
@@ -96,13 +101,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://www.feistyduck.com/newsletter/issue_138_the_threat_of_residential_proxies",
-    "title": "The Threat of Residential Proxies"
+    "url": "https://parsa.wtf/cast/",
+    "title": "It's not me, it's the compiler"
   },
   {
     "source": "lobsters",
-    "url": "https://parsa.wtf/cast/",
-    "title": "It's not me, it's the compiler"
+    "url": "https://www.feistyduck.com/newsletter/issue_138_the_threat_of_residential_proxies",
+    "title": "The Threat of Residential Proxies"
   },
   {
     "source": "lobsters",
@@ -111,13 +116,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://minoki.github.io/posts/2026-06-30-haskell-inline-asm.html",
-    "title": "Low-level Haskell: The cursed way to emulate inline assembly in Haskell/GHC"
+    "url": "https://servo.org/blog/2026/06/30/may-in-servo/",
+    "title": "May in Servo: user scripts, mp4 compat, blackboxing in DevTools, and more"
   },
   {
     "source": "lobsters",
-    "url": "https://servo.org/blog/2026/06/30/may-in-servo/",
-    "title": "May in Servo: user scripts, mp4 compat, blackboxing in DevTools, and more"
+    "url": "https://minoki.github.io/posts/2026-06-30-haskell-inline-asm.html",
+    "title": "Low-level Haskell: The cursed way to emulate inline assembly in Haskell/GHC"
   },
   {
     "source": "lobsters",
