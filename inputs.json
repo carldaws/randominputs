@@ -7,7 +7,12 @@
   {
     "source": "hn",
     "url": "https://blog.demofox.org/2026/07/01/what-to-learn-to-be-a-graphics-programmer/",
-    "title": "What to Learn to Be a Graphics Programmer"
+    "title": "What to learn to be a graphics programmer"
+  },
+  {
+    "source": "hn",
+    "url": "https://ciechanow.ski/internal-combustion-engine/",
+    "title": "Internal Combustion Engine (2021)"
   },
   {
     "source": "hn",
@@ -16,13 +21,18 @@
   },
   {
     "source": "hn",
-    "url": "https://blog.cloudflare.com/monetization-gateway/",
-    "title": "Monetization Gateway"
+    "url": "https://www.workerowned.info/",
+    "title": "Show HN: Searchable directory of 22k+ products from worker-owned co-ops"
   },
   {
     "source": "hn",
-    "url": "https://ciechanow.ski/internal-combustion-engine/",
-    "title": "Internal Combustion Engine"
+    "url": "https://blog.cloudflare.com/monetization-gateway/",
+    "title": "Monetization Gateway: Charge for any resource behind Cloudflare via x402"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.windtowatt.com/index-en.html",
+    "title": "One KW wind turbine without civil engineering"
   },
   {
     "source": "hn",
@@ -31,8 +41,13 @@
   },
   {
     "source": "hn",
-    "url": "https://wasm.chdb.io/",
-    "title": "A complete ClickHouse OLAP engine, compiled to WebAssembly"
+    "url": "https://www.weaverobotics.com/isaac-1",
+    "title": "Weave Robotics launches Isaac 1, a $7,999 home robot with Fall 2026 deliveries"
+  },
+  {
+    "source": "hn",
+    "url": "https://anatoliybabushka.com/blog/when-to-rewrite-working-code.html",
+    "title": "Most rewrites serve the engineer, not the business"
   },
   {
     "source": "hn",
@@ -46,13 +61,13 @@
   },
   {
     "source": "hn",
-    "url": "https://cerebrium.ai/blog/reducing-gpu-cold-starts-with-memory-snapshots-restoring-cuda-workloads-in-second",
-    "title": "Reduce GVisor Cold Starts with GPU Snapshotting"
+    "url": "https://wasm.chdb.io/",
+    "title": "A complete ClickHouse OLAP engine, compiled to WebAssembly"
   },
   {
     "source": "hn",
-    "url": "https://qr.jim.sh/",
-    "title": "Show HN: QR code renderer in a TrueType font"
+    "url": "https://www.duration.ai/blog/generating-images-with-a-2025-android",
+    "title": "Generating Images with a 2025 Android"
   },
   {
     "source": "hn",
@@ -61,18 +76,13 @@
   },
   {
     "source": "hn",
+    "url": "https://cerebrium.ai/blog/reducing-gpu-cold-starts-with-memory-snapshots-restoring-cuda-workloads-in-second",
+    "title": "Reduce GVisor Cold Starts with GPU Snapshotting"
+  },
+  {
+    "source": "hn",
     "url": "https://phys.org/news/2026-06-newly-australian-ballista-spider-snare.html",
     "title": "Newly discovered spider builds spring loaded snare to catch ants"
-  },
-  {
-    "source": "hn",
-    "url": "https://mynintendonews.com/2026/06/26/nintendo-has-raised-its-employees-base-salary-by-10/",
-    "title": "Nintendo has raised its employees base salary by 10%"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.red-lang.org/2026/06/static-linking-support.html",
-    "title": "Red Programming Language: Static linking support"
   },
   {
     "source": "lobsters",
