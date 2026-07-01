@@ -6,8 +6,8 @@
   },
   {
     "source": "hn",
-    "url": "https://en.wikipedia.org/wiki/Forestiere_Underground_Gardens",
-    "title": "Forestiere Underground Gardens"
+    "url": "https://blog.arxiv.org/2026/06/30/arxivs-next-chapter/",
+    "title": "ArXiv's Next Chapter"
   },
   {
     "source": "hn",
@@ -16,38 +16,13 @@
   },
   {
     "source": "hn",
+    "url": "https://en.wikipedia.org/wiki/Forestiere_Underground_Gardens",
+    "title": "Forestiere Underground Gardens"
+  },
+  {
+    "source": "hn",
     "url": "https://mechanical-pencil.com/products/car",
     "title": "How does a pull-back car work? Illustrated teardown"
-  },
-  {
-    "source": "hn",
-    "url": "https://home.cern/cern-bids-farewell-to-the-lhc-and-enters-long-shutdown-3/",
-    "title": "CERN bids farewell to the LHC and enters Long Shutdown 3"
-  },
-  {
-    "source": "hn",
-    "url": "https://verdagon.dev/blog/ante-blending-borrowing-rc",
-    "title": "Ante: A new way to blend borrow checking and reference counting"
-  },
-  {
-    "source": "hn",
-    "url": "https://ngrok.com/blog/i-ported-kubernetes-to-the-browser",
-    "title": "I ported Kubernetes to the browser"
-  },
-  {
-    "source": "hn",
-    "url": "https://hatari.frama.io/hatari/online/hatari.html",
-    "title": "Hatari – Online Atari ST/STE/TT/Falcon Emulator"
-  },
-  {
-    "source": "hn",
-    "url": "https://gauthier-lechevalier.com/radar",
-    "title": "I built a mmWave material classification radar (2025)"
-  },
-  {
-    "source": "hn",
-    "url": "https://stillthinking.net/posts/connections-in-math-svd/",
-    "title": "Deriving the SVD (Single Value Decomposition) from scratch"
   },
   {
     "source": "hn",
@@ -56,13 +31,48 @@
   },
   {
     "source": "hn",
-    "url": "https://lilianweng.github.io/posts/2026-06-24-scaling-laws/",
-    "title": "Scaling Laws, Carefully"
+    "url": "https://home.cern/cern-bids-farewell-to-the-lhc-and-enters-long-shutdown-3/",
+    "title": "CERN bids farewell to the LHC and enters Long Shutdown 3"
+  },
+  {
+    "source": "hn",
+    "url": "https://motplot.app/helloworld",
+    "title": "How information theory saved my word game"
+  },
+  {
+    "source": "hn",
+    "url": "https://ngrok.com/blog/i-ported-kubernetes-to-the-browser",
+    "title": "I ported Kubernetes to the browser"
+  },
+  {
+    "source": "hn",
+    "url": "https://verdagon.dev/blog/ante-blending-borrowing-rc",
+    "title": "Ante: A new way to blend borrow checking and reference counting"
   },
   {
     "source": "hn",
     "url": "https://soranews24.com/2026/06/30/tokyo-has-only-two-barley-tea-makers-and-we-visited-one-to-see-how-mugicha-is-made/",
     "title": "Tokyo has only two barley tea makers, we visited one to see how mugicha is made"
+  },
+  {
+    "source": "hn",
+    "url": "https://gauthier-lechevalier.com/radar",
+    "title": "I built a mmWave material classification radar (2025)"
+  },
+  {
+    "source": "hn",
+    "url": "https://lilianweng.github.io/posts/2026-06-24-scaling-laws/",
+    "title": "Scaling Laws, Carefully"
+  },
+  {
+    "source": "hn",
+    "url": "https://hatari.frama.io/hatari/online/hatari.html",
+    "title": "Hatari – Online Atari ST/STE/TT/Falcon Emulator"
+  },
+  {
+    "source": "hn",
+    "url": "http://sparkbangbuzz.com/cds-fet/cds-fet.htm",
+    "title": "Homemade Transistor from Cadmium Sulfide Photocell (2009)"
   },
   {
     "source": "hn",
@@ -111,6 +121,16 @@
   },
   {
     "source": "lobsters",
+    "url": "https://parsa.wtf/cast/",
+    "title": "It's not me, it's the compiler"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://robheghan.prose.sh/26_06_30_uruky",
+    "title": "Uruky - The Paid European Search Engine"
+  },
+  {
+    "source": "lobsters",
     "url": "https://blog.vrypan.net/2026/06/29/260629-whats-wrong-with-eu-age-verification/",
     "title": "What's wrong with EU age verification? (Nothing)"
   },
@@ -121,8 +141,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://parsa.wtf/cast/",
-    "title": "It's not me, it's the compiler"
+    "url": "https://www.stopkillingtheinternet.com/",
+    "title": "Stop Killing the Internet"
   },
   {
     "source": "lobsters",
@@ -141,8 +161,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://slint.dev/blog/slint-and-the-nodejs-event-loop",
-    "title": "Slint and the Node.js Event Loop"
+    "url": "https://vosen.github.io/ZLUDA/blog/zluda-update-q1q2-2026/",
+    "title": "ZLUDA 6 release (run CUDA on non-Nvidia GPUs)"
   },
   {
     "source": "lobsters",
@@ -151,18 +171,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://www.stopkillingtheinternet.com/",
-    "title": "Stop Killing the Internet"
+    "url": "https://slint.dev/blog/slint-and-the-nodejs-event-loop",
+    "title": "Slint and the Node.js Event Loop"
   },
   {
     "source": "lobsters",
     "url": "https://vrong.me/blog/what-is-pinning-in-rust/",
     "title": "What is `std::pin::Pin` in Rust?"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://vosen.github.io/ZLUDA/blog/zluda-update-q1q2-2026/",
-    "title": "ZLUDA 6 release (run CUDA on non-Nvidia GPUs)"
   },
   {
     "source": "lobsters",
@@ -176,13 +191,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://blog.colinbreck.com/when-impressive-performance-gains-do-not-matter/",
-    "title": "When Impressive Performance Gains Do Not Matter"
+    "url": "https://www.more-magic.net/posts/structurally-fixing-injection-bugs.html",
+    "title": "Structurally fixing injection bugs (2012)"
   },
   {
-    "source": "pinboard",
-    "url": "https://w.pitula.me/fintech-engineering-handbook/",
-    "title": "Fintech Engineering Handbook"
+    "source": "lobsters",
+    "url": "https://hanakai.org/blog/2026/06/30/hanami-3-0-in-full-bloom",
+    "title": "Hanami 3.0: In full bloom"
   },
   {
     "source": "pinboard",
@@ -196,33 +211,8 @@
   },
   {
     "source": "pinboard",
-    "url": "https://daringfireball.net/2026/06/om",
-    "title": "Daring Fireball: Om"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://refactoringenglish.com/excerpts/write-an-effective-design-doc/",
-    "title": "How to Write an Effective Software Design Document"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks/",
-    "title": "We have Mythos at Home: GLM 5.2 beats Claude in our Cyber Benchmarks | Semgrep"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://dervis.de/physical/",
-    "title": "If You Can't Hold It, You Don't Own It | Cem Dervis"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://pudding.cool/2026/06/menu-story/",
-    "title": "A History of Menus is a Menu of History | The Pudding"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.beercss.com/",
-    "title": "Beercss since 2021"
+    "url": "https://w.pitula.me/fintech-engineering-handbook/",
+    "title": "Fintech Engineering Handbook"
   },
   {
     "source": "pinboard",
@@ -231,18 +221,28 @@
   },
   {
     "source": "pinboard",
+    "url": "https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks/",
+    "title": "We have Mythos at Home: GLM 5.2 beats Claude in our Cyber Benchmarks | Semgrep"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://opensourcelowtech.org/",
+    "title": "Open Source Low Tech"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://adiamond.me/2026/06/software-engineering-in-the-age-of-ai/",
+    "title": "Software Engineering in the Age of AI"
+  },
+  {
+    "source": "pinboard",
     "url": "https://alexwlchan.net/2026/computer-room/",
     "title": "Rebuilding the computer room – alexwlchan"
   },
   {
     "source": "pinboard",
-    "url": "https://www.openra.net/",
-    "title": "OpenRA"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://blog.omgmog.net/post/xteink-x4-e-ink-reader/",
-    "title": "The Xteink X4 E-Ink Reader — Max Glenister"
+    "url": "https://refactoringenglish.com/excerpts/write-an-effective-design-doc/",
+    "title": "How to Write an Effective Software Design Document"
   },
   {
     "source": "pinboard",
@@ -251,22 +251,42 @@
   },
   {
     "source": "pinboard",
-    "url": "https://www.sfwriter.com/wordstar.htm",
-    "title": "Science Fiction Writer Robert J. Sawyer: WordStar: A Writer's Word Processor"
+    "url": "https://news.ycombinator.com/item?id=48724230",
+    "title": ".self: A new top-level domain designed to support self-hosting | Hacker News"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://role-confusion.github.io/",
+    "title": "Prompt Injection as Role Confusion"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://futurism.com/artificial-intelligence/bosses-obsessed-with-ai",
+    "title": "Bosses Are Becoming Obsessed With AI, Using It to Make Every Decision, Barraging Their Employees With Nonsensical ChatGPT Directives, and Even Asking It Who to Fire"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://lareviewofbooks.org/article/dangerous-dirty-violent-young-ayers-dohrn-weather-underground/",
+    "title": "A Better World Is Not Possible | Los Angeles Review of Books"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://daringfireball.net/2026/06/om",
+    "title": "Daring Fireball: Om"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://dervis.de/physical/",
+    "title": "If You Can't Hold It, You Don't Own It | Cem Dervis"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://sleepingrobots.com/dreams/stop-using-ollama/",
+    "title": "Friends Don't Let Friends Use Ollama | Sleeping Robots"
   },
   {
     "source": "pinboard",
     "url": "https://thomasdullien.github.io/guides/entrepreneurship/",
     "title": "Halvar’s Guide to Entrepreneurship – Thomas Dullien / Halvar Flake"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.schneier.com/blog/archives/2026/06/ai-and-liability.html",
-    "title": "AI and Liability - Schneier on Security"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://nesbitt.io/2026/06/26/incident-report-cve-2026-lgtm.html",
-    "title": "Incident Report: CVE-2026-LGTM | Andrew Nesbitt"
   }
 ]
