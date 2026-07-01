@@ -11,6 +11,11 @@
   },
   {
     "source": "hn",
+    "url": "https://box2d.org/posts/2026/06/announcing-box3d/",
+    "title": "Announcing Box3D :: Box2D"
+  },
+  {
+    "source": "hn",
     "url": "https://mynintendonews.com/2026/06/26/nintendo-has-raised-its-employees-base-salary-by-10/",
     "title": "Nintendo has raised its employees base salary by 10%"
   },
@@ -21,13 +26,18 @@
   },
   {
     "source": "hn",
-    "url": "https://cleberg.net/blog/internet.html",
-    "title": "The Internet I Grew Up with Doesn't Exist Anymore"
+    "url": "https://www.red-lang.org/2026/06/static-linking-support.html",
+    "title": "Red Programming Language: Static linking support"
   },
   {
     "source": "hn",
-    "url": "https://maskray.me/blog/2026-06-27-a-deep-dive-into-smallvector-push-back",
-    "title": "A deep dive into SmallVector:push_back"
+    "url": "https://www.thedrive.com/news/your-kids-school-bus-is-about-to-become-a-roaming-surveillance-vehicle",
+    "title": "Your Kids' School Bus Is About to Become a Roaming Surveillance Vehicle"
+  },
+  {
+    "source": "hn",
+    "url": "https://cleberg.net/blog/internet.html",
+    "title": "The Internet I Grew Up with Doesn't Exist Anymore"
   },
   {
     "source": "hn",
@@ -36,13 +46,23 @@
   },
   {
     "source": "hn",
+    "url": "https://maskray.me/blog/2026-06-27-a-deep-dive-into-smallvector-push-back",
+    "title": "A deep dive into SmallVector:push_back"
+  },
+  {
+    "source": "hn",
     "url": "https://fpanalysistools.org/ISC26/",
     "title": "Compiler-Assisted Floating-Point Error Analysis and Profiling with FPChecker"
   },
   {
     "source": "hn",
-    "url": "https://ayushtambde.com/blog/matrix-orthogonalization-improves-memory-in-recurrent-models/",
-    "title": "Matrix Orthogonalization Improves Memory in Recurrent Models"
+    "url": "https://blog.cloudflare.com/monetization-gateway/",
+    "title": "Monetization Gateway"
+  },
+  {
+    "source": "hn",
+    "url": "https://frondruntime.dev",
+    "title": "Show HN: Frond – a frontend runtime for your app's dependency graph"
   },
   {
     "source": "hn",
@@ -53,26 +73,6 @@
     "source": "hn",
     "url": "https://home.cern/cern-bids-farewell-to-the-lhc-and-enters-long-shutdown-3/",
     "title": "CERN bids farewell to the LHC and enters Long Shutdown 3"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.omgubuntu.co.uk/2026/06/pine64-pinevoice-riscv-smart-speaker-launch",
-    "title": "Pine64 launch $50 smart speaker for Home Assistant tinkerers"
-  },
-  {
-    "source": "hn",
-    "url": "https://ngrok.com/blog/i-ported-kubernetes-to-the-browser",
-    "title": "I ported Kubernetes to the browser"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.dongascience.com/en/news/30374",
-    "title": "Register Korea's First PC 'SE-8001' as a National Important Material"
-  },
-  {
-    "source": "hn",
-    "url": "https://en.wikipedia.org/wiki/Forestiere_Underground_Gardens",
-    "title": "Forestiere Underground Gardens"
   },
   {
     "source": "lobsters",
@@ -101,6 +101,11 @@
   },
   {
     "source": "lobsters",
+    "url": "https://ziglang.org/devlog/2026/?2026-06-30#2026-06-30",
+    "title": "All Package Management Functionality Moved from Compiler to Build System"
+  },
+  {
+    "source": "lobsters",
     "url": "https://minoki.github.io/posts/2026-06-30-haskell-inline-asm.html",
     "title": "Low-level Haskell: The cursed way to emulate inline assembly in Haskell/GHC"
   },
@@ -108,6 +113,11 @@
     "source": "lobsters",
     "url": "https://servo.org/blog/2026/06/30/may-in-servo/",
     "title": "May in Servo: user scripts, mp4 compat, blackboxing in DevTools, and more"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://www.stopkillingtheinternet.com/",
+    "title": "Stop Killing the Internet"
   },
   {
     "source": "lobsters",
@@ -121,23 +131,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://benjaminhollon.com/musings/stop-asking-writers-about-ai/",
-    "title": "stop asking writers about \"AI\""
-  },
-  {
-    "source": "lobsters",
-    "url": "https://ziglang.org/devlog/2026/?2026-06-30#2026-06-30",
-    "title": "All Package Management Functionality Moved from Compiler to Build System"
-  },
-  {
-    "source": "lobsters",
     "url": "https://hanakai.org/blog/2026/06/30/hanami-3-0-in-full-bloom",
     "title": "Hanami 3.0: In full bloom"
   },
   {
     "source": "lobsters",
-    "url": "https://www.stopkillingtheinternet.com/",
-    "title": "Stop Killing the Internet"
+    "url": "https://benjaminhollon.com/musings/stop-asking-writers-about-ai/",
+    "title": "stop asking writers about \"AI\""
   },
   {
     "source": "lobsters",
@@ -148,10 +148,5 @@
     "source": "lobsters",
     "url": "https://k-monk.org/blog/generating-the-p3-tiling/",
     "title": "Generating the P3 Tiling"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://vosen.github.io/ZLUDA/blog/zluda-update-q1q2-2026/",
-    "title": "ZLUDA 6 release (run CUDA on non-Nvidia GPUs)"
   }
 ]
