@@ -1,13 +1,18 @@
 [
   {
     "source": "hn",
-    "url": "https://wangcong.org/2026-06-30-why-i-stopped-arguing-with-people.html",
-    "title": "Why I Stopped Arguing with People"
+    "url": "https://biotic.org/research/spudcell/",
+    "title": "SpudCell: The first synthetic cell with a complete cell cycle"
   },
   {
     "source": "hn",
     "url": "https://asahilinux.org/2026/06/progress-report-7-1/",
     "title": "Asahi Linux 7.1 Progress Report"
+  },
+  {
+    "source": "hn",
+    "url": "https://wangcong.org/2026-06-30-why-i-stopped-arguing-with-people.html",
+    "title": "Why I Stopped Arguing with People"
   },
   {
     "source": "hn",
@@ -21,8 +26,8 @@
   },
   {
     "source": "hn",
-    "url": "https://phys.org/news/2026-06-newly-australian-ballista-spider-snare.html",
-    "title": "Newly discovered spider builds spring loaded snare to catch ants"
+    "url": "https://blog.cloudflare.com/monetization-gateway/",
+    "title": "Monetization Gateway"
   },
   {
     "source": "hn",
@@ -31,13 +36,18 @@
   },
   {
     "source": "hn",
-    "url": "https://www.thedrive.com/news/your-kids-school-bus-is-about-to-become-a-roaming-surveillance-vehicle",
-    "title": "Your Kids' School Bus Is About to Become a Roaming Surveillance Vehicle"
+    "url": "https://phys.org/news/2026-06-newly-australian-ballista-spider-snare.html",
+    "title": "Newly discovered spider builds spring loaded snare to catch ants"
   },
   {
     "source": "hn",
-    "url": "https://cleberg.net/blog/internet.html",
-    "title": "The Internet I Grew Up with Doesn't Exist Anymore"
+    "url": "https://ciechanow.ski/internal-combustion-engine/",
+    "title": "Internal Combustion Engine"
+  },
+  {
+    "source": "hn",
+    "url": "https://hypertalking.com/2023/05/15/1-bit-pixel-art-emojis/",
+    "title": "1-Bit Pixel Art Emojis"
   },
   {
     "source": "hn",
@@ -46,33 +56,28 @@
   },
   {
     "source": "hn",
-    "url": "https://maskray.me/blog/2026-06-27-a-deep-dive-into-smallvector-push-back",
-    "title": "A deep dive into SmallVector:push_back"
-  },
-  {
-    "source": "hn",
     "url": "https://fpanalysistools.org/ISC26/",
     "title": "Compiler-Assisted Floating-Point Error Analysis and Profiling with FPChecker"
   },
   {
     "source": "hn",
-    "url": "https://blog.cloudflare.com/monetization-gateway/",
-    "title": "Monetization Gateway"
+    "url": "https://maskray.me/blog/2026-06-27-a-deep-dive-into-smallvector-push-back",
+    "title": "A deep dive into SmallVector:push_back"
+  },
+  {
+    "source": "hn",
+    "url": "https://cleberg.net/blog/internet.html",
+    "title": "The Internet I Grew Up with Doesn't Exist Anymore"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.thedrive.com/news/your-kids-school-bus-is-about-to-become-a-roaming-surveillance-vehicle",
+    "title": "Your Kids' School Bus Is About to Become a Roaming Surveillance Vehicle"
   },
   {
     "source": "hn",
     "url": "https://frondruntime.dev",
     "title": "Show HN: Frond – a frontend runtime for your app's dependency graph"
-  },
-  {
-    "source": "hn",
-    "url": "https://mechanical-pencil.com/products/car",
-    "title": "How does a pull-back car work? Illustrated teardown"
-  },
-  {
-    "source": "hn",
-    "url": "https://home.cern/cern-bids-farewell-to-the-lhc-and-enters-long-shutdown-3/",
-    "title": "CERN bids farewell to the LHC and enters Long Shutdown 3"
   },
   {
     "source": "lobsters",
@@ -91,6 +96,11 @@
   },
   {
     "source": "lobsters",
+    "url": "https://ziglang.org/devlog/2026/?2026-06-30#2026-06-30",
+    "title": "All Package Management Functionality Moved from Compiler to Build System"
+  },
+  {
+    "source": "lobsters",
     "url": "https://www.feistyduck.com/newsletter/issue_138_the_threat_of_residential_proxies",
     "title": "The Threat of Residential Proxies"
   },
@@ -98,11 +108,6 @@
     "source": "lobsters",
     "url": "https://parsa.wtf/cast/",
     "title": "It's not me, it's the compiler"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://ziglang.org/devlog/2026/?2026-06-30#2026-06-30",
-    "title": "All Package Management Functionality Moved from Compiler to Build System"
   },
   {
     "source": "lobsters",
@@ -143,10 +148,5 @@
     "source": "lobsters",
     "url": "https://blog.vrypan.net/2026/06/29/260629-whats-wrong-with-eu-age-verification/",
     "title": "What's wrong with EU age verification? (Nothing)"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://k-monk.org/blog/generating-the-p3-tiling/",
-    "title": "Generating the P3 Tiling"
   }
 ]
