@@ -1,13 +1,13 @@
 [
   {
     "source": "hn",
-    "url": "https://blog.demofox.org/2026/07/01/what-to-learn-to-be-a-graphics-programmer/",
-    "title": "What to Learn to Be a Graphics Programmer"
+    "url": "https://zcode.z.ai/cn",
+    "title": "ZCode: Claude Code from the Makers of GLM"
   },
   {
     "source": "hn",
-    "url": "https://zcode.z.ai/cn",
-    "title": "ZCode: Claude Code from the Makers of GLM"
+    "url": "https://blog.demofox.org/2026/07/01/what-to-learn-to-be-a-graphics-programmer/",
+    "title": "What to Learn to Be a Graphics Programmer"
   },
   {
     "source": "hn",
@@ -16,23 +16,13 @@
   },
   {
     "source": "hn",
-    "url": "https://ciechanow.ski/internal-combustion-engine/",
-    "title": "Internal Combustion Engine"
-  },
-  {
-    "source": "hn",
-    "url": "https://manualmeida.dev/articles/gin-simple-over-easy/",
-    "title": "Building Gin: Simple over Easy"
-  },
-  {
-    "source": "hn",
     "url": "https://blog.cloudflare.com/monetization-gateway/",
     "title": "Monetization Gateway"
   },
   {
     "source": "hn",
-    "url": "https://wasm.chdb.io/",
-    "title": "A complete ClickHouse OLAP engine, compiled to WebAssembly"
+    "url": "https://ciechanow.ski/internal-combustion-engine/",
+    "title": "Internal Combustion Engine"
   },
   {
     "source": "hn",
@@ -41,8 +31,18 @@
   },
   {
     "source": "hn",
+    "url": "https://wasm.chdb.io/",
+    "title": "A complete ClickHouse OLAP engine, compiled to WebAssembly"
+  },
+  {
+    "source": "hn",
     "url": "https://hypertalking.com/2023/05/15/1-bit-pixel-art-emojis/",
     "title": "1-Bit Pixel Art Emojis"
+  },
+  {
+    "source": "hn",
+    "url": "https://manualmeida.dev/articles/gin-simple-over-easy/",
+    "title": "Building Gin: Simple over Easy"
   },
   {
     "source": "hn",
@@ -51,13 +51,13 @@
   },
   {
     "source": "hn",
-    "url": "https://asahilinux.org/2026/06/progress-report-7-1/",
-    "title": "Asahi Linux 7.1 Progress Report"
+    "url": "https://qr.jim.sh/",
+    "title": "Show HN: QR code renderer in a TrueType font"
   },
   {
     "source": "hn",
-    "url": "https://www.red-lang.org/2026/06/static-linking-support.html",
-    "title": "Red Programming Language: Static linking support"
+    "url": "https://asahilinux.org/2026/06/progress-report-7-1/",
+    "title": "Asahi Linux 7.1 Progress Report"
   },
   {
     "source": "hn",
@@ -71,8 +71,8 @@
   },
   {
     "source": "hn",
-    "url": "https://qr.jim.sh/",
-    "title": "Show HN: QR code renderer in a TrueType font"
+    "url": "https://www.red-lang.org/2026/06/static-linking-support.html",
+    "title": "Red Programming Language: Static linking support"
   },
   {
     "source": "lobsters",
@@ -111,6 +111,11 @@
   },
   {
     "source": "lobsters",
+    "url": "https://minoki.github.io/posts/2026-06-30-haskell-inline-asm.html",
+    "title": "Low-level Haskell: The cursed way to emulate inline assembly in Haskell/GHC"
+  },
+  {
+    "source": "lobsters",
     "url": "https://www.stopkillingtheinternet.com/",
     "title": "Stop Killing the Internet"
   },
@@ -121,8 +126,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://minoki.github.io/posts/2026-06-30-haskell-inline-asm.html",
-    "title": "Low-level Haskell: The cursed way to emulate inline assembly in Haskell/GHC"
+    "url": "https://nesbitt.io/2026/06/30/taking-roads-and-bridges-literally.html",
+    "title": "Open Source as Infrastructure: Taking Roads and Bridges literally"
   },
   {
     "source": "lobsters",
@@ -133,11 +138,6 @@
     "source": "lobsters",
     "url": "https://tusharhero.codeberg.page/underappreciated-builtin-gud.html",
     "title": "Underappreciated builtin: Grand Unified Debugger"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://benjaminhollon.com/musings/stop-asking-writers-about-ai/",
-    "title": "stop asking writers about \"AI\""
   },
   {
     "source": "pinboard",
