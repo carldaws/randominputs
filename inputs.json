@@ -6,13 +6,13 @@
   },
   {
     "source": "hn",
-    "url": "http://www.lmdb.tech/doc/",
-    "title": "Lightning Memory-Mapped Database Manager (LMDB) 1.0"
+    "url": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/EFF-letter-to-FTC-on-X-consent-order-7-2-26.pdf",
+    "title": "EFF letter to FTC on X consent order (2 July 2026) [pdf]"
   },
   {
     "source": "hn",
-    "url": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/EFF-letter-to-FTC-on-X-consent-order-7-2-26.pdf",
-    "title": "EFF letter to FTC on X consent order (2 July 2026) [pdf]"
+    "url": "http://www.lmdb.tech/doc/",
+    "title": "Lightning Memory-Mapped Database Manager (LMDB) 1.0"
   },
   {
     "source": "hn",
@@ -31,43 +31,58 @@
   },
   {
     "source": "hn",
+    "url": "https://blog.okturtles.org/2026/07/short-leash-ai-method/",
+    "title": "The Short Leash AI Coding Method for Beating Fable"
+  },
+  {
+    "source": "hn",
+    "url": "https://zk.golf/",
+    "title": "Show HN: zkGolf – Competitive optimization of formally verified circuits"
+  },
+  {
+    "source": "hn",
+    "url": "https://blog.fsck.com/2026/06/15/Superpowers-6/",
+    "title": "Superpowers 6"
+  },
+  {
+    "source": "hn",
+    "url": "https://growtheflowutah.org/laketracker/",
+    "title": "Great Salt Lake Tracker – Grow the Flow"
+  },
+  {
+    "source": "hn",
     "url": "https://clashreport.com/world/articles/spain-orders-blacklist-of-us-tech-giant-palantir-from-public-and-private-companies-fsnc2z17gjv",
     "title": "Spain Orders Blacklist of Palantir from Public and Private Companies"
   },
   {
     "source": "hn",
-    "url": "https://joeyh.name/blog/entry/no_LLM_code_in_dependencies/",
-    "title": "No LLM Code in Dependencies"
+    "url": "https://people.xiph.org/~xiphmont/demo/neil-young.html#toc_wd2bm",
+    "title": "24-bit/192kHz music downloads and why they make no sense (2012)"
   },
   {
     "source": "hn",
-    "url": "https://japannews.yomiuri.co.jp/science-nature/technology/20260306-314930/",
-    "title": "AI can't be listed as inventor on patent applications, Japan's top court rules"
+    "url": "https://engineering.zalando.com/posts/2026/06/client-side-load-balancing.html?v=2](https://engineering.zalando.com/posts/2026/06/client-side-load-balancing.html",
+    "title": "Client-side load balancing at a million requests per second"
   },
   {
     "source": "hn",
-    "url": "https://datakinds.github.io//2020/03/15/modeling-the-coronavirus-outbreak-with-j",
-    "title": "Modeling the Covid-19 Outbreak with J (2020)"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.zerofs.net/",
-    "title": "Show HN: ZeroFS – A log-structured filesystem for S3"
-  },
-  {
-    "source": "hn",
-    "url": "https://freegraphpaper.net/",
-    "title": "Show HN: A graph paper generator that renders vector PDFs in the browser"
-  },
-  {
-    "source": "hn",
-    "url": "https://victoriametrics.com/blog/victorialogs-internals-columnar-storage-on-disk/index.html",
-    "title": "How VictoriaLogs Stores Your Logs in a Columnar Layout"
+    "url": "https://aasnova.org/2026/07/01/a-new-catalog-of-stellar-rotation-periods-for-over-a-million-stars/",
+    "title": "A New Catalog of Stellar Rotation Periods for over a Million Stars"
   },
   {
     "source": "hn",
     "url": "https://www.sdcard.org/developers/sd-standard-overview/sdio-isdio/wireless-lan-sd/",
     "title": "Wireless LAN SD"
+  },
+  {
+    "source": "hn",
+    "url": "https://johnsalvatier.org/blog/2017/reality-has-a-surprising-amount-of-detail",
+    "title": "Reality has a surprising amount of detail"
+  },
+  {
+    "source": "hn",
+    "url": "https://japannews.yomiuri.co.jp/science-nature/technology/20260306-314930/",
+    "title": "AI can't be listed as inventor on patent applications, Japan's top court rules"
   },
   {
     "source": "lobsters",
@@ -76,13 +91,18 @@
   },
   {
     "source": "lobsters",
+    "url": "https://nelson.cloud/.gitignore-isnt-the-only-way-to-ignore-files-in-git/",
+    "title": ".gitignore Isn’t the Only Way To Ignore Files in Git"
+  },
+  {
+    "source": "lobsters",
     "url": "https://www.scattered-thoughts.net/writing/artificial-adventures/",
     "title": "Artificial adventures"
   },
   {
     "source": "lobsters",
-    "url": "https://nelson.cloud/.gitignore-isnt-the-only-way-to-ignore-files-in-git/",
-    "title": ".gitignore Isn’t the Only Way To Ignore Files in Git"
+    "url": "https://joeyh.name/blog/entry/no_LLM_code_in_dependencies/",
+    "title": "No LLM code in dependencies"
   },
   {
     "source": "lobsters",
@@ -128,11 +148,6 @@
     "source": "lobsters",
     "url": "https://redblobgames.github.io/circular-obstacle-pathfinding/",
     "title": "Circular Obstacle Pathfinding"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://robheghan.prose.sh/26_06_30_uruky",
-    "title": "Uruky - The Paid European Search Engine"
   },
   {
     "source": "pinboard",
