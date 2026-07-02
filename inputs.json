@@ -1,13 +1,18 @@
 [
   {
     "source": "hn",
+    "url": "https://makerspet.com/blog/building-an-open-source-robot-vacuum-meet-oomwoo/",
+    "title": "Oomwoo, an open-source robot vacuum you build yourself"
+  },
+  {
+    "source": "hn",
     "url": "https://zcode.z.ai/en",
     "title": "ZCode – Harness for GLM-5.2"
   },
   {
     "source": "hn",
-    "url": "https://makerspet.com/blog/building-an-open-source-robot-vacuum-meet-oomwoo/",
-    "title": "Oomwoo, an open-source robot vacuum you build yourself"
+    "url": "https://fabiensanglard.net/keyboards/index.html",
+    "title": "My Favorite Keyboards"
   },
   {
     "source": "hn",
@@ -21,33 +26,8 @@
   },
   {
     "source": "hn",
-    "url": "https://blog.google/innovation-and-ai/technology/safety-security/opening-up-zero-knowledge-proof-technology-to-promote-privacy-in-age-assurance/",
-    "title": "Opening up 'Zero-Knowledge Proof' technology to promote privacy in age assurance"
-  },
-  {
-    "source": "hn",
-    "url": "https://thisismodest.com/vimscoops/",
-    "title": "Learn Vim motions with an ice-cream van"
-  },
-  {
-    "source": "hn",
-    "url": "https://underhanded-c.org/",
-    "title": "The Underhanded C Contest"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.weaverobotics.com/isaac-1",
-    "title": "Weave Robotics launches Isaac 1, a $7,999 home robot with Fall 2026 deliveries"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.workerowned.info/",
-    "title": "Show HN: Searchable directory of 22k+ products from worker-owned co-ops"
-  },
-  {
-    "source": "hn",
-    "url": "https://blog.cloudflare.com/monetization-gateway/",
-    "title": "Monetization Gateway: Charge for any resource behind Cloudflare via x402"
+    "url": "https://alexwlchan.net/2026/bin-calendar/",
+    "title": "Creating a Personalised Bin Calendar"
   },
   {
     "source": "hn",
@@ -56,23 +36,43 @@
   },
   {
     "source": "hn",
-    "url": "https://www.bigmessowires.com/2021/11/12/the-amazing-disk-ii-controller-card/",
-    "title": "The Apple Disk II Controller Card (2021)"
+    "url": "https://blog.google/innovation-and-ai/technology/safety-security/opening-up-zero-knowledge-proof-technology-to-promote-privacy-in-age-assurance/",
+    "title": "Opening up 'Zero-Knowledge Proof' technology to promote privacy in age assurance"
   },
   {
     "source": "hn",
-    "url": "https://www.notyouremergency.com/triage-intro",
-    "title": "The vibration of the pager has a sound all its own"
+    "url": "https://www.weaverobotics.com/isaac-1",
+    "title": "Weave Robotics launches Isaac 1, a $7,999 home robot with Fall 2026 deliveries"
   },
   {
-    "source": "lobsters",
-    "url": "https://dustycloud.org/blog/what-happened-to-the-fight-for-the-internet/",
-    "title": "What happened to the fight for the internet?"
+    "source": "hn",
+    "url": "https://underhanded-c.org/",
+    "title": "The Underhanded C Contest"
+  },
+  {
+    "source": "hn",
+    "url": "https://blog.cloudflare.com/monetization-gateway/",
+    "title": "Monetization Gateway: Charge for any resource behind Cloudflare via x402"
+  },
+  {
+    "source": "hn",
+    "url": "https://thisismodest.com/vimscoops/",
+    "title": "Learn Vim motions with an ice-cream van"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.workerowned.info/",
+    "title": "Show HN: Searchable directory of 22k+ products from worker-owned co-ops"
   },
   {
     "source": "lobsters",
     "url": "https://www.scattered-thoughts.net/writing/artificial-adventures/",
     "title": "Artificial adventures"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://dustycloud.org/blog/what-happened-to-the-fight-for-the-internet/",
+    "title": "What happened to the fight for the internet?"
   },
   {
     "source": "lobsters",
@@ -86,13 +86,18 @@
   },
   {
     "source": "lobsters",
+    "url": "https://www.dmurph.com/posts/2026/06/ecs_vs_oop_benchmark/ecs_vs_oop_benchmark.html",
+    "title": "The Physics of Memory (aka can Javascript ECS?)"
+  },
+  {
+    "source": "lobsters",
     "url": "https://ziglang.org/devlog/2026/?2026-06-30#2026-06-30",
     "title": "All Package Management Functionality Moved from Compiler to Build System"
   },
   {
     "source": "lobsters",
-    "url": "https://www.dmurph.com/posts/2026/06/ecs_vs_oop_benchmark/ecs_vs_oop_benchmark.html",
-    "title": "The Physics of Memory (aka can Javascript ECS?)"
+    "url": "https://www.erat.org/crosvm.html",
+    "title": "Creating a development sandbox with crosvm"
   },
   {
     "source": "lobsters",
@@ -111,8 +116,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://www.erat.org/crosvm.html",
-    "title": "Creating a development sandbox with crosvm"
+    "url": "https://taxorubio.com/blog/type-definitions-to-retrieve-objects-from-localstorage/",
+    "title": "Type definitions to retrieve objects from localStorage"
   },
   {
     "source": "lobsters",
@@ -121,8 +126,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://taxorubio.com/blog/type-definitions-to-retrieve-objects-from-localstorage/",
-    "title": "Type definitions to retrieve objects from localStorage"
+    "url": "https://pointieststick.com/2026/07/01/this-month-in-kde-linux-june-2026/",
+    "title": "This month in KDE Linux: June 2026"
   },
   {
     "source": "lobsters",
@@ -131,8 +136,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://yfu.tw/blog/en/autofz-revisited/",
-    "title": "The Control Plane Was the Point: Revisiting autofz in the LLM Era"
+    "url": "https://marijnhaverbeke.nl/blog/wordgard-0.1.html",
+    "title": "Wordgard Release 0.1"
   },
   {
     "source": "pinboard",
