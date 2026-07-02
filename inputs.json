@@ -16,8 +16,8 @@
   },
   {
     "source": "hn",
-    "url": "https://news.cuanschutz.edu/news-stories/healthy-but-sedentary-individuals-show-early-decline-in-cellular-energy-production",
-    "title": "Healthy but Sedentary People Show Early Decline in Cellular Energy Production"
+    "url": "https://news.ubc.ca/2026/06/mrna-vaccines-are-safe-effective-and-full-of-promise/",
+    "title": "Global review confirms mRNA vaccines are safe, effective and full of promise "
   },
   {
     "source": "hn",
@@ -28,6 +28,11 @@
     "source": "hn",
     "url": "https://blog.google/innovation-and-ai/technology/safety-security/opening-up-zero-knowledge-proof-technology-to-promote-privacy-in-age-assurance/",
     "title": "Opening up 'Zero-Knowledge Proof' technology to promote privacy in age assurance"
+  },
+  {
+    "source": "hn",
+    "url": "https://makerspet.com/blog/building-an-open-source-robot-vacuum-meet-oomwoo/",
+    "title": "Building an Open-Source Robot Vacuum – Meet Oomwoo"
   },
   {
     "source": "hn",
@@ -46,13 +51,13 @@
   },
   {
     "source": "hn",
-    "url": "https://www.benjerry.com/flavors/flavor-graveyard",
-    "title": "Flavor Graveyard"
+    "url": "https://news.cuanschutz.edu/news-stories/healthy-but-sedentary-individuals-show-early-decline-in-cellular-energy-production",
+    "title": "Healthy but sedentary people show early decline in cellular energy production"
   },
   {
     "source": "hn",
-    "url": "https://www.weaverobotics.com/isaac-1",
-    "title": "Weave Robotics launches Isaac 1, a $7,999 home robot with Fall 2026 deliveries"
+    "url": "https://www.benjerry.com/flavors/flavor-graveyard",
+    "title": "Flavor Graveyard"
   },
   {
     "source": "hn",
@@ -61,13 +66,8 @@
   },
   {
     "source": "hn",
-    "url": "https://www.diva-portal.org/smash/get/diva2:2052282/FULLTEXT01.pdf",
-    "title": "The GNU Emacs Architecture: Unlocking the Core [pdf]"
-  },
-  {
-    "source": "hn",
-    "url": "https://hanakai.org/blog/2026/06/30/hanami-3-0-in-full-bloom",
-    "title": "Hanami 3.0: In Full Bloom"
+    "url": "https://www.weaverobotics.com/isaac-1",
+    "title": "Weave Robotics launches Isaac 1, a $7,999 home robot with Fall 2026 deliveries"
   },
   {
     "source": "lobsters",
@@ -81,13 +81,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://caiustheory.com/jj-jj-jj-jj-jj/",
-    "title": "jj jj jj jj jj"
+    "url": "https://ziglang.org/devlog/2026/?2026-06-30#2026-06-30",
+    "title": "All Package Management Functionality Moved from Compiler to Build System"
   },
   {
     "source": "lobsters",
-    "url": "https://ziglang.org/devlog/2026/?2026-06-30#2026-06-30",
-    "title": "All Package Management Functionality Moved from Compiler to Build System"
+    "url": "https://caiustheory.com/jj-jj-jj-jj-jj/",
+    "title": "jj jj jj jj jj"
   },
   {
     "source": "lobsters",
@@ -106,8 +106,23 @@
   },
   {
     "source": "lobsters",
+    "url": "https://cyberstan.co.uk/fuse-readdir-oob/",
+    "title": "Unprivileged root via an out-of-bounds write in the FUSE readdir cache (CVE-2026-31694)"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://www.scattered-thoughts.net/writing/artificial-adventures/",
+    "title": "Artificial adventures"
+  },
+  {
+    "source": "lobsters",
     "url": "https://www.feistyduck.com/newsletter/issue_138_the_threat_of_residential_proxies",
     "title": "The Threat of Residential Proxies"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://nesbitt.io/2026/06/30/taking-roads-and-bridges-literally.html",
+    "title": "Open Source as Infrastructure: Taking Roads and Bridges literally"
   },
   {
     "source": "lobsters",
@@ -121,23 +136,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://nesbitt.io/2026/06/30/taking-roads-and-bridges-literally.html",
-    "title": "Open Source as Infrastructure: Taking Roads and Bridges literally"
+    "url": "https://hanakai.org/blog/2026/06/30/hanami-3-0-in-full-bloom",
+    "title": "Hanami 3.0: In full bloom"
   },
   {
     "source": "lobsters",
     "url": "https://servo.org/blog/2026/06/30/may-in-servo/",
     "title": "May in Servo: user scripts, mp4 compat, blackboxing in DevTools, and more"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://cekrem.github.io/posts/parse-dont-validate-typescript/",
-    "title": "Parse, Don't Validate — In a Language That Doesn't Want You To"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://tusharhero.codeberg.page/underappreciated-builtin-gud.html",
-    "title": "Underappreciated builtin: Grand Unified Debugger"
   },
   {
     "source": "pinboard",
@@ -183,6 +188,11 @@
     "source": "pinboard",
     "url": "https://refactoringenglish.com/excerpts/write-an-effective-design-doc/",
     "title": "How to Write an Effective Software Design Document"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://cekrem.github.io/posts/parse-dont-validate-typescript/",
+    "title": "Parse, Don't Validate — In a Language That Doesn't Want You To · cekrem.github.io"
   },
   {
     "source": "pinboard",
