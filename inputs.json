@@ -6,8 +6,13 @@
   },
   {
     "source": "hn",
-    "url": "https://www.workerowned.info/",
-    "title": "Show HN: Searchable directory of 22k+ products from worker-owned co-ops"
+    "url": "https://makerspet.com/blog/building-an-open-source-robot-vacuum-meet-oomwoo/",
+    "title": "Oomwoo, an open-source robot vacuum you build yourself"
+  },
+  {
+    "source": "hn",
+    "url": "https://senior-swe-bench.snorkel.ai/",
+    "title": "Senior SWE-Bench: open-source benchmark that assesses agents as senior engineers"
   },
   {
     "source": "hn",
@@ -16,8 +21,8 @@
   },
   {
     "source": "hn",
-    "url": "https://news.ubc.ca/2026/06/mrna-vaccines-are-safe-effective-and-full-of-promise/",
-    "title": "Global review confirms mRNA vaccines are safe, effective and full of promise "
+    "url": "https://blog.google/innovation-and-ai/technology/safety-security/opening-up-zero-knowledge-proof-technology-to-promote-privacy-in-age-assurance/",
+    "title": "Opening up 'Zero-Knowledge Proof' technology to promote privacy in age assurance"
   },
   {
     "source": "hn",
@@ -26,18 +31,18 @@
   },
   {
     "source": "hn",
-    "url": "https://blog.google/innovation-and-ai/technology/safety-security/opening-up-zero-knowledge-proof-technology-to-promote-privacy-in-age-assurance/",
-    "title": "Opening up 'Zero-Knowledge Proof' technology to promote privacy in age assurance"
+    "url": "https://www.workerowned.info/",
+    "title": "Show HN: Searchable directory of 22k+ products from worker-owned co-ops"
   },
   {
     "source": "hn",
-    "url": "https://makerspet.com/blog/building-an-open-source-robot-vacuum-meet-oomwoo/",
-    "title": "Building an Open-Source Robot Vacuum – Meet Oomwoo"
+    "url": "https://thisismodest.com/vimscoops/",
+    "title": "Learn Vim motions with an ice-cream van"
   },
   {
     "source": "hn",
-    "url": "https://box2d.org/posts/2026/06/announcing-box3d/",
-    "title": "Box3D, an open source 3D physics engine"
+    "url": "https://www.weaverobotics.com/isaac-1",
+    "title": "Weave Robotics launches Isaac 1, a $7,999 home robot with Fall 2026 deliveries"
   },
   {
     "source": "hn",
@@ -51,28 +56,38 @@
   },
   {
     "source": "hn",
-    "url": "https://news.cuanschutz.edu/news-stories/healthy-but-sedentary-individuals-show-early-decline-in-cellular-energy-production",
-    "title": "Healthy but sedentary people show early decline in cellular energy production"
+    "url": "https://www.notyouremergency.com/triage-intro",
+    "title": "The vibration of the pager has a sound all its own"
   },
   {
     "source": "hn",
-    "url": "https://www.benjerry.com/flavors/flavor-graveyard",
-    "title": "Flavor Graveyard"
+    "url": "https://news.ubc.ca/2026/06/mrna-vaccines-are-safe-effective-and-full-of-promise/",
+    "title": "Global review confirms mRNA vaccines are safe, effective and full of promise "
   },
   {
     "source": "hn",
     "url": "https://www.bigmessowires.com/2021/11/12/the-amazing-disk-ii-controller-card/",
-    "title": "The Apple Disk II Controller Card"
+    "title": "The Apple Disk II Controller Card (2021)"
   },
   {
     "source": "hn",
-    "url": "https://www.weaverobotics.com/isaac-1",
-    "title": "Weave Robotics launches Isaac 1, a $7,999 home robot with Fall 2026 deliveries"
+    "url": "https://news.cuanschutz.edu/news-stories/healthy-but-sedentary-individuals-show-early-decline-in-cellular-energy-production",
+    "title": "Healthy but sedentary people show early decline in cellular energy production"
   },
   {
     "source": "lobsters",
     "url": "https://dustycloud.org/blog/what-happened-to-the-fight-for-the-internet/",
     "title": "What happened to the fight for the internet?"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://www.scattered-thoughts.net/writing/artificial-adventures/",
+    "title": "Artificial adventures"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://box2d.org/posts/2026/06/announcing-box3d/",
+    "title": "Announcing Box3D"
   },
   {
     "source": "lobsters",
@@ -101,8 +116,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://parsa.wtf/cast/",
-    "title": "It's not me, it's the compiler"
+    "url": "https://www.erat.org/crosvm.html",
+    "title": "Creating a development sandbox with crosvm"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://www.dmurph.com/posts/2026/06/ecs_vs_oop_benchmark/ecs_vs_oop_benchmark.html",
+    "title": "The Physics of Memory (aka can Javascript ECS?)"
   },
   {
     "source": "lobsters",
@@ -111,13 +131,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://www.scattered-thoughts.net/writing/artificial-adventures/",
-    "title": "Artificial adventures"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://www.feistyduck.com/newsletter/issue_138_the_threat_of_residential_proxies",
-    "title": "The Threat of Residential Proxies"
+    "url": "https://yfu.tw/blog/en/autofz-revisited/",
+    "title": "The Control Plane Was the Point: Revisiting autofz in the LLM Era"
   },
   {
     "source": "lobsters",
@@ -126,23 +141,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://minoki.github.io/posts/2026-06-30-haskell-inline-asm.html",
-    "title": "Low-level Haskell: The cursed way to emulate inline assembly in Haskell/GHC"
+    "url": "https://parsa.wtf/cast/",
+    "title": "It's not me, it's the compiler"
   },
   {
     "source": "lobsters",
-    "url": "https://www.stopkillingtheinternet.com/",
-    "title": "Stop Killing the Internet"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://hanakai.org/blog/2026/06/30/hanami-3-0-in-full-bloom",
-    "title": "Hanami 3.0: In full bloom"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://servo.org/blog/2026/06/30/may-in-servo/",
-    "title": "May in Servo: user scripts, mp4 compat, blackboxing in DevTools, and more"
+    "url": "https://openfeature.dev/",
+    "title": "OpenFeature - Standardizing Feature Flagging for Everyone"
   },
   {
     "source": "pinboard",
@@ -156,18 +161,13 @@
   },
   {
     "source": "pinboard",
-    "url": "https://w.pitula.me/fintech-engineering-handbook/",
-    "title": "Fintech Engineering Handbook"
-  },
-  {
-    "source": "pinboard",
     "url": "https://news.ycombinator.com/item?id=48721903",
     "title": "Qwen 3.6 27B is the sweet spot for local development | Hacker News"
   },
   {
     "source": "pinboard",
-    "url": "https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks/",
-    "title": "We have Mythos at Home: GLM 5.2 beats Claude in our Cyber Benchmarks | Semgrep"
+    "url": "https://lareviewofbooks.org/article/dangerous-dirty-violent-young-ayers-dohrn-weather-underground/",
+    "title": "A Better World Is Not Possible | Los Angeles Review of Books"
   },
   {
     "source": "pinboard",
@@ -176,8 +176,18 @@
   },
   {
     "source": "pinboard",
-    "url": "https://adiamond.me/2026/06/software-engineering-in-the-age-of-ai/",
-    "title": "Software Engineering in the Age of AI"
+    "url": "https://cekrem.github.io/posts/parse-dont-validate-typescript/",
+    "title": "Parse, Don't Validate — In a Language That Doesn't Want You To · cekrem.github.io"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks/",
+    "title": "We have Mythos at Home: GLM 5.2 beats Claude in our Cyber Benchmarks | Semgrep"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://bambamramfan.github.io/ai-compass/",
+    "title": "The AI Compass"
   },
   {
     "source": "pinboard",
@@ -186,23 +196,13 @@
   },
   {
     "source": "pinboard",
-    "url": "https://refactoringenglish.com/excerpts/write-an-effective-design-doc/",
-    "title": "How to Write an Effective Software Design Document"
+    "url": "https://adiamond.me/2026/06/software-engineering-in-the-age-of-ai/",
+    "title": "Software Engineering in the Age of AI"
   },
   {
     "source": "pinboard",
-    "url": "https://cekrem.github.io/posts/parse-dont-validate-typescript/",
-    "title": "Parse, Don't Validate — In a Language That Doesn't Want You To · cekrem.github.io"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://jayacunzo.com/blog/your-move-chief",
-    "title": "The best response to AI slop, infinite advice, and online noise is from Robin Williams"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://news.ycombinator.com/item?id=48724230",
-    "title": ".self: A new top-level domain designed to support self-hosting | Hacker News"
+    "url": "https://neynt.ca/writing/waveloop/",
+    "title": "waveloop: what fable left me"
   },
   {
     "source": "pinboard",
@@ -216,18 +216,23 @@
   },
   {
     "source": "pinboard",
-    "url": "https://lareviewofbooks.org/article/dangerous-dirty-violent-young-ayers-dohrn-weather-underground/",
-    "title": "A Better World Is Not Possible | Los Angeles Review of Books"
+    "url": "https://lexfriedman.com/gnome/",
+    "title": "Gnome — Quickly Share GIFs on Your Mac"
   },
   {
     "source": "pinboard",
-    "url": "https://daringfireball.net/2026/06/om",
-    "title": "Daring Fireball: Om"
+    "url": "https://www.newyorker.com/culture/infinite-scroll/the-ai-design-aesthetic-thats-taking-over-the-internet",
+    "title": "The A.I.-Design Aesthetic That’s Taking Over the Internet | The New Yorker"
   },
   {
     "source": "pinboard",
-    "url": "https://dervis.de/physical/",
-    "title": "If You Can't Hold It, You Don't Own It | Cem Dervis"
+    "url": "https://news.ycombinator.com/item?id=48724230",
+    "title": ".self: A new top-level domain designed to support self-hosting | Hacker News"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://refactoringenglish.com/excerpts/write-an-effective-design-doc/",
+    "title": "How to Write an Effective Software Design Document"
   },
   {
     "source": "pinboard",
@@ -236,12 +241,7 @@
   },
   {
     "source": "pinboard",
-    "url": "https://gauthier-lechevalier.com/radar",
-    "title": "https://gauthier-lechevalier.com/radar"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://thomasdullien.github.io/guides/entrepreneurship/",
-    "title": "Halvar’s Guide to Entrepreneurship – Thomas Dullien / Halvar Flake"
+    "url": "https://wangcong.org/2026-06-30-why-i-stopped-arguing-with-people.html",
+    "title": "Why I Stopped Arguing With People | A Geek’s Page"
   }
 ]
