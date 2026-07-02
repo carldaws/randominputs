@@ -11,8 +11,8 @@
   },
   {
     "source": "hn",
-    "url": "https://senior-swe-bench.snorkel.ai/",
-    "title": "Senior SWE-Bench: open-source benchmark that assesses agents as senior engineers"
+    "url": "https://www.mixedbread.com/blog/asymmetric-quant",
+    "title": "Asymmetric Quantization: Near-Lossless Retrieval with 97% Storage Reduction"
   },
   {
     "source": "hn",
@@ -26,18 +26,13 @@
   },
   {
     "source": "hn",
-    "url": "https://underhanded-c.org/",
-    "title": "The Underhanded C Contest"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.workerowned.info/",
-    "title": "Show HN: Searchable directory of 22k+ products from worker-owned co-ops"
-  },
-  {
-    "source": "hn",
     "url": "https://thisismodest.com/vimscoops/",
     "title": "Learn Vim motions with an ice-cream van"
+  },
+  {
+    "source": "hn",
+    "url": "https://underhanded-c.org/",
+    "title": "The Underhanded C Contest"
   },
   {
     "source": "hn",
@@ -46,8 +41,8 @@
   },
   {
     "source": "hn",
-    "url": "https://ciechanow.ski/internal-combustion-engine/",
-    "title": "Internal Combustion Engine (2021)"
+    "url": "https://www.workerowned.info/",
+    "title": "Show HN: Searchable directory of 22k+ products from worker-owned co-ops"
   },
   {
     "source": "hn",
@@ -56,13 +51,8 @@
   },
   {
     "source": "hn",
-    "url": "https://www.notyouremergency.com/triage-intro",
-    "title": "The vibration of the pager has a sound all its own"
-  },
-  {
-    "source": "hn",
-    "url": "https://news.ubc.ca/2026/06/mrna-vaccines-are-safe-effective-and-full-of-promise/",
-    "title": "Global review confirms mRNA vaccines are safe, effective and full of promise "
+    "url": "https://senior-swe-bench.snorkel.ai/",
+    "title": "Senior SWE-Bench: open-source benchmark that assesses agents as senior engineers"
   },
   {
     "source": "hn",
@@ -71,8 +61,8 @@
   },
   {
     "source": "hn",
-    "url": "https://news.cuanschutz.edu/news-stories/healthy-but-sedentary-individuals-show-early-decline-in-cellular-energy-production",
-    "title": "Healthy but sedentary people show early decline in cellular energy production"
+    "url": "https://www.notyouremergency.com/triage-intro",
+    "title": "The vibration of the pager has a sound all its own"
   },
   {
     "source": "lobsters",
@@ -101,6 +91,11 @@
   },
   {
     "source": "lobsters",
+    "url": "https://www.dmurph.com/posts/2026/06/ecs_vs_oop_benchmark/ecs_vs_oop_benchmark.html",
+    "title": "The Physics of Memory (aka can Javascript ECS?)"
+  },
+  {
+    "source": "lobsters",
     "url": "https://caiustheory.com/jj-jj-jj-jj-jj/",
     "title": "jj jj jj jj jj"
   },
@@ -121,18 +116,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://www.dmurph.com/posts/2026/06/ecs_vs_oop_benchmark/ecs_vs_oop_benchmark.html",
-    "title": "The Physics of Memory (aka can Javascript ECS?)"
-  },
-  {
-    "source": "lobsters",
     "url": "https://cyberstan.co.uk/fuse-readdir-oob/",
     "title": "Unprivileged root via an out-of-bounds write in the FUSE readdir cache (CVE-2026-31694)"
   },
   {
     "source": "lobsters",
-    "url": "https://yfu.tw/blog/en/autofz-revisited/",
-    "title": "The Control Plane Was the Point: Revisiting autofz in the LLM Era"
+    "url": "https://taxorubio.com/blog/type-definitions-to-retrieve-objects-from-localstorage/",
+    "title": "Type definitions to retrieve objects from localStorage"
   },
   {
     "source": "lobsters",
@@ -141,13 +131,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://parsa.wtf/cast/",
-    "title": "It's not me, it's the compiler"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://openfeature.dev/",
-    "title": "OpenFeature - Standardizing Feature Flagging for Everyone"
+    "url": "https://yfu.tw/blog/en/autofz-revisited/",
+    "title": "The Control Plane Was the Point: Revisiting autofz in the LLM Era"
   },
   {
     "source": "pinboard",
