@@ -1,8 +1,8 @@
 [
   {
     "source": "hn",
-    "url": "https://mailmemories.com",
-    "title": "Show HN: Mail Memories – A desktop app to rescue photos from Gmail"
+    "url": "https://pradyuprasad.com/writings/how-to-ask-for-help/",
+    "title": "How to ask for help from people who don't know you"
   },
   {
     "source": "hn",
@@ -11,8 +11,23 @@
   },
   {
     "source": "hn",
-    "url": "https://pradyuprasad.com/writings/how-to-ask-for-help/",
-    "title": "How to ask for help from people who don't know you"
+    "url": "https://clashreport.com/world/articles/spain-orders-blacklist-of-us-tech-giant-palantir-from-public-and-private-companies-fsnc2z17gjv",
+    "title": "Spain Orders Blacklist of Palantir from Public and Private Companies"
+  },
+  {
+    "source": "hn",
+    "url": "https://mailmemories.com",
+    "title": "Show HN: Mail Memories – A desktop app to rescue photos from Gmail"
+  },
+  {
+    "source": "hn",
+    "url": "https://freegraphpaper.net/",
+    "title": "Show HN: A graph paper generator that renders vector PDFs in the browser"
+  },
+  {
+    "source": "hn",
+    "url": "https://bednars.me/blog/winpe-harness",
+    "title": "WinPE as a stateless harness for Windows driver testing and fuzzing"
   },
   {
     "source": "hn",
@@ -26,43 +41,8 @@
   },
   {
     "source": "hn",
-    "url": "https://makerspet.com/blog/building-an-open-source-robot-vacuum-meet-oomwoo/",
-    "title": "Oomwoo, an open-source robot vacuum you build yourself"
-  },
-  {
-    "source": "hn",
-    "url": "https://zcode.z.ai/en",
-    "title": "ZCode – Harness for GLM-5.2"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.historytoday.com/archive/out-margins/meadows-medieval-summer",
-    "title": "The Meadows of Medieval Summer"
-  },
-  {
-    "source": "hn",
-    "url": "https://bednars.me/blog/winpe-harness",
-    "title": "WinPE as a stateless harness for Windows driver testing and fuzzing"
-  },
-  {
-    "source": "hn",
-    "url": "https://freegraphpaper.net/",
-    "title": "Show HN: A graph paper generator that renders vector PDFs in the browser"
-  },
-  {
-    "source": "hn",
-    "url": "https://wtf.korridzy.com/twilight-of-the-gods/",
-    "title": "Comparing Fable and 10 other LLMs on refactoring a LangGraph god node"
-  },
-  {
-    "source": "hn",
     "url": "https://www.rfi.fr/en/international-news/20260702-germany-s-infineon-opens-major-chip-plant-as-eu-seeks-tech-autonomy",
     "title": "Germany’s Infineon opens major chip plant as EU seeks tech autonomy"
-  },
-  {
-    "source": "hn",
-    "url": "https://fabiensanglard.net/keyboards/index.html",
-    "title": "My favorite keyboards"
   },
   {
     "source": "hn",
@@ -71,8 +51,13 @@
   },
   {
     "source": "hn",
-    "url": "https://skins.webamp.org",
-    "title": "Winamp Skin Museum"
+    "url": "https://www.mixedbread.com/blog/asymmetric-quant",
+    "title": "Asymmetric Quantization: Near-Lossless Retrieval with 97% Storage Reduction"
+  },
+  {
+    "source": "hn",
+    "url": "https://fabiensanglard.net/keyboards/index.html",
+    "title": "My favorite keyboards"
   },
   {
     "source": "lobsters",
@@ -101,8 +86,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://taxorubio.com/blog/type-definitions-to-retrieve-objects-from-localstorage/",
-    "title": "Type definitions to retrieve objects from localStorage"
+    "url": "https://codon.org.uk/~mjg59/blog/p/preventing-token-theft/",
+    "title": "Preventing token theft"
   },
   {
     "source": "lobsters",
@@ -111,8 +96,18 @@
   },
   {
     "source": "lobsters",
+    "url": "https://nelson.cloud/.gitignore-isnt-the-only-way-to-ignore-files-in-git/",
+    "title": ".gitignore Isn’t the Only Way To Ignore Files in Git"
+  },
+  {
+    "source": "lobsters",
     "url": "https://www.erat.org/crosvm.html",
     "title": "Creating a development sandbox with crosvm"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://taxorubio.com/blog/type-definitions-to-retrieve-objects-from-localstorage/",
+    "title": "Type definitions to retrieve objects from localStorage"
   },
   {
     "source": "lobsters",
@@ -131,28 +126,18 @@
   },
   {
     "source": "lobsters",
-    "url": "https://codon.org.uk/~mjg59/blog/p/preventing-token-theft/",
-    "title": "Preventing token theft"
-  },
-  {
-    "source": "lobsters",
     "url": "https://cleberg.net/blog/internet.html",
     "title": "The Internet I Grew Up With Doesn’t Exist Anymore"
   },
   {
     "source": "lobsters",
-    "url": "https://asahilinux.org/2026/06/progress-report-7-1/",
-    "title": "Progress Report: Linux 7.1 - Asahi Linux"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://caiustheory.com/jj-jj-jj-jj-jj/",
-    "title": "jj jj jj jj jj"
-  },
-  {
-    "source": "lobsters",
     "url": "https://cyberstan.co.uk/fuse-readdir-oob/",
     "title": "Unprivileged root via an out-of-bounds write in the FUSE readdir cache (CVE-2026-31694)"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://asahilinux.org/2026/06/progress-report-7-1/",
+    "title": "Progress Report: Linux 7.1 - Asahi Linux"
   },
   {
     "source": "pinboard",
