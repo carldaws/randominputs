@@ -1,8 +1,18 @@
 [
   {
     "source": "hn",
+    "url": "https://www.zachtronics.com/exapunks/",
+    "title": "Exapunks"
+  },
+  {
+    "source": "hn",
     "url": "https://pradyuprasad.com/writings/how-to-ask-for-help/",
     "title": "How to ask for help from people who don't know you"
+  },
+  {
+    "source": "hn",
+    "url": "https://blog.podman.io/2026/07/introducing-podman-v6-0-0/",
+    "title": "Podman v6.0.0"
   },
   {
     "source": "hn",
@@ -16,8 +26,8 @@
   },
   {
     "source": "hn",
-    "url": "https://mailmemories.com",
-    "title": "Show HN: Mail Memories – A desktop app to rescue photos from Gmail"
+    "url": "https://joeyh.name/blog/entry/no_LLM_code_in_dependencies/",
+    "title": "No LLM Code in Dependencies"
   },
   {
     "source": "hn",
@@ -36,8 +46,8 @@
   },
   {
     "source": "hn",
-    "url": "https://voidzero.dev/posts/announcing-vite-plus-beta",
-    "title": "Vite+ Beta"
+    "url": "https://mailmemories.com",
+    "title": "Show HN: Mail Memories – A desktop app to rescue photos from Gmail"
   },
   {
     "source": "hn",
@@ -51,13 +61,13 @@
   },
   {
     "source": "hn",
-    "url": "https://www.mixedbread.com/blog/asymmetric-quant",
-    "title": "Asymmetric Quantization: Near-Lossless Retrieval with 97% Storage Reduction"
+    "url": "https://victoriametrics.com/blog/victorialogs-internals-columnar-storage-on-disk/index.html",
+    "title": "How VictoriaLogs Stores Your Logs in a Columnar Layout"
   },
   {
     "source": "hn",
-    "url": "https://fabiensanglard.net/keyboards/index.html",
-    "title": "My favorite keyboards"
+    "url": "https://voidzero.dev/posts/announcing-vite-plus-beta",
+    "title": "Vite+ Beta"
   },
   {
     "source": "lobsters",
@@ -71,18 +81,13 @@
   },
   {
     "source": "lobsters",
+    "url": "https://nelson.cloud/.gitignore-isnt-the-only-way-to-ignore-files-in-git/",
+    "title": ".gitignore Isn’t the Only Way To Ignore Files in Git"
+  },
+  {
+    "source": "lobsters",
     "url": "https://www.dmurph.com/posts/2026/06/ecs_vs_oop_benchmark/ecs_vs_oop_benchmark.html",
     "title": "The Physics of Memory (aka can Javascript ECS?)"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://dustycloud.org/blog/what-happened-to-the-fight-for-the-internet/",
-    "title": "What happened to the fight for the internet?"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://box2d.org/posts/2026/06/announcing-box3d/",
-    "title": "Announcing Box3D"
   },
   {
     "source": "lobsters",
@@ -91,18 +96,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://pointieststick.com/2026/07/01/this-month-in-kde-linux-june-2026/",
-    "title": "This month in KDE Linux: June 2026"
+    "url": "https://blog.google/innovation-and-ai/technology/safety-security/opening-up-zero-knowledge-proof-technology-to-promote-privacy-in-age-assurance/",
+    "title": "Opening up ‘Zero-Knowledge Proof’ technology to promote privacy in age assurance"
   },
   {
     "source": "lobsters",
-    "url": "https://nelson.cloud/.gitignore-isnt-the-only-way-to-ignore-files-in-git/",
-    "title": ".gitignore Isn’t the Only Way To Ignore Files in Git"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://www.erat.org/crosvm.html",
-    "title": "Creating a development sandbox with crosvm"
+    "url": "https://dustycloud.org/blog/what-happened-to-the-fight-for-the-internet/",
+    "title": "What happened to the fight for the internet?"
   },
   {
     "source": "lobsters",
@@ -111,13 +111,28 @@
   },
   {
     "source": "lobsters",
+    "url": "https://box2d.org/posts/2026/06/announcing-box3d/",
+    "title": "Announcing Box3D"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://www.erat.org/crosvm.html",
+    "title": "Creating a development sandbox with crosvm"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://pointieststick.com/2026/07/01/this-month-in-kde-linux-june-2026/",
+    "title": "This month in KDE Linux: June 2026"
+  },
+  {
+    "source": "lobsters",
     "url": "https://robheghan.prose.sh/26_06_30_uruky",
     "title": "Uruky - The Paid European Search Engine"
   },
   {
     "source": "lobsters",
-    "url": "https://blog.google/innovation-and-ai/technology/safety-security/opening-up-zero-knowledge-proof-technology-to-promote-privacy-in-age-assurance/",
-    "title": "Opening up ‘Zero-Knowledge Proof’ technology to promote privacy in age assurance"
+    "url": "https://cyberstan.co.uk/fuse-readdir-oob/",
+    "title": "Unprivileged root via an out-of-bounds write in the FUSE readdir cache (CVE-2026-31694)"
   },
   {
     "source": "lobsters",
@@ -128,11 +143,6 @@
     "source": "lobsters",
     "url": "https://cleberg.net/blog/internet.html",
     "title": "The Internet I Grew Up With Doesn’t Exist Anymore"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://cyberstan.co.uk/fuse-readdir-oob/",
-    "title": "Unprivileged root via an out-of-bounds write in the FUSE readdir cache (CVE-2026-31694)"
   },
   {
     "source": "lobsters",
