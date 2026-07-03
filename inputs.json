@@ -6,13 +6,18 @@
   },
   {
     "source": "hn",
-    "url": "https://johnsalvatier.org/blog/2017/reality-has-a-surprising-amount-of-detail",
-    "title": "Reality has a surprising amount of detail (2017)"
+    "url": "https://wordgard.net/",
+    "title": "Wordgard: The new in-browser rich-text editor from the creator of ProseMirror"
   },
   {
     "source": "hn",
-    "url": "https://manticoresearch.com/blog/onnx-embeddings-speedup/",
-    "title": "14× faster embeddings: how we rebuilt the ONNX path in Manticore"
+    "url": "https://iinteractive.com/resources/blog/read-only",
+    "title": "How working with a blind client revealed invisible accessibility gaps"
+  },
+  {
+    "source": "hn",
+    "url": "https://johnsalvatier.org/blog/2017/reality-has-a-surprising-amount-of-detail",
+    "title": "Reality has a surprising amount of detail (2017)"
   },
   {
     "source": "hn",
@@ -26,18 +31,23 @@
   },
   {
     "source": "hn",
+    "url": "https://js13kgames.com/games/q1k3",
+    "title": "Quake in 13 Kilobytes (2021)"
+  },
+  {
+    "source": "hn",
+    "url": "https://manticoresearch.com/blog/onnx-embeddings-speedup/",
+    "title": "14× faster embeddings: how we rebuilt the ONNX path in Manticore"
+  },
+  {
+    "source": "hn",
+    "url": "https://try.piecesof.me/",
+    "title": "Show HN: Pieces – Social network for people"
+  },
+  {
+    "source": "hn",
     "url": "https://scottaaronson.blog/?p=9902",
     "title": "An American Privacy Emergency"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.dailymail.com/news/article-15943905/Mystery-identity-Green-Boots-climber-macabre-landmark-frozen-ice-dying-Everest-finally-solved-DNA-test.html",
-    "title": "Mystery identity of 'Green Boots' climber is finally solved after DNA test"
-  },
-  {
-    "source": "hn",
-    "url": "https://iinteractive.com/resources/blog/read-only",
-    "title": "How working with a blind client revealed invisible accessibility gaps"
   },
   {
     "source": "hn",
@@ -46,33 +56,13 @@
   },
   {
     "source": "hn",
-    "url": "https://www.dbos.dev/blog/co-locating-workflow-state-with-your-data",
-    "title": "Postgres transactions are a distributed systems superpower"
-  },
-  {
-    "source": "hn",
-    "url": "https://petapixel.com/2026/06/24/a-special-wireless-free-nikon-camera-is-publicly-available-for-the-first-time/",
-    "title": "A Special Wireless-Free Nikon Camera Is Publicly Available for the First Time"
-  },
-  {
-    "source": "hn",
-    "url": "https://huntersoftwareconsulting.com/posts/2026-06-28-company-phase-changes/",
-    "title": "Cowboys, Frontiersmen, Settlers, Townspeople, Cityfolk"
-  },
-  {
-    "source": "hn",
     "url": "https://blog.fsck.com/2026/06/15/Superpowers-6/",
     "title": "Superpowers 6"
   },
   {
     "source": "hn",
-    "url": "https://growtheflowutah.org/laketracker/",
-    "title": "Great Salt Lake Tracker – Grow the Flow"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.bkurtz.io/posts/macvdmtool/",
-    "title": "Perform DFU Restores on Apple Silicon Macs with Macvdmtool (2021)"
+    "url": "https://www.dbos.dev/blog/co-locating-workflow-state-with-your-data",
+    "title": "Postgres transactions are a distributed systems superpower"
   },
   {
     "source": "hn",
@@ -81,13 +71,18 @@
   },
   {
     "source": "hn",
-    "url": "https://stefan.schueller.net/posts/the-free-market-lie/",
-    "title": "Why Switzerland has 25 gbit internet and America doesn't"
+    "url": "https://thombrown.blogspot.com/2026/07/load-plcbmbasic81-commodore-64-basic.html",
+    "title": "Commodore 64 Basic for PostgreSQL"
   },
   {
     "source": "hn",
-    "url": "https://zk.golf/",
-    "title": "Show HN: zkGolf – Competitive optimization of formally verified circuits"
+    "url": "https://growtheflowutah.org/laketracker/",
+    "title": "Great Salt Lake Tracker – Grow the Flow"
+  },
+  {
+    "source": "hn",
+    "url": "https://petapixel.com/2026/06/24/a-special-wireless-free-nikon-camera-is-publicly-available-for-the-first-time/",
+    "title": "A Special Wireless-Free Nikon Camera Is Publicly Available for the First Time"
   },
   {
     "source": "lobsters",
@@ -96,13 +91,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://nelson.cloud/.gitignore-isnt-the-only-way-to-ignore-files-in-git/",
-    "title": ".gitignore Isn’t the Only Way To Ignore Files in Git"
+    "url": "https://matduggan.com/clickhouse-is-winning-the-observability-wars/",
+    "title": "Clickhouse is winning the Observability Wars"
   },
   {
     "source": "lobsters",
-    "url": "https://marijnhaverbeke.nl/blog/wordgard-0.1.html",
-    "title": "Wordgard Release 0.1"
+    "url": "https://nelson.cloud/.gitignore-isnt-the-only-way-to-ignore-files-in-git/",
+    "title": ".gitignore Isn’t the Only Way To Ignore Files in Git"
   },
   {
     "source": "lobsters",
@@ -111,13 +106,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://www.scattered-thoughts.net/writing/artificial-adventures/",
-    "title": "Artificial adventures"
+    "url": "https://marijnhaverbeke.nl/blog/wordgard-0.1.html",
+    "title": "Wordgard Release 0.1"
   },
   {
     "source": "lobsters",
-    "url": "https://matduggan.com/clickhouse-is-winning-the-observability-wars/",
-    "title": "Clickhouse is winning the Observability Wars"
+    "url": "https://www.scattered-thoughts.net/writing/artificial-adventures/",
+    "title": "Artificial adventures"
   },
   {
     "source": "lobsters",
@@ -138,11 +133,6 @@
     "source": "lobsters",
     "url": "https://www.dmurph.com/posts/2026/06/ecs_vs_oop_benchmark/ecs_vs_oop_benchmark.html",
     "title": "The Physics of Memory (aka can Javascript ECS?)"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://codon.org.uk/~mjg59/blog/p/preventing-token-theft/",
-    "title": "Preventing token theft"
   },
   {
     "source": "pinboard",
