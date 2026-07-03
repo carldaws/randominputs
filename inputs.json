@@ -2,7 +2,7 @@
   {
     "source": "hn",
     "url": "https://www.ubicloud.com/blog/postgresql-and-the-oom-killer-why-we-use-strict-memory-overcommit",
-    "title": "PostgreSQL and the OOM Killer: Why You Must Use Strict Memory Overcommit"
+    "title": "PostgreSQL and the OOM Killer: Why We Use Strict Memory Overcommit"
   },
   {
     "source": "hn",
@@ -11,13 +11,18 @@
   },
   {
     "source": "hn",
-    "url": "https://eshumarneedi.com/2026/07/03/zuckerberg-admits-metas-layoffs-were.html",
-    "title": "Zuckerberg 'Admits' Meta's Layoffs Were Ineffective"
+    "url": "https://dannorth.net/blog/best-simple-system-for-now/",
+    "title": "Best Simple System for Now"
   },
   {
     "source": "hn",
     "url": "https://www.caseyliss.com/2026/7/2/carplay-is-additive-you-dolts",
     "title": "CarPlay Is Additive"
+  },
+  {
+    "source": "hn",
+    "url": "https://superuserdone.com/posts/2026-07-03-give-smart-people-the-tools/",
+    "title": "Give Smart People the Tools to Do Smart Things"
   },
   {
     "source": "hn",
@@ -31,18 +36,8 @@
   },
   {
     "source": "hn",
-    "url": "https://blog.podman.io/2026/07/introducing-podman-v6-0-0/",
-    "title": "Podman v6.0.0"
-  },
-  {
-    "source": "hn",
-    "url": "https://whitep4nth3r.com/blog/goodbye-forever-probably/",
-    "title": "Goodebye Forever Probably: Why I'm leaving developer relations"
-  },
-  {
-    "source": "hn",
-    "url": "https://js13kgames.com/games/q1k3",
-    "title": "Quake in 13 Kilobytes (2021)"
+    "url": "https://promptowl.ai/resources/persistent-memory-ai-agents/",
+    "title": "Anatomy of Persistent Memory's 3 Layers: Comparing ContextNest, Mem0 and Zep"
   },
   {
     "source": "hn",
@@ -51,33 +46,38 @@
   },
   {
     "source": "hn",
+    "url": "https://blog.podman.io/2026/07/introducing-podman-v6-0-0/",
+    "title": "Podman v6.0.0"
+  },
+  {
+    "source": "hn",
+    "url": "https://js13kgames.com/games/q1k3",
+    "title": "Quake in 13 Kilobytes (2021)"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.theregister.com/security/2026/07/02/hackers-shoveled-snow-for-company-were-rewarded-with-network-admin-access/5265240",
+    "title": "Hackers shoveled snow for company, were rewarded with network admin access"
+  },
+  {
+    "source": "hn",
+    "url": "https://try.piecesof.me/",
+    "title": "Show HN: Pieces – Social network for people"
+  },
+  {
+    "source": "hn",
     "url": "https://www.zachtronics.com/exapunks/",
     "title": "Exapunks (2018)"
   },
   {
     "source": "hn",
-    "url": "https://blog.okturtles.org/2026/07/short-leash-ai-method/",
-    "title": "The short leash AI coding method for beating Fable"
+    "url": "https://eshumarneedi.com/2026/07/03/zuckerberg-admits-metas-layoffs-were.html",
+    "title": "Zuckerberg 'Admits' Meta's Layoffs Were Ineffective"
   },
   {
-    "source": "hn",
-    "url": "https://manticoresearch.com/blog/onnx-embeddings-speedup/",
-    "title": "14× faster embeddings: how we rebuilt the ONNX path in Manticore"
-  },
-  {
-    "source": "hn",
-    "url": "https://scottaaronson.blog/?p=9902",
-    "title": "An American Privacy Emergency"
-  },
-  {
-    "source": "hn",
-    "url": "https://petapixel.com/2026/06/24/a-special-wireless-free-nikon-camera-is-publicly-available-for-the-first-time/",
-    "title": "A Special Wireless-Free Nikon Camera Is Publicly Available for the First Time"
-  },
-  {
-    "source": "hn",
-    "url": "https://apple.github.io/foundationdb/flow.html",
-    "title": "FoundationDB's Flow – Bringing Actor-Based Concurrency to C++11"
+    "source": "lobsters",
+    "url": "https://hackers.pub/@fedify/2026/why-activitypub-is-hard",
+    "title": "Why implementing ActivityPub is hard, and why it doesn't have to be"
   },
   {
     "source": "lobsters",
@@ -111,13 +111,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://hackers.pub/@fedify/2026/why-activitypub-is-hard",
-    "title": "Why implementing ActivityPub is hard, and why it doesn't have to be"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://www.scattered-thoughts.net/writing/artificial-adventures/",
-    "title": "Artificial adventures"
+    "url": "https://noteflakes.com/articles/2026-07-02-extralite-3",
+    "title": "Extralite 3.0.0 Released"
   },
   {
     "source": "lobsters",
@@ -126,12 +121,17 @@
   },
   {
     "source": "lobsters",
-    "url": "https://redblobgames.github.io/circular-obstacle-pathfinding/",
-    "title": "Circular Obstacle Pathfinding"
+    "url": "https://gossamer-lang.org/",
+    "title": "Gossamer"
   },
   {
     "source": "lobsters",
-    "url": "https://blog.google/innovation-and-ai/technology/safety-security/opening-up-zero-knowledge-proof-technology-to-promote-privacy-in-age-assurance/",
-    "title": "Opening up ‘Zero-Knowledge Proof’ technology to promote privacy in age assurance"
+    "url": "https://www.scattered-thoughts.net/writing/artificial-adventures/",
+    "title": "Artificial adventures"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://blog.cr.yp.to/20260702-standard.html",
+    "title": "A [non-hybrid tls-mlkem] standard by any other name: How IETF evades responsibility for its actions"
   }
 ]
