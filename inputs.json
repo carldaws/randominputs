@@ -1,13 +1,23 @@
 [
   {
     "source": "hn",
-    "url": "https://ambrook.com/offrange/perspective/how-we-lost-our-oats",
-    "title": "My dad helped build North America's oat supply chain: Can it be remade?"
+    "url": "https://phenomenalworld.org/analysis/the-anti-amazon/",
+    "title": "Costco is the anti-Amazon"
+  },
+  {
+    "source": "hn",
+    "url": "https://interconnected.org/home/2026/07/03/factories",
+    "title": "Factories are just rooms"
   },
   {
     "source": "hn",
     "url": "https://www.ubicloud.com/blog/postgresql-and-the-oom-killer-why-we-use-strict-memory-overcommit",
     "title": "PostgreSQL and the OOM killer: Why we use strict memory overcommit"
+  },
+  {
+    "source": "hn",
+    "url": "https://ambrook.com/offrange/perspective/how-we-lost-our-oats",
+    "title": "My dad helped build North America's oat supply chain: Can it be remade?"
   },
   {
     "source": "hn",
@@ -17,12 +27,12 @@
   {
     "source": "hn",
     "url": "https://dannorth.net/blog/best-simple-system-for-now/",
-    "title": "Best Simple System for Now"
+    "title": "Best Simple System for Now (2025)"
   },
   {
     "source": "hn",
-    "url": "https://www.fide.com/fide-ethics-disciplinary-commission-issues-a-decision-in-case-involving-gm-vladimir-kramnik/",
-    "title": "International chess federation sanctions Kramnik"
+    "url": "https://crocidb.com/post/freebsd-ate-my-ram/",
+    "title": "FreeBSD Ate My RAM"
   },
   {
     "source": "hn",
@@ -31,33 +41,18 @@
   },
   {
     "source": "hn",
-    "url": "https://phenomenalworld.org/analysis/the-anti-amazon/",
-    "title": "Costco Is the Anti-Amazon"
+    "url": "https://www.fide.com/fide-ethics-disciplinary-commission-issues-a-decision-in-case-involving-gm-vladimir-kramnik/",
+    "title": "International chess federation sanctions Kramnik"
   },
   {
     "source": "hn",
-    "url": "https://www.caseyliss.com/2026/7/2/carplay-is-additive-you-dolts",
-    "title": "CarPlay Is Additive"
+    "url": "https://xkcd.com/3266/large/",
+    "title": "Holes"
   },
   {
     "source": "hn",
     "url": "https://promptowl.ai/resources/persistent-memory-ai-agents/",
     "title": "Anatomy of Persistent Memory's 3 Layers: Comparing ContextNest, Mem0 and Zep"
-  },
-  {
-    "source": "hn",
-    "url": "https://thombrown.blogspot.com/2026/07/load-plcbmbasic81-commodore-64-basic.html",
-    "title": "Commodore 64 Basic for PostgreSQL"
-  },
-  {
-    "source": "hn",
-    "url": "https://iinteractive.com/resources/blog/read-only",
-    "title": "How working with a blind client revealed invisible accessibility gaps"
-  },
-  {
-    "source": "hn",
-    "url": "https://js13kgames.com/games/q1k3",
-    "title": "Quake in 13 Kilobytes (2021)"
   },
   {
     "source": "lobsters",
@@ -96,6 +91,11 @@
   },
   {
     "source": "lobsters",
+    "url": "https://whitep4nth3r.com/blog/goodbye-forever-probably/",
+    "title": "Goodbye, forever, probably"
+  },
+  {
+    "source": "lobsters",
     "url": "https://nelson.cloud/.gitignore-isnt-the-only-way-to-ignore-files-in-git/",
     "title": ".gitignore Isn’t the Only Way To Ignore Files in Git"
   },
@@ -108,5 +108,10 @@
     "source": "lobsters",
     "url": "https://www.geoffreylitt.com/2026/07/02/understanding-is-the-new-bottleneck.html",
     "title": "Understanding is the new bottleneck"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://join.piefed.social/2026/07/03/piefed-v1-7-is-released-following-users-faster-browsing-smarter-moderation/",
+    "title": "PieFed v1.7 is released: Following Users, Faster Browsing & Smarter Moderation"
   }
 ]
