@@ -1,8 +1,18 @@
 [
   {
     "source": "hn",
-    "url": "https://www.zachtronics.com/exapunks/",
-    "title": "Exapunks (2018)"
+    "url": "https://scottaaronson.blog/?p=9902",
+    "title": "An American Privacy Emergency"
+  },
+  {
+    "source": "hn",
+    "url": "https://forms.cloud.microsoft/pages/responsepage.aspx?id=v4j5cvGGr0GRqy180BHbR6G-c11n8yFDlQmk4B-QjDxUQkdTTjZLU0EyTFFRV1E3NVRTVTRTWjRHMy4u&route=shorturl",
+    "title": "GitHub is proud to announce that you can now obtain your public repo on CD-ROM"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.caseyliss.com/2026/7/2/carplay-is-additive-you-dolts",
+    "title": "CarPlay Is Additive"
   },
   {
     "source": "hn",
@@ -11,8 +21,13 @@
   },
   {
     "source": "hn",
-    "url": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/EFF-letter-to-FTC-on-X-consent-order-7-2-26.pdf",
-    "title": "EFF letter to FTC on X consent order (2 July 2026) [pdf]"
+    "url": "https://www.zachtronics.com/exapunks/",
+    "title": "Exapunks (2018)"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.dailymail.com/news/article-15943905/Mystery-identity-Green-Boots-climber-macabre-landmark-frozen-ice-dying-Everest-finally-solved-DNA-test.html",
+    "title": "Mystery identity of 'Green Boots' climber is finally solved after DNA test"
   },
   {
     "source": "hn",
@@ -21,8 +36,18 @@
   },
   {
     "source": "hn",
-    "url": "http://www.lmdb.tech/doc/",
-    "title": "Lightning Memory-Mapped Database Manager (LMDB) 1.0"
+    "url": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/EFF-letter-to-FTC-on-X-consent-order-7-2-26.pdf",
+    "title": "EFF letter to FTC on X consent order (2 July 2026) [pdf]"
+  },
+  {
+    "source": "hn",
+    "url": "https://pradyuprasad.com/writings/how-to-ask-for-help/",
+    "title": "How to ask for help from people who don't know you"
+  },
+  {
+    "source": "hn",
+    "url": "https://apple.github.io/foundationdb/flow.html",
+    "title": "FoundationDB's Flow – Bringing Actor-Based Concurrency to C++11"
   },
   {
     "source": "hn",
@@ -31,8 +56,18 @@
   },
   {
     "source": "hn",
-    "url": "https://pradyuprasad.com/writings/how-to-ask-for-help/",
-    "title": "How to ask for help from people who don't know you"
+    "url": "http://www.lmdb.tech/doc/",
+    "title": "Lightning Memory-Mapped Database Manager (LMDB) 1.0"
+  },
+  {
+    "source": "hn",
+    "url": "https://blog.fsck.com/2026/06/15/Superpowers-6/",
+    "title": "Superpowers 6"
+  },
+  {
+    "source": "hn",
+    "url": "https://kendal.codeberg.page/inkwell/",
+    "title": "Show HN: Inkwell – An RSS reader for e-ink devices"
   },
   {
     "source": "hn",
@@ -42,47 +77,32 @@
   {
     "source": "hn",
     "url": "https://blog.okturtles.org/2026/07/short-leash-ai-method/",
-    "title": "The Short Leash AI Coding Method for Beating Fable"
+    "title": "The short leash AI coding method for beating Fable"
   },
   {
     "source": "hn",
-    "url": "https://blog.fsck.com/2026/06/15/Superpowers-6/",
-    "title": "Superpowers 6"
+    "url": "https://try.piecesof.me/",
+    "title": "Show HN: Pieces – Social network for people"
   },
   {
     "source": "hn",
-    "url": "https://aasnova.org/2026/07/01/a-new-catalog-of-stellar-rotation-periods-for-over-a-million-stars/",
-    "title": "A New Catalog of Stellar Rotation Periods for over a Million Stars"
+    "url": "https://gitstock.org/",
+    "title": "Show HN: Gitstock–Transform you GitHub commit history into K-line and animations"
   },
   {
     "source": "hn",
-    "url": "https://zk.golf/",
-    "title": "Show HN: zkGolf – Competitive optimization of formally verified circuits"
-  },
-  {
-    "source": "hn",
-    "url": "https://clashreport.com/world/articles/spain-orders-blacklist-of-us-tech-giant-palantir-from-public-and-private-companies-fsnc2z17gjv",
-    "title": "Spain Orders Blacklist of Palantir from Public and Private Companies"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.sdcard.org/developers/sd-standard-overview/sdio-isdio/wireless-lan-sd/",
-    "title": "Wireless LAN SD"
-  },
-  {
-    "source": "hn",
-    "url": "https://people.xiph.org/~xiphmont/demo/neil-young.html#toc_wd2bm",
-    "title": "24-bit/192kHz music downloads and why they make no sense (2012)"
-  },
-  {
-    "source": "hn",
-    "url": "https://engineering.zalando.com/posts/2026/06/client-side-load-balancing.html?v=2](https://engineering.zalando.com/posts/2026/06/client-side-load-balancing.html",
-    "title": "Client-side load balancing at a million requests per second"
+    "url": "https://petapixel.com/2026/06/24/a-special-wireless-free-nikon-camera-is-publicly-available-for-the-first-time/",
+    "title": "A Special Wireless-Free Nikon Camera Is Publicly Available for the First Time"
   },
   {
     "source": "lobsters",
     "url": "https://marijnhaverbeke.nl/blog/wordgard-0.1.html",
     "title": "Wordgard Release 0.1"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://joeyh.name/blog/entry/no_LLM_code_in_dependencies/",
+    "title": "No LLM code in dependencies"
   },
   {
     "source": "lobsters",
@@ -96,8 +116,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://joeyh.name/blog/entry/no_LLM_code_in_dependencies/",
-    "title": "No LLM code in dependencies"
+    "url": "https://git-annex.branchable.com/no_llm_code/",
+    "title": "no llm code"
   },
   {
     "source": "lobsters",
@@ -121,13 +141,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://taxorubio.com/blog/type-definitions-to-retrieve-objects-from-localstorage/",
-    "title": "Type definitions to retrieve objects from localStorage"
+    "url": "https://box2d.org/posts/2026/06/announcing-box3d/",
+    "title": "Announcing Box3D"
   },
   {
     "source": "lobsters",
-    "url": "https://box2d.org/posts/2026/06/announcing-box3d/",
-    "title": "Announcing Box3D"
+    "url": "https://taxorubio.com/blog/type-definitions-to-retrieve-objects-from-localstorage/",
+    "title": "Type definitions to retrieve objects from localStorage"
   },
   {
     "source": "lobsters",
@@ -138,11 +158,6 @@
     "source": "lobsters",
     "url": "https://pointieststick.com/2026/07/01/this-month-in-kde-linux-june-2026/",
     "title": "This month in KDE Linux: June 2026"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://redblobgames.github.io/circular-obstacle-pathfinding/",
-    "title": "Circular Obstacle Pathfinding"
   },
   {
     "source": "pinboard",
