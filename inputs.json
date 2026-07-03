@@ -1,13 +1,18 @@
 [
   {
     "source": "hn",
-    "url": "https://www.ubicloud.com/blog/postgresql-and-the-oom-killer-why-we-use-strict-memory-overcommit",
-    "title": "PostgreSQL and the OOM Killer: Why We Use Strict Memory Overcommit"
+    "url": "https://www.filfre.net/2026/07/the-life-and-times-of-maxis-part-1-simeverything/",
+    "title": "The Life and Times of Maxis, Part 1: SimEverything"
   },
   {
     "source": "hn",
-    "url": "https://wordgard.net/",
-    "title": "Wordgard: The new in-browser rich-text editor from the creator of ProseMirror"
+    "url": "https://interconnected.org/home/2026/07/03/factories",
+    "title": "Factories Are Just Rooms"
+  },
+  {
+    "source": "hn",
+    "url": "https://superuserdone.com/posts/2026-07-03-give-smart-people-the-tools/",
+    "title": "Give Smart People the Tools to Do Smart Things"
   },
   {
     "source": "hn",
@@ -16,13 +21,28 @@
   },
   {
     "source": "hn",
-    "url": "https://www.caseyliss.com/2026/7/2/carplay-is-additive-you-dolts",
-    "title": "CarPlay Is Additive"
+    "url": "https://www.ubicloud.com/blog/postgresql-and-the-oom-killer-why-we-use-strict-memory-overcommit",
+    "title": "PostgreSQL and the OOM Killer: Why We Use Strict Memory Overcommit"
   },
   {
     "source": "hn",
-    "url": "https://superuserdone.com/posts/2026-07-03-give-smart-people-the-tools/",
-    "title": "Give Smart People the Tools to Do Smart Things"
+    "url": "https://ambrook.com/offrange/perspective/how-we-lost-our-oats",
+    "title": "My Dad Helped Build North America's Oat Supply Chain: Can It Be Remade?"
+  },
+  {
+    "source": "hn",
+    "url": "https://wordgard.net/",
+    "title": "Wordgard: The new in-browser rich-text editor from the creator of ProseMirror"
+  },
+  {
+    "source": "hn",
+    "url": "https://promptowl.ai/resources/persistent-memory-ai-agents/",
+    "title": "Anatomy of Persistent Memory's 3 Layers: Comparing ContextNest, Mem0 and Zep"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.caseyliss.com/2026/7/2/carplay-is-additive-you-dolts",
+    "title": "CarPlay Is Additive"
   },
   {
     "source": "hn",
@@ -36,18 +56,8 @@
   },
   {
     "source": "hn",
-    "url": "https://promptowl.ai/resources/persistent-memory-ai-agents/",
-    "title": "Anatomy of Persistent Memory's 3 Layers: Comparing ContextNest, Mem0 and Zep"
-  },
-  {
-    "source": "hn",
     "url": "https://johnsalvatier.org/blog/2017/reality-has-a-surprising-amount-of-detail",
     "title": "Reality has a surprising amount of detail (2017)"
-  },
-  {
-    "source": "hn",
-    "url": "https://blog.podman.io/2026/07/introducing-podman-v6-0-0/",
-    "title": "Podman v6.0.0"
   },
   {
     "source": "hn",
@@ -56,23 +66,13 @@
   },
   {
     "source": "hn",
-    "url": "https://www.theregister.com/security/2026/07/02/hackers-shoveled-snow-for-company-were-rewarded-with-network-admin-access/5265240",
-    "title": "Hackers shoveled snow for company, were rewarded with network admin access"
-  },
-  {
-    "source": "hn",
-    "url": "https://try.piecesof.me/",
-    "title": "Show HN: Pieces – Social network for people"
-  },
-  {
-    "source": "hn",
     "url": "https://www.zachtronics.com/exapunks/",
     "title": "Exapunks (2018)"
   },
   {
     "source": "hn",
-    "url": "https://eshumarneedi.com/2026/07/03/zuckerberg-admits-metas-layoffs-were.html",
-    "title": "Zuckerberg 'Admits' Meta's Layoffs Were Ineffective"
+    "url": "https://www.theregister.com/security/2026/07/02/hackers-shoveled-snow-for-company-were-rewarded-with-network-admin-access/5265240",
+    "title": "Hackers shoveled snow for company, were rewarded with network admin access"
   },
   {
     "source": "lobsters",
@@ -86,13 +86,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://joeyh.name/blog/entry/no_LLM_code_in_dependencies/",
-    "title": "No LLM code in dependencies"
+    "url": "https://blog.kimiblock.top/2026/07/01/arbitrary-code-execution-in-kde-plasma/",
+    "title": "Arbitrary code execution breaking sandboxes in KDE Plasma"
   },
   {
     "source": "lobsters",
-    "url": "https://blog.kimiblock.top/2026/07/01/arbitrary-code-execution-in-kde-plasma/",
-    "title": "Arbitrary code execution breaking sandboxes in KDE Plasma"
+    "url": "https://joeyh.name/blog/entry/no_LLM_code_in_dependencies/",
+    "title": "No LLM code in dependencies"
   },
   {
     "source": "lobsters",
@@ -101,23 +101,13 @@
   },
   {
     "source": "lobsters",
+    "url": "https://blog.cr.yp.to/20260702-standard.html",
+    "title": "A [non-hybrid tls-mlkem] standard by any other name: How IETF evades responsibility for its actions"
+  },
+  {
+    "source": "lobsters",
     "url": "https://nelson.cloud/.gitignore-isnt-the-only-way-to-ignore-files-in-git/",
     "title": ".gitignore Isn’t the Only Way To Ignore Files in Git"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://marijnhaverbeke.nl/blog/wordgard-0.1.html",
-    "title": "Wordgard Release 0.1"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://noteflakes.com/articles/2026-07-02-extralite-3",
-    "title": "Extralite 3.0.0 Released"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://www.geoffreylitt.com/2026/07/02/understanding-is-the-new-bottleneck.html",
-    "title": "Understanding is the new bottleneck"
   },
   {
     "source": "lobsters",
@@ -126,12 +116,17 @@
   },
   {
     "source": "lobsters",
-    "url": "https://www.scattered-thoughts.net/writing/artificial-adventures/",
-    "title": "Artificial adventures"
+    "url": "https://marijnhaverbeke.nl/blog/wordgard-0.1.html",
+    "title": "Wordgard Release 0.1"
   },
   {
     "source": "lobsters",
-    "url": "https://blog.cr.yp.to/20260702-standard.html",
-    "title": "A [non-hybrid tls-mlkem] standard by any other name: How IETF evades responsibility for its actions"
+    "url": "https://www.geoffreylitt.com/2026/07/02/understanding-is-the-new-bottleneck.html",
+    "title": "Understanding is the new bottleneck"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://noteflakes.com/articles/2026-07-02-extralite-3",
+    "title": "Extralite 3.0.0 Released"
   }
 ]
