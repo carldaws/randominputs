@@ -1,8 +1,23 @@
 [
   {
     "source": "hn",
+    "url": "https://citizenlab.ca/research/member-of-committee-investigating-spyware-hacked-with-pegasus/",
+    "title": "Espionage Against the European Parliament"
+  },
+  {
+    "source": "hn",
+    "url": "https://crocidb.com/post/freebsd-ate-my-ram/",
+    "title": "FreeBSD ate my RAM"
+  },
+  {
+    "source": "hn",
     "url": "https://phenomenalworld.org/analysis/the-anti-amazon/",
     "title": "Costco is the anti-Amazon"
+  },
+  {
+    "source": "hn",
+    "url": "https://whitep4nth3r.com/blog/goodbye-forever-probably/",
+    "title": "Goodbye, Forever, Probably"
   },
   {
     "source": "hn",
@@ -11,13 +26,13 @@
   },
   {
     "source": "hn",
-    "url": "https://www.ubicloud.com/blog/postgresql-and-the-oom-killer-why-we-use-strict-memory-overcommit",
-    "title": "PostgreSQL and the OOM killer: Why we use strict memory overcommit"
+    "url": "https://math.ucr.edu/home/baez/act_course/index.html",
+    "title": "Applied Category Theory Course (2018)"
   },
   {
     "source": "hn",
-    "url": "https://ambrook.com/offrange/perspective/how-we-lost-our-oats",
-    "title": "My dad helped build North America's oat supply chain: Can it be remade?"
+    "url": "https://www.ubicloud.com/blog/postgresql-and-the-oom-killer-why-we-use-strict-memory-overcommit",
+    "title": "PostgreSQL and the OOM killer: Why we use strict memory overcommit"
   },
   {
     "source": "hn",
@@ -26,23 +41,13 @@
   },
   {
     "source": "hn",
-    "url": "https://dannorth.net/blog/best-simple-system-for-now/",
-    "title": "Best Simple System for Now (2025)"
+    "url": "https://ambrook.com/offrange/perspective/how-we-lost-our-oats",
+    "title": "My dad helped build North America's oat supply chain: Can it be remade?"
   },
   {
     "source": "hn",
-    "url": "https://crocidb.com/post/freebsd-ate-my-ram/",
-    "title": "FreeBSD Ate My RAM"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.filfre.net/2026/07/the-life-and-times-of-maxis-part-1-simeverything/",
-    "title": "The Life and Times of Maxis, Part 1: SimEverything"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.fide.com/fide-ethics-disciplinary-commission-issues-a-decision-in-case-involving-gm-vladimir-kramnik/",
-    "title": "International chess federation sanctions Kramnik"
+    "url": "https://lyra.horse/blog/2026/06/reddit-spam-internals/",
+    "title": "A peek into Reddit's anti-spam internals"
   },
   {
     "source": "hn",
@@ -51,8 +56,13 @@
   },
   {
     "source": "hn",
-    "url": "https://promptowl.ai/resources/persistent-memory-ai-agents/",
-    "title": "Anatomy of Persistent Memory's 3 Layers: Comparing ContextNest, Mem0 and Zep"
+    "url": "https://dannorth.net/blog/best-simple-system-for-now/",
+    "title": "Best Simple System for Now (2025)"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.fide.com/fide-ethics-disciplinary-commission-issues-a-decision-in-case-involving-gm-vladimir-kramnik/",
+    "title": "International chess federation sanctions Kramnik"
   },
   {
     "source": "lobsters",
@@ -71,6 +81,11 @@
   },
   {
     "source": "lobsters",
+    "url": "https://gossamer-lang.org/",
+    "title": "Gossamer"
+  },
+  {
+    "source": "lobsters",
     "url": "https://neodyme.io/en/blog/widevine_l3",
     "title": "Diving into the depths of Widevine L3"
   },
@@ -81,23 +96,18 @@
   },
   {
     "source": "lobsters",
-    "url": "https://gossamer-lang.org/",
-    "title": "Gossamer"
-  },
-  {
-    "source": "lobsters",
     "url": "https://blog.cr.yp.to/20260702-standard.html",
     "title": "A [non-hybrid tls-mlkem] standard by any other name: How IETF evades responsibility for its actions"
   },
   {
     "source": "lobsters",
-    "url": "https://whitep4nth3r.com/blog/goodbye-forever-probably/",
-    "title": "Goodbye, forever, probably"
+    "url": "https://nelson.cloud/.gitignore-isnt-the-only-way-to-ignore-files-in-git/",
+    "title": ".gitignore Isn’t the Only Way To Ignore Files in Git"
   },
   {
     "source": "lobsters",
-    "url": "https://nelson.cloud/.gitignore-isnt-the-only-way-to-ignore-files-in-git/",
-    "title": ".gitignore Isn’t the Only Way To Ignore Files in Git"
+    "url": "https://join.piefed.social/2026/07/03/piefed-v1-7-is-released-following-users-faster-browsing-smarter-moderation/",
+    "title": "PieFed v1.7 is released: Following Users, Faster Browsing & Smarter Moderation"
   },
   {
     "source": "lobsters",
@@ -111,7 +121,97 @@
   },
   {
     "source": "lobsters",
-    "url": "https://join.piefed.social/2026/07/03/piefed-v1-7-is-released-following-users-faster-browsing-smarter-moderation/",
-    "title": "PieFed v1.7 is released: Following Users, Faster Browsing & Smarter Moderation"
+    "url": "https://fabiensanglard.net/keyboards/index.html",
+    "title": "My favorite keyboards"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://wangcong.org/2026-06-30-why-i-stopped-arguing-with-people.html",
+    "title": "Why I Stopped Arguing With People | A Geek’s Page"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://quesma.com/blog/qwen-36-is-awesome/",
+    "title": "Qwen 3.6 27B is the sweet spot for local development - Quesma Blog"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://bambamramfan.github.io/ai-compass/",
+    "title": "The AI Compass"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://opensourcelowtech.org/",
+    "title": "Open Source Low Tech"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://adiamond.me/2026/06/software-engineering-in-the-age-of-ai/",
+    "title": "Software Engineering in the Age of AI"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://blog.demofox.org/2026/07/01/what-to-learn-to-be-a-graphics-programmer/",
+    "title": "What To Learn To Be A Real Time Graphics Programmer « The blog at the bottom of the sea"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://cekrem.github.io/posts/parse-dont-validate-typescript/",
+    "title": "Parse, Don't Validate — In a Language That Doesn't Want You To · cekrem.github.io"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.newyorker.com/culture/infinite-scroll/the-ai-design-aesthetic-thats-taking-over-the-internet",
+    "title": "The A.I.-Design Aesthetic That’s Taking Over the Internet | The New Yorker"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://neynt.ca/writing/waveloop/",
+    "title": "waveloop: what fable left me"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://lastmuseum.com/",
+    "title": "Internet Security by Zscaler"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://lexfriedman.com/gnome/",
+    "title": "Gnome — Quickly Share GIFs on Your Mac"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://unix.foo/posts/last-people-who-know-how-it-works/",
+    "title": "The Last People Who Know How It Works · unix.foo"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://twotimespi.dev/",
+    "title": "Tau"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.sourcetype.com/store/51534/dictionary-of-the-illegible",
+    "title": "Dictionary of the Illegible - Source Type: Store - Source Type"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://blog.vrypan.net/2026/06/29/260629-whats-wrong-with-eu-age-verification/",
+    "title": "What's wrong with EU age verification? · blog.vrypan.net"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://golemui.com/",
+    "title": "GolemUI - The Declarative Form Engine"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://zcode.z.ai/en",
+    "title": "ZCode - Simple, Fast, Vibe‑Ready"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://lareviewofbooks.org/article/dangerous-dirty-violent-young-ayers-dohrn-weather-underground/",
+    "title": "A Better World Is Not Possible | Los Angeles Review of Books"
   }
 ]
