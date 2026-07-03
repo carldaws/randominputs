@@ -1,18 +1,18 @@
 [
   {
     "source": "hn",
-    "url": "https://www.filfre.net/2026/07/the-life-and-times-of-maxis-part-1-simeverything/",
-    "title": "The Life and Times of Maxis, Part 1: SimEverything"
+    "url": "https://ambrook.com/offrange/perspective/how-we-lost-our-oats",
+    "title": "My dad helped build North America's oat supply chain: Can it be remade?"
   },
   {
     "source": "hn",
-    "url": "https://interconnected.org/home/2026/07/03/factories",
-    "title": "Factories Are Just Rooms"
+    "url": "https://www.ubicloud.com/blog/postgresql-and-the-oom-killer-why-we-use-strict-memory-overcommit",
+    "title": "PostgreSQL and the OOM killer: Why we use strict memory overcommit"
   },
   {
     "source": "hn",
-    "url": "https://superuserdone.com/posts/2026-07-03-give-smart-people-the-tools/",
-    "title": "Give Smart People the Tools to Do Smart Things"
+    "url": "https://wordgard.net/",
+    "title": "Wordgard: In-browser rich-text editor from the creator of ProseMirror"
   },
   {
     "source": "hn",
@@ -21,23 +21,18 @@
   },
   {
     "source": "hn",
-    "url": "https://www.ubicloud.com/blog/postgresql-and-the-oom-killer-why-we-use-strict-memory-overcommit",
-    "title": "PostgreSQL and the OOM Killer: Why We Use Strict Memory Overcommit"
+    "url": "https://www.fide.com/fide-ethics-disciplinary-commission-issues-a-decision-in-case-involving-gm-vladimir-kramnik/",
+    "title": "International chess federation sanctions Kramnik"
   },
   {
     "source": "hn",
-    "url": "https://ambrook.com/offrange/perspective/how-we-lost-our-oats",
-    "title": "My Dad Helped Build North America's Oat Supply Chain: Can It Be Remade?"
+    "url": "https://www.filfre.net/2026/07/the-life-and-times-of-maxis-part-1-simeverything/",
+    "title": "The Life and Times of Maxis, Part 1: SimEverything"
   },
   {
     "source": "hn",
-    "url": "https://wordgard.net/",
-    "title": "Wordgard: The new in-browser rich-text editor from the creator of ProseMirror"
-  },
-  {
-    "source": "hn",
-    "url": "https://promptowl.ai/resources/persistent-memory-ai-agents/",
-    "title": "Anatomy of Persistent Memory's 3 Layers: Comparing ContextNest, Mem0 and Zep"
+    "url": "https://phenomenalworld.org/analysis/the-anti-amazon/",
+    "title": "Costco Is the Anti-Amazon"
   },
   {
     "source": "hn",
@@ -46,8 +41,8 @@
   },
   {
     "source": "hn",
-    "url": "https://iinteractive.com/resources/blog/read-only",
-    "title": "How working with a blind client revealed invisible accessibility gaps"
+    "url": "https://promptowl.ai/resources/persistent-memory-ai-agents/",
+    "title": "Anatomy of Persistent Memory's 3 Layers: Comparing ContextNest, Mem0 and Zep"
   },
   {
     "source": "hn",
@@ -56,23 +51,13 @@
   },
   {
     "source": "hn",
-    "url": "https://johnsalvatier.org/blog/2017/reality-has-a-surprising-amount-of-detail",
-    "title": "Reality has a surprising amount of detail (2017)"
+    "url": "https://iinteractive.com/resources/blog/read-only",
+    "title": "How working with a blind client revealed invisible accessibility gaps"
   },
   {
     "source": "hn",
     "url": "https://js13kgames.com/games/q1k3",
     "title": "Quake in 13 Kilobytes (2021)"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.zachtronics.com/exapunks/",
-    "title": "Exapunks (2018)"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.theregister.com/security/2026/07/02/hackers-shoveled-snow-for-company-were-rewarded-with-network-admin-access/5265240",
-    "title": "Hackers shoveled snow for company, were rewarded with network admin access"
   },
   {
     "source": "lobsters",
@@ -91,13 +76,18 @@
   },
   {
     "source": "lobsters",
+    "url": "https://neodyme.io/en/blog/widevine_l3",
+    "title": "Diving into the depths of Widevine L3"
+  },
+  {
+    "source": "lobsters",
     "url": "https://joeyh.name/blog/entry/no_LLM_code_in_dependencies/",
     "title": "No LLM code in dependencies"
   },
   {
     "source": "lobsters",
-    "url": "https://neodyme.io/en/blog/widevine_l3",
-    "title": "Diving into the depths of Widevine L3"
+    "url": "https://gossamer-lang.org/",
+    "title": "Gossamer"
   },
   {
     "source": "lobsters",
@@ -111,11 +101,6 @@
   },
   {
     "source": "lobsters",
-    "url": "https://gossamer-lang.org/",
-    "title": "Gossamer"
-  },
-  {
-    "source": "lobsters",
     "url": "https://marijnhaverbeke.nl/blog/wordgard-0.1.html",
     "title": "Wordgard Release 0.1"
   },
@@ -123,10 +108,5 @@
     "source": "lobsters",
     "url": "https://www.geoffreylitt.com/2026/07/02/understanding-is-the-new-bottleneck.html",
     "title": "Understanding is the new bottleneck"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://noteflakes.com/articles/2026-07-02-extralite-3",
-    "title": "Extralite 3.0.0 Released"
   }
 ]
