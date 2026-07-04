@@ -1,6 +1,11 @@
 [
   {
     "source": "hn",
+    "url": "https://blog.mikebowler.ca/2026/07/03/co2-and-decision-making/",
+    "title": "The bottleneck might be the air in the room"
+  },
+  {
+    "source": "hn",
     "url": "https://danluu.com/ai-coding/#appendix-agentic-loops-and-writing-this-post",
     "title": "Agentic coding notes from Galapagos Island"
   },
@@ -11,13 +16,18 @@
   },
   {
     "source": "hn",
+    "url": "https://mirtitles.org",
+    "title": "Mir Books – Books from the Soviet Era"
+  },
+  {
+    "source": "hn",
     "url": "https://surfingcomplexity.blog/2026/07/03/synthesis-is-harder-than-analysis/",
     "title": "Synthesis is harder than analysis"
   },
   {
     "source": "hn",
-    "url": "https://mirtitles.org",
-    "title": "Mir Books – Books from the Soviet Era"
+    "url": "https://www.marginalia.nu/log/a_135_learn/",
+    "title": "Maybe you should learn something"
   },
   {
     "source": "hn",
@@ -46,21 +56,6 @@
   },
   {
     "source": "hn",
-    "url": "https://math.ucr.edu/home/baez/act_course/index.html",
-    "title": "Applied Category Theory Course (2018)"
-  },
-  {
-    "source": "hn",
-    "url": "https://blog.archive.org/2026/04/23/gone-but-not-forgotten-recovering-the-dead-web/",
-    "title": "Gone but Not Forgotten: Recovering the Dead Web"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.marginalia.nu/log/a_135_learn/",
-    "title": "Maybe you should learn something"
-  },
-  {
-    "source": "hn",
     "url": "https://davidslv.uk/2026/06/30/reading-binary-in-ruby.html",
     "title": "Reverse-engineering Codemasters' BIGF archive format in Ruby"
   },
@@ -71,8 +66,13 @@
   },
   {
     "source": "hn",
-    "url": "https://citizenlab.ca/research/member-of-committee-investigating-spyware-hacked-with-pegasus/",
-    "title": "Espionage Against the European Parliament"
+    "url": "https://math.ucr.edu/home/baez/act_course/index.html",
+    "title": "Applied Category Theory Course (2018)"
+  },
+  {
+    "source": "hn",
+    "url": "https://blog.archive.org/2026/04/23/gone-but-not-forgotten-recovering-the-dead-web/",
+    "title": "Gone but Not Forgotten: Recovering the Dead Web"
   },
   {
     "source": "hn",
@@ -81,18 +81,8 @@
   },
   {
     "source": "hn",
-    "url": "https://gitfut.com",
-    "title": "GitFut – Your GitHub stats turned into a World-Cup-style player card"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.fide.com/fide-ethics-disciplinary-commission-issues-a-decision-in-case-involving-gm-vladimir-kramnik/",
-    "title": "International chess federation sanctions Kramnik"
-  },
-  {
-    "source": "hn",
-    "url": "https://chenliu-1996.github.io/projects/LM-Dispersion/",
-    "title": "Dispersion loss counteracts embedding condensation in small language models"
+    "url": "https://citizenlab.ca/research/member-of-committee-investigating-spyware-hacked-with-pegasus/",
+    "title": "Espionage Against the European Parliament"
   },
   {
     "source": "hn",
@@ -116,6 +106,11 @@
   },
   {
     "source": "lobsters",
+    "url": "https://fabiensanglard.net/keyboards/index.html",
+    "title": "My favorite keyboards"
+  },
+  {
+    "source": "lobsters",
     "url": "https://matduggan.com/clickhouse-is-winning-the-observability-wars/",
     "title": "Clickhouse is winning the Observability Wars"
   },
@@ -126,18 +121,18 @@
   },
   {
     "source": "lobsters",
-    "url": "https://fabiensanglard.net/keyboards/index.html",
-    "title": "My favorite keyboards"
+    "url": "https://purplesyringa.moe/blog/suffix-bwt-vs-cyclic-shift-bwt-and-fast-computation/",
+    "title": "Suffix BWT vs cyclic shift BWT, and fast computation"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://goodnameforablog.com/posts/very-average-prototypes/",
+    "title": "Very Average Prototypes"
   },
   {
     "source": "lobsters",
     "url": "https://blog.cr.yp.to/20260702-standard.html",
     "title": "A [non-hybrid tls-mlkem] standard by any other name: How IETF evades responsibility for its actions"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://purplesyringa.moe/blog/suffix-bwt-vs-cyclic-shift-bwt-and-fast-computation/",
-    "title": "Suffix BWT vs cyclic shift BWT, and fast computation"
   },
   {
     "source": "lobsters",
@@ -153,11 +148,6 @@
     "source": "lobsters",
     "url": "https://gossamer-lang.org/",
     "title": "Gossamer"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://goodnameforablog.com/posts/very-average-prototypes/",
-    "title": "Very Average Prototypes"
   },
   {
     "source": "lobsters",
