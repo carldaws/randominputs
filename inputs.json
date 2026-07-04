@@ -6,13 +6,13 @@
   },
   {
     "source": "hn",
-    "url": "https://www.jefftk.com/p/verizon-is-about-to-break-our-watches",
-    "title": "Verizon is About to Break our Watches"
+    "url": "https://lucumr.pocoo.org/2026/7/4/better-models-worse-tools/",
+    "title": "Better Models: Worse Tools"
   },
   {
     "source": "hn",
-    "url": "https://iahmed.me/post/drone-physics/",
-    "title": "Drone Physics"
+    "url": "https://www.jefftk.com/p/verizon-is-about-to-break-our-watches",
+    "title": "Verizon is About to Break our Watches"
   },
   {
     "source": "hn",
@@ -21,33 +21,8 @@
   },
   {
     "source": "hn",
-    "url": "https://lucumr.pocoo.org/2026/7/4/better-models-worse-tools/",
-    "title": "Better Models: Worse Tools"
-  },
-  {
-    "source": "hn",
-    "url": "https://mightyburger.net/projects/curveball/",
-    "title": "Curveball"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.irishtimes.com/ireland/2026/07/03/wicklow-hotel-cancels-secretive-peter-thiel-conference/",
-    "title": "Wicklow hotel cancels 'secretive' Peter Thiel group conference"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.marginalia.nu/log/a_135_learn/",
-    "title": "Maybe you should learn something"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.endbasic.dev/2026/07/endbasic-0.14.html",
-    "title": "EndBASIC 0.14: Are we multimedia yet?"
-  },
-  {
-    "source": "hn",
-    "url": "https://adamraudonis.github.io/splats4D/",
-    "title": "Fable created novel 4D splat format"
+    "url": "https://iahmed.me/post/drone-physics/",
+    "title": "Drone Physics"
   },
   {
     "source": "hn",
@@ -56,13 +31,23 @@
   },
   {
     "source": "hn",
-    "url": "https://explainanalyze.com/p/designing-partitioning-you-dont-have-to-babysit/",
-    "title": "Designing DB partitions you don't have to babysit"
+    "url": "https://www.experimentlog.com/blog/building-a-world-map-with-only-500-bytes",
+    "title": "Can you build a recognizable World Map in under 500 bytes?"
   },
   {
     "source": "hn",
-    "url": "https://kronotop.com/blog/the-join-that-should-be-a-bug/",
-    "title": "The .join() that should be a bug"
+    "url": "https://mightyburger.net/projects/curveball/",
+    "title": "Curveball"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.endbasic.dev/2026/07/endbasic-0.14.html",
+    "title": "EndBASIC 0.14: Are we multimedia yet?"
+  },
+  {
+    "source": "hn",
+    "url": "https://explainanalyze.com/p/designing-partitioning-you-dont-have-to-babysit/",
+    "title": "Designing DB partitions you don't have to babysit"
   },
   {
     "source": "hn",
@@ -71,8 +56,13 @@
   },
   {
     "source": "hn",
-    "url": "https://www.wafer.ai/blog/glm52-amd",
-    "title": "Performance per dollar is getting faster and cheaper"
+    "url": "https://adamraudonis.github.io/splats4D/",
+    "title": "Fable created novel 4D splat format"
+  },
+  {
+    "source": "hn",
+    "url": "https://kronotop.com/blog/the-join-that-should-be-a-bug/",
+    "title": "The .join() that should be a bug"
   },
   {
     "source": "hn",
@@ -81,8 +71,18 @@
   },
   {
     "source": "hn",
-    "url": "https://www.mattgreer.dev/blog/gba-dev-logging/",
-    "title": "Game Boy Advance Dev: Logging to the Console"
+    "url": "https://mirtitles.org",
+    "title": "Mir Books – Books from the Soviet Era"
+  },
+  {
+    "source": "hn",
+    "url": "https://en.wikipedia.org/wiki/Night_Witches",
+    "title": "Night Witches – all-female Soviet aviator regiment WW2"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://blog.tymscar.com/posts/crinklecranklewalls/",
+    "title": "Do Wavy Walls Really Use Fewer Bricks? I Tested It in Blender"
   },
   {
     "source": "lobsters",
@@ -91,8 +91,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://blog.tymscar.com/posts/crinklecranklewalls/",
-    "title": "Do Wavy Walls Really Use Fewer Bricks? I Tested It in Blender"
+    "url": "https://gracefulliberty.com/articles/return-to-zig/",
+    "title": "Returning to Zig"
   },
   {
     "source": "lobsters",
@@ -116,6 +116,11 @@
   },
   {
     "source": "lobsters",
+    "url": "https://www.mattgreer.dev/blog/gba-dev-logging/",
+    "title": "Game Boy Advance Dev: Logging to the console"
+  },
+  {
+    "source": "lobsters",
     "url": "https://www.diva-portal.org/smash/get/diva2:2052282/FULLTEXT01.pdf",
     "title": "The GNU Emacs Architecture"
   },
@@ -123,11 +128,6 @@
     "source": "lobsters",
     "url": "https://immich.app/blog/v3.0.0-release",
     "title": "Immich v3.0.0 Released"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://gracefulliberty.com/articles/return-to-zig/",
-    "title": "Returning to Zig"
   },
   {
     "source": "lobsters",
@@ -146,92 +146,12 @@
   },
   {
     "source": "lobsters",
+    "url": "https://rakyll.org/coding-agents/",
+    "title": "Thoughts on coding agents"
+  },
+  {
+    "source": "lobsters",
     "url": "https://secretspec.dev/blog/secretspec-0-13-sdks/",
     "title": "SecretSpec 0.13: SDKs for Python, Node.js, Go, Ruby, and Haskell"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://surfingcomplexity.blog/2026/07/03/synthesis-is-harder-than-analysis/",
-    "title": "Synthesis is harder than analysis"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://purplesyringa.moe/blog/suffix-bwt-vs-cyclic-shift-bwt-and-fast-computation/",
-    "title": "Suffix BWT vs cyclic shift BWT, and fast computation"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://matduggan.com/clickhouse-is-winning-the-observability-wars/",
-    "title": "Clickhouse is winning the Observability Wars"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://wangcong.org/2026-06-30-why-i-stopped-arguing-with-people.html",
-    "title": "Why I Stopped Arguing With People | A Geek’s Page"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://freegraphpaper.net/",
-    "title": "Free Printable Graph Paper & Custom Graph Paper Maker · FreeGraphPaper"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.zerofs.net/",
-    "title": "ZeroFS"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://blog.demofox.org/2026/07/01/what-to-learn-to-be-a-graphics-programmer/",
-    "title": "What To Learn To Be A Real Time Graphics Programmer « The blog at the bottom of the sea"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.sourcetype.com/store/51534/dictionary-of-the-illegible",
-    "title": "Dictionary of the Illegible - Source Type: Store - Source Type"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://vimscoops.dev/",
-    "title": "Vim Scoops, Learn Vim Motions the Fun Way"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://bambamramfan.github.io/ai-compass/",
-    "title": "The AI Compass"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://golemui.com/",
-    "title": "GolemUI - The Declarative Form Engine"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.dbos.dev/blog/co-locating-workflow-state-with-your-data",
-    "title": "The Case for Co-Locating Workflow State with Your Data | DBOS"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://pradyuprasad.com/writings/how-to-ask-for-help/",
-    "title": "How to ask for help"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://math.ucr.edu/home/baez/act_course/index.html",
-    "title": "Applied Category Theory Course"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://unix.foo/posts/last-people-who-know-how-it-works/",
-    "title": "The Last People Who Know How It Works · unix.foo"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://neynt.ca/writing/waveloop/",
-    "title": "waveloop: what fable left me"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://senior-swe-bench.snorkel.ai/",
-    "title": "Senior SWE-Bench"
   }
 ]
