@@ -6,18 +6,18 @@
   },
   {
     "source": "hn",
-    "url": "https://www.eso.org/public/news/eso2607/",
-    "title": "No more than 100 000 faint satellites should orbit Earth"
-  },
-  {
-    "source": "hn",
     "url": "https://www.jefftk.com/p/verizon-is-about-to-break-our-watches",
     "title": "Verizon is About to Break our Watches"
   },
   {
     "source": "hn",
-    "url": "https://mightyburger.net/projects/curveball/",
-    "title": "Curveball"
+    "url": "https://iahmed.me/post/drone-physics/",
+    "title": "Drone Physics"
+  },
+  {
+    "source": "hn",
+    "url": "https://seldo.com/posts/ai-has-torched-the-market-for-junior-programmers/",
+    "title": "AI has torched the market for junior programmers"
   },
   {
     "source": "hn",
@@ -26,13 +26,18 @@
   },
   {
     "source": "hn",
-    "url": "https://www.marginalia.nu/log/a_135_learn/",
-    "title": "Maybe you should learn something"
+    "url": "https://mightyburger.net/projects/curveball/",
+    "title": "Curveball"
   },
   {
     "source": "hn",
-    "url": "https://explainanalyze.com/p/designing-partitioning-you-dont-have-to-babysit/",
-    "title": "Designing DB partitions you don't have to babysit"
+    "url": "https://www.seattletimes.com/business/local-business/as-downtown-seattle-offices-empty-city-facing-years-of-zombie-towers/",
+    "title": "As downtown Seattle offices empty, city facing years of 'zombie' towers"
+  },
+  {
+    "source": "hn",
+    "url": "https://ziglang.org/devlog/2026/#2026-06-30",
+    "title": "Zig: All Package Management Functionality Moved from Compiler to Build System"
   },
   {
     "source": "hn",
@@ -41,23 +46,8 @@
   },
   {
     "source": "hn",
-    "url": "https://www.freepressjournal.in/education/breaking-the-bird-barrier-scientist-decodes-zebra-finch-language",
-    "title": "Breaking the Bird Barrier: Scientist Decodes Zebra Finch Language"
-  },
-  {
-    "source": "hn",
-    "url": "https://blog.mikebowler.ca/2026/07/03/co2-and-decision-making/",
-    "title": "The bottleneck might be the air in the room"
-  },
-  {
-    "source": "hn",
-    "url": "https://en.wikipedia.org/wiki/Night_Witches",
-    "title": "Night Witches – all-female Soviet aviator regiment WW2"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.wafer.ai/blog/glm52-amd",
-    "title": "Performance per dollar is getting faster and cheaper"
+    "url": "https://www.marginalia.nu/log/a_135_learn/",
+    "title": "Maybe you should learn something"
   },
   {
     "source": "hn",
@@ -66,13 +56,38 @@
   },
   {
     "source": "hn",
-    "url": "https://mirtitles.org",
-    "title": "Mir Books – Books from the Soviet Era"
+    "url": "https://www.irishtimes.com/ireland/2026/07/03/wicklow-hotel-cancels-secretive-peter-thiel-conference/",
+    "title": "Wicklow hotel cancels 'secretive' Peter Thiel group conference"
   },
   {
     "source": "hn",
-    "url": "https://www.seattletimes.com/business/local-business/as-downtown-seattle-offices-empty-city-facing-years-of-zombie-towers/",
-    "title": "As downtown Seattle offices empty, city facing years of 'zombie' towers"
+    "url": "https://www.eso.org/public/news/eso2607/",
+    "title": "No more than 100 000 faint satellites should orbit Earth"
+  },
+  {
+    "source": "hn",
+    "url": "https://explainanalyze.com/p/designing-partitioning-you-dont-have-to-babysit/",
+    "title": "Designing DB partitions you don't have to babysit"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.freepressjournal.in/education/breaking-the-bird-barrier-scientist-decodes-zebra-finch-language",
+    "title": "Breaking the Bird Barrier: Scientist Decodes Zebra Finch Language"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.mattgreer.dev/blog/gba-dev-logging/",
+    "title": "Game Boy Advance Dev: Logging to the Console"
+  },
+  {
+    "source": "hn",
+    "url": "https://blog.mikebowler.ca/2026/07/03/co2-and-decision-making/",
+    "title": "The bottleneck might be the air in the room"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.wafer.ai/blog/glm52-amd",
+    "title": "Performance per dollar is getting faster and cheaper"
   },
   {
     "source": "lobsters",
@@ -91,23 +106,18 @@
   },
   {
     "source": "lobsters",
-    "url": "https://hackers.pub/@fedify/2026/why-activitypub-is-hard",
-    "title": "Why implementing ActivityPub is hard, and why it doesn't have to be"
-  },
-  {
-    "source": "lobsters",
     "url": "https://cleberg.net/blog/homelab-maintenance.html",
     "title": "I Don't Maintain My Homelab"
   },
   {
     "source": "lobsters",
-    "url": "https://crocidb.com/post/freebsd-ate-my-ram/",
-    "title": "FreeBSD ate my ram"
+    "url": "https://hackers.pub/@fedify/2026/why-activitypub-is-hard",
+    "title": "Why implementing ActivityPub is hard, and why it doesn't have to be"
   },
   {
     "source": "lobsters",
-    "url": "https://www.diva-portal.org/smash/get/diva2:2052282/FULLTEXT01.pdf",
-    "title": "The GNU Emacs Architecture"
+    "url": "https://crocidb.com/post/freebsd-ate-my-ram/",
+    "title": "FreeBSD ate my ram"
   },
   {
     "source": "lobsters",
@@ -121,13 +131,18 @@
   },
   {
     "source": "lobsters",
-    "url": "https://www.mattgreer.dev/blog/gba-dev-logging/",
-    "title": "Game Boy Advance Dev: Logging to the console"
+    "url": "https://lineageos.org/Developer-Verification/",
+    "title": "Developer Verification – LineageOS"
   },
   {
     "source": "lobsters",
-    "url": "https://lineageos.org/Developer-Verification/",
-    "title": "Developer Verification – LineageOS"
+    "url": "https://immich.app/blog/v3.0.0-release",
+    "title": "Immich v3.0.0 Released"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://surfingcomplexity.blog/2026/07/03/synthesis-is-harder-than-analysis/",
+    "title": "Synthesis is harder than analysis"
   },
   {
     "source": "lobsters",
@@ -141,28 +156,18 @@
   },
   {
     "source": "lobsters",
-    "url": "https://surfingcomplexity.blog/2026/07/03/synthesis-is-harder-than-analysis/",
-    "title": "Synthesis is harder than analysis"
-  },
-  {
-    "source": "lobsters",
     "url": "https://matduggan.com/clickhouse-is-winning-the-observability-wars/",
     "title": "Clickhouse is winning the Observability Wars"
   },
   {
     "source": "lobsters",
-    "url": "https://reemus.dev/tldr/rust-handling-results-in-map-closure",
-    "title": "Rust - Handling Results In A Map Closure"
+    "url": "https://rakyll.org/coding-agents/",
+    "title": "Thoughts on coding agents · rakyll.org"
   },
   {
     "source": "lobsters",
     "url": "https://citizenlab.ca/research/member-of-committee-investigating-spyware-hacked-with-pegasus/",
     "title": "Espionage Against the European Parliament: Member of Committee Investigating Spyware Hacked with Pegasus"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://why.degree/on-intent/",
-    "title": "On intent of Code"
   },
   {
     "source": "pinboard",
