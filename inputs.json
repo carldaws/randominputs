@@ -1,8 +1,8 @@
 [
   {
     "source": "hn",
-    "url": "https://www.marginalia.nu/log/a_135_learn/",
-    "title": "Maybe you should learn something"
+    "url": "https://javoriuski.com/post/youtube",
+    "title": "Leaking YouTube creators' private videos"
   },
   {
     "source": "hn",
@@ -11,18 +11,8 @@
   },
   {
     "source": "hn",
-    "url": "https://wozniak.ca/blog/2014/08/03/1/index.html",
-    "title": "What ORMs have taught me: just learn SQL (2014)"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.freepressjournal.in/education/breaking-the-bird-barrier-scientist-decodes-zebra-finch-language",
-    "title": "Breaking the Bird Barrier: Scientist Decodes Zebra Finch Language"
-  },
-  {
-    "source": "hn",
-    "url": "https://blog.mikebowler.ca/2026/07/03/co2-and-decision-making/",
-    "title": "The bottleneck might be the air in the room"
+    "url": "https://studios.disneyresearch.com/2026/07/01/neural-render-proxies-for-interactive-and-differentiable-lighting/",
+    "title": "Neural Render Proxies for Interactive and Differentiable Lighting"
   },
   {
     "source": "hn",
@@ -31,13 +21,28 @@
   },
   {
     "source": "hn",
-    "url": "https://www.wafer.ai/blog/glm52-amd",
-    "title": "Performance per dollar is getting faster and cheaper"
+    "url": "https://www.marginalia.nu/log/a_135_learn/",
+    "title": "Maybe you should learn something"
   },
   {
     "source": "hn",
-    "url": "https://phenomenalworld.org/analysis/the-anti-amazon/",
-    "title": "Costco is the anti-Amazon"
+    "url": "https://www.freepressjournal.in/education/breaking-the-bird-barrier-scientist-decodes-zebra-finch-language",
+    "title": "Breaking the Bird Barrier: Scientist Decodes Zebra Finch Language"
+  },
+  {
+    "source": "hn",
+    "url": "https://art.joonas.wtf/",
+    "title": "Plein Air"
+  },
+  {
+    "source": "hn",
+    "url": "https://blog.mikebowler.ca/2026/07/03/co2-and-decision-making/",
+    "title": "The bottleneck might be the air in the room"
+  },
+  {
+    "source": "hn",
+    "url": "https://wozniak.ca/blog/2014/08/03/1/index.html",
+    "title": "What ORMs have taught me: just learn SQL (2014)"
   },
   {
     "source": "hn",
@@ -46,28 +51,23 @@
   },
   {
     "source": "hn",
+    "url": "https://phenomenalworld.org/analysis/the-anti-amazon/",
+    "title": "Costco is the anti-Amazon"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.wafer.ai/blog/glm52-amd",
+    "title": "Performance per dollar is getting faster and cheaper"
+  },
+  {
+    "source": "hn",
     "url": "https://mirtitles.org",
     "title": "Mir Books – Books from the Soviet Era"
   },
   {
     "source": "hn",
-    "url": "https://mrbruh.com/msicenter/",
-    "title": "MSI Center – How to gain SYSTEM privileges in seconds"
-  },
-  {
-    "source": "hn",
     "url": "https://crocidb.com/post/freebsd-ate-my-ram/",
     "title": "FreeBSD ate my RAM"
-  },
-  {
-    "source": "hn",
-    "url": "https://surfingcomplexity.blog/2026/07/03/synthesis-is-harder-than-analysis/",
-    "title": "Synthesis is harder than analysis"
-  },
-  {
-    "source": "hn",
-    "url": "https://worksinprogress.co/issue/how-amsterdam-invented-the-fire-department/",
-    "title": "The firefighting system of the Van der Heyden brothers in 17th century Amsterdam"
   },
   {
     "source": "lobsters",
@@ -96,6 +96,11 @@
   },
   {
     "source": "lobsters",
+    "url": "https://www.endbasic.dev/2026/07/endbasic-0.14.html",
+    "title": "EndBASIC 0.14: Are we multimedia yet?"
+  },
+  {
+    "source": "lobsters",
     "url": "https://fabiensanglard.net/keyboards/index.html",
     "title": "My favorite keyboards"
   },
@@ -106,8 +111,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://www.endbasic.dev/2026/07/endbasic-0.14.html",
-    "title": "EndBASIC 0.14: Are we multimedia yet?"
+    "url": "https://www.diva-portal.org/smash/get/diva2:2052282/FULLTEXT01.pdf",
+    "title": "The GNU Emacs Architecture"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://lineageos.org/Developer-Verification/",
+    "title": "Developer Verification – LineageOS"
   },
   {
     "source": "lobsters",
@@ -121,13 +131,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://lineageos.org/Developer-Verification/",
-    "title": "Developer Verification – LineageOS"
+    "url": "https://surfingcomplexity.blog/2026/07/03/synthesis-is-harder-than-analysis/",
+    "title": "Synthesis is harder than analysis"
   },
   {
     "source": "lobsters",
-    "url": "https://www.diva-portal.org/smash/get/diva2:2052282/FULLTEXT01.pdf",
-    "title": "The GNU Emacs Architecture"
+    "url": "https://www.mattgreer.dev/blog/gba-dev-logging/",
+    "title": "Game Boy Advance Dev: Logging to the console"
   },
   {
     "source": "lobsters",
@@ -153,80 +163,5 @@
     "source": "lobsters",
     "url": "https://citizenlab.ca/research/member-of-committee-investigating-spyware-hacked-with-pegasus/",
     "title": "Espionage Against the European Parliament: Member of Committee Investigating Spyware Hacked with Pegasus"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://blog.cr.yp.to/20260702-standard.html",
-    "title": "A [non-hybrid tls-mlkem] standard by any other name: How IETF evades responsibility for its actions"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://wangcong.org/2026-06-30-why-i-stopped-arguing-with-people.html",
-    "title": "Why I Stopped Arguing With People | A Geek’s Page"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://freegraphpaper.net/",
-    "title": "Free Printable Graph Paper & Custom Graph Paper Maker · FreeGraphPaper"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.zerofs.net/",
-    "title": "ZeroFS"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://blog.demofox.org/2026/07/01/what-to-learn-to-be-a-graphics-programmer/",
-    "title": "What To Learn To Be A Real Time Graphics Programmer « The blog at the bottom of the sea"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.sourcetype.com/store/51534/dictionary-of-the-illegible",
-    "title": "Dictionary of the Illegible - Source Type: Store - Source Type"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://vimscoops.dev/",
-    "title": "Vim Scoops, Learn Vim Motions the Fun Way"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://bambamramfan.github.io/ai-compass/",
-    "title": "The AI Compass"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://golemui.com/",
-    "title": "GolemUI - The Declarative Form Engine"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.dbos.dev/blog/co-locating-workflow-state-with-your-data",
-    "title": "The Case for Co-Locating Workflow State with Your Data | DBOS"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://pradyuprasad.com/writings/how-to-ask-for-help/",
-    "title": "How to ask for help"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://math.ucr.edu/home/baez/act_course/index.html",
-    "title": "Applied Category Theory Course"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://unix.foo/posts/last-people-who-know-how-it-works/",
-    "title": "The Last People Who Know How It Works · unix.foo"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://neynt.ca/writing/waveloop/",
-    "title": "waveloop: what fable left me"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://senior-swe-bench.snorkel.ai/",
-    "title": "Senior SWE-Bench"
   }
 ]
