@@ -6,28 +6,18 @@
   },
   {
     "source": "hn",
+    "url": "https://www.eso.org/public/news/eso2607/",
+    "title": "No more than 100 000 faint satellites should orbit Earth"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.jefftk.com/p/verizon-is-about-to-break-our-watches",
+    "title": "Verizon is About to Break our Watches"
+  },
+  {
+    "source": "hn",
     "url": "https://mightyburger.net/projects/curveball/",
     "title": "Curveball"
-  },
-  {
-    "source": "hn",
-    "url": "https://studios.disneyresearch.com/2026/07/01/neural-render-proxies-for-interactive-and-differentiable-lighting/",
-    "title": "Neural Render Proxies for Interactive and Differentiable Lighting"
-  },
-  {
-    "source": "hn",
-    "url": "https://explainanalyze.com/p/designing-partitioning-you-dont-have-to-babysit/",
-    "title": "Designing DB partitions you don't have to babysit"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.marginalia.nu/log/a_135_learn/",
-    "title": "Maybe you should learn something"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.freepressjournal.in/education/breaking-the-bird-barrier-scientist-decodes-zebra-finch-language",
-    "title": "Breaking the Bird Barrier: Scientist Decodes Zebra Finch Language"
   },
   {
     "source": "hn",
@@ -36,13 +26,28 @@
   },
   {
     "source": "hn",
-    "url": "https://blog.mikebowler.ca/2026/07/03/co2-and-decision-making/",
-    "title": "The bottleneck might be the air in the room"
+    "url": "https://www.marginalia.nu/log/a_135_learn/",
+    "title": "Maybe you should learn something"
   },
   {
     "source": "hn",
-    "url": "https://wozniak.ca/blog/2014/08/03/1/index.html",
-    "title": "What ORMs have taught me: just learn SQL (2014)"
+    "url": "https://explainanalyze.com/p/designing-partitioning-you-dont-have-to-babysit/",
+    "title": "Designing DB partitions you don't have to babysit"
+  },
+  {
+    "source": "hn",
+    "url": "https://kronotop.com/blog/the-join-that-should-be-a-bug/",
+    "title": "The .join() that should be a bug"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.freepressjournal.in/education/breaking-the-bird-barrier-scientist-decodes-zebra-finch-language",
+    "title": "Breaking the Bird Barrier: Scientist Decodes Zebra Finch Language"
+  },
+  {
+    "source": "hn",
+    "url": "https://blog.mikebowler.ca/2026/07/03/co2-and-decision-making/",
+    "title": "The bottleneck might be the air in the room"
   },
   {
     "source": "hn",
@@ -51,13 +56,13 @@
   },
   {
     "source": "hn",
-    "url": "https://phenomenalworld.org/analysis/the-anti-amazon/",
-    "title": "Costco is the anti-Amazon"
+    "url": "https://www.wafer.ai/blog/glm52-amd",
+    "title": "Performance per dollar is getting faster and cheaper"
   },
   {
     "source": "hn",
-    "url": "https://www.wafer.ai/blog/glm52-amd",
-    "title": "Performance per dollar is getting faster and cheaper"
+    "url": "https://www.endbasic.dev/2026/07/endbasic-0.14.html",
+    "title": "EndBASIC 0.14: Are we multimedia yet?"
   },
   {
     "source": "hn",
@@ -66,13 +71,18 @@
   },
   {
     "source": "hn",
-    "url": "https://crocidb.com/post/freebsd-ate-my-ram/",
-    "title": "FreeBSD ate my RAM"
+    "url": "https://www.seattletimes.com/business/local-business/as-downtown-seattle-offices-empty-city-facing-years-of-zombie-towers/",
+    "title": "As downtown Seattle offices empty, city facing years of 'zombie' towers"
   },
   {
     "source": "lobsters",
     "url": "https://ratfactor.com/cards/personal-website",
     "title": "What should a personal website be?"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://blog.tymscar.com/posts/crinklecranklewalls/",
+    "title": "Do Wavy Walls Really Use Fewer Bricks? I Tested It in Blender"
   },
   {
     "source": "lobsters",
@@ -91,13 +101,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://blog.tymscar.com/posts/crinklecranklewalls/",
-    "title": "Do Wavy Walls Really Use Fewer Bricks? I Tested It in Blender"
+    "url": "https://crocidb.com/post/freebsd-ate-my-ram/",
+    "title": "FreeBSD ate my ram"
   },
   {
     "source": "lobsters",
-    "url": "https://www.endbasic.dev/2026/07/endbasic-0.14.html",
-    "title": "EndBASIC 0.14: Are we multimedia yet?"
+    "url": "https://www.diva-portal.org/smash/get/diva2:2052282/FULLTEXT01.pdf",
+    "title": "The GNU Emacs Architecture"
   },
   {
     "source": "lobsters",
@@ -111,8 +121,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://www.diva-portal.org/smash/get/diva2:2052282/FULLTEXT01.pdf",
-    "title": "The GNU Emacs Architecture"
+    "url": "https://www.mattgreer.dev/blog/gba-dev-logging/",
+    "title": "Game Boy Advance Dev: Logging to the console"
   },
   {
     "source": "lobsters",
@@ -121,8 +131,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://matduggan.com/clickhouse-is-winning-the-observability-wars/",
-    "title": "Clickhouse is winning the Observability Wars"
+    "url": "https://secretspec.dev/blog/secretspec-0-13-sdks/",
+    "title": "SecretSpec 0.13: SDKs for Python, Node.js, Go, Ruby, and Haskell"
   },
   {
     "source": "lobsters",
@@ -136,13 +146,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://www.mattgreer.dev/blog/gba-dev-logging/",
-    "title": "Game Boy Advance Dev: Logging to the console"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://secretspec.dev/blog/secretspec-0-13-sdks/",
-    "title": "SecretSpec 0.13: SDKs for Python, Node.js, Go, Ruby, and Haskell"
+    "url": "https://matduggan.com/clickhouse-is-winning-the-observability-wars/",
+    "title": "Clickhouse is winning the Observability Wars"
   },
   {
     "source": "lobsters",
@@ -151,17 +156,82 @@
   },
   {
     "source": "lobsters",
+    "url": "https://citizenlab.ca/research/member-of-committee-investigating-spyware-hacked-with-pegasus/",
+    "title": "Espionage Against the European Parliament: Member of Committee Investigating Spyware Hacked with Pegasus"
+  },
+  {
+    "source": "lobsters",
     "url": "https://why.degree/on-intent/",
     "title": "On intent of Code"
   },
   {
-    "source": "lobsters",
-    "url": "https://goodnameforablog.com/posts/very-average-prototypes/",
-    "title": "Very Average Prototypes"
+    "source": "pinboard",
+    "url": "https://wangcong.org/2026-06-30-why-i-stopped-arguing-with-people.html",
+    "title": "Why I Stopped Arguing With People | A Geek’s Page"
   },
   {
-    "source": "lobsters",
-    "url": "https://citizenlab.ca/research/member-of-committee-investigating-spyware-hacked-with-pegasus/",
-    "title": "Espionage Against the European Parliament: Member of Committee Investigating Spyware Hacked with Pegasus"
+    "source": "pinboard",
+    "url": "https://freegraphpaper.net/",
+    "title": "Free Printable Graph Paper & Custom Graph Paper Maker · FreeGraphPaper"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.zerofs.net/",
+    "title": "ZeroFS"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://blog.demofox.org/2026/07/01/what-to-learn-to-be-a-graphics-programmer/",
+    "title": "What To Learn To Be A Real Time Graphics Programmer « The blog at the bottom of the sea"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.sourcetype.com/store/51534/dictionary-of-the-illegible",
+    "title": "Dictionary of the Illegible - Source Type: Store - Source Type"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://vimscoops.dev/",
+    "title": "Vim Scoops, Learn Vim Motions the Fun Way"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://bambamramfan.github.io/ai-compass/",
+    "title": "The AI Compass"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://golemui.com/",
+    "title": "GolemUI - The Declarative Form Engine"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.dbos.dev/blog/co-locating-workflow-state-with-your-data",
+    "title": "The Case for Co-Locating Workflow State with Your Data | DBOS"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://pradyuprasad.com/writings/how-to-ask-for-help/",
+    "title": "How to ask for help"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://math.ucr.edu/home/baez/act_course/index.html",
+    "title": "Applied Category Theory Course"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://unix.foo/posts/last-people-who-know-how-it-works/",
+    "title": "The Last People Who Know How It Works · unix.foo"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://neynt.ca/writing/waveloop/",
+    "title": "waveloop: what fable left me"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://senior-swe-bench.snorkel.ai/",
+    "title": "Senior SWE-Bench"
   }
 ]
