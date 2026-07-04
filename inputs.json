@@ -11,6 +11,11 @@
   },
   {
     "source": "hn",
+    "url": "https://stories.tamu.edu/news/2026/04/14/scientists-reverse-brain-aging-with-a-nasal-spray/",
+    "title": "Scientists reverse brain aging, with a nasal spray"
+  },
+  {
+    "source": "hn",
     "url": "https://www.jefftk.com/p/verizon-is-about-to-break-our-watches",
     "title": "Verizon is About to Break our Watches"
   },
@@ -26,11 +31,6 @@
   },
   {
     "source": "hn",
-    "url": "https://parsa.wtf/cast/",
-    "title": "It's not me, it's the compiler"
-  },
-  {
-    "source": "hn",
     "url": "https://www.experimentlog.com/blog/building-a-world-map-with-only-500-bytes",
     "title": "Can you build a recognizable World Map in under 500 bytes?"
   },
@@ -41,8 +41,13 @@
   },
   {
     "source": "hn",
-    "url": "https://www.endbasic.dev/2026/07/endbasic-0.14.html",
-    "title": "EndBASIC 0.14: Are we multimedia yet?"
+    "url": "https://parsa.wtf/cast/",
+    "title": "It's not me, it's the compiler"
+  },
+  {
+    "source": "hn",
+    "url": "https://ekinertac.com/blog/i-dont-know-rust-my-ai-is-rewriting-php-in-it/",
+    "title": "My AI-built PHP engine in Rust passes 17% of PHP-src tests, renders WordPress"
   },
   {
     "source": "hn",
@@ -51,18 +56,18 @@
   },
   {
     "source": "hn",
-    "url": "https://www.freepressjournal.in/education/breaking-the-bird-barrier-scientist-decodes-zebra-finch-language",
-    "title": "Breaking the Bird Barrier: Scientist Decodes Zebra Finch Language"
-  },
-  {
-    "source": "hn",
     "url": "https://adamraudonis.github.io/splats4D/",
     "title": "Fable created novel 4D splat format"
   },
   {
     "source": "hn",
-    "url": "https://kronotop.com/blog/the-join-that-should-be-a-bug/",
-    "title": "The .join() that should be a bug"
+    "url": "https://www.endbasic.dev/2026/07/endbasic-0.14.html",
+    "title": "EndBASIC 0.14: Are we multimedia yet?"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.freepressjournal.in/education/breaking-the-bird-barrier-scientist-decodes-zebra-finch-language",
+    "title": "Breaking the Bird Barrier: Scientist Decodes Zebra Finch Language"
   },
   {
     "source": "hn",
@@ -71,13 +76,8 @@
   },
   {
     "source": "hn",
-    "url": "https://mirtitles.org",
-    "title": "Mir Books – Books from the Soviet Era"
-  },
-  {
-    "source": "hn",
-    "url": "https://en.wikipedia.org/wiki/Night_Witches",
-    "title": "Night Witches – all-female Soviet aviator regiment WW2"
+    "url": "https://www.mattgreer.dev/blog/gba-dev-logging/",
+    "title": "Game Boy Advance Dev: Logging to the Console"
   },
   {
     "source": "lobsters",
@@ -86,13 +86,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://ratfactor.com/cards/personal-website",
-    "title": "What should a personal website be?"
+    "url": "https://gracefulliberty.com/articles/return-to-zig/",
+    "title": "Returning to Zig"
   },
   {
     "source": "lobsters",
-    "url": "https://gracefulliberty.com/articles/return-to-zig/",
-    "title": "Returning to Zig"
+    "url": "https://ratfactor.com/cards/personal-website",
+    "title": "What should a personal website be?"
   },
   {
     "source": "lobsters",
@@ -116,13 +116,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://www.mattgreer.dev/blog/gba-dev-logging/",
-    "title": "Game Boy Advance Dev: Logging to the console"
+    "url": "https://www.diva-portal.org/smash/get/diva2:2052282/FULLTEXT01.pdf",
+    "title": "The GNU Emacs Architecture"
   },
   {
     "source": "lobsters",
-    "url": "https://www.diva-portal.org/smash/get/diva2:2052282/FULLTEXT01.pdf",
-    "title": "The GNU Emacs Architecture"
+    "url": "https://fabiensanglard.net/keyboards/index.html",
+    "title": "My favorite keyboards"
   },
   {
     "source": "lobsters",
@@ -136,22 +136,17 @@
   },
   {
     "source": "lobsters",
-    "url": "https://fabiensanglard.net/keyboards/index.html",
-    "title": "My favorite keyboards"
-  },
-  {
-    "source": "lobsters",
     "url": "https://lineageos.org/Developer-Verification/",
     "title": "Developer Verification – LineageOS"
   },
   {
     "source": "lobsters",
-    "url": "https://rakyll.org/coding-agents/",
-    "title": "Thoughts on coding agents"
+    "url": "https://arcanenibble.com/how-to-call-linux-code-from-a-wine-process.html",
+    "title": "How to call Linux code from a Wine process"
   },
   {
     "source": "lobsters",
-    "url": "https://secretspec.dev/blog/secretspec-0-13-sdks/",
-    "title": "SecretSpec 0.13: SDKs for Python, Node.js, Go, Ruby, and Haskell"
+    "url": "https://purplesyringa.moe/blog/suffix-bwt-vs-cyclic-shift-bwt-and-fast-computation/",
+    "title": "Suffix BWT vs cyclic shift BWT, and fast computation"
   }
 ]
