@@ -11,13 +11,13 @@
   },
   {
     "source": "hn",
-    "url": "https://dthain.github.io/books/compiler/",
-    "title": "Introduction to Compilers and Language Design"
+    "url": "https://popcar.bearblog.dev/its-about-ownership/",
+    "title": "It's not about physical vs. digital games, it's about ownership"
   },
   {
     "source": "hn",
-    "url": "https://popcar.bearblog.dev/its-about-ownership/",
-    "title": "It's not about physical vs. digital games, it's about ownership"
+    "url": "https://dthain.github.io/books/compiler/",
+    "title": "Introduction to Compilers and Language Design (2021)"
   },
   {
     "source": "hn",
@@ -31,11 +31,6 @@
   },
   {
     "source": "hn",
-    "url": "https://rayfish.xyz/blog/01-introducing-rayfish",
-    "title": "Rayfish, Peer-to-peer mesh VPN with no server to trust"
-  },
-  {
-    "source": "hn",
     "url": "https://unsung.aresluna.org/if-youre-a-button-you-have-one-job/",
     "title": "If you're a button, you have one job"
   },
@@ -46,13 +41,23 @@
   },
   {
     "source": "hn",
+    "url": "https://pluralistic.net/2026/06/27/zuckerstreisand-2/#autodisparagement",
+    "title": "Zuckerberg's Increasingly Bizarre War on Whistleblowers"
+  },
+  {
+    "source": "hn",
+    "url": "https://rayfish.xyz/blog/01-introducing-rayfish",
+    "title": "Rayfish, Peer-to-peer mesh VPN with no server to trust"
+  },
+  {
+    "source": "hn",
     "url": "https://www.diva-portal.org/smash/get/diva2:2052282/FULLTEXT01.pdf",
     "title": "The GNU Emacs Architecture: Unlocking the Core [pdf]"
   },
   {
     "source": "hn",
-    "url": "https://demo.pcbjam.com/",
-    "title": "Show HN: KiCad in the Browser"
+    "url": "https://thomasw.dev/post/aux11/",
+    "title": "Installing A/UX 1.1 like it's the 90s"
   },
   {
     "source": "hn",
@@ -66,23 +71,18 @@
   },
   {
     "source": "hn",
-    "url": "https://phosh.mobi/releases/rel-0.56.0/",
-    "title": "Phosh 0.56.0"
+    "url": "https://demo.pcbjam.com/",
+    "title": "Show HN: KiCad in the Browser"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.wsj.com/lifestyle/relationships/living-with-parents-finances-0c35530c",
+    "title": "Moving Back Home Used to Be a Sign of Failure. Now It Shows Financial Savvy"
   },
   {
     "source": "hn",
     "url": "https://computer.rip/2026-07-04-microwave-and-power.html",
     "title": "Megawatts by Microwave"
-  },
-  {
-    "source": "hn",
-    "url": "https://pluralistic.net/2026/06/27/zuckerstreisand-2/#autodisparagement",
-    "title": "Zuckerberg's Increasingly Bizarre War on Whistleblowers"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.hogbaysoftware.com/posts/moby-dick-workout/",
-    "title": "Moby Dick Workout (2022)"
   },
   {
     "source": "lobsters",
@@ -131,6 +131,11 @@
   },
   {
     "source": "lobsters",
+    "url": "https://blog.pspaul.de/posts/bench-press-leaking-text-nodes-with-css/",
+    "title": "Bench Press: Leaking Text Nodes with CSS"
+  },
+  {
+    "source": "lobsters",
     "url": "https://arcanenibble.com/how-to-call-linux-code-from-a-wine-process.html",
     "title": "How to call Linux code from a Wine process"
   },
@@ -138,16 +143,6 @@
     "source": "lobsters",
     "url": "https://www.endbasic.dev/2026/07/endbasic-0.14.html",
     "title": "EndBASIC 0.14: Are we multimedia yet?"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://crocidb.com/post/freebsd-ate-my-ram/",
-    "title": "FreeBSD ate my ram"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://emacsair.me/2026/07/01/magit-4.6/",
-    "title": "Magit 4.6 released"
   },
   {
     "source": "pinboard",
