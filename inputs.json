@@ -1,8 +1,18 @@
 [
   {
     "source": "hn",
+    "url": "https://stories.tamu.edu/news/2026/04/14/scientists-reverse-brain-aging-with-a-nasal-spray/",
+    "title": "Scientists reverse brain aging, with a nasal spray"
+  },
+  {
+    "source": "hn",
     "url": "https://javoriuski.com/post/youtube",
     "title": "Leaking YouTube creators' private videos"
+  },
+  {
+    "source": "hn",
+    "url": "https://theanarchistlibrary.org/library/albert-camus-reflections-on-the-guillotine",
+    "title": "Reflections on the Guillotine"
   },
   {
     "source": "hn",
@@ -11,8 +21,8 @@
   },
   {
     "source": "hn",
-    "url": "https://stories.tamu.edu/news/2026/04/14/scientists-reverse-brain-aging-with-a-nasal-spray/",
-    "title": "Scientists reverse brain aging, with a nasal spray"
+    "url": "https://ziglang.org/devlog/2026/#2026-06-30",
+    "title": "Zig: All Package Management Functionality Moved from Compiler to Build System"
   },
   {
     "source": "hn",
@@ -21,13 +31,8 @@
   },
   {
     "source": "hn",
-    "url": "https://ziglang.org/devlog/2026/#2026-06-30",
-    "title": "Zig: All Package Management Functionality Moved from Compiler to Build System"
-  },
-  {
-    "source": "hn",
-    "url": "https://iahmed.me/post/drone-physics/",
-    "title": "Drone Physics"
+    "url": "https://writerbeware.blog/2025/09/19/return-of-the-nigerian-prince-redux-beware-book-club-and-book-review-scams/",
+    "title": "Return of the Nigerian Prince Redux: Beware Book Club and Book Review Scams"
   },
   {
     "source": "hn",
@@ -36,8 +41,13 @@
   },
   {
     "source": "hn",
-    "url": "https://mightyburger.net/projects/curveball/",
-    "title": "Curveball"
+    "url": "https://iahmed.me/post/drone-physics/",
+    "title": "Drone Physics"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.cggonzalez.com/blog/index.html",
+    "title": "Drone Autonomy Crash Course"
   },
   {
     "source": "hn",
@@ -46,13 +56,8 @@
   },
   {
     "source": "hn",
-    "url": "https://ekinertac.com/blog/i-dont-know-rust-my-ai-is-rewriting-php-in-it/",
-    "title": "My AI-built PHP engine in Rust passes 17% of PHP-src tests, renders WordPress"
-  },
-  {
-    "source": "hn",
-    "url": "https://explainanalyze.com/p/designing-partitioning-you-dont-have-to-babysit/",
-    "title": "Designing DB partitions you don't have to babysit"
+    "url": "https://ridgetext.com/blog/mapbox-llm-composition",
+    "title": "Mapping with In-Memory Layers to Reduce LLM Overload"
   },
   {
     "source": "hn",
@@ -61,28 +66,18 @@
   },
   {
     "source": "hn",
-    "url": "https://www.endbasic.dev/2026/07/endbasic-0.14.html",
-    "title": "EndBASIC 0.14: Are we multimedia yet?"
+    "url": "https://mightyburger.net/projects/curveball/",
+    "title": "Curveball"
+  },
+  {
+    "source": "hn",
+    "url": "https://ekinertac.com/blog/i-dont-know-rust-my-ai-is-rewriting-php-in-it/",
+    "title": "My AI-built PHP engine in Rust passes 17% of PHP-src tests, renders WordPress"
   },
   {
     "source": "hn",
     "url": "https://www.freepressjournal.in/education/breaking-the-bird-barrier-scientist-decodes-zebra-finch-language",
     "title": "Breaking the Bird Barrier: Scientist Decodes Zebra Finch Language"
-  },
-  {
-    "source": "hn",
-    "url": "https://blog.mikebowler.ca/2026/07/03/co2-and-decision-making/",
-    "title": "The bottleneck might be the air in the room"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.mattgreer.dev/blog/gba-dev-logging/",
-    "title": "Game Boy Advance Dev: Logging to the Console"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://blog.tymscar.com/posts/crinklecranklewalls/",
-    "title": "Do Wavy Walls Really Use Fewer Bricks? I Tested It in Blender"
   },
   {
     "source": "lobsters",
@@ -91,8 +86,18 @@
   },
   {
     "source": "lobsters",
+    "url": "https://blog.tymscar.com/posts/crinklecranklewalls/",
+    "title": "Do Wavy Walls Really Use Fewer Bricks? I Tested It in Blender"
+  },
+  {
+    "source": "lobsters",
     "url": "https://ratfactor.com/cards/personal-website",
     "title": "What should a personal website be?"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://www.endbasic.dev/2026/07/endbasic-0.14.html",
+    "title": "EndBASIC 0.14: Are we multimedia yet?"
   },
   {
     "source": "lobsters",
@@ -116,6 +121,21 @@
   },
   {
     "source": "lobsters",
+    "url": "https://immich.app/blog/v3.0.0-release",
+    "title": "Immich v3.0.0 Released"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://www.mattgreer.dev/blog/gba-dev-logging/",
+    "title": "Game Boy Advance Dev: Logging to the console"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://arcanenibble.com/how-to-call-linux-code-from-a-wine-process.html",
+    "title": "How to call Linux code from a Wine process"
+  },
+  {
+    "source": "lobsters",
     "url": "https://www.diva-portal.org/smash/get/diva2:2052282/FULLTEXT01.pdf",
     "title": "The GNU Emacs Architecture"
   },
@@ -123,11 +143,6 @@
     "source": "lobsters",
     "url": "https://fabiensanglard.net/keyboards/index.html",
     "title": "My favorite keyboards"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://immich.app/blog/v3.0.0-release",
-    "title": "Immich v3.0.0 Released"
   },
   {
     "source": "lobsters",
@@ -141,12 +156,77 @@
   },
   {
     "source": "lobsters",
-    "url": "https://arcanenibble.com/how-to-call-linux-code-from-a-wine-process.html",
-    "title": "How to call Linux code from a Wine process"
-  },
-  {
-    "source": "lobsters",
     "url": "https://purplesyringa.moe/blog/suffix-bwt-vs-cyclic-shift-bwt-and-fast-computation/",
     "title": "Suffix BWT vs cyclic shift BWT, and fast computation"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://wangcong.org/2026-06-30-why-i-stopped-arguing-with-people.html",
+    "title": "Why I Stopped Arguing With People | A Geek’s Page"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://freegraphpaper.net/",
+    "title": "Free Printable Graph Paper & Custom Graph Paper Maker · FreeGraphPaper"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.zerofs.net/",
+    "title": "ZeroFS"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://blog.demofox.org/2026/07/01/what-to-learn-to-be-a-graphics-programmer/",
+    "title": "What To Learn To Be A Real Time Graphics Programmer « The blog at the bottom of the sea"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.sourcetype.com/store/51534/dictionary-of-the-illegible",
+    "title": "Dictionary of the Illegible - Source Type: Store - Source Type"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://vimscoops.dev/",
+    "title": "Vim Scoops, Learn Vim Motions the Fun Way"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://bambamramfan.github.io/ai-compass/",
+    "title": "The AI Compass"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://golemui.com/",
+    "title": "GolemUI - The Declarative Form Engine"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.dbos.dev/blog/co-locating-workflow-state-with-your-data",
+    "title": "The Case for Co-Locating Workflow State with Your Data | DBOS"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://pradyuprasad.com/writings/how-to-ask-for-help/",
+    "title": "How to ask for help"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://math.ucr.edu/home/baez/act_course/index.html",
+    "title": "Applied Category Theory Course"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://unix.foo/posts/last-people-who-know-how-it-works/",
+    "title": "The Last People Who Know How It Works · unix.foo"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://neynt.ca/writing/waveloop/",
+    "title": "waveloop: what fable left me"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://senior-swe-bench.snorkel.ai/",
+    "title": "Senior SWE-Bench"
   }
 ]
