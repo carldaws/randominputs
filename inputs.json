@@ -1,8 +1,18 @@
 [
   {
     "source": "hn",
-    "url": "https://ui.shadcn.com/docs/changelog",
-    "title": "Shadcn/UI now defaults to Base UI instead of Radix"
+    "url": "https://organicmaps.app/",
+    "title": "Organic Maps"
+  },
+  {
+    "source": "hn",
+    "url": "https://phosh.mobi/releases/rel-0.56.0/",
+    "title": "Phosh 0.56.0"
+  },
+  {
+    "source": "hn",
+    "url": "https://dthain.github.io/books/compiler/",
+    "title": "Introduction to Compilers and Language Design"
   },
   {
     "source": "hn",
@@ -11,13 +21,18 @@
   },
   {
     "source": "hn",
-    "url": "https://craigmod.com/essays/fast_software/",
-    "title": "Fast Software, the Best Software (2019)"
+    "url": "https://airplaneboneyards.com/airplane-boneyards-list-and-map.htm",
+    "title": "Airplane Boneyards List and Map"
   },
   {
     "source": "hn",
-    "url": "https://www.hica.dev/docs/functional-programming/",
-    "title": "Functional Programming in hica"
+    "url": "https://ui.shadcn.com/docs/changelog",
+    "title": "Shadcn/UI now defaults to Base UI instead of Radix"
+  },
+  {
+    "source": "hn",
+    "url": "https://demo.pcbjam.com/",
+    "title": "Show HN: KiCad in the Browser"
   },
   {
     "source": "hn",
@@ -31,8 +46,8 @@
   },
   {
     "source": "hn",
-    "url": "https://dthain.github.io/books/compiler/",
-    "title": "Introduction to Compilers and Language Design"
+    "url": "https://craigmod.com/essays/fast_software/",
+    "title": "Fast Software, the Best Software (2019)"
   },
   {
     "source": "hn",
@@ -41,8 +56,23 @@
   },
   {
     "source": "hn",
+    "url": "https://mihai.page/pi-square-is-10/",
+    "title": "Pi square is nearly 10"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.diva-portal.org/smash/get/diva2:2052282/FULLTEXT01.pdf",
+    "title": "The GNU Emacs Architecture: Unlocking the Core [pdf]"
+  },
+  {
+    "source": "hn",
     "url": "https://www.hogbaysoftware.com/posts/moby-dick-workout/",
     "title": "Moby Dick Workout (2022)"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.hica.dev/docs/functional-programming/",
+    "title": "Functional Programming in hica"
   },
   {
     "source": "hn",
@@ -51,38 +81,8 @@
   },
   {
     "source": "hn",
-    "url": "https://writerbeware.blog/2025/09/19/return-of-the-nigerian-prince-redux-beware-book-club-and-book-review-scams/",
-    "title": "Return of the Nigerian Prince Redux: Beware Book Club and Book Review Scams (2025)"
-  },
-  {
-    "source": "hn",
     "url": "https://www.eso.org/public/news/eso2607/",
     "title": "“Beyond the limit”: Satellites and mirrors in space pose threat to the night sky"
-  },
-  {
-    "source": "hn",
-    "url": "https://olliewilliams.xyz/blog/dark-mode/",
-    "title": "Dark mode with web standards"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.animmouse.com/p/my-asn-journey/",
-    "title": "My ASN Journey series (2024)"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.cggonzalez.com/blog/index.html",
-    "title": "Drone Autonomy (2021)"
-  },
-  {
-    "source": "hn",
-    "url": "https://jacob.gold/posts/programmers-need-to-start-meditating-now/",
-    "title": "Programmers need to start meditating"
-  },
-  {
-    "source": "hn",
-    "url": "https://tommy.reddad.net/post/2025-12-04-coilsnake/",
-    "title": "A gender-swap EarthBound for my daughter (2025)"
   },
   {
     "source": "lobsters",
@@ -101,8 +101,18 @@
   },
   {
     "source": "lobsters",
+    "url": "https://olliewilliams.xyz/blog/dark-mode/",
+    "title": "Dark mode with web standards"
+  },
+  {
+    "source": "lobsters",
     "url": "https://ratfactor.com/cards/personal-website",
     "title": "What should a personal website be?"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://gracefulliberty.com/notes/scheme-is-a-hoot/",
+    "title": "Scheme is a Hoot"
   },
   {
     "source": "lobsters",
@@ -111,8 +121,18 @@
   },
   {
     "source": "lobsters",
-    "url": "https://gracefulliberty.com/notes/scheme-is-a-hoot/",
-    "title": "Scheme is a Hoot"
+    "url": "https://raymii.org/s/blog/Run_Windows_2000_for_Dec_Alpha_on_a_new_es40_fork.html",
+    "title": "Run Windows 2000 on a DEC Alpha with a new es40 fork"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://vstinner.github.io/pep-814-add-frozendict-builtin-type.html",
+    "title": "PEP 814: Add frozendict built-in type"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://arcanenibble.com/how-to-call-linux-code-from-a-wine-process.html",
+    "title": "How to call Linux code from a Wine process"
   },
   {
     "source": "lobsters",
@@ -126,23 +146,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://arcanenibble.com/how-to-call-linux-code-from-a-wine-process.html",
-    "title": "How to call Linux code from a Wine process"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://www.diva-portal.org/smash/get/diva2:2052282/FULLTEXT01.pdf",
-    "title": "The GNU Emacs Architecture"
-  },
-  {
-    "source": "lobsters",
     "url": "https://emacsair.me/2026/07/01/magit-4.6/",
     "title": "Magit 4.6 released"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://cleberg.net/blog/homelab-maintenance.html",
-    "title": "I Don't Maintain My Homelab"
   },
   {
     "source": "pinboard",
