@@ -6,18 +6,13 @@
   },
   {
     "source": "hn",
-    "url": "https://phosh.mobi/releases/rel-0.56.0/",
-    "title": "Phosh 0.56.0"
-  },
-  {
-    "source": "hn",
     "url": "https://dthain.github.io/books/compiler/",
     "title": "Introduction to Compilers and Language Design"
   },
   {
     "source": "hn",
-    "url": "https://unsung.aresluna.org/if-youre-a-button-you-have-one-job/",
-    "title": "If you're a button, you have one job"
+    "url": "https://raymii.org/s/blog/Run_Windows_2000_for_Dec_Alpha_on_a_new_es40_fork.html",
+    "title": "Run Windows 2000 on a DEC Alpha with a new es40 fork"
   },
   {
     "source": "hn",
@@ -26,18 +21,18 @@
   },
   {
     "source": "hn",
+    "url": "https://unsung.aresluna.org/if-youre-a-button-you-have-one-job/",
+    "title": "If you're a button, you have one job"
+  },
+  {
+    "source": "hn",
     "url": "https://ui.shadcn.com/docs/changelog",
     "title": "Shadcn/UI now defaults to Base UI instead of Radix"
   },
   {
     "source": "hn",
-    "url": "https://demo.pcbjam.com/",
-    "title": "Show HN: KiCad in the Browser"
-  },
-  {
-    "source": "hn",
-    "url": "https://categorica.io/blog/2026.06.29_trust_your_compiler/",
-    "title": "Trust your compiler: Modern C++"
+    "url": "https://rayfish.xyz/blog/01-introducing-rayfish",
+    "title": "Rayfish, Peer-to-peer mesh VPN with no server to trust"
   },
   {
     "source": "hn",
@@ -46,8 +41,28 @@
   },
   {
     "source": "hn",
+    "url": "https://www.diva-portal.org/smash/get/diva2:2052282/FULLTEXT01.pdf",
+    "title": "The GNU Emacs Architecture: Unlocking the Core [pdf]"
+  },
+  {
+    "source": "hn",
+    "url": "https://demo.pcbjam.com/",
+    "title": "Show HN: KiCad in the Browser"
+  },
+  {
+    "source": "hn",
+    "url": "https://phosh.mobi/releases/rel-0.56.0/",
+    "title": "Phosh 0.56.0"
+  },
+  {
+    "source": "hn",
     "url": "https://craigmod.com/essays/fast_software/",
     "title": "Fast Software, the Best Software (2019)"
+  },
+  {
+    "source": "hn",
+    "url": "https://mihai.page/pi-square-is-10/",
+    "title": "Pi squared is nearly 10"
   },
   {
     "source": "hn",
@@ -56,33 +71,13 @@
   },
   {
     "source": "hn",
-    "url": "https://mihai.page/pi-square-is-10/",
-    "title": "Pi square is nearly 10"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.diva-portal.org/smash/get/diva2:2052282/FULLTEXT01.pdf",
-    "title": "The GNU Emacs Architecture: Unlocking the Core [pdf]"
-  },
-  {
-    "source": "hn",
     "url": "https://www.hogbaysoftware.com/posts/moby-dick-workout/",
     "title": "Moby Dick Workout (2022)"
   },
   {
     "source": "hn",
-    "url": "https://www.hica.dev/docs/functional-programming/",
-    "title": "Functional Programming in hica"
-  },
-  {
-    "source": "hn",
-    "url": "https://wozniak.ca/blog/2014/08/03/1/index.html",
-    "title": "What ORMs have taught me: just learn SQL (2014)"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.eso.org/public/news/eso2607/",
-    "title": "“Beyond the limit”: Satellites and mirrors in space pose threat to the night sky"
+    "url": "https://categorica.io/blog/2026.06.29_trust_your_compiler/",
+    "title": "Trust your compiler: Modern C++"
   },
   {
     "source": "lobsters",
@@ -106,6 +101,11 @@
   },
   {
     "source": "lobsters",
+    "url": "https://immich.app/blog/v3.0.0-release",
+    "title": "Immich v3.0.0 Released"
+  },
+  {
+    "source": "lobsters",
     "url": "https://ratfactor.com/cards/personal-website",
     "title": "What should a personal website be?"
   },
@@ -113,16 +113,6 @@
     "source": "lobsters",
     "url": "https://gracefulliberty.com/notes/scheme-is-a-hoot/",
     "title": "Scheme is a Hoot"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://immich.app/blog/v3.0.0-release",
-    "title": "Immich v3.0.0 Released"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://raymii.org/s/blog/Run_Windows_2000_for_Dec_Alpha_on_a_new_es40_fork.html",
-    "title": "Run Windows 2000 on a DEC Alpha with a new es40 fork"
   },
   {
     "source": "lobsters",
