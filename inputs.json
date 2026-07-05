@@ -1,8 +1,13 @@
 [
   {
     "source": "hn",
-    "url": "https://stories.tamu.edu/news/2026/04/14/scientists-reverse-brain-aging-with-a-nasal-spray/",
-    "title": "Scientists reverse brain aging, with a nasal spray"
+    "url": "https://ui.shadcn.com/docs/changelog",
+    "title": "Shadcn/UI now defaults to Base UI instead of Radix"
+  },
+  {
+    "source": "hn",
+    "url": "https://unsung.aresluna.org/if-youre-a-button-you-have-one-job/",
+    "title": "If you're a button, you have one job"
   },
   {
     "source": "hn",
@@ -11,8 +16,18 @@
   },
   {
     "source": "hn",
-    "url": "https://theanarchistlibrary.org/library/albert-camus-reflections-on-the-guillotine",
-    "title": "Reflections on the Guillotine"
+    "url": "https://www.animmouse.com/p/my-asn-journey/",
+    "title": "My ASN Journey series (2024)"
+  },
+  {
+    "source": "hn",
+    "url": "https://prepok.com/chemistry/particle-box/",
+    "title": "The Particle Box – Kinetic Molecular Theory Simulator"
+  },
+  {
+    "source": "hn",
+    "url": "https://writerbeware.blog/2025/09/19/return-of-the-nigerian-prince-redux-beware-book-club-and-book-review-scams/",
+    "title": "Return of the Nigerian Prince Redux: Beware Book Club and Book Review Scams (2025)"
   },
   {
     "source": "hn",
@@ -21,28 +36,28 @@
   },
   {
     "source": "hn",
+    "url": "https://www.hogbaysoftware.com/posts/moby-dick-workout/",
+    "title": "Moby Dick Workout"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.hawaiinewsnow.com/2026/07/04/record-breaking-solo-rower-kelsey-pfendler-arrives-hawaii/",
+    "title": "Record-breaking solo rower Kelsey Pfendler arrives in Hawaii"
+  },
+  {
+    "source": "hn",
     "url": "https://ziglang.org/devlog/2026/#2026-06-30",
     "title": "Zig: All Package Management Functionality Moved from Compiler to Build System"
   },
   {
     "source": "hn",
-    "url": "https://www.jefftk.com/p/verizon-is-about-to-break-our-watches",
-    "title": "Verizon is About to Break our Watches"
+    "url": "https://www.eso.org/public/news/eso2607/",
+    "title": "\"Beyond the limit\": Satellites and mirrors in space pose threat to the night sky"
   },
   {
     "source": "hn",
-    "url": "https://writerbeware.blog/2025/09/19/return-of-the-nigerian-prince-redux-beware-book-club-and-book-review-scams/",
-    "title": "Return of the Nigerian Prince Redux: Beware Book Club and Book Review Scams"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.experimentlog.com/blog/building-a-world-map-with-only-500-bytes",
-    "title": "Can you build a recognizable World Map in under 500 bytes?"
-  },
-  {
-    "source": "hn",
-    "url": "https://iahmed.me/post/drone-physics/",
-    "title": "Drone Physics"
+    "url": "https://redvice.org/2026/coverage-the-wrong-way/",
+    "title": "Binary Coverage the Wrong Way"
   },
   {
     "source": "hn",
@@ -51,33 +66,8 @@
   },
   {
     "source": "hn",
-    "url": "https://parsa.wtf/cast/",
-    "title": "It's not me, it's the compiler"
-  },
-  {
-    "source": "hn",
-    "url": "https://ridgetext.com/blog/mapbox-llm-composition",
-    "title": "Mapping with In-Memory Layers to Reduce LLM Overload"
-  },
-  {
-    "source": "hn",
-    "url": "https://adamraudonis.github.io/splats4D/",
-    "title": "Fable created novel 4D splat format"
-  },
-  {
-    "source": "hn",
-    "url": "https://mightyburger.net/projects/curveball/",
-    "title": "Curveball"
-  },
-  {
-    "source": "hn",
-    "url": "https://ekinertac.com/blog/i-dont-know-rust-my-ai-is-rewriting-php-in-it/",
-    "title": "My AI-built PHP engine in Rust passes 17% of PHP-src tests, renders WordPress"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.freepressjournal.in/education/breaking-the-bird-barrier-scientist-decodes-zebra-finch-language",
-    "title": "Breaking the Bird Barrier: Scientist Decodes Zebra Finch Language"
+    "url": "https://wozniak.ca/blog/2014/08/03/1/index.html",
+    "title": "What ORMs have taught me: just learn SQL (2014)"
   },
   {
     "source": "lobsters",
@@ -96,6 +86,16 @@
   },
   {
     "source": "lobsters",
+    "url": "https://olliewilliams.xyz/blog/dark-mode/",
+    "title": "Dark mode with web standards"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://immich.app/blog/v3.0.0-release",
+    "title": "Immich v3.0.0 Released"
+  },
+  {
+    "source": "lobsters",
     "url": "https://www.endbasic.dev/2026/07/endbasic-0.14.html",
     "title": "EndBASIC 0.14: Are we multimedia yet?"
   },
@@ -103,6 +103,16 @@
     "source": "lobsters",
     "url": "https://emacsair.me/2026/07/01/magit-4.6/",
     "title": "Magit 4.6 released"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://arcanenibble.com/how-to-call-linux-code-from-a-wine-process.html",
+    "title": "How to call Linux code from a Wine process"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://gracefulliberty.com/notes/scheme-is-a-hoot/",
+    "title": "Scheme is a Hoot"
   },
   {
     "source": "lobsters",
@@ -116,23 +126,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://hackers.pub/@fedify/2026/why-activitypub-is-hard",
-    "title": "Why implementing ActivityPub is hard, and why it doesn't have to be"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://immich.app/blog/v3.0.0-release",
-    "title": "Immich v3.0.0 Released"
-  },
-  {
-    "source": "lobsters",
     "url": "https://www.mattgreer.dev/blog/gba-dev-logging/",
     "title": "Game Boy Advance Dev: Logging to the console"
   },
   {
     "source": "lobsters",
-    "url": "https://arcanenibble.com/how-to-call-linux-code-from-a-wine-process.html",
-    "title": "How to call Linux code from a Wine process"
+    "url": "https://hackers.pub/@fedify/2026/why-activitypub-is-hard",
+    "title": "Why implementing ActivityPub is hard, and why it doesn't have to be"
   },
   {
     "source": "lobsters",
@@ -141,68 +141,18 @@
   },
   {
     "source": "lobsters",
-    "url": "https://fabiensanglard.net/keyboards/index.html",
-    "title": "My favorite keyboards"
-  },
-  {
-    "source": "lobsters",
     "url": "https://whitep4nth3r.com/blog/goodbye-forever-probably/",
     "title": "Goodbye, forever, probably"
   },
   {
     "source": "lobsters",
-    "url": "https://lineageos.org/Developer-Verification/",
-    "title": "Developer Verification – LineageOS"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://purplesyringa.moe/blog/suffix-bwt-vs-cyclic-shift-bwt-and-fast-computation/",
-    "title": "Suffix BWT vs cyclic shift BWT, and fast computation"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://wangcong.org/2026-06-30-why-i-stopped-arguing-with-people.html",
-    "title": "Why I Stopped Arguing With People | A Geek’s Page"
+    "url": "https://fabiensanglard.net/keyboards/index.html",
+    "title": "My favorite keyboards"
   },
   {
     "source": "pinboard",
     "url": "https://freegraphpaper.net/",
     "title": "Free Printable Graph Paper & Custom Graph Paper Maker · FreeGraphPaper"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.zerofs.net/",
-    "title": "ZeroFS"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://blog.demofox.org/2026/07/01/what-to-learn-to-be-a-graphics-programmer/",
-    "title": "What To Learn To Be A Real Time Graphics Programmer « The blog at the bottom of the sea"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.sourcetype.com/store/51534/dictionary-of-the-illegible",
-    "title": "Dictionary of the Illegible - Source Type: Store - Source Type"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://vimscoops.dev/",
-    "title": "Vim Scoops, Learn Vim Motions the Fun Way"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://bambamramfan.github.io/ai-compass/",
-    "title": "The AI Compass"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://golemui.com/",
-    "title": "GolemUI - The Declarative Form Engine"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.dbos.dev/blog/co-locating-workflow-state-with-your-data",
-    "title": "The Case for Co-Locating Workflow State with Your Data | DBOS"
   },
   {
     "source": "pinboard",
@@ -216,17 +166,72 @@
   },
   {
     "source": "pinboard",
-    "url": "https://unix.foo/posts/last-people-who-know-how-it-works/",
-    "title": "The Last People Who Know How It Works · unix.foo"
+    "url": "https://goodnameforablog.com/posts/very-average-prototypes/",
+    "title": "Very Average Prototypes - Good Name For A Blog"
   },
   {
     "source": "pinboard",
-    "url": "https://neynt.ca/writing/waveloop/",
-    "title": "waveloop: what fable left me"
+    "url": "https://blog.demofox.org/2026/07/01/what-to-learn-to-be-a-graphics-programmer/",
+    "title": "What To Learn To Be A Real Time Graphics Programmer « The blog at the bottom of the sea"
   },
   {
     "source": "pinboard",
-    "url": "https://senior-swe-bench.snorkel.ai/",
-    "title": "Senior SWE-Bench"
+    "url": "https://iahmed.me/post/drone-physics/",
+    "title": "Drone physics"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://wangcong.org/2026-06-30-why-i-stopped-arguing-with-people.html",
+    "title": "Why I Stopped Arguing With People | A Geek’s Page"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.zerofs.net/",
+    "title": "ZeroFS"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://stefan.schueller.net/posts/the-free-market-lie/",
+    "title": "The Free Market Lie: Why Switzerland Has 25 Gbit Internet and America Doesn't - Stefan Schüller"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://vimscoops.dev/",
+    "title": "Vim Scoops, Learn Vim Motions the Fun Way"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://phenomenalworld.org/analysis/the-anti-amazon/",
+    "title": "The Anti-Amazon - Benjamin Y. Fong"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://interconnected.org/home/2026/07/03/factories",
+    "title": "Factories are just rooms (Interconnected)"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://blog.mikebowler.ca/2026/07/03/co2-and-decision-making/",
+    "title": "The bottleneck might be the air in the room | Mike Bowler"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.dbos.dev/blog/co-locating-workflow-state-with-your-data",
+    "title": "The Case for Co-Locating Workflow State with Your Data | DBOS"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.sourcetype.com/store/51534/dictionary-of-the-illegible",
+    "title": "Dictionary of the Illegible - Source Type: Store - Source Type"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://daringfireball.net/2026/07/claudes_criminally_bad_mac_app_is_an_inside_job",
+    "title": "Daring Fireball: Claude’s Criminally Bad Electron Mac App Is an Inside Job"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://bambamramfan.github.io/ai-compass/",
+    "title": "The AI Compass"
   }
 ]
