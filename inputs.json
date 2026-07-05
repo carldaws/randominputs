@@ -2,7 +2,7 @@
   {
     "source": "hn",
     "url": "https://www.opentools.studio/",
-    "title": "Reparaible and open source paper printer"
+    "title": "OpenPrinter"
   },
   {
     "source": "hn",
@@ -18,11 +18,6 @@
     "source": "hn",
     "url": "https://intextbooks.science.uu.nl/workshop2026/files/itb26_s1s2.pdf",
     "title": "New AI tutor achieves 0.71-1.30 SD effect size in Dartmouth course [pdf]"
-  },
-  {
-    "source": "hn",
-    "url": "https://notesbylex.com/completing-a-computer-science-degree-on-coursera",
-    "title": "Completing a Computer Science Degree on Coursera"
   },
   {
     "source": "hn",
@@ -46,18 +41,8 @@
   },
   {
     "source": "hn",
-    "url": "https://dhilst.github.io/algae/game/index.html",
-    "title": "Dungeon Proof Crawler: learn how to write proofs with RPG"
-  },
-  {
-    "source": "hn",
-    "url": "https://dispatch-media.com/the-best-pint-in-england/",
-    "title": "Pint in England"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.arp242.net/deps-vcs.html",
-    "title": "Dependencies should be fetched directly from VCS"
+    "url": "https://stillthinking.net/posts/connections-in-math-two-kinds-of-random/",
+    "title": "Connections in Math: the two kinds of random"
   },
   {
     "source": "hn",
@@ -66,8 +51,38 @@
   },
   {
     "source": "hn",
+    "url": "https://nicole.express/2026/phase-altering-by-line.html",
+    "title": "Composite Video on the NES: Why's it so wobbly?"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.nbcchicago.com/news/local/delta-flight-hit-by-firework-while-landing-at-midway-airport-on-fourth-of-july/3957451/",
+    "title": "Delta flight hit by firework while landing at Midway Airport on Fourth of July"
+  },
+  {
+    "source": "hn",
+    "url": "https://dhilst.github.io/algae/game/index.html",
+    "title": "Dungeon Proof Crawler: learn how to write proofs with RPG"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.arp242.net/deps-vcs.html",
+    "title": "Dependencies should be fetched directly from VCS"
+  },
+  {
+    "source": "hn",
+    "url": "https://dispatch-media.com/the-best-pint-in-england/",
+    "title": "Pint in England"
+  },
+  {
+    "source": "hn",
     "url": "https://shub.club/writings/2026/july/you-need-a-webring/",
     "title": "You need a webring"
+  },
+  {
+    "source": "hn",
+    "url": "https://notesbylex.com/completing-a-computer-science-degree-on-coursera",
+    "title": "Completing a computer science degree on Coursera"
   },
   {
     "source": "hn",
@@ -76,8 +91,8 @@
   },
   {
     "source": "hn",
-    "url": "https://en.wikipedia.org/wiki/Johnson_thermoelectric_energy_converter",
-    "title": "Johnson Thermoelectric Energy Converter"
+    "url": "https://www.scattered-thoughts.net/writing/artificial-adventures/",
+    "title": "Artificial Adventures"
   },
   {
     "source": "hn",
@@ -91,23 +106,23 @@
   },
   {
     "source": "hn",
-    "url": "https://www.nbcchicago.com/news/local/delta-flight-hit-by-firework-while-landing-at-midway-airport-on-fourth-of-july/3957451/",
-    "title": "Delta flight hit by firework while landing at Midway Airport on Fourth of July"
-  },
-  {
-    "source": "hn",
     "url": "https://thomasw.dev/post/aux11/",
     "title": "Installing A/UX 1.1 like it's the 90s"
   },
   {
     "source": "hn",
-    "url": "https://airplaneboneyards.com/airplane-boneyards-list-and-map.htm",
-    "title": "Airplane Boneyards List and Map"
+    "url": "https://en.wikipedia.org/wiki/Johnson_thermoelectric_energy_converter",
+    "title": "Johnson Thermoelectric Energy Converter"
   },
   {
     "source": "lobsters",
     "url": "https://unsung.aresluna.org/if-youre-a-button-you-have-one-job/",
     "title": "If you’re a button, you have one job"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://blog.dureuill.net/articles/wip/",
+    "title": "Work In Progress Rust"
   },
   {
     "source": "lobsters",
@@ -123,11 +138,6 @@
     "source": "lobsters",
     "url": "https://lucumr.pocoo.org/2026/7/4/better-models-worse-tools/",
     "title": "Better Models: Worse Tools"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://blog.dureuill.net/articles/wip/",
-    "title": "Work In Progress Rust"
   },
   {
     "source": "lobsters",
@@ -151,6 +161,11 @@
   },
   {
     "source": "lobsters",
+    "url": "https://vstinner.github.io/pep-814-add-frozendict-builtin-type.html",
+    "title": "PEP 814: Add frozendict built-in type"
+  },
+  {
+    "source": "lobsters",
     "url": "https://blog.pspaul.de/posts/bench-press-leaking-text-nodes-with-css/",
     "title": "Bench Press: Leaking Text Nodes with CSS"
   },
@@ -161,17 +176,92 @@
   },
   {
     "source": "lobsters",
-    "url": "https://vstinner.github.io/pep-814-add-frozendict-builtin-type.html",
-    "title": "PEP 814: Add frozendict built-in type"
-  },
-  {
-    "source": "lobsters",
     "url": "https://ratfactor.com/cards/personal-website",
     "title": "What should a personal website be?"
   },
   {
-    "source": "lobsters",
-    "url": "https://localghost.dev/blog/time-based-background-colour-transitions-with-temporal-and-css-color-mix/",
-    "title": "Time-based background colour transitions with Temporal and CSS color-mix"
+    "source": "pinboard",
+    "url": "https://freegraphpaper.net/",
+    "title": "Free Printable Graph Paper & Custom Graph Paper Maker · FreeGraphPaper"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://pradyuprasad.com/writings/how-to-ask-for-help/",
+    "title": "How to ask for help"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://math.ucr.edu/home/baez/act_course/index.html",
+    "title": "Applied Category Theory Course"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://goodnameforablog.com/posts/very-average-prototypes/",
+    "title": "Very Average Prototypes - Good Name For A Blog"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://blog.demofox.org/2026/07/01/what-to-learn-to-be-a-graphics-programmer/",
+    "title": "What To Learn To Be A Real Time Graphics Programmer « The blog at the bottom of the sea"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://iahmed.me/post/drone-physics/",
+    "title": "Drone physics"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://wangcong.org/2026-06-30-why-i-stopped-arguing-with-people.html",
+    "title": "Why I Stopped Arguing With People | A Geek’s Page"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.zerofs.net/",
+    "title": "ZeroFS"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://stefan.schueller.net/posts/the-free-market-lie/",
+    "title": "The Free Market Lie: Why Switzerland Has 25 Gbit Internet and America Doesn't - Stefan Schüller"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://vimscoops.dev/",
+    "title": "Vim Scoops, Learn Vim Motions the Fun Way"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://phenomenalworld.org/analysis/the-anti-amazon/",
+    "title": "The Anti-Amazon - Benjamin Y. Fong"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://interconnected.org/home/2026/07/03/factories",
+    "title": "Factories are just rooms (Interconnected)"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://blog.mikebowler.ca/2026/07/03/co2-and-decision-making/",
+    "title": "The bottleneck might be the air in the room | Mike Bowler"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.dbos.dev/blog/co-locating-workflow-state-with-your-data",
+    "title": "The Case for Co-Locating Workflow State with Your Data | DBOS"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.sourcetype.com/store/51534/dictionary-of-the-illegible",
+    "title": "Dictionary of the Illegible - Source Type: Store - Source Type"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://daringfireball.net/2026/07/claudes_criminally_bad_mac_app_is_an_inside_job",
+    "title": "Daring Fireball: Claude’s Criminally Bad Electron Mac App Is an Inside Job"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://bambamramfan.github.io/ai-compass/",
+    "title": "The AI Compass"
   }
 ]
