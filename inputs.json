@@ -11,23 +11,38 @@
   },
   {
     "source": "hn",
+    "url": "https://0dd.company/galleries/triumph/1.html",
+    "title": "Apocketlypse"
+  },
+  {
+    "source": "hn",
+    "url": "https://pandoc.org/lua-filters.html",
+    "title": "Pandoc Lua Filters"
+  },
+  {
+    "source": "hn",
+    "url": "https://jacob.gold/posts/programmers-need-to-start-meditating-now/",
+    "title": "Programmers need to start meditating now"
+  },
+  {
+    "source": "hn",
+    "url": "https://computer.rip/2026-07-04-microwave-and-power.html",
+    "title": "Megawatts by Microwave"
+  },
+  {
+    "source": "hn",
     "url": "https://javoriuski.com/post/youtube",
     "title": "Leaking YouTube creators' private videos"
   },
   {
     "source": "hn",
-    "url": "https://www.animmouse.com/p/my-asn-journey/",
-    "title": "My ASN Journey series (2024)"
+    "url": "https://www.hogbaysoftware.com/posts/moby-dick-workout/",
+    "title": "Moby Dick Workout (2022)"
   },
   {
     "source": "hn",
-    "url": "https://prepok.com/chemistry/particle-box/",
-    "title": "The Particle Box – Kinetic Molecular Theory Simulator"
-  },
-  {
-    "source": "hn",
-    "url": "https://writerbeware.blog/2025/09/19/return-of-the-nigerian-prince-redux-beware-book-club-and-book-review-scams/",
-    "title": "Return of the Nigerian Prince Redux: Beware Book Club and Book Review Scams (2025)"
+    "url": "https://simonwillison.net/2026/Jul/5/sqlite-utils-fable/",
+    "title": "sqlite-utils 4.0rc2, mostly written by Claude Fable (for about $149.25)"
   },
   {
     "source": "hn",
@@ -36,13 +51,8 @@
   },
   {
     "source": "hn",
-    "url": "https://www.hogbaysoftware.com/posts/moby-dick-workout/",
-    "title": "Moby Dick Workout"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.hawaiinewsnow.com/2026/07/04/record-breaking-solo-rower-kelsey-pfendler-arrives-hawaii/",
-    "title": "Record-breaking solo rower Kelsey Pfendler arrives in Hawaii"
+    "url": "https://writerbeware.blog/2025/09/19/return-of-the-nigerian-prince-redux-beware-book-club-and-book-review-scams/",
+    "title": "Return of the Nigerian Prince Redux: Beware Book Club and Book Review Scams (2025)"
   },
   {
     "source": "hn",
@@ -56,18 +66,28 @@
   },
   {
     "source": "hn",
-    "url": "https://redvice.org/2026/coverage-the-wrong-way/",
-    "title": "Binary Coverage the Wrong Way"
+    "url": "https://www.animmouse.com/p/my-asn-journey/",
+    "title": "My ASN Journey series (2024)"
   },
   {
     "source": "hn",
-    "url": "https://www.cggonzalez.com/blog/index.html",
-    "title": "Drone Autonomy Crash Course"
+    "url": "https://www.wsj.com/business/autos/ev-batteries-are-defying-expectations-after-hundreds-of-thousands-of-miles-8579de13",
+    "title": "EV Batteries Are Defying Expectations After Miles"
   },
   {
     "source": "hn",
     "url": "https://wozniak.ca/blog/2014/08/03/1/index.html",
     "title": "What ORMs have taught me: just learn SQL (2014)"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.hawaiinewsnow.com/2026/07/04/record-breaking-solo-rower-kelsey-pfendler-arrives-hawaii/",
+    "title": "Record-breaking solo rower Kelsey Pfendler arrives in Hawaii"
+  },
+  {
+    "source": "hn",
+    "url": "https://craigmod.com/essays/fast_software/",
+    "title": "Fast Software, the Best Software"
   },
   {
     "source": "lobsters",
@@ -101,16 +121,6 @@
   },
   {
     "source": "lobsters",
-    "url": "https://emacsair.me/2026/07/01/magit-4.6/",
-    "title": "Magit 4.6 released"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://arcanenibble.com/how-to-call-linux-code-from-a-wine-process.html",
-    "title": "How to call Linux code from a Wine process"
-  },
-  {
-    "source": "lobsters",
     "url": "https://gracefulliberty.com/notes/scheme-is-a-hoot/",
     "title": "Scheme is a Hoot"
   },
@@ -121,18 +131,23 @@
   },
   {
     "source": "lobsters",
+    "url": "https://emacsair.me/2026/07/01/magit-4.6/",
+    "title": "Magit 4.6 released"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://arcanenibble.com/how-to-call-linux-code-from-a-wine-process.html",
+    "title": "How to call Linux code from a Wine process"
+  },
+  {
+    "source": "lobsters",
     "url": "https://cleberg.net/blog/homelab-maintenance.html",
     "title": "I Don't Maintain My Homelab"
   },
   {
     "source": "lobsters",
-    "url": "https://www.mattgreer.dev/blog/gba-dev-logging/",
-    "title": "Game Boy Advance Dev: Logging to the console"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://hackers.pub/@fedify/2026/why-activitypub-is-hard",
-    "title": "Why implementing ActivityPub is hard, and why it doesn't have to be"
+    "url": "https://pierrezemb.fr/posts/why-fakes-beat-mocks-and-testcontainers/",
+    "title": "Why Fakes Beat Mocks and Testcontainers"
   },
   {
     "source": "lobsters",
@@ -141,13 +156,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://whitep4nth3r.com/blog/goodbye-forever-probably/",
-    "title": "Goodbye, forever, probably"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://fabiensanglard.net/keyboards/index.html",
-    "title": "My favorite keyboards"
+    "url": "https://www.mattgreer.dev/blog/gba-dev-logging/",
+    "title": "Game Boy Advance Dev: Logging to the console"
   },
   {
     "source": "pinboard",
