@@ -1,6 +1,11 @@
 [
   {
     "source": "hn",
+    "url": "https://gracefulliberty.com/articles/return-to-zig/",
+    "title": "Returning to Zig after losing trust in Rust's governance"
+  },
+  {
+    "source": "hn",
     "url": "https://ui.shadcn.com/docs/changelog",
     "title": "Shadcn/UI now defaults to Base UI instead of Radix"
   },
@@ -11,8 +16,13 @@
   },
   {
     "source": "hn",
-    "url": "https://0dd.company/galleries/triumph/1.html",
-    "title": "Apocketlypse"
+    "url": "https://craigmod.com/essays/fast_software/",
+    "title": "Fast Software, the Best Software"
+  },
+  {
+    "source": "hn",
+    "url": "https://mihai.page/pi-square-is-10/",
+    "title": "Pi square is nearly 10"
   },
   {
     "source": "hn",
@@ -21,8 +31,8 @@
   },
   {
     "source": "hn",
-    "url": "https://jacob.gold/posts/programmers-need-to-start-meditating-now/",
-    "title": "Programmers need to start meditating now"
+    "url": "https://bambu3design.com/13-common-3d-benchy-problems-causes-fixes/",
+    "title": "Common 3D Benchy Problems, Causes and Fixes"
   },
   {
     "source": "hn",
@@ -36,23 +46,23 @@
   },
   {
     "source": "hn",
+    "url": "https://jacob.gold/posts/programmers-need-to-start-meditating-now/",
+    "title": "Programmers need to start meditating"
+  },
+  {
+    "source": "hn",
     "url": "https://www.hogbaysoftware.com/posts/moby-dick-workout/",
     "title": "Moby Dick Workout (2022)"
   },
   {
     "source": "hn",
-    "url": "https://simonwillison.net/2026/Jul/5/sqlite-utils-fable/",
-    "title": "sqlite-utils 4.0rc2, mostly written by Claude Fable (for about $149.25)"
+    "url": "https://0dd.company/galleries/triumph/1.html",
+    "title": "Apocketlypse"
   },
   {
     "source": "hn",
     "url": "https://lucumr.pocoo.org/2026/7/4/better-models-worse-tools/",
     "title": "Better Models: Worse Tools"
-  },
-  {
-    "source": "hn",
-    "url": "https://writerbeware.blog/2025/09/19/return-of-the-nigerian-prince-redux-beware-book-club-and-book-review-scams/",
-    "title": "Return of the Nigerian Prince Redux: Beware Book Club and Book Review Scams (2025)"
   },
   {
     "source": "hn",
@@ -66,13 +76,8 @@
   },
   {
     "source": "hn",
-    "url": "https://www.animmouse.com/p/my-asn-journey/",
-    "title": "My ASN Journey series (2024)"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.wsj.com/business/autos/ev-batteries-are-defying-expectations-after-hundreds-of-thousands-of-miles-8579de13",
-    "title": "EV Batteries Are Defying Expectations After Miles"
+    "url": "https://writerbeware.blog/2025/09/19/return-of-the-nigerian-prince-redux-beware-book-club-and-book-review-scams/",
+    "title": "Return of the Nigerian Prince Redux: Beware Book Club and Book Review Scams (2025)"
   },
   {
     "source": "hn",
@@ -81,18 +86,8 @@
   },
   {
     "source": "hn",
-    "url": "https://www.hawaiinewsnow.com/2026/07/04/record-breaking-solo-rower-kelsey-pfendler-arrives-hawaii/",
-    "title": "Record-breaking solo rower Kelsey Pfendler arrives in Hawaii"
-  },
-  {
-    "source": "hn",
-    "url": "https://craigmod.com/essays/fast_software/",
-    "title": "Fast Software, the Best Software"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://gracefulliberty.com/articles/return-to-zig/",
-    "title": "Returning to Zig"
+    "url": "https://simonwillison.net/2026/Jul/5/sqlite-utils-fable/",
+    "title": "sqlite-utils 4.0rc2, mostly written by Claude Fable (for about $149.25)"
   },
   {
     "source": "lobsters",
@@ -116,13 +111,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://www.endbasic.dev/2026/07/endbasic-0.14.html",
-    "title": "EndBASIC 0.14: Are we multimedia yet?"
+    "url": "https://gracefulliberty.com/notes/scheme-is-a-hoot/",
+    "title": "Scheme is a Hoot"
   },
   {
     "source": "lobsters",
-    "url": "https://gracefulliberty.com/notes/scheme-is-a-hoot/",
-    "title": "Scheme is a Hoot"
+    "url": "https://www.endbasic.dev/2026/07/endbasic-0.14.html",
+    "title": "EndBASIC 0.14: Are we multimedia yet?"
   },
   {
     "source": "lobsters",
@@ -141,23 +136,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://cleberg.net/blog/homelab-maintenance.html",
-    "title": "I Don't Maintain My Homelab"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://pierrezemb.fr/posts/why-fakes-beat-mocks-and-testcontainers/",
-    "title": "Why Fakes Beat Mocks and Testcontainers"
-  },
-  {
-    "source": "lobsters",
     "url": "https://www.diva-portal.org/smash/get/diva2:2052282/FULLTEXT01.pdf",
     "title": "The GNU Emacs Architecture"
   },
   {
     "source": "lobsters",
-    "url": "https://www.mattgreer.dev/blog/gba-dev-logging/",
-    "title": "Game Boy Advance Dev: Logging to the console"
+    "url": "https://cleberg.net/blog/homelab-maintenance.html",
+    "title": "I Don't Maintain My Homelab"
   },
   {
     "source": "pinboard",
