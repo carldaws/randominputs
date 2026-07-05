@@ -6,8 +6,18 @@
   },
   {
     "source": "hn",
+    "url": "https://www.starringthecomputer.com/computers.html",
+    "title": "The Computers Used in Movies"
+  },
+  {
+    "source": "hn",
     "url": "https://dthain.github.io/books/compiler/",
     "title": "Introduction to Compilers and Language Design"
+  },
+  {
+    "source": "hn",
+    "url": "https://popcar.bearblog.dev/its-about-ownership/",
+    "title": "It's not about physical vs. digital games, it's about ownership"
   },
   {
     "source": "hn",
@@ -21,6 +31,11 @@
   },
   {
     "source": "hn",
+    "url": "https://rayfish.xyz/blog/01-introducing-rayfish",
+    "title": "Rayfish, Peer-to-peer mesh VPN with no server to trust"
+  },
+  {
+    "source": "hn",
     "url": "https://unsung.aresluna.org/if-youre-a-button-you-have-one-job/",
     "title": "If you're a button, you have one job"
   },
@@ -28,16 +43,6 @@
     "source": "hn",
     "url": "https://ui.shadcn.com/docs/changelog",
     "title": "Shadcn/UI now defaults to Base UI instead of Radix"
-  },
-  {
-    "source": "hn",
-    "url": "https://rayfish.xyz/blog/01-introducing-rayfish",
-    "title": "Rayfish, Peer-to-peer mesh VPN with no server to trust"
-  },
-  {
-    "source": "hn",
-    "url": "https://pandoc.org/lua-filters.html",
-    "title": "Pandoc Lua Filters"
   },
   {
     "source": "hn",
@@ -51,8 +56,8 @@
   },
   {
     "source": "hn",
-    "url": "https://phosh.mobi/releases/rel-0.56.0/",
-    "title": "Phosh 0.56.0"
+    "url": "https://pandoc.org/lua-filters.html",
+    "title": "Pandoc Lua Filters"
   },
   {
     "source": "hn",
@@ -61,8 +66,8 @@
   },
   {
     "source": "hn",
-    "url": "https://mihai.page/pi-square-is-10/",
-    "title": "Pi squared is nearly 10"
+    "url": "https://phosh.mobi/releases/rel-0.56.0/",
+    "title": "Phosh 0.56.0"
   },
   {
     "source": "hn",
@@ -71,13 +76,13 @@
   },
   {
     "source": "hn",
-    "url": "https://www.hogbaysoftware.com/posts/moby-dick-workout/",
-    "title": "Moby Dick Workout (2022)"
+    "url": "https://pluralistic.net/2026/06/27/zuckerstreisand-2/#autodisparagement",
+    "title": "Zuckerberg's Increasingly Bizarre War on Whistleblowers"
   },
   {
     "source": "hn",
-    "url": "https://categorica.io/blog/2026.06.29_trust_your_compiler/",
-    "title": "Trust your compiler: Modern C++"
+    "url": "https://www.hogbaysoftware.com/posts/moby-dick-workout/",
+    "title": "Moby Dick Workout (2022)"
   },
   {
     "source": "lobsters",
@@ -101,6 +106,11 @@
   },
   {
     "source": "lobsters",
+    "url": "https://gracefulliberty.com/notes/scheme-is-a-hoot/",
+    "title": "Scheme is a Hoot"
+  },
+  {
+    "source": "lobsters",
     "url": "https://immich.app/blog/v3.0.0-release",
     "title": "Immich v3.0.0 Released"
   },
@@ -111,8 +121,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://gracefulliberty.com/notes/scheme-is-a-hoot/",
-    "title": "Scheme is a Hoot"
+    "url": "https://blog.dureuill.net/articles/wip/",
+    "title": "Work In Progress Rust"
   },
   {
     "source": "lobsters",
