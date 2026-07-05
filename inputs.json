@@ -1,11 +1,6 @@
 [
   {
     "source": "hn",
-    "url": "https://gracefulliberty.com/articles/return-to-zig/",
-    "title": "Returning to Zig after losing trust in Rust's governance"
-  },
-  {
-    "source": "hn",
     "url": "https://ui.shadcn.com/docs/changelog",
     "title": "Shadcn/UI now defaults to Base UI instead of Radix"
   },
@@ -17,12 +12,17 @@
   {
     "source": "hn",
     "url": "https://craigmod.com/essays/fast_software/",
-    "title": "Fast Software, the Best Software"
+    "title": "Fast Software, the Best Software (2019)"
   },
   {
     "source": "hn",
-    "url": "https://mihai.page/pi-square-is-10/",
-    "title": "Pi square is nearly 10"
+    "url": "https://www.hica.dev/docs/functional-programming/",
+    "title": "Functional Programming in hica"
+  },
+  {
+    "source": "hn",
+    "url": "https://categorica.io/blog/2026.06.29_trust_your_compiler/",
+    "title": "Trust your compiler: Modern C++"
   },
   {
     "source": "hn",
@@ -31,8 +31,8 @@
   },
   {
     "source": "hn",
-    "url": "https://bambu3design.com/13-common-3d-benchy-problems-causes-fixes/",
-    "title": "Common 3D Benchy Problems, Causes and Fixes"
+    "url": "https://dthain.github.io/books/compiler/",
+    "title": "Introduction to Compilers and Language Design"
   },
   {
     "source": "hn",
@@ -41,43 +41,8 @@
   },
   {
     "source": "hn",
-    "url": "https://javoriuski.com/post/youtube",
-    "title": "Leaking YouTube creators' private videos"
-  },
-  {
-    "source": "hn",
-    "url": "https://jacob.gold/posts/programmers-need-to-start-meditating-now/",
-    "title": "Programmers need to start meditating"
-  },
-  {
-    "source": "hn",
     "url": "https://www.hogbaysoftware.com/posts/moby-dick-workout/",
     "title": "Moby Dick Workout (2022)"
-  },
-  {
-    "source": "hn",
-    "url": "https://0dd.company/galleries/triumph/1.html",
-    "title": "Apocketlypse"
-  },
-  {
-    "source": "hn",
-    "url": "https://lucumr.pocoo.org/2026/7/4/better-models-worse-tools/",
-    "title": "Better Models: Worse Tools"
-  },
-  {
-    "source": "hn",
-    "url": "https://ziglang.org/devlog/2026/#2026-06-30",
-    "title": "Zig: All Package Management Functionality Moved from Compiler to Build System"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.eso.org/public/news/eso2607/",
-    "title": "\"Beyond the limit\": Satellites and mirrors in space pose threat to the night sky"
-  },
-  {
-    "source": "hn",
-    "url": "https://writerbeware.blog/2025/09/19/return-of-the-nigerian-prince-redux-beware-book-club-and-book-review-scams/",
-    "title": "Return of the Nigerian Prince Redux: Beware Book Club and Book Review Scams (2025)"
   },
   {
     "source": "hn",
@@ -86,8 +51,48 @@
   },
   {
     "source": "hn",
-    "url": "https://simonwillison.net/2026/Jul/5/sqlite-utils-fable/",
-    "title": "sqlite-utils 4.0rc2, mostly written by Claude Fable (for about $149.25)"
+    "url": "https://writerbeware.blog/2025/09/19/return-of-the-nigerian-prince-redux-beware-book-club-and-book-review-scams/",
+    "title": "Return of the Nigerian Prince Redux: Beware Book Club and Book Review Scams (2025)"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.eso.org/public/news/eso2607/",
+    "title": "“Beyond the limit”: Satellites and mirrors in space pose threat to the night sky"
+  },
+  {
+    "source": "hn",
+    "url": "https://olliewilliams.xyz/blog/dark-mode/",
+    "title": "Dark mode with web standards"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.animmouse.com/p/my-asn-journey/",
+    "title": "My ASN Journey series (2024)"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.cggonzalez.com/blog/index.html",
+    "title": "Drone Autonomy (2021)"
+  },
+  {
+    "source": "hn",
+    "url": "https://jacob.gold/posts/programmers-need-to-start-meditating-now/",
+    "title": "Programmers need to start meditating"
+  },
+  {
+    "source": "hn",
+    "url": "https://tommy.reddad.net/post/2025-12-04-coilsnake/",
+    "title": "A gender-swap EarthBound for my daughter (2025)"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://gracefulliberty.com/articles/return-to-zig/",
+    "title": "Returning to Zig"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://lucumr.pocoo.org/2026/7/4/better-models-worse-tools/",
+    "title": "Better Models: Worse Tools"
   },
   {
     "source": "lobsters",
@@ -98,11 +103,6 @@
     "source": "lobsters",
     "url": "https://ratfactor.com/cards/personal-website",
     "title": "What should a personal website be?"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://olliewilliams.xyz/blog/dark-mode/",
-    "title": "Dark mode with web standards"
   },
   {
     "source": "lobsters",
@@ -126,11 +126,6 @@
   },
   {
     "source": "lobsters",
-    "url": "https://emacsair.me/2026/07/01/magit-4.6/",
-    "title": "Magit 4.6 released"
-  },
-  {
-    "source": "lobsters",
     "url": "https://arcanenibble.com/how-to-call-linux-code-from-a-wine-process.html",
     "title": "How to call Linux code from a Wine process"
   },
@@ -138,6 +133,11 @@
     "source": "lobsters",
     "url": "https://www.diva-portal.org/smash/get/diva2:2052282/FULLTEXT01.pdf",
     "title": "The GNU Emacs Architecture"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://emacsair.me/2026/07/01/magit-4.6/",
+    "title": "Magit 4.6 released"
   },
   {
     "source": "lobsters",
