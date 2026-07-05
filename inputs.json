@@ -1,6 +1,11 @@
 [
   {
     "source": "hn",
+    "url": "https://www.opentools.studio/",
+    "title": "Reparaible and open source paper printer"
+  },
+  {
+    "source": "hn",
     "url": "https://organicmaps.app/",
     "title": "Organic Maps"
   },
@@ -11,13 +16,38 @@
   },
   {
     "source": "hn",
+    "url": "https://blog.flipper.net/future-of-flipper-zero-development/",
+    "title": "The future of Flipper Zero development"
+  },
+  {
+    "source": "hn",
+    "url": "https://notesbylex.com/completing-a-computer-science-degree-on-coursera",
+    "title": "Completing a Computer Science Degree on Coursera"
+  },
+  {
+    "source": "hn",
+    "url": "https://dispatch-media.com/the-best-pint-in-england/",
+    "title": "Pint in England"
+  },
+  {
+    "source": "hn",
     "url": "https://www.starringthecomputer.com/computers.html",
     "title": "Starring the Computer"
   },
   {
     "source": "hn",
-    "url": "https://blog.flipper.net/future-of-flipper-zero-development/",
-    "title": "The future of Flipper Zero development"
+    "url": "https://dhilst.github.io/algae/game/index.html",
+    "title": "Dungeon Proof Crawler: learn how to write proofs with RPG"
+  },
+  {
+    "source": "hn",
+    "url": "https://homegames.io",
+    "title": "Show HN: Homegames. An open-source game platform I've been making for 8 years"
+  },
+  {
+    "source": "hn",
+    "url": "https://tekstien-marginaalien-keskus.aalto.fi/residenssi/heikki/blog/004-december-2/",
+    "title": "Mr. Baby Paint and accidentally discovering a new cellular automata"
   },
   {
     "source": "hn",
@@ -36,6 +66,11 @@
   },
   {
     "source": "hn",
+    "url": "https://www.arp242.net/deps-vcs.html",
+    "title": "Dependencies should be fetched directly from VCS"
+  },
+  {
+    "source": "hn",
     "url": "https://raymii.org/s/blog/Run_Windows_2000_for_Dec_Alpha_on_a_new_es40_fork.html",
     "title": "Run Windows 2000 on a DEC Alpha with a new es40 fork"
   },
@@ -43,11 +78,6 @@
     "source": "hn",
     "url": "https://thomasw.dev/post/aux11/",
     "title": "Installing A/UX 1.1 like it's the 90s"
-  },
-  {
-    "source": "hn",
-    "url": "https://tekstien-marginaalien-keskus.aalto.fi/residenssi/heikki/blog/004-december-2/",
-    "title": "Mr. Baby Paint and accidentally discovering a new cellular automata"
   },
   {
     "source": "hn",
@@ -61,38 +91,13 @@
   },
   {
     "source": "hn",
-    "url": "https://ui.shadcn.com/docs/changelog",
-    "title": "Shadcn/UI now defaults to Base UI instead of Radix"
+    "url": "https://segflow.github.io/post/zero-copy-sendfile-splice/",
+    "title": "Zero-copy in Go: sendfile, splice, and the cost of io.Copy"
   },
   {
     "source": "hn",
-    "url": "https://observer.co.uk/style/features/article/every-postcard-tells-a-story",
-    "title": "Every postcard tells a story"
-  },
-  {
-    "source": "hn",
-    "url": "https://demo.pcbjam.com/",
-    "title": "Show HN: KiCad in the Browser"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.diva-portal.org/smash/get/diva2:2052282/FULLTEXT01.pdf",
-    "title": "The GNU Emacs Architecture: Unlocking the Core [pdf]"
-  },
-  {
-    "source": "hn",
-    "url": "https://pandoc.org/lua-filters.html",
-    "title": "Pandoc Lua Filters"
-  },
-  {
-    "source": "hn",
-    "url": "https://sigfrid-lundberg.se/entries/2010/07/hate_xml/",
-    "title": "Do you hate XML? (2010)"
-  },
-  {
-    "source": "hn",
-    "url": "https://rayfish.xyz/blog/01-introducing-rayfish",
-    "title": "Rayfish, Peer-to-peer mesh VPN with no server to trust"
+    "url": "https://ahmadawais.com/the-full-stack-of-terminals-explained-terminal-shell-tty-console-posix-ansi-escapes-ptys/",
+    "title": "The full stack of terminals explained"
   },
   {
     "source": "lobsters",
@@ -111,6 +116,21 @@
   },
   {
     "source": "lobsters",
+    "url": "https://rayfish.xyz/blog/01-introducing-rayfish",
+    "title": "Rayfish - P2P VPN built on top of Iroh"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://blog.dureuill.net/articles/wip/",
+    "title": "Work In Progress Rust"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://thoughts.hmmz.org/2026-07-05.html",
+    "title": "Embedding information in disorder"
+  },
+  {
+    "source": "lobsters",
     "url": "https://blog.tymscar.com/posts/crinklecranklewalls/",
     "title": "Do Wavy Walls Really Use Fewer Bricks? I Tested It in Blender"
   },
@@ -121,18 +141,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://blog.dureuill.net/articles/wip/",
-    "title": "Work In Progress Rust"
-  },
-  {
-    "source": "lobsters",
     "url": "https://gracefulliberty.com/notes/scheme-is-a-hoot/",
     "title": "Scheme is a Hoot"
   },
   {
     "source": "lobsters",
-    "url": "https://thoughts.hmmz.org/2026-07-05.html",
-    "title": "Embedding information in disorder"
+    "url": "https://blog.pspaul.de/posts/bench-press-leaking-text-nodes-with-css/",
+    "title": "Bench Press: Leaking Text Nodes with CSS"
   },
   {
     "source": "lobsters",
@@ -141,23 +156,18 @@
   },
   {
     "source": "lobsters",
-    "url": "https://ratfactor.com/cards/personal-website",
-    "title": "What should a personal website be?"
-  },
-  {
-    "source": "lobsters",
     "url": "https://vstinner.github.io/pep-814-add-frozendict-builtin-type.html",
     "title": "PEP 814: Add frozendict built-in type"
   },
   {
     "source": "lobsters",
-    "url": "https://localghost.dev/blog/time-based-background-colour-transitions-with-temporal-and-css-color-mix/",
-    "title": "Time-based background colour transitions with Temporal and CSS color-mix"
+    "url": "https://ratfactor.com/cards/personal-website",
+    "title": "What should a personal website be?"
   },
   {
     "source": "lobsters",
-    "url": "https://blog.pspaul.de/posts/bench-press-leaking-text-nodes-with-css/",
-    "title": "Bench Press: Leaking Text Nodes with CSS"
+    "url": "https://localghost.dev/blog/time-based-background-colour-transitions-with-temporal-and-css-color-mix/",
+    "title": "Time-based background colour transitions with Temporal and CSS color-mix"
   },
   {
     "source": "pinboard",
