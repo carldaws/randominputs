@@ -6,8 +6,18 @@
   },
   {
     "source": "hn",
+    "url": "https://intextbooks.science.uu.nl/workshop2026/files/itb26_s1s2.pdf",
+    "title": "New AI tutor achieves 0.71-1.30 SD effect size in Dartmouth course [pdf]"
+  },
+  {
+    "source": "hn",
     "url": "https://www.starringthecomputer.com/computers.html",
-    "title": "The Computers Used in Movies"
+    "title": "Starring the Computer"
+  },
+  {
+    "source": "hn",
+    "url": "https://blog.flipper.net/future-of-flipper-zero-development/",
+    "title": "The future of Flipper Zero development"
   },
   {
     "source": "hn",
@@ -21,38 +31,13 @@
   },
   {
     "source": "hn",
+    "url": "https://shub.club/writings/2026/july/you-need-a-webring/",
+    "title": "You need a webring"
+  },
+  {
+    "source": "hn",
     "url": "https://raymii.org/s/blog/Run_Windows_2000_for_Dec_Alpha_on_a_new_es40_fork.html",
     "title": "Run Windows 2000 on a DEC Alpha with a new es40 fork"
-  },
-  {
-    "source": "hn",
-    "url": "https://airplaneboneyards.com/airplane-boneyards-list-and-map.htm",
-    "title": "Airplane Boneyards List and Map"
-  },
-  {
-    "source": "hn",
-    "url": "https://unsung.aresluna.org/if-youre-a-button-you-have-one-job/",
-    "title": "If you're a button, you have one job"
-  },
-  {
-    "source": "hn",
-    "url": "https://ui.shadcn.com/docs/changelog",
-    "title": "Shadcn/UI now defaults to Base UI instead of Radix"
-  },
-  {
-    "source": "hn",
-    "url": "https://pluralistic.net/2026/06/27/zuckerstreisand-2/#autodisparagement",
-    "title": "Zuckerberg's Increasingly Bizarre War on Whistleblowers"
-  },
-  {
-    "source": "hn",
-    "url": "https://rayfish.xyz/blog/01-introducing-rayfish",
-    "title": "Rayfish, Peer-to-peer mesh VPN with no server to trust"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.diva-portal.org/smash/get/diva2:2052282/FULLTEXT01.pdf",
-    "title": "The GNU Emacs Architecture: Unlocking the Core [pdf]"
   },
   {
     "source": "hn",
@@ -61,13 +46,28 @@
   },
   {
     "source": "hn",
-    "url": "https://pandoc.org/lua-filters.html",
-    "title": "Pandoc Lua Filters"
+    "url": "https://tekstien-marginaalien-keskus.aalto.fi/residenssi/heikki/blog/004-december-2/",
+    "title": "Mr. Baby Paint and accidentally discovering a new cellular automata"
   },
   {
     "source": "hn",
-    "url": "https://craigmod.com/essays/fast_software/",
-    "title": "Fast Software, the Best Software (2019)"
+    "url": "https://airplaneboneyards.com/airplane-boneyards-list-and-map.htm",
+    "title": "Airplane Boneyards List and Map"
+  },
+  {
+    "source": "hn",
+    "url": "https://en.wikipedia.org/wiki/Small_penis_rule",
+    "title": "Small Penis Rule"
+  },
+  {
+    "source": "hn",
+    "url": "https://ui.shadcn.com/docs/changelog",
+    "title": "Shadcn/UI now defaults to Base UI instead of Radix"
+  },
+  {
+    "source": "hn",
+    "url": "https://observer.co.uk/style/features/article/every-postcard-tells-a-story",
+    "title": "Every postcard tells a story"
   },
   {
     "source": "hn",
@@ -76,13 +76,28 @@
   },
   {
     "source": "hn",
-    "url": "https://www.wsj.com/lifestyle/relationships/living-with-parents-finances-0c35530c",
-    "title": "Moving Back Home Used to Be a Sign of Failure. Now It Shows Financial Savvy"
+    "url": "https://www.diva-portal.org/smash/get/diva2:2052282/FULLTEXT01.pdf",
+    "title": "The GNU Emacs Architecture: Unlocking the Core [pdf]"
   },
   {
     "source": "hn",
-    "url": "https://computer.rip/2026-07-04-microwave-and-power.html",
-    "title": "Megawatts by Microwave"
+    "url": "https://pandoc.org/lua-filters.html",
+    "title": "Pandoc Lua Filters"
+  },
+  {
+    "source": "hn",
+    "url": "https://sigfrid-lundberg.se/entries/2010/07/hate_xml/",
+    "title": "Do you hate XML? (2010)"
+  },
+  {
+    "source": "hn",
+    "url": "https://rayfish.xyz/blog/01-introducing-rayfish",
+    "title": "Rayfish, Peer-to-peer mesh VPN with no server to trust"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://unsung.aresluna.org/if-youre-a-button-you-have-one-job/",
+    "title": "If you’re a button, you have one job"
   },
   {
     "source": "lobsters",
@@ -106,8 +121,18 @@
   },
   {
     "source": "lobsters",
+    "url": "https://blog.dureuill.net/articles/wip/",
+    "title": "Work In Progress Rust"
+  },
+  {
+    "source": "lobsters",
     "url": "https://gracefulliberty.com/notes/scheme-is-a-hoot/",
     "title": "Scheme is a Hoot"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://thoughts.hmmz.org/2026-07-05.html",
+    "title": "Embedding information in disorder"
   },
   {
     "source": "lobsters",
@@ -121,28 +146,18 @@
   },
   {
     "source": "lobsters",
-    "url": "https://blog.dureuill.net/articles/wip/",
-    "title": "Work In Progress Rust"
-  },
-  {
-    "source": "lobsters",
     "url": "https://vstinner.github.io/pep-814-add-frozendict-builtin-type.html",
     "title": "PEP 814: Add frozendict built-in type"
   },
   {
     "source": "lobsters",
+    "url": "https://localghost.dev/blog/time-based-background-colour-transitions-with-temporal-and-css-color-mix/",
+    "title": "Time-based background colour transitions with Temporal and CSS color-mix"
+  },
+  {
+    "source": "lobsters",
     "url": "https://blog.pspaul.de/posts/bench-press-leaking-text-nodes-with-css/",
     "title": "Bench Press: Leaking Text Nodes with CSS"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://arcanenibble.com/how-to-call-linux-code-from-a-wine-process.html",
-    "title": "How to call Linux code from a Wine process"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://www.endbasic.dev/2026/07/endbasic-0.14.html",
-    "title": "EndBASIC 0.14: Are we multimedia yet?"
   },
   {
     "source": "pinboard",
