@@ -1,6 +1,21 @@
 [
   {
     "source": "hn",
+    "url": "https://www.comaps.app/",
+    "title": "CoMaps – FOSS Offline Maps"
+  },
+  {
+    "source": "hn",
+    "url": "https://cakehonolulu.github.io/linux-for-jaguar/",
+    "title": "Linux on the Atari Jaguar"
+  },
+  {
+    "source": "hn",
+    "url": "https://stevekrouse.com/learn-to-code",
+    "title": "Learning to code is still worthwhile"
+  },
+  {
+    "source": "hn",
     "url": "https://news.xbox.com/en-us/2026/07/06/resetting-xbox/",
     "title": "Resetting Xbox"
   },
@@ -11,18 +26,13 @@
   },
   {
     "source": "hn",
-    "url": "https://cakehonolulu.github.io/linux-for-jaguar/",
-    "title": "Linux on the Atari Jaguar. No, really."
-  },
-  {
-    "source": "hn",
     "url": "https://elm-lang.org/news/faster-builds",
     "title": "Road to Elm 1.0"
   },
   {
     "source": "hn",
-    "url": "https://johnjeffers.com/pros-and-cons-of-solo-development/",
-    "title": "Pros and Cons of Solo Development"
+    "url": "https://en.wikipedia.org/wiki/Rotman_lens",
+    "title": "Rotman Lens"
   },
   {
     "source": "hn",
@@ -31,13 +41,13 @@
   },
   {
     "source": "hn",
-    "url": "https://clojure.org/news/2026/07/02/clojure-1-13-alpha1",
-    "title": "Clojure 1.13 adds support for checked keys"
+    "url": "https://janilowski.pl/en/blog/2026/price-per-m-tokens/",
+    "title": "Price per 1M tokens is meaningless"
   },
   {
     "source": "hn",
-    "url": "https://andonlabs.com/blog/fable5-vending-bench",
-    "title": "Fable 5 On Vending-Bench: Misbehaving, With Plausible Deniability"
+    "url": "https://clojure.org/news/2026/07/02/clojure-1-13-alpha1",
+    "title": "Clojure 1.13 adds support for checked keys"
   },
   {
     "source": "hn",
@@ -46,13 +56,13 @@
   },
   {
     "source": "hn",
-    "url": "https://deepsystemstuff.com/how-oracles-secret-column-sorting-technique-became-public-after-its-patent-expired-making-sorting-5x-faster/",
-    "title": "Orasort: 5x faster column-sorting with an expired patent from Oracle"
+    "url": "https://andonlabs.com/blog/fable5-vending-bench",
+    "title": "Fable 5 On Vending-Bench: Misbehaving, With Plausible Deniability"
   },
   {
     "source": "hn",
-    "url": "https://www.uncommonapps.nyc/p/castro-podcasts-things-i-got-wrong-support",
-    "title": "Building relationships with customers through support didn't turn out as hoped"
+    "url": "https://johnjeffers.com/pros-and-cons-of-solo-development/",
+    "title": "Pros and Cons of Solo Development"
   },
   {
     "source": "hn",
@@ -73,6 +83,11 @@
     "source": "lobsters",
     "url": "https://rapha.land/jam-programming-language/",
     "title": "Jam Programming Language"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://martinalderson.com/posts/the-upcoming-ai-margin-collapse-part-1-glm-5-2/",
+    "title": "GLM 5.2 and the coming AI margin collapse"
   },
   {
     "source": "lobsters",
@@ -106,8 +121,18 @@
   },
   {
     "source": "lobsters",
+    "url": "https://postgresisenough.dev",
+    "title": "Postgres Is Enough"
+  },
+  {
+    "source": "lobsters",
     "url": "https://rayfish.xyz/blog/01-introducing-rayfish",
     "title": "Rayfish - P2P VPN built on top of Iroh"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://shomy.is-a.dev/blog/article/unlocking-kyocera-ky42c",
+    "title": "Hacking the Kyocera KY-42C"
   },
   {
     "source": "lobsters",
@@ -126,28 +151,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://postgresisenough.dev",
-    "title": "Postgres Is Enough"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://jtjlehi.github.io/2026/06/25/novel-rust-error-handling.html",
-    "title": "A Novel Look at Error Handling in Rust"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://stillthinking.net/posts/connections-in-math-two-kinds-of-random/",
-    "title": "Connections in Math: the two kinds of random"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://gracefulliberty.com/articles/return-to-zig/",
-    "title": "Returning to Zig"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://amenzwa.github.io/stem/PL/FortranModernisation/",
-    "title": "Forlorn Hope of Fortran Modernisation"
+    "url": "https://ian.sh/frontgate",
+    "title": "Backstage access: an unauthenticated SQL injection in Front Gate Tickets"
   },
   {
     "source": "pinboard",
