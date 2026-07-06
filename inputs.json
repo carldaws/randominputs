@@ -26,38 +26,8 @@
   },
   {
     "source": "hn",
-    "url": "https://popcar.bearblog.dev/its-about-ownership/",
-    "title": "It's not about physical vs. digital games, it's about ownership"
-  },
-  {
-    "source": "hn",
-    "url": "https://stillthinking.net/posts/connections-in-math-two-kinds-of-random/",
-    "title": "Connections in Math: the two kinds of random"
-  },
-  {
-    "source": "hn",
-    "url": "https://blog.flipper.net/future-of-flipper-zero-development/",
-    "title": "The future of Flipper Zero development"
-  },
-  {
-    "source": "hn",
-    "url": "https://intextbooks.science.uu.nl/workshop2026/files/itb26_s1s2.pdf",
-    "title": "New AI tutor achieves 0.71-1.30 SD effect size in Dartmouth course [pdf]"
-  },
-  {
-    "source": "hn",
-    "url": "https://sneakerweb.org/",
-    "title": "The Sneakerweb"
-  },
-  {
-    "source": "hn",
-    "url": "https://nicole.express/2026/phase-altering-by-line.html",
-    "title": "Composite Video on the NES: Why's it so wobbly?"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.starringthecomputer.com/computers.html",
-    "title": "Starring the Computer"
+    "url": "https://geastack.com/blog-the-age-of-personalized-hardware-is-coming",
+    "title": "The Age of Personalized Hardware Is Coming"
   },
   {
     "source": "hn",
@@ -66,8 +36,38 @@
   },
   {
     "source": "hn",
+    "url": "https://www.starringthecomputer.com/computers.html",
+    "title": "Starring the Computer"
+  },
+  {
+    "source": "hn",
+    "url": "https://blog.flipper.net/future-of-flipper-zero-development/",
+    "title": "The future of Flipper Zero development"
+  },
+  {
+    "source": "hn",
     "url": "https://www.nbcchicago.com/news/local/delta-flight-hit-by-firework-while-landing-at-midway-airport-on-fourth-of-july/3957451/",
     "title": "Delta flight hit by firework while landing at Midway Airport on Fourth of July"
+  },
+  {
+    "source": "hn",
+    "url": "https://intextbooks.science.uu.nl/workshop2026/files/itb26_s1s2.pdf",
+    "title": "New AI tutor achieves 0.71-1.30 SD effect size in Dartmouth course [pdf]"
+  },
+  {
+    "source": "hn",
+    "url": "https://popcar.bearblog.dev/its-about-ownership/",
+    "title": "It's not about physical vs. digital games, it's about ownership"
+  },
+  {
+    "source": "hn",
+    "url": "https://freshsources.com/code-capsules/test-part2/",
+    "title": "Modernizing a 25-year-old minimal C++ unit testing framework (Part 2)"
+  },
+  {
+    "source": "hn",
+    "url": "https://nicole.express/2026/phase-altering-by-line.html",
+    "title": "Composite Video on the NES: Why's it so wobbly?"
   },
   {
     "source": "hn",
@@ -76,23 +76,33 @@
   },
   {
     "source": "hn",
-    "url": "https://bambamramfan.github.io/ai-compass/",
-    "title": "The AI Compass Quiz"
+    "url": "https://en.wikipedia.org/wiki/Platonic_hydrocarbon",
+    "title": "Platonic Hydrocarbons"
   },
   {
     "source": "hn",
-    "url": "https://www.arp242.net/deps-vcs.html",
-    "title": "Dependencies should be fetched directly from VCS"
+    "url": "https://stillthinking.net/posts/connections-in-math-two-kinds-of-random/",
+    "title": "Connections in Math: the two kinds of random"
   },
   {
     "source": "hn",
-    "url": "https://amenzwa.github.io/stem/PL/FortranModernisation/",
-    "title": "A Forlorn Hope of Fortran Modernisation"
+    "url": "https://sneakerweb.org/",
+    "title": "The Sneakerweb"
   },
   {
     "source": "hn",
-    "url": "https://dthain.github.io/books/compiler/",
-    "title": "Introduction to Compilers and Language Design (2021)"
+    "url": "https://qount25.dev/Shrimple/",
+    "title": "Shrimple – A Simpler, Nicer Markdown"
+  },
+  {
+    "source": "hn",
+    "url": "https://shub.club/writings/2026/july/you-need-a-webring/",
+    "title": "You need a webring"
+  },
+  {
+    "source": "hn",
+    "url": "https://shankhan3.gumroad.com/l/dnwmtp",
+    "title": "Show HN: I wrote a Rust book ending with a Redis clone"
   },
   {
     "source": "hn",
@@ -121,18 +131,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://lucumr.pocoo.org/2026/7/4/better-models-worse-tools/",
-    "title": "Better Models: Worse Tools"
-  },
-  {
-    "source": "lobsters",
     "url": "https://thoughts.hmmz.org/2026-07-05.html",
     "title": "Embedding information in disorder"
   },
   {
     "source": "lobsters",
-    "url": "https://thomasw.dev/post/aux11/",
-    "title": "Installing A/UX 1.1 like it’s the 90s"
+    "url": "https://lucumr.pocoo.org/2026/7/4/better-models-worse-tools/",
+    "title": "Better Models: Worse Tools"
   },
   {
     "source": "lobsters",
@@ -141,28 +146,28 @@
   },
   {
     "source": "lobsters",
-    "url": "https://blog.tymscar.com/posts/crinklecranklewalls/",
-    "title": "Do Wavy Walls Really Use Fewer Bricks? I Tested It in Blender"
+    "url": "https://caolan.uk/notes/2026-07-02_a_speed_limit_for_computers.cm",
+    "title": "A Speed Limit for Computers"
   },
   {
     "source": "lobsters",
-    "url": "https://olliewilliams.xyz/blog/dark-mode/",
-    "title": "Dark mode with web standards"
+    "url": "https://thomasw.dev/post/aux11/",
+    "title": "Installing A/UX 1.1 like it’s the 90s"
   },
   {
     "source": "lobsters",
-    "url": "https://gracefulliberty.com/notes/scheme-is-a-hoot/",
-    "title": "Scheme is a Hoot"
+    "url": "https://amenzwa.github.io/stem/PL/FortranModernisation/",
+    "title": "Forlorn Hope of Fortran Modernisation"
   },
   {
     "source": "lobsters",
-    "url": "https://immich.app/blog/v3.0.0-release",
-    "title": "Immich v3.0.0 Released"
+    "url": "https://www.arp242.net/deps-vcs.html",
+    "title": "Dependencies should be fetched directly from VCS"
   },
   {
     "source": "lobsters",
-    "url": "https://vstinner.github.io/pep-814-add-frozendict-builtin-type.html",
-    "title": "PEP 814: Add frozendict built-in type"
+    "url": "https://charap.co/metastability-in-recovery-cascading-recovery-with-a-loop/",
+    "title": "Metastability in Recovery: Cascading Recovery with a Loop"
   },
   {
     "source": "lobsters",
@@ -171,33 +176,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://ratfactor.com/cards/personal-website",
-    "title": "What should a personal website be?"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://freegraphpaper.net/",
-    "title": "Free Printable Graph Paper & Custom Graph Paper Maker · FreeGraphPaper"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://pradyuprasad.com/writings/how-to-ask-for-help/",
-    "title": "How to ask for help"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://math.ucr.edu/home/baez/act_course/index.html",
-    "title": "Applied Category Theory Course"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://goodnameforablog.com/posts/very-average-prototypes/",
-    "title": "Very Average Prototypes - Good Name For A Blog"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://blog.demofox.org/2026/07/01/what-to-learn-to-be-a-graphics-programmer/",
-    "title": "What To Learn To Be A Real Time Graphics Programmer « The blog at the bottom of the sea"
+    "url": "https://olliewilliams.xyz/blog/dark-mode/",
+    "title": "Dark mode with web standards"
   },
   {
     "source": "pinboard",
@@ -206,33 +186,18 @@
   },
   {
     "source": "pinboard",
-    "url": "https://wangcong.org/2026-06-30-why-i-stopped-arguing-with-people.html",
-    "title": "Why I Stopped Arguing With People | A Geek’s Page"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.zerofs.net/",
-    "title": "ZeroFS"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://stefan.schueller.net/posts/the-free-market-lie/",
-    "title": "The Free Market Lie: Why Switzerland Has 25 Gbit Internet and America Doesn't - Stefan Schüller"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://vimscoops.dev/",
-    "title": "Vim Scoops, Learn Vim Motions the Fun Way"
-  },
-  {
-    "source": "pinboard",
     "url": "https://phenomenalworld.org/analysis/the-anti-amazon/",
     "title": "The Anti-Amazon - Benjamin Y. Fong"
   },
   {
     "source": "pinboard",
-    "url": "https://interconnected.org/home/2026/07/03/factories",
-    "title": "Factories are just rooms (Interconnected)"
+    "url": "https://goodnameforablog.com/posts/very-average-prototypes/",
+    "title": "Very Average Prototypes - Good Name For A Blog"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://math.ucr.edu/home/baez/act_course/index.html",
+    "title": "Applied Category Theory Course"
   },
   {
     "source": "pinboard",
@@ -241,17 +206,62 @@
   },
   {
     "source": "pinboard",
-    "url": "https://www.dbos.dev/blog/co-locating-workflow-state-with-your-data",
-    "title": "The Case for Co-Locating Workflow State with Your Data | DBOS"
+    "url": "https://smolmachines.com/",
+    "title": "smol machines"
   },
   {
     "source": "pinboard",
-    "url": "https://www.sourcetype.com/store/51534/dictionary-of-the-illegible",
-    "title": "Dictionary of the Illegible - Source Type: Store - Source Type"
+    "url": "https://www.geoffreylitt.com/2026/07/02/understanding-is-the-new-bottleneck.html",
+    "title": "Understanding is the new bottleneck"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://futurism.com/future-society/college-critical-thinking-ai",
+    "title": "Bosses Horrified as \"AI Native\" College Graduates Hit the Workplace"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://interconnected.org/home/2026/07/03/factories",
+    "title": "Factories are just rooms (Interconnected)"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://freegraphpaper.net/",
+    "title": "Free Printable Graph Paper & Custom Graph Paper Maker · FreeGraphPaper"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://wordgard.net/",
+    "title": "Wordgard"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://dthain.github.io/books/compiler/",
+    "title": "Introduction to Compilers and Language Design | Prof. Douglas Thain at Notre Dame"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://withmarble.com/",
+    "title": "Marble: the interactive learning world for curious kids, ages 6-12"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.marginalia.nu/log/a_135_learn/",
+    "title": "Maybe you should learn something | marginalia.nu"
   },
   {
     "source": "pinboard",
     "url": "https://daringfireball.net/2026/07/claudes_criminally_bad_mac_app_is_an_inside_job",
     "title": "Daring Fireball: Claude’s Criminally Bad Electron Mac App Is an Inside Job"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://qr.jim.sh/",
+    "title": "Jim's TrueType QR Code Font"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://stefan.schueller.net/posts/the-free-market-lie/",
+    "title": "The Free Market Lie: Why Switzerland Has 25 Gbit Internet and America Doesn't - Stefan Schüller"
   }
 ]
