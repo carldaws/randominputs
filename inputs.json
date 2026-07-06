@@ -1,13 +1,33 @@
 [
   {
     "source": "hn",
+    "url": "https://news.xbox.com/en-us/2026/07/06/resetting-xbox/",
+    "title": "Resetting Xbox"
+  },
+  {
+    "source": "hn",
     "url": "https://dernocua.github.io/notes/aluminum-foil.html",
     "title": "Aluminum foil (2021)"
   },
   {
     "source": "hn",
+    "url": "https://cakehonolulu.github.io/linux-for-jaguar/",
+    "title": "Linux on the Atari Jaguar. No, really."
+  },
+  {
+    "source": "hn",
     "url": "https://elm-lang.org/news/faster-builds",
     "title": "Road to Elm 1.0"
+  },
+  {
+    "source": "hn",
+    "url": "https://johnjeffers.com/pros-and-cons-of-solo-development/",
+    "title": "Pros and Cons of Solo Development"
+  },
+  {
+    "source": "hn",
+    "url": "https://usefeyn.com/blog/pulpie-pareto-optimal-models-for-cleaning-the-web/",
+    "title": "Show HN: Pulpie – Models for Cleaning the Web"
   },
   {
     "source": "hn",
@@ -21,33 +41,23 @@
   },
   {
     "source": "hn",
-    "url": "https://usefeyn.com/blog/pulpie-pareto-optimal-models-for-cleaning-the-web/",
-    "title": "Show HN: Pulpie – Models for Cleaning the Web"
-  },
-  {
-    "source": "hn",
-    "url": "https://news.xbox.com/en-us/2026/07/06/resetting-xbox/",
-    "title": "Resetting Xbox"
-  },
-  {
-    "source": "hn",
     "url": "https://learngenomics.dev/docs/biological-foundations/cells-genomes-dna-chromosomes/",
     "title": "Introduction to Genomics for Engineers"
   },
   {
     "source": "hn",
-    "url": "https://fens2026.abstractserver.com/program/#/details/presentations/5474",
-    "title": "Multilingual experience linked to delayed aging"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.nintendo.com/en-gb/Support/Nintendo-Switch-2/Information-about-upcoming-battery-related-revisions-to-some-Nintendo-products-3132901.html",
-    "title": "Nintendo announces new product revisions in Europe with replaceable batteries"
+    "url": "https://deepsystemstuff.com/how-oracles-secret-column-sorting-technique-became-public-after-its-patent-expired-making-sorting-5x-faster/",
+    "title": "Orasort: 5x faster column-sorting with an expired patent from Oracle"
   },
   {
     "source": "hn",
     "url": "https://www.uncommonapps.nyc/p/castro-podcasts-things-i-got-wrong-support",
     "title": "Building relationships with customers through support didn't turn out as hoped"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.nintendo.com/en-gb/Support/Nintendo-Switch-2/Information-about-upcoming-battery-related-revisions-to-some-Nintendo-products-3132901.html",
+    "title": "Nintendo announces new product revisions in Europe with replaceable batteries"
   },
   {
     "source": "lobsters",
@@ -56,23 +66,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://rapha.land/jam-programming-language/",
-    "title": "Jam Programming Language"
-  },
-  {
-    "source": "lobsters",
     "url": "https://sneakerweb.org/",
     "title": "sneakerweb"
   },
   {
     "source": "lobsters",
-    "url": "https://tekstien-marginaalien-keskus.aalto.fi/residenssi/heikki/blog/004-december-2/",
-    "title": "Mr. Baby Paint & accidentally discovering a new cellular automata"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://blog.dureuill.net/articles/wip/",
-    "title": "Work In Progress Rust"
+    "url": "https://rapha.land/jam-programming-language/",
+    "title": "Jam Programming Language"
   },
   {
     "source": "lobsters",
@@ -86,8 +86,18 @@
   },
   {
     "source": "lobsters",
+    "url": "https://tekstien-marginaalien-keskus.aalto.fi/residenssi/heikki/blog/004-december-2/",
+    "title": "Mr. Baby Paint & accidentally discovering a new cellular automata"
+  },
+  {
+    "source": "lobsters",
     "url": "https://openwebdocs.org/content/posts/security-docs-sovereign-tech-agency/",
     "title": "Web Security docs on MDN"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://blog.dureuill.net/articles/wip/",
+    "title": "Work In Progress Rust"
   },
   {
     "source": "lobsters",
@@ -116,28 +126,28 @@
   },
   {
     "source": "lobsters",
+    "url": "https://postgresisenough.dev",
+    "title": "Postgres Is Enough"
+  },
+  {
+    "source": "lobsters",
     "url": "https://jtjlehi.github.io/2026/06/25/novel-rust-error-handling.html",
     "title": "A Novel Look at Error Handling in Rust"
   },
   {
     "source": "lobsters",
-    "url": "https://amenzwa.github.io/stem/PL/FortranModernisation/",
-    "title": "Forlorn Hope of Fortran Modernisation"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://raymii.org/s/blog/Run_Windows_2000_for_Dec_Alpha_on_a_new_es40_fork.html",
-    "title": "Run Windows 2000 on a DEC Alpha with a new es40 fork"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://ian.sh/frontgate",
-    "title": "Backstage access: an unauthenticated SQL injection in Front Gate Tickets"
+    "url": "https://stillthinking.net/posts/connections-in-math-two-kinds-of-random/",
+    "title": "Connections in Math: the two kinds of random"
   },
   {
     "source": "lobsters",
     "url": "https://gracefulliberty.com/articles/return-to-zig/",
     "title": "Returning to Zig"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://amenzwa.github.io/stem/PL/FortranModernisation/",
+    "title": "Forlorn Hope of Fortran Modernisation"
   },
   {
     "source": "pinboard",
