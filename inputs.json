@@ -1,13 +1,8 @@
 [
   {
     "source": "hn",
-    "url": "https://blog.cloudflare.com/workers-cache/",
-    "title": "Workers Cache"
-  },
-  {
-    "source": "hn",
     "url": "https://dernocua.github.io/notes/aluminum-foil.html",
-    "title": "Aluminum Foil (2021)"
+    "title": "Aluminum foil (2021)"
   },
   {
     "source": "hn",
@@ -16,18 +11,23 @@
   },
   {
     "source": "hn",
+    "url": "https://clojure.org/news/2026/07/02/clojure-1-13-alpha1",
+    "title": "Clojure 1.13 adds support for checked keys"
+  },
+  {
+    "source": "hn",
     "url": "https://andonlabs.com/blog/fable5-vending-bench",
     "title": "Fable 5 On Vending-Bench: Misbehaving, With Plausible Deniability"
   },
   {
     "source": "hn",
-    "url": "https://www.nintendo.com/en-gb/Support/Nintendo-Switch-2/Information-about-upcoming-battery-related-revisions-to-some-Nintendo-products-3132901.html",
-    "title": "Nintendo announces new product revisions in Europe with replaceable batteries"
+    "url": "https://usefeyn.com/blog/pulpie-pareto-optimal-models-for-cleaning-the-web/",
+    "title": "Show HN: Pulpie – Models for Cleaning the Web"
   },
   {
     "source": "hn",
-    "url": "https://clojure.org/news/2026/07/02/clojure-1-13-alpha1",
-    "title": "Clojure 1.13 adds support for checked keys"
+    "url": "https://news.xbox.com/en-us/2026/07/06/resetting-xbox/",
+    "title": "Resetting Xbox"
   },
   {
     "source": "hn",
@@ -36,43 +36,18 @@
   },
   {
     "source": "hn",
-    "url": "https://www.404media.co/footage-shows-cop-stalking-woman-he-met-on-a-tv-set-after-surveilling-her-with-a-license-plate-reader/",
-    "title": "Footage Shows Cop Stalking Woman After Surveilling Her with a LPR"
+    "url": "https://fens2026.abstractserver.com/program/#/details/presentations/5474",
+    "title": "Multilingual experience linked to delayed aging"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.nintendo.com/en-gb/Support/Nintendo-Switch-2/Information-about-upcoming-battery-related-revisions-to-some-Nintendo-products-3132901.html",
+    "title": "Nintendo announces new product revisions in Europe with replaceable batteries"
   },
   {
     "source": "hn",
     "url": "https://www.uncommonapps.nyc/p/castro-podcasts-things-i-got-wrong-support",
     "title": "Building relationships with customers through support didn't turn out as hoped"
-  },
-  {
-    "source": "hn",
-    "url": "https://iamwillwang.com/notes/has-not-been-viewed-much/",
-    "title": "Has_not_been_viewed_much"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.theregister.com/offbeat/2026/07/05/c-programmers-commit-fresh-crimes-against-readability/5265981",
-    "title": "C programmers commit fresh crimes against readability"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.wsj.com/world/europe/european-rupture-with-america-e3a9bb3c",
-    "title": "'There Is No Going Back': The Inside Story of Europe's Rupture with America"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.opentools.studio/",
-    "title": "OpenPrinter"
-  },
-  {
-    "source": "hn",
-    "url": "https://shtein.me/posts/x402-poc/",
-    "title": "X402, a static blog monetization excercise"
-  },
-  {
-    "source": "hn",
-    "url": "https://homegames.io",
-    "title": "Show HN: Homegames. An open-source game platform I've been making for 8 years"
   },
   {
     "source": "lobsters",
@@ -91,13 +66,33 @@
   },
   {
     "source": "lobsters",
+    "url": "https://tekstien-marginaalien-keskus.aalto.fi/residenssi/heikki/blog/004-december-2/",
+    "title": "Mr. Baby Paint & accidentally discovering a new cellular automata"
+  },
+  {
+    "source": "lobsters",
     "url": "https://blog.dureuill.net/articles/wip/",
     "title": "Work In Progress Rust"
   },
   {
     "source": "lobsters",
+    "url": "https://blog.gradle.org/the-petty-reason-we-didnt-end-up-using-jj-at-gradle",
+    "title": "The (Petty) Reason We Didn't End Up Using jj"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://bruceediger.com/posts/git-config-spider/",
+    "title": "Caught a .git/config crawler"
+  },
+  {
+    "source": "lobsters",
     "url": "https://openwebdocs.org/content/posts/security-docs-sovereign-tech-agency/",
     "title": "Web Security docs on MDN"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://tangled.org/tsiry-sandratraina.com/fin",
+    "title": "fin: a Jellyfin & Subsonic client for the terminal"
   },
   {
     "source": "lobsters",
@@ -111,18 +106,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://tekstien-marginaalien-keskus.aalto.fi/residenssi/heikki/blog/004-december-2/",
-    "title": "Mr. Baby Paint & accidentally discovering a new cellular automata"
-  },
-  {
-    "source": "lobsters",
     "url": "https://thoughts.hmmz.org/2026-07-05.html",
     "title": "Embedding information in disorder"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://tangled.org/tsiry-sandratraina.com/fin",
-    "title": "fin: a Jellyfin & Subsonic client for the terminal"
   },
   {
     "source": "lobsters",
@@ -136,8 +121,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://bruceediger.com/posts/git-config-spider/",
-    "title": "Caught a .git/config crawler"
+    "url": "https://amenzwa.github.io/stem/PL/FortranModernisation/",
+    "title": "Forlorn Hope of Fortran Modernisation"
   },
   {
     "source": "lobsters",
@@ -146,22 +131,107 @@
   },
   {
     "source": "lobsters",
+    "url": "https://ian.sh/frontgate",
+    "title": "Backstage access: an unauthenticated SQL injection in Front Gate Tickets"
+  },
+  {
+    "source": "lobsters",
     "url": "https://gracefulliberty.com/articles/return-to-zig/",
     "title": "Returning to Zig"
   },
   {
-    "source": "lobsters",
-    "url": "https://amenzwa.github.io/stem/PL/FortranModernisation/",
-    "title": "Forlorn Hope of Fortran Modernisation"
+    "source": "pinboard",
+    "url": "https://iahmed.me/post/drone-physics/",
+    "title": "Drone physics"
   },
   {
-    "source": "lobsters",
-    "url": "https://lucumr.pocoo.org/2026/7/4/better-models-worse-tools/",
-    "title": "Better Models: Worse Tools"
+    "source": "pinboard",
+    "url": "https://phenomenalworld.org/analysis/the-anti-amazon/",
+    "title": "The Anti-Amazon - Benjamin Y. Fong"
   },
   {
-    "source": "lobsters",
-    "url": "https://thomasw.dev/post/aux11/",
-    "title": "Installing A/UX 1.1 like it’s the 90s"
+    "source": "pinboard",
+    "url": "https://goodnameforablog.com/posts/very-average-prototypes/",
+    "title": "Very Average Prototypes - Good Name For A Blog"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://math.ucr.edu/home/baez/act_course/index.html",
+    "title": "Applied Category Theory Course"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://blog.mikebowler.ca/2026/07/03/co2-and-decision-making/",
+    "title": "The bottleneck might be the air in the room | Mike Bowler"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://smolmachines.com/",
+    "title": "smol machines"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.geoffreylitt.com/2026/07/02/understanding-is-the-new-bottleneck.html",
+    "title": "Understanding is the new bottleneck"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://futurism.com/future-society/college-critical-thinking-ai",
+    "title": "Bosses Horrified as \"AI Native\" College Graduates Hit the Workplace"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://interconnected.org/home/2026/07/03/factories",
+    "title": "Factories are just rooms (Interconnected)"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://freegraphpaper.net/",
+    "title": "Free Printable Graph Paper & Custom Graph Paper Maker · FreeGraphPaper"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://wordgard.net/",
+    "title": "Wordgard"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://dthain.github.io/books/compiler/",
+    "title": "Introduction to Compilers and Language Design | Prof. Douglas Thain at Notre Dame"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.opentools.studio/",
+    "title": "OpenTools / OpenPrinter"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://withmarble.com/",
+    "title": "Marble: the interactive learning world for curious kids, ages 6-12"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.marginalia.nu/log/a_135_learn/",
+    "title": "Maybe you should learn something | marginalia.nu"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://daringfireball.net/2026/07/claudes_criminally_bad_mac_app_is_an_inside_job",
+    "title": "Daring Fireball: Claude’s Criminally Bad Electron Mac App Is an Inside Job"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://qr.jim.sh/",
+    "title": "Jim's TrueType QR Code Font"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://stefan.schueller.net/posts/the-free-market-lie/",
+    "title": "The Free Market Lie: Why Switzerland Has 25 Gbit Internet and America Doesn't - Stefan Schüller"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.starringthecomputer.com/computers.html",
+    "title": "Starring the Computer"
   }
 ]
