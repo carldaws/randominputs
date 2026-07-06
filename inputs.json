@@ -6,6 +6,11 @@
   },
   {
     "source": "hn",
+    "url": "https://iamwillwang.com/notes/has-not-been-viewed-much/",
+    "title": "Has_not_been_viewed_much"
+  },
+  {
+    "source": "hn",
     "url": "https://organicmaps.app/",
     "title": "Organic Maps"
   },
@@ -16,33 +21,8 @@
   },
   {
     "source": "hn",
-    "url": "https://intextbooks.science.uu.nl/workshop2026/files/itb26_s1s2.pdf",
-    "title": "New AI tutor achieves 0.71-1.30 SD effect size in Dartmouth course [pdf]"
-  },
-  {
-    "source": "hn",
-    "url": "https://blog.flipper.net/future-of-flipper-zero-development/",
-    "title": "The future of Flipper Zero development"
-  },
-  {
-    "source": "hn",
-    "url": "https://tekstien-marginaalien-keskus.aalto.fi/residenssi/heikki/blog/004-december-2/",
-    "title": "Mr. Baby Paint and accidentally discovering a new cellular automata"
-  },
-  {
-    "source": "hn",
-    "url": "https://segflow.github.io/post/zero-copy-sendfile-splice/",
-    "title": "Zero-copy in Go: sendfile, splice, and the cost of io.Copy"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.starringthecomputer.com/computers.html",
-    "title": "Starring the Computer"
-  },
-  {
-    "source": "hn",
-    "url": "https://stillthinking.net/posts/connections-in-math-two-kinds-of-random/",
-    "title": "Connections in Math: the two kinds of random"
+    "url": "https://notesbylex.com/completing-a-computer-science-degree-on-coursera",
+    "title": "Completing a computer science degree on Coursera"
   },
   {
     "source": "hn",
@@ -51,8 +31,38 @@
   },
   {
     "source": "hn",
+    "url": "https://stillthinking.net/posts/connections-in-math-two-kinds-of-random/",
+    "title": "Connections in Math: the two kinds of random"
+  },
+  {
+    "source": "hn",
+    "url": "https://blog.flipper.net/future-of-flipper-zero-development/",
+    "title": "The future of Flipper Zero development"
+  },
+  {
+    "source": "hn",
+    "url": "https://intextbooks.science.uu.nl/workshop2026/files/itb26_s1s2.pdf",
+    "title": "New AI tutor achieves 0.71-1.30 SD effect size in Dartmouth course [pdf]"
+  },
+  {
+    "source": "hn",
+    "url": "https://sneakerweb.org/",
+    "title": "The Sneakerweb"
+  },
+  {
+    "source": "hn",
     "url": "https://nicole.express/2026/phase-altering-by-line.html",
     "title": "Composite Video on the NES: Why's it so wobbly?"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.starringthecomputer.com/computers.html",
+    "title": "Starring the Computer"
+  },
+  {
+    "source": "hn",
+    "url": "https://tekstien-marginaalien-keskus.aalto.fi/residenssi/heikki/blog/004-december-2/",
+    "title": "Mr. Baby Paint and accidentally discovering a new cellular automata"
   },
   {
     "source": "hn",
@@ -66,23 +76,18 @@
   },
   {
     "source": "hn",
+    "url": "https://bambamramfan.github.io/ai-compass/",
+    "title": "The AI Compass Quiz"
+  },
+  {
+    "source": "hn",
     "url": "https://www.arp242.net/deps-vcs.html",
     "title": "Dependencies should be fetched directly from VCS"
   },
   {
     "source": "hn",
-    "url": "https://dispatch-media.com/the-best-pint-in-england/",
-    "title": "Pint in England"
-  },
-  {
-    "source": "hn",
-    "url": "https://shub.club/writings/2026/july/you-need-a-webring/",
-    "title": "You need a webring"
-  },
-  {
-    "source": "hn",
-    "url": "https://notesbylex.com/completing-a-computer-science-degree-on-coursera",
-    "title": "Completing a computer science degree on Coursera"
+    "url": "https://amenzwa.github.io/stem/PL/FortranModernisation/",
+    "title": "A Forlorn Hope of Fortran Modernisation"
   },
   {
     "source": "hn",
@@ -91,33 +96,18 @@
   },
   {
     "source": "hn",
-    "url": "https://www.scattered-thoughts.net/writing/artificial-adventures/",
-    "title": "Artificial Adventures"
-  },
-  {
-    "source": "hn",
     "url": "https://raymii.org/s/blog/Run_Windows_2000_for_Dec_Alpha_on_a_new_es40_fork.html",
     "title": "Run Windows 2000 on a DEC Alpha with a new es40 fork"
-  },
-  {
-    "source": "hn",
-    "url": "https://ahmadawais.com/the-full-stack-of-terminals-explained-terminal-shell-tty-console-posix-ansi-escapes-ptys/",
-    "title": "The full stack of terminals explained"
-  },
-  {
-    "source": "hn",
-    "url": "https://thomasw.dev/post/aux11/",
-    "title": "Installing A/UX 1.1 like it's the 90s"
-  },
-  {
-    "source": "hn",
-    "url": "https://en.wikipedia.org/wiki/Johnson_thermoelectric_energy_converter",
-    "title": "Johnson Thermoelectric Energy Converter"
   },
   {
     "source": "lobsters",
     "url": "https://unsung.aresluna.org/if-youre-a-button-you-have-one-job/",
     "title": "If you’re a button, you have one job"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://rayfish.xyz/blog/01-introducing-rayfish",
+    "title": "Rayfish - P2P VPN built on top of Iroh"
   },
   {
     "source": "lobsters",
@@ -131,11 +121,6 @@
   },
   {
     "source": "lobsters",
-    "url": "https://rayfish.xyz/blog/01-introducing-rayfish",
-    "title": "Rayfish - P2P VPN built on top of Iroh"
-  },
-  {
-    "source": "lobsters",
     "url": "https://lucumr.pocoo.org/2026/7/4/better-models-worse-tools/",
     "title": "Better Models: Worse Tools"
   },
@@ -143,6 +128,16 @@
     "source": "lobsters",
     "url": "https://thoughts.hmmz.org/2026-07-05.html",
     "title": "Embedding information in disorder"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://thomasw.dev/post/aux11/",
+    "title": "Installing A/UX 1.1 like it’s the 90s"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://jtjlehi.github.io/2026/06/25/novel-rust-error-handling.html",
+    "title": "A Novel Look at Error Handling in Rust"
   },
   {
     "source": "lobsters",
@@ -161,6 +156,11 @@
   },
   {
     "source": "lobsters",
+    "url": "https://immich.app/blog/v3.0.0-release",
+    "title": "Immich v3.0.0 Released"
+  },
+  {
+    "source": "lobsters",
     "url": "https://vstinner.github.io/pep-814-add-frozendict-builtin-type.html",
     "title": "PEP 814: Add frozendict built-in type"
   },
@@ -168,11 +168,6 @@
     "source": "lobsters",
     "url": "https://blog.pspaul.de/posts/bench-press-leaking-text-nodes-with-css/",
     "title": "Bench Press: Leaking Text Nodes with CSS"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://immich.app/blog/v3.0.0-release",
-    "title": "Immich v3.0.0 Released"
   },
   {
     "source": "lobsters",
@@ -258,10 +253,5 @@
     "source": "pinboard",
     "url": "https://daringfireball.net/2026/07/claudes_criminally_bad_mac_app_is_an_inside_job",
     "title": "Daring Fireball: Claude’s Criminally Bad Electron Mac App Is an Inside Job"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://bambamramfan.github.io/ai-compass/",
-    "title": "The AI Compass"
   }
 ]
