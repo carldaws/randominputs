@@ -6,13 +6,18 @@
   },
   {
     "source": "hn",
+    "url": "https://www.kapa.ai/blog/how-we-prune-rag-context",
+    "title": "Pruning RAG context down to what the answer actually needs"
+  },
+  {
+    "source": "hn",
     "url": "https://cakehonolulu.github.io/linux-for-jaguar/",
     "title": "Linux on the Atari Jaguar"
   },
   {
     "source": "hn",
-    "url": "https://stevekrouse.com/learn-to-code",
-    "title": "Learning to code is still worthwhile"
+    "url": "https://martinalderson.com/posts/the-upcoming-ai-margin-collapse-part-1-glm-5-2/",
+    "title": "GLM 5.2 and the coming AI margin collapse"
   },
   {
     "source": "hn",
@@ -21,13 +26,8 @@
   },
   {
     "source": "hn",
-    "url": "https://dernocua.github.io/notes/aluminum-foil.html",
-    "title": "Aluminum foil (2021)"
-  },
-  {
-    "source": "hn",
-    "url": "https://elm-lang.org/news/faster-builds",
-    "title": "Road to Elm 1.0"
+    "url": "https://www.rntz.net/post/2026-06-11-datalog-nontermination.html",
+    "title": "Evaluation order and nontermination in query languages"
   },
   {
     "source": "hn",
@@ -36,13 +36,23 @@
   },
   {
     "source": "hn",
-    "url": "https://usefeyn.com/blog/pulpie-pareto-optimal-models-for-cleaning-the-web/",
-    "title": "Show HN: Pulpie – Models for Cleaning the Web"
+    "url": "https://stevekrouse.com/learn-to-code",
+    "title": "Learning to code is still worthwhile"
   },
   {
     "source": "hn",
-    "url": "https://janilowski.pl/en/blog/2026/price-per-m-tokens/",
-    "title": "Price per 1M tokens is meaningless"
+    "url": "https://dernocua.github.io/notes/aluminum-foil.html",
+    "title": "Aluminum foil (2021)"
+  },
+  {
+    "source": "hn",
+    "url": "https://wiki.xxiivv.com/site/m_pc.html",
+    "title": "M/PC – A Concatenative OS"
+  },
+  {
+    "source": "hn",
+    "url": "https://elm-lang.org/news/faster-builds",
+    "title": "Road to Elm 1.0"
   },
   {
     "source": "hn",
@@ -51,28 +61,8 @@
   },
   {
     "source": "hn",
-    "url": "https://learngenomics.dev/docs/biological-foundations/cells-genomes-dna-chromosomes/",
-    "title": "Introduction to Genomics for Engineers"
-  },
-  {
-    "source": "hn",
-    "url": "https://andonlabs.com/blog/fable5-vending-bench",
-    "title": "Fable 5 On Vending-Bench: Misbehaving, With Plausible Deniability"
-  },
-  {
-    "source": "hn",
-    "url": "https://johnjeffers.com/pros-and-cons-of-solo-development/",
-    "title": "Pros and Cons of Solo Development"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.nintendo.com/en-gb/Support/Nintendo-Switch-2/Information-about-upcoming-battery-related-revisions-to-some-Nintendo-products-3132901.html",
-    "title": "Nintendo announces new product revisions in Europe with replaceable batteries"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://caolan.uk/notes/2026-07-02_a_speed_limit_for_computers.cm",
-    "title": "A Speed Limit for Computers"
+    "url": "https://usefeyn.com/blog/pulpie-pareto-optimal-models-for-cleaning-the-web/",
+    "title": "Show HN: Pulpie – Models for Cleaning the Web"
   },
   {
     "source": "lobsters",
@@ -81,13 +71,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://rapha.land/jam-programming-language/",
-    "title": "Jam Programming Language"
+    "url": "https://caolan.uk/notes/2026-07-02_a_speed_limit_for_computers.cm",
+    "title": "A Speed Limit for Computers"
   },
   {
     "source": "lobsters",
-    "url": "https://martinalderson.com/posts/the-upcoming-ai-margin-collapse-part-1-glm-5-2/",
-    "title": "GLM 5.2 and the coming AI margin collapse"
+    "url": "https://rapha.land/jam-programming-language/",
+    "title": "Jam Programming Language"
   },
   {
     "source": "lobsters",
@@ -96,13 +86,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://bruceediger.com/posts/git-config-spider/",
-    "title": "Caught a .git/config crawler"
+    "url": "https://tekstien-marginaalien-keskus.aalto.fi/residenssi/heikki/blog/004-december-2/",
+    "title": "Mr. Baby Paint & accidentally discovering a new cellular automata"
   },
   {
     "source": "lobsters",
-    "url": "https://tekstien-marginaalien-keskus.aalto.fi/residenssi/heikki/blog/004-december-2/",
-    "title": "Mr. Baby Paint & accidentally discovering a new cellular automata"
+    "url": "https://bruceediger.com/posts/git-config-spider/",
+    "title": "Caught a .git/config crawler"
   },
   {
     "source": "lobsters",
@@ -131,18 +121,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://shomy.is-a.dev/blog/article/unlocking-kyocera-ky42c",
-    "title": "Hacking the Kyocera KY-42C"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://unsung.aresluna.org/if-youre-a-button-you-have-one-job/",
-    "title": "If you’re a button, you have one job"
-  },
-  {
-    "source": "lobsters",
     "url": "https://thoughts.hmmz.org/2026-07-05.html",
     "title": "Embedding information in disorder"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://shomy.is-a.dev/blog/article/unlocking-kyocera-ky42c",
+    "title": "Hacking the Kyocera KY-42C"
   },
   {
     "source": "lobsters",
@@ -151,8 +136,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://ian.sh/frontgate",
-    "title": "Backstage access: an unauthenticated SQL injection in Front Gate Tickets"
+    "url": "https://unsung.aresluna.org/if-youre-a-button-you-have-one-job/",
+    "title": "If you’re a button, you have one job"
+  },
+  {
+    "source": "lobsters",
+    "url": "http://smalldatum.blogspot.com/2026/01/common-prefix-skipping-adaptive-sort.html",
+    "title": "Orasort - Common prefix skipping, adaptive sort"
   },
   {
     "source": "pinboard",
