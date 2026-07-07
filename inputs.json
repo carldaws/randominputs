@@ -1,38 +1,53 @@
 [
   {
     "source": "hn",
+    "url": "https://knockoff.shopping/",
+    "title": "Amazon without the knockoffs"
+  },
+  {
+    "source": "hn",
     "url": "https://streetcomplete.app/",
     "title": "StreetComplete: Fixing OpenStreetMap, one tiny quest at a time"
   },
   {
     "source": "hn",
-    "url": "https://whynothugo.nl/journal/2026/07/03/98-isnt-very-much/",
-    "title": "98% Isn't Much"
+    "url": "https://30papers.com/",
+    "title": "30papers.com – Ilya's 30 essential ML papers, in a beginner friendly format"
   },
   {
     "source": "hn",
-    "url": "https://better-auth.com/blog/better-auth-joins-vercel",
-    "title": "Better Auth is joining Vercel"
+    "url": "https://fightchatcontrol.eu/chat-control-overview",
+    "title": "Chat Control 1.0 and 2.0 Explained"
   },
   {
     "source": "hn",
-    "url": "https://betterthangood.xyz/blog/weighing-smoke/",
-    "title": "Weighing smoke: why AI visibility dashboards are mostly useless"
+    "url": "https://blog.zksecurity.xyz/posts/circl-bugs/",
+    "title": "AI Meets Cryptography 1: What AI Found in Cloudflare's Circl"
   },
   {
     "source": "hn",
-    "url": "https://knockoff.shopping/",
-    "title": "Amazon Without the Knockoffs"
+    "url": "https://ariya.io/2026/03/local-cpu-friendly-high-quality-tts-text-to-speech-with-kokoro/",
+    "title": "Local, CPU-Friendly, High-Quality TTS (Text-to-Speech) with Kokoro"
   },
   {
     "source": "hn",
-    "url": "https://nekrozqliphort.github.io/posts/membarrier/",
-    "title": "C++ Details of Asymmetric Fences"
+    "url": "https://pgdog.dev/blog/why-yet-another-connection-pooler",
+    "title": "Why we built yet another Postgres connection pooler"
   },
   {
     "source": "hn",
-    "url": "https://www.comaps.app/",
-    "title": "CoMaps – FOSS Offline Maps"
+    "url": "https://nyanpasu64.gitlab.io/blog/hdmi-vga-dac-audio/",
+    "title": "Fixing analog audio on the $2.58 HDMI-to-VGA adapter"
+  },
+  {
+    "source": "hn",
+    "url": "https://anthonyhobday.com/blog/20260410",
+    "title": "Notes on Software Quality"
+  },
+  {
+    "source": "hn",
+    "url": "https://astro.build/blog/astro-7/",
+    "title": "Astro 7.0"
   },
   {
     "source": "hn",
@@ -41,23 +56,28 @@
   },
   {
     "source": "hn",
-    "url": "https://bradleywoolf.com/links-1/sequencing-my-own-dna-at-home",
-    "title": "How to sequence your own DNA at home"
+    "url": "https://gamefromscratch.com/microsoft-fire-idtech-team-at-id-software/",
+    "title": "Microsoft fire idTech team at Id software"
   },
   {
     "source": "hn",
-    "url": "https://martinalderson.com/posts/the-upcoming-ai-margin-collapse-part-1-glm-5-2/",
-    "title": "GLM 5.2 and the coming AI margin collapse"
+    "url": "https://cccg.ca/proceedings/2008/paper34full.pdf",
+    "title": "Computational Balloon Twisting: The Theory of Balloon Polyhedra [pdf]"
   },
   {
     "source": "hn",
-    "url": "https://www-cs-faculty.stanford.edu/~knuth/taocp.html",
-    "title": "The Art of Computer Programming by Donald E. Knuth"
+    "url": "https://davit.app",
+    "title": "Show HN: Davit, a Apple Containers UI"
   },
   {
     "source": "hn",
-    "url": "https://www.pcmag.com/news/a-hackers-arrest-reveals-microsoft-can-track-users-via-a-windows-device",
-    "title": "Microsoft Can Track Users via a Windows Device ID"
+    "url": "https://whynothugo.nl/journal/2026/07/03/98-isnt-very-much/",
+    "title": "98% isn't much"
+  },
+  {
+    "source": "hn",
+    "url": "https://zeroed.tech/blog/decrypting-viewstate-messages/",
+    "title": "Decrypting View State Messages"
   },
   {
     "source": "lobsters",
@@ -81,11 +101,6 @@
   },
   {
     "source": "lobsters",
-    "url": "https://mijndertstuij.nl/posts/i-was-wrong-about-game-development/",
-    "title": "I was wrong about game development"
-  },
-  {
-    "source": "lobsters",
     "url": "https://www.gingerbill.org/article/2026/05/03/signed-by-default/",
     "title": "Signed Integers By Default"
   },
@@ -96,18 +111,28 @@
   },
   {
     "source": "lobsters",
+    "url": "https://mijndertstuij.nl/posts/i-was-wrong-about-game-development/",
+    "title": "I was wrong about game development"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://martinalderson.com/posts/the-upcoming-ai-margin-collapse-part-1-glm-5-2/",
+    "title": "GLM 5.2 and the coming AI margin collapse"
+  },
+  {
+    "source": "lobsters",
     "url": "https://elm-lang.org/news/faster-builds",
     "title": "Faster Builds with Elm 0.19.2"
   },
   {
     "source": "lobsters",
-    "url": "https://radicle.dev/",
-    "title": "Radicle: P2P Git Replication with Git Native Issues and Patches"
+    "url": "https://www.openssh.org/releasenotes.html#10.4",
+    "title": "OpenSSH 10.4"
   },
   {
     "source": "lobsters",
-    "url": "https://www.openssh.org/releasenotes.html#10.4",
-    "title": "OpenSSH 10.4"
+    "url": "https://radicle.dev/",
+    "title": "Radicle: P2P Git Replication with Git Native Issues and Patches"
   },
   {
     "source": "lobsters",
@@ -121,23 +146,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://blog.gradle.org/the-petty-reason-we-didnt-end-up-using-jj-at-gradle",
-    "title": "The (Petty) Reason We Didn't End Up Using jj"
-  },
-  {
-    "source": "lobsters",
     "url": "https://www.star-history.com/blog/github-stargazer-api-restriction",
     "title": "GitHub Has Restricted Access to Star Data"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://blog.andr2i.com/posts/2026-07-06-eliminating-go-bound-checks-with-unsafe",
-    "title": "Eliminating Go bound checks with unsafe"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://caolan.uk/notes/2026-07-02_a_speed_limit_for_computers.cm",
-    "title": "A Speed Limit for Computers"
   },
   {
     "source": "lobsters",
@@ -146,7 +156,132 @@
   },
   {
     "source": "lobsters",
-    "url": "https://postgresisenough.dev",
+    "url": "https://philip.mallegolhansen.com/blog/2026-07-04-friction-is-a-feature.html",
+    "title": "Friction is a Feature"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://blog.andr2i.com/posts/2026-07-06-eliminating-go-bound-checks-with-unsafe",
+    "title": "Eliminating Go bound checks with unsafe"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://blog.gradle.org/the-petty-reason-we-didnt-end-up-using-jj-at-gradle",
+    "title": "The (Petty) Reason We Didn't End Up Using jj"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://segflow.github.io/post/fast-file-search-go/",
+    "title": "Finding a needle in a 4 GB haystack: from 0.75 GB/s to 49 GB/s in Go"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://www.joshwcomeau.com/css/anchor-positioning/",
+    "title": "Getting Started with Anchor Positioning"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.opentools.studio/",
+    "title": "OpenTools / OpenPrinter"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://dthain.github.io/books/compiler/",
+    "title": "Introduction to Compilers and Language Design | Prof. Douglas Thain at Notre Dame"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://iahmed.me/post/drone-physics/",
+    "title": "Drone physics"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://organicmaps.app/",
+    "title": "Organic Maps - Detailed Offline Maps for Travellers, Tourists, Hikers and Cyclists"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://qr.jim.sh/",
+    "title": "Jim's TrueType QR Code Font"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://ledger.worseonpurpose.com/",
+    "title": "The Brand Ledger — Worse on Purpose"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://smolmachines.com/",
+    "title": "smol machines"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://withmarble.com/",
+    "title": "Marble: the interactive learning world for curious kids, ages 6-12"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://tools.simonwillison.net/html-table-extractor",
+    "title": "HTML table extractor"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://wordgard.net/",
+    "title": "Wordgard"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://phenomenalworld.org/analysis/the-anti-amazon/",
+    "title": "The Anti-Amazon - Benjamin Y. Fong"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://blog.mikebowler.ca/2026/07/03/co2-and-decision-making/",
+    "title": "The bottleneck might be the air in the room | Mike Bowler"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.starringthecomputer.com/computers.html",
+    "title": "Starring the Computer"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://ahmadawais.com/the-full-stack-of-terminals-explained-terminal-shell-tty-console-posix-ansi-escapes-ptys/",
+    "title": "The Full Stack of Terminals Explained: Terminal, Shell, TTY, Console, POSIX, ANSI Escapes, PTYs, Raw/Canonical Modes"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.geoffreylitt.com/2026/07/02/understanding-is-the-new-bottleneck.html",
+    "title": "Understanding is the new bottleneck"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://iamwillwang.com/notes/has-not-been-viewed-much/",
+    "title": "has_not_been_viewed_much — Will W."
+  },
+  {
+    "source": "pinboard",
+    "url": "https://postgresisenough.dev/",
     "title": "Postgres Is Enough"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://unsung.aresluna.org/if-youre-a-button-you-have-one-job/",
+    "title": "If you’re a button, you have one job – Unsung"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://math.ucr.edu/home/baez/act_course/index.html",
+    "title": "Applied Category Theory Course"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.marginalia.nu/log/a_135_learn/",
+    "title": "Maybe you should learn something | marginalia.nu"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.comaps.app/",
+    "title": "Hike, Bike, Drive Offline Navigate with Privacy | CoMaps"
   }
 ]
