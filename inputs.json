@@ -1,13 +1,13 @@
 [
   {
     "source": "hn",
-    "url": "https://www.comaps.app/",
-    "title": "CoMaps – FOSS Offline Maps"
+    "url": "https://bradleywoolf.com/links-1/sequencing-my-own-dna-at-home",
+    "title": "How to sequence your own DNA at home"
   },
   {
     "source": "hn",
-    "url": "https://ternlight-demo.vercel.app/",
-    "title": "Ternlight – 7 MB embedding model that runs in browser (WASM)"
+    "url": "https://www.comaps.app/",
+    "title": "CoMaps – FOSS Offline Maps"
   },
   {
     "source": "hn",
@@ -16,18 +16,13 @@
   },
   {
     "source": "hn",
+    "url": "https://ternlight-demo.vercel.app/",
+    "title": "Ternlight – 7 MB embedding model that runs in browser (WASM)"
+  },
+  {
+    "source": "hn",
     "url": "https://www.kapa.ai/blog/how-we-prune-rag-context",
     "title": "Pruning RAG context down to what the answer actually needs"
-  },
-  {
-    "source": "hn",
-    "url": "https://cakehonolulu.github.io/linux-for-jaguar/",
-    "title": "Linux on the Atari Jaguar"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.rntz.net/post/2026-06-11-datalog-nontermination.html",
-    "title": "Evaluation order and nontermination in query languages"
   },
   {
     "source": "hn",
@@ -36,18 +31,8 @@
   },
   {
     "source": "hn",
-    "url": "https://wiki.xxiivv.com/site/m_pc.html",
-    "title": "M/PC – A Concatenative OS"
-  },
-  {
-    "source": "hn",
-    "url": "https://en.wikipedia.org/wiki/Rotman_lens",
-    "title": "Rotman Lens"
-  },
-  {
-    "source": "hn",
-    "url": "https://dernocua.github.io/notes/aluminum-foil.html",
-    "title": "Aluminum foil (2021)"
+    "url": "https://cakehonolulu.github.io/linux-for-jaguar/",
+    "title": "Linux on the Atari Jaguar"
   },
   {
     "source": "hn",
@@ -56,8 +41,48 @@
   },
   {
     "source": "hn",
+    "url": "https://devz.cl/posts/acryonym-fatigue-series-why-i-m-wary-of-engineering-acronyms/",
+    "title": "Acronym Fatigue Series Introduction: why I'm wary of acronyms"
+  },
+  {
+    "source": "hn",
+    "url": "https://sparsethought.com/2026/07/03/benchmarking-as-data-activation/",
+    "title": "Giving a domain a hill to climb: benchmarking as data activation"
+  },
+  {
+    "source": "hn",
+    "url": "https://stevekrouse.com/learn-to-code",
+    "title": "Learning to code is still worthwhile"
+  },
+  {
+    "source": "hn",
+    "url": "https://dernocua.github.io/notes/aluminum-foil.html",
+    "title": "Aluminum foil (2021)"
+  },
+  {
+    "source": "hn",
     "url": "https://elm-lang.org/news/faster-builds",
     "title": "Road to Elm 1.0"
+  },
+  {
+    "source": "hn",
+    "url": "https://en.wikipedia.org/wiki/Rotman_lens",
+    "title": "Rotman Lens"
+  },
+  {
+    "source": "hn",
+    "url": "https://thebaffler.com/latest/the-music-of-destruction-fuelling",
+    "title": "The Music of Destruction"
+  },
+  {
+    "source": "hn",
+    "url": "https://wiki.xxiivv.com/site/m_pc.html",
+    "title": "M/PC – A Concatenative OS"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.rntz.net/post/2026-06-11-datalog-nontermination.html",
+    "title": "Evaluation order and nontermination in query languages"
   },
   {
     "source": "lobsters",
@@ -71,13 +96,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://rapha.land/jam-programming-language/",
-    "title": "Jam Programming Language"
+    "url": "https://blog.gradle.org/the-petty-reason-we-didnt-end-up-using-jj-at-gradle",
+    "title": "The (Petty) Reason We Didn't End Up Using jj"
   },
   {
     "source": "lobsters",
-    "url": "https://blog.gradle.org/the-petty-reason-we-didnt-end-up-using-jj-at-gradle",
-    "title": "The (Petty) Reason We Didn't End Up Using jj"
+    "url": "https://rapha.land/jam-programming-language/",
+    "title": "Jam Programming Language"
   },
   {
     "source": "lobsters",
@@ -86,8 +111,18 @@
   },
   {
     "source": "lobsters",
+    "url": "https://postgresisenough.dev",
+    "title": "Postgres Is Enough"
+  },
+  {
+    "source": "lobsters",
     "url": "https://bruceediger.com/posts/git-config-spider/",
     "title": "Caught a .git/config crawler"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://radicle.dev/",
+    "title": "Radicle: P2P Git Replication with Git Native Issues and Patches"
   },
   {
     "source": "lobsters",
@@ -96,13 +131,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://blog.dureuill.net/articles/wip/",
-    "title": "Work In Progress Rust"
+    "url": "https://www.electrospaces.net/2025/10/an-interesting-advertisement-for-stu.html",
+    "title": "AT&T's very rare Security-Plus Telephone"
   },
   {
     "source": "lobsters",
-    "url": "https://postgresisenough.dev",
-    "title": "Postgres Is Enough"
+    "url": "https://www.openssh.org/releasenotes.html#10.4",
+    "title": "OpenSSH 10.4"
   },
   {
     "source": "lobsters",
@@ -111,33 +146,23 @@
   },
   {
     "source": "lobsters",
-    "url": "https://rayfish.xyz/blog/01-introducing-rayfish",
-    "title": "Rayfish - P2P VPN built on top of Iroh"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://thoughts.hmmz.org/2026-07-05.html",
-    "title": "Embedding information in disorder"
-  },
-  {
-    "source": "lobsters",
     "url": "https://shomy.is-a.dev/blog/article/unlocking-kyocera-ky42c",
     "title": "Hacking the Kyocera KY-42C"
   },
   {
     "source": "lobsters",
-    "url": "https://blog.enioka.com/2026/07/03/how-a-skiing-accident-put-our-development-practices-to-the-test/",
-    "title": "How a Skiing Accident Put Our Development Practices to the test"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://unsung.aresluna.org/if-youre-a-button-you-have-one-job/",
-    "title": "If you’re a button, you have one job"
+    "url": "https://blog.dureuill.net/articles/wip/",
+    "title": "Work In Progress Rust"
   },
   {
     "source": "lobsters",
     "url": "https://codon.org.uk/~mjg59/blog/p/securing-agentic-identity/",
     "title": "Securing agentic identity"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://rayfish.xyz/blog/01-introducing-rayfish",
+    "title": "Rayfish - P2P VPN built on top of Iroh"
   },
   {
     "source": "pinboard",
