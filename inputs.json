@@ -11,8 +11,18 @@
   },
   {
     "source": "hn",
+    "url": "https://thisbugslife.com/2021/11/21/dolosse-a-south-african-invention-used-over-the-world/",
+    "title": "Dolosse – a South African invention used over the world"
+  },
+  {
+    "source": "hn",
     "url": "https://bradleywoolf.com/links-1/sequencing-my-own-dna-at-home",
     "title": "How to sequence your own DNA at home"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.pcmag.com/news/a-hackers-arrest-reveals-microsoft-can-track-users-via-a-windows-device",
+    "title": "Microsoft Can Track Users via a Windows Device ID"
   },
   {
     "source": "hn",
@@ -21,13 +31,13 @@
   },
   {
     "source": "hn",
-    "url": "https://thisbugslife.com/2021/11/21/dolosse-a-south-african-invention-used-over-the-world/",
-    "title": "Dolosse – a South African invention used over the world"
+    "url": "https://whimfiles.com",
+    "title": "Show HN: Fast, native Mac file manager (filters, fuzzy find, 9 MB, no Electron)"
   },
   {
     "source": "hn",
-    "url": "https://www.kapa.ai/blog/how-we-prune-rag-context",
-    "title": "Pruning RAG context down to what the answer actually needs"
+    "url": "https://asteriskmag.com/issues/14/in-praise-of-observational-evidence",
+    "title": "In Praise of Observational Evidence"
   },
   {
     "source": "hn",
@@ -36,13 +46,23 @@
   },
   {
     "source": "hn",
-    "url": "https://cakehonolulu.github.io/linux-for-jaguar/",
-    "title": "Linux on the Atari Jaguar"
+    "url": "https://www-cs-faculty.stanford.edu/~knuth/taocp.html",
+    "title": "The Art of Computer Programming by Donald E. Knuth"
   },
   {
     "source": "hn",
     "url": "https://www.inkfield.studio",
     "title": "Inkfield"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.kapa.ai/blog/how-we-prune-rag-context",
+    "title": "Pruning RAG context down to what the answer actually needs"
+  },
+  {
+    "source": "hn",
+    "url": "https://cakehonolulu.github.io/linux-for-jaguar/",
+    "title": "Linux on the Atari Jaguar"
   },
   {
     "source": "hn",
@@ -56,8 +76,8 @@
   },
   {
     "source": "hn",
-    "url": "https://en.wikipedia.org/wiki/Rotman_lens",
-    "title": "Rotman Lens"
+    "url": "https://writings.stephenwolfram.com/2013/05/dropping-in-on-gottfried-leibniz/",
+    "title": "Dropping in on Gottfried Leibniz (2013)"
   },
   {
     "source": "hn",
@@ -66,28 +86,18 @@
   },
   {
     "source": "hn",
+    "url": "https://en.wikipedia.org/wiki/Rotman_lens",
+    "title": "Rotman Lens"
+  },
+  {
+    "source": "hn",
     "url": "https://blog.cr.yp.to/20260706-fairness.html",
     "title": "NSA and IETF: Fairness"
   },
   {
-    "source": "hn",
-    "url": "https://www.endbasic.dev/2026/07/endbasic-0.14.html",
-    "title": "EndBASIC 0.14: Are we multimedia yet?"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.rntz.net/post/2026-06-11-datalog-nontermination.html",
-    "title": "Evaluation order and nontermination in query languages"
-  },
-  {
-    "source": "hn",
-    "url": "https://clojure.org/news/2026/07/02/clojure-1-13-alpha1",
-    "title": "Clojure 1.13 adds support for checked keys"
-  },
-  {
-    "source": "hn",
-    "url": "https://instantvideos.org/",
-    "title": "Show HN: InstantVideos.org – short documentaries in ~30 seconds"
+    "source": "lobsters",
+    "url": "https://blog.rust-lang.org/inside-rust/2026/07/06/unite-for-clippy/",
+    "title": "Together for a healthier Clippy"
   },
   {
     "source": "lobsters",
@@ -96,18 +106,18 @@
   },
   {
     "source": "lobsters",
+    "url": "https://monoid.github.io/posts/false-sharing-alignment/",
+    "title": "Why false sharing alignment should be 128 bytes on x64"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://doscienceto.it/waterpark",
+    "title": "Waterfall CAD Playground - A Haskell powered programmable-CAD environment, in the browser with WASM"
+  },
+  {
+    "source": "lobsters",
     "url": "https://sneakerweb.org/",
     "title": "sneakerweb"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://caolan.uk/notes/2026-07-02_a_speed_limit_for_computers.cm",
-    "title": "A Speed Limit for Computers"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://blog.gradle.org/the-petty-reason-we-didnt-end-up-using-jj-at-gradle",
-    "title": "The (Petty) Reason We Didn't End Up Using jj"
   },
   {
     "source": "lobsters",
@@ -116,13 +126,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://rapha.land/jam-programming-language/",
-    "title": "Jam Programming Language"
+    "url": "https://ebitengine.org/en/blog/native_compiling_for_nintendo_switch.html",
+    "title": "Compiling a Go program into a native binary for Nintendo Switch (2022)"
   },
   {
     "source": "lobsters",
-    "url": "https://postgresisenough.dev",
-    "title": "Postgres Is Enough"
+    "url": "https://blog.gradle.org/the-petty-reason-we-didnt-end-up-using-jj-at-gradle",
+    "title": "The (Petty) Reason We Didn't End Up Using jj"
   },
   {
     "source": "lobsters",
@@ -131,13 +141,38 @@
   },
   {
     "source": "lobsters",
-    "url": "https://ebitengine.org/en/blog/native_compiling_for_nintendo_switch.html",
-    "title": "Compiling a Go program into a native binary for Nintendo Switch (2022)"
+    "url": "https://ketanjoshi.co/2026/07/01/googles-exponential-path-to-climate-wrecking-digital-bloat/",
+    "title": "Google’s exponential path to climate-wrecking digital bloat"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://caolan.uk/notes/2026-07-02_a_speed_limit_for_computers.cm",
+    "title": "A Speed Limit for Computers"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://blog.andr2i.com/posts/2026-07-06-eliminating-go-bound-checks-with-unsafe",
+    "title": "Eliminating Go bound checks with unsafe"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://postgresisenough.dev",
+    "title": "Postgres Is Enough"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://rapha.land/jam-programming-language/",
+    "title": "Jam Programming Language"
   },
   {
     "source": "lobsters",
     "url": "https://tekstien-marginaalien-keskus.aalto.fi/residenssi/heikki/blog/004-december-2/",
     "title": "Mr. Baby Paint & accidentally discovering a new cellular automata"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://www.gingerbill.org/article/2026/05/03/signed-by-default/",
+    "title": "Signed Integers By Default"
   },
   {
     "source": "lobsters",
@@ -148,31 +183,6 @@
     "source": "lobsters",
     "url": "https://www.electrospaces.net/2025/10/an-interesting-advertisement-for-stu.html",
     "title": "AT&T's very rare Security-Plus Telephone"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://openwebdocs.org/content/posts/security-docs-sovereign-tech-agency/",
-    "title": "Web Security docs on MDN"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://blog.andr2i.com/posts/2026-07-06-eliminating-go-bound-checks-with-unsafe",
-    "title": "Eliminating Go bound checks with unsafe"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://tangled.org/tsiry-sandratraina.com/fin",
-    "title": "fin: a Jellyfin & Subsonic client for the terminal"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://shomy.is-a.dev/blog/article/unlocking-kyocera-ky42c",
-    "title": "Hacking the Kyocera KY-42C"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://blog.alexbeals.com/posts/owl-cam",
-    "title": "Turning a Chinese IoT camera into an owl livestream"
   },
   {
     "source": "pinboard",
