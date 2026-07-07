@@ -1,11 +1,6 @@
 [
   {
     "source": "hn",
-    "url": "https://bradleywoolf.com/links-1/sequencing-my-own-dna-at-home",
-    "title": "How to sequence your own DNA at home"
-  },
-  {
-    "source": "hn",
     "url": "https://www.comaps.app/",
     "title": "CoMaps – FOSS Offline Maps"
   },
@@ -16,8 +11,18 @@
   },
   {
     "source": "hn",
+    "url": "https://bradleywoolf.com/links-1/sequencing-my-own-dna-at-home",
+    "title": "How to sequence your own DNA at home"
+  },
+  {
+    "source": "hn",
     "url": "https://ternlight-demo.vercel.app/",
     "title": "Ternlight – 7 MB embedding model that runs in browser (WASM)"
+  },
+  {
+    "source": "hn",
+    "url": "https://thisbugslife.com/2021/11/21/dolosse-a-south-african-invention-used-over-the-world/",
+    "title": "Dolosse – a South African invention used over the world"
   },
   {
     "source": "hn",
@@ -36,18 +41,13 @@
   },
   {
     "source": "hn",
+    "url": "https://www.inkfield.studio",
+    "title": "Inkfield"
+  },
+  {
+    "source": "hn",
     "url": "https://www.openssh.org/txt/release-10.4",
     "title": "OpenSSH 10.4/10.4p1 Released"
-  },
-  {
-    "source": "hn",
-    "url": "https://devz.cl/posts/acryonym-fatigue-series-why-i-m-wary-of-engineering-acronyms/",
-    "title": "Acronym Fatigue Series Introduction: why I'm wary of acronyms"
-  },
-  {
-    "source": "hn",
-    "url": "https://sparsethought.com/2026/07/03/benchmarking-as-data-activation/",
-    "title": "Giving a domain a hill to climb: benchmarking as data activation"
   },
   {
     "source": "hn",
@@ -56,23 +56,8 @@
   },
   {
     "source": "hn",
-    "url": "https://dernocua.github.io/notes/aluminum-foil.html",
-    "title": "Aluminum foil (2021)"
-  },
-  {
-    "source": "hn",
-    "url": "https://elm-lang.org/news/faster-builds",
-    "title": "Road to Elm 1.0"
-  },
-  {
-    "source": "hn",
     "url": "https://en.wikipedia.org/wiki/Rotman_lens",
     "title": "Rotman Lens"
-  },
-  {
-    "source": "hn",
-    "url": "https://thebaffler.com/latest/the-music-of-destruction-fuelling",
-    "title": "The Music of Destruction"
   },
   {
     "source": "hn",
@@ -81,8 +66,33 @@
   },
   {
     "source": "hn",
+    "url": "https://blog.cr.yp.to/20260706-fairness.html",
+    "title": "NSA and IETF: Fairness"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.endbasic.dev/2026/07/endbasic-0.14.html",
+    "title": "EndBASIC 0.14: Are we multimedia yet?"
+  },
+  {
+    "source": "hn",
     "url": "https://www.rntz.net/post/2026-06-11-datalog-nontermination.html",
     "title": "Evaluation order and nontermination in query languages"
+  },
+  {
+    "source": "hn",
+    "url": "https://clojure.org/news/2026/07/02/clojure-1-13-alpha1",
+    "title": "Clojure 1.13 adds support for checked keys"
+  },
+  {
+    "source": "hn",
+    "url": "https://instantvideos.org/",
+    "title": "Show HN: InstantVideos.org – short documentaries in ~30 seconds"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://elm-lang.org/news/faster-builds",
+    "title": "Faster Builds with Elm 0.19.2"
   },
   {
     "source": "lobsters",
@@ -101,13 +111,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://rapha.land/jam-programming-language/",
-    "title": "Jam Programming Language"
+    "url": "https://radicle.dev/",
+    "title": "Radicle: P2P Git Replication with Git Native Issues and Patches"
   },
   {
     "source": "lobsters",
-    "url": "https://tekstien-marginaalien-keskus.aalto.fi/residenssi/heikki/blog/004-december-2/",
-    "title": "Mr. Baby Paint & accidentally discovering a new cellular automata"
+    "url": "https://rapha.land/jam-programming-language/",
+    "title": "Jam Programming Language"
   },
   {
     "source": "lobsters",
@@ -116,18 +126,23 @@
   },
   {
     "source": "lobsters",
+    "url": "https://www.openssh.org/releasenotes.html#10.4",
+    "title": "OpenSSH 10.4"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://ebitengine.org/en/blog/native_compiling_for_nintendo_switch.html",
+    "title": "Compiling a Go program into a native binary for Nintendo Switch (2022)"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://tekstien-marginaalien-keskus.aalto.fi/residenssi/heikki/blog/004-december-2/",
+    "title": "Mr. Baby Paint & accidentally discovering a new cellular automata"
+  },
+  {
+    "source": "lobsters",
     "url": "https://bruceediger.com/posts/git-config-spider/",
     "title": "Caught a .git/config crawler"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://radicle.dev/",
-    "title": "Radicle: P2P Git Replication with Git Native Issues and Patches"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://openwebdocs.org/content/posts/security-docs-sovereign-tech-agency/",
-    "title": "Web Security docs on MDN"
   },
   {
     "source": "lobsters",
@@ -136,8 +151,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://www.openssh.org/releasenotes.html#10.4",
-    "title": "OpenSSH 10.4"
+    "url": "https://openwebdocs.org/content/posts/security-docs-sovereign-tech-agency/",
+    "title": "Web Security docs on MDN"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://blog.andr2i.com/posts/2026-07-06-eliminating-go-bound-checks-with-unsafe",
+    "title": "Eliminating Go bound checks with unsafe"
   },
   {
     "source": "lobsters",
@@ -151,78 +171,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://blog.dureuill.net/articles/wip/",
-    "title": "Work In Progress Rust"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://codon.org.uk/~mjg59/blog/p/securing-agentic-identity/",
-    "title": "Securing agentic identity"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://rayfish.xyz/blog/01-introducing-rayfish",
-    "title": "Rayfish - P2P VPN built on top of Iroh"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://iahmed.me/post/drone-physics/",
-    "title": "Drone physics"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://phenomenalworld.org/analysis/the-anti-amazon/",
-    "title": "The Anti-Amazon - Benjamin Y. Fong"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://goodnameforablog.com/posts/very-average-prototypes/",
-    "title": "Very Average Prototypes - Good Name For A Blog"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://math.ucr.edu/home/baez/act_course/index.html",
-    "title": "Applied Category Theory Course"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://blog.mikebowler.ca/2026/07/03/co2-and-decision-making/",
-    "title": "The bottleneck might be the air in the room | Mike Bowler"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://smolmachines.com/",
-    "title": "smol machines"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.geoffreylitt.com/2026/07/02/understanding-is-the-new-bottleneck.html",
-    "title": "Understanding is the new bottleneck"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://futurism.com/future-society/college-critical-thinking-ai",
-    "title": "Bosses Horrified as \"AI Native\" College Graduates Hit the Workplace"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://interconnected.org/home/2026/07/03/factories",
-    "title": "Factories are just rooms (Interconnected)"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://freegraphpaper.net/",
-    "title": "Free Printable Graph Paper & Custom Graph Paper Maker · FreeGraphPaper"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://wordgard.net/",
-    "title": "Wordgard"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://dthain.github.io/books/compiler/",
-    "title": "Introduction to Compilers and Language Design | Prof. Douglas Thain at Notre Dame"
+    "url": "https://blog.alexbeals.com/posts/owl-cam",
+    "title": "Turning a Chinese IoT camera into an owl livestream"
   },
   {
     "source": "pinboard",
@@ -231,18 +181,18 @@
   },
   {
     "source": "pinboard",
-    "url": "https://withmarble.com/",
-    "title": "Marble: the interactive learning world for curious kids, ages 6-12"
+    "url": "https://dthain.github.io/books/compiler/",
+    "title": "Introduction to Compilers and Language Design | Prof. Douglas Thain at Notre Dame"
   },
   {
     "source": "pinboard",
-    "url": "https://www.marginalia.nu/log/a_135_learn/",
-    "title": "Maybe you should learn something | marginalia.nu"
+    "url": "https://iahmed.me/post/drone-physics/",
+    "title": "Drone physics"
   },
   {
     "source": "pinboard",
-    "url": "https://daringfireball.net/2026/07/claudes_criminally_bad_mac_app_is_an_inside_job",
-    "title": "Daring Fireball: Claude’s Criminally Bad Electron Mac App Is an Inside Job"
+    "url": "https://organicmaps.app/",
+    "title": "Organic Maps - Detailed Offline Maps for Travellers, Tourists, Hikers and Cyclists"
   },
   {
     "source": "pinboard",
@@ -251,12 +201,82 @@
   },
   {
     "source": "pinboard",
-    "url": "https://stefan.schueller.net/posts/the-free-market-lie/",
-    "title": "The Free Market Lie: Why Switzerland Has 25 Gbit Internet and America Doesn't - Stefan Schüller"
+    "url": "https://goodnameforablog.com/posts/very-average-prototypes/",
+    "title": "Very Average Prototypes - Good Name For A Blog"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://ledger.worseonpurpose.com/",
+    "title": "The Brand Ledger — Worse on Purpose"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://smolmachines.com/",
+    "title": "smol machines"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://withmarble.com/",
+    "title": "Marble: the interactive learning world for curious kids, ages 6-12"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://tools.simonwillison.net/html-table-extractor",
+    "title": "HTML table extractor"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://wordgard.net/",
+    "title": "Wordgard"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://phenomenalworld.org/analysis/the-anti-amazon/",
+    "title": "The Anti-Amazon - Benjamin Y. Fong"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://blog.mikebowler.ca/2026/07/03/co2-and-decision-making/",
+    "title": "The bottleneck might be the air in the room | Mike Bowler"
   },
   {
     "source": "pinboard",
     "url": "https://www.starringthecomputer.com/computers.html",
     "title": "Starring the Computer"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://ahmadawais.com/the-full-stack-of-terminals-explained-terminal-shell-tty-console-posix-ansi-escapes-ptys/",
+    "title": "The Full Stack of Terminals Explained: Terminal, Shell, TTY, Console, POSIX, ANSI Escapes, PTYs, Raw/Canonical Modes"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.geoffreylitt.com/2026/07/02/understanding-is-the-new-bottleneck.html",
+    "title": "Understanding is the new bottleneck"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://iamwillwang.com/notes/has-not-been-viewed-much/",
+    "title": "has_not_been_viewed_much — Will W."
+  },
+  {
+    "source": "pinboard",
+    "url": "https://postgresisenough.dev/",
+    "title": "Postgres Is Enough"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://unsung.aresluna.org/if-youre-a-button-you-have-one-job/",
+    "title": "If you’re a button, you have one job – Unsung"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://math.ucr.edu/home/baez/act_course/index.html",
+    "title": "Applied Category Theory Course"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.marginalia.nu/log/a_135_learn/",
+    "title": "Maybe you should learn something | marginalia.nu"
   }
 ]
