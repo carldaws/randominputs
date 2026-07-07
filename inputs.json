@@ -6,6 +6,16 @@
   },
   {
     "source": "hn",
+    "url": "https://ternlight-demo.vercel.app/",
+    "title": "Ternlight – 7 MB embedding model that runs in browser (WASM)"
+  },
+  {
+    "source": "hn",
+    "url": "https://martinalderson.com/posts/the-upcoming-ai-margin-collapse-part-1-glm-5-2/",
+    "title": "GLM 5.2 and the coming AI margin collapse"
+  },
+  {
+    "source": "hn",
     "url": "https://www.kapa.ai/blog/how-we-prune-rag-context",
     "title": "Pruning RAG context down to what the answer actually needs"
   },
@@ -16,8 +26,8 @@
   },
   {
     "source": "hn",
-    "url": "https://martinalderson.com/posts/the-upcoming-ai-margin-collapse-part-1-glm-5-2/",
-    "title": "GLM 5.2 and the coming AI margin collapse"
+    "url": "https://www.rntz.net/post/2026-06-11-datalog-nontermination.html",
+    "title": "Evaluation order and nontermination in query languages"
   },
   {
     "source": "hn",
@@ -26,8 +36,8 @@
   },
   {
     "source": "hn",
-    "url": "https://www.rntz.net/post/2026-06-11-datalog-nontermination.html",
-    "title": "Evaluation order and nontermination in query languages"
+    "url": "https://wiki.xxiivv.com/site/m_pc.html",
+    "title": "M/PC – A Concatenative OS"
   },
   {
     "source": "hn",
@@ -36,33 +46,18 @@
   },
   {
     "source": "hn",
-    "url": "https://stevekrouse.com/learn-to-code",
-    "title": "Learning to code is still worthwhile"
-  },
-  {
-    "source": "hn",
     "url": "https://dernocua.github.io/notes/aluminum-foil.html",
     "title": "Aluminum foil (2021)"
   },
   {
     "source": "hn",
-    "url": "https://wiki.xxiivv.com/site/m_pc.html",
-    "title": "M/PC – A Concatenative OS"
+    "url": "https://www.openssh.org/txt/release-10.4",
+    "title": "OpenSSH 10.4/10.4p1 Released"
   },
   {
     "source": "hn",
     "url": "https://elm-lang.org/news/faster-builds",
     "title": "Road to Elm 1.0"
-  },
-  {
-    "source": "hn",
-    "url": "https://clojure.org/news/2026/07/02/clojure-1-13-alpha1",
-    "title": "Clojure 1.13 adds support for checked keys"
-  },
-  {
-    "source": "hn",
-    "url": "https://usefeyn.com/blog/pulpie-pareto-optimal-models-for-cleaning-the-web/",
-    "title": "Show HN: Pulpie – Models for Cleaning the Web"
   },
   {
     "source": "lobsters",
@@ -106,13 +101,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://tangled.org/tsiry-sandratraina.com/fin",
-    "title": "fin: a Jellyfin & Subsonic client for the terminal"
+    "url": "https://postgresisenough.dev",
+    "title": "Postgres Is Enough"
   },
   {
     "source": "lobsters",
-    "url": "https://postgresisenough.dev",
-    "title": "Postgres Is Enough"
+    "url": "https://tangled.org/tsiry-sandratraina.com/fin",
+    "title": "fin: a Jellyfin & Subsonic client for the terminal"
   },
   {
     "source": "lobsters",
@@ -141,8 +136,8 @@
   },
   {
     "source": "lobsters",
-    "url": "http://smalldatum.blogspot.com/2026/01/common-prefix-skipping-adaptive-sort.html",
-    "title": "Orasort - Common prefix skipping, adaptive sort"
+    "url": "https://codon.org.uk/~mjg59/blog/p/securing-agentic-identity/",
+    "title": "Securing agentic identity"
   },
   {
     "source": "pinboard",
