@@ -11,8 +11,18 @@
   },
   {
     "source": "hn",
-    "url": "https://www.comaps.app/",
-    "title": "CoMaps – FOSS Offline Maps"
+    "url": "https://better-auth.com/blog/better-auth-joins-vercel",
+    "title": "Better Auth is joining Vercel"
+  },
+  {
+    "source": "hn",
+    "url": "https://betterthangood.xyz/blog/weighing-smoke/",
+    "title": "Weighing smoke: why AI visibility dashboards are mostly useless"
+  },
+  {
+    "source": "hn",
+    "url": "https://knockoff.shopping/",
+    "title": "Amazon Without the Knockoffs"
   },
   {
     "source": "hn",
@@ -21,13 +31,13 @@
   },
   {
     "source": "hn",
-    "url": "https://martinalderson.com/posts/the-upcoming-ai-margin-collapse-part-1-glm-5-2/",
-    "title": "GLM 5.2 and the coming AI margin collapse"
+    "url": "https://www.comaps.app/",
+    "title": "CoMaps – FOSS Offline Maps"
   },
   {
     "source": "hn",
-    "url": "https://www.wsj.com/arts-culture/food-cooking/the-family-keeping-watch-over-a-52-year-old-pot-of-soup-1e72f115",
-    "title": "The Family Keeping Watch over a 52-Year-Old Pot of Soup"
+    "url": "https://replicated.live/blog/away",
+    "title": "Automating AI Away"
   },
   {
     "source": "hn",
@@ -36,18 +46,8 @@
   },
   {
     "source": "hn",
-    "url": "https://thisbugslife.com/2021/11/21/dolosse-a-south-african-invention-used-over-the-world/",
-    "title": "Dolosse – a South African invention used over the world"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.pcmag.com/news/a-hackers-arrest-reveals-microsoft-can-track-users-via-a-windows-device",
-    "title": "Microsoft Can Track Users via a Windows Device ID"
-  },
-  {
-    "source": "hn",
-    "url": "https://whimfiles.com",
-    "title": "Show HN: Fast, native Mac file manager (filters, fuzzy find, 9 MB, no Electron)"
+    "url": "https://martinalderson.com/posts/the-upcoming-ai-margin-collapse-part-1-glm-5-2/",
+    "title": "GLM 5.2 and the coming AI margin collapse"
   },
   {
     "source": "hn",
@@ -56,33 +56,8 @@
   },
   {
     "source": "hn",
-    "url": "https://ternlight-demo.vercel.app/",
-    "title": "Ternlight – 7 MB embedding model that runs in browser (WASM)"
-  },
-  {
-    "source": "hn",
-    "url": "https://asteriskmag.com/issues/14/in-praise-of-observational-evidence",
-    "title": "In Praise of Observational Evidence"
-  },
-  {
-    "source": "hn",
-    "url": "https://news.xbox.com/en-us/2026/07/06/resetting-xbox/",
-    "title": "Resetting Xbox"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.kapa.ai/blog/how-we-prune-rag-context",
-    "title": "Pruning RAG context down to what the answer actually needs"
-  },
-  {
-    "source": "hn",
-    "url": "https://cakehonolulu.github.io/linux-for-jaguar/",
-    "title": "Linux on the Atari Jaguar"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.inkfield.studio",
-    "title": "Inkfield"
+    "url": "https://www.pcmag.com/news/a-hackers-arrest-reveals-microsoft-can-track-users-via-a-windows-device",
+    "title": "Microsoft Can Track Users via a Windows Device ID"
   },
   {
     "source": "lobsters",
@@ -91,13 +66,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://monoid.github.io/posts/false-sharing-alignment/",
-    "title": "Why false sharing alignment should be 128 bytes on x64"
+    "url": "https://ketanjoshi.co/2026/07/01/googles-exponential-path-to-climate-wrecking-digital-bloat/",
+    "title": "Google’s exponential path to climate-wrecking digital bloat"
   },
   {
     "source": "lobsters",
-    "url": "https://ketanjoshi.co/2026/07/01/googles-exponential-path-to-climate-wrecking-digital-bloat/",
-    "title": "Google’s exponential path to climate-wrecking digital bloat"
+    "url": "https://monoid.github.io/posts/false-sharing-alignment/",
+    "title": "Why false sharing alignment should be 128 bytes on x64"
   },
   {
     "source": "lobsters",
@@ -106,33 +81,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://elm-lang.org/news/faster-builds",
-    "title": "Faster Builds with Elm 0.19.2"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://radicle.dev/",
-    "title": "Radicle: P2P Git Replication with Git Native Issues and Patches"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://ebitengine.org/en/blog/native_compiling_for_nintendo_switch.html",
-    "title": "Compiling a Go program into a native binary for Nintendo Switch (2022)"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://sneakerweb.org/",
-    "title": "sneakerweb"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://www.openssh.org/releasenotes.html#10.4",
-    "title": "OpenSSH 10.4"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://blog.gradle.org/the-petty-reason-we-didnt-end-up-using-jj-at-gradle",
-    "title": "The (Petty) Reason We Didn't End Up Using jj"
+    "url": "https://mijndertstuij.nl/posts/i-was-wrong-about-game-development/",
+    "title": "I was wrong about game development"
   },
   {
     "source": "lobsters",
@@ -146,6 +96,41 @@
   },
   {
     "source": "lobsters",
+    "url": "https://elm-lang.org/news/faster-builds",
+    "title": "Faster Builds with Elm 0.19.2"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://radicle.dev/",
+    "title": "Radicle: P2P Git Replication with Git Native Issues and Patches"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://www.openssh.org/releasenotes.html#10.4",
+    "title": "OpenSSH 10.4"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://ebitengine.org/en/blog/native_compiling_for_nintendo_switch.html",
+    "title": "Compiling a Go program into a native binary for Nintendo Switch (2022)"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://sneakerweb.org/",
+    "title": "sneakerweb"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://blog.gradle.org/the-petty-reason-we-didnt-end-up-using-jj-at-gradle",
+    "title": "The (Petty) Reason We Didn't End Up Using jj"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://www.star-history.com/blog/github-stargazer-api-restriction",
+    "title": "GitHub Has Restricted Access to Star Data"
+  },
+  {
+    "source": "lobsters",
     "url": "https://blog.andr2i.com/posts/2026-07-06-eliminating-go-bound-checks-with-unsafe",
     "title": "Eliminating Go bound checks with unsafe"
   },
@@ -156,17 +141,12 @@
   },
   {
     "source": "lobsters",
+    "url": "https://blog.omgmog.net/post/how-im-using-css-view-transitions-on-this-blog/",
+    "title": "How I'm using CSS View Transitions on this blog"
+  },
+  {
+    "source": "lobsters",
     "url": "https://postgresisenough.dev",
     "title": "Postgres Is Enough"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://mijndertstuij.nl/posts/i-was-wrong-about-game-development/",
-    "title": "I was wrong about game development"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://rapha.land/jam-programming-language/",
-    "title": "Jam Programming Language"
   }
 ]
