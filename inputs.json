@@ -1,8 +1,23 @@
 [
   {
     "source": "hn",
+    "url": "https://streetcomplete.app/",
+    "title": "StreetComplete: Fixing OpenStreetMap, one tiny quest at a time"
+  },
+  {
+    "source": "hn",
+    "url": "https://whynothugo.nl/journal/2026/07/03/98-isnt-very-much/",
+    "title": "98% Isn't Much"
+  },
+  {
+    "source": "hn",
     "url": "https://www.comaps.app/",
     "title": "CoMaps – FOSS Offline Maps"
+  },
+  {
+    "source": "hn",
+    "url": "https://nekrozqliphort.github.io/posts/membarrier/",
+    "title": "C++ Details of Asymmetric Fences"
   },
   {
     "source": "hn",
@@ -11,8 +26,8 @@
   },
   {
     "source": "hn",
-    "url": "https://thisbugslife.com/2021/11/21/dolosse-a-south-african-invention-used-over-the-world/",
-    "title": "Dolosse – a South African invention used over the world"
+    "url": "https://www.wsj.com/arts-culture/food-cooking/the-family-keeping-watch-over-a-52-year-old-pot-of-soup-1e72f115",
+    "title": "The Family Keeping Watch over a 52-Year-Old Pot of Soup"
   },
   {
     "source": "hn",
@@ -21,18 +36,28 @@
   },
   {
     "source": "hn",
+    "url": "https://thisbugslife.com/2021/11/21/dolosse-a-south-african-invention-used-over-the-world/",
+    "title": "Dolosse – a South African invention used over the world"
+  },
+  {
+    "source": "hn",
     "url": "https://www.pcmag.com/news/a-hackers-arrest-reveals-microsoft-can-track-users-via-a-windows-device",
     "title": "Microsoft Can Track Users via a Windows Device ID"
   },
   {
     "source": "hn",
-    "url": "https://ternlight-demo.vercel.app/",
-    "title": "Ternlight – 7 MB embedding model that runs in browser (WASM)"
+    "url": "https://whimfiles.com",
+    "title": "Show HN: Fast, native Mac file manager (filters, fuzzy find, 9 MB, no Electron)"
   },
   {
     "source": "hn",
-    "url": "https://whimfiles.com",
-    "title": "Show HN: Fast, native Mac file manager (filters, fuzzy find, 9 MB, no Electron)"
+    "url": "https://www-cs-faculty.stanford.edu/~knuth/taocp.html",
+    "title": "The Art of Computer Programming by Donald E. Knuth"
+  },
+  {
+    "source": "hn",
+    "url": "https://ternlight-demo.vercel.app/",
+    "title": "Ternlight – 7 MB embedding model that runs in browser (WASM)"
   },
   {
     "source": "hn",
@@ -46,16 +71,6 @@
   },
   {
     "source": "hn",
-    "url": "https://www-cs-faculty.stanford.edu/~knuth/taocp.html",
-    "title": "The Art of Computer Programming by Donald E. Knuth"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.inkfield.studio",
-    "title": "Inkfield"
-  },
-  {
-    "source": "hn",
     "url": "https://www.kapa.ai/blog/how-we-prune-rag-context",
     "title": "Pruning RAG context down to what the answer actually needs"
   },
@@ -66,33 +81,8 @@
   },
   {
     "source": "hn",
-    "url": "https://www.openssh.org/txt/release-10.4",
-    "title": "OpenSSH 10.4/10.4p1 Released"
-  },
-  {
-    "source": "hn",
-    "url": "https://stevekrouse.com/learn-to-code",
-    "title": "Learning to code is still worthwhile"
-  },
-  {
-    "source": "hn",
-    "url": "https://writings.stephenwolfram.com/2013/05/dropping-in-on-gottfried-leibniz/",
-    "title": "Dropping in on Gottfried Leibniz (2013)"
-  },
-  {
-    "source": "hn",
-    "url": "https://wiki.xxiivv.com/site/m_pc.html",
-    "title": "M/PC – A Concatenative OS"
-  },
-  {
-    "source": "hn",
-    "url": "https://en.wikipedia.org/wiki/Rotman_lens",
-    "title": "Rotman Lens"
-  },
-  {
-    "source": "hn",
-    "url": "https://blog.cr.yp.to/20260706-fairness.html",
-    "title": "NSA and IETF: Fairness"
+    "url": "https://www.inkfield.studio",
+    "title": "Inkfield"
   },
   {
     "source": "lobsters",
@@ -101,13 +91,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://elm-lang.org/news/faster-builds",
-    "title": "Faster Builds with Elm 0.19.2"
+    "url": "https://monoid.github.io/posts/false-sharing-alignment/",
+    "title": "Why false sharing alignment should be 128 bytes on x64"
   },
   {
     "source": "lobsters",
-    "url": "https://monoid.github.io/posts/false-sharing-alignment/",
-    "title": "Why false sharing alignment should be 128 bytes on x64"
+    "url": "https://ketanjoshi.co/2026/07/01/googles-exponential-path-to-climate-wrecking-digital-bloat/",
+    "title": "Google’s exponential path to climate-wrecking digital bloat"
   },
   {
     "source": "lobsters",
@@ -116,8 +106,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://sneakerweb.org/",
-    "title": "sneakerweb"
+    "url": "https://elm-lang.org/news/faster-builds",
+    "title": "Faster Builds with Elm 0.19.2"
   },
   {
     "source": "lobsters",
@@ -131,8 +121,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://blog.gradle.org/the-petty-reason-we-didnt-end-up-using-jj-at-gradle",
-    "title": "The (Petty) Reason We Didn't End Up Using jj"
+    "url": "https://sneakerweb.org/",
+    "title": "sneakerweb"
   },
   {
     "source": "lobsters",
@@ -141,33 +131,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://ketanjoshi.co/2026/07/01/googles-exponential-path-to-climate-wrecking-digital-bloat/",
-    "title": "Google’s exponential path to climate-wrecking digital bloat"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://caolan.uk/notes/2026-07-02_a_speed_limit_for_computers.cm",
-    "title": "A Speed Limit for Computers"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://blog.andr2i.com/posts/2026-07-06-eliminating-go-bound-checks-with-unsafe",
-    "title": "Eliminating Go bound checks with unsafe"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://postgresisenough.dev",
-    "title": "Postgres Is Enough"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://rapha.land/jam-programming-language/",
-    "title": "Jam Programming Language"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://tekstien-marginaalien-keskus.aalto.fi/residenssi/heikki/blog/004-december-2/",
-    "title": "Mr. Baby Paint & accidentally discovering a new cellular automata"
+    "url": "https://blog.gradle.org/the-petty-reason-we-didnt-end-up-using-jj-at-gradle",
+    "title": "The (Petty) Reason We Didn't End Up Using jj"
   },
   {
     "source": "lobsters",
@@ -176,117 +141,32 @@
   },
   {
     "source": "lobsters",
-    "url": "https://bruceediger.com/posts/git-config-spider/",
-    "title": "Caught a .git/config crawler"
+    "url": "https://haskellforall.com/2026/07/mechanized-type-inference-for-record-concatenation",
+    "title": "Mechanized type inference for record concatenation"
   },
   {
     "source": "lobsters",
-    "url": "https://www.electrospaces.net/2025/10/an-interesting-advertisement-for-stu.html",
-    "title": "AT&T's very rare Security-Plus Telephone"
+    "url": "https://blog.andr2i.com/posts/2026-07-06-eliminating-go-bound-checks-with-unsafe",
+    "title": "Eliminating Go bound checks with unsafe"
   },
   {
-    "source": "pinboard",
-    "url": "https://www.opentools.studio/",
-    "title": "OpenTools / OpenPrinter"
+    "source": "lobsters",
+    "url": "https://caolan.uk/notes/2026-07-02_a_speed_limit_for_computers.cm",
+    "title": "A Speed Limit for Computers"
   },
   {
-    "source": "pinboard",
-    "url": "https://dthain.github.io/books/compiler/",
-    "title": "Introduction to Compilers and Language Design | Prof. Douglas Thain at Notre Dame"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://iahmed.me/post/drone-physics/",
-    "title": "Drone physics"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://organicmaps.app/",
-    "title": "Organic Maps - Detailed Offline Maps for Travellers, Tourists, Hikers and Cyclists"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://qr.jim.sh/",
-    "title": "Jim's TrueType QR Code Font"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://goodnameforablog.com/posts/very-average-prototypes/",
-    "title": "Very Average Prototypes - Good Name For A Blog"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://ledger.worseonpurpose.com/",
-    "title": "The Brand Ledger — Worse on Purpose"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://smolmachines.com/",
-    "title": "smol machines"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://withmarble.com/",
-    "title": "Marble: the interactive learning world for curious kids, ages 6-12"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://tools.simonwillison.net/html-table-extractor",
-    "title": "HTML table extractor"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://wordgard.net/",
-    "title": "Wordgard"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://phenomenalworld.org/analysis/the-anti-amazon/",
-    "title": "The Anti-Amazon - Benjamin Y. Fong"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://blog.mikebowler.ca/2026/07/03/co2-and-decision-making/",
-    "title": "The bottleneck might be the air in the room | Mike Bowler"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.starringthecomputer.com/computers.html",
-    "title": "Starring the Computer"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://ahmadawais.com/the-full-stack-of-terminals-explained-terminal-shell-tty-console-posix-ansi-escapes-ptys/",
-    "title": "The Full Stack of Terminals Explained: Terminal, Shell, TTY, Console, POSIX, ANSI Escapes, PTYs, Raw/Canonical Modes"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.geoffreylitt.com/2026/07/02/understanding-is-the-new-bottleneck.html",
-    "title": "Understanding is the new bottleneck"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://iamwillwang.com/notes/has-not-been-viewed-much/",
-    "title": "has_not_been_viewed_much — Will W."
-  },
-  {
-    "source": "pinboard",
-    "url": "https://postgresisenough.dev/",
+    "source": "lobsters",
+    "url": "https://postgresisenough.dev",
     "title": "Postgres Is Enough"
   },
   {
-    "source": "pinboard",
-    "url": "https://unsung.aresluna.org/if-youre-a-button-you-have-one-job/",
-    "title": "If you’re a button, you have one job – Unsung"
+    "source": "lobsters",
+    "url": "https://mijndertstuij.nl/posts/i-was-wrong-about-game-development/",
+    "title": "I was wrong about game development"
   },
   {
-    "source": "pinboard",
-    "url": "https://math.ucr.edu/home/baez/act_course/index.html",
-    "title": "Applied Category Theory Course"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.marginalia.nu/log/a_135_learn/",
-    "title": "Maybe you should learn something | marginalia.nu"
+    "source": "lobsters",
+    "url": "https://rapha.land/jam-programming-language/",
+    "title": "Jam Programming Language"
   }
 ]
