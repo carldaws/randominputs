@@ -1,8 +1,8 @@
 [
   {
     "source": "hn",
-    "url": "https://knockoff.shopping/",
-    "title": "Amazon without the knockoffs"
+    "url": "https://allaboutcookies.org/eu-mandatory-distracted-driver-system",
+    "title": "All Cars Sold in the EU Now Require a Camera Aimed at Your Face"
   },
   {
     "source": "hn",
@@ -11,8 +11,8 @@
   },
   {
     "source": "hn",
-    "url": "https://30papers.com/",
-    "title": "30papers.com – Ilya's 30 essential ML papers, in a beginner friendly format"
+    "url": "https://ariya.io/2026/03/local-cpu-friendly-high-quality-tts-text-to-speech-with-kokoro/",
+    "title": "Local, CPU-Friendly, High-Quality TTS (Text-to-Speech) with Kokoro"
   },
   {
     "source": "hn",
@@ -26,18 +26,13 @@
   },
   {
     "source": "hn",
-    "url": "https://ariya.io/2026/03/local-cpu-friendly-high-quality-tts-text-to-speech-with-kokoro/",
-    "title": "Local, CPU-Friendly, High-Quality TTS (Text-to-Speech) with Kokoro"
+    "url": "https://davit.app",
+    "title": "Show HN: Davit, a Apple Containers UI"
   },
   {
     "source": "hn",
-    "url": "https://pgdog.dev/blog/why-yet-another-connection-pooler",
-    "title": "Why we built yet another Postgres connection pooler"
-  },
-  {
-    "source": "hn",
-    "url": "https://nyanpasu64.gitlab.io/blog/hdmi-vga-dac-audio/",
-    "title": "Fixing analog audio on the $2.58 HDMI-to-VGA adapter"
+    "url": "https://30papers.com/",
+    "title": "30papers.com – Ilya's 30 essential ML papers, in a beginner friendly format"
   },
   {
     "source": "hn",
@@ -46,8 +41,13 @@
   },
   {
     "source": "hn",
-    "url": "https://astro.build/blog/astro-7/",
-    "title": "Astro 7.0"
+    "url": "https://nyanpasu64.gitlab.io/blog/hdmi-vga-dac-audio/",
+    "title": "Fixing analog audio on the $2.58 HDMI-to-VGA adapter"
+  },
+  {
+    "source": "hn",
+    "url": "https://pgdog.dev/blog/why-yet-another-connection-pooler",
+    "title": "Why we built yet another Postgres connection pooler"
   },
   {
     "source": "hn",
@@ -56,8 +56,8 @@
   },
   {
     "source": "hn",
-    "url": "https://gamefromscratch.com/microsoft-fire-idtech-team-at-id-software/",
-    "title": "Microsoft fire idTech team at Id software"
+    "url": "https://astro.build/blog/astro-7/",
+    "title": "Astro 7.0"
   },
   {
     "source": "hn",
@@ -66,18 +66,13 @@
   },
   {
     "source": "hn",
-    "url": "https://davit.app",
-    "title": "Show HN: Davit, a Apple Containers UI"
-  },
-  {
-    "source": "hn",
     "url": "https://whynothugo.nl/journal/2026/07/03/98-isnt-very-much/",
     "title": "98% isn't much"
   },
   {
     "source": "hn",
-    "url": "https://zeroed.tech/blog/decrypting-viewstate-messages/",
-    "title": "Decrypting View State Messages"
+    "url": "https://gamefromscratch.com/microsoft-fire-idtech-team-at-id-software/",
+    "title": "Microsoft fire idTech team at Id software"
   },
   {
     "source": "lobsters",
@@ -101,6 +96,11 @@
   },
   {
     "source": "lobsters",
+    "url": "https://mijndertstuij.nl/posts/i-was-wrong-about-game-development/",
+    "title": "I was wrong about game development"
+  },
+  {
+    "source": "lobsters",
     "url": "https://www.gingerbill.org/article/2026/05/03/signed-by-default/",
     "title": "Signed Integers By Default"
   },
@@ -111,13 +111,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://mijndertstuij.nl/posts/i-was-wrong-about-game-development/",
-    "title": "I was wrong about game development"
+    "url": "https://martinalderson.com/posts/the-upcoming-ai-margin-collapse-part-1-glm-5-2/",
+    "title": "GLM 5.2 and the coming AI margin collapse"
   },
   {
     "source": "lobsters",
-    "url": "https://martinalderson.com/posts/the-upcoming-ai-margin-collapse-part-1-glm-5-2/",
-    "title": "GLM 5.2 and the coming AI margin collapse"
+    "url": "https://radicle.dev/",
+    "title": "Radicle: P2P Git Replication with Git Native Issues and Patches"
   },
   {
     "source": "lobsters",
@@ -131,13 +131,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://radicle.dev/",
-    "title": "Radicle: P2P Git Replication with Git Native Issues and Patches"
+    "url": "https://ebitengine.org/en/blog/native_compiling_for_nintendo_switch.html",
+    "title": "Compiling a Go program into a native binary for Nintendo Switch (2022)"
   },
   {
     "source": "lobsters",
-    "url": "https://ebitengine.org/en/blog/native_compiling_for_nintendo_switch.html",
-    "title": "Compiling a Go program into a native binary for Nintendo Switch (2022)"
+    "url": "https://philip.mallegolhansen.com/blog/2026-07-04-friction-is-a-feature.html",
+    "title": "Friction is a Feature"
   },
   {
     "source": "lobsters",
@@ -151,33 +151,23 @@
   },
   {
     "source": "lobsters",
-    "url": "https://blog.omgmog.net/post/how-im-using-css-view-transitions-on-this-blog/",
-    "title": "How I'm using CSS View Transitions on this blog"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://philip.mallegolhansen.com/blog/2026-07-04-friction-is-a-feature.html",
-    "title": "Friction is a Feature"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://blog.andr2i.com/posts/2026-07-06-eliminating-go-bound-checks-with-unsafe",
-    "title": "Eliminating Go bound checks with unsafe"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://blog.gradle.org/the-petty-reason-we-didnt-end-up-using-jj-at-gradle",
-    "title": "The (Petty) Reason We Didn't End Up Using jj"
-  },
-  {
-    "source": "lobsters",
     "url": "https://segflow.github.io/post/fast-file-search-go/",
     "title": "Finding a needle in a 4 GB haystack: from 0.75 GB/s to 49 GB/s in Go"
   },
   {
     "source": "lobsters",
+    "url": "https://blog.omgmog.net/post/how-im-using-css-view-transitions-on-this-blog/",
+    "title": "How I'm using CSS View Transitions on this blog"
+  },
+  {
+    "source": "lobsters",
     "url": "https://www.joshwcomeau.com/css/anchor-positioning/",
     "title": "Getting Started with Anchor Positioning"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://blog.andr2i.com/posts/2026-07-06-eliminating-go-bound-checks-with-unsafe",
+    "title": "Eliminating Go bound checks with unsafe"
   },
   {
     "source": "pinboard",
@@ -203,6 +193,11 @@
     "source": "pinboard",
     "url": "https://qr.jim.sh/",
     "title": "Jim's TrueType QR Code Font"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://goodnameforablog.com/posts/very-average-prototypes/",
+    "title": "Very Average Prototypes - Good Name For A Blog"
   },
   {
     "source": "pinboard",
