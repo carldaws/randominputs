@@ -1,6 +1,16 @@
 [
   {
     "source": "hn",
+    "url": "https://www.hmans.dev/blog/chatto-is-open-source",
+    "title": "Chatto is now Open Source"
+  },
+  {
+    "source": "hn",
+    "url": "https://cognition.com/blog/swe-1-7",
+    "title": "SWE-1.7 Reach Near GPT 5.5 and Opus Intelligence"
+  },
+  {
+    "source": "hn",
     "url": "https://tris.sherliker.net/blog/obfuscated-self-evaluating-bash-script-by-cdn-akamai-being-supplied-to-consumers-via-retail-stores/",
     "title": "Decoding the obfuscated bash script on a Uniqlo t-shirt"
   },
@@ -16,13 +26,18 @@
   },
   {
     "source": "hn",
+    "url": "https://www3.nhk.or.jp/nhkworld/en/news/20260705_01/",
+    "title": "Japan's Hayabusa2 probe to conduct flyby of Torifune asteroid"
+  },
+  {
+    "source": "hn",
     "url": "https://manualmeida.dev/articles/noiselang/",
     "title": "NoiseLang: Where N = 5 is a Dirac delta"
   },
   {
     "source": "hn",
-    "url": "https://www3.nhk.or.jp/nhkworld/en/news/20260705_01/",
-    "title": "Japan's Hayabusa2 probe to conduct flyby of Torifune asteroid"
+    "url": "https://www.lifesitenews.com/news/biohacker-seeking-immortality-afflicted-with-incurable-stomach-eating-disease/",
+    "title": "Biohacker seeking immortality afflicted with incurable 'stomach eating' disease"
   },
   {
     "source": "hn",
@@ -41,6 +56,11 @@
   },
   {
     "source": "hn",
+    "url": "http://glassbottomblog.blogspot.com/2011/01/catastrophe-theory-geniuses-and-maniacs.html",
+    "title": "Catastrophe theory; geniuses and maniacs (2011)"
+  },
+  {
+    "source": "hn",
     "url": "https://www.uni-wuerzburg.de/en/news-and-events/news/detail/news/ameisen-kolonie-verletzte-pflegt/",
     "title": "Ants: Who looks after the injured in a colony?"
   },
@@ -51,28 +71,18 @@
   },
   {
     "source": "hn",
+    "url": "https://observer.co.uk/style/features/article/every-postcard-tells-a-story",
+    "title": "Every postcard tells a story"
+  },
+  {
+    "source": "hn",
     "url": "https://ariya.io/2026/03/local-cpu-friendly-high-quality-tts-text-to-speech-with-kokoro/",
     "title": "Local, CPU-Friendly, High-Quality TTS (Text-to-Speech) with Kokoro"
   },
   {
     "source": "hn",
-    "url": "https://stats.lineageos.org",
-    "title": "LineageOS Statistics"
-  },
-  {
-    "source": "hn",
     "url": "https://pluralistic.net/2026/07/02/canonization/",
     "title": "The difference between \"today's task\" and \"accretive work\""
-  },
-  {
-    "source": "hn",
-    "url": "https://davit.app",
-    "title": "Show HN: Davit, a Apple Containers UI"
-  },
-  {
-    "source": "hn",
-    "url": "https://neiltheseal.app/",
-    "title": "Show HN: Neil the Seal Game"
   },
   {
     "source": "lobsters",
@@ -81,13 +91,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://blog.rust-lang.org/inside-rust/2026/07/06/unite-for-clippy/",
-    "title": "Together for a healthier Clippy"
+    "url": "https://krisshamloo.com/blog/007",
+    "title": "a software engineering interview question I like: computing the median"
   },
   {
     "source": "lobsters",
-    "url": "https://krisshamloo.com/blog/007",
-    "title": "a software engineering interview question I like: computing the median"
+    "url": "https://blog.rust-lang.org/inside-rust/2026/07/06/unite-for-clippy/",
+    "title": "Together for a healthier Clippy"
   },
   {
     "source": "lobsters",
@@ -106,23 +116,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://mijndertstuij.nl/posts/i-was-wrong-about-game-development/",
-    "title": "I was wrong about game development"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://monoid.github.io/posts/false-sharing-alignment/",
-    "title": "Why false sharing alignment should be 128 bytes on x64"
-  },
-  {
-    "source": "lobsters",
     "url": "https://seriot.ch/computation/uts35/",
     "title": "Unicode's Transliteration Rules Are Turing-Complete"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://anthonyhobday.com/blog/20260410",
-    "title": "Notes on software quality"
   },
   {
     "source": "lobsters",
@@ -131,17 +126,27 @@
   },
   {
     "source": "lobsters",
-    "url": "https://haskellforall.com/2026/07/mechanized-type-inference-for-record-concatenation",
-    "title": "Mechanized type inference for record concatenation"
+    "url": "https://mijndertstuij.nl/posts/i-was-wrong-about-game-development/",
+    "title": "I was wrong about game development"
   },
   {
     "source": "lobsters",
-    "url": "https://www.gingerbill.org/article/2026/05/03/signed-by-default/",
-    "title": "Signed Integers By Default"
+    "url": "https://zine-ssg.io/log/?v0.12.0#v0.12.0",
+    "title": "Zine 0.12.0"
   },
   {
     "source": "lobsters",
-    "url": "https://ntietz.com/blog/licensing-joy-gal/",
-    "title": "Licensing can be joyful (and legally dubious) (2024)"
+    "url": "https://monoid.github.io/posts/false-sharing-alignment/",
+    "title": "Why false sharing alignment should be 128 bytes on x64"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://botkit.fedify.dev/",
+    "title": "BotKit: Standalone ActivityPub bots in TypeScript"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://anthonyhobday.com/blog/20260410",
+    "title": "Notes on software quality"
   }
 ]
