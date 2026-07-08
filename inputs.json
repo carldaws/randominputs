@@ -6,18 +6,13 @@
   },
   {
     "source": "hn",
+    "url": "https://ocw.mit.edu/courses/6-001-structure-and-interpretation-of-computer-programs-spring-2005/video_galleries/video-lectures/",
+    "title": "Structure and Interpretation of Computer Programs Video Lectures (1986)"
+  },
+  {
+    "source": "hn",
     "url": "https://ariya.io/2026/03/local-cpu-friendly-high-quality-tts-text-to-speech-with-kokoro/",
     "title": "Local, CPU-Friendly, High-Quality TTS (Text-to-Speech) with Kokoro"
-  },
-  {
-    "source": "hn",
-    "url": "https://odra.dev/slopfix/",
-    "title": "We charge $10k a week to delete AI-generated code"
-  },
-  {
-    "source": "hn",
-    "url": "https://streetcomplete.app/",
-    "title": "StreetComplete: Fixing OpenStreetMap, one tiny quest at a time"
   },
   {
     "source": "hn",
@@ -26,8 +21,13 @@
   },
   {
     "source": "hn",
-    "url": "https://vatsalbakshi.com/blog/benfords-law/",
-    "title": "An interactive explorer for Benford's Law across real datasets"
+    "url": "https://www.digipres.org/the-floppy-guide/",
+    "title": "Copy That Floppy – Cambridge guide for preserving data from fragile floppy disks"
+  },
+  {
+    "source": "hn",
+    "url": "https://neiltheseal.app/",
+    "title": "Show HN: Neil the Seal Game"
   },
   {
     "source": "hn",
@@ -36,23 +36,8 @@
   },
   {
     "source": "hn",
-    "url": "https://allaboutcookies.org/eu-mandatory-distracted-driver-system",
-    "title": "Every new car sold in the European Union must include a driver monitoring camera"
-  },
-  {
-    "source": "hn",
     "url": "https://30papers.com/",
     "title": "30papers.com – Ilya's 30 essential ML papers, in a beginner friendly format"
-  },
-  {
-    "source": "hn",
-    "url": "https://ocw.mit.edu/courses/6-001-structure-and-interpretation-of-computer-programs-spring-2005/video_galleries/video-lectures/",
-    "title": "Structure and Interpretation of Computer Programs Video Lectures"
-  },
-  {
-    "source": "hn",
-    "url": "https://try.works/first-principles-of-model-routing",
-    "title": "First Principles of Model Routing"
   },
   {
     "source": "hn",
@@ -61,8 +46,23 @@
   },
   {
     "source": "hn",
-    "url": "https://blog.zksecurity.xyz/posts/circl-bugs/",
-    "title": "AI Meets Cryptography 1: What AI Found in Cloudflare's Circl"
+    "url": "https://stats.lineageos.org",
+    "title": "LineageOS Statistics"
+  },
+  {
+    "source": "hn",
+    "url": "https://allaboutcookies.org/eu-mandatory-distracted-driver-system",
+    "title": "Every new car sold in the European Union must include a driver monitoring camera"
+  },
+  {
+    "source": "hn",
+    "url": "https://gracefulliberty.com/notes/scheme-is-a-hoot/",
+    "title": "Scheme Is a Hoot"
+  },
+  {
+    "source": "hn",
+    "url": "https://vatsalbakshi.com/blog/benfords-law/",
+    "title": "An interactive explorer for Benford's Law across real datasets"
   },
   {
     "source": "hn",
@@ -71,28 +71,18 @@
   },
   {
     "source": "hn",
-    "url": "https://nyanpasu64.gitlab.io/blog/hdmi-vga-dac-audio/",
-    "title": "Fixing analog audio on the $2.58 HDMI-to-VGA adapter"
+    "url": "https://blog.zksecurity.xyz/posts/circl-bugs/",
+    "title": "AI Meets Cryptography 1: What AI Found in Cloudflare's Circl"
   },
   {
     "source": "hn",
-    "url": "https://pgdog.dev/blog/why-yet-another-connection-pooler",
-    "title": "Why we built yet another Postgres connection pooler"
+    "url": "https://try.works/first-principles-of-model-routing",
+    "title": "First Principles of Model Routing"
   },
   {
     "source": "hn",
-    "url": "https://blog.klipse.tech/aboulafia/2026/07/06/a-13th-century-enumeration-algorithm-ignored-for-700-years.html",
-    "title": "A 13th-Century Enumeration Algorithm, Ignored for 700 Years"
-  },
-  {
-    "source": "hn",
-    "url": "https://gamefromscratch.com/microsoft-fire-idtech-team-at-id-software/",
-    "title": "Microsoft fire idTech team at Id software"
-  },
-  {
-    "source": "hn",
-    "url": "https://replicated.live/blog/away",
-    "title": "Automating AI Away"
+    "url": "https://streetcomplete.app/",
+    "title": "StreetComplete: Fixing OpenStreetMap, one tiny quest at a time"
   },
   {
     "source": "lobsters",
@@ -116,6 +106,11 @@
   },
   {
     "source": "lobsters",
+    "url": "https://haskellforall.com/2026/07/mechanized-type-inference-for-record-concatenation",
+    "title": "Mechanized type inference for record concatenation"
+  },
+  {
+    "source": "lobsters",
     "url": "https://mijndertstuij.nl/posts/i-was-wrong-about-game-development/",
     "title": "I was wrong about game development"
   },
@@ -126,13 +121,18 @@
   },
   {
     "source": "lobsters",
-    "url": "https://haskellforall.com/2026/07/mechanized-type-inference-for-record-concatenation",
-    "title": "Mechanized type inference for record concatenation"
+    "url": "https://qr.jim.sh/",
+    "title": "Jim's TrueType QR Code Font"
   },
   {
     "source": "lobsters",
     "url": "https://philip.mallegolhansen.com/blog/2026-07-04-friction-is-a-feature.html",
     "title": "Friction is a Feature"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://krisshamloo.com/blog/007",
+    "title": "a software engineering interview question I like: computing the median"
   },
   {
     "source": "lobsters",
@@ -151,28 +151,13 @@
   },
   {
     "source": "lobsters",
+    "url": "https://pgdog.dev/blog/why-yet-another-connection-pooler",
+    "title": "Why we built yet another Postgres connection pooler"
+  },
+  {
+    "source": "lobsters",
     "url": "https://elm-lang.org/news/faster-builds",
     "title": "Faster Builds with Elm 0.19.2"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://www.star-history.com/blog/github-stargazer-api-restriction",
-    "title": "GitHub Has Restricted Access to Star Data"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://ebitengine.org/en/blog/native_compiling_for_nintendo_switch.html",
-    "title": "Compiling a Go program into a native binary for Nintendo Switch (2022)"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://segflow.github.io/post/fast-file-search-go/",
-    "title": "Finding a needle in a 4 GB haystack: from 0.75 GB/s to 49 GB/s in Go"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://sneakerweb.org/",
-    "title": "sneakerweb"
   },
   {
     "source": "pinboard",
@@ -193,11 +178,6 @@
     "source": "pinboard",
     "url": "https://organicmaps.app/",
     "title": "Organic Maps - Detailed Offline Maps for Travellers, Tourists, Hikers and Cyclists"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://qr.jim.sh/",
-    "title": "Jim's TrueType QR Code Font"
   },
   {
     "source": "pinboard",
@@ -228,6 +208,11 @@
     "source": "pinboard",
     "url": "https://wordgard.net/",
     "title": "Wordgard"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://sneakerweb.org/",
+    "title": "sneakerweb"
   },
   {
     "source": "pinboard",
