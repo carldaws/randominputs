@@ -1,18 +1,13 @@
 [
   {
     "source": "hn",
-    "url": "https://combine-lab.github.io/blog/2026/07/07/fable-is-not-a-useful-model.html",
-    "title": "Fable is not a useful model"
-  },
-  {
-    "source": "hn",
     "url": "https://www.hmans.dev/blog/chatto-is-open-source",
-    "title": "Chatto is now Open Source"
+    "title": "Chatto is now open source"
   },
   {
     "source": "hn",
-    "url": "https://cognition.com/blog/swe-1-7",
-    "title": "SWE-1.7 Reach Near GPT 5.5 and Opus Intelligence"
+    "url": "https://www.abeyk.com/escape-the-rat-race/",
+    "title": "FAANG Simulator"
   },
   {
     "source": "hn",
@@ -26,8 +21,13 @@
   },
   {
     "source": "hn",
-    "url": "https://blog.cloudflare.com/meerkat-introduction/",
-    "title": "Cloudflare Meerkat - Globally distributed consensus"
+    "url": "https://combine-lab.github.io/blog/2026/07/07/fable-is-not-a-useful-model.html",
+    "title": "The classifiers Anthropic puts in front of Fable are too zealous"
+  },
+  {
+    "source": "hn",
+    "url": "https://cognition.com/blog/swe-1-7",
+    "title": "SWE-1.7 Reach Near GPT 5.5 and Opus Intelligence"
   },
   {
     "source": "hn",
@@ -36,18 +36,8 @@
   },
   {
     "source": "hn",
-    "url": "https://www.abeyk.com/escape-the-rat-race/",
-    "title": "FAANG Simulator"
-  },
-  {
-    "source": "hn",
-    "url": "https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos/",
-    "title": "GitLost: We Tricked GitHub's AI Agent into Leaking Private Repos"
-  },
-  {
-    "source": "hn",
-    "url": "https://e360.yale.edu/features/cassandra-rauert-interview",
-    "title": "What Do We Know About the Microplastics Inside Us?"
+    "url": "https://blog.cloudflare.com/meerkat-introduction/",
+    "title": "Cloudflare Meerkat - Globally distributed consensus"
   },
   {
     "source": "hn",
@@ -61,18 +51,18 @@
   },
   {
     "source": "hn",
-    "url": "https://www.flatpanelshd.com/news.php?subaction=showfull&id=1783340582",
-    "title": "PlayStation can delete all your digital games after 3 years of inactivity (EU)"
-  },
-  {
-    "source": "hn",
     "url": "https://philatype.com/tabfont/",
     "title": "TabFont – guitar tabs rendered as you type"
   },
   {
     "source": "hn",
-    "url": "https://multigres.com/blog/listen-notify",
-    "title": "Multigres Supports Listen/Notify Across Pooled Connections"
+    "url": "https://www.flatpanelshd.com/news.php?subaction=showfull&id=1783340582",
+    "title": "PlayStation can delete all your digital games after 3 years of inactivity (EU)"
+  },
+  {
+    "source": "hn",
+    "url": "https://graphitemaster.github.io/aau/",
+    "title": "Almost Always Unsigned"
   },
   {
     "source": "lobsters",
@@ -91,6 +81,11 @@
   },
   {
     "source": "lobsters",
+    "url": "https://yorickpeterse.com/articles/funding-open-source-software-without-compromising-it/",
+    "title": "Funding open-source software without compromising it"
+  },
+  {
+    "source": "lobsters",
     "url": "https://seriot.ch/computation/uts35/",
     "title": "Unicode's Transliteration Rules Are Turing-Complete"
   },
@@ -101,13 +96,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://blogs.gnome.org/sophieh/2026/07/07/accessibility-in-gnome/",
-    "title": "Accessibility in GNOME"
+    "url": "https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos/",
+    "title": "GitLost: How We Tricked GitHub’s AI Agent into Leaking Private Repos"
   },
   {
     "source": "lobsters",
-    "url": "https://yorickpeterse.com/articles/funding-open-source-software-without-compromising-it/",
-    "title": "Funding open-source software without compromising it"
+    "url": "https://blogs.gnome.org/sophieh/2026/07/07/accessibility-in-gnome/",
+    "title": "Accessibility in GNOME"
   },
   {
     "source": "lobsters",
@@ -116,8 +111,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://graphitemaster.github.io/aau/",
-    "title": "Almost Always Unsigned"
+    "url": "https://zine-ssg.io/log/?v0.12.0#v0.12.0",
+    "title": "Zine 0.12.0"
   },
   {
     "source": "lobsters",
@@ -128,11 +123,6 @@
     "source": "lobsters",
     "url": "https://botkit.fedify.dev/",
     "title": "BotKit: Standalone ActivityPub bots in TypeScript"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://zine-ssg.io/log/?v0.12.0#v0.12.0",
-    "title": "Zine 0.12.0"
   },
   {
     "source": "lobsters",
