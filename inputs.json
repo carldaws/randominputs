@@ -1,8 +1,18 @@
 [
   {
     "source": "hn",
+    "url": "https://www.gao.gov/products/gao-26-108193",
+    "title": "GAO: DOE Is Prematurely Excluding Less Expensive Options for Nuclear Cleanup"
+  },
+  {
+    "source": "hn",
     "url": "https://ariya.io/2026/03/local-cpu-friendly-high-quality-tts-text-to-speech-with-kokoro/",
     "title": "Local, CPU-Friendly, High-Quality TTS (Text-to-Speech) with Kokoro"
+  },
+  {
+    "source": "hn",
+    "url": "https://odra.dev/slopfix/",
+    "title": "We charge $10k a week to delete AI-generated code"
   },
   {
     "source": "hn",
@@ -16,6 +26,11 @@
   },
   {
     "source": "hn",
+    "url": "https://vatsalbakshi.com/blog/benfords-law/",
+    "title": "An interactive explorer for Benford's Law across real datasets"
+  },
+  {
+    "source": "hn",
     "url": "https://davit.app",
     "title": "Show HN: Davit, a Apple Containers UI"
   },
@@ -26,18 +41,23 @@
   },
   {
     "source": "hn",
-    "url": "https://www.gao.gov/products/gao-26-108193",
-    "title": "GAO: DOE Is Prematurely Excluding Less Expensive Options for Nuclear Cleanup"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.sfgate.com/sf-culture/article/vancouver-stand-in-movie-tv-sf-16613821.php",
-    "title": "Why Vancouver is always a stand-in for San Francisco in movies and TV shows (2021)"
-  },
-  {
-    "source": "hn",
     "url": "https://30papers.com/",
     "title": "30papers.com – Ilya's 30 essential ML papers, in a beginner friendly format"
+  },
+  {
+    "source": "hn",
+    "url": "https://ocw.mit.edu/courses/6-001-structure-and-interpretation-of-computer-programs-spring-2005/video_galleries/video-lectures/",
+    "title": "Structure and Interpretation of Computer Programs Video Lectures"
+  },
+  {
+    "source": "hn",
+    "url": "https://try.works/first-principles-of-model-routing",
+    "title": "First Principles of Model Routing"
+  },
+  {
+    "source": "hn",
+    "url": "https://chiptune-radio.alephvoid.com/",
+    "title": "Show HN: Chiptune Radio"
   },
   {
     "source": "hn",
@@ -61,6 +81,11 @@
   },
   {
     "source": "hn",
+    "url": "https://blog.klipse.tech/aboulafia/2026/07/06/a-13th-century-enumeration-algorithm-ignored-for-700-years.html",
+    "title": "A 13th-Century Enumeration Algorithm, Ignored for 700 Years"
+  },
+  {
+    "source": "hn",
     "url": "https://gamefromscratch.com/microsoft-fire-idtech-team-at-id-software/",
     "title": "Microsoft fire idTech team at Id software"
   },
@@ -68,16 +93,6 @@
     "source": "hn",
     "url": "https://replicated.live/blog/away",
     "title": "Automating AI Away"
-  },
-  {
-    "source": "hn",
-    "url": "https://cccg.ca/proceedings/2008/paper34full.pdf",
-    "title": "Computational Balloon Twisting: The Theory of Balloon Polyhedra [pdf]"
-  },
-  {
-    "source": "hn",
-    "url": "https://whynothugo.nl/journal/2026/07/03/98-isnt-very-much/",
-    "title": "98% isn't much"
   },
   {
     "source": "lobsters",
@@ -121,18 +136,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://martinalderson.com/posts/the-upcoming-ai-margin-collapse-part-1-glm-5-2/",
-    "title": "GLM 5.2 and the coming AI margin collapse"
-  },
-  {
-    "source": "lobsters",
     "url": "https://radicle.dev/",
     "title": "Radicle: P2P Git Replication with Git Native Issues and Patches"
   },
   {
     "source": "lobsters",
-    "url": "https://elm-lang.org/news/faster-builds",
-    "title": "Faster Builds with Elm 0.19.2"
+    "url": "https://martinalderson.com/posts/the-upcoming-ai-margin-collapse-part-1-glm-5-2/",
+    "title": "GLM 5.2 and the coming AI margin collapse"
   },
   {
     "source": "lobsters",
@@ -141,18 +151,18 @@
   },
   {
     "source": "lobsters",
-    "url": "https://www.internationalcyberdigest.com/new-research-a-verified-github-commit-is-not-unique/",
-    "title": "New Research: A \"Verified\" GitHub Commit Is NOT Unique"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://ebitengine.org/en/blog/native_compiling_for_nintendo_switch.html",
-    "title": "Compiling a Go program into a native binary for Nintendo Switch (2022)"
+    "url": "https://elm-lang.org/news/faster-builds",
+    "title": "Faster Builds with Elm 0.19.2"
   },
   {
     "source": "lobsters",
     "url": "https://www.star-history.com/blog/github-stargazer-api-restriction",
     "title": "GitHub Has Restricted Access to Star Data"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://ebitengine.org/en/blog/native_compiling_for_nintendo_switch.html",
+    "title": "Compiling a Go program into a native binary for Nintendo Switch (2022)"
   },
   {
     "source": "lobsters",
