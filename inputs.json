@@ -1,23 +1,8 @@
 [
   {
     "source": "hn",
-    "url": "https://www.gao.gov/products/gao-26-108193",
-    "title": "GAO: DOE Is Prematurely Excluding Less Expensive Options for Nuclear Cleanup"
-  },
-  {
-    "source": "hn",
-    "url": "https://ocw.mit.edu/courses/6-001-structure-and-interpretation-of-computer-programs-spring-2005/video_galleries/video-lectures/",
-    "title": "Structure and Interpretation of Computer Programs Video Lectures (1986)"
-  },
-  {
-    "source": "hn",
-    "url": "https://ariya.io/2026/03/local-cpu-friendly-high-quality-tts-text-to-speech-with-kokoro/",
-    "title": "Local, CPU-Friendly, High-Quality TTS (Text-to-Speech) with Kokoro"
-  },
-  {
-    "source": "hn",
-    "url": "https://fightchatcontrol.eu/chat-control-overview",
-    "title": "Chat Control 1.0 and 2.0 Explained"
+    "url": "https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos/",
+    "title": "GitLost: We Tricked GitHub's AI Agent into Leaking Private Repos"
   },
   {
     "source": "hn",
@@ -26,13 +11,33 @@
   },
   {
     "source": "hn",
+    "url": "https://ocw.mit.edu/courses/6-001-structure-and-interpretation-of-computer-programs-spring-2005/video_galleries/video-lectures/",
+    "title": "Structure and Interpretation of Computer Programs Video Lectures (1986)"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.gao.gov/products/gao-26-108193",
+    "title": "GAO: DOE Is Prematurely Excluding Less Expensive Options for Nuclear Cleanup"
+  },
+  {
+    "source": "hn",
+    "url": "https://fightchatcontrol.eu/chat-control-overview",
+    "title": "Chat Control 1.0 and 2.0 Explained"
+  },
+  {
+    "source": "hn",
+    "url": "https://ariya.io/2026/03/local-cpu-friendly-high-quality-tts-text-to-speech-with-kokoro/",
+    "title": "Local, CPU-Friendly, High-Quality TTS (Text-to-Speech) with Kokoro"
+  },
+  {
+    "source": "hn",
     "url": "https://neiltheseal.app/",
     "title": "Show HN: Neil the Seal Game"
   },
   {
     "source": "hn",
-    "url": "https://davit.app",
-    "title": "Show HN: Davit, a Apple Containers UI"
+    "url": "https://pluralistic.net/2026/07/02/canonization/",
+    "title": "The difference between \"today's task\" and \"accretive work\""
   },
   {
     "source": "hn",
@@ -41,18 +46,18 @@
   },
   {
     "source": "hn",
-    "url": "https://chiptune-radio.alephvoid.com/",
-    "title": "Show HN: Chiptune Radio"
-  },
-  {
-    "source": "hn",
     "url": "https://stats.lineageos.org",
     "title": "LineageOS Statistics"
   },
   {
     "source": "hn",
-    "url": "https://allaboutcookies.org/eu-mandatory-distracted-driver-system",
-    "title": "Every new car sold in the European Union must include a driver monitoring camera"
+    "url": "https://davit.app",
+    "title": "Show HN: Davit, a Apple Containers UI"
+  },
+  {
+    "source": "hn",
+    "url": "https://chiptune-radio.alephvoid.com/",
+    "title": "Show HN: Chiptune Radio"
   },
   {
     "source": "hn",
@@ -61,8 +66,13 @@
   },
   {
     "source": "hn",
-    "url": "https://vatsalbakshi.com/blog/benfords-law/",
-    "title": "An interactive explorer for Benford's Law across real datasets"
+    "url": "https://literaryreview.co.uk/out-of-the-armchair",
+    "title": "Out of the Armchair"
+  },
+  {
+    "source": "hn",
+    "url": "https://allaboutcookies.org/eu-mandatory-distracted-driver-system",
+    "title": "Every new car sold in the European Union must include a driver monitoring camera"
   },
   {
     "source": "hn",
@@ -71,18 +81,8 @@
   },
   {
     "source": "hn",
-    "url": "https://blog.zksecurity.xyz/posts/circl-bugs/",
-    "title": "AI Meets Cryptography 1: What AI Found in Cloudflare's Circl"
-  },
-  {
-    "source": "hn",
-    "url": "https://try.works/first-principles-of-model-routing",
-    "title": "First Principles of Model Routing"
-  },
-  {
-    "source": "hn",
-    "url": "https://streetcomplete.app/",
-    "title": "StreetComplete: Fixing OpenStreetMap, one tiny quest at a time"
+    "url": "https://pgdog.dev/blog/why-yet-another-connection-pooler",
+    "title": "Why we built yet another Postgres connection pooler"
   },
   {
     "source": "lobsters",
@@ -96,6 +96,11 @@
   },
   {
     "source": "lobsters",
+    "url": "https://qr.jim.sh/",
+    "title": "Jim's TrueType QR Code Font"
+  },
+  {
+    "source": "lobsters",
     "url": "https://monoid.github.io/posts/false-sharing-alignment/",
     "title": "Why false sharing alignment should be 128 bytes on x64"
   },
@@ -106,28 +111,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://haskellforall.com/2026/07/mechanized-type-inference-for-record-concatenation",
-    "title": "Mechanized type inference for record concatenation"
-  },
-  {
-    "source": "lobsters",
     "url": "https://mijndertstuij.nl/posts/i-was-wrong-about-game-development/",
     "title": "I was wrong about game development"
   },
   {
     "source": "lobsters",
-    "url": "https://www.gingerbill.org/article/2026/05/03/signed-by-default/",
-    "title": "Signed Integers By Default"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://qr.jim.sh/",
-    "title": "Jim's TrueType QR Code Font"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://philip.mallegolhansen.com/blog/2026-07-04-friction-is-a-feature.html",
-    "title": "Friction is a Feature"
+    "url": "https://haskellforall.com/2026/07/mechanized-type-inference-for-record-concatenation",
+    "title": "Mechanized type inference for record concatenation"
   },
   {
     "source": "lobsters",
@@ -136,8 +126,18 @@
   },
   {
     "source": "lobsters",
-    "url": "https://radicle.dev/",
-    "title": "Radicle: P2P Git Replication with Git Native Issues and Patches"
+    "url": "https://www.gingerbill.org/article/2026/05/03/signed-by-default/",
+    "title": "Signed Integers By Default"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://philip.mallegolhansen.com/blog/2026-07-04-friction-is-a-feature.html",
+    "title": "Friction is a Feature"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://ntietz.com/blog/licensing-joy-gal/",
+    "title": "Licensing can be joyful (and legally dubious) (2024)"
   },
   {
     "source": "lobsters",
@@ -146,18 +146,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://www.openssh.org/releasenotes.html#10.4",
-    "title": "OpenSSH 10.4"
+    "url": "https://radicle.dev/",
+    "title": "Radicle: P2P Git Replication with Git Native Issues and Patches"
   },
   {
     "source": "lobsters",
-    "url": "https://pgdog.dev/blog/why-yet-another-connection-pooler",
-    "title": "Why we built yet another Postgres connection pooler"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://elm-lang.org/news/faster-builds",
-    "title": "Faster Builds with Elm 0.19.2"
+    "url": "https://pointersgonewild.com/2026-07-07-building-a-clang-backend-and-porting-doom-to-my-custom-bytecode-vm/",
+    "title": "Building a Clang Backend and Porting Doom to my Custom Bytecode VM"
   },
   {
     "source": "pinboard",
@@ -166,13 +161,8 @@
   },
   {
     "source": "pinboard",
-    "url": "https://dthain.github.io/books/compiler/",
-    "title": "Introduction to Compilers and Language Design | Prof. Douglas Thain at Notre Dame"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://iahmed.me/post/drone-physics/",
-    "title": "Drone physics"
+    "url": "https://www.comaps.app/",
+    "title": "Hike, Bike, Drive Offline Navigate with Privacy | CoMaps"
   },
   {
     "source": "pinboard",
@@ -181,8 +171,13 @@
   },
   {
     "source": "pinboard",
-    "url": "https://goodnameforablog.com/posts/very-average-prototypes/",
-    "title": "Very Average Prototypes - Good Name For A Blog"
+    "url": "https://dthain.github.io/books/compiler/",
+    "title": "Introduction to Compilers and Language Design | Prof. Douglas Thain at Notre Dame"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://transformer-circuits.pub/2026/workspace/index.html",
+    "title": "Verbalizable Representations Form a Global Workspace in Language Models"
   },
   {
     "source": "pinboard",
@@ -191,23 +186,8 @@
   },
   {
     "source": "pinboard",
-    "url": "https://smolmachines.com/",
-    "title": "smol machines"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://withmarble.com/",
-    "title": "Marble: the interactive learning world for curious kids, ages 6-12"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://tools.simonwillison.net/html-table-extractor",
-    "title": "HTML table extractor"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://wordgard.net/",
-    "title": "Wordgard"
+    "url": "https://bradleywoolf.com/links-1/sequencing-my-own-dna-at-home",
+    "title": "How to sequence your own DNA at home"
   },
   {
     "source": "pinboard",
@@ -221,23 +201,33 @@
   },
   {
     "source": "pinboard",
-    "url": "https://blog.mikebowler.ca/2026/07/03/co2-and-decision-making/",
-    "title": "The bottleneck might be the air in the room | Mike Bowler"
-  },
-  {
-    "source": "pinboard",
     "url": "https://www.starringthecomputer.com/computers.html",
     "title": "Starring the Computer"
   },
   {
     "source": "pinboard",
-    "url": "https://ahmadawais.com/the-full-stack-of-terminals-explained-terminal-shell-tty-console-posix-ansi-escapes-ptys/",
-    "title": "The Full Stack of Terminals Explained: Terminal, Shell, TTY, Console, POSIX, ANSI Escapes, PTYs, Raw/Canonical Modes"
+    "url": "https://janilowski.pl/en/blog/2026/price-per-m-tokens/",
+    "title": "Price per 1M tokens is meaningless | Jan Iłowski"
   },
   {
     "source": "pinboard",
-    "url": "https://www.geoffreylitt.com/2026/07/02/understanding-is-the-new-bottleneck.html",
-    "title": "Understanding is the new bottleneck"
+    "url": "https://olliewilliams.xyz/blog/dark-mode/",
+    "title": "Dark mode with web standards"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://ternlight-demo.vercel.app/",
+    "title": "Ternlight"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://smolmachines.com/",
+    "title": "smol machines"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://futurism.com/future-society/college-critical-thinking-ai",
+    "title": "Bosses Horrified as \"AI Native\" College Graduates Hit the Workplace"
   },
   {
     "source": "pinboard",
@@ -246,27 +236,17 @@
   },
   {
     "source": "pinboard",
-    "url": "https://postgresisenough.dev/",
-    "title": "Postgres Is Enough"
+    "url": "https://www.geoffreylitt.com/2026/07/02/understanding-is-the-new-bottleneck.html",
+    "title": "Understanding is the new bottleneck"
   },
   {
     "source": "pinboard",
-    "url": "https://unsung.aresluna.org/if-youre-a-button-you-have-one-job/",
-    "title": "If you’re a button, you have one job – Unsung"
+    "url": "https://davit.app/",
+    "title": "Davit — a native macOS UI for Apple containers"
   },
   {
     "source": "pinboard",
-    "url": "https://math.ucr.edu/home/baez/act_course/index.html",
-    "title": "Applied Category Theory Course"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.marginalia.nu/log/a_135_learn/",
-    "title": "Maybe you should learn something | marginalia.nu"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.comaps.app/",
-    "title": "Hike, Bike, Drive Offline Navigate with Privacy | CoMaps"
+    "url": "https://ahmadawais.com/the-full-stack-of-terminals-explained-terminal-shell-tty-console-posix-ansi-escapes-ptys/",
+    "title": "The Full Stack of Terminals Explained: Terminal, Shell, TTY, Console, POSIX, ANSI Escapes, PTYs, Raw/Canonical Modes"
   }
 ]
