@@ -6,33 +6,13 @@
   },
   {
     "source": "hn",
+    "url": "https://blog.cloudflare.com/meerkat-introduction/",
+    "title": "Cloudflare Meerkat - Globally distributed consensus"
+  },
+  {
+    "source": "hn",
     "url": "https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos/",
     "title": "GitLost: We Tricked GitHub's AI Agent into Leaking Private Repos"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.digipres.org/the-floppy-guide/",
-    "title": "Copy That Floppy – Cambridge guide for preserving data from fragile floppy disks"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.birdy.chat/blog/the-growing-list-of-european-organisations-that-ban-personal-messaging-apps-at-work",
-    "title": "List of European organizations that have banned personal messaging apps at work"
-  },
-  {
-    "source": "hn",
-    "url": "https://fightchatcontrol.eu/chat-control-overview",
-    "title": "Chat Control 1.0 and 2.0 Explained"
-  },
-  {
-    "source": "hn",
-    "url": "https://ocw.mit.edu/courses/6-001-structure-and-interpretation-of-computer-programs-spring-2005/video_galleries/video-lectures/",
-    "title": "Structure and Interpretation of Computer Programs Video Lectures (1986)"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.gao.gov/products/gao-26-108193",
-    "title": "GAO: DOE Is Prematurely Excluding Less Expensive Options for Nuclear Cleanup"
   },
   {
     "source": "hn",
@@ -41,8 +21,23 @@
   },
   {
     "source": "hn",
-    "url": "https://ariya.io/2026/03/local-cpu-friendly-high-quality-tts-text-to-speech-with-kokoro/",
-    "title": "Local, CPU-Friendly, High-Quality TTS (Text-to-Speech) with Kokoro"
+    "url": "https://www3.nhk.or.jp/nhkworld/en/news/20260705_01/",
+    "title": "Japan's Hayabusa2 probe to conduct flyby of Torifune asteroid"
+  },
+  {
+    "source": "hn",
+    "url": "https://fightchatcontrol.eu/chat-control-overview",
+    "title": "Chat Control 1.0 and 2.0 Explained"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.digipres.org/the-floppy-guide/",
+    "title": "Copy That Floppy – Cambridge guide for preserving data from fragile floppy disks"
+  },
+  {
+    "source": "hn",
+    "url": "https://ocw.mit.edu/courses/6-001-structure-and-interpretation-of-computer-programs-spring-2005/video_galleries/video-lectures/",
+    "title": "Structure and Interpretation of Computer Programs Video Lectures (1986)"
   },
   {
     "source": "hn",
@@ -51,18 +46,13 @@
   },
   {
     "source": "hn",
-    "url": "https://30papers.com/",
-    "title": "30papers.com – Ilya's 30 essential ML papers, in a beginner friendly format"
+    "url": "https://www.gao.gov/products/gao-26-108193",
+    "title": "GAO: DOE Is Prematurely Excluding Less Expensive Options for Nuclear Cleanup"
   },
   {
     "source": "hn",
-    "url": "https://davit.app",
-    "title": "Show HN: Davit, a Apple Containers UI"
-  },
-  {
-    "source": "hn",
-    "url": "https://pluralistic.net/2026/07/02/canonization/",
-    "title": "The difference between \"today's task\" and \"accretive work\""
+    "url": "https://ariya.io/2026/03/local-cpu-friendly-high-quality-tts-text-to-speech-with-kokoro/",
+    "title": "Local, CPU-Friendly, High-Quality TTS (Text-to-Speech) with Kokoro"
   },
   {
     "source": "hn",
@@ -71,13 +61,18 @@
   },
   {
     "source": "hn",
-    "url": "https://gracefulliberty.com/notes/scheme-is-a-hoot/",
-    "title": "Scheme Is a Hoot"
+    "url": "https://pluralistic.net/2026/07/02/canonization/",
+    "title": "The difference between \"today's task\" and \"accretive work\""
   },
   {
     "source": "hn",
-    "url": "https://pgdog.dev/blog/why-yet-another-connection-pooler",
-    "title": "Why we built yet another Postgres connection pooler"
+    "url": "https://davit.app",
+    "title": "Show HN: Davit, a Apple Containers UI"
+  },
+  {
+    "source": "hn",
+    "url": "https://neiltheseal.app/",
+    "title": "Show HN: Neil the Seal Game"
   },
   {
     "source": "lobsters",
@@ -91,13 +86,23 @@
   },
   {
     "source": "lobsters",
+    "url": "https://krisshamloo.com/blog/007",
+    "title": "a software engineering interview question I like: computing the median"
+  },
+  {
+    "source": "lobsters",
     "url": "https://ketanjoshi.co/2026/07/01/googles-exponential-path-to-climate-wrecking-digital-bloat/",
     "title": "Google’s exponential path to climate-wrecking digital bloat"
   },
   {
     "source": "lobsters",
-    "url": "https://krisshamloo.com/blog/007",
-    "title": "a software engineering interview question I like: computing the median"
+    "url": "https://blogs.gnome.org/sophieh/2026/07/07/accessibility-in-gnome/",
+    "title": "Accessibility in GNOME"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://geopjr.dev/blog/democratizing-abandonware",
+    "title": "Democratizing Abandonware"
   },
   {
     "source": "lobsters",
@@ -111,18 +116,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://blogs.gnome.org/sophieh/2026/07/07/accessibility-in-gnome/",
-    "title": "Accessibility in GNOME"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://doscienceto.it/waterpark",
-    "title": "Waterfall CAD Playground - A Haskell powered programmable-CAD environment, in the browser with WASM"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://haskellforall.com/2026/07/mechanized-type-inference-for-record-concatenation",
-    "title": "Mechanized type inference for record concatenation"
+    "url": "https://seriot.ch/computation/uts35/",
+    "title": "Unicode's Transliteration Rules Are Turing-Complete"
   },
   {
     "source": "lobsters",
@@ -131,127 +126,22 @@
   },
   {
     "source": "lobsters",
+    "url": "https://yorickpeterse.com/articles/funding-open-source-software-without-compromising-it/",
+    "title": "Funding open-source software without compromising it"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://haskellforall.com/2026/07/mechanized-type-inference-for-record-concatenation",
+    "title": "Mechanized type inference for record concatenation"
+  },
+  {
+    "source": "lobsters",
     "url": "https://www.gingerbill.org/article/2026/05/03/signed-by-default/",
     "title": "Signed Integers By Default"
   },
   {
     "source": "lobsters",
-    "url": "https://philip.mallegolhansen.com/blog/2026-07-04-friction-is-a-feature.html",
-    "title": "Friction is a Feature"
-  },
-  {
-    "source": "lobsters",
     "url": "https://ntietz.com/blog/licensing-joy-gal/",
     "title": "Licensing can be joyful (and legally dubious) (2024)"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://blog.jle.im/entry/extreme-haskell-typed-expression-edsls-1.html",
-    "title": "Extreme Haskell: Typed Expression EDSLs (Part 1)"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://pointersgonewild.com/2026-07-07-building-a-clang-backend-and-porting-doom-to-my-custom-bytecode-vm/",
-    "title": "Building a Clang Backend and Porting Doom to my Custom Bytecode VM"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.opentools.studio/",
-    "title": "OpenTools / OpenPrinter"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.comaps.app/",
-    "title": "Hike, Bike, Drive Offline Navigate with Privacy | CoMaps"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://organicmaps.app/",
-    "title": "Organic Maps - Detailed Offline Maps for Travellers, Tourists, Hikers and Cyclists"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://dthain.github.io/books/compiler/",
-    "title": "Introduction to Compilers and Language Design | Prof. Douglas Thain at Notre Dame"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://transformer-circuits.pub/2026/workspace/index.html",
-    "title": "Verbalizable Representations Form a Global Workspace in Language Models"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://ledger.worseonpurpose.com/",
-    "title": "The Brand Ledger — Worse on Purpose"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://bradleywoolf.com/links-1/sequencing-my-own-dna-at-home",
-    "title": "How to sequence your own DNA at home"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://martinalderson.com/posts/the-upcoming-ai-margin-collapse-part-1-glm-5-2/",
-    "title": "GLM 5.2 and the coming AI margin collapse (part 1) - Martin Alderson"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://sneakerweb.org/",
-    "title": "sneakerweb"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://phenomenalworld.org/analysis/the-anti-amazon/",
-    "title": "The Anti-Amazon - Benjamin Y. Fong"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.starringthecomputer.com/computers.html",
-    "title": "Starring the Computer"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://janilowski.pl/en/blog/2026/price-per-m-tokens/",
-    "title": "Price per 1M tokens is meaningless | Jan Iłowski"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://olliewilliams.xyz/blog/dark-mode/",
-    "title": "Dark mode with web standards"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://ternlight-demo.vercel.app/",
-    "title": "Ternlight"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://smolmachines.com/",
-    "title": "smol machines"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://futurism.com/future-society/college-critical-thinking-ai",
-    "title": "Bosses Horrified as \"AI Native\" College Graduates Hit the Workplace"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://iamwillwang.com/notes/has-not-been-viewed-much/",
-    "title": "has_not_been_viewed_much — Will W."
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.geoffreylitt.com/2026/07/02/understanding-is-the-new-bottleneck.html",
-    "title": "Understanding is the new bottleneck"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://davit.app/",
-    "title": "Davit — a native macOS UI for Apple containers"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://ahmadawais.com/the-full-stack-of-terminals-explained-terminal-shell-tty-console-posix-ansi-escapes-ptys/",
-    "title": "The Full Stack of Terminals Explained: Terminal, Shell, TTY, Console, POSIX, ANSI Escapes, PTYs, Raw/Canonical Modes"
   }
 ]
