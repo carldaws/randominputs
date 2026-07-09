@@ -1,18 +1,8 @@
 [
   {
     "source": "hn",
-    "url": "https://krisshamloo.com/blog/007",
-    "title": "A software engineering interview question I like: computing the median"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.hmans.dev/blog/chatto-is-open-source",
-    "title": "Chatto is now open source"
-  },
-  {
-    "source": "hn",
-    "url": "https://seriot.ch/computation/uts35/",
-    "title": "Unicode's transliteration rules are Turing-complete"
+    "url": "https://nexte.st/",
+    "title": "Cargo-nextest: 3x faster than cargo test, per-test isolation, first-class CI"
   },
   {
     "source": "hn",
@@ -21,28 +11,13 @@
   },
   {
     "source": "hn",
-    "url": "https://www.tryai.dev/blog/grok-4.5-vs-gpt-5.5-vs-claude-build-off",
-    "title": "We made Grok 4.5, GPT-5.5, and Claude build the same apps"
+    "url": "https://bittlex-sim.petoi.com/",
+    "title": "In-browser programmable robot simulator"
   },
   {
     "source": "hn",
-    "url": "https://simonwillison.net/2026/Jul/8/rewriting-bun-in-rust/",
-    "title": "Rewriting Bun in Rust"
-  },
-  {
-    "source": "hn",
-    "url": "https://mira-wm.com/",
-    "title": "MIRA: Multiplayer Interactive World Models Trained on Rocket League"
-  },
-  {
-    "source": "hn",
-    "url": "https://mhloppy.com/2026/05/mechcommander-weapons-left-arm-bug-fix/",
-    "title": "Patching MechCommander's \"left arm bug\" for fun and profit"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.abeyk.com/escape-the-rat-race/",
-    "title": "FAANG Simulator"
+    "url": "https://seriot.ch/computation/uts35/",
+    "title": "Unicode's transliteration rules are Turing-complete"
   },
   {
     "source": "hn",
@@ -51,18 +26,33 @@
   },
   {
     "source": "hn",
+    "url": "https://mhloppy.com/2026/05/mechcommander-weapons-left-arm-bug-fix/",
+    "title": "Patching MechCommander's \"left arm bug\" for fun and profit"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.hmans.dev/blog/chatto-is-open-source",
+    "title": "Chatto is now open source"
+  },
+  {
+    "source": "hn",
     "url": "https://tris.sherliker.net/blog/obfuscated-self-evaluating-bash-script-by-cdn-akamai-being-supplied-to-consumers-via-retail-stores/",
     "title": "Decoding the obfuscated bash script on a Uniqlo t-shirt"
   },
   {
     "source": "hn",
-    "url": "https://blog.cloudflare.com/meerkat-introduction/",
-    "title": "Cloudflare Meerkat - Globally distributed consensus"
+    "url": "https://www.abeyk.com/escape-the-rat-race/",
+    "title": "FAANG Simulator"
   },
   {
     "source": "hn",
-    "url": "https://cyberinsider.com/eu-now-one-step-away-from-reviving-private-message-scanning-rules/",
-    "title": "EU now one step away from reviving private message scanning rules"
+    "url": "https://mira-wm.com/",
+    "title": "MIRA: Multiplayer Interactive World Models Trained on Rocket League"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://www.keygenchurch.com",
+    "title": "Keygen Church - Oscuro Domine"
   },
   {
     "source": "lobsters",
@@ -71,8 +61,28 @@
   },
   {
     "source": "lobsters",
+    "url": "https://sebsite.pw/w/20260709-nan.html",
+    "title": "two case studies of NaN"
+  },
+  {
+    "source": "lobsters",
     "url": "https://yorickpeterse.com/articles/funding-open-source-software-without-compromising-it/",
     "title": "Funding open-source software without compromising it"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://krisshamloo.com/blog/007",
+    "title": "a software engineering interview question I like: computing the median"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://re.factorcode.org/2026/07/peace-for-all.html",
+    "title": "Peace For All – Re: Factor"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://graphitemaster.github.io/aau/",
+    "title": "Almost Always Unsigned (2022)"
   },
   {
     "source": "lobsters",
@@ -81,48 +91,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://graphitemaster.github.io/aau/",
-    "title": "Almost Always Unsigned"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://blogs.gnome.org/sophieh/2026/07/07/accessibility-in-gnome/",
-    "title": "Accessibility in GNOME"
-  },
-  {
-    "source": "lobsters",
     "url": "https://zine-ssg.io/log/?v0.12.0#v0.12.0",
     "title": "Zine 0.12.0"
   },
   {
     "source": "lobsters",
-    "url": "https://blog.rust-lang.org/inside-rust/2026/07/06/unite-for-clippy/",
-    "title": "Together for a healthier Clippy"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos/",
-    "title": "GitLost: How We Tricked GitHub’s AI Agent into Leaking Private Repos"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://geopjr.dev/blog/democratizing-abandonware",
-    "title": "Democratizing Abandonware"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://ketanjoshi.co/2026/07/01/googles-exponential-path-to-climate-wrecking-digital-bloat/",
-    "title": "Google’s exponential path to climate-wrecking digital bloat"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://botkit.fedify.dev/",
-    "title": "BotKit: Standalone ActivityPub bots in TypeScript"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.opentools.studio/",
-    "title": "OpenTools / OpenPrinter"
+    "url": "https://blogs.gnome.org/sophieh/2026/07/07/accessibility-in-gnome/",
+    "title": "Accessibility in GNOME"
   },
   {
     "source": "pinboard",
@@ -136,13 +111,13 @@
   },
   {
     "source": "pinboard",
-    "url": "https://organicmaps.app/",
-    "title": "Organic Maps - Detailed Offline Maps for Travellers, Tourists, Hikers and Cyclists"
+    "url": "https://davit.app/",
+    "title": "Davit — a native macOS UI for Apple containers"
   },
   {
     "source": "pinboard",
-    "url": "https://dthain.github.io/books/compiler/",
-    "title": "Introduction to Compilers and Language Design | Prof. Douglas Thain at Notre Dame"
+    "url": "https://postgresisenough.dev/",
+    "title": "Postgres Is Enough"
   },
   {
     "source": "pinboard",
@@ -151,33 +126,8 @@
   },
   {
     "source": "pinboard",
-    "url": "https://ledger.worseonpurpose.com/",
-    "title": "The Brand Ledger — Worse on Purpose"
-  },
-  {
-    "source": "pinboard",
     "url": "https://bradleywoolf.com/links-1/sequencing-my-own-dna-at-home",
     "title": "How to sequence your own DNA at home"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://martinalderson.com/posts/the-upcoming-ai-margin-collapse-part-1-glm-5-2/",
-    "title": "GLM 5.2 and the coming AI margin collapse (part 1) - Martin Alderson"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://sneakerweb.org/",
-    "title": "sneakerweb"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://phenomenalworld.org/analysis/the-anti-amazon/",
-    "title": "The Anti-Amazon - Benjamin Y. Fong"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.starringthecomputer.com/computers.html",
-    "title": "Starring the Computer"
   },
   {
     "source": "pinboard",
@@ -186,8 +136,23 @@
   },
   {
     "source": "pinboard",
-    "url": "https://olliewilliams.xyz/blog/dark-mode/",
-    "title": "Dark mode with web standards"
+    "url": "https://ledger.worseonpurpose.com/",
+    "title": "The Brand Ledger — Worse on Purpose"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://organicmaps.app/",
+    "title": "Organic Maps - Detailed Offline Maps for Travellers, Tourists, Hikers and Cyclists"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://martinalderson.com/posts/the-upcoming-ai-margin-collapse-part-1-glm-5-2/",
+    "title": "GLM 5.2 and the coming AI margin collapse (part 1) - Martin Alderson"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.opentools.studio/",
+    "title": "OpenTools / OpenPrinter"
   },
   {
     "source": "pinboard",
@@ -196,13 +161,8 @@
   },
   {
     "source": "pinboard",
-    "url": "https://smolmachines.com/",
-    "title": "smol machines"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://futurism.com/future-society/college-critical-thinking-ai",
-    "title": "Bosses Horrified as \"AI Native\" College Graduates Hit the Workplace"
+    "url": "https://sneakerweb.org/",
+    "title": "sneakerweb"
   },
   {
     "source": "pinboard",
@@ -211,17 +171,17 @@
   },
   {
     "source": "pinboard",
-    "url": "https://www.geoffreylitt.com/2026/07/02/understanding-is-the-new-bottleneck.html",
-    "title": "Understanding is the new bottleneck"
+    "url": "https://stillthinking.net/posts/connections-in-math-two-kinds-of-random/",
+    "title": "Connections in Math: the two kinds of random"
   },
   {
     "source": "pinboard",
-    "url": "https://davit.app/",
-    "title": "Davit — a native macOS UI for Apple containers"
+    "url": "https://astryx.atmeta.com/",
+    "title": "Astryx Design System"
   },
   {
     "source": "pinboard",
-    "url": "https://ahmadawais.com/the-full-stack-of-terminals-explained-terminal-shell-tty-console-posix-ansi-escapes-ptys/",
-    "title": "The Full Stack of Terminals Explained: Terminal, Shell, TTY, Console, POSIX, ANSI Escapes, PTYs, Raw/Canonical Modes"
+    "url": "https://anthonyhobday.com/blog/20260410",
+    "title": "Notes on software quality"
   }
 ]
