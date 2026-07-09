@@ -6,13 +6,28 @@
   },
   {
     "source": "hn",
+    "url": "https://toot-books.pages.dev/blog/glm-5-2-vat-benchmark",
+    "title": "GLM 5.2 is nearly as accurate as a human book keeper"
+  },
+  {
+    "source": "hn",
     "url": "https://hy.tencent.com/research/hy3",
     "title": "Hy3"
   },
   {
     "source": "hn",
+    "url": "https://www.wired.com/story/this-buried-apple-feature-turns-an-iphone-into-the-perfect-kids-dumb-phone/",
+    "title": "Buried Apple Feature Turns an iPhone into the Perfect Kids' Dumb Phone"
+  },
+  {
+    "source": "hn",
     "url": "https://tuxnet.dev/posts/tls-for-internal-services/",
     "title": "TLS certificates for internal services done right"
+  },
+  {
+    "source": "hn",
+    "url": "https://mwi.westpoint.edu/the-glass-backbone-why-the-armys-logistics-will-break-in-the-next-war/",
+    "title": "The glass backbone: Why the Army's logistics will break in the next war"
   },
   {
     "source": "hn",
@@ -26,13 +41,13 @@
   },
   {
     "source": "hn",
-    "url": "https://mwi.westpoint.edu/the-glass-backbone-why-the-armys-logistics-will-break-in-the-next-war/",
-    "title": "The glass backbone: Why the Army's logistics will break in the next war"
+    "url": "https://tomesphere.com/atlas",
+    "title": "Show HN: I mapped 8.5M research papers into an interactive atlas"
   },
   {
     "source": "hn",
-    "url": "https://blog.dannycastonguay.com/how-to-write-an-email/",
-    "title": "How to Write an Email"
+    "url": "https://marindedic.com/groups/",
+    "title": "How should group chats work in decentralized systems?"
   },
   {
     "source": "hn",
@@ -46,28 +61,8 @@
   },
   {
     "source": "hn",
-    "url": "https://tomesphere.com/atlas",
-    "title": "Show HN: I mapped 8.5M research papers into an interactive atlas"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.wired.com/story/this-buried-apple-feature-turns-an-iphone-into-the-perfect-kids-dumb-phone/",
-    "title": "Buried Apple Feature Turns an iPhone into the Perfect Kids' Dumb Phone"
-  },
-  {
-    "source": "hn",
-    "url": "https://marindedic.com/groups/",
-    "title": "How should group chats work in decentralized systems?"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.pangram.com/blog/ai-in-your-feed",
-    "title": "AI content is everywhere on social media, especially LinkedIn"
-  },
-  {
-    "source": "hn",
-    "url": "https://isonomiaquarterly.com/wp-content/uploads/2026/06/iq-4.2-summer-2026-macdonald-coordination-without-consolidation.pdf",
-    "title": "Coordination Without Consolidation: On Systems of States [pdf]"
+    "url": "https://drummate.app/blog/how-to-follow-a-drummer",
+    "title": "How to Follow a Drummer"
   },
   {
     "source": "lobsters",
@@ -91,13 +86,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://sebsite.pw/w/20260709-nan.html",
-    "title": "two case studies of NaN"
+    "url": "https://blog.rust-lang.org/2026/07/09/Rust-1.97.0/",
+    "title": "Announcing Rust 1.97.0"
   },
   {
     "source": "lobsters",
-    "url": "https://blog.rust-lang.org/2026/07/09/Rust-1.97.0/",
-    "title": "Announcing Rust 1.97.0"
+    "url": "https://sebsite.pw/w/20260709-nan.html",
+    "title": "two case studies of NaN"
   },
   {
     "source": "lobsters",
@@ -106,8 +101,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://www.hmans.dev/blog/chatto-is-open-source",
-    "title": "Chatto is now Open Source"
+    "url": "https://blog.khinsen.net/posts/2026/07/06/conviviality.html",
+    "title": "Conviviality in computational science"
   },
   {
     "source": "lobsters",
@@ -116,18 +111,23 @@
   },
   {
     "source": "lobsters",
+    "url": "https://www.hmans.dev/blog/chatto-is-open-source",
+    "title": "Chatto is now Open Source"
+  },
+  {
+    "source": "lobsters",
     "url": "https://yorickpeterse.com/articles/funding-open-source-software-without-compromising-it/",
     "title": "Funding open-source software without compromising it"
   },
   {
     "source": "lobsters",
-    "url": "https://blog.khinsen.net/posts/2026/07/06/conviviality.html",
-    "title": "Conviviality in computational science"
+    "url": "https://hakibenita.com/postgresql-partition-pruning",
+    "title": "How to Achieve Pruning When Querying by Non-Partitioned Columns in PostgreSQL"
   },
   {
     "source": "lobsters",
-    "url": "https://hakibenita.com/postgresql-partition-pruning",
-    "title": "How to Achieve Pruning When Querying by Non-Partitioned Columns in PostgreSQL"
+    "url": "https://cekrem.github.io/posts/elm-run-batch-job/",
+    "title": "A batch job, in The Elm Architecture"
   },
   {
     "source": "lobsters",
@@ -138,16 +138,6 @@
     "source": "lobsters",
     "url": "https://qr.jim.sh/",
     "title": "Jim's TrueType QR Code Font"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://graphitemaster.github.io/aau/",
-    "title": "Almost Always Unsigned (2022)"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://seriot.ch/computation/uts35/",
-    "title": "Unicode's Transliteration Rules Are Turing-Complete"
   },
   {
     "source": "pinboard",
