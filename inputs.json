@@ -6,8 +6,8 @@
   },
   {
     "source": "hn",
-    "url": "https://toot-books.pages.dev/blog/glm-5-2-vat-benchmark",
-    "title": "GLM 5.2 is nearly as accurate as a human book keeper"
+    "url": "https://www.wired.com/story/this-buried-apple-feature-turns-an-iphone-into-the-perfect-kids-dumb-phone/",
+    "title": "Buried Apple feature turns an iPhone into the perfect kids' dumb phone"
   },
   {
     "source": "hn",
@@ -16,13 +16,13 @@
   },
   {
     "source": "hn",
-    "url": "https://www.wired.com/story/this-buried-apple-feature-turns-an-iphone-into-the-perfect-kids-dumb-phone/",
-    "title": "Buried Apple Feature Turns an iPhone into the Perfect Kids' Dumb Phone"
+    "url": "https://toot-books.pages.dev/blog/glm-5-2-vat-benchmark",
+    "title": "GLM 5.2 is nearly as accurate as a human book keeper"
   },
   {
     "source": "hn",
-    "url": "https://tuxnet.dev/posts/tls-for-internal-services/",
-    "title": "TLS certificates for internal services done right"
+    "url": "https://scotto.me/blog/2026-07-09-why-lisp/",
+    "title": "A road to Lisp: Why Lisp"
   },
   {
     "source": "hn",
@@ -31,8 +31,23 @@
   },
   {
     "source": "hn",
+    "url": "https://tuxnet.dev/posts/tls-for-internal-services/",
+    "title": "TLS certificates for internal services done right"
+  },
+  {
+    "source": "hn",
+    "url": "https://blog.mozilla.ai/the-control-layer-why-the-next-era-of-ai-is-about-infrastructure-not-just-models/",
+    "title": "Why the Next Era of AI Is About Infrastructure, Not Just Models"
+  },
+  {
+    "source": "hn",
     "url": "https://www.context.dev",
     "title": "Launch HN: Context.dev (YC S26) – API to get structured data from any website"
+  },
+  {
+    "source": "hn",
+    "url": "https://graphitemaster.github.io/aau/",
+    "title": "Almost Always Unsigned"
   },
   {
     "source": "hn",
@@ -41,23 +56,18 @@
   },
   {
     "source": "hn",
+    "url": "https://www.pangram.com/blog/ai-in-your-feed",
+    "title": "AI content is everywhere on social media, especially LinkedIn"
+  },
+  {
+    "source": "hn",
     "url": "https://tomesphere.com/atlas",
     "title": "Show HN: I mapped 8.5M research papers into an interactive atlas"
   },
   {
     "source": "hn",
-    "url": "https://marindedic.com/groups/",
-    "title": "How should group chats work in decentralized systems?"
-  },
-  {
-    "source": "hn",
-    "url": "https://analog.watch",
-    "title": "Show HN: Analog Watch"
-  },
-  {
-    "source": "hn",
-    "url": "https://mitpress.mit.edu/9780262053198/simpolitics/",
-    "title": "New open access book on history of computers and politics"
+    "url": "https://randofont.alesh.com",
+    "title": "Show HN: RandoFont, a browser for Google Fonts"
   },
   {
     "source": "hn",
@@ -96,18 +106,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://re.factorcode.org/2026/07/peace-for-all.html",
-    "title": "Peace For All – Re: Factor"
-  },
-  {
-    "source": "lobsters",
     "url": "https://blog.khinsen.net/posts/2026/07/06/conviviality.html",
     "title": "Conviviality in computational science"
   },
   {
     "source": "lobsters",
-    "url": "https://tris.sherliker.net/blog/obfuscated-self-evaluating-bash-script-by-cdn-akamai-being-supplied-to-consumers-via-retail-stores/",
-    "title": "Obfuscated bash script by Akamai being supplied to consumers via retail stores"
+    "url": "https://re.factorcode.org/2026/07/peace-for-all.html",
+    "title": "Peace For All – Re: Factor"
   },
   {
     "source": "lobsters",
@@ -116,13 +121,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://yorickpeterse.com/articles/funding-open-source-software-without-compromising-it/",
-    "title": "Funding open-source software without compromising it"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://hakibenita.com/postgresql-partition-pruning",
-    "title": "How to Achieve Pruning When Querying by Non-Partitioned Columns in PostgreSQL"
+    "url": "https://tris.sherliker.net/blog/obfuscated-self-evaluating-bash-script-by-cdn-akamai-being-supplied-to-consumers-via-retail-stores/",
+    "title": "Obfuscated bash script by Akamai being supplied to consumers via retail stores"
   },
   {
     "source": "lobsters",
@@ -131,18 +131,43 @@
   },
   {
     "source": "lobsters",
-    "url": "https://mhloppy.com/2026/05/mechcommander-weapons-left-arm-bug-fix/",
-    "title": "Patching MechCommander’s “left arm bug” for fun and profit"
+    "url": "https://yorickpeterse.com/articles/funding-open-source-software-without-compromising-it/",
+    "title": "Funding open-source software without compromising it"
   },
   {
     "source": "lobsters",
-    "url": "https://qr.jim.sh/",
-    "title": "Jim's TrueType QR Code Font"
+    "url": "https://blinry.org/lcd-clock/",
+    "title": "How to build a circular LCD clock"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://nh3.dev/blog/05-bloat",
+    "title": "Page weight matters"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://hakibenita.com/postgresql-partition-pruning",
+    "title": "How to Achieve Pruning When Querying by Non-Partitioned Columns in PostgreSQL"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://www.osnews.com/story/145312/review-iodeos-offers-a-frictionless-de-googled-android-experience/",
+    "title": "Review: iodéOS offers a frictionless de-Googled Android experience"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://mhloppy.com/2026/05/mechcommander-weapons-left-arm-bug-fix/",
+    "title": "Patching MechCommander’s “left arm bug” for fun and profit"
   },
   {
     "source": "pinboard",
     "url": "https://30papers.com/",
     "title": "30 papers"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://qr.jim.sh/",
+    "title": "Jim's TrueType QR Code Font"
   },
   {
     "source": "pinboard",
