@@ -1,8 +1,28 @@
 [
   {
     "source": "hn",
+    "url": "https://www.patrick-breyer.de/en/eu-parliament-greenlights-chat-control-1-0-breyer-our-children-lose-out/",
+    "title": "EU Parliament greenlights Chat Control 1.0 – Breyer: \"Our children lose out\""
+  },
+  {
+    "source": "hn",
+    "url": "https://bittlex-sim.petoi.com/",
+    "title": "In-browser programmable robot simulator"
+  },
+  {
+    "source": "hn",
     "url": "https://nexte.st/",
     "title": "Cargo-nextest: 3x faster than cargo test, per-test isolation, first-class CI"
+  },
+  {
+    "source": "hn",
+    "url": "https://sand-morph.up.railway.app/the-field-equation",
+    "title": "The Field Equation, living shader geometry folded into a breathing object"
+  },
+  {
+    "source": "hn",
+    "url": "https://vooijs.eu/posts/why-is-there-smoke-from-the-boiler-room/",
+    "title": "Why is there smoke from the boiler room? – Botanical Garden using Home Assistant"
   },
   {
     "source": "hn",
@@ -11,8 +31,8 @@
   },
   {
     "source": "hn",
-    "url": "https://bittlex-sim.petoi.com/",
-    "title": "In-browser programmable robot simulator"
+    "url": "https://andrewkelley.me/post/my-thoughts-bun-rust-rewrite.html",
+    "title": "My Thoughts on the Bun Rust Rewrite"
   },
   {
     "source": "hn",
@@ -40,14 +60,9 @@
     "title": "Decoding the obfuscated bash script on a Uniqlo t-shirt"
   },
   {
-    "source": "hn",
-    "url": "https://www.abeyk.com/escape-the-rat-race/",
-    "title": "FAANG Simulator"
-  },
-  {
-    "source": "hn",
-    "url": "https://mira-wm.com/",
-    "title": "MIRA: Multiplayer Interactive World Models Trained on Rocket League"
+    "source": "lobsters",
+    "url": "https://sebsite.pw/w/20260709-nan.html",
+    "title": "two case studies of NaN"
   },
   {
     "source": "lobsters",
@@ -61,18 +76,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://sebsite.pw/w/20260709-nan.html",
-    "title": "two case studies of NaN"
-  },
-  {
-    "source": "lobsters",
     "url": "https://yorickpeterse.com/articles/funding-open-source-software-without-compromising-it/",
     "title": "Funding open-source software without compromising it"
   },
   {
     "source": "lobsters",
-    "url": "https://krisshamloo.com/blog/007",
-    "title": "a software engineering interview question I like: computing the median"
+    "url": "https://hakibenita.com/postgresql-partition-pruning",
+    "title": "How to Achieve Pruning When Querying by Non-Partitioned Columns in PostgreSQL"
   },
   {
     "source": "lobsters",
@@ -86,6 +96,11 @@
   },
   {
     "source": "lobsters",
+    "url": "https://krisshamloo.com/blog/007",
+    "title": "a software engineering interview question I like: computing the median"
+  },
+  {
+    "source": "lobsters",
     "url": "https://manualmeida.dev/articles/noiselang/",
     "title": "NoiseLang: Where N = 5 is a Dirac delta"
   },
@@ -93,11 +108,6 @@
     "source": "lobsters",
     "url": "https://zine-ssg.io/log/?v0.12.0#v0.12.0",
     "title": "Zine 0.12.0"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://blogs.gnome.org/sophieh/2026/07/07/accessibility-in-gnome/",
-    "title": "Accessibility in GNOME"
   },
   {
     "source": "pinboard",
