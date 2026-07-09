@@ -1,8 +1,58 @@
 [
   {
     "source": "hn",
+    "url": "https://www.context.dev",
+    "title": "Launch HN: Context.dev (YC S26) – API to get structured data from any website"
+  },
+  {
+    "source": "hn",
+    "url": "https://tuxnet.dev/posts/tls-for-internal-services/",
+    "title": "TLS certificates for internal services done right"
+  },
+  {
+    "source": "hn",
+    "url": "https://lazypi.org/",
+    "title": "Opinionated and Easy Pi.dev Configuration"
+  },
+  {
+    "source": "hn",
+    "url": "https://analog.watch",
+    "title": "Show HN: Analog Watch"
+  },
+  {
+    "source": "hn",
+    "url": "https://mitpress.mit.edu/9780262053198/simpolitics/",
+    "title": "New open access book on history of computers and politics"
+  },
+  {
+    "source": "hn",
     "url": "https://www.patrick-breyer.de/en/eu-parliament-greenlights-chat-control-1-0-breyer-our-children-lose-out/",
     "title": "EU Parliament greenlights Chat Control 1.0 – Breyer: \"Our children lose out\""
+  },
+  {
+    "source": "hn",
+    "url": "https://helium.computer/blog/transparency",
+    "title": "Transparency efforts behind the Helium Browser"
+  },
+  {
+    "source": "hn",
+    "url": "https://blog.dannycastonguay.com/how-to-write-an-email/",
+    "title": "How to Write an Email"
+  },
+  {
+    "source": "hn",
+    "url": "https://isonomiaquarterly.com/wp-content/uploads/2026/06/iq-4.2-summer-2026-macdonald-coordination-without-consolidation.pdf",
+    "title": "Coordination Without Consolidation: On Systems of States [pdf]"
+  },
+  {
+    "source": "hn",
+    "url": "https://scotto.me/blog/2026-07-09-why-lisp/",
+    "title": "A Road to Lisp: Why Lisp"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.larp.website/",
+    "title": "New \"Revenue Larping Trend\" is this real?"
   },
   {
     "source": "hn",
@@ -10,54 +60,14 @@
     "title": "In-browser programmable robot simulator"
   },
   {
-    "source": "hn",
-    "url": "https://nexte.st/",
-    "title": "Cargo-nextest: 3x faster than cargo test, per-test isolation, first-class CI"
-  },
-  {
-    "source": "hn",
-    "url": "https://sand-morph.up.railway.app/the-field-equation",
-    "title": "The Field Equation, living shader geometry folded into a breathing object"
-  },
-  {
-    "source": "hn",
-    "url": "https://vooijs.eu/posts/why-is-there-smoke-from-the-boiler-room/",
-    "title": "Why is there smoke from the boiler room? – Botanical Garden using Home Assistant"
-  },
-  {
-    "source": "hn",
-    "url": "https://microsoft.github.io/flint-chart/#/",
-    "title": "Show HN: Microsoft releases Flint, a visualization language for AI agents"
-  },
-  {
-    "source": "hn",
-    "url": "https://andrewkelley.me/post/my-thoughts-bun-rust-rewrite.html",
-    "title": "My Thoughts on the Bun Rust Rewrite"
-  },
-  {
-    "source": "hn",
-    "url": "https://seriot.ch/computation/uts35/",
-    "title": "Unicode's transliteration rules are Turing-complete"
-  },
-  {
-    "source": "hn",
+    "source": "lobsters",
     "url": "https://bun.com/blog/bun-in-rust",
     "title": "Rewriting Bun in Rust"
   },
   {
-    "source": "hn",
-    "url": "https://mhloppy.com/2026/05/mechcommander-weapons-left-arm-bug-fix/",
-    "title": "Patching MechCommander's \"left arm bug\" for fun and profit"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.hmans.dev/blog/chatto-is-open-source",
-    "title": "Chatto is now open source"
-  },
-  {
-    "source": "hn",
-    "url": "https://tris.sherliker.net/blog/obfuscated-self-evaluating-bash-script-by-cdn-akamai-being-supplied-to-consumers-via-retail-stores/",
-    "title": "Decoding the obfuscated bash script on a Uniqlo t-shirt"
+    "source": "lobsters",
+    "url": "https://triapul.cz/automa/i_did_not_kill_stanley_lieber",
+    "title": "I Did Not Kill Stanley Lieber: How to draw (with 9front)"
   },
   {
     "source": "lobsters",
@@ -66,23 +76,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://www.keygenchurch.com",
-    "title": "Keygen Church - Oscuro Domine"
+    "url": "https://www.osnews.com/story/145459/you-paid-me-a-long-time-linux-user-to-use-windows-11-exclusively-for-a-month-heres-how-it-went/",
+    "title": "You paid me, a long-time Linux user, to use Windows 11 exclusively for a month: here’s how it went"
   },
   {
     "source": "lobsters",
-    "url": "https://qr.jim.sh/",
-    "title": "Jim's TrueType QR Code Font"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://yorickpeterse.com/articles/funding-open-source-software-without-compromising-it/",
-    "title": "Funding open-source software without compromising it"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://hakibenita.com/postgresql-partition-pruning",
-    "title": "How to Achieve Pruning When Querying by Non-Partitioned Columns in PostgreSQL"
+    "url": "https://alexalejandre.com/programming/interview-with-mitchell-hashimoto/",
+    "title": "Lobsters Interview with mitchellh"
   },
   {
     "source": "lobsters",
@@ -91,23 +91,48 @@
   },
   {
     "source": "lobsters",
+    "url": "https://tris.sherliker.net/blog/obfuscated-self-evaluating-bash-script-by-cdn-akamai-being-supplied-to-consumers-via-retail-stores/",
+    "title": "Obfuscated bash script by Akamai being supplied to consumers via retail stores"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://blog.rust-lang.org/2026/07/09/Rust-1.97.0/",
+    "title": "Announcing Rust 1.97.0"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://www.hmans.dev/blog/chatto-is-open-source",
+    "title": "Chatto is now Open Source"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://yorickpeterse.com/articles/funding-open-source-software-without-compromising-it/",
+    "title": "Funding open-source software without compromising it"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://qr.jim.sh/",
+    "title": "Jim's TrueType QR Code Font"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://hakibenita.com/postgresql-partition-pruning",
+    "title": "How to Achieve Pruning When Querying by Non-Partitioned Columns in PostgreSQL"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://mhloppy.com/2026/05/mechcommander-weapons-left-arm-bug-fix/",
+    "title": "Patching MechCommander’s “left arm bug” for fun and profit"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://seriot.ch/computation/uts35/",
+    "title": "Unicode's Transliteration Rules Are Turing-Complete"
+  },
+  {
+    "source": "lobsters",
     "url": "https://graphitemaster.github.io/aau/",
     "title": "Almost Always Unsigned (2022)"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://krisshamloo.com/blog/007",
-    "title": "a software engineering interview question I like: computing the median"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://manualmeida.dev/articles/noiselang/",
-    "title": "NoiseLang: Where N = 5 is a Dirac delta"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://zine-ssg.io/log/?v0.12.0#v0.12.0",
-    "title": "Zine 0.12.0"
   },
   {
     "source": "pinboard",
