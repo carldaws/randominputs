@@ -6,18 +6,13 @@
   },
   {
     "source": "hn",
-    "url": "https://www.wired.com/story/this-buried-apple-feature-turns-an-iphone-into-the-perfect-kids-dumb-phone/",
-    "title": "Buried Apple feature turns an iPhone into the perfect kids' dumb phone"
+    "url": "https://alexalejandre.com/programming/interview-with-mitchell-hashimoto/",
+    "title": "Interview with Mitchell Hashimoto about Ghostty and Zig"
   },
   {
     "source": "hn",
     "url": "https://hy.tencent.com/research/hy3",
     "title": "Hy3"
-  },
-  {
-    "source": "hn",
-    "url": "https://toot-books.pages.dev/blog/glm-5-2-vat-benchmark",
-    "title": "GLM 5.2 is nearly as accurate as a human book keeper"
   },
   {
     "source": "hn",
@@ -31,18 +26,38 @@
   },
   {
     "source": "hn",
+    "url": "https://www.context.dev",
+    "title": "Launch HN: Context.dev (YC S26) – API to get structured data from any website"
+  },
+  {
+    "source": "hn",
     "url": "https://tuxnet.dev/posts/tls-for-internal-services/",
     "title": "TLS certificates for internal services done right"
   },
   {
     "source": "hn",
-    "url": "https://blog.mozilla.ai/the-control-layer-why-the-next-era-of-ai-is-about-infrastructure-not-just-models/",
-    "title": "Why the Next Era of AI Is About Infrastructure, Not Just Models"
+    "url": "https://www.theregister.com/systems/2026/06/29/zuck-saves-meta-bucks-by-reusing-memory-from-old-servers-with-a-custom-cxl-asic/5263483",
+    "title": "Meta reuses old RAM in new servers with custom bridge chip"
   },
   {
     "source": "hn",
-    "url": "https://www.context.dev",
-    "title": "Launch HN: Context.dev (YC S26) – API to get structured data from any website"
+    "url": "https://toot-books.pages.dev/blog/glm-5-2-vat-benchmark",
+    "title": "GLM 5.2 is nearly as accurate as a human book keeper"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.wired.com/story/this-buried-apple-feature-turns-an-iphone-into-the-perfect-kids-dumb-phone/",
+    "title": "Buried Apple feature turns an iPhone into the perfect kids' dumb phone"
+  },
+  {
+    "source": "hn",
+    "url": "https://mitpress.mit.edu/9780262053198/simpolitics/",
+    "title": "SimPolitics: America’s quest to solve politics with computers"
+  },
+  {
+    "source": "hn",
+    "url": "https://lazypi.org/",
+    "title": "Opinionated and easy Pi.dev configuration"
   },
   {
     "source": "hn",
@@ -51,33 +66,8 @@
   },
   {
     "source": "hn",
-    "url": "https://lazypi.org/",
-    "title": "Opinionated and Easy Pi.dev Configuration"
-  },
-  {
-    "source": "hn",
     "url": "https://www.pangram.com/blog/ai-in-your-feed",
     "title": "AI content is everywhere on social media, especially LinkedIn"
-  },
-  {
-    "source": "hn",
-    "url": "https://tomesphere.com/atlas",
-    "title": "Show HN: I mapped 8.5M research papers into an interactive atlas"
-  },
-  {
-    "source": "hn",
-    "url": "https://randofont.alesh.com",
-    "title": "Show HN: RandoFont, a browser for Google Fonts"
-  },
-  {
-    "source": "hn",
-    "url": "https://drummate.app/blog/how-to-follow-a-drummer",
-    "title": "How to Follow a Drummer"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://alexalejandre.com/programming/interview-with-mitchell-hashimoto/",
-    "title": "Lobsters Interview with mitchellh"
   },
   {
     "source": "lobsters",
@@ -91,18 +81,23 @@
   },
   {
     "source": "lobsters",
-    "url": "https://bun.com/blog/bun-in-rust",
-    "title": "Rewriting Bun in Rust"
-  },
-  {
-    "source": "lobsters",
     "url": "https://blog.rust-lang.org/2026/07/09/Rust-1.97.0/",
     "title": "Announcing Rust 1.97.0"
   },
   {
     "source": "lobsters",
+    "url": "https://bun.com/blog/bun-in-rust",
+    "title": "Rewriting Bun in Rust"
+  },
+  {
+    "source": "lobsters",
     "url": "https://sebsite.pw/w/20260709-nan.html",
     "title": "two case studies of NaN"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://nh3.dev/blog/05-bloat",
+    "title": "Page weight matters"
   },
   {
     "source": "lobsters",
@@ -116,6 +111,16 @@
   },
   {
     "source": "lobsters",
+    "url": "https://blinry.org/lcd-clock/",
+    "title": "How to build a circular LCD clock"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://cekrem.github.io/posts/elm-run-batch-job/",
+    "title": "A batch job, in The Elm Architecture"
+  },
+  {
+    "source": "lobsters",
     "url": "https://www.hmans.dev/blog/chatto-is-open-source",
     "title": "Chatto is now Open Source"
   },
@@ -126,28 +131,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://cekrem.github.io/posts/elm-run-batch-job/",
-    "title": "A batch job, in The Elm Architecture"
-  },
-  {
-    "source": "lobsters",
     "url": "https://yorickpeterse.com/articles/funding-open-source-software-without-compromising-it/",
     "title": "Funding open-source software without compromising it"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://blinry.org/lcd-clock/",
-    "title": "How to build a circular LCD clock"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://nh3.dev/blog/05-bloat",
-    "title": "Page weight matters"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://hakibenita.com/postgresql-partition-pruning",
-    "title": "How to Achieve Pruning When Querying by Non-Partitioned Columns in PostgreSQL"
   },
   {
     "source": "lobsters",
@@ -156,8 +141,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://mhloppy.com/2026/05/mechcommander-weapons-left-arm-bug-fix/",
-    "title": "Patching MechCommander’s “left arm bug” for fun and profit"
+    "url": "https://www.redpill-linpro.com/techblog/2026/03/20/from-luddite-to-vibe-coder.html",
+    "title": "From a Luddite to a Vibe-Coder"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://hakibenita.com/postgresql-partition-pruning",
+    "title": "How to Achieve Pruning When Querying by Non-Partitioned Columns in PostgreSQL"
   },
   {
     "source": "pinboard",
