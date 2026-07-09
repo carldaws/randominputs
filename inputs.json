@@ -1,8 +1,8 @@
 [
   {
     "source": "hn",
-    "url": "https://www.abeyk.com/escape-the-rat-race/",
-    "title": "FAANG Simulator"
+    "url": "https://krisshamloo.com/blog/007",
+    "title": "A software engineering interview question I like: computing the median"
   },
   {
     "source": "hn",
@@ -11,8 +11,8 @@
   },
   {
     "source": "hn",
-    "url": "https://tris.sherliker.net/blog/obfuscated-self-evaluating-bash-script-by-cdn-akamai-being-supplied-to-consumers-via-retail-stores/",
-    "title": "Decoding the obfuscated bash script on a Uniqlo t-shirt"
+    "url": "https://seriot.ch/computation/uts35/",
+    "title": "Unicode's transliteration rules are Turing-complete"
   },
   {
     "source": "hn",
@@ -21,18 +21,38 @@
   },
   {
     "source": "hn",
+    "url": "https://www.tryai.dev/blog/grok-4.5-vs-gpt-5.5-vs-claude-build-off",
+    "title": "We made Grok 4.5, GPT-5.5, and Claude build the same apps"
+  },
+  {
+    "source": "hn",
+    "url": "https://simonwillison.net/2026/Jul/8/rewriting-bun-in-rust/",
+    "title": "Rewriting Bun in Rust"
+  },
+  {
+    "source": "hn",
+    "url": "https://mira-wm.com/",
+    "title": "MIRA: Multiplayer Interactive World Models Trained on Rocket League"
+  },
+  {
+    "source": "hn",
+    "url": "https://mhloppy.com/2026/05/mechcommander-weapons-left-arm-bug-fix/",
+    "title": "Patching MechCommander's \"left arm bug\" for fun and profit"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.abeyk.com/escape-the-rat-race/",
+    "title": "FAANG Simulator"
+  },
+  {
+    "source": "hn",
     "url": "https://bun.com/blog/bun-in-rust",
     "title": "Rewriting Bun in Rust"
   },
   {
     "source": "hn",
-    "url": "https://combine-lab.github.io/blog/2026/07/07/fable-is-not-a-useful-model.html",
-    "title": "The classifiers Anthropic puts in front of Fable are too zealous"
-  },
-  {
-    "source": "hn",
-    "url": "https://cyberinsider.com/eu-now-one-step-away-from-reviving-private-message-scanning-rules/",
-    "title": "EU now one step away from reviving private message scanning rules"
+    "url": "https://tris.sherliker.net/blog/obfuscated-self-evaluating-bash-script-by-cdn-akamai-being-supplied-to-consumers-via-retail-stores/",
+    "title": "Decoding the obfuscated bash script on a Uniqlo t-shirt"
   },
   {
     "source": "hn",
@@ -41,23 +61,8 @@
   },
   {
     "source": "hn",
-    "url": "https://cognition.com/blog/swe-1-7",
-    "title": "SWE-1.7 Reach Near GPT 5.5 and Opus Intelligence"
-  },
-  {
-    "source": "hn",
-    "url": "https://bootlin.com/blog/poison-redzones-and-shadows-inside-kasan/",
-    "title": "Poison, redzones and shadows: inside KASAN"
-  },
-  {
-    "source": "hn",
-    "url": "https://graphitemaster.github.io/aau/",
-    "title": "Almost Always Unsigned"
-  },
-  {
-    "source": "hn",
-    "url": "https://techstackups.com/articles/tldraw-agent-draw/",
-    "title": "Show HN: Agent Draw: An agent draws while you talk, built on TLDraw"
+    "url": "https://cyberinsider.com/eu-now-one-step-away-from-reviving-private-message-scanning-rules/",
+    "title": "EU now one step away from reviving private message scanning rules"
   },
   {
     "source": "lobsters",
@@ -71,18 +76,23 @@
   },
   {
     "source": "lobsters",
-    "url": "https://krisshamloo.com/blog/007",
-    "title": "a software engineering interview question I like: computing the median"
-  },
-  {
-    "source": "lobsters",
     "url": "https://manualmeida.dev/articles/noiselang/",
     "title": "NoiseLang: Where N = 5 is a Dirac delta"
   },
   {
     "source": "lobsters",
-    "url": "https://seriot.ch/computation/uts35/",
-    "title": "Unicode's Transliteration Rules Are Turing-Complete"
+    "url": "https://graphitemaster.github.io/aau/",
+    "title": "Almost Always Unsigned"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://blogs.gnome.org/sophieh/2026/07/07/accessibility-in-gnome/",
+    "title": "Accessibility in GNOME"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://zine-ssg.io/log/?v0.12.0#v0.12.0",
+    "title": "Zine 0.12.0"
   },
   {
     "source": "lobsters",
@@ -96,18 +106,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://blogs.gnome.org/sophieh/2026/07/07/accessibility-in-gnome/",
-    "title": "Accessibility in GNOME"
-  },
-  {
-    "source": "lobsters",
     "url": "https://geopjr.dev/blog/democratizing-abandonware",
     "title": "Democratizing Abandonware"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://zine-ssg.io/log/?v0.12.0#v0.12.0",
-    "title": "Zine 0.12.0"
   },
   {
     "source": "lobsters",
