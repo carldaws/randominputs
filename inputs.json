@@ -11,8 +11,18 @@
   },
   {
     "source": "hn",
-    "url": "https://lesleylai.info/en/flashcards/",
-    "title": "A Love Letter to Flashcards"
+    "url": "https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98d31/cdc_proof.pdf",
+    "title": "GPT-5.6 Sol Ultra produces proof of the Cycle Double Cover Conjecture [pdf]"
+  },
+  {
+    "source": "hn",
+    "url": "https://casp.ac/reports/ai-enabled-terrorism",
+    "title": "How the Terrorist Group Boko Haram Uses Frontier AI"
+  },
+  {
+    "source": "hn",
+    "url": "https://combustionlab.net",
+    "title": "Combustion Engine Web-Based Simulator"
   },
   {
     "source": "hn",
@@ -21,13 +31,23 @@
   },
   {
     "source": "hn",
-    "url": "https://lists.osgeo.org/pipermail/qgis-developer/2026-July/068430.html",
-    "title": "Anyone else get a vague GitHub shakedown notice?"
+    "url": "https://lesleylai.info/en/flashcards/",
+    "title": "A Love Letter to Flashcards"
   },
   {
     "source": "hn",
     "url": "https://www.dailymail.com/sciencetech/article-15956159/Incredible-lost-city-discovered-Egypts-desert.html",
     "title": "Lost city discovered beneath Egypt's desert with ancient church"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.gingerbill.org/article/2026/07/10/good-tools-are-invisible/",
+    "title": "Good Tools Are Invisible"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.atomscale.ai/updates/our-thesis-atom-to-scale",
+    "title": "Materials innovation has a scale-up problem, not discovery"
   },
   {
     "source": "hn",
@@ -41,18 +61,8 @@
   },
   {
     "source": "hn",
-    "url": "https://www.gingerbill.org/article/2026/07/10/good-tools-are-invisible/",
-    "title": "Good Tools Are Invisible"
-  },
-  {
-    "source": "hn",
     "url": "https://mappingignorance.org/2026/06/30/sagrada-familia/",
     "title": "The mathematical secrets of Barcelona's Sagrada Familia"
-  },
-  {
-    "source": "hn",
-    "url": "http://yummymelon.com/devnull/in-emacs-everything-looks-like-a-service.html",
-    "title": "In Emacs, Everything Looks Like a Service"
   },
   {
     "source": "hn",
@@ -61,38 +71,28 @@
   },
   {
     "source": "hn",
+    "url": "http://yummymelon.com/devnull/in-emacs-everything-looks-like-a-service.html",
+    "title": "In Emacs, Everything Looks Like a Service"
+  },
+  {
+    "source": "hn",
     "url": "https://elonlit.com/scrivings/the-annotated-jepa/",
     "title": "The Annotated JEPA"
   },
   {
-    "source": "hn",
-    "url": "https://combustionlab.net",
-    "title": "Combustion Engine Web-Based Simulator"
-  },
-  {
-    "source": "hn",
-    "url": "https://pncnmnp.github.io/blogs/rca-victor-education.html",
-    "title": "How RCA Victor sold Sound Service to classrooms in 1939"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.macrumors.com/2026/07/06/apple-silicon-exec-explains-mac-mini-ai-demand/",
-    "title": "Apple Silicon Exec Explains Mac Mini AI Demand and On-Device Future"
-  },
-  {
-    "source": "hn",
+    "source": "lobsters",
     "url": "https://alexalejandre.com/programming/interview-with-mitchell-hashimoto/",
-    "title": "Interview with Mitchell Hashimoto about Ghostty and Zig"
-  },
-  {
-    "source": "hn",
-    "url": "https://nevo-project.epfl.ch/",
-    "title": "AI-generated videos to maximally drive a target brain region"
+    "title": "Lobsters Interview with mitchellh"
   },
   {
     "source": "lobsters",
     "url": "https://www.osnews.com/story/145459/you-paid-me-a-long-time-linux-user-to-use-windows-11-exclusively-for-a-month-heres-how-it-went/",
     "title": "You paid me, a long-time Linux user, to use Windows 11 exclusively for a month: here’s how it went"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://avi.press/posts/2026-07-10-after-7-years-in-production-scarf-has-reluctantly-moved-away-from-haskell.html",
+    "title": "After 7 years in production, Scarf has reluctantly moved away from Haskell"
   },
   {
     "source": "lobsters",
@@ -111,8 +111,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://avi.press/posts/2026-07-10-after-7-years-in-production-scarf-has-reluctantly-moved-away-from-haskell.html",
-    "title": "After 7 years in production, Scarf has reluctantly moved away from Haskell"
+    "url": "https://labs.quansight.org/blog/python-abi-abi3t",
+    "title": "What Every Python Developer Should Know About the CPython ABI"
   },
   {
     "source": "lobsters",
@@ -126,8 +126,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://labs.quansight.org/blog/python-abi-abi3t",
-    "title": "What Every Python Developer Should Know About the CPython ABI"
+    "url": "https://www2.eecs.berkeley.edu/Pubs/TechRpts/1997/Archive/CSD-97-946.pdf",
+    "title": "Practical Algorithms for Incremental Software Development Environments"
   },
   {
     "source": "lobsters",
@@ -153,11 +153,6 @@
     "source": "lobsters",
     "url": "https://mathspp.com/blog/lsbasi-apl-part1",
     "title": "Let's build a simple interpreter for APL"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://www2.eecs.berkeley.edu/Pubs/TechRpts/1997/Archive/CSD-97-946.pdf",
-    "title": "Practical Algorithms for Incremental Software Development Environments"
   },
   {
     "source": "lobsters",
