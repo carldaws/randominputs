@@ -16,18 +16,13 @@
   },
   {
     "source": "hn",
+    "url": "https://combustionlab.net",
+    "title": "Combustion engine web-based simulator"
+  },
+  {
+    "source": "hn",
     "url": "https://mimo.xiaomi.com/blog/mimo-v2-5-inference",
     "title": "Inference Optimization for MiMo v2.5: Pushing Hybrid SWA Efficiency to the Limit"
-  },
-  {
-    "source": "hn",
-    "url": "https://combustionlab.net",
-    "title": "Combustion Engine Web-Based Simulator"
-  },
-  {
-    "source": "hn",
-    "url": "https://acoup.blog/2026/01/30/collections-the-late-bronze-age-collapse-a-very-brief-introduction/",
-    "title": "Late Bronze Age Collapse"
   },
   {
     "source": "hn",
@@ -36,8 +31,23 @@
   },
   {
     "source": "hn",
-    "url": "https://casp.ac/reports/ai-enabled-terrorism",
-    "title": "How the terrorist group Boko Haram uses frontier AI"
+    "url": "https://acoup.blog/2026/01/30/collections-the-late-bronze-age-collapse-a-very-brief-introduction/",
+    "title": "Late Bronze Age Collapse"
+  },
+  {
+    "source": "hn",
+    "url": "https://serialc.github.io/altClocks/",
+    "title": "Alternate clock designs and time systems"
+  },
+  {
+    "source": "hn",
+    "url": "https://ai-2040.com/",
+    "title": "AI 2040: Plan A"
+  },
+  {
+    "source": "hn",
+    "url": "https://lesleylai.info/en/flashcards/",
+    "title": "A love letter to flashcards"
   },
   {
     "source": "hn",
@@ -46,23 +56,13 @@
   },
   {
     "source": "hn",
-    "url": "https://nebusec.ai/research/ionstack-part-2/",
-    "title": "GhostLock, a stack-UAF that has existed in ALL Linux distributions for 15 years"
+    "url": "https://avi.press/posts/2026-07-10-after-7-years-in-production-scarf-has-reluctantly-moved-away-from-haskell.html",
+    "title": "After 7 years in production, Scarf has reluctantly moved away from Haskell"
   },
   {
     "source": "hn",
-    "url": "https://unstack.io/write-code-like-a-human-will-maintain-it",
-    "title": "Write code like a human will maintain it"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.recall.ai/blog/postgres-locks-do-not-scale",
-    "title": "Postgres locks do not scale"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.tryai.dev/blog/gpt-5.6-build-off-12-models",
-    "title": "GPT-5.6, Grok 4.5, Claude, and Muse Spark build the same 4 apps"
+    "url": "http://yummymelon.com/devnull/in-emacs-everything-looks-like-a-service.html",
+    "title": "In Emacs, everything looks like a service"
   },
   {
     "source": "hn",
@@ -71,18 +71,18 @@
   },
   {
     "source": "hn",
-    "url": "https://mappingignorance.org/2026/06/30/sagrada-familia/",
-    "title": "The mathematical secrets of Barcelona's Sagrada Familia"
+    "url": "https://casp.ac/reports/ai-enabled-terrorism",
+    "title": "How the terrorist group Boko Haram uses frontier AI"
+  },
+  {
+    "source": "hn",
+    "url": "https://nebusec.ai/research/ionstack-part-2/",
+    "title": "GhostLock, a stack-UAF that has existed in ALL Linux distributions for 15 years"
   },
   {
     "source": "lobsters",
     "url": "https://alexalejandre.com/programming/interview-with-mitchell-hashimoto/",
     "title": "Lobsters Interview with mitchellh"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://avi.press/posts/2026-07-10-after-7-years-in-production-scarf-has-reluctantly-moved-away-from-haskell.html",
-    "title": "After 7 years in production, Scarf has reluctantly moved away from Haskell"
   },
   {
     "source": "lobsters",
@@ -93,6 +93,11 @@
     "source": "lobsters",
     "url": "https://triapul.cz/automa/i_did_not_kill_stanley_lieber",
     "title": "I Did Not Kill Stanley Lieber: How to draw (with 9front)"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://labs.quansight.org/blog/python-abi-abi3t",
+    "title": "What Every Python Developer Should Know About the CPython ABI"
   },
   {
     "source": "lobsters",
@@ -111,18 +116,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://www2.eecs.berkeley.edu/Pubs/TechRpts/1997/Archive/CSD-97-946.pdf",
-    "title": "Practical Algorithms for Incremental Software Development Environments"
-  },
-  {
-    "source": "lobsters",
     "url": "https://scotto.me/blog/2026-07-09-why-lisp/",
     "title": "A road to Lisp: Why Lisp"
   },
   {
     "source": "lobsters",
-    "url": "https://labs.quansight.org/blog/python-abi-abi3t",
-    "title": "What Every Python Developer Should Know About the CPython ABI"
+    "url": "https://www2.eecs.berkeley.edu/Pubs/TechRpts/1997/Archive/CSD-97-946.pdf",
+    "title": "Practical Algorithms for Incremental Software Development Environments"
   },
   {
     "source": "lobsters",
