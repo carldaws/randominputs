@@ -6,6 +6,16 @@
   },
   {
     "source": "hn",
+    "url": "https://www.macrumors.com/2026/07/06/apple-silicon-exec-explains-mac-mini-ai-demand/",
+    "title": "Apple Silicon Exec Explains Mac Mini AI Demand and On-Device Future"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2026.1766665/full",
+    "title": "Study: \"Mommy, do you love your phone more than me?\""
+  },
+  {
+    "source": "hn",
     "url": "https://alexalejandre.com/programming/interview-with-mitchell-hashimoto/",
     "title": "Interview with Mitchell Hashimoto about Ghostty and Zig"
   },
@@ -21,13 +31,23 @@
   },
   {
     "source": "hn",
-    "url": "https://paulbourke.net/fractals/tripledragon/",
-    "title": "Triple Dragon Fractal (2020)"
+    "url": "https://dynomight.net/hazard-ratios/",
+    "title": "Life with Hazard Ratios"
   },
   {
     "source": "hn",
-    "url": "https://boz.com/articles/focus",
-    "title": "Focus"
+    "url": "https://mwi.westpoint.edu/the-glass-backbone-why-the-armys-logistics-will-break-in-the-next-war/",
+    "title": "The glass backbone: Why the Army's logistics will break in the next war"
+  },
+  {
+    "source": "hn",
+    "url": "http://smalldatum.blogspot.com/2026/01/common-prefix-skipping-adaptive-sort.html",
+    "title": "Common prefix skipping, adaptive sort"
+  },
+  {
+    "source": "hn",
+    "url": "https://paulbourke.net/fractals/tripledragon/",
+    "title": "Triple Dragon Fractal (2020)"
   },
   {
     "source": "hn",
@@ -41,18 +61,13 @@
   },
   {
     "source": "hn",
-    "url": "https://mwi.westpoint.edu/the-glass-backbone-why-the-armys-logistics-will-break-in-the-next-war/",
-    "title": "The glass backbone: Why the Army's logistics will break in the next war"
+    "url": "https://www.ello.com/blog/teaching-a-child-in-1000-ms",
+    "title": "Building a real-time AI tutor for 5-year-olds"
   },
   {
     "source": "hn",
     "url": "https://www.context.dev",
     "title": "Launch HN: Context.dev (YC S26) – API to get structured data from any website"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.ello.com/blog/teaching-a-child-in-1000-ms",
-    "title": "Building a real-time AI tutor for 5-year-olds"
   },
   {
     "source": "hn",
@@ -68,21 +83,6 @@
     "source": "hn",
     "url": "https://toot-books.pages.dev/blog/glm-5-2-vat-benchmark",
     "title": "GLM 5.2 is nearly as accurate as a human book keeper"
-  },
-  {
-    "source": "hn",
-    "url": "https://tuxnet.dev/posts/tls-for-internal-services/",
-    "title": "TLS certificates for internal services done right"
-  },
-  {
-    "source": "hn",
-    "url": "https://mitpress.mit.edu/9780262053198/simpolitics/",
-    "title": "SimPolitics: America’s quest to solve politics with computers"
-  },
-  {
-    "source": "hn",
-    "url": "https://lazypi.org/",
-    "title": "Opinionated and easy Pi.dev configuration"
   },
   {
     "source": "lobsters",
@@ -121,18 +121,23 @@
   },
   {
     "source": "lobsters",
-    "url": "https://re.factorcode.org/2026/07/peace-for-all.html",
-    "title": "Peace For All – Re: Factor"
-  },
-  {
-    "source": "lobsters",
     "url": "https://blinry.org/lcd-clock/",
     "title": "How to build a circular LCD clock"
   },
   {
     "source": "lobsters",
+    "url": "https://re.factorcode.org/2026/07/peace-for-all.html",
+    "title": "Peace For All – Re: Factor"
+  },
+  {
+    "source": "lobsters",
     "url": "https://cekrem.github.io/posts/elm-run-batch-job/",
     "title": "A batch job, in The Elm Architecture"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://mathspp.com/blog/lsbasi-apl-part1",
+    "title": "Let's build a simple interpreter for APL"
   },
   {
     "source": "lobsters",
@@ -143,11 +148,6 @@
     "source": "lobsters",
     "url": "https://tris.sherliker.net/blog/obfuscated-self-evaluating-bash-script-by-cdn-akamai-being-supplied-to-consumers-via-retail-stores/",
     "title": "Obfuscated bash script by Akamai being supplied to consumers via retail stores"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://www.osnews.com/story/145312/review-iodeos-offers-a-frictionless-de-googled-android-experience/",
-    "title": "Review: iodéOS offers a frictionless de-Googled Android experience"
   },
   {
     "source": "lobsters",
