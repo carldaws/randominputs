@@ -1,13 +1,13 @@
 [
   {
     "source": "hn",
-    "url": "https://www.jeffgeerling.com/blog/2026/quadrf-can-spot-drones-and-see-wifi-through-my-wall/",
-    "title": "QuadRF can spot drones and see WiFi through my wall"
+    "url": "https://www.tryai.dev/blog/gpt-5.6-build-off-12-models",
+    "title": "GPT-5.6, Grok 4.5, Claude, and Muse Spark build the same 4 apps"
   },
   {
     "source": "hn",
-    "url": "https://vfxblog.com/2017/08/23/the-tech-of-terminator-2-an-oral-history/",
-    "title": "The tech of 'Terminator 2' – an oral history (2017)"
+    "url": "https://www.jeffgeerling.com/blog/2026/quadrf-can-spot-drones-and-see-wifi-through-my-wall/",
+    "title": "QuadRF can spot drones and see WiFi through my wall"
   },
   {
     "source": "hn",
@@ -16,8 +16,13 @@
   },
   {
     "source": "hn",
+    "url": "https://vfxblog.com/2017/08/23/the-tech-of-terminator-2-an-oral-history/",
+    "title": "The tech of 'Terminator 2' – an oral history (2017)"
+  },
+  {
+    "source": "hn",
     "url": "https://casp.ac/reports/ai-enabled-terrorism",
-    "title": "How the Terrorist Group Boko Haram Uses Frontier AI"
+    "title": "How the terrorist group Boko Haram uses frontier AI"
   },
   {
     "source": "hn",
@@ -26,13 +31,13 @@
   },
   {
     "source": "hn",
-    "url": "https://acoup.blog/2026/01/30/collections-the-late-bronze-age-collapse-a-very-brief-introduction/",
-    "title": "Late Bronze Age Collapse"
+    "url": "https://blog.sturdystatistics.com/posts/api_keys/",
+    "title": "Why We Don't Trust the Database with Authentication"
   },
   {
     "source": "hn",
-    "url": "https://lesleylai.info/en/flashcards/",
-    "title": "A Love Letter to Flashcards"
+    "url": "https://www.gingerbill.org/article/2026/07/10/good-tools-are-invisible/",
+    "title": "Good Tools Are Invisible"
   },
   {
     "source": "hn",
@@ -41,8 +46,8 @@
   },
   {
     "source": "hn",
-    "url": "https://www.gingerbill.org/article/2026/07/10/good-tools-are-invisible/",
-    "title": "Good Tools Are Invisible"
+    "url": "https://acoup.blog/2026/01/30/collections-the-late-bronze-age-collapse-a-very-brief-introduction/",
+    "title": "Late Bronze Age Collapse"
   },
   {
     "source": "hn",
@@ -56,28 +61,18 @@
   },
   {
     "source": "hn",
-    "url": "https://www.fadingmaize.com",
-    "title": "Show HN: Reviving my 2001 college band with AI"
-  },
-  {
-    "source": "hn",
     "url": "https://mappingignorance.org/2026/06/30/sagrada-familia/",
     "title": "The mathematical secrets of Barcelona's Sagrada Familia"
   },
   {
     "source": "hn",
-    "url": "https://serialc.github.io/altClocks/",
-    "title": "Alternate Clock Designs and Time Systems"
+    "url": "https://www.fadingmaize.com",
+    "title": "Show HN: Reviving my 2001 college band with AI"
   },
   {
     "source": "hn",
-    "url": "http://yummymelon.com/devnull/in-emacs-everything-looks-like-a-service.html",
-    "title": "In Emacs, Everything Looks Like a Service"
-  },
-  {
-    "source": "hn",
-    "url": "https://elonlit.com/scrivings/the-annotated-jepa/",
-    "title": "The Annotated JEPA"
+    "url": "https://lesleylai.info/en/flashcards/",
+    "title": "A Love Letter to Flashcards"
   },
   {
     "source": "lobsters",
@@ -126,6 +121,11 @@
   },
   {
     "source": "lobsters",
+    "url": "https://marvinh.dev/blog/running-1000-test-in-1s/",
+    "title": "Running 1000 tests in 1s (2022)"
+  },
+  {
+    "source": "lobsters",
     "url": "https://www2.eecs.berkeley.edu/Pubs/TechRpts/1997/Archive/CSD-97-946.pdf",
     "title": "Practical Algorithms for Incremental Software Development Environments"
   },
@@ -151,13 +151,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://mathspp.com/blog/lsbasi-apl-part1",
-    "title": "Let's build a simple interpreter for APL"
+    "url": "https://nesbitt.io/2026/07/10/package-management-as-org-chart.html",
+    "title": "Package Management as Org Chart"
   },
   {
     "source": "lobsters",
-    "url": "https://marvinh.dev/blog/running-1000-test-in-1s/",
-    "title": "Running 1000 tests in 1s (2022)"
+    "url": "https://mathspp.com/blog/lsbasi-apl-part1",
+    "title": "Let's build a simple interpreter for APL"
   },
   {
     "source": "pinboard",
