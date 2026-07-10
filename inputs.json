@@ -1,8 +1,33 @@
 [
   {
     "source": "hn",
+    "url": "https://acoup.blog/2026/01/30/collections-the-late-bronze-age-collapse-a-very-brief-introduction/",
+    "title": "Late Bronze Age Collapse"
+  },
+  {
+    "source": "hn",
+    "url": "https://unstack.io/write-code-like-a-human-will-maintain-it",
+    "title": "Write code like a human will maintain it"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.gingerbill.org/article/2026/07/10/good-tools-are-invisible/",
+    "title": "Good Tools Are Invisible"
+  },
+  {
+    "source": "hn",
+    "url": "https://geohot.github.io//blog/jekyll/update/2026/05/03/punk-or-why-i-dont-stream.html",
+    "title": "Punk, or why I don't stream anymore"
+  },
+  {
+    "source": "hn",
     "url": "http://yummymelon.com/devnull/in-emacs-everything-looks-like-a-service.html",
     "title": "In Emacs, Everything Looks Like a Service"
+  },
+  {
+    "source": "hn",
+    "url": "https://mappingignorance.org/2026/06/30/sagrada-familia/",
+    "title": "The mathematical secrets of Barcelona's Sagrada Familia"
   },
   {
     "source": "hn",
@@ -11,13 +36,13 @@
   },
   {
     "source": "hn",
-    "url": "https://www.macrumors.com/2026/07/06/apple-silicon-exec-explains-mac-mini-ai-demand/",
-    "title": "Apple Silicon Exec Explains Mac Mini AI Demand and On-Device Future"
+    "url": "https://avi.press/posts/2026-07-10-after-7-years-in-production-scarf-has-reluctantly-moved-away-from-haskell.html",
+    "title": "Scarf has moved away from Haskell"
   },
   {
     "source": "hn",
-    "url": "https://hy.tencent.com/research/hy3",
-    "title": "Hy3"
+    "url": "https://www.macrumors.com/2026/07/06/apple-silicon-exec-explains-mac-mini-ai-demand/",
+    "title": "Apple Silicon Exec Explains Mac Mini AI Demand and On-Device Future"
   },
   {
     "source": "hn",
@@ -31,6 +56,16 @@
   },
   {
     "source": "hn",
+    "url": "https://hy.tencent.com/research/hy3",
+    "title": "Hy3"
+  },
+  {
+    "source": "hn",
+    "url": "https://status.proton.me/incidents/01lxtcq155lc",
+    "title": "Proton AG Services is currently experiencing some issues"
+  },
+  {
+    "source": "hn",
     "url": "https://mwi.westpoint.edu/the-glass-backbone-why-the-armys-logistics-will-break-in-the-next-war/",
     "title": "The glass backbone: Why the Army's logistics will break in the next war"
   },
@@ -41,43 +76,8 @@
   },
   {
     "source": "hn",
-    "url": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2026.1766665/full",
-    "title": "Parental device use and the adolescent-caregiver attachment bond"
-  },
-  {
-    "source": "hn",
-    "url": "https://joesiegler.blog/2020/11/my-story-of-apogee-3dr/",
-    "title": "My Story of 3D Realms / Apogee Part I (2020)"
-  },
-  {
-    "source": "hn",
-    "url": "http://smalldatum.blogspot.com/2026/01/common-prefix-skipping-adaptive-sort.html",
-    "title": "Common prefix skipping, adaptive sort"
-  },
-  {
-    "source": "hn",
     "url": "https://www.ello.com/blog/teaching-a-child-in-1000-ms",
     "title": "Building a real-time AI tutor for 5-year-olds"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.context.dev",
-    "title": "Launch HN: Context.dev (YC S26) – API to get structured data from any website"
-  },
-  {
-    "source": "hn",
-    "url": "https://dynomight.net/hazard-ratios/",
-    "title": "Life with Hazard Ratios"
-  },
-  {
-    "source": "hn",
-    "url": "https://tuxnet.dev/posts/tls-for-internal-services/",
-    "title": "TLS certificates for internal services done right"
-  },
-  {
-    "source": "hn",
-    "url": "https://paulbourke.net/fractals/tripledragon/",
-    "title": "Triple Dragon Fractal (2020)"
   },
   {
     "source": "lobsters",
@@ -101,18 +101,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://sebsite.pw/w/20260709-nan.html",
-    "title": "two case studies of NaN"
-  },
-  {
-    "source": "lobsters",
     "url": "https://nh3.dev/blog/05-bloat",
     "title": "Page weight matters"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://blinry.org/lcd-clock/",
-    "title": "How to build a circular LCD clock"
   },
   {
     "source": "lobsters",
@@ -121,8 +111,23 @@
   },
   {
     "source": "lobsters",
-    "url": "https://re.factorcode.org/2026/07/peace-for-all.html",
-    "title": "Peace For All – Re: Factor"
+    "url": "https://blinry.org/lcd-clock/",
+    "title": "How to build a circular LCD clock"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://sebsite.pw/w/20260709-nan.html",
+    "title": "two case studies of NaN"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://wiki.c2.com/?TwoWaysToDesign",
+    "title": "Two Ways To Design"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://mathspp.com/blog/lsbasi-apl-part1",
+    "title": "Let's build a simple interpreter for APL"
   },
   {
     "source": "lobsters",
@@ -131,8 +136,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://mathspp.com/blog/lsbasi-apl-part1",
-    "title": "Let's build a simple interpreter for APL"
+    "url": "https://re.factorcode.org/2026/07/peace-for-all.html",
+    "title": "Peace For All – Re: Factor"
   },
   {
     "source": "lobsters",
