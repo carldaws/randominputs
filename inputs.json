@@ -1,8 +1,23 @@
 [
   {
     "source": "hn",
+    "url": "http://yummymelon.com/devnull/in-emacs-everything-looks-like-a-service.html",
+    "title": "In Emacs, Everything Looks Like a Service"
+  },
+  {
+    "source": "hn",
     "url": "https://www.patrick-breyer.de/en/eu-parliament-greenlights-chat-control-1-0-breyer-our-children-lose-out/",
     "title": "EU Parliament greenlights Chat Control 1.0"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.macrumors.com/2026/07/06/apple-silicon-exec-explains-mac-mini-ai-demand/",
+    "title": "Apple Silicon Exec Explains Mac Mini AI Demand and On-Device Future"
+  },
+  {
+    "source": "hn",
+    "url": "https://hy.tencent.com/research/hy3",
+    "title": "Hy3"
   },
   {
     "source": "hn",
@@ -16,18 +31,8 @@
   },
   {
     "source": "hn",
-    "url": "https://hy.tencent.com/research/hy3",
-    "title": "Hy3"
-  },
-  {
-    "source": "hn",
     "url": "https://mwi.westpoint.edu/the-glass-backbone-why-the-armys-logistics-will-break-in-the-next-war/",
     "title": "The glass backbone: Why the Army's logistics will break in the next war"
-  },
-  {
-    "source": "hn",
-    "url": "https://joesiegler.blog/2020/11/my-story-of-apogee-3dr/",
-    "title": "My Story of 3D Realms / Apogee Part I (2020)"
   },
   {
     "source": "hn",
@@ -36,8 +41,13 @@
   },
   {
     "source": "hn",
-    "url": "https://dynomight.net/hazard-ratios/",
-    "title": "Life with Hazard Ratios"
+    "url": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2026.1766665/full",
+    "title": "Parental device use and the adolescent-caregiver attachment bond"
+  },
+  {
+    "source": "hn",
+    "url": "https://joesiegler.blog/2020/11/my-story-of-apogee-3dr/",
+    "title": "My Story of 3D Realms / Apogee Part I (2020)"
   },
   {
     "source": "hn",
@@ -56,33 +66,18 @@
   },
   {
     "source": "hn",
-    "url": "https://damaged.bleu255.com/",
-    "title": "Damaged Earth Catalog"
+    "url": "https://dynomight.net/hazard-ratios/",
+    "title": "Life with Hazard Ratios"
+  },
+  {
+    "source": "hn",
+    "url": "https://tuxnet.dev/posts/tls-for-internal-services/",
+    "title": "TLS certificates for internal services done right"
   },
   {
     "source": "hn",
     "url": "https://paulbourke.net/fractals/tripledragon/",
     "title": "Triple Dragon Fractal (2020)"
-  },
-  {
-    "source": "hn",
-    "url": "https://blog.cloudflare.com/build-your-own-vulnerability-harness/",
-    "title": "Build your own vulnerability harness"
-  },
-  {
-    "source": "hn",
-    "url": "https://debasishg.github.io/blog/part1-cache-conscious-data-layout-in-rust/",
-    "title": "Cache-Conscious Data Layout in Rust: Field Zoning, False Sharing, 128-Byte Rule"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.wired.com/story/this-buried-apple-feature-turns-an-iphone-into-the-perfect-kids-dumb-phone/",
-    "title": "Buried Apple feature turns an iPhone into the perfect kids' dumb phone"
-  },
-  {
-    "source": "hn",
-    "url": "https://mitpress.mit.edu/9780262053198/simpolitics/",
-    "title": "SimPolitics: America’s quest to solve politics with computers"
   },
   {
     "source": "lobsters",
@@ -111,11 +106,6 @@
   },
   {
     "source": "lobsters",
-    "url": "https://blog.khinsen.net/posts/2026/07/06/conviviality.html",
-    "title": "Conviviality in computational science"
-  },
-  {
-    "source": "lobsters",
     "url": "https://nh3.dev/blog/05-bloat",
     "title": "Page weight matters"
   },
@@ -126,13 +116,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://re.factorcode.org/2026/07/peace-for-all.html",
-    "title": "Peace For All – Re: Factor"
+    "url": "https://blog.khinsen.net/posts/2026/07/06/conviviality.html",
+    "title": "Conviviality in computational science"
   },
   {
     "source": "lobsters",
-    "url": "https://mathspp.com/blog/lsbasi-apl-part1",
-    "title": "Let's build a simple interpreter for APL"
+    "url": "https://re.factorcode.org/2026/07/peace-for-all.html",
+    "title": "Peace For All – Re: Factor"
   },
   {
     "source": "lobsters",
@@ -141,18 +131,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://www.hmans.dev/blog/chatto-is-open-source",
-    "title": "Chatto is now Open Source"
+    "url": "https://mathspp.com/blog/lsbasi-apl-part1",
+    "title": "Let's build a simple interpreter for APL"
   },
   {
     "source": "lobsters",
     "url": "https://tris.sherliker.net/blog/obfuscated-self-evaluating-bash-script-by-cdn-akamai-being-supplied-to-consumers-via-retail-stores/",
     "title": "Obfuscated bash script by Akamai being supplied to consumers via retail stores"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://yorickpeterse.com/articles/funding-open-source-software-without-compromising-it/",
-    "title": "Funding open-source software without compromising it"
   },
   {
     "source": "pinboard",
