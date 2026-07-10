@@ -1,18 +1,13 @@
 [
   {
     "source": "hn",
-    "url": "https://acoup.blog/2026/01/30/collections-the-late-bronze-age-collapse-a-very-brief-introduction/",
-    "title": "Late Bronze Age Collapse"
-  },
-  {
-    "source": "hn",
     "url": "https://www.jeffgeerling.com/blog/2026/quadrf-can-spot-drones-and-see-wifi-through-my-wall/",
     "title": "QuadRF can spot drones and see WiFi through my wall"
   },
   {
     "source": "hn",
-    "url": "https://unstack.io/write-code-like-a-human-will-maintain-it",
-    "title": "Write code like a human will maintain it"
+    "url": "https://vfxblog.com/2017/08/23/the-tech-of-terminator-2-an-oral-history/",
+    "title": "The tech of 'Terminator 2' – an oral history (2017)"
   },
   {
     "source": "hn",
@@ -21,13 +16,28 @@
   },
   {
     "source": "hn",
+    "url": "https://acoup.blog/2026/01/30/collections-the-late-bronze-age-collapse-a-very-brief-introduction/",
+    "title": "Late Bronze Age Collapse"
+  },
+  {
+    "source": "hn",
+    "url": "https://lists.osgeo.org/pipermail/qgis-developer/2026-July/068430.html",
+    "title": "Anyone else get a vague GitHub shakedown notice?"
+  },
+  {
+    "source": "hn",
     "url": "https://www.dailymail.com/sciencetech/article-15956159/Incredible-lost-city-discovered-Egypts-desert.html",
     "title": "Lost city discovered beneath Egypt's desert with ancient church"
   },
   {
     "source": "hn",
-    "url": "https://benjamin.piouffle.com/blog/burner-email-blocklists/",
-    "title": "My burner email blocklist blocked me"
+    "url": "https://unstack.io/write-code-like-a-human-will-maintain-it",
+    "title": "Write code like a human will maintain it"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.fadingmaize.com",
+    "title": "Show HN: Reviving my 2001 college band with AI"
   },
   {
     "source": "hn",
@@ -51,6 +61,16 @@
   },
   {
     "source": "hn",
+    "url": "https://elonlit.com/scrivings/the-annotated-jepa/",
+    "title": "The Annotated JEPA"
+  },
+  {
+    "source": "hn",
+    "url": "https://combustionlab.net",
+    "title": "Combustion Engine Web-Based Simulator"
+  },
+  {
+    "source": "hn",
     "url": "https://pncnmnp.github.io/blogs/rca-victor-education.html",
     "title": "How RCA Victor sold Sound Service to classrooms in 1939"
   },
@@ -70,41 +90,6 @@
     "title": "AI-generated videos to maximally drive a target brain region"
   },
   {
-    "source": "hn",
-    "url": "https://hy.tencent.com/research/hy3",
-    "title": "Hy3"
-  },
-  {
-    "source": "hn",
-    "url": "https://coinweek.com/ancient-spartan-coins/",
-    "title": "Ancient Coins: What About Spartan Coins?"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.patrick-breyer.de/en/eu-parliament-greenlights-chat-control-1-0-breyer-our-children-lose-out/",
-    "title": "EU Parliament greenlights Chat Control 1.0"
-  },
-  {
-    "source": "hn",
-    "url": "https://vettedconsumer.com/unified-memory-explained-why-mini-pcs-can-run-70b-models-a-big-gpu-cant-and-where-they-slow-down/",
-    "title": "Unified Memory, Explained: Why Mini PCs Can Run 70B Models a Big GPU Can't"
-  },
-  {
-    "source": "hn",
-    "url": "https://mwi.westpoint.edu/the-glass-backbone-why-the-armys-logistics-will-break-in-the-next-war/",
-    "title": "The glass backbone: Why the Army's logistics will break in the next war"
-  },
-  {
-    "source": "hn",
-    "url": "https://scotto.me/blog/2026-07-09-why-lisp/",
-    "title": "A road to Lisp: Why Lisp"
-  },
-  {
-    "source": "hn",
-    "url": "https://status.proton.me/incidents/01lxtcq155lc",
-    "title": "Proton AG Services is currently experiencing some issues"
-  },
-  {
     "source": "lobsters",
     "url": "https://www.osnews.com/story/145459/you-paid-me-a-long-time-linux-user-to-use-windows-11-exclusively-for-a-month-heres-how-it-went/",
     "title": "You paid me, a long-time Linux user, to use Windows 11 exclusively for a month: here’s how it went"
@@ -116,8 +101,23 @@
   },
   {
     "source": "lobsters",
+    "url": "https://wiki.c2.com/?TwoWaysToDesign",
+    "title": "Two Ways To Design"
+  },
+  {
+    "source": "lobsters",
     "url": "https://blog.rust-lang.org/2026/07/09/Rust-1.97.0/",
     "title": "Announcing Rust 1.97.0"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://avi.press/posts/2026-07-10-after-7-years-in-production-scarf-has-reluctantly-moved-away-from-haskell.html",
+    "title": "After 7 years in production, Scarf has reluctantly moved away from Haskell"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://scotto.me/blog/2026-07-09-why-lisp/",
+    "title": "A road to Lisp: Why Lisp"
   },
   {
     "source": "lobsters",
@@ -126,13 +126,23 @@
   },
   {
     "source": "lobsters",
-    "url": "https://wiki.c2.com/?TwoWaysToDesign",
-    "title": "Two Ways To Design"
+    "url": "https://labs.quansight.org/blog/python-abi-abi3t",
+    "title": "What Every Python Developer Should Know About the CPython ABI"
   },
   {
     "source": "lobsters",
     "url": "https://blinry.org/lcd-clock/",
     "title": "How to build a circular LCD clock"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://blog.khinsen.net/posts/2026/07/06/conviviality.html",
+    "title": "Conviviality in computational science"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://sebsite.pw/w/20260709-nan.html",
+    "title": "two case studies of NaN"
   },
   {
     "source": "lobsters",
@@ -146,28 +156,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://sebsite.pw/w/20260709-nan.html",
-    "title": "two case studies of NaN"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://blog.khinsen.net/posts/2026/07/06/conviviality.html",
-    "title": "Conviviality in computational science"
-  },
-  {
-    "source": "lobsters",
     "url": "https://www2.eecs.berkeley.edu/Pubs/TechRpts/1997/Archive/CSD-97-946.pdf",
     "title": "Practical Algorithms for Incremental Software Development Environments"
   },
   {
     "source": "lobsters",
-    "url": "https://cekrem.github.io/posts/elm-run-batch-job/",
-    "title": "A batch job, in The Elm Architecture"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://re.factorcode.org/2026/07/peace-for-all.html",
-    "title": "Peace For All – Re: Factor"
+    "url": "https://marvinh.dev/blog/running-1000-test-in-1s/",
+    "title": "Running 1000 tests in 1s (2022)"
   },
   {
     "source": "pinboard",
