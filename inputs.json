@@ -1,11 +1,6 @@
 [
   {
     "source": "hn",
-    "url": "https://www.tryai.dev/blog/gpt-5.6-build-off-12-models",
-    "title": "GPT-5.6, Grok 4.5, Claude, and Muse Spark build the same 4 apps"
-  },
-  {
-    "source": "hn",
     "url": "https://www.jeffgeerling.com/blog/2026/quadrf-can-spot-drones-and-see-wifi-through-my-wall/",
     "title": "QuadRF can spot drones and see WiFi through my wall"
   },
@@ -21,8 +16,8 @@
   },
   {
     "source": "hn",
-    "url": "https://casp.ac/reports/ai-enabled-terrorism",
-    "title": "How the terrorist group Boko Haram uses frontier AI"
+    "url": "https://mimo.xiaomi.com/blog/mimo-v2-5-inference",
+    "title": "Inference Optimization for MiMo v2.5: Pushing Hybrid SWA Efficiency to the Limit"
   },
   {
     "source": "hn",
@@ -31,8 +26,8 @@
   },
   {
     "source": "hn",
-    "url": "https://blog.sturdystatistics.com/posts/api_keys/",
-    "title": "Why We Don't Trust the Database with Authentication"
+    "url": "https://acoup.blog/2026/01/30/collections-the-late-bronze-age-collapse-a-very-brief-introduction/",
+    "title": "Late Bronze Age Collapse"
   },
   {
     "source": "hn",
@@ -41,18 +36,18 @@
   },
   {
     "source": "hn",
+    "url": "https://casp.ac/reports/ai-enabled-terrorism",
+    "title": "How the terrorist group Boko Haram uses frontier AI"
+  },
+  {
+    "source": "hn",
     "url": "https://www.dailymail.com/sciencetech/article-15956159/Incredible-lost-city-discovered-Egypts-desert.html",
     "title": "Lost city discovered beneath Egypt's desert with ancient church"
   },
   {
     "source": "hn",
-    "url": "https://acoup.blog/2026/01/30/collections-the-late-bronze-age-collapse-a-very-brief-introduction/",
-    "title": "Late Bronze Age Collapse"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.atomscale.ai/updates/our-thesis-atom-to-scale",
-    "title": "Materials innovation has a scale-up problem, not discovery"
+    "url": "https://nebusec.ai/research/ionstack-part-2/",
+    "title": "GhostLock, a stack-UAF that has existed in ALL Linux distributions for 15 years"
   },
   {
     "source": "hn",
@@ -61,8 +56,13 @@
   },
   {
     "source": "hn",
-    "url": "https://mappingignorance.org/2026/06/30/sagrada-familia/",
-    "title": "The mathematical secrets of Barcelona's Sagrada Familia"
+    "url": "https://www.recall.ai/blog/postgres-locks-do-not-scale",
+    "title": "Postgres locks do not scale"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.tryai.dev/blog/gpt-5.6-build-off-12-models",
+    "title": "GPT-5.6, Grok 4.5, Claude, and Muse Spark build the same 4 apps"
   },
   {
     "source": "hn",
@@ -71,8 +71,8 @@
   },
   {
     "source": "hn",
-    "url": "https://lesleylai.info/en/flashcards/",
-    "title": "A Love Letter to Flashcards"
+    "url": "https://mappingignorance.org/2026/06/30/sagrada-familia/",
+    "title": "The mathematical secrets of Barcelona's Sagrada Familia"
   },
   {
     "source": "lobsters",
@@ -81,13 +81,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://www.osnews.com/story/145459/you-paid-me-a-long-time-linux-user-to-use-windows-11-exclusively-for-a-month-heres-how-it-went/",
-    "title": "You paid me, a long-time Linux user, to use Windows 11 exclusively for a month: here’s how it went"
+    "url": "https://avi.press/posts/2026-07-10-after-7-years-in-production-scarf-has-reluctantly-moved-away-from-haskell.html",
+    "title": "After 7 years in production, Scarf has reluctantly moved away from Haskell"
   },
   {
     "source": "lobsters",
-    "url": "https://avi.press/posts/2026-07-10-after-7-years-in-production-scarf-has-reluctantly-moved-away-from-haskell.html",
-    "title": "After 7 years in production, Scarf has reluctantly moved away from Haskell"
+    "url": "https://www.osnews.com/story/145459/you-paid-me-a-long-time-linux-user-to-use-windows-11-exclusively-for-a-month-heres-how-it-went/",
+    "title": "You paid me, a long-time Linux user, to use Windows 11 exclusively for a month: here’s how it went"
   },
   {
     "source": "lobsters",
@@ -101,13 +101,18 @@
   },
   {
     "source": "lobsters",
+    "url": "https://marvinh.dev/blog/running-1000-test-in-1s/",
+    "title": "Running 1000 tests in 1s (2022)"
+  },
+  {
+    "source": "lobsters",
     "url": "https://blog.rust-lang.org/2026/07/09/Rust-1.97.0/",
     "title": "Announcing Rust 1.97.0"
   },
   {
     "source": "lobsters",
-    "url": "https://labs.quansight.org/blog/python-abi-abi3t",
-    "title": "What Every Python Developer Should Know About the CPython ABI"
+    "url": "https://www2.eecs.berkeley.edu/Pubs/TechRpts/1997/Archive/CSD-97-946.pdf",
+    "title": "Practical Algorithms for Incremental Software Development Environments"
   },
   {
     "source": "lobsters",
@@ -116,18 +121,13 @@
   },
   {
     "source": "lobsters",
+    "url": "https://labs.quansight.org/blog/python-abi-abi3t",
+    "title": "What Every Python Developer Should Know About the CPython ABI"
+  },
+  {
+    "source": "lobsters",
     "url": "https://nh3.dev/blog/05-bloat",
     "title": "Page weight matters"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://marvinh.dev/blog/running-1000-test-in-1s/",
-    "title": "Running 1000 tests in 1s (2022)"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://www2.eecs.berkeley.edu/Pubs/TechRpts/1997/Archive/CSD-97-946.pdf",
-    "title": "Practical Algorithms for Incremental Software Development Environments"
   },
   {
     "source": "lobsters",
