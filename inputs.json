@@ -16,6 +16,26 @@
   },
   {
     "source": "hn",
+    "url": "https://joesiegler.blog/2020/11/my-story-of-apogee-3dr/",
+    "title": "My Story of 3D Realms / Apogee Part I (2020)"
+  },
+  {
+    "source": "hn",
+    "url": "https://paulbourke.net/fractals/tripledragon/",
+    "title": "Triple Dragon Fractal (2020)"
+  },
+  {
+    "source": "hn",
+    "url": "https://boz.com/articles/focus",
+    "title": "Focus"
+  },
+  {
+    "source": "hn",
+    "url": "https://blog.cloudflare.com/build-your-own-vulnerability-harness/",
+    "title": "Build your own vulnerability harness"
+  },
+  {
+    "source": "hn",
     "url": "https://scotto.me/blog/2026-07-09-why-lisp/",
     "title": "A road to Lisp: Why Lisp"
   },
@@ -31,13 +51,18 @@
   },
   {
     "source": "hn",
-    "url": "https://tuxnet.dev/posts/tls-for-internal-services/",
-    "title": "TLS certificates for internal services done right"
+    "url": "https://www.ello.com/blog/teaching-a-child-in-1000-ms",
+    "title": "Building a real-time AI tutor for 5-year-olds"
   },
   {
     "source": "hn",
-    "url": "https://www.theregister.com/systems/2026/06/29/zuck-saves-meta-bucks-by-reusing-memory-from-old-servers-with-a-custom-cxl-asic/5263483",
-    "title": "Meta reuses old RAM in new servers with custom bridge chip"
+    "url": "https://debasishg.github.io/blog/part1-cache-conscious-data-layout-in-rust/",
+    "title": "Cache-Conscious Data Layout in Rust: Field Zoning, False Sharing, 128-Byte Rule"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.wired.com/story/this-buried-apple-feature-turns-an-iphone-into-the-perfect-kids-dumb-phone/",
+    "title": "Buried Apple feature turns an iPhone into the perfect kids' dumb phone"
   },
   {
     "source": "hn",
@@ -46,8 +71,8 @@
   },
   {
     "source": "hn",
-    "url": "https://www.wired.com/story/this-buried-apple-feature-turns-an-iphone-into-the-perfect-kids-dumb-phone/",
-    "title": "Buried Apple feature turns an iPhone into the perfect kids' dumb phone"
+    "url": "https://tuxnet.dev/posts/tls-for-internal-services/",
+    "title": "TLS certificates for internal services done right"
   },
   {
     "source": "hn",
@@ -58,16 +83,6 @@
     "source": "hn",
     "url": "https://lazypi.org/",
     "title": "Opinionated and easy Pi.dev configuration"
-  },
-  {
-    "source": "hn",
-    "url": "https://graphitemaster.github.io/aau/",
-    "title": "Almost Always Unsigned"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.pangram.com/blog/ai-in-your-feed",
-    "title": "AI content is everywhere on social media, especially LinkedIn"
   },
   {
     "source": "lobsters",
@@ -131,112 +146,12 @@
   },
   {
     "source": "lobsters",
-    "url": "https://yorickpeterse.com/articles/funding-open-source-software-without-compromising-it/",
-    "title": "Funding open-source software without compromising it"
-  },
-  {
-    "source": "lobsters",
     "url": "https://www.osnews.com/story/145312/review-iodeos-offers-a-frictionless-de-googled-android-experience/",
     "title": "Review: iodéOS offers a frictionless de-Googled Android experience"
   },
   {
     "source": "lobsters",
-    "url": "https://www.redpill-linpro.com/techblog/2026/03/20/from-luddite-to-vibe-coder.html",
-    "title": "From a Luddite to a Vibe-Coder"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://hakibenita.com/postgresql-partition-pruning",
-    "title": "How to Achieve Pruning When Querying by Non-Partitioned Columns in PostgreSQL"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://30papers.com/",
-    "title": "30 papers"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://qr.jim.sh/",
-    "title": "Jim's TrueType QR Code Font"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.comaps.app/",
-    "title": "Hike, Bike, Drive Offline Navigate with Privacy | CoMaps"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://davit.app/",
-    "title": "Davit — a native macOS UI for Apple containers"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://postgresisenough.dev/",
-    "title": "Postgres Is Enough"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://transformer-circuits.pub/2026/workspace/index.html",
-    "title": "Verbalizable Representations Form a Global Workspace in Language Models"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://bradleywoolf.com/links-1/sequencing-my-own-dna-at-home",
-    "title": "How to sequence your own DNA at home"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://janilowski.pl/en/blog/2026/price-per-m-tokens/",
-    "title": "Price per 1M tokens is meaningless | Jan Iłowski"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://ledger.worseonpurpose.com/",
-    "title": "The Brand Ledger — Worse on Purpose"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://organicmaps.app/",
-    "title": "Organic Maps - Detailed Offline Maps for Travellers, Tourists, Hikers and Cyclists"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://martinalderson.com/posts/the-upcoming-ai-margin-collapse-part-1-glm-5-2/",
-    "title": "GLM 5.2 and the coming AI margin collapse (part 1) - Martin Alderson"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.opentools.studio/",
-    "title": "OpenTools / OpenPrinter"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://ternlight-demo.vercel.app/",
-    "title": "Ternlight"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://sneakerweb.org/",
-    "title": "sneakerweb"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://iamwillwang.com/notes/has-not-been-viewed-much/",
-    "title": "has_not_been_viewed_much — Will W."
-  },
-  {
-    "source": "pinboard",
-    "url": "https://stillthinking.net/posts/connections-in-math-two-kinds-of-random/",
-    "title": "Connections in Math: the two kinds of random"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://astryx.atmeta.com/",
-    "title": "Astryx Design System"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://anthonyhobday.com/blog/20260410",
-    "title": "Notes on software quality"
+    "url": "https://yorickpeterse.com/articles/funding-open-source-software-without-compromising-it/",
+    "title": "Funding open-source software without compromising it"
   }
 ]
