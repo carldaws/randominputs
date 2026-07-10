@@ -6,8 +6,28 @@
   },
   {
     "source": "hn",
+    "url": "https://www.jeffgeerling.com/blog/2026/quadrf-can-spot-drones-and-see-wifi-through-my-wall/",
+    "title": "QuadRF can spot drones and see WiFi through my wall"
+  },
+  {
+    "source": "hn",
     "url": "https://unstack.io/write-code-like-a-human-will-maintain-it",
     "title": "Write code like a human will maintain it"
+  },
+  {
+    "source": "hn",
+    "url": "https://lesleylai.info/en/flashcards/",
+    "title": "A Love Letter to Flashcards"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.dailymail.com/sciencetech/article-15956159/Incredible-lost-city-discovered-Egypts-desert.html",
+    "title": "Lost city discovered beneath Egypt's desert with ancient church"
+  },
+  {
+    "source": "hn",
+    "url": "https://benjamin.piouffle.com/blog/burner-email-blocklists/",
+    "title": "My burner email blocklist blocked me"
   },
   {
     "source": "hn",
@@ -16,8 +36,8 @@
   },
   {
     "source": "hn",
-    "url": "https://geohot.github.io//blog/jekyll/update/2026/05/03/punk-or-why-i-dont-stream.html",
-    "title": "Punk, or why I don't stream anymore"
+    "url": "https://mappingignorance.org/2026/06/30/sagrada-familia/",
+    "title": "The mathematical secrets of Barcelona's Sagrada Familia"
   },
   {
     "source": "hn",
@@ -26,18 +46,13 @@
   },
   {
     "source": "hn",
-    "url": "https://mappingignorance.org/2026/06/30/sagrada-familia/",
-    "title": "The mathematical secrets of Barcelona's Sagrada Familia"
+    "url": "https://serialc.github.io/altClocks/",
+    "title": "Alternate Clock Designs and Time Systems"
   },
   {
     "source": "hn",
-    "url": "https://www.patrick-breyer.de/en/eu-parliament-greenlights-chat-control-1-0-breyer-our-children-lose-out/",
-    "title": "EU Parliament greenlights Chat Control 1.0"
-  },
-  {
-    "source": "hn",
-    "url": "https://avi.press/posts/2026-07-10-after-7-years-in-production-scarf-has-reluctantly-moved-away-from-haskell.html",
-    "title": "Scarf has moved away from Haskell"
+    "url": "https://pncnmnp.github.io/blogs/rca-victor-education.html",
+    "title": "How RCA Victor sold Sound Service to classrooms in 1939"
   },
   {
     "source": "hn",
@@ -46,13 +61,13 @@
   },
   {
     "source": "hn",
-    "url": "https://nevo-project.epfl.ch/",
-    "title": "AI-generated videos to maximally drive a target brain region"
+    "url": "https://alexalejandre.com/programming/interview-with-mitchell-hashimoto/",
+    "title": "Interview with Mitchell Hashimoto about Ghostty and Zig"
   },
   {
     "source": "hn",
-    "url": "https://alexalejandre.com/programming/interview-with-mitchell-hashimoto/",
-    "title": "Interview with Mitchell Hashimoto about Ghostty and Zig"
+    "url": "https://nevo-project.epfl.ch/",
+    "title": "AI-generated videos to maximally drive a target brain region"
   },
   {
     "source": "hn",
@@ -61,8 +76,18 @@
   },
   {
     "source": "hn",
-    "url": "https://status.proton.me/incidents/01lxtcq155lc",
-    "title": "Proton AG Services is currently experiencing some issues"
+    "url": "https://coinweek.com/ancient-spartan-coins/",
+    "title": "Ancient Coins: What About Spartan Coins?"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.patrick-breyer.de/en/eu-parliament-greenlights-chat-control-1-0-breyer-our-children-lose-out/",
+    "title": "EU Parliament greenlights Chat Control 1.0"
+  },
+  {
+    "source": "hn",
+    "url": "https://vettedconsumer.com/unified-memory-explained-why-mini-pcs-can-run-70b-models-a-big-gpu-cant-and-where-they-slow-down/",
+    "title": "Unified Memory, Explained: Why Mini PCs Can Run 70B Models a Big GPU Can't"
   },
   {
     "source": "hn",
@@ -76,8 +101,8 @@
   },
   {
     "source": "hn",
-    "url": "https://www.ello.com/blog/teaching-a-child-in-1000-ms",
-    "title": "Building a real-time AI tutor for 5-year-olds"
+    "url": "https://status.proton.me/incidents/01lxtcq155lc",
+    "title": "Proton AG Services is currently experiencing some issues"
   },
   {
     "source": "lobsters",
@@ -96,28 +121,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://bun.com/blog/bun-in-rust",
-    "title": "Rewriting Bun in Rust"
-  },
-  {
-    "source": "lobsters",
     "url": "https://nh3.dev/blog/05-bloat",
     "title": "Page weight matters"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://blog.khinsen.net/posts/2026/07/06/conviviality.html",
-    "title": "Conviviality in computational science"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://blinry.org/lcd-clock/",
-    "title": "How to build a circular LCD clock"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://sebsite.pw/w/20260709-nan.html",
-    "title": "two case studies of NaN"
   },
   {
     "source": "lobsters",
@@ -126,8 +131,33 @@
   },
   {
     "source": "lobsters",
+    "url": "https://blinry.org/lcd-clock/",
+    "title": "How to build a circular LCD clock"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://bun.com/blog/bun-in-rust",
+    "title": "Rewriting Bun in Rust"
+  },
+  {
+    "source": "lobsters",
     "url": "https://mathspp.com/blog/lsbasi-apl-part1",
     "title": "Let's build a simple interpreter for APL"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://sebsite.pw/w/20260709-nan.html",
+    "title": "two case studies of NaN"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://blog.khinsen.net/posts/2026/07/06/conviviality.html",
+    "title": "Conviviality in computational science"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://www2.eecs.berkeley.edu/Pubs/TechRpts/1997/Archive/CSD-97-946.pdf",
+    "title": "Practical Algorithms for Incremental Software Development Environments"
   },
   {
     "source": "lobsters",
@@ -140,11 +170,6 @@
     "title": "Peace For All – Re: Factor"
   },
   {
-    "source": "lobsters",
-    "url": "https://tris.sherliker.net/blog/obfuscated-self-evaluating-bash-script-by-cdn-akamai-being-supplied-to-consumers-via-retail-stores/",
-    "title": "Obfuscated bash script by Akamai being supplied to consumers via retail stores"
-  },
-  {
     "source": "pinboard",
     "url": "https://30papers.com/",
     "title": "30 papers"
@@ -153,6 +178,11 @@
     "source": "pinboard",
     "url": "https://davit.app/",
     "title": "Davit — a native macOS UI for Apple containers"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://tris.sherliker.net/blog/obfuscated-self-evaluating-bash-script-by-cdn-akamai-being-supplied-to-consumers-via-retail-stores/",
+    "title": "Tris Sherliker- Obfuscated, self-evaluating bash script by CDN Akamai being supplied to consumers via retail stores"
   },
   {
     "source": "pinboard",
