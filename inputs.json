@@ -36,18 +36,8 @@
   },
   {
     "source": "hn",
-    "url": "https://alephneuro.com/blog/silent-speech",
-    "title": "Silent speech with ultrasound"
-  },
-  {
-    "source": "hn",
     "url": "https://acoup.blog/2026/01/30/collections-the-late-bronze-age-collapse-a-very-brief-introduction/",
     "title": "Late Bronze Age Collapse"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.mixfont.com/ghost-font",
-    "title": "A font that humans can read but AI cannot"
   },
   {
     "source": "hn",
@@ -56,23 +46,28 @@
   },
   {
     "source": "hn",
-    "url": "https://combustionlab.net",
-    "title": "Combustion engine web-based simulator"
-  },
-  {
-    "source": "hn",
     "url": "https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98d31/cdc_proof.pdf",
     "title": "GPT-5.6 Sol Ultra produces proof of the Cycle Double Cover Conjecture [pdf]"
   },
   {
     "source": "hn",
-    "url": "https://serialc.github.io/altClocks/",
-    "title": "Alternate clock designs and time systems"
+    "url": "https://combustionlab.net",
+    "title": "Combustion engine web-based simulator"
   },
   {
     "source": "hn",
     "url": "https://mimo.xiaomi.com/blog/mimo-v2-5-inference",
     "title": "Inference Optimization for MiMo v2.5: Pushing Hybrid SWA Efficiency to the Limit"
+  },
+  {
+    "source": "hn",
+    "url": "https://alephneuro.com/blog/silent-speech",
+    "title": "Silent speech with ultrasound"
+  },
+  {
+    "source": "hn",
+    "url": "https://serialc.github.io/altClocks/",
+    "title": "Alternate clock designs and time systems"
   },
   {
     "source": "hn",
@@ -91,11 +86,6 @@
   },
   {
     "source": "hn",
-    "url": "https://gerireid.com/blog/organising-documentation-for-humans-and-ai/",
-    "title": "Documentation is still in your Mum's filing cabinet"
-  },
-  {
-    "source": "hn",
     "url": "https://pvk.ca/Blog/2019/01/09/preemption-is-gc-for-memory-reordering/",
     "title": "Preemption is GC for memory reordering (2019)"
   },
@@ -106,23 +96,23 @@
   },
   {
     "source": "lobsters",
-    "url": "https://www.osnews.com/story/145459/you-paid-me-a-long-time-linux-user-to-use-windows-11-exclusively-for-a-month-heres-how-it-went/",
-    "title": "You paid me, a long-time Linux user, to use Windows 11 exclusively for a month: here’s how it went"
-  },
-  {
-    "source": "lobsters",
     "url": "https://zeal8bit.com/",
     "title": "Zeal Z80-based computer"
   },
   {
     "source": "lobsters",
-    "url": "https://marvinh.dev/blog/running-1000-test-in-1s/",
-    "title": "Running 1000 tests in 1s (2022)"
+    "url": "https://www.osnews.com/story/145459/you-paid-me-a-long-time-linux-user-to-use-windows-11-exclusively-for-a-month-heres-how-it-went/",
+    "title": "You paid me, a long-time Linux user, to use Windows 11 exclusively for a month: here’s how it went"
   },
   {
     "source": "lobsters",
     "url": "https://labs.quansight.org/blog/python-abi-abi3t",
     "title": "What Every Python Developer Should Know About the CPython ABI"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://marvinh.dev/blog/running-1000-test-in-1s/",
+    "title": "Running 1000 tests in 1s (2022)"
   },
   {
     "source": "lobsters",
