@@ -1,16 +1,6 @@
 [
   {
     "source": "hn",
-    "url": "https://geohot.github.io//blog/jekyll/update/2026/07/11/ai-2040.html",
-    "title": "AI 2040 and the Cult of Intelligence"
-  },
-  {
-    "source": "hn",
-    "url": "https://studyfinds.com/modern-decor-may-be-straining-peoples-brains/",
-    "title": "Modern Decor May Be Straining People's Brains"
-  },
-  {
-    "source": "hn",
     "url": "https://evanhahn.com/prefer-strict-tables-in-sqlite/",
     "title": "Prefer Strict Tables in SQLite"
   },
@@ -23,6 +13,11 @@
     "source": "hn",
     "url": "https://www.math.ucdavis.edu/~saito/courses/229A/stewart-svd.pdf",
     "title": "The early History of the Singular Value Decomposition (1993) [pdf]"
+  },
+  {
+    "source": "hn",
+    "url": "https://studyfinds.com/modern-decor-may-be-straining-peoples-brains/",
+    "title": "Modern decor may be straining people's brains"
   },
   {
     "source": "hn",
@@ -41,21 +36,6 @@
   },
   {
     "source": "hn",
-    "url": "https://en.wikipedia.org/wiki/BLISS",
-    "title": "BLISS"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.jeffgeerling.com/blog/2026/quadrf-can-spot-drones-and-see-wifi-through-my-wall/",
-    "title": "QuadRF can spot drones and see WiFi through my wall"
-  },
-  {
-    "source": "hn",
-    "url": "https://amber-lang.com/",
-    "title": "Amber the programming language compiled to Bash/Ksh/Zsh"
-  },
-  {
-    "source": "hn",
     "url": "https://nagylukas.github.io/orbit.html",
     "title": "Show HN: Orbit – AR satellite tracker, watch 15k+ objects"
   },
@@ -66,8 +46,13 @@
   },
   {
     "source": "hn",
-    "url": "https://languagelog.ldc.upenn.edu/myl/Good1964.pdf",
-    "title": "Speculations Concerning the First Ultraintelligent Machine (1965) [pdf]"
+    "url": "https://amber-lang.com/",
+    "title": "Amber the programming language compiled to Bash/Ksh/Zsh"
+  },
+  {
+    "source": "hn",
+    "url": "https://en.wikipedia.org/wiki/BLISS",
+    "title": "BLISS"
   },
   {
     "source": "hn",
@@ -76,28 +61,18 @@
   },
   {
     "source": "hn",
-    "url": "https://alexandrepoupeau.com/otary/learn/",
-    "title": "Otary – Image and Geometry Python Library Now Has Tutorials"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.historytoday.com/archive/feature/mad-dogs-and-englishmen-winning-war-rabies",
-    "title": "The Victorian War on Rabies"
-  },
-  {
-    "source": "hn",
     "url": "https://en.wikipedia.org/wiki/Earendel_(astronomical_object)",
     "title": "Earendel (Astronomical Object)"
   },
   {
     "source": "hn",
-    "url": "https://vfxblog.com/dinosaurinputdevice/",
-    "title": "The Oral History of the Dinosaur Input Device (DID)"
+    "url": "https://alexandrepoupeau.com/otary/learn/",
+    "title": "Otary – Image and Geometry Python Library Now Has Tutorials"
   },
   {
-    "source": "lobsters",
-    "url": "https://nesbitt.io/2026/05/10/madame-semver-will-see-you-now.html",
-    "title": "Madame Semver Will See You Now"
+    "source": "hn",
+    "url": "https://languagelog.ldc.upenn.edu/myl/Good1964.pdf",
+    "title": "Speculations Concerning the First Ultraintelligent Machine (1965) [pdf]"
   },
   {
     "source": "lobsters",
@@ -106,13 +81,18 @@
   },
   {
     "source": "lobsters",
-    "url": "https://avi.press/posts/2026-07-10-after-7-years-in-production-scarf-has-reluctantly-moved-away-from-haskell.html",
-    "title": "After 7 years in production, Scarf has reluctantly moved away from Haskell"
+    "url": "https://nesbitt.io/2026/05/10/madame-semver-will-see-you-now.html",
+    "title": "Madame Semver Will See You Now"
   },
   {
     "source": "lobsters",
-    "url": "https://alexalejandre.com/programming/interview-with-mitchell-hashimoto/",
-    "title": "Lobsters Interview with mitchellh"
+    "url": "https://nigeltao.github.io/blog/2026/handsum.html",
+    "title": "Handsum: An LQIP Image File Format"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://avi.press/posts/2026-07-10-after-7-years-in-production-scarf-has-reluctantly-moved-away-from-haskell.html",
+    "title": "After 7 years in production, Scarf has reluctantly moved away from Haskell"
   },
   {
     "source": "lobsters",
@@ -126,8 +106,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://nigeltao.github.io/blog/2026/handsum.html",
-    "title": "Handsum: An LQIP Image File Format"
+    "url": "https://alexalejandre.com/programming/interview-with-mitchell-hashimoto/",
+    "title": "Lobsters Interview with mitchellh"
   },
   {
     "source": "lobsters",
@@ -151,13 +131,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://wiki.c2.com/?TwoWaysToDesign",
-    "title": "Two Ways To Design"
+    "url": "https://nesbitt.io/2026/07/10/package-management-as-org-chart.html",
+    "title": "Package Management as Org Chart"
   },
   {
     "source": "lobsters",
-    "url": "https://nesbitt.io/2026/07/10/package-management-as-org-chart.html",
-    "title": "Package Management as Org Chart"
+    "url": "https://wiki.c2.com/?TwoWaysToDesign",
+    "title": "Two Ways To Design"
   },
   {
     "source": "lobsters",
