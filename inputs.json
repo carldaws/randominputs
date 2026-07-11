@@ -1,8 +1,18 @@
 [
   {
     "source": "hn",
+    "url": "https://studyfinds.com/modern-decor-may-be-straining-peoples-brains/",
+    "title": "Modern Decor May Be Straining People's Brains"
+  },
+  {
+    "source": "hn",
     "url": "https://www.math.ucdavis.edu/~saito/courses/229A/stewart-svd.pdf",
     "title": "The early History of the Singular Value Decomposition (1993) [pdf]"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.jamesdrandall.com/posts/thrust_ai_powered_software_archaeology/",
+    "title": "AI Can't Recreate the Thrust Game (But It Can Help You Understand It)"
   },
   {
     "source": "hn",
@@ -11,8 +21,18 @@
   },
   {
     "source": "hn",
+    "url": "https://amber-lang.com/",
+    "title": "Amber the programming language compiled to Bash/Ksh/Zsh"
+  },
+  {
+    "source": "hn",
     "url": "https://languagelog.ldc.upenn.edu/myl/Good1964.pdf",
     "title": "Speculations Concerning the First Ultraintelligent Machine (1965) [pdf]"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.atariarchives.org/deli/",
+    "title": "Digital Deli, 1984 book by early PC hackers and enthusiasts"
   },
   {
     "source": "hn",
@@ -21,18 +41,23 @@
   },
   {
     "source": "hn",
-    "url": "https://www.iroh.computer/blog/an-iroh-powered-smart-fan",
-    "title": "An iroh powered smart fan"
-  },
-  {
-    "source": "hn",
     "url": "https://www.mixfont.com/ghost-font",
     "title": "Ghost Font: A font that humans can read but AI cannot"
   },
   {
     "source": "hn",
-    "url": "https://www.atariarchives.org/deli/",
-    "title": "Digital Deli, 1984 book by early PC hackers and enthusiasts"
+    "url": "https://shipthatcode.com",
+    "title": "Show HN: Learn by rebuilding Redis, Git, a database from scratch"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.historytoday.com/archive/feature/mad-dogs-and-englishmen-winning-war-rabies",
+    "title": "The Victorian War on Rabies"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.iroh.computer/blog/an-iroh-powered-smart-fan",
+    "title": "An iroh powered smart fan"
   },
   {
     "source": "hn",
@@ -46,23 +71,8 @@
   },
   {
     "source": "hn",
-    "url": "https://www.historytoday.com/archive/feature/mad-dogs-and-englishmen-winning-war-rabies",
-    "title": "The Victorian War on Rabies"
-  },
-  {
-    "source": "hn",
-    "url": "https://tiki.li/blog/lucky_code.html",
-    "title": "Your code is fast – if you're lucky"
-  },
-  {
-    "source": "hn",
     "url": "https://ai-2040.com/",
     "title": "AI 2040: Plan A"
-  },
-  {
-    "source": "hn",
-    "url": "https://designyoutrust.com/2018/01/vintage-beauty-soviet-control-rooms/",
-    "title": "The vintage beauty of Soviet control rooms (2018)"
   },
   {
     "source": "hn",
@@ -71,33 +81,18 @@
   },
   {
     "source": "hn",
-    "url": "https://shipthatcode.com",
-    "title": "Show HN: Learn by rebuilding Redis, Git, a database from scratch"
+    "url": "https://en.wikipedia.org/wiki/Earendel_(astronomical_object)",
+    "title": "Earendel (Astronomical Object)"
   },
   {
-    "source": "hn",
-    "url": "https://vfxblog.com/2017/08/23/the-tech-of-terminator-2-an-oral-history/",
-    "title": "The tech of 'Terminator 2' – an oral history (2017)"
+    "source": "lobsters",
+    "url": "https://nesbitt.io/2026/05/10/madame-semver-will-see-you-now.html",
+    "title": "Madame Semver Will See You Now"
   },
   {
-    "source": "hn",
-    "url": "https://alephneuro.com/blog/silent-speech",
-    "title": "Silent speech with ultrasound"
-  },
-  {
-    "source": "hn",
+    "source": "lobsters",
     "url": "https://avi.press/posts/2026-07-10-after-7-years-in-production-scarf-has-reluctantly-moved-away-from-haskell.html",
     "title": "After 7 years in production, Scarf has reluctantly moved away from Haskell"
-  },
-  {
-    "source": "hn",
-    "url": "https://serialc.github.io/altClocks/",
-    "title": "Alternate clock designs and time systems"
-  },
-  {
-    "source": "hn",
-    "url": "https://combustionlab.net",
-    "title": "Combustion engine web-based simulator"
   },
   {
     "source": "lobsters",
@@ -116,8 +111,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://nesbitt.io/2026/05/10/madame-semver-will-see-you-now.html",
-    "title": "Madame Semver Will See You Now"
+    "url": "https://labs.quansight.org/blog/python-abi-abi3t",
+    "title": "What Every Python Developer Should Know About the CPython ABI"
   },
   {
     "source": "lobsters",
@@ -131,11 +126,6 @@
   },
   {
     "source": "lobsters",
-    "url": "https://labs.quansight.org/blog/python-abi-abi3t",
-    "title": "What Every Python Developer Should Know About the CPython ABI"
-  },
-  {
-    "source": "lobsters",
     "url": "https://htmx.org/essays/working-with-ai/",
     "title": "Working With AI: A Concrete Example"
   },
@@ -146,13 +136,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://triapul.cz/automa/i_did_not_kill_stanley_lieber",
-    "title": "I Did Not Kill Stanley Lieber: How to draw (with 9front)"
+    "url": "https://nesbitt.io/2026/07/10/package-management-as-org-chart.html",
+    "title": "Package Management as Org Chart"
   },
   {
     "source": "lobsters",
-    "url": "https://nesbitt.io/2026/07/10/package-management-as-org-chart.html",
-    "title": "Package Management as Org Chart"
+    "url": "https://triapul.cz/automa/i_did_not_kill_stanley_lieber",
+    "title": "I Did Not Kill Stanley Lieber: How to draw (with 9front)"
   },
   {
     "source": "lobsters",
