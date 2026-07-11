@@ -1,6 +1,11 @@
 [
   {
     "source": "hn",
+    "url": "https://fazamhd.com/mental-models/networking/",
+    "title": "Networking and the Internet, from First Principles"
+  },
+  {
+    "source": "hn",
     "url": "https://www.jeffgeerling.com/blog/2026/quadrf-can-spot-drones-and-see-wifi-through-my-wall/",
     "title": "QuadRF can spot drones and see WiFi through my wall"
   },
@@ -11,13 +16,18 @@
   },
   {
     "source": "hn",
-    "url": "https://www.bloomberg.com/news/features/2026-07-07/why-it-s-so-difficult-to-produce-100-american-made-medical-gloves",
-    "title": "Almost $1B Later, the US Still Can't Make a Medical Glove"
+    "url": "https://tiki.li/blog/lucky_code.html",
+    "title": "Your code is fast – if you're lucky"
   },
   {
     "source": "hn",
     "url": "https://www.iroh.computer/blog/an-iroh-powered-smart-fan",
     "title": "An iroh powered smart fan"
+  },
+  {
+    "source": "hn",
+    "url": "https://html-drive.com",
+    "title": "Show HN: HTMLDrive – serve HTML files from your Google Drive"
   },
   {
     "source": "hn",
@@ -46,8 +56,8 @@
   },
   {
     "source": "hn",
-    "url": "https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98d31/cdc_proof.pdf",
-    "title": "GPT-5.6 Sol Ultra produces proof of the Cycle Double Cover Conjecture [pdf]"
+    "url": "https://alephneuro.com/blog/silent-speech",
+    "title": "Silent speech with ultrasound"
   },
   {
     "source": "hn",
@@ -56,13 +66,13 @@
   },
   {
     "source": "hn",
-    "url": "https://mimo.xiaomi.com/blog/mimo-v2-5-inference",
-    "title": "Inference Optimization for MiMo v2.5: Pushing Hybrid SWA Efficiency to the Limit"
+    "url": "https://avi.press/posts/2026-07-10-after-7-years-in-production-scarf-has-reluctantly-moved-away-from-haskell.html",
+    "title": "After 7 years in production, Scarf has reluctantly moved away from Haskell"
   },
   {
     "source": "hn",
-    "url": "https://alephneuro.com/blog/silent-speech",
-    "title": "Silent speech with ultrasound"
+    "url": "https://mimo.xiaomi.com/blog/mimo-v2-5-inference",
+    "title": "Inference Optimization for MiMo v2.5: Pushing Hybrid SWA Efficiency to the Limit"
   },
   {
     "source": "hn",
@@ -71,23 +81,13 @@
   },
   {
     "source": "hn",
-    "url": "https://avi.press/posts/2026-07-10-after-7-years-in-production-scarf-has-reluctantly-moved-away-from-haskell.html",
-    "title": "After 7 years in production, Scarf has reluctantly moved away from Haskell"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.dailymail.com/sciencetech/article-15956159/Incredible-lost-city-discovered-Egypts-desert.html",
-    "title": "Lost city discovered beneath Egypt's desert with ancient church"
+    "url": "https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98d31/cdc_proof.pdf",
+    "title": "GPT-5.6 Sol Ultra produces proof of the Cycle Double Cover Conjecture [pdf]"
   },
   {
     "source": "hn",
     "url": "https://lesleylai.info/en/flashcards/",
     "title": "A love letter to flashcards"
-  },
-  {
-    "source": "hn",
-    "url": "https://pvk.ca/Blog/2019/01/09/preemption-is-gc-for-memory-reordering/",
-    "title": "Preemption is GC for memory reordering (2019)"
   },
   {
     "source": "lobsters",
@@ -101,13 +101,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://www.osnews.com/story/145459/you-paid-me-a-long-time-linux-user-to-use-windows-11-exclusively-for-a-month-heres-how-it-went/",
-    "title": "You paid me, a long-time Linux user, to use Windows 11 exclusively for a month: here’s how it went"
+    "url": "https://www.schneier.com/blog/archives/2026/07/ai-surveillance-and-social-progress.html",
+    "title": "AI Surveillance and Social Progress"
   },
   {
     "source": "lobsters",
-    "url": "https://labs.quansight.org/blog/python-abi-abi3t",
-    "title": "What Every Python Developer Should Know About the CPython ABI"
+    "url": "https://www.osnews.com/story/145459/you-paid-me-a-long-time-linux-user-to-use-windows-11-exclusively-for-a-month-heres-how-it-went/",
+    "title": "You paid me, a long-time Linux user, to use Windows 11 exclusively for a month: here’s how it went"
   },
   {
     "source": "lobsters",
@@ -116,8 +116,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://www.schneier.com/blog/archives/2026/07/ai-surveillance-and-social-progress.html",
-    "title": "AI Surveillance and Social Progress"
+    "url": "https://labs.quansight.org/blog/python-abi-abi3t",
+    "title": "What Every Python Developer Should Know About the CPython ABI"
   },
   {
     "source": "lobsters",
@@ -141,6 +141,11 @@
   },
   {
     "source": "lobsters",
+    "url": "https://nesbitt.io/2026/05/10/madame-semver-will-see-you-now.html",
+    "title": "Madame Semver Will See You Now"
+  },
+  {
+    "source": "lobsters",
     "url": "https://www2.eecs.berkeley.edu/Pubs/TechRpts/1997/Archive/CSD-97-946.pdf",
     "title": "Practical Algorithms for Incremental Software Development Environments"
   },
@@ -158,10 +163,5 @@
     "source": "lobsters",
     "url": "https://nh3.dev/blog/05-bloat",
     "title": "Page weight matters"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://blinry.org/lcd-clock/",
-    "title": "How to build a circular LCD clock"
   }
 ]
