@@ -6,8 +6,13 @@
   },
   {
     "source": "hn",
-    "url": "https://designyoutrust.com/2018/01/vintage-beauty-soviet-control-rooms/",
-    "title": "The vintage beauty of Soviet control rooms (2018)"
+    "url": "https://alexandrepoupeau.com/otary/learn/",
+    "title": "Otary – Image and Geometry Python Library Now Has Tutorials"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.bloomberg.com/news/features/2026-07-07/why-it-s-so-difficult-to-produce-100-american-made-medical-gloves",
+    "title": "Almost $1B Later, the US Still Can't Make a Medical Glove"
   },
   {
     "source": "hn",
@@ -16,13 +21,8 @@
   },
   {
     "source": "hn",
-    "url": "https://alexandrepoupeau.com/otary/learn/",
-    "title": "Otary – Image and Geometry Python Library Now Has Tutorials"
-  },
-  {
-    "source": "hn",
-    "url": "https://alephneuro.com/blog/silent-speech",
-    "title": "Silent speech with ultrasound"
+    "url": "https://designyoutrust.com/2018/01/vintage-beauty-soviet-control-rooms/",
+    "title": "The vintage beauty of Soviet control rooms (2018)"
   },
   {
     "source": "hn",
@@ -36,8 +36,18 @@
   },
   {
     "source": "hn",
-    "url": "https://gerireid.com/blog/organising-documentation-for-humans-and-ai/",
-    "title": "Documentation is still in your Mum's filing cabinet"
+    "url": "https://alephneuro.com/blog/silent-speech",
+    "title": "Silent speech with ultrasound"
+  },
+  {
+    "source": "hn",
+    "url": "https://acoup.blog/2026/01/30/collections-the-late-bronze-age-collapse-a-very-brief-introduction/",
+    "title": "Late Bronze Age Collapse"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.mixfont.com/ghost-font",
+    "title": "A font that humans can read but AI cannot"
   },
   {
     "source": "hn",
@@ -51,18 +61,13 @@
   },
   {
     "source": "hn",
-    "url": "https://www.clemsau.com/posts/the-lindy-effect-in-software/",
-    "title": "The Lindy effect in software"
-  },
-  {
-    "source": "hn",
-    "url": "https://acoup.blog/2026/01/30/collections-the-late-bronze-age-collapse-a-very-brief-introduction/",
-    "title": "Late Bronze Age Collapse"
-  },
-  {
-    "source": "hn",
     "url": "https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98d31/cdc_proof.pdf",
     "title": "GPT-5.6 Sol Ultra produces proof of the Cycle Double Cover Conjecture [pdf]"
+  },
+  {
+    "source": "hn",
+    "url": "https://serialc.github.io/altClocks/",
+    "title": "Alternate clock designs and time systems"
   },
   {
     "source": "hn",
@@ -76,8 +81,8 @@
   },
   {
     "source": "hn",
-    "url": "https://serialc.github.io/altClocks/",
-    "title": "Alternate clock designs and time systems"
+    "url": "https://www.dailymail.com/sciencetech/article-15956159/Incredible-lost-city-discovered-Egypts-desert.html",
+    "title": "Lost city discovered beneath Egypt's desert with ancient church"
   },
   {
     "source": "hn",
@@ -86,8 +91,8 @@
   },
   {
     "source": "hn",
-    "url": "https://www.dailymail.com/sciencetech/article-15956159/Incredible-lost-city-discovered-Egypts-desert.html",
-    "title": "Lost city discovered beneath Egypt's desert with ancient church"
+    "url": "https://gerireid.com/blog/organising-documentation-for-humans-and-ai/",
+    "title": "Documentation is still in your Mum's filing cabinet"
   },
   {
     "source": "hn",
@@ -121,6 +126,16 @@
   },
   {
     "source": "lobsters",
+    "url": "https://www.schneier.com/blog/archives/2026/07/ai-surveillance-and-social-progress.html",
+    "title": "AI Surveillance and Social Progress"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://htmx.org/essays/working-with-ai/",
+    "title": "Working With AI: A Concrete Example"
+  },
+  {
+    "source": "lobsters",
     "url": "https://wiki.c2.com/?TwoWaysToDesign",
     "title": "Two Ways To Design"
   },
@@ -131,13 +146,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://www2.eecs.berkeley.edu/Pubs/TechRpts/1997/Archive/CSD-97-946.pdf",
-    "title": "Practical Algorithms for Incremental Software Development Environments"
+    "url": "https://nesbitt.io/2026/07/10/package-management-as-org-chart.html",
+    "title": "Package Management as Org Chart"
   },
   {
     "source": "lobsters",
-    "url": "https://nesbitt.io/2026/07/10/package-management-as-org-chart.html",
-    "title": "Package Management as Org Chart"
+    "url": "https://www2.eecs.berkeley.edu/Pubs/TechRpts/1997/Archive/CSD-97-946.pdf",
+    "title": "Practical Algorithms for Incremental Software Development Environments"
   },
   {
     "source": "lobsters",
@@ -158,10 +173,5 @@
     "source": "lobsters",
     "url": "https://blinry.org/lcd-clock/",
     "title": "How to build a circular LCD clock"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://blog.khinsen.net/posts/2026/07/06/conviviality.html",
-    "title": "Conviviality in computational science"
   }
 ]
