@@ -1,8 +1,18 @@
 [
   {
     "source": "hn",
+    "url": "https://blog.yaelwrites.com/stop-telling-me-to-ask-an-llm/",
+    "title": "Stop Telling Me to Ask an LLM"
+  },
+  {
+    "source": "hn",
     "url": "https://antjs.org",
     "title": "Show HN: Ant – A JavaScript runtime and ecosystem"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.iroh.computer/blog/mesh-llm",
+    "title": "Mesh LLM: distributed AI computing on iroh"
   },
   {
     "source": "hn",
@@ -31,13 +41,18 @@
   },
   {
     "source": "hn",
+    "url": "https://www.quicopt.com/developer/getting-started/",
+    "title": "Optimization Solver as a Service"
+  },
+  {
+    "source": "hn",
     "url": "https://nagylukas.github.io/orbit.html",
     "title": "Show HN: Orbit – AR satellite tracker, watch 15k+ objects"
   },
   {
     "source": "hn",
-    "url": "https://amber-lang.com/",
-    "title": "Amber the programming language compiled to Bash/Ksh/Zsh"
+    "url": "https://archive.cancerworld.net/featured/how-doctors-die/",
+    "title": "Doctors die. It's not like the rest of us, but it should be (2016)"
   },
   {
     "source": "hn",
@@ -46,8 +61,8 @@
   },
   {
     "source": "hn",
-    "url": "https://www.androidauthority.com/claude-latest-models-pushback-bad-3683521/",
-    "title": "I used to love Claude, but the latest models are slowly ruining it"
+    "url": "https://amber-lang.com/",
+    "title": "Amber the programming language compiled to Bash/Ksh/Zsh"
   },
   {
     "source": "hn",
@@ -63,16 +78,6 @@
     "source": "hn",
     "url": "https://www.jamesdrandall.com/posts/thrust_ai_powered_software_archaeology/",
     "title": "AI Can't Recreate the Thrust Game (But It Can Help You Understand It)"
-  },
-  {
-    "source": "hn",
-    "url": "https://geohot.github.io//blog/jekyll/update/2026/07/11/ai-2040.html",
-    "title": "AI 2040 and the cult of intelligence"
-  },
-  {
-    "source": "hn",
-    "url": "https://alexandrepoupeau.com/otary/learn/",
-    "title": "Otary – Image and Geometry Python Library Now Has Tutorials"
   },
   {
     "source": "lobsters",
@@ -96,18 +101,23 @@
   },
   {
     "source": "lobsters",
-    "url": "https://htmx.org/essays/working-with-ai/",
-    "title": "Working With AI: A Concrete Example"
-  },
-  {
-    "source": "lobsters",
     "url": "https://zeal8bit.com/",
     "title": "Zeal Z80-based computer"
   },
   {
     "source": "lobsters",
+    "url": "https://htmx.org/essays/working-with-ai/",
+    "title": "Working With AI: A Concrete Example"
+  },
+  {
+    "source": "lobsters",
     "url": "https://www.schneier.com/blog/archives/2026/07/ai-surveillance-and-social-progress.html",
     "title": "AI Surveillance and Social Progress"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://mimo.xiaomi.com/blog/mimo-v2-5-inference",
+    "title": "Full-Pipeline Inference Optimization for MiMo-V2.5 Series"
   },
   {
     "source": "lobsters",
@@ -148,85 +158,5 @@
     "source": "lobsters",
     "url": "https://wiki.c2.com/?TwoWaysToDesign",
     "title": "Two Ways To Design"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://triapul.cz/automa/i_did_not_kill_stanley_lieber",
-    "title": "I Did Not Kill Stanley Lieber: How to draw (with 9front)"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://bun.com/blog/bun-in-rust",
-    "title": "Rewriting Bun in Rust | Bun Blog"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://tris.sherliker.net/blog/obfuscated-self-evaluating-bash-script-by-cdn-akamai-being-supplied-to-consumers-via-retail-stores/",
-    "title": "Tris Sherliker- Obfuscated, self-evaluating bash script by CDN Akamai being supplied to consumers via retail stores"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://davit.app/",
-    "title": "Davit — a native macOS UI for Apple containers"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://andrewkelley.me/post/my-thoughts-bun-rust-rewrite.html",
-    "title": "My Thoughts on the Bun Rust Rewrite - Andrew Kelley"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://karlbode.com/the-ai-hype-reckoning-is-upon-us/",
-    "title": "The AI Hype Reckoning Is Upon Us - The massive chasm between AI hype and reality is finally reaching the breaking point."
-  },
-  {
-    "source": "pinboard",
-    "url": "https://withmarble.com/curriculum/",
-    "title": "Everything a child learns"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://30papers.com/",
-    "title": "30 papers"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://qr.jim.sh/",
-    "title": "Jim's TrueType QR Code Font"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://blog.dannycastonguay.com/how-to-write-an-email/",
-    "title": "How To Write an Email - Home"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://postgresisenough.dev/",
-    "title": "Postgres Is Enough"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.votebeat.org/national/2026/07/09/trump-fires-election-assistance-commission-members-hicks-hovland-mccormick/",
-    "title": "Trump fires all commissioners of federal election agency"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://pluralistic.net/2026/07/02/canonization/",
-    "title": "Pluralistic: The difference between “today’s task” and “accretive work” (02 Jul 2026) – Pluralistic: Daily links from Cory Doctorow"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://davidpoblador.com/deep-dives/what-happened-to-the-frontend/",
-    "title": "The Descent — What Happened to the Frontend While You Weren't Watching"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://news.ycombinator.com/item?id=48842459",
-    "title": "Show HN: Getting GLM 5.2 running on my slow computer | Hacker News"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.wired.com/story/this-buried-apple-feature-turns-an-iphone-into-the-perfect-kids-dumb-phone/",
-    "title": "This Buried Apple Feature Turns an iPhone Into the Perfect Kids’ Dumb Phone | WIRED"
   }
 ]
