@@ -6,18 +6,13 @@
   },
   {
     "source": "hn",
-    "url": "https://tiki.li/blog/lucky_code.html",
-    "title": "Your code is fast – if you're lucky"
-  },
-  {
-    "source": "hn",
     "url": "https://www.jeffgeerling.com/blog/2026/quadrf-can-spot-drones-and-see-wifi-through-my-wall/",
     "title": "QuadRF can spot drones and see WiFi through my wall"
   },
   {
     "source": "hn",
-    "url": "https://alexandrepoupeau.com/otary/learn/",
-    "title": "Otary – Image and Geometry Python Library Now Has Tutorials"
+    "url": "https://tiki.li/blog/lucky_code.html",
+    "title": "Your code is fast – if you're lucky"
   },
   {
     "source": "hn",
@@ -26,8 +21,28 @@
   },
   {
     "source": "hn",
+    "url": "https://alexandrepoupeau.com/otary/learn/",
+    "title": "Otary – Image and Geometry Python Library Now Has Tutorials"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.amazon.com/RISC-V-Microprocessor-System-Chip-Design/dp/0323994989",
+    "title": "Book: RISC-V System-on-Chip Design"
+  },
+  {
+    "source": "hn",
     "url": "https://www.iroh.computer/blog/an-iroh-powered-smart-fan",
     "title": "An iroh powered smart fan"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.mixfont.com/ghost-font",
+    "title": "Ghost Font: A font that humans can read but AI cannot"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.bloomberg.com/news/features/2026-07-07/why-it-s-so-difficult-to-produce-100-american-made-medical-gloves",
+    "title": "Why it's so difficult to produce American-made medical gloves"
   },
   {
     "source": "hn",
@@ -36,18 +51,23 @@
   },
   {
     "source": "hn",
-    "url": "https://designyoutrust.com/2018/01/vintage-beauty-soviet-control-rooms/",
-    "title": "The vintage beauty of Soviet control rooms (2018)"
-  },
-  {
-    "source": "hn",
     "url": "https://ai-2040.com/",
     "title": "AI 2040: Plan A"
   },
   {
     "source": "hn",
+    "url": "https://designyoutrust.com/2018/01/vintage-beauty-soviet-control-rooms/",
+    "title": "The vintage beauty of Soviet control rooms (2018)"
+  },
+  {
+    "source": "hn",
     "url": "https://acoup.blog/2026/01/30/collections-the-late-bronze-age-collapse-a-very-brief-introduction/",
     "title": "Late Bronze Age Collapse"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.atariarchives.org/deli/",
+    "title": "Digital Deli, 1984 book by early PC hackers and enthusiasts"
   },
   {
     "source": "hn",
@@ -61,6 +81,11 @@
   },
   {
     "source": "hn",
+    "url": "https://serialc.github.io/altClocks/",
+    "title": "Alternate clock designs and time systems"
+  },
+  {
+    "source": "hn",
     "url": "https://combustionlab.net",
     "title": "Combustion engine web-based simulator"
   },
@@ -71,23 +96,13 @@
   },
   {
     "source": "hn",
-    "url": "https://serialc.github.io/altClocks/",
-    "title": "Alternate clock designs and time systems"
-  },
-  {
-    "source": "hn",
     "url": "https://mimo.xiaomi.com/blog/mimo-v2-5-inference",
     "title": "Inference Optimization for MiMo v2.5: Pushing Hybrid SWA Efficiency to the Limit"
   },
   {
     "source": "hn",
-    "url": "https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98d31/cdc_proof.pdf",
-    "title": "GPT-5.6 Sol Ultra produces proof of the Cycle Double Cover Conjecture [pdf]"
-  },
-  {
-    "source": "hn",
-    "url": "https://lesleylai.info/en/flashcards/",
-    "title": "A love letter to flashcards"
+    "url": "https://anti-forbes-list.vercel.app",
+    "title": "Show HN: Richest people in the world by wealth creation instead of ownership"
   },
   {
     "source": "lobsters",
@@ -106,6 +121,11 @@
   },
   {
     "source": "lobsters",
+    "url": "https://nesbitt.io/2026/05/10/madame-semver-will-see-you-now.html",
+    "title": "Madame Semver Will See You Now"
+  },
+  {
+    "source": "lobsters",
     "url": "https://www.osnews.com/story/145459/you-paid-me-a-long-time-linux-user-to-use-windows-11-exclusively-for-a-month-heres-how-it-went/",
     "title": "You paid me, a long-time Linux user, to use Windows 11 exclusively for a month: here’s how it went"
   },
@@ -118,11 +138,6 @@
     "source": "lobsters",
     "url": "https://labs.quansight.org/blog/python-abi-abi3t",
     "title": "What Every Python Developer Should Know About the CPython ABI"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://nesbitt.io/2026/05/10/madame-semver-will-see-you-now.html",
-    "title": "Madame Semver Will See You Now"
   },
   {
     "source": "lobsters",
