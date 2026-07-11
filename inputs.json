@@ -1,8 +1,18 @@
 [
   {
     "source": "hn",
+    "url": "https://designyoutrust.com/2018/01/vintage-beauty-soviet-control-rooms/",
+    "title": "The Vintage Beauty of Soviet Control Rooms"
+  },
+  {
+    "source": "hn",
     "url": "https://www.jeffgeerling.com/blog/2026/quadrf-can-spot-drones-and-see-wifi-through-my-wall/",
     "title": "QuadRF can spot drones and see WiFi through my wall"
+  },
+  {
+    "source": "hn",
+    "url": "https://neciudan.dev/most-secure-way-to-store-auth-token",
+    "title": "What's the best way to do authentication in modern applications"
   },
   {
     "source": "hn",
@@ -16,28 +26,8 @@
   },
   {
     "source": "hn",
-    "url": "https://vfxblog.com/2017/08/23/the-tech-of-terminator-2-an-oral-history/",
-    "title": "The tech of 'Terminator 2' – an oral history (2017)"
-  },
-  {
-    "source": "hn",
-    "url": "https://mimo.xiaomi.com/blog/mimo-v2-5-inference",
-    "title": "Inference Optimization for MiMo v2.5: Pushing Hybrid SWA Efficiency to the Limit"
-  },
-  {
-    "source": "hn",
-    "url": "https://acoup.blog/2026/01/30/collections-the-late-bronze-age-collapse-a-very-brief-introduction/",
-    "title": "Late Bronze Age Collapse"
-  },
-  {
-    "source": "hn",
-    "url": "https://combustionlab.net",
-    "title": "Combustion engine web-based simulator"
-  },
-  {
-    "source": "hn",
-    "url": "https://blog.alexbeals.com/posts/the-footgun-of-right-to-left-decorative-characters",
-    "title": "The footgun of right-to-left decorative characters"
+    "url": "https://ai-2040.com/",
+    "title": "AI 2040: Plan A"
   },
   {
     "source": "hn",
@@ -46,13 +36,18 @@
   },
   {
     "source": "hn",
-    "url": "https://ai-2040.com/",
-    "title": "AI 2040: Plan A"
+    "url": "https://combustionlab.net",
+    "title": "Combustion engine web-based simulator"
   },
   {
     "source": "hn",
-    "url": "https://serialc.github.io/altClocks/",
-    "title": "Alternate clock designs and time systems"
+    "url": "https://acoup.blog/2026/01/30/collections-the-late-bronze-age-collapse-a-very-brief-introduction/",
+    "title": "Late Bronze Age Collapse"
+  },
+  {
+    "source": "hn",
+    "url": "https://vfxblog.com/2017/08/23/the-tech-of-terminator-2-an-oral-history/",
+    "title": "The tech of 'Terminator 2' – an oral history (2017)"
   },
   {
     "source": "hn",
@@ -61,13 +56,38 @@
   },
   {
     "source": "hn",
-    "url": "https://pvk.ca/Blog/2019/01/09/preemption-is-gc-for-memory-reordering/",
-    "title": "Preemption is GC for memory reordering (2019)"
+    "url": "https://mimo.xiaomi.com/blog/mimo-v2-5-inference",
+    "title": "Inference Optimization for MiMo v2.5: Pushing Hybrid SWA Efficiency to the Limit"
+  },
+  {
+    "source": "hn",
+    "url": "https://blog.alexbeals.com/posts/the-footgun-of-right-to-left-decorative-characters",
+    "title": "The footgun of right-to-left decorative characters"
   },
   {
     "source": "hn",
     "url": "https://avi.press/posts/2026-07-10-after-7-years-in-production-scarf-has-reluctantly-moved-away-from-haskell.html",
     "title": "After 7 years in production, Scarf has reluctantly moved away from Haskell"
+  },
+  {
+    "source": "hn",
+    "url": "https://serialc.github.io/altClocks/",
+    "title": "Alternate clock designs and time systems"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.clemsau.com/posts/the-lindy-effect-in-software/",
+    "title": "The Lindy effect in software"
+  },
+  {
+    "source": "hn",
+    "url": "https://pvk.ca/Blog/2019/01/09/preemption-is-gc-for-memory-reordering/",
+    "title": "Preemption is GC for memory reordering (2019)"
+  },
+  {
+    "source": "hn",
+    "url": "https://nebusec.ai/research/ionstack-part-2/",
+    "title": "GhostLock, a stack-UAF that has existed in ALL Linux distributions for 15 years"
   },
   {
     "source": "hn",
@@ -78,16 +98,6 @@
     "source": "hn",
     "url": "https://www.dailymail.com/sciencetech/article-15956159/Incredible-lost-city-discovered-Egypts-desert.html",
     "title": "Lost city discovered beneath Egypt's desert with ancient church"
-  },
-  {
-    "source": "hn",
-    "url": "https://nebusec.ai/research/ionstack-part-2/",
-    "title": "GhostLock, a stack-UAF that has existed in ALL Linux distributions for 15 years"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.joa-ebert.com/posts/2026-07-07-phobos-lang/",
-    "title": "Show HN: Phobos – A tiny scale-free kernel language with tile-DAG support"
   },
   {
     "source": "lobsters",
@@ -101,6 +111,11 @@
   },
   {
     "source": "lobsters",
+    "url": "https://zeal8bit.com/",
+    "title": "Zeal Z80-based computer"
+  },
+  {
+    "source": "lobsters",
     "url": "https://marvinh.dev/blog/running-1000-test-in-1s/",
     "title": "Running 1000 tests in 1s (2022)"
   },
@@ -108,11 +123,6 @@
     "source": "lobsters",
     "url": "https://labs.quansight.org/blog/python-abi-abi3t",
     "title": "What Every Python Developer Should Know About the CPython ABI"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://zeal8bit.com/",
-    "title": "Zeal Z80-based computer"
   },
   {
     "source": "lobsters",
@@ -141,13 +151,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://nh3.dev/blog/05-bloat",
-    "title": "Page weight matters"
+    "url": "https://nesbitt.io/2026/07/10/package-management-as-org-chart.html",
+    "title": "Package Management as Org Chart"
   },
   {
     "source": "lobsters",
-    "url": "https://nesbitt.io/2026/07/10/package-management-as-org-chart.html",
-    "title": "Package Management as Org Chart"
+    "url": "https://nh3.dev/blog/05-bloat",
+    "title": "Page weight matters"
   },
   {
     "source": "lobsters",
@@ -163,10 +173,5 @@
     "source": "lobsters",
     "url": "https://sebsite.pw/w/20260709-nan.html",
     "title": "two case studies of NaN"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://bun.com/blog/bun-in-rust",
-    "title": "Rewriting Bun in Rust"
   }
 ]
