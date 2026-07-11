@@ -1,13 +1,8 @@
 [
   {
     "source": "hn",
-    "url": "https://evanhahn.com/prefer-strict-tables-in-sqlite/",
-    "title": "Prefer Strict Tables in SQLite"
-  },
-  {
-    "source": "hn",
     "url": "https://antjs.org",
-    "title": "Show HN: Ant – A JavaScript Runtime and Ecosystem"
+    "title": "Show HN: Ant – A JavaScript runtime and ecosystem"
   },
   {
     "source": "hn",
@@ -16,43 +11,13 @@
   },
   {
     "source": "hn",
+    "url": "https://evanhahn.com/prefer-strict-tables-in-sqlite/",
+    "title": "Prefer strict tables in SQLite"
+  },
+  {
+    "source": "hn",
     "url": "https://www.math.ucdavis.edu/~saito/courses/229A/stewart-svd.pdf",
     "title": "The early History of the Singular Value Decomposition (1993) [pdf]"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.off-policy.com/dont-go-quietly-into-the-ai-night/",
-    "title": "Who manages the agents?"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.jamesdrandall.com/posts/thrust_ai_powered_software_archaeology/",
-    "title": "AI Can't Recreate the Thrust Game (But It Can Help You Understand It)"
-  },
-  {
-    "source": "hn",
-    "url": "https://studyfinds.com/modern-decor-may-be-straining-peoples-brains/",
-    "title": "Modern decor may be straining people's brains"
-  },
-  {
-    "source": "hn",
-    "url": "https://nagylukas.github.io/orbit.html",
-    "title": "Show HN: Orbit – AR satellite tracker, watch 15k+ objects"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.sixthtone.com/news/1018753",
-    "title": "The Chinese Voice Actor Forced to Prove He's Human"
-  },
-  {
-    "source": "hn",
-    "url": "https://shipthatcode.com",
-    "title": "Show HN: Learn by rebuilding Redis, Git, a database from scratch"
-  },
-  {
-    "source": "hn",
-    "url": "https://amber-lang.com/",
-    "title": "Amber the programming language compiled to Bash/Ksh/Zsh"
   },
   {
     "source": "hn",
@@ -61,23 +26,58 @@
   },
   {
     "source": "hn",
+    "url": "https://nagylukas.github.io/orbit.html",
+    "title": "Show HN: Orbit – AR satellite tracker, watch 15k+ objects"
+  },
+  {
+    "source": "hn",
+    "url": "https://amber-lang.com/",
+    "title": "Amber the programming language compiled to Bash/Ksh/Zsh"
+  },
+  {
+    "source": "hn",
+    "url": "https://shipthatcode.com",
+    "title": "Show HN: Learn by rebuilding Redis, Git, a database from scratch"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.jamesdrandall.com/posts/thrust_ai_powered_software_archaeology/",
+    "title": "AI Can't Recreate the Thrust Game (But It Can Help You Understand It)"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.sixthtone.com/news/1018753",
+    "title": "The Chinese Voice Actor Forced to Prove He's Human"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.off-policy.com/dont-go-quietly-into-the-ai-night/",
+    "title": "Who manages the agents?"
+  },
+  {
+    "source": "hn",
+    "url": "https://studyfinds.com/modern-decor-may-be-straining-peoples-brains/",
+    "title": "Modern decor may be straining people's brains"
+  },
+  {
+    "source": "hn",
+    "url": "https://geohot.github.io//blog/jekyll/update/2026/07/11/ai-2040.html",
+    "title": "AI 2040 and the cult of intelligence"
+  },
+  {
+    "source": "hn",
     "url": "https://pluralistic.net/2025/09/11/vulgar-thatcherism/#there-is-an-alternative",
-    "title": "Reverse centaurs are the answer to the AI paradox"
+    "title": "Reverse centaurs are the answer to the AI paradox (2025)"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.androidauthority.com/claude-latest-models-pushback-bad-3683521/",
+    "title": "I used to love Claude, but the latest models are slowly ruining it"
   },
   {
     "source": "hn",
     "url": "https://www.atariarchives.org/deli/",
     "title": "Digital Deli, 1984 book by early PC hackers and enthusiasts"
-  },
-  {
-    "source": "hn",
-    "url": "https://en.wikipedia.org/wiki/BLISS",
-    "title": "BLISS"
-  },
-  {
-    "source": "hn",
-    "url": "https://alexandrepoupeau.com/otary/learn/",
-    "title": "Otary – Image and Geometry Python Library Now Has Tutorials"
   },
   {
     "source": "lobsters",
@@ -96,13 +96,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://htmx.org/essays/working-with-ai/",
-    "title": "Working With AI: A Concrete Example"
+    "url": "https://rmpr.xyz/Where-did-my-segfault-go/",
+    "title": "Where did my segfault go?"
   },
   {
     "source": "lobsters",
-    "url": "https://avi.press/posts/2026-07-10-after-7-years-in-production-scarf-has-reluctantly-moved-away-from-haskell.html",
-    "title": "After 7 years in production, Scarf has reluctantly moved away from Haskell"
+    "url": "https://htmx.org/essays/working-with-ai/",
+    "title": "Working With AI: A Concrete Example"
   },
   {
     "source": "lobsters",
@@ -116,6 +116,11 @@
   },
   {
     "source": "lobsters",
+    "url": "https://avi.press/posts/2026-07-10-after-7-years-in-production-scarf-has-reluctantly-moved-away-from-haskell.html",
+    "title": "After 7 years in production, Scarf has reluctantly moved away from Haskell"
+  },
+  {
+    "source": "lobsters",
     "url": "https://alexalejandre.com/programming/interview-with-mitchell-hashimoto/",
     "title": "Lobsters Interview with mitchellh"
   },
@@ -126,13 +131,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://www.osnews.com/story/145459/you-paid-me-a-long-time-linux-user-to-use-windows-11-exclusively-for-a-month-heres-how-it-went/",
-    "title": "You paid me, a long-time Linux user, to use Windows 11 exclusively for a month: here’s how it went"
+    "url": "https://marvinh.dev/blog/running-1000-test-in-1s/",
+    "title": "Running 1000 tests in 1s (2022)"
   },
   {
     "source": "lobsters",
-    "url": "https://marvinh.dev/blog/running-1000-test-in-1s/",
-    "title": "Running 1000 tests in 1s (2022)"
+    "url": "https://www.osnews.com/story/145459/you-paid-me-a-long-time-linux-user-to-use-windows-11-exclusively-for-a-month-heres-how-it-went/",
+    "title": "You paid me, a long-time Linux user, to use Windows 11 exclusively for a month: here’s how it went"
   },
   {
     "source": "lobsters",
@@ -146,18 +151,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://triapul.cz/automa/i_did_not_kill_stanley_lieber",
-    "title": "I Did Not Kill Stanley Lieber: How to draw (with 9front)"
-  },
-  {
-    "source": "lobsters",
     "url": "https://www2.eecs.berkeley.edu/Pubs/TechRpts/1997/Archive/CSD-97-946.pdf",
     "title": "Practical Algorithms for Incremental Software Development Environments"
   },
   {
     "source": "lobsters",
-    "url": "https://blog.rust-lang.org/2026/07/09/Rust-1.97.0/",
-    "title": "Announcing Rust 1.97.0"
+    "url": "https://triapul.cz/automa/i_did_not_kill_stanley_lieber",
+    "title": "I Did Not Kill Stanley Lieber: How to draw (with 9front)"
   },
   {
     "source": "pinboard",
