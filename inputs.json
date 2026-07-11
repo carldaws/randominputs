@@ -6,13 +6,13 @@
   },
   {
     "source": "hn",
-    "url": "https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98d31/cdc_proof.pdf",
-    "title": "GPT-5.6 Sol Ultra produces proof of the Cycle Double Cover Conjecture [pdf]"
+    "url": "https://www.iroh.computer/blog/an-iroh-powered-smart-fan",
+    "title": "An iroh powered smart fan"
   },
   {
     "source": "hn",
-    "url": "https://www.iroh.computer/blog/an-iroh-powered-smart-fan",
-    "title": "An iroh powered smart fan"
+    "url": "https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98d31/cdc_proof.pdf",
+    "title": "GPT-5.6 Sol Ultra produces proof of the Cycle Double Cover Conjecture [pdf]"
   },
   {
     "source": "hn",
@@ -21,18 +21,23 @@
   },
   {
     "source": "hn",
-    "url": "https://combustionlab.net",
-    "title": "Combustion engine web-based simulator"
-  },
-  {
-    "source": "hn",
     "url": "https://mimo.xiaomi.com/blog/mimo-v2-5-inference",
     "title": "Inference Optimization for MiMo v2.5: Pushing Hybrid SWA Efficiency to the Limit"
   },
   {
     "source": "hn",
-    "url": "https://pvk.ca/Blog/2019/01/09/preemption-is-gc-for-memory-reordering/",
-    "title": "Preemption is GC for memory reordering (2019)"
+    "url": "https://acoup.blog/2026/01/30/collections-the-late-bronze-age-collapse-a-very-brief-introduction/",
+    "title": "Late Bronze Age Collapse"
+  },
+  {
+    "source": "hn",
+    "url": "https://combustionlab.net",
+    "title": "Combustion engine web-based simulator"
+  },
+  {
+    "source": "hn",
+    "url": "https://blog.alexbeals.com/posts/the-footgun-of-right-to-left-decorative-characters",
+    "title": "The footgun of right-to-left decorative characters"
   },
   {
     "source": "hn",
@@ -46,18 +51,18 @@
   },
   {
     "source": "hn",
-    "url": "https://acoup.blog/2026/01/30/collections-the-late-bronze-age-collapse-a-very-brief-introduction/",
-    "title": "Late Bronze Age Collapse"
-  },
-  {
-    "source": "hn",
     "url": "https://serialc.github.io/altClocks/",
     "title": "Alternate clock designs and time systems"
   },
   {
     "source": "hn",
-    "url": "https://ikeamuseum.com/en/explore/the-story-of-ikea/beloved-bag/",
-    "title": "The iconic blue IKEA FRAKTA bag comes with a free lifetime warranty"
+    "url": "https://alephneuro.com/blog/silent-speech",
+    "title": "Silent speech with ultrasound"
+  },
+  {
+    "source": "hn",
+    "url": "https://pvk.ca/Blog/2019/01/09/preemption-is-gc-for-memory-reordering/",
+    "title": "Preemption is GC for memory reordering (2019)"
   },
   {
     "source": "hn",
@@ -66,18 +71,13 @@
   },
   {
     "source": "hn",
-    "url": "https://www.dailymail.com/sciencetech/article-15956159/Incredible-lost-city-discovered-Egypts-desert.html",
-    "title": "Lost city discovered beneath Egypt's desert with ancient church"
-  },
-  {
-    "source": "hn",
-    "url": "http://yummymelon.com/devnull/in-emacs-everything-looks-like-a-service.html",
-    "title": "In Emacs, everything looks like a service"
-  },
-  {
-    "source": "hn",
     "url": "https://lesleylai.info/en/flashcards/",
     "title": "A love letter to flashcards"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.dailymail.com/sciencetech/article-15956159/Incredible-lost-city-discovered-Egypts-desert.html",
+    "title": "Lost city discovered beneath Egypt's desert with ancient church"
   },
   {
     "source": "hn",
@@ -86,8 +86,8 @@
   },
   {
     "source": "hn",
-    "url": "https://casp.ac/reports/ai-enabled-terrorism",
-    "title": "How the terrorist group Boko Haram uses frontier AI"
+    "url": "https://www.joa-ebert.com/posts/2026-07-07-phobos-lang/",
+    "title": "Show HN: Phobos – A tiny scale-free kernel language with tile-DAG support"
   },
   {
     "source": "lobsters",
@@ -101,8 +101,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://triapul.cz/automa/i_did_not_kill_stanley_lieber",
-    "title": "I Did Not Kill Stanley Lieber: How to draw (with 9front)"
+    "url": "https://marvinh.dev/blog/running-1000-test-in-1s/",
+    "title": "Running 1000 tests in 1s (2022)"
   },
   {
     "source": "lobsters",
@@ -111,23 +111,28 @@
   },
   {
     "source": "lobsters",
+    "url": "https://zeal8bit.com/",
+    "title": "Zeal Z80-based computer"
+  },
+  {
+    "source": "lobsters",
     "url": "https://wiki.c2.com/?TwoWaysToDesign",
     "title": "Two Ways To Design"
   },
   {
     "source": "lobsters",
-    "url": "https://marvinh.dev/blog/running-1000-test-in-1s/",
-    "title": "Running 1000 tests in 1s (2022)"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://blog.rust-lang.org/2026/07/09/Rust-1.97.0/",
-    "title": "Announcing Rust 1.97.0"
+    "url": "https://triapul.cz/automa/i_did_not_kill_stanley_lieber",
+    "title": "I Did Not Kill Stanley Lieber: How to draw (with 9front)"
   },
   {
     "source": "lobsters",
     "url": "https://www2.eecs.berkeley.edu/Pubs/TechRpts/1997/Archive/CSD-97-946.pdf",
     "title": "Practical Algorithms for Incremental Software Development Environments"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://blog.rust-lang.org/2026/07/09/Rust-1.97.0/",
+    "title": "Announcing Rust 1.97.0"
   },
   {
     "source": "lobsters",
@@ -138,6 +143,11 @@
     "source": "lobsters",
     "url": "https://nh3.dev/blog/05-bloat",
     "title": "Page weight matters"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://nesbitt.io/2026/07/10/package-management-as-org-chart.html",
+    "title": "Package Management as Org Chart"
   },
   {
     "source": "lobsters",
@@ -158,80 +168,5 @@
     "source": "lobsters",
     "url": "https://bun.com/blog/bun-in-rust",
     "title": "Rewriting Bun in Rust"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://nesbitt.io/2026/07/10/package-management-as-org-chart.html",
-    "title": "Package Management as Org Chart"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://mathspp.com/blog/lsbasi-apl-part1",
-    "title": "Let's build a simple interpreter for APL"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://30papers.com/",
-    "title": "30 papers"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://davit.app/",
-    "title": "Davit — a native macOS UI for Apple containers"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://tris.sherliker.net/blog/obfuscated-self-evaluating-bash-script-by-cdn-akamai-being-supplied-to-consumers-via-retail-stores/",
-    "title": "Tris Sherliker- Obfuscated, self-evaluating bash script by CDN Akamai being supplied to consumers via retail stores"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://qr.jim.sh/",
-    "title": "Jim's TrueType QR Code Font"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.comaps.app/",
-    "title": "Hike, Bike, Drive Offline Navigate with Privacy | CoMaps"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://martinalderson.com/posts/the-upcoming-ai-margin-collapse-part-1-glm-5-2/",
-    "title": "GLM 5.2 and the coming AI margin collapse (part 1) - Martin Alderson"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://knockoff.shopping/",
-    "title": "Knockoff: Amazon, without the knockoffs"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://blog.dannycastonguay.com/how-to-write-an-email/",
-    "title": "How To Write an Email - Home"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://bradleywoolf.com/links-1/sequencing-my-own-dna-at-home",
-    "title": "How to sequence your own DNA at home"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://anthonyhobday.com/blog/20260410",
-    "title": "Notes on software quality"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://whimfiles.com/",
-    "title": "Find Any File in Seconds"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://andrewkelley.me/post/my-thoughts-bun-rust-rewrite.html",
-    "title": "My Thoughts on the Bun Rust Rewrite - Andrew Kelley"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://postgresisenough.dev/",
-    "title": "Postgres Is Enough"
   }
 ]
