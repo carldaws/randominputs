@@ -6,6 +6,11 @@
   },
   {
     "source": "hn",
+    "url": "https://tiki.li/blog/lucky_code.html",
+    "title": "Your code is fast – if you're lucky"
+  },
+  {
+    "source": "hn",
     "url": "https://www.jeffgeerling.com/blog/2026/quadrf-can-spot-drones-and-see-wifi-through-my-wall/",
     "title": "QuadRF can spot drones and see WiFi through my wall"
   },
@@ -16,8 +21,8 @@
   },
   {
     "source": "hn",
-    "url": "https://tiki.li/blog/lucky_code.html",
-    "title": "Your code is fast – if you're lucky"
+    "url": "https://languagelog.ldc.upenn.edu/myl/Good1964.pdf",
+    "title": "Speculations Concerning the First Ultraintelligent Machine (1965) [pdf]"
   },
   {
     "source": "hn",
@@ -26,18 +31,13 @@
   },
   {
     "source": "hn",
-    "url": "https://html-drive.com",
-    "title": "Show HN: HTMLDrive – serve HTML files from your Google Drive"
+    "url": "https://www.gingerbill.org/article/2026/07/10/good-tools-are-invisible/",
+    "title": "Good Tools Are Invisible"
   },
   {
     "source": "hn",
     "url": "https://designyoutrust.com/2018/01/vintage-beauty-soviet-control-rooms/",
     "title": "The vintage beauty of Soviet control rooms (2018)"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.gingerbill.org/article/2026/07/10/good-tools-are-invisible/",
-    "title": "Good Tools Are Invisible"
   },
   {
     "source": "hn",
@@ -71,13 +71,13 @@
   },
   {
     "source": "hn",
-    "url": "https://mimo.xiaomi.com/blog/mimo-v2-5-inference",
-    "title": "Inference Optimization for MiMo v2.5: Pushing Hybrid SWA Efficiency to the Limit"
+    "url": "https://serialc.github.io/altClocks/",
+    "title": "Alternate clock designs and time systems"
   },
   {
     "source": "hn",
-    "url": "https://serialc.github.io/altClocks/",
-    "title": "Alternate clock designs and time systems"
+    "url": "https://mimo.xiaomi.com/blog/mimo-v2-5-inference",
+    "title": "Inference Optimization for MiMo v2.5: Pushing Hybrid SWA Efficiency to the Limit"
   },
   {
     "source": "hn",
@@ -121,6 +121,11 @@
   },
   {
     "source": "lobsters",
+    "url": "https://nesbitt.io/2026/05/10/madame-semver-will-see-you-now.html",
+    "title": "Madame Semver Will See You Now"
+  },
+  {
+    "source": "lobsters",
     "url": "https://htmx.org/essays/working-with-ai/",
     "title": "Working With AI: A Concrete Example"
   },
@@ -141,11 +146,6 @@
   },
   {
     "source": "lobsters",
-    "url": "https://nesbitt.io/2026/05/10/madame-semver-will-see-you-now.html",
-    "title": "Madame Semver Will See You Now"
-  },
-  {
-    "source": "lobsters",
     "url": "https://www2.eecs.berkeley.edu/Pubs/TechRpts/1997/Archive/CSD-97-946.pdf",
     "title": "Practical Algorithms for Incremental Software Development Environments"
   },
@@ -163,5 +163,80 @@
     "source": "lobsters",
     "url": "https://nh3.dev/blog/05-bloat",
     "title": "Page weight matters"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://bun.com/blog/bun-in-rust",
+    "title": "Rewriting Bun in Rust | Bun Blog"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://tris.sherliker.net/blog/obfuscated-self-evaluating-bash-script-by-cdn-akamai-being-supplied-to-consumers-via-retail-stores/",
+    "title": "Tris Sherliker- Obfuscated, self-evaluating bash script by CDN Akamai being supplied to consumers via retail stores"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://davit.app/",
+    "title": "Davit — a native macOS UI for Apple containers"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://andrewkelley.me/post/my-thoughts-bun-rust-rewrite.html",
+    "title": "My Thoughts on the Bun Rust Rewrite - Andrew Kelley"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://karlbode.com/the-ai-hype-reckoning-is-upon-us/",
+    "title": "The AI Hype Reckoning Is Upon Us - The massive chasm between AI hype and reality is finally reaching the breaking point."
+  },
+  {
+    "source": "pinboard",
+    "url": "https://withmarble.com/curriculum/",
+    "title": "Everything a child learns"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://30papers.com/",
+    "title": "30 papers"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://qr.jim.sh/",
+    "title": "Jim's TrueType QR Code Font"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://blog.dannycastonguay.com/how-to-write-an-email/",
+    "title": "How To Write an Email - Home"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://postgresisenough.dev/",
+    "title": "Postgres Is Enough"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.votebeat.org/national/2026/07/09/trump-fires-election-assistance-commission-members-hicks-hovland-mccormick/",
+    "title": "Trump fires all commissioners of federal election agency"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://pluralistic.net/2026/07/02/canonization/",
+    "title": "Pluralistic: The difference between “today’s task” and “accretive work” (02 Jul 2026) – Pluralistic: Daily links from Cory Doctorow"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://davidpoblador.com/deep-dives/what-happened-to-the-frontend/",
+    "title": "The Descent — What Happened to the Frontend While You Weren't Watching"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://news.ycombinator.com/item?id=48842459",
+    "title": "Show HN: Getting GLM 5.2 running on my slow computer | Hacker News"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.wired.com/story/this-buried-apple-feature-turns-an-iphone-into-the-perfect-kids-dumb-phone/",
+    "title": "This Buried Apple Feature Turns an iPhone Into the Perfect Kids’ Dumb Phone | WIRED"
   }
 ]
