@@ -6,18 +6,8 @@
   },
   {
     "source": "hn",
-    "url": "https://www.off-policy.com/dont-go-quietly-into-the-ai-night/",
-    "title": "Who manages the agents?"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.math.ucdavis.edu/~saito/courses/229A/stewart-svd.pdf",
-    "title": "The early History of the Singular Value Decomposition (1993) [pdf]"
-  },
-  {
-    "source": "hn",
-    "url": "https://studyfinds.com/modern-decor-may-be-straining-peoples-brains/",
-    "title": "Modern decor may be straining people's brains"
+    "url": "https://antjs.org",
+    "title": "Show HN: Ant – A JavaScript Runtime and Ecosystem"
   },
   {
     "source": "hn",
@@ -26,13 +16,23 @@
   },
   {
     "source": "hn",
+    "url": "https://www.math.ucdavis.edu/~saito/courses/229A/stewart-svd.pdf",
+    "title": "The early History of the Singular Value Decomposition (1993) [pdf]"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.off-policy.com/dont-go-quietly-into-the-ai-night/",
+    "title": "Who manages the agents?"
+  },
+  {
+    "source": "hn",
     "url": "https://www.jamesdrandall.com/posts/thrust_ai_powered_software_archaeology/",
     "title": "AI Can't Recreate the Thrust Game (But It Can Help You Understand It)"
   },
   {
     "source": "hn",
-    "url": "https://shipthatcode.com",
-    "title": "Show HN: Learn by rebuilding Redis, Git, a database from scratch"
+    "url": "https://studyfinds.com/modern-decor-may-be-straining-peoples-brains/",
+    "title": "Modern decor may be straining people's brains"
   },
   {
     "source": "hn",
@@ -41,8 +41,13 @@
   },
   {
     "source": "hn",
-    "url": "https://pluralistic.net/2025/09/11/vulgar-thatcherism/#there-is-an-alternative",
-    "title": "Reverse centaurs are the answer to the AI paradox"
+    "url": "https://www.sixthtone.com/news/1018753",
+    "title": "The Chinese Voice Actor Forced to Prove He's Human"
+  },
+  {
+    "source": "hn",
+    "url": "https://shipthatcode.com",
+    "title": "Show HN: Learn by rebuilding Redis, Git, a database from scratch"
   },
   {
     "source": "hn",
@@ -51,8 +56,13 @@
   },
   {
     "source": "hn",
-    "url": "https://en.wikipedia.org/wiki/BLISS",
-    "title": "BLISS"
+    "url": "https://www.zerofs.net/blog/zerofs-vs-aws-s3-files/",
+    "title": "ZeroFS vs. Amazon S3 Files"
+  },
+  {
+    "source": "hn",
+    "url": "https://pluralistic.net/2025/09/11/vulgar-thatcherism/#there-is-an-alternative",
+    "title": "Reverse centaurs are the answer to the AI paradox"
   },
   {
     "source": "hn",
@@ -61,18 +71,13 @@
   },
   {
     "source": "hn",
-    "url": "https://en.wikipedia.org/wiki/Earendel_(astronomical_object)",
-    "title": "Earendel (Astronomical Object)"
+    "url": "https://en.wikipedia.org/wiki/BLISS",
+    "title": "BLISS"
   },
   {
     "source": "hn",
     "url": "https://alexandrepoupeau.com/otary/learn/",
     "title": "Otary – Image and Geometry Python Library Now Has Tutorials"
-  },
-  {
-    "source": "hn",
-    "url": "https://languagelog.ldc.upenn.edu/myl/Good1964.pdf",
-    "title": "Speculations Concerning the First Ultraintelligent Machine (1965) [pdf]"
   },
   {
     "source": "lobsters",
@@ -81,13 +86,18 @@
   },
   {
     "source": "lobsters",
+    "url": "https://nigeltao.github.io/blog/2026/handsum.html",
+    "title": "Handsum: An LQIP Image File Format"
+  },
+  {
+    "source": "lobsters",
     "url": "https://nesbitt.io/2026/05/10/madame-semver-will-see-you-now.html",
     "title": "Madame Semver Will See You Now"
   },
   {
     "source": "lobsters",
-    "url": "https://nigeltao.github.io/blog/2026/handsum.html",
-    "title": "Handsum: An LQIP Image File Format"
+    "url": "https://htmx.org/essays/working-with-ai/",
+    "title": "Working With AI: A Concrete Example"
   },
   {
     "source": "lobsters",
@@ -116,18 +126,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://htmx.org/essays/working-with-ai/",
-    "title": "Working With AI: A Concrete Example"
+    "url": "https://www.osnews.com/story/145459/you-paid-me-a-long-time-linux-user-to-use-windows-11-exclusively-for-a-month-heres-how-it-went/",
+    "title": "You paid me, a long-time Linux user, to use Windows 11 exclusively for a month: here’s how it went"
   },
   {
     "source": "lobsters",
     "url": "https://marvinh.dev/blog/running-1000-test-in-1s/",
     "title": "Running 1000 tests in 1s (2022)"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://www.osnews.com/story/145459/you-paid-me-a-long-time-linux-user-to-use-windows-11-exclusively-for-a-month-heres-how-it-went/",
-    "title": "You paid me, a long-time Linux user, to use Windows 11 exclusively for a month: here’s how it went"
   },
   {
     "source": "lobsters",
@@ -153,11 +158,6 @@
     "source": "lobsters",
     "url": "https://blog.rust-lang.org/2026/07/09/Rust-1.97.0/",
     "title": "Announcing Rust 1.97.0"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://scotto.me/blog/2026-07-09-why-lisp/",
-    "title": "A road to Lisp: Why Lisp"
   },
   {
     "source": "pinboard",
