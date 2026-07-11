@@ -1,18 +1,13 @@
 [
   {
     "source": "hn",
-    "url": "https://fazamhd.com/mental-models/networking/",
-    "title": "Networking and the Internet, from First Principles"
+    "url": "https://www.math.ucdavis.edu/~saito/courses/229A/stewart-svd.pdf",
+    "title": "The early History of the Singular Value Decomposition (1993) [pdf]"
   },
   {
     "source": "hn",
     "url": "https://www.jeffgeerling.com/blog/2026/quadrf-can-spot-drones-and-see-wifi-through-my-wall/",
     "title": "QuadRF can spot drones and see WiFi through my wall"
-  },
-  {
-    "source": "hn",
-    "url": "https://tiki.li/blog/lucky_code.html",
-    "title": "Your code is fast – if you're lucky"
   },
   {
     "source": "hn",
@@ -26,11 +21,6 @@
   },
   {
     "source": "hn",
-    "url": "https://www.amazon.com/RISC-V-Microprocessor-System-Chip-Design/dp/0323994989",
-    "title": "Book: RISC-V System-on-Chip Design"
-  },
-  {
-    "source": "hn",
     "url": "https://www.iroh.computer/blog/an-iroh-powered-smart-fan",
     "title": "An iroh powered smart fan"
   },
@@ -41,6 +31,11 @@
   },
   {
     "source": "hn",
+    "url": "https://www.atariarchives.org/deli/",
+    "title": "Digital Deli, 1984 book by early PC hackers and enthusiasts"
+  },
+  {
+    "source": "hn",
     "url": "https://www.bloomberg.com/news/features/2026-07-07/why-it-s-so-difficult-to-produce-100-american-made-medical-gloves",
     "title": "Why it's so difficult to produce American-made medical gloves"
   },
@@ -48,6 +43,16 @@
     "source": "hn",
     "url": "https://www.gingerbill.org/article/2026/07/10/good-tools-are-invisible/",
     "title": "Good Tools Are Invisible"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.historytoday.com/archive/feature/mad-dogs-and-englishmen-winning-war-rabies",
+    "title": "The Victorian War on Rabies"
+  },
+  {
+    "source": "hn",
+    "url": "https://tiki.li/blog/lucky_code.html",
+    "title": "Your code is fast – if you're lucky"
   },
   {
     "source": "hn",
@@ -66,8 +71,8 @@
   },
   {
     "source": "hn",
-    "url": "https://www.atariarchives.org/deli/",
-    "title": "Digital Deli, 1984 book by early PC hackers and enthusiasts"
+    "url": "https://shipthatcode.com",
+    "title": "Show HN: Learn by rebuilding Redis, Git, a database from scratch"
   },
   {
     "source": "hn",
@@ -81,6 +86,11 @@
   },
   {
     "source": "hn",
+    "url": "https://avi.press/posts/2026-07-10-after-7-years-in-production-scarf-has-reluctantly-moved-away-from-haskell.html",
+    "title": "After 7 years in production, Scarf has reluctantly moved away from Haskell"
+  },
+  {
+    "source": "hn",
     "url": "https://serialc.github.io/altClocks/",
     "title": "Alternate clock designs and time systems"
   },
@@ -88,21 +98,6 @@
     "source": "hn",
     "url": "https://combustionlab.net",
     "title": "Combustion engine web-based simulator"
-  },
-  {
-    "source": "hn",
-    "url": "https://avi.press/posts/2026-07-10-after-7-years-in-production-scarf-has-reluctantly-moved-away-from-haskell.html",
-    "title": "After 7 years in production, Scarf has reluctantly moved away from Haskell"
-  },
-  {
-    "source": "hn",
-    "url": "https://mimo.xiaomi.com/blog/mimo-v2-5-inference",
-    "title": "Inference Optimization for MiMo v2.5: Pushing Hybrid SWA Efficiency to the Limit"
-  },
-  {
-    "source": "hn",
-    "url": "https://anti-forbes-list.vercel.app",
-    "title": "Show HN: Richest people in the world by wealth creation instead of ownership"
   },
   {
     "source": "lobsters",
