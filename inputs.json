@@ -1,8 +1,43 @@
 [
   {
     "source": "hn",
+    "url": "https://terrytao.wordpress.com/2026/07/11/old-and-new-apps-via-modern-coding-agents/",
+    "title": "Old and new apps, via modern coding agents by Terry Tao"
+  },
+  {
+    "source": "hn",
+    "url": "https://app.ilograph.com/demo.ilograph.yt-dlp/Download%2520a%2520YouTube%2520Video",
+    "title": "Yt-Dlp Sequence Diagrams"
+  },
+  {
+    "source": "hn",
+    "url": "https://dakra.github.io/ghostel/",
+    "title": "Ghostel.el: Terminal emulator powered by libghostty"
+  },
+  {
+    "source": "hn",
     "url": "https://www.iroh.computer/blog/mesh-llm",
     "title": "Mesh LLM: distributed AI computing on iroh"
+  },
+  {
+    "source": "hn",
+    "url": "https://odinbook.com/",
+    "title": "Understanding the Odin Programming Language"
+  },
+  {
+    "source": "hn",
+    "url": "https://io-fund.com/ai-stocks/nvidia-coreweave-nebius-circular-financing-gpu-boom",
+    "title": "Nvidia, CoreWeave, and Nebius: Inside the Circular Financing of the GPU Boom"
+  },
+  {
+    "source": "hn",
+    "url": "https://atthis.link/blog/2026/57207.html",
+    "title": "Ditching Zotero for a Text File"
+  },
+  {
+    "source": "hn",
+    "url": "https://nigeltao.github.io/blog/2026/handsum.html",
+    "title": "Handsum: An LQIP Image File Format"
   },
   {
     "source": "hn",
@@ -16,28 +51,8 @@
   },
   {
     "source": "hn",
-    "url": "https://io-fund.com/ai-stocks/nvidia-coreweave-nebius-circular-financing-gpu-boom",
-    "title": "Nvidia, CoreWeave, and Nebius: Inside the Circular Financing of the GPU Boom"
-  },
-  {
-    "source": "hn",
     "url": "https://triapul.cz/automa/i_did_not_kill_stanley_lieber",
     "title": "I Did Not Kill Stanley Lieber: How to Draw (With 9front)"
-  },
-  {
-    "source": "hn",
-    "url": "https://nigeltao.github.io/blog/2026/handsum.html",
-    "title": "Handsum: An LQIP Image File Format"
-  },
-  {
-    "source": "hn",
-    "url": "https://visitfaroeislands.com/en/plan-your-stay/getting-around/world-first-under-sea-roundabout",
-    "title": "Jellyfish Undersea Roundabout"
-  },
-  {
-    "source": "hn",
-    "url": "https://studyfinds.com/modern-decor-may-be-straining-peoples-brains/",
-    "title": "Modern decor may be straining people's brains"
   },
   {
     "source": "hn",
@@ -46,13 +61,8 @@
   },
   {
     "source": "hn",
-    "url": "https://www.npr.org/2026/06/30/nx-s1-5835631/turner-camhi-do-no-harm-college-loans",
-    "title": "Under federal rule, colleges must leave grads better off or lose financial aid"
-  },
-  {
-    "source": "hn",
-    "url": "https://jude-doyle.ghost.io/untitled-21/",
-    "title": "Sixteen Failed Attempts to Write a Eulogy for My Father (2024)"
+    "url": "https://studyfinds.com/modern-decor-may-be-straining-peoples-brains/",
+    "title": "Modern decor may be straining people's brains"
   },
   {
     "source": "hn",
@@ -61,23 +71,23 @@
   },
   {
     "source": "hn",
+    "url": "https://visitfaroeislands.com/en/plan-your-stay/getting-around/world-first-under-sea-roundabout",
+    "title": "Jellyfish Undersea Roundabout"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.npr.org/2026/06/30/nx-s1-5835631/turner-camhi-do-no-harm-college-loans",
+    "title": "Under federal rule, colleges must leave grads better off or lose financial aid"
+  },
+  {
+    "source": "hn",
     "url": "https://evanhahn.com/prefer-strict-tables-in-sqlite/",
     "title": "Prefer strict tables in SQLite"
   },
   {
     "source": "hn",
-    "url": "https://my.uscap.org/uscap/program/S0tc675/index.cfm?pgid=5167&sid=14770&abid=51228",
-    "title": "Autopsy Study Finds Replicating SARS-CoV-2 in the Hearts of Long Covid"
-  },
-  {
-    "source": "hn",
     "url": "https://fabiensanglard.net/tb4/index.html",
     "title": "A dock that wakes up reliably"
-  },
-  {
-    "source": "hn",
-    "url": "https://shipthatcode.com",
-    "title": "Show HN: Learn by rebuilding Redis, Git, a database from scratch"
   },
   {
     "source": "lobsters",
@@ -96,18 +106,23 @@
   },
   {
     "source": "lobsters",
-    "url": "https://www.gingerbill.org/article/2026/07/10/good-tools-are-invisible/",
-    "title": "Good Tools Are Invisible"
-  },
-  {
-    "source": "lobsters",
     "url": "https://owickstrom.github.io/the-proportional-web/",
     "title": "The Proportional Web"
   },
   {
     "source": "lobsters",
+    "url": "https://www.gingerbill.org/article/2026/07/10/good-tools-are-invisible/",
+    "title": "Good Tools Are Invisible"
+  },
+  {
+    "source": "lobsters",
     "url": "https://entropicthoughts.com/sicp-2-4-data-directed-programming-in-haskell",
     "title": "Data-directed programming in Haskell (SICP2.4.3)"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://projectdiscovery.io/blog/hacking-apple-with-sql-injection",
+    "title": "Hacking Apple - SQL Injection to Remote Code Execution — ProjectDiscovery Blog"
   },
   {
     "source": "lobsters",
@@ -121,18 +136,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://projectdiscovery.io/blog/hacking-apple-with-sql-injection",
-    "title": "Hacking Apple - SQL Injection to Remote Code Execution — ProjectDiscovery Blog"
+    "url": "https://rss.com/podcasts/computer-science-off-course/2968986/",
+    "title": "Computer Science Off Course - Programming as Theory Building"
   },
   {
     "source": "lobsters",
     "url": "https://htmx.org/essays/working-with-ai/",
     "title": "Working With AI: A Concrete Example"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://rss.com/podcasts/computer-science-off-course/2968986/",
-    "title": "Computer Science Off Course - Programming as Theory Building"
   },
   {
     "source": "pinboard",
