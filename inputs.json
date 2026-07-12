@@ -2,22 +2,17 @@
   {
     "source": "hn",
     "url": "https://terrytao.wordpress.com/2026/07/11/old-and-new-apps-via-modern-coding-agents/",
-    "title": "Old and new apps, via modern coding agents by Terry Tao"
-  },
-  {
-    "source": "hn",
-    "url": "https://scotto.me/blog/2026-07-12-how-to-read-more-books/",
-    "title": "How to Read More Books"
+    "title": "Old and new apps, via modern coding agents"
   },
   {
     "source": "hn",
     "url": "https://fabiensanglard.net/extinct/index.html",
-    "title": "Don't You Mean Extinct?"
+    "title": "Don't you mean extinct?"
   },
   {
     "source": "hn",
-    "url": "https://odinbook.com/",
-    "title": "Understanding the Odin Programming Language"
+    "url": "https://systima.ai/blog/claude-code-vs-opencode-token-overhead",
+    "title": "Claude Code sends 33k tokens before reading the prompt; OpenCode sends 7k"
   },
   {
     "source": "hn",
@@ -26,8 +21,38 @@
   },
   {
     "source": "hn",
+    "url": "https://odinbook.com/",
+    "title": "Understanding the Odin Programming Language"
+  },
+  {
+    "source": "hn",
+    "url": "https://scotto.me/blog/2026-07-12-how-to-read-more-books/",
+    "title": "How to Read More Books"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.larp.website/",
+    "title": "LARP – Revenue infrastructure for serious founders"
+  },
+  {
+    "source": "hn",
     "url": "https://dakra.github.io/ghostel/",
     "title": "Ghostel.el: Terminal emulator powered by libghostty"
+  },
+  {
+    "source": "hn",
+    "url": "https://marc.info/?l=openbsd-misc&m=119318909016582",
+    "title": "Theo de Raadt: \"You've been smoking something mind altering\" (2007)"
+  },
+  {
+    "source": "hn",
+    "url": "https://softwaredoug.com/blog/2026/07/09/write-code",
+    "title": "Why write code in 2026"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.geol.umd.edu/~tholtz/G331/lectures/331biomech.html",
+    "title": "Morphometrics: Introduction to the Analysis of Shape"
   },
   {
     "source": "hn",
@@ -41,18 +66,13 @@
   },
   {
     "source": "hn",
-    "url": "https://marc.info/?l=openbsd-misc&m=119318909016582",
-    "title": "Theo de Raadt: \"You've been smoking something mind altering\" (2007)"
+    "url": "https://en.wikipedia.org/wiki/Deir_el-Medina_strikes",
+    "title": "Deir El-Medina Strikes"
   },
   {
     "source": "hn",
     "url": "https://satteri.bruits.org/",
     "title": "Satteri: A Markdown pipeline forged in Rust for the JavaScript world"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.geol.umd.edu/~tholtz/G331/lectures/331biomech.html",
-    "title": "Morphometrics: Introduction to the Analysis of Shape"
   },
   {
     "source": "hn",
@@ -63,31 +83,6 @@
     "source": "hn",
     "url": "https://atthis.link/blog/2026/57207.html",
     "title": "Ditching Zotero for a Text File"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.ginagallery.com/",
-    "title": "Gina Gallery of International Naive Art"
-  },
-  {
-    "source": "hn",
-    "url": "https://io-fund.com/ai-stocks/nvidia-coreweave-nebius-circular-financing-gpu-boom",
-    "title": "Nvidia, CoreWeave, and Nebius: Inside the Circular Financing of the GPU Boom"
-  },
-  {
-    "source": "hn",
-    "url": "https://atthis.link/blog/2024/49629.html",
-    "title": "TK, or the secret to effortless writing (2024)"
-  },
-  {
-    "source": "hn",
-    "url": "https://thebeach.dev/posts/lisp-agent/",
-    "title": "An agent in 100 lines of Lisp"
-  },
-  {
-    "source": "hn",
-    "url": "https://kurvengefahr.org/",
-    "title": "Show HN: Kurvengefahr – browser CAD/CAM for pen plotters"
   },
   {
     "source": "lobsters",
@@ -101,13 +96,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://rmpr.xyz/Where-did-my-segfault-go/",
-    "title": "Where did my segfault go?"
+    "url": "https://owickstrom.github.io/the-proportional-web/",
+    "title": "The Proportional Web"
   },
   {
     "source": "lobsters",
-    "url": "https://owickstrom.github.io/the-proportional-web/",
-    "title": "The Proportional Web"
+    "url": "https://rmpr.xyz/Where-did-my-segfault-go/",
+    "title": "Where did my segfault go?"
   },
   {
     "source": "lobsters",
@@ -118,11 +113,6 @@
     "source": "lobsters",
     "url": "https://www.gingerbill.org/article/2026/07/10/good-tools-are-invisible/",
     "title": "Good Tools Are Invisible"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://mikezornek.com/posts/2026/7/a-place-for-everything/",
-    "title": "A Place for Everything: How I Track Work"
   },
   {
     "source": "lobsters",
@@ -138,6 +128,11 @@
     "source": "lobsters",
     "url": "https://projectdiscovery.io/blog/hacking-apple-with-sql-injection",
     "title": "Hacking Apple - SQL Injection to Remote Code Execution"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://thebeach.dev/posts/lisp-agent/",
+    "title": "An Agent in 100 Lines of Lisp"
   },
   {
     "source": "lobsters",
