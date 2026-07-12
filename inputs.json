@@ -1,6 +1,11 @@
 [
   {
     "source": "hn",
+    "url": "https://scrapfly.dev/posts/browser-math-os-fingerprint/",
+    "title": "Since Chronium 148, Math.tanh is now fingerprintable to link underlying OS"
+  },
+  {
+    "source": "hn",
     "url": "https://floooh.github.io/tiny8bit-preview/index.html",
     "title": "Tiny Emulators"
   },
@@ -21,13 +26,8 @@
   },
   {
     "source": "hn",
-    "url": "http://incompleteideas.net/IncIdeas/OneStepTrap.html",
-    "title": "The One-Step Trap (In AI Research)"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.larp.website/",
-    "title": "LARP – Revenue infrastructure for serious founders"
+    "url": "https://www.theregister.com/on-prem/2026/07/11/irish-datacenters-now-guzzle-23-of-the-countrys-electricity/5270013",
+    "title": "Irish datacenters now guzzle 23% of the country's electricity"
   },
   {
     "source": "hn",
@@ -36,23 +36,18 @@
   },
   {
     "source": "hn",
+    "url": "https://www.larp.website/",
+    "title": "LARP – Revenue infrastructure for serious founders"
+  },
+  {
+    "source": "hn",
+    "url": "http://incompleteideas.net/IncIdeas/OneStepTrap.html",
+    "title": "The One-Step Trap (In AI Research)"
+  },
+  {
+    "source": "hn",
     "url": "https://fabiensanglard.net/extinct/index.html",
     "title": "Don't you mean extinct?"
-  },
-  {
-    "source": "hn",
-    "url": "https://docs.jax.dev/en/latest/hijax_types.html",
-    "title": "Defining new Jax types with hijax"
-  },
-  {
-    "source": "hn",
-    "url": "https://buildnectar.com",
-    "title": "Show HN: Nectar, a Rust-like React that compiles to WebAssembly"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.theregister.com/on-prem/2026/07/11/irish-datacenters-now-guzzle-23-of-the-countrys-electricity/5270013",
-    "title": "Irish datacenters now guzzle 23% of the country's electricity"
   },
   {
     "source": "hn",
@@ -61,8 +56,8 @@
   },
   {
     "source": "hn",
-    "url": "https://hidden-phenomena.com/articles/modular",
-    "title": "Why study Diophantine equations?"
+    "url": "https://nanduruganesh.github.io/flash-msa/",
+    "title": "Flash-MSA: Accelerating Million-Token Training with Sparse Attention Kernels"
   },
   {
     "source": "hn",
@@ -71,8 +66,23 @@
   },
   {
     "source": "hn",
-    "url": "https://marc.info/?l=openbsd-misc&m=119318909016582",
-    "title": "Theo de Raadt: \"You've been smoking something mind altering\" (2007)"
+    "url": "https://docs.jax.dev/en/latest/hijax_types.html",
+    "title": "Defining new Jax types with hijax"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.adaptiverecall.com/",
+    "title": "Show HN: Adaptive Recall, persistent memory for AI assistants over MCP"
+  },
+  {
+    "source": "hn",
+    "url": "https://hidden-phenomena.com/articles/modular",
+    "title": "Why study Diophantine equations?"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.canopii.dev/State%20of%20MCP%20Security%202026.pdf",
+    "title": "The State of MCP Security [pdf]"
   },
   {
     "source": "hn",
@@ -91,13 +101,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://owickstrom.github.io/the-proportional-web/",
-    "title": "The Proportional Web"
+    "url": "https://rmpr.xyz/Where-did-my-segfault-go/",
+    "title": "Where did my segfault go?"
   },
   {
     "source": "lobsters",
-    "url": "https://rmpr.xyz/Where-did-my-segfault-go/",
-    "title": "Where did my segfault go?"
+    "url": "https://owickstrom.github.io/the-proportional-web/",
+    "title": "The Proportional Web"
   },
   {
     "source": "lobsters",
@@ -111,13 +121,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://www.gingerbill.org/article/2026/07/10/good-tools-are-invisible/",
-    "title": "Good Tools Are Invisible"
+    "url": "https://xandergos.github.io/terrain-diffusion/",
+    "title": "InfiniteDiffusion: Bridging Learned Fidelity and Procedural Utility for Open-World Terrain Generation"
   },
   {
     "source": "lobsters",
-    "url": "https://xandergos.github.io/terrain-diffusion/",
-    "title": "InfiniteDiffusion: Bridging Learned Fidelity and Procedural Utility for Open-World Terrain Generation"
+    "url": "https://www.gingerbill.org/article/2026/07/10/good-tools-are-invisible/",
+    "title": "Good Tools Are Invisible"
   },
   {
     "source": "lobsters",
@@ -136,17 +146,92 @@
   },
   {
     "source": "lobsters",
-    "url": "https://mrbruh.com/motorola/",
-    "title": "Unauthenticated RCE in Motorola's MR2600 Router"
-  },
-  {
-    "source": "lobsters",
     "url": "https://thebeach.dev/posts/lisp-agent/",
     "title": "An Agent in 100 Lines of Lisp"
   },
   {
     "source": "lobsters",
+    "url": "https://mrbruh.com/motorola/",
+    "title": "Unauthenticated RCE in Motorola's MR2600 Router"
+  },
+  {
+    "source": "lobsters",
     "url": "https://nigeltao.github.io/blog/2026/handsum.html",
     "title": "Handsum: An LQIP Image File Format"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://bun.com/blog/bun-in-rust",
+    "title": "Rewriting Bun in Rust | Bun Blog"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://andrewkelley.me/post/my-thoughts-bun-rust-rewrite.html",
+    "title": "My Thoughts on the Bun Rust Rewrite - Andrew Kelley"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://withmarble.com/curriculum/",
+    "title": "Everything a child learns"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://blog.dannycastonguay.com/how-to-write-an-email/",
+    "title": "How To Write an Email - Home"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://fazamhd.com/mental-models/networking/",
+    "title": "Networking and the Internet, from First Principles · Faza"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.wired.com/story/this-buried-apple-feature-turns-an-iphone-into-the-perfect-kids-dumb-phone/",
+    "title": "This Buried Apple Feature Turns an iPhone Into the Perfect Kids’ Dumb Phone | WIRED"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://alexalejandre.com/programming/interview-with-mitchell-hashimoto/",
+    "title": "Interview With Mitchell Hashimoto"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://aeon.co/essays/the-radical-reasons-why-you-dream-of-making-things-by-hand",
+    "title": "The radical reasons why you dream of making things by hand | Aeon Essays"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://acoup.blog/2026/01/30/collections-the-late-bronze-age-collapse-a-very-brief-introduction/",
+    "title": "Collections: The Late Bronze Age Collapse, A Very Brief Introduction"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://news.ycombinator.com/item?id=48842459",
+    "title": "Show HN: Getting GLM 5.2 running on my slow computer | Hacker News"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.adweek.com/media/publishers-opt-out-google-search/",
+    "title": "Publishers Are Preparing to Opt Out of Google Search"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://karlbode.com/the-ai-hype-reckoning-is-upon-us/",
+    "title": "The AI Hype Reckoning Is Upon Us - The massive chasm between AI hype and reality is finally reaching the breaking point."
+  },
+  {
+    "source": "pinboard",
+    "url": "https://avi.press/posts/2026-07-10-after-7-years-in-production-scarf-has-reluctantly-moved-away-from-haskell.html",
+    "title": "After 7 years in production, Scarf has reluctantly moved away from Haskell"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.votebeat.org/national/2026/07/09/trump-fires-election-assistance-commission-members-hicks-hovland-mccormick/",
+    "title": "Trump fires all commissioners of federal election agency"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://blnreview.de/en/ausgaben/2026-08/als-ob-philosophieren-lily-hu",
+    "title": "Berlin Review · Un-Doing Philosophy"
   }
 ]
