@@ -6,33 +6,13 @@
   },
   {
     "source": "hn",
-    "url": "https://antjs.org",
-    "title": "Show HN: Ant – A JavaScript runtime and ecosystem"
-  },
-  {
-    "source": "hn",
-    "url": "https://oecdecoscope.blog/2026/07/07/the-fine-print-that-follows-you-out-the-door-non-compete-clauses-are-spreading-and-holding-back-growth/",
-    "title": "The fine print that follows you out the door: non-compete clauses are spreading"
-  },
-  {
-    "source": "hn",
-    "url": "https://fabiensanglard.net/tb4/index.html",
-    "title": "A dock that wakes up reliably"
-  },
-  {
-    "source": "hn",
-    "url": "https://io-fund.com/ai-stocks/nvidia-coreweave-nebius-circular-financing-gpu-boom",
-    "title": "Nvidia, CoreWeave, and Nebius: Inside the Circular Financing of the GPU Boom"
-  },
-  {
-    "source": "hn",
-    "url": "https://slacreditwatch.com",
-    "title": "A public ledger of cloud outages and the SLA credits they trigger"
-  },
-  {
-    "source": "hn",
     "url": "https://goeteia.dev",
     "title": "A pure scheme web programming tool"
+  },
+  {
+    "source": "hn",
+    "url": "https://antjs.org",
+    "title": "Show HN: Ant – A JavaScript runtime and ecosystem"
   },
   {
     "source": "hn",
@@ -41,8 +21,33 @@
   },
   {
     "source": "hn",
-    "url": "https://evanhahn.com/prefer-strict-tables-in-sqlite/",
-    "title": "Prefer strict tables in SQLite"
+    "url": "https://io-fund.com/ai-stocks/nvidia-coreweave-nebius-circular-financing-gpu-boom",
+    "title": "Nvidia, CoreWeave, and Nebius: Inside the Circular Financing of the GPU Boom"
+  },
+  {
+    "source": "hn",
+    "url": "https://fabiensanglard.net/tb4/index.html",
+    "title": "A dock that wakes up reliably"
+  },
+  {
+    "source": "hn",
+    "url": "https://thebeach.dev/posts/lisp-agent/",
+    "title": "An agent in 100 lines of Lisp"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.npr.org/2026/06/30/nx-s1-5835631/turner-camhi-do-no-harm-college-loans",
+    "title": "Under federal rule, colleges must leave grads better off or lose financial aid"
+  },
+  {
+    "source": "hn",
+    "url": "https://igropyr.com",
+    "title": "A Erlang style pure Scheme Webserver and further"
+  },
+  {
+    "source": "hn",
+    "url": "https://visitfaroeislands.com/en/plan-your-stay/getting-around/world-first-under-sea-roundabout",
+    "title": "Jellyfish Undersea Roundabout"
   },
   {
     "source": "hn",
@@ -51,8 +56,23 @@
   },
   {
     "source": "hn",
+    "url": "https://evanhahn.com/prefer-strict-tables-in-sqlite/",
+    "title": "Prefer strict tables in SQLite"
+  },
+  {
+    "source": "hn",
+    "url": "https://softwaredoug.com/blog/2026/07/09/write-code.html",
+    "title": "Why Write Code in 2026"
+  },
+  {
+    "source": "hn",
     "url": "https://archive.cancerworld.net/featured/how-doctors-die/",
     "title": "Doctors die. It's not like the rest of us, but it should be (2016)"
+  },
+  {
+    "source": "hn",
+    "url": "https://mrzk.io/posts/qmlx-maximising-ai-psychosis-minmaxing-mac-studio/",
+    "title": "Fixed three bugs that made Qwen3.5-122B a daily driver on Mac Studio"
   },
   {
     "source": "hn",
@@ -61,23 +81,8 @@
   },
   {
     "source": "hn",
-    "url": "https://nagylukas.github.io/orbit.html",
-    "title": "Show HN: Orbit – AR satellite tracker, watch 15k+ objects"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.zerofs.net/blog/zerofs-vs-aws-s3-files/",
-    "title": "ZeroFS vs. Amazon S3 Files"
-  },
-  {
-    "source": "hn",
     "url": "https://www.quicopt.com/developer/getting-started/",
     "title": "Optimization Solver as a Service"
-  },
-  {
-    "source": "hn",
-    "url": "https://hakibenita.com/postgresql-partition-pruning",
-    "title": "How to Achieve Pruning When Querying by Non-Partitioned Columns in PostgreSQL"
   },
   {
     "source": "hn",
@@ -96,8 +101,18 @@
   },
   {
     "source": "lobsters",
+    "url": "https://fzakaria.com/2026/07/09/who-does-anubis-actually-stop",
+    "title": "Who does Anubis actually stop?"
+  },
+  {
+    "source": "lobsters",
     "url": "https://nigeltao.github.io/blog/2026/handsum.html",
     "title": "Handsum: An LQIP Image File Format"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://www.seangoedecke.com/in-defense-of-not-understanding-your-codebase/",
+    "title": "In defense of not understanding your codebase"
   },
   {
     "source": "lobsters",
@@ -133,11 +148,6 @@
     "source": "lobsters",
     "url": "https://alexalejandre.com/programming/interview-with-mitchell-hashimoto/",
     "title": "Lobsters Interview with mitchellh"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://labs.quansight.org/blog/python-abi-abi3t",
-    "title": "What Every Python Developer Should Know About the CPython ABI"
   },
   {
     "source": "pinboard",
