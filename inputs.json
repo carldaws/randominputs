@@ -26,18 +26,23 @@
   },
   {
     "source": "hn",
-    "url": "https://visitfaroeislands.com/en/plan-your-stay/getting-around/world-first-under-sea-roundabout",
-    "title": "Jellyfish Undersea Roundabout"
-  },
-  {
-    "source": "hn",
     "url": "https://nigeltao.github.io/blog/2026/handsum.html",
     "title": "Handsum: An LQIP Image File Format"
   },
   {
     "source": "hn",
+    "url": "https://visitfaroeislands.com/en/plan-your-stay/getting-around/world-first-under-sea-roundabout",
+    "title": "Jellyfish Undersea Roundabout"
+  },
+  {
+    "source": "hn",
     "url": "https://studyfinds.com/modern-decor-may-be-straining-peoples-brains/",
     "title": "Modern decor may be straining people's brains"
+  },
+  {
+    "source": "hn",
+    "url": "https://blogs.nature.com/aviewfromthebridge/2017/04/20/fibonaccis-mathematical-legacy/",
+    "title": "Fibonacci's Real Mathematical Legacy"
   },
   {
     "source": "hn",
@@ -56,23 +61,8 @@
   },
   {
     "source": "hn",
-    "url": "https://www.quicopt.com/developer/getting-started/",
-    "title": "Optimization Solver as a Service"
-  },
-  {
-    "source": "hn",
-    "url": "https://fabiensanglard.net/tb4/index.html",
-    "title": "A dock that wakes up reliably"
-  },
-  {
-    "source": "hn",
     "url": "https://evanhahn.com/prefer-strict-tables-in-sqlite/",
     "title": "Prefer strict tables in SQLite"
-  },
-  {
-    "source": "hn",
-    "url": "https://shipthatcode.com",
-    "title": "Show HN: Learn by rebuilding Redis, Git, a database from scratch"
   },
   {
     "source": "hn",
@@ -81,13 +71,13 @@
   },
   {
     "source": "hn",
-    "url": "https://archive.cancerworld.net/featured/how-doctors-die/",
-    "title": "How Doctors die. It’s not like the rest of us (2016)"
+    "url": "https://fabiensanglard.net/tb4/index.html",
+    "title": "A dock that wakes up reliably"
   },
   {
     "source": "hn",
-    "url": "https://softwaredoug.com/blog/2026/07/09/write-code.html",
-    "title": "Why Write Code in 2026"
+    "url": "https://shipthatcode.com",
+    "title": "Show HN: Learn by rebuilding Redis, Git, a database from scratch"
   },
   {
     "source": "lobsters",
@@ -121,13 +111,18 @@
   },
   {
     "source": "lobsters",
+    "url": "https://antjs.org/",
+    "title": "Ant, a lightweight JavaScript runtime"
+  },
+  {
+    "source": "lobsters",
     "url": "https://nesbitt.io/2026/05/10/madame-semver-will-see-you-now.html",
     "title": "Madame Semver Will See You Now"
   },
   {
     "source": "lobsters",
-    "url": "https://antjs.org/",
-    "title": "Ant, a lightweight JavaScript runtime"
+    "url": "https://projectdiscovery.io/blog/hacking-apple-with-sql-injection",
+    "title": "Hacking Apple - SQL Injection to Remote Code Execution — ProjectDiscovery Blog"
   },
   {
     "source": "lobsters",
