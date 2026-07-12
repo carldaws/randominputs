@@ -2,7 +2,7 @@
   {
     "source": "hn",
     "url": "https://scrapfly.dev/posts/browser-math-os-fingerprint/",
-    "title": "Since Chronium 148, Math.tanh is now fingerprintable to link underlying OS"
+    "title": "Since Chromium 148, Math.tanh is now fingerprintable to link underlying OS"
   },
   {
     "source": "hn",
@@ -11,18 +11,13 @@
   },
   {
     "source": "hn",
+    "url": "https://www.susanrigetti.com/physics",
+    "title": "So you want to learn physics (second edition, 2021)"
+  },
+  {
+    "source": "hn",
     "url": "https://systima.ai/blog/claude-code-vs-opencode-token-overhead",
     "title": "Claude Code sends 33k tokens before reading the prompt; OpenCode sends 7k"
-  },
-  {
-    "source": "hn",
-    "url": "https://terrytao.wordpress.com/2026/07/11/old-and-new-apps-via-modern-coding-agents/",
-    "title": "Old and new apps, via modern coding agents"
-  },
-  {
-    "source": "hn",
-    "url": "https://geohot.github.io//blog/jekyll/update/2026/07/12/i-love-llms.html",
-    "title": "I love LLMs, I hate hype"
   },
   {
     "source": "hn",
@@ -31,13 +26,33 @@
   },
   {
     "source": "hn",
+    "url": "https://terrytao.wordpress.com/2026/07/11/old-and-new-apps-via-modern-coding-agents/",
+    "title": "Old and new apps, via modern coding agents"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.adaptiverecall.com/",
+    "title": "Show HN: Adaptive Recall, persistent memory for AI assistants over MCP"
+  },
+  {
+    "source": "hn",
     "url": "https://softwaredoug.com/blog/2026/07/09/write-code",
     "title": "Why write code in 2026"
   },
   {
     "source": "hn",
+    "url": "https://geohot.github.io//blog/jekyll/update/2026/07/12/i-love-llms.html",
+    "title": "I love LLMs, I hate hype"
+  },
+  {
+    "source": "hn",
     "url": "https://www.larp.website/",
     "title": "LARP – Revenue infrastructure for serious founders"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.canopii.dev/State%20of%20MCP%20Security%202026.pdf",
+    "title": "The State of MCP Security [pdf]"
   },
   {
     "source": "hn",
@@ -51,6 +66,11 @@
   },
   {
     "source": "hn",
+    "url": "https://en.wikipedia.org/wiki/Deir_el-Medina_strikes",
+    "title": "Deir El-Medina Strikes"
+  },
+  {
+    "source": "hn",
     "url": "https://scotto.me/blog/2026-07-12-how-to-read-more-books/",
     "title": "How to read more books"
   },
@@ -61,33 +81,13 @@
   },
   {
     "source": "hn",
-    "url": "https://en.wikipedia.org/wiki/Deir_el-Medina_strikes",
-    "title": "Deir El-Medina Strikes"
-  },
-  {
-    "source": "hn",
-    "url": "https://docs.jax.dev/en/latest/hijax_types.html",
-    "title": "Defining new Jax types with hijax"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.adaptiverecall.com/",
-    "title": "Show HN: Adaptive Recall, persistent memory for AI assistants over MCP"
-  },
-  {
-    "source": "hn",
     "url": "https://hidden-phenomena.com/articles/modular",
     "title": "Why study Diophantine equations?"
   },
   {
     "source": "hn",
-    "url": "https://www.canopii.dev/State%20of%20MCP%20Security%202026.pdf",
-    "title": "The State of MCP Security [pdf]"
-  },
-  {
-    "source": "hn",
-    "url": "https://odinbook.com/",
-    "title": "Understanding the Odin programming language"
+    "url": "https://docs.jax.dev/en/latest/hijax_types.html",
+    "title": "Defining new Jax types with hijax"
   },
   {
     "source": "hn",
@@ -106,13 +106,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://owickstrom.github.io/the-proportional-web/",
-    "title": "The Proportional Web"
+    "url": "https://fzakaria.com/2026/07/09/who-does-anubis-actually-stop",
+    "title": "Who does Anubis actually stop?"
   },
   {
     "source": "lobsters",
-    "url": "https://fzakaria.com/2026/07/09/who-does-anubis-actually-stop",
-    "title": "Who does Anubis actually stop?"
+    "url": "https://owickstrom.github.io/the-proportional-web/",
+    "title": "The Proportional Web"
   },
   {
     "source": "lobsters",
