@@ -11,6 +11,11 @@
   },
   {
     "source": "hn",
+    "url": "https://shellzine.net/cyberpunk-comics/",
+    "title": "Cyberpunk Comics, Manga and Graphic Novels"
+  },
+  {
+    "source": "hn",
     "url": "https://www.susanrigetti.com/physics",
     "title": "So you want to learn physics (second edition, 2021)"
   },
@@ -18,6 +23,11 @@
     "source": "hn",
     "url": "https://systima.ai/blog/claude-code-vs-opencode-token-overhead",
     "title": "Claude Code sends 33k tokens before reading the prompt; OpenCode sends 7k"
+  },
+  {
+    "source": "hn",
+    "url": "https://ics.uci.edu/~taylor/documents/2000-ADLs-TSE.pdf",
+    "title": "Architecture Description Languages [pdf]"
   },
   {
     "source": "hn",
@@ -31,18 +41,8 @@
   },
   {
     "source": "hn",
-    "url": "https://www.adaptiverecall.com/",
-    "title": "Show HN: Adaptive Recall, persistent memory for AI assistants over MCP"
-  },
-  {
-    "source": "hn",
     "url": "https://softwaredoug.com/blog/2026/07/09/write-code",
     "title": "Why write code in 2026"
-  },
-  {
-    "source": "hn",
-    "url": "https://geohot.github.io//blog/jekyll/update/2026/07/12/i-love-llms.html",
-    "title": "I love LLMs, I hate hype"
   },
   {
     "source": "hn",
@@ -51,8 +51,23 @@
   },
   {
     "source": "hn",
-    "url": "https://www.canopii.dev/State%20of%20MCP%20Security%202026.pdf",
-    "title": "The State of MCP Security [pdf]"
+    "url": "https://caolan.uk/notes/2026-07-02_a_speed_limit_for_computers.cm",
+    "title": "A Speed Limit for Computers"
+  },
+  {
+    "source": "hn",
+    "url": "https://laxmena.com/same-capacity-less-throughput",
+    "title": "Profiling the \"Abundance\" housing bottleneck with real data"
+  },
+  {
+    "source": "hn",
+    "url": "https://geohot.github.io//blog/jekyll/update/2026/07/12/i-love-llms.html",
+    "title": "I love LLMs, I hate hype"
+  },
+  {
+    "source": "hn",
+    "url": "https://techstackups.com/articles/tldraw-agent-draw/",
+    "title": "Show HN: Agent Draw: An agent draws while you talk, built on TLDraw"
   },
   {
     "source": "hn",
@@ -61,8 +76,8 @@
   },
   {
     "source": "hn",
-    "url": "https://fabiensanglard.net/extinct/index.html",
-    "title": "Don't you mean extinct?"
+    "url": "https://www.adaptiverecall.com/",
+    "title": "Show HN: Adaptive Recall, persistent memory for AI assistants over MCP"
   },
   {
     "source": "hn",
@@ -71,28 +86,23 @@
   },
   {
     "source": "hn",
-    "url": "https://scotto.me/blog/2026-07-12-how-to-read-more-books/",
-    "title": "How to read more books"
-  },
-  {
-    "source": "hn",
     "url": "https://nanduruganesh.github.io/flash-msa/",
     "title": "Flash-MSA: Accelerating Million-Token Training with Sparse Attention Kernels"
   },
   {
     "source": "hn",
-    "url": "https://hidden-phenomena.com/articles/modular",
-    "title": "Why study Diophantine equations?"
+    "url": "https://fabiensanglard.net/extinct/index.html",
+    "title": "Don't you mean extinct?"
   },
   {
     "source": "hn",
-    "url": "https://docs.jax.dev/en/latest/hijax_types.html",
-    "title": "Defining new Jax types with hijax"
+    "url": "https://scotto.me/blog/2026-07-12-how-to-read-more-books/",
+    "title": "How to read more books"
   },
   {
     "source": "hn",
-    "url": "https://dakra.github.io/ghostel/",
-    "title": "Ghostel.el: Terminal emulator powered by libghostty"
+    "url": "https://www.canopii.dev/State%20of%20MCP%20Security%202026.pdf",
+    "title": "The State of MCP Security [pdf]"
   },
   {
     "source": "lobsters",
@@ -101,8 +111,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://rmpr.xyz/Where-did-my-segfault-go/",
-    "title": "Where did my segfault go?"
+    "url": "https://owickstrom.github.io/the-proportional-web/",
+    "title": "The Proportional Web"
   },
   {
     "source": "lobsters",
@@ -111,8 +121,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://owickstrom.github.io/the-proportional-web/",
-    "title": "The Proportional Web"
+    "url": "https://rmpr.xyz/Where-did-my-segfault-go/",
+    "title": "Where did my segfault go?"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://dakra.github.io/ghostel/",
+    "title": "ghostel.el - Terminal emulator powered by libghostty"
   },
   {
     "source": "lobsters",
@@ -141,6 +156,11 @@
   },
   {
     "source": "lobsters",
+    "url": "https://thelastpsion.com/posts/make-it-right-next-steps-with-ctran/",
+    "title": "Make It Right - Next Steps With CTRAN"
+  },
+  {
+    "source": "lobsters",
     "url": "https://projectdiscovery.io/blog/hacking-apple-with-sql-injection",
     "title": "Hacking Apple - SQL Injection to Remote Code Execution"
   },
@@ -153,11 +173,6 @@
     "source": "lobsters",
     "url": "https://mrbruh.com/motorola/",
     "title": "Unauthenticated RCE in Motorola's MR2600 Router"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://nigeltao.github.io/blog/2026/handsum.html",
-    "title": "Handsum: An LQIP Image File Format"
   },
   {
     "source": "pinboard",
