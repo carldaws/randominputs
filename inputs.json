@@ -1,8 +1,8 @@
 [
   {
     "source": "hn",
-    "url": "https://blog.yaelwrites.com/stop-telling-me-to-ask-an-llm/",
-    "title": "Stop Telling Me to Ask an LLM"
+    "url": "https://www.iroh.computer/blog/mesh-llm",
+    "title": "Mesh LLM: distributed AI computing on iroh"
   },
   {
     "source": "hn",
@@ -11,13 +11,33 @@
   },
   {
     "source": "hn",
-    "url": "https://www.iroh.computer/blog/mesh-llm",
-    "title": "Mesh LLM: distributed AI computing on iroh"
+    "url": "https://oecdecoscope.blog/2026/07/07/the-fine-print-that-follows-you-out-the-door-non-compete-clauses-are-spreading-and-holding-back-growth/",
+    "title": "The fine print that follows you out the door: non-compete clauses are spreading"
+  },
+  {
+    "source": "hn",
+    "url": "https://fabiensanglard.net/tb4/index.html",
+    "title": "A dock that wakes up reliably"
   },
   {
     "source": "hn",
     "url": "https://io-fund.com/ai-stocks/nvidia-coreweave-nebius-circular-financing-gpu-boom",
     "title": "Nvidia, CoreWeave, and Nebius: Inside the Circular Financing of the GPU Boom"
+  },
+  {
+    "source": "hn",
+    "url": "https://slacreditwatch.com",
+    "title": "A public ledger of cloud outages and the SLA credits they trigger"
+  },
+  {
+    "source": "hn",
+    "url": "https://goeteia.dev",
+    "title": "A pure scheme web programming tool"
+  },
+  {
+    "source": "hn",
+    "url": "https://triapul.cz/automa/i_did_not_kill_stanley_lieber",
+    "title": "I Did Not Kill Stanley Lieber: How to Draw (With 9front)"
   },
   {
     "source": "hn",
@@ -31,8 +51,8 @@
   },
   {
     "source": "hn",
-    "url": "https://www.zerofs.net/blog/zerofs-vs-aws-s3-files/",
-    "title": "ZeroFS vs. Amazon S3 Files"
+    "url": "https://archive.cancerworld.net/featured/how-doctors-die/",
+    "title": "Doctors die. It's not like the rest of us, but it should be (2016)"
   },
   {
     "source": "hn",
@@ -41,43 +61,28 @@
   },
   {
     "source": "hn",
-    "url": "https://www.quicopt.com/developer/getting-started/",
-    "title": "Optimization Solver as a Service"
-  },
-  {
-    "source": "hn",
     "url": "https://nagylukas.github.io/orbit.html",
     "title": "Show HN: Orbit – AR satellite tracker, watch 15k+ objects"
   },
   {
     "source": "hn",
-    "url": "https://archive.cancerworld.net/featured/how-doctors-die/",
-    "title": "Doctors die. It's not like the rest of us, but it should be (2016)"
+    "url": "https://www.zerofs.net/blog/zerofs-vs-aws-s3-files/",
+    "title": "ZeroFS vs. Amazon S3 Files"
   },
   {
     "source": "hn",
-    "url": "https://www.sixthtone.com/news/1018753",
-    "title": "The Chinese Voice Actor Forced to Prove He's Human"
+    "url": "https://www.quicopt.com/developer/getting-started/",
+    "title": "Optimization Solver as a Service"
   },
   {
     "source": "hn",
-    "url": "https://amber-lang.com/",
-    "title": "Amber the programming language compiled to Bash/Ksh/Zsh"
+    "url": "https://hakibenita.com/postgresql-partition-pruning",
+    "title": "How to Achieve Pruning When Querying by Non-Partitioned Columns in PostgreSQL"
   },
   {
     "source": "hn",
-    "url": "https://www.atariarchives.org/deli/",
-    "title": "Digital Deli, 1984 book by early PC hackers and enthusiasts"
-  },
-  {
-    "source": "hn",
-    "url": "https://pluralistic.net/2025/09/11/vulgar-thatcherism/#there-is-an-alternative",
-    "title": "Reverse centaurs are the answer to the AI paradox (2025)"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.jamesdrandall.com/posts/thrust_ai_powered_software_archaeology/",
-    "title": "AI Can't Recreate the Thrust Game (But It Can Help You Understand It)"
+    "url": "https://abcnews.com/US/wireStory/martha-lillard-us-polio-patient-iron-lung-dies-134668491",
+    "title": "Martha Lillard, last US polio patient using iron lung, dies at 78 in Oklahoma"
   },
   {
     "source": "lobsters",
@@ -101,13 +106,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://zeal8bit.com/",
-    "title": "Zeal Z80-based computer"
+    "url": "https://htmx.org/essays/working-with-ai/",
+    "title": "Working With AI: A Concrete Example"
   },
   {
     "source": "lobsters",
-    "url": "https://htmx.org/essays/working-with-ai/",
-    "title": "Working With AI: A Concrete Example"
+    "url": "https://zeal8bit.com/",
+    "title": "Zeal Z80-based computer"
   },
   {
     "source": "lobsters",
@@ -135,28 +140,78 @@
     "title": "What Every Python Developer Should Know About the CPython ABI"
   },
   {
-    "source": "lobsters",
-    "url": "https://marvinh.dev/blog/running-1000-test-in-1s/",
-    "title": "Running 1000 tests in 1s (2022)"
+    "source": "pinboard",
+    "url": "https://bun.com/blog/bun-in-rust",
+    "title": "Rewriting Bun in Rust | Bun Blog"
   },
   {
-    "source": "lobsters",
-    "url": "https://www.osnews.com/story/145459/you-paid-me-a-long-time-linux-user-to-use-windows-11-exclusively-for-a-month-heres-how-it-went/",
-    "title": "You paid me, a long-time Linux user, to use Windows 11 exclusively for a month: here’s how it went"
+    "source": "pinboard",
+    "url": "https://tris.sherliker.net/blog/obfuscated-self-evaluating-bash-script-by-cdn-akamai-being-supplied-to-consumers-via-retail-stores/",
+    "title": "Tris Sherliker- Obfuscated, self-evaluating bash script by CDN Akamai being supplied to consumers via retail stores"
   },
   {
-    "source": "lobsters",
-    "url": "https://nesbitt.io/2026/07/10/package-management-as-org-chart.html",
-    "title": "Package Management as Org Chart"
+    "source": "pinboard",
+    "url": "https://davit.app/",
+    "title": "Davit — a native macOS UI for Apple containers"
   },
   {
-    "source": "lobsters",
-    "url": "https://www2.eecs.berkeley.edu/Pubs/TechRpts/1997/Archive/CSD-97-946.pdf",
-    "title": "Practical Algorithms for Incremental Software Development Environments"
+    "source": "pinboard",
+    "url": "https://andrewkelley.me/post/my-thoughts-bun-rust-rewrite.html",
+    "title": "My Thoughts on the Bun Rust Rewrite - Andrew Kelley"
   },
   {
-    "source": "lobsters",
-    "url": "https://wiki.c2.com/?TwoWaysToDesign",
-    "title": "Two Ways To Design"
+    "source": "pinboard",
+    "url": "https://karlbode.com/the-ai-hype-reckoning-is-upon-us/",
+    "title": "The AI Hype Reckoning Is Upon Us - The massive chasm between AI hype and reality is finally reaching the breaking point."
+  },
+  {
+    "source": "pinboard",
+    "url": "https://withmarble.com/curriculum/",
+    "title": "Everything a child learns"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://30papers.com/",
+    "title": "30 papers"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://qr.jim.sh/",
+    "title": "Jim's TrueType QR Code Font"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://blog.dannycastonguay.com/how-to-write-an-email/",
+    "title": "How To Write an Email - Home"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://postgresisenough.dev/",
+    "title": "Postgres Is Enough"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.votebeat.org/national/2026/07/09/trump-fires-election-assistance-commission-members-hicks-hovland-mccormick/",
+    "title": "Trump fires all commissioners of federal election agency"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://pluralistic.net/2026/07/02/canonization/",
+    "title": "Pluralistic: The difference between “today’s task” and “accretive work” (02 Jul 2026) – Pluralistic: Daily links from Cory Doctorow"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://davidpoblador.com/deep-dives/what-happened-to-the-frontend/",
+    "title": "The Descent — What Happened to the Frontend While You Weren't Watching"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://news.ycombinator.com/item?id=48842459",
+    "title": "Show HN: Getting GLM 5.2 running on my slow computer | Hacker News"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.wired.com/story/this-buried-apple-feature-turns-an-iphone-into-the-perfect-kids-dumb-phone/",
+    "title": "This Buried Apple Feature Turns an iPhone Into the Perfect Kids’ Dumb Phone | WIRED"
   }
 ]
