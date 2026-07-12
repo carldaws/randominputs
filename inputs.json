@@ -11,18 +11,23 @@
   },
   {
     "source": "hn",
+    "url": "https://odinbook.com/",
+    "title": "Understanding the Odin Programming Language"
+  },
+  {
+    "source": "hn",
     "url": "https://dakra.github.io/ghostel/",
     "title": "Ghostel.el: Terminal emulator powered by libghostty"
   },
   {
     "source": "hn",
-    "url": "https://www.iroh.computer/blog/mesh-llm",
-    "title": "Mesh LLM: distributed AI computing on iroh"
+    "url": "https://mrbruh.com/motorola/",
+    "title": "Unauthenticated RCE in Motorola's MR2600 Router"
   },
   {
     "source": "hn",
-    "url": "https://odinbook.com/",
-    "title": "Understanding the Odin Programming Language"
+    "url": "https://www.iroh.computer/blog/mesh-llm",
+    "title": "Mesh LLM: distributed AI computing on iroh"
   },
   {
     "source": "hn",
@@ -36,13 +41,18 @@
   },
   {
     "source": "hn",
-    "url": "https://nigeltao.github.io/blog/2026/handsum.html",
-    "title": "Handsum: An LQIP Image File Format"
+    "url": "https://thebeach.dev/posts/lisp-agent/",
+    "title": "An agent in 100 lines of Lisp"
   },
   {
     "source": "hn",
-    "url": "https://thebeach.dev/posts/lisp-agent/",
-    "title": "An agent in 100 lines of Lisp"
+    "url": "https://all-things-andy-gavin.com/2011/02/02/making-crash-bandicoot-part-1/",
+    "title": "Making Crash Bandicoot (2011)"
+  },
+  {
+    "source": "hn",
+    "url": "https://nigeltao.github.io/blog/2026/handsum.html",
+    "title": "Handsum: An LQIP Image File Format"
   },
   {
     "source": "hn",
@@ -61,6 +71,11 @@
   },
   {
     "source": "hn",
+    "url": "https://visitfaroeislands.com/en/plan-your-stay/getting-around/world-first-under-sea-roundabout",
+    "title": "Jellyfish Undersea Roundabout"
+  },
+  {
+    "source": "hn",
     "url": "https://studyfinds.com/modern-decor-may-be-straining-peoples-brains/",
     "title": "Modern decor may be straining people's brains"
   },
@@ -68,26 +83,6 @@
     "source": "hn",
     "url": "https://www.math.ucdavis.edu/~saito/courses/229A/stewart-svd.pdf",
     "title": "The early History of the Singular Value Decomposition (1993) [pdf]"
-  },
-  {
-    "source": "hn",
-    "url": "https://visitfaroeislands.com/en/plan-your-stay/getting-around/world-first-under-sea-roundabout",
-    "title": "Jellyfish Undersea Roundabout"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.npr.org/2026/06/30/nx-s1-5835631/turner-camhi-do-no-harm-college-loans",
-    "title": "Under federal rule, colleges must leave grads better off or lose financial aid"
-  },
-  {
-    "source": "hn",
-    "url": "https://evanhahn.com/prefer-strict-tables-in-sqlite/",
-    "title": "Prefer strict tables in SQLite"
-  },
-  {
-    "source": "hn",
-    "url": "https://fabiensanglard.net/tb4/index.html",
-    "title": "A dock that wakes up reliably"
   },
   {
     "source": "lobsters",
@@ -121,13 +116,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://projectdiscovery.io/blog/hacking-apple-with-sql-injection",
-    "title": "Hacking Apple - SQL Injection to Remote Code Execution — ProjectDiscovery Blog"
+    "url": "https://antjs.org/",
+    "title": "Ant, a lightweight JavaScript runtime"
   },
   {
     "source": "lobsters",
-    "url": "https://antjs.org/",
-    "title": "Ant, a lightweight JavaScript runtime"
+    "url": "https://projectdiscovery.io/blog/hacking-apple-with-sql-injection",
+    "title": "Hacking Apple - SQL Injection to Remote Code Execution — ProjectDiscovery Blog"
   },
   {
     "source": "lobsters",
