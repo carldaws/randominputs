@@ -6,13 +6,18 @@
   },
   {
     "source": "hn",
+    "url": "https://scotto.me/blog/2026-07-12-how-to-read-more-books/",
+    "title": "How to Read More Books"
+  },
+  {
+    "source": "hn",
     "url": "https://odinbook.com/",
     "title": "Understanding the Odin Programming Language"
   },
   {
     "source": "hn",
-    "url": "https://www.ginagallery.com/",
-    "title": "Gina Gallery of International Naive Art"
+    "url": "https://fabiensanglard.net/extinct/index.html",
+    "title": "Don't You Mean Extinct?"
   },
   {
     "source": "hn",
@@ -26,13 +31,18 @@
   },
   {
     "source": "hn",
-    "url": "https://www.iroh.computer/blog/mesh-llm",
-    "title": "Mesh LLM: distributed AI computing on iroh"
+    "url": "https://www.ginagallery.com/",
+    "title": "Gina Gallery of International Naive Art"
   },
   {
     "source": "hn",
-    "url": "https://app.ilograph.com/demo.ilograph.yt-dlp/Download%2520a%2520YouTube%2520Video",
-    "title": "Yt-Dlp Sequence Diagrams"
+    "url": "https://hidden-phenomena.com/articles/modular",
+    "title": "Why study Diophantine equations?"
+  },
+  {
+    "source": "hn",
+    "url": "https://satteri.bruits.org/",
+    "title": "Satteri: A Markdown pipeline forged in Rust for the JavaScript world"
   },
   {
     "source": "hn",
@@ -41,8 +51,13 @@
   },
   {
     "source": "hn",
-    "url": "https://satteri.bruits.org/",
-    "title": "Satteri: A Markdown pipeline forged in Rust for the JavaScript world"
+    "url": "https://www.iroh.computer/blog/mesh-llm",
+    "title": "Mesh LLM: distributed AI computing on iroh"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.geol.umd.edu/~tholtz/G331/lectures/331biomech.html",
+    "title": "Morphometrics: Introduction to the Analysis of Shape"
   },
   {
     "source": "hn",
@@ -56,8 +71,8 @@
   },
   {
     "source": "hn",
-    "url": "https://mamoniem.com/xbox-og-adventures/",
-    "title": "Xbox 'OG' Adventures"
+    "url": "https://www.elliotcsmith.com/autoresearch-claude-and-constrained-optimization/",
+    "title": "Autoresearch, Claude and Constrained Optimization"
   },
   {
     "source": "hn",
@@ -71,38 +86,33 @@
   },
   {
     "source": "hn",
+    "url": "https://atthis.link/blog/2024/49629.html",
+    "title": "TK, or the secret to effortless writing (2024)"
+  },
+  {
+    "source": "hn",
     "url": "https://triapul.cz/automa/i_did_not_kill_stanley_lieber",
     "title": "I Did Not Kill Stanley Lieber: How to Draw (With 9front)"
   },
   {
     "source": "hn",
-    "url": "https://all-things-andy-gavin.com/2011/02/02/making-crash-bandicoot-part-1/",
-    "title": "Making Crash Bandicoot (2011)"
-  },
-  {
-    "source": "hn",
-    "url": "https://blogs.nature.com/aviewfromthebridge/2017/04/20/fibonaccis-mathematical-legacy/",
-    "title": "Fibonacci's Real Mathematical Legacy"
-  },
-  {
-    "source": "hn",
-    "url": "https://studyfinds.com/modern-decor-may-be-straining-peoples-brains/",
-    "title": "Modern decor may be straining people's brains"
-  },
-  {
-    "source": "hn",
-    "url": "https://visitfaroeislands.com/en/plan-your-stay/getting-around/world-first-under-sea-roundabout",
-    "title": "Jellyfish Undersea Roundabout"
+    "url": "https://web.archive.org/web/20040612082405/https://www.google.com/explanation.html",
+    "title": "An explanation of our search results"
   },
   {
     "source": "lobsters",
-    "url": "https://rmpr.xyz/Where-did-my-segfault-go/",
-    "title": "Where did my segfault go?"
+    "url": "https://evmar.github.io/jjtut/",
+    "title": "Evan's Jujutsu Tutorial"
   },
   {
     "source": "lobsters",
     "url": "https://fzakaria.com/2026/07/09/who-does-anubis-actually-stop",
     "title": "Who does Anubis actually stop?"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://rmpr.xyz/Where-did-my-segfault-go/",
+    "title": "Where did my segfault go?"
   },
   {
     "source": "lobsters",
@@ -116,11 +126,6 @@
   },
   {
     "source": "lobsters",
-    "url": "https://evmar.github.io/jjtut/",
-    "title": "Evan's Jujutsu Tutorial"
-  },
-  {
-    "source": "lobsters",
     "url": "https://www.gingerbill.org/article/2026/07/10/good-tools-are-invisible/",
     "title": "Good Tools Are Invisible"
   },
@@ -131,97 +136,22 @@
   },
   {
     "source": "lobsters",
+    "url": "https://mikezornek.com/posts/2026/7/a-place-for-everything/",
+    "title": "A Place for Everything: How I Track Work"
+  },
+  {
+    "source": "lobsters",
     "url": "https://entropicthoughts.com/sicp-2-4-data-directed-programming-in-haskell",
     "title": "Data-directed programming in Haskell (SICP2.4.3)"
   },
   {
     "source": "lobsters",
     "url": "https://projectdiscovery.io/blog/hacking-apple-with-sql-injection",
-    "title": "Hacking Apple - SQL Injection to Remote Code Execution — ProjectDiscovery Blog"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://mikezornek.com/posts/2026/7/a-place-for-everything/",
-    "title": "A Place for Everything: How I Track Work"
+    "title": "Hacking Apple - SQL Injection to Remote Code Execution"
   },
   {
     "source": "lobsters",
     "url": "https://nesbitt.io/2026/05/10/madame-semver-will-see-you-now.html",
     "title": "Madame Semver Will See You Now"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://bun.com/blog/bun-in-rust",
-    "title": "Rewriting Bun in Rust | Bun Blog"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://andrewkelley.me/post/my-thoughts-bun-rust-rewrite.html",
-    "title": "My Thoughts on the Bun Rust Rewrite - Andrew Kelley"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://withmarble.com/curriculum/",
-    "title": "Everything a child learns"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://blog.dannycastonguay.com/how-to-write-an-email/",
-    "title": "How To Write an Email - Home"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://fazamhd.com/mental-models/networking/",
-    "title": "Networking and the Internet, from First Principles · Faza"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.wired.com/story/this-buried-apple-feature-turns-an-iphone-into-the-perfect-kids-dumb-phone/",
-    "title": "This Buried Apple Feature Turns an iPhone Into the Perfect Kids’ Dumb Phone | WIRED"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://alexalejandre.com/programming/interview-with-mitchell-hashimoto/",
-    "title": "Interview With Mitchell Hashimoto"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://aeon.co/essays/the-radical-reasons-why-you-dream-of-making-things-by-hand",
-    "title": "The radical reasons why you dream of making things by hand | Aeon Essays"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://acoup.blog/2026/01/30/collections-the-late-bronze-age-collapse-a-very-brief-introduction/",
-    "title": "Collections: The Late Bronze Age Collapse, A Very Brief Introduction"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://news.ycombinator.com/item?id=48842459",
-    "title": "Show HN: Getting GLM 5.2 running on my slow computer | Hacker News"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.adweek.com/media/publishers-opt-out-google-search/",
-    "title": "Publishers Are Preparing to Opt Out of Google Search"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://karlbode.com/the-ai-hype-reckoning-is-upon-us/",
-    "title": "The AI Hype Reckoning Is Upon Us - The massive chasm between AI hype and reality is finally reaching the breaking point."
-  },
-  {
-    "source": "pinboard",
-    "url": "https://avi.press/posts/2026-07-10-after-7-years-in-production-scarf-has-reluctantly-moved-away-from-haskell.html",
-    "title": "After 7 years in production, Scarf has reluctantly moved away from Haskell"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.votebeat.org/national/2026/07/09/trump-fires-election-assistance-commission-members-hicks-hovland-mccormick/",
-    "title": "Trump fires all commissioners of federal election agency"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://blnreview.de/en/ausgaben/2026-08/als-ob-philosophieren-lily-hu",
-    "title": "Berlin Review · Un-Doing Philosophy"
   }
 ]
