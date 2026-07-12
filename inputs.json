@@ -1,8 +1,18 @@
 [
   {
     "source": "hn",
+    "url": "https://geohot.github.io//blog/jekyll/update/2026/07/12/i-love-llms.html",
+    "title": "I love LLMs, I hate hype"
+  },
+  {
+    "source": "hn",
     "url": "https://terrytao.wordpress.com/2026/07/11/old-and-new-apps-via-modern-coding-agents/",
     "title": "Old and new apps, via modern coding agents"
+  },
+  {
+    "source": "hn",
+    "url": "http://incompleteideas.net/IncIdeas/OneStepTrap.html",
+    "title": "The One-Step Trap (In AI Research)"
   },
   {
     "source": "hn",
@@ -11,23 +21,8 @@
   },
   {
     "source": "hn",
-    "url": "https://systima.ai/blog/claude-code-vs-opencode-token-overhead",
-    "title": "Claude Code sends 33k tokens before reading the prompt; OpenCode sends 7k"
-  },
-  {
-    "source": "hn",
-    "url": "https://hidden-phenomena.com/articles/modular",
-    "title": "Why study Diophantine equations?"
-  },
-  {
-    "source": "hn",
-    "url": "https://odinbook.com/",
-    "title": "Understanding the Odin Programming Language"
-  },
-  {
-    "source": "hn",
-    "url": "https://scotto.me/blog/2026-07-12-how-to-read-more-books/",
-    "title": "How to Read More Books"
+    "url": "https://softwaredoug.com/blog/2026/07/09/write-code",
+    "title": "Why write code in 2026"
   },
   {
     "source": "hn",
@@ -36,33 +31,13 @@
   },
   {
     "source": "hn",
-    "url": "https://dakra.github.io/ghostel/",
-    "title": "Ghostel.el: Terminal emulator powered by libghostty"
+    "url": "https://hidden-phenomena.com/articles/modular",
+    "title": "Why study Diophantine equations?"
   },
   {
     "source": "hn",
-    "url": "https://marc.info/?l=openbsd-misc&m=119318909016582",
-    "title": "Theo de Raadt: \"You've been smoking something mind altering\" (2007)"
-  },
-  {
-    "source": "hn",
-    "url": "https://softwaredoug.com/blog/2026/07/09/write-code",
-    "title": "Why write code in 2026"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.geol.umd.edu/~tholtz/G331/lectures/331biomech.html",
-    "title": "Morphometrics: Introduction to the Analysis of Shape"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.elliotcsmith.com/autoresearch-claude-and-constrained-optimization/",
-    "title": "Autoresearch, Claude and Constrained Optimization"
-  },
-  {
-    "source": "hn",
-    "url": "https://mrbruh.com/motorola/",
-    "title": "Unauthenticated RCE in Motorola's MR2600 Router"
+    "url": "https://scotto.me/blog/2026-07-12-how-to-read-more-books/",
+    "title": "How to Read More Books"
   },
   {
     "source": "hn",
@@ -71,18 +46,33 @@
   },
   {
     "source": "hn",
-    "url": "https://satteri.bruits.org/",
-    "title": "Satteri: A Markdown pipeline forged in Rust for the JavaScript world"
+    "url": "https://odinbook.com/",
+    "title": "Understanding the Odin Programming Language"
   },
   {
     "source": "hn",
-    "url": "https://www.iroh.computer/blog/mesh-llm",
-    "title": "Mesh LLM: distributed AI computing on iroh"
+    "url": "https://dakra.github.io/ghostel/",
+    "title": "Ghostel.el: Terminal emulator powered by libghostty"
   },
   {
     "source": "hn",
-    "url": "https://atthis.link/blog/2026/57207.html",
-    "title": "Ditching Zotero for a Text File"
+    "url": "https://buildnectar.com",
+    "title": "Show HN: Nectar, a Rust-like React that compiles to WebAssembly"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.geol.umd.edu/~tholtz/G331/lectures/331biomech.html",
+    "title": "Morphometrics: Introduction to the Analysis of Shape"
+  },
+  {
+    "source": "hn",
+    "url": "https://mrbruh.com/motorola/",
+    "title": "Unauthenticated RCE in Motorola's MR2600 Router"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.elliotcsmith.com/autoresearch-claude-and-constrained-optimization/",
+    "title": "Autoresearch, Claude and Constrained Optimization"
   },
   {
     "source": "lobsters",
@@ -91,13 +81,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://fzakaria.com/2026/07/09/who-does-anubis-actually-stop",
-    "title": "Who does Anubis actually stop?"
+    "url": "https://owickstrom.github.io/the-proportional-web/",
+    "title": "The Proportional Web"
   },
   {
     "source": "lobsters",
-    "url": "https://owickstrom.github.io/the-proportional-web/",
-    "title": "The Proportional Web"
+    "url": "https://fzakaria.com/2026/07/09/who-does-anubis-actually-stop",
+    "title": "Who does Anubis actually stop?"
   },
   {
     "source": "lobsters",
@@ -116,18 +106,23 @@
   },
   {
     "source": "lobsters",
-    "url": "https://antjs.org/",
-    "title": "Ant, a lightweight JavaScript runtime"
-  },
-  {
-    "source": "lobsters",
     "url": "https://entropicthoughts.com/sicp-2-4-data-directed-programming-in-haskell",
     "title": "Data-directed programming in Haskell (SICP2.4.3)"
   },
   {
     "source": "lobsters",
+    "url": "https://antjs.org/",
+    "title": "Ant, a lightweight JavaScript runtime"
+  },
+  {
+    "source": "lobsters",
     "url": "https://projectdiscovery.io/blog/hacking-apple-with-sql-injection",
     "title": "Hacking Apple - SQL Injection to Remote Code Execution"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://xandergos.github.io/terrain-diffusion/",
+    "title": "InfiniteDiffusion: Bridging Learned Fidelity and Procedural Utility for Open-World Terrain Generation"
   },
   {
     "source": "lobsters",
@@ -138,10 +133,5 @@
     "source": "lobsters",
     "url": "https://nigeltao.github.io/blog/2026/handsum.html",
     "title": "Handsum: An LQIP Image File Format"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://nesbitt.io/2026/05/10/madame-semver-will-see-you-now.html",
-    "title": "Madame Semver Will See You Now"
   }
 ]
