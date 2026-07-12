@@ -6,28 +6,8 @@
   },
   {
     "source": "hn",
-    "url": "https://goeteia.dev",
-    "title": "A pure scheme web programming tool"
-  },
-  {
-    "source": "hn",
     "url": "https://antjs.org",
     "title": "Show HN: Ant – A JavaScript runtime and ecosystem"
-  },
-  {
-    "source": "hn",
-    "url": "https://triapul.cz/automa/i_did_not_kill_stanley_lieber",
-    "title": "I Did Not Kill Stanley Lieber: How to Draw (With 9front)"
-  },
-  {
-    "source": "hn",
-    "url": "https://io-fund.com/ai-stocks/nvidia-coreweave-nebius-circular-financing-gpu-boom",
-    "title": "Nvidia, CoreWeave, and Nebius: Inside the Circular Financing of the GPU Boom"
-  },
-  {
-    "source": "hn",
-    "url": "https://fabiensanglard.net/tb4/index.html",
-    "title": "A dock that wakes up reliably"
   },
   {
     "source": "hn",
@@ -36,18 +16,33 @@
   },
   {
     "source": "hn",
-    "url": "https://www.npr.org/2026/06/30/nx-s1-5835631/turner-camhi-do-no-harm-college-loans",
-    "title": "Under federal rule, colleges must leave grads better off or lose financial aid"
+    "url": "https://io-fund.com/ai-stocks/nvidia-coreweave-nebius-circular-financing-gpu-boom",
+    "title": "Nvidia, CoreWeave, and Nebius: Inside the Circular Financing of the GPU Boom"
   },
   {
     "source": "hn",
-    "url": "https://igropyr.com",
-    "title": "A Erlang style pure Scheme Webserver and further"
+    "url": "https://triapul.cz/automa/i_did_not_kill_stanley_lieber",
+    "title": "I Did Not Kill Stanley Lieber: How to Draw (With 9front)"
   },
   {
     "source": "hn",
     "url": "https://visitfaroeislands.com/en/plan-your-stay/getting-around/world-first-under-sea-roundabout",
     "title": "Jellyfish Undersea Roundabout"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.npr.org/2026/06/30/nx-s1-5835631/turner-camhi-do-no-harm-college-loans",
+    "title": "Under federal rule, colleges must leave grads better off or lose financial aid"
+  },
+  {
+    "source": "hn",
+    "url": "https://goeteia.dev",
+    "title": "A pure scheme web programming tool"
+  },
+  {
+    "source": "hn",
+    "url": "https://mrzk.io/posts/qmlx-maximising-ai-psychosis-minmaxing-mac-studio/",
+    "title": "Fixed three bugs that made Qwen3.5-122B a daily driver on Mac Studio"
   },
   {
     "source": "hn",
@@ -61,18 +56,18 @@
   },
   {
     "source": "hn",
-    "url": "https://softwaredoug.com/blog/2026/07/09/write-code.html",
-    "title": "Why Write Code in 2026"
+    "url": "https://igropyr.com",
+    "title": "A Erlang style pure Scheme Webserver and further"
   },
   {
     "source": "hn",
-    "url": "https://archive.cancerworld.net/featured/how-doctors-die/",
-    "title": "Doctors die. It's not like the rest of us, but it should be (2016)"
+    "url": "https://www.quicopt.com/developer/getting-started/",
+    "title": "Optimization Solver as a Service"
   },
   {
     "source": "hn",
-    "url": "https://mrzk.io/posts/qmlx-maximising-ai-psychosis-minmaxing-mac-studio/",
-    "title": "Fixed three bugs that made Qwen3.5-122B a daily driver on Mac Studio"
+    "url": "https://fabiensanglard.net/tb4/index.html",
+    "title": "A dock that wakes up reliably"
   },
   {
     "source": "hn",
@@ -81,8 +76,13 @@
   },
   {
     "source": "hn",
-    "url": "https://www.quicopt.com/developer/getting-started/",
-    "title": "Optimization Solver as a Service"
+    "url": "https://softwaredoug.com/blog/2026/07/09/write-code.html",
+    "title": "Why Write Code in 2026"
+  },
+  {
+    "source": "hn",
+    "url": "https://archive.cancerworld.net/featured/how-doctors-die/",
+    "title": "How Doctors die. It’s not like the rest of us (2016)"
   },
   {
     "source": "hn",
@@ -106,13 +106,18 @@
   },
   {
     "source": "lobsters",
+    "url": "https://www.seangoedecke.com/in-defense-of-not-understanding-your-codebase/",
+    "title": "In defense of not understanding your codebase"
+  },
+  {
+    "source": "lobsters",
     "url": "https://nigeltao.github.io/blog/2026/handsum.html",
     "title": "Handsum: An LQIP Image File Format"
   },
   {
     "source": "lobsters",
-    "url": "https://www.seangoedecke.com/in-defense-of-not-understanding-your-codebase/",
-    "title": "In defense of not understanding your codebase"
+    "url": "https://owickstrom.github.io/the-proportional-web/",
+    "title": "The Proportional Web"
   },
   {
     "source": "lobsters",
@@ -126,6 +131,16 @@
   },
   {
     "source": "lobsters",
+    "url": "https://rss.com/podcasts/computer-science-off-course/2968986/",
+    "title": "Computer Science Off Course - Programming as Theory Building"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://antjs.org/",
+    "title": "Ant, a lightweight JavaScript runtime"
+  },
+  {
+    "source": "lobsters",
     "url": "https://zeal8bit.com/",
     "title": "Zeal Z80-based computer"
   },
@@ -135,34 +150,9 @@
     "title": "AI Surveillance and Social Progress"
   },
   {
-    "source": "lobsters",
-    "url": "https://mimo.xiaomi.com/blog/mimo-v2-5-inference",
-    "title": "Full-Pipeline Inference Optimization for MiMo-V2.5 Series"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://avi.press/posts/2026-07-10-after-7-years-in-production-scarf-has-reluctantly-moved-away-from-haskell.html",
-    "title": "After 7 years in production, Scarf has reluctantly moved away from Haskell"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://alexalejandre.com/programming/interview-with-mitchell-hashimoto/",
-    "title": "Lobsters Interview with mitchellh"
-  },
-  {
     "source": "pinboard",
     "url": "https://bun.com/blog/bun-in-rust",
     "title": "Rewriting Bun in Rust | Bun Blog"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://tris.sherliker.net/blog/obfuscated-self-evaluating-bash-script-by-cdn-akamai-being-supplied-to-consumers-via-retail-stores/",
-    "title": "Tris Sherliker- Obfuscated, self-evaluating bash script by CDN Akamai being supplied to consumers via retail stores"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://davit.app/",
-    "title": "Davit — a native macOS UI for Apple containers"
   },
   {
     "source": "pinboard",
@@ -171,23 +161,8 @@
   },
   {
     "source": "pinboard",
-    "url": "https://karlbode.com/the-ai-hype-reckoning-is-upon-us/",
-    "title": "The AI Hype Reckoning Is Upon Us - The massive chasm between AI hype and reality is finally reaching the breaking point."
-  },
-  {
-    "source": "pinboard",
     "url": "https://withmarble.com/curriculum/",
     "title": "Everything a child learns"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://30papers.com/",
-    "title": "30 papers"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://qr.jim.sh/",
-    "title": "Jim's TrueType QR Code Font"
   },
   {
     "source": "pinboard",
@@ -196,23 +171,28 @@
   },
   {
     "source": "pinboard",
-    "url": "https://postgresisenough.dev/",
-    "title": "Postgres Is Enough"
+    "url": "https://fazamhd.com/mental-models/networking/",
+    "title": "Networking and the Internet, from First Principles · Faza"
   },
   {
     "source": "pinboard",
-    "url": "https://www.votebeat.org/national/2026/07/09/trump-fires-election-assistance-commission-members-hicks-hovland-mccormick/",
-    "title": "Trump fires all commissioners of federal election agency"
+    "url": "https://www.wired.com/story/this-buried-apple-feature-turns-an-iphone-into-the-perfect-kids-dumb-phone/",
+    "title": "This Buried Apple Feature Turns an iPhone Into the Perfect Kids’ Dumb Phone | WIRED"
   },
   {
     "source": "pinboard",
-    "url": "https://pluralistic.net/2026/07/02/canonization/",
-    "title": "Pluralistic: The difference between “today’s task” and “accretive work” (02 Jul 2026) – Pluralistic: Daily links from Cory Doctorow"
+    "url": "https://alexalejandre.com/programming/interview-with-mitchell-hashimoto/",
+    "title": "Interview With Mitchell Hashimoto"
   },
   {
     "source": "pinboard",
-    "url": "https://davidpoblador.com/deep-dives/what-happened-to-the-frontend/",
-    "title": "The Descent — What Happened to the Frontend While You Weren't Watching"
+    "url": "https://aeon.co/essays/the-radical-reasons-why-you-dream-of-making-things-by-hand",
+    "title": "The radical reasons why you dream of making things by hand | Aeon Essays"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://acoup.blog/2026/01/30/collections-the-late-bronze-age-collapse-a-very-brief-introduction/",
+    "title": "Collections: The Late Bronze Age Collapse, A Very Brief Introduction"
   },
   {
     "source": "pinboard",
@@ -221,7 +201,27 @@
   },
   {
     "source": "pinboard",
-    "url": "https://www.wired.com/story/this-buried-apple-feature-turns-an-iphone-into-the-perfect-kids-dumb-phone/",
-    "title": "This Buried Apple Feature Turns an iPhone Into the Perfect Kids’ Dumb Phone | WIRED"
+    "url": "https://www.adweek.com/media/publishers-opt-out-google-search/",
+    "title": "Publishers Are Preparing to Opt Out of Google Search"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://karlbode.com/the-ai-hype-reckoning-is-upon-us/",
+    "title": "The AI Hype Reckoning Is Upon Us - The massive chasm between AI hype and reality is finally reaching the breaking point."
+  },
+  {
+    "source": "pinboard",
+    "url": "https://avi.press/posts/2026-07-10-after-7-years-in-production-scarf-has-reluctantly-moved-away-from-haskell.html",
+    "title": "After 7 years in production, Scarf has reluctantly moved away from Haskell"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.votebeat.org/national/2026/07/09/trump-fires-election-assistance-commission-members-hicks-hovland-mccormick/",
+    "title": "Trump fires all commissioners of federal election agency"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://blnreview.de/en/ausgaben/2026-08/als-ob-philosophieren-lily-hu",
+    "title": "Berlin Review · Un-Doing Philosophy"
   }
 ]
