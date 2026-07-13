@@ -1,13 +1,8 @@
 [
   {
     "source": "hn",
-    "url": "https://werd.io/climate-gov-was-destroyed-open-data-saved-it/",
-    "title": "Climate.gov was destroyed. Open data saved it"
-  },
-  {
-    "source": "hn",
-    "url": "https://superdario.pawb.de",
-    "title": "Show HN: Super Dario"
+    "url": "https://www.whois.com/whois/t.me",
+    "title": "Telegram's t.me domain has been suspended"
   },
   {
     "source": "hn",
@@ -26,6 +21,11 @@
   },
   {
     "source": "hn",
+    "url": "https://werd.io/climate-gov-was-destroyed-open-data-saved-it/",
+    "title": "Climate.gov was destroyed. Open data saved it"
+  },
+  {
+    "source": "hn",
     "url": "https://cakehonolulu.github.io/linux-on-32x/",
     "title": "Linux on the Sega 32X. Who needs hardware synchronization primitives anyway?"
   },
@@ -33,16 +33,6 @@
     "source": "hn",
     "url": "https://fabiensanglard.net/silpheed/index.html",
     "title": "The art and engineering of Sega CD Silpheed"
-  },
-  {
-    "source": "hn",
-    "url": "https://bytecode.news/posts/2026/07/user-submission-ai-is-a-bad-tool",
-    "title": "AI Is a Bad Tool"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.whois.com/whois/t.me",
-    "title": "Telegram's t.me domain has been suspended"
   },
   {
     "source": "hn",
@@ -56,13 +46,18 @@
   },
   {
     "source": "hn",
+    "url": "https://garden-of-flowers.heikkilotvonen.com/?essay",
+    "title": "The Origins of Heikki's Garden of Flowers"
+  },
+  {
+    "source": "hn",
     "url": "https://nobie.com",
     "title": "Show HN: Nobie – an Excel-compatible runtime for agents and humans"
   },
   {
     "source": "hn",
-    "url": "https://garden-of-flowers.heikkilotvonen.com/?essay",
-    "title": "The Origins of Heikki's Garden of Flowers"
+    "url": "https://humansand.ai/blog/nvfp4-rl",
+    "title": "The 4-Bitter Lesson: Balancing Stability and Performance in NVFP4 RL"
   },
   {
     "source": "hn",
@@ -76,23 +71,13 @@
   },
   {
     "source": "hn",
-    "url": "https://www.engineering.upenn.edu/stories/how-sea-stars-build-materials-that-can-see/",
-    "title": "How sea stars build materials that can see"
-  },
-  {
-    "source": "hn",
     "url": "http://blog.vanillajava.blog/2026/06/why-you-should-tun-code-before-your.html",
     "title": "Tune Code Before Your Garbage Collector"
   },
   {
     "source": "hn",
-    "url": "https://nebusec.ai/research/ionstack-part-2/",
-    "title": "GhostLock, a stack-UAF that has existed in all Linux distributions for 15 years"
-  },
-  {
-    "source": "hn",
-    "url": "https://mmapped.blog/posts/52-backtrack-free-cursive",
-    "title": "Backtrack-Free Cursive"
+    "url": "https://www.engineering.upenn.edu/stories/how-sea-stars-build-materials-that-can-see/",
+    "title": "How sea stars build materials that can see"
   },
   {
     "source": "lobsters",
@@ -136,13 +121,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://hacker-fables.onrender.com",
-    "title": "Hacker Fables - A satirical cyberpunk novella you can read as a man page"
+    "url": "https://arshad.fyi/writings/engineering-high-performance-parsers",
+    "title": "Engineering High-Performance Parsers with Data-Oriented Design"
   },
   {
     "source": "lobsters",
-    "url": "https://arshad.fyi/writings/engineering-high-performance-parsers",
-    "title": "Engineering High-Performance Parsers with Data-Oriented Design"
+    "url": "https://hacker-fables.onrender.com",
+    "title": "Hacker Fables - A satirical cyberpunk novella you can read as a man page"
   },
   {
     "source": "lobsters",
@@ -153,6 +138,11 @@
     "source": "lobsters",
     "url": "https://timharek.no/blog/kaizen-4/",
     "title": "Overhauled homelab"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://www.inngest.com/blog/adding-a-second-middleware-broke-our-typescript-types",
+    "title": "Adding a second middleware broke our typescript types"
   },
   {
     "source": "lobsters",
