@@ -6,6 +6,11 @@
   },
   {
     "source": "hn",
+    "url": "https://mmapped.blog/posts/52-backtrack-free-cursive",
+    "title": "Backtrack-Free Cursive"
+  },
+  {
+    "source": "hn",
     "url": "https://nebusec.ai/research/ionstack-part-2/",
     "title": "GhostLock, a stack-UAF that has existed in all Linux distributions for 15 years"
   },
@@ -13,11 +18,6 @@
     "source": "hn",
     "url": "https://andiroberts.com/citizenship/the-social-physics-of-conversation-citizenship-leadership",
     "title": "The social physics of conversation: Communication patterns matter"
-  },
-  {
-    "source": "hn",
-    "url": "https://mmapped.blog/posts/52-backtrack-free-cursive",
-    "title": "Backtrack-Free Cursive"
   },
   {
     "source": "hn",
@@ -31,6 +31,11 @@
   },
   {
     "source": "hn",
+    "url": "https://anderegg.ca/2026/07/12/an-infuriating-goodbye-to-photoshop",
+    "title": "An Infuriating Goodbye to Photoshop"
+  },
+  {
+    "source": "hn",
     "url": "https://www.susanrigetti.com/physics",
     "title": "So you want to learn physics (second edition, 2021)"
   },
@@ -41,13 +46,13 @@
   },
   {
     "source": "hn",
-    "url": "https://frieve-a.github.io/sound_toolbox/vinyl_explained/vinyl_explained.html",
-    "title": "Frieve Vinyl Explained – Microscopic stylus/groove physics simulation"
+    "url": "https://scotto.me/blog/2026-07-12-how-to-read-more-books/",
+    "title": "How to read more books"
   },
   {
     "source": "hn",
-    "url": "https://scotto.me/blog/2026-07-12-how-to-read-more-books/",
-    "title": "How to read more books"
+    "url": "https://frieve-a.github.io/sound_toolbox/vinyl_explained/vinyl_explained.html",
+    "title": "Frieve Vinyl Explained – Microscopic stylus/groove physics simulation"
   },
   {
     "source": "hn",
@@ -66,6 +71,11 @@
   },
   {
     "source": "hn",
+    "url": "https://www.wired.com/story/sfpd-drone-video-leak-surveillance/",
+    "title": "Leak of San Francisco Police Drone Footage Exposes Reality of Urban Surveillance"
+  },
+  {
+    "source": "lobsters",
     "url": "https://purplesyringa.moe/blog/quadrupling-code-performance-with-a-useless-if/",
     "title": "Quadrupling code performance with a \"useless\" if"
   },
@@ -76,13 +86,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://pfandrade.me/blog/swiftui-mac-assed-wwdc27-update/",
-    "title": "A WWDC 27 Update on Building a Mac-assed App with SwiftUI"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://avlasov.cabal.run/notes/001/index.html",
-    "title": "WebExtension to query any HTML table with PRQL"
+    "url": "https://blog.rust-lang.org/2026/07/13/crates-io-development-update/",
+    "title": "crates.io: development update"
   },
   {
     "source": "lobsters",
@@ -91,18 +96,28 @@
   },
   {
     "source": "lobsters",
+    "url": "https://pfandrade.me/blog/swiftui-mac-assed-wwdc27-update/",
+    "title": "A WWDC 26 Update on Building a Mac-assed App with SwiftUI"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://avlasov.cabal.run/notes/001/index.html",
+    "title": "WebExtension to query any HTML table with PRQL"
+  },
+  {
+    "source": "lobsters",
     "url": "https://timharek.no/blog/kaizen-4/",
     "title": "Overhauled homelab"
   },
   {
     "source": "lobsters",
-    "url": "https://dakra.github.io/ghostel/",
-    "title": "ghostel.el - Terminal emulator powered by libghostty"
+    "url": "https://scrapfly.dev/posts/browser-math-os-fingerprint/",
+    "title": "Browsers Do Math Differently on Every OS; Anti-Bot Systems Read the Bits"
   },
   {
     "source": "lobsters",
-    "url": "https://scrapfly.dev/posts/browser-math-os-fingerprint/",
-    "title": "Browsers Do Math Differently on Every OS; Anti-Bot Systems Read the Bits"
+    "url": "https://dakra.github.io/ghostel/",
+    "title": "ghostel.el - Terminal emulator powered by libghostty"
   },
   {
     "source": "lobsters",
@@ -121,13 +136,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://xandergos.github.io/terrain-diffusion/",
-    "title": "InfiniteDiffusion: Bridging Learned Fidelity and Procedural Utility for Open-World Terrain Generation"
+    "url": "https://arshad.fyi/writings/engineering-high-performance-parsers",
+    "title": "Engineering High-Performance Parsers with Data-Oriented Design"
   },
   {
     "source": "lobsters",
-    "url": "https://blog.rust-lang.org/2026/07/13/crates-io-development-update/",
-    "title": "crates.io: development update"
+    "url": "https://xandergos.github.io/terrain-diffusion/",
+    "title": "InfiniteDiffusion: Bridging Learned Fidelity and Procedural Utility for Open-World Terrain Generation"
   },
   {
     "source": "lobsters",
@@ -148,5 +163,90 @@
     "source": "lobsters",
     "url": "https://www.doc.ic.ac.uk/~susan/475/cruft.html",
     "title": "The Stob Cruft Index: a rolling computer gathers \"cruft\""
+  },
+  {
+    "source": "pinboard",
+    "url": "https://fazamhd.com/mental-models/networking/",
+    "title": "Networking and the Internet, from First Principles · Faza"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://morphing.cloud/hypercard/",
+    "title": "Stacks — run classic HyperCard stacks on modern macOS"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://evanhahn.com/prefer-strict-tables-in-sqlite/",
+    "title": "Prefer STRICT tables in SQLite"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.mixfont.com/ghost-font",
+    "title": "Ghost Font: The Anti-AI Font Only Humans Can Read"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://avi.press/posts/2026-07-10-after-7-years-in-production-scarf-has-reluctantly-moved-away-from-haskell.html",
+    "title": "After 7 years in production, Scarf has reluctantly moved away from Haskell"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://grumpy.website/1723",
+    "title": "Grumpy Website"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://withmarble.com/curriculum/",
+    "title": "Everything a child learns"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://vfxblog.com/2017/08/23/the-tech-of-terminator-2-an-oral-history/",
+    "title": "The tech of ‘Terminator 2’ – an oral history – vfxblog"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://geohot.github.io//blog/jekyll/update/2026/07/12/i-love-llms.html",
+    "title": "I love LLMs, I hate hype"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://davidpoblador.com/deep-dives/what-happened-to-the-frontend/",
+    "title": "The Descent — What Happened to the Frontend While You Weren't Watching"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://blnreview.de/en/ausgaben/2026-08/als-ob-philosophieren-lily-hu",
+    "title": "Berlin Review · Un-Doing Philosophy"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://acoup.blog/2026/01/30/collections-the-late-bronze-age-collapse-a-very-brief-introduction/",
+    "title": "Collections: The Late Bronze Age Collapse, A Very Brief Introduction"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.gingerbill.org/article/2026/07/10/good-tools-are-invisible/",
+    "title": "Good Tools Are Invisible"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://alexalejandre.com/programming/interview-with-mitchell-hashimoto/",
+    "title": "Interview With Mitchell Hashimoto"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://ai-2040.com/",
+    "title": "AI 2040: Plan A"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://billiondollarpdf.com/",
+    "title": "Billion Dollar PDFs"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://morphing.cloud/lunacy/",
+    "title": "Lunacy — Lunatic Fringe for modern macOS"
   }
 ]
