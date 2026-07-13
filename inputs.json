@@ -6,13 +6,13 @@
   },
   {
     "source": "hn",
-    "url": "https://floooh.github.io/tiny8bit-preview/index.html",
-    "title": "Tiny Emulators"
+    "url": "https://shellzine.net/cyberpunk-comics/",
+    "title": "Cyberpunk Comics, Manga and Graphic Novels"
   },
   {
     "source": "hn",
-    "url": "https://shellzine.net/cyberpunk-comics/",
-    "title": "Cyberpunk Comics, Manga and Graphic Novels"
+    "url": "https://floooh.github.io/tiny8bit-preview/index.html",
+    "title": "Tiny Emulators"
   },
   {
     "source": "hn",
@@ -21,28 +21,13 @@
   },
   {
     "source": "hn",
-    "url": "https://systima.ai/blog/claude-code-vs-opencode-token-overhead",
-    "title": "Claude Code sends 33k tokens before reading the prompt; OpenCode sends 7k"
-  },
-  {
-    "source": "hn",
-    "url": "https://ics.uci.edu/~taylor/documents/2000-ADLs-TSE.pdf",
-    "title": "Architecture Description Languages [pdf]"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.theregister.com/on-prem/2026/07/11/irish-datacenters-now-guzzle-23-of-the-countrys-electricity/5270013",
-    "title": "Irish datacenters now guzzle 23% of the country's electricity"
-  },
-  {
-    "source": "hn",
     "url": "https://terrytao.wordpress.com/2026/07/11/old-and-new-apps-via-modern-coding-agents/",
     "title": "Old and new apps, via modern coding agents"
   },
   {
     "source": "hn",
-    "url": "https://softwaredoug.com/blog/2026/07/09/write-code",
-    "title": "Why write code in 2026"
+    "url": "https://systima.ai/blog/claude-code-vs-opencode-token-overhead",
+    "title": "Claude Code sends 33k tokens before reading the prompt; OpenCode sends 7k"
   },
   {
     "source": "hn",
@@ -51,8 +36,13 @@
   },
   {
     "source": "hn",
-    "url": "https://caolan.uk/notes/2026-07-02_a_speed_limit_for_computers.cm",
-    "title": "A Speed Limit for Computers"
+    "url": "https://ics.uci.edu/~taylor/documents/2000-ADLs-TSE.pdf",
+    "title": "Architecture Description Languages [pdf]"
+  },
+  {
+    "source": "hn",
+    "url": "https://softwaredoug.com/blog/2026/07/09/write-code",
+    "title": "Why write code in 2026"
   },
   {
     "source": "hn",
@@ -61,28 +51,13 @@
   },
   {
     "source": "hn",
-    "url": "https://geohot.github.io//blog/jekyll/update/2026/07/12/i-love-llms.html",
-    "title": "I love LLMs, I hate hype"
-  },
-  {
-    "source": "hn",
-    "url": "https://techstackups.com/articles/tldraw-agent-draw/",
-    "title": "Show HN: Agent Draw: An agent draws while you talk, built on TLDraw"
-  },
-  {
-    "source": "hn",
-    "url": "http://incompleteideas.net/IncIdeas/OneStepTrap.html",
-    "title": "The One-Step Trap (In AI Research)"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.adaptiverecall.com/",
-    "title": "Show HN: Adaptive Recall, persistent memory for AI assistants over MCP"
-  },
-  {
-    "source": "hn",
     "url": "https://en.wikipedia.org/wiki/Deir_el-Medina_strikes",
     "title": "Deir El-Medina Strikes"
+  },
+  {
+    "source": "hn",
+    "url": "https://geohot.github.io//blog/jekyll/update/2026/07/12/i-love-llms.html",
+    "title": "I love LLMs, I hate hype"
   },
   {
     "source": "hn",
@@ -91,8 +66,13 @@
   },
   {
     "source": "hn",
-    "url": "https://fabiensanglard.net/extinct/index.html",
-    "title": "Don't you mean extinct?"
+    "url": "https://maxghenis.com/mackenzie-scott-qaly/",
+    "title": "MacKenzie Scott's giving, in quality-adjusted life years"
+  },
+  {
+    "source": "hn",
+    "url": "http://incompleteideas.net/IncIdeas/OneStepTrap.html",
+    "title": "The One-Step Trap (In AI Research)"
   },
   {
     "source": "hn",
@@ -101,13 +81,18 @@
   },
   {
     "source": "hn",
-    "url": "https://www.canopii.dev/State%20of%20MCP%20Security%202026.pdf",
-    "title": "The State of MCP Security [pdf]"
+    "url": "https://redblobgames.github.io/circular-obstacle-pathfinding/",
+    "title": "Circular Obstacle Pathfinding (2017)"
   },
   {
     "source": "lobsters",
     "url": "https://evmar.github.io/jjtut/",
     "title": "Evan's Jujutsu Tutorial"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://dakra.github.io/ghostel/",
+    "title": "ghostel.el - Terminal emulator powered by libghostty"
   },
   {
     "source": "lobsters",
@@ -126,8 +111,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://dakra.github.io/ghostel/",
-    "title": "ghostel.el - Terminal emulator powered by libghostty"
+    "url": "https://xandergos.github.io/terrain-diffusion/",
+    "title": "InfiniteDiffusion: Bridging Learned Fidelity and Procedural Utility for Open-World Terrain Generation"
   },
   {
     "source": "lobsters",
@@ -136,8 +121,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://xandergos.github.io/terrain-diffusion/",
-    "title": "InfiniteDiffusion: Bridging Learned Fidelity and Procedural Utility for Open-World Terrain Generation"
+    "url": "https://thelastpsion.com/posts/make-it-right-next-steps-with-ctran/",
+    "title": "Make It Right - Next Steps With CTRAN"
   },
   {
     "source": "lobsters",
@@ -151,18 +136,18 @@
   },
   {
     "source": "lobsters",
-    "url": "https://antjs.org/",
-    "title": "Ant, a lightweight JavaScript runtime"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://thelastpsion.com/posts/make-it-right-next-steps-with-ctran/",
-    "title": "Make It Right - Next Steps With CTRAN"
+    "url": "https://timharek.no/blog/kaizen-4/",
+    "title": "Overhauled homelab"
   },
   {
     "source": "lobsters",
     "url": "https://projectdiscovery.io/blog/hacking-apple-with-sql-injection",
     "title": "Hacking Apple - SQL Injection to Remote Code Execution"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://antjs.org/",
+    "title": "Ant, a lightweight JavaScript runtime"
   },
   {
     "source": "lobsters",
