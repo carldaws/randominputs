@@ -1,8 +1,8 @@
 [
   {
     "source": "hn",
-    "url": "https://get-inscribe.com/blog/apple-speech-api-benchmark.html",
-    "title": "Apple's new SpeechAnalyzer API, benchmarked against Whisper and its predecessor"
+    "url": "https://werd.io/climate-gov-was-destroyed-open-data-saved-it/",
+    "title": "Climate.gov was destroyed. Open data saved it"
   },
   {
     "source": "hn",
@@ -11,8 +11,8 @@
   },
   {
     "source": "hn",
-    "url": "https://fabiensanglard.net/silpheed/index.html",
-    "title": "The art and engineering of Sega CD Silpheed"
+    "url": "https://get-inscribe.com/blog/apple-speech-api-benchmark.html",
+    "title": "Apple's new SpeechAnalyzer API, benchmarked against Whisper and its predecessor"
   },
   {
     "source": "hn",
@@ -21,13 +21,28 @@
   },
   {
     "source": "hn",
+    "url": "https://playcode.io/blog/real-price-of-frontier-models",
+    "title": "The real prices of frontier models. Tokens * Price, right?"
+  },
+  {
+    "source": "hn",
     "url": "https://cakehonolulu.github.io/linux-on-32x/",
     "title": "Linux on the Sega 32X. Who needs hardware synchronization primitives anyway?"
   },
   {
     "source": "hn",
-    "url": "https://playcode.io/blog/real-price-of-frontier-models",
-    "title": "The real prices of frontier models. Tokens * Price, right?"
+    "url": "https://fabiensanglard.net/silpheed/index.html",
+    "title": "The art and engineering of Sega CD Silpheed"
+  },
+  {
+    "source": "hn",
+    "url": "https://bytecode.news/posts/2026/07/user-submission-ai-is-a-bad-tool",
+    "title": "AI Is a Bad Tool"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.whois.com/whois/t.me",
+    "title": "Telegram's t.me domain has been suspended"
   },
   {
     "source": "hn",
@@ -36,13 +51,28 @@
   },
   {
     "source": "hn",
+    "url": "https://bruceediger.com/posts/tftp-honeypot-results/",
+    "title": "TFTP Honey Pot Results"
+  },
+  {
+    "source": "hn",
+    "url": "https://nobie.com",
+    "title": "Show HN: Nobie – an Excel-compatible runtime for agents and humans"
+  },
+  {
+    "source": "hn",
+    "url": "https://garden-of-flowers.heikkilotvonen.com/?essay",
+    "title": "The Origins of Heikki's Garden of Flowers"
+  },
+  {
+    "source": "hn",
     "url": "https://esologic.com/benchmarking-tesla-gpus/",
     "title": "Benchmarking 15 \"E-Waste\" GPUs with Modern Workloads"
   },
   {
     "source": "hn",
-    "url": "http://blog.vanillajava.blog/2026/06/why-you-should-tun-code-before-your.html",
-    "title": "Tune Code Before Your Garbage Collector"
+    "url": "https://planwright.tools",
+    "title": "Show HN: PlanWright – A control plane for AI coding agents"
   },
   {
     "source": "hn",
@@ -51,8 +81,8 @@
   },
   {
     "source": "hn",
-    "url": "https://mmapped.blog/posts/52-backtrack-free-cursive",
-    "title": "Backtrack-Free Cursive"
+    "url": "http://blog.vanillajava.blog/2026/06/why-you-should-tun-code-before-your.html",
+    "title": "Tune Code Before Your Garbage Collector"
   },
   {
     "source": "hn",
@@ -61,33 +91,8 @@
   },
   {
     "source": "hn",
-    "url": "https://fi-le.net/arxiv/",
-    "title": "Counting ArXiv Delays"
-  },
-  {
-    "source": "hn",
-    "url": "https://andiroberts.com/citizenship/the-social-physics-of-conversation-citizenship-leadership",
-    "title": "The social physics of conversation: Communication patterns matter"
-  },
-  {
-    "source": "hn",
-    "url": "https://danklinux.com/blog/v1-5-release",
-    "title": "DMS 1.5 \"The Wolverine\" Released"
-  },
-  {
-    "source": "hn",
-    "url": "https://entropicthoughts.com/full-body-mri-earns-you-a-base-jump",
-    "title": "A full body MRI earns you a year of smoking"
-  },
-  {
-    "source": "hn",
-    "url": "https://blog.cloudflare.com/introducing-precursor/",
-    "title": "Precursor"
-  },
-  {
-    "source": "hn",
-    "url": "https://antonz.org/concurrency-in-c/",
-    "title": "Go-Flavored Concurrency in C"
+    "url": "https://mmapped.blog/posts/52-backtrack-free-cursive",
+    "title": "Backtrack-Free Cursive"
   },
   {
     "source": "lobsters",
@@ -96,18 +101,23 @@
   },
   {
     "source": "lobsters",
-    "url": "https://purplesyringa.moe/blog/quadrupling-code-performance-with-a-useless-if/",
-    "title": "Quadrupling code performance with a \"useless\" if"
-  },
-  {
-    "source": "lobsters",
     "url": "https://human-emacs.org/",
     "title": "Human Emacs"
   },
   {
     "source": "lobsters",
+    "url": "https://purplesyringa.moe/blog/quadrupling-code-performance-with-a-useless-if/",
+    "title": "Quadrupling code performance with a \"useless\" if"
+  },
+  {
+    "source": "lobsters",
     "url": "https://blog.rust-lang.org/2026/07/13/crates-io-development-update/",
     "title": "crates.io: development update"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://utcc.utoronto.ca/~cks/space/blog/solaris/SunOSDisklessWithoutNFS",
+    "title": "How early SunOS did diskless workstations before NFS"
   },
   {
     "source": "lobsters",
@@ -121,8 +131,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://utcc.utoronto.ca/~cks/space/blog/solaris/SunOSDisklessWithoutNFS",
-    "title": "How early SunOS did diskless workstations before NFS"
+    "url": "https://antonz.org/concurrency-in-c/",
+    "title": "Go-flavored concurrency in C"
   },
   {
     "source": "lobsters",
@@ -155,16 +165,6 @@
     "title": "Introducing Bobbin: A diskless, API-only AppView for Tangled"
   },
   {
-    "source": "lobsters",
-    "url": "https://dakra.github.io/ghostel/",
-    "title": "ghostel.el - Terminal emulator powered by libghostty"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://owickstrom.github.io/the-proportional-web/",
-    "title": "The Proportional Web"
-  },
-  {
     "source": "pinboard",
     "url": "https://fazamhd.com/mental-models/networking/",
     "title": "Networking and the Internet, from First Principles · Faza"
@@ -173,6 +173,11 @@
     "source": "pinboard",
     "url": "https://morphing.cloud/hypercard/",
     "title": "Stacks — run classic HyperCard stacks on modern macOS"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://owickstrom.github.io/the-proportional-web/",
+    "title": "The Proportional Web"
   },
   {
     "source": "pinboard",
