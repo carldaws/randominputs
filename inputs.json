@@ -1,8 +1,28 @@
 [
   {
     "source": "hn",
-    "url": "https://raymyers.org/post/zed-creator-calls-spade-a-spade/",
-    "title": "Zig Creator Calls Spade a Spade, Anthropic Blows Smoke"
+    "url": "https://fabiensanglard.net/silpheed/index.html",
+    "title": "The art and engineering of Sega CD Silpheed"
+  },
+  {
+    "source": "hn",
+    "url": "https://get-inscribe.com/blog/apple-speech-api-benchmark.html",
+    "title": "Apple's new SpeechAnalyzer API, benchmarked against Whisper and its predecessor"
+  },
+  {
+    "source": "hn",
+    "url": "https://blog.cloudflare.com/introducing-precursor/",
+    "title": "Precursor"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.lyrebirddreaming.com/post/the-graph-that-should-be-front-page-news",
+    "title": "The Graph That Should Be Front-Page News"
+  },
+  {
+    "source": "hn",
+    "url": "https://fi-le.net/arxiv/",
+    "title": "Counting ArXiv Delays"
   },
   {
     "source": "hn",
@@ -16,8 +36,28 @@
   },
   {
     "source": "hn",
+    "url": "http://blog.vanillajava.blog/2026/06/why-you-should-tun-code-before-your.html",
+    "title": "Tune Code Before Your Garbage Collector"
+  },
+  {
+    "source": "hn",
     "url": "https://andiroberts.com/citizenship/the-social-physics-of-conversation-citizenship-leadership",
     "title": "The social physics of conversation: Communication patterns matter"
+  },
+  {
+    "source": "hn",
+    "url": "https://en.wikipedia.org/wiki/Wikipedia:Wikipedia_Signpost/2026-07-13/Special_report",
+    "title": "Wikipedia escapes Category 1 designation under the UK Online Safety Act for now"
+  },
+  {
+    "source": "hn",
+    "url": "https://antonz.org/concurrency-in-c/",
+    "title": "Go-Flavored Concurrency in C"
+  },
+  {
+    "source": "hn",
+    "url": "https://raymyers.org/post/zed-creator-calls-spade-a-spade/",
+    "title": "Zig Creator Calls Spade a Spade, Anthropic Blows Smoke"
   },
   {
     "source": "hn",
@@ -26,28 +66,13 @@
   },
   {
     "source": "hn",
+    "url": "https://danklinux.com/blog/v1-5-release",
+    "title": "DMS 1.5 \"The Wolverine\" Released"
+  },
+  {
+    "source": "hn",
     "url": "https://floooh.github.io/tiny8bit-preview/index.html",
     "title": "Tiny Emulators"
-  },
-  {
-    "source": "hn",
-    "url": "https://anderegg.ca/2026/07/12/an-infuriating-goodbye-to-photoshop",
-    "title": "An Infuriating Goodbye to Photoshop"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.susanrigetti.com/physics",
-    "title": "So you want to learn physics (second edition, 2021)"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.lyrebirddreaming.com/post/the-graph-that-should-be-front-page-news",
-    "title": "The Graph That Should Be Front-Page News"
-  },
-  {
-    "source": "hn",
-    "url": "https://scotto.me/blog/2026-07-12-how-to-read-more-books/",
-    "title": "How to read more books"
   },
   {
     "source": "hn",
@@ -56,23 +81,8 @@
   },
   {
     "source": "hn",
-    "url": "https://www.larp.website/",
-    "title": "LARP – Revenue infrastructure for serious founders"
-  },
-  {
-    "source": "hn",
-    "url": "https://shub.club/writings/2026/july/check-your-scrollheight/",
-    "title": "Are you telling me a readonly property is wrecking my performance?"
-  },
-  {
-    "source": "hn",
-    "url": "https://systima.ai/blog/claude-code-vs-opencode-token-overhead",
-    "title": "Claude Code sends 33k tokens before reading the prompt; OpenCode sends 7k"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.wired.com/story/sfpd-drone-video-leak-surveillance/",
-    "title": "Leak of San Francisco Police Drone Footage Exposes Reality of Urban Surveillance"
+    "url": "https://www.susanrigetti.com/physics",
+    "title": "So you want to learn physics (second edition, 2021)"
   },
   {
     "source": "lobsters",
@@ -81,8 +91,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://evmar.github.io/jjtut/",
-    "title": "Evan's Jujutsu Tutorial"
+    "url": "https://gendignoux.com/blog/2026/07/13/input-digits.html",
+    "title": "Just Let Me Write Digits"
   },
   {
     "source": "lobsters",
@@ -91,8 +101,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://hacker-fables.onrender.com",
-    "title": "Hacker Fables - A satirical cyberpunk novella you can read as a man page"
+    "url": "https://human-emacs.org/",
+    "title": "Human Emacs"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://evmar.github.io/jjtut/",
+    "title": "Evan's Jujutsu Tutorial"
   },
   {
     "source": "lobsters",
@@ -101,8 +116,18 @@
   },
   {
     "source": "lobsters",
+    "url": "https://hacker-fables.onrender.com",
+    "title": "Hacker Fables - A satirical cyberpunk novella you can read as a man page"
+  },
+  {
+    "source": "lobsters",
     "url": "https://avlasov.cabal.run/notes/001/index.html",
     "title": "WebExtension to query any HTML table with PRQL"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://utcc.utoronto.ca/~cks/space/blog/solaris/SunOSDisklessWithoutNFS",
+    "title": "How early SunOS did diskless workstations before NFS"
   },
   {
     "source": "lobsters",
@@ -116,6 +141,11 @@
   },
   {
     "source": "lobsters",
+    "url": "https://arshad.fyi/writings/engineering-high-performance-parsers",
+    "title": "Engineering High-Performance Parsers with Data-Oriented Design"
+  },
+  {
+    "source": "lobsters",
     "url": "https://dakra.github.io/ghostel/",
     "title": "ghostel.el - Terminal emulator powered by libghostty"
   },
@@ -123,6 +153,11 @@
     "source": "lobsters",
     "url": "https://owickstrom.github.io/the-proportional-web/",
     "title": "The Proportional Web"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://blog.tangled.org/bobbin/",
+    "title": "Introducing Bobbin: A diskless, API-only AppView for Tangled"
   },
   {
     "source": "lobsters",
@@ -136,33 +171,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://arshad.fyi/writings/engineering-high-performance-parsers",
-    "title": "Engineering High-Performance Parsers with Data-Oriented Design"
-  },
-  {
-    "source": "lobsters",
     "url": "https://xandergos.github.io/terrain-diffusion/",
     "title": "InfiniteDiffusion: Bridging Learned Fidelity and Procedural Utility for Open-World Terrain Generation"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://blog.tangled.org/bobbin/",
-    "title": "Introducing Bobbin: A diskless, API-only AppView for Tangled"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://www.seangoedecke.com/in-defense-of-not-understanding-your-codebase/",
-    "title": "In defense of not understanding your codebase"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://thelastpsion.com/posts/make-it-right-next-steps-with-ctran/",
-    "title": "Make It Right - Next Steps With CTRAN"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://www.doc.ic.ac.uk/~susan/475/cruft.html",
-    "title": "The Stob Cruft Index: a rolling computer gathers \"cruft\""
   },
   {
     "source": "pinboard",
@@ -223,6 +233,11 @@
     "source": "pinboard",
     "url": "https://acoup.blog/2026/01/30/collections-the-late-bronze-age-collapse-a-very-brief-introduction/",
     "title": "Collections: The Late Bronze Age Collapse, A Very Brief Introduction"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://scotto.me/blog/2026-07-12-how-to-read-more-books/",
+    "title": "How to read more books"
   },
   {
     "source": "pinboard",
