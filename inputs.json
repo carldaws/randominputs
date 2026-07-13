@@ -1,8 +1,18 @@
 [
   {
     "source": "hn",
+    "url": "https://mmapped.blog/posts/52-backtrack-free-cursive",
+    "title": "Backtrack-Free Cursive"
+  },
+  {
+    "source": "hn",
     "url": "https://nebusec.ai/research/ionstack-part-2/",
     "title": "GhostLock, a stack-UAF that has existed in all Linux distributions for 15 years"
+  },
+  {
+    "source": "hn",
+    "url": "https://andiroberts.com/citizenship/the-social-physics-of-conversation-citizenship-leadership",
+    "title": "The social physics of conversation: Communication patterns matter"
   },
   {
     "source": "hn",
@@ -26,6 +36,16 @@
   },
   {
     "source": "hn",
+    "url": "https://scotto.me/blog/2026-07-12-how-to-read-more-books/",
+    "title": "How to read more books"
+  },
+  {
+    "source": "hn",
+    "url": "https://purplesyringa.moe/blog/quadrupling-code-performance-with-a-useless-if/",
+    "title": "Quadrupling code performance with a \"useless\" if"
+  },
+  {
+    "source": "hn",
     "url": "https://www.larp.website/",
     "title": "LARP – Revenue infrastructure for serious founders"
   },
@@ -41,33 +61,13 @@
   },
   {
     "source": "hn",
+    "url": "https://inmargin.io/blog/tracking-unique-visitors-without-cookies",
+    "title": "Tracking unique visitors without cookies"
+  },
+  {
+    "source": "hn",
     "url": "https://countbinface.com",
     "title": "Count Binface"
-  },
-  {
-    "source": "hn",
-    "url": "https://laxmena.com/same-capacity-less-throughput",
-    "title": "Profiling the \"Abundance\" housing bottleneck with real data"
-  },
-  {
-    "source": "hn",
-    "url": "https://nanduruganesh.github.io/flash-msa/",
-    "title": "Flash-MSA: Accelerating Million-Token Training with Sparse Attention Kernels"
-  },
-  {
-    "source": "hn",
-    "url": "https://geohot.github.io//blog/jekyll/update/2026/07/12/i-love-llms.html",
-    "title": "I love LLMs, I hate hype"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.calculix.de/",
-    "title": "Calculix: A Free Software Three-Dimensional Structural Finite Element Program"
-  },
-  {
-    "source": "hn",
-    "url": "https://malisper.me/the-four-horsemen-behind-thousands-of-postgres-outages/",
-    "title": "The four horsemen behind Postgres outages"
   },
   {
     "source": "lobsters",
@@ -76,8 +76,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://purplesyringa.moe/blog/quadrupling-code-performance-with-a-useless-if/",
-    "title": "Quadrupling code performance with a \"useless\" if"
+    "url": "https://pfandrade.me/blog/swiftui-mac-assed-wwdc27-update/",
+    "title": "A WWDC 27 Update on Building a Mac-assed App with SwiftUI"
   },
   {
     "source": "lobsters",
@@ -96,13 +96,38 @@
   },
   {
     "source": "lobsters",
+    "url": "https://hacker-fables.onrender.com",
+    "title": "Hacker Fables - A satirical cyberpunk novella you can read as a man page"
+  },
+  {
+    "source": "lobsters",
     "url": "https://rmpr.xyz/Where-did-my-segfault-go/",
     "title": "Where did my segfault go?"
   },
   {
     "source": "lobsters",
+    "url": "https://timharek.no/blog/kaizen-4/",
+    "title": "Overhauled homelab"
+  },
+  {
+    "source": "lobsters",
     "url": "https://xandergos.github.io/terrain-diffusion/",
     "title": "InfiniteDiffusion: Bridging Learned Fidelity and Procedural Utility for Open-World Terrain Generation"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://scrapfly.dev/posts/browser-math-os-fingerprint/",
+    "title": "Browsers Do Math Differently on Every OS; Anti-Bot Systems Read the Bits"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://blog.tangled.org/bobbin/",
+    "title": "Introducing Bobbin: A diskless, API-only AppView for Tangled"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://avlasov.cabal.run/notes/001/index.html",
+    "title": "WebExtension to query any HTML table with PRQL"
   },
   {
     "source": "lobsters",
@@ -116,16 +141,6 @@
   },
   {
     "source": "lobsters",
-    "url": "https://timharek.no/blog/kaizen-4/",
-    "title": "Overhauled homelab"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://scrapfly.dev/posts/browser-math-os-fingerprint/",
-    "title": "Browsers Do Math Differently on Every OS; Anti-Bot Systems Read the Bits"
-  },
-  {
-    "source": "lobsters",
     "url": "https://www.gingerbill.org/article/2026/07/10/good-tools-are-invisible/",
     "title": "Good Tools Are Invisible"
   },
@@ -135,79 +150,24 @@
     "title": "Data-directed programming in Haskell (SICP2.4.3)"
   },
   {
-    "source": "lobsters",
-    "url": "https://projectdiscovery.io/blog/hacking-apple-with-sql-injection",
-    "title": "Hacking Apple - SQL Injection to Remote Code Execution"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://mrbruh.com/motorola/",
-    "title": "Unauthenticated RCE in Motorola's MR2600 Router"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://thebeach.dev/posts/lisp-agent/",
-    "title": "An Agent in 100 Lines of Lisp"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://bun.com/blog/bun-in-rust",
-    "title": "Rewriting Bun in Rust | Bun Blog"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://andrewkelley.me/post/my-thoughts-bun-rust-rewrite.html",
-    "title": "My Thoughts on the Bun Rust Rewrite - Andrew Kelley"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://withmarble.com/curriculum/",
-    "title": "Everything a child learns"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://blog.dannycastonguay.com/how-to-write-an-email/",
-    "title": "How To Write an Email - Home"
-  },
-  {
     "source": "pinboard",
     "url": "https://fazamhd.com/mental-models/networking/",
     "title": "Networking and the Internet, from First Principles · Faza"
   },
   {
     "source": "pinboard",
-    "url": "https://www.wired.com/story/this-buried-apple-feature-turns-an-iphone-into-the-perfect-kids-dumb-phone/",
-    "title": "This Buried Apple Feature Turns an iPhone Into the Perfect Kids’ Dumb Phone | WIRED"
+    "url": "https://morphing.cloud/hypercard/",
+    "title": "Stacks — run classic HyperCard stacks on modern macOS"
   },
   {
     "source": "pinboard",
-    "url": "https://alexalejandre.com/programming/interview-with-mitchell-hashimoto/",
-    "title": "Interview With Mitchell Hashimoto"
+    "url": "https://evanhahn.com/prefer-strict-tables-in-sqlite/",
+    "title": "Prefer STRICT tables in SQLite"
   },
   {
     "source": "pinboard",
-    "url": "https://aeon.co/essays/the-radical-reasons-why-you-dream-of-making-things-by-hand",
-    "title": "The radical reasons why you dream of making things by hand | Aeon Essays"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://acoup.blog/2026/01/30/collections-the-late-bronze-age-collapse-a-very-brief-introduction/",
-    "title": "Collections: The Late Bronze Age Collapse, A Very Brief Introduction"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://news.ycombinator.com/item?id=48842459",
-    "title": "Show HN: Getting GLM 5.2 running on my slow computer | Hacker News"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.adweek.com/media/publishers-opt-out-google-search/",
-    "title": "Publishers Are Preparing to Opt Out of Google Search"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://karlbode.com/the-ai-hype-reckoning-is-upon-us/",
-    "title": "The AI Hype Reckoning Is Upon Us - The massive chasm between AI hype and reality is finally reaching the breaking point."
+    "url": "https://www.mixfont.com/ghost-font",
+    "title": "Ghost Font: The Anti-AI Font Only Humans Can Read"
   },
   {
     "source": "pinboard",
@@ -216,12 +176,57 @@
   },
   {
     "source": "pinboard",
-    "url": "https://www.votebeat.org/national/2026/07/09/trump-fires-election-assistance-commission-members-hicks-hovland-mccormick/",
-    "title": "Trump fires all commissioners of federal election agency"
+    "url": "https://grumpy.website/1723",
+    "title": "Grumpy Website"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://withmarble.com/curriculum/",
+    "title": "Everything a child learns"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://vfxblog.com/2017/08/23/the-tech-of-terminator-2-an-oral-history/",
+    "title": "The tech of ‘Terminator 2’ – an oral history – vfxblog"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://geohot.github.io//blog/jekyll/update/2026/07/12/i-love-llms.html",
+    "title": "I love LLMs, I hate hype"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://davidpoblador.com/deep-dives/what-happened-to-the-frontend/",
+    "title": "The Descent — What Happened to the Frontend While You Weren't Watching"
   },
   {
     "source": "pinboard",
     "url": "https://blnreview.de/en/ausgaben/2026-08/als-ob-philosophieren-lily-hu",
     "title": "Berlin Review · Un-Doing Philosophy"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://acoup.blog/2026/01/30/collections-the-late-bronze-age-collapse-a-very-brief-introduction/",
+    "title": "Collections: The Late Bronze Age Collapse, A Very Brief Introduction"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://alexalejandre.com/programming/interview-with-mitchell-hashimoto/",
+    "title": "Interview With Mitchell Hashimoto"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://ai-2040.com/",
+    "title": "AI 2040: Plan A"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://billiondollarpdf.com/",
+    "title": "Billion Dollar PDFs"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://morphing.cloud/lunacy/",
+    "title": "Lunacy — Lunatic Fringe for modern macOS"
   }
 ]
