@@ -1,48 +1,13 @@
 [
   {
     "source": "hn",
+    "url": "https://prismml.com/news/bonsai-27b",
+    "title": "Bonsai 27B: A 27B-Class model that runs on a phone"
+  },
+  {
+    "source": "hn",
     "url": "https://lucumr.pocoo.org/2026/7/13/the-tower-keeps-rising/",
     "title": "The Tower Keeps Rising"
-  },
-  {
-    "source": "hn",
-    "url": "https://prismml.com/news/bonsai-27b",
-    "title": "Bonsai 27B: A 27B-Class Model that runs on a phone"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.verbaprima.com/",
-    "title": "Show HN: Opening lines of famous literary works"
-  },
-  {
-    "source": "hn",
-    "url": "https://grist.org/science/nitrogen-cycle-cell-discovery-nitroplast-science-fertilizer-algae-bacteria/",
-    "title": "A tiny cell that broke a big rule of biology"
-  },
-  {
-    "source": "hn",
-    "url": "https://agnost.ai",
-    "title": "Launch HN: Agnost AI (YC S26) – Extract user feedback from agent conversations"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.fsf.org/blogs/community/blocking-botnets-with-reaction",
-    "title": "How the FSF sysadmins block botnets with reaction"
-  },
-  {
-    "source": "hn",
-    "url": "https://lamport.azurewebsites.net/pubs/paxos-simple.pdf",
-    "title": "Paxos Made Simple (2001) [pdf]"
-  },
-  {
-    "source": "hn",
-    "url": "https://ryanjk5.github.io/posts/rjk-duck/",
-    "title": "Show HN: Beautiful Type Erasure with C++26 Reflection"
-  },
-  {
-    "source": "hn",
-    "url": "https://lenergy.com.au/free-daytime-electricity-is-coming-heres-how-it-actually-works/",
-    "title": "Australian energy retailers must offer three hours of free daytime electricity"
   },
   {
     "source": "hn",
@@ -51,8 +16,38 @@
   },
   {
     "source": "hn",
-    "url": "https://www.centauri-dreams.org/2026/07/10/a-metallurgists-doubts-about-self-replicating-probes/",
-    "title": "A metallurgist's doubts about self-replicating probes"
+    "url": "https://agnost.ai",
+    "title": "Launch HN: Agnost AI (YC S26) – Extract user feedback from agent conversations"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.verbaprima.com/",
+    "title": "Show HN: Opening lines of famous literary works"
+  },
+  {
+    "source": "hn",
+    "url": "https://justindfuller.com/programming/accretive-editing",
+    "title": "Accretive Editing"
+  },
+  {
+    "source": "hn",
+    "url": "https://ryanjk5.github.io/posts/rjk-duck/",
+    "title": "Show HN: Beautiful Type Erasure with C++26 Reflection"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.fsf.org/blogs/community/blocking-botnets-with-reaction",
+    "title": "How the FSF sysadmins block botnets with reaction"
+  },
+  {
+    "source": "hn",
+    "url": "https://sprinklz.io/feed/home",
+    "title": "Show HN: A Free RSS reader with a configurable recommendation engine"
+  },
+  {
+    "source": "hn",
+    "url": "https://lenergy.com.au/free-daytime-electricity-is-coming-heres-how-it-actually-works/",
+    "title": "Australian energy retailers must offer three hours of free daytime electricity"
   },
   {
     "source": "lobsters",
@@ -81,18 +76,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://human-emacs.org/",
-    "title": "Human Emacs"
-  },
-  {
-    "source": "lobsters",
     "url": "https://dead.garden/blog/how-my-images-are-dithered.html",
     "title": "How my images are dithered"
   },
   {
     "source": "lobsters",
-    "url": "https://blog.jse.li/posts/smith9street/",
-    "title": "Estimating the heights of New Yorkers from their scuff marks"
+    "url": "https://human-emacs.org/",
+    "title": "Human Emacs"
   },
   {
     "source": "lobsters",
@@ -101,13 +91,23 @@
   },
   {
     "source": "lobsters",
-    "url": "https://purplesyringa.moe/blog/quadrupling-code-performance-with-a-useless-if/",
-    "title": "Quadrupling code performance with a \"useless\" if"
+    "url": "https://blog.jse.li/posts/smith9street/",
+    "title": "Estimating the heights of New Yorkers from their scuff marks"
   },
   {
     "source": "lobsters",
     "url": "https://temperlang.dev/",
     "title": "Temper Language"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://purplesyringa.moe/blog/quadrupling-code-performance-with-a-useless-if/",
+    "title": "Quadrupling code performance with a \"useless\" if"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://klarasystems.com/articles/native-inotify-in-freebsd/",
+    "title": "Native inotify in FreeBSD"
   },
   {
     "source": "lobsters",
@@ -128,11 +128,6 @@
     "source": "lobsters",
     "url": "https://blog.vrypan.net/2026/07/14/verifiable-ai-inference/",
     "title": "Verifiable AI inference"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://utcc.utoronto.ca/~cks/space/blog/solaris/SunOSDisklessWithoutNFS",
-    "title": "How early SunOS did diskless workstations before NFS"
   },
   {
     "source": "pinboard",
