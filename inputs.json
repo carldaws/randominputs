@@ -1,8 +1,23 @@
 [
   {
     "source": "hn",
-    "url": "https://lalitm.com/post/git-history/",
-    "title": "The git history command"
+    "url": "https://thinkingmachines.ai/blog/the-future-worth-building-is-human/",
+    "title": "The Future Worth Building Is Human – Thinking Machines Lab"
+  },
+  {
+    "source": "hn",
+    "url": "https://blog.incogni.com/digital-fatigue-and-burnout/",
+    "title": "The great digital fatigue: How digital burnout is changing social media use"
+  },
+  {
+    "source": "hn",
+    "url": "https://ryanjk5.github.io/posts/rjk-duck/",
+    "title": "Beautiful Type Erasure with C++26 Reflection"
+  },
+  {
+    "source": "hn",
+    "url": "https://bartoszmilewski.com/2026/06/30/actegories/",
+    "title": "Actegories"
   },
   {
     "source": "hn",
@@ -11,23 +26,18 @@
   },
   {
     "source": "hn",
+    "url": "https://lalitm.com/post/git-history/",
+    "title": "The git history command"
+  },
+  {
+    "source": "hn",
     "url": "https://knots.neocities.org/knotindex",
     "title": "Notable Knot Index (2016)"
   },
   {
     "source": "hn",
-    "url": "https://scottwillsey.com/building-and-shipping-mac-and-ios-apps-without-ever-opening-xcode/",
-    "title": "Building and shipping Mac and iOS apps without opening Xcode"
-  },
-  {
-    "source": "hn",
-    "url": "https://web.stanford.edu/~dntse/wireless_book.html",
-    "title": "Fundamentals of Wireless Communication (2005)"
-  },
-  {
-    "source": "hn",
-    "url": "https://blinry.org/lcd-clock/",
-    "title": "How to build a circular LCD clock"
+    "url": "https://dmars.drpz.xyz/",
+    "title": "Dmars – A modern Core Wars toolchain"
   },
   {
     "source": "hn",
@@ -36,8 +46,18 @@
   },
   {
     "source": "hn",
-    "url": "https://internals-for-interns.com/posts/go-runtime-profiling/",
-    "title": "Understanding the Go Runtime: Profiling"
+    "url": "https://scottwillsey.com/building-and-shipping-mac-and-ios-apps-without-ever-opening-xcode/",
+    "title": "Building and shipping Mac and iOS apps without opening Xcode"
+  },
+  {
+    "source": "hn",
+    "url": "https://blinry.org/lcd-clock/",
+    "title": "How to build a circular LCD clock"
+  },
+  {
+    "source": "hn",
+    "url": "https://web.stanford.edu/~dntse/wireless_book.html",
+    "title": "Fundamentals of Wireless Communication (2005)"
   },
   {
     "source": "hn",
@@ -46,38 +66,8 @@
   },
   {
     "source": "hn",
-    "url": "https://max-amb.github.io/blog/zero_knowledge_tolstoyan_art/",
-    "title": "Zero Knowledge Tolstoyan Art"
-  },
-  {
-    "source": "hn",
     "url": "https://paradigms-of-intelligence.github.io/morpho/",
     "title": "MorphoHDL: A minimalistic language for growing circuits"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.sfgate.com/politics/article/meta-social-media-teenagers-22337724.php",
-    "title": "The infinite scroll may become endangered if controversial Calif. law passes"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.kevin-gibson.com/blog/writing-a-bindless-gpu-abstraction-layer/",
-    "title": "Writing a bindless GPU abstraction layer"
-  },
-  {
-    "source": "hn",
-    "url": "https://sebsite.pw/w/20260709-nan.html",
-    "title": "Two Case Studies of NaN"
-  },
-  {
-    "source": "hn",
-    "url": "https://cakehonolulu.github.io/linux-on-32x/",
-    "title": "Linux on the Sega 32X. Who needs hardware synchronization primitives anyway?"
-  },
-  {
-    "source": "hn",
-    "url": "https://blog.cloudflare.com/introducing-precursor/",
-    "title": "Precursor"
   },
   {
     "source": "lobsters",
@@ -96,8 +86,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://purplesyringa.moe/blog/quadrupling-code-performance-with-a-useless-if/",
-    "title": "Quadrupling code performance with a \"useless\" if"
+    "url": "https://fabiensanglard.net/jurrasic_park_computers/index.html",
+    "title": "Jurassic Park computers in excruciating detail"
   },
   {
     "source": "lobsters",
@@ -106,8 +96,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://fabiensanglard.net/jurrasic_park_computers/index.html",
-    "title": "Jurassic Park computers in excruciating detail"
+    "url": "https://pythonspeed.com/articles/branchless-binary-search/",
+    "title": "6× faster binary search: from compiled code to mechanical sympathy"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://purplesyringa.moe/blog/quadrupling-code-performance-with-a-useless-if/",
+    "title": "Quadrupling code performance with a \"useless\" if"
   },
   {
     "source": "lobsters",
@@ -116,13 +111,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://utcc.utoronto.ca/~cks/space/blog/solaris/SunOSDisklessWithoutNFS",
-    "title": "How early SunOS did diskless workstations before NFS"
+    "url": "https://clocks.dev",
+    "title": "Collection of clock designs"
   },
   {
     "source": "lobsters",
-    "url": "https://clocks.dev",
-    "title": "Collection of clock designs"
+    "url": "https://utcc.utoronto.ca/~cks/space/blog/solaris/SunOSDisklessWithoutNFS",
+    "title": "How early SunOS did diskless workstations before NFS"
   },
   {
     "source": "lobsters",
@@ -131,8 +126,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://antonz.org/concurrency-in-c/",
-    "title": "Go-flavored concurrency in C"
+    "url": "https://www.eamoncaddigan.net/posts/ai-in-2026/",
+    "title": "Hating AI in 2026"
   },
   {
     "source": "lobsters",
@@ -141,18 +136,18 @@
   },
   {
     "source": "lobsters",
+    "url": "https://antonz.org/concurrency-in-c/",
+    "title": "Go-flavored concurrency in C"
+  },
+  {
+    "source": "lobsters",
     "url": "https://evmar.github.io/jjtut/",
     "title": "Evan's Jujutsu Tutorial"
   },
   {
     "source": "lobsters",
-    "url": "https://pfandrade.me/blog/swiftui-mac-assed-wwdc27-update/",
-    "title": "A WWDC 26 Update on Building a Mac-assed App with SwiftUI"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://hacker-fables.onrender.com",
-    "title": "Hacker Fables - A satirical cyberpunk novella you can read as a man page"
+    "url": "https://zserge.com/posts/tensor/",
+    "title": "Tensor is the might"
   },
   {
     "source": "pinboard",
