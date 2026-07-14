@@ -1,18 +1,18 @@
 [
   {
     "source": "hn",
-    "url": "https://web.stanford.edu/~dntse/wireless_book.html",
-    "title": "Fundamentals of Wireless Communication"
-  },
-  {
-    "source": "hn",
     "url": "https://lalitm.com/post/git-history/",
     "title": "The Git history command deserves more attention"
   },
   {
     "source": "hn",
-    "url": "https://elasticity.institute/rsi-paper.pdf",
-    "title": "The Economics of Recursive Self-Improvement [pdf]"
+    "url": "https://web.stanford.edu/~dntse/wireless_book.html",
+    "title": "Fundamentals of Wireless Communication (2005)"
+  },
+  {
+    "source": "hn",
+    "url": "https://blinry.org/lcd-clock/",
+    "title": "How to build a circular LCD clock"
   },
   {
     "source": "hn",
@@ -26,8 +26,8 @@
   },
   {
     "source": "hn",
-    "url": "https://blinry.org/lcd-clock/",
-    "title": "How to build a circular LCD clock"
+    "url": "https://elasticity.institute/rsi-paper.pdf",
+    "title": "The Economics of Recursive Self-Improvement [pdf]"
   },
   {
     "source": "hn",
@@ -41,18 +41,13 @@
   },
   {
     "source": "hn",
-    "url": "https://fabiensanglard.net/silpheed/index.html",
-    "title": "The art and engineering of Sega CD Silpheed"
+    "url": "https://www.kevin-gibson.com/blog/writing-a-bindless-gpu-abstraction-layer/",
+    "title": "Writing a bindless GPU abstraction layer"
   },
   {
     "source": "hn",
-    "url": "https://sleuth-io.github.io/sx/2026/07/10/your-dropbox-is-now-a-skill-server.html",
-    "title": "Show HN: Sx 2.0 – Share AI skills with your team through a Dropbox folder"
-  },
-  {
-    "source": "hn",
-    "url": "https://hackney.app/",
-    "title": "Show HN: Hackney – Compare Uber, Lyft, Waymo, and Robotaxi Prices"
+    "url": "https://sebsite.pw/w/20260709-nan.html",
+    "title": "Two Case Studies of NaN"
   },
   {
     "source": "hn",
@@ -61,8 +56,28 @@
   },
   {
     "source": "hn",
-    "url": "https://randofont.alesh.com",
-    "title": "Show HN: RandoFont – A browser for Google Fonts"
+    "url": "https://hackney.app/",
+    "title": "Show HN: Hackney – Compare Uber, Lyft, Waymo, and Robotaxi Prices"
+  },
+  {
+    "source": "hn",
+    "url": "https://sleuth-io.github.io/sx/2026/07/10/your-dropbox-is-now-a-skill-server.html",
+    "title": "Show HN: Sx 2.0 – Share AI skills with your team through a Dropbox folder"
+  },
+  {
+    "source": "hn",
+    "url": "https://ludus-coriovalli.web.app/",
+    "title": "Ancient Roman Board Game"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.adweek.com/media/openais-ad-business-is-on-pace-to-miss-its-own-forecast-by-90-analyst-says/",
+    "title": "OpenAI's Ad Business Is on Pace to Miss Its Own Forecast by 90%, Analyst Says"
+  },
+  {
+    "source": "hn",
+    "url": "https://bruceediger.com/posts/tftp-honeypot-results/",
+    "title": "TFTP Honey Pot Results"
   },
   {
     "source": "lobsters",
@@ -81,13 +96,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://blog.rust-lang.org/2026/07/13/crates-io-development-update/",
-    "title": "crates.io: development update"
+    "url": "https://blog.jse.li/posts/smith9street/",
+    "title": "Estimating the heights of New Yorkers from their scuff marks"
   },
   {
     "source": "lobsters",
-    "url": "https://blog.jse.li/posts/smith9street/",
-    "title": "Estimating the heights of New Yorkers from their scuff marks"
+    "url": "https://blog.rust-lang.org/2026/07/13/crates-io-development-update/",
+    "title": "crates.io: development update"
   },
   {
     "source": "lobsters",
@@ -111,6 +126,11 @@
   },
   {
     "source": "lobsters",
+    "url": "https://clocks.dev",
+    "title": "Collection of clock designs"
+  },
+  {
+    "source": "lobsters",
     "url": "https://pfandrade.me/blog/swiftui-mac-assed-wwdc27-update/",
     "title": "A WWDC 26 Update on Building a Mac-assed App with SwiftUI"
   },
@@ -126,112 +146,7 @@
   },
   {
     "source": "lobsters",
-    "url": "https://www.inngest.com/blog/adding-a-second-middleware-broke-our-typescript-types",
-    "title": "Adding a second middleware broke our typescript types"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://avlasov.cabal.run/notes/001/index.html",
-    "title": "WebExtension to query any HTML table with PRQL"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://timharek.no/blog/kaizen-4/",
-    "title": "Overhauled homelab"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://fazamhd.com/mental-models/networking/",
-    "title": "Networking and the Internet, from First Principles · Faza"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://morphing.cloud/hypercard/",
-    "title": "Stacks — run classic HyperCard stacks on modern macOS"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://owickstrom.github.io/the-proportional-web/",
-    "title": "The Proportional Web"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://evanhahn.com/prefer-strict-tables-in-sqlite/",
-    "title": "Prefer STRICT tables in SQLite"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.mixfont.com/ghost-font",
-    "title": "Ghost Font: The Anti-AI Font Only Humans Can Read"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://avi.press/posts/2026-07-10-after-7-years-in-production-scarf-has-reluctantly-moved-away-from-haskell.html",
-    "title": "After 7 years in production, Scarf has reluctantly moved away from Haskell"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://grumpy.website/1723",
-    "title": "Grumpy Website"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://withmarble.com/curriculum/",
-    "title": "Everything a child learns"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://vfxblog.com/2017/08/23/the-tech-of-terminator-2-an-oral-history/",
-    "title": "The tech of ‘Terminator 2’ – an oral history – vfxblog"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://geohot.github.io//blog/jekyll/update/2026/07/12/i-love-llms.html",
-    "title": "I love LLMs, I hate hype"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://davidpoblador.com/deep-dives/what-happened-to-the-frontend/",
-    "title": "The Descent — What Happened to the Frontend While You Weren't Watching"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://blnreview.de/en/ausgaben/2026-08/als-ob-philosophieren-lily-hu",
-    "title": "Berlin Review · Un-Doing Philosophy"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://acoup.blog/2026/01/30/collections-the-late-bronze-age-collapse-a-very-brief-introduction/",
-    "title": "Collections: The Late Bronze Age Collapse, A Very Brief Introduction"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://scotto.me/blog/2026-07-12-how-to-read-more-books/",
-    "title": "How to read more books"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.gingerbill.org/article/2026/07/10/good-tools-are-invisible/",
-    "title": "Good Tools Are Invisible"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://alexalejandre.com/programming/interview-with-mitchell-hashimoto/",
-    "title": "Interview With Mitchell Hashimoto"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://ai-2040.com/",
-    "title": "AI 2040: Plan A"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://billiondollarpdf.com/",
-    "title": "Billion Dollar PDFs"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://morphing.cloud/lunacy/",
-    "title": "Lunacy — Lunatic Fringe for modern macOS"
+    "url": "https://css-dos.ahmedamer.co.uk/",
+    "title": "CSS-DOS — A computer made of CSS"
   }
 ]
