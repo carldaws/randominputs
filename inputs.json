@@ -1,8 +1,18 @@
 [
   {
     "source": "hn",
-    "url": "https://www.verbaprima.com/",
-    "title": "Show HN: Opening lines of famous literary works"
+    "url": "https://lucumr.pocoo.org/2026/7/13/the-tower-keeps-rising/",
+    "title": "The Tower Keeps Rising"
+  },
+  {
+    "source": "hn",
+    "url": "https://prismml.com/news/bonsai-27b",
+    "title": "Bonsai 27B (1-bit LLM): The First 27B-Class Model to Run on a Phone"
+  },
+  {
+    "source": "hn",
+    "url": "https://grist.org/science/nitrogen-cycle-cell-discovery-nitroplast-science-fertilizer-algae-bacteria/",
+    "title": "A tiny cell that broke a big rule of biology"
   },
   {
     "source": "hn",
@@ -11,13 +21,13 @@
   },
   {
     "source": "hn",
-    "url": "https://ryanjk5.github.io/posts/rjk-duck/",
-    "title": "Beautiful Type Erasure with C++26 Reflection"
+    "url": "https://www.verbaprima.com/",
+    "title": "Show HN: Opening lines of famous literary works"
   },
   {
     "source": "hn",
-    "url": "https://grist.org/science/nitrogen-cycle-cell-discovery-nitroplast-science-fertilizer-algae-bacteria/",
-    "title": "A tiny cell that broke a big rule of biology"
+    "url": "https://ryanjk5.github.io/posts/rjk-duck/",
+    "title": "Beautiful Type Erasure with C++26 Reflection"
   },
   {
     "source": "hn",
@@ -36,28 +46,13 @@
   },
   {
     "source": "hn",
-    "url": "https://docs.pasteurlabs.ai/projects/tesseract-core/latest/blog/2026-07-09-enzyme-lfortran-autodiff.html",
-    "title": "Differentiable Fortran with LFortran and Enzyme"
-  },
-  {
-    "source": "hn",
     "url": "https://www.centauri-dreams.org/2026/07/10/a-metallurgists-doubts-about-self-replicating-probes/",
     "title": "A metallurgist's doubts about self-replicating probes"
   },
   {
     "source": "hn",
-    "url": "https://zserge.com/posts/tensor/",
-    "title": "Tensor Is the Might"
-  },
-  {
-    "source": "hn",
-    "url": "https://sorting-machine.pages.dev/",
-    "title": "What did SFFA vs. Harvard reveal about admissions?"
-  },
-  {
-    "source": "hn",
-    "url": "https://lalitm.com/post/git-history/",
-    "title": "The git history command"
+    "url": "https://docs.pasteurlabs.ai/projects/tesseract-core/latest/blog/2026-07-09-enzyme-lfortran-autodiff.html",
+    "title": "Differentiable Fortran with LFortran and Enzyme"
   },
   {
     "source": "lobsters",
@@ -71,18 +66,28 @@
   },
   {
     "source": "lobsters",
-    "url": "https://typesanitizer.com/blog/job-queues.html",
-    "title": "Job queues are deceptively tricky"
-  },
-  {
-    "source": "lobsters",
     "url": "https://pythonspeed.com/articles/branchless-binary-search/",
     "title": "6× faster binary search: from compiled code to mechanical sympathy"
   },
   {
     "source": "lobsters",
+    "url": "https://typesanitizer.com/blog/job-queues.html",
+    "title": "Job queues are deceptively tricky"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://lalitm.com/post/git-history/",
+    "title": "The git history command deserves more attention"
+  },
+  {
+    "source": "lobsters",
     "url": "https://human-emacs.org/",
     "title": "Human Emacs"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://dead.garden/blog/how-my-images-are-dithered.html",
+    "title": "How my images are dithered"
   },
   {
     "source": "lobsters",
@@ -101,8 +106,23 @@
   },
   {
     "source": "lobsters",
+    "url": "https://temperlang.dev/",
+    "title": "Temper Language"
+  },
+  {
+    "source": "lobsters",
     "url": "https://clocks.dev",
     "title": "Collection of clock designs"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://ebellani.github.io/blog/2026/on-keys-essences-and-performance/",
+    "title": "On keys, essences and performance"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://blog.vrypan.net/2026/07/14/verifiable-ai-inference/",
+    "title": "Verifiable AI inference"
   },
   {
     "source": "lobsters",
@@ -111,23 +131,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://dead.garden/blog/how-my-images-are-dithered.html",
-    "title": "How my images are dithered"
-  },
-  {
-    "source": "lobsters",
     "url": "https://utcc.utoronto.ca/~cks/space/blog/solaris/SunOSDisklessWithoutNFS",
     "title": "How early SunOS did diskless workstations before NFS"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://temperlang.dev/",
-    "title": "Temper Language"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://arshad.fyi/writings/engineering-high-performance-parsers",
-    "title": "Engineering High-Performance Parsers with Data-Oriented Design"
   },
   {
     "source": "pinboard",
