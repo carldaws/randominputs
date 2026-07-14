@@ -11,8 +11,18 @@
   },
   {
     "source": "hn",
+    "url": "https://www.bis.org/publ/bisbull120.pdf",
+    "title": "Financing the AI boom: from cash flows to debt [pdf]"
+  },
+  {
+    "source": "hn",
     "url": "https://gwern.net/guardian-angel",
     "title": "Guardian Angels: LLM Personalization for Productivity and Security"
+  },
+  {
+    "source": "hn",
+    "url": "https://lareviewofbooks.org/article/jg-ballard-illuminated-man-christopher-priest-nina-allan/",
+    "title": "The Estranged Worlds of J. G. Ballard"
   },
   {
     "source": "hn",
@@ -31,33 +41,18 @@
   },
   {
     "source": "hn",
-    "url": "https://ryanjk5.github.io/posts/rjk-duck/",
-    "title": "Show HN: Beautiful Type Erasure with C++26 Reflection"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.fsf.org/blogs/community/blocking-botnets-with-reaction",
-    "title": "How the FSF sysadmins block botnets with reaction"
-  },
-  {
-    "source": "hn",
-    "url": "https://sprinklz.io/feed/home",
-    "title": "Show HN: A Free RSS reader with a configurable recommendation engine"
-  },
-  {
-    "source": "hn",
-    "url": "https://lenergy.com.au/free-daytime-electricity-is-coming-heres-how-it-actually-works/",
-    "title": "Australian energy retailers must offer three hours of free daytime electricity"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://gendignoux.com/blog/2026/07/13/input-digits.html",
-    "title": "Just Let Me Write Digits"
+    "url": "https://www.historytoday.com/archive/great-debates/human-canaries-remembering-munitionettes",
+    "title": "Human Canaries: Remembering the Munitionettes"
   },
   {
     "source": "lobsters",
     "url": "https://fabiensanglard.net/jurrasic_park_computers/index.html",
     "title": "Jurassic Park computers in excruciating detail"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://gendignoux.com/blog/2026/07/13/input-digits.html",
+    "title": "Just Let Me Write Digits"
   },
   {
     "source": "lobsters",
@@ -91,8 +86,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://blog.jse.li/posts/smith9street/",
-    "title": "Estimating the heights of New Yorkers from their scuff marks"
+    "url": "https://xeiaso.net/notes/2026/check-your-smart-tv/",
+    "title": "You should probably check on your smart appliances"
   },
   {
     "source": "lobsters",
@@ -101,8 +96,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://purplesyringa.moe/blog/quadrupling-code-performance-with-a-useless-if/",
-    "title": "Quadrupling code performance with a \"useless\" if"
+    "url": "https://blog.jse.li/posts/smith9street/",
+    "title": "Estimating the heights of New Yorkers from their scuff marks"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://crates.io/crates/qr-swastika-avoider",
+    "title": "qr-swastika-avoider v0.1.0"
   },
   {
     "source": "lobsters",
@@ -111,23 +111,23 @@
   },
   {
     "source": "lobsters",
+    "url": "https://purplesyringa.moe/blog/quadrupling-code-performance-with-a-useless-if/",
+    "title": "Quadrupling code performance with a \"useless\" if"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://emacsdocs.org",
+    "title": "Emacs Docs: The modern documentation website Emacs deserves"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://ryanjk5.github.io/posts/rjk-duck/",
+    "title": "Beautiful Type Erasure with C++26 Reflection"
+  },
+  {
+    "source": "lobsters",
     "url": "https://clocks.dev",
     "title": "Collection of clock designs"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://ebellani.github.io/blog/2026/on-keys-essences-and-performance/",
-    "title": "On keys, essences and performance"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://blog.rust-lang.org/2026/07/13/crates-io-development-update/",
-    "title": "crates.io: development update"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://blog.vrypan.net/2026/07/14/verifiable-ai-inference/",
-    "title": "Verifiable AI inference"
   },
   {
     "source": "pinboard",
