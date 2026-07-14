@@ -1,23 +1,33 @@
 [
   {
     "source": "hn",
-    "url": "https://thinkingmachines.ai/blog/the-future-worth-building-is-human/",
-    "title": "The Future Worth Building Is Human – Thinking Machines Lab"
-  },
-  {
-    "source": "hn",
-    "url": "https://blog.incogni.com/digital-fatigue-and-burnout/",
-    "title": "The great digital fatigue: How digital burnout is changing social media use"
-  },
-  {
-    "source": "hn",
     "url": "https://ryanjk5.github.io/posts/rjk-duck/",
     "title": "Beautiful Type Erasure with C++26 Reflection"
   },
   {
     "source": "hn",
-    "url": "https://bartoszmilewski.com/2026/06/30/actegories/",
-    "title": "Actegories"
+    "url": "https://jacobfilipp.com/care/",
+    "title": "Proof of Care in the Age of A.I"
+  },
+  {
+    "source": "hn",
+    "url": "https://zserge.com/posts/tensor/",
+    "title": "Tensor Is the Might"
+  },
+  {
+    "source": "hn",
+    "url": "https://lamport.azurewebsites.net/pubs/paxos-simple.pdf",
+    "title": "Paxos Made Simple (2001)[pdf]"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.fsf.org/blogs/community/blocking-botnets-with-reaction",
+    "title": "How the FSF sysadmins block botnets with reaction"
+  },
+  {
+    "source": "hn",
+    "url": "https://docs.pasteurlabs.ai/projects/tesseract-core/latest/blog/2026-07-09-enzyme-lfortran-autodiff.html",
+    "title": "Differentiable Fortran with LFortran and Enzyme"
   },
   {
     "source": "hn",
@@ -26,48 +36,28 @@
   },
   {
     "source": "hn",
+    "url": "https://bartoszmilewski.com/2026/06/30/actegories/",
+    "title": "Actegories"
+  },
+  {
+    "source": "hn",
+    "url": "https://sorting-machine.pages.dev/",
+    "title": "What did SFFA vs. Harvard reveal about admissions?"
+  },
+  {
+    "source": "hn",
     "url": "https://lalitm.com/post/git-history/",
     "title": "The git history command"
   },
   {
     "source": "hn",
-    "url": "https://knots.neocities.org/knotindex",
-    "title": "Notable Knot Index (2016)"
+    "url": "https://thinkingmachines.ai/blog/the-future-worth-building-is-human/",
+    "title": "The Future Worth Building Is Human"
   },
   {
     "source": "hn",
-    "url": "https://dmars.drpz.xyz/",
-    "title": "Dmars – A modern Core Wars toolchain"
-  },
-  {
-    "source": "hn",
-    "url": "https://gendx.dev/blog/2026/07/13/input-digits.html",
-    "title": "Just Let Me Write Digits"
-  },
-  {
-    "source": "hn",
-    "url": "https://scottwillsey.com/building-and-shipping-mac-and-ios-apps-without-ever-opening-xcode/",
-    "title": "Building and shipping Mac and iOS apps without opening Xcode"
-  },
-  {
-    "source": "hn",
-    "url": "https://blinry.org/lcd-clock/",
-    "title": "How to build a circular LCD clock"
-  },
-  {
-    "source": "hn",
-    "url": "https://web.stanford.edu/~dntse/wireless_book.html",
-    "title": "Fundamentals of Wireless Communication (2005)"
-  },
-  {
-    "source": "hn",
-    "url": "https://elasticity.institute/rsi-paper.pdf",
-    "title": "The Economics of Recursive Self-Improvement [pdf]"
-  },
-  {
-    "source": "hn",
-    "url": "https://paradigms-of-intelligence.github.io/morpho/",
-    "title": "MorphoHDL: A minimalistic language for growing circuits"
+    "url": "https://www.centauri-dreams.org/2026/07/10/a-metallurgists-doubts-about-self-replicating-probes/",
+    "title": "A metallurgist's doubts about self-replicating probes"
   },
   {
     "source": "lobsters",
@@ -76,8 +66,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://human-emacs.org/",
-    "title": "Human Emacs"
+    "url": "https://www.eamoncaddigan.net/posts/ai-in-2026/",
+    "title": "Hating AI in 2026"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://pythonspeed.com/articles/branchless-binary-search/",
+    "title": "6× faster binary search: from compiled code to mechanical sympathy"
   },
   {
     "source": "lobsters",
@@ -91,13 +86,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://blog.jse.li/posts/smith9street/",
-    "title": "Estimating the heights of New Yorkers from their scuff marks"
+    "url": "https://human-emacs.org/",
+    "title": "Human Emacs"
   },
   {
     "source": "lobsters",
-    "url": "https://pythonspeed.com/articles/branchless-binary-search/",
-    "title": "6× faster binary search: from compiled code to mechanical sympathy"
+    "url": "https://blog.jse.li/posts/smith9street/",
+    "title": "Estimating the heights of New Yorkers from their scuff marks"
   },
   {
     "source": "lobsters",
@@ -106,13 +101,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://blog.rust-lang.org/2026/07/13/crates-io-development-update/",
-    "title": "crates.io: development update"
+    "url": "https://clocks.dev",
+    "title": "Collection of clock designs"
   },
   {
     "source": "lobsters",
-    "url": "https://clocks.dev",
-    "title": "Collection of clock designs"
+    "url": "https://blog.rust-lang.org/2026/07/13/crates-io-development-update/",
+    "title": "crates.io: development update"
   },
   {
     "source": "lobsters",
@@ -126,11 +121,6 @@
   },
   {
     "source": "lobsters",
-    "url": "https://www.eamoncaddigan.net/posts/ai-in-2026/",
-    "title": "Hating AI in 2026"
-  },
-  {
-    "source": "lobsters",
     "url": "https://staltz.com/from-coder-to-curator",
     "title": "From coder to curator"
   },
@@ -138,16 +128,6 @@
     "source": "lobsters",
     "url": "https://antonz.org/concurrency-in-c/",
     "title": "Go-flavored concurrency in C"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://evmar.github.io/jjtut/",
-    "title": "Evan's Jujutsu Tutorial"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://zserge.com/posts/tensor/",
-    "title": "Tensor is the might"
   },
   {
     "source": "pinboard",
@@ -163,6 +143,11 @@
     "source": "pinboard",
     "url": "https://evanhahn.com/prefer-strict-tables-in-sqlite/",
     "title": "Prefer STRICT tables in SQLite"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://scottwillsey.com/building-and-shipping-mac-and-ios-apps-without-ever-opening-xcode/",
+    "title": "Building and Shipping Mac and iOS Apps Without Ever Opening Xcode"
   },
   {
     "source": "pinboard",
