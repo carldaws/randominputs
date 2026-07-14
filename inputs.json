@@ -1,18 +1,23 @@
 [
   {
     "source": "hn",
+    "url": "https://www.verbaprima.com/",
+    "title": "Show HN: Opening lines of famous literary works"
+  },
+  {
+    "source": "hn",
+    "url": "https://agnost.ai",
+    "title": "Launch HN: Agnost AI (YC S26) – Extract user feedback from agent conversations"
+  },
+  {
+    "source": "hn",
     "url": "https://ryanjk5.github.io/posts/rjk-duck/",
     "title": "Beautiful Type Erasure with C++26 Reflection"
   },
   {
     "source": "hn",
-    "url": "https://jacobfilipp.com/care/",
-    "title": "Proof of Care in the Age of A.I"
-  },
-  {
-    "source": "hn",
-    "url": "https://zserge.com/posts/tensor/",
-    "title": "Tensor Is the Might"
+    "url": "https://grist.org/science/nitrogen-cycle-cell-discovery-nitroplast-science-fertilizer-algae-bacteria/",
+    "title": "A tiny cell that broke a big rule of biology"
   },
   {
     "source": "hn",
@@ -26,18 +31,23 @@
   },
   {
     "source": "hn",
-    "url": "https://docs.pasteurlabs.ai/projects/tesseract-core/latest/blog/2026-07-09-enzyme-lfortran-autodiff.html",
-    "title": "Differentiable Fortran with LFortran and Enzyme"
-  },
-  {
-    "source": "hn",
     "url": "https://lenergy.com.au/free-daytime-electricity-is-coming-heres-how-it-actually-works/",
     "title": "Australian energy retailers must provide three hours of free daytime electricity"
   },
   {
     "source": "hn",
-    "url": "https://bartoszmilewski.com/2026/06/30/actegories/",
-    "title": "Actegories"
+    "url": "https://docs.pasteurlabs.ai/projects/tesseract-core/latest/blog/2026-07-09-enzyme-lfortran-autodiff.html",
+    "title": "Differentiable Fortran with LFortran and Enzyme"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.centauri-dreams.org/2026/07/10/a-metallurgists-doubts-about-self-replicating-probes/",
+    "title": "A metallurgist's doubts about self-replicating probes"
+  },
+  {
+    "source": "hn",
+    "url": "https://zserge.com/posts/tensor/",
+    "title": "Tensor Is the Might"
   },
   {
     "source": "hn",
@@ -50,29 +60,14 @@
     "title": "The git history command"
   },
   {
-    "source": "hn",
-    "url": "https://thinkingmachines.ai/blog/the-future-worth-building-is-human/",
-    "title": "The Future Worth Building Is Human"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.centauri-dreams.org/2026/07/10/a-metallurgists-doubts-about-self-replicating-probes/",
-    "title": "A metallurgist's doubts about self-replicating probes"
-  },
-  {
     "source": "lobsters",
     "url": "https://gendignoux.com/blog/2026/07/13/input-digits.html",
     "title": "Just Let Me Write Digits"
   },
   {
     "source": "lobsters",
-    "url": "https://www.eamoncaddigan.net/posts/ai-in-2026/",
-    "title": "Hating AI in 2026"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://pythonspeed.com/articles/branchless-binary-search/",
-    "title": "6× faster binary search: from compiled code to mechanical sympathy"
+    "url": "https://fabiensanglard.net/jurrasic_park_computers/index.html",
+    "title": "Jurassic Park computers in excruciating detail"
   },
   {
     "source": "lobsters",
@@ -81,8 +76,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://fabiensanglard.net/jurrasic_park_computers/index.html",
-    "title": "Jurassic Park computers in excruciating detail"
+    "url": "https://pythonspeed.com/articles/branchless-binary-search/",
+    "title": "6× faster binary search: from compiled code to mechanical sympathy"
   },
   {
     "source": "lobsters",
@@ -93,6 +88,11 @@
     "source": "lobsters",
     "url": "https://blog.jse.li/posts/smith9street/",
     "title": "Estimating the heights of New Yorkers from their scuff marks"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://www.eamoncaddigan.net/posts/ai-in-2026/",
+    "title": "Hating AI in 2026"
   },
   {
     "source": "lobsters",
@@ -111,23 +111,23 @@
   },
   {
     "source": "lobsters",
+    "url": "https://dead.garden/blog/how-my-images-are-dithered.html",
+    "title": "How my images are dithered"
+  },
+  {
+    "source": "lobsters",
     "url": "https://utcc.utoronto.ca/~cks/space/blog/solaris/SunOSDisklessWithoutNFS",
     "title": "How early SunOS did diskless workstations before NFS"
   },
   {
     "source": "lobsters",
+    "url": "https://temperlang.dev/",
+    "title": "Temper Language"
+  },
+  {
+    "source": "lobsters",
     "url": "https://arshad.fyi/writings/engineering-high-performance-parsers",
     "title": "Engineering High-Performance Parsers with Data-Oriented Design"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://staltz.com/from-coder-to-curator",
-    "title": "From coder to curator"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://antonz.org/concurrency-in-c/",
-    "title": "Go-flavored concurrency in C"
   },
   {
     "source": "pinboard",
