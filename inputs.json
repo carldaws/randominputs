@@ -11,6 +11,16 @@
   },
   {
     "source": "hn",
+    "url": "https://knots.neocities.org/knotindex",
+    "title": "Notable Knot Index (2016)"
+  },
+  {
+    "source": "hn",
+    "url": "https://scottwillsey.com/building-and-shipping-mac-and-ios-apps-without-ever-opening-xcode/",
+    "title": "Building and shipping Mac and iOS apps without opening Xcode"
+  },
+  {
+    "source": "hn",
     "url": "https://web.stanford.edu/~dntse/wireless_book.html",
     "title": "Fundamentals of Wireless Communication (2005)"
   },
@@ -21,8 +31,13 @@
   },
   {
     "source": "hn",
-    "url": "https://scottwillsey.com/building-and-shipping-mac-and-ios-apps-without-ever-opening-xcode/",
-    "title": "Building and shipping Mac and iOS apps without opening Xcode"
+    "url": "https://gendx.dev/blog/2026/07/13/input-digits.html",
+    "title": "Just Let Me Write Digits"
+  },
+  {
+    "source": "hn",
+    "url": "https://internals-for-interns.com/posts/go-runtime-profiling/",
+    "title": "Understanding the Go Runtime: Profiling"
   },
   {
     "source": "hn",
@@ -36,18 +51,13 @@
   },
   {
     "source": "hn",
-    "url": "https://internals-for-interns.com/posts/go-runtime-profiling/",
-    "title": "Understanding the Go Runtime: Profiling"
-  },
-  {
-    "source": "hn",
-    "url": "https://gendx.dev/blog/2026/07/13/input-digits.html",
-    "title": "Just Let Me Write Digits"
-  },
-  {
-    "source": "hn",
     "url": "https://paradigms-of-intelligence.github.io/morpho/",
     "title": "MorphoHDL: A minimalistic language for growing circuits"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.sfgate.com/politics/article/meta-social-media-teenagers-22337724.php",
+    "title": "The infinite scroll may become endangered if controversial Calif. law passes"
   },
   {
     "source": "hn",
@@ -61,93 +71,93 @@
   },
   {
     "source": "hn",
-    "url": "https://www.sfgate.com/politics/article/meta-social-media-teenagers-22337724.php",
-    "title": "The infinite scroll may become endangered if controversial Calif. law passes"
+    "url": "https://cakehonolulu.github.io/linux-on-32x/",
+    "title": "Linux on the Sega 32X. Who needs hardware synchronization primitives anyway?"
   },
   {
     "source": "hn",
-    "url": "https://hiraditya.github.io/posts/hardware-hazards-b200/",
-    "title": "The Anatomy of an Instruction Pipeline Hazard"
+    "url": "https://blog.cloudflare.com/introducing-precursor/",
+    "title": "Precursor"
   },
   {
     "source": "lobsters",
-    "url": "https://css-dos.ahmedamer.co.uk/",
-    "title": "CSS-DOS — A computer made of CSS"
+    "url": "https://gendignoux.com/blog/2026/07/13/input-digits.html",
+    "title": "Just Let Me Write Digits"
   },
   {
     "source": "lobsters",
-    "url": "https://avlasov.cabal.run/notes/001/index.html",
-    "title": "WebExtension to query any HTML table with PRQL"
+    "url": "https://human-emacs.org/",
+    "title": "Human Emacs"
   },
   {
     "source": "lobsters",
-    "url": "https://www.inngest.com/blog/adding-a-second-middleware-broke-our-typescript-types",
-    "title": "Adding a second middleware broke our typescript types"
+    "url": "https://typesanitizer.com/blog/job-queues.html",
+    "title": "Job queues are deceptively tricky"
   },
   {
     "source": "lobsters",
-    "url": "https://kaustubh.page/posts/objects-and-types-in-python/",
-    "title": "Objects and Types in Python (2023)"
+    "url": "https://purplesyringa.moe/blog/quadrupling-code-performance-with-a-useless-if/",
+    "title": "Quadrupling code performance with a \"useless\" if"
   },
   {
     "source": "lobsters",
-    "url": "https://bruceediger.com/posts/tftp-honeypot-results/",
-    "title": "TFTP Honey pot Results"
+    "url": "https://blog.jse.li/posts/smith9street/",
+    "title": "Estimating the heights of New Yorkers from their scuff marks"
   },
   {
     "source": "lobsters",
-    "url": "https://timharek.no/blog/kaizen-4/",
-    "title": "Overhauled homelab"
+    "url": "https://fabiensanglard.net/jurrasic_park_computers/index.html",
+    "title": "Jurassic Park computers in excruciating detail"
   },
   {
     "source": "lobsters",
-    "url": "https://scrapfly.dev/posts/browser-math-os-fingerprint/",
-    "title": "Browsers Do Math Differently on Every OS; Anti-Bot Systems Read the Bits"
+    "url": "https://blog.rust-lang.org/2026/07/13/crates-io-development-update/",
+    "title": "crates.io: development update"
   },
   {
     "source": "lobsters",
-    "url": "https://blog.tangled.org/bobbin/",
-    "title": "Introducing Bobbin: A diskless, API-only AppView for Tangled"
+    "url": "https://utcc.utoronto.ca/~cks/space/blog/solaris/SunOSDisklessWithoutNFS",
+    "title": "How early SunOS did diskless workstations before NFS"
   },
   {
     "source": "lobsters",
-    "url": "https://dakra.github.io/ghostel/",
-    "title": "ghostel.el - Terminal emulator powered by libghostty"
+    "url": "https://clocks.dev",
+    "title": "Collection of clock designs"
   },
   {
     "source": "lobsters",
+    "url": "https://arshad.fyi/writings/engineering-high-performance-parsers",
+    "title": "Engineering High-Performance Parsers with Data-Oriented Design"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://antonz.org/concurrency-in-c/",
+    "title": "Go-flavored concurrency in C"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://staltz.com/from-coder-to-curator",
+    "title": "From coder to curator"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://evmar.github.io/jjtut/",
+    "title": "Evan's Jujutsu Tutorial"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://pfandrade.me/blog/swiftui-mac-assed-wwdc27-update/",
+    "title": "A WWDC 26 Update on Building a Mac-assed App with SwiftUI"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://hacker-fables.onrender.com",
+    "title": "Hacker Fables - A satirical cyberpunk novella you can read as a man page"
+  },
+  {
+    "source": "pinboard",
     "url": "https://owickstrom.github.io/the-proportional-web/",
     "title": "The Proportional Web"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://fzakaria.com/2026/07/09/who-does-anubis-actually-stop",
-    "title": "Who does Anubis actually stop?"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://xandergos.github.io/terrain-diffusion/",
-    "title": "InfiniteDiffusion: Bridging Learned Fidelity and Procedural Utility for Open-World Terrain Generation"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://rmpr.xyz/Where-did-my-segfault-go/",
-    "title": "Where did my segfault go?"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://www.doc.ic.ac.uk/~susan/475/cruft.html",
-    "title": "The Stob Cruft Index: a rolling computer gathers \"cruft\""
-  },
-  {
-    "source": "lobsters",
-    "url": "https://www.seangoedecke.com/in-defense-of-not-understanding-your-codebase/",
-    "title": "In defense of not understanding your codebase"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://thelastpsion.com/posts/make-it-right-next-steps-with-ctran/",
-    "title": "Make It Right - Next Steps With CTRAN"
   },
   {
     "source": "pinboard",
