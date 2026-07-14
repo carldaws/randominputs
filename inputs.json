@@ -7,7 +7,12 @@
   {
     "source": "hn",
     "url": "https://prismml.com/news/bonsai-27b",
-    "title": "Bonsai 27B (1-bit LLM): The First 27B-Class Model to Run on a Phone"
+    "title": "Bonsai 27B: A 27B-Class Model that runs on a phone"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.verbaprima.com/",
+    "title": "Show HN: Opening lines of famous literary works"
   },
   {
     "source": "hn",
@@ -21,38 +26,33 @@
   },
   {
     "source": "hn",
-    "url": "https://www.verbaprima.com/",
-    "title": "Show HN: Opening lines of famous literary works"
-  },
-  {
-    "source": "hn",
-    "url": "https://ryanjk5.github.io/posts/rjk-duck/",
-    "title": "Beautiful Type Erasure with C++26 Reflection"
-  },
-  {
-    "source": "hn",
-    "url": "https://lamport.azurewebsites.net/pubs/paxos-simple.pdf",
-    "title": "Paxos Made Simple (2001)[pdf]"
-  },
-  {
-    "source": "hn",
     "url": "https://www.fsf.org/blogs/community/blocking-botnets-with-reaction",
     "title": "How the FSF sysadmins block botnets with reaction"
   },
   {
     "source": "hn",
+    "url": "https://lamport.azurewebsites.net/pubs/paxos-simple.pdf",
+    "title": "Paxos Made Simple (2001) [pdf]"
+  },
+  {
+    "source": "hn",
+    "url": "https://ryanjk5.github.io/posts/rjk-duck/",
+    "title": "Show HN: Beautiful Type Erasure with C++26 Reflection"
+  },
+  {
+    "source": "hn",
     "url": "https://lenergy.com.au/free-daytime-electricity-is-coming-heres-how-it-actually-works/",
-    "title": "Australian energy retailers must provide three hours of free daytime electricity"
+    "title": "Australian energy retailers must offer three hours of free daytime electricity"
+  },
+  {
+    "source": "hn",
+    "url": "https://gwern.net/guardian-angel",
+    "title": "Guardian Angels: LLM Personalization for Productivity and Security"
   },
   {
     "source": "hn",
     "url": "https://www.centauri-dreams.org/2026/07/10/a-metallurgists-doubts-about-self-replicating-probes/",
     "title": "A metallurgist's doubts about self-replicating probes"
-  },
-  {
-    "source": "hn",
-    "url": "https://docs.pasteurlabs.ai/projects/tesseract-core/latest/blog/2026-07-09-enzyme-lfortran-autodiff.html",
-    "title": "Differentiable Fortran with LFortran and Enzyme"
   },
   {
     "source": "lobsters",
@@ -121,13 +121,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://blog.vrypan.net/2026/07/14/verifiable-ai-inference/",
-    "title": "Verifiable AI inference"
+    "url": "https://blog.rust-lang.org/2026/07/13/crates-io-development-update/",
+    "title": "crates.io: development update"
   },
   {
     "source": "lobsters",
-    "url": "https://blog.rust-lang.org/2026/07/13/crates-io-development-update/",
-    "title": "crates.io: development update"
+    "url": "https://blog.vrypan.net/2026/07/14/verifiable-ai-inference/",
+    "title": "Verifiable AI inference"
   },
   {
     "source": "lobsters",
