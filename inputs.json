@@ -2,7 +2,7 @@
   {
     "source": "hn",
     "url": "https://scottwillsey.com/building-and-shipping-mac-and-ios-apps-without-ever-opening-xcode/",
-    "title": "Building and shipping Mac and iOS apps without ever opening Xcode"
+    "title": "Building and shipping Mac and iOS apps without opening Xcode"
   },
   {
     "source": "hn",
@@ -11,8 +11,8 @@
   },
   {
     "source": "hn",
-    "url": "https://cakehonolulu.github.io/linux-on-32x/",
-    "title": "Linux on the Sega 32X. Who needs hardware synchronization primitives anyway?"
+    "url": "https://lalitm.com/post/git-history/",
+    "title": "The Git history command deserves more attention"
   },
   {
     "source": "hn",
@@ -21,13 +21,8 @@
   },
   {
     "source": "hn",
-    "url": "https://www.whois.com/whois/t.me",
-    "title": "Telegram's t.me domain has been suspended"
-  },
-  {
-    "source": "hn",
-    "url": "https://bruceediger.com/posts/tftp-honeypot-results/",
-    "title": "TFTP Honey Pot Results"
+    "url": "https://cakehonolulu.github.io/linux-on-32x/",
+    "title": "Linux on the Sega 32X. Who needs hardware synchronization primitives anyway?"
   },
   {
     "source": "hn",
@@ -36,13 +31,18 @@
   },
   {
     "source": "hn",
-    "url": "https://werd.io/climate-gov-was-destroyed-open-data-saved-it/",
-    "title": "Climate.gov was destroyed. Open data saved it"
+    "url": "https://sorting-machine.pages.dev/",
+    "title": "What did SFFA vs. Harvard reveal about admissions?"
   },
   {
     "source": "hn",
-    "url": "https://ludus-coriovalli.web.app/",
-    "title": "Ancient Roman Board Game"
+    "url": "https://bruceediger.com/posts/tftp-honeypot-results/",
+    "title": "TFTP Honey Pot Results"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.whois.com/whois/t.me",
+    "title": "Telegram's t.me domain has been suspended"
   },
   {
     "source": "hn",
@@ -51,28 +51,18 @@
   },
   {
     "source": "hn",
-    "url": "https://blog.ptidej.net/collaboration-networks-in-brazilian-computer-science/",
-    "title": "Collaboration Networks in Brazilian Computer Science"
+    "url": "https://ludus-coriovalli.web.app/",
+    "title": "Ancient Roman Board Game"
   },
   {
     "source": "hn",
-    "url": "https://garden-of-flowers.heikkilotvonen.com/?essay",
-    "title": "The Origins of Heikki's Garden of Flowers"
-  },
-  {
-    "source": "hn",
-    "url": "https://nobie.com",
-    "title": "Show HN: Nobie – an Excel-compatible runtime for agents and humans"
+    "url": "https://sleuth-io.github.io/sx/2026/07/10/your-dropbox-is-now-a-skill-server.html",
+    "title": "Show HN: Sx 2.0 – Share AI skills with your team through a Dropbox folder"
   },
   {
     "source": "hn",
     "url": "https://humansand.ai/blog/nvfp4-rl",
     "title": "The 4-Bitter Lesson: Balancing Stability and Performance in NVFP4 RL"
-  },
-  {
-    "source": "hn",
-    "url": "https://esologic.com/benchmarking-tesla-gpus/",
-    "title": "Benchmarking 15 \"E-Waste\" GPUs with Modern Workloads"
   },
   {
     "source": "lobsters",
@@ -101,6 +91,16 @@
   },
   {
     "source": "lobsters",
+    "url": "https://blog.jse.li/posts/smith9street/",
+    "title": "Estimating the heights of New Yorkers from their scuff marks"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://arshad.fyi/writings/engineering-high-performance-parsers",
+    "title": "Engineering High-Performance Parsers with Data-Oriented Design"
+  },
+  {
+    "source": "lobsters",
     "url": "https://evmar.github.io/jjtut/",
     "title": "Evan's Jujutsu Tutorial"
   },
@@ -108,11 +108,6 @@
     "source": "lobsters",
     "url": "https://pfandrade.me/blog/swiftui-mac-assed-wwdc27-update/",
     "title": "A WWDC 26 Update on Building a Mac-assed App with SwiftUI"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://arshad.fyi/writings/engineering-high-performance-parsers",
-    "title": "Engineering High-Performance Parsers with Data-Oriented Design"
   },
   {
     "source": "lobsters",
@@ -143,11 +138,6 @@
     "source": "lobsters",
     "url": "https://scrapfly.dev/posts/browser-math-os-fingerprint/",
     "title": "Browsers Do Math Differently on Every OS; Anti-Bot Systems Read the Bits"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://blog.tangled.org/bobbin/",
-    "title": "Introducing Bobbin: A diskless, API-only AppView for Tangled"
   },
   {
     "source": "pinboard",
