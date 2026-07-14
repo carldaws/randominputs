@@ -6,18 +6,13 @@
   },
   {
     "source": "hn",
-    "url": "https://lucumr.pocoo.org/2026/7/13/the-tower-keeps-rising/",
-    "title": "The Tower Keeps Rising"
-  },
-  {
-    "source": "hn",
     "url": "https://www.bis.org/publ/bisbull120.pdf",
     "title": "Financing the AI boom: from cash flows to debt [pdf]"
   },
   {
     "source": "hn",
-    "url": "https://gwern.net/guardian-angel",
-    "title": "Guardian Angels: LLM Personalization for Productivity and Security"
+    "url": "https://lucumr.pocoo.org/2026/7/13/the-tower-keeps-rising/",
+    "title": "The Tower Keeps Rising"
   },
   {
     "source": "hn",
@@ -26,8 +21,23 @@
   },
   {
     "source": "hn",
-    "url": "https://agnost.ai",
-    "title": "Launch HN: Agnost AI (YC S26) – Extract user feedback from agent conversations"
+    "url": "https://gwern.net/guardian-angel",
+    "title": "Guardian Angels: LLM Personalization for Productivity and Security"
+  },
+  {
+    "source": "hn",
+    "url": "https://wololo.net/2026/06/16/unlocking-the-psps-dual-core-setup/",
+    "title": "Unlocking the PSP's Dual Core Setup"
+  },
+  {
+    "source": "hn",
+    "url": "https://remark.ing/rob/rob.mw/-/Linear-is-always-a",
+    "title": "Linear is always a lagging indicator"
+  },
+  {
+    "source": "hn",
+    "url": "https://heatherburns.tech/2026/07/08/the-kids-with-phones-are-alright/",
+    "title": "The kids with phones are alright"
   },
   {
     "source": "hn",
@@ -36,13 +46,28 @@
   },
   {
     "source": "hn",
-    "url": "https://justindfuller.com/programming/accretive-editing",
-    "title": "Accretive Editing"
+    "url": "https://www.benjamin-bai.com/projects/lemario",
+    "title": "LeMario: Training a JEPA World Model on Super Mario Bros"
+  },
+  {
+    "source": "hn",
+    "url": "https://agnost.ai",
+    "title": "Launch HN: Agnost AI (YC S26) – Extract user feedback from agent conversations"
   },
   {
     "source": "hn",
     "url": "https://www.historytoday.com/archive/great-debates/human-canaries-remembering-munitionettes",
     "title": "Human Canaries: Remembering the Munitionettes"
+  },
+  {
+    "source": "hn",
+    "url": "https://lenews.ch/2026/05/29/the-politics-of-air-conditioning-in-switzerland/",
+    "title": "The politics of air conditioning in Switzerland"
+  },
+  {
+    "source": "hn",
+    "url": "https://unsung.aresluna.org/sets-of-overlapping-circles/",
+    "title": "Sets of Overlapping Circles"
   },
   {
     "source": "lobsters",
@@ -53,6 +78,11 @@
     "source": "lobsters",
     "url": "https://gendignoux.com/blog/2026/07/13/input-digits.html",
     "title": "Just Let Me Write Digits"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://xeiaso.net/notes/2026/check-your-smart-tv/",
+    "title": "You should probably check on your smart appliances"
   },
   {
     "source": "lobsters",
@@ -76,6 +106,11 @@
   },
   {
     "source": "lobsters",
+    "url": "https://crates.io/crates/qr-swastika-avoider",
+    "title": "qr-swastika-avoider v0.1.0"
+  },
+  {
+    "source": "lobsters",
     "url": "https://human-emacs.org/",
     "title": "Human Emacs"
   },
@@ -86,23 +121,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://xeiaso.net/notes/2026/check-your-smart-tv/",
-    "title": "You should probably check on your smart appliances"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://temperlang.dev/",
-    "title": "Temper Language"
-  },
-  {
-    "source": "lobsters",
     "url": "https://blog.jse.li/posts/smith9street/",
     "title": "Estimating the heights of New Yorkers from their scuff marks"
   },
   {
     "source": "lobsters",
-    "url": "https://crates.io/crates/qr-swastika-avoider",
-    "title": "qr-swastika-avoider v0.1.0"
+    "url": "https://temperlang.dev/",
+    "title": "Temper Language"
   },
   {
     "source": "lobsters",
@@ -116,132 +141,17 @@
   },
   {
     "source": "lobsters",
-    "url": "https://emacsdocs.org",
-    "title": "Emacs Docs: The modern documentation website Emacs deserves"
-  },
-  {
-    "source": "lobsters",
     "url": "https://ryanjk5.github.io/posts/rjk-duck/",
     "title": "Beautiful Type Erasure with C++26 Reflection"
   },
   {
     "source": "lobsters",
+    "url": "https://emacsdocs.org",
+    "title": "Emacs Docs: The modern documentation website Emacs deserves"
+  },
+  {
+    "source": "lobsters",
     "url": "https://clocks.dev",
     "title": "Collection of clock designs"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://owickstrom.github.io/the-proportional-web/",
-    "title": "The Proportional Web"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://fazamhd.com/mental-models/networking/",
-    "title": "Networking and the Internet, from First Principles · Faza"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://evanhahn.com/prefer-strict-tables-in-sqlite/",
-    "title": "Prefer STRICT tables in SQLite"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://scottwillsey.com/building-and-shipping-mac-and-ios-apps-without-ever-opening-xcode/",
-    "title": "Building and Shipping Mac and iOS Apps Without Ever Opening Xcode"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://scotto.me/blog/2026-07-12-how-to-read-more-books/",
-    "title": "How to read more books"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://raymyers.org/post/zed-creator-calls-spade-a-spade/",
-    "title": "Zig Creator Calls Spade a Spade, Anthropic Blows Smoke"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://morphing.cloud/hypercard/",
-    "title": "Stacks — run classic HyperCard stacks on modern macOS"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://grumpy.website/1723",
-    "title": "Grumpy Website"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://geohot.github.io//blog/jekyll/update/2026/07/12/i-love-llms.html",
-    "title": "I love LLMs, I hate hype"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.whatcable.uk/",
-    "title": "WhatCable: Know what your USB-C cable can really do"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://shellzine.net/cyberpunk-comics/",
-    "title": "Cyberpunk Comics, Manga and Graphic Novels"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.susanrigetti.com/physics",
-    "title": "Physics — Susan Rigetti"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.mixfont.com/ghost-font",
-    "title": "Ghost Font: The Anti-AI Font Only Humans Can Read"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://davidpoblador.com/deep-dives/what-happened-to-the-frontend/",
-    "title": "The Descent — What Happened to the Frontend While You Weren't Watching"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.larp.website/",
-    "title": "LARP — Revenue infrastructure for serious founders"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://antjs.org/",
-    "title": "Ant, a lightweight JavaScript runtime"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://ai-2040.com/",
-    "title": "AI 2040: Plan A"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://tonsky.me/blog/every-frame-perfect/",
-    "title": "Every Frame Perfect"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://morphing.cloud/lunacy/",
-    "title": "Lunacy — Lunatic Fringe for modern macOS"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://daringfireball.net/2026/07/exactly_like_om_malik",
-    "title": "Daring Fireball: Exactly Like Om Malik"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://avi.press/posts/2026-07-10-after-7-years-in-production-scarf-has-reluctantly-moved-away-from-haskell.html",
-    "title": "After 7 years in production, Scarf has reluctantly moved away from Haskell"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://floooh.github.io/tiny8bit-preview/index.html",
-    "title": "Tiny Emulators"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.lyrebirddreaming.com/post/the-graph-that-should-be-front-page-news",
-    "title": "The Graph That Should Be Front-Page News"
   }
 ]
