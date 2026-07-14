@@ -1,6 +1,21 @@
 [
   {
     "source": "hn",
+    "url": "https://web.stanford.edu/~dntse/wireless_book.html",
+    "title": "Fundamentals of Wireless Communication"
+  },
+  {
+    "source": "hn",
+    "url": "https://lalitm.com/post/git-history/",
+    "title": "The Git history command deserves more attention"
+  },
+  {
+    "source": "hn",
+    "url": "https://elasticity.institute/rsi-paper.pdf",
+    "title": "The Economics of Recursive Self-Improvement [pdf]"
+  },
+  {
+    "source": "hn",
     "url": "https://scottwillsey.com/building-and-shipping-mac-and-ios-apps-without-ever-opening-xcode/",
     "title": "Building and shipping Mac and iOS apps without opening Xcode"
   },
@@ -11,18 +26,13 @@
   },
   {
     "source": "hn",
-    "url": "https://lalitm.com/post/git-history/",
-    "title": "The Git history command deserves more attention"
+    "url": "https://blinry.org/lcd-clock/",
+    "title": "How to build a circular LCD clock"
   },
   {
     "source": "hn",
-    "url": "https://fabiensanglard.net/silpheed/index.html",
-    "title": "The art and engineering of Sega CD Silpheed"
-  },
-  {
-    "source": "hn",
-    "url": "https://cakehonolulu.github.io/linux-on-32x/",
-    "title": "Linux on the Sega 32X. Who needs hardware synchronization primitives anyway?"
+    "url": "https://paradigms-of-intelligence.github.io/morpho/",
+    "title": "MorphoHDL: A minimalistic language for growing circuits"
   },
   {
     "source": "hn",
@@ -31,28 +41,8 @@
   },
   {
     "source": "hn",
-    "url": "https://sorting-machine.pages.dev/",
-    "title": "What did SFFA vs. Harvard reveal about admissions?"
-  },
-  {
-    "source": "hn",
-    "url": "https://bruceediger.com/posts/tftp-honeypot-results/",
-    "title": "TFTP Honey Pot Results"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.whois.com/whois/t.me",
-    "title": "Telegram's t.me domain has been suspended"
-  },
-  {
-    "source": "hn",
-    "url": "https://hackney.app/",
-    "title": "Show HN: Hackney – Compare Uber, Lyft, Waymo, and Robotaxi Prices"
-  },
-  {
-    "source": "hn",
-    "url": "https://ludus-coriovalli.web.app/",
-    "title": "Ancient Roman Board Game"
+    "url": "https://fabiensanglard.net/silpheed/index.html",
+    "title": "The art and engineering of Sega CD Silpheed"
   },
   {
     "source": "hn",
@@ -61,8 +51,18 @@
   },
   {
     "source": "hn",
-    "url": "https://humansand.ai/blog/nvfp4-rl",
-    "title": "The 4-Bitter Lesson: Balancing Stability and Performance in NVFP4 RL"
+    "url": "https://hackney.app/",
+    "title": "Show HN: Hackney – Compare Uber, Lyft, Waymo, and Robotaxi Prices"
+  },
+  {
+    "source": "hn",
+    "url": "https://cakehonolulu.github.io/linux-on-32x/",
+    "title": "Linux on the Sega 32X. Who needs hardware synchronization primitives anyway?"
+  },
+  {
+    "source": "hn",
+    "url": "https://randofont.alesh.com",
+    "title": "Show HN: RandoFont – A browser for Google Fonts"
   },
   {
     "source": "lobsters",
@@ -86,13 +86,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://utcc.utoronto.ca/~cks/space/blog/solaris/SunOSDisklessWithoutNFS",
-    "title": "How early SunOS did diskless workstations before NFS"
+    "url": "https://blog.jse.li/posts/smith9street/",
+    "title": "Estimating the heights of New Yorkers from their scuff marks"
   },
   {
     "source": "lobsters",
-    "url": "https://blog.jse.li/posts/smith9street/",
-    "title": "Estimating the heights of New Yorkers from their scuff marks"
+    "url": "https://utcc.utoronto.ca/~cks/space/blog/solaris/SunOSDisklessWithoutNFS",
+    "title": "How early SunOS did diskless workstations before NFS"
   },
   {
     "source": "lobsters",
@@ -106,18 +106,28 @@
   },
   {
     "source": "lobsters",
-    "url": "https://pfandrade.me/blog/swiftui-mac-assed-wwdc27-update/",
-    "title": "A WWDC 26 Update on Building a Mac-assed App with SwiftUI"
-  },
-  {
-    "source": "lobsters",
     "url": "https://antonz.org/concurrency-in-c/",
     "title": "Go-flavored concurrency in C"
   },
   {
     "source": "lobsters",
+    "url": "https://pfandrade.me/blog/swiftui-mac-assed-wwdc27-update/",
+    "title": "A WWDC 26 Update on Building a Mac-assed App with SwiftUI"
+  },
+  {
+    "source": "lobsters",
     "url": "https://hacker-fables.onrender.com",
     "title": "Hacker Fables - A satirical cyberpunk novella you can read as a man page"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://staltz.com/from-coder-to-curator",
+    "title": "From coder to curator"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://www.inngest.com/blog/adding-a-second-middleware-broke-our-typescript-types",
+    "title": "Adding a second middleware broke our typescript types"
   },
   {
     "source": "lobsters",
@@ -128,16 +138,6 @@
     "source": "lobsters",
     "url": "https://timharek.no/blog/kaizen-4/",
     "title": "Overhauled homelab"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://www.inngest.com/blog/adding-a-second-middleware-broke-our-typescript-types",
-    "title": "Adding a second middleware broke our typescript types"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://scrapfly.dev/posts/browser-math-os-fingerprint/",
-    "title": "Browsers Do Math Differently on Every OS; Anti-Bot Systems Read the Bits"
   },
   {
     "source": "pinboard",
