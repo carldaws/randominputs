@@ -1,28 +1,8 @@
 [
   {
     "source": "hn",
-    "url": "https://prismml.com/news/bonsai-27b",
-    "title": "Bonsai 27B: A 27B-Class model that runs on a phone"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.bis.org/publ/bisbull120.pdf",
-    "title": "Financing the AI boom: from cash flows to debt [pdf]"
-  },
-  {
-    "source": "hn",
-    "url": "https://lucumr.pocoo.org/2026/7/13/the-tower-keeps-rising/",
-    "title": "The Tower Keeps Rising"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.benjamin-bai.com/projects/lemario",
-    "title": "LeMario: Training a JEPA World Model on Super Mario Bros"
-  },
-  {
-    "source": "hn",
-    "url": "https://wololo.net/2026/06/16/unlocking-the-psps-dual-core-setup/",
-    "title": "Unlocking the PSP's Dual Core Setup"
+    "url": "https://fabiensanglard.net/jurrasic_park_computers/index.html",
+    "title": "Jurassic Park computers in excruciating detail"
   },
   {
     "source": "hn",
@@ -31,23 +11,33 @@
   },
   {
     "source": "hn",
-    "url": "https://lzon.ca/posts/tips/cpp-for-range-init/",
-    "title": "C++20 Improved the For-Loop Syntax"
+    "url": "https://prismml.com/news/bonsai-27b",
+    "title": "Bonsai 27B: A 27B-Class model that runs on a phone"
   },
   {
     "source": "hn",
-    "url": "https://lareviewofbooks.org/article/jg-ballard-illuminated-man-christopher-priest-nina-allan/",
-    "title": "The Estranged Worlds of J. G. Ballard"
+    "url": "https://lucumr.pocoo.org/2026/7/13/the-tower-keeps-rising/",
+    "title": "The Tower Keeps Rising"
   },
   {
     "source": "hn",
-    "url": "https://gwern.net/guardian-angel",
-    "title": "Guardian Angels: LLM Personalization for Productivity and Security"
+    "url": "https://www.starfleetmath.com/",
+    "title": "Solving 20 Erdős Problems with 20 Codex Accounts Running in Parallel"
   },
   {
     "source": "hn",
-    "url": "https://heatherburns.tech/2026/07/08/the-kids-with-phones-are-alright/",
-    "title": "The kids with phones are alright"
+    "url": "https://www.bis.org/publ/bisbull120.pdf",
+    "title": "Financing the AI boom: from cash flows to debt [pdf]"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.benjamin-bai.com/projects/lemario",
+    "title": "LeMario: Training a JEPA World Model on Super Mario Bros"
+  },
+  {
+    "source": "hn",
+    "url": "https://utcc.utoronto.ca/~cks/space/blog/sysadmin/DHCPServerAndScreamingHost",
+    "title": "An unusual way for your DHCP server to run out of dynamic IPs"
   },
   {
     "source": "hn",
@@ -61,8 +51,13 @@
   },
   {
     "source": "hn",
-    "url": "https://www.verbaprima.com/",
-    "title": "Show HN: Opening lines of famous literary works"
+    "url": "https://heatherburns.tech/2026/07/08/the-kids-with-phones-are-alright/",
+    "title": "The kids with phones are alright"
+  },
+  {
+    "source": "hn",
+    "url": "https://en.wikipedia.org/wiki/Andon_(manufacturing)",
+    "title": "Andon (manufacturing)"
   },
   {
     "source": "hn",
@@ -71,23 +66,18 @@
   },
   {
     "source": "hn",
-    "url": "https://www.starfleetmath.com/",
-    "title": "Solving 20 Erdős Problems with 20 Codex Accounts Running in Parallel"
+    "url": "https://lareviewofbooks.org/article/jg-ballard-illuminated-man-christopher-priest-nina-allan/",
+    "title": "The Estranged Worlds of J. G. Ballard"
   },
   {
     "source": "hn",
-    "url": "https://agnost.ai",
-    "title": "Launch HN: Agnost AI (YC S26) – Extract user feedback from agent conversations"
+    "url": "https://gwern.net/guardian-angel",
+    "title": "Guardian Angels: LLM Personalization for Productivity and Security"
   },
   {
-    "source": "lobsters",
-    "url": "https://fabiensanglard.net/jurrasic_park_computers/index.html",
-    "title": "Jurassic Park computers in excruciating detail"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://gendignoux.com/blog/2026/07/13/input-digits.html",
-    "title": "Just Let Me Write Digits"
+    "source": "hn",
+    "url": "https://www.verbaprima.com/",
+    "title": "Show HN: Opening lines of famous literary works"
   },
   {
     "source": "lobsters",
@@ -96,8 +86,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://typesanitizer.com/blog/job-queues.html",
-    "title": "Job queues are deceptively tricky"
+    "url": "https://gendignoux.com/blog/2026/07/13/input-digits.html",
+    "title": "Just Let Me Write Digits"
   },
   {
     "source": "lobsters",
@@ -106,23 +96,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://lalitm.com/post/git-history/",
-    "title": "The git history command deserves more attention"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://dead.garden/blog/how-my-images-are-dithered.html",
-    "title": "How my images are dithered"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://human-emacs.org/",
-    "title": "Human Emacs"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://www.eamoncaddigan.net/posts/ai-in-2026/",
-    "title": "Hating AI in 2026"
+    "url": "https://typesanitizer.com/blog/job-queues.html",
+    "title": "Job queues are deceptively tricky"
   },
   {
     "source": "lobsters",
@@ -131,13 +106,28 @@
   },
   {
     "source": "lobsters",
-    "url": "https://blog.jse.li/posts/smith9street/",
-    "title": "Estimating the heights of New Yorkers from their scuff marks"
+    "url": "https://dead.garden/blog/how-my-images-are-dithered.html",
+    "title": "How my images are dithered"
   },
   {
     "source": "lobsters",
-    "url": "https://klarasystems.com/articles/native-inotify-in-freebsd/",
-    "title": "Native inotify in FreeBSD"
+    "url": "https://lalitm.com/post/git-history/",
+    "title": "The git history command deserves more attention"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://www.eamoncaddigan.net/posts/ai-in-2026/",
+    "title": "Hating AI in 2026"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://human-emacs.org/",
+    "title": "Human Emacs"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://blog.jse.li/posts/smith9street/",
+    "title": "Estimating the heights of New Yorkers from their scuff marks"
   },
   {
     "source": "lobsters",
@@ -146,8 +136,18 @@
   },
   {
     "source": "lobsters",
-    "url": "https://purplesyringa.moe/blog/quadrupling-code-performance-with-a-useless-if/",
-    "title": "Quadrupling code performance with a \"useless\" if"
+    "url": "https://klarasystems.com/articles/native-inotify-in-freebsd/",
+    "title": "Native inotify in FreeBSD"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://nelsonslog.wordpress.com/2026/07/14/a-modern-http-request/",
+    "title": "A modern HTTP request"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://lrc.cs.dartmouth.edu/",
+    "title": "Low Resource Computing 2026"
   },
   {
     "source": "lobsters",
@@ -158,5 +158,120 @@
     "source": "lobsters",
     "url": "https://gomakethings.com/articles/generative-colors-with-css/",
     "title": "Generative colors with CSS"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://owickstrom.github.io/the-proportional-web/",
+    "title": "The Proportional Web"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://fazamhd.com/mental-models/networking/",
+    "title": "Networking and the Internet, from First Principles · Faza"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://evanhahn.com/prefer-strict-tables-in-sqlite/",
+    "title": "Prefer STRICT tables in SQLite"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://scottwillsey.com/building-and-shipping-mac-and-ios-apps-without-ever-opening-xcode/",
+    "title": "Building and Shipping Mac and iOS Apps Without Ever Opening Xcode"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://scotto.me/blog/2026-07-12-how-to-read-more-books/",
+    "title": "How to read more books"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://raymyers.org/post/zed-creator-calls-spade-a-spade/",
+    "title": "Zig Creator Calls Spade a Spade, Anthropic Blows Smoke"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://morphing.cloud/hypercard/",
+    "title": "Stacks — run classic HyperCard stacks on modern macOS"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://grumpy.website/1723",
+    "title": "Grumpy Website"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://geohot.github.io//blog/jekyll/update/2026/07/12/i-love-llms.html",
+    "title": "I love LLMs, I hate hype"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.whatcable.uk/",
+    "title": "WhatCable: Know what your USB-C cable can really do"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://shellzine.net/cyberpunk-comics/",
+    "title": "Cyberpunk Comics, Manga and Graphic Novels"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.susanrigetti.com/physics",
+    "title": "Physics — Susan Rigetti"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.mixfont.com/ghost-font",
+    "title": "Ghost Font: The Anti-AI Font Only Humans Can Read"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://davidpoblador.com/deep-dives/what-happened-to-the-frontend/",
+    "title": "The Descent — What Happened to the Frontend While You Weren't Watching"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.larp.website/",
+    "title": "LARP — Revenue infrastructure for serious founders"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://antjs.org/",
+    "title": "Ant, a lightweight JavaScript runtime"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://ai-2040.com/",
+    "title": "AI 2040: Plan A"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://tonsky.me/blog/every-frame-perfect/",
+    "title": "Every Frame Perfect"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://morphing.cloud/lunacy/",
+    "title": "Lunacy — Lunatic Fringe for modern macOS"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://daringfireball.net/2026/07/exactly_like_om_malik",
+    "title": "Daring Fireball: Exactly Like Om Malik"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://avi.press/posts/2026-07-10-after-7-years-in-production-scarf-has-reluctantly-moved-away-from-haskell.html",
+    "title": "After 7 years in production, Scarf has reluctantly moved away from Haskell"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://floooh.github.io/tiny8bit-preview/index.html",
+    "title": "Tiny Emulators"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.lyrebirddreaming.com/post/the-graph-that-should-be-front-page-news",
+    "title": "The Graph That Should Be Front-Page News"
   }
 ]
