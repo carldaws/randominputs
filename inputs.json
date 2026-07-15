@@ -6,13 +6,8 @@
   },
   {
     "source": "hn",
-    "url": "https://www.eetimes.com/risc-v-is-inevitable-state-of-the-union-keynote-argues/",
-    "title": "RISC-V Is Inevitable: State of the Union Keynote Argues"
-  },
-  {
-    "source": "hn",
-    "url": "https://righteousit.com/2009/03/12/never-argue-with-your-boss/",
-    "title": "Never argue with your boss (2009)"
+    "url": "https://prismml.com/news/bonsai-27b",
+    "title": "Bonsai 27B: A 27B-Class model that runs on a phone"
   },
   {
     "source": "hn",
@@ -21,13 +16,13 @@
   },
   {
     "source": "hn",
-    "url": "https://prismml.com/news/bonsai-27b",
-    "title": "Bonsai 27B: A 27B-Class model that runs on a phone"
+    "url": "https://www.ayush.digital/blog/the-memory-heist",
+    "title": "I tricked Claude into leaking your deepest, darkest secrets"
   },
   {
     "source": "hn",
-    "url": "https://www.ayush.digital/blog/the-memory-heist",
-    "title": "I tricked Claude into leaking your deepest, darkest secrets"
+    "url": "https://www.eetimes.com/risc-v-is-inevitable-state-of-the-union-keynote-argues/",
+    "title": "RISC-V Is Inevitable: State of the Union Keynote Argues"
   },
   {
     "source": "hn",
@@ -41,18 +36,8 @@
   },
   {
     "source": "hn",
-    "url": "https://fortune.com/2026/07/13/us-worst-oecd-fair-pay-score/",
-    "title": "America pays workers just 27% of what its wealth allows – the worst in the OECD"
-  },
-  {
-    "source": "hn",
     "url": "https://krebsonsecurity.com/2026/07/microsoft-patches-a-record-570-security-flaws/",
     "title": "Microsoft has released software updates to plug at least 570 security holes"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.starfleetmath.com/",
-    "title": "Solving 20 Erdős Problems with 20 Codex Accounts Running in Parallel"
   },
   {
     "source": "hn",
@@ -63,6 +48,11 @@
     "source": "hn",
     "url": "https://heatherburns.tech/2026/07/08/the-kids-with-phones-are-alright/",
     "title": "The kids with phones are alright"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.starfleetmath.com/",
+    "title": "Solving 20 Erdős Problems with 20 Codex Accounts Running in Parallel"
   },
   {
     "source": "hn",
@@ -106,11 +96,6 @@
   },
   {
     "source": "lobsters",
-    "url": "https://typesanitizer.com/blog/job-queues.html",
-    "title": "Job queues are deceptively tricky"
-  },
-  {
-    "source": "lobsters",
     "url": "https://lrc.cs.dartmouth.edu/",
     "title": "Low Resource Computing 2026"
   },
@@ -121,8 +106,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://temperlang.dev/",
-    "title": "Temper Language"
+    "url": "https://typesanitizer.com/blog/job-queues.html",
+    "title": "Job queues are deceptively tricky"
   },
   {
     "source": "lobsters",
@@ -131,8 +116,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://lalitm.com/post/git-history/",
-    "title": "The git history command deserves more attention"
+    "url": "https://temperlang.dev/",
+    "title": "Temper Language"
   },
   {
     "source": "lobsters",
@@ -141,18 +126,23 @@
   },
   {
     "source": "lobsters",
-    "url": "https://www.eamoncaddigan.net/posts/ai-in-2026/",
-    "title": "Hating AI in 2026"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://klarasystems.com/articles/native-inotify-in-freebsd/",
-    "title": "Native inotify in FreeBSD"
-  },
-  {
-    "source": "lobsters",
     "url": "https://nelsonslog.wordpress.com/2026/07/14/a-modern-http-request/",
     "title": "A modern HTTP request"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://binaryigor.com/the-order-of-data.html",
+    "title": "The Order of Data: defaults, performance, determinism & paging"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://lalitm.com/post/git-history/",
+    "title": "The git history command deserves more attention"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://www.eamoncaddigan.net/posts/ai-in-2026/",
+    "title": "Hating AI in 2026"
   },
   {
     "source": "pinboard",
