@@ -6,6 +6,16 @@
   },
   {
     "source": "hn",
+    "url": "https://www.eetimes.com/risc-v-is-inevitable-state-of-the-union-keynote-argues/",
+    "title": "RISC-V Is Inevitable: State of the Union Keynote Argues"
+  },
+  {
+    "source": "hn",
+    "url": "https://righteousit.com/2009/03/12/never-argue-with-your-boss/",
+    "title": "Never argue with your boss (2009)"
+  },
+  {
+    "source": "hn",
     "url": "https://tailscale.com/security-bulletins",
     "title": "TS-2026-009: Insecure argument handling in Tailscale SSH permitted root access"
   },
@@ -13,11 +23,6 @@
     "source": "hn",
     "url": "https://prismml.com/news/bonsai-27b",
     "title": "Bonsai 27B: A 27B-Class model that runs on a phone"
-  },
-  {
-    "source": "hn",
-    "url": "https://en.wikipedia.org/wiki/Andon_(manufacturing)",
-    "title": "Andon (manufacturing)"
   },
   {
     "source": "hn",
@@ -31,28 +36,28 @@
   },
   {
     "source": "hn",
+    "url": "https://en.wikipedia.org/wiki/Andon_(manufacturing)",
+    "title": "Andon (manufacturing)"
+  },
+  {
+    "source": "hn",
+    "url": "https://fortune.com/2026/07/13/us-worst-oecd-fair-pay-score/",
+    "title": "America pays workers just 27% of what its wealth allows – the worst in the OECD"
+  },
+  {
+    "source": "hn",
+    "url": "https://krebsonsecurity.com/2026/07/microsoft-patches-a-record-570-security-flaws/",
+    "title": "Microsoft has released software updates to plug at least 570 security holes"
+  },
+  {
+    "source": "hn",
     "url": "https://www.starfleetmath.com/",
     "title": "Solving 20 Erdős Problems with 20 Codex Accounts Running in Parallel"
   },
   {
     "source": "hn",
-    "url": "https://www.bis.org/publ/bisbull120.pdf",
-    "title": "Financing the AI boom: from cash flows to debt [pdf]"
-  },
-  {
-    "source": "hn",
-    "url": "https://krebsonsecurity.com/2026/07/microsoft-patches-a-record-570-security-flaws/",
-    "title": "Microsoft Patches a Record 570 Security Flaws"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.eetimes.com/risc-v-is-inevitable-state-of-the-union-keynote-argues/",
-    "title": "RISC-V Is Inevitable: State of the Union Keynote Argues"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.benjamin-bai.com/projects/lemario",
-    "title": "LeMario: Training a JEPA World Model on Super Mario Bros"
+    "url": "https://yongzx.github.io/blog/2026/06/24/job-search/",
+    "title": "Surprising lessons from my research scientist job search"
   },
   {
     "source": "hn",
@@ -61,13 +66,13 @@
   },
   {
     "source": "hn",
-    "url": "https://fortune.com/2026/07/14/data-centers-23-billion-electricity-bills/",
-    "title": "Data centers have hiked electricity prices on the public by $23B"
+    "url": "https://www.benjamin-bai.com/projects/lemario",
+    "title": "LeMario: Training a JEPA World Model on Super Mario Bros"
   },
   {
     "source": "hn",
-    "url": "https://utcc.utoronto.ca/~cks/space/blog/sysadmin/DHCPServerAndScreamingHost",
-    "title": "An unusual way for your DHCP server to run out of dynamic IPs"
+    "url": "https://agnost.ai",
+    "title": "Launch HN: Agnost AI (YC S26) – Extract user feedback from agent conversations"
   },
   {
     "source": "hn",
@@ -86,6 +91,11 @@
   },
   {
     "source": "lobsters",
+    "url": "https://lzon.ca/posts/tips/cpp-for-range-init/",
+    "title": "How C++20 improved the for-loop syntax"
+  },
+  {
+    "source": "lobsters",
     "url": "https://gendignoux.com/blog/2026/07/13/input-digits.html",
     "title": "Just Let Me Write Digits"
   },
@@ -98,6 +108,16 @@
     "source": "lobsters",
     "url": "https://typesanitizer.com/blog/job-queues.html",
     "title": "Job queues are deceptively tricky"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://lrc.cs.dartmouth.edu/",
+    "title": "Low Resource Computing 2026"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://ayush.digital/blog/the-memory-heist",
+    "title": "The Memory Heist"
   },
   {
     "source": "lobsters",
@@ -116,43 +136,23 @@
   },
   {
     "source": "lobsters",
-    "url": "https://www.eamoncaddigan.net/posts/ai-in-2026/",
-    "title": "Hating AI in 2026"
-  },
-  {
-    "source": "lobsters",
     "url": "https://productpicnic.beehiiv.com/p/empathy-and-delight-mean-nothing-when-the-software-is-disrespectful",
     "title": "Empathy and delight mean nothing when the software is disrespectful"
   },
   {
     "source": "lobsters",
-    "url": "https://nelsonslog.wordpress.com/2026/07/14/a-modern-http-request/",
-    "title": "A modern HTTP request"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://ayush.digital/blog/the-memory-heist",
-    "title": "The Memory Heist"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://human-emacs.org/",
-    "title": "Human Emacs"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://lrc.cs.dartmouth.edu/",
-    "title": "Low Resource Computing 2026"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://blog.jse.li/posts/smith9street/",
-    "title": "Estimating the heights of New Yorkers from their scuff marks"
+    "url": "https://www.eamoncaddigan.net/posts/ai-in-2026/",
+    "title": "Hating AI in 2026"
   },
   {
     "source": "lobsters",
     "url": "https://klarasystems.com/articles/native-inotify-in-freebsd/",
     "title": "Native inotify in FreeBSD"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://nelsonslog.wordpress.com/2026/07/14/a-modern-http-request/",
+    "title": "A modern HTTP request"
   },
   {
     "source": "pinboard",
