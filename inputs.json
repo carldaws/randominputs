@@ -6,13 +6,8 @@
   },
   {
     "source": "hn",
-    "url": "https://developer.puter.com/labs/firefox-wasm/",
-    "title": "Show HN: Firefox in WebAssembly"
-  },
-  {
-    "source": "hn",
-    "url": "https://economics.mit.edu/sites/default/files/2026-07/speculative_growth_AI_public.pdf",
-    "title": "Speculative Growth and the AI \"Bubble\" [pdf]"
+    "url": "https://mort.coffee/home/sqlite-editions/",
+    "title": "SQLite should have (Rust-style) editions"
   },
   {
     "source": "hn",
@@ -21,28 +16,8 @@
   },
   {
     "source": "hn",
-    "url": "https://www.neomindlabs.com/2026/06/08/running-gemma-4-26b-at-5-tokens-sec-on-a-13-year-old-xeon-with-no-gpu/",
-    "title": "Running Gemma 4 26B at 5 tokens/sec on a 13-year-old Xeon with no GPU"
-  },
-  {
-    "source": "hn",
-    "url": "https://hugodaniel.com/posts/the-end-of-creativity/",
-    "title": "The End of Creativity"
-  },
-  {
-    "source": "hn",
-    "url": "https://mass-driver.com/article/from-human-hands",
-    "title": "We don't use AI in any of our design or production processes"
-  },
-  {
-    "source": "hn",
-    "url": "https://brainless.swerdlow.dev",
-    "title": "Brainless: Shadcn components that look like Claude Code, Codex and Grok"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.lexaloffle.com/voxatron.php",
-    "title": "Voxatron"
+    "url": "https://blog.greg.technology/2026/07/14/llm-networking-with-mikrotik.html",
+    "title": "LLM Networking with MikroTik"
   },
   {
     "source": "hn",
@@ -51,8 +26,18 @@
   },
   {
     "source": "hn",
-    "url": "https://clocks.dev",
-    "title": "Collection of Digital Clock Designs"
+    "url": "https://developer.puter.com/labs/firefox-wasm/",
+    "title": "Show HN: Firefox in WebAssembly"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.neomindlabs.com/2026/06/08/running-gemma-4-26b-at-5-tokens-sec-on-a-13-year-old-xeon-with-no-gpu/",
+    "title": "Running Gemma 4 26B at 5 tokens/sec on a 13-year-old Xeon with no GPU"
+  },
+  {
+    "source": "hn",
+    "url": "https://playonemoreletter.com/",
+    "title": "Show HN: One More Letter"
   },
   {
     "source": "hn",
@@ -61,8 +46,23 @@
   },
   {
     "source": "hn",
-    "url": "https://bartoszmilewski.com/2026/07/11/tambara-equipment/",
-    "title": "Tambara Equipment"
+    "url": "https://brainless.swerdlow.dev",
+    "title": "Brainless: Shadcn components that look like Claude Code, Codex and Grok"
+  },
+  {
+    "source": "hn",
+    "url": "https://clocks.dev",
+    "title": "Collection of Digital Clock Designs"
+  },
+  {
+    "source": "hn",
+    "url": "https://sqlite.org/nulinstr.html",
+    "title": "Nul Characters in Strings in SQLite"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.lexaloffle.com/voxatron.php",
+    "title": "Voxatron"
   },
   {
     "source": "hn",
@@ -76,13 +76,13 @@
   },
   {
     "source": "hn",
-    "url": "https://theamericanscholar.org/twain-town-u-s-a/",
-    "title": "Twain Town, USA"
+    "url": "https://economics.mit.edu/sites/default/files/2026-07/speculative_growth_AI_public.pdf",
+    "title": "Speculative Growth and the AI \"Bubble\" [pdf]"
   },
   {
-    "source": "lobsters",
-    "url": "https://mort.coffee/home/sqlite-editions/",
-    "title": "SQLite should have (Rust-style) editions"
+    "source": "hn",
+    "url": "https://bartoszmilewski.com/2026/07/11/tambara-equipment/",
+    "title": "Tambara Equipment"
   },
   {
     "source": "lobsters",
@@ -101,6 +101,11 @@
   },
   {
     "source": "lobsters",
+    "url": "https://www.schneier.com/blog/archives/2026/07/ai-data-centers-and-the-concentration-of-wealth.html",
+    "title": "AI Data Centers and the Concentration of Wealth"
+  },
+  {
+    "source": "lobsters",
     "url": "https://sebsite.pw/w/20260712-kandr.html",
     "title": "a bunch of stuff i used to not know about K&R C"
   },
@@ -108,11 +113,6 @@
     "source": "lobsters",
     "url": "https://lzon.ca/posts/tips/cpp-for-range-init/",
     "title": "How C++20 improved the for-loop syntax"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://www.schneier.com/blog/archives/2026/07/ai-data-centers-and-the-concentration-of-wealth.html",
-    "title": "AI Data Centers and the Concentration of Wealth"
   },
   {
     "source": "lobsters",
@@ -141,7 +141,7 @@
   },
   {
     "source": "lobsters",
-    "url": "https://usetelos.ai/blog/killing-coding-agent-slop",
-    "title": "Killing Coding Agent Slop With Adversarial Self-Play"
+    "url": "https://crowdhailer.me/2026-07-15/abstracting-effects-with-continuations/",
+    "title": "Abstracting effects with continuations"
   }
 ]
