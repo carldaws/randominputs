@@ -6,8 +6,33 @@
   },
   {
     "source": "hn",
+    "url": "https://developer.puter.com/labs/firefox-wasm/",
+    "title": "Show HN: Firefox in WebAssembly"
+  },
+  {
+    "source": "hn",
+    "url": "https://economics.mit.edu/sites/default/files/2026-07/speculative_growth_AI_public.pdf",
+    "title": "Speculative Growth and the AI \"Bubble\" [pdf]"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.siegelendowment.org/wp-content/uploads/2026/07/fortune-david-siegel-open-source-ai.pdf",
+    "title": "Governments, companies, nonprofits should invest in free, open source AI [pdf]"
+  },
+  {
+    "source": "hn",
     "url": "https://www.neomindlabs.com/2026/06/08/running-gemma-4-26b-at-5-tokens-sec-on-a-13-year-old-xeon-with-no-gpu/",
     "title": "Running Gemma 4 26B at 5 tokens/sec on a 13-year-old Xeon with no GPU"
+  },
+  {
+    "source": "hn",
+    "url": "https://hugodaniel.com/posts/the-end-of-creativity/",
+    "title": "The End of Creativity"
+  },
+  {
+    "source": "hn",
+    "url": "https://mass-driver.com/article/from-human-hands",
+    "title": "We don't use AI in any of our design or production processes"
   },
   {
     "source": "hn",
@@ -21,23 +46,23 @@
   },
   {
     "source": "hn",
+    "url": "https://pairdrop.net/",
+    "title": "P2P local file transfer based on WebRTC"
+  },
+  {
+    "source": "hn",
     "url": "https://clocks.dev",
     "title": "Collection of Digital Clock Designs"
   },
   {
     "source": "hn",
-    "url": "https://developer.puter.com/labs/firefox-wasm/",
-    "title": "Show HN: Firefox in WebAssembly"
+    "url": "https://clig.dev/",
+    "title": "Command Line Interface Guidelines"
   },
   {
     "source": "hn",
-    "url": "https://www.siegelendowment.org/wp-content/uploads/2026/07/fortune-david-siegel-open-source-ai.pdf",
-    "title": "Must actively fund open source AI [pdf]"
-  },
-  {
-    "source": "hn",
-    "url": "https://economics.mit.edu/sites/default/files/2026-07/speculative_growth_AI_public.pdf",
-    "title": "Speculative Growth and the AI \"Bubble\" [pdf]"
+    "url": "https://bartoszmilewski.com/2026/07/11/tambara-equipment/",
+    "title": "Tambara Equipment"
   },
   {
     "source": "hn",
@@ -53,21 +78,6 @@
     "source": "hn",
     "url": "https://theamericanscholar.org/twain-town-u-s-a/",
     "title": "Twain Town, USA"
-  },
-  {
-    "source": "hn",
-    "url": "https://hugodaniel.com/posts/the-end-of-creativity/",
-    "title": "The End of Creativity"
-  },
-  {
-    "source": "hn",
-    "url": "https://clig.dev/",
-    "title": "Command Line Interface Guidelines"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.ayush.digital/blog/the-memory-heist",
-    "title": "The Memory Heist"
   },
   {
     "source": "lobsters",
@@ -101,6 +111,11 @@
   },
   {
     "source": "lobsters",
+    "url": "https://www.schneier.com/blog/archives/2026/07/ai-data-centers-and-the-concentration-of-wealth.html",
+    "title": "AI Data Centers and the Concentration of Wealth"
+  },
+  {
+    "source": "lobsters",
     "url": "https://mitpress.mit.edu/9780262052481/inventing-eliza/",
     "title": "Inventing ELIZA - How the First Chatbot Shaped the Future of AI"
   },
@@ -108,11 +123,6 @@
     "source": "lobsters",
     "url": "https://crates.io/crates/qr-swastika-avoider",
     "title": "qr-swastika-avoider v0.1.0"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://www.schneier.com/blog/archives/2026/07/ai-data-centers-and-the-concentration-of-wealth.html",
-    "title": "AI Data Centers and the Concentration of Wealth"
   },
   {
     "source": "lobsters",
@@ -133,10 +143,5 @@
     "source": "lobsters",
     "url": "https://usetelos.ai/blog/killing-coding-agent-slop",
     "title": "Killing Coding Agent Slop With Adversarial Self-Play"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://fabiensanglard.net/jurrasic_park_computers/index.html",
-    "title": "Jurassic Park computers in excruciating detail"
   }
 ]
