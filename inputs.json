@@ -6,6 +6,16 @@
   },
   {
     "source": "hn",
+    "url": "https://jiga.io/about-us/",
+    "title": "Jiga (YC W21) is hiring the best people to make manufacturing great again"
+  },
+  {
+    "source": "hn",
+    "url": "https://cdrom.ca/games/2026/05/30/xd.html",
+    "title": "A Trip to 90s Kansai: Exploring the XD FirstClass Network BBS"
+  },
+  {
+    "source": "hn",
     "url": "https://prismml.com/news/bonsai-27b",
     "title": "Bonsai 27B: A 27B-Class model that runs on a phone"
   },
@@ -16,23 +26,23 @@
   },
   {
     "source": "hn",
-    "url": "https://www.ayush.digital/blog/the-memory-heist",
-    "title": "I tricked Claude into leaking your deepest, darkest secrets"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.eetimes.com/risc-v-is-inevitable-state-of-the-union-keynote-argues/",
-    "title": "RISC-V Is Inevitable: State of the Union Keynote Argues"
-  },
-  {
-    "source": "hn",
     "url": "https://lucumr.pocoo.org/2026/7/13/the-tower-keeps-rising/",
     "title": "The Tower Keeps Rising"
   },
   {
     "source": "hn",
-    "url": "https://en.wikipedia.org/wiki/Andon_(manufacturing)",
-    "title": "Andon (manufacturing)"
+    "url": "https://www.davidsobsessions.com/p/one-year-of-gomobile/",
+    "title": "Using Go for Mobile Apps"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.ayush.digital/blog/the-memory-heist",
+    "title": "I tricked Claude into leaking your deepest, darkest secrets"
+  },
+  {
+    "source": "hn",
+    "url": "https://film-grab.com/movies-a-z/",
+    "title": "Filmgrab: Films A-Z"
   },
   {
     "source": "hn",
@@ -41,38 +51,23 @@
   },
   {
     "source": "hn",
-    "url": "https://yongzx.github.io/blog/2026/06/24/job-search/",
-    "title": "Surprising lessons from my research scientist job search"
+    "url": "https://en.wikipedia.org/wiki/Andon_(manufacturing)",
+    "title": "Andon (manufacturing)"
   },
   {
     "source": "hn",
-    "url": "https://heatherburns.tech/2026/07/08/the-kids-with-phones-are-alright/",
-    "title": "The kids with phones are alright"
+    "url": "https://www.eetimes.com/risc-v-is-inevitable-state-of-the-union-keynote-argues/",
+    "title": "RISC-V Is Inevitable: State of the Union Keynote Argues"
   },
   {
-    "source": "hn",
-    "url": "https://www.starfleetmath.com/",
-    "title": "Solving 20 Erdős Problems with 20 Codex Accounts Running in Parallel"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.benjamin-bai.com/projects/lemario",
-    "title": "LeMario: Training a JEPA World Model on Super Mario Bros"
-  },
-  {
-    "source": "hn",
-    "url": "https://agnost.ai",
-    "title": "Launch HN: Agnost AI (YC S26) – Extract user feedback from agent conversations"
-  },
-  {
-    "source": "hn",
+    "source": "lobsters",
     "url": "https://xeiaso.net/notes/2026/check-your-smart-tv/",
-    "title": "Probably check on your smart appliances"
+    "title": "You should probably check on your smart appliances"
   },
   {
-    "source": "hn",
-    "url": "https://lareviewofbooks.org/article/jg-ballard-illuminated-man-christopher-priest-nina-allan/",
-    "title": "The Estranged Worlds of J. G. Ballard"
+    "source": "lobsters",
+    "url": "https://lzon.ca/posts/tips/cpp-for-range-init/",
+    "title": "How C++20 improved the for-loop syntax"
   },
   {
     "source": "lobsters",
@@ -81,8 +76,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://lzon.ca/posts/tips/cpp-for-range-init/",
-    "title": "How C++20 improved the for-loop syntax"
+    "url": "https://ayush.digital/blog/the-memory-heist",
+    "title": "The Memory Heist"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://lrc.cs.dartmouth.edu/",
+    "title": "Low Resource Computing 2026"
   },
   {
     "source": "lobsters",
@@ -96,18 +96,18 @@
   },
   {
     "source": "lobsters",
-    "url": "https://lrc.cs.dartmouth.edu/",
-    "title": "Low Resource Computing 2026"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://ayush.digital/blog/the-memory-heist",
-    "title": "The Memory Heist"
-  },
-  {
-    "source": "lobsters",
     "url": "https://typesanitizer.com/blog/job-queues.html",
     "title": "Job queues are deceptively tricky"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://sebsite.pw/w/20260715-null.html",
+    "title": "i've been thinking about null pointers"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://productpicnic.beehiiv.com/p/empathy-and-delight-mean-nothing-when-the-software-is-disrespectful",
+    "title": "Empathy and delight mean nothing when the software is disrespectful"
   },
   {
     "source": "lobsters",
@@ -118,135 +118,5 @@
     "source": "lobsters",
     "url": "https://temperlang.dev/",
     "title": "Temper Language"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://productpicnic.beehiiv.com/p/empathy-and-delight-mean-nothing-when-the-software-is-disrespectful",
-    "title": "Empathy and delight mean nothing when the software is disrespectful"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://nelsonslog.wordpress.com/2026/07/14/a-modern-http-request/",
-    "title": "A modern HTTP request"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://binaryigor.com/the-order-of-data.html",
-    "title": "The Order of Data: defaults, performance, determinism & paging"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://lalitm.com/post/git-history/",
-    "title": "The git history command deserves more attention"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://www.eamoncaddigan.net/posts/ai-in-2026/",
-    "title": "Hating AI in 2026"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://scottwillsey.com/building-and-shipping-mac-and-ios-apps-without-ever-opening-xcode/",
-    "title": "Building and Shipping Mac and iOS Apps Without Ever Opening Xcode"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.whatcable.uk/",
-    "title": "WhatCable: Know what your USB-C cable can really do"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://scotto.me/blog/2026-07-12-how-to-read-more-books/",
-    "title": "How to read more books"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://owickstrom.github.io/the-proportional-web/",
-    "title": "The Proportional Web"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://morphing.cloud/hypercard/",
-    "title": "Stacks — run classic HyperCard stacks on modern macOS"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.shortverse.com/",
-    "title": "Shortverse | The Universe of Short Film"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://raymyers.org/post/zed-creator-calls-spade-a-spade/",
-    "title": "Zig Creator Calls Spade a Spade, Anthropic Blows Smoke"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://grumpy.website/1723",
-    "title": "Grumpy Website"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.susanrigetti.com/physics",
-    "title": "Physics — Susan Rigetti"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://geohot.github.io//blog/jekyll/update/2026/07/12/i-love-llms.html",
-    "title": "I love LLMs, I hate hype"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://evanhahn.com/prefer-strict-tables-in-sqlite/",
-    "title": "Prefer STRICT tables in SQLite"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://davidpoblador.com/deep-dives/what-happened-to-the-frontend/",
-    "title": "The Descent — What Happened to the Frontend While You Weren't Watching"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://raymyers.org/post/zig-creator-calls-spade-a-spade/",
-    "title": "Zig Creator Calls Spade a Spade, Anthropic Blows Smoke"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://shellzine.net/cyberpunk-comics/",
-    "title": "Cyberpunk Comics, Manga and Graphic Novels"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://andiroberts.com/citizenship/the-social-physics-of-conversation-citizenship-leadership",
-    "title": "The social physics of conversation: Communication patterns matter | Andi Roberts – Executive Coach | Leadership Trainer | Facilitator"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://news.ycombinator.com/item?id=48896665",
-    "title": "Building and Shipping Mac and iOS Apps Without Ever Opening Xcode | Hacker News"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.lyrebirddreaming.com/post/the-graph-that-should-be-front-page-news",
-    "title": "The Graph That Should Be Front-Page News"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://morphing.cloud/lunacy/",
-    "title": "Lunacy — Lunatic Fringe for modern macOS"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://tonsky.me/blog/every-frame-perfect/",
-    "title": "Every Frame Perfect"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://terrytao.wordpress.com/2026/07/11/old-and-new-apps-via-modern-coding-agents/",
-    "title": "Old and new apps, via modern coding agents"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://ai-2040.com/",
-    "title": "AI 2040: Plan A"
   }
 ]
