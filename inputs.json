@@ -1,38 +1,18 @@
 [
   {
     "source": "hn",
-    "url": "https://www.corporatejetinvestor.com/news/starlink-price-rise-reckless-says-correnti/",
-    "title": "Starlink 2X Price Increase"
+    "url": "https://thinkingmachines.ai/inkling/",
+    "title": "Murati's Thinking Machines Releases Open-Weights 975B Parameter LLM"
   },
   {
     "source": "hn",
     "url": "https://www.neomindlabs.com/2026/06/08/running-gemma-4-26b-at-5-tokens-sec-on-a-13-year-old-xeon-with-no-gpu/",
-    "title": "Running Gemma 4 26B at 5 tokens/SEC on a 13-year-old Xeon with no GPU"
+    "title": "Running Gemma 4 26B at 5 tokens/sec on a 13-year-old Xeon with no GPU"
   },
   {
     "source": "hn",
-    "url": "https://fabiensanglard.net/jurrasic_park_computers/index.html",
-    "title": "Jurassic Park computers in excruciating detail"
-  },
-  {
-    "source": "hn",
-    "url": "https://fitelson.org/seminar/dawid.pdf",
-    "title": "The well-calibrated Bayesian [pdf] (1982)"
-  },
-  {
-    "source": "hn",
-    "url": "https://eardatasci.github.io/c/ambiance/index.html",
-    "title": "Towards a Harness That Can Do Anything"
-  },
-  {
-    "source": "hn",
-    "url": "https://smarterarticles.co.uk/the-three-second-theft-why-ai-voice-fraud-outruns-every-defence",
-    "title": "The Three-Second Theft: Why AI Voice Fraud Outruns Every Defence"
-  },
-  {
-    "source": "hn",
-    "url": "https://theloop.ecpr.eu/purging-the-books-of-george-orwell-will-not-halt-the-rise-of-the-political-right/",
-    "title": "Purging George Orwell's books misses what drives the political right"
+    "url": "https://thinkingmachines.ai/news/introducing-inkling/",
+    "title": "Inkling: Our Open-Weights Model"
   },
   {
     "source": "hn",
@@ -41,23 +21,18 @@
   },
   {
     "source": "hn",
-    "url": "https://www.newyorker.com/magazine/2026/07/20/when-ai-is-a-member-of-the-family",
-    "title": "When A.I. Is a Member of the Family"
+    "url": "https://www.zocalopublicsquare.org/my-midlife-crisis-corolla-fast-furious-fully-modded/",
+    "title": "My midlife crisis Corolla is fast, furious, and modded"
   },
   {
     "source": "hn",
-    "url": "https://www.dea.gov/press-releases/2026/07/01/dea-temporarily-schedule-7-oh-and-related-substances-protect-public",
-    "title": "DEA to Temporarily Schedule 7-Oh and Related Substances to Protect Public Safety"
+    "url": "https://eardatasci.github.io/c/ambiance/index.html",
+    "title": "Towards a Harness That Can Do Anything"
   },
   {
     "source": "hn",
-    "url": "https://c3-lang.org/blog/0_8_2_a_modest_improvement/",
-    "title": "C3 0.8.2 a Modest Improvement"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.ayush.digital/blog/the-memory-heist",
-    "title": "The Memory Heist"
+    "url": "https://blog.crossui.com/2026/07/editing-react-components-that-never-rendered",
+    "title": "Editing React components that never rendered"
   },
   {
     "source": "hn",
@@ -66,13 +41,28 @@
   },
   {
     "source": "hn",
-    "url": "https://www.zocalopublicsquare.org/my-midlife-crisis-corolla-fast-furious-fully-modded/",
-    "title": "My midlife crisis Corolla is fast, furious, and modded"
+    "url": "https://www.ayush.digital/blog/the-memory-heist",
+    "title": "The Memory Heist"
+  },
+  {
+    "source": "hn",
+    "url": "https://pantograph.com/journal/pan-1",
+    "title": "A General Goal-Conditioned Minecraft Model"
   },
   {
     "source": "hn",
     "url": "https://dpa-international.com/economics/urn:newsml:dpa.com:20090101:260715-930-389143/",
     "title": "OpenAI loses trademark dispute at EU court"
+  },
+  {
+    "source": "hn",
+    "url": "https://smarterarticles.co.uk/the-three-second-theft-why-ai-voice-fraud-outruns-every-defence",
+    "title": "The Three-Second Theft: Why AI Voice Fraud Outruns Every Defence"
+  },
+  {
+    "source": "hn",
+    "url": "https://fitelson.org/seminar/dawid.pdf",
+    "title": "The well-calibrated Bayesian [pdf] (1982)"
   },
   {
     "source": "hn",
@@ -86,13 +76,8 @@
   },
   {
     "source": "hn",
-    "url": "https://pantograph.com/journal/pan-1",
-    "title": "A General Goal-Conditioned Minecraft Model"
-  },
-  {
-    "source": "hn",
-    "url": "https://briarproject.org/news/2026-maintenance-mode/",
-    "title": "Briar Is in Maintenance Mode"
+    "url": "https://www.dea.gov/press-releases/2026/07/01/dea-temporarily-schedule-7-oh-and-related-substances-protect-public",
+    "title": "DEA to Temporarily Schedule 7-Oh and Related Substances to Protect Public Safety"
   },
   {
     "source": "lobsters",
@@ -111,18 +96,23 @@
   },
   {
     "source": "lobsters",
-    "url": "https://lzon.ca/posts/tips/cpp-for-range-init/",
-    "title": "How C++20 improved the for-loop syntax"
-  },
-  {
-    "source": "lobsters",
     "url": "https://sebsite.pw/w/20260712-kandr.html",
     "title": "a bunch of stuff i used to not know about K&R C"
   },
   {
     "source": "lobsters",
+    "url": "https://lzon.ca/posts/tips/cpp-for-range-init/",
+    "title": "How C++20 improved the for-loop syntax"
+  },
+  {
+    "source": "lobsters",
     "url": "https://crates.io/crates/qr-swastika-avoider",
     "title": "qr-swastika-avoider v0.1.0"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://mitpress.mit.edu/9780262052481/inventing-eliza/",
+    "title": "Inventing ELIZA - How the First Chatbot Shaped the Future of AI"
   },
   {
     "source": "lobsters",
@@ -141,8 +131,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://mitpress.mit.edu/9780262052481/inventing-eliza/",
-    "title": "Inventing ELIZA - How the First Chatbot Shaped the Future of AI"
+    "url": "https://fabiensanglard.net/jurrasic_park_computers/index.html",
+    "title": "Jurassic Park computers in excruciating detail"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://usetelos.ai/blog/killing-coding-agent-slop",
+    "title": "Killing Coding Agent Slop With Adversarial Self-Play"
   },
   {
     "source": "lobsters",
