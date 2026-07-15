@@ -1,8 +1,8 @@
 [
   {
     "source": "hn",
-    "url": "https://thinkingmachines.ai/inkling/",
-    "title": "Murati's Thinking Machines Releases Open-Weights 975B Parameter LLM"
+    "url": "https://thinkingmachines.ai/news/introducing-inkling/",
+    "title": "Inkling: Our Open-Weights Model"
   },
   {
     "source": "hn",
@@ -11,13 +11,18 @@
   },
   {
     "source": "hn",
-    "url": "https://thinkingmachines.ai/news/introducing-inkling/",
-    "title": "Inkling: Our Open-Weights Model"
+    "url": "https://clocks.dev",
+    "title": "Collection of Digital Clock Designs"
   },
   {
     "source": "hn",
-    "url": "https://clocks.dev",
-    "title": "Collection of Digital Clock Designs"
+    "url": "https://www.lexaloffle.com/voxatron.php",
+    "title": "Voxatron"
+  },
+  {
+    "source": "hn",
+    "url": "https://eardatasci.github.io/c/ambiance/index.html",
+    "title": "Towards a harness that can do anything"
   },
   {
     "source": "hn",
@@ -26,28 +31,8 @@
   },
   {
     "source": "hn",
-    "url": "https://eardatasci.github.io/c/ambiance/index.html",
-    "title": "Towards a Harness That Can Do Anything"
-  },
-  {
-    "source": "hn",
-    "url": "https://blog.crossui.com/2026/07/editing-react-components-that-never-rendered",
-    "title": "Editing React components that never rendered"
-  },
-  {
-    "source": "hn",
-    "url": "https://fhoehl.com/designing-algodeck",
-    "title": "What designing 54 computer science cards taught me about graphic design"
-  },
-  {
-    "source": "hn",
     "url": "https://www.ayush.digital/blog/the-memory-heist",
     "title": "The Memory Heist"
-  },
-  {
-    "source": "hn",
-    "url": "https://pantograph.com/journal/pan-1",
-    "title": "A General Goal-Conditioned Minecraft Model"
   },
   {
     "source": "hn",
@@ -56,8 +41,13 @@
   },
   {
     "source": "hn",
-    "url": "https://smarterarticles.co.uk/the-three-second-theft-why-ai-voice-fraud-outruns-every-defence",
-    "title": "The Three-Second Theft: Why AI Voice Fraud Outruns Every Defence"
+    "url": "https://briarproject.org/news/2026-maintenance-mode/",
+    "title": "Briar is in maintenance mode"
+  },
+  {
+    "source": "hn",
+    "url": "https://blog.crossui.com/2026/07/editing-react-components-that-never-rendered",
+    "title": "Editing React components that never rendered"
   },
   {
     "source": "hn",
@@ -66,18 +56,23 @@
   },
   {
     "source": "hn",
+    "url": "https://smarterarticles.co.uk/the-three-second-theft-why-ai-voice-fraud-outruns-every-defence",
+    "title": "The Three-Second Theft: Why AI Voice Fraud Outruns Every Defence"
+  },
+  {
+    "source": "hn",
+    "url": "https://pantograph.com/journal/pan-1",
+    "title": "A General Goal-Conditioned Minecraft Model"
+  },
+  {
+    "source": "hn",
     "url": "https://blog.exe.dev/meet-the-conservationist-who-turned-40-terabytes-of-government-data-into-a-video-game",
     "title": "The Conservationist Who Turned 40 Terabytes of Public Data into a Video Game"
   },
   {
     "source": "hn",
-    "url": "https://labs.quansight.org/blog/python-abi-abi3t",
-    "title": "What Every Python Developer Should Know About the CPython ABI"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.dea.gov/press-releases/2026/07/01/dea-temporarily-schedule-7-oh-and-related-substances-protect-public",
-    "title": "DEA to Temporarily Schedule 7-Oh and Related Substances to Protect Public Safety"
+    "url": "https://www.newyorker.com/magazine/2026/07/20/when-ai-is-a-member-of-the-family",
+    "title": "When A.I. is a member of the family"
   },
   {
     "source": "lobsters",
@@ -96,6 +91,11 @@
   },
   {
     "source": "lobsters",
+    "url": "https://mort.coffee/home/sqlite-editions/",
+    "title": "SQLite should have (Rust-style) editions"
+  },
+  {
+    "source": "lobsters",
     "url": "https://sebsite.pw/w/20260712-kandr.html",
     "title": "a bunch of stuff i used to not know about K&R C"
   },
@@ -106,13 +106,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://crates.io/crates/qr-swastika-avoider",
-    "title": "qr-swastika-avoider v0.1.0"
+    "url": "https://mitpress.mit.edu/9780262052481/inventing-eliza/",
+    "title": "Inventing ELIZA - How the First Chatbot Shaped the Future of AI"
   },
   {
     "source": "lobsters",
-    "url": "https://mitpress.mit.edu/9780262052481/inventing-eliza/",
-    "title": "Inventing ELIZA - How the First Chatbot Shaped the Future of AI"
+    "url": "https://crates.io/crates/qr-swastika-avoider",
+    "title": "qr-swastika-avoider v0.1.0"
   },
   {
     "source": "lobsters",
@@ -121,18 +121,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://ayush.digital/blog/the-memory-heist",
-    "title": "The Memory Heist"
-  },
-  {
-    "source": "lobsters",
     "url": "https://productpicnic.beehiiv.com/p/empathy-and-delight-mean-nothing-when-the-software-is-disrespectful",
     "title": "Empathy and delight mean nothing when the software is disrespectful"
   },
   {
     "source": "lobsters",
-    "url": "https://fabiensanglard.net/jurrasic_park_computers/index.html",
-    "title": "Jurassic Park computers in excruciating detail"
+    "url": "https://ayush.digital/blog/the-memory-heist",
+    "title": "The Memory Heist"
   },
   {
     "source": "lobsters",
@@ -141,12 +136,7 @@
   },
   {
     "source": "lobsters",
-    "url": "https://binaryigor.com/the-order-of-data.html",
-    "title": "The Order of Data: defaults, performance, determinism & paging"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://pythonspeed.com/articles/branchless-binary-search/",
-    "title": "6× faster binary search: from compiled code to mechanical sympathy"
+    "url": "https://fabiensanglard.net/jurrasic_park_computers/index.html",
+    "title": "Jurassic Park computers in excruciating detail"
   }
 ]
