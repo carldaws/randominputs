@@ -16,6 +16,16 @@
   },
   {
     "source": "hn",
+    "url": "https://en.wikipedia.org/wiki/Andon_(manufacturing)",
+    "title": "Andon (manufacturing)"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.ayush.digital/blog/the-memory-heist",
+    "title": "I tricked Claude into leaking your deepest, darkest secrets"
+  },
+  {
+    "source": "hn",
     "url": "https://lucumr.pocoo.org/2026/7/13/the-tower-keeps-rising/",
     "title": "The Tower Keeps Rising"
   },
@@ -31,23 +41,18 @@
   },
   {
     "source": "hn",
-    "url": "https://www.benjamin-bai.com/projects/lemario",
-    "title": "LeMario: Training a JEPA World Model on Super Mario Bros"
-  },
-  {
-    "source": "hn",
-    "url": "https://utcc.utoronto.ca/~cks/space/blog/sysadmin/DHCPServerAndScreamingHost",
-    "title": "An unusual way for your DHCP server to run out of dynamic IPs"
-  },
-  {
-    "source": "hn",
-    "url": "https://fortune.com/2026/07/14/data-centers-23-billion-electricity-bills/",
-    "title": "Data centers have hiked electricity prices on the public by $23B"
-  },
-  {
-    "source": "hn",
     "url": "https://krebsonsecurity.com/2026/07/microsoft-patches-a-record-570-security-flaws/",
     "title": "Microsoft Patches a Record 570 Security Flaws"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.eetimes.com/risc-v-is-inevitable-state-of-the-union-keynote-argues/",
+    "title": "RISC-V Is Inevitable: State of the Union Keynote Argues"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.benjamin-bai.com/projects/lemario",
+    "title": "LeMario: Training a JEPA World Model on Super Mario Bros"
   },
   {
     "source": "hn",
@@ -56,8 +61,13 @@
   },
   {
     "source": "hn",
-    "url": "https://en.wikipedia.org/wiki/Andon_(manufacturing)",
-    "title": "Andon (manufacturing)"
+    "url": "https://fortune.com/2026/07/14/data-centers-23-billion-electricity-bills/",
+    "title": "Data centers have hiked electricity prices on the public by $23B"
+  },
+  {
+    "source": "hn",
+    "url": "https://utcc.utoronto.ca/~cks/space/blog/sysadmin/DHCPServerAndScreamingHost",
+    "title": "An unusual way for your DHCP server to run out of dynamic IPs"
   },
   {
     "source": "hn",
@@ -68,16 +78,6 @@
     "source": "hn",
     "url": "https://lareviewofbooks.org/article/jg-ballard-illuminated-man-christopher-priest-nina-allan/",
     "title": "The Estranged Worlds of J. G. Ballard"
-  },
-  {
-    "source": "hn",
-    "url": "https://gwern.net/guardian-angel",
-    "title": "Guardian Angels: LLM Personalization for Productivity and Security"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.verbaprima.com/",
-    "title": "Show HN: Opening lines of famous literary works"
   },
   {
     "source": "lobsters",
@@ -121,23 +121,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://human-emacs.org/",
-    "title": "Human Emacs"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://blog.jse.li/posts/smith9street/",
-    "title": "Estimating the heights of New Yorkers from their scuff marks"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://ayush.digital/blog/the-memory-heist",
-    "title": "The Memory Heist"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://klarasystems.com/articles/native-inotify-in-freebsd/",
-    "title": "Native inotify in FreeBSD"
+    "url": "https://productpicnic.beehiiv.com/p/empathy-and-delight-mean-nothing-when-the-software-is-disrespectful",
+    "title": "Empathy and delight mean nothing when the software is disrespectful"
   },
   {
     "source": "lobsters",
@@ -146,33 +131,28 @@
   },
   {
     "source": "lobsters",
+    "url": "https://ayush.digital/blog/the-memory-heist",
+    "title": "The Memory Heist"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://human-emacs.org/",
+    "title": "Human Emacs"
+  },
+  {
+    "source": "lobsters",
     "url": "https://lrc.cs.dartmouth.edu/",
     "title": "Low Resource Computing 2026"
   },
   {
     "source": "lobsters",
-    "url": "https://emacsdocs.org",
-    "title": "Emacs Docs: The modern documentation website Emacs deserves"
+    "url": "https://blog.jse.li/posts/smith9street/",
+    "title": "Estimating the heights of New Yorkers from their scuff marks"
   },
   {
     "source": "lobsters",
-    "url": "https://gomakethings.com/articles/generative-colors-with-css/",
-    "title": "Generative colors with CSS"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://owickstrom.github.io/the-proportional-web/",
-    "title": "The Proportional Web"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://fazamhd.com/mental-models/networking/",
-    "title": "Networking and the Internet, from First Principles · Faza"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://evanhahn.com/prefer-strict-tables-in-sqlite/",
-    "title": "Prefer STRICT tables in SQLite"
+    "url": "https://klarasystems.com/articles/native-inotify-in-freebsd/",
+    "title": "Native inotify in FreeBSD"
   },
   {
     "source": "pinboard",
@@ -181,13 +161,18 @@
   },
   {
     "source": "pinboard",
+    "url": "https://www.whatcable.uk/",
+    "title": "WhatCable: Know what your USB-C cable can really do"
+  },
+  {
+    "source": "pinboard",
     "url": "https://scotto.me/blog/2026-07-12-how-to-read-more-books/",
     "title": "How to read more books"
   },
   {
     "source": "pinboard",
-    "url": "https://raymyers.org/post/zed-creator-calls-spade-a-spade/",
-    "title": "Zig Creator Calls Spade a Spade, Anthropic Blows Smoke"
+    "url": "https://owickstrom.github.io/the-proportional-web/",
+    "title": "The Proportional Web"
   },
   {
     "source": "pinboard",
@@ -196,23 +181,18 @@
   },
   {
     "source": "pinboard",
+    "url": "https://www.shortverse.com/",
+    "title": "Shortverse | The Universe of Short Film"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://raymyers.org/post/zed-creator-calls-spade-a-spade/",
+    "title": "Zig Creator Calls Spade a Spade, Anthropic Blows Smoke"
+  },
+  {
+    "source": "pinboard",
     "url": "https://grumpy.website/1723",
     "title": "Grumpy Website"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://geohot.github.io//blog/jekyll/update/2026/07/12/i-love-llms.html",
-    "title": "I love LLMs, I hate hype"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.whatcable.uk/",
-    "title": "WhatCable: Know what your USB-C cable can really do"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://shellzine.net/cyberpunk-comics/",
-    "title": "Cyberpunk Comics, Manga and Graphic Novels"
   },
   {
     "source": "pinboard",
@@ -221,8 +201,13 @@
   },
   {
     "source": "pinboard",
-    "url": "https://www.mixfont.com/ghost-font",
-    "title": "Ghost Font: The Anti-AI Font Only Humans Can Read"
+    "url": "https://geohot.github.io//blog/jekyll/update/2026/07/12/i-love-llms.html",
+    "title": "I love LLMs, I hate hype"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://evanhahn.com/prefer-strict-tables-in-sqlite/",
+    "title": "Prefer STRICT tables in SQLite"
   },
   {
     "source": "pinboard",
@@ -231,23 +216,28 @@
   },
   {
     "source": "pinboard",
-    "url": "https://www.larp.website/",
-    "title": "LARP — Revenue infrastructure for serious founders"
+    "url": "https://raymyers.org/post/zig-creator-calls-spade-a-spade/",
+    "title": "Zig Creator Calls Spade a Spade, Anthropic Blows Smoke"
   },
   {
     "source": "pinboard",
-    "url": "https://antjs.org/",
-    "title": "Ant, a lightweight JavaScript runtime"
+    "url": "https://shellzine.net/cyberpunk-comics/",
+    "title": "Cyberpunk Comics, Manga and Graphic Novels"
   },
   {
     "source": "pinboard",
-    "url": "https://ai-2040.com/",
-    "title": "AI 2040: Plan A"
+    "url": "https://andiroberts.com/citizenship/the-social-physics-of-conversation-citizenship-leadership",
+    "title": "The social physics of conversation: Communication patterns matter | Andi Roberts – Executive Coach | Leadership Trainer | Facilitator"
   },
   {
     "source": "pinboard",
-    "url": "https://tonsky.me/blog/every-frame-perfect/",
-    "title": "Every Frame Perfect"
+    "url": "https://news.ycombinator.com/item?id=48896665",
+    "title": "Building and Shipping Mac and iOS Apps Without Ever Opening Xcode | Hacker News"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.lyrebirddreaming.com/post/the-graph-that-should-be-front-page-news",
+    "title": "The Graph That Should Be Front-Page News"
   },
   {
     "source": "pinboard",
@@ -256,22 +246,17 @@
   },
   {
     "source": "pinboard",
-    "url": "https://daringfireball.net/2026/07/exactly_like_om_malik",
-    "title": "Daring Fireball: Exactly Like Om Malik"
+    "url": "https://tonsky.me/blog/every-frame-perfect/",
+    "title": "Every Frame Perfect"
   },
   {
     "source": "pinboard",
-    "url": "https://avi.press/posts/2026-07-10-after-7-years-in-production-scarf-has-reluctantly-moved-away-from-haskell.html",
-    "title": "After 7 years in production, Scarf has reluctantly moved away from Haskell"
+    "url": "https://terrytao.wordpress.com/2026/07/11/old-and-new-apps-via-modern-coding-agents/",
+    "title": "Old and new apps, via modern coding agents"
   },
   {
     "source": "pinboard",
-    "url": "https://floooh.github.io/tiny8bit-preview/index.html",
-    "title": "Tiny Emulators"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.lyrebirddreaming.com/post/the-graph-that-should-be-front-page-news",
-    "title": "The Graph That Should Be Front-Page News"
+    "url": "https://ai-2040.com/",
+    "title": "AI 2040: Plan A"
   }
 ]
