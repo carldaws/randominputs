@@ -1,6 +1,11 @@
 [
   {
     "source": "hn",
+    "url": "https://hyperallergic.com/guerrilla-london-bus-ads-mock-kylie-jenners-meta-glasses-campaign/",
+    "title": "Guerrilla London Bus Ads Mock Kylie Jenner's Meta Glasses Campaign"
+  },
+  {
+    "source": "hn",
     "url": "https://thinkingmachines.ai/news/introducing-inkling/",
     "title": "Inkling: Our Open-Weights Model"
   },
@@ -11,8 +16,28 @@
   },
   {
     "source": "hn",
+    "url": "https://davidobando.github.io/gsharp/",
+    "title": "G# – A modern .NET language with Go, Kotlin, and Swift ergonomics"
+  },
+  {
+    "source": "hn",
+    "url": "https://atproto.com/blog/at-protocol-trademark",
+    "title": "Bluesky Trademarks ATProto"
+  },
+  {
+    "source": "hn",
     "url": "https://www.siegelendowment.org/wp-content/uploads/2026/07/fortune-david-siegel-open-source-ai.pdf",
     "title": "Governments, companies, nonprofits should invest in free, open source AI [pdf]"
+  },
+  {
+    "source": "hn",
+    "url": "https://pmbanugo.me/blog/why-async-await-complect-concurrency",
+    "title": "The Tokio/Rayon Trap and Why Async/Await Fails Concurrency"
+  },
+  {
+    "source": "hn",
+    "url": "https://thegustafson.com/blog/my-throw-decides-my-aim",
+    "title": "My Throw Decides My Aim"
   },
   {
     "source": "hn",
@@ -21,8 +46,8 @@
   },
   {
     "source": "hn",
-    "url": "https://sqlite.org/nulinstr.html",
-    "title": "Nul Characters in Strings in SQLite"
+    "url": "https://www.openculture.com/2026/07/explore-1300-beautiful-wildlife-illustrations-from-the-19th-century.html",
+    "title": "1,300 Beautiful Wildlife Illustrations from the 19th Century Now Restored"
   },
   {
     "source": "hn",
@@ -31,13 +56,28 @@
   },
   {
     "source": "hn",
-    "url": "https://playonemoreletter.com/",
-    "title": "Show HN: One More Letter"
+    "url": "https://typesanitizer.com/blog/job-queues.html",
+    "title": "Job queues are deceptively tricky"
   },
   {
     "source": "hn",
     "url": "https://clig.dev/",
     "title": "Command Line Interface Guidelines"
+  },
+  {
+    "source": "hn",
+    "url": "https://a-rabbitsfoot.com/editorial/confessions/the-last-picture-show-a-conversation-with-george-lucas/",
+    "title": "The Last Picture Show: A Conversation with George Lucas"
+  },
+  {
+    "source": "hn",
+    "url": "https://playonemoreletter.com/",
+    "title": "Show HN: One More Letter"
+  },
+  {
+    "source": "hn",
+    "url": "https://sqlite.org/nulinstr.html",
+    "title": "Nul Characters in Strings in SQLite"
   },
   {
     "source": "hn",
@@ -51,38 +91,23 @@
   },
   {
     "source": "hn",
-    "url": "https://developer.puter.com/labs/firefox-wasm/",
-    "title": "Show HN: Firefox in WebAssembly"
-  },
-  {
-    "source": "hn",
     "url": "https://clocks.dev",
     "title": "Collection of Digital Clock Designs"
   },
   {
-    "source": "hn",
-    "url": "https://typesanitizer.com/blog/job-queues.html",
-    "title": "Job queues are deceptively tricky"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.freestyle.sh/blog/opinion/designing-apis-for-agents",
-    "title": "Designing APIs for Agents"
-  },
-  {
-    "source": "hn",
-    "url": "https://pairdrop.net/",
-    "title": "P2P local file transfer based on WebRTC"
-  },
-  {
-    "source": "hn",
-    "url": "https://eardatasci.github.io/c/ambiance/index.html",
-    "title": "Towards a harness that can do anything"
+    "source": "lobsters",
+    "url": "https://tenderlovemaking.com/2026/07/15/detecting-full-table-scans-with-sqlite/",
+    "title": "Detecting Full Table Scans With SQLite"
   },
   {
     "source": "lobsters",
     "url": "https://lucumr.pocoo.org/2026/7/13/the-tower-keeps-rising/",
     "title": "The Tower Keeps Rising"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://crowdhailer.me/2026-07-15/abstracting-effects-with-continuations/",
+    "title": "Abstracting effects with continuations"
   },
   {
     "source": "lobsters",
@@ -96,23 +121,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://sebsite.pw/w/20260712-kandr.html",
-    "title": "a bunch of stuff i used to not know about K&R C"
-  },
-  {
-    "source": "lobsters",
     "url": "https://www.schneier.com/blog/archives/2026/07/ai-data-centers-and-the-concentration-of-wealth.html",
     "title": "AI Data Centers and the Concentration of Wealth"
   },
   {
     "source": "lobsters",
-    "url": "https://crowdhailer.me/2026-07-15/abstracting-effects-with-continuations/",
-    "title": "Abstracting effects with continuations"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://lzon.ca/posts/tips/cpp-for-range-init/",
-    "title": "How C++20 improved the for-loop syntax"
+    "url": "https://sebsite.pw/w/20260712-kandr.html",
+    "title": "a bunch of stuff i used to not know about K&R C"
   },
   {
     "source": "lobsters",
@@ -121,13 +136,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://tenderlovemaking.com/2026/07/15/detecting-full-table-scans-with-sqlite/",
-    "title": "Detecting Full Table Scans With SQLite"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://crates.io/crates/qr-swastika-avoider",
-    "title": "qr-swastika-avoider v0.1.0"
+    "url": "https://lzon.ca/posts/tips/cpp-for-range-init/",
+    "title": "How C++20 improved the for-loop syntax"
   },
   {
     "source": "lobsters",
@@ -136,8 +146,18 @@
   },
   {
     "source": "lobsters",
-    "url": "https://productpicnic.beehiiv.com/p/empathy-and-delight-mean-nothing-when-the-software-is-disrespectful",
-    "title": "Empathy and delight mean nothing when the software is disrespectful"
+    "url": "https://soatok.blog/2026/07/15/the-long-tail-of-work-left-until-activitypub-has-e2ee/",
+    "title": "The Long Tail of Work Left Until ActivityPub Has E2EE"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://parakeet.co/blog/the-shape-of-apps/",
+    "title": "The Shape of Apps"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://crates.io/crates/qr-swastika-avoider",
+    "title": "qr-swastika-avoider v0.1.0"
   },
   {
     "source": "lobsters",
@@ -146,7 +166,117 @@
   },
   {
     "source": "lobsters",
-    "url": "https://ayush.digital/blog/the-memory-heist",
-    "title": "The Memory Heist"
+    "url": "https://productpicnic.beehiiv.com/p/empathy-and-delight-mean-nothing-when-the-software-is-disrespectful",
+    "title": "Empathy and delight mean nothing when the software is disrespectful"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://scottwillsey.com/building-and-shipping-mac-and-ios-apps-without-ever-opening-xcode/",
+    "title": "Building and Shipping Mac and iOS Apps Without Ever Opening Xcode"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.whatcable.uk/",
+    "title": "WhatCable: Know what your USB-C cable can really do"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://scotto.me/blog/2026-07-12-how-to-read-more-books/",
+    "title": "How to read more books"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://lalitm.com/post/git-history/",
+    "title": "The git history command deserves more attention - Lalit Maganti"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://owickstrom.github.io/the-proportional-web/",
+    "title": "The Proportional Web"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://morphing.cloud/hypercard/",
+    "title": "Stacks — run classic HyperCard stacks on modern macOS"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.shortverse.com/",
+    "title": "Shortverse | The Universe of Short Film"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://raymyers.org/post/zed-creator-calls-spade-a-spade/",
+    "title": "Zig Creator Calls Spade a Spade, Anthropic Blows Smoke"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://grumpy.website/1723",
+    "title": "Grumpy Website"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.susanrigetti.com/physics",
+    "title": "Physics — Susan Rigetti"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://geohot.github.io//blog/jekyll/update/2026/07/12/i-love-llms.html",
+    "title": "I love LLMs, I hate hype"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://evanhahn.com/prefer-strict-tables-in-sqlite/",
+    "title": "Prefer STRICT tables in SQLite"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://davidpoblador.com/deep-dives/what-happened-to-the-frontend/",
+    "title": "The Descent — What Happened to the Frontend While You Weren't Watching"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://raymyers.org/post/zig-creator-calls-spade-a-spade/",
+    "title": "Zig Creator Calls Spade a Spade, Anthropic Blows Smoke"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://shellzine.net/cyberpunk-comics/",
+    "title": "Cyberpunk Comics, Manga and Graphic Novels"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://andiroberts.com/citizenship/the-social-physics-of-conversation-citizenship-leadership",
+    "title": "The social physics of conversation: Communication patterns matter | Andi Roberts – Executive Coach | Leadership Trainer | Facilitator"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://news.ycombinator.com/item?id=48896665",
+    "title": "Building and Shipping Mac and iOS Apps Without Ever Opening Xcode | Hacker News"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.lyrebirddreaming.com/post/the-graph-that-should-be-front-page-news",
+    "title": "The Graph That Should Be Front-Page News"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://morphing.cloud/lunacy/",
+    "title": "Lunacy — Lunatic Fringe for modern macOS"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://tonsky.me/blog/every-frame-perfect/",
+    "title": "Every Frame Perfect"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://terrytao.wordpress.com/2026/07/11/old-and-new-apps-via-modern-coding-agents/",
+    "title": "Old and new apps, via modern coding agents"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://ai-2040.com/",
+    "title": "AI 2040: Plan A"
   }
 ]
