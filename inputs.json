@@ -21,13 +21,8 @@
   },
   {
     "source": "hn",
-    "url": "https://pairdrop.net/",
-    "title": "P2P local file transfer based on WebRTC"
-  },
-  {
-    "source": "hn",
-    "url": "https://developer.puter.com/labs/firefox-wasm/",
-    "title": "Show HN: Firefox in WebAssembly"
+    "url": "https://sqlite.org/nulinstr.html",
+    "title": "Nul Characters in Strings in SQLite"
   },
   {
     "source": "hn",
@@ -51,18 +46,23 @@
   },
   {
     "source": "hn",
+    "url": "https://www.lexaloffle.com/voxatron.php",
+    "title": "Voxatron"
+  },
+  {
+    "source": "hn",
+    "url": "https://developer.puter.com/labs/firefox-wasm/",
+    "title": "Show HN: Firefox in WebAssembly"
+  },
+  {
+    "source": "hn",
     "url": "https://clocks.dev",
     "title": "Collection of Digital Clock Designs"
   },
   {
     "source": "hn",
-    "url": "https://sqlite.org/nulinstr.html",
-    "title": "Nul Characters in Strings in SQLite"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.lexaloffle.com/voxatron.php",
-    "title": "Voxatron"
+    "url": "https://typesanitizer.com/blog/job-queues.html",
+    "title": "Job queues are deceptively tricky"
   },
   {
     "source": "hn",
@@ -71,18 +71,13 @@
   },
   {
     "source": "hn",
+    "url": "https://pairdrop.net/",
+    "title": "P2P local file transfer based on WebRTC"
+  },
+  {
+    "source": "hn",
     "url": "https://eardatasci.github.io/c/ambiance/index.html",
     "title": "Towards a harness that can do anything"
-  },
-  {
-    "source": "hn",
-    "url": "https://economics.mit.edu/sites/default/files/2026-07/speculative_growth_AI_public.pdf",
-    "title": "Speculative Growth and the AI \"Bubble\" [pdf]"
-  },
-  {
-    "source": "hn",
-    "url": "https://bartoszmilewski.com/2026/07/11/tambara-equipment/",
-    "title": "Tambara Equipment"
   },
   {
     "source": "lobsters",
@@ -101,13 +96,18 @@
   },
   {
     "source": "lobsters",
+    "url": "https://sebsite.pw/w/20260712-kandr.html",
+    "title": "a bunch of stuff i used to not know about K&R C"
+  },
+  {
+    "source": "lobsters",
     "url": "https://www.schneier.com/blog/archives/2026/07/ai-data-centers-and-the-concentration-of-wealth.html",
     "title": "AI Data Centers and the Concentration of Wealth"
   },
   {
     "source": "lobsters",
-    "url": "https://sebsite.pw/w/20260712-kandr.html",
-    "title": "a bunch of stuff i used to not know about K&R C"
+    "url": "https://crowdhailer.me/2026-07-15/abstracting-effects-with-continuations/",
+    "title": "Abstracting effects with continuations"
   },
   {
     "source": "lobsters",
@@ -121,8 +121,18 @@
   },
   {
     "source": "lobsters",
+    "url": "https://tenderlovemaking.com/2026/07/15/detecting-full-table-scans-with-sqlite/",
+    "title": "Detecting Full Table Scans With SQLite"
+  },
+  {
+    "source": "lobsters",
     "url": "https://crates.io/crates/qr-swastika-avoider",
     "title": "qr-swastika-avoider v0.1.0"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://www.tomica.net/blog/2026/07/tls-certificate-validation-on-linux/",
+    "title": "TLS Certificate Validation on Linux"
   },
   {
     "source": "lobsters",
@@ -138,10 +148,5 @@
     "source": "lobsters",
     "url": "https://ayush.digital/blog/the-memory-heist",
     "title": "The Memory Heist"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://crowdhailer.me/2026-07-15/abstracting-effects-with-continuations/",
-    "title": "Abstracting effects with continuations"
   }
 ]
