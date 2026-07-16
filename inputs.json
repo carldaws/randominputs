@@ -27,17 +27,17 @@
   {
     "source": "hn",
     "url": "https://immersivemath.com/ila/",
-    "title": "Immersive Linear Algebra Book with Interactive Figures"
-  },
-  {
-    "source": "hn",
-    "url": "https://rtfeldman.com/rust-to-zig",
-    "title": "How Our Rust-to-Zig Rewrite Is Going"
+    "title": "Immersive Linear Algebra Book with Interactive Figures (2015)"
   },
   {
     "source": "hn",
     "url": "https://www.pigeonsandplanes.com/read/music-piracy-what-cd-oink-nine-inch-nails-streaming",
     "title": "The lost joy of music piracy"
+  },
+  {
+    "source": "hn",
+    "url": "https://rtfeldman.com/rust-to-zig",
+    "title": "How Our Rust-to-Zig Rewrite Is Going"
   },
   {
     "source": "hn",
@@ -56,28 +56,13 @@
   },
   {
     "source": "hn",
-    "url": "https://www.atariarchives.org/deli/cottage_computer_programming.php",
-    "title": "Cottage Computer Programming (1984)"
-  },
-  {
-    "source": "hn",
     "url": "https://onatm.dev/2026/07/16/homescale-part-1/",
     "title": "Let's Build PlanetScale from Scratch: Infrastructure"
   },
   {
     "source": "hn",
-    "url": "https://purplesyringa.moe/blog/guest/optimizing-lua-string-literals-to-save-400-bytes/",
-    "title": "Optimizing Lua string literals to save 400 bytes"
-  },
-  {
-    "source": "hn",
-    "url": "https://rednafi.com/go/gc-shape-stenciling/",
-    "title": "GC shape stenciling in Go generics"
-  },
-  {
-    "source": "hn",
-    "url": "https://betlang.dev/about/",
-    "title": "56,000 lines of DOOM, in a language I made up"
+    "url": "https://www.historytoday.com/archive/great-debates/human-canaries-remembering-munitionettes",
+    "title": "Human Canaries: Remembering the Munitionettes"
   },
   {
     "source": "hn",
@@ -86,13 +71,38 @@
   },
   {
     "source": "hn",
-    "url": "https://www.openculture.com/2026/07/explore-1300-beautiful-wildlife-illustrations-from-the-19th-century.html",
-    "title": "1,300 Beautiful Wildlife Illustrations from the 19th Century Now Restored"
+    "url": "https://purplesyringa.moe/blog/guest/optimizing-lua-string-literals-to-save-400-bytes/",
+    "title": "Optimizing Lua string literals to save 400 bytes"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.atariarchives.org/deli/cottage_computer_programming.php",
+    "title": "Cottage Computer Programming (1984)"
   },
   {
     "source": "hn",
     "url": "https://the-decoder.com/german-ai-consortium-releases-soofi-s-an-open-30b-model-that-tops-benchmarks-in-both-english-and-german/",
     "title": "German AI consortium releases Soofi S, an open 30B model that tops benchmarks"
+  },
+  {
+    "source": "hn",
+    "url": "https://betlang.dev/about/",
+    "title": "56,000 lines of DOOM, in a language I made up"
+  },
+  {
+    "source": "hn",
+    "url": "https://rednafi.com/go/gc-shape-stenciling/",
+    "title": "GC shape stenciling in Go generics"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.openculture.com/2026/07/explore-1300-beautiful-wildlife-illustrations-from-the-19th-century.html",
+    "title": "1,300 Beautiful Wildlife Illustrations from the 19th Century Now Restored"
+  },
+  {
+    "source": "hn",
+    "url": "https://nicholas-afk.github.io/AttoChess/",
+    "title": "AttoChess, a complete, playable chess program for 16-bit x86 DOS in 278 bytes"
   },
   {
     "source": "lobsters",
@@ -106,13 +116,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://thecloudlet.github.io/technical/compiler/memory-compiler/",
-    "title": "What \"Memory Compiler\" Actually Means: From Bitcells to GDS Tiling"
+    "url": "https://crowdhailer.me/2026-07-15/abstracting-effects-with-continuations/",
+    "title": "Abstracting effects with continuations"
   },
   {
     "source": "lobsters",
-    "url": "https://crowdhailer.me/2026-07-15/abstracting-effects-with-continuations/",
-    "title": "Abstracting effects with continuations"
+    "url": "https://thecloudlet.github.io/technical/compiler/memory-compiler/",
+    "title": "What \"Memory Compiler\" Actually Means: From Bitcells to GDS Tiling"
   },
   {
     "source": "lobsters",
@@ -123,6 +133,11 @@
     "source": "lobsters",
     "url": "https://www.theocharis.dev/blog/llm-critics-are-right-i-use-llms-anyway/",
     "title": "The LLM Critics Are Right. I Use LLMs Anyway"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://alexgaynor.net/2026/jul/15/you-cant-bugfix-your-way-out-of-the-vulnpocalypse/",
+    "title": "You can't bug fix your way out of the vulnpocalypse"
   },
   {
     "source": "lobsters",
@@ -141,6 +156,11 @@
   },
   {
     "source": "lobsters",
+    "url": "https://www.rocketpoweredjetpants.com/2026/04/were-going-to-make-out-like-bandits/",
+    "title": "We're Going to Make Out Like Bandits"
+  },
+  {
+    "source": "lobsters",
     "url": "https://soatok.blog/2026/07/15/the-long-tail-of-work-left-until-activitypub-has-e2ee/",
     "title": "The Long Tail of Work Left Until ActivityPub Has E2EE"
   },
@@ -148,15 +168,5 @@
     "source": "lobsters",
     "url": "https://metaredux.com/posts/2026/07/16/clj-refactor-4-0.html",
     "title": "clj-refactor.el 4.0"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://www.schneier.com/blog/archives/2026/07/ai-data-centers-and-the-concentration-of-wealth.html",
-    "title": "AI Data Centers and the Concentration of Wealth"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://flint.cs.yale.edu/cs421/case-for-ml.html",
-    "title": "Why ML/OCaml are good for writing compilers (1998)"
   }
 ]
