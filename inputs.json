@@ -6,13 +6,13 @@
   },
   {
     "source": "hn",
-    "url": "https://www.mixfont.com/experiments/decoy-font",
-    "title": "Decoy Font"
+    "url": "https://imdanielkendall.com/the-great-software-regress-how-move-fast-and-break-things-broke-our-lives/",
+    "title": "My car's OTA update broke Android Auto, and it's a indictment of modern software"
   },
   {
     "source": "hn",
-    "url": "https://wc26.bogachev.fr/index.html",
-    "title": "FIFA World Cup 2026 Data Portraits"
+    "url": "https://www.mixfont.com/experiments/decoy-font",
+    "title": "Decoy Font"
   },
   {
     "source": "hn",
@@ -21,23 +21,8 @@
   },
   {
     "source": "hn",
-    "url": "https://imdanielkendall.com/the-great-software-regress-how-move-fast-and-break-things-broke-our-lives/",
-    "title": "My car's OTA update broke Android Auto, and it's a indictment of modern software"
-  },
-  {
-    "source": "hn",
     "url": "https://blog.lyc8503.net/en/post/llm-classifier/",
     "title": "Detecting LLM-Generated Texts with “Classical” Machine Learning"
-  },
-  {
-    "source": "hn",
-    "url": "https://crowdhailer.me/2026-07-15/abstracting-effects-with-continuations/",
-    "title": "Abstracting Effects with Continuations"
-  },
-  {
-    "source": "hn",
-    "url": "https://immersivemath.com/ila/",
-    "title": "Immersive Linear Algebra Book with Interactive Figures (2015)"
   },
   {
     "source": "hn",
@@ -46,28 +31,18 @@
   },
   {
     "source": "hn",
+    "url": "https://immersivemath.com/ila/",
+    "title": "Immersive Linear Algebra Book with Interactive Figures (2015)"
+  },
+  {
+    "source": "hn",
+    "url": "https://crowdhailer.me/2026-07-15/abstracting-effects-with-continuations/",
+    "title": "Abstracting Effects with Continuations"
+  },
+  {
+    "source": "hn",
     "url": "https://dynomight.net/pseudpocalypse/",
     "title": "Pseudpocalypse"
-  },
-  {
-    "source": "hn",
-    "url": "https://timelinescan.com/",
-    "title": "Timeline Scan – AI fixes the dates on your scanned photos"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.zhinit.dev/blog/training-a-kick-drum-diffusion-model",
-    "title": "How to Train a Gen AI Kick Drum Model on Your Old Linux Desktop with 6GB VRAM"
-  },
-  {
-    "source": "hn",
-    "url": "https://rtfeldman.com/rust-to-zig",
-    "title": "How Our Rust-to-Zig Rewrite Is Going"
-  },
-  {
-    "source": "hn",
-    "url": "https://bamboo.kickstage.com",
-    "title": "Show HN: BambooGrid – Open-source web UI for power grid modeling and power flow"
   },
   {
     "source": "hn",
@@ -76,8 +51,28 @@
   },
   {
     "source": "hn",
-    "url": "https://sinja.io/blog/data-landscape-guide-for-developers",
-    "title": "Guide to data tools landscape for developers"
+    "url": "https://rtfeldman.com/rust-to-zig",
+    "title": "How Our Rust-to-Zig Rewrite Is Going"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.zhinit.dev/blog/training-a-kick-drum-diffusion-model",
+    "title": "How to Train a Gen AI Kick Drum Model on Your Old Linux Desktop with 6GB VRAM"
+  },
+  {
+    "source": "hn",
+    "url": "https://timelinescan.com/",
+    "title": "Timeline Scan – AI fixes the dates on your scanned photos"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.theocharis.dev/blog/llm-critics-are-right-i-use-llms-anyway/",
+    "title": "The LLM Critics Are Right. I Use LLMs Anyway"
+  },
+  {
+    "source": "hn",
+    "url": "https://bamboo.kickstage.com",
+    "title": "Show HN: BambooGrid – Open-source web UI for power grid modeling and power flow"
   },
   {
     "source": "lobsters",
@@ -91,11 +86,6 @@
   },
   {
     "source": "lobsters",
-    "url": "https://www.theocharis.dev/blog/llm-critics-are-right-i-use-llms-anyway/",
-    "title": "The LLM Critics Are Right. I Use LLMs Anyway"
-  },
-  {
-    "source": "lobsters",
     "url": "https://www.rocketpoweredjetpants.com/2026/04/were-going-to-make-out-like-bandits/",
     "title": "We're Going to Make Out Like Bandits"
   },
@@ -106,11 +96,6 @@
   },
   {
     "source": "lobsters",
-    "url": "https://tenderlovemaking.com/2026/07/15/detecting-full-table-scans-with-sqlite/",
-    "title": "Detecting Full Table Scans With SQLite"
-  },
-  {
-    "source": "lobsters",
     "url": "https://alexgaynor.net/2026/jul/15/you-cant-bugfix-your-way-out-of-the-vulnpocalypse/",
     "title": "You can't bug fix your way out of the vulnpocalypse"
   },
@@ -118,6 +103,11 @@
     "source": "lobsters",
     "url": "https://metaredux.com/posts/2026/07/16/clj-refactor-4-0.html",
     "title": "clj-refactor.el 4.0"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://tenderlovemaking.com/2026/07/15/detecting-full-table-scans-with-sqlite/",
+    "title": "Detecting Full Table Scans With SQLite"
   },
   {
     "source": "lobsters",
@@ -138,5 +128,100 @@
     "source": "lobsters",
     "url": "https://lucumr.pocoo.org/2026/7/13/the-tower-keeps-rising/",
     "title": "The Tower Keeps Rising"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://scottwillsey.com/building-and-shipping-mac-and-ios-apps-without-ever-opening-xcode/",
+    "title": "Building and Shipping Mac and iOS Apps Without Ever Opening Xcode"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://lalitm.com/post/git-history/",
+    "title": "The git history command deserves more attention - Lalit Maganti"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.shortverse.com/",
+    "title": "Shortverse | The Universe of Short Film"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.whatcable.uk/",
+    "title": "WhatCable: Know what your USB-C cable can really do"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://fabiensanglard.net/jurrasic_park_computers/index.html",
+    "title": "Jurassic Park computers in excruciating detail"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://raymyers.org/post/zed-creator-calls-spade-a-spade/",
+    "title": "Zig Creator Calls Spade a Spade, Anthropic Blows Smoke"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://thinkingmachines.ai/news/introducing-inkling/",
+    "title": "Inkling: Our open-weights model - Thinking Machines Lab"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.ayush.digital/blog/the-memory-heist",
+    "title": "The Memory Heist"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.lyrebirddreaming.com/post/the-graph-that-should-be-front-page-news",
+    "title": "The Graph That Should Be Front-Page News"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.susanrigetti.com/physics",
+    "title": "Physics — Susan Rigetti"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://owickstrom.github.io/the-proportional-web/",
+    "title": "The Proportional Web"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://clocks.dev/",
+    "title": "Clocks.dev"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://raymyers.org/post/zig-creator-calls-spade-a-spade/",
+    "title": "Zig Creator Calls Spade a Spade, Anthropic Blows Smoke"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://andiroberts.com/citizenship/the-social-physics-of-conversation-citizenship-leadership",
+    "title": "The social physics of conversation: Communication patterns matter | Andi Roberts – Executive Coach | Leadership Trainer | Facilitator"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://scotto.me/blog/2026-07-12-how-to-read-more-books/",
+    "title": "How to read more books"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://shellzine.net/cyberpunk-comics/",
+    "title": "Cyberpunk Comics, Manga and Graphic Novels"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://news.ycombinator.com/item?id=48896665",
+    "title": "Building and Shipping Mac and iOS Apps Without Ever Opening Xcode | Hacker News"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.climate.us/",
+    "title": "Climate.us"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://davidpoblador.com/deep-dives/what-happened-to-the-frontend/",
+    "title": "The Descent — What Happened to the Frontend While You Weren't Watching"
   }
 ]
