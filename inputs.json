@@ -6,6 +6,11 @@
   },
   {
     "source": "hn",
+    "url": "https://onatm.dev/2026/07/16/homescale-part-1/",
+    "title": "Let's Build PlanetScale from Scratch: Infrastructure"
+  },
+  {
+    "source": "hn",
     "url": "https://www.pigeonsandplanes.com/read/music-piracy-what-cd-oink-nine-inch-nails-streaming",
     "title": "The lost joy of music piracy"
   },
@@ -16,6 +21,21 @@
   },
   {
     "source": "hn",
+    "url": "https://www.theocharis.dev/blog/llm-critics-are-right-i-use-llms-anyway/",
+    "title": "The LLM Critics Are Right. I Use LLMs Anyway"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.ssp.sh/blog/on-creation/",
+    "title": "The Act and the Outcome of Creation"
+  },
+  {
+    "source": "hn",
+    "url": "https://musklr.com/blog/2026/iphone-lock-screen-workout-tracking-live-activity/",
+    "title": "Track your workout from the iPhone Lock Screen"
+  },
+  {
+    "source": "hn",
     "url": "https://www.openculture.com/2026/07/explore-1300-beautiful-wildlife-illustrations-from-the-19th-century.html",
     "title": "1,300 Beautiful Wildlife Illustrations from the 19th Century Now Restored"
   },
@@ -23,6 +43,11 @@
     "source": "hn",
     "url": "https://www.siegelendowment.org/wp-content/uploads/2026/07/fortune-david-siegel-open-source-ai.pdf",
     "title": "Governments, companies, nonprofits should invest in free, open source AI [pdf]"
+  },
+  {
+    "source": "hn",
+    "url": "https://mathspp.com/blog/lsbasi-apl-part1",
+    "title": "Let's build a simple interpreter for APL – part 1"
   },
   {
     "source": "hn",
@@ -41,11 +66,6 @@
   },
   {
     "source": "hn",
-    "url": "https://www.petekeen.net/homelab-resolved/",
-    "title": "Rebuilding My Homelab with Compose, Ruby, IPv6, and No Kubernetes"
-  },
-  {
-    "source": "hn",
     "url": "https://www.neomindlabs.com/2026/06/08/running-gemma-4-26b-at-5-tokens-sec-on-a-13-year-old-xeon-with-no-gpu/",
     "title": "Running Gemma 4 26B at 5 tokens/sec on a 13-year-old Xeon with no GPU"
   },
@@ -60,29 +80,14 @@
     "title": "Command Line Interface Guidelines"
   },
   {
-    "source": "hn",
-    "url": "https://blog.greg.technology/2026/07/14/llm-networking-with-mikrotik.html",
-    "title": "LLM Networking with MikroTik"
+    "source": "lobsters",
+    "url": "https://rtfeldman.com/rust-to-zig",
+    "title": "How Our Rust-to-Zig Rewrite is Going"
   },
   {
-    "source": "hn",
-    "url": "https://cr.yp.to/proto/netstrings.txt",
-    "title": "Netstrings (1997)"
-  },
-  {
-    "source": "hn",
-    "url": "https://pmbanugo.me/blog/why-async-await-complect-concurrency",
-    "title": "The Tokio/Rayon Trap and Why Async/Await Fails Concurrency"
-  },
-  {
-    "source": "hn",
-    "url": "https://clocks.dev",
-    "title": "Collection of Digital Clock Designs"
-  },
-  {
-    "source": "hn",
-    "url": "https://davidobando.github.io/gsharp/",
-    "title": "G# – A modern .NET language with Go, Kotlin, and Swift ergonomics"
+    "source": "lobsters",
+    "url": "https://forgejo.org/2026-07-release-v16-0/",
+    "title": "Forgejo v16.0 is available"
   },
   {
     "source": "lobsters",
@@ -96,28 +101,18 @@
   },
   {
     "source": "lobsters",
-    "url": "https://lucumr.pocoo.org/2026/7/13/the-tower-keeps-rising/",
-    "title": "The Tower Keeps Rising"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://forgejo.org/2026-07-release-v16-0/",
-    "title": "Forgejo v16.0 is available"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://soatok.blog/2026/07/15/the-long-tail-of-work-left-until-activitypub-has-e2ee/",
-    "title": "The Long Tail of Work Left Until ActivityPub Has E2EE"
-  },
-  {
-    "source": "lobsters",
     "url": "https://collider.ee/1.5.1/",
     "title": "Bring modern package management to Meson's native wrap ecosystem"
   },
   {
     "source": "lobsters",
-    "url": "https://xeiaso.net/notes/2026/check-your-smart-tv/",
-    "title": "You should probably check on your smart appliances"
+    "url": "https://lucumr.pocoo.org/2026/7/13/the-tower-keeps-rising/",
+    "title": "The Tower Keeps Rising"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://soatok.blog/2026/07/15/the-long-tail-of-work-left-until-activitypub-has-e2ee/",
+    "title": "The Long Tail of Work Left Until ActivityPub Has E2EE"
   },
   {
     "source": "lobsters",
@@ -131,6 +126,16 @@
   },
   {
     "source": "lobsters",
+    "url": "https://xeiaso.net/notes/2026/check-your-smart-tv/",
+    "title": "You should probably check on your smart appliances"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://thecloudlet.github.io/technical/compiler/memory-compiler/",
+    "title": "What \"Memory Compiler\" Actually Means: From Bitcells to GDS Tiling"
+  },
+  {
+    "source": "lobsters",
     "url": "https://sebsite.pw/w/20260715-null.html",
     "title": "i've been thinking about null pointers"
   },
@@ -138,15 +143,5 @@
     "source": "lobsters",
     "url": "https://sebsite.pw/w/20260712-kandr.html",
     "title": "a bunch of stuff i used to not know about K&R C"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://www.tomica.net/blog/2026/07/tls-certificate-validation-on-linux/",
-    "title": "TLS Certificate Validation on Linux"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://zayenz.se/blog/post/gecode-6-3-and-6-4-released/",
-    "title": "Gecode 6.3.0 and 6.4.0 are released"
   }
 ]
