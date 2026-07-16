@@ -1,6 +1,11 @@
 [
   {
     "source": "hn",
+    "url": "https://community.oneplus.com/thread/2170715118587871237",
+    "title": "OnePlus halts operations in USA and Europe"
+  },
+  {
+    "source": "hn",
     "url": "https://www.pigeonsandplanes.com/read/music-piracy-what-cd-oink-nine-inch-nails-streaming",
     "title": "The lost joy of music piracy"
   },
@@ -11,18 +16,8 @@
   },
   {
     "source": "hn",
-    "url": "https://blog.cloudflare.com/whats-the-story-behind-the-names-of-cloudflares-name-servers/",
-    "title": "What's the story behind the names of Cloudflare's name servers? (2013)"
-  },
-  {
-    "source": "hn",
     "url": "https://www.openculture.com/2026/07/explore-1300-beautiful-wildlife-illustrations-from-the-19th-century.html",
     "title": "1,300 Beautiful Wildlife Illustrations from the 19th Century Now Restored"
-  },
-  {
-    "source": "hn",
-    "url": "https://mort.coffee/home/sqlite-editions/",
-    "title": "SQLite should have (Rust-style) editions"
   },
   {
     "source": "hn",
@@ -31,13 +26,8 @@
   },
   {
     "source": "hn",
-    "url": "https://atproto.com/blog/at-protocol-trademark",
-    "title": "Bluesky Trademarks ATProto"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.seangoedecke.com/in-defense-of-not-understanding-your-codebase/",
-    "title": "In defense of not understanding your codebase"
+    "url": "https://mort.coffee/home/sqlite-editions/",
+    "title": "SQLite should have (Rust-style) editions"
   },
   {
     "source": "hn",
@@ -46,23 +36,8 @@
   },
   {
     "source": "hn",
-    "url": "https://davidobando.github.io/gsharp/",
-    "title": "G# – A modern .NET language with Go, Kotlin, and Swift ergonomics"
-  },
-  {
-    "source": "hn",
-    "url": "https://pmbanugo.me/blog/why-async-await-complect-concurrency",
-    "title": "The Tokio/Rayon Trap and Why Async/Await Fails Concurrency"
-  },
-  {
-    "source": "hn",
-    "url": "https://typesanitizer.com/blog/job-queues.html",
-    "title": "Job queues are deceptively tricky"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.neomindlabs.com/2026/06/08/running-gemma-4-26b-at-5-tokens-sec-on-a-13-year-old-xeon-with-no-gpu/",
-    "title": "Running Gemma 4 26B at 5 tokens/sec on a 13-year-old Xeon with no GPU"
+    "url": "https://atproto.com/blog/at-protocol-trademark",
+    "title": "Bluesky Trademarks ATProto"
   },
   {
     "source": "hn",
@@ -71,8 +46,13 @@
   },
   {
     "source": "hn",
-    "url": "https://cr.yp.to/proto/netstrings.txt",
-    "title": "Netstrings (1997)"
+    "url": "https://www.neomindlabs.com/2026/06/08/running-gemma-4-26b-at-5-tokens-sec-on-a-13-year-old-xeon-with-no-gpu/",
+    "title": "Running Gemma 4 26B at 5 tokens/sec on a 13-year-old Xeon with no GPU"
+  },
+  {
+    "source": "hn",
+    "url": "https://typesanitizer.com/blog/job-queues.html",
+    "title": "Job queues are deceptively tricky"
   },
   {
     "source": "hn",
@@ -86,8 +66,13 @@
   },
   {
     "source": "hn",
-    "url": "https://a-rabbitsfoot.com/editorial/confessions/the-last-picture-show-a-conversation-with-george-lucas/",
-    "title": "The Last Picture Show: A Conversation with George Lucas"
+    "url": "https://cr.yp.to/proto/netstrings.txt",
+    "title": "Netstrings (1997)"
+  },
+  {
+    "source": "hn",
+    "url": "https://pmbanugo.me/blog/why-async-await-complect-concurrency",
+    "title": "The Tokio/Rayon Trap and Why Async/Await Fails Concurrency"
   },
   {
     "source": "hn",
@@ -95,9 +80,9 @@
     "title": "Collection of Digital Clock Designs"
   },
   {
-    "source": "lobsters",
-    "url": "https://crowdhailer.me/2026-07-15/abstracting-effects-with-continuations/",
-    "title": "Abstracting effects with continuations"
+    "source": "hn",
+    "url": "https://davidobando.github.io/gsharp/",
+    "title": "G# – A modern .NET language with Go, Kotlin, and Swift ergonomics"
   },
   {
     "source": "lobsters",
@@ -106,13 +91,28 @@
   },
   {
     "source": "lobsters",
+    "url": "https://crowdhailer.me/2026-07-15/abstracting-effects-with-continuations/",
+    "title": "Abstracting effects with continuations"
+  },
+  {
+    "source": "lobsters",
     "url": "https://lucumr.pocoo.org/2026/7/13/the-tower-keeps-rising/",
     "title": "The Tower Keeps Rising"
   },
   {
     "source": "lobsters",
+    "url": "https://forgejo.org/2026-07-release-v16-0/",
+    "title": "Forgejo v16.0 is available"
+  },
+  {
+    "source": "lobsters",
     "url": "https://soatok.blog/2026/07/15/the-long-tail-of-work-left-until-activitypub-has-e2ee/",
     "title": "The Long Tail of Work Left Until ActivityPub Has E2EE"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://collider.ee/1.5.1/",
+    "title": "Bring modern package management to Meson's native wrap ecosystem"
   },
   {
     "source": "lobsters",
@@ -126,8 +126,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://collider.ee/1.5.1/",
-    "title": "Bring modern package management to Meson's native wrap ecosystem"
+    "url": "https://parakeet.co/blog/the-shape-of-apps/",
+    "title": "The Shape of Apps"
   },
   {
     "source": "lobsters",
@@ -136,27 +136,17 @@
   },
   {
     "source": "lobsters",
-    "url": "https://parakeet.co/blog/the-shape-of-apps/",
-    "title": "The Shape of Apps"
-  },
-  {
-    "source": "lobsters",
     "url": "https://sebsite.pw/w/20260712-kandr.html",
     "title": "a bunch of stuff i used to not know about K&R C"
   },
   {
     "source": "lobsters",
-    "url": "https://zayenz.se/blog/post/gecode-6-3-and-6-4-released/",
-    "title": "Gecode 6.3.0 and 6.4.0 are released"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://mitpress.mit.edu/9780262052481/inventing-eliza/",
-    "title": "Inventing ELIZA - How the First Chatbot Shaped the Future of AI"
-  },
-  {
-    "source": "lobsters",
     "url": "https://www.tomica.net/blog/2026/07/tls-certificate-validation-on-linux/",
     "title": "TLS Certificate Validation on Linux"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://zayenz.se/blog/post/gecode-6-3-and-6-4-released/",
+    "title": "Gecode 6.3.0 and 6.4.0 are released"
   }
 ]
