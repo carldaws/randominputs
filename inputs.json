@@ -6,18 +6,23 @@
   },
   {
     "source": "hn",
+    "url": "https://www.mixfont.com/experiments/decoy-font",
+    "title": "Decoy Font"
+  },
+  {
+    "source": "hn",
     "url": "https://community.oneplus.com/thread/2170715118587871237",
     "title": "OnePlus halts operations in USA and Europe"
   },
   {
     "source": "hn",
-    "url": "https://onatm.dev/2026/07/16/homescale-part-1/",
-    "title": "Let's Build PlanetScale from Scratch: Infrastructure"
+    "url": "https://blog.lyc8503.net/en/post/llm-classifier/",
+    "title": "Detecting LLM-Generated Texts with \"Classical\" Machine Learning"
   },
   {
     "source": "hn",
-    "url": "https://www.techdirt.com/2026/07/15/sony-deletes-a-bunch-more-movies-from-the-accounts-of-people-who-bought-them/",
-    "title": "Sony Deletes a Bunch More Movies from the Accounts of People Who 'Bought' Them"
+    "url": "https://techwerkers.nl/en/posts/aanval-microsoft-ai-datacentrum/",
+    "title": "'We used acid to sabotage Microsoft hyperscale data centre construction'"
   },
   {
     "source": "hn",
@@ -26,28 +31,53 @@
   },
   {
     "source": "hn",
+    "url": "https://betlang.dev/about/",
+    "title": "56,000 lines of DOOM, in a language I made up"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.zhinit.dev/blog/training-a-kick-drum-diffusion-model",
+    "title": "How to Train a Gen AI Kick Drum Model on Your Old Linux Desktop with 6GB VRAM"
+  },
+  {
+    "source": "hn",
+    "url": "https://sinja.io/blog/data-landscape-guide-for-developers",
+    "title": "Guide to data tools landscape for developers"
+  },
+  {
+    "source": "hn",
+    "url": "https://rednafi.com/go/gc-shape-stenciling/",
+    "title": "GC shape stenciling in Go generics"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.techdirt.com/2026/07/15/sony-deletes-a-bunch-more-movies-from-the-accounts-of-people-who-bought-them/",
+    "title": "Sony Deletes a Bunch More Movies from the Accounts of People Who 'Bought' Them"
+  },
+  {
+    "source": "hn",
+    "url": "https://onatm.dev/2026/07/16/homescale-part-1/",
+    "title": "Let's Build PlanetScale from Scratch: Infrastructure"
+  },
+  {
+    "source": "hn",
+    "url": "https://blog.google/innovation-and-ai/products/gemini-notebook/notebooklm-gemini-notebook/",
+    "title": "NotebookLM is now Gemini Notebook"
+  },
+  {
+    "source": "hn",
     "url": "https://www.pigeonsandplanes.com/read/music-piracy-what-cd-oink-nine-inch-nails-streaming",
     "title": "The lost joy of music piracy"
   },
   {
     "source": "hn",
-    "url": "https://thinkingmachines.ai/news/introducing-inkling/",
-    "title": "Inkling: Our Open-Weights Model"
+    "url": "https://www.justintorre.com/blogs/clickhouse-rls-query-parameters",
+    "title": "Helicone allows users to write SQL directly to a shared ClickHouse"
   },
   {
     "source": "hn",
-    "url": "https://www.ssp.sh/blog/on-creation/",
-    "title": "The Act and the Outcome of Creation"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.openculture.com/2026/07/explore-1300-beautiful-wildlife-illustrations-from-the-19th-century.html",
-    "title": "1,300 Beautiful Wildlife Illustrations from the 19th Century Now Restored"
-  },
-  {
-    "source": "hn",
-    "url": "https://mathspp.com/blog/lsbasi-apl-part1",
-    "title": "Let's build a simple interpreter for APL – part 1"
+    "url": "https://www.gapminder.org/dollar-street",
+    "title": "Photos of items from families in different countries with different incomes"
   },
   {
     "source": "hn",
@@ -56,33 +86,18 @@
   },
   {
     "source": "hn",
-    "url": "https://musklr.com/blog/2026/iphone-lock-screen-workout-tracking-live-activity/",
-    "title": "Track your workout from the iPhone Lock Screen"
+    "url": "https://blog.simbastack.com/announcing-sentinel/",
+    "title": "Show HN: Sentinel – open-source QA agent that reads your code before it clicks"
   },
   {
     "source": "hn",
-    "url": "https://www.siegelendowment.org/wp-content/uploads/2026/07/fortune-david-siegel-open-source-ai.pdf",
-    "title": "Governments, companies, nonprofits should invest in free, open source AI [pdf]"
+    "url": "https://immersivemath.com/ila/",
+    "title": "Immersive Linear Algebra Book with Interactive Figures"
   },
   {
-    "source": "hn",
+    "source": "lobsters",
     "url": "https://mort.coffee/home/sqlite-editions/",
     "title": "SQLite should have (Rust-style) editions"
-  },
-  {
-    "source": "hn",
-    "url": "https://mudkip.me/2026/07/16/Introduction-to-KizunaShelf/",
-    "title": "Introduction to KizunaShelf: A shelf for everything you love"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.theocharis.dev/blog/llm-critics-are-right-i-use-llms-anyway/",
-    "title": "The LLM Critics Are Right. I Use LLMs Anyway"
-  },
-  {
-    "source": "hn",
-    "url": "https://atproto.com/blog/at-protocol-trademark",
-    "title": "Bluesky Trademarks ATProto"
   },
   {
     "source": "lobsters",
@@ -96,8 +111,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://tenderlovemaking.com/2026/07/15/detecting-full-table-scans-with-sqlite/",
-    "title": "Detecting Full Table Scans With SQLite"
+    "url": "https://thecloudlet.github.io/technical/compiler/memory-compiler/",
+    "title": "What \"Memory Compiler\" Actually Means: From Bitcells to GDS Tiling"
   },
   {
     "source": "lobsters",
@@ -116,16 +131,6 @@
   },
   {
     "source": "lobsters",
-    "url": "https://thecloudlet.github.io/technical/compiler/memory-compiler/",
-    "title": "What \"Memory Compiler\" Actually Means: From Bitcells to GDS Tiling"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://flint.cs.yale.edu/cs421/case-for-ml.html",
-    "title": "Why ML/OCaml are good for writing compilers (1998)"
-  },
-  {
-    "source": "lobsters",
     "url": "https://parakeet.co/blog/the-shape-of-apps/",
     "title": "The Shape of Apps"
   },
@@ -136,6 +141,11 @@
   },
   {
     "source": "lobsters",
+    "url": "https://flint.cs.yale.edu/cs421/case-for-ml.html",
+    "title": "Why ML/OCaml are good for writing compilers (1998)"
+  },
+  {
+    "source": "lobsters",
     "url": "https://xeiaso.net/notes/2026/check-your-smart-tv/",
     "title": "You should probably check on your smart appliances"
   },
@@ -143,10 +153,5 @@
     "source": "lobsters",
     "url": "https://sebsite.pw/w/20260712-kandr.html",
     "title": "a bunch of stuff i used to not know about K&R C"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://sebsite.pw/w/20260715-null.html",
-    "title": "i've been thinking about null pointers"
   }
 ]
