@@ -11,11 +11,6 @@
   },
   {
     "source": "hn",
-    "url": "https://blog.lyc8503.net/en/post/llm-classifier/",
-    "title": "Detecting LLM-Generated Texts with “Classical” Machine Learning"
-  },
-  {
-    "source": "hn",
     "url": "https://blog.google/innovation-and-ai/products/gemini-notebook/notebooklm-gemini-notebook/",
     "title": "NotebookLM is now Gemini Notebook"
   },
@@ -31,18 +26,38 @@
   },
   {
     "source": "hn",
-    "url": "https://www.pigeonsandplanes.com/read/music-piracy-what-cd-oink-nine-inch-nails-streaming",
-    "title": "The lost joy of music piracy"
-  },
-  {
-    "source": "hn",
     "url": "https://rtfeldman.com/rust-to-zig",
     "title": "How Our Rust-to-Zig Rewrite Is Going"
   },
   {
     "source": "hn",
+    "url": "https://timelinescan.com/",
+    "title": "Timeline Scan – AI fixes the dates on your scanned photos"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.pigeonsandplanes.com/read/music-piracy-what-cd-oink-nine-inch-nails-streaming",
+    "title": "The lost joy of music piracy"
+  },
+  {
+    "source": "hn",
+    "url": "https://blog.lyc8503.net/en/post/llm-classifier/",
+    "title": "Detecting LLM-Generated Texts with “Classical” Machine Learning"
+  },
+  {
+    "source": "hn",
     "url": "https://www.zhinit.dev/blog/training-a-kick-drum-diffusion-model",
     "title": "How to Train a Gen AI Kick Drum Model on Your Old Linux Desktop with 6GB VRAM"
+  },
+  {
+    "source": "hn",
+    "url": "https://artificialanalysis.ai/models/kimi-k3",
+    "title": "Kimi K3 Intelligence, Performance and Price Analysis"
+  },
+  {
+    "source": "hn",
+    "url": "https://purplesyringa.moe/blog/guest/optimizing-lua-string-literals-to-save-400-bytes/",
+    "title": "Optimizing Lua string literals to save 400 bytes"
   },
   {
     "source": "hn",
@@ -56,28 +71,13 @@
   },
   {
     "source": "hn",
+    "url": "https://www.tryai.dev/blog/ai-music-video-arena-claude-vs-gpt-5.6",
+    "title": "$100 AI Music Video: Claude Fable 5 vs. GPT-5.6 Sol"
+  },
+  {
+    "source": "hn",
     "url": "https://onatm.dev/2026/07/16/homescale-part-1/",
     "title": "Let's Build PlanetScale from Scratch: Infrastructure"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.historytoday.com/archive/great-debates/human-canaries-remembering-munitionettes",
-    "title": "Human Canaries: Remembering the Munitionettes"
-  },
-  {
-    "source": "hn",
-    "url": "https://schema-harness.github.io/",
-    "title": "Schema Harness Achieves ~99% on Arc‑AGI‑3 Public"
-  },
-  {
-    "source": "hn",
-    "url": "https://purplesyringa.moe/blog/guest/optimizing-lua-string-literals-to-save-400-bytes/",
-    "title": "Optimizing Lua string literals to save 400 bytes"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.atariarchives.org/deli/cottage_computer_programming.php",
-    "title": "Cottage Computer Programming (1984)"
   },
   {
     "source": "hn",
@@ -86,18 +86,13 @@
   },
   {
     "source": "hn",
-    "url": "https://betlang.dev/about/",
-    "title": "56,000 lines of DOOM, in a language I made up"
+    "url": "https://schema-harness.github.io/",
+    "title": "Schema Harness Achieves ~99% on Arc‑AGI‑3 Public"
   },
   {
     "source": "hn",
-    "url": "https://rednafi.com/go/gc-shape-stenciling/",
-    "title": "GC shape stenciling in Go generics"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.openculture.com/2026/07/explore-1300-beautiful-wildlife-illustrations-from-the-19th-century.html",
-    "title": "1,300 Beautiful Wildlife Illustrations from the 19th Century Now Restored"
+    "url": "https://consequence.net/2026/07/the-cd-revival-is-getting-hard-to-ignore/",
+    "title": "CD sales growth outpaced vinyl in the first half of 2026"
   },
   {
     "source": "hn",
@@ -116,6 +111,11 @@
   },
   {
     "source": "lobsters",
+    "url": "https://www.theocharis.dev/blog/llm-critics-are-right-i-use-llms-anyway/",
+    "title": "The LLM Critics Are Right. I Use LLMs Anyway"
+  },
+  {
+    "source": "lobsters",
     "url": "https://crowdhailer.me/2026-07-15/abstracting-effects-with-continuations/",
     "title": "Abstracting effects with continuations"
   },
@@ -131,18 +131,23 @@
   },
   {
     "source": "lobsters",
-    "url": "https://www.theocharis.dev/blog/llm-critics-are-right-i-use-llms-anyway/",
-    "title": "The LLM Critics Are Right. I Use LLMs Anyway"
-  },
-  {
-    "source": "lobsters",
     "url": "https://alexgaynor.net/2026/jul/15/you-cant-bugfix-your-way-out-of-the-vulnpocalypse/",
     "title": "You can't bug fix your way out of the vulnpocalypse"
   },
   {
     "source": "lobsters",
+    "url": "https://www.rocketpoweredjetpants.com/2026/04/were-going-to-make-out-like-bandits/",
+    "title": "We're Going to Make Out Like Bandits"
+  },
+  {
+    "source": "lobsters",
     "url": "https://collider.ee/1.5.1/",
     "title": "Bring modern package management to Meson's native wrap ecosystem"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://metaredux.com/posts/2026/07/16/clj-refactor-4-0.html",
+    "title": "clj-refactor.el 4.0"
   },
   {
     "source": "lobsters",
@@ -156,17 +161,102 @@
   },
   {
     "source": "lobsters",
-    "url": "https://www.rocketpoweredjetpants.com/2026/04/were-going-to-make-out-like-bandits/",
-    "title": "We're Going to Make Out Like Bandits"
-  },
-  {
-    "source": "lobsters",
     "url": "https://soatok.blog/2026/07/15/the-long-tail-of-work-left-until-activitypub-has-e2ee/",
     "title": "The Long Tail of Work Left Until ActivityPub Has E2EE"
   },
   {
-    "source": "lobsters",
-    "url": "https://metaredux.com/posts/2026/07/16/clj-refactor-4-0.html",
-    "title": "clj-refactor.el 4.0"
+    "source": "pinboard",
+    "url": "https://scottwillsey.com/building-and-shipping-mac-and-ios-apps-without-ever-opening-xcode/",
+    "title": "Building and Shipping Mac and iOS Apps Without Ever Opening Xcode"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://lalitm.com/post/git-history/",
+    "title": "The git history command deserves more attention - Lalit Maganti"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.shortverse.com/",
+    "title": "Shortverse | The Universe of Short Film"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.whatcable.uk/",
+    "title": "WhatCable: Know what your USB-C cable can really do"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://fabiensanglard.net/jurrasic_park_computers/index.html",
+    "title": "Jurassic Park computers in excruciating detail"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://raymyers.org/post/zed-creator-calls-spade-a-spade/",
+    "title": "Zig Creator Calls Spade a Spade, Anthropic Blows Smoke"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://thinkingmachines.ai/news/introducing-inkling/",
+    "title": "Inkling: Our open-weights model - Thinking Machines Lab"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.ayush.digital/blog/the-memory-heist",
+    "title": "The Memory Heist"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.lyrebirddreaming.com/post/the-graph-that-should-be-front-page-news",
+    "title": "The Graph That Should Be Front-Page News"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.susanrigetti.com/physics",
+    "title": "Physics — Susan Rigetti"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://owickstrom.github.io/the-proportional-web/",
+    "title": "The Proportional Web"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://clocks.dev/",
+    "title": "Clocks.dev"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://raymyers.org/post/zig-creator-calls-spade-a-spade/",
+    "title": "Zig Creator Calls Spade a Spade, Anthropic Blows Smoke"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://andiroberts.com/citizenship/the-social-physics-of-conversation-citizenship-leadership",
+    "title": "The social physics of conversation: Communication patterns matter | Andi Roberts – Executive Coach | Leadership Trainer | Facilitator"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://scotto.me/blog/2026-07-12-how-to-read-more-books/",
+    "title": "How to read more books"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://shellzine.net/cyberpunk-comics/",
+    "title": "Cyberpunk Comics, Manga and Graphic Novels"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://news.ycombinator.com/item?id=48896665",
+    "title": "Building and Shipping Mac and iOS Apps Without Ever Opening Xcode | Hacker News"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.climate.us/",
+    "title": "Climate.us"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://davidpoblador.com/deep-dives/what-happened-to-the-frontend/",
+    "title": "The Descent — What Happened to the Frontend While You Weren't Watching"
   }
 ]
