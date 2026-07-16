@@ -1,8 +1,13 @@
 [
   {
     "source": "hn",
-    "url": "https://www.kimi.com/en",
-    "title": "Kimi K3 is now live"
+    "url": "https://www.kimi.com/blog/kimi-k3",
+    "title": "Kimi K3: Open Frontier Intelligence"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.tryai.dev/blog/ai-music-video-arena-claude-vs-gpt-5.6",
+    "title": "$100 AI Music Video: Claude Fable 5 vs. GPT-5.6 Sol"
   },
   {
     "source": "hn",
@@ -16,6 +21,11 @@
   },
   {
     "source": "hn",
+    "url": "https://blog.lyc8503.net/en/post/llm-classifier/",
+    "title": "Detecting LLM-Generated Texts with “Classical” Machine Learning"
+  },
+  {
+    "source": "hn",
     "url": "https://community.oneplus.com/thread/2170715118587871237",
     "title": "OnePlus halts operations in USA and Europe"
   },
@@ -26,23 +36,18 @@
   },
   {
     "source": "hn",
-    "url": "https://rtfeldman.com/rust-to-zig",
-    "title": "How Our Rust-to-Zig Rewrite Is Going"
+    "url": "https://crowdhailer.me/2026-07-15/abstracting-effects-with-continuations/",
+    "title": "Abstracting Effects with Continuations"
   },
   {
     "source": "hn",
-    "url": "https://timelinescan.com/",
-    "title": "Timeline Scan – AI fixes the dates on your scanned photos"
+    "url": "https://dynomight.net/pseudpocalypse/",
+    "title": "Pseudpocalypse"
   },
   {
     "source": "hn",
-    "url": "https://www.pigeonsandplanes.com/read/music-piracy-what-cd-oink-nine-inch-nails-streaming",
-    "title": "The lost joy of music piracy"
-  },
-  {
-    "source": "hn",
-    "url": "https://blog.lyc8503.net/en/post/llm-classifier/",
-    "title": "Detecting LLM-Generated Texts with “Classical” Machine Learning"
+    "url": "https://bamboo.kickstage.com",
+    "title": "Show HN: BambooGrid – Open-source web UI for power grid modeling and power flow"
   },
   {
     "source": "hn",
@@ -51,43 +56,8 @@
   },
   {
     "source": "hn",
-    "url": "https://artificialanalysis.ai/models/kimi-k3",
-    "title": "Kimi K3 Intelligence, Performance and Price Analysis"
-  },
-  {
-    "source": "hn",
-    "url": "https://purplesyringa.moe/blog/guest/optimizing-lua-string-literals-to-save-400-bytes/",
-    "title": "Optimizing Lua string literals to save 400 bytes"
-  },
-  {
-    "source": "hn",
-    "url": "https://sinja.io/blog/data-landscape-guide-for-developers",
-    "title": "Guide to data tools landscape for developers"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.techdirt.com/2026/07/15/sony-deletes-a-bunch-more-movies-from-the-accounts-of-people-who-bought-them/",
-    "title": "Sony deletes more movies from the accounts of people who ‘bought’ them"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.tryai.dev/blog/ai-music-video-arena-claude-vs-gpt-5.6",
-    "title": "$100 AI Music Video: Claude Fable 5 vs. GPT-5.6 Sol"
-  },
-  {
-    "source": "hn",
-    "url": "https://onatm.dev/2026/07/16/homescale-part-1/",
-    "title": "Let's Build PlanetScale from Scratch: Infrastructure"
-  },
-  {
-    "source": "hn",
-    "url": "https://the-decoder.com/german-ai-consortium-releases-soofi-s-an-open-30b-model-that-tops-benchmarks-in-both-english-and-german/",
-    "title": "German AI consortium releases Soofi S, an open 30B model that tops benchmarks"
-  },
-  {
-    "source": "hn",
-    "url": "https://schema-harness.github.io/",
-    "title": "Schema Harness Achieves ~99% on Arc‑AGI‑3 Public"
+    "url": "https://rtfeldman.com/rust-to-zig",
+    "title": "How Our Rust-to-Zig Rewrite Is Going"
   },
   {
     "source": "hn",
@@ -96,8 +66,33 @@
   },
   {
     "source": "hn",
+    "url": "https://purplesyringa.moe/blog/guest/optimizing-lua-string-literals-to-save-400-bytes/",
+    "title": "Optimizing Lua string literals to save 400 bytes"
+  },
+  {
+    "source": "hn",
+    "url": "https://timelinescan.com/",
+    "title": "Timeline Scan – AI fixes the dates on your scanned photos"
+  },
+  {
+    "source": "hn",
+    "url": "https://sinja.io/blog/data-landscape-guide-for-developers",
+    "title": "Guide to data tools landscape for developers"
+  },
+  {
+    "source": "hn",
     "url": "https://nicholas-afk.github.io/AttoChess/",
     "title": "AttoChess, a complete, playable chess program for 16-bit x86 DOS in 278 bytes"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.theocharis.dev/blog/llm-critics-are-right-i-use-llms-anyway/",
+    "title": "The LLM Critics Are Right. I Use LLMs Anyway"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.techdirt.com/2026/07/15/sony-deletes-a-bunch-more-movies-from-the-accounts-of-people-who-bought-them/",
+    "title": "Sony deletes more movies from the accounts of people who ‘bought’ them"
   },
   {
     "source": "lobsters",
@@ -111,16 +106,6 @@
   },
   {
     "source": "lobsters",
-    "url": "https://www.theocharis.dev/blog/llm-critics-are-right-i-use-llms-anyway/",
-    "title": "The LLM Critics Are Right. I Use LLMs Anyway"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://crowdhailer.me/2026-07-15/abstracting-effects-with-continuations/",
-    "title": "Abstracting effects with continuations"
-  },
-  {
-    "source": "lobsters",
     "url": "https://thecloudlet.github.io/technical/compiler/memory-compiler/",
     "title": "What \"Memory Compiler\" Actually Means: From Bitcells to GDS Tiling"
   },
@@ -131,18 +116,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://alexgaynor.net/2026/jul/15/you-cant-bugfix-your-way-out-of-the-vulnpocalypse/",
-    "title": "You can't bug fix your way out of the vulnpocalypse"
-  },
-  {
-    "source": "lobsters",
     "url": "https://www.rocketpoweredjetpants.com/2026/04/were-going-to-make-out-like-bandits/",
     "title": "We're Going to Make Out Like Bandits"
   },
   {
     "source": "lobsters",
-    "url": "https://collider.ee/1.5.1/",
-    "title": "Bring modern package management to Meson's native wrap ecosystem"
+    "url": "https://alexgaynor.net/2026/jul/15/you-cant-bugfix-your-way-out-of-the-vulnpocalypse/",
+    "title": "You can't bug fix your way out of the vulnpocalypse"
   },
   {
     "source": "lobsters",
@@ -151,8 +131,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://lucumr.pocoo.org/2026/7/13/the-tower-keeps-rising/",
-    "title": "The Tower Keeps Rising"
+    "url": "https://collider.ee/1.5.1/",
+    "title": "Bring modern package management to Meson's native wrap ecosystem"
   },
   {
     "source": "lobsters",
@@ -161,8 +141,18 @@
   },
   {
     "source": "lobsters",
+    "url": "https://lucumr.pocoo.org/2026/7/13/the-tower-keeps-rising/",
+    "title": "The Tower Keeps Rising"
+  },
+  {
+    "source": "lobsters",
     "url": "https://soatok.blog/2026/07/15/the-long-tail-of-work-left-until-activitypub-has-e2ee/",
     "title": "The Long Tail of Work Left Until ActivityPub Has E2EE"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://www.schneier.com/blog/archives/2026/07/ai-data-centers-and-the-concentration-of-wealth.html",
+    "title": "AI Data Centers and the Concentration of Wealth"
   },
   {
     "source": "pinboard",
