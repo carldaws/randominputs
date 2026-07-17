@@ -1,33 +1,48 @@
 [
   {
     "source": "hn",
+    "url": "https://stateofopensource.ai/",
+    "title": "Mozilla: The state of open source AI"
+  },
+  {
+    "source": "hn",
+    "url": "https://scotto.me/blog/2026-07-17-which-lisp/",
+    "title": "A Road to Lisp: Which Lisp"
+  },
+  {
+    "source": "hn",
+    "url": "https://improvesomething.today/responses-to-problems/",
+    "title": "Three ways people respond to a problem (other than solving it)"
+  },
+  {
+    "source": "hn",
+    "url": "https://minikotlin.run",
+    "title": "Minikotlin"
+  },
+  {
+    "source": "hn",
+    "url": "https://honeypotlive.cc/",
+    "title": "Show HN: Watch bots interact with an SSH honeypot in real time"
+  },
+  {
+    "source": "hn",
+    "url": "https://blog.zksecurity.xyz/posts/openvm-bugs/",
+    "title": "AI Meets Cryptography 2: What AI Found in OpenVM's ZkVM"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.olafalders.com/2026/07/17/claude-code-anatomy-of-a-misfeature/",
+    "title": "Claude Code: Anatomy of a Misfeature"
+  },
+  {
+    "source": "hn",
     "url": "https://www.kaggle.com/competitions/kaggle-measuring-agi/discussion/724918#3498423",
-    "title": "Blatant AI slop just won a 25k USD DeepMind Kaggle Grand Prize"
+    "title": "Evidence of inconsistencies in evaluation process and selection of winners"
   },
   {
     "source": "hn",
-    "url": "https://www.kimi.com/blog/kimi-k3",
-    "title": "Kimi K3: Open Frontier Intelligence"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.mixfont.com/experiments/decoy-font",
-    "title": "Decoy Font"
-  },
-  {
-    "source": "hn",
-    "url": "https://solod.dev",
-    "title": "Solod: Go can be a better C"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.tryai.dev/blog/ai-music-video-arena-claude-vs-gpt-5.6",
-    "title": "$100 AI Music Video: Claude Fable 5 vs. GPT-5.6 Sol"
-  },
-  {
-    "source": "hn",
-    "url": "https://blog.google/innovation-and-ai/products/gemini-notebook/notebooklm-gemini-notebook/",
-    "title": "NotebookLM is now Gemini Notebook"
+    "url": "https://bartoszmilewski.com/2026/07/14/tannakian-reconstruction/",
+    "title": "Tannakian Reconstruction"
   },
   {
     "source": "hn",
@@ -36,43 +51,38 @@
   },
   {
     "source": "hn",
-    "url": "https://immersivemath.com/ila/",
-    "title": "Immersive Linear Algebra Book with Interactive Figures (2015)"
+    "url": "https://www.mixfont.com/experiments/decoy-font",
+    "title": "Decoy Font"
   },
   {
     "source": "hn",
-    "url": "https://blog.lyc8503.net/en/post/llm-classifier/",
-    "title": "Detecting LLM-Generated Texts with “Classical” Machine Learning"
+    "url": "https://www.kimi.com/blog/kimi-k3",
+    "title": "Kimi K3: Open Frontier Intelligence"
   },
   {
     "source": "hn",
-    "url": "https://consequence.net/2026/07/the-cd-revival-is-getting-hard-to-ignore/",
-    "title": "CD sales growth outpaced vinyl in the first half of 2026"
+    "url": "https://www.tryai.dev/blog/ai-music-video-arena-claude-vs-gpt-5.6",
+    "title": "$100 AI Music Video: Claude Fable 5 vs. GPT-5.6 Sol"
   },
   {
     "source": "hn",
-    "url": "https://en.wikipedia.org/wiki/Pushinka",
-    "title": "Pushinka"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.theocharis.dev/blog/llm-critics-are-right-i-use-llms-anyway/",
-    "title": "The LLM Critics Are Right. I Use LLMs Anyway"
-  },
-  {
-    "source": "hn",
-    "url": "https://leancrew.com/all-this/2026/07/old-icons/",
-    "title": "Old Icons"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.zhinit.dev/blog/training-a-kick-drum-diffusion-model",
-    "title": "How to Train a Gen AI Kick Drum Model on Your Old Linux Desktop with 6GB VRAM"
+    "url": "https://solod.dev",
+    "title": "Solod: Go can be a better C"
   },
   {
     "source": "lobsters",
     "url": "https://rtfeldman.com/rust-to-zig",
     "title": "How Our Rust-to-Zig Rewrite is Going"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://metr.org/blog/2026-02-24-uplift-update/",
+    "title": "We are Changing our Developer Productivity Experiment Design"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://freyaui.dev/posts/0.4",
+    "title": "Freya 0.4 - Rust GUI library"
   },
   {
     "source": "lobsters",
@@ -86,8 +96,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://mort.coffee/home/sqlite-editions/",
-    "title": "SQLite should have (Rust-style) editions"
+    "url": "https://uecker.codeberg.page/2026-07-14.html",
+    "title": "Using GCC's Nested Functions with Wide Pointers and no Trampolines II"
   },
   {
     "source": "lobsters",
@@ -96,37 +106,22 @@
   },
   {
     "source": "lobsters",
-    "url": "https://uecker.codeberg.page/2026-07-14.html",
-    "title": "Using GCC's Nested Functions with Wide Pointers and no Trampolines II"
+    "url": "https://mort.coffee/home/sqlite-editions/",
+    "title": "SQLite should have (Rust-style) editions"
   },
   {
     "source": "lobsters",
-    "url": "https://freyaui.dev/posts/0.4",
-    "title": "Freya 0.4 - Rust GUI library"
+    "url": "https://lambadalambda.github.io/fedichat/client.html",
+    "title": "Fedichat - Comic Chat for the Fediverse"
   },
   {
     "source": "lobsters",
-    "url": "https://metr.org/blog/2026-02-24-uplift-update/",
-    "title": "We are Changing our Developer Productivity Experiment Design"
+    "url": "https://www.theocharis.dev/blog/llm-critics-are-right-i-use-llms-anyway/",
+    "title": "The LLM Critics Are Right. I Use LLMs Anyway"
   },
   {
     "source": "lobsters",
     "url": "https://country-draw.vercel.app/",
     "title": "Country Draw"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://smallcultfollowing.com/babysteps/blog/2026/07/15/battery-packs/",
-    "title": "Battery packs: Let's talk about crates, baby"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://alexgaynor.net/2026/jul/15/you-cant-bugfix-your-way-out-of-the-vulnpocalypse/",
-    "title": "You can't bug fix your way out of the vulnpocalypse"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://blog.poisson.chat/posts/2025-03-30-breadth-first-unfolds.html",
-    "title": "Unfolding trees breadth-first in Haskell (2025)"
   }
 ]
