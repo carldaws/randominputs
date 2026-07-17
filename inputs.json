@@ -1,13 +1,8 @@
 [
   {
     "source": "hn",
-    "url": "https://stateofopensource.ai/",
-    "title": "Mozilla: The state of open source AI"
-  },
-  {
-    "source": "hn",
-    "url": "https://scotto.me/blog/2026-07-17-which-lisp/",
-    "title": "A Road to Lisp: Which Lisp"
+    "url": "https://jvns.ca/blog/2026/07/17/learning-about-running-sqlite/",
+    "title": "Learning a few things about running SQLite"
   },
   {
     "source": "hn",
@@ -16,23 +11,23 @@
   },
   {
     "source": "hn",
+    "url": "https://isene.org/2026/07/Frame.html",
+    "title": "Frame – Linux X server in Assembly"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.humanrightsfirst.org/ice-flight-monitor-interactive-dashboard",
+    "title": "ICE Flight Monitor Interactive Dashboard"
+  },
+  {
+    "source": "hn",
+    "url": "https://stateofopensource.ai/",
+    "title": "Mozilla: The state of open source AI"
+  },
+  {
+    "source": "hn",
     "url": "https://improvesomething.today/responses-to-problems/",
     "title": "Three ways people respond to a problem (other than solving it)"
-  },
-  {
-    "source": "hn",
-    "url": "https://blog.zksecurity.xyz/posts/openvm-bugs/",
-    "title": "AI Meets Cryptography 2: What AI Found in OpenVM's ZkVM"
-  },
-  {
-    "source": "hn",
-    "url": "https://isene.org/2026/07/Frame.html",
-    "title": "Frame – the first Linux Assembly X server"
-  },
-  {
-    "source": "hn",
-    "url": "https://honeypotlive.cc/",
-    "title": "Show HN: Watch bots interact with an SSH honeypot in real time"
   },
   {
     "source": "hn",
@@ -41,18 +36,28 @@
   },
   {
     "source": "hn",
+    "url": "https://scotto.me/blog/2026-07-17-which-lisp/",
+    "title": "A Road to Lisp: Which Lisp"
+  },
+  {
+    "source": "hn",
+    "url": "https://blog.zksecurity.xyz/posts/openvm-bugs/",
+    "title": "AI Meets Cryptography 2: What AI Found in OpenVM's ZkVM"
+  },
+  {
+    "source": "hn",
+    "url": "https://honeypotlive.cc/",
+    "title": "Show HN: Watch bots interact with an SSH honeypot in real time"
+  },
+  {
+    "source": "hn",
+    "url": "https://app.everything.diena.co/",
+    "title": "Show HN: A zoomable timeline of 4M Wikipedia events"
+  },
+  {
+    "source": "hn",
     "url": "https://workspaces.xyz/",
     "title": "Show HN: Explore the Workspaces of Modern Creators"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.olafalders.com/2026/07/17/claude-code-anatomy-of-a-misfeature/",
-    "title": "Claude Code: Anatomy of a Misfeature"
-  },
-  {
-    "source": "hn",
-    "url": "https://blog.google/products-and-platforms/platforms/android/world-emoji-day-noto-3d/",
-    "title": "Designing emoji for the way we communicate today"
   },
   {
     "source": "hn",
@@ -66,18 +71,13 @@
   },
   {
     "source": "hn",
-    "url": "https://msap2.mehran.dk",
-    "title": "Show HN: Simulator for a custom 8-bit discreet logic computer"
+    "url": "https://sofar.belfortlabs.cloud/",
+    "title": "Homomorphically encrypted CIFAR-10 inference in 200ms"
   },
   {
     "source": "hn",
     "url": "https://www.mixfont.com/experiments/decoy-font",
     "title": "Decoy Font"
-  },
-  {
-    "source": "hn",
-    "url": "https://bartoszmilewski.com/2026/07/14/tannakian-reconstruction/",
-    "title": "Tannakian Reconstruction"
   },
   {
     "source": "hn",
@@ -93,6 +93,11 @@
     "source": "lobsters",
     "url": "https://metr.org/blog/2026-02-24-uplift-update/",
     "title": "We are Changing our Developer Productivity Experiment Design"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://mort.coffee/home/sqlite-editions/",
+    "title": "SQLite should have (Rust-style) editions"
   },
   {
     "source": "lobsters",
@@ -121,8 +126,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://mort.coffee/home/sqlite-editions/",
-    "title": "SQLite should have (Rust-style) editions"
+    "url": "https://dustycloud.org/blog/faulty-towers-vibe-sickness-and-the-vibe-bobsled/",
+    "title": "Faulty Towers, vibe sickness, and the vibe bobsled"
   },
   {
     "source": "lobsters",
@@ -133,10 +138,5 @@
     "source": "lobsters",
     "url": "https://www.theocharis.dev/blog/llm-critics-are-right-i-use-llms-anyway/",
     "title": "The LLM Critics Are Right. I Use LLMs Anyway"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://country-draw.vercel.app/",
-    "title": "Country Draw"
   }
 ]
