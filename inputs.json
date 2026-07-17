@@ -1,6 +1,11 @@
 [
   {
     "source": "hn",
+    "url": "https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse/",
+    "title": "Kaiser nurses say AI, workplace surveillance are making their jobs, care worse"
+  },
+  {
+    "source": "hn",
     "url": "https://jvns.ca/blog/2026/07/17/learning-about-running-sqlite/",
     "title": "Learning a few things about running SQLite"
   },
@@ -11,23 +16,8 @@
   },
   {
     "source": "hn",
-    "url": "https://isene.org/2026/07/Frame.html",
-    "title": "Frame – Linux X server in Assembly"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.bain.com/insights/the-us-grocery-slowdown-is-real-snap-chart/",
-    "title": "The US Grocery Slowdown Is Real"
-  },
-  {
-    "source": "hn",
-    "url": "https://lobste.rs/s/ko1ji1",
-    "title": "Lobste.rs is now running on SQLite"
-  },
-  {
-    "source": "hn",
-    "url": "https://stateofopensource.ai/",
-    "title": "The state of open source AI"
+    "url": "https://curiouscoding.nl/posts/static-search-tree/",
+    "title": "Static search trees: 40x faster than binary search (2024)"
   },
   {
     "source": "hn",
@@ -41,23 +31,13 @@
   },
   {
     "source": "hn",
+    "url": "https://stateofopensource.ai/",
+    "title": "The state of open source AI"
+  },
+  {
+    "source": "hn",
     "url": "https://honeypotlive.cc/",
     "title": "Show HN: Watch bots interact with an SSH honeypot in real time"
-  },
-  {
-    "source": "hn",
-    "url": "https://blog.zksecurity.xyz/posts/openvm-bugs/",
-    "title": "AI Meets Cryptography 2: What AI Found in OpenVM's ZkVM"
-  },
-  {
-    "source": "hn",
-    "url": "https://improvesomething.today/responses-to-problems/",
-    "title": "Three ways people respond to a problem (other than solving it)"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.koreatimes.co.kr/business/tech-science/20260716/us-seeks-share-of-korean-chipmakers-excess-profits-source",
-    "title": "US seeks share of Korean chipmakers' 'excess profits'"
   },
   {
     "source": "hn",
@@ -66,13 +46,38 @@
   },
   {
     "source": "hn",
-    "url": "https://scotto.me/blog/2026-07-17-which-lisp/",
-    "title": "A Road to Lisp: Which Lisp"
+    "url": "https://blog.zksecurity.xyz/posts/openvm-bugs/",
+    "title": "AI Meets Cryptography 2: What AI Found in OpenVM's ZkVM"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.kaggle.com/competitions/kaggle-measuring-agi/discussion/724918#3498423",
+    "title": "Evidence of inconsistencies in evaluation process and selection of winners"
+  },
+  {
+    "source": "hn",
+    "url": "https://improvesomething.today/responses-to-problems/",
+    "title": "Three ways people respond to a problem (other than solving it)"
   },
   {
     "source": "hn",
     "url": "https://sofar.belfortlabs.cloud/",
     "title": "Homomorphically encrypted CIFAR-10 inference in 200ms"
+  },
+  {
+    "source": "hn",
+    "url": "https://lobste.rs/s/ko1ji1",
+    "title": "Lobste.rs is now running on SQLite"
+  },
+  {
+    "source": "hn",
+    "url": "https://blog.google/products-and-platforms/platforms/android/world-emoji-day-noto-3d/",
+    "title": "Designing emoji for the way we communicate today"
+  },
+  {
+    "source": "hn",
+    "url": "https://bombich.com/blog/2026/07/07/disk-not-ejected-properly",
+    "title": "\"Disk Not Ejected Properly\": What It Means"
   },
   {
     "source": "lobsters",
@@ -91,6 +96,11 @@
   },
   {
     "source": "lobsters",
+    "url": "https://blog.haskell.org/enterprise-haskell-at-h-e-b/",
+    "title": "Enterprise Haskell at H-E-B"
+  },
+  {
+    "source": "lobsters",
     "url": "https://metr.org/blog/2026-02-24-uplift-update/",
     "title": "We are Changing our Developer Productivity Experiment Design"
   },
@@ -101,18 +111,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://blog.haskell.org/enterprise-haskell-at-h-e-b/",
-    "title": "Enterprise Haskell at H-E-B"
+    "url": "https://www.fsf.org/blogs/community/stop-the-guard-act",
+    "title": "Stop the GUARD Act and age verification laws worldwide"
   },
   {
     "source": "lobsters",
     "url": "https://lambadalambda.github.io/fedichat/client.html",
     "title": "Fedichat - Comic Chat for the Fediverse"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://www.fsf.org/blogs/community/stop-the-guard-act",
-    "title": "Stop the GUARD Act and age verification laws worldwide"
   },
   {
     "source": "lobsters",
@@ -123,16 +128,6 @@
     "source": "lobsters",
     "url": "https://forgejo.org/2026-07-release-v16-0/",
     "title": "Forgejo v16.0 is available"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://uecker.codeberg.page/2026-07-14.html",
-    "title": "Using GCC's Nested Functions with Wide Pointers and no Trampolines II"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://www.rocketpoweredjetpants.com/2026/04/were-going-to-make-out-like-bandits/",
-    "title": "We're Going to Make Out Like Bandits"
   },
   {
     "source": "pinboard",
