@@ -6,18 +6,18 @@
   },
   {
     "source": "hn",
-    "url": "https://isene.org/2026/07/Frame.html",
-    "title": "Frame – Linux X server in Assembly"
-  },
-  {
-    "source": "hn",
     "url": "https://simonwillison.net/2026/Jul/16/kimi-k3/",
     "title": "Kimi K3, and what we can still learn from the pelican benchmark"
   },
   {
     "source": "hn",
-    "url": "https://improvesomething.today/responses-to-problems/",
-    "title": "Three ways people respond to a problem (other than solving it)"
+    "url": "https://isene.org/2026/07/Frame.html",
+    "title": "Frame – Linux X server in Assembly"
+  },
+  {
+    "source": "hn",
+    "url": "https://lobste.rs/s/ko1ji1",
+    "title": "Lobste.rs is now running on SQLite"
   },
   {
     "source": "hn",
@@ -26,8 +26,18 @@
   },
   {
     "source": "hn",
+    "url": "https://improvesomething.today/responses-to-problems/",
+    "title": "Three ways people respond to a problem (other than solving it)"
+  },
+  {
+    "source": "hn",
     "url": "https://www.architecturaldigest.com/story/frank-lloyd-wright-home-and-studio-everything-you-need-to-know",
     "title": "Frank Lloyd Wright’s first home"
+  },
+  {
+    "source": "hn",
+    "url": "https://app.everything.diena.co/",
+    "title": "Show HN: A zoomable timeline of 4M Wikipedia events"
   },
   {
     "source": "hn",
@@ -46,13 +56,8 @@
   },
   {
     "source": "hn",
-    "url": "https://app.everything.diena.co/",
-    "title": "Show HN: A zoomable timeline of 4M Wikipedia events"
-  },
-  {
-    "source": "hn",
     "url": "https://workspaces.xyz/",
-    "title": "Show HN: Explore the Workspaces of Modern Creators"
+    "title": "Workspaces – Explore the workspaces of modern creators"
   },
   {
     "source": "hn",
@@ -61,18 +66,18 @@
   },
   {
     "source": "hn",
-    "url": "https://sofar.belfortlabs.cloud/",
-    "title": "Homomorphically encrypted CIFAR-10 inference in 200ms"
-  },
-  {
-    "source": "hn",
     "url": "https://transistor-man.com/gimbal_camera_rover.html",
     "title": "Camera Chase Vehicle"
   },
   {
     "source": "hn",
-    "url": "https://www.mixfont.com/experiments/decoy-font",
-    "title": "Decoy Font"
+    "url": "https://sofar.belfortlabs.cloud/",
+    "title": "Homomorphically encrypted CIFAR-10 inference in 200ms"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://dustycloud.org/blog/faulty-towers-vibe-sickness-and-the-vibe-bobsled/",
+    "title": "Faulty Towers, vibe sickness, and the vibe bobsled"
   },
   {
     "source": "lobsters",
@@ -81,8 +86,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://dustycloud.org/blog/faulty-towers-vibe-sickness-and-the-vibe-bobsled/",
-    "title": "Faulty Towers, vibe sickness, and the vibe bobsled"
+    "url": "https://alexalejandre.com/interviews/interview-with-matheus-moreira/",
+    "title": "Lobsters Interview with matheusmoreira about Lone Lisp"
   },
   {
     "source": "lobsters",
@@ -96,23 +101,23 @@
   },
   {
     "source": "lobsters",
-    "url": "https://mort.coffee/home/sqlite-editions/",
-    "title": "SQLite should have (Rust-style) editions"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://forgejo.org/2026-07-release-v16-0/",
-    "title": "Forgejo v16.0 is available"
-  },
-  {
-    "source": "lobsters",
     "url": "https://lambadalambda.github.io/fedichat/client.html",
     "title": "Fedichat - Comic Chat for the Fediverse"
   },
   {
     "source": "lobsters",
+    "url": "https://mort.coffee/home/sqlite-editions/",
+    "title": "SQLite should have (Rust-style) editions"
+  },
+  {
+    "source": "lobsters",
     "url": "https://www.fsf.org/blogs/community/stop-the-guard-act",
     "title": "Stop the GUARD Act and age verification laws worldwide"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://forgejo.org/2026-07-release-v16-0/",
+    "title": "Forgejo v16.0 is available"
   },
   {
     "source": "lobsters",
@@ -123,10 +128,5 @@
     "source": "lobsters",
     "url": "https://www.rocketpoweredjetpants.com/2026/04/were-going-to-make-out-like-bandits/",
     "title": "We're Going to Make Out Like Bandits"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://www.theocharis.dev/blog/llm-critics-are-right-i-use-llms-anyway/",
-    "title": "The LLM Critics Are Right. I Use LLMs Anyway"
   }
 ]
