@@ -6,13 +6,13 @@
   },
   {
     "source": "hn",
-    "url": "https://www.mixfont.com/experiments/decoy-font",
-    "title": "Decoy Font"
+    "url": "https://www.dbpro.app/blog/sqlite-is-all-you-need",
+    "title": "SQLite Is All You Need"
   },
   {
     "source": "hn",
-    "url": "https://www.tryai.dev/blog/ai-music-video-arena-claude-vs-gpt-5.6",
-    "title": "$100 AI Music Video: Claude Fable 5 vs. GPT-5.6 Sol"
+    "url": "https://www.mixfont.com/experiments/decoy-font",
+    "title": "Decoy Font"
   },
   {
     "source": "hn",
@@ -21,13 +21,13 @@
   },
   {
     "source": "hn",
-    "url": "https://blog.google/innovation-and-ai/products/gemini-notebook/notebooklm-gemini-notebook/",
-    "title": "NotebookLM is now Gemini Notebook"
+    "url": "https://www.tryai.dev/blog/ai-music-video-arena-claude-vs-gpt-5.6",
+    "title": "$100 AI Music Video: Claude Fable 5 vs. GPT-5.6 Sol"
   },
   {
     "source": "hn",
-    "url": "https://privacypros.com.au/privacy-hub/articles/dv-safe-phone-australia/",
-    "title": "GrapheneOS recommended for domestic abuse victims"
+    "url": "https://blog.google/innovation-and-ai/products/gemini-notebook/notebooklm-gemini-notebook/",
+    "title": "NotebookLM is now Gemini Notebook"
   },
   {
     "source": "hn",
@@ -36,13 +36,13 @@
   },
   {
     "source": "hn",
-    "url": "https://blog.lyc8503.net/en/post/llm-classifier/",
-    "title": "Detecting LLM-Generated Texts with “Classical” Machine Learning"
+    "url": "https://immersivemath.com/ila/",
+    "title": "Immersive Linear Algebra Book with Interactive Figures (2015)"
   },
   {
     "source": "hn",
-    "url": "https://immersivemath.com/ila/",
-    "title": "Immersive Linear Algebra Book with Interactive Figures (2015)"
+    "url": "https://blog.lyc8503.net/en/post/llm-classifier/",
+    "title": "Detecting LLM-Generated Texts with “Classical” Machine Learning"
   },
   {
     "source": "hn",
@@ -61,11 +61,6 @@
   },
   {
     "source": "hn",
-    "url": "https://pncnmnp.github.io/blogs/rca-victor-education.html",
-    "title": "How RCA Victor sold Sound Service to classrooms in 1939"
-  },
-  {
-    "source": "hn",
     "url": "https://www.theocharis.dev/blog/llm-critics-are-right-i-use-llms-anyway/",
     "title": "The LLM Critics Are Right. I Use LLMs Anyway"
   },
@@ -75,78 +70,163 @@
     "title": "How to Train a Gen AI Kick Drum Model on Your Old Linux Desktop with 6GB VRAM"
   },
   {
+    "source": "hn",
+    "url": "https://wyounas.github.io/puzzles/concurrency/2026/01/10/how-to-help-santa-claus-concurrently/",
+    "title": "Solving Santa Claus Puzzle"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://rtfeldman.com/rust-to-zig",
+    "title": "How Our Rust-to-Zig Rewrite is Going"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://forgejo.org/2026-07-release-v16-0/",
+    "title": "Forgejo v16.0 is available"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://mort.coffee/home/sqlite-editions/",
+    "title": "SQLite should have (Rust-style) editions"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://www.rocketpoweredjetpants.com/2026/04/were-going-to-make-out-like-bandits/",
+    "title": "We're Going to Make Out Like Bandits"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://uecker.codeberg.page/2026-07-14.html",
+    "title": "Using GCC's Nested Functions with Wide Pointers and no Trampolines II"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://www.fsf.org/blogs/community/stop-the-guard-act",
+    "title": "Stop the GUARD Act and age verification laws worldwide"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://country-draw.vercel.app/",
+    "title": "Country Draw"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://alexgaynor.net/2026/jul/15/you-cant-bugfix-your-way-out-of-the-vulnpocalypse/",
+    "title": "You can't bug fix your way out of the vulnpocalypse"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://blog.poisson.chat/posts/2025-03-30-breadth-first-unfolds.html",
+    "title": "Unfolding trees breadth-first in Haskell (2025)"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://thecloudlet.github.io/technical/compiler/memory-compiler/",
+    "title": "What \"Memory Compiler\" Actually Means: From Bitcells to GDS Tiling"
+  },
+  {
     "source": "lobsters",
     "url": "https://flint.cs.yale.edu/cs421/case-for-ml.html",
     "title": "Why ML/OCaml are good for writing compilers (1998)"
   },
   {
     "source": "lobsters",
-    "url": "https://smallcultfollowing.com/babysteps/blog/2026/07/15/battery-packs/",
-    "title": "Battery packs: Let's talk about crates, baby"
+    "url": "https://metaredux.com/posts/2026/07/16/clj-refactor-4-0.html",
+    "title": "clj-refactor.el 4.0"
   },
   {
-    "source": "lobsters",
-    "url": "https://tenderlovemaking.com/2026/07/15/detecting-full-table-scans-with-sqlite/",
-    "title": "Detecting Full Table Scans With SQLite"
+    "source": "pinboard",
+    "url": "https://www.shortverse.com/",
+    "title": "Shortverse | The Universe of Short Film"
   },
   {
-    "source": "lobsters",
-    "url": "https://www.pigeonsandplanes.com/read/music-piracy-what-cd-oink-nine-inch-nails-streaming",
-    "title": "The Lost Joy of Music Piracy"
+    "source": "pinboard",
+    "url": "https://lalitm.com/post/git-history/",
+    "title": "The git history command deserves more attention - Lalit Maganti"
   },
   {
-    "source": "lobsters",
-    "url": "https://collider.ee/1.5.1/",
-    "title": "Bring modern package management to Meson's native wrap ecosystem"
+    "source": "pinboard",
+    "url": "https://thinkingmachines.ai/news/introducing-inkling/",
+    "title": "Inkling: Our open-weights model - Thinking Machines Lab"
   },
   {
-    "source": "lobsters",
-    "url": "https://parakeet.co/blog/the-shape-of-apps/",
-    "title": "The Shape of Apps"
+    "source": "pinboard",
+    "url": "https://clocks.dev/",
+    "title": "Clocks.dev"
   },
   {
-    "source": "lobsters",
-    "url": "https://soatok.blog/2026/07/15/the-long-tail-of-work-left-until-activitypub-has-e2ee/",
-    "title": "The Long Tail of Work Left Until ActivityPub Has E2EE"
+    "source": "pinboard",
+    "url": "https://scottwillsey.com/building-and-shipping-mac-and-ios-apps-without-ever-opening-xcode/",
+    "title": "Building and Shipping Mac and iOS Apps Without Ever Opening Xcode"
   },
   {
-    "source": "lobsters",
+    "source": "pinboard",
+    "url": "https://www.ayush.digital/blog/the-memory-heist",
+    "title": "The Memory Heist"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://fabiensanglard.net/jurrasic_park_computers/index.html",
+    "title": "Jurassic Park computers in excruciating detail"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.whatcable.uk/",
+    "title": "WhatCable: Know what your USB-C cable can really do"
+  },
+  {
+    "source": "pinboard",
     "url": "https://lucumr.pocoo.org/2026/7/13/the-tower-keeps-rising/",
-    "title": "The Tower Keeps Rising"
+    "title": "The Tower Keeps Rising | Armin Ronacher's Thoughts and Writings"
   },
   {
-    "source": "lobsters",
-    "url": "https://www.schneier.com/blog/archives/2026/07/ai-data-centers-and-the-concentration-of-wealth.html",
-    "title": "AI Data Centers and the Concentration of Wealth"
+    "source": "pinboard",
+    "url": "https://www.pigeonsandplanes.com/read/music-piracy-what-cd-oink-nine-inch-nails-streaming",
+    "title": "The Lost Joy of Music Piracy: WhatCD, Oink, and Spotify | Pigeons and Planes"
   },
   {
-    "source": "lobsters",
-    "url": "https://eprint.iacr.org/2019/889",
-    "title": "Securing DNSSEC Keys via Threshold ECDSA From Generic MPC (2019)"
+    "source": "pinboard",
+    "url": "https://clipart.studio/",
+    "title": "clipart.studio — magazine collage maker"
   },
   {
-    "source": "lobsters",
-    "url": "https://xeiaso.net/notes/2026/check-your-smart-tv/",
-    "title": "You should probably check on your smart appliances"
+    "source": "pinboard",
+    "url": "https://www.climate.us/",
+    "title": "Climate.us"
   },
   {
-    "source": "lobsters",
-    "url": "https://sebsite.pw/w/20260712-kandr.html",
-    "title": "a bunch of stuff i used to not know about K&R C"
+    "source": "pinboard",
+    "url": "https://eieio.games/blog/legibility-of-effort/",
+    "title": "Legibility of Effort · eieio.games"
   },
   {
-    "source": "lobsters",
-    "url": "https://piccalil.li/blog/framework-agnostic-design-systems-part-1/",
-    "title": "Framework-agnostic design systems: a practical approach to web components"
+    "source": "pinboard",
+    "url": "https://www.404media.co/hack-reveals-suno-ai-music-generator-scraped-youtube-deezer-and-genius/",
+    "title": "Un hack svela come Suno avrebbe addestrato l’AI musicale con dati da YouTube, Deezer e Genius"
   },
   {
-    "source": "lobsters",
-    "url": "https://sebsite.pw/w/20260715-null.html",
-    "title": "i've been thinking about null pointers"
+    "source": "pinboard",
+    "url": "https://sinja.io/blog/data-landscape-guide-for-developers",
+    "title": "Guide to data tools landscape for developers · OlegWock"
   },
   {
-    "source": "lobsters",
-    "url": "https://www.tomica.net/blog/2026/07/tls-certificate-validation-on-linux/",
-    "title": "TLS Certificate Validation on Linux"
+    "source": "pinboard",
+    "url": "https://news.ycombinator.com/item?id=48896665",
+    "title": "Building and Shipping Mac and iOS Apps Without Ever Opening Xcode | Hacker News"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.lyrebirddreaming.com/post/the-graph-that-should-be-front-page-news",
+    "title": "The Graph That Should Be Front-Page News"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://raymyers.org/post/zig-creator-calls-spade-a-spade/",
+    "title": "Zig Creator Calls Spade a Spade, Anthropic Blows Smoke"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.susanrigetti.com/physics",
+    "title": "Physics — Susan Rigetti"
   }
 ]
