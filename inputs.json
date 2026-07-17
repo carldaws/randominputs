@@ -1,13 +1,13 @@
 [
   {
     "source": "hn",
-    "url": "https://www.kimi.com/blog/kimi-k3",
-    "title": "Kimi K3: Open Frontier Intelligence"
+    "url": "https://www.kaggle.com/competitions/kaggle-measuring-agi/discussion/724918#3498423",
+    "title": "Blatant AI slop just won a 25k USD DeepMind Kaggle Grand Prize"
   },
   {
     "source": "hn",
-    "url": "https://www.dbpro.app/blog/sqlite-is-all-you-need",
-    "title": "SQLite Is All You Need"
+    "url": "https://www.kimi.com/blog/kimi-k3",
+    "title": "Kimi K3: Open Frontier Intelligence"
   },
   {
     "source": "hn",
@@ -46,18 +46,13 @@
   },
   {
     "source": "hn",
-    "url": "https://leancrew.com/all-this/2026/07/old-icons/",
-    "title": "Old Icons"
-  },
-  {
-    "source": "hn",
     "url": "https://consequence.net/2026/07/the-cd-revival-is-getting-hard-to-ignore/",
     "title": "CD sales growth outpaced vinyl in the first half of 2026"
   },
   {
     "source": "hn",
-    "url": "https://pydantic.dev/articles/the-human-in-the-loop-is-tired",
-    "title": "The human-in-the-loop is tired"
+    "url": "https://en.wikipedia.org/wiki/Pushinka",
+    "title": "Pushinka"
   },
   {
     "source": "hn",
@@ -66,13 +61,13 @@
   },
   {
     "source": "hn",
-    "url": "https://www.zhinit.dev/blog/training-a-kick-drum-diffusion-model",
-    "title": "How to Train a Gen AI Kick Drum Model on Your Old Linux Desktop with 6GB VRAM"
+    "url": "https://leancrew.com/all-this/2026/07/old-icons/",
+    "title": "Old Icons"
   },
   {
     "source": "hn",
-    "url": "https://wyounas.github.io/puzzles/concurrency/2026/01/10/how-to-help-santa-claus-concurrently/",
-    "title": "Solving Santa Claus Puzzle"
+    "url": "https://www.zhinit.dev/blog/training-a-kick-drum-diffusion-model",
+    "title": "How to Train a Gen AI Kick Drum Model on Your Old Linux Desktop with 6GB VRAM"
   },
   {
     "source": "lobsters",
@@ -83,6 +78,11 @@
     "source": "lobsters",
     "url": "https://forgejo.org/2026-07-release-v16-0/",
     "title": "Forgejo v16.0 is available"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://www.fsf.org/blogs/community/stop-the-guard-act",
+    "title": "Stop the GUARD Act and age verification laws worldwide"
   },
   {
     "source": "lobsters",
@@ -101,13 +101,23 @@
   },
   {
     "source": "lobsters",
-    "url": "https://www.fsf.org/blogs/community/stop-the-guard-act",
-    "title": "Stop the GUARD Act and age verification laws worldwide"
+    "url": "https://freyaui.dev/posts/0.4",
+    "title": "Freya 0.4 - Rust GUI library"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://metr.org/blog/2026-02-24-uplift-update/",
+    "title": "We are Changing our Developer Productivity Experiment Design"
   },
   {
     "source": "lobsters",
     "url": "https://country-draw.vercel.app/",
     "title": "Country Draw"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://smallcultfollowing.com/babysteps/blog/2026/07/15/battery-packs/",
+    "title": "Battery packs: Let's talk about crates, baby"
   },
   {
     "source": "lobsters",
@@ -118,115 +128,5 @@
     "source": "lobsters",
     "url": "https://blog.poisson.chat/posts/2025-03-30-breadth-first-unfolds.html",
     "title": "Unfolding trees breadth-first in Haskell (2025)"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://thecloudlet.github.io/technical/compiler/memory-compiler/",
-    "title": "What \"Memory Compiler\" Actually Means: From Bitcells to GDS Tiling"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://flint.cs.yale.edu/cs421/case-for-ml.html",
-    "title": "Why ML/OCaml are good for writing compilers (1998)"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://metaredux.com/posts/2026/07/16/clj-refactor-4-0.html",
-    "title": "clj-refactor.el 4.0"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.shortverse.com/",
-    "title": "Shortverse | The Universe of Short Film"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://lalitm.com/post/git-history/",
-    "title": "The git history command deserves more attention - Lalit Maganti"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://thinkingmachines.ai/news/introducing-inkling/",
-    "title": "Inkling: Our open-weights model - Thinking Machines Lab"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://clocks.dev/",
-    "title": "Clocks.dev"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://scottwillsey.com/building-and-shipping-mac-and-ios-apps-without-ever-opening-xcode/",
-    "title": "Building and Shipping Mac and iOS Apps Without Ever Opening Xcode"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.ayush.digital/blog/the-memory-heist",
-    "title": "The Memory Heist"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://fabiensanglard.net/jurrasic_park_computers/index.html",
-    "title": "Jurassic Park computers in excruciating detail"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.whatcable.uk/",
-    "title": "WhatCable: Know what your USB-C cable can really do"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://lucumr.pocoo.org/2026/7/13/the-tower-keeps-rising/",
-    "title": "The Tower Keeps Rising | Armin Ronacher's Thoughts and Writings"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.pigeonsandplanes.com/read/music-piracy-what-cd-oink-nine-inch-nails-streaming",
-    "title": "The Lost Joy of Music Piracy: WhatCD, Oink, and Spotify | Pigeons and Planes"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://clipart.studio/",
-    "title": "clipart.studio — magazine collage maker"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.climate.us/",
-    "title": "Climate.us"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://eieio.games/blog/legibility-of-effort/",
-    "title": "Legibility of Effort · eieio.games"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.404media.co/hack-reveals-suno-ai-music-generator-scraped-youtube-deezer-and-genius/",
-    "title": "Un hack svela come Suno avrebbe addestrato l’AI musicale con dati da YouTube, Deezer e Genius"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://sinja.io/blog/data-landscape-guide-for-developers",
-    "title": "Guide to data tools landscape for developers · OlegWock"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://news.ycombinator.com/item?id=48896665",
-    "title": "Building and Shipping Mac and iOS Apps Without Ever Opening Xcode | Hacker News"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.lyrebirddreaming.com/post/the-graph-that-should-be-front-page-news",
-    "title": "The Graph That Should Be Front-Page News"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://raymyers.org/post/zig-creator-calls-spade-a-spade/",
-    "title": "Zig Creator Calls Spade a Spade, Anthropic Blows Smoke"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.susanrigetti.com/physics",
-    "title": "Physics — Susan Rigetti"
   }
 ]
