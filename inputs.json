@@ -6,8 +6,8 @@
   },
   {
     "source": "hn",
-    "url": "https://pydantic.dev/articles/the-human-in-the-loop-is-tired",
-    "title": "The Human-in-the-Loop Is Tired"
+    "url": "https://privacypros.com.au/privacy-hub/articles/dv-safe-phone-australia/",
+    "title": "GrapheneOS recommended for domestic abuse victims"
   },
   {
     "source": "hn",
@@ -26,18 +26,8 @@
   },
   {
     "source": "hn",
-    "url": "https://privacypros.com.au/privacy-hub/articles/dv-safe-phone-australia/",
-    "title": "GrapheneOS recommended for domestic abuse victims"
-  },
-  {
-    "source": "hn",
     "url": "https://blog.google/innovation-and-ai/products/gemini-notebook/notebooklm-gemini-notebook/",
     "title": "NotebookLM is now Gemini Notebook"
-  },
-  {
-    "source": "hn",
-    "url": "https://leancrew.com/all-this/2026/07/old-icons/",
-    "title": "Old Icons"
   },
   {
     "source": "hn",
@@ -46,8 +36,8 @@
   },
   {
     "source": "hn",
-    "url": "https://blog.lyc8503.net/en/post/llm-classifier/",
-    "title": "Detecting LLM-Generated Texts with “Classical” Machine Learning"
+    "url": "https://leancrew.com/all-this/2026/07/old-icons/",
+    "title": "Old Icons"
   },
   {
     "source": "hn",
@@ -56,18 +46,28 @@
   },
   {
     "source": "hn",
+    "url": "https://blog.lyc8503.net/en/post/llm-classifier/",
+    "title": "Detecting LLM-Generated Texts with “Classical” Machine Learning"
+  },
+  {
+    "source": "hn",
+    "url": "https://pydantic.dev/articles/the-human-in-the-loop-is-tired",
+    "title": "The human-in-the-loop is tired"
+  },
+  {
+    "source": "hn",
     "url": "https://dynomight.net/pseudpocalypse/",
     "title": "Pseudpocalypse"
   },
   {
     "source": "hn",
-    "url": "https://crowdhailer.me/2026-07-15/abstracting-effects-with-continuations/",
-    "title": "Abstracting Effects with Continuations"
+    "url": "https://oraziorillo.com/blog/what-loss-backward-actually-does/",
+    "title": "What loss.backward() actually does"
   },
   {
     "source": "hn",
-    "url": "https://www.zhinit.dev/blog/training-a-kick-drum-diffusion-model",
-    "title": "How to Train a Gen AI Kick Drum Model on Your Old Linux Desktop with 6GB VRAM"
+    "url": "https://consequence.net/2026/07/the-cd-revival-is-getting-hard-to-ignore/",
+    "title": "CD sales growth outpaced vinyl in the first half of 2026"
   },
   {
     "source": "lobsters",
@@ -91,13 +91,18 @@
   },
   {
     "source": "lobsters",
+    "url": "https://www.fsf.org/blogs/community/stop-the-guard-act",
+    "title": "Stop the GUARD Act and age verification laws worldwide"
+  },
+  {
+    "source": "lobsters",
     "url": "https://www.theocharis.dev/blog/llm-critics-are-right-i-use-llms-anyway/",
     "title": "The LLM Critics Are Right. I Use LLMs Anyway"
   },
   {
     "source": "lobsters",
-    "url": "https://www.fsf.org/blogs/community/stop-the-guard-act",
-    "title": "Stop the GUARD Act and age verification laws worldwide"
+    "url": "https://country-draw.vercel.app/",
+    "title": "Country Draw"
   },
   {
     "source": "lobsters",
@@ -116,13 +121,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://tenderlovemaking.com/2026/07/15/detecting-full-table-scans-with-sqlite/",
-    "title": "Detecting Full Table Scans With SQLite"
+    "url": "https://crowdhailer.me/2026-07-15/abstracting-effects-with-continuations/",
+    "title": "Abstracting effects with continuations"
   },
   {
     "source": "lobsters",
-    "url": "https://country-draw.vercel.app/",
-    "title": "Country Draw"
+    "url": "https://tenderlovemaking.com/2026/07/15/detecting-full-table-scans-with-sqlite/",
+    "title": "Detecting Full Table Scans With SQLite"
   },
   {
     "source": "lobsters",
@@ -131,8 +136,8 @@
   },
   {
     "source": "pinboard",
-    "url": "https://scottwillsey.com/building-and-shipping-mac-and-ios-apps-without-ever-opening-xcode/",
-    "title": "Building and Shipping Mac and iOS Apps Without Ever Opening Xcode"
+    "url": "https://www.shortverse.com/",
+    "title": "Shortverse | The Universe of Short Film"
   },
   {
     "source": "pinboard",
@@ -141,53 +146,8 @@
   },
   {
     "source": "pinboard",
-    "url": "https://www.shortverse.com/",
-    "title": "Shortverse | The Universe of Short Film"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.whatcable.uk/",
-    "title": "WhatCable: Know what your USB-C cable can really do"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://fabiensanglard.net/jurrasic_park_computers/index.html",
-    "title": "Jurassic Park computers in excruciating detail"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://raymyers.org/post/zed-creator-calls-spade-a-spade/",
-    "title": "Zig Creator Calls Spade a Spade, Anthropic Blows Smoke"
-  },
-  {
-    "source": "pinboard",
     "url": "https://thinkingmachines.ai/news/introducing-inkling/",
     "title": "Inkling: Our open-weights model - Thinking Machines Lab"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.ayush.digital/blog/the-memory-heist",
-    "title": "The Memory Heist"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.lyrebirddreaming.com/post/the-graph-that-should-be-front-page-news",
-    "title": "The Graph That Should Be Front-Page News"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.susanrigetti.com/physics",
-    "title": "Physics — Susan Rigetti"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://owickstrom.github.io/the-proportional-web/",
-    "title": "The Proportional Web"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://lucumr.pocoo.org/2026/7/13/the-tower-keeps-rising/",
-    "title": "The Tower Keeps Rising | Armin Ronacher's Thoughts and Writings"
   },
   {
     "source": "pinboard",
@@ -196,28 +156,38 @@
   },
   {
     "source": "pinboard",
-    "url": "https://raymyers.org/post/zig-creator-calls-spade-a-spade/",
-    "title": "Zig Creator Calls Spade a Spade, Anthropic Blows Smoke"
+    "url": "https://scottwillsey.com/building-and-shipping-mac-and-ios-apps-without-ever-opening-xcode/",
+    "title": "Building and Shipping Mac and iOS Apps Without Ever Opening Xcode"
   },
   {
     "source": "pinboard",
-    "url": "https://andiroberts.com/citizenship/the-social-physics-of-conversation-citizenship-leadership",
-    "title": "The social physics of conversation: Communication patterns matter | Andi Roberts – Executive Coach | Leadership Trainer | Facilitator"
+    "url": "https://www.ayush.digital/blog/the-memory-heist",
+    "title": "The Memory Heist"
   },
   {
     "source": "pinboard",
-    "url": "https://scotto.me/blog/2026-07-12-how-to-read-more-books/",
-    "title": "How to read more books"
+    "url": "https://fabiensanglard.net/jurrasic_park_computers/index.html",
+    "title": "Jurassic Park computers in excruciating detail"
   },
   {
     "source": "pinboard",
-    "url": "https://shellzine.net/cyberpunk-comics/",
-    "title": "Cyberpunk Comics, Manga and Graphic Novels"
+    "url": "https://www.whatcable.uk/",
+    "title": "WhatCable: Know what your USB-C cable can really do"
   },
   {
     "source": "pinboard",
-    "url": "https://news.ycombinator.com/item?id=48896665",
-    "title": "Building and Shipping Mac and iOS Apps Without Ever Opening Xcode | Hacker News"
+    "url": "https://lucumr.pocoo.org/2026/7/13/the-tower-keeps-rising/",
+    "title": "The Tower Keeps Rising | Armin Ronacher's Thoughts and Writings"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.pigeonsandplanes.com/read/music-piracy-what-cd-oink-nine-inch-nails-streaming",
+    "title": "The Lost Joy of Music Piracy: WhatCD, Oink, and Spotify | Pigeons and Planes"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://clipart.studio/",
+    "title": "clipart.studio — magazine collage maker"
   },
   {
     "source": "pinboard",
@@ -226,7 +196,37 @@
   },
   {
     "source": "pinboard",
-    "url": "https://davidpoblador.com/deep-dives/what-happened-to-the-frontend/",
-    "title": "The Descent — What Happened to the Frontend While You Weren't Watching"
+    "url": "https://eieio.games/blog/legibility-of-effort/",
+    "title": "Legibility of Effort · eieio.games"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.404media.co/hack-reveals-suno-ai-music-generator-scraped-youtube-deezer-and-genius/",
+    "title": "Un hack svela come Suno avrebbe addestrato l’AI musicale con dati da YouTube, Deezer e Genius"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://sinja.io/blog/data-landscape-guide-for-developers",
+    "title": "Guide to data tools landscape for developers · OlegWock"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://news.ycombinator.com/item?id=48896665",
+    "title": "Building and Shipping Mac and iOS Apps Without Ever Opening Xcode | Hacker News"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.lyrebirddreaming.com/post/the-graph-that-should-be-front-page-news",
+    "title": "The Graph That Should Be Front-Page News"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://raymyers.org/post/zig-creator-calls-spade-a-spade/",
+    "title": "Zig Creator Calls Spade a Spade, Anthropic Blows Smoke"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.susanrigetti.com/physics",
+    "title": "Physics — Susan Rigetti"
   }
 ]
