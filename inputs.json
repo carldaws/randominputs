@@ -6,23 +6,13 @@
   },
   {
     "source": "hn",
-    "url": "https://simonwillison.net/2026/Jul/16/kimi-k3/",
-    "title": "Kimi K3, and what we can still learn from the pelican benchmark"
-  },
-  {
-    "source": "hn",
     "url": "https://isene.org/2026/07/Frame.html",
     "title": "Frame – Linux X server in Assembly"
   },
   {
     "source": "hn",
-    "url": "https://www.humanrightsfirst.org/ice-flight-monitor-interactive-dashboard",
-    "title": "ICE Flight Monitor Interactive Dashboard"
-  },
-  {
-    "source": "hn",
-    "url": "https://stateofopensource.ai/",
-    "title": "Mozilla: The state of open source AI"
+    "url": "https://simonwillison.net/2026/Jul/16/kimi-k3/",
+    "title": "Kimi K3, and what we can still learn from the pelican benchmark"
   },
   {
     "source": "hn",
@@ -31,13 +21,13 @@
   },
   {
     "source": "hn",
-    "url": "https://www.architecturaldigest.com/story/frank-lloyd-wright-home-and-studio-everything-you-need-to-know",
-    "title": "Frank Lloyd Wright's First Home"
+    "url": "https://stateofopensource.ai/",
+    "title": "The state of open source AI"
   },
   {
     "source": "hn",
-    "url": "https://scotto.me/blog/2026-07-17-which-lisp/",
-    "title": "A Road to Lisp: Which Lisp"
+    "url": "https://www.architecturaldigest.com/story/frank-lloyd-wright-home-and-studio-everything-you-need-to-know",
+    "title": "Frank Lloyd Wright’s first home"
   },
   {
     "source": "hn",
@@ -48,6 +38,11 @@
     "source": "hn",
     "url": "https://honeypotlive.cc/",
     "title": "Show HN: Watch bots interact with an SSH honeypot in real time"
+  },
+  {
+    "source": "hn",
+    "url": "https://scotto.me/blog/2026-07-17-which-lisp/",
+    "title": "A Road to Lisp: Which Lisp"
   },
   {
     "source": "hn",
@@ -66,23 +61,18 @@
   },
   {
     "source": "hn",
-    "url": "https://transistor-man.com/gimbal_camera_rover.html",
-    "title": "Camera Chase Vehicle"
-  },
-  {
-    "source": "hn",
     "url": "https://sofar.belfortlabs.cloud/",
     "title": "Homomorphically encrypted CIFAR-10 inference in 200ms"
   },
   {
     "source": "hn",
-    "url": "https://www.mixfont.com/experiments/decoy-font",
-    "title": "Decoy Font"
+    "url": "https://transistor-man.com/gimbal_camera_rover.html",
+    "title": "Camera Chase Vehicle"
   },
   {
     "source": "hn",
-    "url": "https://www.kimi.com/blog/kimi-k3",
-    "title": "Kimi K3: Open Frontier Intelligence"
+    "url": "https://www.mixfont.com/experiments/decoy-font",
+    "title": "Decoy Font"
   },
   {
     "source": "lobsters",
@@ -91,13 +81,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://metr.org/blog/2026-02-24-uplift-update/",
-    "title": "We are Changing our Developer Productivity Experiment Design"
+    "url": "https://dustycloud.org/blog/faulty-towers-vibe-sickness-and-the-vibe-bobsled/",
+    "title": "Faulty Towers, vibe sickness, and the vibe bobsled"
   },
   {
     "source": "lobsters",
-    "url": "https://mort.coffee/home/sqlite-editions/",
-    "title": "SQLite should have (Rust-style) editions"
+    "url": "https://metr.org/blog/2026-02-24-uplift-update/",
+    "title": "We are Changing our Developer Productivity Experiment Design"
   },
   {
     "source": "lobsters",
@@ -106,8 +96,18 @@
   },
   {
     "source": "lobsters",
+    "url": "https://mort.coffee/home/sqlite-editions/",
+    "title": "SQLite should have (Rust-style) editions"
+  },
+  {
+    "source": "lobsters",
     "url": "https://forgejo.org/2026-07-release-v16-0/",
     "title": "Forgejo v16.0 is available"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://lambadalambda.github.io/fedichat/client.html",
+    "title": "Fedichat - Comic Chat for the Fediverse"
   },
   {
     "source": "lobsters",
@@ -123,16 +123,6 @@
     "source": "lobsters",
     "url": "https://www.rocketpoweredjetpants.com/2026/04/were-going-to-make-out-like-bandits/",
     "title": "We're Going to Make Out Like Bandits"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://dustycloud.org/blog/faulty-towers-vibe-sickness-and-the-vibe-bobsled/",
-    "title": "Faulty Towers, vibe sickness, and the vibe bobsled"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://lambadalambda.github.io/fedichat/client.html",
-    "title": "Fedichat - Comic Chat for the Fediverse"
   },
   {
     "source": "lobsters",
