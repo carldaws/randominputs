@@ -6,13 +6,23 @@
   },
   {
     "source": "hn",
+    "url": "https://parksb.github.io/en/article/41.html",
+    "title": "Reviving a 15-year-old netbook with Arch Linux"
+  },
+  {
+    "source": "hn",
+    "url": "https://pinewind.bearblog.dev/i-started-a-dirt-notebook/",
+    "title": "I Started a \"Dirt Notebook\""
+  },
+  {
+    "source": "hn",
     "url": "https://www.isomorphiclabs.com/articles/the-isomorphic-labs-drug-design-engine-unlocks-a-new-frontier",
     "title": "The Isomorphic Labs Drug Design Engine unlocks a new frontier beyond AlphaFold"
   },
   {
     "source": "hn",
-    "url": "https://prathosh.in/vagdhenu/",
-    "title": "Vāgdhenu: A Sanskrit Chanting TTS System"
+    "url": "https://pocketjs.dev/blog/shipping-openstrike/",
+    "title": "Shipping OpenStrike: A Counter-Strike-Shaped FPS on a 2004 Handheld"
   },
   {
     "source": "hn",
@@ -21,8 +31,18 @@
   },
   {
     "source": "hn",
+    "url": "https://prathosh.in/vagdhenu/",
+    "title": "Vāgdhenu: A Sanskrit Chanting TTS System"
+  },
+  {
+    "source": "hn",
     "url": "https://simonwillison.net/2026/Jul/16/kimi-k3/",
     "title": "Kimi K3, and what we can still learn from the pelican benchmark"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.stenchill.com/en/",
+    "title": "Stenchill: 3D Printable Solder Paste Stencil Generator"
   },
   {
     "source": "hn",
@@ -41,18 +61,8 @@
   },
   {
     "source": "hn",
-    "url": "https://bombich.com/blog/2026/07/07/disk-not-ejected-properly",
-    "title": "\"Disk Not Ejected Properly\": What It Means"
-  },
-  {
-    "source": "hn",
     "url": "https://www.architecturaldigest.com/story/frank-lloyd-wright-home-and-studio-everything-you-need-to-know",
     "title": "Frank Lloyd Wright’s first home"
-  },
-  {
-    "source": "hn",
-    "url": "https://honeypotlive.cc/",
-    "title": "Show HN: Watch bots interact with an SSH honeypot in real time"
   },
   {
     "source": "hn",
@@ -61,18 +71,8 @@
   },
   {
     "source": "hn",
-    "url": "https://blog.google/products-and-platforms/platforms/android/world-emoji-day-noto-3d/",
-    "title": "Designing emoji for the way we communicate today"
-  },
-  {
-    "source": "hn",
-    "url": "https://workspaces.xyz/",
-    "title": "Workspaces – Explore the workspaces of modern creators"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.kaggle.com/competitions/kaggle-measuring-agi/discussion/724918#3498423",
-    "title": "Evidence of inconsistencies in evaluation process and selection of winners"
+    "url": "https://honeypotlive.cc/",
+    "title": "Show HN: Watch bots interact with an SSH honeypot in real time"
   },
   {
     "source": "lobsters",
@@ -81,23 +81,23 @@
   },
   {
     "source": "lobsters",
-    "url": "https://alexalejandre.com/interviews/interview-with-matheus-moreira/",
-    "title": "Lobsters Interview with matheusmoreira about Lone Lisp"
-  },
-  {
-    "source": "lobsters",
     "url": "https://blog.haskell.org/enterprise-haskell-at-h-e-b/",
     "title": "Enterprise Haskell at H-E-B"
   },
   {
     "source": "lobsters",
-    "url": "https://rtfeldman.com/rust-to-zig",
-    "title": "How Our Rust-to-Zig Rewrite is Going"
+    "url": "https://alexalejandre.com/interviews/interview-with-matheus-moreira/",
+    "title": "Lobsters Interview with matheusmoreira about Lone Lisp"
   },
   {
     "source": "lobsters",
     "url": "https://scotto.me/blog/2026-07-17-which-lisp/",
     "title": "A Road to Lisp: Which Lisp"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://rtfeldman.com/rust-to-zig",
+    "title": "How Our Rust-to-Zig Rewrite is Going"
   },
   {
     "source": "lobsters",
@@ -108,6 +108,11 @@
     "source": "lobsters",
     "url": "https://freyaui.dev/posts/0.4",
     "title": "Freya 0.4 - Rust GUI library"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://maurycyz.com/projects/bad_jpeg/",
+    "title": "Regressive JPEGs"
   },
   {
     "source": "lobsters",
@@ -125,8 +130,103 @@
     "title": "SQLite should have (Rust-style) editions"
   },
   {
-    "source": "lobsters",
-    "url": "https://forgejo.org/2026-07-release-v16-0/",
-    "title": "Forgejo v16.0 is available"
+    "source": "pinboard",
+    "url": "https://www.shortverse.com/",
+    "title": "Shortverse | The Universe of Short Film"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://lalitm.com/post/git-history/",
+    "title": "The git history command deserves more attention - Lalit Maganti"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://thinkingmachines.ai/news/introducing-inkling/",
+    "title": "Inkling: Our open-weights model - Thinking Machines Lab"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://immersivemath.com/ila/",
+    "title": "Immersive Linear Algebra - The world's first linear algebra book with fully interactive figures"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://clocks.dev/",
+    "title": "Clocks.dev"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://scottwillsey.com/building-and-shipping-mac-and-ios-apps-without-ever-opening-xcode/",
+    "title": "Building and Shipping Mac and iOS Apps Without Ever Opening Xcode"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.ayush.digital/blog/the-memory-heist",
+    "title": "The Memory Heist"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://fabiensanglard.net/jurrasic_park_computers/index.html",
+    "title": "Jurassic Park computers in excruciating detail"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.whatcable.uk/",
+    "title": "WhatCable: Know what your USB-C cable can really do"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://lucumr.pocoo.org/2026/7/13/the-tower-keeps-rising/",
+    "title": "The Tower Keeps Rising | Armin Ronacher's Thoughts and Writings"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.pigeonsandplanes.com/read/music-piracy-what-cd-oink-nine-inch-nails-streaming",
+    "title": "The Lost Joy of Music Piracy: WhatCD, Oink, and Spotify | Pigeons and Planes"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://clipart.studio/",
+    "title": "clipart.studio — magazine collage maker"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.climate.us/",
+    "title": "Climate.us"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://eieio.games/blog/legibility-of-effort/",
+    "title": "Legibility of Effort · eieio.games"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.404media.co/hack-reveals-suno-ai-music-generator-scraped-youtube-deezer-and-genius/",
+    "title": "Un hack svela come Suno avrebbe addestrato l’AI musicale con dati da YouTube, Deezer e Genius"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://sinja.io/blog/data-landscape-guide-for-developers",
+    "title": "Guide to data tools landscape for developers · OlegWock"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://news.ycombinator.com/item?id=48896665",
+    "title": "Building and Shipping Mac and iOS Apps Without Ever Opening Xcode | Hacker News"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.lyrebirddreaming.com/post/the-graph-that-should-be-front-page-news",
+    "title": "The Graph That Should Be Front-Page News"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://raymyers.org/post/zig-creator-calls-spade-a-spade/",
+    "title": "Zig Creator Calls Spade a Spade, Anthropic Blows Smoke"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.susanrigetti.com/physics",
+    "title": "Physics — Susan Rigetti"
   }
 ]
