@@ -1,13 +1,23 @@
 [
   {
     "source": "hn",
-    "url": "https://haxxorwpm.0s.is/",
-    "title": "Typing Speed Test, but for Developers"
+    "url": "https://uncovered.ink",
+    "title": "Judge a book by its first pages"
   },
   {
     "source": "hn",
-    "url": "https://uncovered.ink",
-    "title": "Judge a book by its first pages"
+    "url": "https://codex-resets.com/",
+    "title": "Codex Resets"
+  },
+  {
+    "source": "hn",
+    "url": "https://amigafreeware.downer.tech/",
+    "title": "Classic Amiga titles, free to download"
+  },
+  {
+    "source": "hn",
+    "url": "https://haxxorwpm.0s.is/",
+    "title": "Typing Speed Test, but for Developers"
   },
   {
     "source": "hn",
@@ -16,13 +26,18 @@
   },
   {
     "source": "hn",
+    "url": "https://tangled.org/gleam.run/gleam",
+    "title": "Gleam Is Now on Tangled"
+  },
+  {
+    "source": "hn",
     "url": "https://amateurphotographer.com/latest/photo-news/going-going-gone-is-this-the-end-of-the-once-mighty-gopro/",
     "title": "Is this the end of the once-mighty GoPro?"
   },
   {
     "source": "hn",
-    "url": "https://tangled.org/gleam.run/gleam",
-    "title": "Gleam Is Now on Tangled"
+    "url": "https://petapixel.com/2026/07/16/mayor-mamdani-says-landlords-cant-secretly-use-ai-images-to-advertise-properties/",
+    "title": "Mayor Mamdani Says Landlords Can't Use AI Images to Advertise"
   },
   {
     "source": "hn",
@@ -31,8 +46,8 @@
   },
   {
     "source": "hn",
-    "url": "https://maurycyz.com/projects/bad_jpeg/",
-    "title": "Regressive JPEGs"
+    "url": "https://www.tug.org/tug2026/preprints/lode-realtime.pdf",
+    "title": "Real-Time LuaTeX: Recompiling Large Documents in 1ms [pdf]"
   },
   {
     "source": "hn",
@@ -41,8 +56,8 @@
   },
   {
     "source": "hn",
-    "url": "https://petapixel.com/2026/07/16/mayor-mamdani-says-landlords-cant-secretly-use-ai-images-to-advertise-properties/",
-    "title": "Mayor Mamdani Says Landlords Can't Use AI Images to Advertise"
+    "url": "https://redblobgames.github.io/circular-obstacle-pathfinding/",
+    "title": "Circular Obstacle Pathfinding (2017)"
   },
   {
     "source": "hn",
@@ -65,11 +80,6 @@
     "title": "The Kimi K3 Moment"
   },
   {
-    "source": "hn",
-    "url": "https://negroniventurestudios.com/2026/07/18/the-computer-at-the-bottom-of-a-canal/",
-    "title": "The Computer at the Bottom of a Canal"
-  },
-  {
     "source": "lobsters",
     "url": "https://softwaremaxims.com/blog/reviewing-ai-code",
     "title": "Reviewing AI Code Is Not A Viable Argument"
@@ -78,6 +88,11 @@
     "source": "lobsters",
     "url": "https://gitroot.dev/",
     "title": "GitRoot"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://maurycyz.com/projects/bad_jpeg/",
+    "title": "Regressive JPEGs"
   },
   {
     "source": "lobsters",
@@ -101,13 +116,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://nextbsd.org/",
-    "title": "NextBSD project revived: Apple's FOSS user-space tools on the FreeBSD kernel"
+    "url": "https://wp2shell.com/",
+    "title": "wp2shell: Pre Authentication RCE in WordPress Core"
   },
   {
     "source": "lobsters",
-    "url": "https://wp2shell.com/",
-    "title": "wp2shell: Pre Authentication RCE in WordPress Core"
+    "url": "https://nextbsd.org/",
+    "title": "NextBSD project revived: Apple's FOSS user-space tools on the FreeBSD kernel"
   },
   {
     "source": "lobsters",
@@ -121,18 +136,18 @@
   },
   {
     "source": "lobsters",
-    "url": "https://mattmichie.com/2026/07/11/powershell-over-ssh-twenty-years-later/",
-    "title": "PowerShell over SSH in 2026: OpenSSH on Windows, Key Auth, and PowerShell 7 Remoting"
-  },
-  {
-    "source": "lobsters",
     "url": "https://www.dyalog.com/case-studies/index.htm",
     "title": "APL Case Studies"
   },
   {
     "source": "lobsters",
-    "url": "https://www.elbeno.com/blog/?p=1836",
-    "title": "A better bitset for enum flags"
+    "url": "https://mattmichie.com/2026/07/11/powershell-over-ssh-twenty-years-later/",
+    "title": "PowerShell over SSH in 2026: OpenSSH on Windows, Key Auth, and PowerShell 7 Remoting"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://jaymcor.github.io/notes/isolation_rr_si.html",
+    "title": "Repeatable Read vs Snapshot Isolation"
   },
   {
     "source": "lobsters",
@@ -141,8 +156,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://jaymcor.github.io/notes/isolation_rr_si.html",
-    "title": "Repeatable Read vs Snapshot Isolation"
+    "url": "https://gwern.net/llm-catapult",
+    "title": "Human-like Neural Nets by Catapulting"
   },
   {
     "source": "lobsters",
