@@ -1,38 +1,8 @@
 [
   {
     "source": "hn",
-    "url": "https://tangled.org/gleam.run/gleam",
-    "title": "Gleam Is Now on Tangled"
-  },
-  {
-    "source": "hn",
-    "url": "https://ykdojo.github.io/claude-controls-mac/",
-    "title": "Setting up your spare Mac for Claude Code to control, a step-by-step guide"
-  },
-  {
-    "source": "hn",
     "url": "https://haxxorwpm.0s.is/",
     "title": "Typing Speed Test, but for Developers"
-  },
-  {
-    "source": "hn",
-    "url": "https://stephen.bochinski.dev/blog/2026/07/18/the-kimi-k3-moment/",
-    "title": "The Kimi K3 Moment"
-  },
-  {
-    "source": "hn",
-    "url": "https://amateurphotographer.com/latest/photo-news/going-going-gone-is-this-the-end-of-the-once-mighty-gopro/",
-    "title": "Is this the end of the once-mighty GoPro?"
-  },
-  {
-    "source": "hn",
-    "url": "https://elixir-lang.org/",
-    "title": "Elixir-lang.org has a new design"
-  },
-  {
-    "source": "hn",
-    "url": "https://charlesazam.com/blog/fable-5-gpt-5-6-sol-goal/",
-    "title": "Fable 5 vs. GPT-5.6 Sol on an NP-Hard Problem: Does /goal help?"
   },
   {
     "source": "hn",
@@ -41,8 +11,33 @@
   },
   {
     "source": "hn",
-    "url": "https://imaxxing.io/",
-    "title": "Show HN: Get alerts for good seats at 70mm IMAX showings of The Odyssey"
+    "url": "https://ykdojo.github.io/claude-controls-mac/",
+    "title": "Setting up your spare Mac for Claude Code to control, a step-by-step guide"
+  },
+  {
+    "source": "hn",
+    "url": "https://amateurphotographer.com/latest/photo-news/going-going-gone-is-this-the-end-of-the-once-mighty-gopro/",
+    "title": "Is this the end of the once-mighty GoPro?"
+  },
+  {
+    "source": "hn",
+    "url": "https://tangled.org/gleam.run/gleam",
+    "title": "Gleam Is Now on Tangled"
+  },
+  {
+    "source": "hn",
+    "url": "https://stephen.bochinski.dev/blog/2026/07/18/the-kimi-k3-moment/",
+    "title": "The Kimi K3 Moment"
+  },
+  {
+    "source": "hn",
+    "url": "https://charlesazam.com/blog/fable-5-gpt-5-6-sol-goal/",
+    "title": "Fable 5 vs. GPT-5.6 Sol on an NP-Hard Problem: Does /goal help?"
+  },
+  {
+    "source": "hn",
+    "url": "https://elixir-lang.org/",
+    "title": "Elixir-lang.org has a new design"
   },
   {
     "source": "hn",
@@ -96,13 +91,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://nextbsd.org/",
-    "title": "NextBSD project revived: Apple's FOSS user-space tools on the FreeBSD kernel"
+    "url": "https://sebsite.pw/w/20260708-badstdcxx.html",
+    "title": "neither gcc nor clang are compliant with standard c++"
   },
   {
     "source": "lobsters",
-    "url": "https://sebsite.pw/w/20260708-badstdcxx.html",
-    "title": "neither gcc nor clang are compliant with standard c++"
+    "url": "https://nextbsd.org/",
+    "title": "NextBSD project revived: Apple's FOSS user-space tools on the FreeBSD kernel"
   },
   {
     "source": "lobsters",
@@ -121,13 +116,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://www.dyalog.com/case-studies/index.htm",
-    "title": "APL Case Studies"
+    "url": "https://mattmichie.com/2026/07/11/powershell-over-ssh-twenty-years-later/",
+    "title": "PowerShell over SSH in 2026: OpenSSH on Windows, Key Auth, and PowerShell 7 Remoting"
   },
   {
     "source": "lobsters",
-    "url": "https://mattmichie.com/2026/07/11/powershell-over-ssh-twenty-years-later/",
-    "title": "PowerShell over SSH in 2026: OpenSSH on Windows, Key Auth, and PowerShell 7 Remoting"
+    "url": "https://www.dyalog.com/case-studies/index.htm",
+    "title": "APL Case Studies"
   },
   {
     "source": "lobsters",
@@ -141,6 +136,11 @@
   },
   {
     "source": "lobsters",
+    "url": "https://sec.okta.com/articles/2026/06/openssl-hollowbtye-a-dos-hiding-in-11-bytes/",
+    "title": "OpenSSL HollowByte: A DoS Hiding in 11 Bytes"
+  },
+  {
+    "source": "lobsters",
     "url": "https://alexsyniakov.com/2026/07/07/half-edge-data-structure-part-2/",
     "title": "Half-Edge Data Structure. Part2"
   },
@@ -148,11 +148,6 @@
     "source": "lobsters",
     "url": "https://www.ufried.com/blog/essence_of_architecture_4/",
     "title": "The essence of architectural work - Part 4"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://rtfeldman.com/rust-to-zig",
-    "title": "How Our Rust-to-Zig Rewrite is Going"
   },
   {
     "source": "pinboard",
