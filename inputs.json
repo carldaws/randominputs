@@ -6,8 +6,8 @@
   },
   {
     "source": "hn",
-    "url": "https://ykdojo.github.io/claude-controls-mac/",
-    "title": "Setting up your spare Mac for Claude Code to control, a step-by-step guide"
+    "url": "https://stephen.bochinski.dev/blog/2026/07/18/the-kimi-k3-moment/",
+    "title": "The Kimi K3 Moment"
   },
   {
     "source": "hn",
@@ -16,8 +16,8 @@
   },
   {
     "source": "hn",
-    "url": "https://charlesazam.com/blog/fable-5-gpt-5-6-sol-goal/",
-    "title": "Fable 5 vs. GPT-5.6 Sol on an NP-Hard Problem: Does /goal help?"
+    "url": "https://ykdojo.github.io/claude-controls-mac/",
+    "title": "Setting up your spare Mac for Claude Code to control, a step-by-step guide"
   },
   {
     "source": "hn",
@@ -26,8 +26,18 @@
   },
   {
     "source": "hn",
+    "url": "https://charlesazam.com/blog/fable-5-gpt-5-6-sol-goal/",
+    "title": "Fable 5 vs. GPT-5.6 Sol on an NP-Hard Problem: Does /goal help?"
+  },
+  {
+    "source": "hn",
     "url": "https://maurycyz.com/projects/bad_jpeg/",
     "title": "Regressive JPEGs"
+  },
+  {
+    "source": "hn",
+    "url": "https://imaxxing.io/",
+    "title": "Show HN: Get alerts for good seats at 70mm IMAX showings of The Odyssey"
   },
   {
     "source": "hn",
@@ -36,8 +46,13 @@
   },
   {
     "source": "hn",
-    "url": "https://imaxxing.io/",
-    "title": "Show HN: Get alerts for good seats at 70mm IMAX showings of The Odyssey"
+    "url": "https://mssv.net/2026/04/29/im-making-strandfall-a-solarpunk-orienteering-larp/",
+    "title": "I'm Making Strandfall, a Solarpunk Orienteering Larp"
+  },
+  {
+    "source": "hn",
+    "url": "https://reactormag.com/the-fermi-paradox-percolation-and-inbreeding/",
+    "title": "The Fermi Paradox, Percolation, and Inbreeding"
   },
   {
     "source": "hn",
@@ -48,16 +63,6 @@
     "source": "hn",
     "url": "https://parksb.github.io/en/article/41.html",
     "title": "Reviving a 15-year-old netbook with Arch Linux"
-  },
-  {
-    "source": "hn",
-    "url": "https://reactormag.com/the-fermi-paradox-percolation-and-inbreeding/",
-    "title": "The Fermi Paradox, Percolation, and Inbreeding"
-  },
-  {
-    "source": "hn",
-    "url": "https://sph.unc.edu/sph-news/no-link-between-acetaminophen-use-during-pregnancy-and-adverse-birth-outcomes-study-finds/",
-    "title": "No link between acetaminophen use during pregnancy and adverse birth outcomes"
   },
   {
     "source": "lobsters",
@@ -86,23 +91,18 @@
   },
   {
     "source": "lobsters",
-    "url": "https://scotto.me/blog/2026-07-17-which-lisp/",
-    "title": "A Road to Lisp: Which Lisp"
-  },
-  {
-    "source": "lobsters",
     "url": "https://nextbsd.org/",
     "title": "NextBSD project revived: Apple's FOSS user-space tools on the FreeBSD kernel"
   },
   {
     "source": "lobsters",
-    "url": "https://sebsite.pw/w/20260708-badstdcxx.html",
-    "title": "neither gcc nor clang are compliant with standard c++"
+    "url": "https://scotto.me/blog/2026-07-17-which-lisp/",
+    "title": "A Road to Lisp: Which Lisp"
   },
   {
     "source": "lobsters",
-    "url": "https://mattmichie.com/2026/07/11/powershell-over-ssh-twenty-years-later/",
-    "title": "PowerShell over SSH in 2026: OpenSSH on Windows, Key Auth, and PowerShell 7 Remoting"
+    "url": "https://sebsite.pw/w/20260708-badstdcxx.html",
+    "title": "neither gcc nor clang are compliant with standard c++"
   },
   {
     "source": "lobsters",
@@ -116,13 +116,23 @@
   },
   {
     "source": "lobsters",
-    "url": "https://alexsyniakov.com/2026/07/07/half-edge-data-structure-part-2/",
-    "title": "Half-Edge Data Structure. Part2"
+    "url": "https://mattmichie.com/2026/07/11/powershell-over-ssh-twenty-years-later/",
+    "title": "PowerShell over SSH in 2026: OpenSSH on Windows, Key Auth, and PowerShell 7 Remoting"
   },
   {
     "source": "lobsters",
     "url": "https://wp2shell.com/",
     "title": "wp2shell: Pre Authentication RCE in WordPress Core"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://www.elbeno.com/blog/?p=1836",
+    "title": "A better bitset for enum flags"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://alexsyniakov.com/2026/07/07/half-edge-data-structure-part-2/",
+    "title": "Half-Edge Data Structure. Part2"
   },
   {
     "source": "lobsters",
@@ -138,15 +148,5 @@
     "source": "lobsters",
     "url": "https://rtfeldman.com/rust-to-zig",
     "title": "How Our Rust-to-Zig Rewrite is Going"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://astr0baby.online/AXP/OpenVMS/DOSBOX/",
-    "title": "DOSBox on OpenVMS (Alpha CPU)"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://freyaui.dev/posts/0.4",
-    "title": "Freya 0.4 - Rust GUI library"
   }
 ]
