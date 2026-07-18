@@ -6,13 +6,13 @@
   },
   {
     "source": "hn",
-    "url": "https://mssv.net/2026/04/29/im-making-strandfall-a-solarpunk-orienteering-larp/",
-    "title": "I'm Making Strandfall, a Solarpunk Orienteering Larp"
+    "url": "https://uncovered.ink",
+    "title": "Judge a book by its first pages"
   },
   {
     "source": "hn",
-    "url": "https://ykdojo.github.io/claude-controls-mac/",
-    "title": "Setting up your spare Mac for Claude Code to control, a step-by-step guide"
+    "url": "https://mssv.net/2026/04/29/im-making-strandfall-a-solarpunk-orienteering-larp/",
+    "title": "I'm Making Strandfall, a Solarpunk Orienteering Larp"
   },
   {
     "source": "hn",
@@ -26,18 +26,8 @@
   },
   {
     "source": "hn",
-    "url": "https://stephen.bochinski.dev/blog/2026/07/18/the-kimi-k3-moment/",
-    "title": "The Kimi K3 Moment"
-  },
-  {
-    "source": "hn",
     "url": "https://charlesazam.com/blog/fable-5-gpt-5-6-sol-goal/",
     "title": "Fable 5 vs. GPT-5.6 Sol on an NP-Hard Problem: Does /goal help?"
-  },
-  {
-    "source": "hn",
-    "url": "https://elixir-lang.org/",
-    "title": "Elixir-lang.org has a new design"
   },
   {
     "source": "hn",
@@ -46,23 +36,38 @@
   },
   {
     "source": "hn",
+    "url": "https://ykdojo.github.io/claude-controls-mac/",
+    "title": "Setting up your spare Mac for Claude Code to control, a step-by-step guide"
+  },
+  {
+    "source": "hn",
+    "url": "https://petapixel.com/2026/07/16/mayor-mamdani-says-landlords-cant-secretly-use-ai-images-to-advertise-properties/",
+    "title": "Mayor Mamdani Says Landlords Can't Use AI Images to Advertise"
+  },
+  {
+    "source": "hn",
+    "url": "https://elixir-lang.org/",
+    "title": "Elixir-lang.org has a new design"
+  },
+  {
+    "source": "hn",
     "url": "https://q3edit.com",
     "title": "Show HN: Q3Edit – Edit and play Quake 3 maps in the browser"
   },
   {
     "source": "hn",
-    "url": "https://reactormag.com/the-fermi-paradox-percolation-and-inbreeding/",
-    "title": "The Fermi Paradox, Percolation, and Inbreeding"
+    "url": "https://www.econtalk.org/from-sawdust-to-paw-patrol-the-spin-master-story-with-ronnen-harary/",
+    "title": "From Sawdust to Paw Patrol: The Spin Master Story (With Ronnen Harary) [audio]"
+  },
+  {
+    "source": "hn",
+    "url": "https://stephen.bochinski.dev/blog/2026/07/18/the-kimi-k3-moment/",
+    "title": "The Kimi K3 Moment"
   },
   {
     "source": "hn",
     "url": "https://negroniventurestudios.com/2026/07/18/the-computer-at-the-bottom-of-a-canal/",
     "title": "The Computer at the Bottom of a Canal"
-  },
-  {
-    "source": "hn",
-    "url": "https://parksb.github.io/en/article/41.html",
-    "title": "Reviving a 15-year-old netbook with Arch Linux"
   },
   {
     "source": "lobsters",
@@ -81,6 +86,11 @@
   },
   {
     "source": "lobsters",
+    "url": "https://sebsite.pw/w/20260708-badstdcxx.html",
+    "title": "neither gcc nor clang are compliant with standard c++"
+  },
+  {
+    "source": "lobsters",
     "url": "https://jvns.ca/blog/2026/07/17/learning-about-running-sqlite/",
     "title": "Learning a few things about running SQLite"
   },
@@ -91,23 +101,18 @@
   },
   {
     "source": "lobsters",
-    "url": "https://sebsite.pw/w/20260708-badstdcxx.html",
-    "title": "neither gcc nor clang are compliant with standard c++"
-  },
-  {
-    "source": "lobsters",
     "url": "https://nextbsd.org/",
     "title": "NextBSD project revived: Apple's FOSS user-space tools on the FreeBSD kernel"
   },
   {
     "source": "lobsters",
-    "url": "https://scotto.me/blog/2026-07-17-which-lisp/",
-    "title": "A Road to Lisp: Which Lisp"
+    "url": "https://wp2shell.com/",
+    "title": "wp2shell: Pre Authentication RCE in WordPress Core"
   },
   {
     "source": "lobsters",
-    "url": "https://wp2shell.com/",
-    "title": "wp2shell: Pre Authentication RCE in WordPress Core"
+    "url": "https://scotto.me/blog/2026-07-17-which-lisp/",
+    "title": "A Road to Lisp: Which Lisp"
   },
   {
     "source": "lobsters",
@@ -126,23 +131,28 @@
   },
   {
     "source": "lobsters",
-    "url": "https://bford.info/cachedir/",
-    "title": "Cache Directory Tagging Specification"
-  },
-  {
-    "source": "lobsters",
     "url": "https://www.elbeno.com/blog/?p=1836",
     "title": "A better bitset for enum flags"
   },
   {
     "source": "lobsters",
-    "url": "https://sec.okta.com/articles/2026/06/openssl-hollowbtye-a-dos-hiding-in-11-bytes/",
-    "title": "OpenSSL HollowByte: A DoS Hiding in 11 Bytes"
+    "url": "https://bford.info/cachedir/",
+    "title": "Cache Directory Tagging Specification"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://jaymcor.github.io/notes/isolation_rr_si.html",
+    "title": "Repeatable Read vs Snapshot Isolation"
   },
   {
     "source": "lobsters",
     "url": "https://alexsyniakov.com/2026/07/07/half-edge-data-structure-part-2/",
     "title": "Half-Edge Data Structure. Part2"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://sec.okta.com/articles/2026/06/openssl-hollowbtye-a-dos-hiding-in-11-bytes/",
+    "title": "OpenSSL HollowByte: A DoS Hiding in 11 Bytes"
   },
   {
     "source": "lobsters",
