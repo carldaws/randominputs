@@ -16,11 +16,6 @@
   },
   {
     "source": "hn",
-    "url": "https://www.stenchill.com/en/",
-    "title": "Stenchill: 3D Printable Solder Paste Stencil Generator"
-  },
-  {
-    "source": "hn",
     "url": "https://simonwillison.net/2026/Jul/16/kimi-k3/",
     "title": "Kimi K3, and what we can still learn from the pelican benchmark"
   },
@@ -31,8 +26,8 @@
   },
   {
     "source": "hn",
-    "url": "https://prathosh.in/vagdhenu/",
-    "title": "Vāgdhenu: A Sanskrit Chanting TTS System"
+    "url": "https://www.stenchill.com/en/",
+    "title": "Stenchill: 3D Printable Solder Paste Stencil Generator"
   },
   {
     "source": "hn",
@@ -51,23 +46,13 @@
   },
   {
     "source": "hn",
-    "url": "https://pocketjs.dev/blog/shipping-openstrike/",
-    "title": "Shipping OpenStrike: A Counter-Strike-Shaped FPS on a 2004 Handheld"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.isomorphiclabs.com/articles/the-isomorphic-labs-drug-design-engine-unlocks-a-new-frontier",
-    "title": "The Isomorphic Labs Drug Design Engine unlocks a new frontier beyond AlphaFold"
+    "url": "https://prathosh.in/vagdhenu/",
+    "title": "Vāgdhenu: A Sanskrit Chanting TTS System"
   },
   {
     "source": "hn",
     "url": "https://stateofopensource.ai/",
     "title": "The state of open source AI"
-  },
-  {
-    "source": "hn",
-    "url": "https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse/",
-    "title": "Kaiser nurses say AI, surveillance are making their jobs and patient care worse"
   },
   {
     "source": "hn",
@@ -80,14 +65,19 @@
     "title": "Frank Lloyd Wright’s first home"
   },
   {
-    "source": "lobsters",
-    "url": "https://dustycloud.org/blog/faulty-towers-vibe-sickness-and-the-vibe-bobsled/",
-    "title": "Faulty Towers, vibe sickness, and the vibe bobsled"
+    "source": "hn",
+    "url": "https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse/",
+    "title": "Kaiser nurses say AI, surveillance are making their jobs and patient care worse"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.isomorphiclabs.com/articles/the-isomorphic-labs-drug-design-engine-unlocks-a-new-frontier",
+    "title": "The Isomorphic Labs Drug Design Engine unlocks a new frontier beyond AlphaFold"
   },
   {
     "source": "lobsters",
-    "url": "https://blog.haskell.org/enterprise-haskell-at-h-e-b/",
-    "title": "Enterprise Haskell at H-E-B"
+    "url": "https://dustycloud.org/blog/faulty-towers-vibe-sickness-and-the-vibe-bobsled/",
+    "title": "Faulty Towers, vibe sickness, and the vibe bobsled"
   },
   {
     "source": "lobsters",
@@ -96,8 +86,18 @@
   },
   {
     "source": "lobsters",
+    "url": "https://blog.haskell.org/enterprise-haskell-at-h-e-b/",
+    "title": "Enterprise Haskell at H-E-B"
+  },
+  {
+    "source": "lobsters",
     "url": "https://scotto.me/blog/2026-07-17-which-lisp/",
     "title": "A Road to Lisp: Which Lisp"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://gitroot.dev/",
+    "title": "GitRoot"
   },
   {
     "source": "lobsters",
@@ -116,6 +116,11 @@
   },
   {
     "source": "lobsters",
+    "url": "https://mattmichie.com/2026/07/11/powershell-over-ssh-twenty-years-later/",
+    "title": "PowerShell over SSH in 2026: OpenSSH on Windows, Key Auth, and PowerShell 7 Remoting"
+  },
+  {
+    "source": "lobsters",
     "url": "https://metr.org/blog/2026-02-24-uplift-update/",
     "title": "We are Changing our Developer Productivity Experiment Design"
   },
@@ -123,10 +128,5 @@
     "source": "lobsters",
     "url": "https://sebsite.pw/w/20260708-badstdcxx.html",
     "title": "neither gcc nor clang are compliant with standard c++"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://gitroot.dev/",
-    "title": "GitRoot"
   }
 ]
