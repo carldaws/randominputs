@@ -6,6 +6,11 @@
   },
   {
     "source": "hn",
+    "url": "https://maurycyz.com/projects/bad_jpeg/",
+    "title": "Regressive JPEGs"
+  },
+  {
+    "source": "hn",
     "url": "https://parksb.github.io/en/article/41.html",
     "title": "Reviving a 15-year-old netbook with Arch Linux"
   },
@@ -16,28 +21,8 @@
   },
   {
     "source": "hn",
-    "url": "https://www.isomorphiclabs.com/articles/the-isomorphic-labs-drug-design-engine-unlocks-a-new-frontier",
-    "title": "The Isomorphic Labs Drug Design Engine unlocks a new frontier beyond AlphaFold"
-  },
-  {
-    "source": "hn",
-    "url": "https://pocketjs.dev/blog/shipping-openstrike/",
-    "title": "Shipping OpenStrike: A Counter-Strike-Shaped FPS on a 2004 Handheld"
-  },
-  {
-    "source": "hn",
     "url": "https://jvns.ca/blog/2026/07/17/learning-about-running-sqlite/",
     "title": "Learning a few things about running SQLite"
-  },
-  {
-    "source": "hn",
-    "url": "https://prathosh.in/vagdhenu/",
-    "title": "Vāgdhenu: A Sanskrit Chanting TTS System"
-  },
-  {
-    "source": "hn",
-    "url": "https://simonwillison.net/2026/Jul/16/kimi-k3/",
-    "title": "Kimi K3, and what we can still learn from the pelican benchmark"
   },
   {
     "source": "hn",
@@ -46,8 +31,33 @@
   },
   {
     "source": "hn",
+    "url": "https://pocketjs.dev/blog/shipping-openstrike/",
+    "title": "Shipping OpenStrike: A Counter-Strike-Shaped FPS on a 2004 Handheld"
+  },
+  {
+    "source": "hn",
+    "url": "https://simonwillison.net/2026/Jul/16/kimi-k3/",
+    "title": "Kimi K3, and what we can still learn from the pelican benchmark"
+  },
+  {
+    "source": "hn",
+    "url": "https://prathosh.in/vagdhenu/",
+    "title": "Vāgdhenu: A Sanskrit Chanting TTS System"
+  },
+  {
+    "source": "hn",
     "url": "https://curiouscoding.nl/posts/static-search-tree/",
     "title": "Static search trees: 40x faster than binary search (2024)"
+  },
+  {
+    "source": "hn",
+    "url": "https://smallcultfollowing.com/babysteps/blog/2026/07/15/battery-packs/",
+    "title": "Battery packs: Let's talk about crates, baby"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.isomorphiclabs.com/articles/the-isomorphic-labs-drug-design-engine-unlocks-a-new-frontier",
+    "title": "The Isomorphic Labs Drug Design Engine unlocks a new frontier beyond AlphaFold"
   },
   {
     "source": "hn",
@@ -70,11 +80,6 @@
     "title": "Three ways people respond to a problem (other than solving it)"
   },
   {
-    "source": "hn",
-    "url": "https://honeypotlive.cc/",
-    "title": "Show HN: Watch bots interact with an SSH honeypot in real time"
-  },
-  {
     "source": "lobsters",
     "url": "https://dustycloud.org/blog/faulty-towers-vibe-sickness-and-the-vibe-bobsled/",
     "title": "Faulty Towers, vibe sickness, and the vibe bobsled"
@@ -86,13 +91,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://alexalejandre.com/interviews/interview-with-matheus-moreira/",
-    "title": "Lobsters Interview with matheusmoreira about Lone Lisp"
+    "url": "https://scotto.me/blog/2026-07-17-which-lisp/",
+    "title": "A Road to Lisp: Which Lisp"
   },
   {
     "source": "lobsters",
-    "url": "https://scotto.me/blog/2026-07-17-which-lisp/",
-    "title": "A Road to Lisp: Which Lisp"
+    "url": "https://alexalejandre.com/interviews/interview-with-matheus-moreira/",
+    "title": "Lobsters Interview with matheusmoreira about Lone Lisp"
   },
   {
     "source": "lobsters",
@@ -101,18 +106,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://metr.org/blog/2026-02-24-uplift-update/",
-    "title": "We are Changing our Developer Productivity Experiment Design"
-  },
-  {
-    "source": "lobsters",
     "url": "https://freyaui.dev/posts/0.4",
     "title": "Freya 0.4 - Rust GUI library"
   },
   {
     "source": "lobsters",
-    "url": "https://maurycyz.com/projects/bad_jpeg/",
-    "title": "Regressive JPEGs"
+    "url": "https://metr.org/blog/2026-02-24-uplift-update/",
+    "title": "We are Changing our Developer Productivity Experiment Design"
   },
   {
     "source": "lobsters",
@@ -125,24 +125,14 @@
     "title": "Stop the GUARD Act and age verification laws worldwide"
   },
   {
-    "source": "lobsters",
-    "url": "https://mort.coffee/home/sqlite-editions/",
-    "title": "SQLite should have (Rust-style) editions"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.shortverse.com/",
-    "title": "Shortverse | The Universe of Short Film"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://lalitm.com/post/git-history/",
-    "title": "The git history command deserves more attention - Lalit Maganti"
-  },
-  {
     "source": "pinboard",
     "url": "https://thinkingmachines.ai/news/introducing-inkling/",
     "title": "Inkling: Our open-weights model - Thinking Machines Lab"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://mort.coffee/home/sqlite-editions/",
+    "title": "SQLite should have (Rust-style) editions - Mort's Ramblings"
   },
   {
     "source": "pinboard",
@@ -156,11 +146,6 @@
   },
   {
     "source": "pinboard",
-    "url": "https://scottwillsey.com/building-and-shipping-mac-and-ios-apps-without-ever-opening-xcode/",
-    "title": "Building and Shipping Mac and iOS Apps Without Ever Opening Xcode"
-  },
-  {
-    "source": "pinboard",
     "url": "https://www.ayush.digital/blog/the-memory-heist",
     "title": "The Memory Heist"
   },
@@ -171,13 +156,48 @@
   },
   {
     "source": "pinboard",
-    "url": "https://www.whatcable.uk/",
-    "title": "WhatCable: Know what your USB-C cable can really do"
+    "url": "https://www.mixfont.com/experiments/decoy-font",
+    "title": "Decoy Font: A TTF font that hides what you type"
   },
   {
     "source": "pinboard",
-    "url": "https://lucumr.pocoo.org/2026/7/13/the-tower-keeps-rising/",
-    "title": "The Tower Keeps Rising | Armin Ronacher's Thoughts and Writings"
+    "url": "https://sinja.io/blog/data-landscape-guide-for-developers",
+    "title": "Guide to data tools landscape for developers · OlegWock"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.shortverse.com/",
+    "title": "Shortverse | The Universe of Short Film"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.kimi.com/blog/kimi-k3",
+    "title": "Kimi K3 Tech Blog: Open Frontier Intelligence"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://cuelume-site.pages.dev/",
+    "title": "Cuelume — interaction sounds for the web"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://pydantic.dev/articles/the-human-in-the-loop-is-tired",
+    "title": "The Human-in-the-Loop is Tired | Pydantic"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.theocharis.dev/blog/llm-critics-are-right-i-use-llms-anyway/",
+    "title": "The LLM Critics Are Right. I Use LLMs Anyway. | Jeremy Theocharis"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.404media.co/hack-reveals-suno-ai-music-generator-scraped-youtube-deezer-and-genius/",
+    "title": "Un hack svela come Suno avrebbe addestrato l’AI musicale con dati da YouTube, Deezer e Genius"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://lalitm.com/post/git-history/",
+    "title": "The git history command deserves more attention - Lalit Maganti"
   },
   {
     "source": "pinboard",
@@ -191,28 +211,13 @@
   },
   {
     "source": "pinboard",
-    "url": "https://www.climate.us/",
-    "title": "Climate.us"
-  },
-  {
-    "source": "pinboard",
     "url": "https://eieio.games/blog/legibility-of-effort/",
     "title": "Legibility of Effort · eieio.games"
   },
   {
     "source": "pinboard",
-    "url": "https://www.404media.co/hack-reveals-suno-ai-music-generator-scraped-youtube-deezer-and-genius/",
-    "title": "Un hack svela come Suno avrebbe addestrato l’AI musicale con dati da YouTube, Deezer e Genius"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://sinja.io/blog/data-landscape-guide-for-developers",
-    "title": "Guide to data tools landscape for developers · OlegWock"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://news.ycombinator.com/item?id=48896665",
-    "title": "Building and Shipping Mac and iOS Apps Without Ever Opening Xcode | Hacker News"
+    "url": "https://scottwillsey.com/building-and-shipping-mac-and-ios-apps-without-ever-opening-xcode/",
+    "title": "Building and Shipping Mac and iOS Apps Without Ever Opening Xcode"
   },
   {
     "source": "pinboard",
@@ -221,12 +226,7 @@
   },
   {
     "source": "pinboard",
-    "url": "https://raymyers.org/post/zig-creator-calls-spade-a-spade/",
-    "title": "Zig Creator Calls Spade a Spade, Anthropic Blows Smoke"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.susanrigetti.com/physics",
-    "title": "Physics — Susan Rigetti"
+    "url": "https://www.ilograph.com/",
+    "title": "ilograph interactive diagrams"
   }
 ]
