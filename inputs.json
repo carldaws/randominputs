@@ -6,6 +6,16 @@
   },
   {
     "source": "hn",
+    "url": "https://ykdojo.github.io/claude-controls-mac/",
+    "title": "Setting up your spare Mac for Claude Code to control, a step-by-step guide"
+  },
+  {
+    "source": "hn",
+    "url": "https://haxxorwpm.0s.is/",
+    "title": "Typing Speed Test, but for Developers"
+  },
+  {
+    "source": "hn",
     "url": "https://stephen.bochinski.dev/blog/2026/07/18/the-kimi-k3-moment/",
     "title": "The Kimi K3 Moment"
   },
@@ -13,11 +23,6 @@
     "source": "hn",
     "url": "https://amateurphotographer.com/latest/photo-news/going-going-gone-is-this-the-end-of-the-once-mighty-gopro/",
     "title": "Is this the end of the once-mighty GoPro?"
-  },
-  {
-    "source": "hn",
-    "url": "https://ykdojo.github.io/claude-controls-mac/",
-    "title": "Setting up your spare Mac for Claude Code to control, a step-by-step guide"
   },
   {
     "source": "hn",
@@ -31,8 +36,8 @@
   },
   {
     "source": "hn",
-    "url": "https://maurycyz.com/projects/bad_jpeg/",
-    "title": "Regressive JPEGs"
+    "url": "https://mssv.net/2026/04/29/im-making-strandfall-a-solarpunk-orienteering-larp/",
+    "title": "I'm Making Strandfall, a Solarpunk Orienteering Larp"
   },
   {
     "source": "hn",
@@ -41,13 +46,13 @@
   },
   {
     "source": "hn",
-    "url": "https://q3edit.com",
-    "title": "Show HN: Q3Edit – Edit and play Quake 3 maps in the browser"
+    "url": "https://maurycyz.com/projects/bad_jpeg/",
+    "title": "Regressive JPEGs"
   },
   {
     "source": "hn",
-    "url": "https://mssv.net/2026/04/29/im-making-strandfall-a-solarpunk-orienteering-larp/",
-    "title": "I'm Making Strandfall, a Solarpunk Orienteering Larp"
+    "url": "https://q3edit.com",
+    "title": "Show HN: Q3Edit – Edit and play Quake 3 maps in the browser"
   },
   {
     "source": "hn",
@@ -96,18 +101,18 @@
   },
   {
     "source": "lobsters",
-    "url": "https://scotto.me/blog/2026-07-17-which-lisp/",
-    "title": "A Road to Lisp: Which Lisp"
-  },
-  {
-    "source": "lobsters",
     "url": "https://sebsite.pw/w/20260708-badstdcxx.html",
     "title": "neither gcc nor clang are compliant with standard c++"
   },
   {
     "source": "lobsters",
-    "url": "https://www.dyalog.com/case-studies/index.htm",
-    "title": "APL Case Studies"
+    "url": "https://scotto.me/blog/2026-07-17-which-lisp/",
+    "title": "A Road to Lisp: Which Lisp"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://wp2shell.com/",
+    "title": "wp2shell: Pre Authentication RCE in WordPress Core"
   },
   {
     "source": "lobsters",
@@ -116,13 +121,18 @@
   },
   {
     "source": "lobsters",
+    "url": "https://www.dyalog.com/case-studies/index.htm",
+    "title": "APL Case Studies"
+  },
+  {
+    "source": "lobsters",
     "url": "https://mattmichie.com/2026/07/11/powershell-over-ssh-twenty-years-later/",
     "title": "PowerShell over SSH in 2026: OpenSSH on Windows, Key Auth, and PowerShell 7 Remoting"
   },
   {
     "source": "lobsters",
-    "url": "https://wp2shell.com/",
-    "title": "wp2shell: Pre Authentication RCE in WordPress Core"
+    "url": "https://bford.info/cachedir/",
+    "title": "Cache Directory Tagging Specification"
   },
   {
     "source": "lobsters",
@@ -141,12 +151,117 @@
   },
   {
     "source": "lobsters",
-    "url": "https://bford.info/cachedir/",
-    "title": "Cache Directory Tagging Specification"
-  },
-  {
-    "source": "lobsters",
     "url": "https://rtfeldman.com/rust-to-zig",
     "title": "How Our Rust-to-Zig Rewrite is Going"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://thinkingmachines.ai/news/introducing-inkling/",
+    "title": "Inkling: Our open-weights model - Thinking Machines Lab"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://mort.coffee/home/sqlite-editions/",
+    "title": "SQLite should have (Rust-style) editions - Mort's Ramblings"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://immersivemath.com/ila/",
+    "title": "Immersive Linear Algebra - The world's first linear algebra book with fully interactive figures"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://clocks.dev/",
+    "title": "Clocks.dev"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.ayush.digital/blog/the-memory-heist",
+    "title": "The Memory Heist"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://fabiensanglard.net/jurrasic_park_computers/index.html",
+    "title": "Jurassic Park computers in excruciating detail"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.mixfont.com/experiments/decoy-font",
+    "title": "Decoy Font: A TTF font that hides what you type"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://sinja.io/blog/data-landscape-guide-for-developers",
+    "title": "Guide to data tools landscape for developers · OlegWock"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.shortverse.com/",
+    "title": "Shortverse | The Universe of Short Film"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.kimi.com/blog/kimi-k3",
+    "title": "Kimi K3 Tech Blog: Open Frontier Intelligence"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://cuelume-site.pages.dev/",
+    "title": "Cuelume — interaction sounds for the web"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://stateofopensource.ai/",
+    "title": "The State of Open Source AI (by Mozilla)"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://pydantic.dev/articles/the-human-in-the-loop-is-tired",
+    "title": "The Human-in-the-Loop is Tired | Pydantic"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.theocharis.dev/blog/llm-critics-are-right-i-use-llms-anyway/",
+    "title": "The LLM Critics Are Right. I Use LLMs Anyway. | Jeremy Theocharis"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.404media.co/hack-reveals-suno-ai-music-generator-scraped-youtube-deezer-and-genius/",
+    "title": "Un hack svela come Suno avrebbe addestrato l’AI musicale con dati da YouTube, Deezer e Genius"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://lalitm.com/post/git-history/",
+    "title": "The git history command deserves more attention - Lalit Maganti"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.pigeonsandplanes.com/read/music-piracy-what-cd-oink-nine-inch-nails-streaming",
+    "title": "The Lost Joy of Music Piracy: WhatCD, Oink, and Spotify | Pigeons and Planes"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://clipart.studio/",
+    "title": "clipart.studio — magazine collage maker"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://eieio.games/blog/legibility-of-effort/",
+    "title": "Legibility of Effort · eieio.games"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://scottwillsey.com/building-and-shipping-mac-and-ios-apps-without-ever-opening-xcode/",
+    "title": "Building and Shipping Mac and iOS Apps Without Ever Opening Xcode"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.lyrebirddreaming.com/post/the-graph-that-should-be-front-page-news",
+    "title": "The Graph That Should Be Front-Page News"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.ilograph.com/",
+    "title": "ilograph interactive diagrams"
   }
 ]
