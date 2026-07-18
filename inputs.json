@@ -1,11 +1,6 @@
 [
   {
     "source": "hn",
-    "url": "https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse/",
-    "title": "Kaiser nurses say AI, workplace surveillance are making their jobs, care worse"
-  },
-  {
-    "source": "hn",
     "url": "https://maurycyz.com/projects/bad_jpeg/",
     "title": "Regressive JPEGs"
   },
@@ -13,11 +8,6 @@
     "source": "hn",
     "url": "https://parksb.github.io/en/article/41.html",
     "title": "Reviving a 15-year-old netbook with Arch Linux"
-  },
-  {
-    "source": "hn",
-    "url": "https://pinewind.bearblog.dev/i-started-a-dirt-notebook/",
-    "title": "I Started a \"Dirt Notebook\""
   },
   {
     "source": "hn",
@@ -31,18 +21,23 @@
   },
   {
     "source": "hn",
-    "url": "https://pocketjs.dev/blog/shipping-openstrike/",
-    "title": "Shipping OpenStrike: A Counter-Strike-Shaped FPS on a 2004 Handheld"
-  },
-  {
-    "source": "hn",
     "url": "https://simonwillison.net/2026/Jul/16/kimi-k3/",
     "title": "Kimi K3, and what we can still learn from the pelican benchmark"
   },
   {
     "source": "hn",
+    "url": "https://pinewind.bearblog.dev/i-started-a-dirt-notebook/",
+    "title": "I started a “dirt notebook”"
+  },
+  {
+    "source": "hn",
     "url": "https://prathosh.in/vagdhenu/",
     "title": "Vāgdhenu: A Sanskrit Chanting TTS System"
+  },
+  {
+    "source": "hn",
+    "url": "https://ikea.greg.technology/",
+    "title": "Show HN: IKEA Complexity Index"
   },
   {
     "source": "hn",
@@ -56,6 +51,11 @@
   },
   {
     "source": "hn",
+    "url": "https://pocketjs.dev/blog/shipping-openstrike/",
+    "title": "Shipping OpenStrike: A Counter-Strike-Shaped FPS on a 2004 Handheld"
+  },
+  {
+    "source": "hn",
     "url": "https://www.isomorphiclabs.com/articles/the-isomorphic-labs-drug-design-engine-unlocks-a-new-frontier",
     "title": "The Isomorphic Labs Drug Design Engine unlocks a new frontier beyond AlphaFold"
   },
@@ -66,6 +66,11 @@
   },
   {
     "source": "hn",
+    "url": "https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse/",
+    "title": "Kaiser nurses say AI, surveillance are making their jobs and patient care worse"
+  },
+  {
+    "source": "hn",
     "url": "https://app.everything.diena.co/",
     "title": "Show HN: A zoomable timeline of 4M Wikipedia events"
   },
@@ -73,11 +78,6 @@
     "source": "hn",
     "url": "https://www.architecturaldigest.com/story/frank-lloyd-wright-home-and-studio-everything-you-need-to-know",
     "title": "Frank Lloyd Wright’s first home"
-  },
-  {
-    "source": "hn",
-    "url": "https://improvesomething.today/responses-to-problems/",
-    "title": "Three ways people respond to a problem (other than solving it)"
   },
   {
     "source": "lobsters",
@@ -91,18 +91,23 @@
   },
   {
     "source": "lobsters",
-    "url": "https://scotto.me/blog/2026-07-17-which-lisp/",
-    "title": "A Road to Lisp: Which Lisp"
-  },
-  {
-    "source": "lobsters",
     "url": "https://alexalejandre.com/interviews/interview-with-matheus-moreira/",
     "title": "Lobsters Interview with matheusmoreira about Lone Lisp"
   },
   {
     "source": "lobsters",
+    "url": "https://scotto.me/blog/2026-07-17-which-lisp/",
+    "title": "A Road to Lisp: Which Lisp"
+  },
+  {
+    "source": "lobsters",
     "url": "https://rtfeldman.com/rust-to-zig",
     "title": "How Our Rust-to-Zig Rewrite is Going"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://astr0baby.online/AXP/OpenVMS/DOSBOX/",
+    "title": "DOSBox on OpenVMS (Alpha CPU)"
   },
   {
     "source": "lobsters",
@@ -116,117 +121,12 @@
   },
   {
     "source": "lobsters",
-    "url": "https://lambadalambda.github.io/fedichat/client.html",
-    "title": "Fedichat - Comic Chat for the Fediverse"
+    "url": "https://sebsite.pw/w/20260708-badstdcxx.html",
+    "title": "neither gcc nor clang are compliant with standard c++"
   },
   {
     "source": "lobsters",
-    "url": "https://www.fsf.org/blogs/community/stop-the-guard-act",
-    "title": "Stop the GUARD Act and age verification laws worldwide"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://thinkingmachines.ai/news/introducing-inkling/",
-    "title": "Inkling: Our open-weights model - Thinking Machines Lab"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://mort.coffee/home/sqlite-editions/",
-    "title": "SQLite should have (Rust-style) editions - Mort's Ramblings"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://immersivemath.com/ila/",
-    "title": "Immersive Linear Algebra - The world's first linear algebra book with fully interactive figures"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://clocks.dev/",
-    "title": "Clocks.dev"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.ayush.digital/blog/the-memory-heist",
-    "title": "The Memory Heist"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://fabiensanglard.net/jurrasic_park_computers/index.html",
-    "title": "Jurassic Park computers in excruciating detail"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.mixfont.com/experiments/decoy-font",
-    "title": "Decoy Font: A TTF font that hides what you type"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://sinja.io/blog/data-landscape-guide-for-developers",
-    "title": "Guide to data tools landscape for developers · OlegWock"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.shortverse.com/",
-    "title": "Shortverse | The Universe of Short Film"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.kimi.com/blog/kimi-k3",
-    "title": "Kimi K3 Tech Blog: Open Frontier Intelligence"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://cuelume-site.pages.dev/",
-    "title": "Cuelume — interaction sounds for the web"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://pydantic.dev/articles/the-human-in-the-loop-is-tired",
-    "title": "The Human-in-the-Loop is Tired | Pydantic"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.theocharis.dev/blog/llm-critics-are-right-i-use-llms-anyway/",
-    "title": "The LLM Critics Are Right. I Use LLMs Anyway. | Jeremy Theocharis"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.404media.co/hack-reveals-suno-ai-music-generator-scraped-youtube-deezer-and-genius/",
-    "title": "Un hack svela come Suno avrebbe addestrato l’AI musicale con dati da YouTube, Deezer e Genius"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://lalitm.com/post/git-history/",
-    "title": "The git history command deserves more attention - Lalit Maganti"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.pigeonsandplanes.com/read/music-piracy-what-cd-oink-nine-inch-nails-streaming",
-    "title": "The Lost Joy of Music Piracy: WhatCD, Oink, and Spotify | Pigeons and Planes"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://clipart.studio/",
-    "title": "clipart.studio — magazine collage maker"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://eieio.games/blog/legibility-of-effort/",
-    "title": "Legibility of Effort · eieio.games"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://scottwillsey.com/building-and-shipping-mac-and-ios-apps-without-ever-opening-xcode/",
-    "title": "Building and Shipping Mac and iOS Apps Without Ever Opening Xcode"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.lyrebirddreaming.com/post/the-graph-that-should-be-front-page-news",
-    "title": "The Graph That Should Be Front-Page News"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.ilograph.com/",
-    "title": "ilograph interactive diagrams"
+    "url": "https://gitroot.dev/",
+    "title": "GitRoot"
   }
 ]
