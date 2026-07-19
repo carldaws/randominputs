@@ -11,13 +11,13 @@
   },
   {
     "source": "hn",
-    "url": "https://workshop.cjpais.com/projects/transcribe-cpp",
-    "title": "Transcribe.cpp"
+    "url": "https://cagire.raphaelforment.fr",
+    "title": "Cagire: Live Coding in Forth"
   },
   {
     "source": "hn",
-    "url": "https://cagire.raphaelforment.fr",
-    "title": "Cagire: Live Coding in Forth"
+    "url": "https://workshop.cjpais.com/projects/transcribe-cpp",
+    "title": "Transcribe.cpp"
   },
   {
     "source": "hn",
@@ -26,13 +26,18 @@
   },
   {
     "source": "hn",
+    "url": "https://retrogamecoders.com/c64-basic-dungeon-part8/",
+    "title": "C64 Basic Dungeon Crawler: Goblin Attack (C64 Basic Part 8)"
+  },
+  {
+    "source": "hn",
     "url": "https://sgt.hootr.club/blog/home-server-rebirth/",
     "title": "The death and rebirth of my home server"
   },
   {
     "source": "hn",
-    "url": "https://retrogamecoders.com/c64-basic-dungeon-part8/",
-    "title": "C64 Basic Dungeon Crawler: Goblin Attack (C64 Basic Part 8)"
+    "url": "https://thegustafson.com/series",
+    "title": "Holding the LLM Stack in Your Head"
   },
   {
     "source": "hn",
@@ -41,28 +46,8 @@
   },
   {
     "source": "hn",
-    "url": "https://la0by.darc.de/LA8YB_EME_MBA.htm",
-    "title": "The Mighty Big Array of Finn Jensen LA8YB"
-  },
-  {
-    "source": "hn",
-    "url": "https://ibm-1401.info/pictures/Proc-MIW-2017-Garner-1401PDP1.pdf",
-    "title": "Restoring and Demoing 1960s Vintage Computers at the Computer History Museum [pdf]"
-  },
-  {
-    "source": "hn",
     "url": "https://ocw.mit.edu/courses/res-6-011-the-art-of-insight-in-science-and-engineering-mastering-complexity-fall-2014/3bca850386a3005c22134fa62fb3bad5_MITRES_6-011F14_art_insfin.pdf",
     "title": "The Art of Insight in Science and Engineering – Mastering Complexity(2014) [pdf]"
-  },
-  {
-    "source": "hn",
-    "url": "https://hjerpbakk.com/blog/2026/07/14/umami-for-apps",
-    "title": "Using self-hosted Umami for iOS app analytics"
-  },
-  {
-    "source": "hn",
-    "url": "https://amigafreeware.downer.tech/",
-    "title": "Classic Amiga titles, free to download"
   },
   {
     "source": "lobsters",
@@ -96,13 +81,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://wp2shell.com/",
-    "title": "wp2shell: Pre Authentication RCE in WordPress Core"
+    "url": "https://gitroot.dev/",
+    "title": "GitRoot"
   },
   {
     "source": "lobsters",
-    "url": "https://gitroot.dev/",
-    "title": "GitRoot"
+    "url": "https://wp2shell.com/",
+    "title": "wp2shell: Pre Authentication RCE in WordPress Core"
   },
   {
     "source": "lobsters",
@@ -121,6 +106,11 @@
   },
   {
     "source": "lobsters",
+    "url": "https://hashcloak.com/blog/tutorial-introduction-to-formal-verification-with-lean-(part-1)",
+    "title": "Introduction to Formal Verification with Lean (Part 1)"
+  },
+  {
+    "source": "lobsters",
     "url": "https://sebsite.pw/w/20260708-badstdcxx.html",
     "title": "neither gcc nor clang are compliant with standard c++"
   },
@@ -133,11 +123,6 @@
     "source": "lobsters",
     "url": "https://git.dthompson.us/haunt/commit/?id=100da093a804f04d3b10c9db49da663f2246c446",
     "title": "Haunt 0.4.0 released"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://blog.haskell.org/enterprise-haskell-at-h-e-b/",
-    "title": "Enterprise Haskell at H-E-B"
   },
   {
     "source": "pinboard",
