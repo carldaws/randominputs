@@ -16,6 +16,11 @@
   },
   {
     "source": "hn",
+    "url": "https://retrogamecoders.com/c64-basic-dungeon-part8/",
+    "title": "C64 Basic Dungeon Crawler: Goblin Attack (C64 Basic Part 8)"
+  },
+  {
+    "source": "hn",
     "url": "https://workshop.cjpais.com/projects/transcribe-cpp",
     "title": "Transcribe.cpp"
   },
@@ -26,8 +31,8 @@
   },
   {
     "source": "hn",
-    "url": "https://retrogamecoders.com/c64-basic-dungeon-part8/",
-    "title": "C64 Basic Dungeon Crawler: Goblin Attack (C64 Basic Part 8)"
+    "url": "https://sebsite.pw/w/20260708-badstdcxx.html",
+    "title": "Neither GCC nor Clang are compliant with standard C++"
   },
   {
     "source": "hn",
@@ -36,18 +41,18 @@
   },
   {
     "source": "hn",
-    "url": "https://thegustafson.com/series",
-    "title": "Holding the LLM Stack in Your Head"
+    "url": "https://www.thedrive.com/news/how-texas-police-spent-4-5-million-on-four-chevy-tahoes",
+    "title": "Texas Police Spent $4.5M on Four Chevy Tahoes"
+  },
+  {
+    "source": "hn",
+    "url": "https://developers.soundcloud.com/blog/less-is-more-why-soundcloud-low-passes-its-aac-transcodings/",
+    "title": "Less Is More: Why Audio on SoundCloud Looks Different"
   },
   {
     "source": "hn",
     "url": "https://codex-resets.com/",
     "title": "Codex Resets"
-  },
-  {
-    "source": "hn",
-    "url": "https://ocw.mit.edu/courses/res-6-011-the-art-of-insight-in-science-and-engineering-mastering-complexity-fall-2014/3bca850386a3005c22134fa62fb3bad5_MITRES_6-011F14_art_insfin.pdf",
-    "title": "The Art of Insight in Science and Engineering – Mastering Complexity(2014) [pdf]"
   },
   {
     "source": "lobsters",
@@ -81,13 +86,18 @@
   },
   {
     "source": "lobsters",
-    "url": "https://gitroot.dev/",
-    "title": "GitRoot"
+    "url": "https://hashcloak.com/blog/tutorial-introduction-to-formal-verification-with-lean-(part-1)",
+    "title": "Introduction to Formal Verification with Lean (Part 1)"
   },
   {
     "source": "lobsters",
     "url": "https://wp2shell.com/",
     "title": "wp2shell: Pre Authentication RCE in WordPress Core"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://gitroot.dev/",
+    "title": "GitRoot"
   },
   {
     "source": "lobsters",
@@ -103,16 +113,6 @@
     "source": "lobsters",
     "url": "https://pyjarrett.github.io/2026/07/18/software-and-ai-plotting-versus-pantsing.html",
     "title": "Software and AI - Plotting vs. Pantsing"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://hashcloak.com/blog/tutorial-introduction-to-formal-verification-with-lean-(part-1)",
-    "title": "Introduction to Formal Verification with Lean (Part 1)"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://sebsite.pw/w/20260708-badstdcxx.html",
-    "title": "neither gcc nor clang are compliant with standard c++"
   },
   {
     "source": "lobsters",
