@@ -1,8 +1,8 @@
 [
   {
     "source": "hn",
-    "url": "https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/",
-    "title": "Claude Code uses Bun written in Rust now"
+    "url": "https://chipweinberger.com/articles/20260719-hardware-is-not-so-hard",
+    "title": "What I learned selling 2,500 MIDI recorders: Hardware is not so hard"
   },
   {
     "source": "hn",
@@ -11,13 +11,23 @@
   },
   {
     "source": "hn",
-    "url": "https://codex-resets.com/",
-    "title": "Codex Resets"
+    "url": "https://sgt.hootr.club/blog/home-server-rebirth/",
+    "title": "The death and rebirth of my home server"
+  },
+  {
+    "source": "hn",
+    "url": "https://la0by.darc.de/LA8YB_EME_MBA.htm",
+    "title": "The Mighty Big Array of Finn Jensen LA8YB"
   },
   {
     "source": "hn",
     "url": "https://stephen.bochinski.dev/blog/2026/07/18/the-kimi-k3-moment/",
     "title": "The Kimi K3 Moment"
+  },
+  {
+    "source": "hn",
+    "url": "https://codex-resets.com/",
+    "title": "Codex Resets"
   },
   {
     "source": "hn",
@@ -31,21 +41,6 @@
   },
   {
     "source": "hn",
-    "url": "https://la0by.darc.de/LA8YB_EME_MBA.htm",
-    "title": "The Mighty Big Array of Finn Jensen LA8YB"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.makingsoftware.com/chapters/how-to-make-a-font",
-    "title": "Making Software: How to make a font"
-  },
-  {
-    "source": "hn",
-    "url": "https://hjerpbakk.com/blog/2026/07/14/umami-for-apps",
-    "title": "Using self-hosted Umami for iOS app analytics"
-  },
-  {
-    "source": "hn",
     "url": "https://amigafreeware.downer.tech/",
     "title": "Classic Amiga titles, free to download"
   },
@@ -56,28 +51,28 @@
   },
   {
     "source": "hn",
+    "url": "https://hjerpbakk.com/blog/2026/07/14/umami-for-apps",
+    "title": "Using self-hosted Umami for iOS app analytics"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.makingsoftware.com/chapters/how-to-make-a-font",
+    "title": "Making Software: How to make a font"
+  },
+  {
+    "source": "hn",
+    "url": "https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/",
+    "title": "Claude Code uses Bun written in Rust now"
+  },
+  {
+    "source": "hn",
     "url": "https://petapixel.com/2026/07/16/mayor-mamdani-says-landlords-cant-secretly-use-ai-images-to-advertise-properties/",
     "title": "NYC may require landlords and realtors to disclose the use of AI in listings"
   },
   {
     "source": "hn",
-    "url": "https://www.inference.org.uk/sanjoy/thesis/thesis-letter.pdf",
-    "title": "Order of Magnitude Physics a Textbook with Applications to the Retinal Rod(1998) [pdf]"
-  },
-  {
-    "source": "hn",
     "url": "https://ocw.mit.edu/courses/res-6-011-the-art-of-insight-in-science-and-engineering-mastering-complexity-fall-2014/3bca850386a3005c22134fa62fb3bad5_MITRES_6-011F14_art_insfin.pdf",
     "title": "The Art of Insight in Science and Engineering – Mastering Complexity(2014) [pdf]"
-  },
-  {
-    "source": "hn",
-    "url": "https://airdows.com/",
-    "title": "I built a browser-based P2P file transfer tool using WebRTC"
-  },
-  {
-    "source": "hn",
-    "url": "https://offlinetts.com/",
-    "title": "Show HN: OfflineTTS — Free browser-based TTS & STT that runs locally"
   },
   {
     "source": "lobsters",
@@ -86,18 +81,23 @@
   },
   {
     "source": "lobsters",
+    "url": "https://raymii.org/s/blog/Intel_Itanium_IA-64-Emulator_that_boots_Windows.html",
+    "title": "More emulation goodness, an Intel Itanium (IA-64) emulator that boots Windows"
+  },
+  {
+    "source": "lobsters",
     "url": "https://tangled.org/gleam.run/gleam",
     "title": "Gleam has mirrored its source code on tangled (an AT-protocol based forge)"
   },
   {
     "source": "lobsters",
-    "url": "https://gitroot.dev/",
-    "title": "GitRoot"
+    "url": "https://negroniventurestudios.com/2026/07/18/the-computer-at-the-bottom-of-a-canal/",
+    "title": "The computer at the bottom of a canal"
   },
   {
     "source": "lobsters",
-    "url": "https://raymii.org/s/blog/Intel_Itanium_IA-64-Emulator_that_boots_Windows.html",
-    "title": "More emulation goodness, an Intel Itanium (IA-64) emulator that boots Windows"
+    "url": "https://gitroot.dev/",
+    "title": "GitRoot"
   },
   {
     "source": "lobsters",
@@ -111,23 +111,18 @@
   },
   {
     "source": "lobsters",
-    "url": "https://negroniventurestudios.com/2026/07/18/the-computer-at-the-bottom-of-a-canal/",
-    "title": "The computer at the bottom of a canal"
-  },
-  {
-    "source": "lobsters",
     "url": "https://pradyun.net/blog/metrics_matter.html",
     "title": "Studying Linux Schedulers, and Why Metrics Matter"
   },
   {
     "source": "lobsters",
-    "url": "https://sgt.hootr.club/blog/home-server-rebirth/",
-    "title": "The death and rebirth of my home server"
+    "url": "https://sebsite.pw/w/20260708-badstdcxx.html",
+    "title": "neither gcc nor clang are compliant with standard c++"
   },
   {
     "source": "lobsters",
-    "url": "https://sebsite.pw/w/20260708-badstdcxx.html",
-    "title": "neither gcc nor clang are compliant with standard c++"
+    "url": "https://pyjarrett.github.io/2026/07/18/software-and-ai-plotting-versus-pantsing.html",
+    "title": "Software and AI - Plotting vs. Pantsing"
   },
   {
     "source": "lobsters",
@@ -138,11 +133,6 @@
     "source": "lobsters",
     "url": "https://blog.haskell.org/enterprise-haskell-at-h-e-b/",
     "title": "Enterprise Haskell at H-E-B"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://pyjarrett.github.io/2026/07/18/software-and-ai-plotting-versus-pantsing.html",
-    "title": "Software and AI - Plotting vs. Pantsing"
   },
   {
     "source": "lobsters",
@@ -178,11 +168,6 @@
     "source": "lobsters",
     "url": "https://scotto.me/blog/2026-07-17-which-lisp/",
     "title": "A Road to Lisp: Which Lisp"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://bford.info/cachedir/",
-    "title": "Cache Directory Tagging Specification"
   },
   {
     "source": "pinboard",
