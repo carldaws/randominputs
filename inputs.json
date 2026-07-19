@@ -1,23 +1,23 @@
 [
   {
     "source": "hn",
-    "url": "https://chipweinberger.com/articles/20260719-hardware-is-not-so-hard",
-    "title": "What I learned selling 2,500 MIDI recorders: Hardware is not so hard"
-  },
-  {
-    "source": "hn",
     "url": "https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/",
     "title": "Claude Code uses Bun written in Rust now"
   },
   {
     "source": "hn",
-    "url": "https://cagire.raphaelforment.fr",
-    "title": "Cagire: Live Coding in Forth"
+    "url": "https://chipweinberger.com/articles/20260719-hardware-is-not-so-hard",
+    "title": "What I learned selling 2,500 MIDI recorders: Hardware is not so hard"
   },
   {
     "source": "hn",
     "url": "https://retrogamecoders.com/c64-basic-dungeon-part8/",
     "title": "C64 Basic Dungeon Crawler: Goblin Attack (C64 Basic Part 8)"
+  },
+  {
+    "source": "hn",
+    "url": "https://cagire.raphaelforment.fr",
+    "title": "Cagire: Live Coding in Forth"
   },
   {
     "source": "hn",
@@ -31,23 +31,8 @@
   },
   {
     "source": "hn",
-    "url": "https://sebsite.pw/w/20260708-badstdcxx.html",
-    "title": "Neither GCC nor Clang are compliant with standard C++"
-  },
-  {
-    "source": "hn",
     "url": "https://sgt.hootr.club/blog/home-server-rebirth/",
     "title": "The death and rebirth of my home server"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.thedrive.com/news/how-texas-police-spent-4-5-million-on-four-chevy-tahoes",
-    "title": "Texas Police Spent $4.5M on Four Chevy Tahoes"
-  },
-  {
-    "source": "hn",
-    "url": "https://developers.soundcloud.com/blog/less-is-more-why-soundcloud-low-passes-its-aac-transcodings/",
-    "title": "Less Is More: Why Audio on SoundCloud Looks Different"
   },
   {
     "source": "hn",
@@ -55,9 +40,9 @@
     "title": "Codex Resets"
   },
   {
-    "source": "lobsters",
-    "url": "https://softwaremaxims.com/blog/reviewing-ai-code",
-    "title": "Reviewing AI Code Is Not A Viable Argument (2025)"
+    "source": "hn",
+    "url": "https://developers.soundcloud.com/blog/less-is-more-why-soundcloud-low-passes-its-aac-transcodings/",
+    "title": "Less Is More: Why Audio on SoundCloud Looks Different"
   },
   {
     "source": "lobsters",
@@ -66,13 +51,18 @@
   },
   {
     "source": "lobsters",
-    "url": "https://mccd.space/git/thunderbird-patch-review/file/README.html.html",
-    "title": "Git email patch review addon for Thunderbird"
+    "url": "https://softwaremaxims.com/blog/reviewing-ai-code",
+    "title": "Reviewing AI Code Is Not A Viable Argument (2025)"
   },
   {
     "source": "lobsters",
     "url": "https://abhin4v.github.io/shake-blog/",
     "title": "Shake Blog"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://mccd.space/git/thunderbird-patch-review/file/README.html.html",
+    "title": "Git email patch review addon for Thunderbird"
   },
   {
     "source": "lobsters",
@@ -91,8 +81,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://wp2shell.com/",
-    "title": "wp2shell: Pre Authentication RCE in WordPress Core"
+    "url": "https://pradyun.net/blog/metrics_matter.html",
+    "title": "Studying Linux Schedulers, and Why Metrics Matter"
   },
   {
     "source": "lobsters",
@@ -101,8 +91,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://pradyun.net/blog/metrics_matter.html",
-    "title": "Studying Linux Schedulers, and Why Metrics Matter"
+    "url": "https://wp2shell.com/",
+    "title": "wp2shell: Pre Authentication RCE in WordPress Core"
   },
   {
     "source": "lobsters",
@@ -111,18 +101,13 @@
   },
   {
     "source": "lobsters",
+    "url": "https://dependablec.org/",
+    "title": "Dependable C"
+  },
+  {
+    "source": "lobsters",
     "url": "https://pyjarrett.github.io/2026/07/18/software-and-ai-plotting-versus-pantsing.html",
     "title": "Software and AI - Plotting vs. Pantsing"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://alexalejandre.com/interviews/interview-with-matheus-moreira/",
-    "title": "Lobsters Interview with matheusmoreira about Lone Lisp"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://git.dthompson.us/haunt/commit/?id=100da093a804f04d3b10c9db49da663f2246c446",
-    "title": "Haunt 0.4.0 released"
   },
   {
     "source": "pinboard",
