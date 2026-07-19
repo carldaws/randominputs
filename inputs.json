@@ -6,18 +6,18 @@
   },
   {
     "source": "hn",
-    "url": "https://workshop.cjpais.com/projects/transcribe-cpp",
-    "title": "Transcribe.cpp"
-  },
-  {
-    "source": "hn",
     "url": "https://sgt.hootr.club/blog/home-server-rebirth/",
     "title": "The death and rebirth of my home server"
   },
   {
     "source": "hn",
-    "url": "https://la0by.darc.de/LA8YB_EME_MBA.htm",
-    "title": "The Mighty Big Array of Finn Jensen LA8YB"
+    "url": "https://workshop.cjpais.com/projects/transcribe-cpp",
+    "title": "Transcribe.cpp"
+  },
+  {
+    "source": "hn",
+    "url": "https://iain.so/infinities-impossibilities-and-the-man-in-the-white-linen-suit",
+    "title": "Infinities, impossibilities, and the man in the white linen suit"
   },
   {
     "source": "hn",
@@ -26,18 +26,13 @@
   },
   {
     "source": "hn",
+    "url": "https://la0by.darc.de/LA8YB_EME_MBA.htm",
+    "title": "The Mighty Big Array of Finn Jensen LA8YB"
+  },
+  {
+    "source": "hn",
     "url": "https://codex-resets.com/",
     "title": "Codex Resets"
-  },
-  {
-    "source": "hn",
-    "url": "https://supabase.com/blog/searchable-field-level-encryption-with-cipherstash",
-    "title": "Searchable field-level encryption on Supabase with CipherStash"
-  },
-  {
-    "source": "hn",
-    "url": "https://ibm-1401.info/pictures/Proc-MIW-2017-Garner-1401PDP1.pdf",
-    "title": "Restoring and Demoing 1960s Vintage Computers at the Computer History Museum [pdf]"
   },
   {
     "source": "hn",
@@ -46,13 +41,8 @@
   },
   {
     "source": "hn",
-    "url": "https://www.marciot.com/mac68k-visual-catalog/",
-    "title": "A Visual Catalog of Retro Macintosh Software"
-  },
-  {
-    "source": "hn",
-    "url": "https://hjerpbakk.com/blog/2026/07/14/umami-for-apps",
-    "title": "Using self-hosted Umami for iOS app analytics"
+    "url": "https://ibm-1401.info/pictures/Proc-MIW-2017-Garner-1401PDP1.pdf",
+    "title": "Restoring and Demoing 1960s Vintage Computers at the Computer History Museum [pdf]"
   },
   {
     "source": "hn",
@@ -61,18 +51,23 @@
   },
   {
     "source": "hn",
-    "url": "https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/",
-    "title": "Claude Code uses Bun written in Rust now"
+    "url": "https://hjerpbakk.com/blog/2026/07/14/umami-for-apps",
+    "title": "Using self-hosted Umami for iOS app analytics"
   },
   {
     "source": "hn",
-    "url": "https://petapixel.com/2026/07/16/mayor-mamdani-says-landlords-cant-secretly-use-ai-images-to-advertise-properties/",
-    "title": "NYC may require landlords and realtors to disclose the use of AI in listings"
+    "url": "https://www.marciot.com/mac68k-visual-catalog/",
+    "title": "A Visual Catalog of Retro Macintosh Software"
   },
   {
     "source": "hn",
     "url": "https://ocw.mit.edu/courses/res-6-011-the-art-of-insight-in-science-and-engineering-mastering-complexity-fall-2014/3bca850386a3005c22134fa62fb3bad5_MITRES_6-011F14_art_insfin.pdf",
     "title": "The Art of Insight in Science and Engineering – Mastering Complexity(2014) [pdf]"
+  },
+  {
+    "source": "hn",
+    "url": "https://petapixel.com/2026/07/16/mayor-mamdani-says-landlords-cant-secretly-use-ai-images-to-advertise-properties/",
+    "title": "NYC may require landlords and realtors to disclose the use of AI in listings"
   },
   {
     "source": "lobsters",
@@ -86,13 +81,18 @@
   },
   {
     "source": "lobsters",
-    "url": "https://tangled.org/gleam.run/gleam",
-    "title": "Gleam has mirrored its source code on tangled (an AT-protocol based forge)"
+    "url": "https://abhin4v.github.io/shake-blog/",
+    "title": "Shake Blog"
   },
   {
     "source": "lobsters",
     "url": "https://negroniventurestudios.com/2026/07/18/the-computer-at-the-bottom-of-a-canal/",
     "title": "The computer at the bottom of a canal"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://tangled.org/gleam.run/gleam",
+    "title": "Gleam has mirrored its source code on tangled (an AT-protocol based forge)"
   },
   {
     "source": "lobsters",
@@ -108,6 +108,11 @@
     "source": "lobsters",
     "url": "https://maurycyz.com/projects/bad_jpeg/",
     "title": "Regressive JPEGs"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://mccd.space/git/thunderbird-patch-review/file/README.html.html",
+    "title": "Git email patch review addon for Thunderbird"
   },
   {
     "source": "lobsters",
@@ -136,11 +141,6 @@
   },
   {
     "source": "lobsters",
-    "url": "https://jvns.ca/blog/2026/07/17/learning-about-running-sqlite/",
-    "title": "Learning a few things about running SQLite"
-  },
-  {
-    "source": "lobsters",
     "url": "https://git.dthompson.us/haunt/commit/?id=100da093a804f04d3b10c9db49da663f2246c446",
     "title": "Haunt 0.4.0 released"
   },
@@ -151,23 +151,13 @@
   },
   {
     "source": "lobsters",
+    "url": "https://jvns.ca/blog/2026/07/17/learning-about-running-sqlite/",
+    "title": "Learning a few things about running SQLite"
+  },
+  {
+    "source": "lobsters",
     "url": "https://www.defconq.tech/docs/concepts/dictionariesTables",
     "title": "Dictionaries and Tables"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://nextbsd.org/",
-    "title": "NextBSD project revived: Apple's FOSS user-space tools on the FreeBSD kernel"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://www.elbeno.com/blog/?p=1836",
-    "title": "A better bitset for enum flags"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://scotto.me/blog/2026-07-17-which-lisp/",
-    "title": "A Road to Lisp: Which Lisp"
   },
   {
     "source": "pinboard",
