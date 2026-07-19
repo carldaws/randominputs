@@ -6,6 +6,11 @@
   },
   {
     "source": "hn",
+    "url": "https://raymii.org/s/blog/Intel_Itanium_IA-64-Emulator_that_boots_Windows.html",
+    "title": "A new Intel Itanium (IA-64) emulator that boots Windows"
+  },
+  {
+    "source": "hn",
     "url": "https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/",
     "title": "Claude Code uses Bun written in Rust now"
   },
@@ -16,18 +21,13 @@
   },
   {
     "source": "hn",
-    "url": "https://raymii.org/s/blog/Intel_Itanium_IA-64-Emulator_that_boots_Windows.html",
-    "title": "A new Intel Itanium (IA-64) emulator that boots Windows"
+    "url": "https://pgadey.ca/notes/talk-relatorium-2026/",
+    "title": "Talk: The Art of Braiding Algorithms"
   },
   {
     "source": "hn",
     "url": "https://chipweinberger.com/articles/20260719-hardware-is-not-so-hard",
     "title": "What I learned selling 2,500 MIDI recorders: Hardware is not so hard"
-  },
-  {
-    "source": "hn",
-    "url": "https://MasterGodzilla.github.io/posts/2025/07/muon-clip/",
-    "title": "From Muon to Gradient Clipping: Some Thoughts on QK Stability"
   },
   {
     "source": "hn",
@@ -41,8 +41,8 @@
   },
   {
     "source": "hn",
-    "url": "https://iain.so/infinities-impossibilities-and-the-man-in-the-white-linen-suit",
-    "title": "Infinities, impossibilities, and the man in the white linen suit"
+    "url": "https://MasterGodzilla.github.io/posts/2025/07/muon-clip/",
+    "title": "From Muon to Gradient Clipping: Some Thoughts on QK Stability"
   },
   {
     "source": "hn",
@@ -50,9 +50,9 @@
     "title": "The death and rebirth of my home server"
   },
   {
-    "source": "lobsters",
-    "url": "https://mccd.space/git/thunderbird-patch-review/file/README.html.html",
-    "title": "Git email patch review addon for Thunderbird"
+    "source": "hn",
+    "url": "https://iain.so/infinities-impossibilities-and-the-man-in-the-white-linen-suit",
+    "title": "Infinities, impossibilities, and the man in the white linen suit"
   },
   {
     "source": "lobsters",
@@ -61,13 +61,18 @@
   },
   {
     "source": "lobsters",
-    "url": "https://softwaremaxims.com/blog/reviewing-ai-code",
-    "title": "Reviewing AI Code Is Not A Viable Argument (2025)"
+    "url": "https://mccd.space/git/thunderbird-patch-review/file/README.html.html",
+    "title": "Git email patch review addon for Thunderbird"
   },
   {
     "source": "lobsters",
     "url": "https://dependablec.org/",
     "title": "Dependable C"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://softwaremaxims.com/blog/reviewing-ai-code",
+    "title": "Reviewing AI Code Is Not A Viable Argument (2025)"
   },
   {
     "source": "lobsters",
@@ -108,5 +113,95 @@
     "source": "lobsters",
     "url": "https://pyjarrett.github.io/2026/07/18/software-and-ai-plotting-versus-pantsing.html",
     "title": "Software and AI - Plotting vs. Pantsing"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://immersivemath.com/ila/",
+    "title": "Immersive Linear Algebra - The world's first linear algebra book with fully interactive figures"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://jvns.ca/blog/2026/07/17/learning-about-running-sqlite/",
+    "title": "Learning a few things about running SQLite"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.mixfont.com/experiments/decoy-font",
+    "title": "Decoy Font: A TTF font that hides what you type"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://stateofopensource.ai/",
+    "title": "The State of Open Source AI (by Mozilla)"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://cuelume-site.pages.dev/",
+    "title": "Cuelume — interaction sounds for the web"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://sinja.io/blog/data-landscape-guide-for-developers",
+    "title": "Guide to data tools landscape for developers · OlegWock"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://clocks.dev/",
+    "title": "Clocks.dev"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.kimi.com/blog/kimi-k3",
+    "title": "Kimi K3 Tech Blog: Open Frontier Intelligence"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://ykdojo.github.io/claude-controls-mac/",
+    "title": "How to set up your spare Mac for Claude Code to fully control - a step-by-step guide | claude-controls-mac"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://mort.coffee/home/sqlite-editions/",
+    "title": "SQLite should have (Rust-style) editions - Mort's Ramblings"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://thinkingmachines.ai/news/introducing-inkling/",
+    "title": "Inkling: Our open-weights model - Thinking Machines Lab"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://pydantic.dev/articles/the-human-in-the-loop-is-tired",
+    "title": "The Human-in-the-Loop is Tired | Pydantic"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.theocharis.dev/blog/llm-critics-are-right-i-use-llms-anyway/",
+    "title": "The LLM Critics Are Right. I Use LLMs Anyway. | Jeremy Theocharis"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://clig.dev/",
+    "title": "CLI Guidelines"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.pigeonsandplanes.com/read/music-piracy-what-cd-oink-nine-inch-nails-streaming",
+    "title": "The Lost Joy of Music Piracy: WhatCD, Oink, and Spotify | Pigeons and Planes"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://workshop.cjpais.com/projects/transcribe-cpp",
+    "title": "Project - transcribe.cpp"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.ayush.digital/blog/the-memory-heist",
+    "title": "The Memory Heist"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://rtfeldman.com/rust-to-zig",
+    "title": "How Our Rust-to-Zig Rewrite is Going"
   }
 ]
