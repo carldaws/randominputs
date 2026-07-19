@@ -16,6 +16,11 @@
   },
   {
     "source": "hn",
+    "url": "https://cagire.raphaelforment.fr",
+    "title": "Cagire: Live Coding in Forth"
+  },
+  {
+    "source": "hn",
     "url": "https://iain.so/infinities-impossibilities-and-the-man-in-the-white-linen-suit",
     "title": "Infinities, impossibilities, and the man in the white linen suit"
   },
@@ -26,13 +31,13 @@
   },
   {
     "source": "hn",
-    "url": "https://codex-resets.com/",
-    "title": "Codex Resets"
+    "url": "https://retrogamecoders.com/c64-basic-dungeon-part8/",
+    "title": "C64 Basic Dungeon Crawler: Goblin Attack (C64 Basic Part 8)"
   },
   {
     "source": "hn",
-    "url": "https://cagire.raphaelforment.fr",
-    "title": "Cagire: Live Coding in Forth"
+    "url": "https://codex-resets.com/",
+    "title": "Codex Resets"
   },
   {
     "source": "hn",
@@ -46,6 +51,11 @@
   },
   {
     "source": "hn",
+    "url": "https://ocw.mit.edu/courses/res-6-011-the-art-of-insight-in-science-and-engineering-mastering-complexity-fall-2014/3bca850386a3005c22134fa62fb3bad5_MITRES_6-011F14_art_insfin.pdf",
+    "title": "The Art of Insight in Science and Engineering – Mastering Complexity(2014) [pdf]"
+  },
+  {
+    "source": "hn",
     "url": "https://hjerpbakk.com/blog/2026/07/14/umami-for-apps",
     "title": "Using self-hosted Umami for iOS app analytics"
   },
@@ -53,16 +63,6 @@
     "source": "hn",
     "url": "https://amigafreeware.downer.tech/",
     "title": "Classic Amiga titles, free to download"
-  },
-  {
-    "source": "hn",
-    "url": "https://ocw.mit.edu/courses/res-6-011-the-art-of-insight-in-science-and-engineering-mastering-complexity-fall-2014/3bca850386a3005c22134fa62fb3bad5_MITRES_6-011F14_art_insfin.pdf",
-    "title": "The Art of Insight in Science and Engineering – Mastering Complexity(2014) [pdf]"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.makingsoftware.com/chapters/how-to-make-a-font",
-    "title": "Making Software: How to make a font"
   },
   {
     "source": "lobsters",
@@ -76,13 +76,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://abhin4v.github.io/shake-blog/",
-    "title": "Shake Blog"
+    "url": "https://mccd.space/git/thunderbird-patch-review/file/README.html.html",
+    "title": "Git email patch review addon for Thunderbird"
   },
   {
     "source": "lobsters",
-    "url": "https://mccd.space/git/thunderbird-patch-review/file/README.html.html",
-    "title": "Git email patch review addon for Thunderbird"
+    "url": "https://abhin4v.github.io/shake-blog/",
+    "title": "Shake Blog"
   },
   {
     "source": "lobsters",
@@ -106,13 +106,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://maurycyz.com/projects/bad_jpeg/",
-    "title": "Regressive JPEGs"
+    "url": "https://pradyun.net/blog/metrics_matter.html",
+    "title": "Studying Linux Schedulers, and Why Metrics Matter"
   },
   {
     "source": "lobsters",
-    "url": "https://pradyun.net/blog/metrics_matter.html",
-    "title": "Studying Linux Schedulers, and Why Metrics Matter"
+    "url": "https://maurycyz.com/projects/bad_jpeg/",
+    "title": "Regressive JPEGs"
   },
   {
     "source": "lobsters",
