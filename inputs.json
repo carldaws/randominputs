@@ -1,6 +1,11 @@
 [
   {
     "source": "hn",
+    "url": "https://raymii.org/s/blog/Intel_Itanium_IA-64-Emulator_that_boots_Windows.html",
+    "title": "A new Intel Itanium (IA-64) emulator that boots Windows"
+  },
+  {
+    "source": "hn",
     "url": "https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/",
     "title": "Claude Code uses Bun written in Rust now"
   },
@@ -21,13 +26,8 @@
   },
   {
     "source": "hn",
-    "url": "https://workshop.cjpais.com/projects/transcribe-cpp",
-    "title": "Transcribe.cpp"
-  },
-  {
-    "source": "hn",
-    "url": "https://iain.so/infinities-impossibilities-and-the-man-in-the-white-linen-suit",
-    "title": "Infinities, impossibilities, and the man in the white linen suit"
+    "url": "https://MasterGodzilla.github.io/posts/2025/07/muon-clip/",
+    "title": "From Muon to Gradient Clipping: Some Thoughts on QK Stability"
   },
   {
     "source": "hn",
@@ -36,23 +36,18 @@
   },
   {
     "source": "hn",
+    "url": "https://iain.so/infinities-impossibilities-and-the-man-in-the-white-linen-suit",
+    "title": "Infinities, impossibilities, and the man in the white linen suit"
+  },
+  {
+    "source": "hn",
     "url": "https://codex-resets.com/",
     "title": "Codex Resets"
   },
   {
-    "source": "hn",
-    "url": "https://developers.soundcloud.com/blog/less-is-more-why-soundcloud-low-passes-its-aac-transcodings/",
-    "title": "Less Is More: Why Audio on SoundCloud Looks Different"
-  },
-  {
     "source": "lobsters",
-    "url": "https://raymii.org/s/blog/Intel_Itanium_IA-64-Emulator_that_boots_Windows.html",
-    "title": "More emulation goodness, an Intel Itanium (IA-64) emulator that boots Windows"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://softwaremaxims.com/blog/reviewing-ai-code",
-    "title": "Reviewing AI Code Is Not A Viable Argument (2025)"
+    "url": "https://mccd.space/git/thunderbird-patch-review/file/README.html.html",
+    "title": "Git email patch review addon for Thunderbird"
   },
   {
     "source": "lobsters",
@@ -61,8 +56,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://mccd.space/git/thunderbird-patch-review/file/README.html.html",
-    "title": "Git email patch review addon for Thunderbird"
+    "url": "https://softwaremaxims.com/blog/reviewing-ai-code",
+    "title": "Reviewing AI Code Is Not A Viable Argument (2025)"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://dependablec.org/",
+    "title": "Dependable C"
   },
   {
     "source": "lobsters",
@@ -98,11 +98,6 @@
     "source": "lobsters",
     "url": "https://maurycyz.com/projects/bad_jpeg/",
     "title": "Regressive JPEGs"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://dependablec.org/",
-    "title": "Dependable C"
   },
   {
     "source": "lobsters",
@@ -183,6 +178,11 @@
     "source": "pinboard",
     "url": "https://www.pigeonsandplanes.com/read/music-piracy-what-cd-oink-nine-inch-nails-streaming",
     "title": "The Lost Joy of Music Piracy: WhatCD, Oink, and Spotify | Pigeons and Planes"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://workshop.cjpais.com/projects/transcribe-cpp",
+    "title": "Project - transcribe.cpp"
   },
   {
     "source": "pinboard",
