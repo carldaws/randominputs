@@ -6,8 +6,8 @@
   },
   {
     "source": "hn",
-    "url": "https://sgt.hootr.club/blog/home-server-rebirth/",
-    "title": "The death and rebirth of my home server"
+    "url": "https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/",
+    "title": "Claude Code uses Bun written in Rust now"
   },
   {
     "source": "hn",
@@ -21,13 +21,8 @@
   },
   {
     "source": "hn",
-    "url": "https://stephen.bochinski.dev/blog/2026/07/18/the-kimi-k3-moment/",
-    "title": "The Kimi K3 Moment"
-  },
-  {
-    "source": "hn",
-    "url": "https://la0by.darc.de/LA8YB_EME_MBA.htm",
-    "title": "The Mighty Big Array of Finn Jensen LA8YB"
+    "url": "https://sgt.hootr.club/blog/home-server-rebirth/",
+    "title": "The death and rebirth of my home server"
   },
   {
     "source": "hn",
@@ -36,8 +31,13 @@
   },
   {
     "source": "hn",
-    "url": "https://amigafreeware.downer.tech/",
-    "title": "Classic Amiga titles, free to download"
+    "url": "https://cagire.raphaelforment.fr",
+    "title": "Cagire: Live Coding in Forth"
+  },
+  {
+    "source": "hn",
+    "url": "https://la0by.darc.de/LA8YB_EME_MBA.htm",
+    "title": "The Mighty Big Array of Finn Jensen LA8YB"
   },
   {
     "source": "hn",
@@ -46,18 +46,13 @@
   },
   {
     "source": "hn",
-    "url": "https://www.makingsoftware.com/chapters/how-to-make-a-font",
-    "title": "Making Software: How to make a font"
-  },
-  {
-    "source": "hn",
     "url": "https://hjerpbakk.com/blog/2026/07/14/umami-for-apps",
     "title": "Using self-hosted Umami for iOS app analytics"
   },
   {
     "source": "hn",
-    "url": "https://www.marciot.com/mac68k-visual-catalog/",
-    "title": "A Visual Catalog of Retro Macintosh Software"
+    "url": "https://amigafreeware.downer.tech/",
+    "title": "Classic Amiga titles, free to download"
   },
   {
     "source": "hn",
@@ -66,13 +61,13 @@
   },
   {
     "source": "hn",
-    "url": "https://petapixel.com/2026/07/16/mayor-mamdani-says-landlords-cant-secretly-use-ai-images-to-advertise-properties/",
-    "title": "NYC may require landlords and realtors to disclose the use of AI in listings"
+    "url": "https://www.makingsoftware.com/chapters/how-to-make-a-font",
+    "title": "Making Software: How to make a font"
   },
   {
     "source": "lobsters",
     "url": "https://softwaremaxims.com/blog/reviewing-ai-code",
-    "title": "Reviewing AI Code Is Not A Viable Argument"
+    "title": "Reviewing AI Code Is Not A Viable Argument (2025)"
   },
   {
     "source": "lobsters",
@@ -86,6 +81,11 @@
   },
   {
     "source": "lobsters",
+    "url": "https://mccd.space/git/thunderbird-patch-review/file/README.html.html",
+    "title": "Git email patch review addon for Thunderbird"
+  },
+  {
+    "source": "lobsters",
     "url": "https://negroniventurestudios.com/2026/07/18/the-computer-at-the-bottom-of-a-canal/",
     "title": "The computer at the bottom of a canal"
   },
@@ -96,13 +96,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://gitroot.dev/",
-    "title": "GitRoot"
+    "url": "https://wp2shell.com/",
+    "title": "wp2shell: Pre Authentication RCE in WordPress Core"
   },
   {
     "source": "lobsters",
-    "url": "https://wp2shell.com/",
-    "title": "wp2shell: Pre Authentication RCE in WordPress Core"
+    "url": "https://gitroot.dev/",
+    "title": "GitRoot"
   },
   {
     "source": "lobsters",
@@ -111,18 +111,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://mccd.space/git/thunderbird-patch-review/file/README.html.html",
-    "title": "Git email patch review addon for Thunderbird"
-  },
-  {
-    "source": "lobsters",
     "url": "https://pradyun.net/blog/metrics_matter.html",
     "title": "Studying Linux Schedulers, and Why Metrics Matter"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://sebsite.pw/w/20260708-badstdcxx.html",
-    "title": "neither gcc nor clang are compliant with standard c++"
   },
   {
     "source": "lobsters",
@@ -131,13 +121,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://alexalejandre.com/interviews/interview-with-matheus-moreira/",
-    "title": "Lobsters Interview with matheusmoreira about Lone Lisp"
+    "url": "https://sebsite.pw/w/20260708-badstdcxx.html",
+    "title": "neither gcc nor clang are compliant with standard c++"
   },
   {
     "source": "lobsters",
-    "url": "https://blog.haskell.org/enterprise-haskell-at-h-e-b/",
-    "title": "Enterprise Haskell at H-E-B"
+    "url": "https://alexalejandre.com/interviews/interview-with-matheus-moreira/",
+    "title": "Lobsters Interview with matheusmoreira about Lone Lisp"
   },
   {
     "source": "lobsters",
@@ -146,23 +136,18 @@
   },
   {
     "source": "lobsters",
-    "url": "https://jaymcor.github.io/notes/isolation_rr_si.html",
-    "title": "Repeatable Read vs Snapshot Isolation"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://jvns.ca/blog/2026/07/17/learning-about-running-sqlite/",
-    "title": "Learning a few things about running SQLite"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://www.defconq.tech/docs/concepts/dictionariesTables",
-    "title": "Dictionaries and Tables"
+    "url": "https://blog.haskell.org/enterprise-haskell-at-h-e-b/",
+    "title": "Enterprise Haskell at H-E-B"
   },
   {
     "source": "pinboard",
     "url": "https://immersivemath.com/ila/",
     "title": "Immersive Linear Algebra - The world's first linear algebra book with fully interactive figures"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://jvns.ca/blog/2026/07/17/learning-about-running-sqlite/",
+    "title": "Learning a few things about running SQLite"
   },
   {
     "source": "pinboard",
