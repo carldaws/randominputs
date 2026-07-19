@@ -6,8 +6,23 @@
   },
   {
     "source": "hn",
+    "url": "https://www.fda.gov/news-events/press-announcements/fda-approves-first-oral-pcsk9-inhibitor-lower-ldl-cholesterol-adults-high-cholesterol",
+    "title": "FDA approves new kind of cholesterol pill"
+  },
+  {
+    "source": "hn",
+    "url": "https://calculus.academa.ai/",
+    "title": "LLM-Integrated Multivariable Calculus Course"
+  },
+  {
+    "source": "hn",
     "url": "https://amigafreeware.downer.tech/",
     "title": "Classic Amiga titles, free to download"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.marciot.com/mac68k-visual-catalog/",
+    "title": "A Visual Catalog of Retro Macintosh Software"
   },
   {
     "source": "hn",
@@ -16,28 +31,13 @@
   },
   {
     "source": "hn",
-    "url": "https://uncovered.ink",
-    "title": "Judge a book by its first pages"
-  },
-  {
-    "source": "hn",
     "url": "https://mssv.net/2026/04/29/im-making-strandfall-a-solarpunk-orienteering-larp/",
     "title": "I'm Making Strandfall, a Solarpunk Orienteering Larp"
   },
   {
     "source": "hn",
-    "url": "https://www.tug.org/tug2026/preprints/lode-realtime.pdf",
-    "title": "Real-Time LuaTeX: Recompiling Large Documents in 1ms [pdf]"
-  },
-  {
-    "source": "hn",
-    "url": "https://codex-resets.com/",
-    "title": "Codex Resets"
-  },
-  {
-    "source": "hn",
-    "url": "https://tangled.org/gleam.run/gleam",
-    "title": "Gleam Is Now on Tangled"
+    "url": "https://airdows.com/",
+    "title": "I built a browser-based P2P file transfer tool using WebRTC"
   },
   {
     "source": "hn",
@@ -51,8 +51,18 @@
   },
   {
     "source": "hn",
+    "url": "https://tangled.org/gleam.run/gleam",
+    "title": "Gleam Is Now on Tangled"
+  },
+  {
+    "source": "hn",
     "url": "https://elixir-lang.org/",
     "title": "Elixir-lang.org has a new design"
+  },
+  {
+    "source": "hn",
+    "url": "https://magworld.pw",
+    "title": "Developing an Intuitive Sense of Scale"
   },
   {
     "source": "hn",
@@ -61,28 +71,18 @@
   },
   {
     "source": "hn",
-    "url": "https://q3edit.com",
-    "title": "Show HN: Q3Edit – Edit and play Quake 3 maps in the browser"
+    "url": "https://www.mediawiki.org/wiki/Parsoid",
+    "title": "Parsoid"
   },
   {
     "source": "hn",
-    "url": "https://stephen.bochinski.dev/blog/2026/07/18/the-kimi-k3-moment/",
-    "title": "The Kimi K3 Moment"
+    "url": "https://codex-resets.com/",
+    "title": "Codex Resets"
   },
   {
     "source": "hn",
-    "url": "https://redblobgames.github.io/circular-obstacle-pathfinding/",
-    "title": "Circular Obstacle Pathfinding (2017)"
-  },
-  {
-    "source": "hn",
-    "url": "https://haxxorwpm.0s.is/",
-    "title": "Typing Speed Test, but for Developers"
-  },
-  {
-    "source": "hn",
-    "url": "https://advances.realtimerendering.com",
-    "title": "Advances in Real Time Rendering in Games"
+    "url": "https://www.tug.org/tug2026/preprints/lode-realtime.pdf",
+    "title": "Real-Time LuaTeX: Recompiling Large Documents in 1ms [pdf]"
   },
   {
     "source": "lobsters",
@@ -101,8 +101,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://alexalejandre.com/interviews/interview-with-matheus-moreira/",
-    "title": "Lobsters Interview with matheusmoreira about Lone Lisp"
+    "url": "https://wp2shell.com/",
+    "title": "wp2shell: Pre Authentication RCE in WordPress Core"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://pyjarrett.github.io/2026/07/18/software-and-ai-plotting-versus-pantsing.html",
+    "title": "Software and AI - Plotting vs. Pantsing"
   },
   {
     "source": "lobsters",
@@ -111,8 +116,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://wp2shell.com/",
-    "title": "wp2shell: Pre Authentication RCE in WordPress Core"
+    "url": "https://alexalejandre.com/interviews/interview-with-matheus-moreira/",
+    "title": "Lobsters Interview with matheusmoreira about Lone Lisp"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://pradyun.net/blog/metrics_matter.html",
+    "title": "Studying Linux Schedulers, and Why Metrics Matter"
   },
   {
     "source": "lobsters",
@@ -136,23 +146,38 @@
   },
   {
     "source": "lobsters",
-    "url": "https://www.elbeno.com/blog/?p=1836",
-    "title": "A better bitset for enum flags"
-  },
-  {
-    "source": "lobsters",
     "url": "https://git.dthompson.us/haunt/commit/?id=100da093a804f04d3b10c9db49da663f2246c446",
     "title": "Haunt 0.4.0 released"
   },
   {
     "source": "lobsters",
-    "url": "https://pradyun.net/blog/metrics_matter.html",
-    "title": "Studying Linux Schedulers, and Why Metrics Matter"
+    "url": "https://jaymcor.github.io/notes/isolation_rr_si.html",
+    "title": "Repeatable Read vs Snapshot Isolation"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://www.elbeno.com/blog/?p=1836",
+    "title": "A better bitset for enum flags"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://sec.okta.com/articles/2026/06/openssl-hollowbtye-a-dos-hiding-in-11-bytes/",
+    "title": "OpenSSL HollowByte: A DoS Hiding in 11 Bytes"
   },
   {
     "source": "lobsters",
     "url": "https://www.defconq.tech/docs/concepts/dictionariesTables",
-    "title": "Dictionaries and Tables | DefconQ"
+    "title": "Dictionaries and Tables"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://negroniventurestudios.com/2026/07/18/the-computer-at-the-bottom-of-a-canal/",
+    "title": "The computer at the bottom of a canal"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://bford.info/cachedir/",
+    "title": "Cache Directory Tagging Specification"
   },
   {
     "source": "lobsters",
@@ -163,31 +188,6 @@
     "source": "lobsters",
     "url": "https://mattmichie.com/2026/07/11/powershell-over-ssh-twenty-years-later/",
     "title": "PowerShell over SSH in 2026: OpenSSH on Windows, Key Auth, and PowerShell 7 Remoting"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://bford.info/cachedir/",
-    "title": "Cache Directory Tagging Specification"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://jaymcor.github.io/notes/isolation_rr_si.html",
-    "title": "Repeatable Read vs Snapshot Isolation"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://sec.okta.com/articles/2026/06/openssl-hollowbtye-a-dos-hiding-in-11-bytes/",
-    "title": "OpenSSL HollowByte: A DoS Hiding in 11 Bytes"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://gwern.net/llm-catapult",
-    "title": "Human-like Neural Nets by Catapulting"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://alexsyniakov.com/2026/07/07/half-edge-data-structure-part-2/",
-    "title": "Half-Edge Data Structure. Part2"
   },
   {
     "source": "pinboard",
