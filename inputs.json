@@ -1,8 +1,13 @@
 [
   {
     "source": "hn",
-    "url": "https://wren.wtf/shower-thoughts/stop-using-opencode/",
-    "title": "Stop Using OpenCode"
+    "url": "https://news.risky.biz/risky-bulletin-hacker-wipes-romanias-entire-land-registry-database/",
+    "title": "Hacker wipes Romania's land registry database"
+  },
+  {
+    "source": "hn",
+    "url": "https://nothings.org/gamedev/ssao/",
+    "title": "Corners Don't Look Like That: Regarding Screenspace Ambient Occlusion"
   },
   {
     "source": "hn",
@@ -11,13 +16,18 @@
   },
   {
     "source": "hn",
-    "url": "https://slcyber.io/research-center/exploit-brokers-pay-500000-for-a-wordpress-rce-i-found-one-with-gpt5-6/",
-    "title": "Exploit brokers pay $500k for WordPress RCEs. I found one with GPT5.6 and $25"
+    "url": "https://var0.xyz/posts/perfection-is-not-over-engineering.html",
+    "title": "Perfection Is Not Over-Engineering"
   },
   {
     "source": "hn",
-    "url": "https://news.risky.biz/risky-bulletin-hacker-wipes-romanias-entire-land-registry-database/",
-    "title": "Hacker wipes Romania's land registry database"
+    "url": "https://etbe.coker.com.au/2026/07/19/ecc-ddr5/",
+    "title": "ECC and DDR5"
+  },
+  {
+    "source": "hn",
+    "url": "https://slcyber.io/research-center/exploit-brokers-pay-500000-for-a-wordpress-rce-i-found-one-with-gpt5-6/",
+    "title": "Exploit brokers pay $500k for WordPress RCEs. I found one with GPT5.6 and $25"
   },
   {
     "source": "hn",
@@ -31,23 +41,48 @@
   },
   {
     "source": "hn",
-    "url": "https://etbe.coker.com.au/2026/07/19/ecc-ddr5/",
-    "title": "ECC and DDR5"
+    "url": "https://www.emergingtrajectories.com/lh/frontier-lab-economics/",
+    "title": "Kimi K3, Qwen 3.8, and Anthropic's (Potential) Unravelling"
   },
   {
     "source": "hn",
     "url": "https://www.historytoday.com/miscellanies/satans-19th-century-bank-note",
-    "title": "Satan's 19th-Century Bank Note"
+    "title": "Satan's 19th-Century Bank Note (2017)"
   },
   {
     "source": "hn",
-    "url": "https://moisttowelettemuseum.com/",
-    "title": "Moist Towelette Museum"
+    "url": "https://www.newyorker.com/science/annals-of-artificial-intelligence/there-is-no-ai",
+    "title": "Jaron Lanier: there is no AI (2023)"
   },
   {
     "source": "hn",
-    "url": "https://hidden-phenomena.com/articles/rh",
-    "title": "What does the Riemann zeta function have to do with the distribution of primes?"
+    "url": "https://extensionranker.com/blog/chrome-extension-title-changes-rankings",
+    "title": "I Tracked 997 Chrome Extensions That Changed Their Titles"
+  },
+  {
+    "source": "hn",
+    "url": "https://werd.io/american-ai-is-locked-down-and-proprietary-its-losing/",
+    "title": "American AI is locked down and proprietary. It's losing"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.soofi.info/",
+    "title": "Soofi – Sovereign Open Source Foundation Models"
+  },
+  {
+    "source": "hn",
+    "url": "https://wren.wtf/shower-thoughts/stop-using-opencode/",
+    "title": "Annoying and alarming things about OpenCode"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.newyorker.com/culture/the-weekend-essay/the-voice-of-google",
+    "title": "The Voice of Google"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.nycsubway.org/wiki/Subway_Signals%3A_A_Complete_Guide",
+    "title": "NYC Subway Signals: A Complete Guide"
   },
   {
     "source": "hn",
@@ -56,33 +91,13 @@
   },
   {
     "source": "hn",
-    "url": "https://blog.andr2i.com/posts/2026-07-06-eliminating-go-bound-checks-with-unsafe",
-    "title": "Eliminating Go bounds checks with unsafe"
+    "url": "https://hidden-phenomena.com/articles/rh",
+    "title": "What does the Riemann zeta function have to do with the distribution of primes?"
   },
   {
     "source": "hn",
-    "url": "https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/",
-    "title": "Claude Code uses Bun written in Rust now"
-  },
-  {
-    "source": "hn",
-    "url": "https://chipweinberger.com/articles/20260719-hardware-is-not-so-hard",
-    "title": "What I learned selling 2,500 MIDI recorders: Hardware is not so hard"
-  },
-  {
-    "source": "hn",
-    "url": "https://robotics.xiaomi.com/xiaomi-robotics-1.html",
-    "title": "Xiaomi-Robotics-1"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.theregister.com/columnists/2026/07/20/airbus-takes-flight-from-aws-what-happens-next-is-critical/5274109",
-    "title": "Airbus Takes Flight from AWS"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.openculture.com/2026/07/free-photos-from-john-margolies-archive-of-americana-architecture.html",
-    "title": "11,700 Free Photos from John Margolies' Archive of Americana Architecture"
+    "url": "https://satoshi7190.github.io/Shinjuku-indoor-threejs-demo/",
+    "title": "Shinjuku Station in 3D"
   },
   {
     "source": "lobsters",
@@ -96,18 +111,18 @@
   },
   {
     "source": "lobsters",
-    "url": "https://turtleware.eu/posts/Building-an-AmigaOS-Development-Environment-in-2026.html",
-    "title": "Building an AmigaOS Development Environment in 2026"
-  },
-  {
-    "source": "lobsters",
     "url": "https://gitolite.com/gitolite/index.html",
     "title": "Gitolite"
   },
   {
     "source": "lobsters",
-    "url": "https://cagire.raphaelforment.fr",
-    "title": "Cagire - Forth-based live coding sequencer"
+    "url": "https://turtleware.eu/posts/Building-an-AmigaOS-Development-Environment-in-2026.html",
+    "title": "Building an AmigaOS Development Environment in 2026"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://www.pillar.security/blog/the-week-of-sandbox-escapes",
+    "title": "7 Sandbox Escape Vulnerabilities Across 4 Coding Agent Vendors"
   },
   {
     "source": "lobsters",
@@ -116,13 +131,18 @@
   },
   {
     "source": "lobsters",
-    "url": "https://sgt.hootr.club/blog/home-server-rebirth/",
-    "title": "The death and rebirth of my home server"
+    "url": "https://cagire.raphaelforment.fr",
+    "title": "Cagire - Forth-based live coding sequencer"
   },
   {
     "source": "lobsters",
-    "url": "https://dependablec.org/",
-    "title": "Dependable C"
+    "url": "https://drops.dagstuhl.de/storage/00lipics/lipics-vol263-ecoop2023/LIPIcs.ECOOP.2023.39/LIPIcs.ECOOP.2023.39.pdf",
+    "title": "Rust for Morello: Always-On Memory Safety, Even in Unsafe Code"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://sgt.hootr.club/blog/home-server-rebirth/",
+    "title": "The death and rebirth of my home server"
   },
   {
     "source": "lobsters",
@@ -133,6 +153,21 @@
     "source": "lobsters",
     "url": "https://mccd.space/git/thunderbird-patch-review/file/README.html.html",
     "title": "Git email patch review addon for Thunderbird"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://dependablec.org/",
+    "title": "Dependable C"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://www.basis.ai/blog/verified-nftables/",
+    "title": "Using LLM-based Verification to Eliminate Bugs in Linux's Network Stack"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://mlab.taik.fi/~kkallio/antialiasing/EdgeFlagAA.pdf",
+    "title": "Scanline edge-flag algorithm for antialiasing"
   },
   {
     "source": "lobsters",
@@ -151,23 +186,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://mlab.taik.fi/~kkallio/antialiasing/EdgeFlagAA.pdf",
-    "title": "Scanline edge-flag algorithm for antialiasing"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://softwaremaxims.com/blog/reviewing-ai-code",
-    "title": "Reviewing AI Code Is Not A Viable Argument (2025)"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://negroniventurestudios.com/2026/07/18/the-computer-at-the-bottom-of-a-canal/",
-    "title": "The computer at the bottom of a canal"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://tangled.org/gleam.run/gleam",
-    "title": "Gleam has mirrored its source code on tangled (an AT-protocol based forge)"
+    "url": "https://fil-c.org/invisicaps",
+    "title": "InvisiCaps: The Fil-C Capability Model"
   },
   {
     "source": "pinboard",
