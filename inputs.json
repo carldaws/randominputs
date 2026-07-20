@@ -1,8 +1,18 @@
 [
   {
     "source": "hn",
-    "url": "https://robotics.xiaomi.com/xiaomi-robotics-1.html",
-    "title": "Xiaomi-Robotics-1"
+    "url": "https://slcyber.io/research-center/exploit-brokers-pay-500000-for-a-wordpress-rce-i-found-one-with-gpt5-6/",
+    "title": "Exploit brokers pay $500k for WordPress RCEs. I found one with GPT5.6 and $25"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.theregister.com/columnists/2026/07/20/airbus-takes-flight-from-aws-what-happens-next-is-critical/5274109",
+    "title": "Airbus Takes Flight from AWS"
+  },
+  {
+    "source": "hn",
+    "url": "https://blog.andr2i.com/posts/2026-07-06-eliminating-go-bound-checks-with-unsafe",
+    "title": "Eliminating Go bounds checks with unsafe"
   },
   {
     "source": "hn",
@@ -11,13 +21,23 @@
   },
   {
     "source": "hn",
+    "url": "https://chipweinberger.com/articles/20260719-hardware-is-not-so-hard",
+    "title": "What I learned selling 2,500 MIDI recorders: Hardware is not so hard"
+  },
+  {
+    "source": "hn",
+    "url": "https://robotics.xiaomi.com/xiaomi-robotics-1.html",
+    "title": "Xiaomi-Robotics-1"
+  },
+  {
+    "source": "hn",
     "url": "https://www.labrujulaverde.com/en/2026/07/sealed-tomb-of-a-high-official-or-priest-filled-with-paintings-and-inscriptions-discovered-on-luxors-west-bank/",
     "title": "Sealed tomb filled with paintings and inscriptions discovered in Egypt"
   },
   {
     "source": "hn",
-    "url": "https://chipweinberger.com/articles/20260719-hardware-is-not-so-hard",
-    "title": "What I learned selling 2,500 MIDI recorders: Hardware is not so hard"
+    "url": "https://hidden-phenomena.com/articles/rh",
+    "title": "What does the Riemann zeta function have to do with the distribution of primes?"
   },
   {
     "source": "hn",
@@ -26,28 +46,8 @@
   },
   {
     "source": "hn",
-    "url": "https://fortune.com/2026/07/19/data-center-eminent-domain-public-use/",
-    "title": "Power companies are using eminent domain to seize land for data centers"
-  },
-  {
-    "source": "hn",
-    "url": "https://mjtsai.com/blog/2026/07/17/eu-exempts-apple-watch-and-airpods-from-battery-removal-requirement/",
-    "title": "EU Exempts Apple Watch and AirPods from Battery Removal Requirements"
-  },
-  {
-    "source": "hn",
-    "url": "https://pgadey.ca/notes/talk-relatorium-2026/",
-    "title": "Talk: The Art of Braiding Algorithms"
-  },
-  {
-    "source": "hn",
     "url": "https://retrogamecoders.com/c64-basic-dungeon-part8/",
     "title": "C64 Basic Dungeon Crawler: Goblin Attack (C64 Basic Part 8)"
-  },
-  {
-    "source": "hn",
-    "url": "https://raymii.org/s/blog/Intel_Itanium_IA-64-Emulator_that_boots_Windows.html",
-    "title": "A new Intel Itanium (IA-64) emulator that boots Windows"
   },
   {
     "source": "hn",
@@ -66,6 +66,16 @@
   },
   {
     "source": "lobsters",
+    "url": "https://mccd.space/posts/26-06-29/simple-git-ci",
+    "title": "Minimal Git CI using hooks"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://turtleware.eu/posts/Building-an-AmigaOS-Development-Environment-in-2026.html",
+    "title": "Building an AmigaOS Development Environment in 2026"
+  },
+  {
+    "source": "lobsters",
     "url": "https://sgt.hootr.club/blog/home-server-rebirth/",
     "title": "The death and rebirth of my home server"
   },
@@ -76,13 +86,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://mccd.space/git/thunderbird-patch-review/file/README.html.html",
-    "title": "Git email patch review addon for Thunderbird"
+    "url": "https://computer.rip/2026-07-19-email-encryption.html",
+    "title": "email encryption"
   },
   {
     "source": "lobsters",
-    "url": "https://computer.rip/2026-07-19-email-encryption.html",
-    "title": "email encryption"
+    "url": "https://mccd.space/git/thunderbird-patch-review/file/README.html.html",
+    "title": "Git email patch review addon for Thunderbird"
   },
   {
     "source": "lobsters",
@@ -96,23 +106,13 @@
   },
   {
     "source": "lobsters",
+    "url": "https://raymii.org/s/blog/Intel_Itanium_IA-64-Emulator_that_boots_Windows.html",
+    "title": "More emulation goodness, an Intel Itanium (IA-64) emulator that boots Windows"
+  },
+  {
+    "source": "lobsters",
     "url": "https://nullenvk.pl/posts/02-snac2-json/",
     "title": "Fuzzing for fun - unauthenticated denial of service in snac2"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://softwaremaxims.com/blog/reviewing-ai-code",
-    "title": "Reviewing AI Code Is Not A Viable Argument (2025)"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://mccd.space/posts/26-06-29/simple-git-ci",
-    "title": "Minimal Git CI using hooks"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://negroniventurestudios.com/2026/07/18/the-computer-at-the-bottom-of-a-canal/",
-    "title": "The computer at the bottom of a canal"
   },
   {
     "source": "lobsters",
@@ -121,13 +121,18 @@
   },
   {
     "source": "lobsters",
-    "url": "https://tangled.org/gleam.run/gleam",
-    "title": "Gleam has mirrored its source code on tangled (an AT-protocol based forge)"
+    "url": "https://softwaremaxims.com/blog/reviewing-ai-code",
+    "title": "Reviewing AI Code Is Not A Viable Argument (2025)"
   },
   {
     "source": "lobsters",
-    "url": "https://hashcloak.com/blog/tutorial-introduction-to-formal-verification-with-lean-(part-1)",
-    "title": "Introduction to Formal Verification with Lean (Part 1)"
+    "url": "https://negroniventurestudios.com/2026/07/18/the-computer-at-the-bottom-of-a-canal/",
+    "title": "The computer at the bottom of a canal"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://tangled.org/gleam.run/gleam",
+    "title": "Gleam has mirrored its source code on tangled (an AT-protocol based forge)"
   },
   {
     "source": "pinboard",
@@ -198,6 +203,11 @@
     "source": "pinboard",
     "url": "https://www.tryai.dev/blog/ai-music-video-arena-claude-vs-gpt-5.6",
     "title": "$100 AI Music Video: Claude Fable 5 vs. GPT-5.6 Sol · TryAI"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://amigafreeware.downer.tech/",
+    "title": "Amiga Freeware Archive"
   },
   {
     "source": "pinboard",
