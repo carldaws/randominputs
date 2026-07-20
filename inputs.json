@@ -1,13 +1,58 @@
 [
   {
     "source": "hn",
+    "url": "https://wren.wtf/shower-thoughts/stop-using-opencode/",
+    "title": "Stop Using OpenCode"
+  },
+  {
+    "source": "hn",
+    "url": "https://airport.apunen.com/",
+    "title": "Airport Simulator"
+  },
+  {
+    "source": "hn",
     "url": "https://slcyber.io/research-center/exploit-brokers-pay-500000-for-a-wordpress-rce-i-found-one-with-gpt5-6/",
     "title": "Exploit brokers pay $500k for WordPress RCEs. I found one with GPT5.6 and $25"
   },
   {
     "source": "hn",
-    "url": "https://www.theregister.com/columnists/2026/07/20/airbus-takes-flight-from-aws-what-happens-next-is-critical/5274109",
-    "title": "Airbus Takes Flight from AWS"
+    "url": "https://news.risky.biz/risky-bulletin-hacker-wipes-romanias-entire-land-registry-database/",
+    "title": "Hacker wipes Romania's land registry database"
+  },
+  {
+    "source": "hn",
+    "url": "https://edri.org/our-work/the-eu-is-about-to-sell-our-most-sensitive-data-to-the-us-for-visa-free-travel/",
+    "title": "The EU is about to sell our most sensitive data to the US for visa-free travel"
+  },
+  {
+    "source": "hn",
+    "url": "https://yang-ai-lab.github.io/Inertia-1/",
+    "title": "Inertia-1: An Open Exploration to a Unified Motion Foundation Model"
+  },
+  {
+    "source": "hn",
+    "url": "https://etbe.coker.com.au/2026/07/19/ecc-ddr5/",
+    "title": "ECC and DDR5"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.historytoday.com/miscellanies/satans-19th-century-bank-note",
+    "title": "Satan's 19th-Century Bank Note"
+  },
+  {
+    "source": "hn",
+    "url": "https://moisttowelettemuseum.com/",
+    "title": "Moist Towelette Museum"
+  },
+  {
+    "source": "hn",
+    "url": "https://hidden-phenomena.com/articles/rh",
+    "title": "What does the Riemann zeta function have to do with the distribution of primes?"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.labrujulaverde.com/en/2026/07/sealed-tomb-of-a-high-official-or-priest-filled-with-paintings-and-inscriptions-discovered-on-luxors-west-bank/",
+    "title": "Sealed tomb filled with paintings and inscriptions discovered in Egypt"
   },
   {
     "source": "hn",
@@ -31,13 +76,8 @@
   },
   {
     "source": "hn",
-    "url": "https://www.labrujulaverde.com/en/2026/07/sealed-tomb-of-a-high-official-or-priest-filled-with-paintings-and-inscriptions-discovered-on-luxors-west-bank/",
-    "title": "Sealed tomb filled with paintings and inscriptions discovered in Egypt"
-  },
-  {
-    "source": "hn",
-    "url": "https://hidden-phenomena.com/articles/rh",
-    "title": "What does the Riemann zeta function have to do with the distribution of primes?"
+    "url": "https://www.theregister.com/columnists/2026/07/20/airbus-takes-flight-from-aws-what-happens-next-is-critical/5274109",
+    "title": "Airbus Takes Flight from AWS"
   },
   {
     "source": "hn",
@@ -45,24 +85,9 @@
     "title": "11,700 Free Photos from John Margolies' Archive of Americana Architecture"
   },
   {
-    "source": "hn",
-    "url": "https://retrogamecoders.com/c64-basic-dungeon-part8/",
-    "title": "C64 Basic Dungeon Crawler: Goblin Attack (C64 Basic Part 8)"
-  },
-  {
-    "source": "hn",
-    "url": "https://cagire.raphaelforment.fr",
-    "title": "Cagire: Live Coding in Forth"
-  },
-  {
     "source": "lobsters",
     "url": "https://tinkering.xyz/bedctl/",
     "title": "I wrote an API client for my water-cooled bed"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://news.ycombinator.com/item?id=48973869",
-    "title": "Claude found a counterexample to the Jacobian Conjecture"
   },
   {
     "source": "lobsters",
@@ -76,6 +101,21 @@
   },
   {
     "source": "lobsters",
+    "url": "https://gitolite.com/gitolite/index.html",
+    "title": "Gitolite"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://cagire.raphaelforment.fr",
+    "title": "Cagire - Forth-based live coding sequencer"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://computer.rip/2026-07-19-email-encryption.html",
+    "title": "email encryption"
+  },
+  {
+    "source": "lobsters",
     "url": "https://sgt.hootr.club/blog/home-server-rebirth/",
     "title": "The death and rebirth of my home server"
   },
@@ -86,8 +126,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://computer.rip/2026-07-19-email-encryption.html",
-    "title": "email encryption"
+    "url": "https://nullenvk.pl/posts/02-snac2-json/",
+    "title": "Fuzzing for fun - unauthenticated denial of service in snac2"
   },
   {
     "source": "lobsters",
@@ -108,11 +148,6 @@
     "source": "lobsters",
     "url": "https://raymii.org/s/blog/Intel_Itanium_IA-64-Emulator_that_boots_Windows.html",
     "title": "More emulation goodness, an Intel Itanium (IA-64) emulator that boots Windows"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://nullenvk.pl/posts/02-snac2-json/",
-    "title": "Fuzzing for fun - unauthenticated denial of service in snac2"
   },
   {
     "source": "lobsters",
