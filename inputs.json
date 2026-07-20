@@ -1,13 +1,8 @@
 [
   {
     "source": "hn",
-    "url": "https://raymii.org/s/blog/Intel_Itanium_IA-64-Emulator_that_boots_Windows.html",
-    "title": "A new Intel Itanium (IA-64) emulator that boots Windows"
-  },
-  {
-    "source": "hn",
-    "url": "https://chipweinberger.com/articles/20260719-hardware-is-not-so-hard",
-    "title": "What I learned selling 2,500 MIDI recorders: Hardware is not so hard"
+    "url": "https://fortune.com/2026/07/19/data-center-eminent-domain-public-use/",
+    "title": "Power companies are using eminent domain to seize land for data centers"
   },
   {
     "source": "hn",
@@ -16,8 +11,8 @@
   },
   {
     "source": "hn",
-    "url": "https://pgadey.ca/notes/talk-relatorium-2026/",
-    "title": "Talk: The Art of Braiding Algorithms"
+    "url": "https://chipweinberger.com/articles/20260719-hardware-is-not-so-hard",
+    "title": "What I learned selling 2,500 MIDI recorders: Hardware is not so hard"
   },
   {
     "source": "hn",
@@ -26,8 +21,13 @@
   },
   {
     "source": "hn",
-    "url": "https://thenextweb.com/news/ai-advice-suppresses-critical-thinking-wrong-answers-study",
-    "title": "AI advice made people less accurate but more confident – sudy"
+    "url": "https://pgadey.ca/notes/talk-relatorium-2026/",
+    "title": "Talk: The Art of Braiding Algorithms"
+  },
+  {
+    "source": "hn",
+    "url": "https://raymii.org/s/blog/Intel_Itanium_IA-64-Emulator_that_boots_Windows.html",
+    "title": "A new Intel Itanium (IA-64) emulator that boots Windows"
   },
   {
     "source": "hn",
@@ -41,23 +41,23 @@
   },
   {
     "source": "hn",
-    "url": "https://www.scopeofwork.net/ise-jingu-and-the-pyramid-of-enabling-technologies/",
-    "title": "Ise Jingu and the Pyramid of Enabling Technologies (2021)"
+    "url": "https://thenextweb.com/news/ai-advice-suppresses-critical-thinking-wrong-answers-study",
+    "title": "AI advice made people less accurate but more confident – sudy"
   },
   {
-    "source": "hn",
+    "source": "lobsters",
     "url": "https://sgt.hootr.club/blog/home-server-rebirth/",
     "title": "The death and rebirth of my home server"
   },
   {
     "source": "lobsters",
-    "url": "https://abhin4v.github.io/shake-blog/",
-    "title": "Shake Blog"
+    "url": "https://dependablec.org/",
+    "title": "Dependable C"
   },
   {
     "source": "lobsters",
-    "url": "https://dependablec.org/",
-    "title": "Dependable C"
+    "url": "https://abhin4v.github.io/shake-blog/",
+    "title": "Shake Blog"
   },
   {
     "source": "lobsters",
@@ -73,6 +73,11 @@
     "source": "lobsters",
     "url": "https://negroniventurestudios.com/2026/07/18/the-computer-at-the-bottom-of-a-canal/",
     "title": "The computer at the bottom of a canal"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://pointieststick.com/2026/07/19/whos-responsible-for-bug-reports-on-old-software-versions/",
+    "title": "Who’s responsible for bug reports on old software versions?"
   },
   {
     "source": "lobsters",
@@ -98,11 +103,6 @@
     "source": "lobsters",
     "url": "https://wp2shell.com/",
     "title": "wp2shell: Pre Authentication RCE in WordPress Core"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://maurycyz.com/projects/bad_jpeg/",
-    "title": "Regressive JPEGs"
   },
   {
     "source": "pinboard",
@@ -178,6 +178,11 @@
     "source": "pinboard",
     "url": "https://www.pigeonsandplanes.com/read/music-piracy-what-cd-oink-nine-inch-nails-streaming",
     "title": "The Lost Joy of Music Piracy: WhatCD, Oink, and Spotify | Pigeons and Planes"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://maurycyz.com/projects/bad_jpeg/",
+    "title": "Regressive JPEGs: (Maurycy's blog)"
   },
   {
     "source": "pinboard",
