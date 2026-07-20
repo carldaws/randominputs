@@ -2,7 +2,7 @@
   {
     "source": "hn",
     "url": "https://werd.io/american-ai-is-locked-down-and-proprietary-its-losing/",
-    "title": "China's open-weights AI strategy is winning"
+    "title": "China’s open-weights AI strategy is winning"
   },
   {
     "source": "hn",
@@ -16,13 +16,13 @@
   },
   {
     "source": "hn",
-    "url": "https://news.risky.biz/risky-bulletin-hacker-wipes-romanias-entire-land-registry-database/",
-    "title": "Hacker wipes Romania's land registry database"
+    "url": "https://xenaproject.wordpress.com/2026/07/20/human-mathematicians-are-being-outcounterexampled/",
+    "title": "Human mathematicians are being outcounterexampled"
   },
   {
     "source": "hn",
-    "url": "https://xenaproject.wordpress.com/2026/07/20/human-mathematicians-are-being-outcounterexampled/",
-    "title": "Human mathematicians are being outcounterexampled"
+    "url": "https://news.risky.biz/risky-bulletin-hacker-wipes-romanias-entire-land-registry-database/",
+    "title": "Hacker wipes Romania's land registry database"
   },
   {
     "source": "hn",
@@ -36,8 +36,8 @@
   },
   {
     "source": "hn",
-    "url": "https://nothings.org/gamedev/ssao/",
-    "title": "Corners Don't Look Like That: Regarding Screenspace Ambient Occlusion (2012)"
+    "url": "https://stratechery.com/2026/whos-afraid-of-chinese-models/",
+    "title": "Who's Afraid of Chinese Models?"
   },
   {
     "source": "hn",
@@ -46,13 +46,38 @@
   },
   {
     "source": "hn",
+    "url": "https://nothings.org/gamedev/ssao/",
+    "title": "Corners Don't Look Like That: Regarding Screenspace Ambient Occlusion (2012)"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.scottrlarson.com/presentations/overcoming-surveillance-capitalism-with-awareness/",
+    "title": "The Power of Awareness: Overcoming Surveillance Capitalism"
+  },
+  {
+    "source": "hn",
     "url": "https://hypr.land/news/update55/",
     "title": "Hyprland 0.55 announced the switch to Lua for its config files"
   },
   {
     "source": "hn",
+    "url": "https://stencil.so/blog/prewalk",
+    "title": "You only need the frontier model for one single edit"
+  },
+  {
+    "source": "hn",
+    "url": "https://numerlab.org/2025/07/20/bashumerate-enumerator/",
+    "title": "I wrote an bash enumerator because I was sick of xargs"
+  },
+  {
+    "source": "hn",
+    "url": "https://vincentwoo.com/3d/grace_cathedral/",
+    "title": "Show HN: Immersive Gaussian Splat tour of grace cathedral, San Francisco"
+  },
+  {
+    "source": "hn",
     "url": "https://var0.xyz/posts/perfection-is-not-over-engineering.html",
-    "title": "Perfection Is Not Over-Engineering"
+    "title": "Perfection is not over-engineering"
   },
   {
     "source": "hn",
@@ -61,13 +86,13 @@
   },
   {
     "source": "hn",
-    "url": "https://www.newyorker.com/culture/the-weekend-essay/the-voice-of-google",
-    "title": "The Voice of Google"
+    "url": "https://satoshi7190.github.io/Shinjuku-indoor-threejs-demo/",
+    "title": "Shinjuku Station in 3D"
   },
   {
     "source": "hn",
-    "url": "https://satoshi7190.github.io/Shinjuku-indoor-threejs-demo/",
-    "title": "Shinjuku Station in 3D"
+    "url": "https://www.newyorker.com/culture/the-weekend-essay/the-voice-of-google",
+    "title": "The Voice of Google"
   },
   {
     "source": "hn",
@@ -76,23 +101,13 @@
   },
   {
     "source": "hn",
-    "url": "https://refactoringenglish.com/blog/why-i-stopped-creating-content/",
-    "title": "I Stopped \"Creating Content\""
+    "url": "https://www.newyorker.com/science/annals-of-artificial-intelligence/there-is-no-ai",
+    "title": "Mythologizing AI makes it more likely that we’ll fail to operate it well (2023)"
   },
   {
     "source": "hn",
     "url": "https://etbe.coker.com.au/2026/07/19/ecc-ddr5/",
     "title": "ECC and DDR5"
-  },
-  {
-    "source": "hn",
-    "url": "https://edri.org/our-work/the-eu-is-about-to-sell-our-most-sensitive-data-to-the-us-for-visa-free-travel/",
-    "title": "The EU is about to sell our most sensitive data to the US for visa-free travel"
-  },
-  {
-    "source": "hn",
-    "url": "https://alexyang.dev/vim-ascii-art/",
-    "title": "Making ASCII Art in Vim"
   },
   {
     "source": "lobsters",
@@ -103,6 +118,11 @@
     "source": "lobsters",
     "url": "https://tinkering.xyz/bedctl/",
     "title": "I wrote an API client for my water-cooled bed"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://a.l3x.in/blog/welcome-to-my-forge/",
+    "title": "A deep dive into my Forgejo setup"
   },
   {
     "source": "lobsters",
@@ -121,11 +141,6 @@
   },
   {
     "source": "lobsters",
-    "url": "https://a.l3x.in/blog/welcome-to-my-forge/",
-    "title": "A deep dive into my Forgejo setup"
-  },
-  {
-    "source": "lobsters",
     "url": "https://www.pillar.security/blog/the-week-of-sandbox-escapes",
     "title": "7 Sandbox Escape Vulnerabilities Across 4 Coding Agent Vendors"
   },
@@ -136,8 +151,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://drops.dagstuhl.de/storage/00lipics/lipics-vol263-ecoop2023/LIPIcs.ECOOP.2023.39/LIPIcs.ECOOP.2023.39.pdf",
-    "title": "Rust for Morello: Always-On Memory Safety, Even in Unsafe Code"
+    "url": "https://rickcarlino.com/notes/p2p/how-gnutella-scaled-to-handle-query-traffic.html",
+    "title": "How Gnutella Scaled to Handle Query Traffic"
   },
   {
     "source": "lobsters",
@@ -146,13 +161,28 @@
   },
   {
     "source": "lobsters",
-    "url": "https://cagire.raphaelforment.fr",
-    "title": "Cagire - Forth-based live coding sequencer"
+    "url": "https://drops.dagstuhl.de/storage/00lipics/lipics-vol263-ecoop2023/LIPIcs.ECOOP.2023.39/LIPIcs.ECOOP.2023.39.pdf",
+    "title": "Rust for Morello: Always-On Memory Safety, Even in Unsafe Code"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://mathworld.wolfram.com/JacobianConjecture.html",
+    "title": "Jacobian Conjecture from Wolfram MathWorld"
   },
   {
     "source": "lobsters",
     "url": "https://1day.dev/posts/linux-kernel-0day.html",
     "title": "A Linux Kernel 0-day Journey - From a limited UAF to Physical Memory R/W"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://cagire.raphaelforment.fr",
+    "title": "Cagire - Forth-based live coding sequencer"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://goalprogramming.info/personal-anthology.html",
+    "title": "Personal Anthology of Goal Code"
   },
   {
     "source": "lobsters",
@@ -166,132 +196,12 @@
   },
   {
     "source": "lobsters",
-    "url": "https://mccd.space/git/thunderbird-patch-review/file/README.html.html",
-    "title": "Git email patch review addon for Thunderbird"
+    "url": "https://www.aikido.dev/blog/sleepergem-rubygems-supply-chain-attack",
+    "title": "SleeperGem: RubyGems supply chain attack targets dormant maintainer accounts"
   },
   {
     "source": "lobsters",
-    "url": "https://www.basis.ai/blog/verified-nftables/",
-    "title": "Using LLM-based Verification to Eliminate Bugs in Linux's Network Stack"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://goalprogramming.info/personal-anthology.html",
-    "title": "Personal Anthology of Goal Code"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://dataintellect.com/blog/who-needs-an-rdb/",
-    "title": "Who needs a real-time database?"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://abhin4v.github.io/shake-blog/",
-    "title": "Shake Blog"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://jvns.ca/blog/2026/07/17/learning-about-running-sqlite/",
-    "title": "Learning a few things about running SQLite"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://cuelume-site.pages.dev/",
-    "title": "Cuelume — interaction sounds for the web"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://ykdojo.github.io/claude-controls-mac/",
-    "title": "How to set up your spare Mac for Claude Code to fully control - a step-by-step guide | claude-controls-mac"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://stateofopensource.ai/",
-    "title": "The State of Open Source AI (by Mozilla)"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://workshop.cjpais.com/projects/transcribe-cpp",
-    "title": "Project - transcribe.cpp"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://clocks.dev/",
-    "title": "Clocks.dev"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://immersivemath.com/ila/",
-    "title": "Immersive Linear Algebra - The world's first linear algebra book with fully interactive figures"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://maurycyz.com/projects/bad_jpeg/",
-    "title": "Regressive JPEGs: (Maurycy's blog)"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://sinja.io/blog/data-landscape-guide-for-developers",
-    "title": "Guide to data tools landscape for developers · OlegWock"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.mixfont.com/experiments/decoy-font",
-    "title": "Decoy Font: A TTF font that hides what you type"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://thenextweb.com/news/ai-advice-suppresses-critical-thinking-wrong-answers-study",
-    "title": "AI advice made people three times less accurate but twice as confident, researchers found"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://pydantic.dev/articles/the-human-in-the-loop-is-tired",
-    "title": "The Human-in-the-Loop is Tired | Pydantic"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.kimi.com/blog/kimi-k3",
-    "title": "Kimi K3 Tech Blog: Open Frontier Intelligence"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.tryai.dev/blog/ai-music-video-arena-claude-vs-gpt-5.6",
-    "title": "$100 AI Music Video: Claude Fable 5 vs. GPT-5.6 Sol · TryAI"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://amigafreeware.downer.tech/",
-    "title": "Amiga Freeware Archive"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://dustycloud.org/blog/faulty-towers-vibe-sickness-and-the-vibe-bobsled/",
-    "title": "Faulty Towers, vibe sickness, and the vibe bobsled"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.theocharis.dev/blog/llm-critics-are-right-i-use-llms-anyway/",
-    "title": "The LLM Critics Are Right. I Use LLMs Anyway. | Jeremy Theocharis"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://tvexplorer.live/",
-    "title": "TV Explorer"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.whatcable.uk/",
-    "title": "WhatCable: Know what your USB-C cable can really do"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://velvetshark.com/ai-company-logos-that-look-like-buttholes",
-    "title": "Why do AI company logos look like buttholes?"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://haxxorwpm.0s.is/",
-    "title": "HaxxorWPM"
+    "url": "https://dependablec.org/",
+    "title": "Dependable C"
   }
 ]
