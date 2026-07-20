@@ -11,18 +11,28 @@
   },
   {
     "source": "hn",
-    "url": "https://nothings.org/gamedev/ssao/",
-    "title": "Corners Don't Look Like That: Regarding Screenspace Ambient Occlusion (2012)"
+    "url": "https://hypr.land/news/update55/",
+    "title": "Hyprland 0.55 announced the switch to Lua for its config files"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.kimi.com/products/kimi-work",
+    "title": "Kimi Work"
+  },
+  {
+    "source": "hn",
+    "url": "https://jelly-ui.com/",
+    "title": "Jelly UI: Soft-body physics for native HTML form controls"
   },
   {
     "source": "hn",
     "url": "https://unslop.run/blog/measuring-ai-writing-on-arxiv",
-    "title": "Over 30% of new ArXiv submissions now read as AI-written"
+    "title": "How we measured AI writing across arXiv, and where the measurement breaks"
   },
   {
     "source": "hn",
-    "url": "https://www.expats.cz/czech-news/article/czech-news-in-brief-for-july-20-2026-monday-top-afternoon-headlines",
-    "title": "Czechia moves to ban mobile phones in schools from September 2027"
+    "url": "https://nothings.org/gamedev/ssao/",
+    "title": "Corners Don't Look Like That: Regarding Screenspace Ambient Occlusion (2012)"
   },
   {
     "source": "hn",
@@ -31,8 +41,18 @@
   },
   {
     "source": "hn",
+    "url": "https://blaizzy.github.io/nativ/",
+    "title": "Nativ: Run frontier open models locally on your Mac"
+  },
+  {
+    "source": "hn",
     "url": "https://var0.xyz/posts/perfection-is-not-over-engineering.html",
     "title": "Perfection Is Not Over-Engineering"
+  },
+  {
+    "source": "hn",
+    "url": "https://eunomia.dev/blog/2026/07/15/ebpf-ai-agent-policy-enforcement/",
+    "title": "An Empirical Study: AI Agent Rules Need Context and Layered Enforcement"
   },
   {
     "source": "hn",
@@ -41,28 +61,23 @@
   },
   {
     "source": "hn",
-    "url": "https://slcyber.io/research-center/exploit-brokers-pay-500000-for-a-wordpress-rce-i-found-one-with-gpt5-6/",
-    "title": "Exploit brokers pay $500k for WordPress RCEs. I found one with GPT5.6 and $25"
-  },
-  {
-    "source": "hn",
     "url": "https://satoshi7190.github.io/Shinjuku-indoor-threejs-demo/",
     "title": "Shinjuku Station in 3D"
   },
   {
     "source": "hn",
-    "url": "https://refactoringenglish.com/blog/why-i-stopped-creating-content/",
-    "title": "I Stopped \"Creating Content\""
-  },
-  {
-    "source": "hn",
-    "url": "https://www.emergingtrajectories.com/lh/frontier-lab-economics/",
-    "title": "Kimi K3, Qwen 3.8, and Anthropic's (Potential) Unravelling"
+    "url": "https://slcyber.io/research-center/exploit-brokers-pay-500000-for-a-wordpress-rce-i-found-one-with-gpt5-6/",
+    "title": "Exploit brokers pay $500k for WordPress RCEs. I found one with GPT5.6 and $25"
   },
   {
     "source": "hn",
     "url": "https://edri.org/our-work/the-eu-is-about-to-sell-our-most-sensitive-data-to-the-us-for-visa-free-travel/",
     "title": "The EU is about to sell our most sensitive data to the US for visa-free travel"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.emergingtrajectories.com/lh/frontier-lab-economics/",
+    "title": "Kimi K3, Qwen 3.8, and Anthropic's (Potential) Unravelling"
   },
   {
     "source": "hn",
@@ -76,48 +91,8 @@
   },
   {
     "source": "hn",
-    "url": "https://www.historytoday.com/miscellanies/satans-19th-century-bank-note",
-    "title": "Satan's 19th-Century Bank Note (2017)"
-  },
-  {
-    "source": "hn",
-    "url": "https://wheesper.com/",
-    "title": "Show HN: Wheesper – Start an anonymous discussion with a link"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.soofi.info/",
-    "title": "Soofi – Sovereign Open Source Foundation Models"
-  },
-  {
-    "source": "hn",
-    "url": "https://blog.cloudflare.com/dnssec-nta-ede-33/",
-    "title": "Another Entry in the \"Stuff Im Glad Im Not Responsible for\" Ledger"
-  },
-  {
-    "source": "hn",
-    "url": "https://etbe.coker.com.au/2026/07/19/ecc-ddr5/",
-    "title": "ECC and DDR5"
-  },
-  {
-    "source": "hn",
-    "url": "https://wren.wtf/shower-thoughts/stop-using-opencode/",
-    "title": "Annoying and alarming things about OpenCode"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.dotnetperls.com/2026_7_18_tested-kimi-k3-coding",
-    "title": "Tested Kimi K3 for Coding"
-  },
-  {
-    "source": "hn",
-    "url": "https://hidden-phenomena.com/articles/rh",
-    "title": "What does the Riemann zeta function have to do with the distribution of primes?"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://tinkering.xyz/bedctl/",
-    "title": "I wrote an API client for my water-cooled bed"
+    "url": "https://refactoringenglish.com/blog/why-i-stopped-creating-content/",
+    "title": "I Stopped \"Creating Content\""
   },
   {
     "source": "lobsters",
@@ -126,13 +101,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://mccd.space/posts/26-06-29/simple-git-ci",
-    "title": "Minimal Git CI using hooks"
+    "url": "https://tinkering.xyz/bedctl/",
+    "title": "I wrote an API client for my water-cooled bed"
   },
   {
     "source": "lobsters",
-    "url": "https://turtleware.eu/posts/Building-an-AmigaOS-Development-Environment-in-2026.html",
-    "title": "Building an AmigaOS Development Environment in 2026"
+    "url": "https://mccd.space/posts/26-06-29/simple-git-ci",
+    "title": "Minimal Git CI using hooks"
   },
   {
     "source": "lobsters",
@@ -141,8 +116,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://computer.rip/2026-07-19-email-encryption.html",
-    "title": "email encryption"
+    "url": "https://turtleware.eu/posts/Building-an-AmigaOS-Development-Environment-in-2026.html",
+    "title": "Building an AmigaOS Development Environment in 2026"
   },
   {
     "source": "lobsters",
@@ -151,8 +126,23 @@
   },
   {
     "source": "lobsters",
+    "url": "https://a.l3x.in/blog/welcome-to-my-forge/",
+    "title": "A deep dive into my Forgejo setup"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://computer.rip/2026-07-19-email-encryption.html",
+    "title": "email encryption"
+  },
+  {
+    "source": "lobsters",
     "url": "https://drops.dagstuhl.de/storage/00lipics/lipics-vol263-ecoop2023/LIPIcs.ECOOP.2023.39/LIPIcs.ECOOP.2023.39.pdf",
     "title": "Rust for Morello: Always-On Memory Safety, Even in Unsafe Code"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://blog.cofree.coffee/2026-07-20-servant-auth-roles/",
+    "title": "Type Safe Servant Auth Roles"
   },
   {
     "source": "lobsters",
@@ -166,23 +156,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://a.l3x.in/blog/welcome-to-my-forge/",
-    "title": "A deep dive into my Forgejo setup"
-  },
-  {
-    "source": "lobsters",
     "url": "https://sgt.hootr.club/blog/home-server-rebirth/",
     "title": "The death and rebirth of my home server"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://blog.cofree.coffee/2026-07-20-servant-auth-roles/",
-    "title": "Type Safe Servant Auth Roles"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://mccd.space/git/thunderbird-patch-review/file/README.html.html",
-    "title": "Git email patch review addon for Thunderbird"
   },
   {
     "source": "lobsters",
@@ -191,8 +166,18 @@
   },
   {
     "source": "lobsters",
+    "url": "https://mccd.space/git/thunderbird-patch-review/file/README.html.html",
+    "title": "Git email patch review addon for Thunderbird"
+  },
+  {
+    "source": "lobsters",
     "url": "https://abhin4v.github.io/shake-blog/",
     "title": "Shake Blog"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://surfingcomplexity.blog/2024/11/03/extending-mvcc-to-be-serializable-in-tla/",
+    "title": "Extending MVCC to be serializable, in TLA+ (2024)"
   },
   {
     "source": "lobsters",
@@ -203,10 +188,5 @@
     "source": "lobsters",
     "url": "https://www.basis.ai/blog/verified-nftables/",
     "title": "Using LLM-based Verification to Eliminate Bugs in Linux's Network Stack"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://mlab.taik.fi/~kkallio/antialiasing/EdgeFlagAA.pdf",
-    "title": "Scanline edge-flag algorithm for antialiasing"
   }
 ]
