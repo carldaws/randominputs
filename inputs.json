@@ -1,13 +1,13 @@
 [
   {
     "source": "hn",
-    "url": "https://thenextweb.com/news/ai-advice-suppresses-critical-thinking-wrong-answers-study",
-    "title": "AI advice made people 3x less accurate but 2x confident, researchers found"
+    "url": "https://raymii.org/s/blog/Intel_Itanium_IA-64-Emulator_that_boots_Windows.html",
+    "title": "A new Intel Itanium (IA-64) emulator that boots Windows"
   },
   {
     "source": "hn",
-    "url": "https://raymii.org/s/blog/Intel_Itanium_IA-64-Emulator_that_boots_Windows.html",
-    "title": "A new Intel Itanium (IA-64) emulator that boots Windows"
+    "url": "https://chipweinberger.com/articles/20260719-hardware-is-not-so-hard",
+    "title": "What I learned selling 2,500 MIDI recorders: Hardware is not so hard"
   },
   {
     "source": "hn",
@@ -16,18 +16,18 @@
   },
   {
     "source": "hn",
-    "url": "https://www.passinote.app/",
-    "title": "Show HN: A canvas-based note taking and organizer app"
-  },
-  {
-    "source": "hn",
     "url": "https://pgadey.ca/notes/talk-relatorium-2026/",
     "title": "Talk: The Art of Braiding Algorithms"
   },
   {
     "source": "hn",
-    "url": "https://chipweinberger.com/articles/20260719-hardware-is-not-so-hard",
-    "title": "What I learned selling 2,500 MIDI recorders: Hardware is not so hard"
+    "url": "https://www.openculture.com/2026/07/free-photos-from-john-margolies-archive-of-americana-architecture.html",
+    "title": "11,700 Free Photos from John Margolies' Archive of Americana Architecture"
+  },
+  {
+    "source": "hn",
+    "url": "https://thenextweb.com/news/ai-advice-suppresses-critical-thinking-wrong-answers-study",
+    "title": "AI advice made people less accurate but more confident – sudy"
   },
   {
     "source": "hn",
@@ -41,18 +41,13 @@
   },
   {
     "source": "hn",
-    "url": "https://MasterGodzilla.github.io/posts/2025/07/muon-clip/",
-    "title": "From Muon to Gradient Clipping: Some Thoughts on QK Stability"
+    "url": "https://www.scopeofwork.net/ise-jingu-and-the-pyramid-of-enabling-technologies/",
+    "title": "Ise Jingu and the Pyramid of Enabling Technologies (2021)"
   },
   {
     "source": "hn",
     "url": "https://sgt.hootr.club/blog/home-server-rebirth/",
     "title": "The death and rebirth of my home server"
-  },
-  {
-    "source": "hn",
-    "url": "https://iain.so/infinities-impossibilities-and-the-man-in-the-white-linen-suit",
-    "title": "Infinities, impossibilities, and the man in the white linen suit"
   },
   {
     "source": "lobsters",
@@ -61,13 +56,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://mccd.space/git/thunderbird-patch-review/file/README.html.html",
-    "title": "Git email patch review addon for Thunderbird"
+    "url": "https://dependablec.org/",
+    "title": "Dependable C"
   },
   {
     "source": "lobsters",
-    "url": "https://dependablec.org/",
-    "title": "Dependable C"
+    "url": "https://mccd.space/git/thunderbird-patch-review/file/README.html.html",
+    "title": "Git email patch review addon for Thunderbird"
   },
   {
     "source": "lobsters",
@@ -96,23 +91,18 @@
   },
   {
     "source": "lobsters",
-    "url": "https://wp2shell.com/",
-    "title": "wp2shell: Pre Authentication RCE in WordPress Core"
-  },
-  {
-    "source": "lobsters",
     "url": "https://gitroot.dev/",
     "title": "GitRoot"
   },
   {
     "source": "lobsters",
-    "url": "https://maurycyz.com/projects/bad_jpeg/",
-    "title": "Regressive JPEGs"
+    "url": "https://wp2shell.com/",
+    "title": "wp2shell: Pre Authentication RCE in WordPress Core"
   },
   {
     "source": "lobsters",
-    "url": "https://pyjarrett.github.io/2026/07/18/software-and-ai-plotting-versus-pantsing.html",
-    "title": "Software and AI - Plotting vs. Pantsing"
+    "url": "https://maurycyz.com/projects/bad_jpeg/",
+    "title": "Regressive JPEGs"
   },
   {
     "source": "pinboard",
