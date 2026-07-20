@@ -1,13 +1,18 @@
 [
   {
     "source": "hn",
-    "url": "https://fortune.com/2026/07/19/data-center-eminent-domain-public-use/",
-    "title": "Power companies are using eminent domain to seize land for data centers"
+    "url": "https://robotics.xiaomi.com/xiaomi-robotics-1.html",
+    "title": "Xiaomi-Robotics-1"
   },
   {
     "source": "hn",
     "url": "https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/",
     "title": "Claude Code uses Bun written in Rust now"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.labrujulaverde.com/en/2026/07/sealed-tomb-of-a-high-official-or-priest-filled-with-paintings-and-inscriptions-discovered-on-luxors-west-bank/",
+    "title": "Sealed tomb filled with paintings and inscriptions discovered in Egypt"
   },
   {
     "source": "hn",
@@ -21,13 +26,18 @@
   },
   {
     "source": "hn",
-    "url": "https://pgadey.ca/notes/talk-relatorium-2026/",
-    "title": "Talk: The Art of Braiding Algorithms"
+    "url": "https://fortune.com/2026/07/19/data-center-eminent-domain-public-use/",
+    "title": "Power companies are using eminent domain to seize land for data centers"
   },
   {
     "source": "hn",
-    "url": "https://raymii.org/s/blog/Intel_Itanium_IA-64-Emulator_that_boots_Windows.html",
-    "title": "A new Intel Itanium (IA-64) emulator that boots Windows"
+    "url": "https://mjtsai.com/blog/2026/07/17/eu-exempts-apple-watch-and-airpods-from-battery-removal-requirement/",
+    "title": "EU Exempts Apple Watch and AirPods from Battery Removal Requirements"
+  },
+  {
+    "source": "hn",
+    "url": "https://pgadey.ca/notes/talk-relatorium-2026/",
+    "title": "Talk: The Art of Braiding Algorithms"
   },
   {
     "source": "hn",
@@ -36,13 +46,23 @@
   },
   {
     "source": "hn",
+    "url": "https://raymii.org/s/blog/Intel_Itanium_IA-64-Emulator_that_boots_Windows.html",
+    "title": "A new Intel Itanium (IA-64) emulator that boots Windows"
+  },
+  {
+    "source": "hn",
     "url": "https://cagire.raphaelforment.fr",
     "title": "Cagire: Live Coding in Forth"
   },
   {
-    "source": "hn",
-    "url": "https://thenextweb.com/news/ai-advice-suppresses-critical-thinking-wrong-answers-study",
-    "title": "AI advice made people less accurate but more confident – sudy"
+    "source": "lobsters",
+    "url": "https://tinkering.xyz/bedctl/",
+    "title": "I wrote an API client for my water-cooled bed"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://news.ycombinator.com/item?id=48973869",
+    "title": "Claude found a counterexample to the Jacobian Conjecture"
   },
   {
     "source": "lobsters",
@@ -56,13 +76,28 @@
   },
   {
     "source": "lobsters",
+    "url": "https://mccd.space/git/thunderbird-patch-review/file/README.html.html",
+    "title": "Git email patch review addon for Thunderbird"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://computer.rip/2026-07-19-email-encryption.html",
+    "title": "email encryption"
+  },
+  {
+    "source": "lobsters",
     "url": "https://abhin4v.github.io/shake-blog/",
     "title": "Shake Blog"
   },
   {
     "source": "lobsters",
-    "url": "https://mccd.space/git/thunderbird-patch-review/file/README.html.html",
-    "title": "Git email patch review addon for Thunderbird"
+    "url": "https://pointieststick.com/2026/07/19/whos-responsible-for-bug-reports-on-old-software-versions/",
+    "title": "Who’s responsible for bug reports on old software versions?"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://nullenvk.pl/posts/02-snac2-json/",
+    "title": "Fuzzing for fun - unauthenticated denial of service in snac2"
   },
   {
     "source": "lobsters",
@@ -71,13 +106,18 @@
   },
   {
     "source": "lobsters",
+    "url": "https://mccd.space/posts/26-06-29/simple-git-ci",
+    "title": "Minimal Git CI using hooks"
+  },
+  {
+    "source": "lobsters",
     "url": "https://negroniventurestudios.com/2026/07/18/the-computer-at-the-bottom-of-a-canal/",
     "title": "The computer at the bottom of a canal"
   },
   {
     "source": "lobsters",
-    "url": "https://pointieststick.com/2026/07/19/whos-responsible-for-bug-reports-on-old-software-versions/",
-    "title": "Who’s responsible for bug reports on old software versions?"
+    "url": "https://mlab.taik.fi/~kkallio/antialiasing/EdgeFlagAA.pdf",
+    "title": "Scanline edge-flag algorithm for antialiasing"
   },
   {
     "source": "lobsters",
@@ -90,39 +130,9 @@
     "title": "Introduction to Formal Verification with Lean (Part 1)"
   },
   {
-    "source": "lobsters",
-    "url": "https://pradyun.net/blog/metrics_matter.html",
-    "title": "Studying Linux Schedulers, and Why Metrics Matter"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://gitroot.dev/",
-    "title": "GitRoot"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://wp2shell.com/",
-    "title": "wp2shell: Pre Authentication RCE in WordPress Core"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://immersivemath.com/ila/",
-    "title": "Immersive Linear Algebra - The world's first linear algebra book with fully interactive figures"
-  },
-  {
     "source": "pinboard",
     "url": "https://jvns.ca/blog/2026/07/17/learning-about-running-sqlite/",
     "title": "Learning a few things about running SQLite"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.mixfont.com/experiments/decoy-font",
-    "title": "Decoy Font: A TTF font that hides what you type"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://stateofopensource.ai/",
-    "title": "The State of Open Source AI (by Mozilla)"
   },
   {
     "source": "pinboard",
@@ -131,58 +141,13 @@
   },
   {
     "source": "pinboard",
-    "url": "https://sinja.io/blog/data-landscape-guide-for-developers",
-    "title": "Guide to data tools landscape for developers · OlegWock"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://clocks.dev/",
-    "title": "Clocks.dev"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.kimi.com/blog/kimi-k3",
-    "title": "Kimi K3 Tech Blog: Open Frontier Intelligence"
-  },
-  {
-    "source": "pinboard",
     "url": "https://ykdojo.github.io/claude-controls-mac/",
     "title": "How to set up your spare Mac for Claude Code to fully control - a step-by-step guide | claude-controls-mac"
   },
   {
     "source": "pinboard",
-    "url": "https://mort.coffee/home/sqlite-editions/",
-    "title": "SQLite should have (Rust-style) editions - Mort's Ramblings"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://thinkingmachines.ai/news/introducing-inkling/",
-    "title": "Inkling: Our open-weights model - Thinking Machines Lab"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://pydantic.dev/articles/the-human-in-the-loop-is-tired",
-    "title": "The Human-in-the-Loop is Tired | Pydantic"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.theocharis.dev/blog/llm-critics-are-right-i-use-llms-anyway/",
-    "title": "The LLM Critics Are Right. I Use LLMs Anyway. | Jeremy Theocharis"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://clig.dev/",
-    "title": "CLI Guidelines"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.pigeonsandplanes.com/read/music-piracy-what-cd-oink-nine-inch-nails-streaming",
-    "title": "The Lost Joy of Music Piracy: WhatCD, Oink, and Spotify | Pigeons and Planes"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://maurycyz.com/projects/bad_jpeg/",
-    "title": "Regressive JPEGs: (Maurycy's blog)"
+    "url": "https://stateofopensource.ai/",
+    "title": "The State of Open Source AI (by Mozilla)"
   },
   {
     "source": "pinboard",
@@ -191,12 +156,77 @@
   },
   {
     "source": "pinboard",
-    "url": "https://www.ayush.digital/blog/the-memory-heist",
-    "title": "The Memory Heist"
+    "url": "https://clocks.dev/",
+    "title": "Clocks.dev"
   },
   {
     "source": "pinboard",
-    "url": "https://rtfeldman.com/rust-to-zig",
-    "title": "How Our Rust-to-Zig Rewrite is Going"
+    "url": "https://immersivemath.com/ila/",
+    "title": "Immersive Linear Algebra - The world's first linear algebra book with fully interactive figures"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://maurycyz.com/projects/bad_jpeg/",
+    "title": "Regressive JPEGs: (Maurycy's blog)"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://sinja.io/blog/data-landscape-guide-for-developers",
+    "title": "Guide to data tools landscape for developers · OlegWock"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.mixfont.com/experiments/decoy-font",
+    "title": "Decoy Font: A TTF font that hides what you type"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://thenextweb.com/news/ai-advice-suppresses-critical-thinking-wrong-answers-study",
+    "title": "AI advice made people three times less accurate but twice as confident, researchers found"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://pydantic.dev/articles/the-human-in-the-loop-is-tired",
+    "title": "The Human-in-the-Loop is Tired | Pydantic"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.kimi.com/blog/kimi-k3",
+    "title": "Kimi K3 Tech Blog: Open Frontier Intelligence"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.tryai.dev/blog/ai-music-video-arena-claude-vs-gpt-5.6",
+    "title": "$100 AI Music Video: Claude Fable 5 vs. GPT-5.6 Sol · TryAI"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://dustycloud.org/blog/faulty-towers-vibe-sickness-and-the-vibe-bobsled/",
+    "title": "Faulty Towers, vibe sickness, and the vibe bobsled"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.theocharis.dev/blog/llm-critics-are-right-i-use-llms-anyway/",
+    "title": "The LLM Critics Are Right. I Use LLMs Anyway. | Jeremy Theocharis"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://tvexplorer.live/",
+    "title": "TV Explorer"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.whatcable.uk/",
+    "title": "WhatCable: Know what your USB-C cable can really do"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://velvetshark.com/ai-company-logos-that-look-like-buttholes",
+    "title": "Why do AI company logos look like buttholes?"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://haxxorwpm.0s.is/",
+    "title": "HaxxorWPM"
   }
 ]
