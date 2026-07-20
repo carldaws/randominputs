@@ -1,13 +1,28 @@
 [
   {
     "source": "hn",
+    "url": "https://werd.io/american-ai-is-locked-down-and-proprietary-its-losing/",
+    "title": "China's open-weights AI strategy is winning"
+  },
+  {
+    "source": "hn",
     "url": "https://news.risky.biz/risky-bulletin-hacker-wipes-romanias-entire-land-registry-database/",
     "title": "Hacker wipes Romania's land registry database"
   },
   {
     "source": "hn",
     "url": "https://nothings.org/gamedev/ssao/",
-    "title": "Corners Don't Look Like That: Regarding Screenspace Ambient Occlusion"
+    "title": "Corners Don't Look Like That: Regarding Screenspace Ambient Occlusion (2012)"
+  },
+  {
+    "source": "hn",
+    "url": "https://unslop.run/blog/measuring-ai-writing-on-arxiv",
+    "title": "Over 30% of new ArXiv submissions now read as AI-written"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.expats.cz/czech-news/article/czech-news-in-brief-for-july-20-2026-monday-top-afternoon-headlines",
+    "title": "Czechia moves to ban mobile phones in schools from September 2027"
   },
   {
     "source": "hn",
@@ -21,8 +36,8 @@
   },
   {
     "source": "hn",
-    "url": "https://etbe.coker.com.au/2026/07/19/ecc-ddr5/",
-    "title": "ECC and DDR5"
+    "url": "https://www.newyorker.com/culture/the-weekend-essay/the-voice-of-google",
+    "title": "The Voice of Google"
   },
   {
     "source": "hn",
@@ -31,13 +46,13 @@
   },
   {
     "source": "hn",
-    "url": "https://edri.org/our-work/the-eu-is-about-to-sell-our-most-sensitive-data-to-the-us-for-visa-free-travel/",
-    "title": "The EU is about to sell our most sensitive data to the US for visa-free travel"
+    "url": "https://satoshi7190.github.io/Shinjuku-indoor-threejs-demo/",
+    "title": "Shinjuku Station in 3D"
   },
   {
     "source": "hn",
-    "url": "https://yang-ai-lab.github.io/Inertia-1/",
-    "title": "Inertia-1: An Open Exploration to a Unified Motion Foundation Model"
+    "url": "https://refactoringenglish.com/blog/why-i-stopped-creating-content/",
+    "title": "I Stopped \"Creating Content\""
   },
   {
     "source": "hn",
@@ -46,38 +61,8 @@
   },
   {
     "source": "hn",
-    "url": "https://www.historytoday.com/miscellanies/satans-19th-century-bank-note",
-    "title": "Satan's 19th-Century Bank Note (2017)"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.newyorker.com/science/annals-of-artificial-intelligence/there-is-no-ai",
-    "title": "Jaron Lanier: there is no AI (2023)"
-  },
-  {
-    "source": "hn",
-    "url": "https://extensionranker.com/blog/chrome-extension-title-changes-rankings",
-    "title": "I Tracked 997 Chrome Extensions That Changed Their Titles"
-  },
-  {
-    "source": "hn",
-    "url": "https://werd.io/american-ai-is-locked-down-and-proprietary-its-losing/",
-    "title": "American AI is locked down and proprietary. It's losing"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.soofi.info/",
-    "title": "Soofi – Sovereign Open Source Foundation Models"
-  },
-  {
-    "source": "hn",
-    "url": "https://wren.wtf/shower-thoughts/stop-using-opencode/",
-    "title": "Annoying and alarming things about OpenCode"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.newyorker.com/culture/the-weekend-essay/the-voice-of-google",
-    "title": "The Voice of Google"
+    "url": "https://edri.org/our-work/the-eu-is-about-to-sell-our-most-sensitive-data-to-the-us-for-visa-free-travel/",
+    "title": "The EU is about to sell our most sensitive data to the US for visa-free travel"
   },
   {
     "source": "hn",
@@ -86,18 +71,48 @@
   },
   {
     "source": "hn",
-    "url": "https://www.labrujulaverde.com/en/2026/07/sealed-tomb-of-a-high-official-or-priest-filled-with-paintings-and-inscriptions-discovered-on-luxors-west-bank/",
-    "title": "Sealed tomb filled with paintings and inscriptions discovered in Egypt"
+    "url": "https://yang-ai-lab.github.io/Inertia-1/",
+    "title": "Inertia-1: An Open Exploration to a Unified Motion Foundation Model"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.historytoday.com/miscellanies/satans-19th-century-bank-note",
+    "title": "Satan's 19th-Century Bank Note (2017)"
+  },
+  {
+    "source": "hn",
+    "url": "https://wheesper.com/",
+    "title": "Show HN: Wheesper – Start an anonymous discussion with a link"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.soofi.info/",
+    "title": "Soofi – Sovereign Open Source Foundation Models"
+  },
+  {
+    "source": "hn",
+    "url": "https://blog.cloudflare.com/dnssec-nta-ede-33/",
+    "title": "Another Entry in the \"Stuff Im Glad Im Not Responsible for\" Ledger"
+  },
+  {
+    "source": "hn",
+    "url": "https://etbe.coker.com.au/2026/07/19/ecc-ddr5/",
+    "title": "ECC and DDR5"
+  },
+  {
+    "source": "hn",
+    "url": "https://wren.wtf/shower-thoughts/stop-using-opencode/",
+    "title": "Annoying and alarming things about OpenCode"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.dotnetperls.com/2026_7_18_tested-kimi-k3-coding",
+    "title": "Tested Kimi K3 for Coding"
   },
   {
     "source": "hn",
     "url": "https://hidden-phenomena.com/articles/rh",
     "title": "What does the Riemann zeta function have to do with the distribution of primes?"
-  },
-  {
-    "source": "hn",
-    "url": "https://satoshi7190.github.io/Shinjuku-indoor-threejs-demo/",
-    "title": "Shinjuku Station in 3D"
   },
   {
     "source": "lobsters",
@@ -106,13 +121,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://mccd.space/posts/26-06-29/simple-git-ci",
-    "title": "Minimal Git CI using hooks"
+    "url": "https://gitolite.com/gitolite/index.html",
+    "title": "Gitolite"
   },
   {
     "source": "lobsters",
-    "url": "https://gitolite.com/gitolite/index.html",
-    "title": "Gitolite"
+    "url": "https://mccd.space/posts/26-06-29/simple-git-ci",
+    "title": "Minimal Git CI using hooks"
   },
   {
     "source": "lobsters",
@@ -121,8 +136,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://www.pillar.security/blog/the-week-of-sandbox-escapes",
-    "title": "7 Sandbox Escape Vulnerabilities Across 4 Coding Agent Vendors"
+    "url": "https://fil-c.org/invisicaps",
+    "title": "InvisiCaps: The Fil-C Capability Model"
   },
   {
     "source": "lobsters",
@@ -131,8 +146,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://cagire.raphaelforment.fr",
-    "title": "Cagire - Forth-based live coding sequencer"
+    "url": "https://www.pillar.security/blog/the-week-of-sandbox-escapes",
+    "title": "7 Sandbox Escape Vulnerabilities Across 4 Coding Agent Vendors"
   },
   {
     "source": "lobsters",
@@ -141,13 +156,28 @@
   },
   {
     "source": "lobsters",
-    "url": "https://sgt.hootr.club/blog/home-server-rebirth/",
-    "title": "The death and rebirth of my home server"
+    "url": "https://cagire.raphaelforment.fr",
+    "title": "Cagire - Forth-based live coding sequencer"
   },
   {
     "source": "lobsters",
     "url": "https://nullenvk.pl/posts/02-snac2-json/",
     "title": "Fuzzing for fun - unauthenticated denial of service in snac2"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://a.l3x.in/blog/welcome-to-my-forge/",
+    "title": "A deep dive into my Forgejo setup"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://sgt.hootr.club/blog/home-server-rebirth/",
+    "title": "The death and rebirth of my home server"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://blog.cofree.coffee/2026-07-20-servant-auth-roles/",
+    "title": "Type Safe Servant Auth Roles"
   },
   {
     "source": "lobsters",
@@ -161,23 +191,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://www.basis.ai/blog/verified-nftables/",
-    "title": "Using LLM-based Verification to Eliminate Bugs in Linux's Network Stack"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://mlab.taik.fi/~kkallio/antialiasing/EdgeFlagAA.pdf",
-    "title": "Scanline edge-flag algorithm for antialiasing"
-  },
-  {
-    "source": "lobsters",
     "url": "https://abhin4v.github.io/shake-blog/",
     "title": "Shake Blog"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://pointieststick.com/2026/07/19/whos-responsible-for-bug-reports-on-old-software-versions/",
-    "title": "Who’s responsible for bug reports on old software versions?"
   },
   {
     "source": "lobsters",
@@ -186,112 +201,12 @@
   },
   {
     "source": "lobsters",
-    "url": "https://fil-c.org/invisicaps",
-    "title": "InvisiCaps: The Fil-C Capability Model"
+    "url": "https://www.basis.ai/blog/verified-nftables/",
+    "title": "Using LLM-based Verification to Eliminate Bugs in Linux's Network Stack"
   },
   {
-    "source": "pinboard",
-    "url": "https://jvns.ca/blog/2026/07/17/learning-about-running-sqlite/",
-    "title": "Learning a few things about running SQLite"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://cuelume-site.pages.dev/",
-    "title": "Cuelume — interaction sounds for the web"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://ykdojo.github.io/claude-controls-mac/",
-    "title": "How to set up your spare Mac for Claude Code to fully control - a step-by-step guide | claude-controls-mac"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://stateofopensource.ai/",
-    "title": "The State of Open Source AI (by Mozilla)"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://workshop.cjpais.com/projects/transcribe-cpp",
-    "title": "Project - transcribe.cpp"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://clocks.dev/",
-    "title": "Clocks.dev"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://immersivemath.com/ila/",
-    "title": "Immersive Linear Algebra - The world's first linear algebra book with fully interactive figures"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://maurycyz.com/projects/bad_jpeg/",
-    "title": "Regressive JPEGs: (Maurycy's blog)"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://sinja.io/blog/data-landscape-guide-for-developers",
-    "title": "Guide to data tools landscape for developers · OlegWock"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.mixfont.com/experiments/decoy-font",
-    "title": "Decoy Font: A TTF font that hides what you type"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://thenextweb.com/news/ai-advice-suppresses-critical-thinking-wrong-answers-study",
-    "title": "AI advice made people three times less accurate but twice as confident, researchers found"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://pydantic.dev/articles/the-human-in-the-loop-is-tired",
-    "title": "The Human-in-the-Loop is Tired | Pydantic"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.kimi.com/blog/kimi-k3",
-    "title": "Kimi K3 Tech Blog: Open Frontier Intelligence"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.tryai.dev/blog/ai-music-video-arena-claude-vs-gpt-5.6",
-    "title": "$100 AI Music Video: Claude Fable 5 vs. GPT-5.6 Sol · TryAI"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://amigafreeware.downer.tech/",
-    "title": "Amiga Freeware Archive"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://dustycloud.org/blog/faulty-towers-vibe-sickness-and-the-vibe-bobsled/",
-    "title": "Faulty Towers, vibe sickness, and the vibe bobsled"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.theocharis.dev/blog/llm-critics-are-right-i-use-llms-anyway/",
-    "title": "The LLM Critics Are Right. I Use LLMs Anyway. | Jeremy Theocharis"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://tvexplorer.live/",
-    "title": "TV Explorer"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.whatcable.uk/",
-    "title": "WhatCable: Know what your USB-C cable can really do"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://velvetshark.com/ai-company-logos-that-look-like-buttholes",
-    "title": "Why do AI company logos look like buttholes?"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://haxxorwpm.0s.is/",
-    "title": "HaxxorWPM"
+    "source": "lobsters",
+    "url": "https://mlab.taik.fi/~kkallio/antialiasing/EdgeFlagAA.pdf",
+    "title": "Scanline edge-flag algorithm for antialiasing"
   }
 ]
