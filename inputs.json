@@ -1,18 +1,13 @@
 [
   {
     "source": "hn",
+    "url": "https://e360.yale.edu/digest/benin-coral-reef",
+    "title": "Long presumed dead, a thriving coral reef is discovered in West Africa"
+  },
+  {
+    "source": "hn",
     "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-6-flash-3-5-flash-lite-3-5-flash-cyber/",
     "title": "Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber"
-  },
-  {
-    "source": "hn",
-    "url": "https://e360.yale.edu/digest/benin-coral-reef",
-    "title": "Long Presumed Dead, a Thriving Coral Reef Is Discovered in West Africa"
-  },
-  {
-    "source": "hn",
-    "url": "https://blog.outv.im/2026/npm-cooldown-security-theater/",
-    "title": "NPM's release cooldown is security theater"
   },
   {
     "source": "hn",
@@ -26,13 +21,18 @@
   },
   {
     "source": "hn",
-    "url": "https://www.404media.co/ice-to-pay-thomson-reuters-125-million-to-find-voter-fraud/",
-    "title": "ICE to Pay Thomson Reuters $125M to Find Voter Fraud"
+    "url": "https://rootkitlabs.com/2026/06/22/I%27m-Building-a-Secure-USB-Drive/",
+    "title": "My USB Drive Has a Hidden Encrypted Vault"
   },
   {
     "source": "hn",
-    "url": "https://fidget-spinner.github.io/posts/ultra-fast-tracing.html",
-    "title": "Python 3.15's Ultra-Low Overhead Interpreter Profiling Mode – Ken Jin's Blog"
+    "url": "https://suzyahyah.github.io/machine%20learning/2026/06/27/trouble-with-time-series.html",
+    "title": "The unreasonable difficulty of time series forecasting"
+  },
+  {
+    "source": "hn",
+    "url": "https://runtimewire.com/article/jack-dorsey-block-buzz-team-chat-ai-agents-git",
+    "title": "Jack Dorsey launches Buzz to combine team chat, AI agents and Git hosting"
   },
   {
     "source": "hn",
@@ -41,13 +41,18 @@
   },
   {
     "source": "hn",
-    "url": "https://artifacta.io/a/pg_x9pombpdybx90q2s16eu",
-    "title": "Show HN: Explore 6048 YC companies as an interactive galaxy"
+    "url": "https://fidget-spinner.github.io/posts/ultra-fast-tracing.html",
+    "title": "Python 3.15's Ultra-Low Overhead Interpreter Profiling Mode – Ken Jin's Blog"
   },
   {
     "source": "hn",
-    "url": "https://blog.exe.dev/claude-is-not-a-compiler",
-    "title": "Claude Is Not a Compiler"
+    "url": "https://www.404media.co/apple-fixes-hide-my-email-vulnerability-after-404-media-coverage/",
+    "title": "Apple Fixes Hide My Email Vulnerability After 404 Media Coverage"
+  },
+  {
+    "source": "hn",
+    "url": "https://acoup.blog/2019/11/22/collections-why-are-there-no-empires-in-age-of-empires/",
+    "title": "Why Are There No Empires in Age of Empires? (2019)"
   },
   {
     "source": "hn",
@@ -61,8 +66,8 @@
   },
   {
     "source": "hn",
-    "url": "https://compilade.net/blog/ternary-packing",
-    "title": "How to pack ternary numbers in 8-bit bytes"
+    "url": "https://artifacta.io/a/pg_x9pombpdybx90q2s16eu",
+    "title": "Show HN: Explore 6048 YC companies as an interactive galaxy"
   },
   {
     "source": "hn",
@@ -71,33 +76,13 @@
   },
   {
     "source": "hn",
-    "url": "https://www.armaangomes.com/blogs/doom/",
-    "title": "Running Doom on Our Custom CPU and Going Viral"
+    "url": "https://compilade.net/blog/ternary-packing",
+    "title": "How to pack ternary numbers in 8-bit bytes"
   },
   {
     "source": "hn",
-    "url": "https://www.wired.com/story/best-motion-sensors-private-alternatives-security/",
-    "title": "Motion Sensors and Home Security Gadgets Without Cameras"
-  },
-  {
-    "source": "hn",
-    "url": "https://blaizzy.github.io/nativ/",
-    "title": "Nativ: Run frontier open models locally on your Mac"
-  },
-  {
-    "source": "hn",
-    "url": "https://vincentwoo.com/3d/grace_cathedral/",
-    "title": "Show HN: Immersive Gaussian Splat tour of grace cathedral, San Francisco"
-  },
-  {
-    "source": "hn",
-    "url": "https://numerlab.org/2025/07/20/bashumerate-enumerator/",
-    "title": "I wrote an bash enumerator because I was sick of xargs"
-  },
-  {
-    "source": "hn",
-    "url": "https://refactoringenglish.com/blog/why-i-stopped-creating-content/",
-    "title": "I Stopped “Creating Content”"
+    "url": "https://blog.exe.dev/claude-is-not-a-compiler",
+    "title": "Claude Is Not a Compiler"
   },
   {
     "source": "lobsters",
@@ -126,13 +111,23 @@
   },
   {
     "source": "lobsters",
-    "url": "https://gitolite.com/gitolite/index.html",
-    "title": "Gitolite"
+    "url": "https://ervin.ipsquad.net/blog/2026/07/21/kde-for-entreprise-needs-a-strong-pim-infrastructure/",
+    "title": "KDE for Enterprise Needs a Strong PIM Infrastructure"
   },
   {
     "source": "lobsters",
     "url": "https://lazy-tmux.xyz",
     "title": "lazy-tmux: restore tmux sessions lazily, with scrollback"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://unsung.aresluna.org/five-moments-in-snapping-history/",
+    "title": "Five moments in snapping history"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://gitolite.com/gitolite/index.html",
+    "title": "Gitolite"
   },
   {
     "source": "lobsters",
@@ -146,13 +141,23 @@
   },
   {
     "source": "lobsters",
+    "url": "https://secretspec.dev/blog/secrets-dont-belong-in-config/",
+    "title": "Secrets Don’t Belong in Config"
+  },
+  {
+    "source": "lobsters",
     "url": "https://evertpot.com/ssh-tunnel-if-unresolvable/",
     "title": "Using a SSH bastion, but only when I'm touching grass"
   },
   {
     "source": "lobsters",
-    "url": "https://secretspec.dev/blog/secrets-dont-belong-in-config/",
-    "title": "Secrets Don’t Belong in Config"
+    "url": "https://blog.yoshuawuyts.com/capture-clauses-as-effects/#optimizing-for-writes",
+    "title": "Capture Clauses as Effects"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://www.kevinalbrecht.com/code/joy-mirror/j01tut.html",
+    "title": "An informal tutorial on Joy"
   },
   {
     "source": "lobsters",
@@ -166,18 +171,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://unsung.aresluna.org/five-moments-in-snapping-history/",
-    "title": "Five moments in snapping history"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://www.kevinalbrecht.com/code/joy-mirror/j01tut.html",
-    "title": "An informal tutorial on Joy"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://blog.yoshuawuyts.com/capture-clauses-as-effects/#optimizing-for-writes",
-    "title": "Capture Clauses as Effects"
+    "url": "https://fptalks.org/talks/fptalks26.html",
+    "title": "FPTalks 2026 — Thu Aug 6, free, online"
   },
   {
     "source": "lobsters",
@@ -186,8 +181,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://csswizardry.com/2026/07/low-and-mid-tier-mobile-for-the-real-world-2026/",
-    "title": "Low- and Mid-Tier Mobile for the Real World"
+    "url": "https://journal.james-zhan.com/no-ai-statements/",
+    "title": "“No AI” Statements Are Much More Than Mere Statements"
   },
   {
     "source": "pinboard",
