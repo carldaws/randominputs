@@ -26,13 +26,8 @@
   },
   {
     "source": "hn",
-    "url": "https://news.risky.biz/risky-bulletin-hacker-wipes-romanias-entire-land-registry-database/",
-    "title": "Hacker wipes Romania's land registry database"
-  },
-  {
-    "source": "hn",
-    "url": "https://forum.jellyfin.org/t-project-leadership-changes",
-    "title": "Jellyfin founder Andrew leaves team"
+    "url": "https://blaizzy.github.io/nativ/",
+    "title": "Nativ: Run frontier open models locally on your Mac"
   },
   {
     "source": "hn",
@@ -41,13 +36,8 @@
   },
   {
     "source": "hn",
-    "url": "https://blaizzy.github.io/nativ/",
-    "title": "Nativ: Run frontier open models locally on your Mac"
-  },
-  {
-    "source": "hn",
-    "url": "https://numerlab.org/2025/07/20/bashumerate-enumerator/",
-    "title": "I wrote an bash enumerator because I was sick of xargs"
+    "url": "https://mathup.xyz/#tensors",
+    "title": "Tensor Notation in Mathup"
   },
   {
     "source": "hn",
@@ -56,33 +46,28 @@
   },
   {
     "source": "hn",
+    "url": "https://fzakaria.com/2026/07/20/linux-kernel-will-support-origin-sort-of",
+    "title": "Linux kernel will support $ORIGIN, sort of"
+  },
+  {
+    "source": "hn",
+    "url": "https://numerlab.org/2025/07/20/bashumerate-enumerator/",
+    "title": "I wrote an bash enumerator because I was sick of xargs"
+  },
+  {
+    "source": "hn",
     "url": "https://werd.io/american-ai-is-locked-down-and-proprietary-its-losing/",
     "title": "China’s open-weights AI strategy is winning"
   },
   {
     "source": "hn",
-    "url": "https://dsprtn.dev/posts/GTFO-VR-Postmortem/",
-    "title": "GTFO VR Mod Postmortem"
+    "url": "https://forum.jellyfin.org/t-project-leadership-changes",
+    "title": "Jellyfin founder Andrew leaves team"
   },
   {
     "source": "hn",
-    "url": "https://thecomputersciencebook.com/posts/how-my-2yo-taught-me-constraint-solving/",
-    "title": "My two year old taught me constraint solving"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.scottrlarson.com/presentations/overcoming-surveillance-capitalism-with-awareness/",
-    "title": "The Power of Awareness: Overcoming Surveillance Capitalism"
-  },
-  {
-    "source": "hn",
-    "url": "https://var0.xyz/posts/perfection-is-not-over-engineering.html",
-    "title": "Perfection is not over-engineering"
-  },
-  {
-    "source": "hn",
-    "url": "https://nothings.org/gamedev/ssao/",
-    "title": "Corners Don't Look Like That: Regarding Screenspace Ambient Occlusion (2012)"
+    "url": "https://tech.marksblogg.com/little-navmap-flight-planning.html",
+    "title": "Flight Planning with Little Navmap"
   },
   {
     "source": "hn",
@@ -91,13 +76,38 @@
   },
   {
     "source": "hn",
+    "url": "https://www.scottrlarson.com/presentations/overcoming-surveillance-capitalism-with-awareness/",
+    "title": "The Power of Awareness: Overcoming Surveillance Capitalism"
+  },
+  {
+    "source": "hn",
+    "url": "https://thecomputersciencebook.com/posts/how-my-2yo-taught-me-constraint-solving/",
+    "title": "My two year old taught me constraint solving"
+  },
+  {
+    "source": "hn",
     "url": "https://satoshi7190.github.io/Shinjuku-indoor-threejs-demo/",
     "title": "Shinjuku Station in 3D"
   },
   {
     "source": "hn",
+    "url": "https://nothings.org/gamedev/ssao/",
+    "title": "Corners Don't Look Like That: Regarding Screenspace Ambient Occlusion (2012)"
+  },
+  {
+    "source": "hn",
     "url": "https://unslop.run/blog/measuring-ai-writing-on-arxiv",
     "title": "How we measured AI writing across arXiv, and where the measurement breaks"
+  },
+  {
+    "source": "hn",
+    "url": "https://news.risky.biz/risky-bulletin-hacker-wipes-romanias-entire-land-registry-database/",
+    "title": "Hacker wipes Romania's land registry database"
+  },
+  {
+    "source": "hn",
+    "url": "https://var0.xyz/posts/perfection-is-not-over-engineering.html",
+    "title": "Perfection is not over-engineering"
   },
   {
     "source": "lobsters",
@@ -108,6 +118,11 @@
     "source": "lobsters",
     "url": "https://tinkering.xyz/bedctl/",
     "title": "I wrote an API client for my water-cooled bed"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://bellkiosk.website/blog/reasons-to-website.html",
+    "title": "95 reasons for having your own website"
   },
   {
     "source": "lobsters",
@@ -131,13 +146,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://turtleware.eu/posts/Building-an-AmigaOS-Development-Environment-in-2026.html",
-    "title": "Building an AmigaOS Development Environment in 2026"
+    "url": "https://www.kevinalbrecht.com/code/joy-mirror/j01tut.html",
+    "title": "An informal tutorial on Joy"
   },
   {
     "source": "lobsters",
-    "url": "https://www.kevinalbrecht.com/code/joy-mirror/j01tut.html",
-    "title": "An informal tutorial on Joy"
+    "url": "https://www.pillar.security/blog/the-week-of-sandbox-escapes",
+    "title": "7 Sandbox Escape Vulnerabilities Across 4 Coding Agent Vendors"
   },
   {
     "source": "lobsters",
@@ -146,18 +161,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://bellkiosk.website/blog/reasons-to-website.html",
-    "title": "95 reasons for having your own website"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://evertpot.com/ssh-tunnel-if-unresolvable/",
-    "title": "Using a SSH bastion, but only when I'm touching grass"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://blog.cofree.coffee/2026-07-20-servant-auth-roles/",
-    "title": "Type Safe Servant Auth Roles"
+    "url": "https://turtleware.eu/posts/Building-an-AmigaOS-Development-Environment-in-2026.html",
+    "title": "Building an AmigaOS Development Environment in 2026"
   },
   {
     "source": "lobsters",
@@ -166,8 +171,18 @@
   },
   {
     "source": "lobsters",
-    "url": "https://www.pillar.security/blog/the-week-of-sandbox-escapes",
-    "title": "7 Sandbox Escape Vulnerabilities Across 4 Coding Agent Vendors"
+    "url": "https://blog.cofree.coffee/2026-07-20-servant-auth-roles/",
+    "title": "Type Safe Servant Auth Roles"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://evertpot.com/ssh-tunnel-if-unresolvable/",
+    "title": "Using a SSH bastion, but only when I'm touching grass"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://ervin.ipsquad.net/blog/2026/07/21/kde-for-entreprise-needs-a-strong-pim-infrastructure/",
+    "title": "KDE for Enterprise Needs a Strong PIM Infrastructure"
   },
   {
     "source": "lobsters",
@@ -180,34 +195,9 @@
     "title": "Rust for Morello: Always-On Memory Safety, Even in Unsafe Code"
   },
   {
-    "source": "lobsters",
-    "url": "https://goalprogramming.info/personal-anthology.html",
-    "title": "Personal Anthology of Goal Code"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://cagire.raphaelforment.fr",
-    "title": "Cagire - Forth-based live coding sequencer"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://jvns.ca/blog/2026/07/17/learning-about-running-sqlite/",
-    "title": "Learning a few things about running SQLite"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://cuelume-site.pages.dev/",
-    "title": "Cuelume — interaction sounds for the web"
-  },
-  {
     "source": "pinboard",
     "url": "https://ykdojo.github.io/claude-controls-mac/",
     "title": "How to set up your spare Mac for Claude Code to fully control - a step-by-step guide | claude-controls-mac"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://stateofopensource.ai/",
-    "title": "The State of Open Source AI (by Mozilla)"
   },
   {
     "source": "pinboard",
@@ -216,68 +206,18 @@
   },
   {
     "source": "pinboard",
-    "url": "https://clocks.dev/",
-    "title": "Clocks.dev"
+    "url": "https://airport.apunen.com/",
+    "title": "Airport Simulator"
   },
   {
     "source": "pinboard",
-    "url": "https://immersivemath.com/ila/",
-    "title": "Immersive Linear Algebra - The world's first linear algebra book with fully interactive figures"
+    "url": "https://cuelume-site.pages.dev/",
+    "title": "Cuelume — interaction sounds for the web"
   },
   {
     "source": "pinboard",
     "url": "https://maurycyz.com/projects/bad_jpeg/",
     "title": "Regressive JPEGs: (Maurycy's blog)"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://sinja.io/blog/data-landscape-guide-for-developers",
-    "title": "Guide to data tools landscape for developers · OlegWock"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.mixfont.com/experiments/decoy-font",
-    "title": "Decoy Font: A TTF font that hides what you type"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://thenextweb.com/news/ai-advice-suppresses-critical-thinking-wrong-answers-study",
-    "title": "AI advice made people three times less accurate but twice as confident, researchers found"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://pydantic.dev/articles/the-human-in-the-loop-is-tired",
-    "title": "The Human-in-the-Loop is Tired | Pydantic"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.kimi.com/blog/kimi-k3",
-    "title": "Kimi K3 Tech Blog: Open Frontier Intelligence"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.tryai.dev/blog/ai-music-video-arena-claude-vs-gpt-5.6",
-    "title": "$100 AI Music Video: Claude Fable 5 vs. GPT-5.6 Sol · TryAI"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://amigafreeware.downer.tech/",
-    "title": "Amiga Freeware Archive"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://dustycloud.org/blog/faulty-towers-vibe-sickness-and-the-vibe-bobsled/",
-    "title": "Faulty Towers, vibe sickness, and the vibe bobsled"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.theocharis.dev/blog/llm-critics-are-right-i-use-llms-anyway/",
-    "title": "The LLM Critics Are Right. I Use LLMs Anyway. | Jeremy Theocharis"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://tvexplorer.live/",
-    "title": "TV Explorer"
   },
   {
     "source": "pinboard",
@@ -291,7 +231,67 @@
   },
   {
     "source": "pinboard",
+    "url": "https://tvexplorer.live/",
+    "title": "TV Explorer"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://amigafreeware.downer.tech/",
+    "title": "Amiga Freeware Archive"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://thenextweb.com/news/ai-advice-suppresses-critical-thinking-wrong-answers-study",
+    "title": "AI advice made people three times less accurate but twice as confident, researchers found"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://codex-resets.com/",
+    "title": "Codex Resets — last reset yesterday"
+  },
+  {
+    "source": "pinboard",
     "url": "https://haxxorwpm.0s.is/",
     "title": "HaxxorWPM"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://clocks.dev/",
+    "title": "Clocks.dev"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://news.ycombinator.com/item?id=48959392",
+    "title": "Setting up your spare Mac for Claude Code to control, a step-by-step guide | Hacker News"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://immersivemath.com/ila/",
+    "title": "Immersive Linear Algebra - The world's first linear algebra book with fully interactive figures"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://negroniventurestudios.com/2026/07/18/the-computer-at-the-bottom-of-a-canal/",
+    "title": "The computer at the bottom of a canal – Negroni Venture Studios"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://dustycloud.org/blog/faulty-towers-vibe-sickness-and-the-vibe-bobsled/",
+    "title": "Faulty Towers, vibe sickness, and the vibe bobsled"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.newyorker.com/culture/the-weekend-essay/the-voice-of-google",
+    "title": "The voice of Google"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://jvns.ca/blog/2026/07/17/learning-about-running-sqlite/",
+    "title": "Learning a few things about running SQLite"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.jeravalue.com/en/text-music",
+    "title": "Text as Music | Jera Value"
   }
 ]
