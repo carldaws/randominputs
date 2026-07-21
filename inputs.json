@@ -1,8 +1,8 @@
 [
   {
     "source": "hn",
-    "url": "https://werd.io/american-ai-is-locked-down-and-proprietary-its-losing/",
-    "title": "China’s open-weights AI strategy is winning"
+    "url": "https://stratechery.com/2026/whos-afraid-of-chinese-models/",
+    "title": "Who's afraid of Chinese models?"
   },
   {
     "source": "hn",
@@ -11,18 +11,13 @@
   },
   {
     "source": "hn",
-    "url": "https://jelly-ui.com/",
-    "title": "Jelly UI: Soft-body physics for native HTML form controls"
-  },
-  {
-    "source": "hn",
     "url": "https://xenaproject.wordpress.com/2026/07/20/human-mathematicians-are-being-outcounterexampled/",
     "title": "Human mathematicians are being outcounterexampled"
   },
   {
     "source": "hn",
-    "url": "https://stratechery.com/2026/whos-afraid-of-chinese-models/",
-    "title": "Who's Afraid of Chinese Models?"
+    "url": "https://jelly-ui.com/",
+    "title": "Jelly UI: Soft-body physics for native HTML form controls"
   },
   {
     "source": "hn",
@@ -36,33 +31,28 @@
   },
   {
     "source": "hn",
+    "url": "https://vincentwoo.com/3d/grace_cathedral/",
+    "title": "Show HN: Immersive Gaussian Splat tour of grace cathedral, San Francisco"
+  },
+  {
+    "source": "hn",
+    "url": "https://forum.jellyfin.org/t-project-leadership-changes",
+    "title": "Jellyfin founder Andrew leaves team"
+  },
+  {
+    "source": "hn",
     "url": "https://airport.apunen.com/",
     "title": "Airport Simulator"
   },
   {
     "source": "hn",
-    "url": "https://www.scottrlarson.com/presentations/overcoming-surveillance-capitalism-with-awareness/",
-    "title": "The Power of Awareness: Overcoming Surveillance Capitalism"
+    "url": "https://esigna.app",
+    "title": "Show HN: I made email signatures less boring"
   },
   {
     "source": "hn",
-    "url": "https://numerlab.org/2025/07/20/bashumerate-enumerator/",
-    "title": "I wrote an bash enumerator because I was sick of xargs"
-  },
-  {
-    "source": "hn",
-    "url": "https://unslop.run/blog/measuring-ai-writing-on-arxiv",
-    "title": "How we measured AI writing across arXiv, and where the measurement breaks"
-  },
-  {
-    "source": "hn",
-    "url": "https://stencil.so/blog/prewalk",
-    "title": "You only need the frontier model for one single edit"
-  },
-  {
-    "source": "hn",
-    "url": "https://vincentwoo.com/3d/grace_cathedral/",
-    "title": "Show HN: Immersive Gaussian Splat tour of grace cathedral, San Francisco"
+    "url": "https://werd.io/american-ai-is-locked-down-and-proprietary-its-losing/",
+    "title": "China’s open-weights AI strategy is winning"
   },
   {
     "source": "hn",
@@ -71,13 +61,28 @@
   },
   {
     "source": "hn",
+    "url": "https://thecomputersciencebook.com/posts/how-my-2yo-taught-me-constraint-solving/",
+    "title": "My two year old taught me constraint solving"
+  },
+  {
+    "source": "hn",
+    "url": "https://unslop.run/blog/measuring-ai-writing-on-arxiv",
+    "title": "How we measured AI writing across arXiv, and where the measurement breaks"
+  },
+  {
+    "source": "hn",
+    "url": "https://numerlab.org/2025/07/20/bashumerate-enumerator/",
+    "title": "I wrote an bash enumerator because I was sick of xargs"
+  },
+  {
+    "source": "hn",
     "url": "https://var0.xyz/posts/perfection-is-not-over-engineering.html",
     "title": "Perfection is not over-engineering"
   },
   {
     "source": "hn",
-    "url": "https://hypr.land/news/update55/",
-    "title": "Hyprland 0.55 announced the switch to Lua for its config files"
+    "url": "https://www.scottrlarson.com/presentations/overcoming-surveillance-capitalism-with-awareness/",
+    "title": "The Power of Awareness: Overcoming Surveillance Capitalism"
   },
   {
     "source": "hn",
@@ -86,8 +91,8 @@
   },
   {
     "source": "hn",
-    "url": "https://slcyber.io/research-center/exploit-brokers-pay-500000-for-a-wordpress-rce-i-found-one-with-gpt5-6/",
-    "title": "Exploit brokers pay $500k for WordPress RCEs. I found one with GPT5.6 and $25"
+    "url": "https://stencil.so/blog/prewalk",
+    "title": "You only need the frontier model for one single edit"
   },
   {
     "source": "hn",
@@ -98,6 +103,11 @@
     "source": "hn",
     "url": "https://www.newyorker.com/culture/the-weekend-essay/the-voice-of-google",
     "title": "The Voice of Google"
+  },
+  {
+    "source": "hn",
+    "url": "https://etbe.coker.com.au/2026/07/19/ecc-ddr5/",
+    "title": "ECC and DDR5"
   },
   {
     "source": "lobsters",
@@ -116,28 +126,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://mccd.space/posts/26-06-29/simple-git-ci",
-    "title": "Minimal Git CI using hooks"
-  },
-  {
-    "source": "lobsters",
     "url": "https://a.l3x.in/blog/welcome-to-my-forge/",
     "title": "A deep dive into my Forgejo setup"
   },
   {
     "source": "lobsters",
-    "url": "https://turtleware.eu/posts/Building-an-AmigaOS-Development-Environment-in-2026.html",
-    "title": "Building an AmigaOS Development Environment in 2026"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://www.pillar.security/blog/the-week-of-sandbox-escapes",
-    "title": "7 Sandbox Escape Vulnerabilities Across 4 Coding Agent Vendors"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://computer.rip/2026-07-19-email-encryption.html",
-    "title": "email encryption"
+    "url": "https://mccd.space/posts/26-06-29/simple-git-ci",
+    "title": "Minimal Git CI using hooks"
   },
   {
     "source": "lobsters",
@@ -146,13 +141,43 @@
   },
   {
     "source": "lobsters",
+    "url": "https://turtleware.eu/posts/Building-an-AmigaOS-Development-Environment-in-2026.html",
+    "title": "Building an AmigaOS Development Environment in 2026"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://computer.rip/2026-07-19-email-encryption.html",
+    "title": "email encryption"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://words.filippo.io/passkey-record/",
+    "title": "Opaque, Interoperable Passkey Records"
+  },
+  {
+    "source": "lobsters",
     "url": "https://blog.cofree.coffee/2026-07-20-servant-auth-roles/",
     "title": "Type Safe Servant Auth Roles"
   },
   {
     "source": "lobsters",
+    "url": "https://www.pillar.security/blog/the-week-of-sandbox-escapes",
+    "title": "7 Sandbox Escape Vulnerabilities Across 4 Coding Agent Vendors"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://secretspec.dev/blog/secrets-dont-belong-in-config/",
+    "title": "Secrets Don’t Belong in Config"
+  },
+  {
+    "source": "lobsters",
     "url": "https://drops.dagstuhl.de/storage/00lipics/lipics-vol263-ecoop2023/LIPIcs.ECOOP.2023.39/LIPIcs.ECOOP.2023.39.pdf",
     "title": "Rust for Morello: Always-On Memory Safety, Even in Unsafe Code"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://www.kevinalbrecht.com/code/joy-mirror/j01tut.html",
+    "title": "An informal tutorial on Joy"
   },
   {
     "source": "lobsters",
@@ -166,8 +191,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://words.filippo.io/passkey-record/",
-    "title": "Opaque, Interoperable Passkey Records"
+    "url": "https://cagire.raphaelforment.fr",
+    "title": "Cagire - Forth-based live coding sequencer"
   },
   {
     "source": "lobsters",
@@ -176,23 +201,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://cagire.raphaelforment.fr",
-    "title": "Cagire - Forth-based live coding sequencer"
-  },
-  {
-    "source": "lobsters",
     "url": "https://nullenvk.pl/posts/02-snac2-json/",
     "title": "Fuzzing for fun - unauthenticated denial of service in snac2"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://www.basis.ai/blog/verified-nftables/",
-    "title": "Using LLM-based Verification to Eliminate Bugs in Linux's Network Stack"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://sgt.hootr.club/blog/home-server-rebirth/",
-    "title": "The death and rebirth of my home server"
   },
   {
     "source": "pinboard",
