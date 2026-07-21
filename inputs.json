@@ -1,8 +1,18 @@
 [
   {
     "source": "hn",
+    "url": "https://qwen.ai/blog?id=qwen-image-3.0",
+    "title": "Qwen-Image-3.0: Rich Content, Authentic Details, Deep Knowledge"
+  },
+  {
+    "source": "hn",
     "url": "https://stratechery.com/2026/whos-afraid-of-chinese-models/",
     "title": "Who's afraid of Chinese models?"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.kimi.com/products/kimi-work",
+    "title": "Kimi Work"
   },
   {
     "source": "hn",
@@ -11,8 +21,8 @@
   },
   {
     "source": "hn",
-    "url": "https://www.kimi.com/products/kimi-work",
-    "title": "Kimi Work"
+    "url": "https://fzakaria.com/2026/07/20/linux-kernel-will-support-origin-sort-of",
+    "title": "Linux kernel will support $ORIGIN, sort of"
   },
   {
     "source": "hn",
@@ -26,18 +36,13 @@
   },
   {
     "source": "hn",
+    "url": "https://compilade.net/blog/ternary-packing",
+    "title": "How to pack ternary numbers in 8-bit bytes"
+  },
+  {
+    "source": "hn",
     "url": "https://blaizzy.github.io/nativ/",
     "title": "Nativ: Run frontier open models locally on your Mac"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.aclu.org/news/privacy-technology/tracking-alpr-cameras/flock-safety-credibility-lost-as-it-repeatedly-lies-to-city-councils-police-departments-and-public-across-the-country",
-    "title": "Flock Credibility Lost as It Repeatedly Lies to City Councils, Police, & Public"
-  },
-  {
-    "source": "hn",
-    "url": "https://mathup.xyz/#tensors",
-    "title": "Tensor Notation in Mathup"
   },
   {
     "source": "hn",
@@ -46,28 +51,18 @@
   },
   {
     "source": "hn",
-    "url": "https://fzakaria.com/2026/07/20/linux-kernel-will-support-origin-sort-of",
-    "title": "Linux kernel will support $ORIGIN, sort of"
-  },
-  {
-    "source": "hn",
     "url": "https://numerlab.org/2025/07/20/bashumerate-enumerator/",
     "title": "I wrote an bash enumerator because I was sick of xargs"
   },
   {
     "source": "hn",
+    "url": "https://buildwithtract.com/",
+    "title": "Postmortem of a British Startup: Tract"
+  },
+  {
+    "source": "hn",
     "url": "https://werd.io/american-ai-is-locked-down-and-proprietary-its-losing/",
     "title": "China’s open-weights AI strategy is winning"
-  },
-  {
-    "source": "hn",
-    "url": "https://forum.jellyfin.org/t-project-leadership-changes",
-    "title": "Jellyfin founder Andrew leaves team"
-  },
-  {
-    "source": "hn",
-    "url": "https://tech.marksblogg.com/little-navmap-flight-planning.html",
-    "title": "Flight Planning with Little Navmap"
   },
   {
     "source": "hn",
@@ -81,18 +76,28 @@
   },
   {
     "source": "hn",
-    "url": "https://thecomputersciencebook.com/posts/how-my-2yo-taught-me-constraint-solving/",
-    "title": "My two year old taught me constraint solving"
-  },
-  {
-    "source": "hn",
     "url": "https://satoshi7190.github.io/Shinjuku-indoor-threejs-demo/",
     "title": "Shinjuku Station in 3D"
   },
   {
     "source": "hn",
-    "url": "https://nothings.org/gamedev/ssao/",
-    "title": "Corners Don't Look Like That: Regarding Screenspace Ambient Occlusion (2012)"
+    "url": "https://thecomputersciencebook.com/posts/how-my-2yo-taught-me-constraint-solving/",
+    "title": "My two year old taught me constraint solving"
+  },
+  {
+    "source": "hn",
+    "url": "https://refactoringenglish.com/blog/why-i-stopped-creating-content/",
+    "title": "I Stopped “Creating Content”"
+  },
+  {
+    "source": "hn",
+    "url": "https://forum.jellyfin.org/t-project-leadership-changes",
+    "title": "Jellyfin founder Andrew leaves team"
+  },
+  {
+    "source": "hn",
+    "url": "https://var0.xyz/posts/perfection-is-not-over-engineering.html",
+    "title": "Perfection is not over-engineering"
   },
   {
     "source": "hn",
@@ -105,9 +110,9 @@
     "title": "Hacker wipes Romania's land registry database"
   },
   {
-    "source": "hn",
-    "url": "https://var0.xyz/posts/perfection-is-not-over-engineering.html",
-    "title": "Perfection is not over-engineering"
+    "source": "lobsters",
+    "url": "https://bellkiosk.website/blog/reasons-to-website.html",
+    "title": "95 reasons for having your own website"
   },
   {
     "source": "lobsters",
@@ -121,8 +126,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://bellkiosk.website/blog/reasons-to-website.html",
-    "title": "95 reasons for having your own website"
+    "url": "https://rickcarlino.com/notes/p2p/how-gnutella-scaled-to-handle-query-traffic.html",
+    "title": "How Gnutella Scaled to Handle Query Traffic"
   },
   {
     "source": "lobsters",
@@ -136,13 +141,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://rickcarlino.com/notes/p2p/how-gnutella-scaled-to-handle-query-traffic.html",
-    "title": "How Gnutella Scaled to Handle Query Traffic"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://mccd.space/posts/26-06-29/simple-git-ci",
-    "title": "Minimal Git CI using hooks"
+    "url": "https://evertpot.com/ssh-tunnel-if-unresolvable/",
+    "title": "Using a SSH bastion, but only when I'm touching grass"
   },
   {
     "source": "lobsters",
@@ -151,8 +151,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://www.pillar.security/blog/the-week-of-sandbox-escapes",
-    "title": "7 Sandbox Escape Vulnerabilities Across 4 Coding Agent Vendors"
+    "url": "https://mccd.space/posts/26-06-29/simple-git-ci",
+    "title": "Minimal Git CI using hooks"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://ervin.ipsquad.net/blog/2026/07/21/kde-for-entreprise-needs-a-strong-pim-infrastructure/",
+    "title": "KDE for Enterprise Needs a Strong PIM Infrastructure"
   },
   {
     "source": "lobsters",
@@ -161,8 +166,18 @@
   },
   {
     "source": "lobsters",
+    "url": "https://www.pillar.security/blog/the-week-of-sandbox-escapes",
+    "title": "7 Sandbox Escape Vulnerabilities Across 4 Coding Agent Vendors"
+  },
+  {
+    "source": "lobsters",
     "url": "https://turtleware.eu/posts/Building-an-AmigaOS-Development-Environment-in-2026.html",
     "title": "Building an AmigaOS Development Environment in 2026"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://thorsell.io/2026/07/21/github-ssh-keys.html",
+    "title": "GitHub suddenly rejected my SSH key (the fix was a .pub file?!)"
   },
   {
     "source": "lobsters",
@@ -173,26 +188,6 @@
     "source": "lobsters",
     "url": "https://blog.cofree.coffee/2026-07-20-servant-auth-roles/",
     "title": "Type Safe Servant Auth Roles"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://evertpot.com/ssh-tunnel-if-unresolvable/",
-    "title": "Using a SSH bastion, but only when I'm touching grass"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://ervin.ipsquad.net/blog/2026/07/21/kde-for-entreprise-needs-a-strong-pim-infrastructure/",
-    "title": "KDE for Enterprise Needs a Strong PIM Infrastructure"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://computer.rip/2026-07-19-email-encryption.html",
-    "title": "email encryption"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://drops.dagstuhl.de/storage/00lipics/lipics-vol263-ecoop2023/LIPIcs.ECOOP.2023.39/LIPIcs.ECOOP.2023.39.pdf",
-    "title": "Rust for Morello: Always-On Memory Safety, Even in Unsafe Code"
   },
   {
     "source": "pinboard",
