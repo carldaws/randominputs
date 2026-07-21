@@ -16,13 +16,23 @@
   },
   {
     "source": "hn",
+    "url": "https://terrytao.wordpress.com/2026/07/21/a-digestion-of-the-jacobian-conjecture-counterexample/",
+    "title": "A digestion of the Jacobian conjecture counterexample"
+  },
+  {
+    "source": "hn",
     "url": "https://runtimewire.com/article/jack-dorsey-block-buzz-team-chat-ai-agents-git",
     "title": "Jack Dorsey launches Buzz to combine team chat, AI agents and Git hosting"
   },
   {
     "source": "hn",
-    "url": "https://alex4d.com/notes/item/apple-competing-for-creativity-app-users",
-    "title": "Apple has decided to compete for creativity app users"
+    "url": "https://www.tryai.dev/blog/ai-drawing-arena-colored-pencils-claude-gpt-grok",
+    "title": "\"Drawing\" the Mona Lisa with GPT-5.6, Claude, Gemini, and Grok"
+  },
+  {
+    "source": "hn",
+    "url": "https://poolside.ai/blog/introducing-laguna-s-2-1",
+    "title": "Laguna S 2.1"
   },
   {
     "source": "hn",
@@ -36,23 +46,13 @@
   },
   {
     "source": "hn",
-    "url": "https://poolside.ai/blog/introducing-laguna-s-2-1",
-    "title": "Laguna S 2.1"
-  },
-  {
-    "source": "hn",
-    "url": "https://suzyahyah.github.io/machine%20learning/2026/06/27/trouble-with-time-series.html",
-    "title": "The unreasonable difficulty of time series forecasting"
-  },
-  {
-    "source": "hn",
-    "url": "https://blog.qstars.nl/posts/cheap-self-hosted-kubernetes-on-hetzner-cloud/",
-    "title": "Cheap self-hosted Kubernetes on Hetzner cloud (2025)"
+    "url": "https://justif.lyall.co/",
+    "title": "Show HN: Justif – Knuth-Plass justification and microtypography for the web"
   },
   {
     "source": "hn",
     "url": "https://happiness-science.org/price-of-happiness/",
-    "title": "The Price of Happiness"
+    "title": "The Price of Happiness (2024)"
   },
   {
     "source": "hn",
@@ -61,8 +61,18 @@
   },
   {
     "source": "hn",
-    "url": "https://fidget-spinner.github.io/posts/ultra-fast-tracing.html",
-    "title": "Python 3.15’s Ultra-Low Overhead Interpreter Profiling Mode"
+    "url": "https://suzyahyah.github.io/machine%20learning/2026/06/27/trouble-with-time-series.html",
+    "title": "The unreasonable difficulty of time series forecasting"
+  },
+  {
+    "source": "hn",
+    "url": "https://readthetape.cc/",
+    "title": "Show HN: Read the Tape – Wordle for daytrading, five blind S&P 500 charts a day"
+  },
+  {
+    "source": "hn",
+    "url": "https://alignment.openai.com/measuring-reward-seeking/",
+    "title": "Measuring reward-seeking by instilling contrastive beliefs"
   },
   {
     "source": "lobsters",
@@ -81,8 +91,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://xenaproject.wordpress.com/2026/07/20/human-mathematicians-are-being-outcounterexampled/",
-    "title": "Human mathematicians are being outcounterexampled"
+    "url": "https://journal.james-zhan.com/no-ai-statements/",
+    "title": "“No AI” Statements Are Much More Than Mere Statements"
   },
   {
     "source": "lobsters",
@@ -96,8 +106,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://journal.james-zhan.com/no-ai-statements/",
-    "title": "“No AI” Statements Are Much More Than Mere Statements"
+    "url": "https://xenaproject.wordpress.com/2026/07/20/human-mathematicians-are-being-outcounterexampled/",
+    "title": "Human mathematicians are being outcounterexampled"
   },
   {
     "source": "lobsters",
@@ -106,13 +116,18 @@
   },
   {
     "source": "lobsters",
-    "url": "https://lazy-tmux.xyz",
-    "title": "lazy-tmux: restore tmux sessions lazily, with scrollback"
+    "url": "https://unsung.aresluna.org/five-moments-in-snapping-history/",
+    "title": "Five moments in snapping history"
   },
   {
     "source": "lobsters",
-    "url": "https://unsung.aresluna.org/five-moments-in-snapping-history/",
-    "title": "Five moments in snapping history"
+    "url": "https://blog.mempko.com/keeping-the-kv-cache-warm-measuring-prompt-cache-eviction-across-anthropic-openai-and-google/",
+    "title": "Your Agentic Workflow's Cache Keepalive Costs 8x Too Much"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://blog.yoshuawuyts.com/capture-clauses-as-effects/#optimizing-for-writes",
+    "title": "Capture Clauses as Effects"
   },
   {
     "source": "lobsters",
@@ -121,8 +136,23 @@
   },
   {
     "source": "lobsters",
-    "url": "https://blog.yoshuawuyts.com/capture-clauses-as-effects/#optimizing-for-writes",
-    "title": "Capture Clauses as Effects"
+    "url": "https://lazy-tmux.xyz",
+    "title": "lazy-tmux: restore tmux sessions lazily, with scrollback"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://system76.com/blog/post/cosmic-de-first-seven-months",
+    "title": "COSMIC DE’s First Seven Months"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://www.lexaloffle.com/bbs/?tid=152582",
+    "title": "AP8L - apl"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://web.archive.org/web/20050111142057/http://www.kx.com/technical/documents/kreflite.pdf",
+    "title": "K2 Reference Manual (1998)"
   },
   {
     "source": "lobsters",
@@ -133,31 +163,6 @@
     "source": "lobsters",
     "url": "https://fil-c.org/invisicaps",
     "title": "InvisiCaps: The Fil-C Capability Model"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://evertpot.com/ssh-tunnel-if-unresolvable/",
-    "title": "Using a SSH bastion, but only when I'm touching grass"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://system76.com/blog/post/cosmic-de-first-seven-months",
-    "title": "COSMIC DE’s First Seven Months"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://tinkering.xyz/bedctl/",
-    "title": "I wrote an API client for my water-cooled bed"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://secretspec.dev/blog/secrets-dont-belong-in-config/",
-    "title": "Secrets Don’t Belong in Config"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://www.kevinalbrecht.com/code/joy-mirror/j01tut.html",
-    "title": "An informal tutorial on Joy"
   },
   {
     "source": "lobsters",
