@@ -16,16 +16,6 @@
   },
   {
     "source": "hn",
-    "url": "https://www.armaangomes.com/blogs/doom/",
-    "title": "Running Doom on Our Custom CPU and Going Viral"
-  },
-  {
-    "source": "hn",
-    "url": "https://fzakaria.com/2026/07/20/linux-kernel-will-support-origin-sort-of",
-    "title": "Linux kernel will support $ORIGIN, sort of"
-  },
-  {
-    "source": "hn",
     "url": "https://jelly-ui.com/",
     "title": "Jelly UI: Soft-body physics for native HTML form controls"
   },
@@ -33,6 +23,11 @@
     "source": "hn",
     "url": "https://xenaproject.wordpress.com/2026/07/20/human-mathematicians-are-being-outcounterexampled/",
     "title": "Human mathematicians are being outcounterexampled"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.armaangomes.com/blogs/doom/",
+    "title": "Running Doom on Our Custom CPU and Going Viral"
   },
   {
     "source": "hn",
@@ -56,8 +51,8 @@
   },
   {
     "source": "hn",
-    "url": "https://buildwithtract.com/",
-    "title": "Postmortem of a British Startup: Tract"
+    "url": "https://fidget-spinner.github.io/posts/ultra-fast-tracing.html",
+    "title": "Python 3.15's Ultra-Low Overhead Interpreter Profiling Mode – Ken Jin's Blog"
   },
   {
     "source": "hn",
@@ -71,18 +66,8 @@
   },
   {
     "source": "hn",
-    "url": "https://www.scottrlarson.com/presentations/overcoming-surveillance-capitalism-with-awareness/",
-    "title": "The Power of Awareness: Overcoming Surveillance Capitalism"
-  },
-  {
-    "source": "hn",
     "url": "https://satoshi7190.github.io/Shinjuku-indoor-threejs-demo/",
     "title": "Shinjuku Station in 3D"
-  },
-  {
-    "source": "hn",
-    "url": "https://thecomputersciencebook.com/posts/how-my-2yo-taught-me-constraint-solving/",
-    "title": "My two year old taught me constraint solving"
   },
   {
     "source": "hn",
@@ -91,23 +76,38 @@
   },
   {
     "source": "hn",
-    "url": "https://forum.jellyfin.org/t-project-leadership-changes",
-    "title": "Jellyfin founder Andrew leaves team"
-  },
-  {
-    "source": "hn",
     "url": "https://var0.xyz/posts/perfection-is-not-over-engineering.html",
     "title": "Perfection is not over-engineering"
   },
   {
     "source": "hn",
-    "url": "https://unslop.run/blog/measuring-ai-writing-on-arxiv",
-    "title": "How we measured AI writing across arXiv, and where the measurement breaks"
+    "url": "https://www.scottrlarson.com/presentations/overcoming-surveillance-capitalism-with-awareness/",
+    "title": "The Power of Awareness: Overcoming Surveillance Capitalism"
+  },
+  {
+    "source": "hn",
+    "url": "https://forum.jellyfin.org/t-project-leadership-changes",
+    "title": "Jellyfin founder Andrew leaves team"
+  },
+  {
+    "source": "hn",
+    "url": "https://nothings.org/gamedev/ssao/",
+    "title": "Corners Don't Look Like That: Regarding Screenspace Ambient Occlusion (2012)"
   },
   {
     "source": "hn",
     "url": "https://news.risky.biz/risky-bulletin-hacker-wipes-romanias-entire-land-registry-database/",
     "title": "Hacker wipes Romania's land registry database"
+  },
+  {
+    "source": "hn",
+    "url": "https://thecomputersciencebook.com/posts/how-my-2yo-taught-me-constraint-solving/",
+    "title": "My two year old taught me constraint solving"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://thorsell.io/2026/07/21/github-ssh-keys.html",
+    "title": "GitHub suddenly rejected my SSH key (the fix was a .pub file?!)"
   },
   {
     "source": "lobsters",
@@ -121,13 +121,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://tinkering.xyz/bedctl/",
-    "title": "I wrote an API client for my water-cooled bed"
+    "url": "https://evertpot.com/ssh-tunnel-if-unresolvable/",
+    "title": "Using a SSH bastion, but only when I'm touching grass"
   },
   {
     "source": "lobsters",
-    "url": "https://rickcarlino.com/notes/p2p/how-gnutella-scaled-to-handle-query-traffic.html",
-    "title": "How Gnutella Scaled to Handle Query Traffic"
+    "url": "https://tinkering.xyz/bedctl/",
+    "title": "I wrote an API client for my water-cooled bed"
   },
   {
     "source": "lobsters",
@@ -141,8 +141,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://evertpot.com/ssh-tunnel-if-unresolvable/",
-    "title": "Using a SSH bastion, but only when I'm touching grass"
+    "url": "https://ervin.ipsquad.net/blog/2026/07/21/kde-for-entreprise-needs-a-strong-pim-infrastructure/",
+    "title": "KDE for Enterprise Needs a Strong PIM Infrastructure"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://words.filippo.io/passkey-record/",
+    "title": "Opaque, Interoperable Passkey Records"
   },
   {
     "source": "lobsters",
@@ -151,18 +156,13 @@
   },
   {
     "source": "lobsters",
+    "url": "https://secretspec.dev/blog/secrets-dont-belong-in-config/",
+    "title": "Secrets Don’t Belong in Config"
+  },
+  {
+    "source": "lobsters",
     "url": "https://mccd.space/posts/26-06-29/simple-git-ci",
     "title": "Minimal Git CI using hooks"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://ervin.ipsquad.net/blog/2026/07/21/kde-for-entreprise-needs-a-strong-pim-infrastructure/",
-    "title": "KDE for Enterprise Needs a Strong PIM Infrastructure"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://words.filippo.io/passkey-record/",
-    "title": "Opaque, Interoperable Passkey Records"
   },
   {
     "source": "lobsters",
@@ -176,18 +176,18 @@
   },
   {
     "source": "lobsters",
-    "url": "https://thorsell.io/2026/07/21/github-ssh-keys.html",
-    "title": "GitHub suddenly rejected my SSH key (the fix was a .pub file?!)"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://secretspec.dev/blog/secrets-dont-belong-in-config/",
-    "title": "Secrets Don’t Belong in Config"
-  },
-  {
-    "source": "lobsters",
     "url": "https://blog.cofree.coffee/2026-07-20-servant-auth-roles/",
     "title": "Type Safe Servant Auth Roles"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://blog.xoria.org/integers/",
+    "title": "Thoughts On Integers (2023)"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://computer.rip/2026-07-19-email-encryption.html",
+    "title": "email encryption"
   },
   {
     "source": "pinboard",
