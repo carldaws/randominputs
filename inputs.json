@@ -1,8 +1,18 @@
 [
   {
     "source": "hn",
-    "url": "https://qwen.ai/blog?id=qwen-image-3.0",
-    "title": "Qwen-Image-3.0: Rich Content, Authentic Details, Deep Knowledge"
+    "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-6-flash-3-5-flash-lite-3-5-flash-cyber/",
+    "title": "Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber"
+  },
+  {
+    "source": "hn",
+    "url": "https://e360.yale.edu/digest/benin-coral-reef",
+    "title": "Long Presumed Dead, a Thriving Coral Reef Is Discovered in West Africa"
+  },
+  {
+    "source": "hn",
+    "url": "https://blog.outv.im/2026/npm-cooldown-security-theater/",
+    "title": "NPM's release cooldown is security theater"
   },
   {
     "source": "hn",
@@ -11,18 +21,33 @@
   },
   {
     "source": "hn",
+    "url": "https://qwen.ai/blog?id=qwen-image-3.0",
+    "title": "Qwen-Image-3.0: Rich Content, Authentic Details, Deep Knowledge"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.404media.co/ice-to-pay-thomson-reuters-125-million-to-find-voter-fraud/",
+    "title": "ICE to Pay Thomson Reuters $125M to Find Voter Fraud"
+  },
+  {
+    "source": "hn",
     "url": "https://fidget-spinner.github.io/posts/ultra-fast-tracing.html",
     "title": "Python 3.15's Ultra-Low Overhead Interpreter Profiling Mode – Ken Jin's Blog"
   },
   {
     "source": "hn",
-    "url": "https://markwrites.io/mullvad-and-daniel-berntssons-failed-cleanup/",
-    "title": "Mullvad and Daniel Berntsson's Failed Cleanup"
+    "url": "https://stratechery.com/2026/whos-afraid-of-chinese-models/",
+    "title": "Who's afraid of Chinese models?"
   },
   {
     "source": "hn",
-    "url": "https://stratechery.com/2026/whos-afraid-of-chinese-models/",
-    "title": "Who's afraid of Chinese models?"
+    "url": "https://artifacta.io/a/pg_x9pombpdybx90q2s16eu",
+    "title": "Show HN: Explore 6048 YC companies as an interactive galaxy"
+  },
+  {
+    "source": "hn",
+    "url": "https://blog.exe.dev/claude-is-not-a-compiler",
+    "title": "Claude Is Not a Compiler"
   },
   {
     "source": "hn",
@@ -36,8 +61,8 @@
   },
   {
     "source": "hn",
-    "url": "https://artifacta.io/a/pg_x9pombpdybx90q2s16eu",
-    "title": "Show HN: Explore 6048 YC companies as an interactive galaxy"
+    "url": "https://compilade.net/blog/ternary-packing",
+    "title": "How to pack ternary numbers in 8-bit bytes"
   },
   {
     "source": "hn",
@@ -46,13 +71,13 @@
   },
   {
     "source": "hn",
-    "url": "https://compilade.net/blog/ternary-packing",
-    "title": "How to pack ternary numbers in 8-bit bytes"
+    "url": "https://www.armaangomes.com/blogs/doom/",
+    "title": "Running Doom on Our Custom CPU and Going Viral"
   },
   {
     "source": "hn",
-    "url": "https://www.armaangomes.com/blogs/doom/",
-    "title": "Running Doom on Our Custom CPU and Going Viral"
+    "url": "https://www.wired.com/story/best-motion-sensors-private-alternatives-security/",
+    "title": "Motion Sensors and Home Security Gadgets Without Cameras"
   },
   {
     "source": "hn",
@@ -66,11 +91,6 @@
   },
   {
     "source": "hn",
-    "url": "https://www.wired.com/story/best-motion-sensors-private-alternatives-security/",
-    "title": "Motion Sensors and Home Security Gadgets Without Cameras"
-  },
-  {
-    "source": "hn",
     "url": "https://numerlab.org/2025/07/20/bashumerate-enumerator/",
     "title": "I wrote an bash enumerator because I was sick of xargs"
   },
@@ -80,34 +100,9 @@
     "title": "I Stopped “Creating Content”"
   },
   {
-    "source": "hn",
-    "url": "https://werd.io/american-ai-is-locked-down-and-proprietary-its-losing/",
-    "title": "China’s open-weights AI strategy is winning"
-  },
-  {
-    "source": "hn",
-    "url": "https://stencil.so/blog/prewalk",
-    "title": "You only need the frontier model for one single edit"
-  },
-  {
-    "source": "hn",
-    "url": "https://satoshi7190.github.io/Shinjuku-indoor-threejs-demo/",
-    "title": "Shinjuku Station in 3D"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.scottrlarson.com/presentations/overcoming-surveillance-capitalism-with-awareness/",
-    "title": "The Power of Awareness: Overcoming Surveillance Capitalism"
-  },
-  {
     "source": "lobsters",
     "url": "https://thorsell.io/2026/07/21/github-ssh-keys.html",
     "title": "GitHub suddenly rejected my SSH key (the fix was a .pub file?!)"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://bellkiosk.website/blog/reasons-to-website.html",
-    "title": "95 reasons for having your own website"
   },
   {
     "source": "lobsters",
@@ -116,13 +111,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://ervin.ipsquad.net/blog/2026/07/21/kde-for-entreprise-needs-a-strong-pim-infrastructure/",
-    "title": "KDE for Enterprise Needs a Strong PIM Infrastructure"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://gitolite.com/gitolite/index.html",
-    "title": "Gitolite"
+    "url": "https://bellkiosk.website/blog/reasons-to-website.html",
+    "title": "95 reasons for having your own website"
   },
   {
     "source": "lobsters",
@@ -131,8 +121,18 @@
   },
   {
     "source": "lobsters",
-    "url": "https://tinkering.xyz/bedctl/",
-    "title": "I wrote an API client for my water-cooled bed"
+    "url": "https://fzakaria.com/2026/07/20/linux-kernel-will-support-origin-sort-of",
+    "title": "Linux kernel will support $ORIGIN, sort of"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://gitolite.com/gitolite/index.html",
+    "title": "Gitolite"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://lazy-tmux.xyz",
+    "title": "lazy-tmux: restore tmux sessions lazily, with scrollback"
   },
   {
     "source": "lobsters",
@@ -141,18 +141,13 @@
   },
   {
     "source": "lobsters",
+    "url": "https://tinkering.xyz/bedctl/",
+    "title": "I wrote an API client for my water-cooled bed"
+  },
+  {
+    "source": "lobsters",
     "url": "https://evertpot.com/ssh-tunnel-if-unresolvable/",
     "title": "Using a SSH bastion, but only when I'm touching grass"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://fzakaria.com/2026/07/20/linux-kernel-will-support-origin-sort-of",
-    "title": "Linux kernel will support $ORIGIN, sort of"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://a.l3x.in/blog/welcome-to-my-forge/",
-    "title": "A deep dive into my Forgejo setup"
   },
   {
     "source": "lobsters",
@@ -161,13 +156,28 @@
   },
   {
     "source": "lobsters",
+    "url": "https://a.l3x.in/blog/welcome-to-my-forge/",
+    "title": "A deep dive into my Forgejo setup"
+  },
+  {
+    "source": "lobsters",
     "url": "https://words.filippo.io/passkey-record/",
     "title": "Opaque, Interoperable Passkey Records"
   },
   {
     "source": "lobsters",
+    "url": "https://unsung.aresluna.org/five-moments-in-snapping-history/",
+    "title": "Five moments in snapping history"
+  },
+  {
+    "source": "lobsters",
     "url": "https://www.kevinalbrecht.com/code/joy-mirror/j01tut.html",
     "title": "An informal tutorial on Joy"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://blog.yoshuawuyts.com/capture-clauses-as-effects/#optimizing-for-writes",
+    "title": "Capture Clauses as Effects"
   },
   {
     "source": "lobsters",
@@ -178,21 +188,6 @@
     "source": "lobsters",
     "url": "https://csswizardry.com/2026/07/low-and-mid-tier-mobile-for-the-real-world-2026/",
     "title": "Low- and Mid-Tier Mobile for the Real World"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://unsung.aresluna.org/five-moments-in-snapping-history/",
-    "title": "Five moments in snapping history"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://www.pillar.security/blog/the-week-of-sandbox-escapes",
-    "title": "7 Sandbox Escape Vulnerabilities Across 4 Coding Agent Vendors"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://turtleware.eu/posts/Building-an-AmigaOS-Development-Environment-in-2026.html",
-    "title": "Building an AmigaOS Development Environment in 2026"
   },
   {
     "source": "pinboard",
