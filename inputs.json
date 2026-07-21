@@ -6,13 +6,23 @@
   },
   {
     "source": "hn",
-    "url": "https://stratechery.com/2026/whos-afraid-of-chinese-models/",
-    "title": "Who's afraid of Chinese models?"
+    "url": "https://www.pcjs.org/",
+    "title": "PCjs Machines"
   },
   {
     "source": "hn",
-    "url": "https://www.kimi.com/products/kimi-work",
-    "title": "Kimi Work"
+    "url": "https://fidget-spinner.github.io/posts/ultra-fast-tracing.html",
+    "title": "Python 3.15's Ultra-Low Overhead Interpreter Profiling Mode – Ken Jin's Blog"
+  },
+  {
+    "source": "hn",
+    "url": "https://markwrites.io/mullvad-and-daniel-berntssons-failed-cleanup/",
+    "title": "Mullvad and Daniel Berntsson's Failed Cleanup"
+  },
+  {
+    "source": "hn",
+    "url": "https://stratechery.com/2026/whos-afraid-of-chinese-models/",
+    "title": "Who's afraid of Chinese models?"
   },
   {
     "source": "hn",
@@ -21,18 +31,28 @@
   },
   {
     "source": "hn",
+    "url": "https://www.kimi.com/products/kimi-work",
+    "title": "Kimi Work"
+  },
+  {
+    "source": "hn",
+    "url": "https://artifacta.io/a/pg_x9pombpdybx90q2s16eu",
+    "title": "Show HN: Explore 6048 YC companies as an interactive galaxy"
+  },
+  {
+    "source": "hn",
     "url": "https://xenaproject.wordpress.com/2026/07/20/human-mathematicians-are-being-outcounterexampled/",
     "title": "Human mathematicians are being outcounterexampled"
   },
   {
     "source": "hn",
-    "url": "https://www.armaangomes.com/blogs/doom/",
-    "title": "Running Doom on Our Custom CPU and Going Viral"
+    "url": "https://compilade.net/blog/ternary-packing",
+    "title": "How to pack ternary numbers in 8-bit bytes"
   },
   {
     "source": "hn",
-    "url": "https://compilade.net/blog/ternary-packing",
-    "title": "How to pack ternary numbers in 8-bit bytes"
+    "url": "https://www.armaangomes.com/blogs/doom/",
+    "title": "Running Doom on Our Custom CPU and Going Viral"
   },
   {
     "source": "hn",
@@ -46,13 +66,18 @@
   },
   {
     "source": "hn",
+    "url": "https://www.wired.com/story/best-motion-sensors-private-alternatives-security/",
+    "title": "Motion Sensors and Home Security Gadgets Without Cameras"
+  },
+  {
+    "source": "hn",
     "url": "https://numerlab.org/2025/07/20/bashumerate-enumerator/",
     "title": "I wrote an bash enumerator because I was sick of xargs"
   },
   {
     "source": "hn",
-    "url": "https://fidget-spinner.github.io/posts/ultra-fast-tracing.html",
-    "title": "Python 3.15's Ultra-Low Overhead Interpreter Profiling Mode – Ken Jin's Blog"
+    "url": "https://refactoringenglish.com/blog/why-i-stopped-creating-content/",
+    "title": "I Stopped “Creating Content”"
   },
   {
     "source": "hn",
@@ -71,38 +96,8 @@
   },
   {
     "source": "hn",
-    "url": "https://refactoringenglish.com/blog/why-i-stopped-creating-content/",
-    "title": "I Stopped “Creating Content”"
-  },
-  {
-    "source": "hn",
-    "url": "https://var0.xyz/posts/perfection-is-not-over-engineering.html",
-    "title": "Perfection is not over-engineering"
-  },
-  {
-    "source": "hn",
     "url": "https://www.scottrlarson.com/presentations/overcoming-surveillance-capitalism-with-awareness/",
     "title": "The Power of Awareness: Overcoming Surveillance Capitalism"
-  },
-  {
-    "source": "hn",
-    "url": "https://forum.jellyfin.org/t-project-leadership-changes",
-    "title": "Jellyfin founder Andrew leaves team"
-  },
-  {
-    "source": "hn",
-    "url": "https://nothings.org/gamedev/ssao/",
-    "title": "Corners Don't Look Like That: Regarding Screenspace Ambient Occlusion (2012)"
-  },
-  {
-    "source": "hn",
-    "url": "https://news.risky.biz/risky-bulletin-hacker-wipes-romanias-entire-land-registry-database/",
-    "title": "Hacker wipes Romania's land registry database"
-  },
-  {
-    "source": "hn",
-    "url": "https://thecomputersciencebook.com/posts/how-my-2yo-taught-me-constraint-solving/",
-    "title": "My two year old taught me constraint solving"
   },
   {
     "source": "lobsters",
@@ -116,13 +111,23 @@
   },
   {
     "source": "lobsters",
+    "url": "https://nesbitt.io/2026/07/21/end-of-options.html",
+    "title": "git --end-of-options"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://ervin.ipsquad.net/blog/2026/07/21/kde-for-entreprise-needs-a-strong-pim-infrastructure/",
+    "title": "KDE for Enterprise Needs a Strong PIM Infrastructure"
+  },
+  {
+    "source": "lobsters",
     "url": "https://gitolite.com/gitolite/index.html",
     "title": "Gitolite"
   },
   {
     "source": "lobsters",
-    "url": "https://evertpot.com/ssh-tunnel-if-unresolvable/",
-    "title": "Using a SSH bastion, but only when I'm touching grass"
+    "url": "https://blog.xoria.org/integers/",
+    "title": "Thoughts On Integers (2023)"
   },
   {
     "source": "lobsters",
@@ -136,13 +141,23 @@
   },
   {
     "source": "lobsters",
+    "url": "https://evertpot.com/ssh-tunnel-if-unresolvable/",
+    "title": "Using a SSH bastion, but only when I'm touching grass"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://fzakaria.com/2026/07/20/linux-kernel-will-support-origin-sort-of",
+    "title": "Linux kernel will support $ORIGIN, sort of"
+  },
+  {
+    "source": "lobsters",
     "url": "https://a.l3x.in/blog/welcome-to-my-forge/",
     "title": "A deep dive into my Forgejo setup"
   },
   {
     "source": "lobsters",
-    "url": "https://ervin.ipsquad.net/blog/2026/07/21/kde-for-entreprise-needs-a-strong-pim-infrastructure/",
-    "title": "KDE for Enterprise Needs a Strong PIM Infrastructure"
+    "url": "https://secretspec.dev/blog/secrets-dont-belong-in-config/",
+    "title": "Secrets Don’t Belong in Config"
   },
   {
     "source": "lobsters",
@@ -156,13 +171,18 @@
   },
   {
     "source": "lobsters",
-    "url": "https://secretspec.dev/blog/secrets-dont-belong-in-config/",
-    "title": "Secrets Don’t Belong in Config"
+    "url": "https://mccd.space/posts/26-06-29/simple-git-ci",
+    "title": "Minimal Git CI using hooks"
   },
   {
     "source": "lobsters",
-    "url": "https://mccd.space/posts/26-06-29/simple-git-ci",
-    "title": "Minimal Git CI using hooks"
+    "url": "https://csswizardry.com/2026/07/low-and-mid-tier-mobile-for-the-real-world-2026/",
+    "title": "Low- and Mid-Tier Mobile for the Real World"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://unsung.aresluna.org/five-moments-in-snapping-history/",
+    "title": "Five moments in snapping history"
   },
   {
     "source": "lobsters",
@@ -173,21 +193,6 @@
     "source": "lobsters",
     "url": "https://turtleware.eu/posts/Building-an-AmigaOS-Development-Environment-in-2026.html",
     "title": "Building an AmigaOS Development Environment in 2026"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://blog.cofree.coffee/2026-07-20-servant-auth-roles/",
-    "title": "Type Safe Servant Auth Roles"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://blog.xoria.org/integers/",
-    "title": "Thoughts On Integers (2023)"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://computer.rip/2026-07-19-email-encryption.html",
-    "title": "email encryption"
   },
   {
     "source": "pinboard",
