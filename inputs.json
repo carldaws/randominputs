@@ -16,18 +16,13 @@
   },
   {
     "source": "hn",
-    "url": "https://beej.us/blog/data/ai-making/",
-    "title": "Making"
-  },
-  {
-    "source": "hn",
     "url": "https://nondescriptpointer.com/articles/fairphone-6-wide-camera-linux/",
     "title": "Fairphone 6 wide camera experimental Linux support"
   },
   {
     "source": "hn",
-    "url": "https://citizendot.github.io/articles/fake-job-interview-git-hook-malware/",
-    "title": "I Inspected My Take-Home Interview Project. It Was a Whole Operation"
+    "url": "https://beej.us/blog/data/ai-making/",
+    "title": "Making"
   },
   {
     "source": "hn",
@@ -36,8 +31,8 @@
   },
   {
     "source": "hn",
-    "url": "https://mattjhall.co.uk/posts/taking-ocaml-eio-for-a-spin.html",
-    "title": "Taking OCaml and Eio for a Spin"
+    "url": "https://citizendot.github.io/articles/fake-job-interview-git-hook-malware/",
+    "title": "I Inspected My Take-Home Interview Project. It Was a Whole Operation"
   },
   {
     "source": "hn",
@@ -51,6 +46,16 @@
   },
   {
     "source": "hn",
+    "url": "https://museum.parallel.ai/introduction?era=modern",
+    "title": "Museum of the Human Web"
+  },
+  {
+    "source": "hn",
+    "url": "https://mattjhall.co.uk/posts/taking-ocaml-eio-for-a-spin.html",
+    "title": "Taking OCaml and Eio for a Spin"
+  },
+  {
+    "source": "hn",
     "url": "https://blog.fiddery.com/businesses-with-ugly-ai-menu-redesigns/",
     "title": "Businesses with ugly AI menu redesigns"
   },
@@ -61,28 +66,28 @@
   },
   {
     "source": "hn",
+    "url": "https://www.eventual.ai/blog/how-we-made-our-lerobot-video-reader-up-to-15x-faster",
+    "title": "How we made our LeRobot video reader up to 15× faster"
+  },
+  {
+    "source": "hn",
     "url": "https://blog.melashri.net/micro/back-to-kagi/",
     "title": "Back to Kagi"
   },
   {
     "source": "hn",
+    "url": "https://ishiguro-lab.org/projects/designing-a-4d-digital-archive-for-ikebana/",
+    "title": "Designing a 4D Digital Archive for Ikebana"
+  },
+  {
+    "source": "hn",
+    "url": "https://ohaodha.ie/blog/fretboard-memorisation-with-modular-arithmetic/",
+    "title": "Fretboard Memorisation with Modular Arithmetic"
+  },
+  {
+    "source": "hn",
     "url": "https://cruciblebench.ai/",
     "title": "Can a MUD evaluate LLMs? A $99 proof of concept"
-  },
-  {
-    "source": "hn",
-    "url": "https://dynomight.net/creatine/",
-    "title": "Does creatine make you smarter?"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.timwehrle.de/blog/which-streaming-service-was-that-on-again/",
-    "title": "Which streaming service was that on again?"
-  },
-  {
-    "source": "hn",
-    "url": "https://beej.us/blog/data/mystery-comment/",
-    "title": "10 REM\"_(C2SLFF4"
   },
   {
     "source": "lobsters",
@@ -126,13 +131,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://tokio.rs/blog/2026-07-22-announcing-topcoat",
-    "title": "Announcing Topcoat: a framework for building full-stack reactive web apps with Rust"
+    "url": "https://freeink.org/",
+    "title": "Free Ink · An open ecosystem for e-readers"
   },
   {
     "source": "lobsters",
-    "url": "https://freeink.org/",
-    "title": "Free Ink · An open ecosystem for e-readers"
+    "url": "https://tokio.rs/blog/2026-07-22-announcing-topcoat",
+    "title": "Announcing Topcoat: a framework for building full-stack reactive web apps with Rust"
   },
   {
     "source": "lobsters",
@@ -141,13 +146,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://thorsell.io/2026/07/21/github-ssh-keys.html",
-    "title": "GitHub suddenly rejected my SSH key (the fix was a .pub file?!)"
+    "url": "https://nullprogram.com/blog/2026/04/07/",
+    "title": "dcmake: a new CMake debugger UI"
   },
   {
     "source": "lobsters",
-    "url": "https://nullprogram.com/blog/2026/04/07/",
-    "title": "dcmake: a new CMake debugger UI"
+    "url": "https://thorsell.io/2026/07/21/github-ssh-keys.html",
+    "title": "GitHub suddenly rejected my SSH key (the fix was a .pub file?!)"
   },
   {
     "source": "lobsters",
@@ -161,22 +166,22 @@
   },
   {
     "source": "lobsters",
-    "url": "https://journal.james-zhan.com/no-ai-statements/",
-    "title": "“No AI” Statements Are Much More Than Mere Statements"
-  },
-  {
-    "source": "lobsters",
     "url": "https://etbe.coker.com.au/2026/07/19/ecc-ddr5/",
     "title": "ECC and DDR5"
   },
   {
     "source": "lobsters",
-    "url": "https://jvns.ca/blog/2026/07/21/more-nice-django-things/",
-    "title": "Some more things about Django I've been enjoying"
+    "url": "https://journal.james-zhan.com/no-ai-statements/",
+    "title": "“No AI” Statements Are Much More Than Mere Statements"
   },
   {
     "source": "lobsters",
     "url": "https://system76.com/blog/post/cosmic-de-first-seven-months",
     "title": "COSMIC DE’s First Seven Months"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://jvns.ca/blog/2026/07/21/more-nice-django-things/",
+    "title": "Some more things about Django I've been enjoying"
   }
 ]
