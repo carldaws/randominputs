@@ -1,6 +1,11 @@
 [
   {
     "source": "hn",
+    "url": "https://krebsonsecurity.com/2026/07/lg-to-ban-residential-proxies-from-smart-tv-apps/",
+    "title": "LG to ban residential proxies from smart TV apps"
+  },
+  {
+    "source": "hn",
     "url": "https://freeink.org/",
     "title": "FreeInk: Open ecosystem for e-readers"
   },
@@ -13,6 +18,11 @@
     "source": "hn",
     "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-6-flash-3-5-flash-lite-3-5-flash-cyber/",
     "title": "Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber"
+  },
+  {
+    "source": "hn",
+    "url": "https://late.sh/",
+    "title": "Late.sh – a command-line Clubhouse for computer people"
   },
   {
     "source": "hn",
@@ -31,8 +41,8 @@
   },
   {
     "source": "hn",
-    "url": "https://www.pramit.gg/post/remaking-echo-1-stealth-physics",
-    "title": "Recreating the math behind the first stealth aircraft"
+    "url": "https://blog.jimgrey.net/2026/07/21/its-a-shame-whats-happened-to-radio-3/",
+    "title": "It's a shame what's happened to radio"
   },
   {
     "source": "hn",
@@ -41,23 +51,18 @@
   },
   {
     "source": "hn",
-    "url": "https://www.getcomputable.com/",
-    "title": "Show HN: Computable – Buy, sell, and redeem GPU for the exact weeks you want"
-  },
-  {
-    "source": "hn",
-    "url": "https://justif.lyall.co/",
-    "title": "Show HN: Justif – Knuth-Plass justification and microtypography for the web"
-  },
-  {
-    "source": "hn",
     "url": "https://www.pcjs.org/",
     "title": "PCjs Machines"
   },
   {
     "source": "hn",
-    "url": "https://www.aventos.dev/our-process?view=blog",
-    "title": "How an AI Anime Is Created"
+    "url": "https://buildkite.engineering/how-a-flaky-test-exposed-a-redis-use-after-free/",
+    "title": "A flaky test exposed a Redis client use-after-free"
+  },
+  {
+    "source": "hn",
+    "url": "https://ambrook.com/offrange/culture/miso-in-space",
+    "title": "The Miso That Went to Space"
   },
   {
     "source": "hn",
@@ -66,13 +71,13 @@
   },
   {
     "source": "hn",
-    "url": "https://readthetape.cc/",
-    "title": "Show HN: Read the Tape – Wordle for daytrading, five blind S&P 500 charts a day"
+    "url": "https://justif.lyall.co/",
+    "title": "Show HN: Justif – Knuth-Plass justification and microtypography for the web"
   },
   {
     "source": "hn",
-    "url": "https://suzyahyah.github.io/machine%20learning/2026/06/27/trouble-with-time-series.html",
-    "title": "The unreasonable difficulty of time series forecasting"
+    "url": "https://www.getcomputable.com/",
+    "title": "Show HN: Computable – Buy, sell, and redeem GPU for the exact weeks you want"
   },
   {
     "source": "lobsters",
@@ -96,23 +101,23 @@
   },
   {
     "source": "lobsters",
-    "url": "https://bellkiosk.website/blog/reasons-to-website.html",
-    "title": "95 reasons for having your own website"
-  },
-  {
-    "source": "lobsters",
     "url": "https://fzakaria.com/2026/07/20/linux-kernel-will-support-origin-sort-of",
     "title": "Linux kernel will support $ORIGIN, sort of"
   },
   {
     "source": "lobsters",
-    "url": "https://blog.xoria.org/integers/",
-    "title": "Thoughts On Integers (2023)"
+    "url": "https://bellkiosk.website/blog/reasons-to-website.html",
+    "title": "95 reasons for having your own website"
   },
   {
     "source": "lobsters",
     "url": "https://system76.com/blog/post/cosmic-de-first-seven-months",
     "title": "COSMIC DE’s First Seven Months"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://blog.xoria.org/integers/",
+    "title": "Thoughts On Integers (2023)"
   },
   {
     "source": "lobsters",
@@ -123,6 +128,16 @@
     "source": "lobsters",
     "url": "https://cosy.com/y26/NL202603.html",
     "title": "Cosy Language"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://jvns.ca/blog/2026/07/21/more-nice-django-things/",
+    "title": "Some more things about Django I've been enjoying"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://blog.mempko.com/keeping-the-kv-cache-warm-measuring-prompt-cache-eviction-across-anthropic-openai-and-google/",
+    "title": "Your Agentic Workflow's Cache Keepalive Costs 8x Too Much"
   },
   {
     "source": "lobsters",
@@ -141,16 +156,6 @@
   },
   {
     "source": "lobsters",
-    "url": "https://blog.mempko.com/keeping-the-kv-cache-warm-measuring-prompt-cache-eviction-across-anthropic-openai-and-google/",
-    "title": "Your Agentic Workflow's Cache Keepalive Costs 8x Too Much"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://www.lexaloffle.com/bbs/?tid=152582",
-    "title": "AP8L - APL for the Pico-8"
-  },
-  {
-    "source": "lobsters",
     "url": "https://lazy-tmux.xyz",
     "title": "lazy-tmux: restore tmux sessions lazily, with scrollback"
   },
@@ -161,8 +166,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://www.gustavwengel.dk/value-of-domain-knowledge",
-    "title": "The Value of Domain Knowledge in Software"
+    "url": "https://www.lexaloffle.com/bbs/?tid=152582",
+    "title": "AP8L - APL for the Pico-8"
   },
   {
     "source": "pinboard",
