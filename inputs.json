@@ -1,28 +1,8 @@
 [
   {
     "source": "hn",
-    "url": "https://dynomight.net/creatine/",
-    "title": "Does creatine make you smarter?"
-  },
-  {
-    "source": "hn",
     "url": "https://bento.page/slides/",
     "title": "Show HN: Bento - An entire PowerPoint in one HTML file (edit+view+data+collab)"
-  },
-  {
-    "source": "hn",
-    "url": "https://hatchet.run/blog/postgres-survival-guide",
-    "title": "The startup's Postgres survival guide"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.orangecrumbs.com/hall/",
-    "title": "Show HN: HN Hall of Fame – browse 3,100 legendary Hacker News links"
-  },
-  {
-    "source": "hn",
-    "url": "https://beej.us/blog/data/mystery-comment/",
-    "title": "10 REM\"_(C2SLFF4"
   },
   {
     "source": "hn",
@@ -31,23 +11,18 @@
   },
   {
     "source": "hn",
-    "url": "https://hashcloak.com/blog/tutorial-introduction-to-formal-verification-with-lean-(part-1)",
-    "title": "Introduction to Formal Verification with Lean Part 1"
+    "url": "https://hatchet.run/blog/postgres-survival-guide",
+    "title": "The startup's Postgres survival guide"
   },
   {
     "source": "hn",
-    "url": "https://www.techeblog.com/drake-anthony-styropyro-mechanical-bulb-barometric-light/",
-    "title": "Drake Anthony Recreates the Mechanical Bulb First Seen in 1675 – TechEBlog"
+    "url": "https://cruciblebench.ai/",
+    "title": "Can a MUD evaluate LLMs? A $99 proof of concept"
   },
   {
     "source": "hn",
-    "url": "https://vishakh.blog/2026/07/21/i-built-a-private-genomics-study-with-stoffel-mpc/",
-    "title": "I Built a Private Genomics Study with Stoffel MPC"
-  },
-  {
-    "source": "hn",
-    "url": "https://opennode.com/",
-    "title": "OpenNode – Bitcoin Payment Processor"
+    "url": "https://www.orangecrumbs.com/hall/",
+    "title": "Show HN: HN Hall of Fame – browse 3,100 legendary Hacker News links"
   },
   {
     "source": "hn",
@@ -56,23 +31,8 @@
   },
   {
     "source": "hn",
-    "url": "https://www.redfin.com/news/ai-data-centers-opposition-education-benefit/",
-    "title": "Most Americans say \"not in my backyard\" to AI data centers"
-  },
-  {
-    "source": "hn",
-    "url": "https://agonora.com/blog/ethics-most-important-skill",
-    "title": "Ethics Is the Skill That Matters Most Now"
-  },
-  {
-    "source": "hn",
-    "url": "https://launchany.com/the-pillars-of-an-api-platform/",
-    "title": "The Pillars of an API Platform"
-  },
-  {
-    "source": "hn",
-    "url": "https://karlvmuller.com/posts/why-i-am-not-going-to-buy-a-computer/",
-    "title": "Why I am not going to buy a computer"
+    "url": "https://beej.us/blog/data/mystery-comment/",
+    "title": "10 REM\"_(C2SLFF4"
   },
   {
     "source": "hn",
@@ -81,13 +41,33 @@
   },
   {
     "source": "hn",
-    "url": "https://www.yankodesign.com/2026/05/31/a-zipper-patent-sat-in-a-garage-for-40-years-now-its-real/",
-    "title": "A Zipper Patent Sat in a Garage for 40 Years. Now It's Real"
+    "url": "https://deepsql.ai/",
+    "title": "Show HN: DeepSQL – A self-hostable DBA agent for Postgres and MySQL"
   },
   {
     "source": "hn",
-    "url": "https://www.timwehrle.de/blog/which-streaming-service-was-that-on-again/",
-    "title": "Which streaming service was that on again"
+    "url": "https://hashcloak.com/blog/tutorial-introduction-to-formal-verification-with-lean-(part-1)",
+    "title": "Introduction to Formal Verification with Lean Part 1"
+  },
+  {
+    "source": "hn",
+    "url": "https://agonora.com/blog/ethics-most-important-skill",
+    "title": "Ethics Is the Skill That Matters Most Now"
+  },
+  {
+    "source": "hn",
+    "url": "https://opennode.com/",
+    "title": "OpenNode – Bitcoin Payment Processor"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.swingnyc.com/",
+    "title": "Show HN: Web swing through midtown NYC"
+  },
+  {
+    "source": "hn",
+    "url": "https://platform-fools.com/posts/2026-04-27-nvlink/",
+    "title": "When Is NVLink Worth It?"
   },
   {
     "source": "hn",
@@ -96,8 +76,13 @@
   },
   {
     "source": "hn",
-    "url": "https://itsjustchronicallyoffline.bearblog.dev/physical-media-vs-digital-media/",
-    "title": "Physical Media vs. Digital Media"
+    "url": "https://www.timwehrle.de/blog/which-streaming-service-was-that-on-again/",
+    "title": "Which streaming service was that on again"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.redfin.com/news/ai-data-centers-opposition-education-benefit/",
+    "title": "Most Americans say \"not in my backyard\" to AI data centers"
   },
   {
     "source": "lobsters",
@@ -111,13 +96,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://purplesyringa.moe/blog/log-is-non-monotonous-in-php-and-lua/",
-    "title": "log is non-monotonous in PHP and Lua"
+    "url": "https://box2d.org/posts/2026/07/simd-for-collision/",
+    "title": "SIMD for Collision"
   },
   {
     "source": "lobsters",
-    "url": "https://box2d.org/posts/2026/07/simd-for-collision/",
-    "title": "SIMD for Collision"
+    "url": "https://purplesyringa.moe/blog/log-is-non-monotonous-in-php-and-lua/",
+    "title": "log is non-monotonic in PHP and Lua"
   },
   {
     "source": "lobsters",
@@ -126,8 +111,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://freeink.org/",
-    "title": "Free Ink · An open ecosystem for e-readers"
+    "url": "https://www.marginalia.nu/log/a_138_systemdocker/",
+    "title": "Unranked, systemd, crawls"
   },
   {
     "source": "lobsters",
@@ -141,8 +126,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://nesbitt.io/2026/07/21/end-of-options.html",
-    "title": "git --end-of-options"
+    "url": "https://freeink.org/",
+    "title": "Free Ink · An open ecosystem for e-readers"
   },
   {
     "source": "lobsters",
@@ -151,23 +136,18 @@
   },
   {
     "source": "lobsters",
-    "url": "https://system76.com/blog/post/cosmic-de-first-seven-months",
-    "title": "COSMIC DE’s First Seven Months"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://www.marginalia.nu/log/a_138_systemdocker/",
-    "title": "Unranked, systemd, crawls"
-  },
-  {
-    "source": "lobsters",
     "url": "https://blog.pypi.org/posts/2026-07-22-releases-now-reject-new-files-after-14-days/",
     "title": "PyPI releases now reject new files after 14 days"
   },
   {
     "source": "lobsters",
-    "url": "https://jvns.ca/blog/2026/07/21/more-nice-django-things/",
-    "title": "Some more things about Django I've been enjoying"
+    "url": "https://nesbitt.io/2026/07/21/end-of-options.html",
+    "title": "git --end-of-options"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://system76.com/blog/post/cosmic-de-first-seven-months",
+    "title": "COSMIC DE’s First Seven Months"
   },
   {
     "source": "lobsters",
@@ -176,23 +156,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://fzakaria.com/2026/07/20/linux-kernel-will-support-origin-sort-of",
-    "title": "Linux kernel will support $ORIGIN, sort of"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://www.pcjs.org/",
-    "title": "Old PC emulators that run in the browser"
-  },
-  {
-    "source": "lobsters",
     "url": "https://testing.googleblog.com/2026/07/prefactoring-clear-way-for-your-new.html",
     "title": "Prefactoring: Clear the Way for Your New Feature"
   },
   {
     "source": "lobsters",
-    "url": "https://bellkiosk.website/blog/reasons-to-website.html",
-    "title": "95 reasons for having your own website"
+    "url": "https://jvns.ca/blog/2026/07/21/more-nice-django-things/",
+    "title": "Some more things about Django I've been enjoying"
   },
   {
     "source": "lobsters",
@@ -201,7 +171,27 @@
   },
   {
     "source": "lobsters",
-    "url": "https://blog.xoria.org/integers/",
-    "title": "Thoughts On Integers (2023)"
+    "url": "https://www.pcjs.org/",
+    "title": "Old PC emulators that run in the browser"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://fzakaria.com/2026/07/20/linux-kernel-will-support-origin-sort-of",
+    "title": "Linux kernel will support $ORIGIN, sort of"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://tokio.rs/blog/2026-07-22-announcing-topcoat",
+    "title": "Announcing Topcoat: a framework for building full-stack reactive web apps with Rust"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://nullprogram.com/blog/2026/04/07/",
+    "title": "dcmake: a new CMake debugger UI"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://bellkiosk.website/blog/reasons-to-website.html",
+    "title": "95 reasons for having your own website"
   }
 ]
