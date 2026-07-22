@@ -41,8 +41,8 @@
   },
   {
     "source": "hn",
-    "url": "https://qwen.ai/blog?id=qwen-image-3.0",
-    "title": "Qwen-Image-3.0: Rich Content, Authentic Details, Deep Knowledge"
+    "url": "https://www.getcomputable.com/",
+    "title": "Show HN: Computable – Buy, sell, and redeem GPU for the exact weeks you want"
   },
   {
     "source": "hn",
@@ -56,6 +56,11 @@
   },
   {
     "source": "hn",
+    "url": "https://www.aventos.dev/our-process?view=blog",
+    "title": "How an AI Anime Is Created"
+  },
+  {
+    "source": "hn",
     "url": "https://rootkitlabs.com/2026/06/22/I%27m-Building-a-Secure-USB-Drive/",
     "title": "My USB Drive Has a Hidden Encrypted Vault"
   },
@@ -63,16 +68,6 @@
     "source": "hn",
     "url": "https://readthetape.cc/",
     "title": "Show HN: Read the Tape – Wordle for daytrading, five blind S&P 500 charts a day"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.getcomputable.com/",
-    "title": "Show HN: Computable – Buy, sell, and redeem GPU for the exact weeks you want"
-  },
-  {
-    "source": "hn",
-    "url": "https://happiness-science.org/price-of-happiness/",
-    "title": "The Price of Happiness (2024)"
   },
   {
     "source": "hn",
@@ -91,6 +86,11 @@
   },
   {
     "source": "lobsters",
+    "url": "https://seg6.space/posts/resurrecting-ipad-mini",
+    "title": "Bringing the modern web to the original iPad mini"
+  },
+  {
+    "source": "lobsters",
     "url": "https://journal.james-zhan.com/no-ai-statements/",
     "title": "“No AI” Statements Are Much More Than Mere Statements"
   },
@@ -106,18 +106,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://seg6.space/posts/resurrecting-ipad-mini",
-    "title": "Bringing the modern web to the original iPad mini"
+    "url": "https://blog.xoria.org/integers/",
+    "title": "Thoughts On Integers (2023)"
   },
   {
     "source": "lobsters",
     "url": "https://system76.com/blog/post/cosmic-de-first-seven-months",
     "title": "COSMIC DE’s First Seven Months"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://blog.xoria.org/integers/",
-    "title": "Thoughts On Integers (2023)"
   },
   {
     "source": "lobsters",
@@ -141,18 +136,18 @@
   },
   {
     "source": "lobsters",
+    "url": "https://blog.yoshuawuyts.com/capture-clauses-as-effects/#optimizing-for-writes",
+    "title": "Capture Clauses as Effects"
+  },
+  {
+    "source": "lobsters",
     "url": "https://blog.mempko.com/keeping-the-kv-cache-warm-measuring-prompt-cache-eviction-across-anthropic-openai-and-google/",
     "title": "Your Agentic Workflow's Cache Keepalive Costs 8x Too Much"
   },
   {
     "source": "lobsters",
     "url": "https://www.lexaloffle.com/bbs/?tid=152582",
-    "title": "AP8L - apl"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://blog.yoshuawuyts.com/capture-clauses-as-effects/#optimizing-for-writes",
-    "title": "Capture Clauses as Effects"
+    "title": "AP8L - APL for the Pico-8"
   },
   {
     "source": "lobsters",
@@ -168,5 +163,110 @@
     "source": "lobsters",
     "url": "https://www.gustavwengel.dk/value-of-domain-knowledge",
     "title": "The Value of Domain Knowledge in Software"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://stratechery.com/2026/whos-afraid-of-chinese-models/",
+    "title": "Who’s Afraid of Chinese Models? – Stratechery by Ben Thompson"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://ykdojo.github.io/claude-controls-mac/",
+    "title": "How to set up your spare Mac for Claude Code to fully control - a step-by-step guide | claude-controls-mac"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://workshop.cjpais.com/projects/transcribe-cpp",
+    "title": "Project - transcribe.cpp"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://airport.apunen.com/",
+    "title": "Airport Simulator"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://cuelume-site.pages.dev/",
+    "title": "Cuelume — interaction sounds for the web"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://maurycyz.com/projects/bad_jpeg/",
+    "title": "Regressive JPEGs: (Maurycy's blog)"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.whatcable.uk/",
+    "title": "WhatCable: Know what your USB-C cable can really do"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://velvetshark.com/ai-company-logos-that-look-like-buttholes",
+    "title": "Why do AI company logos look like buttholes?"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://tvexplorer.live/",
+    "title": "TV Explorer"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://amigafreeware.downer.tech/",
+    "title": "Amiga Freeware Archive"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://thenextweb.com/news/ai-advice-suppresses-critical-thinking-wrong-answers-study",
+    "title": "AI advice made people three times less accurate but twice as confident, researchers found"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://codex-resets.com/",
+    "title": "Codex Resets — last reset yesterday"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://haxxorwpm.0s.is/",
+    "title": "HaxxorWPM"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://clocks.dev/",
+    "title": "Clocks.dev"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://news.ycombinator.com/item?id=48959392",
+    "title": "Setting up your spare Mac for Claude Code to control, a step-by-step guide | Hacker News"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://immersivemath.com/ila/",
+    "title": "Immersive Linear Algebra - The world's first linear algebra book with fully interactive figures"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://negroniventurestudios.com/2026/07/18/the-computer-at-the-bottom-of-a-canal/",
+    "title": "The computer at the bottom of a canal – Negroni Venture Studios"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://dustycloud.org/blog/faulty-towers-vibe-sickness-and-the-vibe-bobsled/",
+    "title": "Faulty Towers, vibe sickness, and the vibe bobsled"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.newyorker.com/culture/the-weekend-essay/the-voice-of-google",
+    "title": "The voice of Google"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://jvns.ca/blog/2026/07/17/learning-about-running-sqlite/",
+    "title": "Learning a few things about running SQLite"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.jeravalue.com/en/text-music",
+    "title": "Text as Music | Jera Value"
   }
 ]
