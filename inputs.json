@@ -1,8 +1,28 @@
 [
   {
     "source": "hn",
-    "url": "https://blog.google/innovation-and-ai/technology/research/understanding-the-ai-economy/",
-    "title": "Understanding the AI Economy"
+    "url": "https://www.eso.org/public/news/eso2610/",
+    "title": "Astronomers may have found the first exomoon"
+  },
+  {
+    "source": "hn",
+    "url": "https://werd.io/private-healthcare-makes-industries-less-innovative-its-time-for-change/",
+    "title": "Private healthcare makes industries less innovative. It's time for change"
+  },
+  {
+    "source": "hn",
+    "url": "https://haqr.eu/tinyrenderer/",
+    "title": "Software rendering in 500 lines of bare C++"
+  },
+  {
+    "source": "hn",
+    "url": "https://futurism.com/artificial-intelligence/ai-companies-hide-debt-off-balance-sheet",
+    "title": "AI Companies Are Trying to Hide a Staggering Amount of Debt"
+  },
+  {
+    "source": "hn",
+    "url": "https://goldberg.berkeley.edu/garden/",
+    "title": "The Telegarden (1995-2004)"
   },
   {
     "source": "hn",
@@ -21,23 +41,8 @@
   },
   {
     "source": "hn",
-    "url": "https://www.worseonpurpose.com/",
-    "title": "Worse on Purpose – How Corporate Greed Killed Product Quality – Worse on Purpose"
-  },
-  {
-    "source": "hn",
     "url": "https://brightsec.com/research/detecting-ansi-escape-sequence-injection-in-mcp-servers-with-dast/",
     "title": "ANSI escape injection in MCP servers: Hidden from humans, visible to AI"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.cole-k.com/2026/07/21/reddit/",
-    "title": "So Reddit has decided that plain HTML is unsafe"
-  },
-  {
-    "source": "hn",
-    "url": "https://nesbitt.io/2026/07/21/end-of-options.html",
-    "title": "git's –end-of-options Flag"
   },
   {
     "source": "hn",
@@ -56,18 +61,13 @@
   },
   {
     "source": "hn",
-    "url": "https://blog.fiddery.com/businesses-with-ugly-ai-menu-redesigns/",
-    "title": "Businesses with ugly AI menu redesigns"
-  },
-  {
-    "source": "hn",
     "url": "http://yummymelon.com/devnull/malleable-computing-emacs-and-you.html",
     "title": "Malleable Computing, Emacs, and You"
   },
   {
     "source": "hn",
-    "url": "https://nondescriptpointer.com/articles/fairphone-6-wide-camera-linux/",
-    "title": "Fairphone 6 wide camera experimental Linux support"
+    "url": "https://blog.fiddery.com/businesses-with-ugly-ai-menu-redesigns/",
+    "title": "Businesses with ugly AI menu redesigns"
   },
   {
     "source": "lobsters",
@@ -76,13 +76,18 @@
   },
   {
     "source": "lobsters",
-    "url": "https://ebellani.github.io/blog/2026/why-care-about-programming-languages/",
-    "title": "Why care about programming languages"
+    "url": "https://citizendot.github.io/articles/fake-job-interview-git-hook-malware/",
+    "title": "I Inspected My Take-Home Interview Project. It Was a Whole Operation"
   },
   {
     "source": "lobsters",
-    "url": "https://citizendot.github.io/articles/fake-job-interview-git-hook-malware/",
-    "title": "I Inspected My Take-Home Interview Project. It Was a Whole Operation"
+    "url": "https://abhi.now/blog/calm-technologies/",
+    "title": "Calm technologies that excite me"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://ebellani.github.io/blog/2026/why-care-about-programming-languages/",
+    "title": "Why care about programming languages"
   },
   {
     "source": "lobsters",
@@ -91,8 +96,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://abhi.now/blog/calm-technologies/",
-    "title": "Calm technologies that excite me"
+    "url": "https://www.cole-k.com/2026/07/21/reddit/",
+    "title": "So Reddit has decided that plain HTML is unsafe"
   },
   {
     "source": "lobsters",
@@ -106,13 +111,28 @@
   },
   {
     "source": "lobsters",
+    "url": "https://wanix.dev/",
+    "title": "Wanix — Wasm-native Unix sandboxing for the web"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://martinalderson.com/posts/huggingface-openai-exploit/",
+    "title": "The first known runaway AI agent - or a very bad marketing stunt?"
+  },
+  {
+    "source": "lobsters",
     "url": "https://box2d.org/posts/2026/07/simd-for-collision/",
     "title": "SIMD for Collision"
   },
   {
     "source": "lobsters",
-    "url": "https://wanix.dev/",
-    "title": "Wanix — Wasm-native Unix sandboxing for the web"
+    "url": "https://addisoncrump.info/research/on-accountability/",
+    "title": "On Accountability"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://jamesoclaire.com/2026/07/23/pip-26-2-only-deps-solves-16-years-of-app-deployment-hacks/",
+    "title": "Pip 26.2: –only-deps solves 16 years of app deployment hacks"
   },
   {
     "source": "lobsters",
@@ -126,8 +146,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://jamesoclaire.com/2026/07/23/pip-26-2-only-deps-solves-16-years-of-app-deployment-hacks/",
-    "title": "Pip 26.2: –only-deps solves 16 years of app deployment hacks"
+    "url": "https://ssloy.github.io/tinyrenderer/",
+    "title": "Software rendering in 500 lines of bare C++"
   },
   {
     "source": "lobsters",
@@ -136,22 +156,12 @@
   },
   {
     "source": "lobsters",
-    "url": "https://tokio.rs/blog/2026-07-22-announcing-topcoat",
-    "title": "Announcing Topcoat: a framework for building full-stack reactive web apps with Rust"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://martinalderson.com/posts/huggingface-openai-exploit/",
-    "title": "The first known runaway AI agent - or a very bad marketing stunt?"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://benjaminwil.info/weblog/variation-selector-15/",
-    "title": "Unicode Variation Selector-15 and some of my tears"
-  },
-  {
-    "source": "lobsters",
     "url": "https://nesbitt.io/2026/07/23/package-name-prefixes.html",
     "title": "Package Name Prefixes"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://tokio.rs/blog/2026-07-22-announcing-topcoat",
+    "title": "Announcing Topcoat: a framework for building full-stack reactive web apps with Rust"
   }
 ]
