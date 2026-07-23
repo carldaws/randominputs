@@ -1,11 +1,6 @@
 [
   {
     "source": "hn",
-    "url": "http://yummymelon.com/devnull/malleable-computing-emacs-and-you.html",
-    "title": "Malleable Computing, Emacs, and You"
-  },
-  {
-    "source": "hn",
     "url": "https://bento.page/slides/",
     "title": "Show HN: Bento - An entire PowerPoint in one HTML file (edit+view+data+collab)"
   },
@@ -13,6 +8,11 @@
     "source": "hn",
     "url": "https://dylancastillo.co/posts/pelicanmaxxing.html",
     "title": "Are AI Labs Pelicanmaxxing?"
+  },
+  {
+    "source": "hn",
+    "url": "http://yummymelon.com/devnull/malleable-computing-emacs-and-you.html",
+    "title": "Malleable Computing, Emacs, and You"
   },
   {
     "source": "hn",
@@ -26,13 +26,13 @@
   },
   {
     "source": "hn",
-    "url": "https://hatchet.run/blog/postgres-survival-guide",
-    "title": "The startup's Postgres survival guide"
+    "url": "https://gwern.net/doc/fiction/science-fiction/2012-10-03-yvain-thewhisperingearring.html",
+    "title": "Clarity didn't work, trying mysterianism (2012)"
   },
   {
     "source": "hn",
-    "url": "https://citizendot.github.io/articles/fake-job-interview-git-hook-malware/",
-    "title": "I Inspected My Take-Home Interview Project. It Was a Whole Operation"
+    "url": "https://hatchet.run/blog/postgres-survival-guide",
+    "title": "The startup's Postgres survival guide"
   },
   {
     "source": "hn",
@@ -41,18 +41,8 @@
   },
   {
     "source": "hn",
-    "url": "https://daniel.lawrence.lu/blog/2026-07-15-dgx-spark-as-daily-driver/",
-    "title": "Nvidia DGX Spark as a daily driver"
-  },
-  {
-    "source": "hn",
-    "url": "https://museum.parallel.ai/introduction?era=modern",
-    "title": "Museum of the Human Web"
-  },
-  {
-    "source": "hn",
-    "url": "https://mattjhall.co.uk/posts/taking-ocaml-eio-for-a-spin.html",
-    "title": "Taking OCaml and Eio for a Spin"
+    "url": "https://www.eventual.ai/blog/how-we-made-our-lerobot-video-reader-up-to-15x-faster",
+    "title": "How we made our LeRobot video reader up to 15× faster"
   },
   {
     "source": "hn",
@@ -61,13 +51,18 @@
   },
   {
     "source": "hn",
-    "url": "https://ishmael.textualize.io/blog/ghost-cut/",
-    "title": "Ghost Cut – or why Cut and Paste is broken everywhere"
+    "url": "https://museum.parallel.ai/introduction?era=modern",
+    "title": "Museum of the Human Web"
   },
   {
     "source": "hn",
-    "url": "https://www.eventual.ai/blog/how-we-made-our-lerobot-video-reader-up-to-15x-faster",
-    "title": "How we made our LeRobot video reader up to 15× faster"
+    "url": "https://citizendot.github.io/articles/fake-job-interview-git-hook-malware/",
+    "title": "I Inspected My Take-Home Interview Project. It Was a Whole Operation"
+  },
+  {
+    "source": "hn",
+    "url": "https://claytondorge.com/patterns-list",
+    "title": "All 253 Patterns from Christopher Alexander's a Pattern Language Summarized"
   },
   {
     "source": "hn",
@@ -76,28 +71,23 @@
   },
   {
     "source": "hn",
-    "url": "https://ishiguro-lab.org/projects/designing-a-4d-digital-archive-for-ikebana/",
-    "title": "Designing a 4D Digital Archive for Ikebana"
+    "url": "https://ishmael.textualize.io/blog/ghost-cut/",
+    "title": "Ghost Cut – or why Cut and Paste is broken everywhere"
   },
   {
     "source": "hn",
-    "url": "https://ohaodha.ie/blog/fretboard-memorisation-with-modular-arithmetic/",
-    "title": "Fretboard Memorisation with Modular Arithmetic"
-  },
-  {
-    "source": "hn",
-    "url": "https://cruciblebench.ai/",
-    "title": "Can a MUD evaluate LLMs? A $99 proof of concept"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://krebsonsecurity.com/2026/07/lg-to-ban-residential-proxies-from-smart-tv-apps/",
-    "title": "LG to Ban Residential Proxies from Smart TV Apps"
+    "url": "https://mattjhall.co.uk/posts/taking-ocaml-eio-for-a-spin.html",
+    "title": "Taking OCaml and Eio for a Spin"
   },
   {
     "source": "lobsters",
     "url": "https://ebellani.github.io/blog/2026/why-care-about-programming-languages/",
     "title": "Why care about programming languages"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://krebsonsecurity.com/2026/07/lg-to-ban-residential-proxies-from-smart-tv-apps/",
+    "title": "LG to Ban Residential Proxies from Smart TV Apps"
   },
   {
     "source": "lobsters",
@@ -126,6 +116,16 @@
   },
   {
     "source": "lobsters",
+    "url": "https://tokio.rs/blog/2026-07-22-announcing-topcoat",
+    "title": "Announcing Topcoat: a framework for building full-stack reactive web apps with Rust"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://nullprogram.com/blog/2026/04/07/",
+    "title": "dcmake: a new CMake debugger UI"
+  },
+  {
+    "source": "lobsters",
     "url": "https://futhark-lang.org/blog/2026-07-21-rewriting-the-type-checker.html",
     "title": "Rewriting the Futhark type checker"
   },
@@ -136,18 +136,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://tokio.rs/blog/2026-07-22-announcing-topcoat",
-    "title": "Announcing Topcoat: a framework for building full-stack reactive web apps with Rust"
-  },
-  {
-    "source": "lobsters",
     "url": "https://testing.googleblog.com/2026/07/prefactoring-clear-way-for-your-new.html",
     "title": "Prefactoring: Clear the Way for Your New Feature"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://nullprogram.com/blog/2026/04/07/",
-    "title": "dcmake: a new CMake debugger UI"
   },
   {
     "source": "lobsters",
@@ -161,18 +151,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://nesbitt.io/2026/07/21/end-of-options.html",
-    "title": "git --end-of-options"
-  },
-  {
-    "source": "lobsters",
     "url": "https://etbe.coker.com.au/2026/07/19/ecc-ddr5/",
     "title": "ECC and DDR5"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://journal.james-zhan.com/no-ai-statements/",
-    "title": "“No AI” Statements Are Much More Than Mere Statements"
   },
   {
     "source": "lobsters",
@@ -181,7 +161,117 @@
   },
   {
     "source": "lobsters",
-    "url": "https://jvns.ca/blog/2026/07/21/more-nice-django-things/",
-    "title": "Some more things about Django I've been enjoying"
+    "url": "https://nesbitt.io/2026/07/21/end-of-options.html",
+    "title": "git --end-of-options"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://journal.james-zhan.com/no-ai-statements/",
+    "title": "“No AI” Statements Are Much More Than Mere Statements"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://stratechery.com/2026/whos-afraid-of-chinese-models/",
+    "title": "Who’s Afraid of Chinese Models? – Stratechery by Ben Thompson"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://xenaproject.wordpress.com/2026/07/20/human-mathematicians-are-being-outcounterexampled/",
+    "title": "Human mathematicians are being outcounterexampled | Xena"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://blaizzy.github.io/nativ/",
+    "title": "Nativ — Run AI locally on your Mac"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://airport.apunen.com/",
+    "title": "Airport Simulator"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.worseonpurpose.com/p/your-cookware-got-worse-on-purpose",
+    "title": "Your Cookware Got Worse On Purpose: Who Owns Pyrex & All-Clad Now"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://thenextweb.com/news/ai-advice-suppresses-critical-thinking-wrong-answers-study",
+    "title": "AI advice made people three times less accurate but twice as confident, researchers found"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://jelly-ui.com/",
+    "title": "Soft Web Components"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.whatcable.uk/",
+    "title": "WhatCable: Know what your USB-C cable can really do"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://tvexplorer.live/",
+    "title": "TV Explorer"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://ykdojo.github.io/claude-controls-mac/",
+    "title": "How to set up your spare Mac for Claude Code to fully control - a step-by-step guide | claude-controls-mac"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://stencil.so/blog/prewalk",
+    "title": "You only need the frontier model for one single edit — Stencil"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.jeravalue.com/en/text-music",
+    "title": "Text as Music | Jera Value"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://workshop.cjpais.com/projects/transcribe-cpp",
+    "title": "Project - transcribe.cpp"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.worseonpurpose.com/",
+    "title": "Worse on Purpose | How Corporate Greed Killed Product Quality | Worse on Purpose"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://buzz.xyz/",
+    "title": "Buzz — Your people, your agents, your project — all in one place."
+  },
+  {
+    "source": "pinboard",
+    "url": "https://clocks.dev/",
+    "title": "Clocks.dev"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.newyorker.com/culture/the-weekend-essay/the-voice-of-google",
+    "title": "The voice of Google"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://amigafreeware.downer.tech/",
+    "title": "Amiga Freeware Archive"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://nobody-wants-this.ghost.io/japans-design-for-humans/",
+    "title": "Japan's Design for Humans"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://news.ycombinator.com/item?id=48968606",
+    "title": "Show HN: I replaced a $120k bowling center system with $1,600 in ESP32s | Hacker News"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://ledger.worseonpurpose.com/",
+    "title": "The Brand Ledger — Worse on Purpose"
   }
 ]
