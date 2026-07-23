@@ -1,6 +1,11 @@
 [
   {
     "source": "hn",
+    "url": "https://glinscott.github.io/beam-engine/",
+    "title": "The Beam Engine"
+  },
+  {
+    "source": "hn",
     "url": "https://lukekanies.com/writing/building-on-atproto/",
     "title": "Building on ATProto"
   },
@@ -16,18 +21,23 @@
   },
   {
     "source": "hn",
+    "url": "https://blog.google/innovation-and-ai/technology/safety-security/selfie-video-sign-in/",
+    "title": "Selfie for sign-in: a new, easy way to access your Google Account"
+  },
+  {
+    "source": "hn",
     "url": "https://www.eso.org/public/news/eso2610/",
     "title": "Astronomers may have found the first exomoon"
   },
   {
     "source": "hn",
-    "url": "https://tombedor.dev/arguments-against-open-source-ai-are-very-bad/",
-    "title": "The arguments against open source AI are bad"
+    "url": "https://wuemeli.com/blog/sulfur-part-1/",
+    "title": "Converting Files into Minecraft Worlds"
   },
   {
     "source": "hn",
-    "url": "https://wuemeli.com/blog/sulfur-part-1/",
-    "title": "Converting Files into Minecraft Worlds"
+    "url": "https://tombedor.dev/arguments-against-open-source-ai-are-very-bad/",
+    "title": "The arguments against open source AI are bad"
   },
   {
     "source": "hn",
@@ -38,16 +48,6 @@
     "source": "hn",
     "url": "https://futurism.com/artificial-intelligence/ai-companies-hide-debt-off-balance-sheet",
     "title": "AI Companies Are Trying to Hide a Staggering Amount of Debt"
-  },
-  {
-    "source": "hn",
-    "url": "https://blog.mozilla.ai/from-evaluation-to-guardrails-what-we-brought-to-acm-facct-2026/",
-    "title": "From Evaluation to Guardrails: What We Brought to ACM FAccT 2026"
-  },
-  {
-    "source": "hn",
-    "url": "https://wiki.openstreetmap.org/wiki/Tag:boundary%3Dadministrative#Table_:_Admin_level_for_all_countries",
-    "title": "OpenStreetMap: Admin_level for All Countries"
   },
   {
     "source": "lobsters",
@@ -66,13 +66,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://ebellani.github.io/blog/2026/why-care-about-programming-languages/",
-    "title": "Why care about programming languages"
+    "url": "https://addisoncrump.info/research/on-accountability/",
+    "title": "On Accountability"
   },
   {
     "source": "lobsters",
-    "url": "https://addisoncrump.info/research/on-accountability/",
-    "title": "On Accountability"
+    "url": "https://ebellani.github.io/blog/2026/why-care-about-programming-languages/",
+    "title": "Why care about programming languages"
   },
   {
     "source": "lobsters",
@@ -81,28 +81,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://martinalderson.com/posts/huggingface-openai-exploit/",
-    "title": "The first known runaway AI agent - or a very bad marketing stunt?"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://enblog.eischmann.cz/2026/07/23/how-ai-is-changing-open-source/",
-    "title": "How AI Is Changing Open Source"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://www.cole-k.com/2026/07/21/reddit/",
-    "title": "So Reddit has decided that plain HTML is unsafe"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://ssloy.github.io/tinyrenderer/",
-    "title": "Software rendering in 500 lines of bare C++"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://shukla.io/blog/2026-07/cccx.html",
-    "title": "Spatial languages: writing code in 2D"
+    "url": "https://earendil.com/posts/prompt-caching/",
+    "title": "Prompt Caching In Agents"
   },
   {
     "source": "lobsters",
@@ -111,28 +91,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://blog.pypi.org/posts/2026-07-22-releases-now-reject-new-files-after-14-days/",
-    "title": "PyPI releases now reject new files after 14 days"
+    "url": "https://martinalderson.com/posts/huggingface-openai-exploit/",
+    "title": "The first known runaway AI agent - or a very bad marketing stunt?"
   },
   {
     "source": "lobsters",
-    "url": "https://krebsonsecurity.com/2026/07/lg-to-ban-residential-proxies-from-smart-tv-apps/",
-    "title": "LG to Ban Residential Proxies from Smart TV Apps"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://earendil.com/posts/prompt-caching/",
-    "title": "Prompt Caching In Agents"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://jamesoclaire.com/2026/07/23/pip-26-2-only-deps-solves-16-years-of-app-deployment-hacks/",
-    "title": "Pip 26.2: –only-deps solves 16 years of app deployment hacks"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://wanix.dev/",
-    "title": "Wanix — Wasm-native Unix sandboxing for the web"
+    "url": "https://ssloy.github.io/tinyrenderer/",
+    "title": "Software rendering in 500 lines of bare C++"
   },
   {
     "source": "lobsters",
@@ -141,12 +106,42 @@
   },
   {
     "source": "lobsters",
-    "url": "https://mattjhall.co.uk/posts/taking-ocaml-eio-for-a-spin.html",
-    "title": "Taking OCaml and Eio for a spin"
+    "url": "https://enblog.eischmann.cz/2026/07/23/how-ai-is-changing-open-source/",
+    "title": "How AI Is Changing Open Source"
   },
   {
     "source": "lobsters",
-    "url": "https://box2d.org/posts/2026/07/simd-for-collision/",
-    "title": "SIMD for Collision"
+    "url": "https://yogthos.net/posts/2026-07-02-jolt.html",
+    "title": "Jolt: running Clojure on Chez Scheme"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://www.cole-k.com/2026/07/21/reddit/",
+    "title": "So Reddit has decided that plain HTML is unsafe"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://shukla.io/blog/2026-07/cccx.html",
+    "title": "Spatial languages: writing code in 2D"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://blog.haschek.at/2026/you-should-selfhost-your-mail.html",
+    "title": "You should selfhost your mail (in 2026)"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://blog.pypi.org/posts/2026-07-22-releases-now-reject-new-files-after-14-days/",
+    "title": "PyPI releases now reject new files after 14 days"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://shnatsel.github.io/improving-std-simd-swizzle-dyn/",
+    "title": "Improving std::simd::swizzle_dyn"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://isaacvando.com/software-should-work-worked",
+    "title": "Software Should Work Worked"
   }
 ]
