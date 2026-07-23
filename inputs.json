@@ -16,18 +16,13 @@
   },
   {
     "source": "hn",
+    "url": "https://alexyang.dev/vim-ascii-art/",
+    "title": "Making ASCII Art in Vim"
+  },
+  {
+    "source": "hn",
     "url": "https://www.cole-k.com/2026/07/21/reddit/",
     "title": "So Reddit has decided that plain HTML is unsafe"
-  },
-  {
-    "source": "hn",
-    "url": "http://yummymelon.com/devnull/malleable-computing-emacs-and-you.html",
-    "title": "Malleable Computing, Emacs, and You"
-  },
-  {
-    "source": "hn",
-    "url": "https://hatchet.run/blog/postgres-survival-guide",
-    "title": "The startup's Postgres survival guide"
   },
   {
     "source": "hn",
@@ -36,23 +31,28 @@
   },
   {
     "source": "hn",
+    "url": "https://hatchet.run/blog/postgres-survival-guide",
+    "title": "The startup's Postgres survival guide"
+  },
+  {
+    "source": "hn",
+    "url": "http://yummymelon.com/devnull/malleable-computing-emacs-and-you.html",
+    "title": "Malleable Computing, Emacs, and You"
+  },
+  {
+    "source": "hn",
+    "url": "https://brightsec.com/research/detecting-ansi-escape-sequence-injection-in-mcp-servers-with-dast/",
+    "title": "ANSI escape injection in MCP servers: Hidden from humans, visible to AI"
+  },
+  {
+    "source": "hn",
     "url": "https://nondescriptpointer.com/articles/fairphone-6-wide-camera-linux/",
     "title": "Fairphone 6 wide camera experimental Linux support"
   },
   {
     "source": "hn",
-    "url": "https://petals.dev/",
-    "title": "Petals: Run LLMs at home, BitTorrent-style"
-  },
-  {
-    "source": "hn",
-    "url": "https://alexyang.dev/vim-ascii-art/",
-    "title": "Making ASCII Art in Vim"
-  },
-  {
-    "source": "hn",
-    "url": "https://gwern.net/doc/fiction/science-fiction/2012-10-03-yvain-thewhisperingearring.html",
-    "title": "Clarity didn't work, trying mysterianism (2012)"
+    "url": "https://ssenthilnathan3.github.io/blog/malloc/",
+    "title": "Why malloc always does more than I asked for?"
   },
   {
     "source": "hn",
@@ -66,23 +66,23 @@
   },
   {
     "source": "hn",
-    "url": "https://ishmael.textualize.io/blog/ghost-cut/",
-    "title": "Ghost Cut – or why Cut and Paste is broken everywhere"
+    "url": "https://claytondorge.com/patterns-list",
+    "title": "All 253 Patterns from Christopher Alexander's a Pattern Language Summarized"
   },
   {
     "source": "hn",
-    "url": "https://claytondorge.com/patterns-list",
-    "title": "All 253 Patterns from Christopher Alexander's a Pattern Language Summarized"
+    "url": "https://petals.dev/",
+    "title": "Petals: Run LLMs at home, BitTorrent-style"
+  },
+  {
+    "source": "hn",
+    "url": "https://ishmael.textualize.io/blog/ghost-cut/",
+    "title": "Ghost Cut – Or why Cut and Paste is broken everywhere"
   },
   {
     "source": "lobsters",
     "url": "https://ebellani.github.io/blog/2026/why-care-about-programming-languages/",
     "title": "Why care about programming languages"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://krebsonsecurity.com/2026/07/lg-to-ban-residential-proxies-from-smart-tv-apps/",
-    "title": "LG to Ban Residential Proxies from Smart TV Apps"
   },
   {
     "source": "lobsters",
@@ -96,8 +96,18 @@
   },
   {
     "source": "lobsters",
+    "url": "https://krebsonsecurity.com/2026/07/lg-to-ban-residential-proxies-from-smart-tv-apps/",
+    "title": "LG to Ban Residential Proxies from Smart TV Apps"
+  },
+  {
+    "source": "lobsters",
     "url": "https://blog.pypi.org/posts/2026-07-22-releases-now-reject-new-files-after-14-days/",
     "title": "PyPI releases now reject new files after 14 days"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://abhi.now/blog/calm-technologies/",
+    "title": "Calm technologies that excite me"
   },
   {
     "source": "lobsters",
@@ -116,13 +126,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://abhi.now/blog/calm-technologies/",
-    "title": "Calm technologies that excite me"
+    "url": "https://tokio.rs/blog/2026-07-22-announcing-topcoat",
+    "title": "Announcing Topcoat: a framework for building full-stack reactive web apps with Rust"
   },
   {
     "source": "lobsters",
-    "url": "https://tokio.rs/blog/2026-07-22-announcing-topcoat",
-    "title": "Announcing Topcoat: a framework for building full-stack reactive web apps with Rust"
+    "url": "https://jamesoclaire.com/2026/07/23/pip-26-2-only-deps-solves-16-years-of-app-deployment-hacks/",
+    "title": "Pip 26.2: –only-deps solves 16 years of app deployment hacks"
   },
   {
     "source": "lobsters",
@@ -131,8 +141,18 @@
   },
   {
     "source": "lobsters",
+    "url": "https://mattjhall.co.uk/posts/taking-ocaml-eio-for-a-spin.html",
+    "title": "Taking OCaml and Eio for a spin"
+  },
+  {
+    "source": "lobsters",
     "url": "https://nullprogram.com/blog/2026/04/07/",
     "title": "dcmake: a new CMake debugger UI"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://testing.googleblog.com/2026/07/prefactoring-clear-way-for-your-new.html",
+    "title": "Prefactoring: Clear the Way for Your New Feature"
   },
   {
     "source": "lobsters",
@@ -145,13 +165,88 @@
     "title": "Rewriting the Futhark type checker"
   },
   {
-    "source": "lobsters",
-    "url": "https://testing.googleblog.com/2026/07/prefactoring-clear-way-for-your-new.html",
-    "title": "Prefactoring: Clear the Way for Your New Feature"
+    "source": "pinboard",
+    "url": "https://blaizzy.github.io/nativ/",
+    "title": "Nativ — Run AI locally on your Mac"
   },
   {
-    "source": "lobsters",
-    "url": "https://mattjhall.co.uk/posts/taking-ocaml-eio-for-a-spin.html",
-    "title": "Taking OCaml and Eio for a spin"
+    "source": "pinboard",
+    "url": "https://stratechery.com/2026/whos-afraid-of-chinese-models/",
+    "title": "Who’s Afraid of Chinese Models? – Stratechery by Ben Thompson"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.worseonpurpose.com/p/your-cookware-got-worse-on-purpose",
+    "title": "Your Cookware Got Worse On Purpose: Who Owns Pyrex & All-Clad Now"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://xenaproject.wordpress.com/2026/07/20/human-mathematicians-are-being-outcounterexampled/",
+    "title": "Human mathematicians are being outcounterexampled | Xena"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://airport.apunen.com/",
+    "title": "Airport Simulator"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://screenwall.app/",
+    "title": "ScreenWall | Reuse Old Phones As Synced Widgets And Displays"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://jelly-ui.com/",
+    "title": "Soft Web Components"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.orangecrumbs.com/hall/",
+    "title": "HN Hall of Fame — links Hacker News keeps rediscovering"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://stencil.so/blog/prewalk",
+    "title": "You only need the frontier model for one single edit — Stencil"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://nobody-wants-this.ghost.io/japans-design-for-humans/",
+    "title": "Japan's Design for Humans"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.worseonpurpose.com/",
+    "title": "Worse on Purpose | How Corporate Greed Killed Product Quality | Worse on Purpose"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.404media.co/ai-companies-are-buying-tons-of-old-books-because-theyre-free-of-ai-slop/",
+    "title": "AI Companies Are Buying Tons of Old Books Because They're Free of AI Slop"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://jvns.ca/blog/2026/07/21/more-nice-django-things/",
+    "title": "Some more things about Django I've been enjoying"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://buzz.xyz/",
+    "title": "Buzz — Your people, your agents, your project — all in one place."
+  },
+  {
+    "source": "pinboard",
+    "url": "https://wren.wtf/shower-thoughts/stop-using-opencode/",
+    "title": "[cw] Stop Using OpenCode"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://news.ycombinator.com/item?id=49008211",
+    "title": "Show HN: Bento - An entire PowerPoint in one HTML file (edit+view+data+collab) | Hacker News"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.pigeonsandplanes.com/read/music-piracy-what-cd-oink-nine-inch-nails-streaming",
+    "title": "The Lost Joy of Music Piracy: WhatCD, Oink, and Spotify | Pigeons and Planes"
   }
 ]
