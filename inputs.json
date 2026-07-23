@@ -21,11 +21,6 @@
   },
   {
     "source": "hn",
-    "url": "https://blog.google/innovation-and-ai/technology/safety-security/selfie-video-sign-in/",
-    "title": "Selfie for sign-in: a new, easy way to access your Google Account"
-  },
-  {
-    "source": "hn",
     "url": "https://www.eso.org/public/news/eso2610/",
     "title": "Astronomers may have found the first exomoon"
   },
@@ -33,6 +28,11 @@
     "source": "hn",
     "url": "https://wuemeli.com/blog/sulfur-part-1/",
     "title": "Converting Files into Minecraft Worlds"
+  },
+  {
+    "source": "hn",
+    "url": "https://alexalejandre.com/interviews/interview-with-matheus-moreira/",
+    "title": "Interview with Matheus Moreira about Lone Lisp and Linux Kernel"
   },
   {
     "source": "hn",
@@ -48,6 +48,11 @@
     "source": "hn",
     "url": "https://futurism.com/artificial-intelligence/ai-companies-hide-debt-off-balance-sheet",
     "title": "AI Companies Are Trying to Hide a Staggering Amount of Debt"
+  },
+  {
+    "source": "hn",
+    "url": "https://simonwillison.net/2026/Jul/22/openai-cyberattack/",
+    "title": "OpenAI’s accidental attack against Hugging Face is science fiction that happened"
   },
   {
     "source": "lobsters",
@@ -81,11 +86,6 @@
   },
   {
     "source": "lobsters",
-    "url": "https://earendil.com/posts/prompt-caching/",
-    "title": "Prompt Caching In Agents"
-  },
-  {
-    "source": "lobsters",
     "url": "https://mariusbancila.ro/blog/2026/07/23/the-pimpl-idiom-and-the-cpp26-stdindirect-type/",
     "title": "The PImpl idiom and the C++26 std::indirect type"
   },
@@ -96,8 +96,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://ssloy.github.io/tinyrenderer/",
-    "title": "Software rendering in 500 lines of bare C++"
+    "url": "https://earendil.com/posts/prompt-caching/",
+    "title": "Prompt Caching In Agents"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://yogthos.net/posts/2026-07-02-jolt.html",
+    "title": "Jolt: running Clojure on Chez Scheme"
   },
   {
     "source": "lobsters",
@@ -106,13 +111,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://enblog.eischmann.cz/2026/07/23/how-ai-is-changing-open-source/",
-    "title": "How AI Is Changing Open Source"
+    "url": "https://ssloy.github.io/tinyrenderer/",
+    "title": "Software rendering in 500 lines of bare C++"
   },
   {
     "source": "lobsters",
-    "url": "https://yogthos.net/posts/2026-07-02-jolt.html",
-    "title": "Jolt: running Clojure on Chez Scheme"
+    "url": "https://enblog.eischmann.cz/2026/07/23/how-ai-is-changing-open-source/",
+    "title": "How AI Is Changing Open Source"
   },
   {
     "source": "lobsters",
@@ -131,6 +136,11 @@
   },
   {
     "source": "lobsters",
+    "url": "https://isaacvando.com/software-should-work-worked",
+    "title": "Software Should Work Worked"
+  },
+  {
+    "source": "lobsters",
     "url": "https://blog.pypi.org/posts/2026-07-22-releases-now-reject-new-files-after-14-days/",
     "title": "PyPI releases now reject new files after 14 days"
   },
@@ -138,10 +148,5 @@
     "source": "lobsters",
     "url": "https://shnatsel.github.io/improving-std-simd-swizzle-dyn/",
     "title": "Improving std::simd::swizzle_dyn"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://isaacvando.com/software-should-work-worked",
-    "title": "Software Should Work Worked"
   }
 ]
