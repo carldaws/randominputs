@@ -11,13 +11,13 @@
   },
   {
     "source": "hn",
-    "url": "https://marimo.io/blog/pycharm",
-    "title": "Marimo Now Runs in PyCharm"
+    "url": "https://globaloilnetwork.staffinganalytics.io/",
+    "title": "Show HN: I simulated closing the Strait of Hormuz on real oil trade data"
   },
   {
     "source": "hn",
-    "url": "https://ui.gsxhq.dev/",
-    "title": "Gsxui – Shadcn-style components for Go"
+    "url": "https://artificialanalysis.ai/models",
+    "title": "Opus 5 is currently #1 on Artificial Analysis Intelligence Leaderboard"
   },
   {
     "source": "hn",
@@ -26,13 +26,18 @@
   },
   {
     "source": "hn",
-    "url": "https://simone.org/advertising/",
-    "title": "What If We Made Advertising Illegal?"
+    "url": "https://www.wired.com/story/how-amazon-made-alexa-smarter/",
+    "title": "The Secret Origins of Amazon's Alexa"
   },
   {
     "source": "hn",
-    "url": "https://www.wired.com/story/how-amazon-made-alexa-smarter/",
-    "title": "The Secret Origins of Amazon's Alexa"
+    "url": "https://ui.gsxhq.dev/",
+    "title": "Gsxui – Shadcn-style components for Go"
+  },
+  {
+    "source": "hn",
+    "url": "https://marimo.io/blog/pycharm",
+    "title": "Marimo now runs in PyCharm"
   },
   {
     "source": "hn",
@@ -46,38 +51,23 @@
   },
   {
     "source": "hn",
-    "url": "https://www.beautifulpublicdata.com/the-footprints-of-every-building-in-nyc/",
-    "title": "The footprints of every building in NYC"
-  },
-  {
-    "source": "hn",
-    "url": "https://fenic.ai/blog/extending-polars-with-rust-expression-plugins",
-    "title": "Extending Polars with Rust Expression Plugins"
-  },
-  {
-    "source": "hn",
     "url": "https://obaid.wtf/jotbook/2026/07/18/how-i-got-into-yc-by-hacking-it.html",
     "title": "I got into YC Startup School by hacking it"
   },
   {
     "source": "hn",
-    "url": "https://foxglove.dev/blog/visualizing-the-artemis-ii-mission",
-    "title": "Visualizing the Artemis II Mission"
+    "url": "https://czterycztery.pl/slowo/quine-EN.html",
+    "title": "How to Write a Quine"
   },
   {
     "source": "hn",
-    "url": "https://alexwlchan.net/2026/non-breaking-code/",
-    "title": "Preventing line breaks in <code> elements"
+    "url": "https://www.beautifulpublicdata.com/the-footprints-of-every-building-in-nyc/",
+    "title": "The footprints of every building in NYC"
   },
   {
     "source": "hn",
-    "url": "https://s3.us-west-1.wasabisys.com/luminist/EB/S/Simak%20-%20So%20Bright%20the%20Vision.pdf",
-    "title": "So Bright the Vision (1956) – a story about machines writing instead of humans [pdf]"
-  },
-  {
-    "source": "hn",
-    "url": "https://blog.haschek.at/2026/you-should-selfhost-your-mail.html",
-    "title": "Self-host your mail server"
+    "url": "https://houseofsaud.com/irgc-claims-destroyed-amazon-bahrain-data-center/",
+    "title": "IRGC claims it destroyed Amazon's Bahrain data center"
   },
   {
     "source": "lobsters",
@@ -93,6 +83,16 @@
     "source": "lobsters",
     "url": "https://cachebag.sh/journal/interactive-rebasing/",
     "title": "git rebase -i is not that scary"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://blog.haschek.at/2026/you-should-selfhost-your-mail.html",
+    "title": "You should selfhost your mail (in 2026)"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://martin.janiczek.cz/2026/07/24/systems-and-delays.html",
+    "title": "Systems and Delays (2026)"
   },
   {
     "source": "lobsters",
@@ -126,132 +126,12 @@
   },
   {
     "source": "lobsters",
-    "url": "https://addisoncrump.info/research/on-accountability/",
-    "title": "On Accountability"
+    "url": "https://artemis.sh/2026/07/23/fast-synthesis-basic-oscillators.html",
+    "title": "Fast Synthesis of Basic Oscillators"
   },
   {
     "source": "lobsters",
     "url": "https://ferrous-systems.com/blog/query-cycles-a-compiler-murder-mystery/",
     "title": "Query cycles: A compiler murder mystery"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://isaacvando.com/software-should-work-worked",
-    "title": "Software Should Work Worked"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://artemis.sh/2026/07/23/fast-synthesis-basic-oscillators.html",
-    "title": "Fast Synthesis of Basic Oscillators"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://blaizzy.github.io/nativ/",
-    "title": "Nativ — Run AI locally on your Mac"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://hatchet.run/blog/postgres-survival-guide",
-    "title": "Hatchet · The startup's Postgres survival guide"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://freeink.org/",
-    "title": "Free Ink · An open ecosystem for e-readers"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.worseonpurpose.com/p/your-cookware-got-worse-on-purpose",
-    "title": "Your Cookware Got Worse On Purpose: Who Owns Pyrex & All-Clad Now"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://screenwall.app/",
-    "title": "ScreenWall | Reuse Old Phones As Synced Widgets And Displays"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://simonwillison.net/2026/Jul/22/openai-cyberattack/",
-    "title": "OpenAI’s accidental cyberattack against Hugging Face is science fiction that happened"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://bento.page/slides/",
-    "title": "Bento Slides Showcase — Bento Slides"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://fabiensanglard.net/jurrasic_park_computers/index.html",
-    "title": "Jurassic Park computers in excruciating detail"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://buzz.xyz/",
-    "title": "Buzz — Your people, your agents, your project — all in one place."
-  },
-  {
-    "source": "pinboard",
-    "url": "https://glinscott.github.io/beam-engine/",
-    "title": "How a Beam Engine Works — An Interactive Guide"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://blog.exe.dev/claude-is-not-a-compiler",
-    "title": "Claude Is Not a Compiler - exe.dev blog"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://dark.ronacher.eu/2026/7/21/never-enough/",
-    "title": "Never Enough"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.worseonpurpose.com/",
-    "title": "Worse on Purpose | How Corporate Greed Killed Product Quality | Worse on Purpose"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://jelly-ui.com/",
-    "title": "Soft Web Components"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.404media.co/ai-companies-are-buying-tons-of-old-books-because-theyre-free-of-ai-slop/",
-    "title": "AI Companies Are Buying Tons of Old Books Because They're Free of AI Slop"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://sound-effects.bbcrewind.co.uk/",
-    "title": "BBC Sound Effects"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-6-flash-3-5-flash-lite-3-5-flash-cyber/",
-    "title": "3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://book-prize-index.vercel.app/",
-    "title": "The Book Prize Index"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://stratechery.com/2026/whos-afraid-of-chinese-models/",
-    "title": "Who’s Afraid of Chinese Models? – Stratechery by Ben Thompson"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://ledger.worseonpurpose.com/",
-    "title": "The Brand Ledger — Worse on Purpose"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://beej.us/blog/data/ai-making/",
-    "title": "On Making"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://jvns.ca/blog/2026/07/21/more-nice-django-things/",
-    "title": "Some more things about Django I've been enjoying"
   }
 ]
