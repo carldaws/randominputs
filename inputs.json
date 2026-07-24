@@ -6,18 +6,23 @@
   },
   {
     "source": "hn",
+    "url": "http://visual6502.org/JSSim/index.html",
+    "title": "The Visual 6502"
+  },
+  {
+    "source": "hn",
     "url": "https://glinscott.github.io/beam-engine/",
     "title": "The Beam Engine"
   },
   {
     "source": "hn",
-    "url": "https://lukekanies.com/writing/building-on-atproto/",
-    "title": "Building on ATProto"
+    "url": "https://rybakov.com/blog/what_else_do_people_draw_on_gradient-copy.horse/",
+    "title": "What else do people draw on gradient.horse?"
   },
   {
     "source": "hn",
-    "url": "https://rybakov.com/blog/what_else_do_people_draw_on_gradient-copy.horse/",
-    "title": "What else do people draw on gradient.horse?"
+    "url": "https://lukekanies.com/writing/building-on-atproto/",
+    "title": "Building on ATProto"
   },
   {
     "source": "hn",
@@ -41,8 +46,8 @@
   },
   {
     "source": "hn",
-    "url": "https://wuemeli.com/blog/sulfur-part-1/",
-    "title": "Converting Files into Minecraft Worlds"
+    "url": "https://fractl.art",
+    "title": "Fractl.art – a fractal generator with 8 octillion different patterns"
   },
   {
     "source": "hn",
@@ -51,8 +56,23 @@
   },
   {
     "source": "hn",
+    "url": "https://wuemeli.com/blog/sulfur-part-1/",
+    "title": "Converting Files into Minecraft Worlds"
+  },
+  {
+    "source": "hn",
     "url": "https://eliemichel.github.io/LearnWebGPU/",
     "title": "Learn WebGPU for C++"
+  },
+  {
+    "source": "hn",
+    "url": "https://simonwillison.net/2026/Jul/22/openai-cyberattack/",
+    "title": "OpenAI’s accidental attack against Hugging Face is science fiction that happened"
+  },
+  {
+    "source": "hn",
+    "url": "https://futurism.com/artificial-intelligence/ai-companies-hide-debt-off-balance-sheet",
+    "title": "AI Companies Are Trying to Hide a Staggering Amount of Debt"
   },
   {
     "source": "lobsters",
@@ -66,6 +86,11 @@
   },
   {
     "source": "lobsters",
+    "url": "https://yogthos.net/posts/2026-07-02-jolt.html",
+    "title": "Jolt: running Clojure on Chez Scheme"
+  },
+  {
+    "source": "lobsters",
     "url": "https://citizendot.github.io/articles/fake-job-interview-git-hook-malware/",
     "title": "I Inspected My Take-Home Interview Project. It Was a Whole Operation"
   },
@@ -76,13 +101,18 @@
   },
   {
     "source": "lobsters",
-    "url": "https://ebellani.github.io/blog/2026/why-care-about-programming-languages/",
-    "title": "Why care about programming languages"
+    "url": "https://martinalderson.com/posts/huggingface-openai-exploit/",
+    "title": "The first known runaway AI agent - or a very bad marketing stunt?"
   },
   {
     "source": "lobsters",
-    "url": "https://martinalderson.com/posts/huggingface-openai-exploit/",
-    "title": "The first known runaway AI agent - or a very bad marketing stunt?"
+    "url": "https://blog.haschek.at/2026/you-should-selfhost-your-mail.html",
+    "title": "You should selfhost your mail (in 2026)"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://xenodium.com/agent-shell-0-63-updates",
+    "title": "agent-shell 0.63 updates"
   },
   {
     "source": "lobsters",
@@ -91,8 +121,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://yogthos.net/posts/2026-07-02-jolt.html",
-    "title": "Jolt: running Clojure on Chez Scheme"
+    "url": "https://ebellani.github.io/blog/2026/why-care-about-programming-languages/",
+    "title": "Why care about programming languages"
   },
   {
     "source": "lobsters",
@@ -106,28 +136,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://xenodium.com/agent-shell-0-63-updates",
-    "title": "agent-shell 0.63 updates"
-  },
-  {
-    "source": "lobsters",
     "url": "https://ssloy.github.io/tinyrenderer/",
     "title": "Software rendering in 500 lines of bare C++"
   },
   {
     "source": "lobsters",
-    "url": "https://blog.haschek.at/2026/you-should-selfhost-your-mail.html",
-    "title": "You should selfhost your mail (in 2026)"
-  },
-  {
-    "source": "lobsters",
     "url": "https://isaacvando.com/software-should-work-worked",
     "title": "Software Should Work Worked"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://enblog.eischmann.cz/2026/07/23/how-ai-is-changing-open-source/",
-    "title": "How AI Is Changing Open Source"
   },
   {
     "source": "lobsters",
@@ -141,13 +156,23 @@
   },
   {
     "source": "lobsters",
-    "url": "https://blog.pypi.org/posts/2026-07-22-releases-now-reject-new-files-after-14-days/",
-    "title": "PyPI releases now reject new files after 14 days"
+    "url": "https://shnatsel.github.io/improving-std-simd-swizzle-dyn/",
+    "title": "Improving std::simd::swizzle_dyn"
   },
   {
     "source": "lobsters",
     "url": "https://wanix.dev/",
     "title": "Wanix — Wasm-native Unix sandboxing for the web"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://collectivefutures.blog/whose-freedom-is-it-anyway/",
+    "title": "Whose freedom is it anyway?"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://blog.pypi.org/posts/2026-07-22-releases-now-reject-new-files-after-14-days/",
+    "title": "PyPI releases now reject new files after 14 days"
   },
   {
     "source": "pinboard",
