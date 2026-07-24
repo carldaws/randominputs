@@ -1,18 +1,13 @@
 [
   {
     "source": "hn",
-    "url": "https://jdan.github.io/98.css/#status-bar",
-    "title": "98.css"
-  },
-  {
-    "source": "hn",
-    "url": "http://visual6502.org/JSSim/index.html",
-    "title": "The Visual 6502"
-  },
-  {
-    "source": "hn",
     "url": "https://glinscott.github.io/beam-engine/",
     "title": "The Beam Engine"
+  },
+  {
+    "source": "hn",
+    "url": "https://rybakov.com/blog/zuckerberg_emojis/",
+    "title": "Zuckerberg Emojis"
   },
   {
     "source": "hn",
@@ -21,8 +16,8 @@
   },
   {
     "source": "hn",
-    "url": "https://lukekanies.com/writing/building-on-atproto/",
-    "title": "Building on ATProto"
+    "url": "https://jdan.github.io/98.css/#status-bar",
+    "title": "98.css"
   },
   {
     "source": "hn",
@@ -31,13 +26,23 @@
   },
   {
     "source": "hn",
-    "url": "https://alexalejandre.com/interviews/interview-with-matheus-moreira/",
-    "title": "Interview with Matheus Moreira about Lone Lisp and Linux Kernel"
+    "url": "https://learnopengl.com/",
+    "title": "Learn OpenGL, extensive tutorial resource for learning Modern OpenGL"
   },
   {
     "source": "hn",
-    "url": "https://learnopengl.com/",
-    "title": "Learn OpenGL, extensive tutorial resource for learning Modern OpenGL"
+    "url": "https://en.wikipedia.org/wiki/Freeze-casting",
+    "title": "Freeze-Casting"
+  },
+  {
+    "source": "hn",
+    "url": "https://lukekanies.com/writing/building-on-atproto/",
+    "title": "Building on ATProto"
+  },
+  {
+    "source": "hn",
+    "url": "http://visual6502.org/JSSim/index.html",
+    "title": "The Visual 6502"
   },
   {
     "source": "hn",
@@ -51,18 +56,13 @@
   },
   {
     "source": "hn",
-    "url": "https://tombedor.dev/arguments-against-open-source-ai-are-very-bad/",
-    "title": "The arguments against open source AI are bad"
+    "url": "https://xn--gckvb8fzb.com/i-regret-migrating-to-codeberg/",
+    "title": "I regret migrating to Codeberg"
   },
   {
     "source": "hn",
-    "url": "https://wuemeli.com/blog/sulfur-part-1/",
-    "title": "Converting Files into Minecraft Worlds"
-  },
-  {
-    "source": "hn",
-    "url": "https://eliemichel.github.io/LearnWebGPU/",
-    "title": "Learn WebGPU for C++"
+    "url": "https://www.the-scientist.com/police-removed-prominent-scientists-from-the-ada-meeting-researchers-respond-74607",
+    "title": "Police Removed Prominent Scientists from the ADA Meeting. Researchers Respond"
   },
   {
     "source": "hn",
@@ -71,8 +71,8 @@
   },
   {
     "source": "hn",
-    "url": "https://futurism.com/artificial-intelligence/ai-companies-hide-debt-off-balance-sheet",
-    "title": "AI Companies Are Trying to Hide a Staggering Amount of Debt"
+    "url": "https://tombedor.dev/arguments-against-open-source-ai-are-very-bad/",
+    "title": "The arguments against open source AI are bad"
   },
   {
     "source": "lobsters",
@@ -81,13 +81,18 @@
   },
   {
     "source": "lobsters",
-    "url": "https://abhi.now/blog/calm-technologies/",
-    "title": "Calm technologies that excite me"
+    "url": "https://yogthos.net/posts/2026-07-02-jolt.html",
+    "title": "Jolt: running Clojure on Chez Scheme"
   },
   {
     "source": "lobsters",
-    "url": "https://yogthos.net/posts/2026-07-02-jolt.html",
-    "title": "Jolt: running Clojure on Chez Scheme"
+    "url": "https://blog.haschek.at/2026/you-should-selfhost-your-mail.html",
+    "title": "You should selfhost your mail (in 2026)"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://abhi.now/blog/calm-technologies/",
+    "title": "Calm technologies that excite me"
   },
   {
     "source": "lobsters",
@@ -106,13 +111,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://blog.haschek.at/2026/you-should-selfhost-your-mail.html",
-    "title": "You should selfhost your mail (in 2026)"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://xenodium.com/agent-shell-0-63-updates",
-    "title": "agent-shell 0.63 updates"
+    "url": "https://mariusbancila.ro/blog/2026/07/23/the-pimpl-idiom-and-the-cpp26-stdindirect-type/",
+    "title": "The PImpl idiom and the C++26 std::indirect type"
   },
   {
     "source": "lobsters",
@@ -126,8 +126,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://mariusbancila.ro/blog/2026/07/23/the-pimpl-idiom-and-the-cpp26-stdindirect-type/",
-    "title": "The PImpl idiom and the C++26 std::indirect type"
+    "url": "https://xenodium.com/agent-shell-0-63-updates",
+    "title": "agent-shell 0.63 updates"
   },
   {
     "source": "lobsters",
@@ -136,13 +136,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://ssloy.github.io/tinyrenderer/",
-    "title": "Software rendering in 500 lines of bare C++"
+    "url": "https://isaacvando.com/software-should-work-worked",
+    "title": "Software Should Work Worked"
   },
   {
     "source": "lobsters",
-    "url": "https://isaacvando.com/software-should-work-worked",
-    "title": "Software Should Work Worked"
+    "url": "https://ssloy.github.io/tinyrenderer/",
+    "title": "Software rendering in 500 lines of bare C++"
   },
   {
     "source": "lobsters",
@@ -156,6 +156,11 @@
   },
   {
     "source": "lobsters",
+    "url": "https://hiraditya.github.io/posts/mlir-dialect-stack-for-ml/",
+    "title": "A tour of MLIR: The Dialect Stack Everyone Depends On"
+  },
+  {
+    "source": "lobsters",
     "url": "https://shnatsel.github.io/improving-std-simd-swizzle-dyn/",
     "title": "Improving std::simd::swizzle_dyn"
   },
@@ -163,110 +168,5 @@
     "source": "lobsters",
     "url": "https://wanix.dev/",
     "title": "Wanix — Wasm-native Unix sandboxing for the web"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://collectivefutures.blog/whose-freedom-is-it-anyway/",
-    "title": "Whose freedom is it anyway?"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://blog.pypi.org/posts/2026-07-22-releases-now-reject-new-files-after-14-days/",
-    "title": "PyPI releases now reject new files after 14 days"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://blaizzy.github.io/nativ/",
-    "title": "Nativ — Run AI locally on your Mac"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://freeink.org/",
-    "title": "Free Ink · An open ecosystem for e-readers"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://stratechery.com/2026/whos-afraid-of-chinese-models/",
-    "title": "Who’s Afraid of Chinese Models? – Stratechery by Ben Thompson"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.worseonpurpose.com/p/your-cookware-got-worse-on-purpose",
-    "title": "Your Cookware Got Worse On Purpose: Who Owns Pyrex & All-Clad Now"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://xenaproject.wordpress.com/2026/07/20/human-mathematicians-are-being-outcounterexampled/",
-    "title": "Human mathematicians are being outcounterexampled | Xena"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://hatchet.run/blog/postgres-survival-guide",
-    "title": "Hatchet · The startup's Postgres survival guide"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://airport.apunen.com/",
-    "title": "Airport Simulator"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://screenwall.app/",
-    "title": "ScreenWall | Reuse Old Phones As Synced Widgets And Displays"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://jelly-ui.com/",
-    "title": "Soft Web Components"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.orangecrumbs.com/hall/",
-    "title": "HN Hall of Fame — links Hacker News keeps rediscovering"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://stencil.so/blog/prewalk",
-    "title": "You only need the frontier model for one single edit — Stencil"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://nobody-wants-this.ghost.io/japans-design-for-humans/",
-    "title": "Japan's Design for Humans"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.worseonpurpose.com/",
-    "title": "Worse on Purpose | How Corporate Greed Killed Product Quality | Worse on Purpose"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.404media.co/ai-companies-are-buying-tons-of-old-books-because-theyre-free-of-ai-slop/",
-    "title": "AI Companies Are Buying Tons of Old Books Because They're Free of AI Slop"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://jvns.ca/blog/2026/07/21/more-nice-django-things/",
-    "title": "Some more things about Django I've been enjoying"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://buzz.xyz/",
-    "title": "Buzz — Your people, your agents, your project — all in one place."
-  },
-  {
-    "source": "pinboard",
-    "url": "https://wren.wtf/shower-thoughts/stop-using-opencode/",
-    "title": "[cw] Stop Using OpenCode"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://news.ycombinator.com/item?id=49008211",
-    "title": "Show HN: Bento - An entire PowerPoint in one HTML file (edit+view+data+collab) | Hacker News"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.pigeonsandplanes.com/read/music-piracy-what-cd-oink-nine-inch-nails-streaming",
-    "title": "The Lost Joy of Music Piracy: WhatCD, Oink, and Spotify | Pigeons and Planes"
   }
 ]
