@@ -1,38 +1,33 @@
 [
   {
     "source": "hn",
+    "url": "https://www.dbos.dev/blog/postgres-listen-notify-scalability",
+    "title": "Postgres LISTEN/NOTIFY actually scales"
+  },
+  {
+    "source": "hn",
     "url": "https://hhh.hn/hanwha-github-token/",
     "title": "My security camera shipped a GitHub admin token in its login page"
   },
   {
     "source": "hn",
-    "url": "https://adriengonin.com/writing/service-with-a-software/",
-    "title": "Micro-SaaS Is Dead. Service With A Software Replaces It"
+    "url": "https://obaid.wtf/jotbook/2026/07/18/how-i-got-into-yc-by-hacking-it.html",
+    "title": "I got into YC (Startup School) by hacking it"
   },
   {
     "source": "hn",
-    "url": "https://gjtorikian.online/posts/proving-a-human-wrote-something/",
-    "title": "Proving a Human Wrote Something"
+    "url": "https://ui.gsxhq.dev/",
+    "title": "Gsxui – Shadcn-style components for Go"
   },
   {
     "source": "hn",
-    "url": "https://wisedayplanner.com/blog/apple-wont-let-me-show-my-app/",
-    "title": "Apple won't let me show my app"
+    "url": "https://marimo.io/blog/pycharm",
+    "title": "Marimo Now Runs in PyCharm"
   },
   {
     "source": "hn",
-    "url": "https://foldkit.dev/",
-    "title": "The front end framework for correctness: built on Effect, architected like Elm"
-  },
-  {
-    "source": "hn",
-    "url": "https://friendo.monster/posts/the-kids-guide-to-piracy.html",
-    "title": "The Kids' Guide to Piracy"
-  },
-  {
-    "source": "hn",
-    "url": "https://glyphack.com/attention/",
-    "title": "It's getting harder to focus every day"
+    "url": "https://blog.willgrant.org/2026/07/23/the-hardest-way-to-make-gif.html",
+    "title": "The hardest way to make a GIF"
   },
   {
     "source": "hn",
@@ -41,13 +36,18 @@
   },
   {
     "source": "hn",
-    "url": "https://www.unitree.com/As2-W/",
-    "title": "Unitree As2-W"
+    "url": "https://spacetimetech.wordpress.com/2026/07/19/the-small-real-original-web/",
+    "title": "The small, real, original web"
   },
   {
     "source": "hn",
-    "url": "https://shi-yan.github.io/webgpuunleashed/",
-    "title": "WebGPU Unleashed: A Practical Tutorial"
+    "url": "https://glyphack.com/attention/",
+    "title": "It's getting harder to focus every day"
+  },
+  {
+    "source": "hn",
+    "url": "https://foldkit.dev/",
+    "title": "The front end framework for correctness: built on Effect, architected like Elm"
   },
   {
     "source": "hn",
@@ -56,18 +56,33 @@
   },
   {
     "source": "hn",
-    "url": "https://civboot.github.io/blog/2026-07-24-build-systems.html",
-    "title": "Build Systems Discussion"
+    "url": "https://www.unitree.com/As2-W/",
+    "title": "Unitree As2-W"
   },
   {
     "source": "hn",
-    "url": "https://eugene-andrienko.com/2026-07-05-my-emacs-configuration-dired.html",
-    "title": "My Emacs Configuration (Dired)"
+    "url": "https://blog.cloudflare.com/bgp-origin-attribute/",
+    "title": "BGP ORIGIN attribute manipulation and its impact on the Internet"
   },
   {
-    "source": "lobsters",
-    "url": "https://blog.willgrant.org/2026/07/23/the-hardest-way-to-make-gif.html",
-    "title": "Making GIFs from 35mm film photography"
+    "source": "hn",
+    "url": "https://blog.haschek.at/2026/you-should-selfhost-your-mail.html",
+    "title": "Self-host your mail server"
+  },
+  {
+    "source": "hn",
+    "url": "https://hopl.info/",
+    "title": "Online Historical Encyclopaedia of Programming Languages"
+  },
+  {
+    "source": "hn",
+    "url": "https://ben3d.ca/blog/reporting-web-3d-capabilities-on-a-budget",
+    "title": "Reporting Web 3D Capabilities on a Budget of $3 a Month"
+  },
+  {
+    "source": "hn",
+    "url": "https://lucumr.pocoo.org/2026/7/24/codeberg-divides/",
+    "title": "Codeberg Divides"
   },
   {
     "source": "lobsters",
@@ -81,8 +96,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://blog.haschek.at/2026/you-should-selfhost-your-mail.html",
-    "title": "You should selfhost your mail (in 2026)"
+    "url": "https://cachebag.sh/journal/interactive-rebasing/",
+    "title": "git rebase -i is not that scary"
   },
   {
     "source": "lobsters",
@@ -96,13 +111,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://abhi.now/blog/calm-technologies/",
-    "title": "Calm technologies that excite me"
+    "url": "https://blogs.gnome.org/chergert/2026/07/24/ffi_call_plan-caching-for-glib/",
+    "title": "ffi_call_plan caching for GLib"
   },
   {
     "source": "lobsters",
-    "url": "https://isaacvando.com/software-should-work-worked",
-    "title": "Software Should Work Worked"
+    "url": "https://abhi.now/blog/calm-technologies/",
+    "title": "Calm technologies that excite me"
   },
   {
     "source": "lobsters",
@@ -111,13 +126,18 @@
   },
   {
     "source": "lobsters",
-    "url": "https://blogs.gnome.org/chergert/2026/07/24/ffi_call_plan-caching-for-glib/",
-    "title": "ffi_call_plan caching for GLib"
+    "url": "https://isaacvando.com/software-should-work-worked",
+    "title": "Software Should Work Worked"
   },
   {
     "source": "lobsters",
     "url": "https://artemis.sh/2026/07/23/fast-synthesis-basic-oscillators.html",
     "title": "Fast Synthesis of Basic Oscillators"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://ferrous-systems.com/blog/query-cycles-a-compiler-murder-mystery/",
+    "title": "Query cycles: A compiler murder mystery"
   },
   {
     "source": "lobsters",
@@ -128,26 +148,6 @@
     "source": "lobsters",
     "url": "https://webaim.org/projects/million/#errors",
     "title": "WebAIM 2026 report on Accessibility errors across the top 1M web pages"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://ferrous-systems.com/blog/query-cycles-a-compiler-murder-mystery/",
-    "title": "Query cycles: A compiler murder mystery"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://citizendot.github.io/articles/fake-job-interview-git-hook-malware/",
-    "title": "I Inspected My Take-Home Interview Project. It Was a Whole Operation"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://earendil.com/posts/prompt-caching/",
-    "title": "Prompt Caching In Agents"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://cachebag.sh/journal/interactive-rebasing/",
-    "title": "git rebase -i is not that scary"
   },
   {
     "source": "pinboard",
