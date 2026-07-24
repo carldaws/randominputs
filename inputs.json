@@ -11,8 +11,8 @@
   },
   {
     "source": "hn",
-    "url": "https://obaid.wtf/jotbook/2026/07/18/how-i-got-into-yc-by-hacking-it.html",
-    "title": "I got into YC (Startup School) by hacking it"
+    "url": "https://marimo.io/blog/pycharm",
+    "title": "Marimo Now Runs in PyCharm"
   },
   {
     "source": "hn",
@@ -21,38 +21,23 @@
   },
   {
     "source": "hn",
-    "url": "https://marimo.io/blog/pycharm",
-    "title": "Marimo Now Runs in PyCharm"
+    "url": "https://essenceia.github.io/projects/ethernet_switch_asic/",
+    "title": "Designing an Ethernet Switch ASIC"
   },
   {
     "source": "hn",
-    "url": "https://blog.willgrant.org/2026/07/23/the-hardest-way-to-make-gif.html",
-    "title": "The hardest way to make a GIF"
+    "url": "https://simone.org/advertising/",
+    "title": "What If We Made Advertising Illegal?"
   },
   {
     "source": "hn",
-    "url": "https://fenic.ai/blog/extending-polars-with-rust-expression-plugins",
-    "title": "Extending Polars with Rust Expression Plugins"
+    "url": "https://www.wired.com/story/how-amazon-made-alexa-smarter/",
+    "title": "The Secret Origins of Amazon's Alexa"
   },
   {
     "source": "hn",
-    "url": "https://spacetimetech.wordpress.com/2026/07/19/the-small-real-original-web/",
-    "title": "The small, real, original web"
-  },
-  {
-    "source": "hn",
-    "url": "https://glyphack.com/attention/",
-    "title": "It's getting harder to focus every day"
-  },
-  {
-    "source": "hn",
-    "url": "https://foldkit.dev/",
-    "title": "The front end framework for correctness: built on Effect, architected like Elm"
-  },
-  {
-    "source": "hn",
-    "url": "https://duckpgq.org/",
-    "title": "DuckPGQ – A DuckDB community extension for graph workloads"
+    "url": "https://ptrchm.com/posts/nothing-works-and-everyone-is-euphoric/",
+    "title": "If coding has been solved, why does software keep getting worse?"
   },
   {
     "source": "hn",
@@ -61,8 +46,33 @@
   },
   {
     "source": "hn",
-    "url": "https://blog.cloudflare.com/bgp-origin-attribute/",
-    "title": "BGP ORIGIN attribute manipulation and its impact on the Internet"
+    "url": "https://www.beautifulpublicdata.com/the-footprints-of-every-building-in-nyc/",
+    "title": "The footprints of every building in NYC"
+  },
+  {
+    "source": "hn",
+    "url": "https://fenic.ai/blog/extending-polars-with-rust-expression-plugins",
+    "title": "Extending Polars with Rust Expression Plugins"
+  },
+  {
+    "source": "hn",
+    "url": "https://obaid.wtf/jotbook/2026/07/18/how-i-got-into-yc-by-hacking-it.html",
+    "title": "I got into YC Startup School by hacking it"
+  },
+  {
+    "source": "hn",
+    "url": "https://foxglove.dev/blog/visualizing-the-artemis-ii-mission",
+    "title": "Visualizing the Artemis II Mission"
+  },
+  {
+    "source": "hn",
+    "url": "https://alexwlchan.net/2026/non-breaking-code/",
+    "title": "Preventing line breaks in <code> elements"
+  },
+  {
+    "source": "hn",
+    "url": "https://s3.us-west-1.wasabisys.com/luminist/EB/S/Simak%20-%20So%20Bright%20the%20Vision.pdf",
+    "title": "So Bright the Vision (1956) – a story about machines writing instead of humans [pdf]"
   },
   {
     "source": "hn",
@@ -70,19 +80,9 @@
     "title": "Self-host your mail server"
   },
   {
-    "source": "hn",
-    "url": "https://hopl.info/",
-    "title": "Online Historical Encyclopaedia of Programming Languages"
-  },
-  {
-    "source": "hn",
-    "url": "https://ben3d.ca/blog/reporting-web-3d-capabilities-on-a-budget",
-    "title": "Reporting Web 3D Capabilities on a Budget of $3 a Month"
-  },
-  {
-    "source": "hn",
-    "url": "https://lucumr.pocoo.org/2026/7/24/codeberg-divides/",
-    "title": "Codeberg Divides"
+    "source": "lobsters",
+    "url": "https://blog.willgrant.org/2026/07/23/the-hardest-way-to-make-gif.html",
+    "title": "Making GIFs from 35mm film photography"
   },
   {
     "source": "lobsters",
@@ -91,13 +91,18 @@
   },
   {
     "source": "lobsters",
+    "url": "https://cachebag.sh/journal/interactive-rebasing/",
+    "title": "git rebase -i is not that scary"
+  },
+  {
+    "source": "lobsters",
     "url": "https://justif.lyall.co/",
     "title": "Justif: Knuth-Plass justification and microtypography for the web"
   },
   {
     "source": "lobsters",
-    "url": "https://cachebag.sh/journal/interactive-rebasing/",
-    "title": "git rebase -i is not that scary"
+    "url": "https://blog.mempko.com/a-love-letter-to-object-orientation/",
+    "title": "A Love Letter to Object Orientation"
   },
   {
     "source": "lobsters",
@@ -126,6 +131,11 @@
   },
   {
     "source": "lobsters",
+    "url": "https://ferrous-systems.com/blog/query-cycles-a-compiler-murder-mystery/",
+    "title": "Query cycles: A compiler murder mystery"
+  },
+  {
+    "source": "lobsters",
     "url": "https://isaacvando.com/software-should-work-worked",
     "title": "Software Should Work Worked"
   },
@@ -133,21 +143,6 @@
     "source": "lobsters",
     "url": "https://artemis.sh/2026/07/23/fast-synthesis-basic-oscillators.html",
     "title": "Fast Synthesis of Basic Oscillators"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://ferrous-systems.com/blog/query-cycles-a-compiler-murder-mystery/",
-    "title": "Query cycles: A compiler murder mystery"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://mariusbancila.ro/blog/2026/07/23/the-pimpl-idiom-and-the-cpp26-stdindirect-type/",
-    "title": "The PImpl idiom and the C++26 std::indirect type"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://webaim.org/projects/million/#errors",
-    "title": "WebAIM 2026 report on Accessibility errors across the top 1M web pages"
   },
   {
     "source": "pinboard",
