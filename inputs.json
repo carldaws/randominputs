@@ -1,8 +1,18 @@
 [
   {
     "source": "hn",
+    "url": "https://hhh.hn/hanwha-github-token/",
+    "title": "My security camera shipped a GitHub admin token in its login page"
+  },
+  {
+    "source": "hn",
     "url": "https://glyphack.com/attention/",
     "title": "It's getting harder to focus every day"
+  },
+  {
+    "source": "hn",
+    "url": "https://houseofsaud.com/irgc-claims-destroyed-amazon-bahrain-data-center/",
+    "title": "IRGC Claims It Destroyed Amazon's Bahrain Data Center"
   },
   {
     "source": "hn",
@@ -11,8 +21,33 @@
   },
   {
     "source": "hn",
-    "url": "https://glinscott.github.io/beam-engine/",
-    "title": "The Beam Engine"
+    "url": "https://magworld.pw/episodes/computer/",
+    "title": "Mag Computer: A Mag History of RAM (1960–2025)"
+  },
+  {
+    "source": "hn",
+    "url": "https://elsewhere.news/en/zhenfund/why-is-programming-so-captivating-yet-so-agonizing",
+    "title": "Why is programming so captivating, yet so agonizing?"
+  },
+  {
+    "source": "hn",
+    "url": "https://timharek.no/blog/kaizen-4/",
+    "title": "Kaizen #4: Overhauled Homelab"
+  },
+  {
+    "source": "hn",
+    "url": "https://images.nvidia.com/pdf/Open-Weights-and-American-AI-Leadership.pdf",
+    "title": "Open Weights and American AI Leadership [pdf]"
+  },
+  {
+    "source": "hn",
+    "url": "https://alexklos.ca/blog/how-do-we-stop-vibe-coding",
+    "title": "How Do We Stop Vibe Coding?"
+  },
+  {
+    "source": "hn",
+    "url": "https://ptrchm.com/posts/nothing-works-and-everyone-is-euphoric/",
+    "title": "Nothing works and everyone is euphoric"
   },
   {
     "source": "hn",
@@ -28,31 +63,6 @@
     "source": "hn",
     "url": "https://xn--gckvb8fzb.com/i-regret-migrating-to-codeberg/",
     "title": "I regret migrating to Codeberg"
-  },
-  {
-    "source": "hn",
-    "url": "https://rybakov.com/blog/what_else_do_people_draw_on_gradient-copy.horse/",
-    "title": "What else do people draw on gradient.horse?"
-  },
-  {
-    "source": "hn",
-    "url": "https://mariusbancila.ro/blog/2026/07/23/the-pimpl-idiom-and-the-cpp26-stdindirect-type/",
-    "title": "The PImpl idiom and the C++26 std:indirect type"
-  },
-  {
-    "source": "hn",
-    "url": "https://learnopengl.com/",
-    "title": "Learn OpenGL, extensive tutorial resource for learning Modern OpenGL"
-  },
-  {
-    "source": "hn",
-    "url": "https://ptrchm.com/posts/nothing-works-and-everyone-is-euphoric/",
-    "title": "Nothing works and everyone is euphoric"
-  },
-  {
-    "source": "hn",
-    "url": "https://haqr.eu/tinyrenderer/",
-    "title": "Software rendering in 500 lines of bare C++"
   },
   {
     "source": "lobsters",
@@ -71,13 +81,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://yogthos.net/posts/2026-07-02-jolt.html",
-    "title": "Jolt: running Clojure on Chez Scheme"
+    "url": "https://www.osnews.com/story/145593/freebsd-ports-frozen-after-someone-commits-the-entire-150mb-linux-copilot-binary/",
+    "title": "FreeBSD ports frozen"
   },
   {
     "source": "lobsters",
-    "url": "https://www.osnews.com/story/145593/freebsd-ports-frozen-after-someone-commits-the-entire-150mb-linux-copilot-binary/",
-    "title": "FreeBSD ports frozen"
+    "url": "https://yogthos.net/posts/2026-07-02-jolt.html",
+    "title": "Jolt: running Clojure on Chez Scheme"
   },
   {
     "source": "lobsters",
@@ -91,13 +101,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://citizendot.github.io/articles/fake-job-interview-git-hook-malware/",
-    "title": "I Inspected My Take-Home Interview Project. It Was a Whole Operation"
+    "url": "https://webaim.org/projects/million/#errors",
+    "title": "WebAIM 2026 report on Accessibility errors across the top 1M web pages"
   },
   {
     "source": "lobsters",
-    "url": "https://webaim.org/projects/million/#errors",
-    "title": "WebAIM 2026 report on Accessibility errors across the top 1M web pages"
+    "url": "https://mariusbancila.ro/blog/2026/07/23/the-pimpl-idiom-and-the-cpp26-stdindirect-type/",
+    "title": "The PImpl idiom and the C++26 std::indirect type"
   },
   {
     "source": "lobsters",
@@ -106,13 +116,18 @@
   },
   {
     "source": "lobsters",
-    "url": "https://martinalderson.com/posts/huggingface-openai-exploit/",
-    "title": "The first known runaway AI agent - or a very bad marketing stunt?"
+    "url": "https://citizendot.github.io/articles/fake-job-interview-git-hook-malware/",
+    "title": "I Inspected My Take-Home Interview Project. It Was a Whole Operation"
   },
   {
     "source": "lobsters",
     "url": "https://earendil.com/posts/prompt-caching/",
     "title": "Prompt Caching In Agents"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://artemis.sh/2026/07/23/fast-synthesis-basic-oscillators.html",
+    "title": "Fast Synthesis of Basic Oscillators"
   },
   {
     "source": "lobsters",
@@ -125,23 +140,113 @@
     "title": "agent-shell 0.63 updates"
   },
   {
-    "source": "lobsters",
-    "url": "https://ebellani.github.io/blog/2026/why-care-about-programming-languages/",
-    "title": "Why care about programming languages"
+    "source": "pinboard",
+    "url": "https://blaizzy.github.io/nativ/",
+    "title": "Nativ — Run AI locally on your Mac"
   },
   {
-    "source": "lobsters",
-    "url": "https://artemis.sh/2026/07/23/fast-synthesis-basic-oscillators.html",
-    "title": "Fast Synthesis of Basic Oscillators"
+    "source": "pinboard",
+    "url": "https://hatchet.run/blog/postgres-survival-guide",
+    "title": "Hatchet · The startup's Postgres survival guide"
   },
   {
-    "source": "lobsters",
-    "url": "https://ssloy.github.io/tinyrenderer/",
-    "title": "Software rendering in 500 lines of bare C++"
+    "source": "pinboard",
+    "url": "https://freeink.org/",
+    "title": "Free Ink · An open ecosystem for e-readers"
   },
   {
-    "source": "lobsters",
-    "url": "https://hiraditya.github.io/posts/mlir-dialect-stack-for-ml/",
-    "title": "A tour of MLIR: The Dialect Stack Everyone Depends On"
+    "source": "pinboard",
+    "url": "https://www.worseonpurpose.com/p/your-cookware-got-worse-on-purpose",
+    "title": "Your Cookware Got Worse On Purpose: Who Owns Pyrex & All-Clad Now"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://screenwall.app/",
+    "title": "ScreenWall | Reuse Old Phones As Synced Widgets And Displays"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://simonwillison.net/2026/Jul/22/openai-cyberattack/",
+    "title": "OpenAI’s accidental cyberattack against Hugging Face is science fiction that happened"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://bento.page/slides/",
+    "title": "Bento Slides Showcase — Bento Slides"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://fabiensanglard.net/jurrasic_park_computers/index.html",
+    "title": "Jurassic Park computers in excruciating detail"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://buzz.xyz/",
+    "title": "Buzz — Your people, your agents, your project — all in one place."
+  },
+  {
+    "source": "pinboard",
+    "url": "https://glinscott.github.io/beam-engine/",
+    "title": "How a Beam Engine Works — An Interactive Guide"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://blog.exe.dev/claude-is-not-a-compiler",
+    "title": "Claude Is Not a Compiler - exe.dev blog"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://dark.ronacher.eu/2026/7/21/never-enough/",
+    "title": "Never Enough"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.worseonpurpose.com/",
+    "title": "Worse on Purpose | How Corporate Greed Killed Product Quality | Worse on Purpose"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://jelly-ui.com/",
+    "title": "Soft Web Components"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.404media.co/ai-companies-are-buying-tons-of-old-books-because-theyre-free-of-ai-slop/",
+    "title": "AI Companies Are Buying Tons of Old Books Because They're Free of AI Slop"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://sound-effects.bbcrewind.co.uk/",
+    "title": "BBC Sound Effects"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-6-flash-3-5-flash-lite-3-5-flash-cyber/",
+    "title": "3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://book-prize-index.vercel.app/",
+    "title": "The Book Prize Index"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://stratechery.com/2026/whos-afraid-of-chinese-models/",
+    "title": "Who’s Afraid of Chinese Models? – Stratechery by Ben Thompson"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://ledger.worseonpurpose.com/",
+    "title": "The Brand Ledger — Worse on Purpose"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://beej.us/blog/data/ai-making/",
+    "title": "On Making"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://jvns.ca/blog/2026/07/21/more-nice-django-things/",
+    "title": "Some more things about Django I've been enjoying"
   }
 ]
