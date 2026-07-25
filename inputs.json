@@ -6,8 +6,18 @@
   },
   {
     "source": "hn",
-    "url": "https://arcprize.org/leaderboard",
-    "title": "ARC-AGI Leaderboard"
+    "url": "https://dead.garden/blog/how-my-images-are-dithered.html",
+    "title": "My Images Are Dithered"
+  },
+  {
+    "source": "hn",
+    "url": "https://supakeen.com/weblog/the-fedora-45-sausage-factory/",
+    "title": "The Fedora 45 Sausage Factory"
+  },
+  {
+    "source": "hn",
+    "url": "https://shukla.io/blog/2026-07/cccx.html",
+    "title": "Spatial languages: Writing code in 2D"
   },
   {
     "source": "hn",
@@ -16,8 +26,28 @@
   },
   {
     "source": "hn",
+    "url": "https://arcprize.org/leaderboard",
+    "title": "ARC-AGI Leaderboard"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.wsj.com/business/china-us-ai-model-costs-53a12e96",
+    "title": "Corporate America Has Suddenly Decided to Stop Blowing Money on AI"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.augmental.tech/",
+    "title": "MouthPad: A Tongue-Controlled Touchpad"
+  },
+  {
+    "source": "hn",
     "url": "https://bytecodealliance.org/articles/wasmtime-gc",
     "title": "GC and Exceptions in Wasmtime"
+  },
+  {
+    "source": "hn",
+    "url": "https://blog.pypi.org/posts/2026-07-22-releases-now-reject-new-files-after-14-days/",
+    "title": "PyPI Blog: Releases now reject new files after 14 days"
   },
   {
     "source": "hn",
@@ -36,23 +66,8 @@
   },
   {
     "source": "hn",
-    "url": "https://blog.pypi.org/posts/2026-07-22-releases-now-reject-new-files-after-14-days/",
-    "title": "PyPI Blog: Releases now reject new files after 14 days"
-  },
-  {
-    "source": "hn",
     "url": "https://hhh.hn/hanwha-github-token/",
     "title": "My security camera shipped a GitHub admin token in its login page"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.augmental.tech/",
-    "title": "MouthPad: A Tongue-Controlled Touchpad"
-  },
-  {
-    "source": "hn",
-    "url": "https://dead.garden/blog/how-my-images-are-dithered.html",
-    "title": "My Images Are Dithered"
   },
   {
     "source": "hn",
@@ -66,23 +81,8 @@
   },
   {
     "source": "hn",
-    "url": "https://supakeen.com/weblog/the-fedora-45-sausage-factory/",
-    "title": "The Fedora 45 Sausage Factory"
-  },
-  {
-    "source": "hn",
     "url": "https://essenceia.github.io/projects/ethernet_switch_asic/",
     "title": "Designing an Ethernet Switch ASIC"
-  },
-  {
-    "source": "hn",
-    "url": "https://differentinstruments.com/",
-    "title": "PartialString – A finite-difference time-domain physical modelling synthesiser"
-  },
-  {
-    "source": "hn",
-    "url": "https://houseofsaud.com/irgc-claims-destroyed-amazon-bahrain-data-center/",
-    "title": "IRGC claims it destroyed Amazon's Bahrain data center"
   },
   {
     "source": "lobsters",
@@ -97,7 +97,7 @@
   {
     "source": "lobsters",
     "url": "https://www.hillelwayne.com/post/we-are-not-special/",
-    "title": "We Are Not Special"
+    "title": "We Are Not Special (2021)"
   },
   {
     "source": "lobsters",
@@ -106,8 +106,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://martin.janiczek.cz/2026/07/24/systems-and-delays.html",
-    "title": "Systems and Delays (2026)"
+    "url": "https://eieio.games/blog/im-running-the-icfp-programming-contest/",
+    "title": "I'm running the ICFP programming contest (2026)"
   },
   {
     "source": "lobsters",
@@ -116,18 +116,33 @@
   },
   {
     "source": "lobsters",
+    "url": "https://martin.janiczek.cz/2026/07/24/systems-and-delays.html",
+    "title": "Systems and Delays (2026)"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://zigbyexample.neocities.org/",
+    "title": "Zig by Example"
+  },
+  {
+    "source": "lobsters",
     "url": "https://cachebag.sh/journal/interactive-rebasing/",
     "title": "git rebase -i is not that scary"
   },
   {
     "source": "lobsters",
-    "url": "https://eieio.games/blog/im-running-the-icfp-programming-contest/",
-    "title": "I'm running the ICFP programming contest (2026)"
+    "url": "https://blog.willgrant.org/2026/07/23/the-hardest-way-to-make-gif.html",
+    "title": "Making GIFs from 35mm film photography"
   },
   {
     "source": "lobsters",
-    "url": "https://blog.willgrant.org/2026/07/23/the-hardest-way-to-make-gif.html",
-    "title": "Making GIFs from 35mm film photography"
+    "url": "https://chainsawriot.com/postmannheim/2026/07/25/writeredeck.html",
+    "title": "Emacs Writing Machine"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://microformats.org/",
+    "title": "Microformats – building blocks for data-rich web pages"
   },
   {
     "source": "lobsters",
@@ -141,11 +156,6 @@
   },
   {
     "source": "lobsters",
-    "url": "https://chainsawriot.com/postmannheim/2026/07/25/writeredeck.html",
-    "title": "Emacs Writing Machine"
-  },
-  {
-    "source": "lobsters",
     "url": "https://blog.haschek.at/2026/you-should-selfhost-your-mail.html",
     "title": "You should selfhost your mail (in 2026)"
   },
@@ -153,95 +163,5 @@
     "source": "lobsters",
     "url": "https://take.survey.stackoverflow.co/jfe/form/SV_4GHunpL3IfJ3rRc",
     "title": "2026 Stack Overflow Developer Survey"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://hatchet.run/blog/postgres-survival-guide",
-    "title": "Hatchet · The startup's Postgres survival guide"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://blaizzy.github.io/nativ/",
-    "title": "Nativ — Run AI locally on your Mac"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://freeink.org/",
-    "title": "Free Ink · An open ecosystem for e-readers"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://simonwillison.net/2026/Jul/22/openai-cyberattack/",
-    "title": "OpenAI’s accidental cyberattack against Hugging Face is science fiction that happened"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://glinscott.github.io/beam-engine/",
-    "title": "How a Beam Engine Works — An Interactive Guide"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://bento.page/slides/",
-    "title": "Bento Slides Showcase — Bento Slides"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://screenwall.app/",
-    "title": "ScreenWall | Reuse Old Phones As Synced Widgets And Displays"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://sound-effects.bbcrewind.co.uk/",
-    "title": "BBC Sound Effects"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.worseonpurpose.com/p/your-cookware-got-worse-on-purpose",
-    "title": "Your Cookware Got Worse On Purpose: Who Owns Pyrex & All-Clad Now"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://fabiensanglard.net/jurrasic_park_computers/index.html",
-    "title": "Jurassic Park computers in excruciating detail"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://claytondorge.com/patterns-list",
-    "title": "🏡 List of 253 Patterns — Clayton Dorge"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://book-prize-index.vercel.app/",
-    "title": "The Book Prize Index"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.orangecrumbs.com/hall/",
-    "title": "HN Hall of Fame — links Hacker News keeps rediscovering"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://bento.page/",
-    "title": "Bento/Suite — the office suite that fits in a file"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://hashcloak.com/blog/tutorial-introduction-to-formal-verification-with-lean-(part-1)",
-    "title": "Tutorial: Introduction to Formal Verification with Lean (Part 1) - HashCloak"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://beej.us/blog/data/ai-making/",
-    "title": "On Making"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://krebsonsecurity.com/2026/07/lg-to-ban-residential-proxies-from-smart-tv-apps/",
-    "title": "LG to Ban Residential Proxies from Smart TV Apps"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://canvasui.dev/",
-    "title": "Canvas UI: Creative Canvas and WebGL Component Library"
   }
 ]
