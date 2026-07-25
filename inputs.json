@@ -6,6 +6,16 @@
   },
   {
     "source": "hn",
+    "url": "https://unattributed.cc/re-bye-bye-gravatar",
+    "title": "Re: Bye Bye Gravatar"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.wsj.com/health/taylor-farms-cyclospora-recall-delay-call-41fef0bc",
+    "title": "Taylor Farms Called White House to Try to Delay Cyclospora Recall"
+  },
+  {
+    "source": "hn",
     "url": "https://artificialanalysis.ai/models",
     "title": "Opus 5 is currently #1 on Artificial Analysis Intelligence Leaderboard"
   },
@@ -21,13 +31,13 @@
   },
   {
     "source": "hn",
-    "url": "https://globaloilnetwork.staffinganalytics.io/",
-    "title": "Show HN: I simulated closing the Strait of Hormuz on real oil trade data"
+    "url": "https://ptrchm.com/posts/nothing-works-and-everyone-is-euphoric/",
+    "title": "If coding has been solved, why does software keep getting worse?"
   },
   {
     "source": "hn",
-    "url": "https://rewardhacking.org",
-    "title": "AIs don't do what you want. This is bad"
+    "url": "https://globaloilnetwork.staffinganalytics.io/",
+    "title": "Show HN: I simulated closing the Strait of Hormuz on real oil trade data"
   },
   {
     "source": "hn",
@@ -36,8 +46,18 @@
   },
   {
     "source": "hn",
-    "url": "https://ptrchm.com/posts/nothing-works-and-everyone-is-euphoric/",
-    "title": "If coding has been solved, why does software keep getting worse?"
+    "url": "https://parksb.github.io/en/article/29.html",
+    "title": "A concrete explanation of how a cache works"
+  },
+  {
+    "source": "hn",
+    "url": "https://bytecodealliance.org/articles/wasmtime-gc",
+    "title": "GC and Exceptions in Wasmtime"
+  },
+  {
+    "source": "hn",
+    "url": "https://houseofsaud.com/irgc-claims-destroyed-amazon-bahrain-data-center/",
+    "title": "IRGC claims it destroyed Amazon's Bahrain data center"
   },
   {
     "source": "hn",
@@ -51,8 +71,8 @@
   },
   {
     "source": "hn",
-    "url": "https://houseofsaud.com/irgc-claims-destroyed-amazon-bahrain-data-center/",
-    "title": "IRGC claims it destroyed Amazon's Bahrain data center"
+    "url": "https://www.beautifulpublicdata.com/the-footprints-of-every-building-in-nyc/",
+    "title": "The footprints of every building in NYC"
   },
   {
     "source": "hn",
@@ -60,24 +80,19 @@
     "title": "Unitree As2-W"
   },
   {
-    "source": "hn",
-    "url": "https://www.beautifulpublicdata.com/the-footprints-of-every-building-in-nyc/",
-    "title": "The footprints of every building in NYC"
-  },
-  {
-    "source": "hn",
-    "url": "https://blog.plover.com/math/ordinals/02-wellfoundedness.html",
-    "title": "The road to epsilon-zero: Nim always ends, even with infinite ordinals"
-  },
-  {
     "source": "lobsters",
-    "url": "https://blog.willgrant.org/2026/07/23/the-hardest-way-to-make-gif.html",
-    "title": "Making GIFs from 35mm film photography"
+    "url": "https://unsung.aresluna.org/chromes-breaking-and-entering/",
+    "title": "Chrome registers a global shortcut for Gemini popup window"
   },
   {
     "source": "lobsters",
     "url": "https://martin.janiczek.cz/2026/07/24/systems-and-delays.html",
     "title": "Systems and Delays (2026)"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://blog.willgrant.org/2026/07/23/the-hardest-way-to-make-gif.html",
+    "title": "Making GIFs from 35mm film photography"
   },
   {
     "source": "lobsters",
@@ -91,8 +106,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://unsung.aresluna.org/chromes-breaking-and-entering/",
-    "title": "Chrome registers a global shortcut for Gemini popup window"
+    "url": "https://www.hillelwayne.com/post/we-are-not-special/",
+    "title": "We Are Not Special"
   },
   {
     "source": "lobsters",
@@ -101,18 +116,23 @@
   },
   {
     "source": "lobsters",
-    "url": "https://justif.lyall.co/",
-    "title": "Justif: Knuth-Plass justification and microtypography for the web"
-  },
-  {
-    "source": "lobsters",
     "url": "https://blog.mempko.com/a-love-letter-to-object-orientation/",
     "title": "A Love Letter to Object Orientation"
   },
   {
     "source": "lobsters",
-    "url": "https://yogthos.net/posts/2026-07-02-jolt.html",
-    "title": "Jolt: running Clojure on Chez Scheme"
+    "url": "https://justif.lyall.co/",
+    "title": "Justif: Knuth-Plass justification and microtypography for the web"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://microformats.org/",
+    "title": "Microformats – building blocks for data-rich web pages"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://take.survey.stackoverflow.co/jfe/form/SV_4GHunpL3IfJ3rRc",
+    "title": "2026 Stack Overflow Developer Survey"
   },
   {
     "source": "lobsters",
@@ -121,8 +141,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://take.survey.stackoverflow.co/jfe/form/SV_4GHunpL3IfJ3rRc",
-    "title": "2026 Stack Overflow Developer Survey"
+    "url": "https://yogthos.net/posts/2026-07-02-jolt.html",
+    "title": "Jolt: running Clojure on Chez Scheme"
   },
   {
     "source": "lobsters",
