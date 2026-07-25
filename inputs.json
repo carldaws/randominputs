@@ -11,18 +11,13 @@
   },
   {
     "source": "hn",
-    "url": "https://pytorch.org/blog/bringing-pytorch-monarch-to-amd-gpus-single-controller-distributed-training-on-rocm/",
-    "title": "Bringing PyTorch Monarch to AMD GPUs"
-  },
-  {
-    "source": "hn",
     "url": "https://dead.garden/blog/how-my-images-are-dithered.html",
     "title": "How My Images Are Dithered"
   },
   {
     "source": "hn",
-    "url": "https://shukla.io/blog/2026-07/cccx.html",
-    "title": "Spatial languages: Writing code in 2D"
+    "url": "https://pytorch.org/blog/bringing-pytorch-monarch-to-amd-gpus-single-controller-distributed-training-on-rocm/",
+    "title": "Bringing PyTorch Monarch to AMD GPUs"
   },
   {
     "source": "hn",
@@ -36,8 +31,18 @@
   },
   {
     "source": "hn",
-    "url": "https://erinmurphy.dev/projects/project-2/",
-    "title": "NYC Apartment Aquaponics"
+    "url": "https://shukla.io/blog/2026-07/cccx.html",
+    "title": "Spatial languages: Writing code in 2D"
+  },
+  {
+    "source": "hn",
+    "url": "https://warcommons.com/2026/07/25/hitler-salute-origin-history-roman-salute-mussolini/",
+    "title": "The Hitler Salute Was Never German"
+  },
+  {
+    "source": "hn",
+    "url": "https://webmars.nfiles.top/",
+    "title": "My web version of Mars MIPS, now has built-in C compiler"
   },
   {
     "source": "hn",
@@ -46,23 +51,8 @@
   },
   {
     "source": "hn",
-    "url": "https://baturin.org/docs/iproute2/",
-    "title": "Task-centered iproute2 user guide"
-  },
-  {
-    "source": "hn",
-    "url": "https://webmars.nfiles.top/",
-    "title": "My web version of Mars MIPS, now have builtin C compiler"
-  },
-  {
-    "source": "hn",
-    "url": "https://blog.pypi.org/posts/2026-07-22-releases-now-reject-new-files-after-14-days/",
-    "title": "PyPI Blog: Releases now reject new files after 14 days"
-  },
-  {
-    "source": "hn",
-    "url": "https://bytecodealliance.org/articles/wasmtime-gc",
-    "title": "GC and Exceptions in Wasmtime"
+    "url": "https://erinmurphy.dev/projects/project-2/",
+    "title": "NYC Apartment Aquaponics"
   },
   {
     "source": "lobsters",
@@ -86,6 +76,11 @@
   },
   {
     "source": "lobsters",
+    "url": "https://www.marginalia.nu/log/a_139_hdd/",
+    "title": "Your harddrive is probably full"
+  },
+  {
+    "source": "lobsters",
     "url": "https://www.hillelwayne.com/post/we-are-not-special/",
     "title": "We Are Not Special (2021)"
   },
@@ -101,13 +96,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://chainsawriot.com/postmannheim/2026/07/25/writeredeck.html",
-    "title": "Emacs Writing Machine"
+    "url": "https://martin.janiczek.cz/2026/07/24/systems-and-delays.html",
+    "title": "Systems and Delays (2026)"
   },
   {
     "source": "lobsters",
-    "url": "https://martin.janiczek.cz/2026/07/24/systems-and-delays.html",
-    "title": "Systems and Delays (2026)"
+    "url": "https://chainsawriot.com/postmannheim/2026/07/25/writeredeck.html",
+    "title": "Emacs Writing Machine"
   },
   {
     "source": "lobsters",
@@ -121,8 +116,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://www.marginalia.nu/log/a_139_hdd/",
-    "title": "Your harddrive is probably full"
+    "url": "https://blog.jsbarretto.com/post/languages-as-latent-spaces",
+    "title": "Languages as designed latent spaces"
   },
   {
     "source": "lobsters",
@@ -143,95 +138,5 @@
     "source": "lobsters",
     "url": "https://www.dbos.dev/blog/postgres-listen-notify-scalability",
     "title": "Postgres LISTEN/NOTIFY Actually Scales"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://hatchet.run/blog/postgres-survival-guide",
-    "title": "Hatchet · The startup's Postgres survival guide"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://blaizzy.github.io/nativ/",
-    "title": "Nativ — Run AI locally on your Mac"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://freeink.org/",
-    "title": "Free Ink · An open ecosystem for e-readers"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://simonwillison.net/2026/Jul/22/openai-cyberattack/",
-    "title": "OpenAI’s accidental cyberattack against Hugging Face is science fiction that happened"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://glinscott.github.io/beam-engine/",
-    "title": "How a Beam Engine Works — An Interactive Guide"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://bento.page/slides/",
-    "title": "Bento Slides Showcase — Bento Slides"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://screenwall.app/",
-    "title": "ScreenWall | Reuse Old Phones As Synced Widgets And Displays"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://sound-effects.bbcrewind.co.uk/",
-    "title": "BBC Sound Effects"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.worseonpurpose.com/p/your-cookware-got-worse-on-purpose",
-    "title": "Your Cookware Got Worse On Purpose: Who Owns Pyrex & All-Clad Now"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://fabiensanglard.net/jurrasic_park_computers/index.html",
-    "title": "Jurassic Park computers in excruciating detail"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://claytondorge.com/patterns-list",
-    "title": "🏡 List of 253 Patterns — Clayton Dorge"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://book-prize-index.vercel.app/",
-    "title": "The Book Prize Index"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.orangecrumbs.com/hall/",
-    "title": "HN Hall of Fame — links Hacker News keeps rediscovering"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://bento.page/",
-    "title": "Bento/Suite — the office suite that fits in a file"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://hashcloak.com/blog/tutorial-introduction-to-formal-verification-with-lean-(part-1)",
-    "title": "Tutorial: Introduction to Formal Verification with Lean (Part 1) - HashCloak"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://beej.us/blog/data/ai-making/",
-    "title": "On Making"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://krebsonsecurity.com/2026/07/lg-to-ban-residential-proxies-from-smart-tv-apps/",
-    "title": "LG to Ban Residential Proxies from Smart TV Apps"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://canvasui.dev/",
-    "title": "Canvas UI: Creative Canvas and WebGL Component Library"
   }
 ]
