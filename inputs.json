@@ -1,18 +1,18 @@
 [
   {
     "source": "hn",
+    "url": "https://arcprize.org/leaderboard",
+    "title": "ARC-AGI Leaderboard"
+  },
+  {
+    "source": "hn",
+    "url": "https://bytecodealliance.org/articles/wasmtime-gc",
+    "title": "GC and Exceptions in Wasmtime"
+  },
+  {
+    "source": "hn",
     "url": "https://www.dbos.dev/blog/postgres-listen-notify-scalability",
     "title": "Postgres LISTEN/NOTIFY actually scales"
-  },
-  {
-    "source": "hn",
-    "url": "https://unattributed.cc/re-bye-bye-gravatar",
-    "title": "Re: Bye Bye Gravatar"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.wsj.com/health/taylor-farms-cyclospora-recall-delay-call-41fef0bc",
-    "title": "Taylor Farms Called White House to Try to Delay Cyclospora Recall"
   },
   {
     "source": "hn",
@@ -21,18 +21,23 @@
   },
   {
     "source": "hn",
-    "url": "https://news.st-andrews.ac.uk/archive/sperm-whales-blow-bubbles-to-achieve-restful-vertical-sleep/",
-    "title": "Sperm Whales blow bubbles to achieve restful, vertical sleep"
-  },
-  {
-    "source": "hn",
     "url": "https://hhh.hn/hanwha-github-token/",
     "title": "My security camera shipped a GitHub admin token in its login page"
   },
   {
     "source": "hn",
-    "url": "https://ptrchm.com/posts/nothing-works-and-everyone-is-euphoric/",
-    "title": "If coding has been solved, why does software keep getting worse?"
+    "url": "https://news.st-andrews.ac.uk/archive/sperm-whales-blow-bubbles-to-achieve-restful-vertical-sleep/",
+    "title": "Sperm Whales blow bubbles to achieve restful, vertical sleep"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.wsj.com/health/taylor-farms-cyclospora-recall-delay-call-41fef0bc",
+    "title": "Taylor Farms Called White House to Try to Delay Cyclospora Recall"
+  },
+  {
+    "source": "hn",
+    "url": "https://differentinstruments.com/",
+    "title": "PartialString – A finite-difference time-domain physical modelling synthesiser"
   },
   {
     "source": "hn",
@@ -46,13 +51,8 @@
   },
   {
     "source": "hn",
-    "url": "https://parksb.github.io/en/article/29.html",
-    "title": "A concrete explanation of how a cache works"
-  },
-  {
-    "source": "hn",
-    "url": "https://bytecodealliance.org/articles/wasmtime-gc",
-    "title": "GC and Exceptions in Wasmtime"
+    "url": "https://unattributed.cc/re-bye-bye-gravatar",
+    "title": "Re: Bye Bye Gravatar"
   },
   {
     "source": "hn",
@@ -61,18 +61,13 @@
   },
   {
     "source": "hn",
+    "url": "https://parksb.github.io/en/article/29.html",
+    "title": "A concrete explanation of how a cache works"
+  },
+  {
+    "source": "hn",
     "url": "https://marimo.io/blog/pycharm",
     "title": "Marimo now runs in PyCharm"
-  },
-  {
-    "source": "hn",
-    "url": "https://ui.gsxhq.dev/",
-    "title": "Gsxui – Shadcn-style components for Go"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.beautifulpublicdata.com/the-footprints-of-every-building-in-nyc/",
-    "title": "The footprints of every building in NYC"
   },
   {
     "source": "hn",
@@ -91,6 +86,11 @@
   },
   {
     "source": "lobsters",
+    "url": "https://www.hillelwayne.com/post/we-are-not-special/",
+    "title": "We Are Not Special"
+  },
+  {
+    "source": "lobsters",
     "url": "https://blog.willgrant.org/2026/07/23/the-hardest-way-to-make-gif.html",
     "title": "Making GIFs from 35mm film photography"
   },
@@ -106,8 +106,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://www.hillelwayne.com/post/we-are-not-special/",
-    "title": "We Are Not Special"
+    "url": "https://blog.mempko.com/a-love-letter-to-object-orientation/",
+    "title": "A Love Letter to Object Orientation"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://eieio.games/blog/im-running-the-icfp-programming-contest/",
+    "title": "I'm running the ICFP programming contest (2026)"
   },
   {
     "source": "lobsters",
@@ -116,8 +121,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://blog.mempko.com/a-love-letter-to-object-orientation/",
-    "title": "A Love Letter to Object Orientation"
+    "url": "https://sebsite.pw/w/20260725-auto.html",
+    "title": "the perils of parsing type inference declarations in c"
   },
   {
     "source": "lobsters",
