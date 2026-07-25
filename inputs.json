@@ -6,23 +6,18 @@
   },
   {
     "source": "hn",
-    "url": "https://bytecodealliance.org/articles/wasmtime-gc",
-    "title": "GC and Exceptions in Wasmtime"
-  },
-  {
-    "source": "hn",
     "url": "https://arcprize.org/leaderboard",
     "title": "ARC-AGI Leaderboard"
   },
   {
     "source": "hn",
-    "url": "https://erinmurphy.dev/projects/project-2/",
-    "title": "NYC Apartment Aquaponics"
+    "url": "https://bytecodealliance.org/articles/wasmtime-gc",
+    "title": "GC and Exceptions in Wasmtime"
   },
   {
     "source": "hn",
-    "url": "https://extinct-media-museum.blog.jp/otemachi/",
-    "title": "Extinct Media Museum Tokyo"
+    "url": "https://erinmurphy.dev/projects/project-2/",
+    "title": "NYC Apartment Aquaponics"
   },
   {
     "source": "hn",
@@ -36,18 +31,13 @@
   },
   {
     "source": "hn",
+    "url": "https://extinct-media-museum.blog.jp/otemachi/",
+    "title": "Extinct Media Museum Tokyo"
+  },
+  {
+    "source": "hn",
     "url": "https://hhh.hn/hanwha-github-token/",
     "title": "My security camera shipped a GitHub admin token in its login page"
-  },
-  {
-    "source": "hn",
-    "url": "https://differentinstruments.com/",
-    "title": "PartialString – A finite-difference time-domain physical modelling synthesiser"
-  },
-  {
-    "source": "hn",
-    "url": "https://globaloilnetwork.staffinganalytics.io/",
-    "title": "Show HN: I simulated closing the Strait of Hormuz on real oil trade data"
   },
   {
     "source": "hn",
@@ -56,8 +46,23 @@
   },
   {
     "source": "hn",
+    "url": "https://www.augmental.tech/",
+    "title": "MouthPad: A Tongue-Controlled Touchpad"
+  },
+  {
+    "source": "hn",
+    "url": "https://globaloilnetwork.staffinganalytics.io/",
+    "title": "Show HN: I simulated closing the Strait of Hormuz on real oil trade data"
+  },
+  {
+    "source": "hn",
     "url": "https://essenceia.github.io/projects/ethernet_switch_asic/",
     "title": "Designing an Ethernet Switch ASIC"
+  },
+  {
+    "source": "hn",
+    "url": "https://differentinstruments.com/",
+    "title": "PartialString – A finite-difference time-domain physical modelling synthesiser"
   },
   {
     "source": "hn",
@@ -68,11 +73,6 @@
     "source": "hn",
     "url": "https://houseofsaud.com/irgc-claims-destroyed-amazon-bahrain-data-center/",
     "title": "IRGC claims it destroyed Amazon's Bahrain data center"
-  },
-  {
-    "source": "hn",
-    "url": "https://marimo.io/blog/pycharm",
-    "title": "Marimo now runs in PyCharm"
   },
   {
     "source": "lobsters",
@@ -91,18 +91,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://blog.willgrant.org/2026/07/23/the-hardest-way-to-make-gif.html",
-    "title": "Making GIFs from 35mm film photography"
-  },
-  {
-    "source": "lobsters",
     "url": "https://cachebag.sh/journal/interactive-rebasing/",
     "title": "git rebase -i is not that scary"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://eieio.games/blog/im-running-the-icfp-programming-contest/",
-    "title": "I'm running the ICFP programming contest (2026)"
   },
   {
     "source": "lobsters",
@@ -111,13 +101,23 @@
   },
   {
     "source": "lobsters",
-    "url": "https://blog.mempko.com/a-love-letter-to-object-orientation/",
-    "title": "A Love Letter to Object Orientation"
+    "url": "https://eieio.games/blog/im-running-the-icfp-programming-contest/",
+    "title": "I'm running the ICFP programming contest (2026)"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://blog.willgrant.org/2026/07/23/the-hardest-way-to-make-gif.html",
+    "title": "Making GIFs from 35mm film photography"
   },
   {
     "source": "lobsters",
     "url": "https://www.osnews.com/story/145593/freebsd-ports-frozen-after-someone-commits-the-entire-150mb-linux-copilot-binary/",
     "title": "FreeBSD ports frozen after someone commits the entire 150MB Linux Copilot binary"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://blog.mempko.com/a-love-letter-to-object-orientation/",
+    "title": "A Love Letter to Object Orientation"
   },
   {
     "source": "lobsters",
@@ -136,17 +136,97 @@
   },
   {
     "source": "lobsters",
-    "url": "https://nesbitt.io/2026/07/24/interview-with-a-maintainer.html",
-    "title": "Interview with a Maintainer"
-  },
-  {
-    "source": "lobsters",
     "url": "https://take.survey.stackoverflow.co/jfe/form/SV_4GHunpL3IfJ3rRc",
     "title": "2026 Stack Overflow Developer Survey"
   },
   {
-    "source": "lobsters",
-    "url": "https://yogthos.net/posts/2026-07-02-jolt.html",
-    "title": "Jolt: running Clojure on Chez Scheme"
+    "source": "pinboard",
+    "url": "https://hatchet.run/blog/postgres-survival-guide",
+    "title": "Hatchet · The startup's Postgres survival guide"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://blaizzy.github.io/nativ/",
+    "title": "Nativ — Run AI locally on your Mac"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://freeink.org/",
+    "title": "Free Ink · An open ecosystem for e-readers"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://simonwillison.net/2026/Jul/22/openai-cyberattack/",
+    "title": "OpenAI’s accidental cyberattack against Hugging Face is science fiction that happened"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://glinscott.github.io/beam-engine/",
+    "title": "How a Beam Engine Works — An Interactive Guide"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://bento.page/slides/",
+    "title": "Bento Slides Showcase — Bento Slides"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://screenwall.app/",
+    "title": "ScreenWall | Reuse Old Phones As Synced Widgets And Displays"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://sound-effects.bbcrewind.co.uk/",
+    "title": "BBC Sound Effects"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.worseonpurpose.com/p/your-cookware-got-worse-on-purpose",
+    "title": "Your Cookware Got Worse On Purpose: Who Owns Pyrex & All-Clad Now"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://fabiensanglard.net/jurrasic_park_computers/index.html",
+    "title": "Jurassic Park computers in excruciating detail"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://claytondorge.com/patterns-list",
+    "title": "🏡 List of 253 Patterns — Clayton Dorge"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://book-prize-index.vercel.app/",
+    "title": "The Book Prize Index"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.orangecrumbs.com/hall/",
+    "title": "HN Hall of Fame — links Hacker News keeps rediscovering"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://bento.page/",
+    "title": "Bento/Suite — the office suite that fits in a file"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://hashcloak.com/blog/tutorial-introduction-to-formal-verification-with-lean-(part-1)",
+    "title": "Tutorial: Introduction to Formal Verification with Lean (Part 1) - HashCloak"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://beej.us/blog/data/ai-making/",
+    "title": "On Making"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://krebsonsecurity.com/2026/07/lg-to-ban-residential-proxies-from-smart-tv-apps/",
+    "title": "LG to Ban Residential Proxies from Smart TV Apps"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://canvasui.dev/",
+    "title": "Canvas UI: Creative Canvas and WebGL Component Library"
   }
 ]
