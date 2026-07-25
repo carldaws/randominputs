@@ -11,13 +11,23 @@
   },
   {
     "source": "hn",
-    "url": "https://globaloilnetwork.staffinganalytics.io/",
-    "title": "Show HN: I simulated closing the Strait of Hormuz on real oil trade data"
+    "url": "https://news.st-andrews.ac.uk/archive/sperm-whales-blow-bubbles-to-achieve-restful-vertical-sleep/",
+    "title": "Sperm Whales blow bubbles to achieve restful, vertical sleep"
   },
   {
     "source": "hn",
     "url": "https://hhh.hn/hanwha-github-token/",
     "title": "My security camera shipped a GitHub admin token in its login page"
+  },
+  {
+    "source": "hn",
+    "url": "https://globaloilnetwork.staffinganalytics.io/",
+    "title": "Show HN: I simulated closing the Strait of Hormuz on real oil trade data"
+  },
+  {
+    "source": "hn",
+    "url": "https://rewardhacking.org",
+    "title": "AIs don't do what you want. This is bad"
   },
   {
     "source": "hn",
@@ -31,11 +41,6 @@
   },
   {
     "source": "hn",
-    "url": "https://rewardhacking.org",
-    "title": "AIs don't do what you want. This is bad"
-  },
-  {
-    "source": "hn",
     "url": "https://marimo.io/blog/pycharm",
     "title": "Marimo now runs in PyCharm"
   },
@@ -46,18 +51,13 @@
   },
   {
     "source": "hn",
-    "url": "https://blog.plover.com/math/ordinals/02-wellfoundedness.html",
-    "title": "The road to epsilon-zero: Nim always ends, even with infinite ordinals"
-  },
-  {
-    "source": "hn",
-    "url": "https://news.st-andrews.ac.uk/archive/sperm-whales-blow-bubbles-to-achieve-restful-vertical-sleep/",
-    "title": "Sperm Whales blow bubbles to achieve restful, vertical sleep"
-  },
-  {
-    "source": "hn",
     "url": "https://houseofsaud.com/irgc-claims-destroyed-amazon-bahrain-data-center/",
     "title": "IRGC claims it destroyed Amazon's Bahrain data center"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.unitree.com/As2-W/",
+    "title": "Unitree As2-W"
   },
   {
     "source": "hn",
@@ -66,8 +66,8 @@
   },
   {
     "source": "hn",
-    "url": "https://www.unitree.com/As2-W/",
-    "title": "Unitree As2-W"
+    "url": "https://blog.plover.com/math/ordinals/02-wellfoundedness.html",
+    "title": "The road to epsilon-zero: Nim always ends, even with infinite ordinals"
   },
   {
     "source": "lobsters",
@@ -76,8 +76,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://www.osnews.com/story/145593/freebsd-ports-frozen-after-someone-commits-the-entire-150mb-linux-copilot-binary/",
-    "title": "FreeBSD ports frozen after someone commits the entire 150MB Linux Copilot binary"
+    "url": "https://martin.janiczek.cz/2026/07/24/systems-and-delays.html",
+    "title": "Systems and Delays (2026)"
   },
   {
     "source": "lobsters",
@@ -86,8 +86,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://martin.janiczek.cz/2026/07/24/systems-and-delays.html",
-    "title": "Systems and Delays (2026)"
+    "url": "https://www.osnews.com/story/145593/freebsd-ports-frozen-after-someone-commits-the-entire-150mb-linux-copilot-binary/",
+    "title": "FreeBSD ports frozen after someone commits the entire 150MB Linux Copilot binary"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://unsung.aresluna.org/chromes-breaking-and-entering/",
+    "title": "Chrome registers a global shortcut for Gemini popup window"
   },
   {
     "source": "lobsters",
@@ -101,8 +106,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://unsung.aresluna.org/chromes-breaking-and-entering/",
-    "title": "Chrome registers a global shortcut for Gemini popup window"
+    "url": "https://blog.mempko.com/a-love-letter-to-object-orientation/",
+    "title": "A Love Letter to Object Orientation"
   },
   {
     "source": "lobsters",
@@ -116,22 +121,12 @@
   },
   {
     "source": "lobsters",
+    "url": "https://take.survey.stackoverflow.co/jfe/form/SV_4GHunpL3IfJ3rRc",
+    "title": "2026 Stack Overflow Developer Survey"
+  },
+  {
+    "source": "lobsters",
     "url": "https://blogs.gnome.org/chergert/2026/07/24/ffi_call_plan-caching-for-glib/",
     "title": "ffi_call_plan caching for GLib"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://abhi.now/blog/calm-technologies/",
-    "title": "Calm technologies that excite me"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://artemis.sh/2026/07/23/fast-synthesis-basic-oscillators.html",
-    "title": "Fast Synthesis of Basic Oscillators"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://ferrous-systems.com/blog/query-cycles-a-compiler-murder-mystery/",
-    "title": "Query cycles: A compiler murder mystery"
   }
 ]
