@@ -11,6 +11,31 @@
   },
   {
     "source": "hn",
+    "url": "https://didtheyghostyou.com/",
+    "title": "Did They Ghost You?"
+  },
+  {
+    "source": "hn",
+    "url": "https://fly.io/blog/kurt-scott-money-sprites/",
+    "title": "Fly.io CEO Kurt Mackey is stepping down"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.apalrd.net/posts/2026/isp_mcast/",
+    "title": "Multicast TV Distribution on My Home Network"
+  },
+  {
+    "source": "hn",
+    "url": "https://itsallaboutthebit.com/memory-safety-absolutists/",
+    "title": "Memory Safety Absolutists"
+  },
+  {
+    "source": "hn",
+    "url": "https://news.mongabay.com/2026/07/zero-roadkill-as-amazon-canopy-bridges-secure-15000-crossings/",
+    "title": "Zero roadkill as Amazon canopy bridges secure 15,000 crossings"
+  },
+  {
+    "source": "hn",
     "url": "https://dead.garden/blog/how-my-images-are-dithered.html",
     "title": "How My Images Are Dithered"
   },
@@ -21,8 +46,8 @@
   },
   {
     "source": "hn",
-    "url": "https://news.mongabay.com/2026/07/zero-roadkill-as-amazon-canopy-bridges-secure-15000-crossings/",
-    "title": "Zero roadkill as Amazon canopy bridges secure 15,000 crossings"
+    "url": "https://daringfireball.net/linked/2026/07/25/ai-mania-nikhil-suresh",
+    "title": "'AI Mania Is Eviscerating Global Decision-Making'"
   },
   {
     "source": "hn",
@@ -36,18 +61,8 @@
   },
   {
     "source": "hn",
-    "url": "https://warcommons.com/2026/07/25/hitler-salute-origin-history-roman-salute-mussolini/",
-    "title": "The Hitler Salute Was Never German"
-  },
-  {
-    "source": "hn",
     "url": "https://webmars.nfiles.top/",
     "title": "My web version of Mars MIPS, now has built-in C compiler"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.augmental.tech/",
-    "title": "MouthPad: A Tongue-Controlled Touchpad"
   },
   {
     "source": "hn",
@@ -66,13 +81,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://unsung.aresluna.org/chromes-breaking-and-entering/",
-    "title": "Chrome registers a global shortcut for Gemini popup window"
+    "url": "https://zigbyexample.neocities.org/",
+    "title": "Zig by Example"
   },
   {
     "source": "lobsters",
-    "url": "https://zigbyexample.neocities.org/",
-    "title": "Zig by Example"
+    "url": "https://unsung.aresluna.org/chromes-breaking-and-entering/",
+    "title": "Chrome registers a global shortcut for Gemini popup window"
   },
   {
     "source": "lobsters",
@@ -86,13 +101,18 @@
   },
   {
     "source": "lobsters",
-    "url": "https://sebsite.pw/w/20260725-auto.html",
-    "title": "the perils of parsing type inference declarations in c"
+    "url": "https://eieio.games/blog/im-running-the-icfp-programming-contest/",
+    "title": "I'm running the ICFP programming contest"
   },
   {
     "source": "lobsters",
-    "url": "https://eieio.games/blog/im-running-the-icfp-programming-contest/",
-    "title": "I'm running the ICFP programming contest"
+    "url": "https://chainsawriot.com/postmannheim/2026/07/25/writeredeck.html",
+    "title": "Emacs Writing Machine"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://sebsite.pw/w/20260725-auto.html",
+    "title": "the perils of parsing type inference declarations in c"
   },
   {
     "source": "lobsters",
@@ -101,8 +121,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://chainsawriot.com/postmannheim/2026/07/25/writeredeck.html",
-    "title": "Emacs Writing Machine"
+    "url": "https://lalitm.com/post/find-problems-staff-engineer/",
+    "title": "How I Find Problems to Solve as a Staff Engineer"
   },
   {
     "source": "lobsters",
@@ -121,22 +141,102 @@
   },
   {
     "source": "lobsters",
+    "url": "https://highway-01.banner-depot-2000.net/",
+    "title": "Banner Highway 01"
+  },
+  {
+    "source": "lobsters",
     "url": "https://blog.mempko.com/a-love-letter-to-object-orientation/",
     "title": "A Love Letter to Object Orientation"
   },
   {
-    "source": "lobsters",
-    "url": "https://blog.willgrant.org/2026/07/23/the-hardest-way-to-make-gif.html",
-    "title": "Making GIFs from 35mm film photography"
+    "source": "pinboard",
+    "url": "https://hatchet.run/blog/postgres-survival-guide",
+    "title": "Hatchet · The startup's Postgres survival guide"
   },
   {
-    "source": "lobsters",
-    "url": "https://www.osnews.com/story/145593/freebsd-ports-frozen-after-someone-commits-the-entire-150mb-linux-copilot-binary/",
-    "title": "FreeBSD ports frozen after someone commits the entire 150MB Linux Copilot binary"
+    "source": "pinboard",
+    "url": "https://blaizzy.github.io/nativ/",
+    "title": "Nativ — Run AI locally on your Mac"
   },
   {
-    "source": "lobsters",
-    "url": "https://www.dbos.dev/blog/postgres-listen-notify-scalability",
-    "title": "Postgres LISTEN/NOTIFY Actually Scales"
+    "source": "pinboard",
+    "url": "https://freeink.org/",
+    "title": "Free Ink · An open ecosystem for e-readers"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://simonwillison.net/2026/Jul/22/openai-cyberattack/",
+    "title": "OpenAI’s accidental cyberattack against Hugging Face is science fiction that happened"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://glinscott.github.io/beam-engine/",
+    "title": "How a Beam Engine Works — An Interactive Guide"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://bento.page/slides/",
+    "title": "Bento Slides Showcase — Bento Slides"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://screenwall.app/",
+    "title": "ScreenWall | Reuse Old Phones As Synced Widgets And Displays"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://sound-effects.bbcrewind.co.uk/",
+    "title": "BBC Sound Effects"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.worseonpurpose.com/p/your-cookware-got-worse-on-purpose",
+    "title": "Your Cookware Got Worse On Purpose: Who Owns Pyrex & All-Clad Now"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://fabiensanglard.net/jurrasic_park_computers/index.html",
+    "title": "Jurassic Park computers in excruciating detail"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://claytondorge.com/patterns-list",
+    "title": "🏡 List of 253 Patterns — Clayton Dorge"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://book-prize-index.vercel.app/",
+    "title": "The Book Prize Index"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.orangecrumbs.com/hall/",
+    "title": "HN Hall of Fame — links Hacker News keeps rediscovering"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://bento.page/",
+    "title": "Bento/Suite — the office suite that fits in a file"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://hashcloak.com/blog/tutorial-introduction-to-formal-verification-with-lean-(part-1)",
+    "title": "Tutorial: Introduction to Formal Verification with Lean (Part 1) - HashCloak"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://beej.us/blog/data/ai-making/",
+    "title": "On Making"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://krebsonsecurity.com/2026/07/lg-to-ban-residential-proxies-from-smart-tv-apps/",
+    "title": "LG to Ban Residential Proxies from Smart TV Apps"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://canvasui.dev/",
+    "title": "Canvas UI: Creative Canvas and WebGL Component Library"
   }
 ]
