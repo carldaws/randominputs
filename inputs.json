@@ -1,6 +1,11 @@
 [
   {
     "source": "hn",
+    "url": "https://astral.sh/blog/ruff-v0.16.0",
+    "title": "Ruff v0.16.0 – Significant new updates – 413 default rules up from 59"
+  },
+  {
+    "source": "hn",
     "url": "https://refp.se/articles/your-shell-and-the-magic-colon",
     "title": "A shell colon does nothing. Use it anyway"
   },
@@ -8,6 +13,11 @@
     "source": "hn",
     "url": "https://blog.ktz.me/esp32-plane-radar/",
     "title": "An ESP32 based plane radar for my desk"
+  },
+  {
+    "source": "hn",
+    "url": "https://status.claude.com/incidents/zftg3gqkmv18",
+    "title": "Elevated Errors for Opus 5"
   },
   {
     "source": "hn",
@@ -26,13 +36,18 @@
   },
   {
     "source": "hn",
+    "url": "https://cachebag.sh/journal/interactive-rebasing/",
+    "title": "Git rebase -I is not that scary"
+  },
+  {
+    "source": "hn",
     "url": "https://www.jetzero.aero",
     "title": "JetZero"
   },
   {
     "source": "hn",
-    "url": "https://cachebag.sh/journal/interactive-rebasing/",
-    "title": "Git rebase -I is not that scary"
+    "url": "https://comuniq.xyz/post?t=1439",
+    "title": "No Stack Overflow, No Autocomplete: What Coding Felt Like in the 80s"
   },
   {
     "source": "hn",
@@ -46,18 +61,13 @@
   },
   {
     "source": "hn",
+    "url": "https://kitsumed.github.io/blog/posts/android-may-soon-restrict-on-device-adb/",
+    "title": "Android may soon restrict on-device ADB"
+  },
+  {
+    "source": "lobsters",
     "url": "https://itsallaboutthebit.com/memory-safety-absolutists/",
-    "title": "Memory safety absolutists"
-  },
-  {
-    "source": "hn",
-    "url": "https://systemf.epfl.ch/etc/librrd/",
-    "title": "Librrd Playground"
-  },
-  {
-    "source": "hn",
-    "url": "https://fly.io/blog/kurt-scott-money-sprites/",
-    "title": "Turn And Face The Strange"
+    "title": "Memory Safety Absolutists"
   },
   {
     "source": "lobsters",
@@ -78,11 +88,6 @@
     "source": "lobsters",
     "url": "https://www.marginalia.nu/log/a_139_hdd/",
     "title": "Your harddrive is probably full"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://kitsumed.github.io/blog/posts/android-may-soon-restrict-on-device-adb/",
-    "title": "Android May Soon Restrict On-Device ADB, Affecting Shizuku, libadb and Developers"
   },
   {
     "source": "lobsters",
@@ -118,75 +123,5 @@
     "source": "lobsters",
     "url": "https://blog.jsbarretto.com/post/languages-as-latent-spaces",
     "title": "Languages as designed latent spaces"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://simonwillison.net/2026/Jul/22/openai-cyberattack/",
-    "title": "OpenAI’s accidental cyberattack against Hugging Face is science fiction that happened"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://hatchet.run/blog/postgres-survival-guide",
-    "title": "Hatchet · The startup's Postgres survival guide"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://glinscott.github.io/beam-engine/",
-    "title": "How a Beam Engine Works — An Interactive Guide"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://sound-effects.bbcrewind.co.uk/",
-    "title": "BBC Sound Effects"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://bento.page/slides/",
-    "title": "Bento Slides Showcase — Bento Slides"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://freeink.org/",
-    "title": "Free Ink · An open ecosystem for e-readers"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://blaizzy.github.io/nativ/",
-    "title": "Nativ — Run AI locally on your Mac"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://extinct-media-museum.blog.jp/otemachi/",
-    "title": "「大手町の絶滅メディア博物館」公式ページ : 絶滅メディア博物館：Extinct Media Museum"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.dbos.dev/blog/postgres-listen-notify-scalability",
-    "title": "Postgres LISTEN/NOTIFY Actually Scales | DBOS"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://bento.page/",
-    "title": "Bento/Suite — the office suite that fits in a file"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://claytondorge.com/patterns-list",
-    "title": "🏡 List of 253 Patterns — Clayton Dorge"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://futurism.com/artificial-intelligence/ai-companies-hide-debt-off-balance-sheet",
-    "title": "Il debito nascosto dietro la corsa ai data center per l’AI"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://canvasui.dev/",
-    "title": "Canvas UI: Creative Canvas and WebGL Component Library"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://alexyang.dev/vim-ascii-art/",
-    "title": "Making ASCII art in Vim"
   }
 ]
