@@ -6,18 +6,18 @@
   },
   {
     "source": "hn",
+    "url": "https://www.wsj.com/tech/google-discloses-94-1-billion-in-spacex-stock-marking-6-stake-91655d7c",
+    "title": "Google Discloses $94.1B in SpaceX Stock, Marking 6% Stake"
+  },
+  {
+    "source": "hn",
     "url": "https://refp.se/articles/your-shell-and-the-magic-colon",
     "title": "A shell colon does nothing. Use it anyway"
   },
   {
     "source": "hn",
-    "url": "https://etbe.coker.com.au/2026/07/24/systemd-linger/",
-    "title": "Systemd Linger"
-  },
-  {
-    "source": "hn",
-    "url": "https://en.wikipedia.org/wiki/German_Peasants%27_War",
-    "title": "German Peasants' War"
+    "url": "https://pentaton.app/blog/2026-07-12-introducing-pentaton-lp/",
+    "title": "I learned PCB design, 3D printing and C just to listen to music"
   },
   {
     "source": "hn",
@@ -26,8 +26,8 @@
   },
   {
     "source": "hn",
-    "url": "https://blog.cloudflare.com/content-independence-day-ai-options/",
-    "title": "Cloudflare's new AI traffic options for customers"
+    "url": "https://practical.engineering/blog/2026/7/21/whats-under-your-feet-in-new-york-city",
+    "title": "What's Under Your Feet in New York City?"
   },
   {
     "source": "hn",
@@ -36,8 +36,8 @@
   },
   {
     "source": "hn",
-    "url": "https://cachebag.sh/journal/interactive-rebasing/",
-    "title": "Git rebase -I is not that scary"
+    "url": "https://blog.cloudflare.com/content-independence-day-ai-options/",
+    "title": "Cloudflare's new AI traffic options for customers"
   },
   {
     "source": "hn",
@@ -46,23 +46,18 @@
   },
   {
     "source": "hn",
-    "url": "https://www.jetzero.aero",
-    "title": "JetZero"
+    "url": "https://cachebag.sh/journal/interactive-rebasing/",
+    "title": "Git rebase -I is not that scary"
   },
   {
     "source": "hn",
-    "url": "https://box2d.org/posts/2026/07/simd-for-collision/",
-    "title": "SIMD for Collision"
+    "url": "https://etbe.coker.com.au/2026/07/24/systemd-linger/",
+    "title": "Systemd Linger"
   },
   {
     "source": "hn",
     "url": "https://martin.janiczek.cz/2026/07/24/systems-and-delays.html",
     "title": "Systems and Delays"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.wsj.com/tech/google-discloses-94-1-billion-in-spacex-stock-marking-6-stake-91655d7c",
-    "title": "Google Discloses $94.1B in SpaceX Stock, Marking 6% Stake"
   },
   {
     "source": "lobsters",
@@ -128,75 +123,5 @@
     "source": "lobsters",
     "url": "https://blog.jsbarretto.com/post/languages-as-latent-spaces",
     "title": "Languages as designed latent spaces"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://simonwillison.net/2026/Jul/22/openai-cyberattack/",
-    "title": "OpenAI’s accidental cyberattack against Hugging Face is science fiction that happened"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://hatchet.run/blog/postgres-survival-guide",
-    "title": "Hatchet · The startup's Postgres survival guide"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://glinscott.github.io/beam-engine/",
-    "title": "How a Beam Engine Works — An Interactive Guide"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://sound-effects.bbcrewind.co.uk/",
-    "title": "BBC Sound Effects"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://bento.page/slides/",
-    "title": "Bento Slides Showcase — Bento Slides"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://freeink.org/",
-    "title": "Free Ink · An open ecosystem for e-readers"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://blaizzy.github.io/nativ/",
-    "title": "Nativ — Run AI locally on your Mac"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://extinct-media-museum.blog.jp/otemachi/",
-    "title": "「大手町の絶滅メディア博物館」公式ページ : 絶滅メディア博物館：Extinct Media Museum"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.dbos.dev/blog/postgres-listen-notify-scalability",
-    "title": "Postgres LISTEN/NOTIFY Actually Scales | DBOS"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://bento.page/",
-    "title": "Bento/Suite — the office suite that fits in a file"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://claytondorge.com/patterns-list",
-    "title": "🏡 List of 253 Patterns — Clayton Dorge"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://futurism.com/artificial-intelligence/ai-companies-hide-debt-off-balance-sheet",
-    "title": "Il debito nascosto dietro la corsa ai data center per l’AI"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://canvasui.dev/",
-    "title": "Canvas UI: Creative Canvas and WebGL Component Library"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://alexyang.dev/vim-ascii-art/",
-    "title": "Making ASCII art in Vim"
   }
 ]
