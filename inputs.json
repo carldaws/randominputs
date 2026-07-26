@@ -6,13 +6,8 @@
   },
   {
     "source": "hn",
-    "url": "https://astral.sh/blog/ruff-v0.16.0",
-    "title": "Ruff v0.16.0 – Significant new updates – 413 default rules up from 59"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.wsj.com/tech/google-discloses-94-1-billion-in-spacex-stock-marking-6-stake-91655d7c",
-    "title": "Google Discloses $94.1B in SpaceX Stock, Marking 6% Stake"
+    "url": "https://stephango.com/design-is-compromise",
+    "title": "Design Is Compromise"
   },
   {
     "source": "hn",
@@ -21,13 +16,33 @@
   },
   {
     "source": "hn",
+    "url": "https://andys.blog/this-july-i-was-fired-from-simple-ai/",
+    "title": "This July I Was Fired from Simple AI (A Deeply YC Company)"
+  },
+  {
+    "source": "hn",
+    "url": "https://astral.sh/blog/ruff-v0.16.0",
+    "title": "Ruff v0.16.0 – Significant new updates – 413 default rules up from 59"
+  },
+  {
+    "source": "hn",
     "url": "https://pentaton.app/blog/2026-07-12-introducing-pentaton-lp/",
     "title": "I learned PCB design, 3D printing and C just to listen to music"
   },
   {
     "source": "hn",
+    "url": "https://www.wsj.com/tech/google-discloses-94-1-billion-in-spacex-stock-marking-6-stake-91655d7c",
+    "title": "Google Discloses $94.1B in SpaceX Stock, Marking 6% Stake"
+  },
+  {
+    "source": "hn",
     "url": "https://practical.engineering/blog/2026/7/21/whats-under-your-feet-in-new-york-city",
     "title": "What's Under Your Feet in New York City?"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.popsci.com/science/whats-jimothy-raccoon-condition/",
+    "title": "Jimothy the raccoon has a rare spinal condition. Here's what that means"
   },
   {
     "source": "hn",
@@ -53,6 +68,11 @@
     "source": "hn",
     "url": "https://tangled.org/oppi.li/stinkpot",
     "title": "Stinkpot: SQLite-backed shell history"
+  },
+  {
+    "source": "hn",
+    "url": "https://teorth.github.io/tao-web/slides/age-of-ai-icm-2026.pdf",
+    "title": "Terence Tao: Mathematics in the Age of AI [pdf]"
   },
   {
     "source": "lobsters",
@@ -91,6 +111,11 @@
   },
   {
     "source": "lobsters",
+    "url": "https://kim-em.github.io/blog/2026-7-24-why-lean-is-faster-than-rust/",
+    "title": "Fast DEFLATE compression in Lean"
+  },
+  {
+    "source": "lobsters",
     "url": "https://www.hillelwayne.com/post/we-are-not-special/",
     "title": "We Are Not Special (2021)"
   },
@@ -101,13 +126,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://eieio.games/blog/im-running-the-icfp-programming-contest/",
-    "title": "I'm running the ICFP programming contest"
+    "url": "https://highway-01.banner-depot-2000.net/",
+    "title": "Banner Highway 01"
   },
   {
     "source": "lobsters",
-    "url": "https://highway-01.banner-depot-2000.net/",
-    "title": "Banner Highway 01"
+    "url": "https://eieio.games/blog/im-running-the-icfp-programming-contest/",
+    "title": "I'm running the ICFP programming contest"
   },
   {
     "source": "lobsters",
@@ -118,10 +143,5 @@
     "source": "lobsters",
     "url": "https://blog.jsbarretto.com/post/languages-as-latent-spaces",
     "title": "Languages as designed latent spaces"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://martin.janiczek.cz/2026/07/24/systems-and-delays.html",
-    "title": "Systems and Delays (2026)"
   }
 ]
