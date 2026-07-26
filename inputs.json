@@ -1,13 +1,18 @@
 [
   {
     "source": "hn",
-    "url": "https://didtheyghostyou.com/",
-    "title": "Did They Ghost You?"
+    "url": "https://anatolyzenkov.com/stolen-buttons",
+    "title": "Stolen Buttons"
   },
   {
     "source": "hn",
-    "url": "https://anatolyzenkov.com/stolen-buttons",
-    "title": "Stolen Buttons"
+    "url": "https://martin.janiczek.cz/2026/07/24/systems-and-delays.html",
+    "title": "Systems and Delays"
+  },
+  {
+    "source": "hn",
+    "url": "https://blog.cloudflare.com/content-independence-day-ai-options/",
+    "title": "Cloudflare's new AI traffic options for customers"
   },
   {
     "source": "hn",
@@ -16,8 +21,23 @@
   },
   {
     "source": "hn",
-    "url": "https://www.apalrd.net/posts/2026/isp_mcast/",
-    "title": "Multicast TV Distribution on My Home Network"
+    "url": "https://fly.io/blog/kurt-scott-money-sprites/",
+    "title": "Turn And Face The Strange"
+  },
+  {
+    "source": "hn",
+    "url": "https://en.wikipedia.org/wiki/Star_Axis",
+    "title": "Star Axis"
+  },
+  {
+    "source": "hn",
+    "url": "https://itsallaboutthebit.com/memory-safety-absolutists/",
+    "title": "Memory Safety Absolutists"
+  },
+  {
+    "source": "hn",
+    "url": "https://didtheyghostyou.com/",
+    "title": "Did They Ghost You?"
   },
   {
     "source": "hn",
@@ -26,13 +46,13 @@
   },
   {
     "source": "hn",
-    "url": "https://windows-xp.kimi.site/",
-    "title": "Kimi K3 built a Windows XP in browser"
+    "url": "https://www.apalrd.net/posts/2026/isp_mcast/",
+    "title": "Multicast TV Distribution on My Home Network"
   },
   {
     "source": "hn",
-    "url": "https://dead.garden/blog/how-my-images-are-dithered.html",
-    "title": "How My Images Are Dithered"
+    "url": "https://abcnews.com/International/scientists-warn-invasive-species-superspreader-event-due-stalling/story?id=135051186",
+    "title": "Possible invasive species superspreader event near Strait of Hormuz"
   },
   {
     "source": "hn",
@@ -41,23 +61,23 @@
   },
   {
     "source": "hn",
+    "url": "https://dead.garden/blog/how-my-images-are-dithered.html",
+    "title": "How My Images Are Dithered"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.maxmynter.com/pages/blog/jobhunt",
+    "title": "Becoming a Research Engineer at a Big LLM Lab"
+  },
+  {
+    "source": "hn",
     "url": "https://pytorch.org/blog/bringing-pytorch-monarch-to-amd-gpus-single-controller-distributed-training-on-rocm/",
     "title": "Bringing PyTorch Monarch to AMD GPUs"
   },
   {
     "source": "hn",
-    "url": "https://geochess.org",
-    "title": "Show HN: GeoChess – open-source geography strategy game"
-  },
-  {
-    "source": "hn",
-    "url": "https://fly.io/blog/kurt-scott-money-sprites/",
-    "title": "Fly.io CEO Kurt Mackey is stepping down"
-  },
-  {
-    "source": "hn",
-    "url": "https://shukla.io/blog/2026-07/cccx.html",
-    "title": "Spatial languages: Writing code in 2D"
+    "url": "https://www.osnews.com/story/145603/the-hurd-gets-9pfs-openntpd-dynamic-dev-entries-and-more/",
+    "title": "GNU Hurd gets 9pfs, OpenNTPD, dynamic /dev/ entries, and more"
   },
   {
     "source": "lobsters",
@@ -71,11 +91,6 @@
   },
   {
     "source": "lobsters",
-    "url": "https://itsallaboutthebit.com/memory-safety-absolutists/",
-    "title": "Memory Safety Absolutists"
-  },
-  {
-    "source": "lobsters",
     "url": "https://zigbyexample.neocities.org/",
     "title": "Zig by Example"
   },
@@ -83,6 +98,11 @@
     "source": "lobsters",
     "url": "https://www.marginalia.nu/log/a_139_hdd/",
     "title": "Your harddrive is probably full"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://unsung.aresluna.org/chromes-breaking-and-entering/",
+    "title": "Chrome registers a global shortcut for Gemini popup window"
   },
   {
     "source": "lobsters",
@@ -101,13 +121,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://eieio.games/blog/im-running-the-icfp-programming-contest/",
-    "title": "I'm running the ICFP programming contest"
+    "url": "https://chainsawriot.com/postmannheim/2026/07/25/writeredeck.html",
+    "title": "Emacs Writing Machine"
   },
   {
     "source": "lobsters",
-    "url": "https://sebsite.pw/w/20260725-auto.html",
-    "title": "the perils of parsing type inference declarations in c"
+    "url": "https://eieio.games/blog/im-running-the-icfp-programming-contest/",
+    "title": "I'm running the ICFP programming contest"
   },
   {
     "source": "lobsters",
@@ -116,8 +136,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://martin.janiczek.cz/2026/07/24/systems-and-delays.html",
-    "title": "Systems and Delays (2026)"
+    "url": "https://sebsite.pw/w/20260725-auto.html",
+    "title": "the perils of parsing type inference declarations in c"
   },
   {
     "source": "lobsters",
@@ -128,11 +148,6 @@
     "source": "lobsters",
     "url": "https://microformats.org/",
     "title": "Microformats – building blocks for data-rich web pages"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://cachebag.sh/journal/interactive-rebasing/",
-    "title": "git rebase -i is not that scary"
   },
   {
     "source": "pinboard",
@@ -208,6 +223,11 @@
     "source": "pinboard",
     "url": "https://hashcloak.com/blog/tutorial-introduction-to-formal-verification-with-lean-(part-1)",
     "title": "Tutorial: Introduction to Formal Verification with Lean (Part 1) - HashCloak"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://beej.us/blog/data/ai-making/",
+    "title": "On Making"
   },
   {
     "source": "pinboard",
