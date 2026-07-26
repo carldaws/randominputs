@@ -6,8 +6,18 @@
   },
   {
     "source": "hn",
-    "url": "https://davidnicholaswilliams.com/its-not-empowering-to-hand-off-the-details/",
-    "title": "It's not empowering to hand off the details"
+    "url": "https://gracefulliberty.com/articles/teaching-kids-forth/",
+    "title": "Teaching Kids Forth"
+  },
+  {
+    "source": "hn",
+    "url": "https://foxglove.dev/blog/visualizing-the-artemis-ii-mission",
+    "title": "Visualizing the Artemis II Mission"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.france24.com/en/live-news/20260726-french-firefighters-face-pyrocumulonimbus-for-first-time",
+    "title": "French firefighters face 'pyrocumulonimbus' for first time"
   },
   {
     "source": "hn",
@@ -21,53 +31,8 @@
   },
   {
     "source": "hn",
-    "url": "https://gracefulliberty.com/articles/teaching-kids-forth/",
-    "title": "Teaching Kids Forth – Anna Liberty"
-  },
-  {
-    "source": "hn",
     "url": "https://thelampmagazine.com/blog/how-to-write-english-prose",
     "title": "How to Write English Prose"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.imperialviolet.org/2026/07/26/zstd-lean.html",
-    "title": "We have proof automation now"
-  },
-  {
-    "source": "hn",
-    "url": "https://grego.site/blog/thinkphone",
-    "title": "Using ThinkPad T480 as a mobile phone"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.popsci.com/science/whats-jimothy-raccoon-condition/",
-    "title": "Jimothy the raccoon has a rare spinal condition. Here's what that means"
-  },
-  {
-    "source": "hn",
-    "url": "https://killthecookiebanner.eu/",
-    "title": "Kill The Cookie Banner"
-  },
-  {
-    "source": "hn",
-    "url": "https://pentaton.app/blog/2026-07-12-introducing-pentaton-lp/",
-    "title": "I learned PCB design, 3D printing and C just to listen to music"
-  },
-  {
-    "source": "hn",
-    "url": "https://blog.playcanvas.com/building-the-grace-cathedral-experience/",
-    "title": "Building the Grace Cathedral experience"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.pement.org/sed/make_indexes.txt",
-    "title": "Using sed to make indexes for books (1997)"
-  },
-  {
-    "source": "hn",
-    "url": "https://practical.engineering/blog/2026/7/21/whats-under-your-feet-in-new-york-city",
-    "title": "What's Under Your Feet in New York City?"
   },
   {
     "source": "hn",
@@ -76,28 +41,43 @@
   },
   {
     "source": "hn",
-    "url": "https://phys.org/news/2026-07-private-mission-life-gas-communication.html",
-    "title": "Private mission launches to extend life of out-of-gas communication satellites"
+    "url": "https://www.imperialviolet.org/2026/07/26/zstd-lean.html",
+    "title": "We have proof automation now"
   },
   {
     "source": "hn",
-    "url": "https://infinitejigsaw.com",
-    "title": "Show HN: Infinite Jigsaw Game"
+    "url": "https://faculty.lsu.edu/kharms/files/flexner_1939.pdf",
+    "title": "The Usefulness of Useless Knowledge (1939) [pdf]"
   },
   {
     "source": "hn",
-    "url": "https://aerospaceglobalnews.com/news/gatwick-airport-robotic-parking-stanley-robotics/",
-    "title": "London Gatwick has launched a robotic airport parking service"
+    "url": "https://pentaton.app/blog/2026-07-12-introducing-pentaton-lp/",
+    "title": "I learned PCB design, 3D printing and C just to listen to music"
   },
   {
     "source": "hn",
-    "url": "https://jvns.ca/blog/2026/07/21/more-nice-django-things/",
-    "title": "Some more things about Django I've been enjoying"
+    "url": "https://killthecookiebanner.eu/",
+    "title": "Kill The Cookie Banner"
   },
   {
     "source": "hn",
-    "url": "https://refp.se/articles/your-shell-and-the-magic-colon",
-    "title": "A shell colon does nothing. Use it anyway"
+    "url": "https://www.popsci.com/science/whats-jimothy-raccoon-condition/",
+    "title": "Jimothy the raccoon has a rare spinal condition. Here's what that means"
+  },
+  {
+    "source": "hn",
+    "url": "https://davidnicholaswilliams.com/its-not-empowering-to-hand-off-the-details/",
+    "title": "It's not empowering to hand off the details"
+  },
+  {
+    "source": "hn",
+    "url": "https://practical.engineering/blog/2026/7/21/whats-under-your-feet-in-new-york-city",
+    "title": "What's Under Your Feet in New York City?"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.pement.org/sed/make_indexes.txt",
+    "title": "Using sed to make indexes for books (1997)"
   },
   {
     "source": "lobsters",
@@ -106,8 +86,18 @@
   },
   {
     "source": "lobsters",
+    "url": "https://refp.se/articles/your-shell-and-the-magic-colon",
+    "title": "A shell colon does nothing. Use it anyway"
+  },
+  {
+    "source": "lobsters",
     "url": "https://itsallaboutthebit.com/memory-safety-absolutists/",
     "title": "Memory Safety Absolutists"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://letoverlambda.com/textmode.cl/guest/chap8.html",
+    "title": "Forth Moving Lisp Moving Forth"
   },
   {
     "source": "lobsters",
@@ -121,13 +111,18 @@
   },
   {
     "source": "lobsters",
-    "url": "https://letoverlambda.com/textmode.cl/guest/chap8.html",
-    "title": "Forth Moving Lisp Moving Forth"
+    "url": "https://grego.site/blog/thinkphone",
+    "title": "Using ThinkPad T480 as a mobile phone"
   },
   {
     "source": "lobsters",
     "url": "https://openloco.io/news/2026/07/openloco-v26.07.html",
     "title": "OpenLoco version 26.07  Release"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://kim-em.github.io/blog/2026-7-24-why-lean-is-faster-than-rust/",
+    "title": "Fast DEFLATE compression in Lean"
   },
   {
     "source": "lobsters",
@@ -143,11 +138,6 @@
     "source": "lobsters",
     "url": "https://www.marginalia.nu/log/a_139_hdd/",
     "title": "Your harddrive is probably full"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://kim-em.github.io/blog/2026-7-24-why-lean-is-faster-than-rust/",
-    "title": "Fast DEFLATE compression in Lean"
   },
   {
     "source": "lobsters",
@@ -168,10 +158,5 @@
     "source": "lobsters",
     "url": "https://highway-01.banner-depot-2000.net/",
     "title": "Banner Highway 01"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://chainsawriot.com/postmannheim/2026/07/25/writeredeck.html",
-    "title": "Emacs Writing Machine"
   }
 ]
