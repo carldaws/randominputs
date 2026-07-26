@@ -21,6 +21,11 @@
   },
   {
     "source": "hn",
+    "url": "https://gracefulliberty.com/articles/teaching-kids-forth/",
+    "title": "Teaching Kids Forth – Anna Liberty"
+  },
+  {
+    "source": "hn",
     "url": "https://thelampmagazine.com/blog/how-to-write-english-prose",
     "title": "How to Write English Prose"
   },
@@ -41,8 +46,8 @@
   },
   {
     "source": "hn",
-    "url": "https://blog.playcanvas.com/building-the-grace-cathedral-experience/",
-    "title": "Building the Grace Cathedral experience"
+    "url": "https://killthecookiebanner.eu/",
+    "title": "Kill The Cookie Banner"
   },
   {
     "source": "hn",
@@ -51,18 +56,13 @@
   },
   {
     "source": "hn",
+    "url": "https://blog.playcanvas.com/building-the-grace-cathedral-experience/",
+    "title": "Building the Grace Cathedral experience"
+  },
+  {
+    "source": "hn",
     "url": "https://www.pement.org/sed/make_indexes.txt",
     "title": "Using sed to make indexes for books (1997)"
-  },
-  {
-    "source": "hn",
-    "url": "https://killthecookiebanner.eu/",
-    "title": "Kill The Cookie Banner"
-  },
-  {
-    "source": "hn",
-    "url": "https://infinitejigsaw.com",
-    "title": "Show HN: Infinite Jigsaw Game"
   },
   {
     "source": "hn",
@@ -71,23 +71,23 @@
   },
   {
     "source": "hn",
-    "url": "https://aerospaceglobalnews.com/news/gatwick-airport-robotic-parking-stanley-robotics/",
-    "title": "London Gatwick has launched a robotic airport parking service"
-  },
-  {
-    "source": "hn",
     "url": "https://astgrep.com/blog/tree-sitter-rust-rewrite",
     "title": "How AST-grep Rewrote Tree-sitter in Rust and Made It 30% Faster"
   },
   {
     "source": "hn",
-    "url": "https://blog.xoria.org/integers/",
-    "title": "Thoughts on Integers (2023)"
+    "url": "https://phys.org/news/2026-07-private-mission-life-gas-communication.html",
+    "title": "Private mission launches to extend life of out-of-gas communication satellites"
   },
   {
     "source": "hn",
-    "url": "https://thedailywtf.com/articles/classic-wtf-server-room-fans-and-more-fun",
-    "title": "Classic WTF: Server Room Fans and More Fun"
+    "url": "https://infinitejigsaw.com",
+    "title": "Show HN: Infinite Jigsaw Game"
+  },
+  {
+    "source": "hn",
+    "url": "https://aerospaceglobalnews.com/news/gatwick-airport-robotic-parking-stanley-robotics/",
+    "title": "London Gatwick has launched a robotic airport parking service"
   },
   {
     "source": "hn",
@@ -95,19 +95,14 @@
     "title": "Some more things about Django I've been enjoying"
   },
   {
-    "source": "lobsters",
-    "url": "https://gracefulliberty.com/articles/teaching-kids-forth/",
-    "title": "Teaching Kids Forth"
+    "source": "hn",
+    "url": "https://refp.se/articles/your-shell-and-the-magic-colon",
+    "title": "A shell colon does nothing. Use it anyway"
   },
   {
     "source": "lobsters",
     "url": "https://notes.hella.cheap/maybe-we-should-revisit-microkernels.html",
     "title": "Maybe we should revisit microkernels"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://refp.se/articles/your-shell-and-the-magic-colon",
-    "title": "A shell colon does nothing. Use it anyway"
   },
   {
     "source": "lobsters",
