@@ -1,6 +1,11 @@
 [
   {
     "source": "hn",
+    "url": "https://aerospaceglobalnews.com/news/gatwick-airport-robotic-parking-stanley-robotics/",
+    "title": "Park by Robot at London Gatwick Airport"
+  },
+  {
+    "source": "hn",
     "url": "https://astral.sh/blog/ruff-v0.16.0",
     "title": "Ruff v0.16.0 – Significant new updates – 413 default rules up from 59"
   },
@@ -11,8 +16,8 @@
   },
   {
     "source": "hn",
-    "url": "https://refp.se/articles/your-shell-and-the-magic-colon",
-    "title": "A shell colon does nothing. Use it anyway"
+    "url": "https://killthecookiebanner.eu/",
+    "title": "Kill The Cookie Banner"
   },
   {
     "source": "hn",
@@ -21,23 +26,18 @@
   },
   {
     "source": "hn",
-    "url": "https://blog.ktz.me/esp32-plane-radar/",
-    "title": "An ESP32 based plane radar for my desk"
-  },
-  {
-    "source": "hn",
     "url": "https://practical.engineering/blog/2026/7/21/whats-under-your-feet-in-new-york-city",
     "title": "What's Under Your Feet in New York City?"
   },
   {
     "source": "hn",
-    "url": "https://tangled.org/oppi.li/stinkpot",
-    "title": "Stinkpot: SQLite-backed shell history"
+    "url": "https://refp.se/articles/your-shell-and-the-magic-colon",
+    "title": "A shell colon does nothing. Use it anyway"
   },
   {
     "source": "hn",
-    "url": "https://blog.cloudflare.com/content-independence-day-ai-options/",
-    "title": "Cloudflare's new AI traffic options for customers"
+    "url": "https://blog.ktz.me/esp32-plane-radar/",
+    "title": "An ESP32 based plane radar for my desk"
   },
   {
     "source": "hn",
@@ -46,18 +46,13 @@
   },
   {
     "source": "hn",
-    "url": "https://cachebag.sh/journal/interactive-rebasing/",
-    "title": "Git rebase -I is not that scary"
+    "url": "https://blog.cloudflare.com/content-independence-day-ai-options/",
+    "title": "Cloudflare's new AI traffic options for customers"
   },
   {
     "source": "hn",
-    "url": "https://etbe.coker.com.au/2026/07/24/systemd-linger/",
-    "title": "Systemd Linger"
-  },
-  {
-    "source": "hn",
-    "url": "https://martin.janiczek.cz/2026/07/24/systems-and-delays.html",
-    "title": "Systems and Delays"
+    "url": "https://tangled.org/oppi.li/stinkpot",
+    "title": "Stinkpot: SQLite-backed shell history"
   },
   {
     "source": "lobsters",
@@ -123,5 +118,10 @@
     "source": "lobsters",
     "url": "https://blog.jsbarretto.com/post/languages-as-latent-spaces",
     "title": "Languages as designed latent spaces"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://martin.janiczek.cz/2026/07/24/systems-and-delays.html",
+    "title": "Systems and Delays (2026)"
   }
 ]
