@@ -1,23 +1,18 @@
 [
   {
     "source": "hn",
+    "url": "https://beyondloom.com/decker/",
+    "title": "Decker, a platform that builds on the legacy of Hypercard and classic macOS"
+  },
+  {
+    "source": "hn",
     "url": "https://aerospaceglobalnews.com/news/gatwick-airport-robotic-parking-stanley-robotics/",
     "title": "London Gatwick has launched a robotic airport parking service"
   },
   {
     "source": "hn",
-    "url": "https://killthecookiebanner.eu/",
-    "title": "Kill The Cookie Banner"
-  },
-  {
-    "source": "hn",
     "url": "https://stephango.com/design-is-compromise",
-    "title": "Design Is Compromise"
-  },
-  {
-    "source": "hn",
-    "url": "https://astral.sh/blog/ruff-v0.16.0",
-    "title": "Ruff v0.16.0 – Significant new updates – 413 default rules up from 59"
+    "title": "Design is compromise"
   },
   {
     "source": "hn",
@@ -26,23 +21,18 @@
   },
   {
     "source": "hn",
+    "url": "https://www.gamedevs.org/uploads/introduction-to-data-oriented-design.pdf",
+    "title": "Introduction to Data-Oriented Design [pdf]"
+  },
+  {
+    "source": "hn",
+    "url": "https://blog.playcanvas.com/building-the-grace-cathedral-experience/",
+    "title": "Building the Grace Cathedral Experience"
+  },
+  {
+    "source": "hn",
     "url": "https://thelampmagazine.com/blog/how-to-write-english-prose",
     "title": "How to Write English Prose"
-  },
-  {
-    "source": "hn",
-    "url": "https://beyondloom.com/decker/",
-    "title": "Decker"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.pement.org/sed/make_indexes.txt",
-    "title": "Using sed to make indexes for books (long)"
-  },
-  {
-    "source": "hn",
-    "url": "https://occultgatsby.work",
-    "title": "Show HN: The Occult Gatsby"
   },
   {
     "source": "hn",
@@ -51,13 +41,23 @@
   },
   {
     "source": "hn",
+    "url": "https://killthecookiebanner.eu/",
+    "title": "Kill The Cookie Banner"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.pement.org/sed/make_indexes.txt",
+    "title": "Using sed to make indexes for books (long) (1997)"
+  },
+  {
+    "source": "hn",
     "url": "https://practical.engineering/blog/2026/7/21/whats-under-your-feet-in-new-york-city",
     "title": "What's Under Your Feet in New York City?"
   },
   {
     "source": "hn",
-    "url": "https://www.hornet.org/wikipedia-notes.txt",
-    "title": "Google Cache used to have a copy of this page at"
+    "url": "https://grego.site/blog/thinkphone",
+    "title": "Using ThinkPad T480 as a mobile phone"
   },
   {
     "source": "hn",
@@ -66,8 +66,13 @@
   },
   {
     "source": "hn",
-    "url": "https://www.gamedevs.org/uploads/introduction-to-data-oriented-design.pdf",
-    "title": "Introduction to Data-Oriented Design [pdf]"
+    "url": "https://jvns.ca/blog/2026/07/21/more-nice-django-things/",
+    "title": "Some more things about Django I've been enjoying"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.france24.com/en/live-news/20260726-french-firefighters-face-pyrocumulonimbus-for-first-time",
+    "title": "French firefighters face 'pyrocumulonimbus' for first time"
   },
   {
     "source": "hn",
@@ -78,11 +83,6 @@
     "source": "hn",
     "url": "https://leancrew.com/all-this/2026/07/sum-of-cubes-via-difference-tables/",
     "title": "Sum of Cubes via Difference Tables"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.france24.com/en/live-news/20260726-french-firefighters-face-pyrocumulonimbus-for-first-time",
-    "title": "French firefighters face 'pyrocumulonimbus' for first time"
   },
   {
     "source": "hn",
@@ -103,6 +103,11 @@
     "source": "lobsters",
     "url": "https://itsallaboutthebit.com/memory-safety-absolutists/",
     "title": "Memory Safety Absolutists"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://gracefulliberty.com/articles/teaching-kids-forth/",
+    "title": "Teaching Kids Forth"
   },
   {
     "source": "lobsters",
@@ -163,80 +168,5 @@
     "source": "lobsters",
     "url": "https://chainsawriot.com/postmannheim/2026/07/25/writeredeck.html",
     "title": "Emacs Writing Machine"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://eieio.games/blog/im-running-the-icfp-programming-contest/",
-    "title": "I'm running the ICFP programming contest"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://simonwillison.net/2026/Jul/22/openai-cyberattack/",
-    "title": "OpenAI’s accidental cyberattack against Hugging Face is science fiction that happened"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://hatchet.run/blog/postgres-survival-guide",
-    "title": "Hatchet · The startup's Postgres survival guide"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://glinscott.github.io/beam-engine/",
-    "title": "How a Beam Engine Works — An Interactive Guide"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://sound-effects.bbcrewind.co.uk/",
-    "title": "BBC Sound Effects"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://bento.page/slides/",
-    "title": "Bento Slides Showcase — Bento Slides"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://freeink.org/",
-    "title": "Free Ink · An open ecosystem for e-readers"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://blaizzy.github.io/nativ/",
-    "title": "Nativ — Run AI locally on your Mac"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://extinct-media-museum.blog.jp/otemachi/",
-    "title": "「大手町の絶滅メディア博物館」公式ページ : 絶滅メディア博物館：Extinct Media Museum"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.dbos.dev/blog/postgres-listen-notify-scalability",
-    "title": "Postgres LISTEN/NOTIFY Actually Scales | DBOS"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://bento.page/",
-    "title": "Bento/Suite — the office suite that fits in a file"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://claytondorge.com/patterns-list",
-    "title": "🏡 List of 253 Patterns — Clayton Dorge"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://futurism.com/artificial-intelligence/ai-companies-hide-debt-off-balance-sheet",
-    "title": "Il debito nascosto dietro la corsa ai data center per l’AI"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://canvasui.dev/",
-    "title": "Canvas UI: Creative Canvas and WebGL Component Library"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://alexyang.dev/vim-ascii-art/",
-    "title": "Making ASCII art in Vim"
   }
 ]
