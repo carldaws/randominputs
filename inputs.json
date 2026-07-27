@@ -1,8 +1,28 @@
 [
   {
     "source": "hn",
+    "url": "https://nikolays.github.io/PGSimCity/",
+    "title": "PGSimCity - How PostgreSQL Works"
+  },
+  {
+    "source": "hn",
+    "url": "https://usefeyn.com/blog/feynobg/",
+    "title": "Show HN: FeyNoBg – Automatic background removal model and training library"
+  },
+  {
+    "source": "hn",
     "url": "https://lockwood.dev/ai/2026/07/27/how-is-the-bun-rewrite-in-rust-going.html",
     "title": "How is the Bun Rewrite in Rust going?"
+  },
+  {
+    "source": "hn",
+    "url": "https://infrawrench.com",
+    "title": "Show HN: Infrawrench – a tool to manage cloud and svcs with workflows and chat"
+  },
+  {
+    "source": "hn",
+    "url": "https://pagedout.institute/download/PagedOut_009.pdf",
+    "title": "Paged Out #9 [pdf]"
   },
   {
     "source": "hn",
@@ -11,13 +31,8 @@
   },
   {
     "source": "hn",
-    "url": "https://www.macrumors.com/2026/07/27/ed-zitron-apple-watch-it-burn-ai-bubble-bursts/",
-    "title": "Apple Will 'Watch Everything Burn' When the AI Bubble Bursts"
-  },
-  {
-    "source": "hn",
-    "url": "https://nikolays.github.io/PGSimCity/",
-    "title": "PGSimCity - How PostgreSQL Works"
+    "url": "https://www.bloomberg.com/news/articles/2026-07-27/nvidia-s-750-billion-deals-revive-fear-of-ai-circular-financing",
+    "title": "Nvidia's $750B in Deals Reignite Circular AI Fears"
   },
   {
     "source": "hn",
@@ -26,8 +41,8 @@
   },
   {
     "source": "hn",
-    "url": "https://www.nrl.navy.mil/Media/News/Article/4551871/robotic-servicing-of-geosynchronous-satellites-launches-into-orbit/",
-    "title": "First Robotic Satellite Servicer Launched"
+    "url": "https://theamericanscholar.org/beckett-the-prophet/",
+    "title": "Beckett the Prophet"
   },
   {
     "source": "hn",
@@ -36,33 +51,13 @@
   },
   {
     "source": "hn",
+    "url": "https://www.nrl.navy.mil/Media/News/Article/4551871/robotic-servicing-of-geosynchronous-satellites-launches-into-orbit/",
+    "title": "First Robotic Satellite Servicer Launched"
+  },
+  {
+    "source": "hn",
     "url": "https://www.shaylocomotives.com/",
     "title": "Shay Locomotives"
-  },
-  {
-    "source": "hn",
-    "url": "https://incredible.pm/",
-    "title": "The Proof Machine (2016)"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.gavinmai.com/1736354308000-diy-home-solar-backup-system",
-    "title": "DIY Home Solar System for under $5000"
-  },
-  {
-    "source": "hn",
-    "url": "https://beyondloom.com/decker/",
-    "title": "Decker, a platform that builds on the legacy of Hypercard and classic macOS"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.omgubuntu.co.uk/2026/07/chrome-arm64-linux-available",
-    "title": "Google Chrome Arrives on ARM64 Linux, Widevine DRM Included"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.imperialviolet.org/2026/07/26/zstd-lean.html",
-    "title": "We have proof automation now"
   },
   {
     "source": "lobsters",
@@ -76,18 +71,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://gracefulliberty.com/articles/teaching-kids-forth/",
-    "title": "Teaching Kids Forth"
-  },
-  {
-    "source": "lobsters",
     "url": "https://frantic.im/mirage",
     "title": "The Productivity Mirage"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://silky.github.io/posts/reviews-one-simple-trick.html",
-    "title": "Make Reviews Possible Again With This One Simple Trick"
   },
   {
     "source": "lobsters",
@@ -96,13 +81,28 @@
   },
   {
     "source": "lobsters",
+    "url": "https://mikemcquaid.com/open-source-must-be-fun-or-it-will-die/",
+    "title": "Open Source Must Be Fun (Or It Will Die)"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://gracefulliberty.com/articles/teaching-kids-forth/",
+    "title": "Teaching Kids Forth"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://silky.github.io/posts/reviews-one-simple-trick.html",
+    "title": "Make Reviews Possible Again With This One Simple Trick"
+  },
+  {
+    "source": "lobsters",
     "url": "https://www.endoflineblog.com/functional-programming-from-first-principles-part-1-motivation",
     "title": "Functional programming from first principles, part 1 – motivation"
   },
   {
     "source": "lobsters",
-    "url": "https://zanlib.dev/blog/a-voice-from-nowhere/",
-    "title": "A Voice From Nowhere"
+    "url": "https://intertwingly.net/blog/2026/06/27/Conformance-vs-Comprehension.html",
+    "title": "Conformance vs Comprehension"
   },
   {
     "source": "lobsters",
@@ -111,23 +111,13 @@
   },
   {
     "source": "lobsters",
+    "url": "https://zanlib.dev/blog/a-voice-from-nowhere/",
+    "title": "A Voice From Nowhere"
+  },
+  {
+    "source": "lobsters",
     "url": "https://www.omarpolo.com/post/amused.html",
     "title": "I wrote a music player (2022)"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://notes.hella.cheap/maybe-we-should-revisit-microkernels.html",
-    "title": "Maybe we should revisit microkernels"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://entropicthoughts.com/sicp-3-3-digital-circuit-simulator-in-haskell",
-    "title": "Digital circuit simulator in Haskell"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://grego.site/blog/thinkphone",
-    "title": "Using ThinkPad T480 as a mobile phone"
   },
   {
     "source": "pinboard",
@@ -183,6 +173,11 @@
     "source": "pinboard",
     "url": "https://hatchet.run/blog/postgres-survival-guide",
     "title": "Hatchet · The startup's Postgres survival guide"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://zigbyexample.neocities.org/",
+    "title": "Zig by Example"
   },
   {
     "source": "pinboard",
