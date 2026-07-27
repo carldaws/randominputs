@@ -1,13 +1,8 @@
 [
   {
     "source": "hn",
-    "url": "https://microsoft.ai/news/introducing-mai-cyber-1-flash-inside-mdash/",
-    "title": "MAI-Cyber 1"
-  },
-  {
-    "source": "hn",
-    "url": "https://usefeyn.com/blog/feynobg/",
-    "title": "Show HN: FeyNoBg – Automatic background removal model and training library"
+    "url": "https://www.rise-reforming.com",
+    "title": "Launch HN: Rise Reforming (YC S26) – Turning Waste Gases into Valuable Chemicals"
   },
   {
     "source": "hn",
@@ -16,13 +11,8 @@
   },
   {
     "source": "hn",
-    "url": "https://tidefield.dev/bytecode-to-source-mapping/",
-    "title": "Bytecode-to-Source Mapping"
-  },
-  {
-    "source": "hn",
-    "url": "https://pagedout.institute/download/PagedOut_009.pdf",
-    "title": "Paged Out #9 [pdf]"
+    "url": "https://usefeyn.com/blog/feynobg/",
+    "title": "Show HN: FeyNoBg – Automatic background removal model and training library"
   },
   {
     "source": "hn",
@@ -31,18 +21,18 @@
   },
   {
     "source": "hn",
-    "url": "https://klarasystems.com/articles/if-scrubs-hurt-your-zfs-design-is-broken/",
-    "title": "If Scrubs Hurt, Your ZFS Design Is Broken"
+    "url": "https://tidefield.dev/bytecode-to-source-mapping/",
+    "title": "Bytecode-to-Source Mapping"
   },
   {
     "source": "hn",
-    "url": "https://infrawrench.com",
-    "title": "Show HN: Infrawrench – a tool to manage cloud and svcs with workflows and chat"
+    "url": "https://microsoft.ai/news/introducing-mai-cyber-1-flash-inside-mdash/",
+    "title": "MAI-Cyber-1-Flash inside MDASH"
   },
   {
     "source": "hn",
-    "url": "https://www.nrl.navy.mil/Media/News/Article/4551871/robotic-servicing-of-geosynchronous-satellites-launches-into-orbit/",
-    "title": "First Robotic Satellite Servicer Launched"
+    "url": "https://pagedout.institute/download/PagedOut_009.pdf",
+    "title": "Paged Out #9 [pdf]"
   },
   {
     "source": "hn",
@@ -51,8 +41,8 @@
   },
   {
     "source": "hn",
-    "url": "https://incoherency.co.uk/blog/stories/should-you-wash-your-solar-panels.html",
-    "title": "Should you wash your solar panels?"
+    "url": "https://www.nrl.navy.mil/Media/News/Article/4551871/robotic-servicing-of-geosynchronous-satellites-launches-into-orbit/",
+    "title": "First Robotic Satellite Servicer Launched"
   },
   {
     "source": "hn",
@@ -61,13 +51,13 @@
   },
   {
     "source": "hn",
-    "url": "https://www.shaylocomotives.com/",
-    "title": "Shay Locomotives"
+    "url": "https://infrawrench.com",
+    "title": "Show HN: Infrawrench – A tool to manage cloud and svcs with workflows and chat"
   },
   {
     "source": "hn",
-    "url": "https://status.claude.com/incidents/mfdtrknpxghq",
-    "title": "Elevated errors on Claude Opus 5"
+    "url": "https://incoherency.co.uk/blog/stories/should-you-wash-your-solar-panels.html",
+    "title": "Should you wash your solar panels?"
   },
   {
     "source": "lobsters",
@@ -106,13 +96,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://nikolays.github.io/PGSimCity/",
-    "title": "PGSimCity: How PostgreSQL Works, in 3D"
+    "url": "https://fzakaria.com/2026/07/26/seriously-what-is-the-large-code-model-even-for",
+    "title": "Seriously, what is the large code-model even for?"
   },
   {
     "source": "lobsters",
-    "url": "https://intertwingly.net/blog/2026/06/27/Conformance-vs-Comprehension.html",
-    "title": "Conformance vs Comprehension"
+    "url": "https://nikolays.github.io/PGSimCity/",
+    "title": "PGSimCity: How PostgreSQL Works, in 3D"
   },
   {
     "source": "lobsters",
@@ -126,7 +116,12 @@
   },
   {
     "source": "lobsters",
-    "url": "https://fzakaria.com/2026/07/26/seriously-what-is-the-large-code-model-even-for",
-    "title": "Seriously, what is the large code-model even for?"
+    "url": "https://intertwingly.net/blog/2026/06/27/Conformance-vs-Comprehension.html",
+    "title": "Conformance vs Comprehension"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://www.endoflineblog.com/functional-programming-from-first-principles-part-1-motivation",
+    "title": "Functional programming from first principles, part 1 – motivation"
   }
 ]
