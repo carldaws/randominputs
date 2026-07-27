@@ -1,13 +1,33 @@
 [
   {
     "source": "hn",
+    "url": "https://dconf.org/2026/index.html",
+    "title": "DConf 2026 in London"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.dowe.dev",
+    "title": "Show HN: Dowe – A full-stack language for server, web, desktop, Android, and iOS"
+  },
+  {
+    "source": "hn",
     "url": "https://www.rise-reforming.com",
     "title": "Launch HN: Rise Reforming (YC S26) – Turning Waste Gases into Valuable Chemicals"
   },
   {
     "source": "hn",
+    "url": "https://hardroad.xyz/",
+    "title": "Hard Road – A beautiful procedural post-apocalyptic game"
+  },
+  {
+    "source": "hn",
     "url": "https://gregoryszorc.com/docs/python-build-standalone/main/",
     "title": "Self-contained highly-portable Python distributions"
+  },
+  {
+    "source": "hn",
+    "url": "https://mashable.com/tech/samsung-galaxy-z-fold-8-launch-price-specifications",
+    "title": "Samsung reveals Galaxy Z Fold 8 that will compete with the iPhone Ultra"
   },
   {
     "source": "hn",
@@ -31,38 +51,18 @@
   },
   {
     "source": "hn",
-    "url": "https://microsoft.ai/news/introducing-mai-cyber-1-flash-inside-mdash/",
-    "title": "MAI-Cyber-1-Flash inside MDASH"
-  },
-  {
-    "source": "hn",
-    "url": "http://kristerw.blogspot.com/2019/01/building-gcc-127.html",
-    "title": "Building GCC 1.27 (2019)"
-  },
-  {
-    "source": "hn",
     "url": "https://quantixed.org/2022/05/19/colorblind-checking-figure-accessibility-for-colour-blind-people/",
     "title": "Colorblind: Checking figure accessibility for colour blind people"
   },
   {
     "source": "hn",
+    "url": "https://microsoft.ai/news/introducing-mai-cyber-1-flash-inside-mdash/",
+    "title": "MAI-Cyber-1-Flash inside MDASH"
+  },
+  {
+    "source": "hn",
     "url": "https://xkcd.com/3277/",
     "title": "Forth"
-  },
-  {
-    "source": "hn",
-    "url": "https://code.videolan.org/videolan/vlc-unity",
-    "title": "VLC for Unity now supported on Linux"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.npr.org/2026/07/23/nx-s1-5900901/bike-lanes-dot-websites",
-    "title": "US DOT deleting bike lane references"
-  },
-  {
-    "source": "hn",
-    "url": "https://lockwood.dev/ai/2026/07/27/how-is-the-bun-rewrite-in-rust-going.html",
-    "title": "How is the Bun Rewrite in Rust going?"
   },
   {
     "source": "lobsters",
@@ -78,6 +78,11 @@
     "source": "lobsters",
     "url": "https://frantic.im/mirage",
     "title": "The Productivity Mirage"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://lockwood.dev/ai/2026/07/27/how-is-the-bun-rewrite-in-rust-going.html",
+    "title": "How is the Bun Rewrite in Rust Going?"
   },
   {
     "source": "lobsters",
@@ -111,6 +116,11 @@
   },
   {
     "source": "lobsters",
+    "url": "https://intertwingly.net/blog/2026/06/27/Conformance-vs-Comprehension.html",
+    "title": "Conformance vs Comprehension"
+  },
+  {
+    "source": "lobsters",
     "url": "https://www.omarpolo.com/post/amused.html",
     "title": "I wrote a music player (2022)"
   },
@@ -118,80 +128,5 @@
     "source": "lobsters",
     "url": "https://zanlib.dev/blog/a-voice-from-nowhere/",
     "title": "A Voice From Nowhere"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://refp.se/articles/your-shell-and-the-magic-colon",
-    "title": "A shell colon does nothing. Use it anyway. | Filip Roséen - refp.se"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://extinct-media-museum.blog.jp/otemachi/",
-    "title": "「大手町の絶滅メディア博物館」公式ページ : 絶滅メディア博物館：Extinct Media Museum"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://freeink.org/",
-    "title": "Free Ink · An open ecosystem for e-readers"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://killthecookiebanner.eu/",
-    "title": "Kill the Cookie Banner!"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://glinscott.github.io/beam-engine/",
-    "title": "How a Beam Engine Works — An Interactive Guide"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.dbos.dev/blog/postgres-listen-notify-scalability",
-    "title": "Postgres LISTEN/NOTIFY Actually Scales | DBOS"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://pluralistic.net/2026/07/21/dickovers/",
-    "title": "Pluralistic: Dealing with dickovers (21 Jul 2026) dickovers – Pluralistic: Daily links from Cory Doctorow"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://glyphack.com/attention/",
-    "title": "It's getting harder to focus every day | Glyphack"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://simonwillison.net/2026/Jul/22/openai-cyberattack/",
-    "title": "OpenAI’s accidental cyberattack against Hugging Face is science fiction that happened"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://kero.sh/",
-    "title": "Kero — A native terminal workspace for macOS"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://hatchet.run/blog/postgres-survival-guide",
-    "title": "Hatchet · The startup's Postgres survival guide"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://zigbyexample.neocities.org/",
-    "title": "Zig by Example"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://birc.app/",
-    "title": "bIRC — a native IRC client for macOS"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://bento.page/",
-    "title": "Bento/Suite — the office suite that fits in a file"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.pement.org/sed/make_indexes.txt",
-    "title": "pement.org/sed/make_indexes.txt"
   }
 ]
