@@ -6,18 +6,13 @@
   },
   {
     "source": "hn",
-    "url": "https://beyondloom.com/decker/",
-    "title": "Decker, a platform that builds on the legacy of Hypercard and classic macOS"
-  },
-  {
-    "source": "hn",
     "url": "https://blackhole.plav.in",
     "title": "Show HN: Physically accurate black hole you can put in your room"
   },
   {
     "source": "hn",
-    "url": "https://www.imperialviolet.org/2026/07/26/zstd-lean.html",
-    "title": "We have proof automation now"
+    "url": "https://beyondloom.com/decker/",
+    "title": "Decker, a platform that builds on the legacy of Hypercard and classic macOS"
   },
   {
     "source": "hn",
@@ -26,8 +21,8 @@
   },
   {
     "source": "hn",
-    "url": "https://gracefulliberty.com/articles/teaching-kids-forth/",
-    "title": "Teaching Kids Forth"
+    "url": "https://www.imperialviolet.org/2026/07/26/zstd-lean.html",
+    "title": "We have proof automation now"
   },
   {
     "source": "hn",
@@ -41,23 +36,28 @@
   },
   {
     "source": "hn",
-    "url": "https://thelampmagazine.com/blog/how-to-write-english-prose",
-    "title": "How to Write English Prose"
-  },
-  {
-    "source": "hn",
-    "url": "https://astgrep.com/blog/tree-sitter-rust-rewrite",
-    "title": "How AST-grep Rewrote Tree-sitter in Rust and Made It 30% Faster"
-  },
-  {
-    "source": "hn",
-    "url": "https://atmos-atelier.de/en/atmos-uhr/",
-    "title": "How the Atmos clock functions"
-  },
-  {
-    "source": "hn",
     "url": "https://faculty.lsu.edu/kharms/files/flexner_1939.pdf",
     "title": "The Usefulness of Useless Knowledge (1939) [pdf]"
+  },
+  {
+    "source": "hn",
+    "url": "https://gracefulliberty.com/articles/teaching-kids-forth/",
+    "title": "Teaching Kids Forth"
+  },
+  {
+    "source": "hn",
+    "url": "https://thelampmagazine.com/blog/how-to-write-english-prose",
+    "title": "How to write English prose (2023)"
+  },
+  {
+    "source": "hn",
+    "url": "https://ebellani.github.io/blog/2026/why-care-about-programming-languages/",
+    "title": "Why care about programming languages"
+  },
+  {
+    "source": "hn",
+    "url": "https://softwarepreservation.computerhistory.org/FP/",
+    "title": "History of John Backus's functional programming project (draft)"
   },
   {
     "source": "hn",
@@ -71,13 +71,18 @@
   },
   {
     "source": "hn",
-    "url": "https://www.popsci.com/science/whats-jimothy-raccoon-condition/",
-    "title": "Jimothy the raccoon has a rare spinal condition. Here's what that means"
+    "url": "https://jvns.ca/blog/2026/07/21/more-nice-django-things/",
+    "title": "Some more things about Django I've been enjoying"
   },
   {
     "source": "hn",
     "url": "https://www.pement.org/sed/make_indexes.txt",
     "title": "Using sed to make indexes for books (1997)"
+  },
+  {
+    "source": "hn",
+    "url": "https://practical.engineering/blog/2026/7/21/whats-under-your-feet-in-new-york-city",
+    "title": "What's Under Your Feet in New York City?"
   },
   {
     "source": "lobsters",
@@ -103,6 +108,11 @@
     "source": "lobsters",
     "url": "https://letoverlambda.com/textmode.cl/guest/chap8.html",
     "title": "Forth Moving Lisp Moving Forth"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://op-co.de/blog/posts/mikrotik_authoritative_dnsmasq/",
+    "title": "Authoritative dnsmasq in a MikroTik container"
   },
   {
     "source": "lobsters",
@@ -148,15 +158,5 @@
     "source": "lobsters",
     "url": "https://unsung.aresluna.org/chromes-breaking-and-entering/",
     "title": "Chrome registers a global shortcut for Gemini popup window"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://www.hillelwayne.com/post/we-are-not-special/",
-    "title": "We Are Not Special (2021)"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://highway-01.banner-depot-2000.net/",
-    "title": "Banner Highway 01"
   }
 ]
