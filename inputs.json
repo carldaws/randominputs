@@ -6,18 +6,18 @@
   },
   {
     "source": "hn",
+    "url": "https://incoherency.co.uk/blog/stories/should-you-wash-your-solar-panels.html",
+    "title": "Should you wash your solar panels?"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.macrumors.com/2026/07/27/ed-zitron-apple-watch-it-burn-ai-bubble-bursts/",
+    "title": "Apple Will 'Watch Everything Burn' When the AI Bubble Bursts"
+  },
+  {
+    "source": "hn",
     "url": "https://nikolays.github.io/PGSimCity/",
     "title": "PGSimCity - How PostgreSQL Works"
-  },
-  {
-    "source": "hn",
-    "url": "https://status.claude.com/incidents/mfdtrknpxghq",
-    "title": "Elevated errors on Claude Opus 5"
-  },
-  {
-    "source": "hn",
-    "url": "https://blackhole.plav.in",
-    "title": "Show HN: Physically accurate black hole you can put in your room"
   },
   {
     "source": "hn",
@@ -26,13 +26,28 @@
   },
   {
     "source": "hn",
+    "url": "https://www.nrl.navy.mil/Media/News/Article/4551871/robotic-servicing-of-geosynchronous-satellites-launches-into-orbit/",
+    "title": "First Robotic Satellite Servicer Launched"
+  },
+  {
+    "source": "hn",
+    "url": "https://blackhole.plav.in",
+    "title": "Show HN: Physically accurate black hole you can put in your room"
+  },
+  {
+    "source": "hn",
     "url": "https://www.shaylocomotives.com/",
     "title": "Shay Locomotives"
   },
   {
     "source": "hn",
-    "url": "https://status.claude.com/incidents/lhqp09kxq7pb",
-    "title": "Elevated errors on Claude Opus 5"
+    "url": "https://incredible.pm/",
+    "title": "The Proof Machine (2016)"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.gavinmai.com/1736354308000-diy-home-solar-backup-system",
+    "title": "DIY Home Solar System for under $5000"
   },
   {
     "source": "hn",
@@ -41,38 +56,13 @@
   },
   {
     "source": "hn",
-    "url": "https://www.imperialviolet.org/2026/07/26/zstd-lean.html",
-    "title": "We have proof automation now"
-  },
-  {
-    "source": "hn",
-    "url": "https://smoothbrains.net/posts/2026-05-09-digital-consciousness.html",
-    "title": "If digital computers are conscious, they are conscious at the hardware level"
-  },
-  {
-    "source": "hn",
-    "url": "https://getdx.com/research/measuring-developer-productivity-with-the-dx-core-4/",
-    "title": "Measuring developer productivity with the DX Core 4"
-  },
-  {
-    "source": "hn",
     "url": "https://www.omgubuntu.co.uk/2026/07/chrome-arm64-linux-available",
     "title": "Google Chrome Arrives on ARM64 Linux, Widevine DRM Included"
   },
   {
     "source": "hn",
-    "url": "https://www.gamedevs.org/uploads/introduction-to-data-oriented-design.pdf",
-    "title": "Introduction to Data-Oriented Design [pdf]"
-  },
-  {
-    "source": "hn",
-    "url": "https://ledger.worseonpurpose.com/brands",
-    "title": "Worse on Purpose"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://gracefulliberty.com/articles/teaching-kids-forth/",
-    "title": "Teaching Kids Forth"
+    "url": "https://www.imperialviolet.org/2026/07/26/zstd-lean.html",
+    "title": "We have proof automation now"
   },
   {
     "source": "lobsters",
@@ -81,18 +71,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://zanlib.dev/blog/a-voice-from-nowhere/",
-    "title": "A Voice From Nowhere"
+    "url": "https://blog.jim-nielsen.com/2026/blogging-stating-the-obvious/",
+    "title": "Blogging Can Just Be Stating The Obvious"
   },
   {
     "source": "lobsters",
-    "url": "https://silky.github.io/posts/reviews-one-simple-trick.html",
-    "title": "Make Reviews Possible Again With This One Simple Trick"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://notes.hella.cheap/maybe-we-should-revisit-microkernels.html",
-    "title": "Maybe we should revisit microkernels"
+    "url": "https://gracefulliberty.com/articles/teaching-kids-forth/",
+    "title": "Teaching Kids Forth"
   },
   {
     "source": "lobsters",
@@ -101,33 +86,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://refp.se/articles/your-shell-and-the-magic-colon",
-    "title": "A shell colon does nothing. Use it anyway"
+    "url": "https://silky.github.io/posts/reviews-one-simple-trick.html",
+    "title": "Make Reviews Possible Again With This One Simple Trick"
   },
   {
     "source": "lobsters",
-    "url": "https://entropicthoughts.com/sicp-3-3-digital-circuit-simulator-in-haskell",
-    "title": "Digital circuit simulator in Haskell"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://intertwingly.net/blog/2026/06/27/Conformance-vs-Comprehension.html",
-    "title": "Conformance vs Comprehension"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://itsallaboutthebit.com/memory-safety-absolutists/",
-    "title": "Memory Safety Absolutists"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://www.dlp.rip/everyday-cryptography/",
-    "title": "The Design of Everyday Cryptography"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://www.morling.dev/blog/fast-path-for-fixed-length-lists-in-parquet/",
-    "title": "A Fast Path for Fixed-Length Lists in Parquet"
+    "url": "https://pagedout.institute/webview.php?issue=9&page=1",
+    "title": "Paged Out - Issue #9"
   },
   {
     "source": "lobsters",
@@ -136,13 +101,38 @@
   },
   {
     "source": "lobsters",
-    "url": "https://4rh1t3ct0r7.github.io/doom-regex/",
-    "title": "DOOM running on a regex engine"
+    "url": "https://zanlib.dev/blog/a-voice-from-nowhere/",
+    "title": "A Voice From Nowhere"
   },
   {
     "source": "lobsters",
-    "url": "https://softwarepreservation.computerhistory.org/FP/",
-    "title": "History of John Backus's FP languages"
+    "url": "https://www.dlp.rip/everyday-cryptography/",
+    "title": "The Design of Everyday Cryptography"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://www.omarpolo.com/post/amused.html",
+    "title": "I wrote a music player (2022)"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://notes.hella.cheap/maybe-we-should-revisit-microkernels.html",
+    "title": "Maybe we should revisit microkernels"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://entropicthoughts.com/sicp-3-3-digital-circuit-simulator-in-haskell",
+    "title": "Digital circuit simulator in Haskell"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://grego.site/blog/thinkphone",
+    "title": "Using ThinkPad T480 as a mobile phone"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://refp.se/articles/your-shell-and-the-magic-colon",
+    "title": "A shell colon does nothing. Use it anyway. | Filip Roséen - refp.se"
   },
   {
     "source": "pinboard",
@@ -193,11 +183,6 @@
     "source": "pinboard",
     "url": "https://hatchet.run/blog/postgres-survival-guide",
     "title": "Hatchet · The startup's Postgres survival guide"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://zigbyexample.neocities.org/",
-    "title": "Zig by Example"
   },
   {
     "source": "pinboard",
