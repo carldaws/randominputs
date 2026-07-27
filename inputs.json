@@ -1,8 +1,8 @@
 [
   {
     "source": "hn",
-    "url": "https://nikolays.github.io/PGSimCity/",
-    "title": "PGSimCity - How PostgreSQL Works"
+    "url": "https://microsoft.ai/news/introducing-mai-cyber-1-flash-inside-mdash/",
+    "title": "MAI-Cyber 1"
   },
   {
     "source": "hn",
@@ -11,13 +11,13 @@
   },
   {
     "source": "hn",
-    "url": "https://lockwood.dev/ai/2026/07/27/how-is-the-bun-rewrite-in-rust-going.html",
-    "title": "How is the Bun Rewrite in Rust going?"
+    "url": "https://gregoryszorc.com/docs/python-build-standalone/main/",
+    "title": "Self-contained highly-portable Python distributions"
   },
   {
     "source": "hn",
-    "url": "https://infrawrench.com",
-    "title": "Show HN: Infrawrench – a tool to manage cloud and svcs with workflows and chat"
+    "url": "https://tidefield.dev/bytecode-to-source-mapping/",
+    "title": "Bytecode-to-Source Mapping"
   },
   {
     "source": "hn",
@@ -26,28 +26,18 @@
   },
   {
     "source": "hn",
-    "url": "https://incoherency.co.uk/blog/stories/should-you-wash-your-solar-panels.html",
-    "title": "Should you wash your solar panels?"
+    "url": "https://www.techdirt.com/2026/07/27/judge-rejects-googles-attempt-to-dmca-its-way-out-of-being-scraped/",
+    "title": "Judge Rejects Google's Attempt to DMCA Its Way Out of Being Scraped"
   },
   {
     "source": "hn",
-    "url": "https://www.bloomberg.com/news/articles/2026-07-27/nvidia-s-750-billion-deals-revive-fear-of-ai-circular-financing",
-    "title": "Nvidia's $750B in Deals Reignite Circular AI Fears"
+    "url": "https://klarasystems.com/articles/if-scrubs-hurt-your-zfs-design-is-broken/",
+    "title": "If Scrubs Hurt, Your ZFS Design Is Broken"
   },
   {
     "source": "hn",
-    "url": "https://code.videolan.org/videolan/vlc-unity",
-    "title": "VLC for Unity now supported on Linux"
-  },
-  {
-    "source": "hn",
-    "url": "https://theamericanscholar.org/beckett-the-prophet/",
-    "title": "Beckett the Prophet"
-  },
-  {
-    "source": "hn",
-    "url": "https://blackhole.plav.in",
-    "title": "Show HN: Physically accurate black hole you can put in your room"
+    "url": "https://infrawrench.com",
+    "title": "Show HN: Infrawrench – a tool to manage cloud and svcs with workflows and chat"
   },
   {
     "source": "hn",
@@ -56,18 +46,38 @@
   },
   {
     "source": "hn",
+    "url": "https://lockwood.dev/ai/2026/07/27/how-is-the-bun-rewrite-in-rust-going.html",
+    "title": "How is the Bun Rewrite in Rust going?"
+  },
+  {
+    "source": "hn",
+    "url": "https://incoherency.co.uk/blog/stories/should-you-wash-your-solar-panels.html",
+    "title": "Should you wash your solar panels?"
+  },
+  {
+    "source": "hn",
+    "url": "https://code.videolan.org/videolan/vlc-unity",
+    "title": "VLC for Unity now supported on Linux"
+  },
+  {
+    "source": "hn",
     "url": "https://www.shaylocomotives.com/",
     "title": "Shay Locomotives"
   },
   {
-    "source": "lobsters",
-    "url": "https://digitalseams.com/blog/most-googlebots-are-fake",
-    "title": "Most Googlebots are fake"
+    "source": "hn",
+    "url": "https://status.claude.com/incidents/mfdtrknpxghq",
+    "title": "Elevated errors on Claude Opus 5"
   },
   {
     "source": "lobsters",
     "url": "https://blog.jim-nielsen.com/2026/blogging-stating-the-obvious/",
     "title": "Blogging Can Just Be Stating The Obvious"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://digitalseams.com/blog/most-googlebots-are-fake",
+    "title": "Most Googlebots are fake"
   },
   {
     "source": "lobsters",
@@ -96,18 +106,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://www.endoflineblog.com/functional-programming-from-first-principles-part-1-motivation",
-    "title": "Functional programming from first principles, part 1 – motivation"
+    "url": "https://nikolays.github.io/PGSimCity/",
+    "title": "PGSimCity: How PostgreSQL Works, in 3D"
   },
   {
     "source": "lobsters",
     "url": "https://intertwingly.net/blog/2026/06/27/Conformance-vs-Comprehension.html",
     "title": "Conformance vs Comprehension"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://www.dlp.rip/everyday-cryptography/",
-    "title": "The Design of Everyday Cryptography"
   },
   {
     "source": "lobsters",
@@ -120,78 +125,8 @@
     "title": "I wrote a music player (2022)"
   },
   {
-    "source": "pinboard",
-    "url": "https://refp.se/articles/your-shell-and-the-magic-colon",
-    "title": "A shell colon does nothing. Use it anyway. | Filip Roséen - refp.se"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://extinct-media-museum.blog.jp/otemachi/",
-    "title": "「大手町の絶滅メディア博物館」公式ページ : 絶滅メディア博物館：Extinct Media Museum"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://freeink.org/",
-    "title": "Free Ink · An open ecosystem for e-readers"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://killthecookiebanner.eu/",
-    "title": "Kill the Cookie Banner!"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://glinscott.github.io/beam-engine/",
-    "title": "How a Beam Engine Works — An Interactive Guide"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.dbos.dev/blog/postgres-listen-notify-scalability",
-    "title": "Postgres LISTEN/NOTIFY Actually Scales | DBOS"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://pluralistic.net/2026/07/21/dickovers/",
-    "title": "Pluralistic: Dealing with dickovers (21 Jul 2026) dickovers – Pluralistic: Daily links from Cory Doctorow"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://glyphack.com/attention/",
-    "title": "It's getting harder to focus every day | Glyphack"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://simonwillison.net/2026/Jul/22/openai-cyberattack/",
-    "title": "OpenAI’s accidental cyberattack against Hugging Face is science fiction that happened"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://kero.sh/",
-    "title": "Kero — A native terminal workspace for macOS"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://hatchet.run/blog/postgres-survival-guide",
-    "title": "Hatchet · The startup's Postgres survival guide"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://zigbyexample.neocities.org/",
-    "title": "Zig by Example"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://birc.app/",
-    "title": "bIRC — a native IRC client for macOS"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://bento.page/",
-    "title": "Bento/Suite — the office suite that fits in a file"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.pement.org/sed/make_indexes.txt",
-    "title": "pement.org/sed/make_indexes.txt"
+    "source": "lobsters",
+    "url": "https://fzakaria.com/2026/07/26/seriously-what-is-the-large-code-model-even-for",
+    "title": "Seriously, what is the large code-model even for?"
   }
 ]
