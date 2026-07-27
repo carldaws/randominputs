@@ -1,8 +1,18 @@
 [
   {
     "source": "hn",
+    "url": "https://lockwood.dev/ai/2026/07/27/how-is-the-bun-rewrite-in-rust-going.html",
+    "title": "How is the Bun Rewrite in Rust going?"
+  },
+  {
+    "source": "hn",
     "url": "https://nikolays.github.io/PGSimCity/",
     "title": "PGSimCity - How PostgreSQL Works"
+  },
+  {
+    "source": "hn",
+    "url": "https://status.claude.com/incidents/mfdtrknpxghq",
+    "title": "Elevated errors on Claude Opus 5"
   },
   {
     "source": "hn",
@@ -11,8 +21,18 @@
   },
   {
     "source": "hn",
-    "url": "https://www.france24.com/en/live-news/20260726-french-firefighters-face-pyrocumulonimbus-for-first-time",
-    "title": "French firefighters face 'pyrocumulonimbus' for first time"
+    "url": "https://code.videolan.org/videolan/vlc-unity",
+    "title": "VLC for Unity now supported on Linux"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.shaylocomotives.com/",
+    "title": "Shay Locomotives"
+  },
+  {
+    "source": "hn",
+    "url": "https://status.claude.com/incidents/lhqp09kxq7pb",
+    "title": "Elevated errors on Claude Opus 5"
   },
   {
     "source": "hn",
@@ -26,23 +46,8 @@
   },
   {
     "source": "hn",
-    "url": "https://www.gamedevs.org/uploads/introduction-to-data-oriented-design.pdf",
-    "title": "Introduction to Data-Oriented Design [pdf]"
-  },
-  {
-    "source": "hn",
-    "url": "https://stephango.com/design-is-compromise",
-    "title": "Design is compromise"
-  },
-  {
-    "source": "hn",
-    "url": "https://faculty.lsu.edu/kharms/files/flexner_1939.pdf",
-    "title": "The Usefulness of Useless Knowledge (1939) [pdf]"
-  },
-  {
-    "source": "hn",
-    "url": "https://thelampmagazine.com/blog/how-to-write-english-prose",
-    "title": "How to write English prose (2023)"
+    "url": "https://smoothbrains.net/posts/2026-05-09-digital-consciousness.html",
+    "title": "If digital computers are conscious, they are conscious at the hardware level"
   },
   {
     "source": "hn",
@@ -51,28 +56,33 @@
   },
   {
     "source": "hn",
-    "url": "https://killthecookiebanner.eu/",
-    "title": "Kill The Cookie Banner"
+    "url": "https://www.omgubuntu.co.uk/2026/07/chrome-arm64-linux-available",
+    "title": "Google Chrome Arrives on ARM64 Linux, Widevine DRM Included"
   },
   {
     "source": "hn",
-    "url": "https://pentaton.app/blog/2026-07-12-introducing-pentaton-lp/",
-    "title": "I learned PCB design, 3D printing and C just to listen to music"
+    "url": "https://www.gamedevs.org/uploads/introduction-to-data-oriented-design.pdf",
+    "title": "Introduction to Data-Oriented Design [pdf]"
   },
   {
     "source": "hn",
-    "url": "https://turbowarp.org/1248315967?size=640x400",
-    "title": "8086 Emulator Inside Scratch"
+    "url": "https://ledger.worseonpurpose.com/brands",
+    "title": "Worse on Purpose"
   },
   {
-    "source": "hn",
+    "source": "lobsters",
     "url": "https://gracefulliberty.com/articles/teaching-kids-forth/",
     "title": "Teaching Kids Forth"
   },
   {
     "source": "lobsters",
-    "url": "https://notes.hella.cheap/maybe-we-should-revisit-microkernels.html",
-    "title": "Maybe we should revisit microkernels"
+    "url": "https://digitalseams.com/blog/most-googlebots-are-fake",
+    "title": "Most Googlebots are fake"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://zanlib.dev/blog/a-voice-from-nowhere/",
+    "title": "A Voice From Nowhere"
   },
   {
     "source": "lobsters",
@@ -81,13 +91,38 @@
   },
   {
     "source": "lobsters",
+    "url": "https://notes.hella.cheap/maybe-we-should-revisit-microkernels.html",
+    "title": "Maybe we should revisit microkernels"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://frantic.im/mirage",
+    "title": "The Productivity Mirage"
+  },
+  {
+    "source": "lobsters",
     "url": "https://refp.se/articles/your-shell-and-the-magic-colon",
     "title": "A shell colon does nothing. Use it anyway"
   },
   {
     "source": "lobsters",
+    "url": "https://entropicthoughts.com/sicp-3-3-digital-circuit-simulator-in-haskell",
+    "title": "Digital circuit simulator in Haskell"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://intertwingly.net/blog/2026/06/27/Conformance-vs-Comprehension.html",
+    "title": "Conformance vs Comprehension"
+  },
+  {
+    "source": "lobsters",
     "url": "https://itsallaboutthebit.com/memory-safety-absolutists/",
     "title": "Memory Safety Absolutists"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://www.dlp.rip/everyday-cryptography/",
+    "title": "The Design of Everyday Cryptography"
   },
   {
     "source": "lobsters",
@@ -110,33 +145,73 @@
     "title": "History of John Backus's FP languages"
   },
   {
-    "source": "lobsters",
-    "url": "https://grego.site/blog/thinkphone",
-    "title": "Using ThinkPad T480 as a mobile phone"
+    "source": "pinboard",
+    "url": "https://extinct-media-museum.blog.jp/otemachi/",
+    "title": "「大手町の絶滅メディア博物館」公式ページ : 絶滅メディア博物館：Extinct Media Museum"
   },
   {
-    "source": "lobsters",
-    "url": "https://quuxplusone.github.io/blog/2026/07/26/function-explosion/",
-    "title": "Interconverting std::function with copyable_function"
+    "source": "pinboard",
+    "url": "https://freeink.org/",
+    "title": "Free Ink · An open ecosystem for e-readers"
   },
   {
-    "source": "lobsters",
-    "url": "https://letoverlambda.com/textmode.cl/guest/chap8.html",
-    "title": "Forth Moving Lisp Moving Forth"
+    "source": "pinboard",
+    "url": "https://killthecookiebanner.eu/",
+    "title": "Kill the Cookie Banner!"
   },
   {
-    "source": "lobsters",
-    "url": "https://op-co.de/blog/posts/mikrotik_authoritative_dnsmasq/",
-    "title": "Authoritative dnsmasq in a MikroTik container"
+    "source": "pinboard",
+    "url": "https://glinscott.github.io/beam-engine/",
+    "title": "How a Beam Engine Works — An Interactive Guide"
   },
   {
-    "source": "lobsters",
-    "url": "https://lalitm.com/post/find-problems-staff-engineer/",
-    "title": "How I Find Problems to Solve as a Staff Engineer"
+    "source": "pinboard",
+    "url": "https://www.dbos.dev/blog/postgres-listen-notify-scalability",
+    "title": "Postgres LISTEN/NOTIFY Actually Scales | DBOS"
   },
   {
-    "source": "lobsters",
-    "url": "https://tangled.org/oppi.li/stinkpot",
-    "title": "stinkpot: sqlite-backed shell history"
+    "source": "pinboard",
+    "url": "https://pluralistic.net/2026/07/21/dickovers/",
+    "title": "Pluralistic: Dealing with dickovers (21 Jul 2026) dickovers – Pluralistic: Daily links from Cory Doctorow"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://glyphack.com/attention/",
+    "title": "It's getting harder to focus every day | Glyphack"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://simonwillison.net/2026/Jul/22/openai-cyberattack/",
+    "title": "OpenAI’s accidental cyberattack against Hugging Face is science fiction that happened"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://kero.sh/",
+    "title": "Kero — A native terminal workspace for macOS"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://hatchet.run/blog/postgres-survival-guide",
+    "title": "Hatchet · The startup's Postgres survival guide"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://zigbyexample.neocities.org/",
+    "title": "Zig by Example"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://birc.app/",
+    "title": "bIRC — a native IRC client for macOS"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://bento.page/",
+    "title": "Bento/Suite — the office suite that fits in a file"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.pement.org/sed/make_indexes.txt",
+    "title": "pement.org/sed/make_indexes.txt"
   }
 ]
