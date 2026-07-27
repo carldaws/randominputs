@@ -1,23 +1,33 @@
 [
   {
     "source": "hn",
+    "url": "https://nikolays.github.io/PGSimCity/",
+    "title": "PGSimCity - How PostgreSQL Works"
+  },
+  {
+    "source": "hn",
     "url": "https://beyondloom.com/decker/",
     "title": "Decker, a platform that builds on the legacy of Hypercard and classic macOS"
   },
   {
     "source": "hn",
-    "url": "https://gracefulliberty.com/articles/teaching-kids-forth/",
-    "title": "Teaching Kids Forth"
+    "url": "https://blackhole.plav.in",
+    "title": "Show HN: Physically accurate black hole you can put in your room"
   },
   {
     "source": "hn",
-    "url": "https://foxglove.dev/blog/visualizing-the-artemis-ii-mission",
-    "title": "Visualizing the Artemis II Mission"
+    "url": "https://www.imperialviolet.org/2026/07/26/zstd-lean.html",
+    "title": "We have proof automation now"
   },
   {
     "source": "hn",
     "url": "https://www.france24.com/en/live-news/20260726-french-firefighters-face-pyrocumulonimbus-for-first-time",
     "title": "French firefighters face 'pyrocumulonimbus' for first time"
+  },
+  {
+    "source": "hn",
+    "url": "https://gracefulliberty.com/articles/teaching-kids-forth/",
+    "title": "Teaching Kids Forth"
   },
   {
     "source": "hn",
@@ -41,8 +51,8 @@
   },
   {
     "source": "hn",
-    "url": "https://www.imperialviolet.org/2026/07/26/zstd-lean.html",
-    "title": "We have proof automation now"
+    "url": "https://atmos-atelier.de/en/atmos-uhr/",
+    "title": "How the Atmos clock functions"
   },
   {
     "source": "hn",
@@ -66,16 +76,6 @@
   },
   {
     "source": "hn",
-    "url": "https://davidnicholaswilliams.com/its-not-empowering-to-hand-off-the-details/",
-    "title": "It's not empowering to hand off the details"
-  },
-  {
-    "source": "hn",
-    "url": "https://practical.engineering/blog/2026/7/21/whats-under-your-feet-in-new-york-city",
-    "title": "What's Under Your Feet in New York City?"
-  },
-  {
-    "source": "hn",
     "url": "https://www.pement.org/sed/make_indexes.txt",
     "title": "Using sed to make indexes for books (1997)"
   },
@@ -96,6 +96,11 @@
   },
   {
     "source": "lobsters",
+    "url": "https://grego.site/blog/thinkphone",
+    "title": "Using ThinkPad T480 as a mobile phone"
+  },
+  {
+    "source": "lobsters",
     "url": "https://letoverlambda.com/textmode.cl/guest/chap8.html",
     "title": "Forth Moving Lisp Moving Forth"
   },
@@ -111,13 +116,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://grego.site/blog/thinkphone",
-    "title": "Using ThinkPad T480 as a mobile phone"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://openloco.io/news/2026/07/openloco-v26.07.html",
-    "title": "OpenLoco version 26.07  Release"
+    "url": "https://valkey.io/blog/secret-life-of-data/",
+    "title": "The secret life of data in Valkey"
   },
   {
     "source": "lobsters",
@@ -126,8 +126,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://valkey.io/blog/secret-life-of-data/",
-    "title": "The secret life of data in Valkey"
+    "url": "https://openloco.io/news/2026/07/openloco-v26.07.html",
+    "title": "OpenLoco version 26.07  Release"
   },
   {
     "source": "lobsters",
