@@ -1,13 +1,33 @@
 [
   {
     "source": "hn",
+    "url": "https://www.lji.org/news-events/news/post/new-hiv-vaccine-shows-unprecedented-success-in-preclinical-study/",
+    "title": "New HIV vaccine shows unprecedented success in preclinical study"
+  },
+  {
+    "source": "hn",
+    "url": "https://tale.fyi/@sam/announcing-tale-fyi-read-or-listen-to-an-entire-book-from-a-single-link",
+    "title": "Show HN: tale.fyi, we deserve a home for fiction"
+  },
+  {
+    "source": "hn",
+    "url": "https://galjot.si/what-ai-developers-could-learn-from-charles-bukowski",
+    "title": "What AI developers could learn from Charles Bukowski?"
+  },
+  {
+    "source": "hn",
+    "url": "https://scalatutorials.com",
+    "title": "Show HN: Scala Tutorials – interactive Scala 3 lessons in the browser"
+  },
+  {
+    "source": "hn",
     "url": "https://fermisense.com/when-machines-take-the-wheel/",
     "title": "A $500 RL fine-tune of a 9B open model beat frontier models on catalog review"
   },
   {
     "source": "hn",
-    "url": "https://blog.gaborkoos.com/posts/2026-07-24-Golang-Maps-How-Swiss-Tables-Replaced-the-Old-Bucket-Design/",
-    "title": "Golang Maps: how Swiss Tables replaced the old bucket design"
+    "url": "https://en.wikipedia.org/wiki/Mondragon_Corporation",
+    "title": "Mondragon Corporation – a federation of co-operatives"
   },
   {
     "source": "hn",
@@ -20,44 +40,9 @@
     "title": "PyTorch: A Reference Language"
   },
   {
-    "source": "hn",
-    "url": "https://homer.scrivium.com/report/",
-    "title": "Which Odyssey translation wins a blind reading test?"
-  },
-  {
-    "source": "hn",
-    "url": "https://dconf.org/2026/index.html",
-    "title": "DConf 2026 in London"
-  },
-  {
-    "source": "hn",
-    "url": "https://gpusolutions.net/rbservices/graphics-card-upgrade/",
-    "title": "RTX 2080 Ti Memory Upgrade to 22 GB"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.rise-reforming.com",
-    "title": "Launch HN: Rise Reforming (YC S26) – Turning Waste Gases into Valuable Chemicals"
-  },
-  {
-    "source": "hn",
-    "url": "https://pagedout.institute/download/PagedOut_009.pdf",
-    "title": "Paged Out #9 [pdf]"
-  },
-  {
-    "source": "hn",
-    "url": "https://gregoryszorc.com/docs/python-build-standalone/main/",
-    "title": "Self-contained highly-portable Python distributions"
-  },
-  {
-    "source": "hn",
-    "url": "https://justinflick.com/2026/07/27/llm-confidence-scores.html",
-    "title": "Don't ask an LLM for a confidence score"
-  },
-  {
-    "source": "hn",
-    "url": "https://harpers.org/archive/2026/08/a-dying-art-john-semley-mortuary-sciences-competition/",
-    "title": "A Dying Art: The last of the morticians"
+    "source": "lobsters",
+    "url": "https://cgicoffee.com/blog/2026/04/tcl-tk-develop-cross-platform-cli-gui-tools-tutorial-guide",
+    "title": "Develop Cross-Platform CLI and GUI Tools With Tcl/Tk"
   },
   {
     "source": "lobsters",
@@ -66,8 +51,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://cgicoffee.com/blog/2026/04/tcl-tk-develop-cross-platform-cli-gui-tools-tutorial-guide",
-    "title": "Develop Cross-Platform CLI and GUI Tools With Tcl/Tk"
+    "url": "https://var0.xyz/posts/what-even-are-microservices.html",
+    "title": "What even are microservices?"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://mlugg.co.uk/posts/incremental-compilation-internals/",
+    "title": "Inside Zig's Incremental Compilation"
   },
   {
     "source": "lobsters",
@@ -76,18 +66,28 @@
   },
   {
     "source": "lobsters",
+    "url": "https://blog.tymscar.com/posts/opensourcedimmer/",
+    "title": "I Designed A Custom PCB To Avoid Pressing A Button Three Times"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://hondu.co/blog/building-systems-software",
+    "title": "Building (systems) software with Nix"
+  },
+  {
+    "source": "lobsters",
     "url": "https://frantic.im/mirage",
     "title": "The Productivity Mirage"
   },
   {
     "source": "lobsters",
-    "url": "https://digitalseams.com/blog/most-googlebots-are-fake",
-    "title": "Most Googlebots are fake"
+    "url": "https://pagedout.institute/webview.php?issue=9&page=1",
+    "title": "Paged Out - Issue #9"
   },
   {
     "source": "lobsters",
-    "url": "https://pagedout.institute/webview.php?issue=9&page=1",
-    "title": "Paged Out - Issue #9"
+    "url": "https://digitalseams.com/blog/most-googlebots-are-fake",
+    "title": "Most Googlebots are fake"
   },
   {
     "source": "lobsters",
@@ -101,17 +101,7 @@
   },
   {
     "source": "lobsters",
-    "url": "https://mikemcquaid.com/open-source-must-be-fun-or-it-will-die/",
-    "title": "Open Source Must Be Fun (Or It Will Die)"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://var0.xyz/posts/what-even-are-microservices.html",
-    "title": "What even are microservices?"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://blog.exe.dev/replace-your-ci",
-    "title": "Replace Your CI With a Merge Queue"
+    "url": "https://kernelkennel.com/blog/where-is-the-middle-space/",
+    "title": "Where are the third places for learners?"
   }
 ]
