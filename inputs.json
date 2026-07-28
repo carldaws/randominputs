@@ -6,8 +6,8 @@
   },
   {
     "source": "hn",
-    "url": "https://naveensrinivasan.com/posts/2026-07-22-how-do-i-profile-ebpf-code/",
-    "title": "How Do I Profile eBPF Code?"
+    "url": "https://sbcl.org/all-news.html?2.6.7",
+    "title": "Steel Bank Common Lisp version 2.6.7"
   },
   {
     "source": "hn",
@@ -21,18 +21,13 @@
   },
   {
     "source": "hn",
-    "url": "https://lisyarus.github.io/blog/posts/so-you-want-to-make-a-game-engine.html#part-3",
-    "title": "So, you want to make a game engine (2023)"
+    "url": "https://naveensrinivasan.com/posts/2026-07-22-how-do-i-profile-ebpf-code/",
+    "title": "How Do I Profile eBPF Code?"
   },
   {
     "source": "hn",
-    "url": "https://xenharmlib.readthedocs.io/en/latest/whats_new_0_4_0.html",
-    "title": "Xenharmlib (music theory library) adds support for Just Intonation"
-  },
-  {
-    "source": "hn",
-    "url": "https://anthropeum.com/",
-    "title": "Anthropeum"
+    "url": "https://blog.modelcontextprotocol.io/posts/2026-07-28/",
+    "title": "MCP 2026-07-28 Specification: transport going stateless"
   },
   {
     "source": "hn",
@@ -41,23 +36,18 @@
   },
   {
     "source": "hn",
-    "url": "https://ooni.org/post/2026-italy-blocks-wow-and-whw",
-    "title": "Italy Blocks Reproductive Health Websites Women on Web and Women Help Women"
+    "url": "https://anthropeum.com/",
+    "title": "Anthropeum – Where in the world, and when, does this human artifact belong?"
   },
   {
     "source": "hn",
-    "url": "https://piechowski.io/post/setup-script-git-worktrees/",
-    "title": "Setup Script Should Support Git Worktrees"
+    "url": "https://lisyarus.github.io/blog/posts/so-you-want-to-make-a-game-engine.html#part-3",
+    "title": "So, you want to make a game engine (2023)"
   },
   {
     "source": "hn",
-    "url": "https://scalatutorials.com",
-    "title": "Show HN: Scala Tutorials – interactive Scala 3 lessons in the browser"
-  },
-  {
-    "source": "hn",
-    "url": "https://fermisense.com/when-machines-take-the-wheel/",
-    "title": "A $500 RL fine-tune of a 9B open model beat frontier models on catalog review"
+    "url": "https://stephenkrings.com/posts/rtx-5070-linux-gpu-server/",
+    "title": "Using a Gaming PC's RTX 5070 from a separate Linux workstation"
   },
   {
     "source": "lobsters",
@@ -66,23 +56,23 @@
   },
   {
     "source": "lobsters",
-    "url": "https://var0.xyz/posts/what-even-are-microservices.html",
-    "title": "What even are microservices?"
-  },
-  {
-    "source": "lobsters",
     "url": "https://blog.tymscar.com/posts/opensourcedimmer/",
     "title": "I Designed A Custom PCB To Avoid Pressing A Button Three Times"
   },
   {
     "source": "lobsters",
-    "url": "https://blog.jim-nielsen.com/2026/blogging-stating-the-obvious/",
-    "title": "Blogging Can Just Be Stating The Obvious"
+    "url": "https://var0.xyz/posts/what-even-are-microservices.html",
+    "title": "What even are microservices?"
   },
   {
     "source": "lobsters",
     "url": "https://hondu.co/blog/building-systems-software",
     "title": "Building (systems) software with Nix"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://blog.jim-nielsen.com/2026/blogging-stating-the-obvious/",
+    "title": "Blogging Can Just Be Stating The Obvious"
   },
   {
     "source": "lobsters",
@@ -101,8 +91,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://digitalseams.com/blog/most-googlebots-are-fake",
-    "title": "Most Googlebots are fake"
+    "url": "https://blog.gaborkoos.com/posts/2026-07-24-Golang-Maps-How-Swiss-Tables-Replaced-the-Old-Bucket-Design/",
+    "title": "Golang Maps: How Swiss Tables Replaced the Old Bucket Design"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://kernelkennel.com/blog/where-is-the-middle-space/",
+    "title": "Where are the third places for learners?"
   },
   {
     "source": "lobsters",
@@ -111,13 +106,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://lockwood.dev/ai/2026/07/27/how-is-the-bun-rewrite-in-rust-going.html",
-    "title": "How is the Bun Rewrite in Rust Going?"
+    "url": "https://digitalseams.com/blog/most-googlebots-are-fake",
+    "title": "Most Googlebots are fake"
   },
   {
     "source": "lobsters",
-    "url": "https://kernelkennel.com/blog/where-is-the-middle-space/",
-    "title": "Where are the third places for learners?"
+    "url": "https://lockwood.dev/ai/2026/07/27/how-is-the-bun-rewrite-in-rust-going.html",
+    "title": "How is the Bun Rewrite in Rust Going?"
   },
   {
     "source": "pinboard",
