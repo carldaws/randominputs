@@ -1,13 +1,13 @@
 [
   {
     "source": "hn",
-    "url": "https://var0.xyz/posts/what-even-are-microservices.html",
-    "title": "What Even Are Microservices?"
+    "url": "https://fermisense.com/when-machines-take-the-wheel/",
+    "title": "A $500 RL fine-tune of a 9B open model beat frontier models on catalog review"
   },
   {
     "source": "hn",
-    "url": "https://fermisense.com/when-machines-take-the-wheel/",
-    "title": "A $500 RL fine-tune of a 9B open model beat frontier models on catalog review"
+    "url": "https://blog.gaborkoos.com/posts/2026-07-24-Golang-Maps-How-Swiss-Tables-Replaced-the-Old-Bucket-Design/",
+    "title": "Golang Maps: how Swiss Tables replaced the old bucket design"
   },
   {
     "source": "hn",
@@ -16,23 +16,13 @@
   },
   {
     "source": "hn",
-    "url": "https://matthewsaltz.com/blog/using-an-open-model-feels-surprisingly-good/",
-    "title": "Using an open model feels surprisingly good"
-  },
-  {
-    "source": "hn",
     "url": "https://docs.pytorch.org/devlogs/compiler/2026-07-25-pytorch-a-reference-language/",
     "title": "PyTorch: A Reference Language"
   },
   {
     "source": "hn",
-    "url": "https://gpusolutions.net/rbservices/graphics-card-upgrade/",
-    "title": "RTX 2080 Ti Memory Upgrade to 22 GB"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.fermionresearch.com/models/neutrino-8b/",
-    "title": "Neutrino-1 8B"
+    "url": "https://homer.scrivium.com/report/",
+    "title": "Which Odyssey translation wins a blind reading test?"
   },
   {
     "source": "hn",
@@ -41,8 +31,8 @@
   },
   {
     "source": "hn",
-    "url": "https://crowdhailer.me/2026-06-08/a-programming-language-for-humans/",
-    "title": "EYG: A Programming Language for Humans"
+    "url": "https://gpusolutions.net/rbservices/graphics-card-upgrade/",
+    "title": "RTX 2080 Ti Memory Upgrade to 22 GB"
   },
   {
     "source": "hn",
@@ -51,13 +41,18 @@
   },
   {
     "source": "hn",
+    "url": "https://pagedout.institute/download/PagedOut_009.pdf",
+    "title": "Paged Out #9 [pdf]"
+  },
+  {
+    "source": "hn",
     "url": "https://gregoryszorc.com/docs/python-build-standalone/main/",
     "title": "Self-contained highly-portable Python distributions"
   },
   {
     "source": "hn",
-    "url": "https://pagedout.institute/download/PagedOut_009.pdf",
-    "title": "Paged Out #9 [pdf]"
+    "url": "https://justinflick.com/2026/07/27/llm-confidence-scores.html",
+    "title": "Don't ask an LLM for a confidence score"
   },
   {
     "source": "hn",
@@ -71,13 +66,18 @@
   },
   {
     "source": "lobsters",
-    "url": "https://frantic.im/mirage",
-    "title": "The Productivity Mirage"
+    "url": "https://cgicoffee.com/blog/2026/04/tcl-tk-develop-cross-platform-cli-gui-tools-tutorial-guide",
+    "title": "Develop Cross-Platform CLI and GUI Tools With Tcl/Tk"
   },
   {
     "source": "lobsters",
     "url": "https://www.lysk.ai/post/wiring-radios-to-laptops-the-hard-way",
     "title": "One Ring to Rule Them All: Wiring Radios to Laptops the Hard Way"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://frantic.im/mirage",
+    "title": "The Productivity Mirage"
   },
   {
     "source": "lobsters",
@@ -91,13 +91,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://lockwood.dev/ai/2026/07/27/how-is-the-bun-rewrite-in-rust-going.html",
-    "title": "How is the Bun Rewrite in Rust Going?"
+    "url": "https://fzakaria.com/2026/07/26/seriously-what-is-the-large-code-model-even-for",
+    "title": "Seriously, what is the large code-model even for?"
   },
   {
     "source": "lobsters",
-    "url": "https://fzakaria.com/2026/07/26/seriously-what-is-the-large-code-model-even-for",
-    "title": "Seriously, what is the large code-model even for?"
+    "url": "https://lockwood.dev/ai/2026/07/27/how-is-the-bun-rewrite-in-rust-going.html",
+    "title": "How is the Bun Rewrite in Rust Going?"
   },
   {
     "source": "lobsters",
@@ -106,17 +106,12 @@
   },
   {
     "source": "lobsters",
+    "url": "https://var0.xyz/posts/what-even-are-microservices.html",
+    "title": "What even are microservices?"
+  },
+  {
+    "source": "lobsters",
     "url": "https://blog.exe.dev/replace-your-ci",
     "title": "Replace Your CI With a Merge Queue"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://gracefulliberty.com/articles/teaching-kids-forth/",
-    "title": "Teaching Kids Forth"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://silky.github.io/posts/reviews-one-simple-trick.html",
-    "title": "Make Reviews Possible Again With This One Simple Trick"
   }
 ]
