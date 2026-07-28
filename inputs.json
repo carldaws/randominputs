@@ -1,8 +1,8 @@
 [
   {
     "source": "hn",
-    "url": "https://blog.doubleword.ai/you-could-have-come-up-with-kimi-delta-attention",
-    "title": "You Could Have Come Up with Kimi Delta Attention"
+    "url": "https://elizabethtai.com/2026/06/10/substack-writers-you-need-a-website/",
+    "title": "Substack writers, you need a website"
   },
   {
     "source": "hn",
@@ -11,18 +11,8 @@
   },
   {
     "source": "hn",
-    "url": "https://mlugg.co.uk/posts/incremental-compilation-internals/",
-    "title": "Zig's Incremental Compilation Internals"
-  },
-  {
-    "source": "hn",
     "url": "https://sebastianraschka.com/blog/2026/kimi-k3-architecture-notes.html",
     "title": "Kimi K3 Architecture Overview and Notes"
-  },
-  {
-    "source": "hn",
-    "url": "https://naveensrinivasan.com/posts/2026-07-22-how-do-i-profile-ebpf-code/",
-    "title": "How Do I Profile eBPF Code?"
   },
   {
     "source": "hn",
@@ -31,8 +21,18 @@
   },
   {
     "source": "hn",
-    "url": "https://elizabethtai.com/2026/06/10/substack-writers-you-need-a-website/",
-    "title": "Substack writers, you need a website"
+    "url": "https://mlugg.co.uk/posts/incremental-compilation-internals/",
+    "title": "Zig's Incremental Compilation Internals"
+  },
+  {
+    "source": "hn",
+    "url": "https://naveensrinivasan.com/posts/2026-07-22-how-do-i-profile-ebpf-code/",
+    "title": "How Do I Profile eBPF Code?"
+  },
+  {
+    "source": "hn",
+    "url": "https://imjasonh.github.io/playground/population-rays/",
+    "title": "Show HN: How far do I have to go to run into 100k people?"
   },
   {
     "source": "hn",
@@ -41,23 +41,33 @@
   },
   {
     "source": "hn",
+    "url": "https://www.pacingthefrontier.com/",
+    "title": "Pacing the frontier"
+  },
+  {
+    "source": "hn",
     "url": "https://lisyarus.github.io/blog/posts/so-you-want-to-make-a-game-engine.html#part-3",
     "title": "So, you want to make a game engine (2023)"
   },
   {
     "source": "hn",
-    "url": "https://stephenkrings.com/posts/rtx-5070-linux-gpu-server/",
-    "title": "Using a Gaming PC's RTX 5070 from a separate Linux workstation"
+    "url": "https://blog.doubleword.ai/you-could-have-come-up-with-kimi-delta-attention",
+    "title": "A walk through of the DeltaNet family of linear attention variants"
   },
   {
-    "source": "lobsters",
-    "url": "https://cgicoffee.com/blog/2026/04/tcl-tk-develop-cross-platform-cli-gui-tools-tutorial-guide",
-    "title": "Develop Cross-Platform CLI and GUI Tools With Tcl/Tk"
+    "source": "hn",
+    "url": "https://blog.gaborkoos.com/posts/2026-05-09-Your-Recursion-Is-Lying-to-You/",
+    "title": "Recursion Is Lying to You"
   },
   {
     "source": "lobsters",
     "url": "https://blog.tymscar.com/posts/opensourcedimmer/",
     "title": "I Designed A Custom PCB To Avoid Pressing A Button Three Times"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://cgicoffee.com/blog/2026/04/tcl-tk-develop-cross-platform-cli-gui-tools-tutorial-guide",
+    "title": "Develop Cross-Platform CLI and GUI Tools With Tcl/Tk"
   },
   {
     "source": "lobsters",
@@ -76,23 +86,13 @@
   },
   {
     "source": "lobsters",
+    "url": "https://fzakaria.com/2026/07/27/the-mean-means-nothing",
+    "title": "The mean means nothing"
+  },
+  {
+    "source": "lobsters",
     "url": "https://www.lysk.ai/post/wiring-radios-to-laptops-the-hard-way",
     "title": "One Ring to Rule Them All: Wiring Radios to Laptops the Hard Way"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://frantic.im/mirage",
-    "title": "The Productivity Mirage"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://pagedout.institute/webview.php?issue=9&page=1",
-    "title": "Paged Out - Issue #9"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://blog.gaborkoos.com/posts/2026-07-24-Golang-Maps-How-Swiss-Tables-Replaced-the-Old-Bucket-Design/",
-    "title": "Golang Maps: How Swiss Tables Replaced the Old Bucket Design"
   },
   {
     "source": "lobsters",
@@ -101,18 +101,23 @@
   },
   {
     "source": "lobsters",
+    "url": "https://pagedout.institute/webview.php?issue=9&page=1",
+    "title": "Paged Out - Issue #9"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://frantic.im/mirage",
+    "title": "The Productivity Mirage"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://blog.gaborkoos.com/posts/2026-07-24-Golang-Maps-How-Swiss-Tables-Replaced-the-Old-Bucket-Design/",
+    "title": "Golang Maps: How Swiss Tables Replaced the Old Bucket Design"
+  },
+  {
+    "source": "lobsters",
     "url": "https://fzakaria.com/2026/07/26/seriously-what-is-the-large-code-model-even-for",
     "title": "Seriously, what is the large code-model even for?"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://digitalseams.com/blog/most-googlebots-are-fake",
-    "title": "Most Googlebots are fake"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://lockwood.dev/ai/2026/07/27/how-is-the-bun-rewrite-in-rust-going.html",
-    "title": "How is the Bun Rewrite in Rust Going?"
   },
   {
     "source": "pinboard",
