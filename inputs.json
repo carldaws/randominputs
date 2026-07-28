@@ -6,6 +6,11 @@
   },
   {
     "source": "hn",
+    "url": "https://mac-classic.com/news/half-life-ported-to-mac-os-9/",
+    "title": "Half-Life ported to Mac OS 9"
+  },
+  {
+    "source": "hn",
     "url": "https://sbcl.org/all-news.html?2.6.7",
     "title": "Steel Bank Common Lisp version 2.6.7"
   },
@@ -26,6 +31,11 @@
   },
   {
     "source": "hn",
+    "url": "https://blog.gaborkoos.com/posts/2026-05-09-Your-Recursion-Is-Lying-to-You/",
+    "title": "Recursion is lying to you"
+  },
+  {
+    "source": "hn",
     "url": "https://naveensrinivasan.com/posts/2026-07-22-how-do-i-profile-ebpf-code/",
     "title": "How Do I Profile eBPF Code?"
   },
@@ -38,26 +48,6 @@
     "source": "hn",
     "url": "https://anthropeum.com/",
     "title": "Anthropeum – Where in the world, and when, does this human artifact belong?"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.pacingthefrontier.com/",
-    "title": "Pacing the frontier"
-  },
-  {
-    "source": "hn",
-    "url": "https://lisyarus.github.io/blog/posts/so-you-want-to-make-a-game-engine.html#part-3",
-    "title": "So, you want to make a game engine (2023)"
-  },
-  {
-    "source": "hn",
-    "url": "https://blog.doubleword.ai/you-could-have-come-up-with-kimi-delta-attention",
-    "title": "A walk through of the DeltaNet family of linear attention variants"
-  },
-  {
-    "source": "hn",
-    "url": "https://blog.gaborkoos.com/posts/2026-05-09-Your-Recursion-Is-Lying-to-You/",
-    "title": "Recursion Is Lying to You"
   },
   {
     "source": "lobsters",
@@ -81,13 +71,18 @@
   },
   {
     "source": "lobsters",
+    "url": "https://fzakaria.com/2026/07/27/the-mean-means-nothing",
+    "title": "The mean means nothing"
+  },
+  {
+    "source": "lobsters",
     "url": "https://blog.jim-nielsen.com/2026/blogging-stating-the-obvious/",
     "title": "Blogging Can Just Be Stating The Obvious"
   },
   {
     "source": "lobsters",
-    "url": "https://fzakaria.com/2026/07/27/the-mean-means-nothing",
-    "title": "The mean means nothing"
+    "url": "https://joomy.korkutblech.com/posts/2026-07-28-why-rocq-is-better.html",
+    "title": "Why Rocq is better than Lean for program verification"
   },
   {
     "source": "lobsters",
@@ -101,6 +96,11 @@
   },
   {
     "source": "lobsters",
+    "url": "https://blog.doubleword.ai/you-could-have-come-up-with-kimi-delta-attention",
+    "title": "You Could Have Come Up With Kimi Delta Attention"
+  },
+  {
+    "source": "lobsters",
     "url": "https://pagedout.institute/webview.php?issue=9&page=1",
     "title": "Paged Out - Issue #9"
   },
@@ -111,92 +111,7 @@
   },
   {
     "source": "lobsters",
-    "url": "https://blog.gaborkoos.com/posts/2026-07-24-Golang-Maps-How-Swiss-Tables-Replaced-the-Old-Bucket-Design/",
-    "title": "Golang Maps: How Swiss Tables Replaced the Old Bucket Design"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://fzakaria.com/2026/07/26/seriously-what-is-the-large-code-model-even-for",
-    "title": "Seriously, what is the large code-model even for?"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://nikolays.github.io/PGSimCity/",
-    "title": "PGSimCity · How PostgreSQL Works, in 3D"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://refp.se/articles/your-shell-and-the-magic-colon",
-    "title": "A shell colon does nothing. Use it anyway. | Filip Roséen - refp.se"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://killthecookiebanner.eu/",
-    "title": "Kill the Cookie Banner!"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://extinct-media-museum.blog.jp/otemachi/",
-    "title": "「大手町の絶滅メディア博物館」公式ページ : 絶滅メディア博物館：Extinct Media Museum"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://beyondloom.com/decker/",
-    "title": "decker"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://franktisellano.github.io/datatype/",
-    "title": "Datatype — variable font that turns text into charts"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://tangled.org/oppi.li/stinkpot",
-    "title": "oppi.li/stinkpot at main · Tangled"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://birc.app/",
-    "title": "bIRC — a native IRC client for macOS"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://zigbyexample.neocities.org/",
-    "title": "Zig by Example"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://hatchet.run/blog/postgres-survival-guide",
-    "title": "Hatchet · The startup's Postgres survival guide"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://futurism.com/artificial-intelligence/friends-colleagues-recording-conversation",
-    "title": "Nel tech dilaga l'abitudine di registrare ogni conversazione senza avvertire"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.worseonpurpose.com/p/your-cookware-got-worse-on-purpose",
-    "title": "Your Cookware Got Worse On Purpose: Who Owns Pyrex & All-Clad Now"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://gregoryszorc.com/docs/python-build-standalone/main/",
-    "title": "Python Standalone Builds — python-build-standalone documentation"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://daringfireball.net/linked/2026/07/25/ai-mania-nikhil-suresh",
-    "title": "Daring Fireball: 'AI Mania Is Eviscerating Global Decision-Making'"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://news.ycombinator.com/item?id=49063754",
-    "title": "PGSimCity - How PostgreSQL Works | Hacker News"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://scriptc.dev/",
-    "title": "scriptc | TypeScript-to-Native Compiler"
+    "url": "https://blinry.org/multi-seat-wayland/",
+    "title": "State of multi-player Wayland"
   }
 ]
