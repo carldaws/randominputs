@@ -1,8 +1,8 @@
 [
   {
     "source": "hn",
-    "url": "https://arsastronomica.com/",
-    "title": "Ars Astronomica – English translations of rare Hebrew and Latin astronomy texts"
+    "url": "https://var0.xyz/posts/what-even-are-microservices.html",
+    "title": "What Even Are Microservices?"
   },
   {
     "source": "hn",
@@ -11,18 +11,13 @@
   },
   {
     "source": "hn",
-    "url": "https://www.fermionresearch.com/models/neutrino-8b/",
-    "title": "Neutrino-1 8B"
+    "url": "https://arsastronomica.com/",
+    "title": "Ars Astronomica – English translations of rare Hebrew and Latin astronomy texts"
   },
   {
     "source": "hn",
     "url": "https://matthewsaltz.com/blog/using-an-open-model-feels-surprisingly-good/",
     "title": "Using an open model feels surprisingly good"
-  },
-  {
-    "source": "hn",
-    "url": "https://thedecisionlab.com/biases/the-illusion-of-explanatory-depth",
-    "title": "Why do we think we understand the world more than we actually do?"
   },
   {
     "source": "hn",
@@ -36,6 +31,16 @@
   },
   {
     "source": "hn",
+    "url": "https://www.fermionresearch.com/models/neutrino-8b/",
+    "title": "Neutrino-1 8B"
+  },
+  {
+    "source": "hn",
+    "url": "https://dconf.org/2026/index.html",
+    "title": "DConf 2026 in London"
+  },
+  {
+    "source": "hn",
     "url": "https://crowdhailer.me/2026-06-08/a-programming-language-for-humans/",
     "title": "EYG: A Programming Language for Humans"
   },
@@ -46,28 +51,18 @@
   },
   {
     "source": "hn",
-    "url": "https://dconf.org/2026/index.html",
-    "title": "DConf 2026 in London"
-  },
-  {
-    "source": "hn",
-    "url": "https://golemui.com/blog/the-age-of-token-efficiency/",
-    "title": "The age of token efficiency, the age of libraries"
-  },
-  {
-    "source": "hn",
     "url": "https://gregoryszorc.com/docs/python-build-standalone/main/",
     "title": "Self-contained highly-portable Python distributions"
   },
   {
     "source": "hn",
-    "url": "https://harpers.org/archive/2026/08/a-dying-art-john-semley-mortuary-sciences-competition/",
-    "title": "A Dying Art: The last of the morticians"
+    "url": "https://pagedout.institute/download/PagedOut_009.pdf",
+    "title": "Paged Out #9 [pdf]"
   },
   {
     "source": "hn",
-    "url": "https://pagedout.institute/download/PagedOut_009.pdf",
-    "title": "Paged Out #9 [pdf]"
+    "url": "https://harpers.org/archive/2026/08/a-dying-art-john-semley-mortuary-sciences-competition/",
+    "title": "A Dying Art: The last of the morticians"
   },
   {
     "source": "lobsters",
@@ -76,13 +71,18 @@
   },
   {
     "source": "lobsters",
-    "url": "https://digitalseams.com/blog/most-googlebots-are-fake",
-    "title": "Most Googlebots are fake"
+    "url": "https://frantic.im/mirage",
+    "title": "The Productivity Mirage"
   },
   {
     "source": "lobsters",
-    "url": "https://frantic.im/mirage",
-    "title": "The Productivity Mirage"
+    "url": "https://www.lysk.ai/post/wiring-radios-to-laptops-the-hard-way",
+    "title": "One Ring to Rule Them All: Wiring Radios to Laptops the Hard Way"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://digitalseams.com/blog/most-googlebots-are-fake",
+    "title": "Most Googlebots are fake"
   },
   {
     "source": "lobsters",
@@ -118,10 +118,5 @@
     "source": "lobsters",
     "url": "https://silky.github.io/posts/reviews-one-simple-trick.html",
     "title": "Make Reviews Possible Again With This One Simple Trick"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://danluu.com/exercise-7/",
-    "title": "Exercises in benchmarking and evals, part 7: DeepSWE, Senior SWE-Bench, napkin math, and winter tires"
   }
 ]
