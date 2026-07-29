@@ -6,13 +6,33 @@
   },
   {
     "source": "hn",
-    "url": "https://elizabethtai.com/2026/06/10/substack-writers-you-need-a-website/",
-    "title": "Substack writers, you need a website"
+    "url": "https://docs.imiron.io/v/0.5.10/en/tour.html",
+    "title": "SpecForge – A Platform for Authoring Formal Specifications"
   },
   {
     "source": "hn",
-    "url": "https://transformer-transformer.github.io/",
-    "title": "Transformer Transformer: A Unified Model for Motion-Conditioned Robot Co-Design"
+    "url": "https://micrologics.org/blog/sqlite-in-production-optimizing-wal-mode-concurrency-and-vfs-layers-for-low-latency-app-servers",
+    "title": "SQLite in Production: Optimizing WAL Mode, Concurrency, and VFS Layers"
+  },
+  {
+    "source": "hn",
+    "url": "https://letoverlambda.com/textmode.cl/guest/chap8.html",
+    "title": "Lisp moving Forth moving Lisp"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.fcc.gov/sites/default/files/robots-nsd.pdf",
+    "title": "National Security Determination Threat Posed by Foreign-Produced Robotic Devices [pdf]"
+  },
+  {
+    "source": "hn",
+    "url": "https://amiga.lychesis.net/index.html",
+    "title": "Amiga Graphics Archive"
+  },
+  {
+    "source": "hn",
+    "url": "https://elizabethtai.com/2026/06/10/substack-writers-you-need-a-website/",
+    "title": "Substack writers, you need a website"
   },
   {
     "source": "hn",
@@ -21,33 +41,13 @@
   },
   {
     "source": "hn",
-    "url": "https://reframe.camera/",
-    "title": "ReFrame – The EPaper Camera"
-  },
-  {
-    "source": "hn",
     "url": "https://sebastianraschka.com/blog/2026/kimi-k3-architecture-notes.html",
     "title": "Kimi K3 Architecture Overview and Notes"
   },
   {
     "source": "hn",
-    "url": "https://www.norvig.com/21-days.html",
-    "title": "Teach yourself programming in ten years (1998)"
-  },
-  {
-    "source": "hn",
-    "url": "https://abeljansma.nl/2026/07/10/truth-is-not-a-direction.html",
-    "title": "Truth is not a direction: a Tarski attack on LLM probes"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.hubble.md/",
-    "title": "Hubble: Open-source notetaking app for you and your agents"
-  },
-  {
-    "source": "hn",
-    "url": "https://alexwlchan.net/2026/byte-order-marks/",
-    "title": "Fixing a bug with byte order marks"
+    "url": "https://reframe.camera/",
+    "title": "ReFrame – The EPaper Camera"
   },
   {
     "source": "hn",
@@ -56,33 +56,28 @@
   },
   {
     "source": "hn",
-    "url": "https://purplesyringa.moe/blog/log-is-non-monotonic-in-php-and-lua/",
-    "title": "Log is non-monotonic in PHP and Lua"
+    "url": "https://www.hubble.md/",
+    "title": "Hubble: Open-source notetaking app for you and your agents"
   },
   {
     "source": "hn",
-    "url": "https://magworld.pw/episodes/computer/",
-    "title": "Mag Computer: A Mag History of RAM (1960–2025)"
+    "url": "https://transformer-transformer.github.io/",
+    "title": "Transformer Transformer: A Unified Model for Motion-Conditioned Robot Co-Design"
   },
   {
     "source": "hn",
-    "url": "https://blinry.org/multi-seat-wayland/",
-    "title": "Multiple Mouse Cursors in Wayland"
+    "url": "https://www.norvig.com/21-days.html",
+    "title": "Teach yourself programming in ten years (1998)"
   },
   {
     "source": "hn",
-    "url": "https://aeon.co/essays/uncovering-a-global-ancient-history-beyond-greece-and-rome",
-    "title": "Beyond Greece and Rome"
+    "url": "https://immaschinenraum.blog/en/funpark/never-just-csv/",
+    "title": "CSV Is Never Just CSV"
   },
   {
     "source": "hn",
     "url": "https://mlugg.co.uk/posts/incremental-compilation-internals/",
     "title": "Zig's Incremental Compilation Internals"
-  },
-  {
-    "source": "hn",
-    "url": "https://pvrlabs.xyz/articles/lightweight-spring-boot-monitoring.html",
-    "title": "Lightweight Spring Boot Monitoring Without Prometheus and Grafana"
   },
   {
     "source": "lobsters",
@@ -96,8 +91,18 @@
   },
   {
     "source": "lobsters",
+    "url": "https://blinry.org/multi-seat-wayland/",
+    "title": "State of multi-player Wayland"
+  },
+  {
+    "source": "lobsters",
     "url": "https://fzakaria.com/2026/07/27/the-mean-means-nothing",
     "title": "The mean means nothing"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://blog.jsbarretto.com/post/software-is-joy",
+    "title": "Writing Toy Software Is A Joy (2025)"
   },
   {
     "source": "lobsters",
@@ -106,8 +111,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://blog.jsbarretto.com/post/software-is-joy",
-    "title": "Writing Toy Software Is A Joy (2025)"
+    "url": "https://intertwingly.net/blog/2026/07/28/What-Happens-After-You-IPO.html",
+    "title": "Lobste.rs on Spinel"
   },
   {
     "source": "lobsters",
@@ -121,6 +126,21 @@
   },
   {
     "source": "lobsters",
+    "url": "https://www.sandordargo.com/blog/2026/07/29/cpp26-reduces-undefined-behaviour",
+    "title": "C++26: Reducing undefined behaviour"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://www.meetecho.com/blog/moq-ietf126/",
+    "title": "Streaming the IETF MoQ sessions with MoQ… kinda"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://starling.build",
+    "title": "Starling, a Linux Desktop written from scratch"
+  },
+  {
+    "source": "lobsters",
     "url": "https://kernelkennel.com/blog/where-is-the-middle-space/",
     "title": "Where are the third places for learners?"
   },
@@ -131,18 +151,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://starling.build",
-    "title": "Starling, a Linux Desktop written from scratch"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://kobolt.github.io/article-264.html",
-    "title": "CP/M-68K emulator"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://blog.jim-nielsen.com/2026/blogging-stating-the-obvious/",
-    "title": "Blogging Can Just Be Stating The Obvious"
+    "url": "https://negroniventurestudios.com/2026/07/28/sovereignty-is-a-substrate/",
+    "title": "Sovereignty is a substrate"
   },
   {
     "source": "pinboard",
