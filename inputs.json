@@ -6,13 +6,18 @@
   },
   {
     "source": "hn",
-    "url": "https://enklypesalt.com/posts/context-collapse-part3-ai-worming-through-word/",
-    "title": "Document-borne AI worms can self-propagate through Copilot for Word"
+    "url": "https://www.claire-blackshaw.com/blog/2026/07/shipping-godot-vr-and-porting-to-psvr2-a-partial-post-mortem/",
+    "title": "Shipping Godot VR and Porting to PSVR2: A Partial Post Mortem"
   },
   {
     "source": "hn",
-    "url": "https://potsandpansbyccg.com/2026/07/29/after-the-ai-crash/",
-    "title": "After the AI Crash"
+    "url": "https://lapcatsoftware.com/articles/2026/7/14.html",
+    "title": "Apple should be ashamed of its hostile App Store rating system"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.darktable.org/",
+    "title": "Darktable"
   },
   {
     "source": "hn",
@@ -21,8 +26,33 @@
   },
   {
     "source": "hn",
+    "url": "https://enklypesalt.com/posts/context-collapse-part3-ai-worming-through-word/",
+    "title": "Document-borne AI worms can self-propagate through Copilot for Word"
+  },
+  {
+    "source": "hn",
     "url": "https://amiga.lychesis.net/index.html",
     "title": "Amiga Graphics Archive"
+  },
+  {
+    "source": "hn",
+    "url": "https://huggingface-anatomy-of-frontier-lab-model-intrusion.static.hf.space/index.html",
+    "title": "Hugging Face: Anatomy of a frontier-lab agent intrusion"
+  },
+  {
+    "source": "hn",
+    "url": "https://tracewayapp.com/blog/sqlite-vs-duckdb",
+    "title": "Choose DuckDB rather than SQLite"
+  },
+  {
+    "source": "hn",
+    "url": "https://micrologics.org/blog/sqlite-in-production-optimizing-wal-mode-concurrency-and-vfs-layers-for-low-latency-app-servers",
+    "title": "SQLite in Production: Optimizing WAL Mode, Concurrency, and VFS Layers"
+  },
+  {
+    "source": "hn",
+    "url": "https://laurentiugabriel.github.io/token-town/",
+    "title": "TokenTown: A visual way to understand how LLMs work"
   },
   {
     "source": "hn",
@@ -36,8 +66,8 @@
   },
   {
     "source": "hn",
-    "url": "https://micrologics.org/blog/sqlite-in-production-optimizing-wal-mode-concurrency-and-vfs-layers-for-low-latency-app-servers",
-    "title": "SQLite in Production: Optimizing WAL Mode, Concurrency, and VFS Layers"
+    "url": "https://cesium.com/events/cesium-developer-conference/2026/",
+    "title": "Cesium DevCon 2026 talks are up, including a keynote from SQLite's creator"
   },
   {
     "source": "hn",
@@ -46,38 +76,13 @@
   },
   {
     "source": "hn",
-    "url": "https://echologue.com/",
-    "title": "Show HN: Echologue – the private AI voice journal I built for myself"
+    "url": "https://fluxtion-playground.dev/blog/2026-07-29-graph-engineering-needs-a-compiler",
+    "title": "Graph Engineering Needs a Compiler"
   },
   {
-    "source": "hn",
-    "url": "https://pulsepathgame.netlify.app/",
-    "title": "Pulse Path – a browser puzzle where placement is the only decision"
-  },
-  {
-    "source": "hn",
-    "url": "https://elizabethtai.com/2026/06/10/substack-writers-you-need-a-website/",
-    "title": "Substack writers, you need a website"
-  },
-  {
-    "source": "hn",
-    "url": "https://mac-classic.com/news/half-life-ported-to-mac-os-9/",
-    "title": "Half-Life ported to Mac OS 9"
-  },
-  {
-    "source": "hn",
-    "url": "https://reframe.camera/",
-    "title": "ReFrame – The EPaper Camera"
-  },
-  {
-    "source": "hn",
-    "url": "https://sbcl.org/all-news.html?2.6.7",
-    "title": "Steel Bank Common Lisp version 2.6.7"
-  },
-  {
-    "source": "hn",
-    "url": "https://transformer-transformer.github.io/",
-    "title": "Transformer Transformer: A Unified Model for Motion-Conditioned Robot Co-Design"
+    "source": "lobsters",
+    "url": "https://po-ru.com/2026/07/29/it-doesnt-matter-whether-matz-is-nice",
+    "title": "It doesn’t matter whether “Matz is nice”"
   },
   {
     "source": "lobsters",
@@ -91,8 +96,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://blinry.org/multi-seat-wayland/",
-    "title": "State of multi-player Wayland"
+    "url": "https://tomekw.com/overengineered-calculator-zig-qbe/",
+    "title": "Overengineered calculator: Zig + QBE"
   },
   {
     "source": "lobsters",
@@ -101,8 +106,18 @@
   },
   {
     "source": "lobsters",
+    "url": "https://blinry.org/multi-seat-wayland/",
+    "title": "State of multi-player Wayland"
+  },
+  {
+    "source": "lobsters",
     "url": "https://blog.tymscar.com/posts/opensourcedimmer/",
     "title": "I Designed A Custom PCB To Avoid Pressing A Button Three Times"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://blog.cryptographyengineering.com/2026/07/29/some-notes-about-anthropics-new-results/",
+    "title": "Some notes about Anthropic’s new results"
   },
   {
     "source": "lobsters",
@@ -111,13 +126,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://po-ru.com/2026/07/29/it-doesnt-matter-whether-matz-is-nice",
-    "title": "It doesn’t matter whether “Matz is nice”"
+    "url": "https://www.chiply.dev/post-hyperbole-implicit-buttons",
+    "title": "GNU Hyperbole Implicit Buttons: Build your Hyperverse"
   },
   {
     "source": "lobsters",
-    "url": "https://intertwingly.net/blog/2026/07/28/What-Happens-After-You-IPO.html",
-    "title": "Lobste.rs on Spinel"
+    "url": "https://gleam.run/news/a-field-day-for-gleams-language-server/",
+    "title": "A field day for Gleam’s language server | Gleam v.1.18.0 release"
   },
   {
     "source": "lobsters",
@@ -126,8 +141,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://www.chiply.dev/post-hyperbole-implicit-buttons",
-    "title": "Hyperbole Implicit Buttons: Build your Hyperverse"
+    "url": "https://intertwingly.net/blog/2026/07/28/What-Happens-After-You-IPO.html",
+    "title": "Lobste.rs on Spinel"
   },
   {
     "source": "lobsters",
@@ -141,23 +156,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://tomekw.com/overengineered-calculator-zig-qbe/",
-    "title": "Overengineered calculator: Zig + QBE"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://var0.xyz/posts/what-even-are-microservices.html",
-    "title": "What even are microservices?"
-  },
-  {
-    "source": "lobsters",
     "url": "https://hondu.co/blog/building-systems-software",
     "title": "Building (systems) software with Nix"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://blog.doubleword.ai/you-could-have-come-up-with-kimi-delta-attention",
-    "title": "You Could Have Come Up With Kimi Delta Attention"
   },
   {
     "source": "pinboard",
