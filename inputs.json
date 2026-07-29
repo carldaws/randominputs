@@ -11,6 +11,11 @@
   },
   {
     "source": "hn",
+    "url": "https://zachholman.com/posts/cold-email",
+    "title": "The Cold Email"
+  },
+  {
+    "source": "hn",
     "url": "https://www.kimi.com/code/docs/en/kimi-code/models",
     "title": "Kimi K3-256k"
   },
@@ -18,11 +23,6 @@
     "source": "hn",
     "url": "https://koreader.rocks/",
     "title": "KOReader"
-  },
-  {
-    "source": "hn",
-    "url": "https://zachholman.com/posts/cold-email",
-    "title": "The Cold Email"
   },
   {
     "source": "hn",
@@ -36,23 +36,8 @@
   },
   {
     "source": "hn",
-    "url": "https://www.emergingtrajectories.com/lh/commodification-and-circularity/",
-    "title": "Commodification of Intelligence: Good, Bad, and Ugly Circular AI Deals"
-  },
-  {
-    "source": "hn",
-    "url": "https://status.claude.com/incidents/q2kg8n613kr3",
-    "title": "Claude: Elevated errors across all models"
-  },
-  {
-    "source": "hn",
     "url": "https://enklypesalt.com/posts/context-collapse-part3-ai-worming-through-word/",
     "title": "Document-borne AI worms can self-propagate through Copilot for Word"
-  },
-  {
-    "source": "hn",
-    "url": "https://usetokenless.com/",
-    "title": "Launch HN: Tokenless (YC S26) – Automatic model switching to save money"
   },
   {
     "source": "hn",
@@ -61,8 +46,23 @@
   },
   {
     "source": "hn",
-    "url": "https://blog.cryptographyengineering.com/2026/07/29/some-notes-about-anthropics-new-results/",
-    "title": "Some thoughts about Anthropic's new cryptanalysis results"
+    "url": "https://archive.org/details/mancomputerbyjoh0000john",
+    "title": "Man and the Computer by John G. Kemeny (1972 book by the co-creator of BASIC)"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.emergingtrajectories.com/lh/commodification-and-circularity/",
+    "title": "Commodification of Intelligence: Good, Bad, and Ugly Circular AI Deals"
+  },
+  {
+    "source": "hn",
+    "url": "https://usetokenless.com/",
+    "title": "Launch HN: Tokenless (YC S26) – Automatic model switching to save money"
+  },
+  {
+    "source": "hn",
+    "url": "https://quuxplusone.github.io/blog/2026/07/26/function-explosion/",
+    "title": "Interconverting std::function with copyable_function"
   },
   {
     "source": "hn",
@@ -71,8 +71,13 @@
   },
   {
     "source": "hn",
-    "url": "https://docs.espressif.com/projects/rust/book/",
-    "title": "The Rust on ESP Book"
+    "url": "https://blog.cryptographyengineering.com/2026/07/29/some-notes-about-anthropics-new-results/",
+    "title": "Some thoughts about Anthropic's new cryptanalysis results"
+  },
+  {
+    "source": "hn",
+    "url": "https://llm2human.pages.dev/",
+    "title": "LLM Honeypot"
   },
   {
     "source": "hn",
@@ -81,13 +86,13 @@
   },
   {
     "source": "hn",
-    "url": "https://aistack.imec-int.com/blog/gpu-self-hosting",
-    "title": "Self-hosting Kimi K3: 20% more hardware cost, 20% better task resolution"
+    "url": "https://docs.espressif.com/projects/rust/book/",
+    "title": "The Rust on ESP Book"
   },
   {
     "source": "hn",
-    "url": "https://firstprinciples.com/blog-article/ai-system-theo-conjecture-solves-35-year-old-math-conjecture",
-    "title": "Theo Conjecture solves 35-year-old math problem, finds a term no one predicted"
+    "url": "https://aistack.imec-int.com/blog/gpu-self-hosting",
+    "title": "Self-hosting Kimi K3: 20% more hardware cost, 20% better task resolution"
   },
   {
     "source": "lobsters",
@@ -106,6 +111,11 @@
   },
   {
     "source": "lobsters",
+    "url": "https://www.chiply.dev/post-hyperbole-implicit-buttons",
+    "title": "GNU Hyperbole Implicit Buttons: Build your Hyperverse"
+  },
+  {
+    "source": "lobsters",
     "url": "https://joomy.korkutblech.com/posts/2026-07-28-why-rocq-is-better.html",
     "title": "Why Rocq is better than Lean for program verification"
   },
@@ -113,11 +123,6 @@
     "source": "lobsters",
     "url": "https://mlugg.co.uk/posts/incremental-compilation-internals/",
     "title": "Inside Zig's Incremental Compilation"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://www.chiply.dev/post-hyperbole-implicit-buttons",
-    "title": "GNU Hyperbole Implicit Buttons: Build your Hyperverse"
   },
   {
     "source": "lobsters",
@@ -156,11 +161,6 @@
   },
   {
     "source": "lobsters",
-    "url": "https://fzakaria.com/2026/07/27/the-mean-means-nothing",
-    "title": "The mean means nothing"
-  },
-  {
-    "source": "lobsters",
     "url": "https://negroniventurestudios.com/2026/07/28/sovereignty-is-a-substrate/",
     "title": "Sovereignty is a substrate"
   },
@@ -168,6 +168,11 @@
     "source": "lobsters",
     "url": "https://emacsredux.com/blog/2026/07/29/flycheck-38/",
     "title": "Flycheck 38: Might & Magic"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://fzakaria.com/2026/07/27/the-mean-means-nothing",
+    "title": "The mean means nothing"
   },
   {
     "source": "lobsters",
