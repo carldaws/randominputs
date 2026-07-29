@@ -11,8 +11,28 @@
   },
   {
     "source": "hn",
+    "url": "https://www.norvig.com/21-days.html",
+    "title": "Teach yourself programming in ten years (1998)"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.hubble.md/",
+    "title": "Hubble: Open-source notetaking app for you and your agents"
+  },
+  {
+    "source": "hn",
     "url": "https://sbcl.org/all-news.html?2.6.7",
     "title": "Steel Bank Common Lisp version 2.6.7"
+  },
+  {
+    "source": "hn",
+    "url": "https://reframe.camera/",
+    "title": "ReFrame – The EPaper Camera"
+  },
+  {
+    "source": "hn",
+    "url": "https://pvrlabs.xyz/articles/lightweight-spring-boot-monitoring.html",
+    "title": "Lightweight Spring Boot Monitoring Without Prometheus and Grafana"
   },
   {
     "source": "hn",
@@ -21,13 +41,13 @@
   },
   {
     "source": "hn",
-    "url": "https://mlugg.co.uk/posts/incremental-compilation-internals/",
-    "title": "Zig's Incremental Compilation Internals"
+    "url": "https://unplannedobsolescence.com/blog/buttons-vs-links/",
+    "title": "The Difference Between a Button and a Link"
   },
   {
     "source": "hn",
-    "url": "https://toolcraft.sh",
-    "title": "Toolcraft"
+    "url": "https://mlugg.co.uk/posts/incremental-compilation-internals/",
+    "title": "Zig's Incremental Compilation Internals"
   },
   {
     "source": "hn",
@@ -36,13 +56,13 @@
   },
   {
     "source": "hn",
-    "url": "https://blog.modelcontextprotocol.io/posts/2026-07-28/",
-    "title": "MCP 2026-07-28 Specification: transport going stateless"
+    "url": "https://andreadimatteo.com/md-to-html-compiler.html",
+    "title": "Show HN: Learning Rust by writing a Markdown to HTML compiler"
   },
   {
     "source": "hn",
-    "url": "https://www.norvig.com/21-days.html",
-    "title": "Teach Yourself Programming in Ten Years (1998)"
+    "url": "https://blinry.org/multi-seat-wayland/",
+    "title": "Multiple Mouse Cursors in Wayland"
   },
   {
     "source": "hn",
@@ -56,18 +76,13 @@
   },
   {
     "source": "hn",
-    "url": "https://naveensrinivasan.com/posts/2026-07-22-how-do-i-profile-ebpf-code/",
-    "title": "How Do I Profile eBPF Code?"
+    "url": "https://abeljansma.nl/2026/07/10/truth-is-not-a-direction.html",
+    "title": "Truth is not a direction: a Tarski attack on LLM probes"
   },
   {
     "source": "hn",
-    "url": "https://max-amb.github.io/blog/your_type_checker_may_be_wrong/",
-    "title": "An introduction to formal proof verification and the Curry-Howard Correspondence"
-  },
-  {
-    "source": "hn",
-    "url": "https://anthropeum.com/",
-    "title": "Anthropeum – Where in the world, and when, does this human artifact belong?"
+    "url": "https://blog.modelcontextprotocol.io/posts/2026-07-28/",
+    "title": "MCP 2026-07-28 Specification: transport going stateless"
   },
   {
     "source": "lobsters",
@@ -76,13 +91,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://cgicoffee.com/blog/2026/04/tcl-tk-develop-cross-platform-cli-gui-tools-tutorial-guide",
-    "title": "Develop Cross-Platform CLI and GUI Tools With Tcl/Tk"
+    "url": "https://joomy.korkutblech.com/posts/2026-07-28-why-rocq-is-better.html",
+    "title": "Why Rocq is better than Lean for program verification"
   },
   {
     "source": "lobsters",
-    "url": "https://joomy.korkutblech.com/posts/2026-07-28-why-rocq-is-better.html",
-    "title": "Why Rocq is better than Lean for program verification"
+    "url": "https://cgicoffee.com/blog/2026/04/tcl-tk-develop-cross-platform-cli-gui-tools-tutorial-guide",
+    "title": "Develop Cross-Platform CLI and GUI Tools With Tcl/Tk"
   },
   {
     "source": "lobsters",
@@ -106,23 +121,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://modulovalue.com/blog/proof-types-in-dart/",
-    "title": "Proof types in Dart: Using final classes as computational witnesses"
-  },
-  {
-    "source": "lobsters",
     "url": "https://blog.jim-nielsen.com/2026/blogging-stating-the-obvious/",
     "title": "Blogging Can Just Be Stating The Obvious"
   },
   {
     "source": "lobsters",
-    "url": "https://www.lysk.ai/post/wiring-radios-to-laptops-the-hard-way",
-    "title": "One Ring to Rule Them All: Wiring Radios to Laptops the Hard Way"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://blinry.org/multi-seat-wayland/",
-    "title": "State of multi-player Wayland"
+    "url": "https://modulovalue.com/blog/proof-types-in-dart/",
+    "title": "Proof types in Dart: Using final classes as computational witnesses"
   },
   {
     "source": "lobsters",
@@ -131,7 +136,12 @@
   },
   {
     "source": "lobsters",
-    "url": "https://pagedout.institute/webview.php?issue=9&page=1",
-    "title": "Paged Out - Issue #9"
+    "url": "https://www.lysk.ai/post/wiring-radios-to-laptops-the-hard-way",
+    "title": "One Ring to Rule Them All: Wiring Radios to Laptops the Hard Way"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://starling.build",
+    "title": "Starling, a Linux Desktop written from scratch"
   }
 ]
