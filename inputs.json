@@ -6,18 +6,13 @@
   },
   {
     "source": "hn",
-    "url": "https://www.kimi.com/code/docs/en/kimi-code/models",
-    "title": "Kimi K3-256k"
-  },
-  {
-    "source": "hn",
     "url": "https://www.superlogical.com/",
     "title": "Superlogical"
   },
   {
     "source": "hn",
-    "url": "https://firstprinciples.com/blog-article/ai-system-theo-conjecture-solves-35-year-old-math-conjecture",
-    "title": "Theo Conjecture solves 35-year-old math problem, finds a term no one predicted"
+    "url": "https://www.kimi.com/code/docs/en/kimi-code/models",
+    "title": "Kimi K3-256k"
   },
   {
     "source": "hn",
@@ -26,13 +21,13 @@
   },
   {
     "source": "hn",
-    "url": "https://dogdogfish.com/blog/2026/07/29/a-trampoline/",
-    "title": "A Trampoline"
+    "url": "https://zachholman.com/posts/cold-email",
+    "title": "The Cold Email"
   },
   {
     "source": "hn",
-    "url": "https://status.claude.com/incidents/q2kg8n613kr3",
-    "title": "Claude: Elevated errors across all models"
+    "url": "https://dogdogfish.com/blog/2026/07/29/a-trampoline/",
+    "title": "A Trampoline"
   },
   {
     "source": "hn",
@@ -41,23 +36,33 @@
   },
   {
     "source": "hn",
-    "url": "https://enklypesalt.com/posts/context-collapse-part3-ai-worming-through-word/",
-    "title": "Document-borne AI worms can self-propagate through Copilot for Word"
-  },
-  {
-    "source": "hn",
     "url": "https://www.emergingtrajectories.com/lh/commodification-and-circularity/",
     "title": "Commodification of Intelligence: Good, Bad, and Ugly Circular AI Deals"
   },
   {
     "source": "hn",
-    "url": "https://blog.cryptographyengineering.com/2026/07/29/some-notes-about-anthropics-new-results/",
-    "title": "Some thoughts about Anthropic's new cryptanalysis results"
+    "url": "https://status.claude.com/incidents/q2kg8n613kr3",
+    "title": "Claude: Elevated errors across all models"
+  },
+  {
+    "source": "hn",
+    "url": "https://enklypesalt.com/posts/context-collapse-part3-ai-worming-through-word/",
+    "title": "Document-borne AI worms can self-propagate through Copilot for Word"
   },
   {
     "source": "hn",
     "url": "https://usetokenless.com/",
     "title": "Launch HN: Tokenless (YC S26) – Automatic model switching to save money"
+  },
+  {
+    "source": "hn",
+    "url": "https://iza.ac/posts/2026/07/the-journey-of-bamya/",
+    "title": "Refactoring cuisine: how an Iraqi stew sailed to Singapore"
+  },
+  {
+    "source": "hn",
+    "url": "https://blog.cryptographyengineering.com/2026/07/29/some-notes-about-anthropics-new-results/",
+    "title": "Some thoughts about Anthropic's new cryptanalysis results"
   },
   {
     "source": "hn",
@@ -81,8 +86,8 @@
   },
   {
     "source": "hn",
-    "url": "https://www.claire-blackshaw.com/blog/2026/07/shipping-godot-vr-and-porting-to-psvr2-a-partial-post-mortem/",
-    "title": "Shipping Godot VR and Porting to PSVR2: A Partial Post Mortem"
+    "url": "https://firstprinciples.com/blog-article/ai-system-theo-conjecture-solves-35-year-old-math-conjecture",
+    "title": "Theo Conjecture solves 35-year-old math problem, finds a term no one predicted"
   },
   {
     "source": "lobsters",
@@ -101,13 +106,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://mlugg.co.uk/posts/incremental-compilation-internals/",
-    "title": "Inside Zig's Incremental Compilation"
+    "url": "https://joomy.korkutblech.com/posts/2026-07-28-why-rocq-is-better.html",
+    "title": "Why Rocq is better than Lean for program verification"
   },
   {
     "source": "lobsters",
-    "url": "https://joomy.korkutblech.com/posts/2026-07-28-why-rocq-is-better.html",
-    "title": "Why Rocq is better than Lean for program verification"
+    "url": "https://mlugg.co.uk/posts/incremental-compilation-internals/",
+    "title": "Inside Zig's Incremental Compilation"
   },
   {
     "source": "lobsters",
@@ -116,8 +121,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://blog.jsbarretto.com/post/software-is-joy",
-    "title": "Writing Toy Software Is A Joy (2025)"
+    "url": "https://anirudh.fi/strain",
+    "title": "The strain in your brain"
   },
   {
     "source": "lobsters",
@@ -126,13 +131,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://lynn.github.io/blog/pico-timers/",
-    "title": "Setting timers in simple games (feat. the frame rule)"
+    "url": "https://blog.jsbarretto.com/post/software-is-joy",
+    "title": "Writing Toy Software Is A Joy (2025)"
   },
   {
     "source": "lobsters",
-    "url": "https://blinry.org/multi-seat-wayland/",
-    "title": "State of multi-player Wayland"
+    "url": "https://lynn.github.io/blog/pico-timers/",
+    "title": "Setting timers in simple games (feat. the frame rule)"
   },
   {
     "source": "lobsters",
@@ -141,8 +146,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://anirudh.fi/strain",
-    "title": "The strain in your brain"
+    "url": "https://blinry.org/multi-seat-wayland/",
+    "title": "State of multi-player Wayland"
   },
   {
     "source": "lobsters",
@@ -156,11 +161,6 @@
   },
   {
     "source": "lobsters",
-    "url": "https://www.sandordargo.com/blog/2026/07/29/cpp26-reduces-undefined-behaviour",
-    "title": "C++26: Reducing undefined behaviour"
-  },
-  {
-    "source": "lobsters",
     "url": "https://negroniventurestudios.com/2026/07/28/sovereignty-is-a-substrate/",
     "title": "Sovereignty is a substrate"
   },
@@ -168,5 +168,10 @@
     "source": "lobsters",
     "url": "https://emacsredux.com/blog/2026/07/29/flycheck-38/",
     "title": "Flycheck 38: Might & Magic"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://www.sandordargo.com/blog/2026/07/29/cpp26-reduces-undefined-behaviour",
+    "title": "C++26: Reducing undefined behaviour"
   }
 ]
