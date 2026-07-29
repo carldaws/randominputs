@@ -1,13 +1,38 @@
 [
   {
     "source": "hn",
+    "url": "https://koreader.rocks/",
+    "title": "KOReader"
+  },
+  {
+    "source": "hn",
+    "url": "https://enklypesalt.com/posts/context-collapse-part3-ai-worming-through-word/",
+    "title": "Document-borne AI worms can self-propagate through Copilot for Word"
+  },
+  {
+    "source": "hn",
+    "url": "https://potsandpansbyccg.com/2026/07/29/after-the-ai-crash/",
+    "title": "After the AI Crash"
+  },
+  {
+    "source": "hn",
     "url": "https://tailscale.com/blog/jailbroken-kindle-proxy-tun-modes",
     "title": "More Tailscale tricks for your jailbroken Kindle"
   },
   {
     "source": "hn",
+    "url": "https://amiga.lychesis.net/index.html",
+    "title": "Amiga Graphics Archive"
+  },
+  {
+    "source": "hn",
     "url": "https://docs.imiron.io/v/0.5.10/en/tour.html",
     "title": "SpecForge – A Platform for Authoring Formal Specifications"
+  },
+  {
+    "source": "hn",
+    "url": "https://jcgt.org/published/0015/02/01/",
+    "title": "A Texture Lookup Approach to Bézier Curve Evaluation on the GPU (JCGT)"
   },
   {
     "source": "hn",
@@ -21,13 +46,13 @@
   },
   {
     "source": "hn",
-    "url": "https://www.fcc.gov/sites/default/files/robots-nsd.pdf",
-    "title": "National Security Determination Threat Posed by Foreign-Produced Robotic Devices [pdf]"
+    "url": "https://echologue.com/",
+    "title": "Show HN: Echologue – the private AI voice journal I built for myself"
   },
   {
     "source": "hn",
-    "url": "https://amiga.lychesis.net/index.html",
-    "title": "Amiga Graphics Archive"
+    "url": "https://pulsepathgame.netlify.app/",
+    "title": "Pulse Path – a browser puzzle where placement is the only decision"
   },
   {
     "source": "hn",
@@ -41,11 +66,6 @@
   },
   {
     "source": "hn",
-    "url": "https://sebastianraschka.com/blog/2026/kimi-k3-architecture-notes.html",
-    "title": "Kimi K3 Architecture Overview and Notes"
-  },
-  {
-    "source": "hn",
     "url": "https://reframe.camera/",
     "title": "ReFrame – The EPaper Camera"
   },
@@ -56,28 +76,13 @@
   },
   {
     "source": "hn",
-    "url": "https://www.hubble.md/",
-    "title": "Hubble: Open-source notetaking app for you and your agents"
-  },
-  {
-    "source": "hn",
     "url": "https://transformer-transformer.github.io/",
     "title": "Transformer Transformer: A Unified Model for Motion-Conditioned Robot Co-Design"
   },
   {
-    "source": "hn",
-    "url": "https://www.norvig.com/21-days.html",
-    "title": "Teach yourself programming in ten years (1998)"
-  },
-  {
-    "source": "hn",
-    "url": "https://immaschinenraum.blog/en/funpark/never-just-csv/",
-    "title": "CSV Is Never Just CSV"
-  },
-  {
-    "source": "hn",
+    "source": "lobsters",
     "url": "https://mlugg.co.uk/posts/incremental-compilation-internals/",
-    "title": "Zig's Incremental Compilation Internals"
+    "title": "Inside Zig's Incremental Compilation"
   },
   {
     "source": "lobsters",
@@ -86,18 +91,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://blog.tymscar.com/posts/opensourcedimmer/",
-    "title": "I Designed A Custom PCB To Avoid Pressing A Button Three Times"
-  },
-  {
-    "source": "lobsters",
     "url": "https://blinry.org/multi-seat-wayland/",
     "title": "State of multi-player Wayland"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://fzakaria.com/2026/07/27/the-mean-means-nothing",
-    "title": "The mean means nothing"
   },
   {
     "source": "lobsters",
@@ -106,8 +101,18 @@
   },
   {
     "source": "lobsters",
-    "url": "https://cgicoffee.com/blog/2026/04/tcl-tk-develop-cross-platform-cli-gui-tools-tutorial-guide",
-    "title": "Develop Cross-Platform CLI and GUI Tools With Tcl/Tk"
+    "url": "https://blog.tymscar.com/posts/opensourcedimmer/",
+    "title": "I Designed A Custom PCB To Avoid Pressing A Button Three Times"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://fzakaria.com/2026/07/27/the-mean-means-nothing",
+    "title": "The mean means nothing"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://po-ru.com/2026/07/29/it-doesnt-matter-whether-matz-is-nice",
+    "title": "It doesn’t matter whether “Matz is nice”"
   },
   {
     "source": "lobsters",
@@ -116,13 +121,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://hondu.co/blog/building-systems-software",
-    "title": "Building (systems) software with Nix"
+    "url": "https://cgicoffee.com/blog/2026/04/tcl-tk-develop-cross-platform-cli-gui-tools-tutorial-guide",
+    "title": "Develop Cross-Platform CLI and GUI Tools With Tcl/Tk"
   },
   {
     "source": "lobsters",
-    "url": "https://var0.xyz/posts/what-even-are-microservices.html",
-    "title": "What even are microservices?"
+    "url": "https://www.chiply.dev/post-hyperbole-implicit-buttons",
+    "title": "Hyperbole Implicit Buttons: Build your Hyperverse"
   },
   {
     "source": "lobsters",
@@ -131,28 +136,28 @@
   },
   {
     "source": "lobsters",
-    "url": "https://www.meetecho.com/blog/moq-ietf126/",
-    "title": "Streaming the IETF MoQ sessions with MoQ… kinda"
+    "url": "https://negroniventurestudios.com/2026/07/28/sovereignty-is-a-substrate/",
+    "title": "Sovereignty is a substrate"
   },
   {
     "source": "lobsters",
-    "url": "https://starling.build",
-    "title": "Starling, a Linux Desktop written from scratch"
+    "url": "https://tomekw.com/overengineered-calculator-zig-qbe/",
+    "title": "Overengineered calculator: Zig + QBE"
   },
   {
     "source": "lobsters",
-    "url": "https://kernelkennel.com/blog/where-is-the-middle-space/",
-    "title": "Where are the third places for learners?"
+    "url": "https://var0.xyz/posts/what-even-are-microservices.html",
+    "title": "What even are microservices?"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://hondu.co/blog/building-systems-software",
+    "title": "Building (systems) software with Nix"
   },
   {
     "source": "lobsters",
     "url": "https://blog.doubleword.ai/you-could-have-come-up-with-kimi-delta-attention",
     "title": "You Could Have Come Up With Kimi Delta Attention"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://negroniventurestudios.com/2026/07/28/sovereignty-is-a-substrate/",
-    "title": "Sovereignty is a substrate"
   },
   {
     "source": "pinboard",
