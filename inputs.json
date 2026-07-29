@@ -1,6 +1,11 @@
 [
   {
     "source": "hn",
+    "url": "https://christianselig.com/2026/07/vision-pro-house/",
+    "title": "The coolest use for the Vision Pro"
+  },
+  {
+    "source": "hn",
     "url": "https://www.kimi.com/code/docs/en/kimi-code/models",
     "title": "Kimi K3-256k"
   },
@@ -11,8 +16,8 @@
   },
   {
     "source": "hn",
-    "url": "https://www.brightsaver.org/balcony-solar-kits",
-    "title": "Balcony Solar: $1.74/watt direct plug-in solar"
+    "url": "https://firstprinciples.com/blog-article/ai-system-theo-conjecture-solves-35-year-old-math-conjecture",
+    "title": "Theo Conjecture solves 35-year-old math problem, finds a term no one predicted"
   },
   {
     "source": "hn",
@@ -21,18 +26,18 @@
   },
   {
     "source": "hn",
-    "url": "https://theloop.ecpr.eu/who-the-welfare-state-protects-shapes-a-countrys-financial-openness/",
-    "title": "Who the welfare state protects shapes a country’s financial openness"
-  },
-  {
-    "source": "hn",
-    "url": "https://prilik.com/blog/post/automating-ac-nyc/",
-    "title": "Turning a Dumb AC Unit Smart (Without Losing My Security Deposit)"
+    "url": "https://dogdogfish.com/blog/2026/07/29/a-trampoline/",
+    "title": "A Trampoline"
   },
   {
     "source": "hn",
     "url": "https://status.claude.com/incidents/q2kg8n613kr3",
-    "title": "Claude Is Down"
+    "title": "Claude: Elevated errors across all models"
+  },
+  {
+    "source": "hn",
+    "url": "https://prilik.com/blog/post/automating-ac-nyc/",
+    "title": "Turning a dumb AC unit smart (without losing my security deposit)"
   },
   {
     "source": "hn",
@@ -41,23 +46,28 @@
   },
   {
     "source": "hn",
-    "url": "https://blog.cryptographyengineering.com/2026/07/29/some-notes-about-anthropics-new-results/",
-    "title": "Some thoughts about Anthropic's new cryptanalysis results"
-  },
-  {
-    "source": "hn",
     "url": "https://www.emergingtrajectories.com/lh/commodification-and-circularity/",
     "title": "Commodification of Intelligence: Good, Bad, and Ugly Circular AI Deals"
   },
   {
     "source": "hn",
-    "url": "https://docs.espressif.com/projects/rust/book/",
-    "title": "The Rust on ESP Book"
+    "url": "https://blog.cryptographyengineering.com/2026/07/29/some-notes-about-anthropics-new-results/",
+    "title": "Some thoughts about Anthropic's new cryptanalysis results"
+  },
+  {
+    "source": "hn",
+    "url": "https://usetokenless.com/",
+    "title": "Launch HN: Tokenless (YC S26) – Automatic model switching to save money"
   },
   {
     "source": "hn",
     "url": "https://www.darktable.org/",
     "title": "Darktable"
+  },
+  {
+    "source": "hn",
+    "url": "https://docs.espressif.com/projects/rust/book/",
+    "title": "The Rust on ESP Book"
   },
   {
     "source": "hn",
@@ -71,23 +81,8 @@
   },
   {
     "source": "hn",
-    "url": "https://usetokenless.com/",
-    "title": "Launch HN: Tokenless (YC S26) – Automatic model switching to save money"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.jefftk.com/p/learning-musical-multitasking",
-    "title": "Learning Musical Multitasking"
-  },
-  {
-    "source": "hn",
     "url": "https://www.claire-blackshaw.com/blog/2026/07/shipping-godot-vr-and-porting-to-psvr2-a-partial-post-mortem/",
     "title": "Shipping Godot VR and Porting to PSVR2: A Partial Post Mortem"
-  },
-  {
-    "source": "hn",
-    "url": "https://tailscale.com/blog/jailbroken-kindle-proxy-tun-modes",
-    "title": "More Tailscale tricks for your jailbroken Kindle"
   },
   {
     "source": "lobsters",
@@ -101,6 +96,11 @@
   },
   {
     "source": "lobsters",
+    "url": "https://cheriot.org/silicon/2026/03/04/cheriot-first-silicon.html",
+    "title": "First CHERIoT Silicon"
+  },
+  {
+    "source": "lobsters",
     "url": "https://mlugg.co.uk/posts/incremental-compilation-internals/",
     "title": "Inside Zig's Incremental Compilation"
   },
@@ -111,8 +111,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://cheriot.org/silicon/2026/03/04/cheriot-first-silicon.html",
-    "title": "First CHERIoT Silicon"
+    "url": "https://www.chiply.dev/post-hyperbole-implicit-buttons",
+    "title": "GNU Hyperbole Implicit Buttons: Build your Hyperverse"
   },
   {
     "source": "lobsters",
@@ -121,8 +121,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://www.chiply.dev/post-hyperbole-implicit-buttons",
-    "title": "GNU Hyperbole Implicit Buttons: Build your Hyperverse"
+    "url": "https://gleam.run/news/a-field-day-for-gleams-language-server/",
+    "title": "A field day for Gleam’s language server | Gleam v.1.18.0 release"
   },
   {
     "source": "lobsters",
@@ -131,23 +131,23 @@
   },
   {
     "source": "lobsters",
-    "url": "https://gleam.run/news/a-field-day-for-gleams-language-server/",
-    "title": "A field day for Gleam’s language server | Gleam v.1.18.0 release"
-  },
-  {
-    "source": "lobsters",
     "url": "https://blinry.org/multi-seat-wayland/",
     "title": "State of multi-player Wayland"
   },
   {
     "source": "lobsters",
-    "url": "https://blog.tymscar.com/posts/opensourcedimmer/",
-    "title": "I Designed A Custom PCB To Avoid Pressing A Button Three Times"
+    "url": "https://www.elbeno.com/blog/?p=1858",
+    "title": "const_cast: A Necessary Evil"
   },
   {
     "source": "lobsters",
-    "url": "https://www.elbeno.com/blog/?p=1858",
-    "title": "const_cast: A Necessary Evil"
+    "url": "https://anirudh.fi/strain",
+    "title": "The strain in your brain"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://blog.tymscar.com/posts/opensourcedimmer/",
+    "title": "I Designed A Custom PCB To Avoid Pressing A Button Three Times"
   },
   {
     "source": "lobsters",
@@ -166,87 +166,7 @@
   },
   {
     "source": "lobsters",
-    "url": "https://cgicoffee.com/blog/2026/04/tcl-tk-develop-cross-platform-cli-gui-tools-tutorial-guide",
-    "title": "Develop Cross-Platform CLI and GUI Tools With Tcl/Tk"
-  },
-  {
-    "source": "lobsters",
     "url": "https://emacsredux.com/blog/2026/07/29/flycheck-38/",
     "title": "Flycheck 38: Might & Magic"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://nikolays.github.io/PGSimCity/",
-    "title": "PGSimCity · How PostgreSQL Works, in 3D"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://franktisellano.github.io/datatype/",
-    "title": "Datatype — variable font that turns text into charts"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://refp.se/articles/your-shell-and-the-magic-colon",
-    "title": "A shell colon does nothing. Use it anyway. | Filip Roséen - refp.se"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://beyondloom.com/decker/",
-    "title": "decker"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://killthecookiebanner.eu/",
-    "title": "Kill the Cookie Banner!"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.worseonpurpose.com/p/your-cookware-got-worse-on-purpose",
-    "title": "Your Cookware Got Worse On Purpose: Who Owns Pyrex & All-Clad Now"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://fermisense.com/when-machines-take-the-wheel/",
-    "title": "The Rise of Intelligence Ownership: a task-trained open source model vs the frontier"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://gregoryszorc.com/docs/python-build-standalone/main/",
-    "title": "Python Standalone Builds — python-build-standalone documentation"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.macrumors.com/2026/07/27/ed-zitron-apple-watch-it-burn-ai-bubble-bursts/",
-    "title": "Ed Zitron: Apple Will 'Watch Everything Burn' When the AI Bubble Bursts - MacRumors"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://tangled.org/oppi.li/stinkpot",
-    "title": "oppi.li/stinkpot at main · Tangled"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://glyphack.com/attention/",
-    "title": "It's getting harder to focus every day | Glyphack"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.pement.org/sed/make_indexes.txt",
-    "title": "pement.org/sed/make_indexes.txt"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://news.ycombinator.com/item?id=49063754",
-    "title": "PGSimCity - How PostgreSQL Works | Hacker News"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://images.nvidia.com/pdf/Open-Weights-and-American-AI-Leadership.pdf",
-    "title": "Open-Weights-and-American-AI-Leadership (NVIDIA, ...)"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.not-ship.com/large-numbers/",
-    "title": "Understanding large values: It's our ethical duty"
   }
 ]
