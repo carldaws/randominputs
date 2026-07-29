@@ -1,18 +1,33 @@
 [
   {
     "source": "hn",
+    "url": "https://www.superlogical.com/",
+    "title": "Superlogical"
+  },
+  {
+    "source": "hn",
     "url": "https://koreader.rocks/",
     "title": "KOReader"
   },
   {
     "source": "hn",
-    "url": "https://www.superlogical.com/",
-    "title": "Mitchellh starts a new company: Superlogical"
+    "url": "https://blog.cryptographyengineering.com/2026/07/29/some-notes-about-anthropics-new-results/",
+    "title": "Some thoughts about Anthropic's new cryptanalysis results"
   },
   {
     "source": "hn",
-    "url": "https://huggingface-anatomy-of-frontier-lab-model-intrusion.static.hf.space/index.html",
-    "title": "Hugging Face: Anatomy of a frontier-lab agent intrusion"
+    "url": "https://enklypesalt.com/posts/context-collapse-part3-ai-worming-through-word/",
+    "title": "Document-borne AI worms can self-propagate through Copilot for Word"
+  },
+  {
+    "source": "hn",
+    "url": "https://docs.espressif.com/projects/rust/book/",
+    "title": "The Rust on ESP Book"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.darktable.org/",
+    "title": "Darktable"
   },
   {
     "source": "hn",
@@ -26,28 +41,13 @@
   },
   {
     "source": "hn",
-    "url": "https://www.claire-blackshaw.com/blog/2026/07/shipping-godot-vr-and-porting-to-psvr2-a-partial-post-mortem/",
-    "title": "Shipping Godot VR and Porting to PSVR2: A Partial Post Mortem"
-  },
-  {
-    "source": "hn",
-    "url": "https://enklypesalt.com/posts/context-collapse-part3-ai-worming-through-word/",
-    "title": "Document-borne AI worms can self-propagate through Copilot for Word"
-  },
-  {
-    "source": "hn",
-    "url": "https://cesium.com/events/cesium-developer-conference/2026/",
-    "title": "Cesium DevCon 2026 talks are up, including a keynote from SQLite's creator"
-  },
-  {
-    "source": "hn",
     "url": "https://aistack.imec-int.com/blog/gpu-self-hosting",
     "title": "Self-hosting Kimi K3: 20% more hardware cost, 20% better task resolution"
   },
   {
     "source": "hn",
-    "url": "https://www.darktable.org/",
-    "title": "Darktable"
+    "url": "https://www.claire-blackshaw.com/blog/2026/07/shipping-godot-vr-and-porting-to-psvr2-a-partial-post-mortem/",
+    "title": "Shipping Godot VR and Porting to PSVR2: A Partial Post Mortem"
   },
   {
     "source": "hn",
@@ -61,13 +61,18 @@
   },
   {
     "source": "hn",
+    "url": "https://www.jefftk.com/p/learning-musical-multitasking",
+    "title": "Learning Musical Multitasking"
+  },
+  {
+    "source": "hn",
     "url": "https://amiga.lychesis.net/index.html",
     "title": "Amiga Graphics Archive"
   },
   {
     "source": "hn",
-    "url": "https://chupacabra.bearblog.dev/i-want-to-leave-the-internet/",
-    "title": "I Want to Leave the Internet"
+    "url": "https://cesium.com/events/cesium-developer-conference/2026/",
+    "title": "Cesium DevCon 2026 talks are up, including a keynote from SQLite's creator"
   },
   {
     "source": "hn",
@@ -76,13 +81,13 @@
   },
   {
     "source": "hn",
-    "url": "https://docs.imiron.io/v/0.5.10/en/tour.html",
-    "title": "SpecForge – A Platform for Authoring Formal Specifications"
+    "url": "https://letoverlambda.com/textmode.cl/guest/chap8.html",
+    "title": "Lisp moving Forth moving Lisp"
   },
   {
     "source": "hn",
-    "url": "https://letoverlambda.com/textmode.cl/guest/chap8.html",
-    "title": "Lisp moving Forth moving Lisp"
+    "url": "https://docs.imiron.io/v/0.5.10/en/tour.html",
+    "title": "SpecForge – A Platform for Authoring Formal Specifications"
   },
   {
     "source": "lobsters",
@@ -111,23 +116,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://blog.cryptographyengineering.com/2026/07/29/some-notes-about-anthropics-new-results/",
-    "title": "Some notes about Anthropic’s new results"
-  },
-  {
-    "source": "lobsters",
     "url": "https://www.chiply.dev/post-hyperbole-implicit-buttons",
     "title": "GNU Hyperbole Implicit Buttons: Build your Hyperverse"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://blinry.org/multi-seat-wayland/",
-    "title": "State of multi-player Wayland"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://blog.tymscar.com/posts/opensourcedimmer/",
-    "title": "I Designed A Custom PCB To Avoid Pressing A Button Three Times"
   },
   {
     "source": "lobsters",
@@ -136,18 +126,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://fzakaria.com/2026/07/27/the-mean-means-nothing",
-    "title": "The mean means nothing"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://cgicoffee.com/blog/2026/04/tcl-tk-develop-cross-platform-cli-gui-tools-tutorial-guide",
-    "title": "Develop Cross-Platform CLI and GUI Tools With Tcl/Tk"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://www.sandordargo.com/blog/2026/07/29/cpp26-reduces-undefined-behaviour",
-    "title": "C++26: Reducing undefined behaviour"
+    "url": "https://blinry.org/multi-seat-wayland/",
+    "title": "State of multi-player Wayland"
   },
   {
     "source": "lobsters",
@@ -156,8 +136,33 @@
   },
   {
     "source": "lobsters",
-    "url": "https://intertwingly.net/blog/2026/07/28/What-Happens-After-You-IPO.html",
-    "title": "Lobste.rs on Spinel"
+    "url": "https://blog.tymscar.com/posts/opensourcedimmer/",
+    "title": "I Designed A Custom PCB To Avoid Pressing A Button Three Times"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://fzakaria.com/2026/07/27/the-mean-means-nothing",
+    "title": "The mean means nothing"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://cheriot.org/silicon/2026/03/04/cheriot-first-silicon.html",
+    "title": "First CHERIoT Silicon"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://www.sandordargo.com/blog/2026/07/29/cpp26-reduces-undefined-behaviour",
+    "title": "C++26: Reducing undefined behaviour"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://www.elbeno.com/blog/?p=1858",
+    "title": "const_cast: A Necessary Evil"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://cgicoffee.com/blog/2026/04/tcl-tk-develop-cross-platform-cli-gui-tools-tutorial-guide",
+    "title": "Develop Cross-Platform CLI and GUI Tools With Tcl/Tk"
   },
   {
     "source": "lobsters",
@@ -165,78 +170,8 @@
     "title": "Sovereignty is a substrate"
   },
   {
-    "source": "pinboard",
-    "url": "https://nikolays.github.io/PGSimCity/",
-    "title": "PGSimCity · How PostgreSQL Works, in 3D"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://franktisellano.github.io/datatype/",
-    "title": "Datatype — variable font that turns text into charts"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://refp.se/articles/your-shell-and-the-magic-colon",
-    "title": "A shell colon does nothing. Use it anyway. | Filip Roséen - refp.se"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://beyondloom.com/decker/",
-    "title": "decker"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://killthecookiebanner.eu/",
-    "title": "Kill the Cookie Banner!"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.worseonpurpose.com/p/your-cookware-got-worse-on-purpose",
-    "title": "Your Cookware Got Worse On Purpose: Who Owns Pyrex & All-Clad Now"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://fermisense.com/when-machines-take-the-wheel/",
-    "title": "The Rise of Intelligence Ownership: a task-trained open source model vs the frontier"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://gregoryszorc.com/docs/python-build-standalone/main/",
-    "title": "Python Standalone Builds — python-build-standalone documentation"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.macrumors.com/2026/07/27/ed-zitron-apple-watch-it-burn-ai-bubble-bursts/",
-    "title": "Ed Zitron: Apple Will 'Watch Everything Burn' When the AI Bubble Bursts - MacRumors"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://tangled.org/oppi.li/stinkpot",
-    "title": "oppi.li/stinkpot at main · Tangled"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://glyphack.com/attention/",
-    "title": "It's getting harder to focus every day | Glyphack"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.pement.org/sed/make_indexes.txt",
-    "title": "pement.org/sed/make_indexes.txt"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://news.ycombinator.com/item?id=49063754",
-    "title": "PGSimCity - How PostgreSQL Works | Hacker News"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://images.nvidia.com/pdf/Open-Weights-and-American-AI-Leadership.pdf",
-    "title": "Open-Weights-and-American-AI-Leadership (NVIDIA, ...)"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.not-ship.com/large-numbers/",
-    "title": "Understanding large values: It's our ethical duty"
+    "source": "lobsters",
+    "url": "https://emacsredux.com/blog/2026/07/29/flycheck-38/",
+    "title": "Flycheck 38: Might & Magic"
   }
 ]
