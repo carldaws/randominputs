@@ -11,8 +11,23 @@
   },
   {
     "source": "hn",
+    "url": "https://llm2human.pages.dev/",
+    "title": "LLM Honeypot"
+  },
+  {
+    "source": "hn",
     "url": "https://zachholman.com/posts/cold-email",
     "title": "The Cold Email"
+  },
+  {
+    "source": "hn",
+    "url": "https://frantic.im/mirage/",
+    "title": "The Productivity Mirage"
+  },
+  {
+    "source": "hn",
+    "url": "https://koreader.rocks/",
+    "title": "KOReader"
   },
   {
     "source": "hn",
@@ -21,8 +36,13 @@
   },
   {
     "source": "hn",
-    "url": "https://koreader.rocks/",
-    "title": "KOReader"
+    "url": "https://www.staszewski.xyz/blog/recursive-filters/",
+    "title": "Recursive Filters: SMA, EMA, Low‑Pass, and a Tiny Kalman"
+  },
+  {
+    "source": "hn",
+    "url": "https://enklypesalt.com/posts/context-collapse-part3-ai-worming-through-word/",
+    "title": "Document-borne AI worms can self-propagate through Copilot for Word"
   },
   {
     "source": "hn",
@@ -36,8 +56,8 @@
   },
   {
     "source": "hn",
-    "url": "https://enklypesalt.com/posts/context-collapse-part3-ai-worming-through-word/",
-    "title": "Document-borne AI worms can self-propagate through Copilot for Word"
+    "url": "https://archive.org/details/mancomputerbyjoh0000john",
+    "title": "Man and the Computer by John G. Kemeny (1972 book by the co-creator of BASIC)"
   },
   {
     "source": "hn",
@@ -46,23 +66,8 @@
   },
   {
     "source": "hn",
-    "url": "https://archive.org/details/mancomputerbyjoh0000john",
-    "title": "Man and the Computer by John G. Kemeny (1972 book by the co-creator of BASIC)"
-  },
-  {
-    "source": "hn",
     "url": "https://www.emergingtrajectories.com/lh/commodification-and-circularity/",
     "title": "Commodification of Intelligence: Good, Bad, and Ugly Circular AI Deals"
-  },
-  {
-    "source": "hn",
-    "url": "https://usetokenless.com/",
-    "title": "Launch HN: Tokenless (YC S26) – Automatic model switching to save money"
-  },
-  {
-    "source": "hn",
-    "url": "https://quuxplusone.github.io/blog/2026/07/26/function-explosion/",
-    "title": "Interconverting std::function with copyable_function"
   },
   {
     "source": "hn",
@@ -71,18 +76,13 @@
   },
   {
     "source": "hn",
+    "url": "https://usetokenless.com/",
+    "title": "Launch HN: Tokenless (YC S26) – Automatic model switching to save money"
+  },
+  {
+    "source": "hn",
     "url": "https://blog.cryptographyengineering.com/2026/07/29/some-notes-about-anthropics-new-results/",
     "title": "Some thoughts about Anthropic's new cryptanalysis results"
-  },
-  {
-    "source": "hn",
-    "url": "https://llm2human.pages.dev/",
-    "title": "LLM Honeypot"
-  },
-  {
-    "source": "hn",
-    "url": "https://alsterrunde.com/hamburgs-stadtpark-a-park-built-to-be-used/",
-    "title": "Hamburg's Stadtpark: A Park Built to Be Used"
   },
   {
     "source": "hn",
@@ -91,8 +91,8 @@
   },
   {
     "source": "hn",
-    "url": "https://aistack.imec-int.com/blog/gpu-self-hosting",
-    "title": "Self-hosting Kimi K3: 20% more hardware cost, 20% better task resolution"
+    "url": "https://alsterrunde.com/hamburgs-stadtpark-a-park-built-to-be-used/",
+    "title": "Hamburg's Stadtpark: A Park Built to Be Used"
   },
   {
     "source": "lobsters",
@@ -101,28 +101,18 @@
   },
   {
     "source": "lobsters",
-    "url": "https://tomekw.com/overengineered-calculator-zig-qbe/",
-    "title": "Overengineered calculator: Zig + QBE"
-  },
-  {
-    "source": "lobsters",
     "url": "https://cheriot.org/silicon/2026/03/04/cheriot-first-silicon.html",
     "title": "First CHERIoT Silicon"
   },
   {
     "source": "lobsters",
+    "url": "https://tomekw.com/overengineered-calculator-zig-qbe/",
+    "title": "Overengineered calculator: Zig + QBE"
+  },
+  {
+    "source": "lobsters",
     "url": "https://www.chiply.dev/post-hyperbole-implicit-buttons",
     "title": "GNU Hyperbole Implicit Buttons: Build your Hyperverse"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://joomy.korkutblech.com/posts/2026-07-28-why-rocq-is-better.html",
-    "title": "Why Rocq is better than Lean for program verification"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://mlugg.co.uk/posts/incremental-compilation-internals/",
-    "title": "Inside Zig's Incremental Compilation"
   },
   {
     "source": "lobsters",
@@ -136,13 +126,23 @@
   },
   {
     "source": "lobsters",
-    "url": "https://blog.jsbarretto.com/post/software-is-joy",
-    "title": "Writing Toy Software Is A Joy (2025)"
+    "url": "https://joomy.korkutblech.com/posts/2026-07-28-why-rocq-is-better.html",
+    "title": "Why Rocq is better than Lean for program verification"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://mlugg.co.uk/posts/incremental-compilation-internals/",
+    "title": "Inside Zig's Incremental Compilation"
   },
   {
     "source": "lobsters",
     "url": "https://lynn.github.io/blog/pico-timers/",
     "title": "Setting timers in simple games (feat. the frame rule)"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://blog.jsbarretto.com/post/software-is-joy",
+    "title": "Writing Toy Software Is A Joy (2025)"
   },
   {
     "source": "lobsters",
