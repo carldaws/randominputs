@@ -16,18 +16,18 @@
   },
   {
     "source": "hn",
-    "url": "https://zachholman.com/posts/cold-email",
-    "title": "The Cold Email"
-  },
-  {
-    "source": "hn",
     "url": "https://frantic.im/mirage/",
     "title": "The Productivity Mirage"
   },
   {
     "source": "hn",
-    "url": "https://koreader.rocks/",
-    "title": "KOReader"
+    "url": "https://zachholman.com/posts/cold-email",
+    "title": "The Cold Email"
+  },
+  {
+    "source": "hn",
+    "url": "https://logicforprogrammers.com/",
+    "title": "Logic for Programmers"
   },
   {
     "source": "hn",
@@ -36,38 +36,8 @@
   },
   {
     "source": "hn",
-    "url": "https://www.staszewski.xyz/blog/recursive-filters/",
-    "title": "Recursive Filters: SMA, EMA, Low‑Pass, and a Tiny Kalman"
-  },
-  {
-    "source": "hn",
-    "url": "https://enklypesalt.com/posts/context-collapse-part3-ai-worming-through-word/",
-    "title": "Document-borne AI worms can self-propagate through Copilot for Word"
-  },
-  {
-    "source": "hn",
-    "url": "https://dogdogfish.com/blog/2026/07/29/a-trampoline/",
-    "title": "A Trampoline"
-  },
-  {
-    "source": "hn",
-    "url": "https://prilik.com/blog/post/automating-ac-nyc/",
-    "title": "Turning a dumb AC unit smart (without losing my security deposit)"
-  },
-  {
-    "source": "hn",
-    "url": "https://archive.org/details/mancomputerbyjoh0000john",
-    "title": "Man and the Computer by John G. Kemeny (1972 book by the co-creator of BASIC)"
-  },
-  {
-    "source": "hn",
-    "url": "https://iza.ac/posts/2026/07/the-journey-of-bamya/",
-    "title": "Refactoring cuisine: how an Iraqi stew sailed to Singapore"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.emergingtrajectories.com/lh/commodification-and-circularity/",
-    "title": "Commodification of Intelligence: Good, Bad, and Ugly Circular AI Deals"
+    "url": "https://noelo.org/blog/kuna-release/",
+    "title": "Kuna: Decompiler Development in the Age of Coding Agents"
   },
   {
     "source": "hn",
@@ -76,8 +46,18 @@
   },
   {
     "source": "hn",
-    "url": "https://usetokenless.com/",
-    "title": "Launch HN: Tokenless (YC S26) – Automatic model switching to save money"
+    "url": "https://prilik.com/blog/post/automating-ac-nyc/",
+    "title": "Turning a dumb AC unit smart (without losing my security deposit)"
+  },
+  {
+    "source": "hn",
+    "url": "https://dogdogfish.com/blog/2026/07/29/a-trampoline/",
+    "title": "A Trampoline"
+  },
+  {
+    "source": "hn",
+    "url": "https://archive.org/details/mancomputerbyjoh0000john",
+    "title": "Man and the Computer by John G. Kemeny (1972 book by the co-creator of BASIC)"
   },
   {
     "source": "hn",
@@ -86,8 +66,28 @@
   },
   {
     "source": "hn",
+    "url": "https://usetokenless.com/",
+    "title": "Launch HN: Tokenless (YC S26) – Automatic model switching to save money"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.staszewski.xyz/blog/recursive-filters/",
+    "title": "Recursive Filters: SMA, EMA, Low‑Pass, and a Tiny Kalman"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.emergingtrajectories.com/lh/commodification-and-circularity/",
+    "title": "Commodification of Intelligence: Good, Bad, and Ugly Circular AI Deals"
+  },
+  {
+    "source": "hn",
     "url": "https://docs.espressif.com/projects/rust/book/",
     "title": "The Rust on ESP Book"
+  },
+  {
+    "source": "hn",
+    "url": "https://iza.ac/posts/2026/07/the-journey-of-bamya/",
+    "title": "Refactoring cuisine: how an Iraqi stew sailed to Singapore"
   },
   {
     "source": "hn",
@@ -131,13 +131,18 @@
   },
   {
     "source": "lobsters",
+    "url": "https://lynn.github.io/blog/pico-timers/",
+    "title": "Setting timers in simple games (feat. the frame rule)"
+  },
+  {
+    "source": "lobsters",
     "url": "https://mlugg.co.uk/posts/incremental-compilation-internals/",
     "title": "Inside Zig's Incremental Compilation"
   },
   {
     "source": "lobsters",
-    "url": "https://lynn.github.io/blog/pico-timers/",
-    "title": "Setting timers in simple games (feat. the frame rule)"
+    "url": "https://kttnr.net/blog/cpp-float-to-int-conversion-undefined-behavior/",
+    "title": "C++ float-to-int conversion can be undefined behavior"
   },
   {
     "source": "lobsters",
@@ -156,6 +161,11 @@
   },
   {
     "source": "lobsters",
+    "url": "https://emacsredux.com/blog/2026/07/29/flycheck-38/",
+    "title": "Flycheck 38: Might & Magic"
+  },
+  {
+    "source": "lobsters",
     "url": "https://blog.tymscar.com/posts/opensourcedimmer/",
     "title": "I Designed A Custom PCB To Avoid Pressing A Button Three Times"
   },
@@ -166,17 +176,82 @@
   },
   {
     "source": "lobsters",
-    "url": "https://emacsredux.com/blog/2026/07/29/flycheck-38/",
-    "title": "Flycheck 38: Might & Magic"
+    "url": "https://enklypesalt.com/posts/context-collapse-part3-ai-worming-through-word/",
+    "title": "Copilot will propagate a malicious worm from one Word document to another"
   },
   {
-    "source": "lobsters",
-    "url": "https://fzakaria.com/2026/07/27/the-mean-means-nothing",
-    "title": "The mean means nothing"
+    "source": "pinboard",
+    "url": "https://nikolays.github.io/PGSimCity/",
+    "title": "PGSimCity · How PostgreSQL Works, in 3D"
   },
   {
-    "source": "lobsters",
-    "url": "https://www.sandordargo.com/blog/2026/07/29/cpp26-reduces-undefined-behaviour",
-    "title": "C++26: Reducing undefined behaviour"
+    "source": "pinboard",
+    "url": "https://franktisellano.github.io/datatype/",
+    "title": "Datatype — variable font that turns text into charts"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://refp.se/articles/your-shell-and-the-magic-colon",
+    "title": "A shell colon does nothing. Use it anyway. | Filip Roséen - refp.se"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://beyondloom.com/decker/",
+    "title": "decker"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://killthecookiebanner.eu/",
+    "title": "Kill the Cookie Banner!"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.worseonpurpose.com/p/your-cookware-got-worse-on-purpose",
+    "title": "Your Cookware Got Worse On Purpose: Who Owns Pyrex & All-Clad Now"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://fermisense.com/when-machines-take-the-wheel/",
+    "title": "The Rise of Intelligence Ownership: a task-trained open source model vs the frontier"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://gregoryszorc.com/docs/python-build-standalone/main/",
+    "title": "Python Standalone Builds — python-build-standalone documentation"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.macrumors.com/2026/07/27/ed-zitron-apple-watch-it-burn-ai-bubble-bursts/",
+    "title": "Ed Zitron: Apple Will 'Watch Everything Burn' When the AI Bubble Bursts - MacRumors"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://tangled.org/oppi.li/stinkpot",
+    "title": "oppi.li/stinkpot at main · Tangled"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://glyphack.com/attention/",
+    "title": "It's getting harder to focus every day | Glyphack"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.pement.org/sed/make_indexes.txt",
+    "title": "pement.org/sed/make_indexes.txt"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://news.ycombinator.com/item?id=49063754",
+    "title": "PGSimCity - How PostgreSQL Works | Hacker News"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://images.nvidia.com/pdf/Open-Weights-and-American-AI-Leadership.pdf",
+    "title": "Open-Weights-and-American-AI-Leadership (NVIDIA, ...)"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.not-ship.com/large-numbers/",
+    "title": "Understanding large values: It's our ethical duty"
   }
 ]
