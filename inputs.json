@@ -6,8 +6,8 @@
   },
   {
     "source": "hn",
-    "url": "https://dynomight.net/plants/",
-    "title": "So you want to use plants to reduce CO₂"
+    "url": "https://chriscoyier.net/2026/07/30/codepen-2-0/",
+    "title": "CodePen 2.0"
   },
   {
     "source": "hn",
@@ -21,13 +21,18 @@
   },
   {
     "source": "hn",
-    "url": "https://chriscoyier.net/2026/07/30/codepen-2-0/",
-    "title": "CodePen 2.0"
+    "url": "https://www.bottlenecklabs.com/blog/autonomously-run-businesses",
+    "title": "We Gave GPT 5.6 Sol a Real Business. It Lied, Spammed, and Lost $447"
   },
   {
     "source": "hn",
-    "url": "https://www.bottlenecklabs.com/blog/autonomously-run-businesses",
-    "title": "We Gave GPT 5.6 Sol a Real Business. It Lied, Spammed, and Lost $447"
+    "url": "https://dynomight.net/plants/",
+    "title": "So you want to use plants to reduce CO₂"
+  },
+  {
+    "source": "hn",
+    "url": "https://jssfr.de/2026-07-27-bad-apple-but-traceroute.html",
+    "title": "Bad Apple but It's Traceroute"
   },
   {
     "source": "hn",
@@ -41,8 +46,8 @@
   },
   {
     "source": "hn",
-    "url": "https://prized.dev",
-    "title": "Launch HN: Prized (YC S26) – Let non-engineer staff build secure internal tools"
+    "url": "https://www.lysk.ai/post/wiring-radios-to-laptops-the-hard-way",
+    "title": "One Ring to Rule Them All: Wiring Radios to Laptops the Hard Way"
   },
   {
     "source": "hn",
@@ -51,8 +56,8 @@
   },
   {
     "source": "hn",
-    "url": "https://www.projectpluto.com/25010d.htm",
-    "title": "Upper stage impacting the moon on 2026 August 5"
+    "url": "https://prized.dev",
+    "title": "Launch HN: Prized (YC S26) – Let non-engineer staff build secure internal tools"
   },
   {
     "source": "hn",
@@ -61,8 +66,13 @@
   },
   {
     "source": "hn",
-    "url": "https://solar.lowtechmagazine.com/2025/07/how-to-mount-a-balcony-awning/",
-    "title": "How to Mount a Balcony Awning (2025)"
+    "url": "https://www.projectpluto.com/25010d.htm",
+    "title": "Upper stage impacting the moon on 2026 August 5"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.grumpygamer.com/twp2_announce/",
+    "title": "Ron Gilbert started production on Thimbleweed Park 2"
   },
   {
     "source": "lobsters",
@@ -86,13 +96,23 @@
   },
   {
     "source": "lobsters",
-    "url": "https://po-ru.com/2026/07/29/it-doesnt-matter-whether-matz-is-nice",
-    "title": "It doesn’t matter whether “Matz is nice”"
+    "url": "https://maurycyz.com/misc/tungsten/",
+    "title": "You have been mislead about lightbulbs"
   },
   {
     "source": "lobsters",
     "url": "https://logicforprogrammers.com/",
     "title": "Logic for Programmers"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://po-ru.com/2026/07/29/it-doesnt-matter-whether-matz-is-nice",
+    "title": "It doesn’t matter whether “Matz is nice”"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://labs.quansight.org/blog/scaling-numpy-on-free-threaded-python",
+    "title": "Scaling NumPy on Free-Threaded Python"
   },
   {
     "source": "lobsters",
@@ -111,18 +131,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://labs.quansight.org/blog/scaling-numpy-on-free-threaded-python",
-    "title": "Scaling NumPy on Free-Threaded Python"
+    "url": "https://unplannedobsolescence.com/blog/buttons-vs-links/",
+    "title": "The Difference Between a Button and a Link"
   },
   {
     "source": "lobsters",
     "url": "https://tomekw.com/overengineered-calculator-zig-qbe/",
     "title": "Overengineered calculator: Zig + QBE"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://unplannedobsolescence.com/blog/buttons-vs-links/",
-    "title": "The Difference Between a Button and a Link"
   },
   {
     "source": "lobsters",
@@ -138,10 +153,5 @@
     "source": "lobsters",
     "url": "https://lynn.github.io/blog/pico-timers/",
     "title": "Setting timers in simple games (feat. the frame rule)"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://gleam.run/news/a-field-day-for-gleams-language-server/",
-    "title": "A field day for Gleam’s language server | Gleam v.1.18.0 release"
   }
 ]
