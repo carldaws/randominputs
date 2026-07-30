@@ -1,23 +1,18 @@
 [
   {
     "source": "hn",
-    "url": "https://bennuttall.com/blog/2026/07/gpiozero-flow/",
-    "title": "Gpiozero Flow"
+    "url": "https://remysharp.com/links/2026-07-23-35890312",
+    "title": "'VPNs are lawful technical tools,' says EU Court in landmark copyright ruling"
   },
   {
     "source": "hn",
-    "url": "https://docs.carolinacloud.io/organizations/prepaid-interest/",
-    "title": "Carolina Cloud pays SOFR on unused prepaid credits"
+    "url": "https://www.hillelwayne.com/post/why-dont-people-use-formal-methods/",
+    "title": "Why Don't People Use Formal Methods? (2019)"
   },
   {
     "source": "hn",
-    "url": "https://christianselig.com/2026/07/vision-pro-house/",
-    "title": "The coolest use for the Vision Pro"
-  },
-  {
-    "source": "hn",
-    "url": "https://en.wikipedia.org/wiki/Azulejo",
-    "title": "Azulejo"
+    "url": "https://prized.dev",
+    "title": "Launch HN: Prized (YC S26) – Let non-engineer staff build secure internal tools"
   },
   {
     "source": "hn",
@@ -26,8 +21,43 @@
   },
   {
     "source": "hn",
-    "url": "https://by.seiko-design.com/140th/en/topic/58.html",
-    "title": "The first watch featuring computer functions"
+    "url": "https://bennuttall.com/blog/2026/07/gpiozero-flow/",
+    "title": "Gpiozero Flow"
+  },
+  {
+    "source": "hn",
+    "url": "https://hackerpublicradio.org/",
+    "title": "Hacker Public Radio"
+  },
+  {
+    "source": "hn",
+    "url": "https://quuxplusone.github.io/blog/2026/07/29/how-old-is-ann/",
+    "title": "How Old Is Ann?"
+  },
+  {
+    "source": "hn",
+    "url": "https://thereader.mitpress.mit.edu/the-lost-civic-life-of-movie-rental-stores/",
+    "title": "The Lost Civic Life of Movie Rental Stores"
+  },
+  {
+    "source": "hn",
+    "url": "https://blog.certisfy.com/2026/04/trusted-urls-via-cryptographic.html",
+    "title": "Trusted URLs via Cryptographic Signatures"
+  },
+  {
+    "source": "hn",
+    "url": "https://docs.carolinacloud.io/organizations/prepaid-interest/",
+    "title": "Carolina Cloud pays SOFR on unused prepaid credits"
+  },
+  {
+    "source": "hn",
+    "url": "https://98.js.org/programs/pinball/space-cadet.html",
+    "title": "3D Pinball for Windows (1995)"
+  },
+  {
+    "source": "hn",
+    "url": "https://agiranker.com/",
+    "title": "Show HN: I audited my AI leaderboard scale – every score dropped 6-15 points"
   },
   {
     "source": "hn",
@@ -41,53 +71,28 @@
   },
   {
     "source": "hn",
+    "url": "https://hex.ooo/library/alicebob.html",
+    "title": "The Alice and Bob After Dinner Speech (1984)"
+  },
+  {
+    "source": "hn",
+    "url": "https://steelmanlabs.com/blog/computer-use-is-far-from-solved",
+    "title": "You can't solve computer use by ignoring the interface"
+  },
+  {
+    "source": "hn",
+    "url": "https://en.wikipedia.org/wiki/Azulejo",
+    "title": "Azulejo"
+  },
+  {
+    "source": "hn",
+    "url": "https://by.seiko-design.com/140th/en/topic/58.html",
+    "title": "The first watch featuring computer functions"
+  },
+  {
+    "source": "hn",
     "url": "https://frantic.im/mirage/",
     "title": "The Productivity Mirage"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.n16f.net/blog/concurrency-interactivity-mutability-choose-two/",
-    "title": "Concurrency, interactivity, mutability, choose two"
-  },
-  {
-    "source": "hn",
-    "url": "https://zachholman.com/posts/cold-email",
-    "title": "The Cold Email"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.bloomberg.com/news/articles/2026-07-29/chatgpt-roblox-to-fall-under-strictest-eu-rules-for-platforms",
-    "title": "ChatGPT, Roblox to Fall Under Strictest EU Rules for Platforms"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.qoitech.com/blog/esp32-c6-power-consumption-comparison/",
-    "title": "ESP32-C6 Power Consumption: Arduino vs. Zephyr vs. ESP-IDF Comparison"
-  },
-  {
-    "source": "hn",
-    "url": "https://logicforprogrammers.com/",
-    "title": "Logic for Programmers"
-  },
-  {
-    "source": "hn",
-    "url": "https://noelo.org/blog/kuna-release/",
-    "title": "Kuna: Decompiler Development in the Age of Coding Agents"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.kimi.com/code/docs/en/kimi-code/models",
-    "title": "Kimi K3-256k"
-  },
-  {
-    "source": "hn",
-    "url": "https://blog.cryptographyengineering.com/2026/07/29/some-notes-about-anthropics-new-results/",
-    "title": "Some thoughts about Anthropic's new cryptanalysis results"
-  },
-  {
-    "source": "hn",
-    "url": "https://prilik.com/blog/post/automating-ac-nyc/",
-    "title": "Turning a dumb AC unit smart (without losing my security deposit)"
   },
   {
     "source": "lobsters",
@@ -111,6 +116,11 @@
   },
   {
     "source": "lobsters",
+    "url": "https://www.rafa.ee/articles/progressive-enhanced-forms-htmx/",
+    "title": "Building Progressively Enhanced Forms Using htmx"
+  },
+  {
+    "source": "lobsters",
     "url": "https://tomekw.com/overengineered-calculator-zig-qbe/",
     "title": "Overengineered calculator: Zig + QBE"
   },
@@ -121,28 +131,18 @@
   },
   {
     "source": "lobsters",
-    "url": "https://gleam.run/news/a-field-day-for-gleams-language-server/",
-    "title": "A field day for Gleam’s language server | Gleam v.1.18.0 release"
+    "url": "https://crowdhailer.me/2026-07-30/a-universal-approach-to-mocking/",
+    "title": "A universal approach to mocking with continuations"
   },
   {
     "source": "lobsters",
-    "url": "https://lynn.github.io/blog/pico-timers/",
-    "title": "Setting timers in simple games (feat. the frame rule)"
+    "url": "https://blog.jim-nielsen.com/2026/ai-aesthetic/",
+    "title": "The AI Aesthetic"
   },
   {
     "source": "lobsters",
-    "url": "https://www.rafa.ee/articles/progressive-enhanced-forms-htmx/",
-    "title": "Building Progressively Enhanced Forms Using htmx"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://joomy.korkutblech.com/posts/2026-07-28-why-rocq-is-better.html",
-    "title": "Why Rocq is better than Lean for program verification"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://mlugg.co.uk/posts/incremental-compilation-internals/",
-    "title": "Inside Zig's Incremental Compilation"
+    "url": "https://blog.cryptographyengineering.com/2026/07/29/some-notes-about-anthropics-new-results/",
+    "title": "Some notes about Anthropic’s new results"
   },
   {
     "source": "lobsters",
@@ -151,17 +151,92 @@
   },
   {
     "source": "lobsters",
+    "url": "https://lynn.github.io/blog/pico-timers/",
+    "title": "Setting timers in simple games (feat. the frame rule)"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://gleam.run/news/a-field-day-for-gleams-language-server/",
+    "title": "A field day for Gleam’s language server | Gleam v.1.18.0 release"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://joomy.korkutblech.com/posts/2026-07-28-why-rocq-is-better.html",
+    "title": "Why Rocq is better than Lean for program verification"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://logicforprogrammers.com/",
+    "title": "Logic for Programmers"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://mlugg.co.uk/posts/incremental-compilation-internals/",
+    "title": "Inside Zig's Incremental Compilation"
+  },
+  {
+    "source": "lobsters",
     "url": "https://blog.jsbarretto.com/post/software-is-joy",
     "title": "Writing Toy Software Is A Joy (2025)"
   },
   {
     "source": "lobsters",
-    "url": "https://www.elbeno.com/blog/?p=1858",
-    "title": "const_cast: A Necessary Evil"
+    "url": "https://ethiack.com/info-hub/research/kindarails2shell-rails-rce-cve-2026-66066",
+    "title": "KindaRails2Shell - Critical RCE in Rails via Active Storage (CVE-2026-66066)"
   },
   {
-    "source": "lobsters",
-    "url": "https://emacsredux.com/blog/2026/07/29/flycheck-38/",
-    "title": "Flycheck 38: Might & Magic"
+    "source": "pinboard",
+    "url": "https://franktisellano.github.io/datatype/",
+    "title": "Datatype — variable font that turns text into charts"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://nikolays.github.io/PGSimCity/",
+    "title": "PGSimCity · How PostgreSQL Works, in 3D"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://micrologics.org/blog/sqlite-in-production-optimizing-wal-mode-concurrency-and-vfs-layers-for-low-latency-app-servers",
+    "title": "SQLite in Production: Optimizing WAL Mode, Concurrency, and VFS Layers for Low-Latency App Servers | Micrologics"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://fermisense.com/when-machines-take-the-wheel/",
+    "title": "The Rise of Intelligence Ownership: a task-trained open source model vs the frontier"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://gregoryszorc.com/docs/python-build-standalone/main/",
+    "title": "Python Standalone Builds — python-build-standalone documentation"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://beyondloom.com/decker/",
+    "title": "decker"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.macrumors.com/2026/07/27/ed-zitron-apple-watch-it-burn-ai-bubble-bursts/",
+    "title": "Ed Zitron: Apple Will 'Watch Everything Burn' When the AI Bubble Bursts - MacRumors"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://margin.at/",
+    "title": "Margin"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://christianselig.com/2026/07/vision-pro-house/",
+    "title": "The coolest use for the Vision Pro"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://docs.espressif.com/projects/rust/book/",
+    "title": "Introduction - The Rust on ESP Book"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://tailscale.com/blog/jailbroken-kindle-proxy-tun-modes",
+    "title": "Jailbroken Kindles can now do more with Tailscale"
   }
 ]
