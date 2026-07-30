@@ -6,6 +6,11 @@
   },
   {
     "source": "hn",
+    "url": "https://rune.build/blog/rune-1-1-release",
+    "title": "Rune 1.1: adds Python, an Emacs editor, a symbol index and is now free"
+  },
+  {
+    "source": "hn",
     "url": "https://chriscoyier.net/2026/07/30/codepen-2-0/",
     "title": "CodePen 2.0"
   },
@@ -16,23 +21,8 @@
   },
   {
     "source": "hn",
-    "url": "https://www.dbos.dev/blog/making-postgres-queues-scale",
-    "title": "Making Postgres queues scale"
-  },
-  {
-    "source": "hn",
     "url": "https://www.bottlenecklabs.com/blog/autonomously-run-businesses",
     "title": "We Gave GPT 5.6 Sol a Real Business. It Lied, Spammed, and Lost $447"
-  },
-  {
-    "source": "hn",
-    "url": "https://dynomight.net/plants/",
-    "title": "So you want to use plants to reduce CO₂"
-  },
-  {
-    "source": "hn",
-    "url": "https://jssfr.de/2026-07-27-bad-apple-but-traceroute.html",
-    "title": "Bad Apple but It's Traceroute"
   },
   {
     "source": "hn",
@@ -41,18 +31,33 @@
   },
   {
     "source": "hn",
+    "url": "https://www.dbos.dev/blog/making-postgres-queues-scale",
+    "title": "Making Postgres queues scale"
+  },
+  {
+    "source": "hn",
+    "url": "https://jssfr.de/2026-07-27-bad-apple-but-traceroute.html",
+    "title": "Bad Apple but It's Traceroute"
+  },
+  {
+    "source": "hn",
+    "url": "https://kedge.dev/",
+    "title": "Show HN: Kedge – Full-stack cloud with forkable VM snapshots and global SQLite"
+  },
+  {
+    "source": "hn",
     "url": "https://phulin.me/blog/poker/",
     "title": "Solving poker in custom WebGPU kernels"
   },
   {
     "source": "hn",
-    "url": "https://www.lysk.ai/post/wiring-radios-to-laptops-the-hard-way",
-    "title": "One Ring to Rule Them All: Wiring Radios to Laptops the Hard Way"
+    "url": "https://hackerpublicradio.org/",
+    "title": "Hacker Public Radio"
   },
   {
     "source": "hn",
-    "url": "https://hackerpublicradio.org/",
-    "title": "Hacker Public Radio"
+    "url": "https://www.projectpluto.com/25010d.htm",
+    "title": "Upper stage impacting the moon on 2026 August 5"
   },
   {
     "source": "hn",
@@ -63,16 +68,6 @@
     "source": "hn",
     "url": "https://thereader.mitpress.mit.edu/the-lost-civic-life-of-movie-rental-stores/",
     "title": "The lost civic life of movie rental stores"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.projectpluto.com/25010d.htm",
-    "title": "Upper stage impacting the moon on 2026 August 5"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.grumpygamer.com/twp2_announce/",
-    "title": "Ron Gilbert started production on Thimbleweed Park 2"
   },
   {
     "source": "lobsters",
@@ -86,6 +81,11 @@
   },
   {
     "source": "lobsters",
+    "url": "https://maurycyz.com/misc/tungsten/",
+    "title": "You have been mislead about lightbulbs"
+  },
+  {
+    "source": "lobsters",
     "url": "https://www.rafa.ee/articles/progressive-enhanced-forms-htmx/",
     "title": "Building Progressively Enhanced Forms Using htmx"
   },
@@ -96,13 +96,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://maurycyz.com/misc/tungsten/",
-    "title": "You have been mislead about lightbulbs"
+    "url": "https://logicforprogrammers.com/",
+    "title": "Logic for Programmers"
   },
   {
     "source": "lobsters",
-    "url": "https://logicforprogrammers.com/",
-    "title": "Logic for Programmers"
+    "url": "https://labs.quansight.org/blog/scaling-numpy-on-free-threaded-python",
+    "title": "Scaling NumPy on Free-Threaded Python"
   },
   {
     "source": "lobsters",
@@ -111,8 +111,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://labs.quansight.org/blog/scaling-numpy-on-free-threaded-python",
-    "title": "Scaling NumPy on Free-Threaded Python"
+    "url": "https://anirudh.fi/strain",
+    "title": "The strain in your brain"
   },
   {
     "source": "lobsters",
@@ -123,11 +123,6 @@
     "source": "lobsters",
     "url": "https://cheriot.org/silicon/2026/03/04/cheriot-first-silicon.html",
     "title": "First CHERIoT Silicon"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://anirudh.fi/strain",
-    "title": "The strain in your brain"
   },
   {
     "source": "lobsters",
@@ -153,5 +148,60 @@
     "source": "lobsters",
     "url": "https://lynn.github.io/blog/pico-timers/",
     "title": "Setting timers in simple games (feat. the frame rule)"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://franktisellano.github.io/datatype/",
+    "title": "Datatype — variable font that turns text into charts"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://nikolays.github.io/PGSimCity/",
+    "title": "PGSimCity · How PostgreSQL Works, in 3D"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://micrologics.org/blog/sqlite-in-production-optimizing-wal-mode-concurrency-and-vfs-layers-for-low-latency-app-servers",
+    "title": "SQLite in Production: Optimizing WAL Mode, Concurrency, and VFS Layers for Low-Latency App Servers | Micrologics"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://fermisense.com/when-machines-take-the-wheel/",
+    "title": "The Rise of Intelligence Ownership: a task-trained open source model vs the frontier"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://gregoryszorc.com/docs/python-build-standalone/main/",
+    "title": "Python Standalone Builds — python-build-standalone documentation"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://beyondloom.com/decker/",
+    "title": "decker"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.macrumors.com/2026/07/27/ed-zitron-apple-watch-it-burn-ai-bubble-bursts/",
+    "title": "Ed Zitron: Apple Will 'Watch Everything Burn' When the AI Bubble Bursts - MacRumors"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://margin.at/",
+    "title": "Margin"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://christianselig.com/2026/07/vision-pro-house/",
+    "title": "The coolest use for the Vision Pro"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://docs.espressif.com/projects/rust/book/",
+    "title": "Introduction - The Rust on ESP Book"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://tailscale.com/blog/jailbroken-kindle-proxy-tun-modes",
+    "title": "Jailbroken Kindles can now do more with Tailscale"
   }
 ]
