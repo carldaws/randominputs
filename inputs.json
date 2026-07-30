@@ -21,13 +21,28 @@
   },
   {
     "source": "hn",
-    "url": "https://logicforprogrammers.com/",
-    "title": "Logic for Programmers"
+    "url": "https://www.n16f.net/blog/concurrency-interactivity-mutability-choose-two/",
+    "title": "Concurrency, interactivity, mutability, choose two"
   },
   {
     "source": "hn",
     "url": "https://zachholman.com/posts/cold-email",
     "title": "The Cold Email"
+  },
+  {
+    "source": "hn",
+    "url": "https://logicforprogrammers.com/",
+    "title": "Logic for Programmers"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.qoitech.com/blog/esp32-c6-power-consumption-comparison/",
+    "title": "ESP32-C6 Power Consumption: Arduino vs. Zephyr vs. ESP-IDF Comparison"
+  },
+  {
+    "source": "hn",
+    "url": "https://noelo.org/blog/kuna-release/",
+    "title": "Kuna: Decompiler Development in the Age of Coding Agents"
   },
   {
     "source": "hn",
@@ -41,6 +56,11 @@
   },
   {
     "source": "hn",
+    "url": "https://by.seiko-design.com/140th/en/topic/58.html",
+    "title": "The first watch featuring computer functions"
+  },
+  {
+    "source": "hn",
     "url": "https://blog.cryptographyengineering.com/2026/07/29/some-notes-about-anthropics-new-results/",
     "title": "Some thoughts about Anthropic's new cryptanalysis results"
   },
@@ -51,13 +71,8 @@
   },
   {
     "source": "hn",
-    "url": "https://archive.org/details/mancomputerbyjoh0000john",
-    "title": "Man and the Computer by John G. Kemeny (1972 book by the co-creator of BASIC)"
-  },
-  {
-    "source": "hn",
-    "url": "https://noelo.org/blog/kuna-release/",
-    "title": "Kuna: Decompiler Development in the Age of Coding Agents"
+    "url": "https://alsterrunde.com/hamburgs-stadtpark-a-park-built-to-be-used/",
+    "title": "Hamburg's Stadtpark: A Park Built to Be Used"
   },
   {
     "source": "hn",
@@ -66,13 +81,8 @@
   },
   {
     "source": "hn",
-    "url": "https://dogdogfish.com/blog/2026/07/29/a-trampoline/",
-    "title": "A Trampoline"
-  },
-  {
-    "source": "hn",
-    "url": "https://iza.ac/posts/2026/07/the-journey-of-bamya/",
-    "title": "Refactoring cuisine: how an Iraqi stew sailed to Singapore"
+    "url": "https://archive.org/details/mancomputerbyjoh0000john",
+    "title": "Man and the Computer by John G. Kemeny (1972 book by the co-creator of BASIC)"
   },
   {
     "source": "hn",
@@ -81,8 +91,8 @@
   },
   {
     "source": "hn",
-    "url": "https://alsterrunde.com/hamburgs-stadtpark-a-park-built-to-be-used/",
-    "title": "Hamburg's Stadtpark: A Park Built to Be Used"
+    "url": "https://iza.ac/posts/2026/07/the-journey-of-bamya/",
+    "title": "Refactoring cuisine: how an Iraqi stew sailed to Singapore"
   },
   {
     "source": "hn",
@@ -91,13 +101,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://po-ru.com/2026/07/29/it-doesnt-matter-whether-matz-is-nice",
-    "title": "It doesn’t matter whether “Matz is nice”"
+    "url": "https://kttnr.net/blog/cpp-float-to-int-conversion-undefined-behavior/",
+    "title": "C++ float-to-int conversion can be undefined behavior"
   },
   {
     "source": "lobsters",
-    "url": "https://kttnr.net/blog/cpp-float-to-int-conversion-undefined-behavior/",
-    "title": "C++ float-to-int conversion can be undefined behavior"
+    "url": "https://po-ru.com/2026/07/29/it-doesnt-matter-whether-matz-is-nice",
+    "title": "It doesn’t matter whether “Matz is nice”"
   },
   {
     "source": "lobsters",
@@ -111,13 +121,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://www.chiply.dev/post-hyperbole-implicit-buttons",
-    "title": "GNU Hyperbole Implicit Buttons: Build your Hyperverse"
+    "url": "https://anirudh.fi/strain",
+    "title": "The strain in your brain"
   },
   {
     "source": "lobsters",
-    "url": "https://anirudh.fi/strain",
-    "title": "The strain in your brain"
+    "url": "https://www.chiply.dev/post-hyperbole-implicit-buttons",
+    "title": "GNU Hyperbole Implicit Buttons: Build your Hyperverse"
   },
   {
     "source": "lobsters",
@@ -141,6 +151,11 @@
   },
   {
     "source": "lobsters",
+    "url": "https://unplannedobsolescence.com/blog/buttons-vs-links/",
+    "title": "The Difference Between a Button and a Link"
+  },
+  {
+    "source": "lobsters",
     "url": "https://blog.jsbarretto.com/post/software-is-joy",
     "title": "Writing Toy Software Is A Joy (2025)"
   },
@@ -148,11 +163,6 @@
     "source": "lobsters",
     "url": "https://www.elbeno.com/blog/?p=1858",
     "title": "const_cast: A Necessary Evil"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://unplannedobsolescence.com/blog/buttons-vs-links/",
-    "title": "The Difference Between a Button and a Link"
   },
   {
     "source": "lobsters",
@@ -166,8 +176,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://enklypesalt.com/posts/context-collapse-part3-ai-worming-through-word/",
-    "title": "Copilot will propagate a malicious worm from one Word document to another"
+    "url": "https://www.sandordargo.com/blog/2026/07/29/cpp26-reduces-undefined-behaviour",
+    "title": "C++26: Reducing undefined behaviour"
   },
   {
     "source": "pinboard",
