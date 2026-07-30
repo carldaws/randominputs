@@ -1,18 +1,43 @@
 [
   {
     "source": "hn",
+    "url": "https://bennuttall.com/blog/2026/07/gpiozero-flow/",
+    "title": "Gpiozero Flow"
+  },
+  {
+    "source": "hn",
+    "url": "https://docs.carolinacloud.io/organizations/prepaid-interest/",
+    "title": "Carolina Cloud pays SOFR on unused prepaid credits"
+  },
+  {
+    "source": "hn",
     "url": "https://christianselig.com/2026/07/vision-pro-house/",
     "title": "The coolest use for the Vision Pro"
   },
   {
     "source": "hn",
-    "url": "https://www.superlogical.com/",
-    "title": "Superlogical"
+    "url": "https://en.wikipedia.org/wiki/Azulejo",
+    "title": "Azulejo"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.grumpygamer.com/twp2_announce/",
+    "title": "Ron Gilbert started production on Thimbleweed Park 2"
+  },
+  {
+    "source": "hn",
+    "url": "https://by.seiko-design.com/140th/en/topic/58.html",
+    "title": "The first watch featuring computer functions"
   },
   {
     "source": "hn",
     "url": "https://llm2human.pages.dev/",
     "title": "LLM Honeypot"
+  },
+  {
+    "source": "hn",
+    "url": "https://android-developers.googleblog.com/2026/07/google-play-age-signals-api-safer-experiences.html",
+    "title": "Google will expand age checks on Android worldwide till the end of the year"
   },
   {
     "source": "hn",
@@ -31,13 +56,18 @@
   },
   {
     "source": "hn",
-    "url": "https://logicforprogrammers.com/",
-    "title": "Logic for Programmers"
+    "url": "https://www.bloomberg.com/news/articles/2026-07-29/chatgpt-roblox-to-fall-under-strictest-eu-rules-for-platforms",
+    "title": "ChatGPT, Roblox to Fall Under Strictest EU Rules for Platforms"
   },
   {
     "source": "hn",
     "url": "https://www.qoitech.com/blog/esp32-c6-power-consumption-comparison/",
     "title": "ESP32-C6 Power Consumption: Arduino vs. Zephyr vs. ESP-IDF Comparison"
+  },
+  {
+    "source": "hn",
+    "url": "https://logicforprogrammers.com/",
+    "title": "Logic for Programmers"
   },
   {
     "source": "hn",
@@ -51,53 +81,13 @@
   },
   {
     "source": "hn",
-    "url": "https://prilik.com/blog/post/automating-ac-nyc/",
-    "title": "Turning a dumb AC unit smart (without losing my security deposit)"
-  },
-  {
-    "source": "hn",
-    "url": "https://by.seiko-design.com/140th/en/topic/58.html",
-    "title": "The first watch featuring computer functions"
-  },
-  {
-    "source": "hn",
     "url": "https://blog.cryptographyengineering.com/2026/07/29/some-notes-about-anthropics-new-results/",
     "title": "Some thoughts about Anthropic's new cryptanalysis results"
   },
   {
     "source": "hn",
-    "url": "https://docs.espressif.com/projects/rust/book/",
-    "title": "The Rust on ESP Book"
-  },
-  {
-    "source": "hn",
-    "url": "https://alsterrunde.com/hamburgs-stadtpark-a-park-built-to-be-used/",
-    "title": "Hamburg's Stadtpark: A Park Built to Be Used"
-  },
-  {
-    "source": "hn",
-    "url": "https://usetokenless.com/",
-    "title": "Launch HN: Tokenless (YC S26) – Automatic model switching to save money"
-  },
-  {
-    "source": "hn",
-    "url": "https://archive.org/details/mancomputerbyjoh0000john",
-    "title": "Man and the Computer by John G. Kemeny (1972 book by the co-creator of BASIC)"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.staszewski.xyz/blog/recursive-filters/",
-    "title": "Recursive Filters: SMA, EMA, Low‑Pass, and a Tiny Kalman"
-  },
-  {
-    "source": "hn",
-    "url": "https://iza.ac/posts/2026/07/the-journey-of-bamya/",
-    "title": "Refactoring cuisine: how an Iraqi stew sailed to Singapore"
-  },
-  {
-    "source": "hn",
-    "url": "https://koreader.rocks/",
-    "title": "KOReader"
+    "url": "https://prilik.com/blog/post/automating-ac-nyc/",
+    "title": "Turning a dumb AC unit smart (without losing my security deposit)"
   },
   {
     "source": "lobsters",
@@ -116,13 +106,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://tomekw.com/overengineered-calculator-zig-qbe/",
-    "title": "Overengineered calculator: Zig + QBE"
+    "url": "https://anirudh.fi/strain",
+    "title": "The strain in your brain"
   },
   {
     "source": "lobsters",
-    "url": "https://anirudh.fi/strain",
-    "title": "The strain in your brain"
+    "url": "https://tomekw.com/overengineered-calculator-zig-qbe/",
+    "title": "Overengineered calculator: Zig + QBE"
   },
   {
     "source": "lobsters",
@@ -138,6 +128,11 @@
     "source": "lobsters",
     "url": "https://lynn.github.io/blog/pico-timers/",
     "title": "Setting timers in simple games (feat. the frame rule)"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://www.rafa.ee/articles/progressive-enhanced-forms-htmx/",
+    "title": "Building Progressively Enhanced Forms Using htmx"
   },
   {
     "source": "lobsters",
@@ -168,60 +163,5 @@
     "source": "lobsters",
     "url": "https://emacsredux.com/blog/2026/07/29/flycheck-38/",
     "title": "Flycheck 38: Might & Magic"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://blinry.org/multi-seat-wayland/",
-    "title": "State of multi-player Wayland"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://www.sandordargo.com/blog/2026/07/29/cpp26-reduces-undefined-behaviour",
-    "title": "C++26: Reducing undefined behaviour"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://franktisellano.github.io/datatype/",
-    "title": "Datatype — variable font that turns text into charts"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://nikolays.github.io/PGSimCity/",
-    "title": "PGSimCity · How PostgreSQL Works, in 3D"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://micrologics.org/blog/sqlite-in-production-optimizing-wal-mode-concurrency-and-vfs-layers-for-low-latency-app-servers",
-    "title": "SQLite in Production: Optimizing WAL Mode, Concurrency, and VFS Layers for Low-Latency App Servers | Micrologics"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://fermisense.com/when-machines-take-the-wheel/",
-    "title": "The Rise of Intelligence Ownership: a task-trained open source model vs the frontier"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://gregoryszorc.com/docs/python-build-standalone/main/",
-    "title": "Python Standalone Builds — python-build-standalone documentation"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://beyondloom.com/decker/",
-    "title": "decker"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.macrumors.com/2026/07/27/ed-zitron-apple-watch-it-burn-ai-bubble-bursts/",
-    "title": "Ed Zitron: Apple Will 'Watch Everything Burn' When the AI Bubble Bursts - MacRumors"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://margin.at/",
-    "title": "Margin"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://tailscale.com/blog/jailbroken-kindle-proxy-tun-modes",
-    "title": "Jailbroken Kindles can now do more with Tailscale"
   }
 ]
