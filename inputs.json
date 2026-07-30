@@ -1,13 +1,38 @@
 [
   {
     "source": "hn",
-    "url": "https://hackerpublicradio.org/",
-    "title": "Hacker Public Radio"
+    "url": "https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/",
+    "title": "Read This Before You Buy That TV Streaming Stick"
   },
   {
     "source": "hn",
-    "url": "https://www.projectpluto.com/25010d.htm",
-    "title": "Upper stage impacting the moon on 2026 August 5"
+    "url": "https://www.bottlenecklabs.com/blog/autonomously-run-businesses",
+    "title": "We Gave GPT 5.6 Sol a Real Business. It Lied, Spammed, and Lost $447"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.dbos.dev/blog/making-postgres-queues-scale",
+    "title": "Postgres Queues Actually Scale"
+  },
+  {
+    "source": "hn",
+    "url": "https://obryant.dev/p/2x-not-10x/",
+    "title": "2x, not 10x: coding with LLMs in 2026"
+  },
+  {
+    "source": "hn",
+    "url": "https://dynomight.net/plants/",
+    "title": "So you want to use plants to reduce CO₂"
+  },
+  {
+    "source": "hn",
+    "url": "https://chriscoyier.net/2026/07/30/codepen-2-0/",
+    "title": "CodePen 2.0"
+  },
+  {
+    "source": "hn",
+    "url": "https://hackerpublicradio.org/",
+    "title": "Hacker Public Radio"
   },
   {
     "source": "hn",
@@ -16,8 +41,13 @@
   },
   {
     "source": "hn",
+    "url": "https://www.projectpluto.com/25010d.htm",
+    "title": "Upper stage impacting the moon on 2026 August 5"
+  },
+  {
+    "source": "hn",
     "url": "https://solar.lowtechmagazine.com/2025/07/how-to-mount-a-balcony-awning/",
-    "title": "How to Mount a Balcony Awning"
+    "title": "How to Mount a Balcony Awning (2025)"
   },
   {
     "source": "hn",
@@ -31,18 +61,8 @@
   },
   {
     "source": "hn",
-    "url": "https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/",
-    "title": "Read This Before You Buy That TV Streaming Stick"
-  },
-  {
-    "source": "hn",
     "url": "https://quuxplusone.github.io/blog/2026/07/29/how-old-is-ann/",
     "title": "How old is Ann?"
-  },
-  {
-    "source": "hn",
-    "url": "https://bennuttall.com/blog/2026/07/gpiozero-flow/",
-    "title": "Gpiozero Flow"
   },
   {
     "source": "hn",
@@ -53,21 +73,6 @@
     "source": "hn",
     "url": "https://select.supply/game/chipbuilder",
     "title": "Show HN: I made a game where you build a CPU from logic gates"
-  },
-  {
-    "source": "hn",
-    "url": "https://hex.ooo/library/alicebob.html",
-    "title": "The Alice and Bob After Dinner Speech (1984)"
-  },
-  {
-    "source": "hn",
-    "url": "https://blog.certisfy.com/2026/04/trusted-urls-via-cryptographic.html",
-    "title": "Trusted URLs via Cryptographic Signatures"
-  },
-  {
-    "source": "hn",
-    "url": "https://en.wikipedia.org/wiki/Azulejo",
-    "title": "Azulejo"
   },
   {
     "source": "lobsters",
@@ -86,13 +91,18 @@
   },
   {
     "source": "lobsters",
+    "url": "https://crowdhailer.me/2026-07-30/a-universal-approach-to-mocking/",
+    "title": "A universal approach to mocking with continuations"
+  },
+  {
+    "source": "lobsters",
     "url": "https://po-ru.com/2026/07/29/it-doesnt-matter-whether-matz-is-nice",
     "title": "It doesn’t matter whether “Matz is nice”"
   },
   {
     "source": "lobsters",
-    "url": "https://crowdhailer.me/2026-07-30/a-universal-approach-to-mocking/",
-    "title": "A universal approach to mocking with continuations"
+    "url": "https://ethiack.com/info-hub/research/kindarails2shell-rails-rce-cve-2026-66066",
+    "title": "KindaRails2Shell - Critical RCE in Rails via Active Storage (CVE-2026-66066)"
   },
   {
     "source": "lobsters",
@@ -106,8 +116,18 @@
   },
   {
     "source": "lobsters",
+    "url": "https://logicforprogrammers.com/",
+    "title": "Logic for Programmers"
+  },
+  {
+    "source": "lobsters",
     "url": "https://tomekw.com/overengineered-calculator-zig-qbe/",
     "title": "Overengineered calculator: Zig + QBE"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://labs.quansight.org/blog/scaling-numpy-on-free-threaded-python",
+    "title": "Scaling NumPy on Free-Threaded Python"
   },
   {
     "source": "lobsters",
@@ -116,13 +136,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://logicforprogrammers.com/",
-    "title": "Logic for Programmers"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://ethiack.com/info-hub/research/kindarails2shell-rails-rce-cve-2026-66066",
-    "title": "KindaRails2Shell - Critical RCE in Rails via Active Storage (CVE-2026-66066)"
+    "url": "https://unplannedobsolescence.com/blog/buttons-vs-links/",
+    "title": "The Difference Between a Button and a Link"
   },
   {
     "source": "lobsters",
@@ -136,82 +151,12 @@
   },
   {
     "source": "lobsters",
-    "url": "https://unplannedobsolescence.com/blog/buttons-vs-links/",
-    "title": "The Difference Between a Button and a Link"
-  },
-  {
-    "source": "lobsters",
     "url": "https://lynn.github.io/blog/pico-timers/",
     "title": "Setting timers in simple games (feat. the frame rule)"
   },
   {
     "source": "lobsters",
-    "url": "https://labs.quansight.org/blog/scaling-numpy-on-free-threaded-python",
-    "title": "Scaling NumPy on Free-Threaded Python"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://joomy.korkutblech.com/posts/2026-07-28-why-rocq-is-better.html",
-    "title": "Why Rocq is better than Lean for program verification"
-  },
-  {
-    "source": "lobsters",
     "url": "https://www.feistyduck.com/newsletter/issue_139_the_state_of_post-quantum_cryptography",
     "title": "The State of Post-Quantum Cryptography"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://franktisellano.github.io/datatype/",
-    "title": "Datatype — variable font that turns text into charts"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://nikolays.github.io/PGSimCity/",
-    "title": "PGSimCity · How PostgreSQL Works, in 3D"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://micrologics.org/blog/sqlite-in-production-optimizing-wal-mode-concurrency-and-vfs-layers-for-low-latency-app-servers",
-    "title": "SQLite in Production: Optimizing WAL Mode, Concurrency, and VFS Layers for Low-Latency App Servers | Micrologics"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://fermisense.com/when-machines-take-the-wheel/",
-    "title": "The Rise of Intelligence Ownership: a task-trained open source model vs the frontier"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://gregoryszorc.com/docs/python-build-standalone/main/",
-    "title": "Python Standalone Builds — python-build-standalone documentation"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://beyondloom.com/decker/",
-    "title": "decker"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.macrumors.com/2026/07/27/ed-zitron-apple-watch-it-burn-ai-bubble-bursts/",
-    "title": "Ed Zitron: Apple Will 'Watch Everything Burn' When the AI Bubble Bursts - MacRumors"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://margin.at/",
-    "title": "Margin"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://christianselig.com/2026/07/vision-pro-house/",
-    "title": "The coolest use for the Vision Pro"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://docs.espressif.com/projects/rust/book/",
-    "title": "Introduction - The Rust on ESP Book"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://tailscale.com/blog/jailbroken-kindle-proxy-tun-modes",
-    "title": "Jailbroken Kindles can now do more with Tailscale"
   }
 ]
