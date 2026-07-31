@@ -1,6 +1,16 @@
 [
   {
     "source": "hn",
+    "url": "https://artificialanalysis.ai/models/deepseek-v4-flash-ga",
+    "title": "DeepSeek V4 Flash 0731 Intelligence, Performance and Price Analysis"
+  },
+  {
+    "source": "hn",
+    "url": "https://hughhowey.com/the-end-of-an-era/",
+    "title": "The End of an Era"
+  },
+  {
+    "source": "hn",
     "url": "https://earendil.com/posts/session-portability/",
     "title": "The session you cannot take with you"
   },
@@ -11,18 +21,8 @@
   },
   {
     "source": "hn",
-    "url": "https://artificialanalysis.ai/models/deepseek-v4-flash-ga",
-    "title": "DeepSeek V4 Flash 0731 Intelligence, Performance and Price Analysis"
-  },
-  {
-    "source": "hn",
     "url": "https://api-docs.deepseek.com/updates/",
     "title": "DeepSeek-V4-Flash Update"
-  },
-  {
-    "source": "hn",
-    "url": "https://marbleos.com/demo",
-    "title": "Show HN: What should the GUI for AI agents look like?"
   },
   {
     "source": "hn",
@@ -36,13 +36,23 @@
   },
   {
     "source": "hn",
+    "url": "https://graybeard.ing/the-religion-of-speed/",
+    "title": "The Religion of Speed"
+  },
+  {
+    "source": "hn",
+    "url": "https://clereviewofbooks.com/we-shall-dwell-amidst-wonder-and-glory-for-ever-on-weird-fiction/",
+    "title": "We shall dwell amidst wonder and glory for ever: On weird fiction"
+  },
+  {
+    "source": "hn",
     "url": "https://www.bunniestudios.com/blog/2013/where-usb-memory-sticks-are-born/",
     "title": "Where USB Memory Sticks are Born (2013)"
   },
   {
     "source": "hn",
-    "url": "https://graybeard.ing/the-religion-of-speed/",
-    "title": "The Religion of Speed"
+    "url": "https://www.footyheadlines.com/2646571793/betting-ban-takes-effect-no-more-gambling-sponsors-in-the-premier-league.html",
+    "title": "Premier league bans gambling sponsors"
   },
   {
     "source": "hn",
@@ -56,18 +66,18 @@
   },
   {
     "source": "hn",
-    "url": "https://blog.jim-nielsen.com/2026/ai-aesthetic/",
-    "title": "The AI Aesthetic"
-  },
-  {
-    "source": "hn",
     "url": "https://thereader.mitpress.mit.edu/the-lost-civic-life-of-movie-rental-stores/",
     "title": "The lost civic life of movie rental stores"
   },
   {
     "source": "hn",
-    "url": "https://chriscoyier.net/2026/07/30/codepen-2-0/",
-    "title": "CodePen 2.0"
+    "url": "https://andre.arko.net/2026/07/30/ruby-centrals-destructive-legacy/",
+    "title": "Ruby Central's Destructive Legacy"
+  },
+  {
+    "source": "hn",
+    "url": "https://blog.jim-nielsen.com/2026/ai-aesthetic/",
+    "title": "The AI Aesthetic"
   },
   {
     "source": "hn",
@@ -81,8 +91,23 @@
   },
   {
     "source": "lobsters",
+    "url": "https://victoriametrics.com/blog/go-1-27/",
+    "title": "Go 1.27 interactive tour"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://blog.exe.dev/billable-facts",
+    "title": "Stripe Just Wants a Number"
+  },
+  {
+    "source": "lobsters",
     "url": "https://knivesforcats.online/correlated-rng/",
     "title": "Correlated RNG"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://futhark-lang.org/blog/2026-07-31-full-flattening.html",
+    "title": "Full flattening of nested data parallelism"
   },
   {
     "source": "lobsters",
@@ -96,23 +121,18 @@
   },
   {
     "source": "lobsters",
-    "url": "https://futhark-lang.org/blog/2026-07-31-full-flattening.html",
-    "title": "Full flattening of nested data parallelism"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://blog.exe.dev/billable-facts",
-    "title": "Stripe Just Wants a Number"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://crowdhailer.me/2026-07-30/a-universal-approach-to-mocking/",
-    "title": "A universal approach to mocking with continuations"
+    "url": "https://felix-knorr.net/posts/2026-07-31-lsp-config.html",
+    "title": "Project-Specific clangd Configuration with a Temporary Shell"
   },
   {
     "source": "lobsters",
     "url": "https://logicforprogrammers.com/",
     "title": "Logic for Programmers"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://crowdhailer.me/2026-07-30/a-universal-approach-to-mocking/",
+    "title": "A universal approach to mocking with continuations"
   },
   {
     "source": "lobsters",
@@ -128,65 +148,5 @@
     "source": "lobsters",
     "url": "https://ethiack.com/info-hub/research/kindarails2shell-rails-rce-cve-2026-66066",
     "title": "KindaRails2Shell - Critical RCE in Rails via Active Storage (CVE-2026-66066)"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://po-ru.com/2026/07/29/it-doesnt-matter-whether-matz-is-nice",
-    "title": "It doesn’t matter whether “Matz is nice”"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://unplannedobsolescence.com/blog/buttons-vs-links/",
-    "title": "The Difference Between a Button and a Link"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://franktisellano.github.io/datatype/",
-    "title": "Datatype — variable font that turns text into charts"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://micrologics.org/blog/sqlite-in-production-optimizing-wal-mode-concurrency-and-vfs-layers-for-low-latency-app-servers",
-    "title": "SQLite in Production: Optimizing WAL Mode, Concurrency, and VFS Layers for Low-Latency App Servers | Micrologics"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://fermisense.com/when-machines-take-the-wheel/",
-    "title": "The Rise of Intelligence Ownership: a task-trained open source model vs the frontier"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://christianselig.com/2026/07/vision-pro-house/",
-    "title": "The coolest use for the Vision Pro"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://docs.espressif.com/projects/rust/book/",
-    "title": "Introduction - The Rust on ESP Book"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.superlogical.com/",
-    "title": "Superlogical"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://tailscale.com/blog/jailbroken-kindle-proxy-tun-modes",
-    "title": "Jailbroken Kindles can now do more with Tailscale"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://prilik.com/blog/post/automating-ac-nyc/",
-    "title": "Turning a Dumb AC Unit Smart (Without Losing my Security Deposit) :: prilik's blog"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://sebastianraschka.com/blog/2026/kimi-k3-architecture-notes.html",
-    "title": "Kimi K3 Architecture Notes | Sebastian Raschka, PhD"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://nikolays.github.io/PGSimCity/",
-    "title": "PGSimCity · How PostgreSQL Works, in 3D"
   }
 ]
