@@ -11,6 +11,16 @@
   },
   {
     "source": "hn",
+    "url": "https://www.jeffgeerling.com/blog/2026/getting-25g-ethernet-mac-thunderbolt/",
+    "title": "Getting 25 Gbps Thunderbolt Ethernet on My Mac Studio"
+  },
+  {
+    "source": "hn",
+    "url": "https://semyonsinchenko.github.io/ssinchenko/post/datafusion-graphs-cc-2/",
+    "title": "Algorithms on billion-scale graph using 10GB RAM: I love DataFusion"
+  },
+  {
+    "source": "hn",
     "url": "https://artificialanalysis.ai/models/deepseek-v4-flash",
     "title": "DeepSeek V4 Flash 0731 Intelligence, Performance and Price Analysis"
   },
@@ -21,8 +31,13 @@
   },
   {
     "source": "hn",
-    "url": "https://semyonsinchenko.github.io/ssinchenko/post/datafusion-graphs-cc-2/",
-    "title": "Algorithms on billion-scale graph using 10GB RAM: I love DataFusion"
+    "url": "https://signoregalilei.com/2026/07/26/the-most-official-water-costs-120000-a-gallon/",
+    "title": "The most official water costs $120k a gallon"
+  },
+  {
+    "source": "hn",
+    "url": "https://manifest.build/blog/why-we-deprecated-our-llm-router/",
+    "title": "Everyone is building LLM routers, we deprecated ours"
   },
   {
     "source": "hn",
@@ -31,8 +46,13 @@
   },
   {
     "source": "hn",
-    "url": "https://www.jeffgeerling.com/blog/2026/getting-25g-ethernet-mac-thunderbolt/",
-    "title": "Getting 25 Gbps Thunderbolt Ethernet on My Mac Studio"
+    "url": "https://cgjennings.ca/articles/jpeg-compression/",
+    "title": "How JPEG works: Interactively explore JPEG's lossy compression methods"
+  },
+  {
+    "source": "hn",
+    "url": "https://swe-rebench.com",
+    "title": "13 Models and 4 Agents on SWE Tasks: Go, Java, Python, Rust, TS"
   },
   {
     "source": "hn",
@@ -51,8 +71,8 @@
   },
   {
     "source": "hn",
-    "url": "https://swe-rebench.com",
-    "title": "13 Models and 4 Agents on SWE Tasks: Go, Java, Python, Rust, TS"
+    "url": "https://broadbandbreakfast.com/how-to-fight-back-against-fraudulent-robocalls/",
+    "title": "Anti-fraud tools can't keep pace with robocall scammers"
   },
   {
     "source": "hn",
@@ -61,58 +81,33 @@
   },
   {
     "source": "hn",
+    "url": "https://www.newyorker.com/science/elements/how-to-survive-an-infestation-of-toxic-caterpillars",
+    "title": "How to Survive an Infestation of Toxic Caterpillars"
+  },
+  {
+    "source": "hn",
     "url": "https://blog.google/security/chrome-stronger-with-every-update/",
     "title": "Google fixed more Chrome bugs in June than over the past two years, thanks to AI"
   },
   {
     "source": "hn",
-    "url": "https://broadbandbreakfast.com/how-to-fight-back-against-fraudulent-robocalls/",
-    "title": "Anti-fraud tools can't keep pace with scammers exploiting cheap internet calling"
-  },
-  {
-    "source": "hn",
-    "url": "https://cgjennings.ca/articles/jpeg-compression/",
-    "title": "How JPEG works: Interactively explore JPEG's lossy compression methods"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.wired.com/story/defcon-34-badge-baochip-andrew-bunnie-huang/",
-    "title": "New Defcon Badges Pack a Unique Open-Source Chip That Doubles as a Security Key"
-  },
-  {
-    "source": "hn",
-    "url": "https://marbleos.com/demo",
-    "title": "Show HN: What should the GUI for AI agents look like?"
-  },
-  {
-    "source": "hn",
-    "url": "https://privacything.com/en/",
-    "title": "Show HN: I built a cross-browser extension that controls fingerprinting surfaces"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.bloomberg.com/news/articles/2026-07-31/moonshot-s-kimi-built-on-20-000-nvidia-chip-cluster-from-alibaba",
-    "title": "Moonshot’s Kimi uses 20k Nvidia chip cluster from Alibaba"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.wsj.com/finance/investing/situational-awareness-down-67-in-july-in-ai-stock-rout-cd19901f",
-    "title": "Situational Awareness down 67% in July in AI stock rout"
-  },
-  {
-    "source": "hn",
-    "url": "https://hyperbo.la/w/winding-down-artichoke-ruby/",
-    "title": "Winding Down Artichoke Ruby"
-  },
-  {
-    "source": "hn",
-    "url": "https://signoregalilei.com/2026/07/26/the-most-official-water-costs-120000-a-gallon/",
-    "title": "The most official water costs $120k a gallon"
+    "url": "https://phulin.me/blog/poker/",
+    "title": "Solving poker in custom WebGPU kernels"
   },
   {
     "source": "lobsters",
     "url": "https://victoriametrics.com/blog/go-1-27/",
     "title": "Go 1.27 interactive tour"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://casualhacks.net/blog/2026-07-27-why-i-forked-rand.html",
+    "title": "Why I forked rand"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://andre.arko.net/2026/07/30/ruby-centrals-destructive-legacy/",
+    "title": "Ruby Central's Destructive Legacy"
   },
   {
     "source": "lobsters",
@@ -126,18 +121,18 @@
   },
   {
     "source": "lobsters",
-    "url": "https://andre.arko.net/2026/07/30/ruby-centrals-destructive-legacy/",
-    "title": "Ruby Central's Destructive Legacy"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://casualhacks.net/blog/2026-07-27-why-i-forked-rand.html",
-    "title": "Why I forked rand"
-  },
-  {
-    "source": "lobsters",
     "url": "https://futhark-lang.org/blog/2026-07-31-full-flattening.html",
     "title": "Full flattening of nested data parallelism"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://bower.sh/what-the-double-fork",
+    "title": "what the double-fork?"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://tusharhero.codeberg.page/guix-shell-in-emacs.html",
+    "title": "Guix shell now inside Emacs"
   },
   {
     "source": "lobsters",
@@ -151,13 +146,23 @@
   },
   {
     "source": "lobsters",
-    "url": "https://bower.sh/what-the-double-fork",
-    "title": "what the double-fork?"
+    "url": "https://secretspec.dev/blog/where-env-went-wrong/",
+    "title": "Where .env Went Wrong"
   },
   {
     "source": "lobsters",
-    "url": "https://secretspec.dev/blog/where-env-went-wrong/",
-    "title": "Where .env Went Wrong"
+    "url": "https://beza1e1.tuxen.de/git_two_users.html",
+    "title": "Accepting a messy git history"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://weinholt.se/articles/state-of-chezscheme-in-debian/",
+    "title": "The State of Chez Scheme in Debian"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://blainsmith.com/articles/reinventing-the-wheel/",
+    "title": "The Wheels We Keep Reinventing"
   },
   {
     "source": "lobsters",
@@ -168,25 +173,5 @@
     "source": "lobsters",
     "url": "https://localai.io/blog/why-we-write-our-own-engines/",
     "title": "Why we write our own C and C++ inference engines"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://kttnr.net/blog/cpp-float-to-int-conversion-undefined-behavior/",
-    "title": "C++ float-to-int conversion can be undefined behavior"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://weinholt.se/articles/state-of-chezscheme-in-debian/",
-    "title": "The State of Chez Scheme in Debian"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://www.rafa.ee/articles/progressive-enhanced-forms-htmx/",
-    "title": "Building Progressively Enhanced Forms Using htmx"
-  },
-  {
-    "source": "lobsters",
-    "url": "http://www.righto.com/2026/07/ibm-604-trigger-tube-module.html",
-    "title": "Energizing a vacuum-tube flip-flop module from a 1948 IBM system"
   }
 ]
