@@ -11,13 +11,23 @@
   },
   {
     "source": "hn",
+    "url": "https://weeraman.com/because-we-can/",
+    "title": "Twenty-five years ago it was cryptography, today it's model weights"
+  },
+  {
+    "source": "hn",
+    "url": "https://arielsalminen.com/2026/progressive-web-components/",
+    "title": "Progressive Web Components"
+  },
+  {
+    "source": "hn",
     "url": "https://www.lighthousereports.com/investigation/big-food-vs-the-people/",
     "title": "Big Food vs. the People"
   },
   {
     "source": "hn",
-    "url": "https://manifest.build/blog/why-we-deprecated-our-llm-router/",
-    "title": "Everyone is building LLM routers, we deprecated ours"
+    "url": "https://servo.org/blog/2026/07/31/june-in-servo/",
+    "title": "June in Servo: real world compat, media queries, SharedWorker, and more"
   },
   {
     "source": "hn",
@@ -26,8 +36,13 @@
   },
   {
     "source": "hn",
-    "url": "https://servo.org/blog/2026/07/31/june-in-servo/",
-    "title": "June in Servo: real world compat, media queries, SharedWorker, and more"
+    "url": "https://zserge.com/posts/worst-htmx-ever/",
+    "title": "Let's make the worst Htmx"
+  },
+  {
+    "source": "hn",
+    "url": "https://manifest.build/blog/why-we-deprecated-our-llm-router/",
+    "title": "Everyone is building LLM routers, we deprecated ours"
   },
   {
     "source": "hn",
@@ -41,8 +56,8 @@
   },
   {
     "source": "hn",
-    "url": "https://semyonsinchenko.github.io/ssinchenko/post/datafusion-graphs-cc-2/",
-    "title": "Algorithms on billion-scale graph using 10GB RAM: I love DataFusion"
+    "url": "https://blog.marcua.net/2026/07/31/authorize-dont-authenticate.html",
+    "title": "Authorize, don't authenticate"
   },
   {
     "source": "hn",
@@ -51,18 +66,13 @@
   },
   {
     "source": "hn",
+    "url": "https://semyonsinchenko.github.io/ssinchenko/post/datafusion-graphs-cc-2/",
+    "title": "Algorithms on billion-scale graph using 10GB RAM: I love DataFusion"
+  },
+  {
+    "source": "hn",
     "url": "https://www.theexamination.org/articles/red-bull-funded-research-energy-drinks-alcohol",
     "title": "Dubious research tied to Red Bull has shaped energy drink policy"
-  },
-  {
-    "source": "hn",
-    "url": "https://janilowski.pl/en/blog/2026/amodei-memo/",
-    "title": "Dario Amodei's stance on open weights is self-serving and short-sighted"
-  },
-  {
-    "source": "hn",
-    "url": "https://jovidecroock.com/blog/referential-stability-types/",
-    "title": "Making Referential Stability a Type"
   },
   {
     "source": "hn",
@@ -71,13 +81,18 @@
   },
   {
     "source": "hn",
-    "url": "https://xn--gckvb8fzb.com/a-gtk4-ssh-askpass-in-zig/",
-    "title": "A GTK4 SSH-askpass in Zig"
+    "url": "https://jovidecroock.com/blog/referential-stability-types/",
+    "title": "Making Referential Stability a Type"
   },
   {
     "source": "hn",
-    "url": "https://c-faq.com/decl/spiral.anderson.html",
-    "title": "Clockwise/Spiral Rule (1994)"
+    "url": "https://softwaredoug.com/blog/2026/07/29/just-brute-force-embeddings",
+    "title": "Just brute force your embeddings"
+  },
+  {
+    "source": "hn",
+    "url": "https://jwlabs.vercel.app/post/biting-the-bullet",
+    "title": "Predictive Speculative KV Replication for Bursty LLM Inference"
   },
   {
     "source": "hn",
@@ -86,28 +101,18 @@
   },
   {
     "source": "hn",
-    "url": "https://broadbandbreakfast.com/how-to-fight-back-against-fraudulent-robocalls/",
-    "title": "Anti-fraud tools can't keep pace with robocall scammers"
-  },
-  {
-    "source": "hn",
-    "url": "https://hughhowey.com/the-end-of-an-era/",
-    "title": "The End of an Era"
-  },
-  {
-    "source": "hn",
-    "url": "https://swe-rebench.com",
-    "title": "13 Models and 4 Agents on SWE Tasks: Go, Java, Python, Rust, TS"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://victoriametrics.com/blog/go-1-27/",
-    "title": "Go 1.27 interactive tour"
+    "url": "https://xn--gckvb8fzb.com/a-gtk4-ssh-askpass-in-zig/",
+    "title": "A GTK4 SSH-askpass in Zig"
   },
   {
     "source": "lobsters",
     "url": "https://andre.arko.net/2026/07/30/ruby-centrals-destructive-legacy/",
     "title": "Ruby Central's Destructive Legacy"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://victoriametrics.com/blog/go-1-27/",
+    "title": "Go 1.27 interactive tour"
   },
   {
     "source": "lobsters",
@@ -131,11 +136,6 @@
   },
   {
     "source": "lobsters",
-    "url": "https://futhark-lang.org/blog/2026-07-31-full-flattening.html",
-    "title": "Full flattening of nested data parallelism"
-  },
-  {
-    "source": "lobsters",
     "url": "https://blainsmith.com/articles/reinventing-the-wheel/",
     "title": "The Wheels We Keep Reinventing"
   },
@@ -146,6 +146,16 @@
   },
   {
     "source": "lobsters",
+    "url": "https://futhark-lang.org/blog/2026-07-31-full-flattening.html",
+    "title": "Full flattening of nested data parallelism"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://weinholt.se/articles/state-of-chezscheme-in-debian/",
+    "title": "The State of Chez Scheme in Debian"
+  },
+  {
+    "source": "lobsters",
     "url": "https://secretspec.dev/blog/where-env-went-wrong/",
     "title": "Where .env Went Wrong"
   },
@@ -153,11 +163,6 @@
     "source": "lobsters",
     "url": "https://beza1e1.tuxen.de/git_two_users.html",
     "title": "Accepting a messy git history"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://weinholt.se/articles/state-of-chezscheme-in-debian/",
-    "title": "The State of Chez Scheme in Debian"
   },
   {
     "source": "lobsters",
@@ -173,5 +178,60 @@
     "source": "lobsters",
     "url": "https://diatone.net/methinks",
     "title": "Methinks it is a weasel"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://franktisellano.github.io/datatype/",
+    "title": "Datatype — variable font that turns text into charts"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://micrologics.org/blog/sqlite-in-production-optimizing-wal-mode-concurrency-and-vfs-layers-for-low-latency-app-servers",
+    "title": "SQLite in Production: Optimizing WAL Mode, Concurrency, and VFS Layers for Low-Latency App Servers | Micrologics"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://fermisense.com/when-machines-take-the-wheel/",
+    "title": "The Rise of Intelligence Ownership: a task-trained open source model vs the frontier"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://christianselig.com/2026/07/vision-pro-house/",
+    "title": "The coolest use for the Vision Pro"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://docs.espressif.com/projects/rust/book/",
+    "title": "Introduction - The Rust on ESP Book"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.superlogical.com/",
+    "title": "Superlogical"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://tailscale.com/blog/jailbroken-kindle-proxy-tun-modes",
+    "title": "Jailbroken Kindles can now do more with Tailscale"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://prilik.com/blog/post/automating-ac-nyc/",
+    "title": "Turning a Dumb AC Unit Smart (Without Losing my Security Deposit) :: prilik's blog"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://sebastianraschka.com/blog/2026/kimi-k3-architecture-notes.html",
+    "title": "Kimi K3 Architecture Notes | Sebastian Raschka, PhD"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://nikolays.github.io/PGSimCity/",
+    "title": "PGSimCity · How PostgreSQL Works, in 3D"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/",
+    "title": "Read This Before You Buy That TV Streaming Stick – Krebs on Security"
   }
 ]
