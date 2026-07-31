@@ -6,6 +6,16 @@
   },
   {
     "source": "hn",
+    "url": "https://blog.google/security/chrome-stronger-with-every-update/",
+    "title": "Google fixed more Chrome bugs in June than over the past two years, thanks to AI"
+  },
+  {
+    "source": "hn",
+    "url": "https://artificialanalysis.ai/models/deepseek-v4-flash-ga",
+    "title": "DeepSeek V4 Flash 0731 Intelligence, Performance and Price Analysis"
+  },
+  {
+    "source": "hn",
     "url": "https://api-docs.deepseek.com/updates/",
     "title": "DeepSeek-V4-Flash Update"
   },
@@ -16,18 +26,8 @@
   },
   {
     "source": "hn",
-    "url": "https://www.bunniestudios.com/blog/2013/where-usb-memory-sticks-are-born/",
-    "title": "Where USB Memory Sticks are Born (2013)"
-  },
-  {
-    "source": "hn",
     "url": "https://fzakaria.com/2026/07/27/the-mean-means-nothing",
     "title": "The mean means nothing: data visualization to debug a latency problem"
-  },
-  {
-    "source": "hn",
-    "url": "https://graybeard.ing/the-religion-of-speed/",
-    "title": "The Religion of Speed"
   },
   {
     "source": "hn",
@@ -36,13 +36,33 @@
   },
   {
     "source": "hn",
-    "url": "https://blog.jim-nielsen.com/2026/ai-aesthetic/",
-    "title": "The AI Aesthetic"
+    "url": "https://www.bunniestudios.com/blog/2013/where-usb-memory-sticks-are-born/",
+    "title": "Where USB Memory Sticks are Born (2013)"
+  },
+  {
+    "source": "hn",
+    "url": "https://graybeard.ing/the-religion-of-speed/",
+    "title": "The Religion of Speed"
   },
   {
     "source": "hn",
     "url": "https://ccsim.fly.dev",
     "title": "Simulating TCP loss and congestion in browser using Go/WASM"
+  },
+  {
+    "source": "hn",
+    "url": "https://jssfr.de/2026-07-27-bad-apple-but-traceroute.html",
+    "title": "Bad Apple but It's Traceroute"
+  },
+  {
+    "source": "hn",
+    "url": "https://blog.jim-nielsen.com/2026/ai-aesthetic/",
+    "title": "The AI Aesthetic"
+  },
+  {
+    "source": "hn",
+    "url": "https://thereader.mitpress.mit.edu/the-lost-civic-life-of-movie-rental-stores/",
+    "title": "The lost civic life of movie rental stores"
   },
   {
     "source": "hn",
@@ -55,29 +75,9 @@
     "title": "Rune 1.1: adds Python, an Emacs editor, a symbol index and is now free"
   },
   {
-    "source": "hn",
-    "url": "https://buttondown.com/theswordandthesandwich/archive/the-best-american-grilled-cheese-sandwich-essay/",
-    "title": "The American Grilled Cheese Sandwich Essay (2024)"
-  },
-  {
-    "source": "hn",
-    "url": "https://jssfr.de/2026-07-27-bad-apple-but-traceroute.html",
-    "title": "Bad Apple but It's Traceroute"
-  },
-  {
-    "source": "hn",
-    "url": "https://thereader.mitpress.mit.edu/the-lost-civic-life-of-movie-rental-stores/",
-    "title": "The lost civic life of movie rental stores"
-  },
-  {
-    "source": "hn",
-    "url": "https://kedge.dev/",
-    "title": "Show HN: Kedge – Full-stack cloud with forkable VM snapshots and global SQLite"
-  },
-  {
     "source": "lobsters",
-    "url": "https://kttnr.net/blog/cpp-float-to-int-conversion-undefined-behavior/",
-    "title": "C++ float-to-int conversion can be undefined behavior"
+    "url": "https://nnethercote.github.io/2026/07/31/how-to-speed-up-the-rust-compiler-in-july-2026.html",
+    "title": "How to speed up the Rust compiler in July 2026"
   },
   {
     "source": "lobsters",
@@ -86,13 +86,23 @@
   },
   {
     "source": "lobsters",
-    "url": "https://nnethercote.github.io/2026/07/31/how-to-speed-up-the-rust-compiler-in-july-2026.html",
-    "title": "How to speed up the Rust compiler in July 2026"
+    "url": "https://kttnr.net/blog/cpp-float-to-int-conversion-undefined-behavior/",
+    "title": "C++ float-to-int conversion can be undefined behavior"
   },
   {
     "source": "lobsters",
     "url": "https://www.rafa.ee/articles/progressive-enhanced-forms-htmx/",
     "title": "Building Progressively Enhanced Forms Using htmx"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://futhark-lang.org/blog/2026-07-31-full-flattening.html",
+    "title": "Full flattening of nested data parallelism"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://blog.exe.dev/billable-facts",
+    "title": "Stripe Just Wants a Number"
   },
   {
     "source": "lobsters",
@@ -123,16 +133,6 @@
     "source": "lobsters",
     "url": "https://po-ru.com/2026/07/29/it-doesnt-matter-whether-matz-is-nice",
     "title": "It doesn’t matter whether “Matz is nice”"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://cheriot.org/silicon/2026/03/04/cheriot-first-silicon.html",
-    "title": "First CHERIoT Silicon"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://anirudh.fi/strain",
-    "title": "The strain in your brain"
   },
   {
     "source": "lobsters",
