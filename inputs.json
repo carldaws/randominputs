@@ -16,18 +16,13 @@
   },
   {
     "source": "hn",
+    "url": "https://www.historytoday.com/archive/portrait-author-historian/absurdity-albert-camus",
+    "title": "The Absurdity of Albert Camus"
+  },
+  {
+    "source": "hn",
     "url": "https://arielsalminen.com/2026/progressive-web-components/",
     "title": "Progressive Web Components"
-  },
-  {
-    "source": "hn",
-    "url": "https://maurycyz.com/misc/tungsten/",
-    "title": "Increasing the lifespan of a bulb makes it worse in every other way"
-  },
-  {
-    "source": "hn",
-    "url": "https://servo.org/blog/2026/07/31/june-in-servo/",
-    "title": "June in Servo: real world compat, media queries, SharedWorker, and more"
   },
   {
     "source": "hn",
@@ -36,13 +31,13 @@
   },
   {
     "source": "hn",
-    "url": "https://artificialanalysis.ai/models/deepseek-v4-flash",
-    "title": "DeepSeek V4 Flash 0731 Intelligence, Performance and Price Analysis"
+    "url": "https://servo.org/blog/2026/07/31/june-in-servo/",
+    "title": "June in Servo: real world compat, media queries, SharedWorker, and more"
   },
   {
     "source": "hn",
-    "url": "https://www.historytoday.com/archive/portrait-author-historian/absurdity-albert-camus",
-    "title": "The Absurdity of Albert Camus"
+    "url": "https://artificialanalysis.ai/models/deepseek-v4-flash",
+    "title": "DeepSeek V4 Flash 0731 Intelligence, Performance and Price Analysis"
   },
   {
     "source": "hn",
@@ -51,8 +46,18 @@
   },
   {
     "source": "hn",
+    "url": "https://cgjennings.ca/articles/jpeg-compression/",
+    "title": "How JPEG works: Interactively explore JPEG's lossy compression methods"
+  },
+  {
+    "source": "hn",
     "url": "https://blog.marcua.net/2026/07/31/authorize-dont-authenticate.html",
     "title": "Authorize, don't authenticate"
+  },
+  {
+    "source": "hn",
+    "url": "https://signoregalilei.com/2026/07/26/the-most-official-water-costs-120000-a-gallon/",
+    "title": "The most official water costs $120k a gallon"
   },
   {
     "source": "hn",
@@ -66,33 +71,23 @@
   },
   {
     "source": "hn",
-    "url": "https://jwlabs.vercel.app/post/biting-the-bullet",
-    "title": "Predictive Speculative KV Replication for Bursty LLM Inference"
-  },
-  {
-    "source": "hn",
-    "url": "https://signoregalilei.com/2026/07/26/the-most-official-water-costs-120000-a-gallon/",
-    "title": "The most official water costs $120k a gallon"
-  },
-  {
-    "source": "hn",
     "url": "https://manifest.build/blog/why-we-deprecated-our-llm-router/",
     "title": "Everyone is building LLM routers, we deprecated ours"
   },
   {
     "source": "hn",
-    "url": "https://www.historytoday.com/archive/feature/britains-new-world-tobacco",
-    "title": "Britain's New World of Tobacco (2017)"
-  },
-  {
-    "source": "hn",
-    "url": "https://cgjennings.ca/articles/jpeg-compression/",
-    "title": "How JPEG works: Interactively explore JPEG's lossy compression methods"
+    "url": "https://jwlabs.vercel.app/post/biting-the-bullet",
+    "title": "Predictive Speculative KV Replication for Bursty LLM Inference"
   },
   {
     "source": "hn",
     "url": "https://semyonsinchenko.github.io/ssinchenko/post/datafusion-graphs-cc-2/",
     "title": "Algorithms on billion-scale graph using 10GB RAM: I love DataFusion"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.historytoday.com/archive/feature/britains-new-world-tobacco",
+    "title": "Britain's New World of Tobacco (2017)"
   },
   {
     "source": "lobsters",
@@ -116,13 +111,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://blog.exe.dev/billable-facts",
-    "title": "Stripe Just Wants a Number"
+    "url": "https://tusharhero.codeberg.page/guix-shell-in-emacs.html",
+    "title": "Guix shell now inside Emacs"
   },
   {
     "source": "lobsters",
-    "url": "https://tusharhero.codeberg.page/guix-shell-in-emacs.html",
-    "title": "Guix shell now inside Emacs"
+    "url": "https://blog.exe.dev/billable-facts",
+    "title": "Stripe Just Wants a Number"
   },
   {
     "source": "lobsters",
@@ -168,5 +163,60 @@
     "source": "lobsters",
     "url": "https://diatone.net/methinks",
     "title": "Methinks it is a weasel"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://franktisellano.github.io/datatype/",
+    "title": "Datatype — variable font that turns text into charts"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://micrologics.org/blog/sqlite-in-production-optimizing-wal-mode-concurrency-and-vfs-layers-for-low-latency-app-servers",
+    "title": "SQLite in Production: Optimizing WAL Mode, Concurrency, and VFS Layers for Low-Latency App Servers | Micrologics"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://fermisense.com/when-machines-take-the-wheel/",
+    "title": "The Rise of Intelligence Ownership: a task-trained open source model vs the frontier"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://christianselig.com/2026/07/vision-pro-house/",
+    "title": "The coolest use for the Vision Pro"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://docs.espressif.com/projects/rust/book/",
+    "title": "Introduction - The Rust on ESP Book"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.superlogical.com/",
+    "title": "Superlogical"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://tailscale.com/blog/jailbroken-kindle-proxy-tun-modes",
+    "title": "Jailbroken Kindles can now do more with Tailscale"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://prilik.com/blog/post/automating-ac-nyc/",
+    "title": "Turning a Dumb AC Unit Smart (Without Losing my Security Deposit) :: prilik's blog"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://sebastianraschka.com/blog/2026/kimi-k3-architecture-notes.html",
+    "title": "Kimi K3 Architecture Notes | Sebastian Raschka, PhD"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://nikolays.github.io/PGSimCity/",
+    "title": "PGSimCity · How PostgreSQL Works, in 3D"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/",
+    "title": "Read This Before You Buy That TV Streaming Stick – Krebs on Security"
   }
 ]
