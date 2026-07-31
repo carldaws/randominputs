@@ -1,18 +1,13 @@
 [
   {
     "source": "hn",
+    "url": "https://john.fun/elevators",
+    "title": "Elevators"
+  },
+  {
+    "source": "hn",
     "url": "https://artificialanalysis.ai/models/deepseek-v4-flash-ga",
     "title": "DeepSeek V4 Flash 0731 Intelligence, Performance and Price Analysis"
-  },
-  {
-    "source": "hn",
-    "url": "https://hughhowey.com/the-end-of-an-era/",
-    "title": "The End of an Era"
-  },
-  {
-    "source": "hn",
-    "url": "https://earendil.com/posts/session-portability/",
-    "title": "The session you cannot take with you"
   },
   {
     "source": "hn",
@@ -21,33 +16,38 @@
   },
   {
     "source": "hn",
+    "url": "https://earendil.com/posts/session-portability/",
+    "title": "The session you cannot take with you"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.wired.com/story/defcon-34-badge-baochip-andrew-bunnie-huang/",
+    "title": "New Defcon Badges Pack a Unique Open-Source Chip That Doubles as a Security Key"
+  },
+  {
+    "source": "hn",
+    "url": "https://hyperbo.la/w/winding-down-artichoke-ruby/",
+    "title": "Winding Down Artichoke Ruby"
+  },
+  {
+    "source": "hn",
     "url": "https://api-docs.deepseek.com/updates/",
     "title": "DeepSeek-V4-Flash Update"
   },
   {
     "source": "hn",
-    "url": "https://fzakaria.com/2026/07/27/the-mean-means-nothing",
-    "title": "The mean means nothing: data visualization to debug a latency problem"
+    "url": "https://www.bloomberg.com/news/articles/2026-07-31/moonshot-s-kimi-built-on-20-000-nvidia-chip-cluster-from-alibaba",
+    "title": "Moonshot built on 20k Nvidia chip cluster from Alibaba"
   },
   {
     "source": "hn",
-    "url": "https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/",
-    "title": "Read this before you buy that TV streaming stick"
+    "url": "https://pluralistic.net/2026/07/31/just-do-it/",
+    "title": "Better to Beg Forgiveness"
   },
   {
     "source": "hn",
-    "url": "https://graybeard.ing/the-religion-of-speed/",
-    "title": "The Religion of Speed"
-  },
-  {
-    "source": "hn",
-    "url": "https://clereviewofbooks.com/we-shall-dwell-amidst-wonder-and-glory-for-ever-on-weird-fiction/",
-    "title": "We shall dwell amidst wonder and glory for ever: On weird fiction"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.bunniestudios.com/blog/2013/where-usb-memory-sticks-are-born/",
-    "title": "Where USB Memory Sticks are Born (2013)"
+    "url": "https://hughhowey.com/the-end-of-an-era/",
+    "title": "The End of an Era"
   },
   {
     "source": "hn",
@@ -56,38 +56,48 @@
   },
   {
     "source": "hn",
+    "url": "https://fzakaria.com/2026/07/27/the-mean-means-nothing",
+    "title": "The mean means nothing: data visualization to debug a latency problem"
+  },
+  {
+    "source": "hn",
+    "url": "https://clereviewofbooks.com/we-shall-dwell-amidst-wonder-and-glory-for-ever-on-weird-fiction/",
+    "title": "We shall dwell amidst wonder and glory for ever: On weird fiction"
+  },
+  {
+    "source": "hn",
+    "url": "https://web.stanford.edu/~cgpotts/blog/cot/",
+    "title": "The fragile foundations of CoT monitoring"
+  },
+  {
+    "source": "hn",
+    "url": "https://graybeard.ing/the-religion-of-speed/",
+    "title": "The Religion of Speed"
+  },
+  {
+    "source": "hn",
+    "url": "https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/",
+    "title": "Read this before you buy that TV streaming stick"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.bunniestudios.com/blog/2013/where-usb-memory-sticks-are-born/",
+    "title": "Where USB Memory Sticks are Born (2013)"
+  },
+  {
+    "source": "hn",
+    "url": "https://broadbandbreakfast.com/how-to-fight-back-against-fraudulent-robocalls/",
+    "title": "Anti-fraud tools can't keep pace with scammers exploiting cheap internet calling"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.wsj.com/finance/investing/situational-awareness-down-67-in-july-in-ai-stock-rout-cd19901f",
+    "title": "Situational Awareness Down 67% in July in AI Stock Rout"
+  },
+  {
+    "source": "hn",
     "url": "https://ccsim.fly.dev",
     "title": "Simulating TCP loss and congestion in browser using Go/WASM"
-  },
-  {
-    "source": "hn",
-    "url": "https://jssfr.de/2026-07-27-bad-apple-but-traceroute.html",
-    "title": "Bad Apple but It's Traceroute"
-  },
-  {
-    "source": "hn",
-    "url": "https://thereader.mitpress.mit.edu/the-lost-civic-life-of-movie-rental-stores/",
-    "title": "The lost civic life of movie rental stores"
-  },
-  {
-    "source": "hn",
-    "url": "https://andre.arko.net/2026/07/30/ruby-centrals-destructive-legacy/",
-    "title": "Ruby Central's Destructive Legacy"
-  },
-  {
-    "source": "hn",
-    "url": "https://blog.jim-nielsen.com/2026/ai-aesthetic/",
-    "title": "The AI Aesthetic"
-  },
-  {
-    "source": "hn",
-    "url": "https://rune.build/blog/rune-1-1-release",
-    "title": "Rune 1.1: adds Python, an Emacs editor, a symbol index and is now free"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://nnethercote.github.io/2026/07/31/how-to-speed-up-the-rust-compiler-in-july-2026.html",
-    "title": "How to speed up the Rust compiler in July 2026"
   },
   {
     "source": "lobsters",
@@ -96,8 +106,18 @@
   },
   {
     "source": "lobsters",
+    "url": "https://nnethercote.github.io/2026/07/31/how-to-speed-up-the-rust-compiler-in-july-2026.html",
+    "title": "How to speed up the Rust compiler in July 2026"
+  },
+  {
+    "source": "lobsters",
     "url": "https://blog.exe.dev/billable-facts",
     "title": "Stripe Just Wants a Number"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://futhark-lang.org/blog/2026-07-31-full-flattening.html",
+    "title": "Full flattening of nested data parallelism"
   },
   {
     "source": "lobsters",
@@ -106,8 +126,23 @@
   },
   {
     "source": "lobsters",
-    "url": "https://futhark-lang.org/blog/2026-07-31-full-flattening.html",
-    "title": "Full flattening of nested data parallelism"
+    "url": "https://blog.jim-nielsen.com/2026/ai-aesthetic/",
+    "title": "The AI Aesthetic"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://casualhacks.net/blog/2026-07-27-why-i-forked-rand.html",
+    "title": "Why I forked rand"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://andre.arko.net/2026/07/30/ruby-centrals-destructive-legacy/",
+    "title": "Ruby Central's Destructive Legacy"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://bower.sh/what-the-double-fork",
+    "title": "what the double-fork?"
   },
   {
     "source": "lobsters",
@@ -121,32 +156,67 @@
   },
   {
     "source": "lobsters",
+    "url": "https://diatone.net/methinks",
+    "title": "Methinks it is a weasel"
+  },
+  {
+    "source": "lobsters",
     "url": "https://felix-knorr.net/posts/2026-07-31-lsp-config.html",
     "title": "Project-Specific clangd Configuration with a Temporary Shell"
   },
   {
     "source": "lobsters",
-    "url": "https://logicforprogrammers.com/",
-    "title": "Logic for Programmers"
+    "url": "https://secretspec.dev/blog/where-env-went-wrong/",
+    "title": "Where .env Went Wrong"
   },
   {
-    "source": "lobsters",
-    "url": "https://crowdhailer.me/2026-07-30/a-universal-approach-to-mocking/",
-    "title": "A universal approach to mocking with continuations"
+    "source": "pinboard",
+    "url": "https://franktisellano.github.io/datatype/",
+    "title": "Datatype — variable font that turns text into charts"
   },
   {
-    "source": "lobsters",
-    "url": "https://labs.quansight.org/blog/scaling-numpy-on-free-threaded-python",
-    "title": "Scaling NumPy on Free-Threaded Python"
+    "source": "pinboard",
+    "url": "https://micrologics.org/blog/sqlite-in-production-optimizing-wal-mode-concurrency-and-vfs-layers-for-low-latency-app-servers",
+    "title": "SQLite in Production: Optimizing WAL Mode, Concurrency, and VFS Layers for Low-Latency App Servers | Micrologics"
   },
   {
-    "source": "lobsters",
-    "url": "https://marcin.juszkiewicz.com.pl/2026/07/29/new-keyboard-alicja-v2/",
-    "title": "New keyboard: Alicjav2"
+    "source": "pinboard",
+    "url": "https://fermisense.com/when-machines-take-the-wheel/",
+    "title": "The Rise of Intelligence Ownership: a task-trained open source model vs the frontier"
   },
   {
-    "source": "lobsters",
-    "url": "https://ethiack.com/info-hub/research/kindarails2shell-rails-rce-cve-2026-66066",
-    "title": "KindaRails2Shell - Critical RCE in Rails via Active Storage (CVE-2026-66066)"
+    "source": "pinboard",
+    "url": "https://christianselig.com/2026/07/vision-pro-house/",
+    "title": "The coolest use for the Vision Pro"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://docs.espressif.com/projects/rust/book/",
+    "title": "Introduction - The Rust on ESP Book"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.superlogical.com/",
+    "title": "Superlogical"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://tailscale.com/blog/jailbroken-kindle-proxy-tun-modes",
+    "title": "Jailbroken Kindles can now do more with Tailscale"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://prilik.com/blog/post/automating-ac-nyc/",
+    "title": "Turning a Dumb AC Unit Smart (Without Losing my Security Deposit) :: prilik's blog"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://sebastianraschka.com/blog/2026/kimi-k3-architecture-notes.html",
+    "title": "Kimi K3 Architecture Notes | Sebastian Raschka, PhD"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://nikolays.github.io/PGSimCity/",
+    "title": "PGSimCity · How PostgreSQL Works, in 3D"
   }
 ]
