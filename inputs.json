@@ -21,6 +21,11 @@
   },
   {
     "source": "hn",
+    "url": "https://servo.org/blog/2026/07/31/june-in-servo/",
+    "title": "June in Servo: real world compat, media queries, SharedWorker, and more"
+  },
+  {
+    "source": "hn",
     "url": "https://arielsalminen.com/2026/progressive-web-components/",
     "title": "Progressive Web Components"
   },
@@ -31,13 +36,8 @@
   },
   {
     "source": "hn",
-    "url": "https://servo.org/blog/2026/07/31/june-in-servo/",
-    "title": "June in Servo: real world compat, media queries, SharedWorker, and more"
-  },
-  {
-    "source": "hn",
-    "url": "https://artificialanalysis.ai/models/deepseek-v4-flash",
-    "title": "DeepSeek V4 Flash 0731 Intelligence, Performance and Price Analysis"
+    "url": "https://www.jeffgeerling.com/blog/2026/getting-25g-ethernet-mac-thunderbolt/",
+    "title": "Getting 25 Gbps Thunderbolt Ethernet on My Mac Studio"
   },
   {
     "source": "hn",
@@ -46,13 +46,13 @@
   },
   {
     "source": "hn",
-    "url": "https://cgjennings.ca/articles/jpeg-compression/",
-    "title": "How JPEG works: Interactively explore JPEG's lossy compression methods"
+    "url": "https://www.raptitude.com/2026/07/how-to-exist/",
+    "title": "How to Exist"
   },
   {
     "source": "hn",
-    "url": "https://blog.marcua.net/2026/07/31/authorize-dont-authenticate.html",
-    "title": "Authorize, don't authenticate"
+    "url": "https://cgjennings.ca/articles/jpeg-compression/",
+    "title": "How JPEG works: Interactively explore JPEG's lossy compression methods"
   },
   {
     "source": "hn",
@@ -61,23 +61,13 @@
   },
   {
     "source": "hn",
-    "url": "https://www.jeffgeerling.com/blog/2026/getting-25g-ethernet-mac-thunderbolt/",
-    "title": "Getting 25 Gbps Thunderbolt Ethernet on My Mac Studio"
-  },
-  {
-    "source": "hn",
     "url": "https://www.theexamination.org/articles/red-bull-funded-research-energy-drinks-alcohol",
     "title": "Dubious research tied to Red Bull has shaped energy drink policy"
   },
   {
     "source": "hn",
-    "url": "https://manifest.build/blog/why-we-deprecated-our-llm-router/",
-    "title": "Everyone is building LLM routers, we deprecated ours"
-  },
-  {
-    "source": "hn",
-    "url": "https://jwlabs.vercel.app/post/biting-the-bullet",
-    "title": "Predictive Speculative KV Replication for Bursty LLM Inference"
+    "url": "https://blog.marcua.net/2026/07/31/authorize-dont-authenticate.html",
+    "title": "Authorize, don't authenticate"
   },
   {
     "source": "hn",
@@ -86,8 +76,18 @@
   },
   {
     "source": "hn",
-    "url": "https://www.historytoday.com/archive/feature/britains-new-world-tobacco",
-    "title": "Britain's New World of Tobacco (2017)"
+    "url": "https://jwlabs.vercel.app/post/biting-the-bullet",
+    "title": "Predictive Speculative KV Replication for Bursty LLM Inference"
+  },
+  {
+    "source": "hn",
+    "url": "https://manifest.build/blog/why-we-deprecated-our-llm-router/",
+    "title": "Everyone is building LLM routers, we deprecated ours"
+  },
+  {
+    "source": "hn",
+    "url": "https://code.intellios.ai/cwbrowser/",
+    "title": "Show HN: I worked on a new browser for 2 years, today it passed Acid 3"
   },
   {
     "source": "lobsters",
@@ -106,23 +106,23 @@
   },
   {
     "source": "lobsters",
-    "url": "https://nnethercote.github.io/2026/07/31/how-to-speed-up-the-rust-compiler-in-july-2026.html",
-    "title": "How to speed up the Rust compiler in July 2026"
-  },
-  {
-    "source": "lobsters",
     "url": "https://tusharhero.codeberg.page/guix-shell-in-emacs.html",
     "title": "Guix shell now inside Emacs"
   },
   {
     "source": "lobsters",
-    "url": "https://blog.exe.dev/billable-facts",
-    "title": "Stripe Just Wants a Number"
+    "url": "https://nnethercote.github.io/2026/07/31/how-to-speed-up-the-rust-compiler-in-july-2026.html",
+    "title": "How to speed up the Rust compiler in July 2026"
   },
   {
     "source": "lobsters",
     "url": "https://blainsmith.com/articles/reinventing-the-wheel/",
     "title": "The Wheels We Keep Reinventing"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://blog.exe.dev/billable-facts",
+    "title": "Stripe Just Wants a Number"
   },
   {
     "source": "lobsters",
@@ -136,18 +136,23 @@
   },
   {
     "source": "lobsters",
-    "url": "https://beza1e1.tuxen.de/git_two_users.html",
-    "title": "Accepting a messy git history"
-  },
-  {
-    "source": "lobsters",
     "url": "https://weinholt.se/articles/state-of-chezscheme-in-debian/",
     "title": "The State of Chez Scheme in Debian"
   },
   {
     "source": "lobsters",
+    "url": "https://beza1e1.tuxen.de/git_two_users.html",
+    "title": "Accepting a messy git history"
+  },
+  {
+    "source": "lobsters",
     "url": "https://secretspec.dev/blog/where-env-went-wrong/",
     "title": "Where .env Went Wrong"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://diatone.net/methinks",
+    "title": "Methinks it is a weasel"
   },
   {
     "source": "lobsters",
@@ -158,11 +163,6 @@
     "source": "lobsters",
     "url": "https://blog.jim-nielsen.com/2026/ai-aesthetic/",
     "title": "The AI Aesthetic"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://diatone.net/methinks",
-    "title": "Methinks it is a weasel"
   },
   {
     "source": "pinboard",
