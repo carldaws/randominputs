@@ -1,6 +1,11 @@
 [
   {
     "source": "hn",
+    "url": "https://weeraman.com/the-prototype-isnt-the-product/",
+    "title": "AI doesn't generate working products, that's still your job"
+  },
+  {
+    "source": "hn",
     "url": "https://john.fun/elevators",
     "title": "Elevators"
   },
@@ -16,6 +21,11 @@
   },
   {
     "source": "hn",
+    "url": "https://paulgraham.com/greatwork.html",
+    "title": "How to Do Great Work"
+  },
+  {
+    "source": "hn",
     "url": "https://sundry.jerryorr.com/2026/07/31/development-pipeline-is-a-production-system",
     "title": "The development pipeline is a production system"
   },
@@ -26,13 +36,18 @@
   },
   {
     "source": "hn",
+    "url": "https://gmic.eu/gmic40/",
+    "title": "G'mic 4.0: Squaring the Pixel, Easier"
+  },
+  {
+    "source": "hn",
     "url": "https://rocm.blogs.amd.com/software-tools-optimization/gluon-attention-decode-mi450/README.html",
     "title": "Attention Decode on AMD MI450 GPUs: A Gluon Kernel Optimization Guide"
   },
   {
     "source": "hn",
-    "url": "https://arielsalminen.com/2026/progressive-web-components/",
-    "title": "Progressive Web Components"
+    "url": "https://ephemeralnewyork.wordpress.com/2026/07/27/hidden-by-billboards-for-over-100-years-the-tiny-holdout-building-in-the-middle-of-macys-is-back-in-view/",
+    "title": "A tiny holdout building in the middle of Macy’s is back in view"
   },
   {
     "source": "hn",
@@ -46,18 +61,8 @@
   },
   {
     "source": "hn",
-    "url": "https://ephemeralnewyork.wordpress.com/2026/07/27/hidden-by-billboards-for-over-100-years-the-tiny-holdout-building-in-the-middle-of-macys-is-back-in-view/",
-    "title": "A tiny holdout building in the middle of Macy’s is back in view"
-  },
-  {
-    "source": "hn",
-    "url": "https://piegames.de/dumps/a-week-in-matrix/",
-    "title": "A week in Matrix"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.jeffgeerling.com/blog/2026/getting-25g-ethernet-mac-thunderbolt/",
-    "title": "Getting 25 Gbps Thunderbolt Ethernet on My Mac Studio"
+    "url": "https://blog.victorsilva.com.uy/aws-secrets-manager-terraform-least-privilege/",
+    "title": "AWS Secrets Manager Terraform: Least-Privilege Access"
   },
   {
     "source": "hn",
@@ -66,13 +71,18 @@
   },
   {
     "source": "hn",
-    "url": "https://www.lighthousereports.com/investigation/big-food-vs-the-people/",
-    "title": "Big Food vs. the People"
+    "url": "https://www.jeffgeerling.com/blog/2026/getting-25g-ethernet-mac-thunderbolt/",
+    "title": "Getting 25 Gbps Thunderbolt Ethernet on My Mac Studio"
   },
   {
     "source": "hn",
-    "url": "https://innig.net/teaching/liberal-arts-manifesto",
-    "title": "What liberal arts education is for (2024)"
+    "url": "https://arielsalminen.com/2026/progressive-web-components/",
+    "title": "Progressive Web Components"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.lighthousereports.com/investigation/big-food-vs-the-people/",
+    "title": "Big Food vs. the People"
   },
   {
     "source": "hn",
@@ -81,23 +91,13 @@
   },
   {
     "source": "hn",
-    "url": "https://zserge.com/posts/worst-htmx-ever/",
-    "title": "Let's make the worst Htmx"
-  },
-  {
-    "source": "hn",
     "url": "https://signoregalilei.com/2026/07/26/the-most-official-water-costs-120000-a-gallon/",
     "title": "The most official water costs $120k a gallon"
   },
   {
     "source": "hn",
-    "url": "https://tailscale.com/blog/hugging-face-intrusion",
-    "title": "Tailscale didn't stop the Hugging Face intrusion"
-  },
-  {
-    "source": "hn",
-    "url": "https://blog.marcua.net/2026/07/31/authorize-dont-authenticate.html",
-    "title": "Authorize, don't authenticate"
+    "url": "https://zserge.com/posts/worst-htmx-ever/",
+    "title": "Let's make the worst Htmx"
   },
   {
     "source": "lobsters",
@@ -146,6 +146,11 @@
   },
   {
     "source": "lobsters",
+    "url": "https://chreke.com/posts/i-fired-my-ai-assistant",
+    "title": "I Fired My AI Assitant"
+  },
+  {
+    "source": "lobsters",
     "url": "https://futhark-lang.org/blog/2026-07-31-full-flattening.html",
     "title": "Full flattening of nested data parallelism"
   },
@@ -153,11 +158,6 @@
     "source": "lobsters",
     "url": "https://weinholt.se/articles/state-of-chezscheme-in-debian/",
     "title": "The State of Chez Scheme in Debian"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://diatone.net/methinks",
-    "title": "Methinks it is a weasel"
   },
   {
     "source": "lobsters",
@@ -171,7 +171,67 @@
   },
   {
     "source": "lobsters",
-    "url": "https://knivesforcats.online/correlated-rng/",
-    "title": "Correlated RNG"
+    "url": "https://diatone.net/methinks",
+    "title": "Methinks it is a weasel"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://micrologics.org/blog/sqlite-in-production-optimizing-wal-mode-concurrency-and-vfs-layers-for-low-latency-app-servers",
+    "title": "SQLite in Production: Optimizing WAL Mode, Concurrency, and VFS Layers for Low-Latency App Servers | Micrologics"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.superlogical.com/",
+    "title": "Superlogical"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.schneier.com/blog/archives/2026/07/should-you-use-ai-for-a-task-heres-a-simple-way-to-decide.html",
+    "title": "Should You Use AI for a Task? Here’s a Simple Way to Decide - Schneier on Security"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://christianselig.com/2026/07/vision-pro-house/",
+    "title": "The coolest use for the Vision Pro"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://prilik.com/blog/post/automating-ac-nyc/",
+    "title": "Turning a Dumb AC Unit Smart (Without Losing my Security Deposit) :: prilik's blog"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://docs.espressif.com/projects/rust/book/",
+    "title": "Introduction - The Rust on ESP Book"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://tailscale.com/blog/jailbroken-kindle-proxy-tun-modes",
+    "title": "Jailbroken Kindles can now do more with Tailscale"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/",
+    "title": "Read This Before You Buy That TV Streaming Stick – Krebs on Security"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://blog.jim-nielsen.com/2026/ai-aesthetic/",
+    "title": "The AI Aesthetic - Jim Nielsen’s Blog"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://lastmuseum.com/",
+    "title": "Internet Security by Zscaler"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://hughhowey.com/the-end-of-an-era/",
+    "title": "The End of an Era - Hugh Howey"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://franktisellano.github.io/datatype/",
+    "title": "Datatype — variable font that turns text into charts"
   }
 ]
