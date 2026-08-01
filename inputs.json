@@ -1,23 +1,8 @@
 [
   {
     "source": "hn",
-    "url": "https://freeaipromptgen.com/",
-    "title": "Show HN: Free AI Prompt Gen – A local-first, open-source prompt engineering tool"
-  },
-  {
-    "source": "hn",
     "url": "https://john.fun/elevators",
     "title": "Elevators"
-  },
-  {
-    "source": "hn",
-    "url": "https://microsoft.github.io/flint-chart/",
-    "title": "Flint: A Visualization Language for the AI Era"
-  },
-  {
-    "source": "hn",
-    "url": "https://paulgraham.com/greatwork.html",
-    "title": "How to Do Great Work (2023)"
   },
   {
     "source": "hn",
@@ -26,8 +11,13 @@
   },
   {
     "source": "hn",
-    "url": "https://www.raptitude.com/2026/07/how-to-exist/",
-    "title": "How to Exist"
+    "url": "https://microsoft.github.io/flint-chart/",
+    "title": "Flint: A Visualization Language for the AI Era"
+  },
+  {
+    "source": "hn",
+    "url": "https://ephemeralnewyork.wordpress.com/2026/07/27/hidden-by-billboards-for-over-100-years-the-tiny-holdout-building-in-the-middle-of-macys-is-back-in-view/",
+    "title": "A tiny holdout building in the middle of Macy’s is back in view"
   },
   {
     "source": "hn",
@@ -36,8 +26,13 @@
   },
   {
     "source": "hn",
-    "url": "https://ephemeralnewyork.wordpress.com/2026/07/27/hidden-by-billboards-for-over-100-years-the-tiny-holdout-building-in-the-middle-of-macys-is-back-in-view/",
-    "title": "A tiny holdout building in the middle of Macy’s is back in view"
+    "url": "https://www.raptitude.com/2026/07/how-to-exist/",
+    "title": "How to Exist"
+  },
+  {
+    "source": "hn",
+    "url": "https://paulgraham.com/greatwork.html",
+    "title": "How to Do Great Work (2023)"
   },
   {
     "source": "hn",
@@ -51,18 +46,8 @@
   },
   {
     "source": "hn",
-    "url": "https://weeraman.com/the-prototype-isnt-the-product/",
-    "title": "AI doesn't generate working products, that's still your job"
-  },
-  {
-    "source": "hn",
-    "url": "https://blog.victorsilva.com.uy/aws-secrets-manager-terraform-least-privilege/",
-    "title": "AWS Secrets Manager Terraform: Least-Privilege Access"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.historytoday.com/archive/portrait-author-historian/absurdity-albert-camus",
-    "title": "The Absurdity of Albert Camus"
+    "url": "https://pubdeer.com/",
+    "title": "Astro Loop"
   },
   {
     "source": "hn",
@@ -71,13 +56,13 @@
   },
   {
     "source": "hn",
-    "url": "https://rocm.blogs.amd.com/software-tools-optimization/gluon-attention-decode-mi450/README.html",
-    "title": "Attention Decode on AMD MI450 GPUs: A Gluon Kernel Optimization Guide"
+    "url": "https://www.historytoday.com/archive/portrait-author-historian/absurdity-albert-camus",
+    "title": "The Absurdity of Albert Camus"
   },
   {
     "source": "hn",
-    "url": "https://servo.org/blog/2026/07/31/june-in-servo/",
-    "title": "June in Servo: real world compat, media queries, SharedWorker, and more"
+    "url": "https://rocm.blogs.amd.com/software-tools-optimization/gluon-attention-decode-mi450/README.html",
+    "title": "Attention Decode on AMD MI450 GPUs: A Gluon Kernel Optimization Guide"
   },
   {
     "source": "hn",
@@ -88,6 +73,11 @@
     "source": "hn",
     "url": "https://arielsalminen.com/2026/progressive-web-components/",
     "title": "Progressive Web Components"
+  },
+  {
+    "source": "hn",
+    "url": "https://servo.org/blog/2026/07/31/june-in-servo/",
+    "title": "June in Servo: real world compat, media queries, SharedWorker, and more"
   },
   {
     "source": "hn",
@@ -121,18 +111,28 @@
   },
   {
     "source": "lobsters",
-    "url": "https://tusharhero.codeberg.page/guix-shell-in-emacs.html",
-    "title": "Guix shell now inside Emacs"
-  },
-  {
-    "source": "lobsters",
     "url": "https://beza1e1.tuxen.de/git_two_users.html",
     "title": "Accepting a messy git history"
   },
   {
     "source": "lobsters",
+    "url": "https://tusharhero.codeberg.page/guix-shell-in-emacs.html",
+    "title": "Guix shell now inside Emacs"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://wezfurlong.org/wiff/",
+    "title": "wiff"
+  },
+  {
+    "source": "lobsters",
     "url": "https://blainsmith.com/articles/reinventing-the-wheel/",
     "title": "The Wheels We Keep Reinventing"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://bower.sh/what-the-double-fork",
+    "title": "what the double-fork?"
   },
   {
     "source": "lobsters",
@@ -143,11 +143,6 @@
     "source": "lobsters",
     "url": "https://blog.exe.dev/billable-facts",
     "title": "Stripe Just Wants a Number"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://bower.sh/what-the-double-fork",
-    "title": "what the double-fork?"
   },
   {
     "source": "lobsters",
@@ -171,72 +166,12 @@
   },
   {
     "source": "lobsters",
-    "url": "https://diatone.net/methinks",
-    "title": "Methinks it is a weasel"
+    "url": "https://spillhistorie.no/2025/09/11/norways-first-adventure-games-part-1/",
+    "title": "Norway's first adventure games"
   },
   {
     "source": "lobsters",
-    "url": "https://secretspec.dev/blog/where-env-went-wrong/",
-    "title": "Where .env Went Wrong"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://micrologics.org/blog/sqlite-in-production-optimizing-wal-mode-concurrency-and-vfs-layers-for-low-latency-app-servers",
-    "title": "SQLite in Production: Optimizing WAL Mode, Concurrency, and VFS Layers for Low-Latency App Servers | Micrologics"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.superlogical.com/",
-    "title": "Superlogical"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.schneier.com/blog/archives/2026/07/should-you-use-ai-for-a-task-heres-a-simple-way-to-decide.html",
-    "title": "Should You Use AI for a Task? Here’s a Simple Way to Decide - Schneier on Security"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://christianselig.com/2026/07/vision-pro-house/",
-    "title": "The coolest use for the Vision Pro"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://prilik.com/blog/post/automating-ac-nyc/",
-    "title": "Turning a Dumb AC Unit Smart (Without Losing my Security Deposit) :: prilik's blog"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://docs.espressif.com/projects/rust/book/",
-    "title": "Introduction - The Rust on ESP Book"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://tailscale.com/blog/jailbroken-kindle-proxy-tun-modes",
-    "title": "Jailbroken Kindles can now do more with Tailscale"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/",
-    "title": "Read This Before You Buy That TV Streaming Stick – Krebs on Security"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://blog.jim-nielsen.com/2026/ai-aesthetic/",
-    "title": "The AI Aesthetic - Jim Nielsen’s Blog"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://lastmuseum.com/",
-    "title": "Internet Security by Zscaler"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://hughhowey.com/the-end-of-an-era/",
-    "title": "The End of an Era - Hugh Howey"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://franktisellano.github.io/datatype/",
-    "title": "Datatype — variable font that turns text into charts"
+    "url": "https://diatone.net/methinks",
+    "title": "Methinks it is a weasel"
   }
 ]
