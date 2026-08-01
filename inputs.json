@@ -1,18 +1,13 @@
 [
   {
     "source": "hn",
-    "url": "https://openrss.org/blog/how-google-helped-destroy-adoption-of-rss-feeds",
-    "title": "How Google helped destroy adoption of RSS feeds (2023)"
+    "url": "https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5",
+    "title": "Seedance 2.5"
   },
   {
     "source": "hn",
     "url": "https://diataxis.fr/",
     "title": "Diátaxis"
-  },
-  {
-    "source": "hn",
-    "url": "https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5",
-    "title": "Seedance 2.5"
   },
   {
     "source": "hn",
@@ -26,8 +21,8 @@
   },
   {
     "source": "hn",
-    "url": "https://blog.netbsd.org/tnf/entry/netbsd_11_0_released",
-    "title": "NetBSD 11.0"
+    "url": "https://openrss.org/blog/how-google-helped-destroy-adoption-of-rss-feeds",
+    "title": "How Google helped destroy adoption of RSS feeds (2023)"
   },
   {
     "source": "hn",
@@ -36,13 +31,18 @@
   },
   {
     "source": "hn",
-    "url": "https://alexiglad.github.io/blog/2026/explorative_modeling/",
-    "title": "Explorative modeling: Train on the best of K guesses"
+    "url": "https://blog.netbsd.org/tnf/entry/netbsd_11_0_released",
+    "title": "NetBSD 11.0"
   },
   {
     "source": "hn",
     "url": "https://blog.gingerbeardman.com/2026/07/30/beltrunner-game-design-postmortem/",
     "title": "Beltrunner: Game Design Postmortem"
+  },
+  {
+    "source": "hn",
+    "url": "https://alexiglad.github.io/blog/2026/explorative_modeling/",
+    "title": "Explorative modeling: Train on the best of K guesses"
   },
   {
     "source": "hn",
@@ -56,18 +56,13 @@
   },
   {
     "source": "hn",
+    "url": "https://animeuserinterface.tumblr.com",
+    "title": "Anime User Interfaces"
+  },
+  {
+    "source": "hn",
     "url": "https://www.michaelgeist.ca/2026/07/a-surveillance-treaty-in-disguise-the-trouble-with-canadas-quiet-decision-to-sign-the-un-cybercrime-convention/",
     "title": "A Surveillance Treaty in Disguise: Canada Signs UN Cybercrime Convention"
-  },
-  {
-    "source": "hn",
-    "url": "https://rjp.io/blog/2026-07-19-register-deprivation",
-    "title": "Register deprivation: spills and runtime under forced register scarcity"
-  },
-  {
-    "source": "hn",
-    "url": "https://trufflesecurity.com/blog/scanning-7-6-petabytes-of-ai-training-data-for-secrets",
-    "title": "Scanning 7.6 Petabytes of HuggingFace Training Data for Secrets"
   },
   {
     "source": "hn",
@@ -76,18 +71,8 @@
   },
   {
     "source": "hn",
-    "url": "https://type.today/en/journal/dots",
-    "title": "Manual: •.,:;…!?·"
-  },
-  {
-    "source": "hn",
-    "url": "https://zaksa.zip/blog/silicon-valley-founder-meat-grinder/",
-    "title": "The Silicon Valley Founder Meat Grinder"
-  },
-  {
-    "source": "hn",
-    "url": "https://ephemeralnewyork.wordpress.com/2026/07/27/hidden-by-billboards-for-over-100-years-the-tiny-holdout-building-in-the-middle-of-macys-is-back-in-view/",
-    "title": "The tiny holdout building in the middle of Macy’s is back in view"
+    "url": "https://rjp.io/blog/2026-07-19-register-deprivation",
+    "title": "Register deprivation: spills and runtime under forced register scarcity"
   },
   {
     "source": "lobsters",
@@ -101,18 +86,23 @@
   },
   {
     "source": "lobsters",
-    "url": "https://john.fun/elevators",
-    "title": "Elevators"
-  },
-  {
-    "source": "lobsters",
     "url": "https://warez.sl0p.foo/apple-screensharing-rce/",
     "title": "Apple Screen Sharing Pre-Auth RCE"
   },
   {
     "source": "lobsters",
+    "url": "https://john.fun/elevators",
+    "title": "Elevators"
+  },
+  {
+    "source": "lobsters",
     "url": "https://andre.arko.net/2026/07/30/ruby-centrals-destructive-legacy/",
     "title": "Ruby Central's Destructive Legacy"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://linderud.dev/blog/resigning-from-arch-linux/",
+    "title": "Resigning from Arch Linux"
   },
   {
     "source": "lobsters",
@@ -126,13 +116,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://victoriametrics.com/blog/go-1-27/",
-    "title": "Go 1.27 interactive tour"
+    "url": "https://beza1e1.tuxen.de/git_two_users.html",
+    "title": "Accepting a messy git history"
   },
   {
     "source": "lobsters",
-    "url": "https://beza1e1.tuxen.de/git_two_users.html",
-    "title": "Accepting a messy git history"
+    "url": "https://victoriametrics.com/blog/go-1-27/",
+    "title": "Go 1.27 interactive tour"
   },
   {
     "source": "lobsters",
@@ -166,17 +156,67 @@
   },
   {
     "source": "lobsters",
-    "url": "https://servo.org/blog/2026/07/31/june-in-servo/",
-    "title": "June in Servo: real world compat, media queries, SharedWorker, and more"
+    "url": "https://piegames.de/dumps/a-week-in-matrix/",
+    "title": "A week in Matrix"
   },
   {
-    "source": "lobsters",
-    "url": "https://bower.sh/what-the-double-fork",
-    "title": "what the double-fork?"
+    "source": "pinboard",
+    "url": "https://micrologics.org/blog/sqlite-in-production-optimizing-wal-mode-concurrency-and-vfs-layers-for-low-latency-app-servers",
+    "title": "SQLite in Production: Optimizing WAL Mode, Concurrency, and VFS Layers for Low-Latency App Servers | Micrologics"
   },
   {
-    "source": "lobsters",
-    "url": "http://www.darknavy.org/blog/patch_in_exploit_out_how_deepsec_reconstructed_the_pwn2own_microsoft_edge_sandbox_escape/",
-    "title": "Patch In, Exploit Out: How deepsec Reconstructed the Pwn2Own Microsoft Edge Sandbox Escape"
+    "source": "pinboard",
+    "url": "https://www.superlogical.com/",
+    "title": "Superlogical"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.schneier.com/blog/archives/2026/07/should-you-use-ai-for-a-task-heres-a-simple-way-to-decide.html",
+    "title": "Should You Use AI for a Task? Here’s a Simple Way to Decide - Schneier on Security"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://christianselig.com/2026/07/vision-pro-house/",
+    "title": "The coolest use for the Vision Pro"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://prilik.com/blog/post/automating-ac-nyc/",
+    "title": "Turning a Dumb AC Unit Smart (Without Losing my Security Deposit) :: prilik's blog"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://docs.espressif.com/projects/rust/book/",
+    "title": "Introduction - The Rust on ESP Book"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://tailscale.com/blog/jailbroken-kindle-proxy-tun-modes",
+    "title": "Jailbroken Kindles can now do more with Tailscale"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/",
+    "title": "Read This Before You Buy That TV Streaming Stick – Krebs on Security"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://blog.jim-nielsen.com/2026/ai-aesthetic/",
+    "title": "The AI Aesthetic - Jim Nielsen’s Blog"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://lastmuseum.com/",
+    "title": "Internet Security by Zscaler"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://hughhowey.com/the-end-of-an-era/",
+    "title": "The End of an Era - Hugh Howey"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://franktisellano.github.io/datatype/",
+    "title": "Datatype — variable font that turns text into charts"
   }
 ]
