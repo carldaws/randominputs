@@ -6,18 +6,8 @@
   },
   {
     "source": "hn",
-    "url": "https://www.firerescue1.com/arson-investigation/articles/expert-firefighter-arson-a-long-standing-issue-xHXLFAdYVcQPiuPU/",
-    "title": "About 100 firefighters are convicted of arson, every year"
-  },
-  {
-    "source": "hn",
     "url": "https://microsoft.github.io/flint-chart/",
     "title": "Flint: A Visualization Language for the AI Era"
-  },
-  {
-    "source": "hn",
-    "url": "https://sundry.jerryorr.com/2026/07/31/development-pipeline-is-a-production-system",
-    "title": "The development pipeline is a production system"
   },
   {
     "source": "hn",
@@ -26,18 +16,18 @@
   },
   {
     "source": "hn",
+    "url": "https://sundry.jerryorr.com/2026/07/31/development-pipeline-is-a-production-system",
+    "title": "The development pipeline is a production system"
+  },
+  {
+    "source": "hn",
     "url": "https://www.ajwaxman.com/writing/software-for-one",
     "title": "Software for One"
   },
   {
     "source": "hn",
-    "url": "https://consumerrights.wiki/w/BMW_Spider-Man_in-car_advertising",
-    "title": "BMW Spider-Man in-car advertising"
-  },
-  {
-    "source": "hn",
-    "url": "https://piegames.de/dumps/a-week-in-matrix/",
-    "title": "A Week in Matrix"
+    "url": "https://rocm.blogs.amd.com/software-tools-optimization/gluon-attention-decode-mi450/README.html",
+    "title": "Attention Decode on AMD MI450 GPUs: A Gluon Kernel Optimization Guide"
   },
   {
     "source": "hn",
@@ -46,8 +36,28 @@
   },
   {
     "source": "hn",
-    "url": "https://innig.net/teaching/liberal-arts-manifesto",
-    "title": "What Liberal Arts Education Is for (2024)"
+    "url": "https://blog.google/security/chrome-stronger-with-every-update/",
+    "title": "Google fixed more Chrome bugs in June than over the past two years, thanks to AI"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.historytoday.com/archive/portrait-author-historian/absurdity-albert-camus",
+    "title": "The Absurdity of Albert Camus"
+  },
+  {
+    "source": "hn",
+    "url": "https://ephemeralnewyork.wordpress.com/2026/07/27/hidden-by-billboards-for-over-100-years-the-tiny-holdout-building-in-the-middle-of-macys-is-back-in-view/",
+    "title": "A tiny holdout building in the middle of Macy’s is back in view"
+  },
+  {
+    "source": "hn",
+    "url": "https://piegames.de/dumps/a-week-in-matrix/",
+    "title": "A week in Matrix"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.jeffgeerling.com/blog/2026/getting-25g-ethernet-mac-thunderbolt/",
+    "title": "Getting 25 Gbps Thunderbolt Ethernet on My Mac Studio"
   },
   {
     "source": "hn",
@@ -61,18 +71,13 @@
   },
   {
     "source": "hn",
-    "url": "https://www.jeffgeerling.com/blog/2026/getting-25g-ethernet-mac-thunderbolt/",
-    "title": "Getting 25 Gbps Thunderbolt Ethernet on My Mac Studio"
+    "url": "https://innig.net/teaching/liberal-arts-manifesto",
+    "title": "What liberal arts education is for (2024)"
   },
   {
     "source": "hn",
-    "url": "https://code.intellios.ai/cwbrowser/",
-    "title": "Show HN: I worked on a new browser for 2 years, today it passed Acid 3"
-  },
-  {
-    "source": "hn",
-    "url": "https://rocm.blogs.amd.com/software-tools-optimization/gluon-attention-decode-mi450/README.html",
-    "title": "Attention Decode on AMD MI450 GPUs: A Gluon Kernel Optimization Guide"
+    "url": "https://maurycyz.com/misc/tungsten/",
+    "title": "Increasing the lifespan of a bulb makes it worse in every other way"
   },
   {
     "source": "hn",
@@ -81,23 +86,13 @@
   },
   {
     "source": "hn",
-    "url": "https://tailscale.com/blog/hugging-face-intrusion",
-    "title": "Tailscale didn't stop the Hugging Face intrusion"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.historytoday.com/archive/portrait-author-historian/absurdity-albert-camus",
-    "title": "The Absurdity of Albert Camus"
-  },
-  {
-    "source": "hn",
     "url": "https://signoregalilei.com/2026/07/26/the-most-official-water-costs-120000-a-gallon/",
     "title": "The most official water costs $120k a gallon"
   },
   {
     "source": "hn",
-    "url": "https://weeraman.com/because-we-can/",
-    "title": "Twenty-five years ago it was cryptography, today it's model weights"
+    "url": "https://tailscale.com/blog/hugging-face-intrusion",
+    "title": "Tailscale didn't stop the Hugging Face intrusion"
   },
   {
     "source": "hn",
@@ -126,8 +121,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://nnethercote.github.io/2026/07/31/how-to-speed-up-the-rust-compiler-in-july-2026.html",
-    "title": "How to speed up the Rust compiler in July 2026"
+    "url": "https://beza1e1.tuxen.de/git_two_users.html",
+    "title": "Accepting a messy git history"
   },
   {
     "source": "lobsters",
@@ -136,13 +131,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://blog.exe.dev/billable-facts",
-    "title": "Stripe Just Wants a Number"
+    "url": "https://nnethercote.github.io/2026/07/31/how-to-speed-up-the-rust-compiler-in-july-2026.html",
+    "title": "How to speed up the Rust compiler in July 2026"
   },
   {
     "source": "lobsters",
-    "url": "https://beza1e1.tuxen.de/git_two_users.html",
-    "title": "Accepting a messy git history"
+    "url": "https://blog.exe.dev/billable-facts",
+    "title": "Stripe Just Wants a Number"
   },
   {
     "source": "lobsters",
@@ -168,6 +163,11 @@
     "source": "lobsters",
     "url": "https://secretspec.dev/blog/where-env-went-wrong/",
     "title": "Where .env Went Wrong"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://blog.st.com/rust-mems-drivers/",
+    "title": "ST Rust drivers"
   },
   {
     "source": "lobsters",
