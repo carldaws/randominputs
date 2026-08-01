@@ -1,8 +1,18 @@
 [
   {
     "source": "hn",
+    "url": "https://leodemoura.github.io/blog/2026-8-1-postmortem-for-kernel-soundness-bug-14576/",
+    "title": "Postmortem for Kernel Soundness Bug #14576"
+  },
+  {
+    "source": "hn",
+    "url": "https://elgan.com/google-news-is-just-forrest-gumps-shrimp-boat-now",
+    "title": "Google News is just Forrest Gump's shrimp boat now"
+  },
+  {
+    "source": "hn",
     "url": "https://blog.netbsd.org/tnf/entry/netbsd_11_0_released",
-    "title": "NetBSD 11.0 Released"
+    "title": "NetBSD 11.0"
   },
   {
     "source": "hn",
@@ -11,18 +21,13 @@
   },
   {
     "source": "hn",
-    "url": "https://brandur.org/fragments/pgtestdb",
-    "title": "Pgtestdb's template cloning approach to testing is fast"
-  },
-  {
-    "source": "hn",
     "url": "https://alexiglad.github.io/blog/2026/explorative_modeling/",
     "title": "Explorative modeling: Train on the best of K guesses"
   },
   {
     "source": "hn",
-    "url": "https://leodemoura.github.io/blog/2026-8-1-postmortem-for-kernel-soundness-bug-14576/",
-    "title": "Postmortem for Kernel Soundness Bug #14576"
+    "url": "https://brandur.org/fragments/pgtestdb",
+    "title": "Pgtestdb's template cloning approach to testing is fast"
   },
   {
     "source": "hn",
@@ -31,8 +36,13 @@
   },
   {
     "source": "hn",
-    "url": "https://andrewshell.org/2026/07/i-%e2%99%a5-rss/",
-    "title": "A directory of people who love RSS"
+    "url": "https://openrss.org/blog/how-google-helped-destroy-adoption-of-rss-feeds",
+    "title": "How Google helped destroy adoption of RSS feeds (2023)"
+  },
+  {
+    "source": "hn",
+    "url": "https://radionavlab.ae.utexas.edu/wp-content/uploads/starlink_structure.pdf",
+    "title": "Signal Structure of the Starlink Ku-Band Downlink (2023) [pdf]"
   },
   {
     "source": "hn",
@@ -41,8 +51,18 @@
   },
   {
     "source": "hn",
+    "url": "https://andrewshell.org/2026/07/i-%e2%99%a5-rss/",
+    "title": "A directory of people who love RSS"
+  },
+  {
+    "source": "hn",
     "url": "https://microsoft.github.io/flint-chart/",
     "title": "Flint: A Visualization Language for the AI Era"
+  },
+  {
+    "source": "hn",
+    "url": "https://en.wikipedia.org/wiki/Nyctography",
+    "title": "Nyctography: A substituton cypher by Lewis Carroll"
   },
   {
     "source": "hn",
@@ -56,8 +76,8 @@
   },
   {
     "source": "hn",
-    "url": "https://sundry.jerryorr.com/2026/07/31/development-pipeline-is-a-production-system",
-    "title": "The development pipeline is a production system"
+    "url": "https://en.wikipedia.org/wiki/Fermi_paradox",
+    "title": "Fermi Paradox"
   },
   {
     "source": "hn",
@@ -65,14 +85,14 @@
     "title": "Elevators"
   },
   {
-    "source": "hn",
-    "url": "https://www.ajwaxman.com/writing/software-for-one",
-    "title": "Software for One"
-  },
-  {
     "source": "lobsters",
     "url": "https://wezfurlong.org/wiff/",
     "title": "wiff"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://jmmv.dev/2026/07/hello-getoptsargs.html",
+    "title": "An old-new take on argument parsing in Rust"
   },
   {
     "source": "lobsters",
@@ -83,6 +103,11 @@
     "source": "lobsters",
     "url": "https://casualhacks.net/blog/2026-07-27-why-i-forked-rand.html",
     "title": "Why I forked rand"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://raymii.org/s/articles/But_can_your_calculator_run_Linux.html",
+    "title": "But can your calculator run Linux?"
   },
   {
     "source": "lobsters",
@@ -106,13 +131,28 @@
   },
   {
     "source": "lobsters",
+    "url": "https://tssm.neocities.org/what-naur-got-wrong-from-the-concept-of-mind",
+    "title": "What Naur got wrong from The concept of mind"
+  },
+  {
+    "source": "lobsters",
     "url": "https://tusharhero.codeberg.page/guix-shell-in-emacs.html",
     "title": "Guix shell now inside Emacs"
   },
   {
     "source": "lobsters",
-    "url": "https://tssm.neocities.org/what-naur-got-wrong-from-the-concept-of-mind",
-    "title": "What Naur got wrong from The concept of mind"
+    "url": "https://sundry.jerryorr.com/2026/07/31/development-pipeline-is-a-production-system",
+    "title": "The development pipeline is a production system"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://warez.sl0p.foo/apple-screensharing-rce/",
+    "title": "Apple Screen Sharing Pre-Auth RCE"
+  },
+  {
+    "source": "lobsters",
+    "url": "http://www.darknavy.org/blog/patch_in_exploit_out_how_deepsec_reconstructed_the_pwn2own_microsoft_edge_sandbox_escape/",
+    "title": "Patch In, Exploit Out: How deepsec Reconstructed the Pwn2Own Microsoft Edge Sandbox Escape"
   },
   {
     "source": "lobsters",
@@ -121,13 +161,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://servo.org/blog/2026/07/31/june-in-servo/",
-    "title": "June in Servo: real world compat, media queries, SharedWorker, and more"
+    "url": "https://zserge.com/posts/worst-htmx-ever/",
+    "title": "Let's make the worst htmx ever"
   },
   {
     "source": "lobsters",
-    "url": "https://earendil.com/posts/session-portability/",
-    "title": "The Session You Cannot Take With You"
+    "url": "https://servo.org/blog/2026/07/31/june-in-servo/",
+    "title": "June in Servo: real world compat, media queries, SharedWorker, and more"
   },
   {
     "source": "lobsters",
@@ -136,17 +176,7 @@
   },
   {
     "source": "lobsters",
-    "url": "https://zserge.com/posts/worst-htmx-ever/",
-    "title": "Let's make the worst htmx ever"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://blog.exe.dev/billable-facts",
-    "title": "Stripe Just Wants a Number"
-  },
-  {
-    "source": "lobsters",
-    "url": "http://www.darknavy.org/blog/patch_in_exploit_out_how_deepsec_reconstructed_the_pwn2own_microsoft_edge_sandbox_escape/",
-    "title": "Patch In, Exploit Out: How deepsec Reconstructed the Pwn2Own Microsoft Edge Sandbox Escape"
+    "url": "https://earendil.com/posts/session-portability/",
+    "title": "The Session You Cannot Take With You"
   }
 ]
