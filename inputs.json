@@ -1,8 +1,8 @@
 [
   {
     "source": "hn",
-    "url": "https://andrewshell.org/2026/07/i-%e2%99%a5-rss/",
-    "title": "I ♥ RSS – A directory of people who love RSS"
+    "url": "https://blog.netbsd.org/tnf/entry/netbsd_11_0_released",
+    "title": "NetBSD 11.0 Released"
   },
   {
     "source": "hn",
@@ -11,13 +11,18 @@
   },
   {
     "source": "hn",
+    "url": "https://brandur.org/fragments/pgtestdb",
+    "title": "Pgtestdb's template cloning approach to testing is fast"
+  },
+  {
+    "source": "hn",
     "url": "https://alexiglad.github.io/blog/2026/explorative_modeling/",
     "title": "Explorative modeling: Train on the best of K guesses"
   },
   {
     "source": "hn",
-    "url": "https://brandur.org/fragments/pgtestdb",
-    "title": "Pgtestdb's template cloning approach to testing is fast"
+    "url": "https://leodemoura.github.io/blog/2026-8-1-postmortem-for-kernel-soundness-bug-14576/",
+    "title": "Postmortem for Kernel Soundness Bug #14576"
   },
   {
     "source": "hn",
@@ -26,13 +31,13 @@
   },
   {
     "source": "hn",
-    "url": "https://rjp.io/blog/2026-07-19-register-deprivation",
-    "title": "Register deprivation: spills and runtime under forced register scarcity"
+    "url": "https://andrewshell.org/2026/07/i-%e2%99%a5-rss/",
+    "title": "A directory of people who love RSS"
   },
   {
     "source": "hn",
-    "url": "https://type.today/en/journal/dots",
-    "title": "Manual: •.,:;?·"
+    "url": "https://rjp.io/blog/2026-07-19-register-deprivation",
+    "title": "Register deprivation: spills and runtime under forced register scarcity"
   },
   {
     "source": "hn",
@@ -41,8 +46,18 @@
   },
   {
     "source": "hn",
+    "url": "https://type.today/en/journal/dots",
+    "title": "Manual: •.,:;…!?·"
+  },
+  {
+    "source": "hn",
     "url": "https://ephemeralnewyork.wordpress.com/2026/07/27/hidden-by-billboards-for-over-100-years-the-tiny-holdout-building-in-the-middle-of-macys-is-back-in-view/",
-    "title": "A tiny holdout building in the middle of Macy’s is back in view"
+    "title": "The tiny holdout building in the middle of Macy’s is back in view"
+  },
+  {
+    "source": "hn",
+    "url": "https://sundry.jerryorr.com/2026/07/31/development-pipeline-is-a-production-system",
+    "title": "The development pipeline is a production system"
   },
   {
     "source": "hn",
@@ -53,31 +68,6 @@
     "source": "hn",
     "url": "https://www.ajwaxman.com/writing/software-for-one",
     "title": "Software for One"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.raptitude.com/2026/07/how-to-exist/",
-    "title": "How to Exist"
-  },
-  {
-    "source": "hn",
-    "url": "https://sundry.jerryorr.com/2026/07/31/development-pipeline-is-a-production-system",
-    "title": "The development pipeline is a production system"
-  },
-  {
-    "source": "hn",
-    "url": "https://pubdeer.com/",
-    "title": "Astro Loop"
-  },
-  {
-    "source": "hn",
-    "url": "https://gmic.eu/gmic40/",
-    "title": "G'mic 4.0: Squaring the Pixel, Easier"
-  },
-  {
-    "source": "hn",
-    "url": "https://hatchet.run/blog/first-idempotency-key",
-    "title": "The First Idempotency Key"
   },
   {
     "source": "lobsters",
@@ -111,13 +101,18 @@
   },
   {
     "source": "lobsters",
+    "url": "https://blainsmith.com/articles/reinventing-the-wheel/",
+    "title": "The Wheels We Keep Reinventing"
+  },
+  {
+    "source": "lobsters",
     "url": "https://tusharhero.codeberg.page/guix-shell-in-emacs.html",
     "title": "Guix shell now inside Emacs"
   },
   {
     "source": "lobsters",
-    "url": "https://blainsmith.com/articles/reinventing-the-wheel/",
-    "title": "The Wheels We Keep Reinventing"
+    "url": "https://tssm.neocities.org/what-naur-got-wrong-from-the-concept-of-mind",
+    "title": "What Naur got wrong from The concept of mind"
   },
   {
     "source": "lobsters",
@@ -131,13 +126,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://nnethercote.github.io/2026/07/31/how-to-speed-up-the-rust-compiler-in-july-2026.html",
-    "title": "How to speed up the Rust compiler in July 2026"
+    "url": "https://earendil.com/posts/session-portability/",
+    "title": "The Session You Cannot Take With You"
   },
   {
     "source": "lobsters",
-    "url": "https://blog.exe.dev/billable-facts",
-    "title": "Stripe Just Wants a Number"
+    "url": "https://nnethercote.github.io/2026/07/31/how-to-speed-up-the-rust-compiler-in-july-2026.html",
+    "title": "How to speed up the Rust compiler in July 2026"
   },
   {
     "source": "lobsters",
@@ -146,22 +141,12 @@
   },
   {
     "source": "lobsters",
-    "url": "https://earendil.com/posts/session-portability/",
-    "title": "The Session You Cannot Take With You"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://weinholt.se/articles/state-of-chezscheme-in-debian/",
-    "title": "The State of Chez Scheme in Debian"
+    "url": "https://blog.exe.dev/billable-facts",
+    "title": "Stripe Just Wants a Number"
   },
   {
     "source": "lobsters",
     "url": "http://www.darknavy.org/blog/patch_in_exploit_out_how_deepsec_reconstructed_the_pwn2own_microsoft_edge_sandbox_escape/",
     "title": "Patch In, Exploit Out: How deepsec Reconstructed the Pwn2Own Microsoft Edge Sandbox Escape"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://futhark-lang.org/blog/2026-07-31-full-flattening.html",
-    "title": "Full flattening of nested data parallelism"
   }
 ]
