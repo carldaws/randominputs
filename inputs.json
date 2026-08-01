@@ -1,33 +1,58 @@
 [
   {
     "source": "hn",
-    "url": "https://tailscale.com/blog/hugging-face-intrusion",
-    "title": "Tailscale didn't stop the Hugging Face intrusion"
-  },
-  {
-    "source": "hn",
     "url": "https://john.fun/elevators",
     "title": "Elevators"
   },
   {
     "source": "hn",
-    "url": "https://weeraman.com/because-we-can/",
-    "title": "Twenty-five years ago it was cryptography, today it's model weights"
+    "url": "https://www.firerescue1.com/arson-investigation/articles/expert-firefighter-arson-a-long-standing-issue-xHXLFAdYVcQPiuPU/",
+    "title": "About 100 firefighters are convicted of arson, every year"
   },
   {
     "source": "hn",
-    "url": "https://www.historytoday.com/archive/portrait-author-historian/absurdity-albert-camus",
-    "title": "The Absurdity of Albert Camus"
+    "url": "https://microsoft.github.io/flint-chart/",
+    "title": "Flint: A Visualization Language for the AI Era"
   },
   {
     "source": "hn",
-    "url": "https://servo.org/blog/2026/07/31/june-in-servo/",
-    "title": "June in Servo: real world compat, media queries, SharedWorker, and more"
+    "url": "https://sundry.jerryorr.com/2026/07/31/development-pipeline-is-a-production-system",
+    "title": "The development pipeline is a production system"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.raptitude.com/2026/07/how-to-exist/",
+    "title": "How to Exist"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.ajwaxman.com/writing/software-for-one",
+    "title": "Software for One"
+  },
+  {
+    "source": "hn",
+    "url": "https://consumerrights.wiki/w/BMW_Spider-Man_in-car_advertising",
+    "title": "BMW Spider-Man in-car advertising"
+  },
+  {
+    "source": "hn",
+    "url": "https://piegames.de/dumps/a-week-in-matrix/",
+    "title": "A Week in Matrix"
   },
   {
     "source": "hn",
     "url": "https://arielsalminen.com/2026/progressive-web-components/",
     "title": "Progressive Web Components"
+  },
+  {
+    "source": "hn",
+    "url": "https://innig.net/teaching/liberal-arts-manifesto",
+    "title": "What Liberal Arts Education Is for (2024)"
+  },
+  {
+    "source": "hn",
+    "url": "https://servo.org/blog/2026/07/31/june-in-servo/",
+    "title": "June in Servo: real world compat, media queries, SharedWorker, and more"
   },
   {
     "source": "hn",
@@ -41,18 +66,28 @@
   },
   {
     "source": "hn",
+    "url": "https://code.intellios.ai/cwbrowser/",
+    "title": "Show HN: I worked on a new browser for 2 years, today it passed Acid 3"
+  },
+  {
+    "source": "hn",
+    "url": "https://rocm.blogs.amd.com/software-tools-optimization/gluon-attention-decode-mi450/README.html",
+    "title": "Attention Decode on AMD MI450 GPUs: A Gluon Kernel Optimization Guide"
+  },
+  {
+    "source": "hn",
     "url": "https://zserge.com/posts/worst-htmx-ever/",
     "title": "Let's make the worst Htmx"
   },
   {
     "source": "hn",
-    "url": "https://www.raptitude.com/2026/07/how-to-exist/",
-    "title": "How to Exist"
+    "url": "https://tailscale.com/blog/hugging-face-intrusion",
+    "title": "Tailscale didn't stop the Hugging Face intrusion"
   },
   {
     "source": "hn",
-    "url": "https://cgjennings.ca/articles/jpeg-compression/",
-    "title": "How JPEG works: Interactively explore JPEG's lossy compression methods"
+    "url": "https://www.historytoday.com/archive/portrait-author-historian/absurdity-albert-camus",
+    "title": "The Absurdity of Albert Camus"
   },
   {
     "source": "hn",
@@ -61,33 +96,13 @@
   },
   {
     "source": "hn",
-    "url": "https://www.theexamination.org/articles/red-bull-funded-research-energy-drinks-alcohol",
-    "title": "Dubious research tied to Red Bull has shaped energy drink policy"
+    "url": "https://weeraman.com/because-we-can/",
+    "title": "Twenty-five years ago it was cryptography, today it's model weights"
   },
   {
     "source": "hn",
     "url": "https://blog.marcua.net/2026/07/31/authorize-dont-authenticate.html",
     "title": "Authorize, don't authenticate"
-  },
-  {
-    "source": "hn",
-    "url": "https://semyonsinchenko.github.io/ssinchenko/post/datafusion-graphs-cc-2/",
-    "title": "Algorithms on billion-scale graph using 10GB RAM: I love DataFusion"
-  },
-  {
-    "source": "hn",
-    "url": "https://jwlabs.vercel.app/post/biting-the-bullet",
-    "title": "Predictive Speculative KV Replication for Bursty LLM Inference"
-  },
-  {
-    "source": "hn",
-    "url": "https://manifest.build/blog/why-we-deprecated-our-llm-router/",
-    "title": "Everyone is building LLM routers, we deprecated ours"
-  },
-  {
-    "source": "hn",
-    "url": "https://code.intellios.ai/cwbrowser/",
-    "title": "Show HN: I worked on a new browser for 2 years, today it passed Acid 3"
   },
   {
     "source": "lobsters",
@@ -126,6 +141,11 @@
   },
   {
     "source": "lobsters",
+    "url": "https://beza1e1.tuxen.de/git_two_users.html",
+    "title": "Accepting a messy git history"
+  },
+  {
+    "source": "lobsters",
     "url": "https://bower.sh/what-the-double-fork",
     "title": "what the double-fork?"
   },
@@ -141,8 +161,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://beza1e1.tuxen.de/git_two_users.html",
-    "title": "Accepting a messy git history"
+    "url": "https://diatone.net/methinks",
+    "title": "Methinks it is a weasel"
   },
   {
     "source": "lobsters",
@@ -151,72 +171,7 @@
   },
   {
     "source": "lobsters",
-    "url": "https://diatone.net/methinks",
-    "title": "Methinks it is a weasel"
-  },
-  {
-    "source": "lobsters",
     "url": "https://knivesforcats.online/correlated-rng/",
     "title": "Correlated RNG"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://blog.jim-nielsen.com/2026/ai-aesthetic/",
-    "title": "The AI Aesthetic"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://franktisellano.github.io/datatype/",
-    "title": "Datatype — variable font that turns text into charts"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://micrologics.org/blog/sqlite-in-production-optimizing-wal-mode-concurrency-and-vfs-layers-for-low-latency-app-servers",
-    "title": "SQLite in Production: Optimizing WAL Mode, Concurrency, and VFS Layers for Low-Latency App Servers | Micrologics"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://fermisense.com/when-machines-take-the-wheel/",
-    "title": "The Rise of Intelligence Ownership: a task-trained open source model vs the frontier"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://christianselig.com/2026/07/vision-pro-house/",
-    "title": "The coolest use for the Vision Pro"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://docs.espressif.com/projects/rust/book/",
-    "title": "Introduction - The Rust on ESP Book"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.superlogical.com/",
-    "title": "Superlogical"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://tailscale.com/blog/jailbroken-kindle-proxy-tun-modes",
-    "title": "Jailbroken Kindles can now do more with Tailscale"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://prilik.com/blog/post/automating-ac-nyc/",
-    "title": "Turning a Dumb AC Unit Smart (Without Losing my Security Deposit) :: prilik's blog"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://sebastianraschka.com/blog/2026/kimi-k3-architecture-notes.html",
-    "title": "Kimi K3 Architecture Notes | Sebastian Raschka, PhD"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://nikolays.github.io/PGSimCity/",
-    "title": "PGSimCity · How PostgreSQL Works, in 3D"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/",
-    "title": "Read This Before You Buy That TV Streaming Stick – Krebs on Security"
   }
 ]
