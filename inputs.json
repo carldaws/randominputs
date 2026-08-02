@@ -1,6 +1,16 @@
 [
   {
     "source": "hn",
+    "url": "https://mattsclancy.github.io/2026/07/27/industrial-revolution-growth.html",
+    "title": "Is the Industrial Revolution a good precedent for explosive growth today?"
+  },
+  {
+    "source": "hn",
+    "url": "https://getbor.dev/blog/2026-08-02-bor-v080-release/",
+    "title": "Show HN: Bor – Open-source policy management for Linux desktops"
+  },
+  {
+    "source": "hn",
     "url": "https://victoriametrics.com/blog/go-1-27/index.html",
     "title": "Go 1.27 Interactive Tour"
   },
@@ -21,18 +31,23 @@
   },
   {
     "source": "hn",
-    "url": "https://getbor.dev/blog/2026-08-02-bor-v080-release/",
-    "title": "Show HN: Bor – Open-source policy management for Linux desktops"
-  },
-  {
-    "source": "hn",
     "url": "https://diataxis.fr/",
     "title": "Diátaxis"
   },
   {
     "source": "hn",
-    "url": "https://plug-world.com/posts/2026/asrock-bc250-the-budget-steam-machine/",
-    "title": "ASRock BC-250: Building the Budget Steam Machine"
+    "url": "https://cyberscript.dev",
+    "title": "Cyberscript"
+  },
+  {
+    "source": "hn",
+    "url": "https://osadmins.com/en/ibm-i-os-400-the-database-operating-system/",
+    "title": "IBM i (OS/400) the Database Operating System"
+  },
+  {
+    "source": "hn",
+    "url": "https://holocloth.vercel.app",
+    "title": "Holocloth"
   },
   {
     "source": "hn",
@@ -41,18 +56,28 @@
   },
   {
     "source": "hn",
+    "url": "https://plug-world.com/posts/2026/asrock-bc250-the-budget-steam-machine/",
+    "title": "ASRock BC-250: Building the Budget Steam Machine"
+  },
+  {
+    "source": "hn",
+    "url": "https://maze.toys",
+    "title": "Maze Toys"
+  },
+  {
+    "source": "hn",
+    "url": "https://borretti.me/article/mathematics-without-mathematicians",
+    "title": "Mathematics Without Mathematicians"
+  },
+  {
+    "source": "hn",
     "url": "https://elenajs.com/",
     "title": "Elena, a library for building Progressive Web Components"
   },
   {
     "source": "hn",
-    "url": "https://sinusoft.com/loganbasic/",
-    "title": "Show HN: Logan Basic v2.1 - An online BASIC interpreter."
-  },
-  {
-    "source": "hn",
-    "url": "https://cyberscript.dev",
-    "title": "Cyberscript"
+    "url": "https://chrismorgan.info/atom%3Erss",
+    "title": "Atom is better than RSS, in ways that matter"
   },
   {
     "source": "hn",
@@ -66,28 +91,8 @@
   },
   {
     "source": "hn",
-    "url": "https://raymii.org/s/articles/But_can_your_calculator_run_Linux.html",
-    "title": "But can your calculator run Linux?"
-  },
-  {
-    "source": "hn",
-    "url": "https://borretti.me/article/mathematics-without-mathematicians",
-    "title": "Mathematics Without Mathematicians"
-  },
-  {
-    "source": "hn",
-    "url": "https://chrismorgan.info/atom%3Erss",
-    "title": "Atom is better than RSS, in ways that matter"
-  },
-  {
-    "source": "hn",
-    "url": "https://yarchive.net/comp/128bit.html",
-    "title": "The Prospects for 128 Bit Processors ( John Mashey SGI 1995)"
-  },
-  {
-    "source": "hn",
-    "url": "https://openrss.org/blog/how-google-helped-destroy-adoption-of-rss-feeds",
-    "title": "How Google helped destroy adoption of RSS feeds (2023)"
+    "url": "https://sinusoft.com/loganbasic/",
+    "title": "Show HN: Logan Basic v2.1 - An online BASIC interpreter."
   },
   {
     "source": "lobsters",
@@ -96,13 +101,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://jmmv.dev/2026/07/hello-getoptsargs.html",
-    "title": "An old-new take on argument parsing in Rust"
+    "url": "https://sebsite.pw/w/20260802-sizeof.html",
+    "title": "sizeof is surprisingly difficult to parse in c"
   },
   {
     "source": "lobsters",
-    "url": "https://sebsite.pw/w/20260802-sizeof.html",
-    "title": "sizeof is surprisingly difficult to parse in c"
+    "url": "https://jmmv.dev/2026/07/hello-getoptsargs.html",
+    "title": "An old-new take on argument parsing in Rust"
   },
   {
     "source": "lobsters",
@@ -111,13 +116,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://warez.sl0p.foo/apple-screensharing-rce/",
-    "title": "Apple Screen Sharing Pre-Auth RCE"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://wezfurlong.org/wiff/",
-    "title": "wiff"
+    "url": "https://raymii.org/s/articles/But_can_your_calculator_run_Linux.html",
+    "title": "But can your calculator run Linux?"
   },
   {
     "source": "lobsters",
@@ -126,8 +126,23 @@
   },
   {
     "source": "lobsters",
+    "url": "https://wezfurlong.org/wiff/",
+    "title": "wiff"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://natkr.com/2026-08-02-flickboard/",
+    "title": "FlickBoard"
+  },
+  {
+    "source": "lobsters",
     "url": "https://piegames.de/dumps/a-week-in-matrix/",
     "title": "A week in Matrix"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://warez.sl0p.foo/apple-screensharing-rce/",
+    "title": "Apple Screen Sharing Pre-Auth RCE"
   },
   {
     "source": "lobsters",
@@ -136,8 +151,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://natkr.com/2026-08-02-flickboard/",
-    "title": "FlickBoard"
+    "url": "https://www.arscyni.cc/file/warez_your_website.html",
+    "title": "Where's your website?"
   },
   {
     "source": "lobsters",
@@ -148,10 +163,5 @@
     "source": "lobsters",
     "url": "https://spillhistorie.no/2025/09/11/norways-first-adventure-games-part-1/",
     "title": "Norway's first adventure games"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://casualhacks.net/blog/2026-07-27-why-i-forked-rand.html",
-    "title": "Why I forked rand"
   }
 ]
