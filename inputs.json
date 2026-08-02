@@ -6,18 +6,13 @@
   },
   {
     "source": "hn",
-    "url": "http://oldvcr.blogspot.com/2026/08/mklinux-and-pimped-out-apple-workgroup.html",
-    "title": "MkLinux and the pimped-out Apple Workgroup Server 9150"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.wafer.ai/blog/kimi-k3-mi355x",
-    "title": "Running Kimi K3 on MI355X at Better Performance per Dollar Than B300"
-  },
-  {
-    "source": "hn",
     "url": "https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5",
     "title": "Seedance 2.5"
+  },
+  {
+    "source": "hn",
+    "url": "http://oldvcr.blogspot.com/2026/08/mklinux-and-pimped-out-apple-workgroup.html",
+    "title": "MkLinux and the pimped-out Apple Workgroup Server 9150"
   },
   {
     "source": "hn",
@@ -26,18 +21,18 @@
   },
   {
     "source": "hn",
+    "url": "https://www.wafer.ai/blog/kimi-k3-mi355x",
+    "title": "Running Kimi K3 on MI355X at Better Performance per Dollar Than B300"
+  },
+  {
+    "source": "hn",
+    "url": "https://elenajs.com/",
+    "title": "Elena, a library for building Progressive Web Components"
+  },
+  {
+    "source": "hn",
     "url": "https://plug-world.com/posts/2026/asrock-bc250-the-budget-steam-machine/",
     "title": "ASRock BC-250: Building the Budget Steam Machine"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.regen.co.uk/insights/plug-in-solar-is-coming-plug-in-batteries-should-follow",
-    "title": "Plug-in solar is coming. Plug-in batteries should follow"
-  },
-  {
-    "source": "hn",
-    "url": "https://isaacsu.com/2026/08/dont-credit-the-llm/",
-    "title": "Don't credit the LLM"
   },
   {
     "source": "hn",
@@ -51,13 +46,18 @@
   },
   {
     "source": "hn",
-    "url": "https://raymii.org/s/articles/But_can_your_calculator_run_Linux.html",
-    "title": "But can your calculator run Linux?"
+    "url": "https://www.openhomefoundation.org/blog/a-big-win-for-android-interoperability/",
+    "title": "A big win for Android interoperability"
   },
   {
     "source": "hn",
-    "url": "https://costperprompt.com/",
-    "title": "Show HN: CostPerPrompt – Live AI API pricing and real-workload cost calculators"
+    "url": "https://rodneybrooks.com/four-time-scales-for-technology-development-and-deployment/",
+    "title": "Four Time Scales for Technology Development and Deployment"
+  },
+  {
+    "source": "hn",
+    "url": "https://raymii.org/s/articles/But_can_your_calculator_run_Linux.html",
+    "title": "But can your calculator run Linux?"
   },
   {
     "source": "hn",
@@ -76,23 +76,23 @@
   },
   {
     "source": "hn",
-    "url": "https://rodneybrooks.com/four-time-scales-for-technology-development-and-deployment/",
-    "title": "Four Time Scales for Technology Development and Deployment"
-  },
-  {
-    "source": "hn",
     "url": "https://en.wikipedia.org/wiki/Nyctography",
     "title": "Nyctography: A substituton cypher by Lewis Carroll"
   },
   {
     "source": "hn",
-    "url": "https://yarchive.net/comp/128bit.html",
-    "title": "The Prospects for 128 Bit Processors ( John Mashey SGI 1995)"
+    "url": "https://alexiglad.github.io/blog/2026/explorative_modeling/",
+    "title": "Explorative modeling: Train on the best of K guesses"
   },
   {
     "source": "hn",
     "url": "https://blog.netbsd.org/tnf/entry/netbsd_11_0_released",
     "title": "NetBSD 11.0"
+  },
+  {
+    "source": "hn",
+    "url": "https://khz.ac/low-voltage/drive-failure.html",
+    "title": "P[drive failure]: how reliable is your NAS?"
   },
   {
     "source": "lobsters",
@@ -116,8 +116,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://john.fun/elevators",
-    "title": "Elevators"
+    "url": "https://fixiproject.org/docs.html",
+    "title": "The Fixi Project"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://sebsite.pw/w/20260802-sizeof.html",
+    "title": "sizeof is surprisingly difficult to parse in c"
   },
   {
     "source": "lobsters",
@@ -126,8 +131,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://fixiproject.org/docs.html",
-    "title": "The Fixi Project"
+    "url": "https://john.fun/elevators",
+    "title": "Elevators"
   },
   {
     "source": "lobsters",
@@ -136,13 +141,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://casualhacks.net/blog/2026-07-27-why-i-forked-rand.html",
-    "title": "Why I forked rand"
+    "url": "https://tssm.neocities.org/what-naur-got-wrong-from-the-concept-of-mind",
+    "title": "What Naur got wrong from The concept of mind"
   },
   {
     "source": "lobsters",
-    "url": "https://tssm.neocities.org/what-naur-got-wrong-from-the-concept-of-mind",
-    "title": "What Naur got wrong from The concept of mind"
+    "url": "https://casualhacks.net/blog/2026-07-27-why-i-forked-rand.html",
+    "title": "Why I forked rand"
   },
   {
     "source": "lobsters",
@@ -160,13 +165,83 @@
     "title": "Go 1.27 interactive tour"
   },
   {
-    "source": "lobsters",
-    "url": "https://earendil.com/posts/session-portability/",
-    "title": "The Session You Cannot Take With You"
+    "source": "pinboard",
+    "url": "https://www.schneier.com/blog/archives/2026/07/should-you-use-ai-for-a-task-heres-a-simple-way-to-decide.html",
+    "title": "Should You Use AI for a Task? Here’s a Simple Way to Decide - Schneier on Security"
   },
   {
-    "source": "lobsters",
-    "url": "https://tusharhero.codeberg.page/guix-shell-in-emacs.html",
-    "title": "Guix shell now inside Emacs"
+    "source": "pinboard",
+    "url": "https://www.superlogical.com/",
+    "title": "Superlogical"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://hughhowey.com/the-end-of-an-era/",
+    "title": "The End of an Era - Hugh Howey"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.librarian.net/NoToAI/",
+    "title": "Removing Intrusive AI from stuff – librarian.net"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://blog.jim-nielsen.com/2026/ai-aesthetic/",
+    "title": "The AI Aesthetic - Jim Nielsen’s Blog"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://microsoft.github.io/flint-chart/",
+    "title": "Flint: A Visualization Language for the AI Era"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/",
+    "title": "Read This Before You Buy That TV Streaming Stick – Krebs on Security"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://lastmuseum.com/",
+    "title": "Internet Security by Zscaler"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://christianselig.com/2026/07/vision-pro-house/",
+    "title": "The coolest use for the Vision Pro"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.npr.org/2026/08/01/nx-s1-5912219/trump-truth-social-access-insider-trading",
+    "title": "For sale: early access to Trump's Truth Social posts: The president's media company is offering investors early access to his Truth Social feed for up to $100,000 a month; experts say the service may violate insider trading laws | NPR"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.wsj.com/opinion/the-ai-future-is-for-everyone-a0c24e20?st=T6AAwM",
+    "title": "wsj.com"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://darkhours.io/",
+    "title": "Dark Hours, what's actually visible in your sky tonight"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://weblog.rogueamoeba.com/2026/04/28/unobtrusive-update-notifications/",
+    "title": "Rogue Amoeba - Under the Microscope » Blog Archive » Unobtrusive Update Notifications"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://franktisellano.github.io/datatype/",
+    "title": "Datatype — variable font that turns text into charts"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://randsinrepose.com/archives/the-apple-upgrade-situation/",
+    "title": "The Apple Upgrade Situation – Rands in Repose"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://tailscale.com/blog/hugging-face-intrusion",
+    "title": "Tailscale in the Hugging Face intrusion: The good news and the bad news"
   }
 ]
