@@ -1,6 +1,11 @@
 [
   {
     "source": "hn",
+    "url": "https://pudding.cool/2026/07/essential-words/",
+    "title": "How the words we teach English language learners changed"
+  },
+  {
+    "source": "hn",
     "url": "https://fstar-lang.org/",
     "title": "F*: A general-purpose proof-oriented programming language"
   },
@@ -8,11 +13,6 @@
     "source": "hn",
     "url": "https://meshdiff.com/",
     "title": "Meshdiff – visually compare two STL versions in the browser, client-side"
-  },
-  {
-    "source": "hn",
-    "url": "https://getbor.dev/blog/2026-08-02-bor-v080-release/",
-    "title": "Show HN: Bor – Open-source policy management for Linux desktops"
   },
   {
     "source": "hn",
@@ -26,8 +26,8 @@
   },
   {
     "source": "hn",
-    "url": "https://www.ursulakleguin.com/a-rant-about-technology",
-    "title": "A Rant About “Technology” (2005)"
+    "url": "https://getbor.dev/blog/2026-08-02-bor-v080-release/",
+    "title": "Show HN: Bor – Open-source policy management for Linux desktops"
   },
   {
     "source": "hn",
@@ -36,8 +36,18 @@
   },
   {
     "source": "hn",
+    "url": "https://www.ursulakleguin.com/a-rant-about-technology",
+    "title": "A Rant About “Technology” (2005)"
+  },
+  {
+    "source": "hn",
     "url": "https://victoriametrics.com/blog/go-1-27/index.html",
     "title": "Go 1.27 Interactive Tour"
+  },
+  {
+    "source": "hn",
+    "url": "https://blog.rust-lang.org/inside-rust/2026/07/31/all-hands-2026-retrospective/",
+    "title": "Rust All Hands 2026 Retrospective"
   },
   {
     "source": "hn",
@@ -51,23 +61,13 @@
   },
   {
     "source": "hn",
-    "url": "https://blog.rust-lang.org/inside-rust/2026/07/31/all-hands-2026-retrospective/",
-    "title": "Rust All Hands 2026 Retrospective"
-  },
-  {
-    "source": "hn",
-    "url": "https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5",
-    "title": "Seedance 2.5"
-  },
-  {
-    "source": "hn",
     "url": "http://oldvcr.blogspot.com/2026/08/mklinux-and-pimped-out-apple-workgroup.html",
     "title": "MkLinux and the pimped-out Apple Workgroup Server 9150"
   },
   {
     "source": "hn",
-    "url": "https://en.wikipedia.org/wiki/Wikipedia:Wikipedia_Signpost/2026-08-02/News_and_notes",
-    "title": "Wikimedia Foundation refuses union recognition, hires union-busting law firm"
+    "url": "https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5",
+    "title": "Seedance 2.5"
   },
   {
     "source": "hn",
@@ -81,6 +81,11 @@
   },
   {
     "source": "hn",
+    "url": "https://cyberscript.dev",
+    "title": "Cyberscript"
+  },
+  {
+    "source": "hn",
     "url": "https://plug-world.com/posts/2026/asrock-bc250-the-budget-steam-machine/",
     "title": "ASRock BC-250: Building the Budget Steam Machine"
   },
@@ -88,11 +93,6 @@
     "source": "hn",
     "url": "https://elenajs.com/",
     "title": "Elena, a library for building Progressive Web Components"
-  },
-  {
-    "source": "hn",
-    "url": "https://cyberscript.dev",
-    "title": "Cyberscript"
   },
   {
     "source": "lobsters",
@@ -111,6 +111,16 @@
   },
   {
     "source": "lobsters",
+    "url": "https://www.arscyni.cc/file/warez_your_website.html",
+    "title": "Where's your website?"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://martinalderson.com/posts/speed-vs-intelligence/",
+    "title": "I'm (mostly) picking models on speed now, not intelligence"
+  },
+  {
+    "source": "lobsters",
     "url": "https://jmmv.dev/2026/07/hello-getoptsargs.html",
     "title": "An old-new take on argument parsing in Rust"
   },
@@ -121,11 +131,6 @@
   },
   {
     "source": "lobsters",
-    "url": "https://www.arscyni.cc/file/warez_your_website.html",
-    "title": "Where's your website?"
-  },
-  {
-    "source": "lobsters",
     "url": "https://leodemoura.github.io/blog/2026-8-1-postmortem-for-kernel-soundness-bug-14576/",
     "title": "Postmortem for Lean Kernel Soundness Bug #14576"
   },
@@ -133,11 +138,6 @@
     "source": "lobsters",
     "url": "https://borretti.me/article/mathematics-without-mathematicians",
     "title": "Mathematics Without Mathematicians"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://martinalderson.com/posts/speed-vs-intelligence/",
-    "title": "I'm (mostly) picking models on speed now, not intelligence"
   },
   {
     "source": "lobsters",
@@ -161,6 +161,11 @@
   },
   {
     "source": "lobsters",
+    "url": "https://natkr.com/2026-08-02-flickboard/",
+    "title": "FlickBoard"
+  },
+  {
+    "source": "lobsters",
     "url": "https://wezfurlong.org/wiff/",
     "title": "wiff"
   },
@@ -168,11 +173,6 @@
     "source": "lobsters",
     "url": "https://warez.sl0p.foo/apple-screensharing-rce/",
     "title": "Apple Screen Sharing Pre-Auth RCE"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://natkr.com/2026-08-02-flickboard/",
-    "title": "FlickBoard"
   },
   {
     "source": "lobsters",
