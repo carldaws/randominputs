@@ -6,6 +6,11 @@
   },
   {
     "source": "hn",
+    "url": "https://www.openhomefoundation.org/blog/a-big-win-for-android-interoperability/",
+    "title": "A big win for Android interoperability"
+  },
+  {
+    "source": "hn",
     "url": "https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5",
     "title": "Seedance 2.5"
   },
@@ -16,8 +21,18 @@
   },
   {
     "source": "hn",
+    "url": "https://getbor.dev/blog/2026-08-02-bor-v080-release/",
+    "title": "Show HN: Bor – Open-source policy management for Linux desktops"
+  },
+  {
+    "source": "hn",
     "url": "https://diataxis.fr/",
     "title": "Diátaxis"
+  },
+  {
+    "source": "hn",
+    "url": "https://plug-world.com/posts/2026/asrock-bc250-the-budget-steam-machine/",
+    "title": "ASRock BC-250: Building the Budget Steam Machine"
   },
   {
     "source": "hn",
@@ -31,13 +46,13 @@
   },
   {
     "source": "hn",
-    "url": "https://plug-world.com/posts/2026/asrock-bc250-the-budget-steam-machine/",
-    "title": "ASRock BC-250: Building the Budget Steam Machine"
+    "url": "https://sinusoft.com/loganbasic/",
+    "title": "Show HN: Logan Basic v2.1 - An online BASIC interpreter."
   },
   {
     "source": "hn",
-    "url": "https://www.rfc-editor.org/rfc/rfc10015.html",
-    "title": "RFC 10015: Deprecating Obsolete Key Exchange Methods in TLS 1.2 and DTLS 1.2"
+    "url": "https://cyberscript.dev",
+    "title": "Cyberscript"
   },
   {
     "source": "hn",
@@ -46,13 +61,8 @@
   },
   {
     "source": "hn",
-    "url": "https://www.openhomefoundation.org/blog/a-big-win-for-android-interoperability/",
-    "title": "A big win for Android interoperability"
-  },
-  {
-    "source": "hn",
-    "url": "https://rodneybrooks.com/four-time-scales-for-technology-development-and-deployment/",
-    "title": "Four Time Scales for Technology Development and Deployment"
+    "url": "https://www.rfc-editor.org/rfc/rfc10015.html",
+    "title": "RFC 10015: Deprecating Obsolete Key Exchange Methods in TLS 1.2 and DTLS 1.2"
   },
   {
     "source": "hn",
@@ -61,8 +71,18 @@
   },
   {
     "source": "hn",
+    "url": "https://borretti.me/article/mathematics-without-mathematicians",
+    "title": "Mathematics Without Mathematicians"
+  },
+  {
+    "source": "hn",
     "url": "https://chrismorgan.info/atom%3Erss",
     "title": "Atom is better than RSS, in ways that matter"
+  },
+  {
+    "source": "hn",
+    "url": "https://yarchive.net/comp/128bit.html",
+    "title": "The Prospects for 128 Bit Processors ( John Mashey SGI 1995)"
   },
   {
     "source": "hn",
@@ -70,29 +90,9 @@
     "title": "How Google helped destroy adoption of RSS feeds (2023)"
   },
   {
-    "source": "hn",
-    "url": "https://iza.ac/posts/2026/07/accidental-llvm-compiler-for-jax/",
-    "title": "We accidentally built an LLVM compiler for Jax"
-  },
-  {
-    "source": "hn",
-    "url": "https://en.wikipedia.org/wiki/Nyctography",
-    "title": "Nyctography: A substituton cypher by Lewis Carroll"
-  },
-  {
-    "source": "hn",
-    "url": "https://alexiglad.github.io/blog/2026/explorative_modeling/",
-    "title": "Explorative modeling: Train on the best of K guesses"
-  },
-  {
-    "source": "hn",
+    "source": "lobsters",
     "url": "https://blog.netbsd.org/tnf/entry/netbsd_11_0_released",
-    "title": "NetBSD 11.0"
-  },
-  {
-    "source": "hn",
-    "url": "https://khz.ac/low-voltage/drive-failure.html",
-    "title": "P[drive failure]: how reliable is your NAS?"
+    "title": "NetBSD 11.0 released"
   },
   {
     "source": "lobsters",
@@ -101,13 +101,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://linderud.dev/blog/resigning-from-arch-linux/",
-    "title": "Resigning from Arch Linux"
+    "url": "https://sebsite.pw/w/20260802-sizeof.html",
+    "title": "sizeof is surprisingly difficult to parse in c"
   },
   {
     "source": "lobsters",
-    "url": "https://wezfurlong.org/wiff/",
-    "title": "wiff"
+    "url": "https://linderud.dev/blog/resigning-from-arch-linux/",
+    "title": "Resigning from Arch Linux"
   },
   {
     "source": "lobsters",
@@ -116,13 +116,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://fixiproject.org/docs.html",
-    "title": "The Fixi Project"
+    "url": "https://wezfurlong.org/wiff/",
+    "title": "wiff"
   },
   {
     "source": "lobsters",
-    "url": "https://sebsite.pw/w/20260802-sizeof.html",
-    "title": "sizeof is surprisingly difficult to parse in c"
+    "url": "https://fixiproject.org/docs.html",
+    "title": "The Fixi Project"
   },
   {
     "source": "lobsters",
@@ -146,102 +146,12 @@
   },
   {
     "source": "lobsters",
-    "url": "https://casualhacks.net/blog/2026-07-27-why-i-forked-rand.html",
-    "title": "Why I forked rand"
-  },
-  {
-    "source": "lobsters",
     "url": "https://spillhistorie.no/2025/09/11/norways-first-adventure-games-part-1/",
     "title": "Norway's first adventure games"
   },
   {
     "source": "lobsters",
-    "url": "https://beza1e1.tuxen.de/git_two_users.html",
-    "title": "Accepting a messy git history"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://victoriametrics.com/blog/go-1-27/",
-    "title": "Go 1.27 interactive tour"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.schneier.com/blog/archives/2026/07/should-you-use-ai-for-a-task-heres-a-simple-way-to-decide.html",
-    "title": "Should You Use AI for a Task? Here’s a Simple Way to Decide - Schneier on Security"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.superlogical.com/",
-    "title": "Superlogical"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://hughhowey.com/the-end-of-an-era/",
-    "title": "The End of an Era - Hugh Howey"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.librarian.net/NoToAI/",
-    "title": "Removing Intrusive AI from stuff – librarian.net"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://blog.jim-nielsen.com/2026/ai-aesthetic/",
-    "title": "The AI Aesthetic - Jim Nielsen’s Blog"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://microsoft.github.io/flint-chart/",
-    "title": "Flint: A Visualization Language for the AI Era"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/",
-    "title": "Read This Before You Buy That TV Streaming Stick – Krebs on Security"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://lastmuseum.com/",
-    "title": "Internet Security by Zscaler"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://christianselig.com/2026/07/vision-pro-house/",
-    "title": "The coolest use for the Vision Pro"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.npr.org/2026/08/01/nx-s1-5912219/trump-truth-social-access-insider-trading",
-    "title": "For sale: early access to Trump's Truth Social posts: The president's media company is offering investors early access to his Truth Social feed for up to $100,000 a month; experts say the service may violate insider trading laws | NPR"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.wsj.com/opinion/the-ai-future-is-for-everyone-a0c24e20?st=T6AAwM",
-    "title": "wsj.com"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://darkhours.io/",
-    "title": "Dark Hours, what's actually visible in your sky tonight"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://weblog.rogueamoeba.com/2026/04/28/unobtrusive-update-notifications/",
-    "title": "Rogue Amoeba - Under the Microscope » Blog Archive » Unobtrusive Update Notifications"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://franktisellano.github.io/datatype/",
-    "title": "Datatype — variable font that turns text into charts"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://randsinrepose.com/archives/the-apple-upgrade-situation/",
-    "title": "The Apple Upgrade Situation – Rands in Repose"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://tailscale.com/blog/hugging-face-intrusion",
-    "title": "Tailscale in the Hugging Face intrusion: The good news and the bad news"
+    "url": "https://casualhacks.net/blog/2026-07-27-why-i-forked-rand.html",
+    "title": "Why I forked rand"
   }
 ]
