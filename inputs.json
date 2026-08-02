@@ -1,6 +1,21 @@
 [
   {
     "source": "hn",
+    "url": "https://victoriametrics.com/blog/go-1-27/index.html",
+    "title": "Go 1.27 Interactive Tour"
+  },
+  {
+    "source": "hn",
+    "url": "http://oldvcr.blogspot.com/2026/08/mklinux-and-pimped-out-apple-workgroup.html",
+    "title": "MkLinux and the pimped-out Apple Workgroup Server 9150"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.wafer.ai/blog/kimi-k3-mi355x",
+    "title": "Running Kimi K3 on MI355X at Better Performance per Dollar Than B300"
+  },
+  {
+    "source": "hn",
     "url": "https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5",
     "title": "Seedance 2.5"
   },
@@ -11,8 +26,18 @@
   },
   {
     "source": "hn",
-    "url": "https://leodemoura.github.io/blog/2026-8-1-postmortem-for-kernel-soundness-bug-14576/",
-    "title": "Postmortem for Kernel Soundness Bug #14576"
+    "url": "https://plug-world.com/posts/2026/asrock-bc250-the-budget-steam-machine/",
+    "title": "ASRock BC-250: Building the Budget Steam Machine"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.regen.co.uk/insights/plug-in-solar-is-coming-plug-in-batteries-should-follow",
+    "title": "Plug-in solar is coming. Plug-in batteries should follow"
+  },
+  {
+    "source": "hn",
+    "url": "https://isaacsu.com/2026/08/dont-credit-the-llm/",
+    "title": "Don't credit the LLM"
   },
   {
     "source": "hn",
@@ -21,8 +46,23 @@
   },
   {
     "source": "hn",
+    "url": "https://leodemoura.github.io/blog/2026-8-1-postmortem-for-kernel-soundness-bug-14576/",
+    "title": "Postmortem for Kernel Soundness Bug #14576"
+  },
+  {
+    "source": "hn",
     "url": "https://raymii.org/s/articles/But_can_your_calculator_run_Linux.html",
     "title": "But can your calculator run Linux?"
+  },
+  {
+    "source": "hn",
+    "url": "https://costperprompt.com/",
+    "title": "Show HN: CostPerPrompt – Live AI API pricing and real-workload cost calculators"
+  },
+  {
+    "source": "hn",
+    "url": "https://chrismorgan.info/atom%3Erss",
+    "title": "Atom is better than RSS, in ways that matter"
   },
   {
     "source": "hn",
@@ -36,43 +76,23 @@
   },
   {
     "source": "hn",
+    "url": "https://rodneybrooks.com/four-time-scales-for-technology-development-and-deployment/",
+    "title": "Four Time Scales for Technology Development and Deployment"
+  },
+  {
+    "source": "hn",
     "url": "https://en.wikipedia.org/wiki/Nyctography",
     "title": "Nyctography: A substituton cypher by Lewis Carroll"
   },
   {
     "source": "hn",
+    "url": "https://yarchive.net/comp/128bit.html",
+    "title": "The Prospects for 128 Bit Processors ( John Mashey SGI 1995)"
+  },
+  {
+    "source": "hn",
     "url": "https://blog.netbsd.org/tnf/entry/netbsd_11_0_released",
     "title": "NetBSD 11.0"
-  },
-  {
-    "source": "hn",
-    "url": "https://alexiglad.github.io/blog/2026/explorative_modeling/",
-    "title": "Explorative modeling: Train on the best of K guesses"
-  },
-  {
-    "source": "hn",
-    "url": "https://animeuserinterface.tumblr.com",
-    "title": "Anime User Interfaces"
-  },
-  {
-    "source": "hn",
-    "url": "https://m3.material.io/styles/icons/designing-icons",
-    "title": "Designing Icons"
-  },
-  {
-    "source": "hn",
-    "url": "https://microsoft.github.io/flint-chart/",
-    "title": "Flint: A Visualization Language for the AI Era"
-  },
-  {
-    "source": "hn",
-    "url": "https://kaisel.dev/",
-    "title": "Kaisel – Routes as Values. Dart 3 Native Router for Flutter"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.michaelgeist.ca/2026/07/a-surveillance-treaty-in-disguise-the-trouble-with-canadas-quiet-decision-to-sign-the-un-cybercrime-convention/",
-    "title": "A Surveillance Treaty in Disguise: Canada Signs UN Cybercrime Convention"
   },
   {
     "source": "lobsters",
@@ -81,13 +101,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://wezfurlong.org/wiff/",
-    "title": "wiff"
+    "url": "https://linderud.dev/blog/resigning-from-arch-linux/",
+    "title": "Resigning from Arch Linux"
   },
   {
     "source": "lobsters",
-    "url": "https://linderud.dev/blog/resigning-from-arch-linux/",
-    "title": "Resigning from Arch Linux"
+    "url": "https://wezfurlong.org/wiff/",
+    "title": "wiff"
   },
   {
     "source": "lobsters",
@@ -96,18 +116,23 @@
   },
   {
     "source": "lobsters",
-    "url": "https://piegames.de/dumps/a-week-in-matrix/",
-    "title": "A week in Matrix"
-  },
-  {
-    "source": "lobsters",
     "url": "https://john.fun/elevators",
     "title": "Elevators"
   },
   {
     "source": "lobsters",
-    "url": "https://andre.arko.net/2026/07/30/ruby-centrals-destructive-legacy/",
-    "title": "Ruby Central's Destructive Legacy"
+    "url": "https://piegames.de/dumps/a-week-in-matrix/",
+    "title": "A week in Matrix"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://fixiproject.org/docs.html",
+    "title": "The Fixi Project"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://natkr.com/2026-08-02-flickboard/",
+    "title": "FlickBoard"
   },
   {
     "source": "lobsters",
@@ -141,22 +166,7 @@
   },
   {
     "source": "lobsters",
-    "url": "https://blainsmith.com/articles/reinventing-the-wheel/",
-    "title": "The Wheels We Keep Reinventing"
-  },
-  {
-    "source": "lobsters",
     "url": "https://tusharhero.codeberg.page/guix-shell-in-emacs.html",
     "title": "Guix shell now inside Emacs"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://fixiproject.org/docs.html",
-    "title": "The Fixi Project"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://sundry.jerryorr.com/2026/07/31/development-pipeline-is-a-production-system",
-    "title": "The development pipeline is a production system"
   }
 ]
