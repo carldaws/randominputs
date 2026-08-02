@@ -16,6 +16,11 @@
   },
   {
     "source": "hn",
+    "url": "https://www.rfc-editor.org/rfc/rfc10015.html",
+    "title": "RFC 10015: Deprecating Obsolete Key Exchange Methods in TLS 1.2 and DTLS 1.2"
+  },
+  {
+    "source": "hn",
     "url": "https://raymii.org/s/articles/But_can_your_calculator_run_Linux.html",
     "title": "But can your calculator run Linux?"
   },
@@ -23,6 +28,11 @@
     "source": "hn",
     "url": "https://openrss.org/blog/how-google-helped-destroy-adoption-of-rss-feeds",
     "title": "How Google helped destroy adoption of RSS feeds (2023)"
+  },
+  {
+    "source": "hn",
+    "url": "https://iza.ac/posts/2026/07/accidental-llvm-compiler-for-jax/",
+    "title": "We accidentally built an LLVM compiler for Jax"
   },
   {
     "source": "hn",
@@ -36,23 +46,8 @@
   },
   {
     "source": "hn",
-    "url": "https://blog.gingerbeardman.com/2026/07/30/beltrunner-game-design-postmortem/",
-    "title": "Beltrunner: Game Design Postmortem"
-  },
-  {
-    "source": "hn",
     "url": "https://alexiglad.github.io/blog/2026/explorative_modeling/",
     "title": "Explorative modeling: Train on the best of K guesses"
-  },
-  {
-    "source": "hn",
-    "url": "https://brandur.org/fragments/pgtestdb",
-    "title": "Pgtestdb's template cloning approach to testing is fast"
-  },
-  {
-    "source": "hn",
-    "url": "https://kaisel.dev/",
-    "title": "Kaisel – Routes as Values. Dart 3 Native Router for Flutter"
   },
   {
     "source": "hn",
@@ -61,8 +56,8 @@
   },
   {
     "source": "hn",
-    "url": "https://www.michaelgeist.ca/2026/07/a-surveillance-treaty-in-disguise-the-trouble-with-canadas-quiet-decision-to-sign-the-un-cybercrime-convention/",
-    "title": "A Surveillance Treaty in Disguise: Canada Signs UN Cybercrime Convention"
+    "url": "https://m3.material.io/styles/icons/designing-icons",
+    "title": "Designing Icons"
   },
   {
     "source": "hn",
@@ -71,8 +66,13 @@
   },
   {
     "source": "hn",
-    "url": "https://rjp.io/blog/2026-07-19-register-deprivation",
-    "title": "Register deprivation: spills and runtime under forced register scarcity"
+    "url": "https://kaisel.dev/",
+    "title": "Kaisel – Routes as Values. Dart 3 Native Router for Flutter"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.michaelgeist.ca/2026/07/a-surveillance-treaty-in-disguise-the-trouble-with-canadas-quiet-decision-to-sign-the-un-cybercrime-convention/",
+    "title": "A Surveillance Treaty in Disguise: Canada Signs UN Cybercrime Convention"
   },
   {
     "source": "lobsters",
@@ -86,8 +86,18 @@
   },
   {
     "source": "lobsters",
+    "url": "https://linderud.dev/blog/resigning-from-arch-linux/",
+    "title": "Resigning from Arch Linux"
+  },
+  {
+    "source": "lobsters",
     "url": "https://warez.sl0p.foo/apple-screensharing-rce/",
     "title": "Apple Screen Sharing Pre-Auth RCE"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://piegames.de/dumps/a-week-in-matrix/",
+    "title": "A week in Matrix"
   },
   {
     "source": "lobsters",
@@ -101,13 +111,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://linderud.dev/blog/resigning-from-arch-linux/",
-    "title": "Resigning from Arch Linux"
+    "url": "https://casualhacks.net/blog/2026-07-27-why-i-forked-rand.html",
+    "title": "Why I forked rand"
   },
   {
     "source": "lobsters",
-    "url": "https://casualhacks.net/blog/2026-07-27-why-i-forked-rand.html",
-    "title": "Why I forked rand"
+    "url": "https://tssm.neocities.org/what-naur-got-wrong-from-the-concept-of-mind",
+    "title": "What Naur got wrong from The concept of mind"
   },
   {
     "source": "lobsters",
@@ -126,11 +136,6 @@
   },
   {
     "source": "lobsters",
-    "url": "https://tssm.neocities.org/what-naur-got-wrong-from-the-concept-of-mind",
-    "title": "What Naur got wrong from The concept of mind"
-  },
-  {
-    "source": "lobsters",
     "url": "https://earendil.com/posts/session-portability/",
     "title": "The Session You Cannot Take With You"
   },
@@ -146,77 +151,12 @@
   },
   {
     "source": "lobsters",
-    "url": "https://hatchet.run/blog/first-idempotency-key",
-    "title": "The First Idempotency Key"
+    "url": "https://fixiproject.org/docs.html",
+    "title": "The Fixi Project"
   },
   {
     "source": "lobsters",
     "url": "https://sundry.jerryorr.com/2026/07/31/development-pipeline-is-a-production-system",
     "title": "The development pipeline is a production system"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://piegames.de/dumps/a-week-in-matrix/",
-    "title": "A week in Matrix"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://micrologics.org/blog/sqlite-in-production-optimizing-wal-mode-concurrency-and-vfs-layers-for-low-latency-app-servers",
-    "title": "SQLite in Production: Optimizing WAL Mode, Concurrency, and VFS Layers for Low-Latency App Servers | Micrologics"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.superlogical.com/",
-    "title": "Superlogical"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.schneier.com/blog/archives/2026/07/should-you-use-ai-for-a-task-heres-a-simple-way-to-decide.html",
-    "title": "Should You Use AI for a Task? Here’s a Simple Way to Decide - Schneier on Security"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://christianselig.com/2026/07/vision-pro-house/",
-    "title": "The coolest use for the Vision Pro"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://prilik.com/blog/post/automating-ac-nyc/",
-    "title": "Turning a Dumb AC Unit Smart (Without Losing my Security Deposit) :: prilik's blog"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://docs.espressif.com/projects/rust/book/",
-    "title": "Introduction - The Rust on ESP Book"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://tailscale.com/blog/jailbroken-kindle-proxy-tun-modes",
-    "title": "Jailbroken Kindles can now do more with Tailscale"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/",
-    "title": "Read This Before You Buy That TV Streaming Stick – Krebs on Security"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://blog.jim-nielsen.com/2026/ai-aesthetic/",
-    "title": "The AI Aesthetic - Jim Nielsen’s Blog"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://lastmuseum.com/",
-    "title": "Internet Security by Zscaler"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://hughhowey.com/the-end-of-an-era/",
-    "title": "The End of an Era - Hugh Howey"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://franktisellano.github.io/datatype/",
-    "title": "Datatype — variable font that turns text into charts"
   }
 ]
