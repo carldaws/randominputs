@@ -1,18 +1,18 @@
 [
   {
     "source": "hn",
+    "url": "https://mattbeton.com/blog/bitnet-6502.html",
+    "title": "Autoregressive Language Model on the 6502 Processor"
+  },
+  {
+    "source": "hn",
     "url": "https://unattributed.cc/note-taking-and-personal-knowledge-management",
     "title": "Note-Taking and Personal Knowledge Management"
   },
   {
     "source": "hn",
-    "url": "https://frogs.vaguespac.es/",
-    "title": "My personal AI benchmark: \"Generate an SVG of a frog with a Habsburg jaw.\""
-  },
-  {
-    "source": "hn",
-    "url": "https://mattbeton.com/blog/bitnet-6502.html",
-    "title": "Autoregressive Language Model on the 6502 Processor"
+    "url": "https://hedgehogreview.com/web-features/thr/posts/read-the-novels-and-forget-everything-else",
+    "title": "Read the Novels and Forget Everything Else"
   },
   {
     "source": "hn",
@@ -26,13 +26,8 @@
   },
   {
     "source": "hn",
-    "url": "https://hedgehogreview.com/web-features/thr/posts/read-the-novels-and-forget-everything-else",
-    "title": "Read the Novels and Forget Everything Else"
-  },
-  {
-    "source": "hn",
-    "url": "https://fstar-lang.org/",
-    "title": "F*: A general-purpose proof-oriented programming language"
+    "url": "https://www.nbcsandiego.com/nbc-7-responds-2/californians-data-deletion-requests-drop-become-enforceable-aug-1/4054771/",
+    "title": "Californians' data deletion requests, DROP, become enforceable Aug. 1"
   },
   {
     "source": "hn",
@@ -41,13 +36,13 @@
   },
   {
     "source": "hn",
-    "url": "https://meshdiff.com/",
-    "title": "Meshdiff – visually compare two STL versions in the browser, client-side"
+    "url": "https://plato.stanford.edu/entries/computational-mind/",
+    "title": "The Computational Theory of Mind (2015)"
   },
   {
     "source": "hn",
-    "url": "https://16-bits.org/ft2.php",
-    "title": "Fasttracker II clone in C using SDL 2"
+    "url": "https://fstar-lang.org/",
+    "title": "F*: A general-purpose proof-oriented programming language"
   },
   {
     "source": "hn",
@@ -56,33 +51,23 @@
   },
   {
     "source": "hn",
+    "url": "https://16-bits.org/ft2.php",
+    "title": "Fasttracker II clone in C using SDL 2"
+  },
+  {
+    "source": "hn",
+    "url": "https://meshdiff.com/",
+    "title": "Meshdiff – visually compare two STL versions in the browser, client-side"
+  },
+  {
+    "source": "hn",
+    "url": "https://frogs.vaguespac.es/",
+    "title": "My personal AI benchmark: \"Generate an SVG of a frog with a Habsburg jaw.\""
+  },
+  {
+    "source": "hn",
     "url": "https://foldingglobes.com/globes",
     "title": "Folding Paper Globes"
-  },
-  {
-    "source": "hn",
-    "url": "https://blog.semenzin.com/let-the-machines-in/",
-    "title": "Let the machines in"
-  },
-  {
-    "source": "hn",
-    "url": "https://healeycodes.com/adding-defer-to-the-typescript-compiler",
-    "title": "Adding Go's Defer to the TypeScript Compiler"
-  },
-  {
-    "source": "hn",
-    "url": "https://pudding.cool/2026/07/essential-words/",
-    "title": "How the words we teach English language learners changed"
-  },
-  {
-    "source": "hn",
-    "url": "https://getbor.dev/blog/2026-08-02-bor-v080-release/",
-    "title": "Show HN: Bor – Open-source policy management for Linux desktops"
-  },
-  {
-    "source": "hn",
-    "url": "https://fuselang.org",
-    "title": "Show HN: Fuse – statically typed functional programming language"
   },
   {
     "source": "lobsters",
@@ -106,6 +91,11 @@
   },
   {
     "source": "lobsters",
+    "url": "https://pythonspeed.com/articles/faster-float-math-rust/",
+    "title": "Faster floating point math with Rust’s new API"
+  },
+  {
+    "source": "lobsters",
     "url": "https://lemire.me/blog/2026/08/02/how-fast-is-c26s-stdhive/",
     "title": "How fast is C++26’s std::hive?"
   },
@@ -118,11 +108,6 @@
     "source": "lobsters",
     "url": "https://blog.netbsd.org/tnf/entry/netbsd_11_0_released",
     "title": "NetBSD 11.0 released"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://pythonspeed.com/articles/faster-float-math-rust/",
-    "title": "Faster floating point math with Rust’s new API"
   },
   {
     "source": "lobsters",
@@ -165,8 +150,88 @@
     "title": "The Fixi Project"
   },
   {
-    "source": "lobsters",
-    "url": "https://piegames.de/dumps/a-week-in-matrix/",
-    "title": "A week in Matrix"
+    "source": "pinboard",
+    "url": "https://john.fun/elevators",
+    "title": "Elevators"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.schneier.com/blog/archives/2026/07/should-you-use-ai-for-a-task-heres-a-simple-way-to-decide.html",
+    "title": "Should You Use AI for a Task? Here’s a Simple Way to Decide - Schneier on Security"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.superlogical.com/",
+    "title": "Superlogical"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://hughhowey.com/the-end-of-an-era/",
+    "title": "The End of an Era - Hugh Howey"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.librarian.net/NoToAI/",
+    "title": "Removing Intrusive AI from stuff – librarian.net"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://blog.jim-nielsen.com/2026/ai-aesthetic/",
+    "title": "The AI Aesthetic - Jim Nielsen’s Blog"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://microsoft.github.io/flint-chart/",
+    "title": "Flint: A Visualization Language for the AI Era"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/",
+    "title": "Read This Before You Buy That TV Streaming Stick – Krebs on Security"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://lastmuseum.com/",
+    "title": "Internet Security by Zscaler"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://christianselig.com/2026/07/vision-pro-house/",
+    "title": "The coolest use for the Vision Pro"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.npr.org/2026/08/01/nx-s1-5912219/trump-truth-social-access-insider-trading",
+    "title": "For sale: early access to Trump's Truth Social posts: The president's media company is offering investors early access to his Truth Social feed for up to $100,000 a month; experts say the service may violate insider trading laws | NPR"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.wsj.com/opinion/the-ai-future-is-for-everyone-a0c24e20?st=T6AAwM",
+    "title": "wsj.com"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://darkhours.io/",
+    "title": "Dark Hours, what's actually visible in your sky tonight"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://weblog.rogueamoeba.com/2026/04/28/unobtrusive-update-notifications/",
+    "title": "Rogue Amoeba - Under the Microscope » Blog Archive » Unobtrusive Update Notifications"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://franktisellano.github.io/datatype/",
+    "title": "Datatype — variable font that turns text into charts"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://randsinrepose.com/archives/the-apple-upgrade-situation/",
+    "title": "The Apple Upgrade Situation – Rands in Repose"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://tailscale.com/blog/hugging-face-intrusion",
+    "title": "Tailscale in the Hugging Face intrusion: The good news and the bad news"
   }
 ]
