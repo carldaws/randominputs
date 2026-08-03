@@ -1,8 +1,18 @@
 [
   {
     "source": "hn",
-    "url": "https://www.andreagrandi.it/posts/why-book-corners-wont-sync-contributions-back-to-openstreetmap/",
-    "title": "Why Book Corners won't sync contributions back to OpenStreetMap"
+    "url": "https://qwen.ai/blog?id=qwen3.8",
+    "title": "Qwen3.8-Max: A New Bar for Coding and Cowork"
+  },
+  {
+    "source": "hn",
+    "url": "https://sf.isopolis.city/",
+    "title": "Show HN: Isopolis – Isometric pixel map of SF"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.modelrepublic.org/articles/the-reporters-at-this-news-site-are-ai-bots.-openai%E2%80%99s-super-pac-appears-to-be-using-it-to-advance-its-political-agenda",
+    "title": "OpenAI's super PAC is funding AI-generated news site attacking industry critics"
   },
   {
     "source": "hn",
@@ -11,23 +21,8 @@
   },
   {
     "source": "hn",
-    "url": "https://sf.isopolis.city/",
-    "title": "Show HN: Isopolis – isometric pixel map of SF"
-  },
-  {
-    "source": "hn",
     "url": "https://unattributed.cc/note-taking-and-personal-knowledge-management",
     "title": "Note-Taking and Personal Knowledge Management"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.rfc-editor.org/rfc/rfc9851.html",
-    "title": "RFC 9851: TLS 1.2 is in Feature Freeze"
-  },
-  {
-    "source": "hn",
-    "url": "https://hedgehogreview.com/web-features/thr/posts/read-the-novels-and-forget-everything-else",
-    "title": "Read the Novels and Forget Everything Else"
   },
   {
     "source": "hn",
@@ -36,8 +31,33 @@
   },
   {
     "source": "hn",
+    "url": "https://www.rubenerd.au/the-myth-of-snow-leopard/",
+    "title": "The myth of Snow Leopard"
+  },
+  {
+    "source": "hn",
     "url": "https://plato.stanford.edu/entries/computational-mind/",
     "title": "The Computational Theory of Mind (2015)"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.rfc-editor.org/rfc/rfc9851.html",
+    "title": "RFC 9851: TLS 1.2 is in Feature Freeze"
+  },
+  {
+    "source": "hn",
+    "url": "https://localai.io/blog/why-we-write-our-own-engines/",
+    "title": "Why we write our own C and C++ inference engines"
+  },
+  {
+    "source": "hn",
+    "url": "https://pudding.cool/2026/07/essential-words/",
+    "title": "How the words we teach English language learners changed"
+  },
+  {
+    "source": "hn",
+    "url": "https://frogs.vaguespac.es/",
+    "title": "My personal AI benchmark: “Generate an SVG of a frog with a Habsburg jaw”"
   },
   {
     "source": "hn",
@@ -46,13 +66,8 @@
   },
   {
     "source": "hn",
-    "url": "https://fstar-lang.org/",
-    "title": "F*: A general-purpose proof-oriented programming language"
-  },
-  {
-    "source": "hn",
-    "url": "https://frogs.vaguespac.es/",
-    "title": "My personal AI benchmark: \"Generate an SVG of a frog with a Habsburg jaw.\""
+    "url": "https://foldingglobes.com/globes",
+    "title": "Folding Paper Globes"
   },
   {
     "source": "hn",
@@ -61,18 +76,13 @@
   },
   {
     "source": "hn",
-    "url": "https://doku.su/history-of-sudoku",
-    "title": "A Playable History of Sudoku"
+    "url": "https://hedgehogreview.com/web-features/thr/posts/read-the-novels-and-forget-everything-else",
+    "title": "Read the novels and forget everything else"
   },
   {
     "source": "hn",
-    "url": "https://dobrowolski.dev/article/sharing-an-x-server-across-hosts-with-familywild/",
-    "title": "Sharing an X11 Server Across Hosts with FamilyWild"
-  },
-  {
-    "source": "hn",
-    "url": "https://foldingglobes.com/globes",
-    "title": "Folding Paper Globes"
+    "url": "https://16-bits.org/ft2.php",
+    "title": "Fasttracker II clone in C using SDL 2"
   },
   {
     "source": "lobsters",
@@ -81,13 +91,18 @@
   },
   {
     "source": "lobsters",
-    "url": "https://chrismorgan.info/atom%3Erss",
-    "title": "Atom is better than RSS, in ways that matter"
+    "url": "https://pythonspeed.com/articles/faster-float-math-rust/",
+    "title": "Faster floating point math with Rust’s new API"
   },
   {
     "source": "lobsters",
-    "url": "https://sebsite.pw/w/20260802-sizeof.html",
-    "title": "sizeof is surprisingly difficult to parse in c"
+    "url": "https://blog.gaborkoos.com/posts/2026-08-03-Your-JSON-Is-Lying-to-You/",
+    "title": "Your JSON Is Lying to You"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://chrismorgan.info/atom%3Erss",
+    "title": "Atom is better than RSS, in ways that matter"
   },
   {
     "source": "lobsters",
@@ -96,8 +111,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://pythonspeed.com/articles/faster-float-math-rust/",
-    "title": "Faster floating point math with Rust’s new API"
+    "url": "https://sebsite.pw/w/20260802-sizeof.html",
+    "title": "sizeof is surprisingly difficult to parse in c"
   },
   {
     "source": "lobsters",
@@ -111,18 +126,28 @@
   },
   {
     "source": "lobsters",
+    "url": "https://9front.org/releases/2026/08/02/0/",
+    "title": "9front \"THIS WAS SUPPOSED TO BE FUN\" Released"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://www.joelonsoftware.com/2000/04/10/controlling-your-environment-makes-you-happy/",
+    "title": "Controlling Your Environment Makes You Happy (2000)"
+  },
+  {
+    "source": "lobsters",
     "url": "https://blog.netbsd.org/tnf/entry/netbsd_11_0_released",
     "title": "NetBSD 11.0 released"
   },
   {
     "source": "lobsters",
-    "url": "https://linderud.dev/blog/resigning-from-arch-linux/",
-    "title": "Resigning from Arch Linux"
+    "url": "https://olivia.science/anxiety/",
+    "title": "Anxiety"
   },
   {
     "source": "lobsters",
-    "url": "https://olivia.science/anxiety/",
-    "title": "Anxiety"
+    "url": "https://linderud.dev/blog/resigning-from-arch-linux/",
+    "title": "Resigning from Arch Linux"
   },
   {
     "source": "lobsters",
@@ -136,107 +161,7 @@
   },
   {
     "source": "lobsters",
-    "url": "https://blog.gaborkoos.com/posts/2026-08-03-Your-JSON-Is-Lying-to-You/",
-    "title": "Your JSON Is Lying to You"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://leodemoura.github.io/blog/2026-8-1-postmortem-for-kernel-soundness-bug-14576/",
-    "title": "Postmortem for Lean Kernel Soundness Bug #14576"
-  },
-  {
-    "source": "lobsters",
     "url": "http://oldvcr.blogspot.com/2026/08/mklinux-and-pimped-out-apple-workgroup.html",
     "title": "MkLinux and the pimped-out Apple Workgroup Server 9150"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://www.joelonsoftware.com/2000/04/10/controlling-your-environment-makes-you-happy/",
-    "title": "Controlling Your Environment Makes You Happy (2000)"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://john.fun/elevators",
-    "title": "Elevators"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.schneier.com/blog/archives/2026/07/should-you-use-ai-for-a-task-heres-a-simple-way-to-decide.html",
-    "title": "Should You Use AI for a Task? Here’s a Simple Way to Decide - Schneier on Security"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.superlogical.com/",
-    "title": "Superlogical"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://hughhowey.com/the-end-of-an-era/",
-    "title": "The End of an Era - Hugh Howey"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.librarian.net/NoToAI/",
-    "title": "Removing Intrusive AI from stuff – librarian.net"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://blog.jim-nielsen.com/2026/ai-aesthetic/",
-    "title": "The AI Aesthetic - Jim Nielsen’s Blog"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://microsoft.github.io/flint-chart/",
-    "title": "Flint: A Visualization Language for the AI Era"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/",
-    "title": "Read This Before You Buy That TV Streaming Stick – Krebs on Security"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://lastmuseum.com/",
-    "title": "Internet Security by Zscaler"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://christianselig.com/2026/07/vision-pro-house/",
-    "title": "The coolest use for the Vision Pro"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.npr.org/2026/08/01/nx-s1-5912219/trump-truth-social-access-insider-trading",
-    "title": "For sale: early access to Trump's Truth Social posts: The president's media company is offering investors early access to his Truth Social feed for up to $100,000 a month; experts say the service may violate insider trading laws | NPR"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.wsj.com/opinion/the-ai-future-is-for-everyone-a0c24e20?st=T6AAwM",
-    "title": "wsj.com"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://darkhours.io/",
-    "title": "Dark Hours, what's actually visible in your sky tonight"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://weblog.rogueamoeba.com/2026/04/28/unobtrusive-update-notifications/",
-    "title": "Rogue Amoeba - Under the Microscope » Blog Archive » Unobtrusive Update Notifications"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://franktisellano.github.io/datatype/",
-    "title": "Datatype — variable font that turns text into charts"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://randsinrepose.com/archives/the-apple-upgrade-situation/",
-    "title": "The Apple Upgrade Situation – Rands in Repose"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://tailscale.com/blog/hugging-face-intrusion",
-    "title": "Tailscale in the Hugging Face intrusion: The good news and the bad news"
   }
 ]
