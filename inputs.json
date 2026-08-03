@@ -1,18 +1,18 @@
 [
   {
     "source": "hn",
-    "url": "https://research.jfrog.com/post/sqlite-critical-cves-or-llm-slops/",
-    "title": "Critical CVE issued for hallucinated SQLite vulnerability"
-  },
-  {
-    "source": "hn",
     "url": "https://blog.exe.dev/devtools-must-be-open-source",
     "title": "Devtools must be open source"
   },
   {
     "source": "hn",
-    "url": "https://gruhn.me/blog/2026-08-03/",
-    "title": "Don't be a meat proxy"
+    "url": "https://changelog.complete.org/archives/44456-celebrating-45-years-of-kermit-with-the-first-new-c-kermit-release-in-15-years-and-working-with-a-decades-old-c-codebase",
+    "title": "Celebrating 45 Years of Kermit with the First New C-Kermit Release in 15 Years"
+  },
+  {
+    "source": "hn",
+    "url": "https://hoplite.sh",
+    "title": "Launch HN: Hoplite (YC S26) – Effortlessly deploy cloud coding agents"
   },
   {
     "source": "hn",
@@ -21,13 +21,18 @@
   },
   {
     "source": "hn",
-    "url": "https://defector.com/abandoned-fish-sauce-canada-interview",
-    "title": "The Abandoned Fish Sauce Terrorizing a Small Canadian Town"
+    "url": "https://research.jfrog.com/post/sqlite-critical-cves-or-llm-slops/",
+    "title": "SQLite Critical CVEs or LLM Slop?"
   },
   {
     "source": "hn",
-    "url": "https://www.thedrive.com/podcast/flocks-ceo-wants-zero-wrongful-stops-i-wasnt-the-first",
-    "title": "Flock's CEO Faced Me After Its Cameras Led to My Wrongful Stop"
+    "url": "https://kttnr.net/blog/cpp-float-to-int-conversion-undefined-behavior/",
+    "title": "C++ float-to-int conversion can be undefined behavior"
+  },
+  {
+    "source": "hn",
+    "url": "https://gruhn.me/blog/2026-08-03/",
+    "title": "Don't be a meat proxy"
   },
   {
     "source": "hn",
@@ -36,18 +41,13 @@
   },
   {
     "source": "hn",
+    "url": "https://octanejs.dev",
+    "title": "Octane – React’s programming model, compiled"
+  },
+  {
+    "source": "hn",
     "url": "https://clementjambon.github.io/wods/index.html#blogpost",
     "title": "Walk on Decomposed Subdomains"
-  },
-  {
-    "source": "hn",
-    "url": "https://octanejs.dev",
-    "title": "Octane – React's programming model, compiled"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.newyorker.com/magazine/2026/08/10/the-future-made-in-china",
-    "title": "The Future, Made in China"
   },
   {
     "source": "hn",
@@ -56,43 +56,8 @@
   },
   {
     "source": "hn",
-    "url": "https://sf.isopolis.city/",
-    "title": "Show HN: Isopolis – Isometric pixel map of SF"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.npopov.com/2012/06/15/The-true-power-of-regular-expressions.html",
-    "title": "The true power of regular expressions (2012)"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.sltrib.com/news/environment/2026/08/03/utah-sets-solar-power-record/",
-    "title": "Utah produced more power from solar than any other source in May, a new first"
-  },
-  {
-    "source": "hn",
-    "url": "https://lapcatsoftware.com/articles/2026/8/2.html",
-    "title": "Why does Mail app contact iCloud when sending a non-iCloud email?"
-  },
-  {
-    "source": "hn",
-    "url": "https://arcbox.dev/blog/unifi-pppoe-half-bridge-acceleration",
-    "title": "Show HN: We Fixed UniFi's Slow PPPoE Performance with PPPoE Half-Bridge"
-  },
-  {
-    "source": "hn",
-    "url": "https://localai.io/blog/why-we-write-our-own-engines/",
-    "title": "Why we write our own C and C++ inference engines"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://blog.gaborkoos.com/posts/2026-08-03-Your-JSON-Is-Lying-to-You/",
-    "title": "Your JSON Is Lying to You"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://9front.org/releases/2026/08/02/0/",
-    "title": "9front \"THIS WAS SUPPOSED TO BE FUN\" Released"
+    "url": "https://defector.com/abandoned-fish-sauce-canada-interview",
+    "title": "The Abandoned Fish Sauce Terrorizing a Small Canadian Town"
   },
   {
     "source": "lobsters",
@@ -106,13 +71,18 @@
   },
   {
     "source": "lobsters",
-    "url": "https://andrewkelley.me/post/dont-take-black-pill.html",
-    "title": "Don't Take the Black Pill (Text Adaptation)"
+    "url": "https://blog.gaborkoos.com/posts/2026-08-03-Your-JSON-Is-Lying-to-You/",
+    "title": "Your JSON Is Lying to You"
   },
   {
     "source": "lobsters",
-    "url": "https://var0.xyz/posts/retries-dont-fix-eventual-consistency.html",
-    "title": "Retries don't fix eventual consistency"
+    "url": "https://9front.org/releases/2026/08/02/0/",
+    "title": "9front \"THIS WAS SUPPOSED TO BE FUN\" Released"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://andrewkelley.me/post/dont-take-black-pill.html",
+    "title": "Don't Take the Black Pill (Text Adaptation)"
   },
   {
     "source": "lobsters",
@@ -126,6 +96,11 @@
   },
   {
     "source": "lobsters",
+    "url": "https://var0.xyz/posts/retries-dont-fix-eventual-consistency.html",
+    "title": "Retries don't fix eventual consistency"
+  },
+  {
+    "source": "lobsters",
     "url": "https://ohadravid.github.io/posts/2026-08-unsafe-water/",
     "title": "Practical Memory Safety"
   },
@@ -133,6 +108,16 @@
     "source": "lobsters",
     "url": "https://antonz.org/going-backward/",
     "title": "Going Backward"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://menno.io/posts/not-python-2026/",
+    "title": "Projects I Wouldn't Use Python For in 2026"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://www.kmx.io/blog/kc3-v0.1.17-released",
+    "title": "KC3 v0.1.17 released"
   },
   {
     "source": "lobsters",
@@ -146,11 +131,6 @@
   },
   {
     "source": "lobsters",
-    "url": "https://www.kmx.io/blog/kc3-v0.1.17-released",
-    "title": "KC3 v0.1.17 released"
-  },
-  {
-    "source": "lobsters",
     "url": "https://www.joelonsoftware.com/2000/04/10/controlling-your-environment-makes-you-happy/",
     "title": "Controlling Your Environment Makes You Happy (2000)"
   },
@@ -158,110 +138,5 @@
     "source": "lobsters",
     "url": "https://lemire.me/blog/2026/08/02/how-fast-is-c26s-stdhive/",
     "title": "How fast is C++26’s std::hive?"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://sebsite.pw/w/20260802-sizeof.html",
-    "title": "sizeof is surprisingly difficult to parse in c"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://perlhacks.com/2026/08/the-future-isnt-evenly-distributed/",
-    "title": "The Future Isn’t Evenly Distributed"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://olivia.science/anxiety/",
-    "title": "Anxiety"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://eighty-twenty.org/2016/08/18/redex-iswim",
-    "title": "Modelling Actors with Redex: Part I"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://john.fun/elevators",
-    "title": "Elevators"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.librarian.net/NoToAI/",
-    "title": "Removing Intrusive AI from stuff – librarian.net"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://darkhours.io/",
-    "title": "Dark Hours, what's actually visible in your sky tonight"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://microsoft.github.io/flint-chart/",
-    "title": "Flint: A Visualization Language for the AI Era"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://hughhowey.com/the-end-of-an-era/",
-    "title": "The End of an Era - Hugh Howey"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.superlogical.com/",
-    "title": "Superlogical"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.schneier.com/blog/archives/2026/07/should-you-use-ai-for-a-task-heres-a-simple-way-to-decide.html",
-    "title": "Should You Use AI for a Task? Here’s a Simple Way to Decide - Schneier on Security"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://diataxis.fr/",
-    "title": "Diátaxis Framework"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://elenajs.com/",
-    "title": "Elena | Progressive Web Components"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://leodemoura.github.io/blog/2026-8-1-postmortem-for-kernel-soundness-bug-14576/",
-    "title": "Postmortem for Kernel Soundness Bug #14576 — Leonardo de Moura"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.raptitude.com/2026/07/how-to-exist/",
-    "title": "How to Exist"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://foldingglobes.com/globes",
-    "title": "Free Printable Paper Globes — Folding Paper Globes"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.npr.org/2026/08/01/nx-s1-5912219/trump-truth-social-access-insider-trading",
-    "title": "For sale: early access to Trump's Truth Social posts: The president's media company is offering investors early access to his Truth Social feed for up to $100,000 a month; experts say the service may violate insider trading laws | NPR"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://ephemeralnewyork.wordpress.com/2026/07/27/hidden-by-billboards-for-over-100-years-the-tiny-holdout-building-in-the-middle-of-macys-is-back-in-view/",
-    "title": "Hidden by billboards for over 100 years, the tiny holdout building in the middle of Macy’s is back in view | Ephemeral New York"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://animeuserinterface.tumblr.com/",
-    "title": "Anime User Interfaces"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://earendil.com/posts/session-portability/",
-    "title": "The Session You Cannot Take With You | EARENDIL"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://readingmaps.com/",
-    "title": "Maps & Travel Routes from Books & Films"
   }
 ]
