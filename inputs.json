@@ -11,13 +11,28 @@
   },
   {
     "source": "hn",
+    "url": "https://blog.cloudflare.com/smaller-faster-safer-models/",
+    "title": "Smaller, faster, safer: running Kimi and GLM at scale"
+  },
+  {
+    "source": "hn",
     "url": "https://hoplite.sh",
     "title": "Launch HN: Hoplite (YC S26) – Effortlessly deploy cloud coding agents"
   },
   {
     "source": "hn",
-    "url": "https://qwen.ai/blog?id=qwen3.8",
-    "title": "Qwen3.8-Max: A New Bar for Coding and Cowork"
+    "url": "https://blog.cloudflare.com/billable-usage-api/",
+    "title": "The Billable Usage API: programmatic cost visibility for Cloudflare"
+  },
+  {
+    "source": "hn",
+    "url": "https://hamvocke.com/blog/task-runners/",
+    "title": "Use Task Runners for Common Coding Tasks"
+  },
+  {
+    "source": "hn",
+    "url": "https://kellysimulator.com/",
+    "title": "Kelly Criterion Simulator"
   },
   {
     "source": "hn",
@@ -26,38 +41,23 @@
   },
   {
     "source": "hn",
-    "url": "https://kttnr.net/blog/cpp-float-to-int-conversion-undefined-behavior/",
-    "title": "C++ float-to-int conversion can be undefined behavior"
-  },
-  {
-    "source": "hn",
     "url": "https://gruhn.me/blog/2026-08-03/",
     "title": "Don't be a meat proxy"
   },
   {
     "source": "hn",
+    "url": "https://kttnr.net/blog/cpp-float-to-int-conversion-undefined-behavior/",
+    "title": "C++ float-to-int conversion can be undefined behavior"
+  },
+  {
+    "source": "hn",
+    "url": "https://qwen.ai/blog?id=qwen3.8",
+    "title": "Qwen3.8-Max: A New Bar for Coding and Cowork"
+  },
+  {
+    "source": "hn",
     "url": "https://blog.gingerbeardman.com/2026/08/02/games-at-the-press-of-a-button-the-rip-o-bot/",
     "title": "Games at the press of a button: The Rip-O-Bot (1989)"
-  },
-  {
-    "source": "hn",
-    "url": "https://octanejs.dev",
-    "title": "Octane – React’s programming model, compiled"
-  },
-  {
-    "source": "hn",
-    "url": "https://clementjambon.github.io/wods/index.html#blogpost",
-    "title": "Walk on Decomposed Subdomains"
-  },
-  {
-    "source": "hn",
-    "url": "https://z80.me/blog/tsc-2026-july/",
-    "title": "Train Simulator Controller"
-  },
-  {
-    "source": "hn",
-    "url": "https://defector.com/abandoned-fish-sauce-canada-interview",
-    "title": "The Abandoned Fish Sauce Terrorizing a Small Canadian Town"
   },
   {
     "source": "lobsters",
@@ -91,13 +91,18 @@
   },
   {
     "source": "lobsters",
-    "url": "https://martinalderson.com/posts/speed-vs-intelligence/",
-    "title": "I'm (mostly) picking models on speed now, not intelligence"
+    "url": "https://var0.xyz/posts/retries-dont-fix-eventual-consistency.html",
+    "title": "Retries don't fix eventual consistency"
   },
   {
     "source": "lobsters",
-    "url": "https://var0.xyz/posts/retries-dont-fix-eventual-consistency.html",
-    "title": "Retries don't fix eventual consistency"
+    "url": "https://antonz.org/going-backward/",
+    "title": "Going Backward"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://martinalderson.com/posts/speed-vs-intelligence/",
+    "title": "I'm (mostly) picking models on speed now, not intelligence"
   },
   {
     "source": "lobsters",
@@ -106,8 +111,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://antonz.org/going-backward/",
-    "title": "Going Backward"
+    "url": "https://third-bit.com/gl4py/",
+    "title": "Gleam for Python Programmers"
   },
   {
     "source": "lobsters",
@@ -123,20 +128,5 @@
     "source": "lobsters",
     "url": "https://chrismorgan.info/atom%3Erss",
     "title": "Atom is better than RSS, in ways that matter"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://www.arscyni.cc/file/warez_your_website.html",
-    "title": "Where's your website?"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://www.joelonsoftware.com/2000/04/10/controlling-your-environment-makes-you-happy/",
-    "title": "Controlling Your Environment Makes You Happy (2000)"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://lemire.me/blog/2026/08/02/how-fast-is-c26s-stdhive/",
-    "title": "How fast is C++26’s std::hive?"
   }
 ]
