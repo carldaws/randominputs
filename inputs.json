@@ -31,13 +31,8 @@
   },
   {
     "source": "hn",
-    "url": "https://hoplite.sh",
-    "title": "Launch HN: Hoplite (YC S26) – Effortlessly deploy cloud coding agents"
-  },
-  {
-    "source": "hn",
-    "url": "https://fortune.com/2026/07/31/ai-debt-hypescalers-capex-capital-spending-hidden-borrowing-bond-issuance/",
-    "title": "AI's debt binge can't last, hidden borrowing reaches $1.65T"
+    "url": "https://bumbershootsoft.wordpress.com/2026/05/30/zx-spectrum-system-tour-text-mode/",
+    "title": "ZX Spectrum System Tour: Text Mode – Bumbershoot Software"
   },
   {
     "source": "hn",
@@ -46,18 +41,13 @@
   },
   {
     "source": "hn",
+    "url": "https://hoplite.sh",
+    "title": "Launch HN: Hoplite (YC S26) – Effortlessly deploy cloud coding agents"
+  },
+  {
+    "source": "hn",
     "url": "https://bumbershootsoft.wordpress.com/2026/08/01/zx-spectrum-system-tour-sound/",
     "title": "ZX Spectrum System Tour: Sound"
-  },
-  {
-    "source": "hn",
-    "url": "https://status.digdir.no/incidents/d7hvqmf2yr3l",
-    "title": "DDoS against Norwegian government IT infrastructure – status"
-  },
-  {
-    "source": "hn",
-    "url": "https://blog.cloudflare.com/billable-usage-api/",
-    "title": "The Billable Usage API: programmatic cost visibility for Cloudflare"
   },
   {
     "source": "hn",
@@ -66,8 +56,23 @@
   },
   {
     "source": "hn",
-    "url": "https://gruhn.me/blog/2026-08-03/",
-    "title": "Don't be a meat proxy"
+    "url": "https://blog.cloudflare.com/billable-usage-api/",
+    "title": "The Billable Usage API: programmatic cost visibility for Cloudflare"
+  },
+  {
+    "source": "hn",
+    "url": "https://status.digdir.no/incidents/d7hvqmf2yr3l",
+    "title": "DDoS against Norwegian government IT infrastructure – status"
+  },
+  {
+    "source": "hn",
+    "url": "https://pandoc.org/twenty-years-of-pandoc.html",
+    "title": "Twenty Years of Pandoc"
+  },
+  {
+    "source": "hn",
+    "url": "https://asteriskmag.com/issues/15/chinas-last-bus",
+    "title": "Boarding China's Last Bus"
   },
   {
     "source": "hn",
@@ -78,6 +83,11 @@
     "source": "lobsters",
     "url": "https://killthecookiebanner.eu/",
     "title": "Kill the Cookie Banner"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://gruhn.me/blog/2026-08-03/",
+    "title": "Don't be a meat proxy"
   },
   {
     "source": "lobsters",
@@ -101,8 +111,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://pandoc.org/twenty-years-of-pandoc.html",
-    "title": "Twenty Years of Pandoc"
+    "url": "https://blogs.gnome.org/feborges/future-of-boxes/",
+    "title": "The Future of GNOME Boxes"
   },
   {
     "source": "lobsters",
@@ -111,13 +121,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://blogs.gnome.org/feborges/future-of-boxes/",
-    "title": "The Future of GNOME Boxes"
+    "url": "https://pythonspeed.com/articles/faster-float-math-rust/",
+    "title": "Faster floating point math with Rust’s new API"
   },
   {
     "source": "lobsters",
-    "url": "https://pythonspeed.com/articles/faster-float-math-rust/",
-    "title": "Faster floating point math with Rust’s new API"
+    "url": "https://ohadravid.github.io/posts/2026-08-unsafe-water/",
+    "title": "Practical Memory Safety"
   },
   {
     "source": "lobsters",
@@ -136,11 +146,6 @@
   },
   {
     "source": "lobsters",
-    "url": "https://ohadravid.github.io/posts/2026-08-unsafe-water/",
-    "title": "Practical Memory Safety"
-  },
-  {
-    "source": "lobsters",
     "url": "https://third-bit.com/gl4py/",
     "title": "Gleam for Python Programmers"
   },
@@ -148,5 +153,90 @@
     "source": "lobsters",
     "url": "https://www.kmx.io/blog/kc3-v0.1.17-released",
     "title": "KC3 v0.1.17 released"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://john.fun/elevators",
+    "title": "Elevators"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.librarian.net/NoToAI/",
+    "title": "Removing Intrusive AI from stuff – librarian.net"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://darkhours.io/",
+    "title": "Dark Hours, what's actually visible in your sky tonight"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://microsoft.github.io/flint-chart/",
+    "title": "Flint: A Visualization Language for the AI Era"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://hughhowey.com/the-end-of-an-era/",
+    "title": "The End of an Era - Hugh Howey"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.superlogical.com/",
+    "title": "Superlogical"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.schneier.com/blog/archives/2026/07/should-you-use-ai-for-a-task-heres-a-simple-way-to-decide.html",
+    "title": "Should You Use AI for a Task? Here’s a Simple Way to Decide - Schneier on Security"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://diataxis.fr/",
+    "title": "Diátaxis Framework"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://elenajs.com/",
+    "title": "Elena | Progressive Web Components"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://leodemoura.github.io/blog/2026-8-1-postmortem-for-kernel-soundness-bug-14576/",
+    "title": "Postmortem for Kernel Soundness Bug #14576 — Leonardo de Moura"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.raptitude.com/2026/07/how-to-exist/",
+    "title": "How to Exist"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://foldingglobes.com/globes",
+    "title": "Free Printable Paper Globes — Folding Paper Globes"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.npr.org/2026/08/01/nx-s1-5912219/trump-truth-social-access-insider-trading",
+    "title": "For sale: early access to Trump's Truth Social posts: The president's media company is offering investors early access to his Truth Social feed for up to $100,000 a month; experts say the service may violate insider trading laws | NPR"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://ephemeralnewyork.wordpress.com/2026/07/27/hidden-by-billboards-for-over-100-years-the-tiny-holdout-building-in-the-middle-of-macys-is-back-in-view/",
+    "title": "Hidden by billboards for over 100 years, the tiny holdout building in the middle of Macy’s is back in view | Ephemeral New York"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://animeuserinterface.tumblr.com/",
+    "title": "Anime User Interfaces"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://earendil.com/posts/session-portability/",
+    "title": "The Session You Cannot Take With You | EARENDIL"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://readingmaps.com/",
+    "title": "Maps & Travel Routes from Books & Films"
   }
 ]
