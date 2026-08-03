@@ -1,6 +1,11 @@
 [
   {
     "source": "hn",
+    "url": "https://research.jfrog.com/post/sqlite-critical-cves-or-llm-slops/",
+    "title": "Critical CVE issued for hallucinated SQLite vulnerability"
+  },
+  {
+    "source": "hn",
     "url": "https://gruhn.me/blog/2026-08-03/",
     "title": "Don't be a meat proxy"
   },
@@ -11,13 +16,8 @@
   },
   {
     "source": "hn",
-    "url": "https://mertbulan.com/more-german-than-many-germans/",
-    "title": "More German than many Germans"
-  },
-  {
-    "source": "hn",
-    "url": "https://sf.isopolis.city/",
-    "title": "Show HN: Isopolis – Isometric pixel map of SF"
+    "url": "https://www.wired.com/story/ice-dna-collection-fbi-codis/",
+    "title": "ICE Collected Nearly 1M People's DNA Last Year–Including Young Children"
   },
   {
     "source": "hn",
@@ -26,13 +26,43 @@
   },
   {
     "source": "hn",
+    "url": "https://www.npopov.com/2012/06/15/The-true-power-of-regular-expressions.html",
+    "title": "The true power of regular expressions (2012)"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.theregister.com/ai-and-ml/2026/08/03/the-ai-bubble-is-already-popping-we-just-dont-know-it-yet/5282004",
+    "title": "The AI bubble is popping; we just don't know it yet"
+  },
+  {
+    "source": "hn",
+    "url": "https://sf.isopolis.city/",
+    "title": "Show HN: Isopolis – Isometric pixel map of SF"
+  },
+  {
+    "source": "hn",
+    "url": "https://arcbox.dev/blog/unifi-pppoe-half-bridge-acceleration",
+    "title": "Show HN: We Fixed UniFi's Slow PPPoE Performance with PPPoE Half-Bridge"
+  },
+  {
+    "source": "hn",
+    "url": "https://z80.me/blog/tsc-2026-july/",
+    "title": "Train Simulator Controller"
+  },
+  {
+    "source": "hn",
     "url": "https://localai.io/blog/why-we-write-our-own-engines/",
     "title": "Why we write our own C and C++ inference engines"
   },
   {
     "source": "hn",
-    "url": "https://www.inkandswitch.com/livelymerge/notebook/lm-02/",
-    "title": "Convergence is not enough"
+    "url": "https://www.emergingtrajectories.com/lh/situational-awareness-bigger-picture/",
+    "title": "Situational Awareness and the Impending Stock Market Volatility"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.andreagrandi.it/posts/why-book-corners-wont-sync-contributions-back-to-openstreetmap/",
+    "title": "Why Book Corners won't sync contributions back to OpenStreetMap"
   },
   {
     "source": "hn",
@@ -51,48 +81,13 @@
   },
   {
     "source": "hn",
-    "url": "https://www.andreagrandi.it/posts/why-book-corners-wont-sync-contributions-back-to-openstreetmap/",
-    "title": "Why Book Corners won't sync contributions back to OpenStreetMap"
-  },
-  {
-    "source": "hn",
-    "url": "https://bjorg.bjornroche.com/management/ai-productivity-gap/",
-    "title": "The AI Productivity Gap"
-  },
-  {
-    "source": "hn",
-    "url": "https://hedgehogreview.com/web-features/thr/posts/read-the-novels-and-forget-everything-else",
-    "title": "Read the novels and forget everything else"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.emergingtrajectories.com/lh/situational-awareness-bigger-picture/",
-    "title": "Situational Awareness and the Impending Stock Market Volatility"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.rubenerd.au/the-myth-of-snow-leopard/",
-    "title": "The myth of Snow Leopard"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.rfc-editor.org/rfc/rfc9851.html",
-    "title": "RFC 9851: TLS 1.2 is in Feature Freeze"
-  },
-  {
-    "source": "hn",
-    "url": "https://pudding.cool/2026/07/essential-words/",
-    "title": "How the words we teach English language learners changed"
+    "url": "https://www.inkandswitch.com/livelymerge/notebook/lm-02/",
+    "title": "Convergence is not enough"
   },
   {
     "source": "lobsters",
     "url": "https://blog.gaborkoos.com/posts/2026-08-03-Your-JSON-Is-Lying-to-You/",
     "title": "Your JSON Is Lying to You"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://9front.org/releases/2026/08/02/0/",
-    "title": "9front \"THIS WAS SUPPOSED TO BE FUN\" Released"
   },
   {
     "source": "lobsters",
@@ -106,6 +101,16 @@
   },
   {
     "source": "lobsters",
+    "url": "https://var0.xyz/posts/retries-dont-fix-eventual-consistency.html",
+    "title": "Retries don't fix eventual consistency"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://andrewkelley.me/post/dont-take-black-pill.html",
+    "title": "Don't Take the Black Pill (Text Adaptation)"
+  },
+  {
+    "source": "lobsters",
     "url": "https://chrismorgan.info/atom%3Erss",
     "title": "Atom is better than RSS, in ways that matter"
   },
@@ -113,6 +118,11 @@
     "source": "lobsters",
     "url": "https://www.arscyni.cc/file/warez_your_website.html",
     "title": "Where's your website?"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://ohadravid.github.io/posts/2026-08-unsafe-water/",
+    "title": "Practical Memory Safety"
   },
   {
     "source": "lobsters",
@@ -126,23 +136,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://var0.xyz/posts/retries-dont-fix-eventual-consistency.html",
-    "title": "Retries don't fix eventual consistency"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://xvw.lol/en/articles/oop-refl.html",
-    "title": "Guarded methods in OCaml"
-  },
-  {
-    "source": "lobsters",
     "url": "https://www.joelonsoftware.com/2000/04/10/controlling-your-environment-makes-you-happy/",
     "title": "Controlling Your Environment Makes You Happy (2000)"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://iccf-holland.org/jaarrekening2024_EN.pdf",
-    "title": "ICCF Holland Annual accounts 2024"
   },
   {
     "source": "lobsters",
@@ -151,22 +146,22 @@
   },
   {
     "source": "lobsters",
-    "url": "https://blog.netbsd.org/tnf/entry/netbsd_11_0_released",
-    "title": "NetBSD 11.0 released"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://linderud.dev/blog/resigning-from-arch-linux/",
-    "title": "Resigning from Arch Linux"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://borretti.me/article/mathematics-without-mathematicians",
-    "title": "Mathematics Without Mathematicians"
+    "url": "https://xvw.lol/en/articles/oop-refl.html",
+    "title": "Guarded methods in OCaml"
   },
   {
     "source": "lobsters",
     "url": "https://third-bit.com/gl4py/",
     "title": "Gleam for Python Programmers"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://www.kmx.io/blog/kc3-v0.1.17-released",
+    "title": "KC3 v0.1.17 released"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://blog.netbsd.org/tnf/entry/netbsd_11_0_released",
+    "title": "NetBSD 11.0 released"
   }
 ]
