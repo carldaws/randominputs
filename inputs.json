@@ -1,13 +1,28 @@
 [
   {
     "source": "hn",
+    "url": "https://www.andreagrandi.it/posts/why-book-corners-wont-sync-contributions-back-to-openstreetmap/",
+    "title": "Why Book Corners won't sync contributions back to OpenStreetMap"
+  },
+  {
+    "source": "hn",
     "url": "https://mattbeton.com/blog/bitnet-6502.html",
     "title": "Autoregressive Language Model on the 6502 Processor"
   },
   {
     "source": "hn",
+    "url": "https://sf.isopolis.city/",
+    "title": "Show HN: Isopolis – isometric pixel map of SF"
+  },
+  {
+    "source": "hn",
     "url": "https://unattributed.cc/note-taking-and-personal-knowledge-management",
     "title": "Note-Taking and Personal Knowledge Management"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.rfc-editor.org/rfc/rfc9851.html",
+    "title": "RFC 9851: TLS 1.2 is in Feature Freeze"
   },
   {
     "source": "hn",
@@ -21,13 +36,8 @@
   },
   {
     "source": "hn",
-    "url": "https://dobrowolski.dev/article/sharing-an-x-server-across-hosts-with-familywild/",
-    "title": "Sharing an X11 Server Across Hosts with FamilyWild"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.nbcsandiego.com/nbc-7-responds-2/californians-data-deletion-requests-drop-become-enforceable-aug-1/4054771/",
-    "title": "Californians' data deletion requests, DROP, become enforceable Aug. 1"
+    "url": "https://plato.stanford.edu/entries/computational-mind/",
+    "title": "The Computational Theory of Mind (2015)"
   },
   {
     "source": "hn",
@@ -36,33 +46,28 @@
   },
   {
     "source": "hn",
-    "url": "https://plato.stanford.edu/entries/computational-mind/",
-    "title": "The Computational Theory of Mind (2015)"
-  },
-  {
-    "source": "hn",
     "url": "https://fstar-lang.org/",
     "title": "F*: A general-purpose proof-oriented programming language"
   },
   {
     "source": "hn",
-    "url": "https://www.rubenerd.au/the-myth-of-snow-leopard/",
-    "title": "The Myth of Snow Leopard"
-  },
-  {
-    "source": "hn",
-    "url": "https://16-bits.org/ft2.php",
-    "title": "Fasttracker II clone in C using SDL 2"
-  },
-  {
-    "source": "hn",
-    "url": "https://meshdiff.com/",
-    "title": "Meshdiff – visually compare two STL versions in the browser, client-side"
-  },
-  {
-    "source": "hn",
     "url": "https://frogs.vaguespac.es/",
     "title": "My personal AI benchmark: \"Generate an SVG of a frog with a Habsburg jaw.\""
+  },
+  {
+    "source": "hn",
+    "url": "https://www.nbcsandiego.com/nbc-7-responds-2/californians-data-deletion-requests-drop-become-enforceable-aug-1/4054771/",
+    "title": "Californians' data deletion requests, DROP, become enforceable Aug. 1"
+  },
+  {
+    "source": "hn",
+    "url": "https://doku.su/history-of-sudoku",
+    "title": "A Playable History of Sudoku"
+  },
+  {
+    "source": "hn",
+    "url": "https://dobrowolski.dev/article/sharing-an-x-server-across-hosts-with-familywild/",
+    "title": "Sharing an X11 Server Across Hosts with FamilyWild"
   },
   {
     "source": "hn",
@@ -116,6 +121,11 @@
   },
   {
     "source": "lobsters",
+    "url": "https://olivia.science/anxiety/",
+    "title": "Anxiety"
+  },
+  {
+    "source": "lobsters",
     "url": "https://borretti.me/article/mathematics-without-mathematicians",
     "title": "Mathematics Without Mathematicians"
   },
@@ -123,6 +133,11 @@
     "source": "lobsters",
     "url": "https://jmmv.dev/2026/07/hello-getoptsargs.html",
     "title": "An old-new take on argument parsing in Rust"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://blog.gaborkoos.com/posts/2026-08-03-Your-JSON-Is-Lying-to-You/",
+    "title": "Your JSON Is Lying to You"
   },
   {
     "source": "lobsters",
@@ -136,18 +151,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://natkr.com/2026-08-02-flickboard/",
-    "title": "FlickBoard"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://raymii.org/s/articles/But_can_your_calculator_run_Linux.html",
-    "title": "But can your calculator run Linux?"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://fixiproject.org/docs.html",
-    "title": "The Fixi Project"
+    "url": "https://www.joelonsoftware.com/2000/04/10/controlling-your-environment-makes-you-happy/",
+    "title": "Controlling Your Environment Makes You Happy (2000)"
   },
   {
     "source": "pinboard",
