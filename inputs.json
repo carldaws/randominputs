@@ -1,8 +1,18 @@
 [
   {
     "source": "hn",
+    "url": "https://gruhn.me/blog/2026-08-03/",
+    "title": "Don't be a meat proxy"
+  },
+  {
+    "source": "hn",
     "url": "https://qwen.ai/blog?id=qwen3.8",
     "title": "Qwen3.8-Max: A New Bar for Coding and Cowork"
+  },
+  {
+    "source": "hn",
+    "url": "https://mertbulan.com/more-german-than-many-germans/",
+    "title": "More German than many Germans"
   },
   {
     "source": "hn",
@@ -11,8 +21,18 @@
   },
   {
     "source": "hn",
-    "url": "https://www.modelrepublic.org/articles/the-reporters-at-this-news-site-are-ai-bots.-openai%E2%80%99s-super-pac-appears-to-be-using-it-to-advance-its-political-agenda",
-    "title": "OpenAI's super PAC is funding AI-generated news site attacking industry critics"
+    "url": "https://octanejs.dev",
+    "title": "Octane – React's programming model, compiled"
+  },
+  {
+    "source": "hn",
+    "url": "https://localai.io/blog/why-we-write-our-own-engines/",
+    "title": "Why we write our own C and C++ inference engines"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.inkandswitch.com/livelymerge/notebook/lm-02/",
+    "title": "Convergence is not enough"
   },
   {
     "source": "hn",
@@ -31,48 +51,13 @@
   },
   {
     "source": "hn",
-    "url": "https://www.rubenerd.au/the-myth-of-snow-leopard/",
-    "title": "The myth of Snow Leopard"
+    "url": "https://www.andreagrandi.it/posts/why-book-corners-wont-sync-contributions-back-to-openstreetmap/",
+    "title": "Why Book Corners won't sync contributions back to OpenStreetMap"
   },
   {
     "source": "hn",
-    "url": "https://plato.stanford.edu/entries/computational-mind/",
-    "title": "The Computational Theory of Mind (2015)"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.rfc-editor.org/rfc/rfc9851.html",
-    "title": "RFC 9851: TLS 1.2 is in Feature Freeze"
-  },
-  {
-    "source": "hn",
-    "url": "https://localai.io/blog/why-we-write-our-own-engines/",
-    "title": "Why we write our own C and C++ inference engines"
-  },
-  {
-    "source": "hn",
-    "url": "https://pudding.cool/2026/07/essential-words/",
-    "title": "How the words we teach English language learners changed"
-  },
-  {
-    "source": "hn",
-    "url": "https://frogs.vaguespac.es/",
-    "title": "My personal AI benchmark: “Generate an SVG of a frog with a Habsburg jaw”"
-  },
-  {
-    "source": "hn",
-    "url": "https://blog.lon.tv/2023/02/05/tinynes-review-a-super-niche-nes-console/",
-    "title": "TinyNES Review – A Super Niche NES Console"
-  },
-  {
-    "source": "hn",
-    "url": "https://foldingglobes.com/globes",
-    "title": "Folding Paper Globes"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.nbcsandiego.com/nbc-7-responds-2/californians-data-deletion-requests-drop-become-enforceable-aug-1/4054771/",
-    "title": "Californians' data deletion requests, DROP, become enforceable Aug. 1"
+    "url": "https://bjorg.bjornroche.com/management/ai-productivity-gap/",
+    "title": "The AI Productivity Gap"
   },
   {
     "source": "hn",
@@ -81,8 +66,33 @@
   },
   {
     "source": "hn",
-    "url": "https://16-bits.org/ft2.php",
-    "title": "Fasttracker II clone in C using SDL 2"
+    "url": "https://www.emergingtrajectories.com/lh/situational-awareness-bigger-picture/",
+    "title": "Situational Awareness and the Impending Stock Market Volatility"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.rubenerd.au/the-myth-of-snow-leopard/",
+    "title": "The myth of Snow Leopard"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.rfc-editor.org/rfc/rfc9851.html",
+    "title": "RFC 9851: TLS 1.2 is in Feature Freeze"
+  },
+  {
+    "source": "hn",
+    "url": "https://pudding.cool/2026/07/essential-words/",
+    "title": "How the words we teach English language learners changed"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://blog.gaborkoos.com/posts/2026-08-03-Your-JSON-Is-Lying-to-You/",
+    "title": "Your JSON Is Lying to You"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://9front.org/releases/2026/08/02/0/",
+    "title": "9front \"THIS WAS SUPPOSED TO BE FUN\" Released"
   },
   {
     "source": "lobsters",
@@ -93,11 +103,6 @@
     "source": "lobsters",
     "url": "https://pythonspeed.com/articles/faster-float-math-rust/",
     "title": "Faster floating point math with Rust’s new API"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://blog.gaborkoos.com/posts/2026-08-03-Your-JSON-Is-Lying-to-You/",
-    "title": "Your JSON Is Lying to You"
   },
   {
     "source": "lobsters",
@@ -121,13 +126,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://xvw.lol/en/articles/oop-refl.html",
-    "title": "Guarded methods in OCaml"
+    "url": "https://var0.xyz/posts/retries-dont-fix-eventual-consistency.html",
+    "title": "Retries don't fix eventual consistency"
   },
   {
     "source": "lobsters",
-    "url": "https://9front.org/releases/2026/08/02/0/",
-    "title": "9front \"THIS WAS SUPPOSED TO BE FUN\" Released"
+    "url": "https://xvw.lol/en/articles/oop-refl.html",
+    "title": "Guarded methods in OCaml"
   },
   {
     "source": "lobsters",
@@ -136,13 +141,18 @@
   },
   {
     "source": "lobsters",
-    "url": "https://blog.netbsd.org/tnf/entry/netbsd_11_0_released",
-    "title": "NetBSD 11.0 released"
+    "url": "https://iccf-holland.org/jaarrekening2024_EN.pdf",
+    "title": "ICCF Holland Annual accounts 2024"
   },
   {
     "source": "lobsters",
     "url": "https://olivia.science/anxiety/",
     "title": "Anxiety"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://blog.netbsd.org/tnf/entry/netbsd_11_0_released",
+    "title": "NetBSD 11.0 released"
   },
   {
     "source": "lobsters",
@@ -156,12 +166,7 @@
   },
   {
     "source": "lobsters",
-    "url": "https://jmmv.dev/2026/07/hello-getoptsargs.html",
-    "title": "An old-new take on argument parsing in Rust"
-  },
-  {
-    "source": "lobsters",
-    "url": "http://oldvcr.blogspot.com/2026/08/mklinux-and-pimped-out-apple-workgroup.html",
-    "title": "MkLinux and the pimped-out Apple Workgroup Server 9150"
+    "url": "https://third-bit.com/gl4py/",
+    "title": "Gleam for Python Programmers"
   }
 ]
