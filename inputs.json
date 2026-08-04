@@ -11,11 +11,6 @@
   },
   {
     "source": "hn",
-    "url": "https://en.wikipedia.org/wiki/Battle_of_the_Beams",
-    "title": "Battle of the Beams"
-  },
-  {
-    "source": "hn",
     "url": "https://blog.cloudflare.com/smaller-faster-safer-models/",
     "title": "Smaller, faster, safer: running Kimi and GLM at scale"
   },
@@ -36,23 +31,13 @@
   },
   {
     "source": "hn",
-    "url": "https://hoplite.sh",
-    "title": "Launch HN: Hoplite (YC S26) – Effortlessly deploy cloud coding agents"
-  },
-  {
-    "source": "hn",
     "url": "https://bumbershootsoft.wordpress.com/2026/05/30/zx-spectrum-system-tour-text-mode/",
     "title": "ZX Spectrum System Tour: Text Mode"
   },
   {
     "source": "hn",
-    "url": "https://kellysimulator.com/",
-    "title": "Kelly Criterion Simulator"
-  },
-  {
-    "source": "hn",
-    "url": "https://defector.com/abandoned-fish-sauce-canada-interview",
-    "title": "Decades-old fish sauce at abandoned factory in Canada finally being removed"
+    "url": "https://hoplite.sh",
+    "title": "Launch HN: Hoplite (YC S26) – Effortlessly deploy cloud coding agents"
   },
   {
     "source": "hn",
@@ -61,18 +46,23 @@
   },
   {
     "source": "hn",
-    "url": "https://bumbershootsoft.wordpress.com/2026/08/01/zx-spectrum-system-tour-sound/",
-    "title": "ZX Spectrum System Tour: Sound"
+    "url": "https://defector.com/abandoned-fish-sauce-canada-interview",
+    "title": "Decades-old fish sauce at abandoned factory in Canada finally being removed"
   },
   {
     "source": "hn",
-    "url": "https://blog.cloudflare.com/billable-usage-api/",
-    "title": "The Billable Usage API: programmatic cost visibility for Cloudflare"
+    "url": "https://leoaido.com/how-llms-watch-video/",
+    "title": "Frame selection is the whole game: notes on making LLMs watch video"
   },
   {
     "source": "hn",
-    "url": "https://hamvocke.com/blog/task-runners/",
-    "title": "Use Task Runners for Common Coding Tasks"
+    "url": "https://nooneshappy.com/article/native-apps-should-be-avoided-whenever-possible/",
+    "title": "Native Apps Should Be Avoided Whenever Possible"
+  },
+  {
+    "source": "hn",
+    "url": "https://mertbulan.com/more-german-than-many-germans/",
+    "title": "More German than many Germans"
   },
   {
     "source": "lobsters",
@@ -121,6 +111,16 @@
   },
   {
     "source": "lobsters",
+    "url": "https://menno.io/posts/not-python-2026/",
+    "title": "Projects I Wouldn't Use Python For in 2026"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://var0.xyz/posts/retries-dont-fix-eventual-consistency.html",
+    "title": "Retries don't fix eventual consistency"
+  },
+  {
+    "source": "lobsters",
     "url": "https://pythonspeed.com/articles/faster-float-math-rust/",
     "title": "Faster floating point math with Rust’s new API"
   },
@@ -131,27 +131,12 @@
   },
   {
     "source": "lobsters",
-    "url": "https://var0.xyz/posts/retries-dont-fix-eventual-consistency.html",
-    "title": "Retries don't fix eventual consistency"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://menno.io/posts/not-python-2026/",
-    "title": "Projects I Wouldn't Use Python For in 2026"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://martinalderson.com/posts/speed-vs-intelligence/",
-    "title": "I'm (mostly) picking models on speed now, not intelligence"
+    "url": "https://island94.org/2026/08/programmatically-upload-attachments-to-github-issues-pull-requests-comments",
+    "title": "Programmatically upload attachments to GitHub Issues, Pull Requests, and Comments"
   },
   {
     "source": "lobsters",
     "url": "https://third-bit.com/gl4py/",
     "title": "Gleam for Python Programmers"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://unsung.aresluna.org/asanas-fascinating-tab-shortcuts/",
-    "title": "Asana’s fascinating Tab shortcuts"
   }
 ]
