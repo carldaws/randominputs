@@ -11,8 +11,8 @@
   },
   {
     "source": "hn",
-    "url": "https://200ms.thenodebook.com",
-    "title": "200 Milliseconds"
+    "url": "https://en.wikipedia.org/wiki/Battle_of_the_Beams",
+    "title": "Battle of the Beams"
   },
   {
     "source": "hn",
@@ -26,18 +26,13 @@
   },
   {
     "source": "hn",
+    "url": "https://200ms.thenodebook.com",
+    "title": "200 Milliseconds"
+  },
+  {
+    "source": "hn",
     "url": "https://ei3lh.eu/2025/11/20/replacing-the-kobo-libra-h2o-battery/",
     "title": "Replacing the Kobo Libra H2O Battery"
-  },
-  {
-    "source": "hn",
-    "url": "https://bumbershootsoft.wordpress.com/2026/05/30/zx-spectrum-system-tour-text-mode/",
-    "title": "ZX Spectrum System Tour: Text Mode – Bumbershoot Software"
-  },
-  {
-    "source": "hn",
-    "url": "https://kellysimulator.com/",
-    "title": "Kelly Criterion Simulator"
   },
   {
     "source": "hn",
@@ -46,23 +41,18 @@
   },
   {
     "source": "hn",
-    "url": "https://bumbershootsoft.wordpress.com/2026/08/01/zx-spectrum-system-tour-sound/",
-    "title": "ZX Spectrum System Tour: Sound"
+    "url": "https://bumbershootsoft.wordpress.com/2026/05/30/zx-spectrum-system-tour-text-mode/",
+    "title": "ZX Spectrum System Tour: Text Mode"
   },
   {
     "source": "hn",
-    "url": "https://hamvocke.com/blog/task-runners/",
-    "title": "Use Task Runners for Common Coding Tasks"
+    "url": "https://kellysimulator.com/",
+    "title": "Kelly Criterion Simulator"
   },
   {
     "source": "hn",
-    "url": "https://blog.cloudflare.com/billable-usage-api/",
-    "title": "The Billable Usage API: programmatic cost visibility for Cloudflare"
-  },
-  {
-    "source": "hn",
-    "url": "https://status.digdir.no/incidents/d7hvqmf2yr3l",
-    "title": "DDoS against Norwegian government IT infrastructure – status"
+    "url": "https://defector.com/abandoned-fish-sauce-canada-interview",
+    "title": "Decades-old fish sauce at abandoned factory in Canada finally being removed"
   },
   {
     "source": "hn",
@@ -71,13 +61,18 @@
   },
   {
     "source": "hn",
-    "url": "https://asteriskmag.com/issues/15/chinas-last-bus",
-    "title": "Boarding China's Last Bus"
+    "url": "https://bumbershootsoft.wordpress.com/2026/08/01/zx-spectrum-system-tour-sound/",
+    "title": "ZX Spectrum System Tour: Sound"
   },
   {
     "source": "hn",
-    "url": "https://research.jfrog.com/post/sqlite-critical-cves-or-llm-slops/",
-    "title": "SQLite Critical CVEs or LLM Slop?"
+    "url": "https://blog.cloudflare.com/billable-usage-api/",
+    "title": "The Billable Usage API: programmatic cost visibility for Cloudflare"
+  },
+  {
+    "source": "hn",
+    "url": "https://hamvocke.com/blog/task-runners/",
+    "title": "Use Task Runners for Common Coding Tasks"
   },
   {
     "source": "lobsters",
@@ -96,18 +91,23 @@
   },
   {
     "source": "lobsters",
+    "url": "https://research.jfrog.com/post/sqlite-critical-cves-or-llm-slops/",
+    "title": "SQLite Critical CVEs or LLM Slop?"
+  },
+  {
+    "source": "lobsters",
     "url": "https://blog.gaborkoos.com/posts/2026-08-03-Your-JSON-Is-Lying-to-You/",
     "title": "Your JSON Is Lying to You"
   },
   {
     "source": "lobsters",
-    "url": "https://9front.org/releases/2026/08/02/0/",
-    "title": "9front \"THIS WAS SUPPOSED TO BE FUN\" Released"
+    "url": "https://andrewkelley.me/post/dont-take-black-pill.html",
+    "title": "Don't Take the Black Pill (Text Adaptation)"
   },
   {
     "source": "lobsters",
-    "url": "https://andrewkelley.me/post/dont-take-black-pill.html",
-    "title": "Don't Take the Black Pill (Text Adaptation)"
+    "url": "https://9front.org/releases/2026/08/02/0/",
+    "title": "9front \"THIS WAS SUPPOSED TO BE FUN\" Released"
   },
   {
     "source": "lobsters",
@@ -151,92 +151,7 @@
   },
   {
     "source": "lobsters",
-    "url": "https://www.kmx.io/blog/kc3-v0.1.17-released",
-    "title": "KC3 v0.1.17 released"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://john.fun/elevators",
-    "title": "Elevators"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.librarian.net/NoToAI/",
-    "title": "Removing Intrusive AI from stuff – librarian.net"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://darkhours.io/",
-    "title": "Dark Hours, what's actually visible in your sky tonight"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://microsoft.github.io/flint-chart/",
-    "title": "Flint: A Visualization Language for the AI Era"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://hughhowey.com/the-end-of-an-era/",
-    "title": "The End of an Era - Hugh Howey"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.superlogical.com/",
-    "title": "Superlogical"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.schneier.com/blog/archives/2026/07/should-you-use-ai-for-a-task-heres-a-simple-way-to-decide.html",
-    "title": "Should You Use AI for a Task? Here’s a Simple Way to Decide - Schneier on Security"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://diataxis.fr/",
-    "title": "Diátaxis Framework"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://elenajs.com/",
-    "title": "Elena | Progressive Web Components"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://leodemoura.github.io/blog/2026-8-1-postmortem-for-kernel-soundness-bug-14576/",
-    "title": "Postmortem for Kernel Soundness Bug #14576 — Leonardo de Moura"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.raptitude.com/2026/07/how-to-exist/",
-    "title": "How to Exist"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://foldingglobes.com/globes",
-    "title": "Free Printable Paper Globes — Folding Paper Globes"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.npr.org/2026/08/01/nx-s1-5912219/trump-truth-social-access-insider-trading",
-    "title": "For sale: early access to Trump's Truth Social posts: The president's media company is offering investors early access to his Truth Social feed for up to $100,000 a month; experts say the service may violate insider trading laws | NPR"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://ephemeralnewyork.wordpress.com/2026/07/27/hidden-by-billboards-for-over-100-years-the-tiny-holdout-building-in-the-middle-of-macys-is-back-in-view/",
-    "title": "Hidden by billboards for over 100 years, the tiny holdout building in the middle of Macy’s is back in view | Ephemeral New York"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://animeuserinterface.tumblr.com/",
-    "title": "Anime User Interfaces"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://earendil.com/posts/session-portability/",
-    "title": "The Session You Cannot Take With You | EARENDIL"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://readingmaps.com/",
-    "title": "Maps & Travel Routes from Books & Films"
+    "url": "https://unsung.aresluna.org/asanas-fascinating-tab-shortcuts/",
+    "title": "Asana’s fascinating Tab shortcuts"
   }
 ]
