@@ -11,8 +11,13 @@
   },
   {
     "source": "hn",
-    "url": "https://scancad.net/wp-content/uploads/2019/02/zero-orientation-cad-libaray.pdf",
-    "title": "IPC-7351B Electronic Component Zero Orientation [pdf]"
+    "url": "https://ochagavia.nl/blog/that-time-when-i-failed-the-microsoft-interview/",
+    "title": "That time when I failed the Microsoft interview"
+  },
+  {
+    "source": "hn",
+    "url": "https://worksinprogress.co/issue/beauty-in-my-backyard/",
+    "title": "Beauty in my backyard"
   },
   {
     "source": "hn",
@@ -21,18 +26,8 @@
   },
   {
     "source": "hn",
-    "url": "https://changelog.complete.org/archives/44456-celebrating-45-years-of-kermit-with-the-first-new-c-kermit-release-in-15-years-and-working-with-a-decades-old-c-codebase",
-    "title": "Celebrating 45 Years of Kermit with the First New C-Kermit Release in 15 Years"
-  },
-  {
-    "source": "hn",
-    "url": "https://ei3lh.eu/2025/11/20/replacing-the-kobo-libra-h2o-battery/",
-    "title": "Replacing the Kobo Libra H2O Battery"
-  },
-  {
-    "source": "hn",
-    "url": "https://200ms.thenodebook.com",
-    "title": "200 Milliseconds"
+    "url": "https://hoplite.sh",
+    "title": "Launch HN: Hoplite (YC S26) – Effortlessly deploy cloud coding agents"
   },
   {
     "source": "hn",
@@ -41,13 +36,28 @@
   },
   {
     "source": "hn",
-    "url": "https://bumbershootsoft.wordpress.com/2026/05/30/zx-spectrum-system-tour-text-mode/",
-    "title": "ZX Spectrum System Tour: Text Mode"
+    "url": "https://changelog.complete.org/archives/44456-celebrating-45-years-of-kermit-with-the-first-new-c-kermit-release-in-15-years-and-working-with-a-decades-old-c-codebase",
+    "title": "Celebrating 45 Years of Kermit with the First New C-Kermit Release in 15 Years"
   },
   {
     "source": "hn",
-    "url": "https://hoplite.sh",
-    "title": "Launch HN: Hoplite (YC S26) – Effortlessly deploy cloud coding agents"
+    "url": "https://blog.rootsofprogress.org/why-did-we-wait-so-long-for-the-bicycle",
+    "title": "Why did we wait so long for the bicycle? (2019)"
+  },
+  {
+    "source": "hn",
+    "url": "https://200ms.thenodebook.com",
+    "title": "200 Milliseconds"
+  },
+  {
+    "source": "hn",
+    "url": "https://scancad.net/wp-content/uploads/2019/02/zero-orientation-cad-libaray.pdf",
+    "title": "IPC-7351B Electronic Component Zero Orientation [pdf] (2010)"
+  },
+  {
+    "source": "hn",
+    "url": "https://ei3lh.eu/2025/11/20/replacing-the-kobo-libra-h2o-battery/",
+    "title": "Replacing the Kobo Libra H2O Battery"
   },
   {
     "source": "hn",
@@ -56,8 +66,8 @@
   },
   {
     "source": "hn",
-    "url": "https://blog.rootsofprogress.org/why-did-we-wait-so-long-for-the-bicycle",
-    "title": "Why did we wait so long for the bicycle? (2019)"
+    "url": "https://bumbershootsoft.wordpress.com/2026/05/30/zx-spectrum-system-tour-text-mode/",
+    "title": "ZX Spectrum System Tour: Text Mode"
   },
   {
     "source": "hn",
@@ -86,13 +96,18 @@
   },
   {
     "source": "lobsters",
-    "url": "https://andrewkelley.me/post/dont-take-black-pill.html",
-    "title": "Don't Take the Black Pill (Text Adaptation)"
+    "url": "https://soppolang.dev/",
+    "title": "Soppo - Go, with the features it's missing"
   },
   {
     "source": "lobsters",
-    "url": "https://blog.gaborkoos.com/posts/2026-08-03-Your-JSON-Is-Lying-to-You/",
-    "title": "Your JSON Is Lying to You"
+    "url": "https://research.jfrog.com/post/sqlite-critical-cves-or-llm-slops/",
+    "title": "SQLite Critical CVEs or LLM Slop?"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://andrewkelley.me/post/dont-take-black-pill.html",
+    "title": "Don't Take the Black Pill (Text Adaptation)"
   },
   {
     "source": "lobsters",
@@ -101,8 +116,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://research.jfrog.com/post/sqlite-critical-cves-or-llm-slops/",
-    "title": "SQLite Critical CVEs or LLM Slop?"
+    "url": "https://blog.gaborkoos.com/posts/2026-08-03-Your-JSON-Is-Lying-to-You/",
+    "title": "Your JSON Is Lying to You"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://shieldfont.org/",
+    "title": "ShieldFont"
   },
   {
     "source": "lobsters",
@@ -121,28 +141,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://pythonspeed.com/articles/faster-float-math-rust/",
-    "title": "Faster floating point math with Rust’s new API"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://ohadravid.github.io/posts/2026-08-unsafe-water/",
-    "title": "Practical Memory Safety"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://island94.org/2026/08/programmatically-upload-attachments-to-github-issues-pull-requests-comments",
-    "title": "Programmatically upload attachments to GitHub Issues, Pull Requests, and Comments"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://john.fun/elevators",
-    "title": "Elevators"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.librarian.net/NoToAI/",
-    "title": "Removing Intrusive AI from stuff – librarian.net"
+    "url": "https://hackaday.com/2026/08/03/a-versatile-pdp-11-70-emulator/",
+    "title": "A Versatile PDP-11/70 Emulator"
   },
   {
     "source": "pinboard",
@@ -151,43 +151,8 @@
   },
   {
     "source": "pinboard",
-    "url": "https://microsoft.github.io/flint-chart/",
-    "title": "Flint: A Visualization Language for the AI Era"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://hughhowey.com/the-end-of-an-era/",
-    "title": "The End of an Era - Hugh Howey"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.superlogical.com/",
-    "title": "Superlogical"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.schneier.com/blog/archives/2026/07/should-you-use-ai-for-a-task-heres-a-simple-way-to-decide.html",
-    "title": "Should You Use AI for a Task? Here’s a Simple Way to Decide - Schneier on Security"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://diataxis.fr/",
-    "title": "Diátaxis Framework"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://elenajs.com/",
-    "title": "Elena | Progressive Web Components"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://leodemoura.github.io/blog/2026-8-1-postmortem-for-kernel-soundness-bug-14576/",
-    "title": "Postmortem for Kernel Soundness Bug #14576 — Leonardo de Moura"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.raptitude.com/2026/07/how-to-exist/",
-    "title": "How to Exist"
+    "url": "https://www.librarian.net/NoToAI/",
+    "title": "Removing Intrusive AI from stuff – librarian.net"
   },
   {
     "source": "pinboard",
@@ -196,13 +161,23 @@
   },
   {
     "source": "pinboard",
-    "url": "https://www.npr.org/2026/08/01/nx-s1-5912219/trump-truth-social-access-insider-trading",
-    "title": "For sale: early access to Trump's Truth Social posts: The president's media company is offering investors early access to his Truth Social feed for up to $100,000 a month; experts say the service may violate insider trading laws | NPR"
+    "url": "https://readingmaps.com/",
+    "title": "Maps & Travel Routes from Books & Films"
   },
   {
     "source": "pinboard",
-    "url": "https://ephemeralnewyork.wordpress.com/2026/07/27/hidden-by-billboards-for-over-100-years-the-tiny-holdout-building-in-the-middle-of-macys-is-back-in-view/",
-    "title": "Hidden by billboards for over 100 years, the tiny holdout building in the middle of Macy’s is back in view | Ephemeral New York"
+    "url": "https://microsoft.github.io/flint-chart/",
+    "title": "Flint: A Visualization Language for the AI Era"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://john.fun/elevators",
+    "title": "Elevators"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://unattributed.cc/note-taking-and-personal-knowledge-management",
+    "title": "Note-Taking and Personal Knowledge Management — Unattributed"
   },
   {
     "source": "pinboard",
@@ -211,12 +186,57 @@
   },
   {
     "source": "pinboard",
-    "url": "https://earendil.com/posts/session-portability/",
-    "title": "The Session You Cannot Take With You | EARENDIL"
+    "url": "https://www.npr.org/2026/08/01/nx-s1-5912219/trump-truth-social-access-insider-trading",
+    "title": "For sale: early access to Trump's Truth Social posts: The president's media company is offering investors early access to his Truth Social feed for up to $100,000 a month; experts say the service may violate insider trading laws | NPR"
   },
   {
     "source": "pinboard",
-    "url": "https://readingmaps.com/",
-    "title": "Maps & Travel Routes from Books & Films"
+    "url": "https://terminalwidget.app/",
+    "title": "TerminalWidget for Mac, iPhone, and iPad | Terminal Widget"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://leodemoura.github.io/blog/2026-8-1-postmortem-for-kernel-soundness-bug-14576/",
+    "title": "Postmortem for Kernel Soundness Bug #14576 — Leonardo de Moura"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://chrismorgan.info/atom%3Erss",
+    "title": "Atom is better than RSS, in ways that matter — Chris Morgan"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://qwen.ai/blog?id=qwen3.8",
+    "title": "Qwen3.8-Max Blog"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://diataxis.fr/",
+    "title": "Diátaxis Framework"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.superlogical.com/",
+    "title": "Superlogical"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.raptitude.com/2026/07/how-to-exist/",
+    "title": "How to Exist"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://simonwillison.net/2026/Jul/31/stateless-mcp/",
+    "title": "Stateless MCP has recaptured my interest (and inspired mcp-explorer and datasette-mcp)"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://hughhowey.com/the-end-of-an-era/",
+    "title": "The End of an Era - Hugh Howey"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://elenajs.com/",
+    "title": "Elena | Progressive Web Components"
   }
 ]
