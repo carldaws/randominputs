@@ -6,6 +6,11 @@
   },
   {
     "source": "hn",
+    "url": "https://lilianweng.github.io/posts/2026-07-04-harness/",
+    "title": "Harness Engineering for Self-Improvement"
+  },
+  {
+    "source": "hn",
     "url": "https://blog.exe.dev/devtools-must-be-open-source",
     "title": "Devtools must be open source"
   },
@@ -16,8 +21,8 @@
   },
   {
     "source": "hn",
-    "url": "https://worksinprogress.co/issue/beauty-in-my-backyard/",
-    "title": "Beauty in my backyard"
+    "url": "https://pedroth.github.io/?p=post/NoNeedReact",
+    "title": "You don't need React: creating a minimal UI library in Vanilla JavaScript"
   },
   {
     "source": "hn",
@@ -26,8 +31,8 @@
   },
   {
     "source": "hn",
-    "url": "https://hoplite.sh",
-    "title": "Launch HN: Hoplite (YC S26) – Effortlessly deploy cloud coding agents"
+    "url": "https://shellzine.net/cyberpunk-video-games/",
+    "title": "Cyberpunk Video Games"
   },
   {
     "source": "hn",
@@ -36,13 +41,18 @@
   },
   {
     "source": "hn",
-    "url": "https://changelog.complete.org/archives/44456-celebrating-45-years-of-kermit-with-the-first-new-c-kermit-release-in-15-years-and-working-with-a-decades-old-c-codebase",
-    "title": "Celebrating 45 Years of Kermit with the First New C-Kermit Release in 15 Years"
+    "url": "https://worksinprogress.co/issue/beauty-in-my-backyard/",
+    "title": "Beauty in my backyard"
   },
   {
     "source": "hn",
-    "url": "https://blog.rootsofprogress.org/why-did-we-wait-so-long-for-the-bicycle",
-    "title": "Why did we wait so long for the bicycle? (2019)"
+    "url": "https://hoplite.sh",
+    "title": "Launch HN: Hoplite (YC S26) – Effortlessly deploy cloud coding agents"
+  },
+  {
+    "source": "hn",
+    "url": "https://changelog.complete.org/archives/44456-celebrating-45-years-of-kermit-with-the-first-new-c-kermit-release-in-15-years-and-working-with-a-decades-old-c-codebase",
+    "title": "Celebrating 45 Years of Kermit with the First New C-Kermit Release in 15 Years"
   },
   {
     "source": "hn",
@@ -51,33 +61,18 @@
   },
   {
     "source": "hn",
-    "url": "https://scancad.net/wp-content/uploads/2019/02/zero-orientation-cad-libaray.pdf",
-    "title": "IPC-7351B Electronic Component Zero Orientation [pdf] (2010)"
-  },
-  {
-    "source": "hn",
-    "url": "https://ei3lh.eu/2025/11/20/replacing-the-kobo-libra-h2o-battery/",
-    "title": "Replacing the Kobo Libra H2O Battery"
-  },
-  {
-    "source": "hn",
-    "url": "https://defector.com/abandoned-fish-sauce-canada-interview",
-    "title": "Decades-old fish sauce at abandoned factory in Canada finally being removed"
-  },
-  {
-    "source": "hn",
-    "url": "https://bumbershootsoft.wordpress.com/2026/05/30/zx-spectrum-system-tour-text-mode/",
-    "title": "ZX Spectrum System Tour: Text Mode"
-  },
-  {
-    "source": "hn",
-    "url": "https://mertbulan.com/more-german-than-many-germans/",
-    "title": "More German than many Germans"
+    "url": "https://picburn.xyz/",
+    "title": "Show HN: I made a private self-destructing image hosting site in Golang"
   },
   {
     "source": "lobsters",
     "url": "https://killthecookiebanner.eu/",
     "title": "Kill the Cookie Banner"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://soppolang.dev/",
+    "title": "Soppo - Go, with the features it's missing"
   },
   {
     "source": "lobsters",
@@ -91,13 +86,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://blogs.gnome.org/feborges/future-of-boxes/",
-    "title": "The Future of GNOME Boxes"
+    "url": "https://shieldfont.org/",
+    "title": "ShieldFont"
   },
   {
     "source": "lobsters",
-    "url": "https://soppolang.dev/",
-    "title": "Soppo - Go, with the features it's missing"
+    "url": "https://blogs.gnome.org/feborges/future-of-boxes/",
+    "title": "The Future of GNOME Boxes"
   },
   {
     "source": "lobsters",
@@ -111,6 +106,11 @@
   },
   {
     "source": "lobsters",
+    "url": "https://borrowsanitizer.com/",
+    "title": "BorrowSanitizer"
+  },
+  {
+    "source": "lobsters",
     "url": "https://9front.org/releases/2026/08/02/0/",
     "title": "9front \"THIS WAS SUPPOSED TO BE FUN\" Released"
   },
@@ -121,28 +121,18 @@
   },
   {
     "source": "lobsters",
-    "url": "https://shieldfont.org/",
-    "title": "ShieldFont"
-  },
-  {
-    "source": "lobsters",
     "url": "https://antonz.org/going-backward/",
     "title": "Going Backward"
   },
   {
     "source": "lobsters",
+    "url": "https://nikon.bungie.org/misc/gdc2005_mnoguchi/",
+    "title": "Content Management for Halo 2 and Beyond(2005)"
+  },
+  {
+    "source": "lobsters",
     "url": "https://menno.io/posts/not-python-2026/",
     "title": "Projects I Wouldn't Use Python For in 2026"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://var0.xyz/posts/retries-dont-fix-eventual-consistency.html",
-    "title": "Retries don't fix eventual consistency"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://hackaday.com/2026/08/03/a-versatile-pdp-11-70-emulator/",
-    "title": "A Versatile PDP-11/70 Emulator"
   },
   {
     "source": "pinboard",
