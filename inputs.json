@@ -1,8 +1,18 @@
 [
   {
     "source": "hn",
+    "url": "https://birchtree.me/blog/xbox-goes-down-you-cant-play-games-you-own-on-disc/",
+    "title": "Xbox goes down. You can't play games you own on disc"
+  },
+  {
+    "source": "hn",
     "url": "https://www.seangoedecke.com/llms-reward-expertise/",
     "title": "LLMs reward expertise"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.bfi.org/about-fuller/everything-i-know/",
+    "title": "Buckminster Fuller: everything I know"
   },
   {
     "source": "hn",
@@ -11,8 +21,33 @@
   },
   {
     "source": "hn",
+    "url": "https://nelson.cloud/ai-generated-images-discourage-me-from-reading-your-blog/",
+    "title": "AI-Generated Images Discourage Me from Reading Your Blog"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.aikido.dev/blog/keyv-and-friends-compromised-in-npm-supply-chain-attack",
+    "title": "Keyv and friends compromised in active Shai-Hulud supply chain attack"
+  },
+  {
+    "source": "hn",
     "url": "https://blog.exe.dev/devtools-must-be-open-source",
     "title": "Devtools must be open source"
+  },
+  {
+    "source": "hn",
+    "url": "https://mosh.org/elevator.txt",
+    "title": "Mosh in a Lift (2012)"
+  },
+  {
+    "source": "hn",
+    "url": "https://en.wikipedia.org/wiki/Nobel_disease",
+    "title": "Nobel Disease"
+  },
+  {
+    "source": "hn",
+    "url": "https://ekxide.io/blog/byte-wise-atomic-wrapper-to-prevent-ub/",
+    "title": "Safe Lock-free Primitives with iceoryx2's ByteAtomic"
   },
   {
     "source": "hn",
@@ -21,8 +56,8 @@
   },
   {
     "source": "hn",
-    "url": "https://pedroth.github.io/?p=post/NoNeedReact",
-    "title": "You don't need React: creating a minimal UI library in Vanilla JavaScript"
+    "url": "https://pandoc.org/twenty-years-of-pandoc.html",
+    "title": "Twenty Years of Pandoc"
   },
   {
     "source": "hn",
@@ -31,13 +66,8 @@
   },
   {
     "source": "hn",
-    "url": "https://shellzine.net/cyberpunk-video-games/",
-    "title": "Cyberpunk Video Games"
-  },
-  {
-    "source": "hn",
-    "url": "https://pandoc.org/twenty-years-of-pandoc.html",
-    "title": "Twenty Years of Pandoc"
+    "url": "https://learning-rust.github.io",
+    "title": "Learning-Rust.Github.io: Rust Programming Language Tutorials for Everyone"
   },
   {
     "source": "hn",
@@ -45,24 +75,9 @@
     "title": "Beauty in my backyard"
   },
   {
-    "source": "hn",
-    "url": "https://hoplite.sh",
-    "title": "Launch HN: Hoplite (YC S26) – Effortlessly deploy cloud coding agents"
-  },
-  {
-    "source": "hn",
-    "url": "https://changelog.complete.org/archives/44456-celebrating-45-years-of-kermit-with-the-first-new-c-kermit-release-in-15-years-and-working-with-a-decades-old-c-codebase",
-    "title": "Celebrating 45 Years of Kermit with the First New C-Kermit Release in 15 Years"
-  },
-  {
-    "source": "hn",
-    "url": "https://200ms.thenodebook.com",
-    "title": "200 Milliseconds"
-  },
-  {
-    "source": "hn",
-    "url": "https://picburn.xyz/",
-    "title": "Show HN: I made a private self-destructing image hosting site in Golang"
+    "source": "lobsters",
+    "url": "https://soppolang.dev/",
+    "title": "Soppo - Go, with the features it's missing"
   },
   {
     "source": "lobsters",
@@ -71,8 +86,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://soppolang.dev/",
-    "title": "Soppo - Go, with the features it's missing"
+    "url": "https://borrowsanitizer.com/",
+    "title": "BorrowSanitizer"
   },
   {
     "source": "lobsters",
@@ -106,23 +121,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://borrowsanitizer.com/",
-    "title": "BorrowSanitizer"
-  },
-  {
-    "source": "lobsters",
     "url": "https://9front.org/releases/2026/08/02/0/",
     "title": "9front \"THIS WAS SUPPOSED TO BE FUN\" Released"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://blog.gaborkoos.com/posts/2026-08-03-Your-JSON-Is-Lying-to-You/",
-    "title": "Your JSON Is Lying to You"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://antonz.org/going-backward/",
-    "title": "Going Backward"
   },
   {
     "source": "lobsters",
@@ -131,8 +131,18 @@
   },
   {
     "source": "lobsters",
-    "url": "https://menno.io/posts/not-python-2026/",
-    "title": "Projects I Wouldn't Use Python For in 2026"
+    "url": "https://blog.gaborkoos.com/posts/2026-08-03-Your-JSON-Is-Lying-to-You/",
+    "title": "Your JSON Is Lying to You"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://changelog.complete.org/archives/44456-celebrating-45-years-of-kermit-with-the-first-new-c-kermit-release-in-15-years-and-working-with-a-decades-old-c-codebase",
+    "title": "Celebrating 45 Years of Kermit with the First New C-Kermit Release in 15 Years"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://antonz.org/going-backward/",
+    "title": "Going Backward"
   },
   {
     "source": "pinboard",
