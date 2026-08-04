@@ -6,6 +6,11 @@
   },
   {
     "source": "hn",
+    "url": "https://www.sec.gov/Archives/edgar/data/1795071/000179507126000002/xslFormDX01/primary_doc.xml",
+    "title": "Oxide Computer raises $445M (SEC Form D)"
+  },
+  {
+    "source": "hn",
     "url": "https://hop.earth/?server=lkhr7&route=fQ5nuu9R",
     "title": "Hop.earth – OpenStreetMap based car racing game"
   },
@@ -26,18 +31,8 @@
   },
   {
     "source": "hn",
-    "url": "https://textslashplain.com/2026/08/04/security-is-hard-yall/",
-    "title": "Web security is too hard"
-  },
-  {
-    "source": "hn",
     "url": "https://birchtree.me/blog/xbox-goes-down-you-cant-play-games-you-own-on-disc/",
     "title": "Xbox goes down. You can't play games you own on disc"
-  },
-  {
-    "source": "hn",
-    "url": "https://adriansieber.com/announcing-perspec-1-0/",
-    "title": "Perspec 1.0"
   },
   {
     "source": "hn",
@@ -51,8 +46,13 @@
   },
   {
     "source": "hn",
-    "url": "https://this.weekinsecurity.com/online-advertising-giant-adform-was-hacked-proving-once-again-why-ad-blockers-are-necessary/",
-    "title": "Online ad giant Adform was hacked, proving once again why ad blockers are needed"
+    "url": "https://adriansieber.com/announcing-perspec-1-0/",
+    "title": "Perspec 1.0"
+  },
+  {
+    "source": "hn",
+    "url": "https://textslashplain.com/2026/08/04/security-is-hard-yall/",
+    "title": "Web Security is Too Hard"
   },
   {
     "source": "hn",
@@ -60,14 +60,14 @@
     "title": "Everything I Know (1975)"
   },
   {
-    "source": "hn",
-    "url": "https://en.wikipedia.org/wiki/Nobel_disease",
-    "title": "Nobel Disease"
-  },
-  {
     "source": "lobsters",
     "url": "https://soppolang.dev/",
     "title": "Soppo - Go, with the features it's missing"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://blog.rust-lang.org/2026/08/04/enabling-polonius-alpha-on-nighty/",
+    "title": "Enabling the next iteration of the borrow checker on nightly"
   },
   {
     "source": "lobsters",
@@ -86,13 +86,23 @@
   },
   {
     "source": "lobsters",
-    "url": "https://blog.rust-lang.org/2026/08/04/enabling-polonius-alpha-on-nighty/",
-    "title": "Enabling the next iteration of the borrow checker on nightly"
+    "url": "https://fzakaria.com/2026/07/30/the-nix-sandbox-is-a-hidden-input",
+    "title": "The Nix sandbox is a hidden input"
   },
   {
     "source": "lobsters",
-    "url": "https://fzakaria.com/2026/07/30/the-nix-sandbox-is-a-hidden-input",
-    "title": "The Nix sandbox is a hidden input"
+    "url": "https://blog.drakulix.de/taming-the-steam-arm64-client-on-pmos/",
+    "title": "Taming the Steam arm64 client (on pmOS)"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://domenkozar.com/2026/08/04/nixpkgs-has-a-due-process-problem/",
+    "title": "nixpkgs has a due-process problem"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://nomeatproxy.com/",
+    "title": "No Meat Proxy"
   },
   {
     "source": "lobsters",
@@ -116,28 +126,18 @@
   },
   {
     "source": "lobsters",
-    "url": "https://nomeatproxy.com/",
-    "title": "No Meat Proxy"
+    "url": "https://starlight.astro.build/environmental-impact/",
+    "title": "Eco-friendly docs"
   },
   {
     "source": "lobsters",
-    "url": "https://blog.drakulix.de/taming-the-steam-arm64-client-on-pmos/",
-    "title": "Taming the Steam arm64 client (on pmOS)"
+    "url": "https://blog.fogus.me/llm/born-against.html",
+    "title": "Born Against, or why hobby programming communities are aggressively against LLM usage"
   },
   {
     "source": "lobsters",
     "url": "https://blog.haskell.org/revised-haskell-2010-report/",
     "title": "A Revised Haskell 2010 Language Report"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://research.jfrog.com/post/sqlite-critical-cves-or-llm-slops/",
-    "title": "SQLite Critical CVEs or LLM Slop?"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://starlight.astro.build/environmental-impact/",
-    "title": "Eco-friendly docs"
   },
   {
     "source": "pinboard",
