@@ -11,6 +11,11 @@
   },
   {
     "source": "hn",
+    "url": "https://scancad.net/wp-content/uploads/2019/02/zero-orientation-cad-libaray.pdf",
+    "title": "IPC-7351B Electronic Component Zero Orientation [pdf]"
+  },
+  {
+    "source": "hn",
     "url": "https://blog.cloudflare.com/smaller-faster-safer-models/",
     "title": "Smaller, faster, safer: running Kimi and GLM at scale"
   },
@@ -21,13 +26,18 @@
   },
   {
     "source": "hn",
+    "url": "https://ei3lh.eu/2025/11/20/replacing-the-kobo-libra-h2o-battery/",
+    "title": "Replacing the Kobo Libra H2O Battery"
+  },
+  {
+    "source": "hn",
     "url": "https://200ms.thenodebook.com",
     "title": "200 Milliseconds"
   },
   {
     "source": "hn",
-    "url": "https://ei3lh.eu/2025/11/20/replacing-the-kobo-libra-h2o-battery/",
-    "title": "Replacing the Kobo Libra H2O Battery"
+    "url": "https://pandoc.org/twenty-years-of-pandoc.html",
+    "title": "Twenty Years of Pandoc"
   },
   {
     "source": "hn",
@@ -41,23 +51,13 @@
   },
   {
     "source": "hn",
-    "url": "https://pandoc.org/twenty-years-of-pandoc.html",
-    "title": "Twenty Years of Pandoc"
-  },
-  {
-    "source": "hn",
     "url": "https://defector.com/abandoned-fish-sauce-canada-interview",
     "title": "Decades-old fish sauce at abandoned factory in Canada finally being removed"
   },
   {
     "source": "hn",
-    "url": "https://leoaido.com/how-llms-watch-video/",
-    "title": "Frame selection is the whole game: notes on making LLMs watch video"
-  },
-  {
-    "source": "hn",
-    "url": "https://nooneshappy.com/article/native-apps-should-be-avoided-whenever-possible/",
-    "title": "Native Apps Should Be Avoided Whenever Possible"
+    "url": "https://blog.rootsofprogress.org/why-did-we-wait-so-long-for-the-bicycle",
+    "title": "Why did we wait so long for the bicycle? (2019)"
   },
   {
     "source": "hn",
@@ -81,13 +81,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://research.jfrog.com/post/sqlite-critical-cves-or-llm-slops/",
-    "title": "SQLite Critical CVEs or LLM Slop?"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://blog.gaborkoos.com/posts/2026-08-03-Your-JSON-Is-Lying-to-You/",
-    "title": "Your JSON Is Lying to You"
+    "url": "https://blogs.gnome.org/feborges/future-of-boxes/",
+    "title": "The Future of GNOME Boxes"
   },
   {
     "source": "lobsters",
@@ -96,13 +91,18 @@
   },
   {
     "source": "lobsters",
+    "url": "https://blog.gaborkoos.com/posts/2026-08-03-Your-JSON-Is-Lying-to-You/",
+    "title": "Your JSON Is Lying to You"
+  },
+  {
+    "source": "lobsters",
     "url": "https://9front.org/releases/2026/08/02/0/",
     "title": "9front \"THIS WAS SUPPOSED TO BE FUN\" Released"
   },
   {
     "source": "lobsters",
-    "url": "https://blogs.gnome.org/feborges/future-of-boxes/",
-    "title": "The Future of GNOME Boxes"
+    "url": "https://research.jfrog.com/post/sqlite-critical-cves-or-llm-slops/",
+    "title": "SQLite Critical CVEs or LLM Slop?"
   },
   {
     "source": "lobsters",
@@ -135,8 +135,88 @@
     "title": "Programmatically upload attachments to GitHub Issues, Pull Requests, and Comments"
   },
   {
-    "source": "lobsters",
-    "url": "https://third-bit.com/gl4py/",
-    "title": "Gleam for Python Programmers"
+    "source": "pinboard",
+    "url": "https://john.fun/elevators",
+    "title": "Elevators"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.librarian.net/NoToAI/",
+    "title": "Removing Intrusive AI from stuff – librarian.net"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://darkhours.io/",
+    "title": "Dark Hours, what's actually visible in your sky tonight"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://microsoft.github.io/flint-chart/",
+    "title": "Flint: A Visualization Language for the AI Era"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://hughhowey.com/the-end-of-an-era/",
+    "title": "The End of an Era - Hugh Howey"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.superlogical.com/",
+    "title": "Superlogical"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.schneier.com/blog/archives/2026/07/should-you-use-ai-for-a-task-heres-a-simple-way-to-decide.html",
+    "title": "Should You Use AI for a Task? Here’s a Simple Way to Decide - Schneier on Security"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://diataxis.fr/",
+    "title": "Diátaxis Framework"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://elenajs.com/",
+    "title": "Elena | Progressive Web Components"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://leodemoura.github.io/blog/2026-8-1-postmortem-for-kernel-soundness-bug-14576/",
+    "title": "Postmortem for Kernel Soundness Bug #14576 — Leonardo de Moura"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.raptitude.com/2026/07/how-to-exist/",
+    "title": "How to Exist"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://foldingglobes.com/globes",
+    "title": "Free Printable Paper Globes — Folding Paper Globes"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.npr.org/2026/08/01/nx-s1-5912219/trump-truth-social-access-insider-trading",
+    "title": "For sale: early access to Trump's Truth Social posts: The president's media company is offering investors early access to his Truth Social feed for up to $100,000 a month; experts say the service may violate insider trading laws | NPR"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://ephemeralnewyork.wordpress.com/2026/07/27/hidden-by-billboards-for-over-100-years-the-tiny-holdout-building-in-the-middle-of-macys-is-back-in-view/",
+    "title": "Hidden by billboards for over 100 years, the tiny holdout building in the middle of Macy’s is back in view | Ephemeral New York"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://animeuserinterface.tumblr.com/",
+    "title": "Anime User Interfaces"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://earendil.com/posts/session-portability/",
+    "title": "The Session You Cannot Take With You | EARENDIL"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://readingmaps.com/",
+    "title": "Maps & Travel Routes from Books & Films"
   }
 ]
