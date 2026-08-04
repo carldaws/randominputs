@@ -1,8 +1,53 @@
 [
   {
     "source": "hn",
+    "url": "https://blog.hartwork.org/posts/libexpat-city-of-munich-open-source-sabbatical/",
+    "title": "libexpat now funded by the City of Munich for up to 6 months"
+  },
+  {
+    "source": "hn",
+    "url": "https://techascent.com/blog/just-ducking-around.html",
+    "title": "DuckDB – Data power tools for your laptop, now in Clojure (2023)"
+  },
+  {
+    "source": "hn",
+    "url": "https://seg6.space/posts/center-div/",
+    "title": "We finally learned to center a div, then browsers added sidebars"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.africanews.com/2026/08/04/ai-fuels-more-than-half-of-cybercrime-in-africa-as-digital-scams-surge-interpol/",
+    "title": "AI fuels more than half of cybercrime in Africa as scams surge – Interpol"
+  },
+  {
+    "source": "hn",
     "url": "https://toneyalexander.github.io/inclusive-color-space/",
     "title": "Show HN: Simple algorithm and color space to generate diverse skin tones"
+  },
+  {
+    "source": "hn",
+    "url": "https://earendil.com/posts/pi-autoresearch-and-databricks/",
+    "title": "Pi's Minimalism Is Its Advantage"
+  },
+  {
+    "source": "hn",
+    "url": "https://808bits.com/articles/fips-140-3-not-a-security-guarantee/",
+    "title": "FIPS 140-3 is not a security guarantee, and auditors know it"
+  },
+  {
+    "source": "hn",
+    "url": "https://unit42.paloaltonetworks.com/passwordless-authentication-security-risks/",
+    "title": "Pass the Passkey: A Novel Attack Surface in Passwordless Authentication"
+  },
+  {
+    "source": "hn",
+    "url": "https://deepgrove.ai/maple-preview",
+    "title": "Show HN: Maple-Preview – ternary 20B MoE running at 120 tok/s on a iPhone"
+  },
+  {
+    "source": "hn",
+    "url": "https://sharedobject.blog/posts/vp8-combinatorial-logic/",
+    "title": "Video2NAND – Abusing video codecs for great computational power"
   },
   {
     "source": "hn",
@@ -16,8 +61,8 @@
   },
   {
     "source": "hn",
-    "url": "https://pudding.cool/2026/06/mow/",
-    "title": "Why some people mow a lawn better than others"
+    "url": "https://www.aikido.dev/blog/keyv-and-friends-compromised-in-npm-supply-chain-attack",
+    "title": "Keyv and friends compromised in active Shai-Hulud supply chain attack"
   },
   {
     "source": "hn",
@@ -26,8 +71,8 @@
   },
   {
     "source": "hn",
-    "url": "https://www.aikido.dev/blog/keyv-and-friends-compromised-in-npm-supply-chain-attack",
-    "title": "Keyv and friends compromised in active Shai-Hulud supply chain attack"
+    "url": "https://pudding.cool/2026/06/mow/",
+    "title": "Why some people mow a lawn better than others"
   },
   {
     "source": "hn",
@@ -35,29 +80,9 @@
     "title": "Xbox goes down. You can't play games you own on disc"
   },
   {
-    "source": "hn",
-    "url": "https://gwern.net/blackmail",
-    "title": "Blackmail Fail (2013)"
-  },
-  {
-    "source": "hn",
-    "url": "https://lilianweng.github.io/posts/2026-07-04-harness/",
-    "title": "Harness engineering for self-improvement"
-  },
-  {
-    "source": "hn",
-    "url": "https://adriansieber.com/announcing-perspec-1-0/",
-    "title": "Perspec 1.0"
-  },
-  {
-    "source": "hn",
+    "source": "lobsters",
     "url": "https://textslashplain.com/2026/08/04/security-is-hard-yall/",
-    "title": "Web Security is Too Hard"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.bfi.org/about-fuller/everything-i-know/",
-    "title": "Everything I Know (1975)"
+    "title": "Security is Hard, Y’all"
   },
   {
     "source": "lobsters",
@@ -71,6 +96,16 @@
   },
   {
     "source": "lobsters",
+    "url": "https://fzakaria.com/2026/07/30/the-nix-sandbox-is-a-hidden-input",
+    "title": "The Nix sandbox is a hidden input"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://blog.fogus.me/llm/born-against.html",
+    "title": "Born Against, or why hobby programming communities are aggressively against LLM usage"
+  },
+  {
+    "source": "lobsters",
     "url": "https://killthecookiebanner.eu/",
     "title": "Kill the Cookie Banner"
   },
@@ -81,23 +116,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://pandoc.org/twenty-years-of-pandoc.html",
-    "title": "Twenty Years of Pandoc"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://fzakaria.com/2026/07/30/the-nix-sandbox-is-a-hidden-input",
-    "title": "The Nix sandbox is a hidden input"
-  },
-  {
-    "source": "lobsters",
     "url": "https://blog.drakulix.de/taming-the-steam-arm64-client-on-pmos/",
     "title": "Taming the Steam arm64 client (on pmOS)"
   },
   {
     "source": "lobsters",
-    "url": "https://domenkozar.com/2026/08/04/nixpkgs-has-a-due-process-problem/",
-    "title": "nixpkgs has a due-process problem"
+    "url": "https://pandoc.org/twenty-years-of-pandoc.html",
+    "title": "Twenty Years of Pandoc"
   },
   {
     "source": "lobsters",
@@ -106,13 +131,18 @@
   },
   {
     "source": "lobsters",
+    "url": "https://shieldfont.org/",
+    "title": "ShieldFont"
+  },
+  {
+    "source": "lobsters",
     "url": "https://gruhn.me/blog/2026-08-03/",
     "title": "Don't be a meat proxy"
   },
   {
     "source": "lobsters",
-    "url": "https://shieldfont.org/",
-    "title": "ShieldFont"
+    "url": "https://blog.haskell.org/revised-haskell-2010-report/",
+    "title": "A Revised Haskell 2010 Language Report"
   },
   {
     "source": "lobsters",
@@ -123,125 +153,5 @@
     "source": "lobsters",
     "url": "https://blogs.gnome.org/feborges/future-of-boxes/",
     "title": "The Future of GNOME Boxes"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://starlight.astro.build/environmental-impact/",
-    "title": "Eco-friendly docs"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://blog.fogus.me/llm/born-against.html",
-    "title": "Born Against, or why hobby programming communities are aggressively against LLM usage"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://blog.haskell.org/revised-haskell-2010-report/",
-    "title": "A Revised Haskell 2010 Language Report"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://darkhours.io/",
-    "title": "Dark Hours, what's actually visible in your sky tonight"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.librarian.net/NoToAI/",
-    "title": "Removing Intrusive AI from stuff – librarian.net"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.seangoedecke.com/llms-reward-expertise/",
-    "title": "LLMs reward expertise"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://foldingglobes.com/globes",
-    "title": "Free Printable Paper Globes — Folding Paper Globes"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://readingmaps.com/",
-    "title": "Maps & Travel Routes from Books & Films"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://microsoft.github.io/flint-chart/",
-    "title": "Flint: A Visualization Language for the AI Era"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://john.fun/elevators",
-    "title": "Elevators"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://unattributed.cc/note-taking-and-personal-knowledge-management",
-    "title": "Note-Taking and Personal Knowledge Management — Unattributed"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://animeuserinterface.tumblr.com/",
-    "title": "Anime User Interfaces"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.npr.org/2026/08/01/nx-s1-5912219/trump-truth-social-access-insider-trading",
-    "title": "For sale: early access to Trump's Truth Social posts: The president's media company is offering investors early access to his Truth Social feed for up to $100,000 a month; experts say the service may violate insider trading laws | NPR"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://terminalwidget.app/",
-    "title": "TerminalWidget for Mac, iPhone, and iPad | Terminal Widget"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://leodemoura.github.io/blog/2026-8-1-postmortem-for-kernel-soundness-bug-14576/",
-    "title": "Postmortem for Kernel Soundness Bug #14576 — Leonardo de Moura"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://blog.exe.dev/devtools-must-be-open-source",
-    "title": "Devtools must be open source - exe.dev blog"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://chrismorgan.info/atom%3Erss",
-    "title": "Atom is better than RSS, in ways that matter — Chris Morgan"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://qwen.ai/blog?id=qwen3.8",
-    "title": "Qwen3.8-Max Blog"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://diataxis.fr/",
-    "title": "Diátaxis Framework"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.superlogical.com/",
-    "title": "Superlogical"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.raptitude.com/2026/07/how-to-exist/",
-    "title": "How to Exist"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://simonwillison.net/2026/Jul/31/stateless-mcp/",
-    "title": "Stateless MCP has recaptured my interest (and inspired mcp-explorer and datasette-mcp)"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://hughhowey.com/the-end-of-an-era/",
-    "title": "The End of an Era - Hugh Howey"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://elenajs.com/",
-    "title": "Elena | Progressive Web Components"
   }
 ]
