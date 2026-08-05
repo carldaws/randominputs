@@ -1,13 +1,8 @@
 [
   {
     "source": "hn",
-    "url": "https://blog.hartwork.org/posts/libexpat-city-of-munich-open-source-sabbatical/",
-    "title": "libexpat now funded by the City of Munich for up to 6 months"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.asiae.co.kr/en/article/2026080416131786841",
-    "title": "After Losses, Retail Investors Flock to 3x Leverage as 2x Product Are Restricted"
+    "url": "https://simonwillison.net/2026/Jul/31/stateless-mcp/",
+    "title": "Stateless MCP has recaptured my interest"
   },
   {
     "source": "hn",
@@ -16,13 +11,8 @@
   },
   {
     "source": "hn",
-    "url": "https://simonwillison.net/2026/Jul/31/stateless-mcp/",
-    "title": "Stateless MCP has recaptured my interest"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.wardsauto.com/news/the-auto-industry-is-building-for-a-past-thats-never-coming-back/825594/",
-    "title": "The auto industry is building for a past that's never coming back"
+    "url": "https://unsung.aresluna.org/gravity-is-worth-asking-about/",
+    "title": "\"Gravity is worth asking about.\""
   },
   {
     "source": "hn",
@@ -31,13 +21,28 @@
   },
   {
     "source": "hn",
+    "url": "https://rioterm.com/blog/2026/07/27/rio-vt-and-librio",
+    "title": "Rio-vt and librio: Rio's terminal engine, now embeddable"
+  },
+  {
+    "source": "hn",
+    "url": "https://deepgrove.ai/maple-preview",
+    "title": "Show HN: Maple-Preview – Ternary 20B MoE running at 120 tok/s on a iPhone"
+  },
+  {
+    "source": "hn",
     "url": "https://techascent.com/blog/just-ducking-around.html",
     "title": "DuckDB – Data power tools for your laptop, now in Clojure (2023)"
   },
   {
     "source": "hn",
-    "url": "https://deepgrove.ai/maple-preview",
-    "title": "Show HN: Maple-Preview – ternary 20B MoE running at 120 tok/s on a iPhone"
+    "url": "https://www.thehopkinthomasproject.com/TheHopkinThomasProject/TimeLine/Wales/Steam/URochesterCollection/Hero/index-2.html",
+    "title": "The Pneumatics of Hero of Alexandria"
+  },
+  {
+    "source": "hn",
+    "url": "https://blog.hartwork.org/posts/libexpat-city-of-munich-open-source-sabbatical/",
+    "title": "libexpat now funded by the City of Munich for up to 6 months"
   },
   {
     "source": "hn",
@@ -46,13 +51,8 @@
   },
   {
     "source": "hn",
-    "url": "https://rioterm.com/blog/2026/07/27/rio-vt-and-librio",
-    "title": "Rio-vt and librio: Rio's terminal engine, now embeddable"
-  },
-  {
-    "source": "hn",
-    "url": "https://flowiseai.com/sunset",
-    "title": "Flowise Is Shutting Down"
+    "url": "https://seg6.space/posts/center-div/",
+    "title": "We finally learned to center a div, then browsers added sidebars"
   },
   {
     "source": "hn",
@@ -61,23 +61,18 @@
   },
   {
     "source": "hn",
-    "url": "https://seg6.space/posts/center-div/",
-    "title": "We finally learned to center a div, then browsers added sidebars"
+    "url": "https://flowiseai.com/sunset",
+    "title": "Flowise is shutting down"
   },
   {
     "source": "hn",
-    "url": "http://www.practicallyefficient.com/2017/10/13/from-boiling-lead-and-black-art.html",
-    "title": "From boiling lead and black art: The history of mathematical typography (2017)"
+    "url": "https://blog.rust-lang.org/inside-rust/2026/08/05/rust-langrust-is-adopting-an-llm-policy/",
+    "title": "Rust-lang/rust is adopting an LLM policy"
   },
   {
     "source": "hn",
-    "url": "https://www.godox.com/product-e/C100.html",
-    "title": "Godox Transparent Viewfinder Camera C100"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.sec.gov/Archives/edgar/data/1795071/000179507126000002/xslFormDX01/primary_doc.xml",
-    "title": "Oxide Computer raises $445M (SEC Form D)"
+    "url": "https://birchtree.me/blog/xbox-goes-down-you-cant-play-games-you-own-on-disc/",
+    "title": "Xbox goes down. You can't play games you own on disc"
   },
   {
     "source": "lobsters",
@@ -91,13 +86,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://soppolang.dev/",
-    "title": "Soppo - Go, with the features it's missing"
+    "url": "https://blog.fogus.me/llm/born-against.html",
+    "title": "Born Against, or why hobby programming communities are aggressively against LLM usage"
   },
   {
     "source": "lobsters",
-    "url": "https://blog.fogus.me/llm/born-against.html",
-    "title": "Born Against, or why hobby programming communities are aggressively against LLM usage"
+    "url": "https://soppolang.dev/",
+    "title": "Soppo - Go, with the features it's missing"
   },
   {
     "source": "lobsters",
@@ -116,6 +111,16 @@
   },
   {
     "source": "lobsters",
+    "url": "https://www.chiply.dev/post-elisp-macros-are-beautiful",
+    "title": "Gödel, Escher, Elisp: The Beauty of Macros"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://blog.haskell.org/revised-haskell-2010-report/",
+    "title": "A Revised Haskell 2010 Language Report"
+  },
+  {
+    "source": "lobsters",
     "url": "https://pandoc.org/twenty-years-of-pandoc.html",
     "title": "Twenty Years of Pandoc"
   },
@@ -126,22 +131,7 @@
   },
   {
     "source": "lobsters",
-    "url": "https://blog.haskell.org/revised-haskell-2010-report/",
-    "title": "A Revised Haskell 2010 Language Report"
-  },
-  {
-    "source": "lobsters",
     "url": "https://nomeatproxy.com/",
     "title": "No Meat Proxy"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://starlight.astro.build/environmental-impact/",
-    "title": "Eco-friendly docs"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://gruhn.me/blog/2026-08-03/",
-    "title": "Don't be a meat proxy"
   }
 ]
