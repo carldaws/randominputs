@@ -6,8 +6,8 @@
   },
   {
     "source": "hn",
-    "url": "https://techascent.com/blog/just-ducking-around.html",
-    "title": "DuckDB – Data power tools for your laptop, now in Clojure (2023)"
+    "url": "https://earendil.com/posts/pi-autoresearch-and-databricks/",
+    "title": "Pi's Minimalism Is Its Advantage"
   },
   {
     "source": "hn",
@@ -16,23 +16,8 @@
   },
   {
     "source": "hn",
-    "url": "https://www.africanews.com/2026/08/04/ai-fuels-more-than-half-of-cybercrime-in-africa-as-digital-scams-surge-interpol/",
-    "title": "AI fuels more than half of cybercrime in Africa as scams surge – Interpol"
-  },
-  {
-    "source": "hn",
-    "url": "https://toneyalexander.github.io/inclusive-color-space/",
-    "title": "Show HN: Simple algorithm and color space to generate diverse skin tones"
-  },
-  {
-    "source": "hn",
-    "url": "https://earendil.com/posts/pi-autoresearch-and-databricks/",
-    "title": "Pi's Minimalism Is Its Advantage"
-  },
-  {
-    "source": "hn",
-    "url": "https://808bits.com/articles/fips-140-3-not-a-security-guarantee/",
-    "title": "FIPS 140-3 is not a security guarantee, and auditors know it"
+    "url": "https://techascent.com/blog/just-ducking-around.html",
+    "title": "DuckDB – Data power tools for your laptop, now in Clojure (2023)"
   },
   {
     "source": "hn",
@@ -41,8 +26,33 @@
   },
   {
     "source": "hn",
+    "url": "https://toneyalexander.github.io/inclusive-color-space/",
+    "title": "Show HN: Simple algorithm and color space to generate diverse skin tones"
+  },
+  {
+    "source": "hn",
+    "url": "https://808bits.com/articles/fips-140-3-not-a-security-guarantee/",
+    "title": "FIPS 140-3 is not a security guarantee, and auditors know it"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.africanews.com/2026/08/04/ai-fuels-more-than-half-of-cybercrime-in-africa-as-digital-scams-surge-interpol/",
+    "title": "AI fuels more than half of cybercrime in Africa as scams surge – Interpol"
+  },
+  {
+    "source": "hn",
+    "url": "https://flowiseai.com/sunset",
+    "title": "Flowise Is Shutting Down"
+  },
+  {
+    "source": "hn",
     "url": "https://deepgrove.ai/maple-preview",
     "title": "Show HN: Maple-Preview – ternary 20B MoE running at 120 tok/s on a iPhone"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.godox.com/product-e/C100.html",
+    "title": "Godox Transparent Viewfinder Camera C100"
   },
   {
     "source": "hn",
@@ -56,28 +66,13 @@
   },
   {
     "source": "hn",
-    "url": "https://hop.earth/?server=lkhr7&route=fQ5nuu9R",
-    "title": "Hop.earth – OpenStreetMap based car racing game"
-  },
-  {
-    "source": "hn",
     "url": "https://www.aikido.dev/blog/keyv-and-friends-compromised-in-npm-supply-chain-attack",
     "title": "Keyv and friends compromised in active Shai-Hulud supply chain attack"
   },
   {
     "source": "hn",
-    "url": "https://edotenv.com/",
-    "title": "Launch HN: EdotEnv (YC S26) – Quant Trading RL Envs to Teach LLMs Research"
-  },
-  {
-    "source": "hn",
-    "url": "https://pudding.cool/2026/06/mow/",
-    "title": "Why some people mow a lawn better than others"
-  },
-  {
-    "source": "hn",
-    "url": "https://birchtree.me/blog/xbox-goes-down-you-cant-play-games-you-own-on-disc/",
-    "title": "Xbox goes down. You can't play games you own on disc"
+    "url": "https://brontosaurusrex.github.io/physical/v7/",
+    "title": "Show HN: A little physical breakout clone"
   },
   {
     "source": "lobsters",
@@ -96,13 +91,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://fzakaria.com/2026/07/30/the-nix-sandbox-is-a-hidden-input",
-    "title": "The Nix sandbox is a hidden input"
+    "url": "https://blog.fogus.me/llm/born-against.html",
+    "title": "Born Against, or why hobby programming communities are aggressively against LLM usage"
   },
   {
     "source": "lobsters",
-    "url": "https://blog.fogus.me/llm/born-against.html",
-    "title": "Born Against, or why hobby programming communities are aggressively against LLM usage"
+    "url": "https://fzakaria.com/2026/07/30/the-nix-sandbox-is-a-hidden-input",
+    "title": "The Nix sandbox is a hidden input"
   },
   {
     "source": "lobsters",
@@ -131,8 +126,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://shieldfont.org/",
-    "title": "ShieldFont"
+    "url": "https://blog.haskell.org/revised-haskell-2010-report/",
+    "title": "A Revised Haskell 2010 Language Report"
   },
   {
     "source": "lobsters",
@@ -141,8 +136,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://blog.haskell.org/revised-haskell-2010-report/",
-    "title": "A Revised Haskell 2010 Language Report"
+    "url": "https://shieldfont.org/",
+    "title": "ShieldFont"
   },
   {
     "source": "lobsters",
