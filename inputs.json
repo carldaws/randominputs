@@ -6,6 +6,11 @@
   },
   {
     "source": "hn",
+    "url": "https://runarcn.no/android-to-linux/",
+    "title": "I'm switching my phone from Android to Linux"
+  },
+  {
+    "source": "hn",
     "url": "https://blog.google/company-news/inside-google/message-ceo/next-chapter-ai-momentum/",
     "title": "Changes at Google DeepMind: Demis Hassabis from CEO to Chair, Jeff Dean departs"
   },
@@ -21,8 +26,13 @@
   },
   {
     "source": "hn",
-    "url": "https://runarcn.no/android-to-linux/",
-    "title": "I'm switching my phone from Android to Linux"
+    "url": "https://research.meta.ai/blog/introducing-muse-code-and-muse-spark-1-2",
+    "title": "Muse Code and Muse Spark 1.2"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.primeintellect.ai/blog/prime-agent",
+    "title": "Prime Agent: A self-improving RLM agent"
   },
   {
     "source": "hn",
@@ -31,13 +41,18 @@
   },
   {
     "source": "hn",
-    "url": "https://norbertkozsir.com/posts/work-in-the-second-dimension/",
-    "title": "What happens if you put work into the second dimension?"
+    "url": "https://randsinrepose.com/archives/blade-runner-title-cards/",
+    "title": "The Title Cards in Blade Runner Are Fucking Amazing"
   },
   {
     "source": "hn",
-    "url": "https://www.hyperprobe.co",
-    "title": "Launch HN: HyperProbe (YC S26) – Agents that do read-only debugging in prod"
+    "url": "https://toska.bearblog.dev/re-online-friends-are-real-friends/",
+    "title": "Online Friends Are Real Friends"
+  },
+  {
+    "source": "hn",
+    "url": "https://norbertkozsir.com/posts/work-in-the-second-dimension/",
+    "title": "What happens if you put work into the second dimension?"
   },
   {
     "source": "hn",
@@ -46,13 +61,13 @@
   },
   {
     "source": "hn",
-    "url": "https://www.campion.edu.au/blog/top-25-aristotle-quotes-on-virtue-knowledge-and-happiness/",
-    "title": "Aristotle quotes on virtue, knowledge, and happiness"
+    "url": "https://www.hyperprobe.co",
+    "title": "Launch HN: HyperProbe (YC S26) – Agents that do read-only debugging in prod"
   },
   {
     "source": "hn",
-    "url": "https://blog.fogus.me/llm/born-against.html",
-    "title": "Born Against, or why hobby programming communities are against LLM usage"
+    "url": "https://www.campion.edu.au/blog/top-25-aristotle-quotes-on-virtue-knowledge-and-happiness/",
+    "title": "Aristotle quotes on virtue, knowledge, and happiness"
   },
   {
     "source": "hn",
@@ -61,13 +76,8 @@
   },
   {
     "source": "hn",
-    "url": "https://en.wikipedia.org/wiki/Western_Sahara",
-    "title": "Western Sahara"
-  },
-  {
-    "source": "hn",
-    "url": "https://rubinobservatory.org/news/rubin-new-window-cosmos-field",
-    "title": "Rubin Observatory's first LSST Camera release: 500k galaxies in the COSMOS field"
+    "url": "https://naomibashkansky.com/blog/telepathy/",
+    "title": "I’m leaving OpenAI to build telepathy"
   },
   {
     "source": "hn",
@@ -76,18 +86,8 @@
   },
   {
     "source": "hn",
-    "url": "https://research.meta.ai/blog/introducing-muse-code-and-muse-spark-1-2",
-    "title": "Muse Code and Muse Spark 1.2"
-  },
-  {
-    "source": "hn",
-    "url": "https://build2.org/blog/faster-than-ninja.xhtml",
-    "title": "Faster Than Ninja"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.wired.com/story/a-civilian-plane-crashed-in-new-mexico-was-the-militarys-tech-to-blame/",
-    "title": "Civilian plane crash in New Mexico tied to military GPS blocking"
+    "url": "https://rubinobservatory.org/news/rubin-new-window-cosmos-field",
+    "title": "Rubin Observatory's first LSST Camera release: 500k galaxies in the COSMOS field"
   },
   {
     "source": "lobsters",
@@ -101,6 +101,11 @@
   },
   {
     "source": "lobsters",
+    "url": "https://build2.org/blog/faster-than-ninja.xhtml",
+    "title": "Faster Than Ninja"
+  },
+  {
+    "source": "lobsters",
     "url": "https://jezenthomas.com/2026/07/nix-overrides-that-expire-themselves/",
     "title": "Nix Overrides That Expire Themselves"
   },
@@ -108,6 +113,16 @@
     "source": "lobsters",
     "url": "https://textslashplain.com/2026/08/04/security-is-hard-yall/",
     "title": "Security is Hard, Y’all"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://sightlessscribbles.com/disability-dongle/",
+    "title": "The \"Disability Dongle\": Why Silicon Valley Hates Me and you"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://blog.fogus.me/llm/born-against.html",
+    "title": "Born Against, or why hobby programming communities are aggressively against LLM usage"
   },
   {
     "source": "lobsters",
@@ -121,8 +136,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://sightlessscribbles.com/disability-dongle/",
-    "title": "The \"Disability Dongle\": Why Silicon Valley Hates Me and you"
+    "url": "https://benjcal.space/blog/i-built-a-blog-and-forgot-to-write/",
+    "title": "I Built a Blog and Forgot to Write"
   },
   {
     "source": "lobsters",
@@ -136,13 +151,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://benjcal.space/blog/i-built-a-blog-and-forgot-to-write/",
-    "title": "I Built a Blog and Forgot to Write"
+    "url": "https://www.jeffgeerling.com/blog/2026/proxmox-ve-arm-official/",
+    "title": "Proxmox officially supports Arm, with some caveats"
   },
   {
     "source": "lobsters",
-    "url": "https://www.jeffgeerling.com/blog/2026/proxmox-ve-arm-official/",
-    "title": "Proxmox officially supports Arm, with some caveats"
+    "url": "https://epage.github.io/blog/2026/08/cargo-vision/",
+    "title": "A Vision for Cargo"
   },
   {
     "source": "lobsters",
@@ -153,10 +168,5 @@
     "source": "lobsters",
     "url": "https://blog.jle.im/entry/five-point-haskell-part-2-unconditional-election.html",
     "title": "\"Five-Point Haskell\": Unconditional Election via Parametricity"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://soppolang.dev/",
-    "title": "Soppo - Go, with the features it's missing"
   }
 ]
