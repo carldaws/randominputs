@@ -1,6 +1,16 @@
 [
   {
     "source": "hn",
+    "url": "https://www.wired.com/story/a-civilian-plane-crashed-in-new-mexico-was-the-militarys-tech-to-blame/",
+    "title": "Civilian plane crash in New Mexico tied to military GPS blocking"
+  },
+  {
+    "source": "hn",
+    "url": "https://divingintheshallowend.com/three-six-mafia/",
+    "title": "Three Six Mafia – Data about \"6/6/6 dating\" (2024)"
+  },
+  {
+    "source": "hn",
     "url": "https://simonwillison.net/2026/Jul/31/stateless-mcp/",
     "title": "Stateless MCP has recaptured my interest"
   },
@@ -11,8 +21,23 @@
   },
   {
     "source": "hn",
+    "url": "https://labs.quansight.org/blog/scaling-numpy-on-free-threaded-python",
+    "title": "Scaling NumPy on Free-Threaded Python"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.novaspivack.com/essays/the-fish-who-could-not-imagine-air",
+    "title": "The Fish Who Could Not Imagine Air"
+  },
+  {
+    "source": "hn",
     "url": "https://earendil.com/posts/pi-autoresearch-and-databricks/",
     "title": "Pi's Minimalism Is Its Advantage"
+  },
+  {
+    "source": "hn",
+    "url": "https://hannahilea.com/blog/birduino/",
+    "title": "Birduino: A card-triggered audio player for [learning] the birds"
   },
   {
     "source": "hn",
@@ -21,8 +46,13 @@
   },
   {
     "source": "hn",
+    "url": "https://en.wikipedia.org/wiki/Bubble_memory",
+    "title": "Bubble Memory"
+  },
+  {
+    "source": "hn",
     "url": "https://www.thehopkinthomasproject.com/TheHopkinThomasProject/TimeLine/Wales/Steam/URochesterCollection/Hero/index-2.html",
-    "title": "The Pneumatics of Hero of Alexandria"
+    "title": "The Pneumatics of Hero of Alexandria (1851)"
   },
   {
     "source": "hn",
@@ -46,13 +76,13 @@
   },
   {
     "source": "hn",
-    "url": "https://www.africanews.com/2026/08/04/ai-fuels-more-than-half-of-cybercrime-in-africa-as-digital-scams-surge-interpol/",
-    "title": "AI fuels more than half of cybercrime in Africa as scams surge – Interpol"
+    "url": "https://lawrencecpaulson.github.io//2026/07/30/Collatz.html",
+    "title": "Why is it all in the kernel?"
   },
   {
     "source": "hn",
-    "url": "https://blog.hartwork.org/posts/libexpat-city-of-munich-open-source-sabbatical/",
-    "title": "libexpat now funded by the City of Munich for up to 6 months"
+    "url": "https://www.africanews.com/2026/08/04/ai-fuels-more-than-half-of-cybercrime-in-africa-as-digital-scams-surge-interpol/",
+    "title": "AI fuels more than half of cybercrime in Africa as scams surge – Interpol"
   },
   {
     "source": "hn",
@@ -61,23 +91,8 @@
   },
   {
     "source": "hn",
-    "url": "https://flowiseai.com/sunset",
-    "title": "Flowise is shutting down"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.godox.com/product-e/C100.html",
-    "title": "Godox Transparent Viewfinder Camera C100"
-  },
-  {
-    "source": "hn",
-    "url": "https://birchtree.me/blog/xbox-goes-down-you-cant-play-games-you-own-on-disc/",
-    "title": "Xbox goes down. You can't play games you own on disc"
-  },
-  {
-    "source": "hn",
-    "url": "https://lawrencecpaulson.github.io//2026/07/30/Collatz.html",
-    "title": "Why is it all in the kernel?"
+    "url": "https://blog.hartwork.org/posts/libexpat-city-of-munich-open-source-sabbatical/",
+    "title": "libexpat now funded by the City of Munich for up to 6 months"
   },
   {
     "source": "lobsters",
@@ -101,6 +116,11 @@
   },
   {
     "source": "lobsters",
+    "url": "https://build2.org/blog/faster-than-ninja.xhtml",
+    "title": "Faster Than Ninja"
+  },
+  {
+    "source": "lobsters",
     "url": "https://soppolang.dev/",
     "title": "Soppo - Go, with the features it's missing"
   },
@@ -111,8 +131,23 @@
   },
   {
     "source": "lobsters",
+    "url": "https://jezenthomas.com/2026/07/nix-overrides-that-expire-themselves/",
+    "title": "Nix Overrides That Expire Themselves"
+  },
+  {
+    "source": "lobsters",
     "url": "https://www.chiply.dev/post-elisp-macros-are-beautiful",
     "title": "Gödel, Escher, Elisp: The Beauty of Macros"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://blog.jle.im/entry/five-point-haskell-part-2-unconditional-election.html",
+    "title": "\"Five-Point Haskell\": Unconditional Election via Parametricity"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://bruceediger.com/posts/offensive-machine/",
+    "title": "Offensive Internet Posture"
   },
   {
     "source": "lobsters",
@@ -130,18 +165,93 @@
     "title": "A Revised Haskell 2010 Language Report"
   },
   {
-    "source": "lobsters",
-    "url": "https://blog.drakulix.de/taming-the-steam-arm64-client-on-pmos/",
-    "title": "Taming the Steam arm64 client (on pmOS)"
+    "source": "pinboard",
+    "url": "https://www.seangoedecke.com/llms-reward-expertise/",
+    "title": "LLMs reward expertise"
   },
   {
-    "source": "lobsters",
+    "source": "pinboard",
+    "url": "https://readingmaps.com/",
+    "title": "Maps & Travel Routes from Books & Films"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://darkhours.io/",
+    "title": "Dark Hours, what's actually visible in your sky tonight"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://gruhn.me/blog/2026-08-03/",
+    "title": "Don't be a meat proxy"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://foldingglobes.com/globes",
+    "title": "Free Printable Paper Globes — Folding Paper Globes"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.schneier.com/blog/archives/2026/07/should-you-use-ai-for-a-task-heres-a-simple-way-to-decide.html",
+    "title": "Should You Use AI for a Task? Here’s a Simple Way to Decide - Schneier on Security"
+  },
+  {
+    "source": "pinboard",
     "url": "https://pandoc.org/twenty-years-of-pandoc.html",
-    "title": "Twenty Years of Pandoc"
+    "title": "Pandoc - twenty-years-of-pandoc"
   },
   {
-    "source": "lobsters",
-    "url": "https://nomeatproxy.com/",
-    "title": "No Meat Proxy"
+    "source": "pinboard",
+    "url": "https://terminalwidget.app/",
+    "title": "TerminalWidget for Mac, iPhone, and iPad | Terminal Widget"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.librarian.net/NoToAI/",
+    "title": "Removing Intrusive AI from stuff – librarian.net"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://lilianweng.github.io/posts/2026-07-04-harness/",
+    "title": "Harness Engineering for Self-Improvement | Lil'Log"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://unattributed.cc/note-taking-and-personal-knowledge-management",
+    "title": "Note-Taking and Personal Knowledge Management — Unattributed"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://blog.exe.dev/devtools-must-be-open-source",
+    "title": "Devtools must be open source - exe.dev blog"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://leodemoura.github.io/blog/2026-8-1-postmortem-for-kernel-soundness-bug-14576/",
+    "title": "Postmortem for Kernel Soundness Bug #14576 — Leonardo de Moura"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://animeuserinterface.tumblr.com/",
+    "title": "Anime User Interfaces"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://chrismorgan.info/atom%3Erss",
+    "title": "Atom is better than RSS, in ways that matter — Chris Morgan"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://sheets.works/data-viz/keyboard-sounds",
+    "title": "The Listening Museum"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://qwen.ai/blog?id=qwen3.8",
+    "title": "Qwen3.8-Max Blog"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://john.fun/elevators",
+    "title": "Elevators"
   }
 ]
