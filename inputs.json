@@ -6,23 +6,23 @@
   },
   {
     "source": "hn",
+    "url": "https://www.asiae.co.kr/en/article/2026080416131786841",
+    "title": "After Losses, Retail Investors Flock to 3x Leverage as 2x Product Are Restricted"
+  },
+  {
+    "source": "hn",
     "url": "https://earendil.com/posts/pi-autoresearch-and-databricks/",
     "title": "Pi's Minimalism Is Its Advantage"
   },
   {
     "source": "hn",
-    "url": "https://seg6.space/posts/center-div/",
-    "title": "We finally learned to center a div, then browsers added sidebars"
+    "url": "https://simonwillison.net/2026/Jul/31/stateless-mcp/",
+    "title": "Stateless MCP has recaptured my interest"
   },
   {
     "source": "hn",
-    "url": "https://techascent.com/blog/just-ducking-around.html",
-    "title": "DuckDB – Data power tools for your laptop, now in Clojure (2023)"
-  },
-  {
-    "source": "hn",
-    "url": "https://unit42.paloaltonetworks.com/passwordless-authentication-security-risks/",
-    "title": "Pass the Passkey: A Novel Attack Surface in Passwordless Authentication"
+    "url": "https://www.wardsauto.com/news/the-auto-industry-is-building-for-a-past-thats-never-coming-back/825594/",
+    "title": "The auto industry is building for a past that's never coming back"
   },
   {
     "source": "hn",
@@ -31,18 +31,8 @@
   },
   {
     "source": "hn",
-    "url": "https://808bits.com/articles/fips-140-3-not-a-security-guarantee/",
-    "title": "FIPS 140-3 is not a security guarantee, and auditors know it"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.africanews.com/2026/08/04/ai-fuels-more-than-half-of-cybercrime-in-africa-as-digital-scams-surge-interpol/",
-    "title": "AI fuels more than half of cybercrime in Africa as scams surge – Interpol"
-  },
-  {
-    "source": "hn",
-    "url": "https://flowiseai.com/sunset",
-    "title": "Flowise Is Shutting Down"
+    "url": "https://techascent.com/blog/just-ducking-around.html",
+    "title": "DuckDB – Data power tools for your laptop, now in Clojure (2023)"
   },
   {
     "source": "hn",
@@ -51,8 +41,18 @@
   },
   {
     "source": "hn",
-    "url": "https://www.godox.com/product-e/C100.html",
-    "title": "Godox Transparent Viewfinder Camera C100"
+    "url": "https://www.africanews.com/2026/08/04/ai-fuels-more-than-half-of-cybercrime-in-africa-as-digital-scams-surge-interpol/",
+    "title": "AI fuels more than half of cybercrime in Africa as scams surge – Interpol"
+  },
+  {
+    "source": "hn",
+    "url": "https://rioterm.com/blog/2026/07/27/rio-vt-and-librio",
+    "title": "Rio-vt and librio: Rio's terminal engine, now embeddable"
+  },
+  {
+    "source": "hn",
+    "url": "https://flowiseai.com/sunset",
+    "title": "Flowise Is Shutting Down"
   },
   {
     "source": "hn",
@@ -61,18 +61,23 @@
   },
   {
     "source": "hn",
+    "url": "https://seg6.space/posts/center-div/",
+    "title": "We finally learned to center a div, then browsers added sidebars"
+  },
+  {
+    "source": "hn",
+    "url": "http://www.practicallyefficient.com/2017/10/13/from-boiling-lead-and-black-art.html",
+    "title": "From boiling lead and black art: The history of mathematical typography (2017)"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.godox.com/product-e/C100.html",
+    "title": "Godox Transparent Viewfinder Camera C100"
+  },
+  {
+    "source": "hn",
     "url": "https://www.sec.gov/Archives/edgar/data/1795071/000179507126000002/xslFormDX01/primary_doc.xml",
     "title": "Oxide Computer raises $445M (SEC Form D)"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.aikido.dev/blog/keyv-and-friends-compromised-in-npm-supply-chain-attack",
-    "title": "Keyv and friends compromised in active Shai-Hulud supply chain attack"
-  },
-  {
-    "source": "hn",
-    "url": "https://brontosaurusrex.github.io/physical/v7/",
-    "title": "Show HN: A little physical breakout clone"
   },
   {
     "source": "lobsters",
@@ -81,13 +86,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://soppolang.dev/",
-    "title": "Soppo - Go, with the features it's missing"
+    "url": "https://blog.rust-lang.org/2026/08/04/enabling-polonius-alpha-on-nighty/",
+    "title": "Enabling the next iteration of the borrow checker on nightly"
   },
   {
     "source": "lobsters",
-    "url": "https://blog.rust-lang.org/2026/08/04/enabling-polonius-alpha-on-nighty/",
-    "title": "Enabling the next iteration of the borrow checker on nightly"
+    "url": "https://soppolang.dev/",
+    "title": "Soppo - Go, with the features it's missing"
   },
   {
     "source": "lobsters",
@@ -101,18 +106,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://killthecookiebanner.eu/",
-    "title": "Kill the Cookie Banner"
-  },
-  {
-    "source": "lobsters",
     "url": "https://borrowsanitizer.com/",
     "title": "BorrowSanitizer"
   },
   {
     "source": "lobsters",
-    "url": "https://blog.drakulix.de/taming-the-steam-arm64-client-on-pmos/",
-    "title": "Taming the Steam arm64 client (on pmOS)"
+    "url": "https://killthecookiebanner.eu/",
+    "title": "Kill the Cookie Banner"
   },
   {
     "source": "lobsters",
@@ -121,8 +121,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://nomeatproxy.com/",
-    "title": "No Meat Proxy"
+    "url": "https://blog.drakulix.de/taming-the-steam-arm64-client-on-pmos/",
+    "title": "Taming the Steam arm64 client (on pmOS)"
   },
   {
     "source": "lobsters",
@@ -131,22 +131,17 @@
   },
   {
     "source": "lobsters",
+    "url": "https://nomeatproxy.com/",
+    "title": "No Meat Proxy"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://starlight.astro.build/environmental-impact/",
+    "title": "Eco-friendly docs"
+  },
+  {
+    "source": "lobsters",
     "url": "https://gruhn.me/blog/2026-08-03/",
     "title": "Don't be a meat proxy"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://shieldfont.org/",
-    "title": "ShieldFont"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://lake.computer/blog/help-wanted/",
-    "title": "help wanted"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://blogs.gnome.org/feborges/future-of-boxes/",
-    "title": "The Future of GNOME Boxes"
   }
 ]
