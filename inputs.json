@@ -7,22 +7,22 @@
   {
     "source": "hn",
     "url": "https://blog.google/company-news/inside-google/message-ceo/next-chapter-ai-momentum/",
-    "title": "The next chapter of our AI momentum"
+    "title": "Changes at Google DeepMind: Demis Hassabis from CEO to Chair, Jeff Dean departs"
   },
   {
     "source": "hn",
-    "url": "https://www.campion.edu.au/blog/top-25-aristotle-quotes-on-virtue-knowledge-and-happiness/",
-    "title": "Aristotle quotes on virtue, knowledge, and happiness"
+    "url": "https://blog.fogus.me/llm/born-against.html",
+    "title": "Born Against, or why hobby programming communities are against LLM usage"
   },
   {
     "source": "hn",
-    "url": "https://blog.cloudflare.com/cloudflare-os/",
-    "title": "Cloudflare OS: an open platform for agents, apps, and work"
+    "url": "https://neon.com/blog/how-castform-neon-beats-frontier-models-on-price-and-efficiency",
+    "title": "Beating GPT-5.6 Sol on retrieval with 100x cheaper open models"
   },
   {
     "source": "hn",
-    "url": "https://www.404media.co/cops-used-flock-to-track-a-man-across-state-lines-to-create-pretext-to-search-his-car-for-weed/",
-    "title": "Cops Used Flock to Track a Man Across State Lines for a Pretextual Weed Search"
+    "url": "https://www.promptarmor.com/resources/atlassian-rovo-exfiltrates-data",
+    "title": "Atlassian Rovo Exfiltrates Data, Bypassing Controls"
   },
   {
     "source": "hn",
@@ -31,13 +31,23 @@
   },
   {
     "source": "hn",
-    "url": "https://sightlessscribbles.com/disability-dongle/",
-    "title": "The \"Disability Dongle\": Why Silicon Valley Hates Me and You"
+    "url": "https://en.wikipedia.org/wiki/Western_Sahara",
+    "title": "Western Sahara"
   },
   {
     "source": "hn",
-    "url": "https://en.wikipedia.org/wiki/Western_Sahara",
-    "title": "Western Sahara"
+    "url": "https://blog.cloudflare.com/cloudflare-os/",
+    "title": "Cloudflare OS: an open platform for agents, apps, and work"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.campion.edu.au/blog/top-25-aristotle-quotes-on-virtue-knowledge-and-happiness/",
+    "title": "Aristotle quotes on virtue, knowledge, and happiness"
+  },
+  {
+    "source": "hn",
+    "url": "https://rubinobservatory.org/news/rubin-new-window-cosmos-field",
+    "title": "Rubin Observatory's first LSST Camera release: 500k galaxies in the COSMOS field"
   },
   {
     "source": "hn",
@@ -51,8 +61,8 @@
   },
   {
     "source": "hn",
-    "url": "https://rubinobservatory.org/news/rubin-new-window-cosmos-field",
-    "title": "Rubin Observatory's first LSST Camera release: 500k galaxies in the COSMOS field"
+    "url": "https://build2.org/blog/faster-than-ninja.xhtml",
+    "title": "Faster Than Ninja"
   },
   {
     "source": "hn",
@@ -61,33 +71,13 @@
   },
   {
     "source": "hn",
-    "url": "https://build2.org/blog/faster-than-ninja.xhtml",
-    "title": "Faster Than Ninja"
-  },
-  {
-    "source": "hn",
-    "url": "https://tson.io/",
-    "title": "TSON – A JSON superset with immutable, hash-pinned schemas"
+    "url": "https://www.bloomberg.com/news/articles/2026-08-05/microsoft-s-ai-sales-mostly-come-from-openai-disclosures-show",
+    "title": "Microsoft's AI Sales Mostly Come from OpenAI, Disclosures Show"
   },
   {
     "source": "hn",
     "url": "https://www.righto.com/2026/07/ibm-604-trigger-tube-module.html",
     "title": "Energizing a vacuum-tube flip-flop module from a 1948 IBM system"
-  },
-  {
-    "source": "hn",
-    "url": "https://simonwillison.net/2026/Jul/31/stateless-mcp/",
-    "title": "Stateless MCP has recaptured my interest"
-  },
-  {
-    "source": "hn",
-    "url": "https://stoffelmpc.com/stoffel-blog/what-is-distributed-key-generation-(dkg)",
-    "title": "What is distributed Key Generation (DKG)?"
-  },
-  {
-    "source": "hn",
-    "url": "https://labs.quansight.org/blog/scaling-numpy-on-free-threaded-python",
-    "title": "Scaling NumPy on Free-Threaded Python"
   },
   {
     "source": "lobsters",
@@ -101,18 +91,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://textslashplain.com/2026/08/04/security-is-hard-yall/",
-    "title": "Security is Hard, Y’all"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://blog.fogus.me/llm/born-against.html",
-    "title": "Born Against, or why hobby programming communities are aggressively against LLM usage"
-  },
-  {
-    "source": "lobsters",
     "url": "https://jezenthomas.com/2026/07/nix-overrides-that-expire-themselves/",
     "title": "Nix Overrides That Expire Themselves"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://textslashplain.com/2026/08/04/security-is-hard-yall/",
+    "title": "Security is Hard, Y’all"
   },
   {
     "source": "lobsters",
@@ -126,8 +111,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://soppolang.dev/",
-    "title": "Soppo - Go, with the features it's missing"
+    "url": "https://www.sandordargo.com/blog/2026/08/05/cpp26-embed",
+    "title": "C++26: #embed"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://blog.mempko.com/your-agentic-workflows-cache-keepalive-costs-8x-too-much-v2-the-interval-frontier/",
+    "title": "Your Agentic Workflow's Cache Keepalive Costs 8x Too Much (v2: the interval frontier)"
   },
   {
     "source": "lobsters",
@@ -136,17 +126,22 @@
   },
   {
     "source": "lobsters",
-    "url": "https://join.piefed.social/2026/08/04/anti-fascist-piefed-features/",
-    "title": "Anti-fascist PieFed features"
+    "url": "https://soppolang.dev/",
+    "title": "Soppo - Go, with the features it's missing"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://sightlessscribbles.com/disability-dongle/",
+    "title": "The \"Disability Dongle\": Why Silicon Valley Hates Me and you"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://xania.org/202608/how-compiler-explorer-runs-on-aws",
+    "title": "How Compiler Explorer Runs on AWS in 2026"
   },
   {
     "source": "lobsters",
     "url": "https://www.chiply.dev/post-elisp-macros-are-beautiful",
     "title": "Gödel, Escher, Elisp: The Beauty of Macros"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://fzakaria.com/2026/07/30/the-nix-sandbox-is-a-hidden-input",
-    "title": "The Nix sandbox is a hidden input"
   }
 ]
