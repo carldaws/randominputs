@@ -1,13 +1,13 @@
 [
   {
     "source": "hn",
-    "url": "https://blog.cloudflare.com/cloudflare-os/",
-    "title": "Cloudflare OS: an open platform for agents, apps, and work"
+    "url": "https://www.discoveryloop.com/",
+    "title": "Discovery Loop"
   },
   {
     "source": "hn",
-    "url": "https://franciscotrindade.me/blog/the-kids-are-alright/",
-    "title": "Not hiring junior engineers won't solve the problem you think you have"
+    "url": "https://blog.google/company-news/inside-google/message-ceo/next-chapter-ai-momentum/",
+    "title": "The next chapter of our AI momentum"
   },
   {
     "source": "hn",
@@ -16,8 +16,28 @@
   },
   {
     "source": "hn",
-    "url": "https://observer.co.uk/news/science-technology/article/silicon-valley-sees-ai-as-the-solution-for-everyone-else-its-the-problem",
-    "title": "Silicon Valley sees AI as the solution – for everyone else"
+    "url": "https://blog.cloudflare.com/cloudflare-os/",
+    "title": "Cloudflare OS: an open platform for agents, apps, and work"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.404media.co/cops-used-flock-to-track-a-man-across-state-lines-to-create-pretext-to-search-his-car-for-weed/",
+    "title": "Cops Used Flock to Track a Man Across State Lines for a Pretextual Weed Search"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.hyperprobe.co",
+    "title": "Launch HN: HyperProbe (YC S26) – Agents that do read-only debugging in prod"
+  },
+  {
+    "source": "hn",
+    "url": "https://sightlessscribbles.com/disability-dongle/",
+    "title": "The \"Disability Dongle\": Why Silicon Valley Hates Me and You"
+  },
+  {
+    "source": "hn",
+    "url": "https://en.wikipedia.org/wiki/Western_Sahara",
+    "title": "Western Sahara"
   },
   {
     "source": "hn",
@@ -26,33 +46,8 @@
   },
   {
     "source": "hn",
-    "url": "https://build2.org/blog/faster-than-ninja.xhtml",
-    "title": "Faster Than Ninja"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.wired.com/story/a-civilian-plane-crashed-in-new-mexico-was-the-militarys-tech-to-blame/",
-    "title": "Civilian plane crash in New Mexico tied to military GPS blocking"
-  },
-  {
-    "source": "hn",
-    "url": "https://tson.io/",
-    "title": "TSON – A JSON superset with immutable, hash-pinned schemas"
-  },
-  {
-    "source": "hn",
     "url": "https://yogthos.net/posts/2026-08-03-splat-painter.html",
     "title": "Painting with Gaussians"
-  },
-  {
-    "source": "hn",
-    "url": "https://simonwillison.net/2026/Jul/31/stateless-mcp/",
-    "title": "Stateless MCP has recaptured my interest"
-  },
-  {
-    "source": "hn",
-    "url": "https://labs.quansight.org/blog/scaling-numpy-on-free-threaded-python",
-    "title": "Scaling NumPy on Free-Threaded Python"
   },
   {
     "source": "hn",
@@ -61,33 +56,38 @@
   },
   {
     "source": "hn",
-    "url": "https://ktxconverter.robertborghesi.is",
-    "title": "KTX Images Converter for WebGL/GPU and Threejs"
+    "url": "https://www.wired.com/story/a-civilian-plane-crashed-in-new-mexico-was-the-militarys-tech-to-blame/",
+    "title": "Civilian plane crash in New Mexico tied to military GPS blocking"
   },
   {
     "source": "hn",
-    "url": "https://unsung.aresluna.org/gravity-is-worth-asking-about/",
-    "title": "“Gravity is worth asking about”"
+    "url": "https://build2.org/blog/faster-than-ninja.xhtml",
+    "title": "Faster Than Ninja"
   },
   {
     "source": "hn",
-    "url": "https://hannahilea.com/blog/birduino/",
-    "title": "Birduino: A card-triggered audio player for [learning] the birds"
+    "url": "https://tson.io/",
+    "title": "TSON – A JSON superset with immutable, hash-pinned schemas"
   },
   {
     "source": "hn",
-    "url": "https://earendil.com/posts/pi-autoresearch-and-databricks/",
-    "title": "Pi's Minimalism Is Its Advantage"
+    "url": "https://www.righto.com/2026/07/ibm-604-trigger-tube-module.html",
+    "title": "Energizing a vacuum-tube flip-flop module from a 1948 IBM system"
   },
   {
     "source": "hn",
-    "url": "https://en.wikipedia.org/wiki/Bubble_memory",
-    "title": "Bubble Memory"
+    "url": "https://simonwillison.net/2026/Jul/31/stateless-mcp/",
+    "title": "Stateless MCP has recaptured my interest"
   },
   {
     "source": "hn",
-    "url": "https://toneyalexander.github.io/inclusive-color-space/",
-    "title": "Show HN: Simple algorithm and color space to generate diverse skin tones"
+    "url": "https://stoffelmpc.com/stoffel-blog/what-is-distributed-key-generation-(dkg)",
+    "title": "What is distributed Key Generation (DKG)?"
+  },
+  {
+    "source": "hn",
+    "url": "https://labs.quansight.org/blog/scaling-numpy-on-free-threaded-python",
+    "title": "Scaling NumPy on Free-Threaded Python"
   },
   {
     "source": "lobsters",
@@ -111,13 +111,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://blog.rust-lang.org/2026/08/04/enabling-polonius-alpha-on-nighty/",
-    "title": "Enabling the next iteration of the borrow checker on nightly"
+    "url": "https://jezenthomas.com/2026/07/nix-overrides-that-expire-themselves/",
+    "title": "Nix Overrides That Expire Themselves"
   },
   {
     "source": "lobsters",
-    "url": "https://jezenthomas.com/2026/07/nix-overrides-that-expire-themselves/",
-    "title": "Nix Overrides That Expire Themselves"
+    "url": "https://blog.rust-lang.org/2026/08/04/enabling-polonius-alpha-on-nighty/",
+    "title": "Enabling the next iteration of the borrow checker on nightly"
   },
   {
     "source": "lobsters",
@@ -126,13 +126,18 @@
   },
   {
     "source": "lobsters",
+    "url": "https://soppolang.dev/",
+    "title": "Soppo - Go, with the features it's missing"
+  },
+  {
+    "source": "lobsters",
     "url": "https://blog.jle.im/entry/five-point-haskell-part-2-unconditional-election.html",
     "title": "\"Five-Point Haskell\": Unconditional Election via Parametricity"
   },
   {
     "source": "lobsters",
-    "url": "https://soppolang.dev/",
-    "title": "Soppo - Go, with the features it's missing"
+    "url": "https://join.piefed.social/2026/08/04/anti-fascist-piefed-features/",
+    "title": "Anti-fascist PieFed features"
   },
   {
     "source": "lobsters",
@@ -143,15 +148,5 @@
     "source": "lobsters",
     "url": "https://fzakaria.com/2026/07/30/the-nix-sandbox-is-a-hidden-input",
     "title": "The Nix sandbox is a hidden input"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://borrowsanitizer.com/",
-    "title": "BorrowSanitizer"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://blog.haskell.org/revised-haskell-2010-report/",
-    "title": "A Revised Haskell 2010 Language Report"
   }
 ]
