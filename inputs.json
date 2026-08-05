@@ -6,13 +6,13 @@
   },
   {
     "source": "hn",
-    "url": "https://earendil.com/posts/pi-autoresearch-and-databricks/",
-    "title": "Pi's Minimalism Is Its Advantage"
+    "url": "https://unsung.aresluna.org/gravity-is-worth-asking-about/",
+    "title": "“Gravity is worth asking about”"
   },
   {
     "source": "hn",
-    "url": "https://unsung.aresluna.org/gravity-is-worth-asking-about/",
-    "title": "\"Gravity is worth asking about.\""
+    "url": "https://earendil.com/posts/pi-autoresearch-and-databricks/",
+    "title": "Pi's Minimalism Is Its Advantage"
   },
   {
     "source": "hn",
@@ -21,8 +21,8 @@
   },
   {
     "source": "hn",
-    "url": "https://rioterm.com/blog/2026/07/27/rio-vt-and-librio",
-    "title": "Rio-vt and librio: Rio's terminal engine, now embeddable"
+    "url": "https://www.thehopkinthomasproject.com/TheHopkinThomasProject/TimeLine/Wales/Steam/URochesterCollection/Hero/index-2.html",
+    "title": "The Pneumatics of Hero of Alexandria"
   },
   {
     "source": "hn",
@@ -36,13 +36,13 @@
   },
   {
     "source": "hn",
-    "url": "https://www.thehopkinthomasproject.com/TheHopkinThomasProject/TimeLine/Wales/Steam/URochesterCollection/Hero/index-2.html",
-    "title": "The Pneumatics of Hero of Alexandria"
+    "url": "https://rioterm.com/blog/2026/07/27/rio-vt-and-librio",
+    "title": "Rio-vt and librio: Rio's terminal engine, now embeddable"
   },
   {
     "source": "hn",
-    "url": "https://blog.hartwork.org/posts/libexpat-city-of-munich-open-source-sabbatical/",
-    "title": "libexpat now funded by the City of Munich for up to 6 months"
+    "url": "https://seg6.space/posts/center-div/",
+    "title": "We finally learned to center a div, then browsers added sidebars"
   },
   {
     "source": "hn",
@@ -51,8 +51,8 @@
   },
   {
     "source": "hn",
-    "url": "https://seg6.space/posts/center-div/",
-    "title": "We finally learned to center a div, then browsers added sidebars"
+    "url": "https://blog.hartwork.org/posts/libexpat-city-of-munich-open-source-sabbatical/",
+    "title": "libexpat now funded by the City of Munich for up to 6 months"
   },
   {
     "source": "hn",
@@ -66,13 +66,23 @@
   },
   {
     "source": "hn",
-    "url": "https://blog.rust-lang.org/inside-rust/2026/08/05/rust-langrust-is-adopting-an-llm-policy/",
-    "title": "Rust-lang/rust is adopting an LLM policy"
+    "url": "https://www.godox.com/product-e/C100.html",
+    "title": "Godox Transparent Viewfinder Camera C100"
   },
   {
     "source": "hn",
     "url": "https://birchtree.me/blog/xbox-goes-down-you-cant-play-games-you-own-on-disc/",
     "title": "Xbox goes down. You can't play games you own on disc"
+  },
+  {
+    "source": "hn",
+    "url": "https://lawrencecpaulson.github.io//2026/07/30/Collatz.html",
+    "title": "Why is it all in the kernel?"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://blog.rust-lang.org/inside-rust/2026/08/05/rust-langrust-is-adopting-an-llm-policy/",
+    "title": "rust-lang/rust is adopting an LLM policy"
   },
   {
     "source": "lobsters",
@@ -81,13 +91,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://blog.rust-lang.org/2026/08/04/enabling-polonius-alpha-on-nighty/",
-    "title": "Enabling the next iteration of the borrow checker on nightly"
+    "url": "https://blog.fogus.me/llm/born-against.html",
+    "title": "Born Against, or why hobby programming communities are aggressively against LLM usage"
   },
   {
     "source": "lobsters",
-    "url": "https://blog.fogus.me/llm/born-against.html",
-    "title": "Born Against, or why hobby programming communities are aggressively against LLM usage"
+    "url": "https://blog.rust-lang.org/2026/08/04/enabling-polonius-alpha-on-nighty/",
+    "title": "Enabling the next iteration of the borrow checker on nightly"
   },
   {
     "source": "lobsters",
@@ -101,6 +111,11 @@
   },
   {
     "source": "lobsters",
+    "url": "https://www.chiply.dev/post-elisp-macros-are-beautiful",
+    "title": "Gödel, Escher, Elisp: The Beauty of Macros"
+  },
+  {
+    "source": "lobsters",
     "url": "https://borrowsanitizer.com/",
     "title": "BorrowSanitizer"
   },
@@ -111,23 +126,18 @@
   },
   {
     "source": "lobsters",
-    "url": "https://www.chiply.dev/post-elisp-macros-are-beautiful",
-    "title": "Gödel, Escher, Elisp: The Beauty of Macros"
-  },
-  {
-    "source": "lobsters",
     "url": "https://blog.haskell.org/revised-haskell-2010-report/",
     "title": "A Revised Haskell 2010 Language Report"
   },
   {
     "source": "lobsters",
-    "url": "https://pandoc.org/twenty-years-of-pandoc.html",
-    "title": "Twenty Years of Pandoc"
+    "url": "https://blog.drakulix.de/taming-the-steam-arm64-client-on-pmos/",
+    "title": "Taming the Steam arm64 client (on pmOS)"
   },
   {
     "source": "lobsters",
-    "url": "https://blog.drakulix.de/taming-the-steam-arm64-client-on-pmos/",
-    "title": "Taming the Steam arm64 client (on pmOS)"
+    "url": "https://pandoc.org/twenty-years-of-pandoc.html",
+    "title": "Twenty Years of Pandoc"
   },
   {
     "source": "lobsters",
