@@ -1,8 +1,38 @@
 [
   {
     "source": "hn",
+    "url": "https://www.theregister.com/systems/2026/08/06/amd-acquires-ai-chip-startup-taalas-to-boost-inference-performance-by-etching-models-into-silicon/5284344",
+    "title": "AMD acquires Taalas to boost inference performance by etching models in silicon"
+  },
+  {
+    "source": "hn",
     "url": "https://www.mayerowitz.io/blog/mario-meets-pareto",
     "title": "Mario Meets Pareto"
+  },
+  {
+    "source": "hn",
+    "url": "https://provenmetal.com",
+    "title": "Launch HN: ProvenMetal (YC S26) delivers circuit boards in days instead of weeks"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.aleksagordic.com/blog/vllm",
+    "title": "Inside vLLM: Anatomy of a High-Throughput LLM Inference System (2025)"
+  },
+  {
+    "source": "hn",
+    "url": "https://blog.sydorets.com/en/posts/almost-no-skill-required-to-cook-a-steak/",
+    "title": "Almost no skill required to cook a steak"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.githubstatus.com/incidents/qcvjkzcs7j74",
+    "title": "GitHub Actions and Pages are experiencing degraded availability"
+  },
+  {
+    "source": "hn",
+    "url": "https://blog.janestreet.com/can-you-reverse-engineer-an-asic/",
+    "title": "Can you reverse engineer an ASIC?"
   },
   {
     "source": "hn",
@@ -11,8 +41,8 @@
   },
   {
     "source": "hn",
-    "url": "https://www.sciencedaily.com/releases/2026/07/260729051515.htm",
-    "title": "Tiny Black Holes May Be Exploding Stars Across the Milky Way"
+    "url": "https://laurentiugabriel.github.io/ChipTycoon/",
+    "title": "Learn how chips are made with this Rollercoaster Tycoon-inspired animation"
   },
   {
     "source": "hn",
@@ -21,78 +51,28 @@
   },
   {
     "source": "hn",
+    "url": "https://danielmangum.com/posts/integrated-timing-belt-loopback-fastener/",
+    "title": "The simple elegance of the integrated timing belt loopback fastener"
+  },
+  {
+    "source": "hn",
+    "url": "https://artificialanalysis.ai/?intelligence=agentic-index",
+    "title": "Qwen3.8 Max now ranked as the best overall model by agentic index"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.rafa.ee/articles/progressive-enhanced-forms-htmx/",
+    "title": "Building Progressively Enhanced Forms Using htmx"
+  },
+  {
+    "source": "hn",
     "url": "https://en.wikipedia.org/wiki/Pareto_front",
     "title": "Pareto Front"
   },
   {
     "source": "hn",
-    "url": "https://www.discoveryloop.com/",
-    "title": "Discovery Loop"
-  },
-  {
-    "source": "hn",
-    "url": "https://platform.deepseek.com/usage",
-    "title": "DeepSeek planning to significantly raise prices"
-  },
-  {
-    "source": "hn",
-    "url": "https://blog.google/company-news/inside-google/message-ceo/next-chapter-ai-momentum/",
-    "title": "Changes at Google DeepMind: Demis Hassabis from CEO to Chair, Jeff Dean departs"
-  },
-  {
-    "source": "hn",
-    "url": "https://randsinrepose.com/archives/blade-runner-title-cards/",
-    "title": "The title cards in Blade Runner are amazing"
-  },
-  {
-    "source": "hn",
-    "url": "https://geosona.com/demake/",
-    "title": "Show HN: demake – one source project compiles to any retro game console ROM"
-  },
-  {
-    "source": "hn",
-    "url": "https://research.meta.ai/blog/introducing-muse-code-and-muse-spark-1-2",
-    "title": "Muse Code and Muse Spark 1.2"
-  },
-  {
-    "source": "hn",
-    "url": "https://neon.com/blog/how-castform-neon-beats-frontier-models-on-price-and-efficiency",
-    "title": "Beating GPT-5.6 Sol on retrieval with 100x cheaper open models"
-  },
-  {
-    "source": "hn",
-    "url": "https://blog.fogus.me/llm/born-against.html",
-    "title": "Born Against, or why hobby programming communities are against LLM usage"
-  },
-  {
-    "source": "hn",
-    "url": "https://nanochess.org/the_am29000_computer.html",
-    "title": "Unearthing my 1996 windowed OS in machine code for Am29000 homebrew computer"
-  },
-  {
-    "source": "hn",
-    "url": "https://blog.cloudflare.com/cloudflare-os/",
-    "title": "Cloudflare OS: an open platform for agents, apps, and work"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.primeintellect.ai/blog/prime-agent",
-    "title": "Prime Agent: A self-improving RLM agent"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.takram.com/projects/a-single-room-with-a-single-book-morioka-shoten",
-    "title": "Morioka Shoten"
-  },
-  {
-    "source": "hn",
-    "url": "https://quantego.org/",
-    "title": "Quantego: A Family of Lego Models of IBM Quantum Computers"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.promptarmor.com/resources/atlassian-rovo-exfiltrates-data",
-    "title": "Atlassian Rovo Exfiltrates Data, Bypassing Controls"
+    "url": "https://www.sciencedaily.com/releases/2026/08/260803080917.htm",
+    "title": "Bioengineered chewing gum may offer a way to fight microbes linked to cancers"
   },
   {
     "source": "lobsters",
@@ -101,8 +81,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://bruceediger.com/posts/offensive-machine/",
-    "title": "Offensive Internet Posture"
+    "url": "https://matklad.github.io/2026/08/06/neat-io-threaded.html",
+    "title": "Zig's Io.Threaded is Neat"
   },
   {
     "source": "lobsters",
@@ -111,18 +91,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://blog.rust-lang.org/inside-rust/2026/08/05/rust-langrust-is-adopting-an-llm-policy/",
-    "title": "rust-lang/rust is adopting an LLM policy"
-  },
-  {
-    "source": "lobsters",
     "url": "https://bozo.httpd.rocks/",
     "title": "Setup a simple web server with bozohttpd on NetBSD"
   },
   {
     "source": "lobsters",
-    "url": "https://sightlessscribbles.com/disability-dongle/",
-    "title": "The \"Disability Dongle\": Why Silicon Valley Hates Me and you"
+    "url": "https://bruceediger.com/posts/offensive-machine/",
+    "title": "Offensive Internet Posture"
   },
   {
     "source": "lobsters",
@@ -131,18 +106,18 @@
   },
   {
     "source": "lobsters",
-    "url": "https://build2.org/blog/faster-than-ninja.xhtml",
-    "title": "Faster Than Ninja"
+    "url": "https://fzakaria.com/2026/08/05/super-mario-derivations",
+    "title": "Super Mario Derivations"
   },
   {
     "source": "lobsters",
-    "url": "https://benjcal.space/blog/i-built-a-blog-and-forgot-to-write/",
-    "title": "I Built a Blog and Forgot to Write"
+    "url": "https://celld.dev/",
+    "title": "celld — Durable Objects, self-hosted"
   },
   {
     "source": "lobsters",
-    "url": "https://www.allthingsdistributed.com/2026/08/on-building-scalable-control-planes.html",
-    "title": "On building scalable control planes"
+    "url": "https://blog.rust-lang.org/inside-rust/2026/08/05/rust-langrust-is-adopting-an-llm-policy/",
+    "title": "rust-lang/rust is adopting an LLM policy"
   },
   {
     "source": "lobsters",
@@ -151,32 +126,17 @@
   },
   {
     "source": "lobsters",
-    "url": "https://streamhpc.com/blog/2026-08-05/the-luajit-nyi-that-silently-poisoned-an-unrelated-hot-loop/",
-    "title": "The LuaJIT NYI That Silently Poisoned an Unrelated Hot Loop"
+    "url": "https://sightlessscribbles.com/disability-dongle/",
+    "title": "The \"Disability Dongle\": Why Silicon Valley Hates Me and you"
   },
   {
     "source": "lobsters",
-    "url": "https://linuxgizmos.com/comu-fits-a-144mhz-ch32v203-risc-v-board-inside-a-usb-a-port/",
-    "title": "Comu Fits a 144MHz CH32V203 RISC-V Board Inside a USB-A Port"
+    "url": "https://crubit.rs",
+    "title": "Crubit, C++/Rust Bidirectional Interop Tool"
   },
   {
     "source": "lobsters",
-    "url": "https://jezenthomas.com/2026/07/nix-overrides-that-expire-themselves/",
-    "title": "Nix Overrides That Expire Themselves"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://yogthos.net/posts/2026-08-03-splat-painter.html",
-    "title": "Painting with Gaussians"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://www.sandordargo.com/blog/2026/08/05/cpp26-embed",
-    "title": "C++26: #embed"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://textslashplain.com/2026/08/05/fiddler-in-2026/",
-    "title": "Fiddler Web Debugger in 2026"
+    "url": "https://benjcal.space/blog/i-built-a-blog-and-forgot-to-write/",
+    "title": "I Built a Blog and Forgot to Write"
   }
 ]
