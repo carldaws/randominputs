@@ -1,13 +1,23 @@
 [
   {
     "source": "hn",
-    "url": "https://phoboslab.org/log/2026/08/xibalba64-making-of",
-    "title": "How to Make a Nintendo 64 Game in 2026"
+    "url": "https://www.mayerowitz.io/blog/mario-meets-pareto",
+    "title": "Mario Meets Pareto"
   },
   {
     "source": "hn",
-    "url": "https://www.mayerowitz.io/blog/mario-meets-pareto",
-    "title": "Mario Meets Pareto"
+    "url": "https://scalex.dev/blog/ai-agent-permissions-stats/",
+    "title": "Humans missed 1 in 3 threats approving AI agent commands across 40k game runs"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.sciencedaily.com/releases/2026/07/260729051515.htm",
+    "title": "Tiny Black Holes May Be Exploding Stars Across the Milky Way"
+  },
+  {
+    "source": "hn",
+    "url": "https://phoboslab.org/log/2026/08/xibalba64-making-of",
+    "title": "How to Make a Nintendo 64 Game in 2026"
   },
   {
     "source": "hn",
@@ -21,6 +31,11 @@
   },
   {
     "source": "hn",
+    "url": "https://platform.deepseek.com/usage",
+    "title": "DeepSeek planning to significantly raise prices"
+  },
+  {
+    "source": "hn",
     "url": "https://blog.google/company-news/inside-google/message-ceo/next-chapter-ai-momentum/",
     "title": "Changes at Google DeepMind: Demis Hassabis from CEO to Chair, Jeff Dean departs"
   },
@@ -28,6 +43,11 @@
     "source": "hn",
     "url": "https://randsinrepose.com/archives/blade-runner-title-cards/",
     "title": "The title cards in Blade Runner are amazing"
+  },
+  {
+    "source": "hn",
+    "url": "https://geosona.com/demake/",
+    "title": "Show HN: demake – one source project compiles to any retro game console ROM"
   },
   {
     "source": "hn",
@@ -46,13 +66,13 @@
   },
   {
     "source": "hn",
-    "url": "https://blog.cloudflare.com/cloudflare-os/",
-    "title": "Cloudflare OS: an open platform for agents, apps, and work"
+    "url": "https://nanochess.org/the_am29000_computer.html",
+    "title": "Unearthing my 1996 windowed OS in machine code for Am29000 homebrew computer"
   },
   {
     "source": "hn",
-    "url": "https://blog.gingerbeardman.com/2026/08/06/lets-all-meet-up-in-the-y2k/",
-    "title": "Let's all meet up in the Y2K"
+    "url": "https://blog.cloudflare.com/cloudflare-os/",
+    "title": "Cloudflare OS: an open platform for agents, apps, and work"
   },
   {
     "source": "hn",
@@ -61,8 +81,8 @@
   },
   {
     "source": "hn",
-    "url": "https://nanochess.org/the_am29000_computer.html",
-    "title": "Unearthing my 1996 windowed OS in machine code for Am29000 homebrew computer"
+    "url": "https://www.takram.com/projects/a-single-room-with-a-single-book-morioka-shoten",
+    "title": "Morioka Shoten"
   },
   {
     "source": "hn",
@@ -75,34 +95,9 @@
     "title": "Atlassian Rovo Exfiltrates Data, Bypassing Controls"
   },
   {
-    "source": "hn",
-    "url": "https://www.takram.com/projects/a-single-room-with-a-single-book-morioka-shoten",
-    "title": "Morioka Shoten"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.hyperprobe.co",
-    "title": "Launch HN: HyperProbe (YC S26) – Agents that do read-only debugging in prod"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.costar.com/article/970809918/nashville-council-approves-eminent-domain-action-to-halt-data-center-project",
-    "title": "Nashville uses eminent domain to block data center near zoo"
-  },
-  {
-    "source": "hn",
-    "url": "https://runarcn.no/android-to-linux/",
-    "title": "I'm switching my phone from Android to Linux"
-  },
-  {
-    "source": "hn",
-    "url": "https://buttondown.com/blog/what-i-love-about-django",
-    "title": "What I love about Django"
-  },
-  {
     "source": "lobsters",
-    "url": "https://blog.rust-lang.org/inside-rust/2026/08/05/rust-langrust-is-adopting-an-llm-policy/",
-    "title": "rust-lang/rust is adopting an LLM policy"
+    "url": "https://bobdahacker.com/blog/tldv-hack",
+    "title": "tl;dv (Too Lazy; Didn't Validate): 181,874 Meetings Left Wide Open"
   },
   {
     "source": "lobsters",
@@ -111,8 +106,18 @@
   },
   {
     "source": "lobsters",
-    "url": "https://bobdahacker.com/blog/tldv-hack",
-    "title": "tl;dv (Too Lazy; Didn't Validate): 181,874 Meetings Left Wide Open"
+    "url": "https://sebsite.pw/w/20260806-pystrings.html",
+    "title": "python string literals are kinda funny"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://blog.rust-lang.org/inside-rust/2026/08/05/rust-langrust-is-adopting-an-llm-policy/",
+    "title": "rust-lang/rust is adopting an LLM policy"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://bozo.httpd.rocks/",
+    "title": "Setup a simple web server with bozohttpd on NetBSD"
   },
   {
     "source": "lobsters",
@@ -123,11 +128,6 @@
     "source": "lobsters",
     "url": "https://epage.github.io/blog/2026/08/cargo-vision/",
     "title": "A Vision for Cargo"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://sebsite.pw/w/20260806-pystrings.html",
-    "title": "python string literals are kinda funny"
   },
   {
     "source": "lobsters",
@@ -146,16 +146,6 @@
   },
   {
     "source": "lobsters",
-    "url": "https://yogthos.net/posts/2026-08-03-splat-painter.html",
-    "title": "Painting with Gaussians"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://jezenthomas.com/2026/07/nix-overrides-that-expire-themselves/",
-    "title": "Nix Overrides That Expire Themselves"
-  },
-  {
-    "source": "lobsters",
     "url": "https://futhark-lang.org/blog/2026-08-05-recursion.html",
     "title": "Finally adding recursive functions to Futhark"
   },
@@ -166,27 +156,27 @@
   },
   {
     "source": "lobsters",
+    "url": "https://linuxgizmos.com/comu-fits-a-144mhz-ch32v203-risc-v-board-inside-a-usb-a-port/",
+    "title": "Comu Fits a 144MHz CH32V203 RISC-V Board Inside a USB-A Port"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://jezenthomas.com/2026/07/nix-overrides-that-expire-themselves/",
+    "title": "Nix Overrides That Expire Themselves"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://yogthos.net/posts/2026-08-03-splat-painter.html",
+    "title": "Painting with Gaussians"
+  },
+  {
+    "source": "lobsters",
     "url": "https://www.sandordargo.com/blog/2026/08/05/cpp26-embed",
     "title": "C++26: #embed"
   },
   {
     "source": "lobsters",
-    "url": "https://bozo.httpd.rocks/",
-    "title": "Setup a simple web server with bozohttpd on NetBSD"
-  },
-  {
-    "source": "lobsters",
     "url": "https://textslashplain.com/2026/08/05/fiddler-in-2026/",
     "title": "Fiddler Web Debugger in 2026"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://textslashplain.com/2026/08/04/security-is-hard-yall/",
-    "title": "Security is Hard, Y’all"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://linuxgizmos.com/comu-fits-a-144mhz-ch32v203-risc-v-board-inside-a-usb-a-port/",
-    "title": "Comu Fits a 144MHz CH32V203 RISC-V Board Inside a USB-A Port"
   }
 ]
