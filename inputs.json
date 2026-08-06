@@ -1,11 +1,6 @@
 [
   {
     "source": "hn",
-    "url": "https://www.costar.com/article/970809918/nashville-council-approves-eminent-domain-action-to-halt-data-center-project",
-    "title": "Nashville uses eminent domain to block data center near zoo"
-  },
-  {
-    "source": "hn",
     "url": "https://www.discoveryloop.com/",
     "title": "Discovery Loop"
   },
@@ -13,6 +8,11 @@
     "source": "hn",
     "url": "https://blog.google/company-news/inside-google/message-ceo/next-chapter-ai-momentum/",
     "title": "Changes at Google DeepMind: Demis Hassabis from CEO to Chair, Jeff Dean departs"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.costar.com/article/970809918/nashville-council-approves-eminent-domain-action-to-halt-data-center-project",
+    "title": "Nashville uses eminent domain to block data center near zoo"
   },
   {
     "source": "hn",
@@ -31,8 +31,8 @@
   },
   {
     "source": "hn",
-    "url": "https://blog.fogus.me/llm/born-against.html",
-    "title": "Born Against, or why hobby programming communities are against LLM usage"
+    "url": "https://quantego.org/",
+    "title": "Quantego: A Family of Lego Models of IBM Quantum Computers"
   },
   {
     "source": "hn",
@@ -41,8 +41,18 @@
   },
   {
     "source": "hn",
+    "url": "https://blog.fogus.me/llm/born-against.html",
+    "title": "Born Against, or why hobby programming communities are against LLM usage"
+  },
+  {
+    "source": "hn",
     "url": "https://blog.cloudflare.com/cloudflare-os/",
     "title": "Cloudflare OS: an open platform for agents, apps, and work"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.hyperprobe.co",
+    "title": "Launch HN: HyperProbe (YC S26) – Agents that do read-only debugging in prod"
   },
   {
     "source": "hn",
@@ -56,88 +66,8 @@
   },
   {
     "source": "hn",
-    "url": "https://quantego.org/",
-    "title": "Quantego: A Family of Lego Models of IBM Quantum Computers"
-  },
-  {
-    "source": "hn",
-    "url": "https://shuklaayu.sh/blog/riscv-recompiler",
-    "title": "Pushing the limits of RISC-V emulation"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.hyperprobe.co",
-    "title": "Launch HN: HyperProbe (YC S26) – Agents that do read-only debugging in prod"
-  },
-  {
-    "source": "hn",
-    "url": "https://nicolo.xyz/something-is-changing-in-the-unit-economics-of-software/",
-    "title": "Something is changing in the unit economics of software"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://blog.rust-lang.org/inside-rust/2026/08/05/rust-langrust-is-adopting-an-llm-policy/",
-    "title": "rust-lang/rust is adopting an LLM policy"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://bruceediger.com/posts/offensive-machine/",
-    "title": "Offensive Internet Posture"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://build2.org/blog/faster-than-ninja.xhtml",
-    "title": "Faster Than Ninja"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://sightlessscribbles.com/disability-dongle/",
-    "title": "The \"Disability Dongle\": Why Silicon Valley Hates Me and you"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://epage.github.io/blog/2026/08/cargo-vision/",
-    "title": "A Vision for Cargo"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://jezenthomas.com/2026/07/nix-overrides-that-expire-themselves/",
-    "title": "Nix Overrides That Expire Themselves"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://yogthos.net/posts/2026-08-03-splat-painter.html",
-    "title": "Painting with Gaussians"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://benjcal.space/blog/i-built-a-blog-and-forgot-to-write/",
-    "title": "I Built a Blog and Forgot to Write"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://textslashplain.com/2026/08/04/security-is-hard-yall/",
-    "title": "Security is Hard, Y’all"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://www.sandordargo.com/blog/2026/08/05/cpp26-embed",
-    "title": "C++26: #embed"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://blog.rust-lang.org/2026/08/04/enabling-polonius-alpha-on-nighty/",
-    "title": "Enabling the next iteration of the borrow checker on nightly"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://seg6.space/posts/center-div/",
-    "title": "we finally learned to center a div, then browsers added sidebars"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://www.jeffgeerling.com/blog/2026/proxmox-ve-arm-official/",
-    "title": "Proxmox officially supports Arm, with some caveats"
+    "url": "https://fgiesen.wordpress.com/2026/08/03/ryg_rans-is-not-a-library/",
+    "title": "Ryg_rans Is Not a Library"
   },
   {
     "source": "lobsters",
@@ -145,98 +75,48 @@
     "title": "How Compiler Explorer Runs on AWS in 2026"
   },
   {
-    "source": "pinboard",
-    "url": "https://www.seangoedecke.com/llms-reward-expertise/",
-    "title": "LLMs reward expertise"
+    "source": "lobsters",
+    "url": "https://futhark-lang.org/blog/2026-08-05-recursion.html",
+    "title": "Finally adding recursive functions to Futhark"
   },
   {
-    "source": "pinboard",
-    "url": "https://readingmaps.com/",
-    "title": "Maps & Travel Routes from Books & Films"
+    "source": "lobsters",
+    "url": "https://blog.jle.im/entry/five-point-haskell-part-2-unconditional-election.html",
+    "title": "\"Five-Point Haskell\": Unconditional Election via Parametricity"
   },
   {
-    "source": "pinboard",
-    "url": "https://darkhours.io/",
-    "title": "Dark Hours, what's actually visible in your sky tonight"
+    "source": "lobsters",
+    "url": "https://jackdanger.com/infrastructure-gravity/",
+    "title": "Infrastructure Gravity & Domain Engineering"
   },
   {
-    "source": "pinboard",
-    "url": "https://gruhn.me/blog/2026-08-03/",
-    "title": "Don't be a meat proxy"
+    "source": "lobsters",
+    "url": "https://www.chiply.dev/post-elisp-macros-are-beautiful",
+    "title": "Gödel, Escher, Elisp: The Beauty of Macros"
   },
   {
-    "source": "pinboard",
-    "url": "https://foldingglobes.com/globes",
-    "title": "Free Printable Paper Globes — Folding Paper Globes"
+    "source": "lobsters",
+    "url": "https://soppolang.dev/",
+    "title": "Soppo - Go, with the features it's missing"
   },
   {
-    "source": "pinboard",
-    "url": "https://www.schneier.com/blog/archives/2026/07/should-you-use-ai-for-a-task-heres-a-simple-way-to-decide.html",
-    "title": "Should You Use AI for a Task? Here’s a Simple Way to Decide - Schneier on Security"
+    "source": "lobsters",
+    "url": "https://blog.archive.org/2026/08/04/internet-archive-to-new-york-dont-kill-the-good-bots-in-the-fight-against-bad-bots/",
+    "title": "Internet Archive to New York: Don’t Kill the Good Bots in the Fight Against Bad Bots"
   },
   {
-    "source": "pinboard",
-    "url": "https://pandoc.org/twenty-years-of-pandoc.html",
-    "title": "Pandoc - twenty-years-of-pandoc"
+    "source": "lobsters",
+    "url": "https://join.piefed.social/2026/08/04/anti-fascist-piefed-features/",
+    "title": "Anti-fascist PieFed features"
   },
   {
-    "source": "pinboard",
-    "url": "https://terminalwidget.app/",
-    "title": "TerminalWidget for Mac, iPhone, and iPad | Terminal Widget"
+    "source": "lobsters",
+    "url": "https://fzakaria.com/2026/07/30/the-nix-sandbox-is-a-hidden-input",
+    "title": "The Nix sandbox is a hidden input"
   },
   {
-    "source": "pinboard",
-    "url": "https://www.librarian.net/NoToAI/",
-    "title": "Removing Intrusive AI from stuff – librarian.net"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://lilianweng.github.io/posts/2026-07-04-harness/",
-    "title": "Harness Engineering for Self-Improvement | Lil'Log"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://unattributed.cc/note-taking-and-personal-knowledge-management",
-    "title": "Note-Taking and Personal Knowledge Management — Unattributed"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://blog.exe.dev/devtools-must-be-open-source",
-    "title": "Devtools must be open source - exe.dev blog"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://earendil.com/posts/pi-autoresearch-and-databricks/",
-    "title": "pi, minimal and performant | earendil"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://leodemoura.github.io/blog/2026-8-1-postmortem-for-kernel-soundness-bug-14576/",
-    "title": "Postmortem for Kernel Soundness Bug #14576 — Leonardo de Moura"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://animeuserinterface.tumblr.com/",
-    "title": "Anime User Interfaces"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://chrismorgan.info/atom%3Erss",
-    "title": "Atom is better than RSS, in ways that matter — Chris Morgan"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://sheets.works/data-viz/keyboard-sounds",
-    "title": "The Listening Museum"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://qwen.ai/blog?id=qwen3.8",
-    "title": "Qwen3.8-Max Blog"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://john.fun/elevators",
-    "title": "Elevators"
+    "source": "lobsters",
+    "url": "https://data4sci.com/blog/building-an-advanced-agentic-harness",
+    "title": "Building an Advanced Agentic Harness"
   }
 ]
