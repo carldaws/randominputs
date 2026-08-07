@@ -6,13 +6,28 @@
   },
   {
     "source": "hn",
-    "url": "https://nso.edu/press-release/nsf-inouye-solar-telescope-enables-major-discovery-of-a-hidden-solar-process/",
-    "title": "Scientists discover Kelvin-Helmholtz Instability on the surface of the Sun"
+    "url": "https://blog.cloudflare.com/kitesurf/",
+    "title": "Kitesurf: Agent-first browser that runs in V8 isolates"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.typestax.com/",
+    "title": "TypeStax: A type scale generator with vintage audio hardware interface"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.wsj.com/economy/jobs/july-jobs-report-unemployment-0d7c08a7",
+    "title": "U.S. Lost 23,000 Jobs in July, While Unemployment Ticked Lower"
   },
   {
     "source": "hn",
     "url": "https://www.sciencedaily.com/releases/2026/08/260803080917.htm",
     "title": "Bioengineered chewing gum may offer a way to fight HPV and other microbes"
+  },
+  {
+    "source": "hn",
+    "url": "https://nso.edu/press-release/nsf-inouye-solar-telescope-enables-major-discovery-of-a-hidden-solar-process/",
+    "title": "Scientists discover Kelvin-Helmholtz Instability on the surface of the Sun"
   },
   {
     "source": "hn",
@@ -26,21 +41,6 @@
   },
   {
     "source": "hn",
-    "url": "https://mht.wtf/post/jevons/",
-    "title": "Reverse Jevons Paradox"
-  },
-  {
-    "source": "hn",
-    "url": "https://scalex.dev/blog/ai-agent-permissions-stats/",
-    "title": "Humans missed 1 in 3 threats approving AI agent commands across 40k game runs"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.typestax.com/",
-    "title": "TypeStax: A type scale generator with vintage audio hardware interface"
-  },
-  {
-    "source": "hn",
     "url": "https://www.leadedsolder.com/2026/07/28/bbc-bridge-companion-part-1-overview.html",
     "title": "The BBC Tetris Companion"
   },
@@ -51,8 +51,8 @@
   },
   {
     "source": "hn",
-    "url": "https://www.currentaffairs.org/news/the-massive-climate-lie-that-will-destroy-human-civilization",
-    "title": "The Gargantuan Lie That Is Collapsing the Climate"
+    "url": "https://text.npr.org/nx-s1-5922530",
+    "title": "Kalshi and Polymarket bets on clinical trials criticized as 'ghastly'"
   },
   {
     "source": "hn",
@@ -61,8 +61,8 @@
   },
   {
     "source": "hn",
-    "url": "https://www.aleksagordic.com/blog/vllm",
-    "title": "Inside vLLM: Anatomy of a High-Throughput LLM Inference System (2025)"
+    "url": "https://malisper.me/how-we-made-postgres-hundreds-of-times-faster-the-query-engine/",
+    "title": "Making Postgres 300x faster for analytics: batching, operator fusion, and SIMD"
   },
   {
     "source": "lobsters",
@@ -86,18 +86,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://trevmex.com/post/824245295374303232/my-son-found-a-world-atlas-in-a-thrift-store-so-i",
-    "title": "I got a 1998 CD-ROM world atlas running on Windows 11"
-  },
-  {
-    "source": "lobsters",
     "url": "https://zayenz.se/blog/post/constraint-generated-puzzle-games/",
     "title": "From constraint models to playable puzzle games"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://fzakaria.com/2026/08/05/super-mario-derivations",
-    "title": "Super Mario Derivations"
   },
   {
     "source": "lobsters",
@@ -106,8 +96,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://blog.cloudflare.com/kitesurf/",
-    "title": "Introducing Kitesurf: The agent-first browser that runs in V8 isolates on Cloudflare Workers"
+    "url": "https://trevmex.com/post/824245295374303232/my-son-found-a-world-atlas-in-a-thrift-store-so-i",
+    "title": "I got a 1998 CD-ROM world atlas running on Windows 11"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://fzakaria.com/2026/08/05/super-mario-derivations",
+    "title": "Super Mario Derivations"
   },
   {
     "source": "lobsters",
@@ -116,13 +111,18 @@
   },
   {
     "source": "lobsters",
-    "url": "https://sebsite.pw/w/20260806-pystrings.html",
-    "title": "python string literals are kinda funny"
+    "url": "https://blog.dundns.eu/posts/ddr-encrypted-dns-discovery/",
+    "title": "How a device finds encrypted DNS by itself"
   },
   {
     "source": "lobsters",
     "url": "https://celld.dev/",
     "title": "celld — Durable Objects, self-hosted"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://sebsite.pw/w/20260806-pystrings.html",
+    "title": "python string literals are kinda funny"
   },
   {
     "source": "lobsters",
