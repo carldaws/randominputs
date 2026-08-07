@@ -6,11 +6,6 @@
   },
   {
     "source": "hn",
-    "url": "https://www.mayerowitz.io/blog/mario-meets-pareto",
-    "title": "Mario Meets Pareto"
-  },
-  {
-    "source": "hn",
     "url": "https://www.sciencedaily.com/releases/2026/08/260803080917.htm",
     "title": "Bioengineered chewing gum may offer a way to fight HPV and other microbes"
   },
@@ -21,23 +16,28 @@
   },
   {
     "source": "hn",
-    "url": "https://blog.sydorets.com/en/posts/almost-no-skill-required-to-cook-a-steak/",
-    "title": "Almost no skill required to cook a steak"
-  },
-  {
-    "source": "hn",
     "url": "https://provenmetal.com",
     "title": "Launch HN: ProvenMetal (YC S26) delivers circuit boards in days instead of weeks"
   },
   {
     "source": "hn",
-    "url": "https://www.wsj.com/tech/meta-ordered-to-pay-942-million-to-address-harm-to-kids-from-social-media-8ba5aab7",
-    "title": "Meta Ordered to Pay $942M to Address Harm to Kids from Social Media"
+    "url": "https://scalex.dev/blog/ai-agent-permissions-stats/",
+    "title": "Humans missed 1 in 3 threats approving AI agent commands across 40k game runs"
   },
   {
     "source": "hn",
-    "url": "https://scalex.dev/blog/ai-agent-permissions-stats/",
-    "title": "Humans missed 1 in 3 threats approving AI agent commands across 40k game runs"
+    "url": "https://www.mayerowitz.io/blog/mario-meets-pareto",
+    "title": "Mario Meets Pareto"
+  },
+  {
+    "source": "hn",
+    "url": "https://mht.wtf/post/jevons/",
+    "title": "Reverse Jevons Paradox"
+  },
+  {
+    "source": "hn",
+    "url": "https://read-the-water.netlify.app/",
+    "title": "Show HN: A free mini game that makes you a smarter fly fisherperson"
   },
   {
     "source": "hn",
@@ -51,11 +51,6 @@
   },
   {
     "source": "hn",
-    "url": "https://www.futilitycloset.com/2026/07/26/the-sylvester-gallai-theorem/",
-    "title": "The Sylvester–Gallai Theorem"
-  },
-  {
-    "source": "hn",
     "url": "https://danielmangum.com/posts/integrated-timing-belt-loopback-fastener/",
     "title": "The simple elegance of the integrated timing belt loopback fastener"
   },
@@ -66,77 +61,152 @@
   },
   {
     "source": "lobsters",
-    "url": "https://bobdahacker.com/blog/tldv-hack",
-    "title": "tl;dv (Too Lazy; Didn't Validate): 181,874 Meetings Left Wide Open"
+    "url": "https://llogiq.github.io/2018/09/06/fast.html",
+    "title": "Rust Faster SIMD edition"
   },
   {
     "source": "lobsters",
-    "url": "https://matklad.github.io/2026/08/06/neat-io-threaded.html",
-    "title": "Zig's Io.Threaded is Neat"
+    "url": "http://www.drregex.com/2018/09/a-regex-i-submitted-to-reddit-climbed.html",
+    "title": "How to Match \"A B C\" where A+B=C with Regex"
   },
   {
     "source": "lobsters",
-    "url": "https://trevmex.com/post/824245295374303232/my-son-found-a-world-atlas-in-a-thrift-store-so-i",
-    "title": "I got a 1998 CD-ROM world atlas running on Windows 11"
+    "url": "https://www.filfre.net/2018/09/agrippa-a-book-of-the-dead/",
+    "title": "Agrippa (A Book of the Dead)"
   },
   {
     "source": "lobsters",
-    "url": "https://refp.se/articles/your-shell-and-the-lazy-exclamation-mark",
-    "title": "A shell exclamation mark is not for yelling. Be lazy"
+    "url": "http://www.petecorey.com/blog/2018/09/03/using-facades-to-simplify-elixir-modules/",
+    "title": "Using Facades to Simplify Elixir Modules"
   },
   {
     "source": "lobsters",
-    "url": "https://fzakaria.com/2026/08/05/super-mario-derivations",
-    "title": "Super Mario Derivations"
+    "url": "https://vermaden.wordpress.com/2018/09/07/my-freebsd-story/",
+    "title": "My FreeBSD Story"
   },
   {
     "source": "lobsters",
-    "url": "https://bozo.httpd.rocks/",
-    "title": "Setup a simple web server with bozohttpd on NetBSD"
+    "url": "https://nullprogram.com/blog/2018/09/06/",
+    "title": "Brute Force Incognito Browsing"
   },
   {
     "source": "lobsters",
-    "url": "https://sebsite.pw/w/20260806-pystrings.html",
-    "title": "python string literals are kinda funny"
+    "url": "https://githubengineering.com/removing-jquery-from-github-frontend/",
+    "title": "Removing jQuery from GitHub's frontend"
   },
   {
     "source": "lobsters",
-    "url": "https://phoboslab.org/log/2026/08/xibalba64-making-of",
-    "title": "How to Make a Nintendo 64 Game in 2026"
+    "url": "https://manybutfinite.com/post/anatomy-of-a-program-in-memory/",
+    "title": "Anatomy of a Program in Memory (2009)"
   },
   {
     "source": "lobsters",
-    "url": "https://celld.dev/",
-    "title": "celld — Durable Objects, self-hosted"
+    "url": "https://www.ianlewis.org/en/container-runtimes-part-2-anatomy-low-level-contai",
+    "title": "Container Runtimes Part 2: Anatomy of a Low-Level Container Runtime"
   },
   {
     "source": "lobsters",
-    "url": "https://crubit.rs",
-    "title": "Crubit, C++/Rust Bidirectional Interop Tool"
+    "url": "http://memerocket.com/2017/05/25/these-are-not-the-k-combinators-you-are-looking-for",
+    "title": "These Are Not the K Combinators You Are Looking For"
   },
   {
     "source": "lobsters",
-    "url": "https://bruceediger.com/posts/offensive-machine/",
-    "title": "Offensive Internet Posture"
+    "url": "http://confreaks.tv/videos/rustconf2018-integrating-rust-into-tor-successes-and-challenges",
+    "title": "Integrating Rust into Tor: Successes and Challenges"
   },
   {
     "source": "lobsters",
-    "url": "https://epage.github.io/blog/2026/08/cargo-vision/",
-    "title": "A Vision for Cargo"
+    "url": "https://pavpanchekha.com/blog/resistance-1.html",
+    "title": "Solving Resistance"
   },
   {
     "source": "lobsters",
-    "url": "https://taylor.town/leaving-openai",
-    "title": "I'm leaving OpenAI to build Jurassic Park"
+    "url": "https://pdfs.semanticscholar.org/2c11/7c1456eb96bbea19aa3c8b018de4fc9387bc.pdf",
+    "title": "Oberon System  Implemented on a  Low-Cost FPGA Board (2015)"
   },
   {
     "source": "lobsters",
-    "url": "https://futhark-lang.org/blog/2026-08-05-recursion.html",
-    "title": "Finally adding recursive functions to Futhark"
+    "url": "https://npf.io/2018/09/go2-contracts-go-too-far/",
+    "title": "Go2 Contracts Go Too Far"
   },
   {
     "source": "lobsters",
-    "url": "https://blog.rust-lang.org/inside-rust/2026/08/05/rust-langrust-is-adopting-an-llm-policy/",
-    "title": "rust-lang/rust is adopting an LLM policy"
+    "url": "https://www.openbsd.org/papers/fuzz-slides.pdf",
+    "title": "Fuzzing the OpenBSD Kernel"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.schneier.com/blog/archives/2026/07/should-you-use-ai-for-a-task-heres-a-simple-way-to-decide.html",
+    "title": "Should You Use AI for a Task? Here’s a Simple Way to Decide - Schneier on Security"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://earendil.com/posts/pi-autoresearch-and-databricks/",
+    "title": "pi, minimal and performant | earendil"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.seangoedecke.com/llms-reward-expertise/",
+    "title": "LLMs reward expertise"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://readingmaps.com/",
+    "title": "Maps & Travel Routes from Books & Films"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://lilianweng.github.io/posts/2026-07-04-harness/",
+    "title": "Harness Engineering for Self-Improvement | Lil'Log"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://blog.cryptographyengineering.com/2026/07/29/some-notes-about-anthropics-new-results/",
+    "title": "Some thoughts about Anthropic’s new cryptanalysis results – A Few Thoughts on Cryptographic Engineering"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://semi-rad.com/2026/08/do-it-14000-times-slower-with-this-one-trick/",
+    "title": "Do It 14,000 Times Slower With This One Trick – Semi-Rad.com"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://sheets.works/data-viz/keyboard-sounds",
+    "title": "The Listening Museum"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://pandoc.org/twenty-years-of-pandoc.html",
+    "title": "Pandoc - twenty-years-of-pandoc"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://everythingmachine.io/phone/",
+    "title": "The Phone in Your Hand"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.wired.com/story/a-civilian-plane-crashed-in-new-mexico-was-the-militarys-tech-to-blame/",
+    "title": "A Civilian Plane Crashed in New Mexico. Was the Military’s Tech to Blame?"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://gruhn.me/blog/2026-08-03/",
+    "title": "Don't be a meat proxy"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://blog.cloudflare.com/cloudflare-os/",
+    "title": "Cloudflare OS: an open platform for agents, apps, and work | The Cloudflare Blog"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://earendil.com/posts/session-portability/",
+    "title": "The Session You Cannot Take With You | EARENDIL"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://randsinrepose.com/archives/blade-runner-title-cards/",
+    "title": "The Title Cards in Blade Runner Are Fucking Amazing – Rands in Repose"
   }
 ]
