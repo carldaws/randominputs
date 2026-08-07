@@ -6,8 +6,8 @@
   },
   {
     "source": "hn",
-    "url": "https://nso.edu/press-release/nsf-inouye-solar-telescope-enables-major-discovery-of-a-hidden-solar-process/",
-    "title": "Scientists discover Kelvin-Helmholtz Instability on the surface of the Sun"
+    "url": "https://www.wired.com/story/hackers-stalked-me-by-hijacking-a-smartwatch-for-kids/",
+    "title": "Hackers Stalked Me by Hijacking a Smartwatch for Kids"
   },
   {
     "source": "hn",
@@ -16,13 +16,13 @@
   },
   {
     "source": "hn",
-    "url": "https://www.sciencedaily.com/releases/2026/08/260803080917.htm",
-    "title": "Bioengineered chewing gum may offer a way to fight HPV and other microbes"
+    "url": "https://nso.edu/press-release/nsf-inouye-solar-telescope-enables-major-discovery-of-a-hidden-solar-process/",
+    "title": "Scientists discover Kelvin-Helmholtz Instability on the surface of the Sun"
   },
   {
     "source": "hn",
-    "url": "https://www.aleksagordic.com/blog/vllm",
-    "title": "Inside vLLM: Anatomy of a High-Throughput LLM Inference System (2025)"
+    "url": "https://www.sciencedaily.com/releases/2026/08/260803080917.htm",
+    "title": "Bioengineered chewing gum may offer a way to fight HPV and other microbes"
   },
   {
     "source": "hn",
@@ -31,18 +31,18 @@
   },
   {
     "source": "hn",
-    "url": "https://provenmetal.com",
-    "title": "Launch HN: ProvenMetal (YC S26) delivers circuit boards in days instead of weeks"
-  },
-  {
-    "source": "hn",
     "url": "https://www.githubstatus.com/incidents/qcvjkzcs7j74",
     "title": "GitHub Actions and Pages are experiencing degraded availability"
   },
   {
     "source": "hn",
-    "url": "https://www.futilitycloset.com/2026/07/26/the-sylvester-gallai-theorem/",
-    "title": "The Sylvester–Gallai Theorem"
+    "url": "https://provenmetal.com",
+    "title": "Launch HN: ProvenMetal (YC S26) delivers circuit boards in days instead of weeks"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.aleksagordic.com/blog/vllm",
+    "title": "Inside vLLM: Anatomy of a High-Throughput LLM Inference System (2025)"
   },
   {
     "source": "hn",
@@ -56,13 +56,18 @@
   },
   {
     "source": "hn",
+    "url": "https://blog.janestreet.com/can-you-reverse-engineer-an-asic/",
+    "title": "Can you reverse engineer an ASIC?"
+  },
+  {
+    "source": "hn",
     "url": "https://laurentiugabriel.github.io/ChipTycoon/",
     "title": "Learn how chips are made with this Rollercoaster Tycoon-inspired animation"
   },
   {
     "source": "hn",
-    "url": "https://blog.janestreet.com/can-you-reverse-engineer-an-asic/",
-    "title": "Can you reverse engineer an ASIC?"
+    "url": "https://www.futilitycloset.com/2026/07/26/the-sylvester-gallai-theorem/",
+    "title": "The Sylvester–Gallai Theorem"
   },
   {
     "source": "hn",
@@ -80,11 +85,6 @@
     "title": "Building Progressively Enhanced Forms Using htmx"
   },
   {
-    "source": "hn",
-    "url": "https://artificialanalysis.ai/?intelligence=agentic-index",
-    "title": "Qwen3.8 Max now ranked as the best overall model by agentic index"
-  },
-  {
     "source": "lobsters",
     "url": "https://bobdahacker.com/blog/tldv-hack",
     "title": "tl;dv (Too Lazy; Didn't Validate): 181,874 Meetings Left Wide Open"
@@ -96,8 +96,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://sebsite.pw/w/20260806-pystrings.html",
-    "title": "python string literals are kinda funny"
+    "url": "https://trevmex.com/post/824245295374303232/my-son-found-a-world-atlas-in-a-thrift-store-so-i",
+    "title": "I got a 1998 CD-ROM world atlas running on Windows 11"
   },
   {
     "source": "lobsters",
@@ -106,18 +106,23 @@
   },
   {
     "source": "lobsters",
-    "url": "https://trevmex.com/post/824245295374303232/my-son-found-a-world-atlas-in-a-thrift-store-so-i",
-    "title": "I got a 1998 CD-ROM world atlas running on Windows 11"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://phoboslab.org/log/2026/08/xibalba64-making-of",
-    "title": "How to Make a Nintendo 64 Game in 2026"
+    "url": "https://sebsite.pw/w/20260806-pystrings.html",
+    "title": "python string literals are kinda funny"
   },
   {
     "source": "lobsters",
     "url": "https://fzakaria.com/2026/08/05/super-mario-derivations",
     "title": "Super Mario Derivations"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://refp.se/articles/your-shell-and-the-lazy-exclamation-mark",
+    "title": "A shell exclamation mark is not for yelling. Be lazy"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://phoboslab.org/log/2026/08/xibalba64-making-of",
+    "title": "How to Make a Nintendo 64 Game in 2026"
   },
   {
     "source": "lobsters",
@@ -133,6 +138,11 @@
     "source": "lobsters",
     "url": "https://epage.github.io/blog/2026/08/cargo-vision/",
     "title": "A Vision for Cargo"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://crubit.rs",
+    "title": "Crubit, C++/Rust Bidirectional Interop Tool"
   },
   {
     "source": "lobsters",
