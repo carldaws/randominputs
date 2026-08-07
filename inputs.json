@@ -6,13 +6,13 @@
   },
   {
     "source": "hn",
-    "url": "https://bkaradzic.github.io/posts/scanner/",
-    "title": "Parsers don't have to be complicated"
+    "url": "https://www.sciencedaily.com/releases/2026/08/260803080917.htm",
+    "title": "Bioengineered chewing gum may offer a way to fight HPV and other microbes"
   },
   {
     "source": "hn",
-    "url": "https://www.sciencedaily.com/releases/2026/08/260803080917.htm",
-    "title": "Bioengineered chewing gum may offer a way to fight HPV and other microbes"
+    "url": "https://www.currentaffairs.org/news/the-massive-climate-lie-that-will-destroy-human-civilization",
+    "title": "The Gargantuan Lie That Is Collapsing the Climate"
   },
   {
     "source": "hn",
@@ -31,6 +31,11 @@
   },
   {
     "source": "hn",
+    "url": "https://www.leadedsolder.com/2026/07/28/bbc-bridge-companion-part-1-overview.html",
+    "title": "The BBC Tetris Companion"
+  },
+  {
+    "source": "hn",
     "url": "https://scalex.dev/blog/ai-agent-permissions-stats/",
     "title": "Humans missed 1 in 3 threats approving AI agent commands across 40k game runs"
   },
@@ -41,13 +46,13 @@
   },
   {
     "source": "hn",
-    "url": "https://laurentiugabriel.github.io/ChipTycoon/",
-    "title": "Learn how chips are made with this Rollercoaster Tycoon-inspired animation"
+    "url": "https://bkaradzic.github.io/posts/scanner/",
+    "title": "Parsers don't have to be complicated"
   },
   {
     "source": "hn",
-    "url": "https://read-the-water.netlify.app/",
-    "title": "Show HN: A free mini game that makes you a smarter fly fisherperson"
+    "url": "https://laurentiugabriel.github.io/ChipTycoon/",
+    "title": "Learn how chips are made with this Rollercoaster Tycoon-inspired animation"
   },
   {
     "source": "hn",
@@ -61,13 +66,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://matklad.github.io/2026/08/06/neat-io-threaded.html",
-    "title": "Zig's Io.Threaded is Neat"
+    "url": "https://refp.se/articles/your-shell-and-the-lazy-exclamation-mark",
+    "title": "A shell exclamation mark is not for yelling. Be lazy"
   },
   {
     "source": "lobsters",
-    "url": "https://refp.se/articles/your-shell-and-the-lazy-exclamation-mark",
-    "title": "A shell exclamation mark is not for yelling. Be lazy"
+    "url": "https://matklad.github.io/2026/08/06/neat-io-threaded.html",
+    "title": "Zig's Io.Threaded is Neat"
   },
   {
     "source": "lobsters",
@@ -101,6 +106,11 @@
   },
   {
     "source": "lobsters",
+    "url": "https://zayenz.se/blog/post/constraint-generated-puzzle-games/",
+    "title": "From constraint models to playable puzzle games"
+  },
+  {
+    "source": "lobsters",
     "url": "https://sebsite.pw/w/20260806-pystrings.html",
     "title": "python string literals are kinda funny"
   },
@@ -123,80 +133,5 @@
     "source": "lobsters",
     "url": "https://crubit.rs",
     "title": "Crubit, C++/Rust Bidirectional Interop Tool"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.schneier.com/blog/archives/2026/07/should-you-use-ai-for-a-task-heres-a-simple-way-to-decide.html",
-    "title": "Should You Use AI for a Task? Here’s a Simple Way to Decide - Schneier on Security"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://earendil.com/posts/pi-autoresearch-and-databricks/",
-    "title": "pi, minimal and performant | earendil"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.seangoedecke.com/llms-reward-expertise/",
-    "title": "LLMs reward expertise"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://readingmaps.com/",
-    "title": "Maps & Travel Routes from Books & Films"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://lilianweng.github.io/posts/2026-07-04-harness/",
-    "title": "Harness Engineering for Self-Improvement | Lil'Log"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://blog.cryptographyengineering.com/2026/07/29/some-notes-about-anthropics-new-results/",
-    "title": "Some thoughts about Anthropic’s new cryptanalysis results – A Few Thoughts on Cryptographic Engineering"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://semi-rad.com/2026/08/do-it-14000-times-slower-with-this-one-trick/",
-    "title": "Do It 14,000 Times Slower With This One Trick – Semi-Rad.com"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://sheets.works/data-viz/keyboard-sounds",
-    "title": "The Listening Museum"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://pandoc.org/twenty-years-of-pandoc.html",
-    "title": "Pandoc - twenty-years-of-pandoc"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://everythingmachine.io/phone/",
-    "title": "The Phone in Your Hand"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.wired.com/story/a-civilian-plane-crashed-in-new-mexico-was-the-militarys-tech-to-blame/",
-    "title": "A Civilian Plane Crashed in New Mexico. Was the Military’s Tech to Blame?"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://gruhn.me/blog/2026-08-03/",
-    "title": "Don't be a meat proxy"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://blog.cloudflare.com/cloudflare-os/",
-    "title": "Cloudflare OS: an open platform for agents, apps, and work | The Cloudflare Blog"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://earendil.com/posts/session-portability/",
-    "title": "The Session You Cannot Take With You | EARENDIL"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://randsinrepose.com/archives/blade-runner-title-cards/",
-    "title": "The Title Cards in Blade Runner Are Fucking Amazing – Rands in Repose"
   }
 ]
