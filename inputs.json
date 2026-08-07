@@ -21,6 +21,11 @@
   },
   {
     "source": "hn",
+    "url": "https://xvw.lol/en/articles/oop-refl.html",
+    "title": "Guarded Methods in OCaml"
+  },
+  {
+    "source": "hn",
     "url": "https://daringfireball.net/2026/08/app_store_rejection_of_the_week_dark_hours",
     "title": "App Store Rejection of the Week: Dark Hours"
   },
@@ -36,13 +41,13 @@
   },
   {
     "source": "hn",
-    "url": "https://theclaudyssey.com/",
-    "title": "The Claudyssey: A line-for-line translation of Homer's Odyssey by Claude Fable 5"
+    "url": "https://blog.cloudflare.com/kitesurf/",
+    "title": "Kitesurf: Agent-first browser that runs in V8 isolates"
   },
   {
     "source": "hn",
-    "url": "https://blog.cloudflare.com/kitesurf/",
-    "title": "Kitesurf: Agent-first browser that runs in V8 isolates"
+    "url": "https://www.historytoday.com/archive/feature/britains-new-world-tobacco",
+    "title": "Britain's New World of Tobacco (2017)"
   },
   {
     "source": "hn",
@@ -51,8 +56,8 @@
   },
   {
     "source": "hn",
-    "url": "https://xvw.lol/en/articles/oop-refl.html",
-    "title": "Guarded Methods in OCaml"
+    "url": "https://www.ign.com/articles/ramageddon-continues-another-year-as-2027-memory-capacity-is-reportedly-sold-out",
+    "title": "2027 memory capacity is reportedly sold out"
   },
   {
     "source": "hn",
@@ -66,11 +71,6 @@
   },
   {
     "source": "hn",
-    "url": "https://www.ign.com/articles/ramageddon-continues-another-year-as-2027-memory-capacity-is-reportedly-sold-out",
-    "title": "2027 memory capacity is reportedly sold out"
-  },
-  {
-    "source": "hn",
     "url": "https://www.righto.com/2026/07/ibm-604-trigger-tube-module.html",
     "title": "Energizing a vacuum-tube flip-flop module from a 1948 IBM system"
   },
@@ -80,78 +80,103 @@
     "title": "AMD acquires Taalas to boost inference performance by etching models in silicon"
   },
   {
-    "source": "hn",
-    "url": "https://www.typestax.com/",
-    "title": "TypeStax: A type scale generator with vintage audio hardware interface"
-  },
-  {
-    "source": "hn",
-    "url": "https://ykiko.me/en/articles/692886292/",
-    "title": "Thoroughly Understanding C++ ABI (2024)"
+    "source": "lobsters",
+    "url": "https://www.diva-portal.org/smash/get/diva2:2052282/FULLTEXT01.pdf",
+    "title": "The GNU Emacs Architecture"
   },
   {
     "source": "lobsters",
-    "url": "https://refp.se/articles/your-shell-and-the-lazy-exclamation-mark",
-    "title": "A shell exclamation mark is not for yelling. Be lazy"
+    "url": "https://www.endbasic.dev/2026/07/endbasic-0.14.html",
+    "title": "EndBASIC 0.14: Are we multimedia yet?"
   },
   {
     "source": "lobsters",
-    "url": "https://taylor.town/leaving-openai",
-    "title": "I'm leaving OpenAI to build Jurassic Park"
+    "url": "https://crocidb.com/post/freebsd-ate-my-ram/",
+    "title": "FreeBSD ate my ram"
   },
   {
     "source": "lobsters",
-    "url": "https://bobdahacker.com/blog/tldv-hack",
-    "title": "tl;dv (Too Lazy; Didn't Validate): 181,874 Meetings Left Wide Open"
+    "url": "https://emacsair.me/2026/07/01/magit-4.6/",
+    "title": "Magit 4.6 released"
   },
   {
     "source": "lobsters",
-    "url": "https://matklad.github.io/2026/08/06/neat-io-threaded.html",
-    "title": "Zig's Io.Threaded is Neat"
+    "url": "https://www.mattgreer.dev/blog/gba-dev-logging/",
+    "title": "Game Boy Advance Dev: Logging to the console"
   },
   {
     "source": "lobsters",
-    "url": "https://zayenz.se/blog/post/constraint-generated-puzzle-games/",
-    "title": "From constraint models to playable puzzle games"
+    "url": "https://debugging.works/blog/tpm-explained/",
+    "title": "FAQ: What is a TPM and how can I use it on Linux?"
   },
   {
     "source": "lobsters",
-    "url": "https://utcc.utoronto.ca/~cks/space/blog/programming/EmacsGitBlameOverTime",
-    "title": "Some ways to navigate through 'git blame' over time in GNU Emacs"
+    "url": "https://hackers.pub/@fedify/2026/why-activitypub-is-hard",
+    "title": "Why implementing ActivityPub is hard, and why it doesn't have to be"
   },
   {
     "source": "lobsters",
-    "url": "https://blog.dundns.eu/posts/ddr-encrypted-dns-discovery/",
-    "title": "How a device finds encrypted DNS by itself"
+    "url": "https://lineageos.org/Developer-Verification/",
+    "title": "Developer Verification – LineageOS"
   },
   {
     "source": "lobsters",
-    "url": "https://trevmex.com/post/824245295374303232/my-son-found-a-world-atlas-in-a-thrift-store-so-i",
-    "title": "I got a 1998 CD-ROM world atlas running on Windows 11"
+    "url": "https://whitep4nth3r.com/blog/goodbye-forever-probably/",
+    "title": "Goodbye, forever, probably"
   },
   {
     "source": "lobsters",
-    "url": "https://fzakaria.com/2026/08/05/super-mario-derivations",
-    "title": "Super Mario Derivations"
+    "url": "https://fabiensanglard.net/keyboards/index.html",
+    "title": "My favorite keyboards"
   },
   {
     "source": "lobsters",
-    "url": "https://celld.dev/",
-    "title": "celld — Durable Objects, self-hosted"
+    "url": "https://rakyll.org/coding-agents/",
+    "title": "Thoughts on coding agents"
   },
   {
     "source": "lobsters",
-    "url": "https://bozo.httpd.rocks/",
-    "title": "Setup a simple web server with bozohttpd on NetBSD"
+    "url": "https://secretspec.dev/blog/secretspec-0-13-sdks/",
+    "title": "SecretSpec 0.13: SDKs for Python, Node.js, Go, Ruby, and Haskell"
   },
   {
     "source": "lobsters",
-    "url": "https://www.ykiko.me/en/articles/692886292/",
-    "title": "Thoroughly Understanding C++ ABI"
+    "url": "https://pierrezemb.fr/posts/why-fakes-beat-mocks-and-testcontainers/",
+    "title": "Why Fakes Beat Mocks and Testcontainers"
   },
   {
     "source": "lobsters",
-    "url": "https://c.mov/lymphosat/",
-    "title": "Domain-specific hyperspecialization (for SAT)"
+    "url": "https://purplesyringa.moe/blog/suffix-bwt-vs-cyclic-shift-bwt-and-fast-computation/",
+    "title": "Suffix BWT vs cyclic shift BWT, and fast computation"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://surfingcomplexity.blog/2026/07/03/synthesis-is-harder-than-analysis/",
+    "title": "Synthesis is harder than analysis"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://reemus.dev/tldr/rust-handling-results-in-map-closure",
+    "title": "Rust - Handling Results In A Map Closure"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://www.noemamag.com/we-need-a-way-to-prove-personhood-online",
+    "title": "We Need A Way To Prove Personhood Online"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://matduggan.com/clickhouse-is-winning-the-observability-wars/",
+    "title": "Clickhouse is winning the Observability Wars"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://citizenlab.ca/research/member-of-committee-investigating-spyware-hacked-with-pegasus/",
+    "title": "Espionage Against the European Parliament: Member of Committee Investigating Spyware Hacked with Pegasus"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://why.degree/on-intent/",
+    "title": "On intent of Code"
   }
 ]
