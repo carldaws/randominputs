@@ -1,13 +1,18 @@
 [
   {
     "source": "hn",
+    "url": "https://arcprize.org/results/deepseek-v4-flash-0731",
+    "title": "DeepSeek V4 Flash 0731"
+  },
+  {
+    "source": "hn",
     "url": "https://www.sdss.org/black-hole-mapper-release-20/",
     "title": "An all-sky map of half a million supermassive black holes"
   },
   {
     "source": "hn",
-    "url": "https://www.lse.ac.uk/research/research-for-the-world/economics/tax-cuts-for-the-wealthy-only-benefit-the-rich-debunking-trickle-down-economics",
-    "title": "Tax cuts for the wealthy only benefit the rich (2023)"
+    "url": "https://blog.exe.dev/the-end-of-no-code",
+    "title": "The End of No Code"
   },
   {
     "source": "hn",
@@ -21,13 +26,13 @@
   },
   {
     "source": "hn",
-    "url": "https://blog.cloudflare.com/kitesurf/",
-    "title": "Kitesurf: Agent-first browser that runs in V8 isolates"
+    "url": "https://quuxplusone.github.io/blog/2026/08/04/mobius-crossword/",
+    "title": "Möbius-Strip Crosswords"
   },
   {
     "source": "hn",
-    "url": "https://quuxplusone.github.io/blog/2026/08/04/mobius-crossword/",
-    "title": "Möbius-Strip Crosswords"
+    "url": "https://blog.cloudflare.com/kitesurf/",
+    "title": "Kitesurf: Agent-first browser that runs in V8 isolates"
   },
   {
     "source": "hn",
@@ -36,28 +41,8 @@
   },
   {
     "source": "hn",
-    "url": "https://nso.edu/press-release/nsf-inouye-solar-telescope-enables-major-discovery-of-a-hidden-solar-process/",
-    "title": "Scientists discover Kelvin-Helmholtz Instability on the surface of the Sun"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.sciencedaily.com/releases/2026/08/260803080917.htm",
-    "title": "Bioengineered chewing gum may offer a way to fight HPV and other microbes"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.typestax.com/",
-    "title": "TypeStax: A type scale generator with vintage audio hardware interface"
-  },
-  {
-    "source": "hn",
     "url": "https://tracydurnell.com/2023/11/30/building-community-out-of-strangers/",
     "title": "Building Community Out of Strangers"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.githubstatus.com/incidents/qcvjkzcs7j74",
-    "title": "GitHub Actions and Pages are experiencing degraded availability"
   },
   {
     "source": "hn",
@@ -66,13 +51,33 @@
   },
   {
     "source": "hn",
-    "url": "https://www.leadedsolder.com/2026/07/28/bbc-bridge-companion-part-1-overview.html",
-    "title": "The BBC Tetris Companion"
+    "url": "https://www.sciencedaily.com/releases/2026/08/260803080917.htm",
+    "title": "Bioengineered chewing gum may offer a way to fight HPV and other microbes"
   },
   {
     "source": "hn",
-    "url": "https://provenmetal.com",
-    "title": "Launch HN: ProvenMetal (YC S26) delivers circuit boards in days instead of weeks"
+    "url": "https://www.righto.com/2026/07/ibm-604-trigger-tube-module.html",
+    "title": "Energizing a vacuum-tube flip-flop module from a 1948 IBM system"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.typestax.com/",
+    "title": "TypeStax: A type scale generator with vintage audio hardware interface"
+  },
+  {
+    "source": "hn",
+    "url": "https://nso.edu/press-release/nsf-inouye-solar-telescope-enables-major-discovery-of-a-hidden-solar-process/",
+    "title": "Scientists discover Kelvin-Helmholtz Instability on the surface of the Sun"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.githubstatus.com/incidents/qcvjkzcs7j74",
+    "title": "GitHub Actions and Pages are experiencing degraded availability"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.lse.ac.uk/research/research-for-the-world/economics/tax-cuts-for-the-wealthy-only-benefit-the-rich-debunking-trickle-down-economics",
+    "title": "Tax cuts for the wealthy only benefit the rich (2023)"
   },
   {
     "source": "lobsters",
@@ -101,13 +106,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://utcc.utoronto.ca/~cks/space/blog/programming/EmacsGitBlameOverTime",
-    "title": "Some ways to navigate through 'git blame' over time in GNU Emacs"
+    "url": "https://blog.dundns.eu/posts/ddr-encrypted-dns-discovery/",
+    "title": "How a device finds encrypted DNS by itself"
   },
   {
     "source": "lobsters",
-    "url": "https://blog.dundns.eu/posts/ddr-encrypted-dns-discovery/",
-    "title": "How a device finds encrypted DNS by itself"
+    "url": "https://utcc.utoronto.ca/~cks/space/blog/programming/EmacsGitBlameOverTime",
+    "title": "Some ways to navigate through 'git blame' over time in GNU Emacs"
   },
   {
     "source": "lobsters",
@@ -121,13 +126,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://bozo.httpd.rocks/",
-    "title": "Setup a simple web server with bozohttpd on NetBSD"
+    "url": "https://celld.dev/",
+    "title": "celld — Durable Objects, self-hosted"
   },
   {
     "source": "lobsters",
-    "url": "https://celld.dev/",
-    "title": "celld — Durable Objects, self-hosted"
+    "url": "https://bozo.httpd.rocks/",
+    "title": "Setup a simple web server with bozohttpd on NetBSD"
   },
   {
     "source": "lobsters",
