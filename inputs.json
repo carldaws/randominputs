@@ -6,38 +6,18 @@
   },
   {
     "source": "hn",
-    "url": "https://www.sdss.org/black-hole-mapper-release-20/",
-    "title": "An all-sky map of half a million supermassive black holes"
-  },
-  {
-    "source": "hn",
     "url": "https://ancientlibrary.net/",
     "title": "Ancient Library – 1,060 Greek/Latin texts, click any word to parse it"
   },
   {
     "source": "hn",
+    "url": "https://www.sdss.org/black-hole-mapper-release-20/",
+    "title": "An all-sky map of half a million supermassive black holes"
+  },
+  {
+    "source": "hn",
     "url": "https://www.noemamag.com/why-is-everyone-in-tech-so-sad/",
     "title": "What happens if an entire class of workers loses faith in their careers"
-  },
-  {
-    "source": "hn",
-    "url": "https://malisper.me/how-we-made-postgres-hundreds-of-times-faster-the-query-engine/",
-    "title": "Making Postgres 300x faster for analytics: batching, operator fusion, and SIMD"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.theregister.com/systems/2026/08/06/amd-acquires-ai-chip-startup-taalas-to-boost-inference-performance-by-etching-models-into-silicon/5284344",
-    "title": "AMD acquires Taalas to boost inference performance by etching models in silicon"
-  },
-  {
-    "source": "hn",
-    "url": "https://quuxplusone.github.io/blog/2026/08/04/mobius-crossword/",
-    "title": "Möbius-Strip Crosswords"
-  },
-  {
-    "source": "hn",
-    "url": "https://blog.cloudflare.com/kitesurf/",
-    "title": "Kitesurf: Agent-first browser that runs in V8 isolates"
   },
   {
     "source": "hn",
@@ -51,8 +31,28 @@
   },
   {
     "source": "hn",
-    "url": "https://blog.stackdump.com/posts/petri-net-sequencer",
-    "title": "Petri Nets as a Music Sequencer"
+    "url": "https://malisper.me/how-we-made-postgres-hundreds-of-times-faster-the-query-engine/",
+    "title": "Making Postgres 300x faster for analytics: batching, operator fusion, and SIMD"
+  },
+  {
+    "source": "hn",
+    "url": "https://theclaudyssey.com/",
+    "title": "The Claudyssey: A line-for-line translation of Homer's Odyssey by Claude Fable 5"
+  },
+  {
+    "source": "hn",
+    "url": "https://blog.cloudflare.com/kitesurf/",
+    "title": "Kitesurf: Agent-first browser that runs in V8 isolates"
+  },
+  {
+    "source": "hn",
+    "url": "https://quuxplusone.github.io/blog/2026/08/04/mobius-crossword/",
+    "title": "Möbius-Strip Crosswords"
+  },
+  {
+    "source": "hn",
+    "url": "https://xvw.lol/en/articles/oop-refl.html",
+    "title": "Guarded Methods in OCaml"
   },
   {
     "source": "hn",
@@ -61,8 +61,8 @@
   },
   {
     "source": "hn",
-    "url": "https://www.righto.com/2026/07/ibm-604-trigger-tube-module.html",
-    "title": "Energizing a vacuum-tube flip-flop module from a 1948 IBM system"
+    "url": "https://blog.stackdump.com/posts/petri-net-sequencer",
+    "title": "Petri Nets as a Music Sequencer"
   },
   {
     "source": "hn",
@@ -71,13 +71,13 @@
   },
   {
     "source": "hn",
-    "url": "https://www.sciencedaily.com/releases/2026/08/260803080917.htm",
-    "title": "Bioengineered chewing gum may offer a way to fight HPV and other microbes"
+    "url": "https://www.righto.com/2026/07/ibm-604-trigger-tube-module.html",
+    "title": "Energizing a vacuum-tube flip-flop module from a 1948 IBM system"
   },
   {
     "source": "hn",
-    "url": "https://nso.edu/press-release/nsf-inouye-solar-telescope-enables-major-discovery-of-a-hidden-solar-process/",
-    "title": "Scientists discover Kelvin-Helmholtz Instability on the surface of the Sun"
+    "url": "https://www.theregister.com/systems/2026/08/06/amd-acquires-ai-chip-startup-taalas-to-boost-inference-performance-by-etching-models-into-silicon/5284344",
+    "title": "AMD acquires Taalas to boost inference performance by etching models in silicon"
   },
   {
     "source": "hn",
@@ -146,87 +146,12 @@
   },
   {
     "source": "lobsters",
-    "url": "https://sebsite.pw/w/20260806-pystrings.html",
-    "title": "python string literals are kinda funny"
+    "url": "https://www.ykiko.me/en/articles/692886292/",
+    "title": "Thoroughly Understanding C++ ABI"
   },
   {
-    "source": "pinboard",
-    "url": "https://www.schneier.com/blog/archives/2026/07/should-you-use-ai-for-a-task-heres-a-simple-way-to-decide.html",
-    "title": "Should You Use AI for a Task? Here’s a Simple Way to Decide - Schneier on Security"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://earendil.com/posts/pi-autoresearch-and-databricks/",
-    "title": "pi, minimal and performant | earendil"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.mayerowitz.io/blog/mario-meets-pareto",
-    "title": "Mario meets Pareto"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.seangoedecke.com/llms-reward-expertise/",
-    "title": "LLMs reward expertise"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://readingmaps.com/",
-    "title": "Maps & Travel Routes from Books & Films"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://lilianweng.github.io/posts/2026-07-04-harness/",
-    "title": "Harness Engineering for Self-Improvement | Lil'Log"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://blog.cryptographyengineering.com/2026/07/29/some-notes-about-anthropics-new-results/",
-    "title": "Some thoughts about Anthropic’s new cryptanalysis results – A Few Thoughts on Cryptographic Engineering"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://semi-rad.com/2026/08/do-it-14000-times-slower-with-this-one-trick/",
-    "title": "Do It 14,000 Times Slower With This One Trick – Semi-Rad.com"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://sheets.works/data-viz/keyboard-sounds",
-    "title": "The Listening Museum"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://pandoc.org/twenty-years-of-pandoc.html",
-    "title": "Pandoc - twenty-years-of-pandoc"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://everythingmachine.io/phone/",
-    "title": "The Phone in Your Hand"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.wired.com/story/a-civilian-plane-crashed-in-new-mexico-was-the-militarys-tech-to-blame/",
-    "title": "A Civilian Plane Crashed in New Mexico. Was the Military’s Tech to Blame?"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://gruhn.me/blog/2026-08-03/",
-    "title": "Don't be a meat proxy"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://blog.cloudflare.com/cloudflare-os/",
-    "title": "Cloudflare OS: an open platform for agents, apps, and work | The Cloudflare Blog"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://earendil.com/posts/session-portability/",
-    "title": "The Session You Cannot Take With You | EARENDIL"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://randsinrepose.com/archives/blade-runner-title-cards/",
-    "title": "The Title Cards in Blade Runner Are Fucking Amazing – Rands in Repose"
+    "source": "lobsters",
+    "url": "https://c.mov/lymphosat/",
+    "title": "Domain-specific hyperspecialization (for SAT)"
   }
 ]
