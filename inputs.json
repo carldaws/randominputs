@@ -6,18 +6,8 @@
   },
   {
     "source": "hn",
-    "url": "https://www.wired.com/story/hackers-stalked-me-by-hijacking-a-smartwatch-for-kids/",
-    "title": "Hackers Stalked Me by Hijacking a Smartwatch for Kids"
-  },
-  {
-    "source": "hn",
     "url": "https://www.mayerowitz.io/blog/mario-meets-pareto",
     "title": "Mario Meets Pareto"
-  },
-  {
-    "source": "hn",
-    "url": "https://nso.edu/press-release/nsf-inouye-solar-telescope-enables-major-discovery-of-a-hidden-solar-process/",
-    "title": "Scientists discover Kelvin-Helmholtz Instability on the surface of the Sun"
   },
   {
     "source": "hn",
@@ -26,23 +16,18 @@
   },
   {
     "source": "hn",
-    "url": "https://blog.sydorets.com/en/posts/almost-no-skill-required-to-cook-a-steak/",
-    "title": "Almost no skill required to cook a steak"
-  },
-  {
-    "source": "hn",
     "url": "https://www.githubstatus.com/incidents/qcvjkzcs7j74",
     "title": "GitHub Actions and Pages are experiencing degraded availability"
   },
   {
     "source": "hn",
-    "url": "https://provenmetal.com",
-    "title": "Launch HN: ProvenMetal (YC S26) delivers circuit boards in days instead of weeks"
+    "url": "https://blog.sydorets.com/en/posts/almost-no-skill-required-to-cook-a-steak/",
+    "title": "Almost no skill required to cook a steak"
   },
   {
     "source": "hn",
-    "url": "https://www.aleksagordic.com/blog/vllm",
-    "title": "Inside vLLM: Anatomy of a High-Throughput LLM Inference System (2025)"
+    "url": "https://provenmetal.com",
+    "title": "Launch HN: ProvenMetal (YC S26) delivers circuit boards in days instead of weeks"
   },
   {
     "source": "hn",
@@ -56,13 +41,13 @@
   },
   {
     "source": "hn",
-    "url": "https://blog.janestreet.com/can-you-reverse-engineer-an-asic/",
-    "title": "Can you reverse engineer an ASIC?"
+    "url": "https://laurentiugabriel.github.io/ChipTycoon/",
+    "title": "Learn how chips are made with this Rollercoaster Tycoon-inspired animation"
   },
   {
     "source": "hn",
-    "url": "https://laurentiugabriel.github.io/ChipTycoon/",
-    "title": "Learn how chips are made with this Rollercoaster Tycoon-inspired animation"
+    "url": "https://www.aleksagordic.com/blog/vllm",
+    "title": "Inside vLLM: Anatomy of a High-Throughput LLM Inference System (2025)"
   },
   {
     "source": "hn",
@@ -78,11 +63,6 @@
     "source": "hn",
     "url": "https://en.wikipedia.org/wiki/Pareto_front",
     "title": "Pareto Front"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.rafa.ee/articles/progressive-enhanced-forms-htmx/",
-    "title": "Building Progressively Enhanced Forms Using htmx"
   },
   {
     "source": "lobsters",
@@ -101,13 +81,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://bozo.httpd.rocks/",
-    "title": "Setup a simple web server with bozohttpd on NetBSD"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://sebsite.pw/w/20260806-pystrings.html",
-    "title": "python string literals are kinda funny"
+    "url": "https://refp.se/articles/your-shell-and-the-lazy-exclamation-mark",
+    "title": "A shell exclamation mark is not for yelling. Be lazy"
   },
   {
     "source": "lobsters",
@@ -116,8 +91,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://refp.se/articles/your-shell-and-the-lazy-exclamation-mark",
-    "title": "A shell exclamation mark is not for yelling. Be lazy"
+    "url": "https://bozo.httpd.rocks/",
+    "title": "Setup a simple web server with bozohttpd on NetBSD"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://sebsite.pw/w/20260806-pystrings.html",
+    "title": "python string literals are kinda funny"
   },
   {
     "source": "lobsters",
@@ -131,6 +111,11 @@
   },
   {
     "source": "lobsters",
+    "url": "https://crubit.rs",
+    "title": "Crubit, C++/Rust Bidirectional Interop Tool"
+  },
+  {
+    "source": "lobsters",
     "url": "https://bruceediger.com/posts/offensive-machine/",
     "title": "Offensive Internet Posture"
   },
@@ -141,13 +126,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://crubit.rs",
-    "title": "Crubit, C++/Rust Bidirectional Interop Tool"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://blog.rust-lang.org/inside-rust/2026/08/05/rust-langrust-is-adopting-an-llm-policy/",
-    "title": "rust-lang/rust is adopting an LLM policy"
+    "url": "https://taylor.town/leaving-openai",
+    "title": "I'm leaving OpenAI to build Jurassic Park"
   },
   {
     "source": "lobsters",
@@ -156,7 +136,7 @@
   },
   {
     "source": "lobsters",
-    "url": "https://sightlessscribbles.com/disability-dongle/",
-    "title": "The \"Disability Dongle\": Why Silicon Valley Hates Me and you"
+    "url": "https://blog.rust-lang.org/inside-rust/2026/08/05/rust-langrust-is-adopting-an-llm-policy/",
+    "title": "rust-lang/rust is adopting an LLM policy"
   }
 ]
