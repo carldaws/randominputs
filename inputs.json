@@ -61,13 +61,18 @@
   },
   {
     "source": "hn",
-    "url": "https://blog.stackdump.com/posts/petri-net-sequencer",
-    "title": "Petri Nets as a Music Sequencer"
+    "url": "https://bankstatementconverter.com/blog/posts/2026-08-02-why-are-all-amounts-negative/",
+    "title": "Why are all the amounts values negative?"
   },
   {
     "source": "hn",
     "url": "https://www.righto.com/2026/07/ibm-604-trigger-tube-module.html",
     "title": "Energizing a vacuum-tube flip-flop module from a 1948 IBM system"
+  },
+  {
+    "source": "hn",
+    "url": "https://blog.stackdump.com/posts/petri-net-sequencer",
+    "title": "Petri Nets as a Music Sequencer"
   },
   {
     "source": "hn",
@@ -85,73 +90,63 @@
     "title": "Thoroughly Understanding C++ ABI (2024)"
   },
   {
-    "source": "hn",
-    "url": "https://www.typestax.com/",
-    "title": "TypeStax: A type scale generator with vintage audio hardware interface"
+    "source": "lobsters",
+    "url": "https://refp.se/articles/your-shell-and-the-lazy-exclamation-mark",
+    "title": "A shell exclamation mark is not for yelling. Be lazy"
   },
   {
     "source": "lobsters",
-    "url": "https://soppolang.dev/",
-    "title": "Soppo - Go, with the features it's missing"
+    "url": "https://taylor.town/leaving-openai",
+    "title": "I'm leaving OpenAI to build Jurassic Park"
   },
   {
     "source": "lobsters",
-    "url": "https://join.piefed.social/2026/08/04/anti-fascist-piefed-features/",
-    "title": "Anti-fascist PieFed features"
+    "url": "https://bobdahacker.com/blog/tldv-hack",
+    "title": "tl;dv (Too Lazy; Didn't Validate): 181,874 Meetings Left Wide Open"
   },
   {
     "source": "lobsters",
-    "url": "https://fzakaria.com/2026/07/30/the-nix-sandbox-is-a-hidden-input",
-    "title": "The Nix sandbox is a hidden input"
+    "url": "https://zayenz.se/blog/post/constraint-generated-puzzle-games/",
+    "title": "From constraint models to playable puzzle games"
   },
   {
     "source": "lobsters",
-    "url": "https://data4sci.com/blog/building-an-advanced-agentic-harness",
-    "title": "Building an Advanced Agentic Harness"
+    "url": "https://matklad.github.io/2026/08/06/neat-io-threaded.html",
+    "title": "Zig's Io.Threaded is Neat"
   },
   {
     "source": "lobsters",
-    "url": "https://blog.haskell.org/revised-haskell-2010-report/",
-    "title": "A Revised Haskell 2010 Language Report"
+    "url": "https://notes.hella.cheap/twitter-isnt-a-town-square-its-a-high-school-cafeteria.html",
+    "title": "social media rabbit holes, clusters, and the relative mixing times of random walks"
   },
   {
     "source": "lobsters",
-    "url": "https://borrowsanitizer.com/",
-    "title": "BorrowSanitizer"
+    "url": "https://utcc.utoronto.ca/~cks/space/blog/programming/EmacsGitBlameOverTime",
+    "title": "Some ways to navigate through 'git blame' over time in GNU Emacs"
   },
   {
     "source": "lobsters",
-    "url": "https://blog.drakulix.de/taming-the-steam-arm64-client-on-pmos/",
-    "title": "Taming the Steam arm64 client (on pmOS)"
+    "url": "https://blog.dundns.eu/posts/ddr-encrypted-dns-discovery/",
+    "title": "How a device finds encrypted DNS by itself"
   },
   {
     "source": "lobsters",
-    "url": "https://killthecookiebanner.eu/",
-    "title": "Kill the Cookie Banner"
+    "url": "https://trevmex.com/post/824245295374303232/my-son-found-a-world-atlas-in-a-thrift-store-so-i",
+    "title": "I got a 1998 CD-ROM world atlas running on Windows 11"
   },
   {
     "source": "lobsters",
-    "url": "https://pandoc.org/twenty-years-of-pandoc.html",
-    "title": "Twenty Years of Pandoc"
+    "url": "https://fzakaria.com/2026/08/05/super-mario-derivations",
+    "title": "Super Mario Derivations"
   },
   {
     "source": "lobsters",
-    "url": "https://nomeatproxy.com/",
-    "title": "No Meat Proxy"
+    "url": "https://c.mov/lymphosat/",
+    "title": "Domain-specific hyperspecialization (for SAT)"
   },
   {
     "source": "lobsters",
-    "url": "https://gigamonkeys.com/book/macros-defining-your-own#:~:text=The%20Story%20of%20Mac%3A%20A%20Just%2DSo%20Story",
-    "title": "The Story of Mac: A Just-So Story"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://gruhn.me/blog/2026-08-03/",
-    "title": "Don't be a meat proxy"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://www.aikido.dev/blog/keyv-and-friends-compromised-in-npm-supply-chain-attack",
-    "title": "Keyv and friends compromised in npm supply chain attack"
+    "url": "https://celld.dev/",
+    "title": "celld — Durable Objects, self-hosted"
   }
 ]
