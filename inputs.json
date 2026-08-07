@@ -6,13 +6,18 @@
   },
   {
     "source": "hn",
+    "url": "https://nso.edu/press-release/nsf-inouye-solar-telescope-enables-major-discovery-of-a-hidden-solar-process/",
+    "title": "Scientists discover Kelvin-Helmholtz Instability on the surface of the Sun"
+  },
+  {
+    "source": "hn",
     "url": "https://www.mayerowitz.io/blog/mario-meets-pareto",
     "title": "Mario Meets Pareto"
   },
   {
     "source": "hn",
-    "url": "https://provenmetal.com",
-    "title": "Launch HN: ProvenMetal (YC S26) delivers circuit boards in days instead of weeks"
+    "url": "https://www.sciencedaily.com/releases/2026/08/260803080917.htm",
+    "title": "Bioengineered chewing gum may offer a way to fight HPV and other microbes"
   },
   {
     "source": "hn",
@@ -26,13 +31,23 @@
   },
   {
     "source": "hn",
+    "url": "https://provenmetal.com",
+    "title": "Launch HN: ProvenMetal (YC S26) delivers circuit boards in days instead of weeks"
+  },
+  {
+    "source": "hn",
     "url": "https://www.githubstatus.com/incidents/qcvjkzcs7j74",
     "title": "GitHub Actions and Pages are experiencing degraded availability"
   },
   {
     "source": "hn",
-    "url": "https://blog.janestreet.com/can-you-reverse-engineer-an-asic/",
-    "title": "Can you reverse engineer an ASIC?"
+    "url": "https://www.futilitycloset.com/2026/07/26/the-sylvester-gallai-theorem/",
+    "title": "The Sylvester–Gallai Theorem"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.wsj.com/tech/meta-ordered-to-pay-942-million-to-address-harm-to-kids-from-social-media-8ba5aab7",
+    "title": "Meta Ordered to Pay $942M to Address Harm to Kids from Social Media"
   },
   {
     "source": "hn",
@@ -46,8 +61,8 @@
   },
   {
     "source": "hn",
-    "url": "https://phoboslab.org/log/2026/08/xibalba64-making-of",
-    "title": "How to Make a Nintendo 64 Game in 2026"
+    "url": "https://blog.janestreet.com/can-you-reverse-engineer-an-asic/",
+    "title": "Can you reverse engineer an ASIC?"
   },
   {
     "source": "hn",
@@ -56,8 +71,8 @@
   },
   {
     "source": "hn",
-    "url": "https://artificialanalysis.ai/?intelligence=agentic-index",
-    "title": "Qwen3.8 Max now ranked as the best overall model by agentic index"
+    "url": "https://en.wikipedia.org/wiki/Pareto_front",
+    "title": "Pareto Front"
   },
   {
     "source": "hn",
@@ -66,13 +81,8 @@
   },
   {
     "source": "hn",
-    "url": "https://en.wikipedia.org/wiki/Pareto_front",
-    "title": "Pareto Front"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.sciencedaily.com/releases/2026/08/260803080917.htm",
-    "title": "Bioengineered chewing gum may offer a way to fight microbes linked to cancers"
+    "url": "https://artificialanalysis.ai/?intelligence=agentic-index",
+    "title": "Qwen3.8 Max now ranked as the best overall model by agentic index"
   },
   {
     "source": "lobsters",
@@ -96,13 +106,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://bruceediger.com/posts/offensive-machine/",
-    "title": "Offensive Internet Posture"
+    "url": "https://trevmex.com/post/824245295374303232/my-son-found-a-world-atlas-in-a-thrift-store-so-i",
+    "title": "I got a 1998 CD-ROM world atlas running on Windows 11"
   },
   {
     "source": "lobsters",
-    "url": "https://epage.github.io/blog/2026/08/cargo-vision/",
-    "title": "A Vision for Cargo"
+    "url": "https://phoboslab.org/log/2026/08/xibalba64-making-of",
+    "title": "How to Make a Nintendo 64 Game in 2026"
   },
   {
     "source": "lobsters",
@@ -113,6 +123,16 @@
     "source": "lobsters",
     "url": "https://celld.dev/",
     "title": "celld — Durable Objects, self-hosted"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://bruceediger.com/posts/offensive-machine/",
+    "title": "Offensive Internet Posture"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://epage.github.io/blog/2026/08/cargo-vision/",
+    "title": "A Vision for Cargo"
   },
   {
     "source": "lobsters",
@@ -128,15 +148,5 @@
     "source": "lobsters",
     "url": "https://sightlessscribbles.com/disability-dongle/",
     "title": "The \"Disability Dongle\": Why Silicon Valley Hates Me and you"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://crubit.rs",
-    "title": "Crubit, C++/Rust Bidirectional Interop Tool"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://benjcal.space/blog/i-built-a-blog-and-forgot-to-write/",
-    "title": "I Built a Blog and Forgot to Write"
   }
 ]
