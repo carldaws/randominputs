@@ -11,13 +11,18 @@
   },
   {
     "source": "hn",
+    "url": "https://www.noemamag.com/why-is-everyone-in-tech-so-sad/",
+    "title": "What happens if an entire class of workers loses faith in their careers"
+  },
+  {
+    "source": "hn",
     "url": "https://www.sdss.org/black-hole-mapper-release-20/",
     "title": "An all-sky map of half a million supermassive black holes"
   },
   {
     "source": "hn",
-    "url": "https://www.noemamag.com/why-is-everyone-in-tech-so-sad/",
-    "title": "What happens if an entire class of workers loses faith in their careers"
+    "url": "https://www.theregister.com/security/2026/08/07/water-system-controllers-dont-belong-on-the-internet-says-ex-nsa-chief-after-suspected-iran-attacks/5285070",
+    "title": "Water system controllers don't belong on the internet, says ex-NSA chief"
   },
   {
     "source": "hn",
@@ -26,13 +31,13 @@
   },
   {
     "source": "hn",
-    "url": "https://daringfireball.net/2026/08/app_store_rejection_of_the_week_dark_hours",
-    "title": "App Store Rejection of the Week: Dark Hours"
+    "url": "https://carlkolon.com/reading/",
+    "title": "Carl's Required Reading"
   },
   {
     "source": "hn",
-    "url": "https://carlkolon.com/reading/",
-    "title": "Carl's Required Reading"
+    "url": "https://daringfireball.net/2026/08/app_store_rejection_of_the_week_dark_hours",
+    "title": "App Store Rejection of the Week: Dark Hours"
   },
   {
     "source": "hn",
@@ -46,23 +51,13 @@
   },
   {
     "source": "hn",
-    "url": "https://www.historytoday.com/archive/feature/britains-new-world-tobacco",
-    "title": "Britain's New World of Tobacco (2017)"
-  },
-  {
-    "source": "hn",
-    "url": "https://quuxplusone.github.io/blog/2026/08/04/mobius-crossword/",
-    "title": "Möbius-Strip Crosswords"
-  },
-  {
-    "source": "hn",
     "url": "https://www.ign.com/articles/ramageddon-continues-another-year-as-2027-memory-capacity-is-reportedly-sold-out",
     "title": "2027 memory capacity is reportedly sold out"
   },
   {
     "source": "hn",
-    "url": "https://tracydurnell.com/2023/11/30/building-community-out-of-strangers/",
-    "title": "Building community out of strangers (2023)"
+    "url": "https://quuxplusone.github.io/blog/2026/08/04/mobius-crossword/",
+    "title": "Möbius-Strip Crosswords"
   },
   {
     "source": "hn",
@@ -76,107 +71,87 @@
   },
   {
     "source": "hn",
+    "url": "https://tracydurnell.com/2023/11/30/building-community-out-of-strangers/",
+    "title": "Building community out of strangers (2023)"
+  },
+  {
+    "source": "hn",
     "url": "https://www.theregister.com/systems/2026/08/06/amd-acquires-ai-chip-startup-taalas-to-boost-inference-performance-by-etching-models-into-silicon/5284344",
     "title": "AMD acquires Taalas to boost inference performance by etching models in silicon"
   },
   {
-    "source": "lobsters",
-    "url": "https://www.diva-portal.org/smash/get/diva2:2052282/FULLTEXT01.pdf",
-    "title": "The GNU Emacs Architecture"
+    "source": "hn",
+    "url": "https://ykiko.me/en/articles/692886292/",
+    "title": "Thoroughly Understanding C++ ABI (2024)"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.typestax.com/",
+    "title": "TypeStax: A type scale generator with vintage audio hardware interface"
   },
   {
     "source": "lobsters",
-    "url": "https://www.endbasic.dev/2026/07/endbasic-0.14.html",
-    "title": "EndBASIC 0.14: Are we multimedia yet?"
+    "url": "https://soppolang.dev/",
+    "title": "Soppo - Go, with the features it's missing"
   },
   {
     "source": "lobsters",
-    "url": "https://crocidb.com/post/freebsd-ate-my-ram/",
-    "title": "FreeBSD ate my ram"
+    "url": "https://join.piefed.social/2026/08/04/anti-fascist-piefed-features/",
+    "title": "Anti-fascist PieFed features"
   },
   {
     "source": "lobsters",
-    "url": "https://emacsair.me/2026/07/01/magit-4.6/",
-    "title": "Magit 4.6 released"
+    "url": "https://fzakaria.com/2026/07/30/the-nix-sandbox-is-a-hidden-input",
+    "title": "The Nix sandbox is a hidden input"
   },
   {
     "source": "lobsters",
-    "url": "https://www.mattgreer.dev/blog/gba-dev-logging/",
-    "title": "Game Boy Advance Dev: Logging to the console"
+    "url": "https://data4sci.com/blog/building-an-advanced-agentic-harness",
+    "title": "Building an Advanced Agentic Harness"
   },
   {
     "source": "lobsters",
-    "url": "https://debugging.works/blog/tpm-explained/",
-    "title": "FAQ: What is a TPM and how can I use it on Linux?"
+    "url": "https://blog.haskell.org/revised-haskell-2010-report/",
+    "title": "A Revised Haskell 2010 Language Report"
   },
   {
     "source": "lobsters",
-    "url": "https://hackers.pub/@fedify/2026/why-activitypub-is-hard",
-    "title": "Why implementing ActivityPub is hard, and why it doesn't have to be"
+    "url": "https://borrowsanitizer.com/",
+    "title": "BorrowSanitizer"
   },
   {
     "source": "lobsters",
-    "url": "https://lineageos.org/Developer-Verification/",
-    "title": "Developer Verification – LineageOS"
+    "url": "https://blog.drakulix.de/taming-the-steam-arm64-client-on-pmos/",
+    "title": "Taming the Steam arm64 client (on pmOS)"
   },
   {
     "source": "lobsters",
-    "url": "https://whitep4nth3r.com/blog/goodbye-forever-probably/",
-    "title": "Goodbye, forever, probably"
+    "url": "https://killthecookiebanner.eu/",
+    "title": "Kill the Cookie Banner"
   },
   {
     "source": "lobsters",
-    "url": "https://fabiensanglard.net/keyboards/index.html",
-    "title": "My favorite keyboards"
+    "url": "https://pandoc.org/twenty-years-of-pandoc.html",
+    "title": "Twenty Years of Pandoc"
   },
   {
     "source": "lobsters",
-    "url": "https://rakyll.org/coding-agents/",
-    "title": "Thoughts on coding agents"
+    "url": "https://nomeatproxy.com/",
+    "title": "No Meat Proxy"
   },
   {
     "source": "lobsters",
-    "url": "https://secretspec.dev/blog/secretspec-0-13-sdks/",
-    "title": "SecretSpec 0.13: SDKs for Python, Node.js, Go, Ruby, and Haskell"
+    "url": "https://gigamonkeys.com/book/macros-defining-your-own#:~:text=The%20Story%20of%20Mac%3A%20A%20Just%2DSo%20Story",
+    "title": "The Story of Mac: A Just-So Story"
   },
   {
     "source": "lobsters",
-    "url": "https://pierrezemb.fr/posts/why-fakes-beat-mocks-and-testcontainers/",
-    "title": "Why Fakes Beat Mocks and Testcontainers"
+    "url": "https://gruhn.me/blog/2026-08-03/",
+    "title": "Don't be a meat proxy"
   },
   {
     "source": "lobsters",
-    "url": "https://purplesyringa.moe/blog/suffix-bwt-vs-cyclic-shift-bwt-and-fast-computation/",
-    "title": "Suffix BWT vs cyclic shift BWT, and fast computation"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://surfingcomplexity.blog/2026/07/03/synthesis-is-harder-than-analysis/",
-    "title": "Synthesis is harder than analysis"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://reemus.dev/tldr/rust-handling-results-in-map-closure",
-    "title": "Rust - Handling Results In A Map Closure"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://www.noemamag.com/we-need-a-way-to-prove-personhood-online",
-    "title": "We Need A Way To Prove Personhood Online"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://matduggan.com/clickhouse-is-winning-the-observability-wars/",
-    "title": "Clickhouse is winning the Observability Wars"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://citizenlab.ca/research/member-of-committee-investigating-spyware-hacked-with-pegasus/",
-    "title": "Espionage Against the European Parliament: Member of Committee Investigating Spyware Hacked with Pegasus"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://why.degree/on-intent/",
-    "title": "On intent of Code"
+    "url": "https://www.aikido.dev/blog/keyv-and-friends-compromised-in-npm-supply-chain-attack",
+    "title": "Keyv and friends compromised in npm supply chain attack"
   }
 ]
