@@ -6,23 +6,28 @@
   },
   {
     "source": "hn",
+    "url": "https://ykiko.me/en/articles/692886292/",
+    "title": "Thoroughly Understanding C++ ABI"
+  },
+  {
+    "source": "hn",
+    "url": "https://letterstoanewdeveloper.com/2020/01/27/software-is-about-people-not-code/",
+    "title": "Software is about people, not code"
+  },
+  {
+    "source": "hn",
     "url": "https://blog.cloudflare.com/kitesurf/",
     "title": "Kitesurf: Agent-first browser that runs in V8 isolates"
   },
   {
     "source": "hn",
-    "url": "https://www.typestax.com/",
-    "title": "TypeStax: A type scale generator with vintage audio hardware interface"
+    "url": "https://malisper.me/how-we-made-postgres-hundreds-of-times-faster-the-query-engine/",
+    "title": "Making Postgres 300x faster for analytics: batching, operator fusion, and SIMD"
   },
   {
     "source": "hn",
-    "url": "https://www.wsj.com/economy/jobs/july-jobs-report-unemployment-0d7c08a7",
-    "title": "U.S. Lost 23,000 Jobs in July, While Unemployment Ticked Lower"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.sciencedaily.com/releases/2026/08/260803080917.htm",
-    "title": "Bioengineered chewing gum may offer a way to fight HPV and other microbes"
+    "url": "https://blog.stackdump.com/posts/petri-net-sequencer",
+    "title": "Petri Nets as a Music Sequencer"
   },
   {
     "source": "hn",
@@ -31,13 +36,18 @@
   },
   {
     "source": "hn",
-    "url": "https://www.githubstatus.com/incidents/qcvjkzcs7j74",
-    "title": "GitHub Actions and Pages are experiencing degraded availability"
+    "url": "https://www.sciencedaily.com/releases/2026/08/260803080917.htm",
+    "title": "Bioengineered chewing gum may offer a way to fight HPV and other microbes"
   },
   {
     "source": "hn",
-    "url": "https://provenmetal.com",
-    "title": "Launch HN: ProvenMetal (YC S26) delivers circuit boards in days instead of weeks"
+    "url": "https://www.typestax.com/",
+    "title": "TypeStax: A type scale generator with vintage audio hardware interface"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.githubstatus.com/incidents/qcvjkzcs7j74",
+    "title": "GitHub Actions and Pages are experiencing degraded availability"
   },
   {
     "source": "hn",
@@ -46,28 +56,13 @@
   },
   {
     "source": "hn",
+    "url": "https://provenmetal.com",
+    "title": "Launch HN: ProvenMetal (YC S26) delivers circuit boards in days instead of weeks"
+  },
+  {
+    "source": "hn",
     "url": "https://www.mayerowitz.io/blog/mario-meets-pareto",
     "title": "Mario Meets Pareto"
-  },
-  {
-    "source": "hn",
-    "url": "https://text.npr.org/nx-s1-5922530",
-    "title": "Kalshi and Polymarket bets on clinical trials criticized as 'ghastly'"
-  },
-  {
-    "source": "hn",
-    "url": "https://laurentiugabriel.github.io/ChipTycoon/",
-    "title": "Learn how chips are made with this Rollercoaster Tycoon-inspired animation"
-  },
-  {
-    "source": "hn",
-    "url": "https://malisper.me/how-we-made-postgres-hundreds-of-times-faster-the-query-engine/",
-    "title": "Making Postgres 300x faster for analytics: batching, operator fusion, and SIMD"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://bobdahacker.com/blog/tldv-hack",
-    "title": "tl;dv (Too Lazy; Didn't Validate): 181,874 Meetings Left Wide Open"
   },
   {
     "source": "lobsters",
@@ -76,8 +71,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://matklad.github.io/2026/08/06/neat-io-threaded.html",
-    "title": "Zig's Io.Threaded is Neat"
+    "url": "https://bobdahacker.com/blog/tldv-hack",
+    "title": "tl;dv (Too Lazy; Didn't Validate): 181,874 Meetings Left Wide Open"
   },
   {
     "source": "lobsters",
@@ -86,13 +81,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://zayenz.se/blog/post/constraint-generated-puzzle-games/",
-    "title": "From constraint models to playable puzzle games"
+    "url": "https://matklad.github.io/2026/08/06/neat-io-threaded.html",
+    "title": "Zig's Io.Threaded is Neat"
   },
   {
     "source": "lobsters",
-    "url": "https://utcc.utoronto.ca/~cks/space/blog/programming/EmacsGitBlameOverTime",
-    "title": "Some ways to navigate through 'git blame' over time in GNU Emacs"
+    "url": "https://zayenz.se/blog/post/constraint-generated-puzzle-games/",
+    "title": "From constraint models to playable puzzle games"
   },
   {
     "source": "lobsters",
@@ -101,18 +96,23 @@
   },
   {
     "source": "lobsters",
+    "url": "https://utcc.utoronto.ca/~cks/space/blog/programming/EmacsGitBlameOverTime",
+    "title": "Some ways to navigate through 'git blame' over time in GNU Emacs"
+  },
+  {
+    "source": "lobsters",
     "url": "https://fzakaria.com/2026/08/05/super-mario-derivations",
     "title": "Super Mario Derivations"
   },
   {
     "source": "lobsters",
-    "url": "https://bozo.httpd.rocks/",
-    "title": "Setup a simple web server with bozohttpd on NetBSD"
+    "url": "https://blog.dundns.eu/posts/ddr-encrypted-dns-discovery/",
+    "title": "How a device finds encrypted DNS by itself"
   },
   {
     "source": "lobsters",
-    "url": "https://blog.dundns.eu/posts/ddr-encrypted-dns-discovery/",
-    "title": "How a device finds encrypted DNS by itself"
+    "url": "https://bozo.httpd.rocks/",
+    "title": "Setup a simple web server with bozohttpd on NetBSD"
   },
   {
     "source": "lobsters",
@@ -133,80 +133,5 @@
     "source": "lobsters",
     "url": "https://crubit.rs",
     "title": "Crubit, C++/Rust Bidirectional Interop Tool"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.schneier.com/blog/archives/2026/07/should-you-use-ai-for-a-task-heres-a-simple-way-to-decide.html",
-    "title": "Should You Use AI for a Task? Here’s a Simple Way to Decide - Schneier on Security"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://earendil.com/posts/pi-autoresearch-and-databricks/",
-    "title": "pi, minimal and performant | earendil"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.seangoedecke.com/llms-reward-expertise/",
-    "title": "LLMs reward expertise"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://readingmaps.com/",
-    "title": "Maps & Travel Routes from Books & Films"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://lilianweng.github.io/posts/2026-07-04-harness/",
-    "title": "Harness Engineering for Self-Improvement | Lil'Log"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://blog.cryptographyengineering.com/2026/07/29/some-notes-about-anthropics-new-results/",
-    "title": "Some thoughts about Anthropic’s new cryptanalysis results – A Few Thoughts on Cryptographic Engineering"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://semi-rad.com/2026/08/do-it-14000-times-slower-with-this-one-trick/",
-    "title": "Do It 14,000 Times Slower With This One Trick – Semi-Rad.com"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://sheets.works/data-viz/keyboard-sounds",
-    "title": "The Listening Museum"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://pandoc.org/twenty-years-of-pandoc.html",
-    "title": "Pandoc - twenty-years-of-pandoc"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://everythingmachine.io/phone/",
-    "title": "The Phone in Your Hand"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.wired.com/story/a-civilian-plane-crashed-in-new-mexico-was-the-militarys-tech-to-blame/",
-    "title": "A Civilian Plane Crashed in New Mexico. Was the Military’s Tech to Blame?"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://gruhn.me/blog/2026-08-03/",
-    "title": "Don't be a meat proxy"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://blog.cloudflare.com/cloudflare-os/",
-    "title": "Cloudflare OS: an open platform for agents, apps, and work | The Cloudflare Blog"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://earendil.com/posts/session-portability/",
-    "title": "The Session You Cannot Take With You | EARENDIL"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://randsinrepose.com/archives/blade-runner-title-cards/",
-    "title": "The Title Cards in Blade Runner Are Fucking Amazing – Rands in Repose"
   }
 ]
