@@ -6,8 +6,18 @@
   },
   {
     "source": "hn",
+    "url": "https://eclipsefan.org/?v=2&t=max&layers=eclipse%2Cbesselian%2Cumbra-live%2Cshadow-3d%2Ccloud-projection%2Cosm&lat=43.4623&lon=-3.8099&opacity=besselian%3A0.2%2Cumbra-live%3A0.2&zoom=6&palier=minute",
+    "title": "Open-source interactive map for the Aug 12 total solar eclipse"
+  },
+  {
+    "source": "hn",
     "url": "https://hackaday.com/2026/08/08/want-energy-efficiency-dude-youre-getting-a-dell/",
     "title": "Can Intel finally beat ARM on performance per Watt?"
+  },
+  {
+    "source": "hn",
+    "url": "https://news.maryland.gov/dnr/2026/08/05/dnr-closes-additional-areas-of-cunningham-falls-state-park-following-second-beaver-attack/",
+    "title": "Maryland Closes More of Cunningham Falls State Park After Second Beaver Attack"
   },
   {
     "source": "hn",
@@ -16,33 +26,13 @@
   },
   {
     "source": "hn",
-    "url": "https://blog.getutm.app/2026/introducing-triton-directx-11-driver-for-qemu/",
-    "title": "Triton: DirectX 11 Driver for QEMU"
-  },
-  {
-    "source": "hn",
-    "url": "https://buttondown.com/suchbadtechads/archive/gateway-2000-part-2/",
-    "title": "Gateway 2000's hilariously bad ads in the 90s (Part II)"
-  },
-  {
-    "source": "hn",
     "url": "https://sebsite.pw/w/20260806-pystrings.html",
     "title": "Python string literals are kinda funny"
   },
   {
     "source": "hn",
-    "url": "https://classicbits.net/coding-and-software/my-software/monosol/",
-    "title": "TinySol, a tiny solitaire game for DOS"
-  },
-  {
-    "source": "hn",
-    "url": "https://zaneham.github.io/voyager-fds-emulator/",
-    "title": "Voyager 1 FDS Computer Emulator"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.bloomberg.com/news/articles/2026-08-06/us-military-s-cyber-command-unit-grapples-with-cluster-of-deaths-by-suicide",
-    "title": "US Military's cyber command unit grapples with cluster of deaths by suicide"
+    "url": "https://blog.getutm.app/2026/introducing-triton-directx-11-driver-for-qemu/",
+    "title": "Triton: DirectX 11 Driver for QEMU"
   },
   {
     "source": "hn",
@@ -51,8 +41,23 @@
   },
   {
     "source": "hn",
-    "url": "https://adepts.of0x.cc/eufy-doorbell-hacking/",
-    "title": "From your doorbell to your home network"
+    "url": "https://buttondown.com/suchbadtechads/archive/gateway-2000-part-2/",
+    "title": "Gateway 2000's hilariously bad ads in the 90s (Part II)"
+  },
+  {
+    "source": "hn",
+    "url": "https://classicbits.net/coding-and-software/my-software/monosol/",
+    "title": "TinySol, a tiny solitaire game for DOS"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.bloomberg.com/news/articles/2026-08-06/us-military-s-cyber-command-unit-grapples-with-cluster-of-deaths-by-suicide",
+    "title": "US Military's cyber command unit grapples with cluster of deaths by suicide"
+  },
+  {
+    "source": "hn",
+    "url": "https://zaneham.github.io/voyager-fds-emulator/",
+    "title": "Voyager 1 FDS Computer Emulator"
   },
   {
     "source": "hn",
@@ -61,13 +66,13 @@
   },
   {
     "source": "hn",
-    "url": "https://www.noemamag.com/why-is-everyone-in-tech-so-sad/",
-    "title": "What happens if an entire class of workers loses faith in their careers"
+    "url": "https://adepts.of0x.cc/eufy-doorbell-hacking/",
+    "title": "From your doorbell to your home network"
   },
   {
     "source": "hn",
-    "url": "https://toonk.io/index.html",
-    "title": "Wireblast a 100 Gbps packet generator in Go using AF_XDP"
+    "url": "https://www.noemamag.com/why-is-everyone-in-tech-so-sad/",
+    "title": "What happens if an entire class of workers loses faith in their careers"
   },
   {
     "source": "lobsters",
@@ -86,13 +91,28 @@
   },
   {
     "source": "lobsters",
+    "url": "https://soar.qaidvoid.dev/",
+    "title": "Soar package manager"
+  },
+  {
+    "source": "lobsters",
     "url": "https://archive.org/details/FarewellEtaoinShrdlu",
     "title": "‘Farewell, Etaoin Shrdlu’"
   },
   {
     "source": "lobsters",
-    "url": "https://soar.qaidvoid.dev/",
-    "title": "Soar package manager"
+    "url": "https://revisionprompting.info/",
+    "title": "Revision Prompting improves industrial LLM processes"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://ethulhu.co.uk/systemd-dynamicuser",
+    "title": "Systemd Dynamic Users (2020)"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://www.inkandswitch.com/livelymerge/notebook/lm-03/",
+    "title": "The Object Model in Livelymerge"
   },
   {
     "source": "lobsters",
@@ -106,37 +126,27 @@
   },
   {
     "source": "lobsters",
-    "url": "https://blog.rust-lang.org/2026/08/04/enabling-polonius-alpha-on-nightly/",
-    "title": "Enabling the next iteration of the borrow checker on nightly"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://ethulhu.co.uk/systemd-dynamicuser",
-    "title": "Systemd Dynamic Users (2020)"
-  },
-  {
-    "source": "lobsters",
     "url": "https://l0puh.github.io/log/2026/08/04/experiments_with_isolation/",
     "title": "experiments with isolation on blue pill"
   },
   {
     "source": "lobsters",
+    "url": "https://www.sheeeeeeeep.art/multistack-catlangs.html",
+    "title": "Multistack Concatenative Programming Languages"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://www.cppstories.com/2026/semaphore/",
+    "title": "Understanding std::counting_semaphore and std::binary_semaphore from C++20"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://blog.rust-lang.org/2026/08/04/enabling-polonius-alpha-on-nightly/",
+    "title": "Enabling the next iteration of the borrow checker on nightly"
+  },
+  {
+    "source": "lobsters",
     "url": "https://refp.se/articles/your-shell-and-the-lazy-exclamation-mark",
     "title": "A shell exclamation mark is not for yelling. Be lazy"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://taylor.town/leaving-openai",
-    "title": "I'm leaving OpenAI to build Jurassic Park"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://zayenz.se/blog/post/constraint-generated-puzzle-games/",
-    "title": "From constraint models to playable puzzle games"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://notes.hella.cheap/twitter-isnt-a-town-square-its-a-high-school-cafeteria.html",
-    "title": "social media rabbit holes, clusters, and the relative mixing times of random walks"
   }
 ]
