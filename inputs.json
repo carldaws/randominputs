@@ -6,8 +6,18 @@
   },
   {
     "source": "hn",
+    "url": "https://hackaday.com/2026/08/08/want-energy-efficiency-dude-youre-getting-a-dell/",
+    "title": "Can Intel finally beat ARM on performance per Watt?"
+  },
+  {
+    "source": "hn",
     "url": "https://simonwillison.net/2026/Aug/7/openai-timeline/",
     "title": "Timeline of the OpenAI accidental attack against Hugging Face"
+  },
+  {
+    "source": "hn",
+    "url": "https://blog.getutm.app/2026/introducing-triton-directx-11-driver-for-qemu/",
+    "title": "Triton: DirectX 11 Driver for QEMU"
   },
   {
     "source": "hn",
@@ -16,8 +26,8 @@
   },
   {
     "source": "hn",
-    "url": "https://blog.getutm.app/2026/introducing-triton-directx-11-driver-for-qemu/",
-    "title": "Triton: DirectX 11 Driver for QEMU"
+    "url": "https://classicbits.net/coding-and-software/my-software/monosol/",
+    "title": "TinySol, a tiny solitaire game for DOS"
   },
   {
     "source": "hn",
@@ -31,13 +41,18 @@
   },
   {
     "source": "hn",
-    "url": "https://adepts.of0x.cc/eufy-doorbell-hacking/",
-    "title": "From your doorbell to your home network"
+    "url": "https://etbe.coker.com.au/2026/08/05/monitors-for-work/",
+    "title": "Monitors for Work"
   },
   {
     "source": "hn",
-    "url": "https://hackaday.com/2026/08/08/want-energy-efficiency-dude-youre-getting-a-dell/",
-    "title": "Can Intel finally beat ARM on performance per Watt?"
+    "url": "https://sebsite.pw/w/20260806-pystrings.html",
+    "title": "Python string literals are kinda funny"
+  },
+  {
+    "source": "hn",
+    "url": "https://adepts.of0x.cc/eufy-doorbell-hacking/",
+    "title": "From your doorbell to your home network"
   },
   {
     "source": "hn",
@@ -56,28 +71,8 @@
   },
   {
     "source": "hn",
-    "url": "https://www.fratepietro.com/2026/ferrox-rust-gguf-inference-engine/",
-    "title": "Building a Rust Inference Engine That Matches Llama.cpp"
-  },
-  {
-    "source": "hn",
-    "url": "https://etbe.coker.com.au/2026/08/05/monitors-for-work/",
-    "title": "Monitors for Work"
-  },
-  {
-    "source": "hn",
     "url": "https://toonk.io/index.html",
     "title": "Wireblast a 100 Gbps packet generator in Go using AF_XDP"
-  },
-  {
-    "source": "hn",
-    "url": "https://ancientlibrary.net/",
-    "title": "Ancient Library – 1,060 Greek/Latin texts, click any word to parse it"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.ign.com/articles/ramageddon-continues-another-year-as-2027-memory-capacity-is-reportedly-sold-out",
-    "title": "2027 memory capacity is reportedly sold out"
   },
   {
     "source": "lobsters",
@@ -91,18 +86,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://yogthos.net/posts/2026-08-07-portable-jolt.html",
-    "title": "Program images and portable Scheme backends for Jolt"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://soar.qaidvoid.dev/",
-    "title": "Soar package manager"
-  },
-  {
-    "source": "lobsters",
     "url": "https://amiga.com/news/20260804-amiga-update",
     "title": "Amiga August 2026 Update"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://yogthos.net/posts/2026-08-07-portable-jolt.html",
+    "title": "Program images and portable Scheme backends for Jolt"
   },
   {
     "source": "lobsters",
@@ -111,13 +101,18 @@
   },
   {
     "source": "lobsters",
-    "url": "https://pointersgonewild.com/2026-08-06-building-groovie-an-advanced-web-based-drum-beat-sequencer/",
-    "title": "Building Groovie, an Advanced Web-Based Drum Machine / Beat Sequencer"
+    "url": "https://soar.qaidvoid.dev/",
+    "title": "Soar package manager"
   },
   {
     "source": "lobsters",
-    "url": "https://refp.se/articles/your-shell-and-the-lazy-exclamation-mark",
-    "title": "A shell exclamation mark is not for yelling. Be lazy"
+    "url": "https://www.cs.umd.edu/users/gasarch/BLOGPAPERS/moral.pdf",
+    "title": "Some Moral and Technical Consequences of Automation (1960)"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://pointersgonewild.com/2026-08-06-building-groovie-an-advanced-web-based-drum-beat-sequencer/",
+    "title": "Building Groovie, an Advanced Web-Based Drum Machine / Beat Sequencer"
   },
   {
     "source": "lobsters",
@@ -126,8 +121,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://www.cs.umd.edu/users/gasarch/BLOGPAPERS/moral.pdf",
-    "title": "Some Moral and Technical Consequences of Automation (1960)"
+    "url": "https://ethulhu.co.uk/systemd-dynamicuser",
+    "title": "Systemd Dynamic Users (2020)"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://refp.se/articles/your-shell-and-the-lazy-exclamation-mark",
+    "title": "A shell exclamation mark is not for yelling. Be lazy"
   },
   {
     "source": "lobsters",
@@ -148,10 +148,5 @@
     "source": "lobsters",
     "url": "https://bobdahacker.com/blog/tldv-hack",
     "title": "tl;dv (Too Lazy; Didn't Validate): 181,874 Meetings Left Wide Open"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://matklad.github.io/2026/08/06/neat-io-threaded.html",
-    "title": "Zig's Io.Threaded is Neat"
   }
 ]
