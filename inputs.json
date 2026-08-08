@@ -16,8 +16,18 @@
   },
   {
     "source": "hn",
+    "url": "https://0xkrt26.github.io/math_behind_security/2026/08/03/merkle-tree.html",
+    "title": "From One Seed to a Thousand Leaves – Merkle's Authentication Tree"
+  },
+  {
+    "source": "hn",
     "url": "https://www.ign.com/articles/ramageddon-continues-another-year-as-2027-memory-capacity-is-reportedly-sold-out",
     "title": "2027 memory capacity is reportedly sold out"
+  },
+  {
+    "source": "hn",
+    "url": "https://phys.org/news/2026-08-fecal-revolution-earth-ecosystems.html",
+    "title": "How the 'fecal revolution' changed Earth's ecosystems"
   },
   {
     "source": "hn",
@@ -31,28 +41,8 @@
   },
   {
     "source": "hn",
-    "url": "https://phys.org/news/2026-08-fecal-revolution-earth-ecosystems.html",
-    "title": "How the 'fecal revolution' changed Earth's ecosystems"
-  },
-  {
-    "source": "hn",
-    "url": "https://0xkrt26.github.io/math_behind_security/2026/08/03/merkle-tree.html",
-    "title": "From One Seed to a Thousand Leaves – Merkle's Authentication Tree"
-  },
-  {
-    "source": "hn",
     "url": "https://malisper.me/how-we-made-postgres-hundreds-of-times-faster-the-query-engine/",
     "title": "Making Postgres 300x faster for analytics: batching, operator fusion, and SIMD"
-  },
-  {
-    "source": "hn",
-    "url": "https://web.archive.org/web/20260731053721/http://github.com/ancaferro/myNetwork/pull/3",
-    "title": "Mythos social engineering AISI INC-2026-07-28-01"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.theregister.com/security/2026/08/07/water-system-controllers-dont-belong-on-the-internet-says-ex-nsa-chief-after-suspected-iran-attacks/5285070",
-    "title": "Water system controllers don't belong on the internet, says ex-NSA chief"
   },
   {
     "source": "hn",
@@ -61,8 +51,8 @@
   },
   {
     "source": "hn",
-    "url": "https://xvw.lol/en/articles/oop-refl.html",
-    "title": "Guarded Methods in OCaml (2025)"
+    "url": "https://www.theregister.com/security/2026/08/07/water-system-controllers-dont-belong-on-the-internet-says-ex-nsa-chief-after-suspected-iran-attacks/5285070",
+    "title": "Water system controllers don't belong on the internet, says ex-NSA chief"
   },
   {
     "source": "hn",
@@ -71,8 +61,13 @@
   },
   {
     "source": "hn",
-    "url": "https://unsung.aresluna.org/as-a-windows-user-its-a-very-surreal-way-to-install-a-program/",
-    "title": "As a Windows user, it's a surreal way to install a program"
+    "url": "https://xvw.lol/en/articles/oop-refl.html",
+    "title": "Guarded Methods in OCaml (2025)"
+  },
+  {
+    "source": "hn",
+    "url": "https://web.archive.org/web/20260731053721/http://github.com/ancaferro/myNetwork/pull/3",
+    "title": "Mythos social engineering AISI INC-2026-07-28-01"
   },
   {
     "source": "hn",
@@ -101,6 +96,11 @@
   },
   {
     "source": "lobsters",
+    "url": "https://archive.org/details/FarewellEtaoinShrdlu",
+    "title": "‘Farewell, Etaoin Shrdlu’"
+  },
+  {
+    "source": "lobsters",
     "url": "https://matklad.github.io/2026/08/06/neat-io-threaded.html",
     "title": "Zig's Io.Threaded is Neat"
   },
@@ -111,13 +111,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://notes.hella.cheap/twitter-isnt-a-town-square-its-a-high-school-cafeteria.html",
-    "title": "social media rabbit holes, clusters, and the relative mixing times of random walks"
+    "url": "https://c.mov/lymphosat/",
+    "title": "Domain-specific hyperspecialization (for SAT)"
   },
   {
     "source": "lobsters",
-    "url": "https://c.mov/lymphosat/",
-    "title": "Domain-specific hyperspecialization (for SAT)"
+    "url": "https://notes.hella.cheap/twitter-isnt-a-town-square-its-a-high-school-cafeteria.html",
+    "title": "social media rabbit holes, clusters, and the relative mixing times of random walks"
   },
   {
     "source": "lobsters",
