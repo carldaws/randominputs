@@ -6,6 +6,11 @@
   },
   {
     "source": "hn",
+    "url": "https://news.maryland.gov/dnr/2026/08/05/dnr-closes-additional-areas-of-cunningham-falls-state-park-following-second-beaver-attack/",
+    "title": "Maryland Closes More of Cunningham Falls State Park After Second Beaver Attack"
+  },
+  {
+    "source": "hn",
     "url": "https://eclipsefan.org/?v=2&t=max&layers=eclipse%2Cbesselian%2Cumbra-live%2Cshadow-3d%2Ccloud-projection%2Cosm&lat=43.4623&lon=-3.8099&opacity=besselian%3A0.2%2Cumbra-live%3A0.2&zoom=6&palier=minute",
     "title": "Open-source interactive map for the Aug 12 total solar eclipse"
   },
@@ -16,8 +21,8 @@
   },
   {
     "source": "hn",
-    "url": "https://news.maryland.gov/dnr/2026/08/05/dnr-closes-additional-areas-of-cunningham-falls-state-park-following-second-beaver-attack/",
-    "title": "Maryland Closes More of Cunningham Falls State Park After Second Beaver Attack"
+    "url": "http://www.davetech.co.uk/difficultycurves",
+    "title": "Making difficulty curves in games"
   },
   {
     "source": "hn",
@@ -26,8 +31,8 @@
   },
   {
     "source": "hn",
-    "url": "https://sebsite.pw/w/20260806-pystrings.html",
-    "title": "Python string literals are kinda funny"
+    "url": "https://classicbits.net/coding-and-software/my-software/monosol/",
+    "title": "TinySol, a tiny solitaire game for DOS"
   },
   {
     "source": "hn",
@@ -41,13 +46,13 @@
   },
   {
     "source": "hn",
-    "url": "https://buttondown.com/suchbadtechads/archive/gateway-2000-part-2/",
-    "title": "Gateway 2000's hilariously bad ads in the 90s (Part II)"
+    "url": "https://sebsite.pw/w/20260806-pystrings.html",
+    "title": "Python string literals are kinda funny"
   },
   {
     "source": "hn",
-    "url": "https://classicbits.net/coding-and-software/my-software/monosol/",
-    "title": "TinySol, a tiny solitaire game for DOS"
+    "url": "https://buttondown.com/suchbadtechads/archive/gateway-2000-part-2/",
+    "title": "Gateway 2000's hilariously bad ads in the 90s (Part II)"
   },
   {
     "source": "hn",
@@ -56,8 +61,8 @@
   },
   {
     "source": "hn",
-    "url": "https://zaneham.github.io/voyager-fds-emulator/",
-    "title": "Voyager 1 FDS Computer Emulator"
+    "url": "https://web.njit.edu/~akansu/PAPERS/The%20Unreasonable%20Effectiveness%20of%20Mathematics%20(EP%20Wigner).pdf",
+    "title": "The Unreasonable Effectiveness of Mathematics in the Natural Sciences [pdf]"
   },
   {
     "source": "hn",
@@ -75,6 +80,11 @@
     "title": "What happens if an entire class of workers loses faith in their careers"
   },
   {
+    "source": "hn",
+    "url": "https://zaneham.github.io/voyager-fds-emulator/",
+    "title": "Voyager 1 FDS Computer Emulator"
+  },
+  {
     "source": "lobsters",
     "url": "https://char.lt/blog/2026/08/talks-i-like/",
     "title": "some software talks i like"
@@ -86,13 +96,18 @@
   },
   {
     "source": "lobsters",
+    "url": "https://soar.qaidvoid.dev/",
+    "title": "Soar package manager"
+  },
+  {
+    "source": "lobsters",
     "url": "https://yogthos.net/posts/2026-08-07-portable-jolt.html",
     "title": "Program images and portable Scheme backends for Jolt"
   },
   {
     "source": "lobsters",
-    "url": "https://soar.qaidvoid.dev/",
-    "title": "Soar package manager"
+    "url": "https://www.inkandswitch.com/livelymerge/notebook/lm-03/",
+    "title": "The Object Model in Livelymerge"
   },
   {
     "source": "lobsters",
@@ -101,18 +116,18 @@
   },
   {
     "source": "lobsters",
-    "url": "https://revisionprompting.info/",
-    "title": "Revision Prompting improves industrial LLM processes"
-  },
-  {
-    "source": "lobsters",
     "url": "https://ethulhu.co.uk/systemd-dynamicuser",
     "title": "Systemd Dynamic Users (2020)"
   },
   {
     "source": "lobsters",
-    "url": "https://www.inkandswitch.com/livelymerge/notebook/lm-03/",
-    "title": "The Object Model in Livelymerge"
+    "url": "https://revisionprompting.info/",
+    "title": "Revision Prompting improves industrial LLM processes"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://www.sheeeeeeeep.art/multistack-catlangs.html",
+    "title": "Multistack Concatenative Programming Languages"
   },
   {
     "source": "lobsters",
@@ -131,22 +146,7 @@
   },
   {
     "source": "lobsters",
-    "url": "https://www.sheeeeeeeep.art/multistack-catlangs.html",
-    "title": "Multistack Concatenative Programming Languages"
-  },
-  {
-    "source": "lobsters",
     "url": "https://www.cppstories.com/2026/semaphore/",
     "title": "Understanding std::counting_semaphore and std::binary_semaphore from C++20"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://blog.rust-lang.org/2026/08/04/enabling-polonius-alpha-on-nightly/",
-    "title": "Enabling the next iteration of the borrow checker on nightly"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://refp.se/articles/your-shell-and-the-lazy-exclamation-mark",
-    "title": "A shell exclamation mark is not for yelling. Be lazy"
   }
 ]
