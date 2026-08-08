@@ -26,6 +26,11 @@
   },
   {
     "source": "hn",
+    "url": "https://sebsite.pw/w/20260806-pystrings.html",
+    "title": "Python string literals are kinda funny"
+  },
+  {
+    "source": "hn",
     "url": "https://classicbits.net/coding-and-software/my-software/monosol/",
     "title": "TinySol, a tiny solitaire game for DOS"
   },
@@ -46,11 +51,6 @@
   },
   {
     "source": "hn",
-    "url": "https://sebsite.pw/w/20260806-pystrings.html",
-    "title": "Python string literals are kinda funny"
-  },
-  {
-    "source": "hn",
     "url": "https://adepts.of0x.cc/eufy-doorbell-hacking/",
     "title": "From your doorbell to your home network"
   },
@@ -58,11 +58,6 @@
     "source": "hn",
     "url": "https://arcprize.org/results/deepseek-v4-flash-0731",
     "title": "DeepSeek V4 Flash 0731"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.wired.com/story/no-one-can-afford-to-make-myst-games-anymore/",
-    "title": "No one can afford to make Myst games anymore"
   },
   {
     "source": "hn",
@@ -78,11 +73,6 @@
     "source": "lobsters",
     "url": "https://char.lt/blog/2026/08/talks-i-like/",
     "title": "some software talks i like"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://blog.rust-lang.org/2026/08/04/enabling-polonius-alpha-on-nightly/",
-    "title": "Enabling the next iteration of the borrow checker on nightly"
   },
   {
     "source": "lobsters",
@@ -116,13 +106,18 @@
   },
   {
     "source": "lobsters",
-    "url": "https://l0puh.github.io/log/2026/08/04/experiments_with_isolation/",
-    "title": "experiments with isolation on blue pill"
+    "url": "https://blog.rust-lang.org/2026/08/04/enabling-polonius-alpha-on-nightly/",
+    "title": "Enabling the next iteration of the borrow checker on nightly"
   },
   {
     "source": "lobsters",
     "url": "https://ethulhu.co.uk/systemd-dynamicuser",
     "title": "Systemd Dynamic Users (2020)"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://l0puh.github.io/log/2026/08/04/experiments_with_isolation/",
+    "title": "experiments with isolation on blue pill"
   },
   {
     "source": "lobsters",
@@ -143,10 +138,5 @@
     "source": "lobsters",
     "url": "https://notes.hella.cheap/twitter-isnt-a-town-square-its-a-high-school-cafeteria.html",
     "title": "social media rabbit holes, clusters, and the relative mixing times of random walks"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://bobdahacker.com/blog/tldv-hack",
-    "title": "tl;dv (Too Lazy; Didn't Validate): 181,874 Meetings Left Wide Open"
   }
 ]
