@@ -1,11 +1,6 @@
 [
   {
     "source": "hn",
-    "url": "https://blog.senko.net/code-was-never-the-hard-part-is-an-insult-to-all-programmers",
-    "title": "\"Code was never the hard part\" is an insult to all programmers"
-  },
-  {
-    "source": "hn",
     "url": "https://news.maryland.gov/dnr/2026/08/05/dnr-closes-additional-areas-of-cunningham-falls-state-park-following-second-beaver-attack/",
     "title": "Maryland Closes More of Cunningham Falls State Park After Second Beaver Attack"
   },
@@ -41,13 +36,8 @@
   },
   {
     "source": "hn",
-    "url": "https://etbe.coker.com.au/2026/08/05/monitors-for-work/",
-    "title": "Monitors for Work"
-  },
-  {
-    "source": "hn",
-    "url": "https://sebsite.pw/w/20260806-pystrings.html",
-    "title": "Python string literals are kinda funny"
+    "url": "https://www.bloomberg.com/news/articles/2026-08-06/us-military-s-cyber-command-unit-grapples-with-cluster-of-deaths-by-suicide",
+    "title": "US Military's cyber command unit grapples with cluster of deaths by suicide"
   },
   {
     "source": "hn",
@@ -56,13 +46,8 @@
   },
   {
     "source": "hn",
-    "url": "https://www.bloomberg.com/news/articles/2026-08-06/us-military-s-cyber-command-unit-grapples-with-cluster-of-deaths-by-suicide",
-    "title": "US Military's cyber command unit grapples with cluster of deaths by suicide"
-  },
-  {
-    "source": "hn",
-    "url": "https://web.njit.edu/~akansu/PAPERS/The%20Unreasonable%20Effectiveness%20of%20Mathematics%20(EP%20Wigner).pdf",
-    "title": "The Unreasonable Effectiveness of Mathematics in the Natural Sciences [pdf]"
+    "url": "https://blog.senko.net/code-was-never-the-hard-part-is-an-insult-to-all-programmers",
+    "title": "“Code was never the hard part” is an insult to all programmers"
   },
   {
     "source": "hn",
@@ -71,18 +56,23 @@
   },
   {
     "source": "hn",
-    "url": "https://adepts.of0x.cc/eufy-doorbell-hacking/",
-    "title": "From your doorbell to your home network"
-  },
-  {
-    "source": "hn",
     "url": "https://www.noemamag.com/why-is-everyone-in-tech-so-sad/",
     "title": "What happens if an entire class of workers loses faith in their careers"
   },
   {
     "source": "hn",
+    "url": "https://adepts.of0x.cc/eufy-doorbell-hacking/",
+    "title": "From your doorbell to your home network"
+  },
+  {
+    "source": "hn",
     "url": "https://zaneham.github.io/voyager-fds-emulator/",
     "title": "Voyager 1 FDS Computer Emulator"
+  },
+  {
+    "source": "hn",
+    "url": "https://web.njit.edu/~akansu/PAPERS/The%20Unreasonable%20Effectiveness%20of%20Mathematics%20(EP%20Wigner).pdf",
+    "title": "The Unreasonable Effectiveness of Mathematics in the Natural Sciences [pdf]"
   },
   {
     "source": "lobsters",
@@ -91,8 +81,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://amiga.com/news/20260804-amiga-update",
-    "title": "Amiga August 2026 Update"
+    "url": "https://ethulhu.co.uk/systemd-dynamicuser",
+    "title": "Systemd Dynamic Users (2020)"
   },
   {
     "source": "lobsters",
@@ -101,8 +91,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://yogthos.net/posts/2026-08-07-portable-jolt.html",
-    "title": "Program images and portable Scheme backends for Jolt"
+    "url": "https://amiga.com/news/20260804-amiga-update",
+    "title": "Amiga August 2026 Update"
   },
   {
     "source": "lobsters",
@@ -111,23 +101,13 @@
   },
   {
     "source": "lobsters",
+    "url": "https://yogthos.net/posts/2026-08-07-portable-jolt.html",
+    "title": "Program images and portable Scheme backends for Jolt"
+  },
+  {
+    "source": "lobsters",
     "url": "https://archive.org/details/FarewellEtaoinShrdlu",
     "title": "‘Farewell, Etaoin Shrdlu’"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://ethulhu.co.uk/systemd-dynamicuser",
-    "title": "Systemd Dynamic Users (2020)"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://revisionprompting.info/",
-    "title": "Revision Prompting improves industrial LLM processes"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://www.sheeeeeeeep.art/multistack-catlangs.html",
-    "title": "Multistack Concatenative Programming Languages"
   },
   {
     "source": "lobsters",
@@ -136,17 +116,22 @@
   },
   {
     "source": "lobsters",
+    "url": "https://revisionprompting.info/",
+    "title": "Revision Prompting improves industrial LLM processes"
+  },
+  {
+    "source": "lobsters",
     "url": "https://pointersgonewild.com/2026-08-06-building-groovie-an-advanced-web-based-drum-beat-sequencer/",
     "title": "Building Groovie, an Advanced Web-Based Drum Machine / Beat Sequencer"
   },
   {
     "source": "lobsters",
-    "url": "https://l0puh.github.io/log/2026/08/04/experiments_with_isolation/",
-    "title": "experiments with isolation on blue pill"
+    "url": "https://www.sheeeeeeeep.art/multistack-catlangs.html",
+    "title": "Multistack Concatenative Programming Languages"
   },
   {
     "source": "lobsters",
-    "url": "https://www.cppstories.com/2026/semaphore/",
-    "title": "Understanding std::counting_semaphore and std::binary_semaphore from C++20"
+    "url": "https://l0puh.github.io/log/2026/08/04/experiments_with_isolation/",
+    "title": "experiments with isolation on blue pill"
   }
 ]
