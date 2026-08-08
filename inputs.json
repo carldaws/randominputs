@@ -1,6 +1,11 @@
 [
   {
     "source": "hn",
+    "url": "https://zaneham.github.io/voyager-fds-emulator/",
+    "title": "Voyager 1 FDS Computer Emulator"
+  },
+  {
+    "source": "hn",
     "url": "https://arcprize.org/results/deepseek-v4-flash-0731",
     "title": "DeepSeek V4 Flash 0731"
   },
@@ -8,6 +13,16 @@
     "source": "hn",
     "url": "https://www.noemamag.com/why-is-everyone-in-tech-so-sad/",
     "title": "What happens if an entire class of workers loses faith in their careers"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.wired.com/story/no-one-can-afford-to-make-myst-games-anymore/",
+    "title": "No One Can Afford to Make Myst Games Anymore"
+  },
+  {
+    "source": "hn",
+    "url": "https://buttondown.com/suchbadtechads/archive/gateway-2000-part-2/",
+    "title": "Gateway 2000's hilariously bad ads in the 90s (Part II)"
   },
   {
     "source": "hn",
@@ -45,29 +60,14 @@
     "title": "Carl's Required Reading"
   },
   {
-    "source": "hn",
-    "url": "https://malisper.me/how-we-made-postgres-hundreds-of-times-faster-the-query-engine/",
-    "title": "Making Postgres 300x faster for analytics: batching, operator fusion, and SIMD"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.bloomberg.com/news/articles/2026-08-06/us-military-s-cyber-command-unit-grapples-with-cluster-of-deaths-by-suicide",
-    "title": "US Military's Cyber Command Unit Grapples with Cluster of Deaths by Suicide"
-  },
-  {
-    "source": "hn",
-    "url": "https://blog.cloudflare.com/kitesurf/",
-    "title": "Kitesurf: Agent-first browser that runs in V8 isolates"
-  },
-  {
-    "source": "hn",
-    "url": "https://en.wikipedia.org/wiki/Tell_Abu_Hureyra",
-    "title": "Tell Abu Hureyra (prehistoric archaeological site)"
-  },
-  {
     "source": "lobsters",
     "url": "https://archive.org/details/FarewellEtaoinShrdlu",
     "title": "‘Farewell, Etaoin Shrdlu’"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://yogthos.net/posts/2026-08-07-portable-jolt.html",
+    "title": "Program images and portable Scheme backends for Jolt"
   },
   {
     "source": "lobsters",
@@ -76,8 +76,18 @@
   },
   {
     "source": "lobsters",
+    "url": "https://char.lt/blog/2026/08/talks-i-like/",
+    "title": "some software talks i like"
+  },
+  {
+    "source": "lobsters",
     "url": "https://taylor.town/leaving-openai",
     "title": "I'm leaving OpenAI to build Jurassic Park"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://zayenz.se/blog/post/constraint-generated-puzzle-games/",
+    "title": "From constraint models to playable puzzle games"
   },
   {
     "source": "lobsters",
@@ -86,8 +96,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://zayenz.se/blog/post/constraint-generated-puzzle-games/",
-    "title": "From constraint models to playable puzzle games"
+    "url": "https://amiga.com/news/20260804-amiga-update",
+    "title": "Amiga August 2026 Update"
   },
   {
     "source": "lobsters",
@@ -125,11 +135,6 @@
     "title": "How a device finds encrypted DNS by itself"
   },
   {
-    "source": "lobsters",
-    "url": "https://fzakaria.com/2026/08/05/super-mario-derivations",
-    "title": "Super Mario Derivations"
-  },
-  {
     "source": "pinboard",
     "url": "https://www.mayerowitz.io/blog/mario-meets-pareto",
     "title": "Mario meets Pareto"
@@ -138,6 +143,11 @@
     "source": "pinboard",
     "url": "https://semi-rad.com/2026/08/do-it-14000-times-slower-with-this-one-trick/",
     "title": "Do It 14,000 Times Slower With This One Trick – Semi-Rad.com"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://blog.cloudflare.com/kitesurf/",
+    "title": "Introducing Kitesurf: The agent-first browser that runs in V8 isolates on Cloudflare Workers | The Cloudflare Blog"
   },
   {
     "source": "pinboard",
