@@ -1,6 +1,11 @@
 [
   {
     "source": "hn",
+    "url": "https://blog.senko.net/code-was-never-the-hard-part-is-an-insult-to-all-programmers",
+    "title": "\"Code was never the hard part\" is an insult to all programmers"
+  },
+  {
+    "source": "hn",
     "url": "https://simonwillison.net/2026/Aug/7/openai-timeline/",
     "title": "Timeline of the OpenAI accidental attack against Hugging Face"
   },
@@ -21,18 +26,18 @@
   },
   {
     "source": "hn",
-    "url": "https://adepts.of0x.cc/eufy-doorbell-hacking/",
-    "title": "From your doorbell to your home network"
-  },
-  {
-    "source": "hn",
     "url": "https://www.bloomberg.com/news/articles/2026-08-06/us-military-s-cyber-command-unit-grapples-with-cluster-of-deaths-by-suicide",
     "title": "US Military's cyber command unit grapples with cluster of deaths by suicide"
   },
   {
     "source": "hn",
-    "url": "https://www.fratepietro.com/2026/ferrox-rust-gguf-inference-engine/",
-    "title": "Building a Rust Inference Engine That Matches Llama.cpp"
+    "url": "https://adepts.of0x.cc/eufy-doorbell-hacking/",
+    "title": "From your doorbell to your home network"
+  },
+  {
+    "source": "hn",
+    "url": "https://hackaday.com/2026/08/08/want-energy-efficiency-dude-youre-getting-a-dell/",
+    "title": "Can Intel finally beat ARM on performance per Watt?"
   },
   {
     "source": "hn",
@@ -51,8 +56,18 @@
   },
   {
     "source": "hn",
-    "url": "https://andreadimatteo.com/torus-v0-5.html",
-    "title": "Show HN: Rotating torus in terminal (but with kitty graphics protocol)"
+    "url": "https://www.fratepietro.com/2026/ferrox-rust-gguf-inference-engine/",
+    "title": "Building a Rust Inference Engine That Matches Llama.cpp"
+  },
+  {
+    "source": "hn",
+    "url": "https://etbe.coker.com.au/2026/08/05/monitors-for-work/",
+    "title": "Monitors for Work"
+  },
+  {
+    "source": "hn",
+    "url": "https://toonk.io/index.html",
+    "title": "Wireblast a 100 Gbps packet generator in Go using AF_XDP"
   },
   {
     "source": "hn",
@@ -63,11 +78,6 @@
     "source": "hn",
     "url": "https://www.ign.com/articles/ramageddon-continues-another-year-as-2027-memory-capacity-is-reportedly-sold-out",
     "title": "2027 memory capacity is reportedly sold out"
-  },
-  {
-    "source": "hn",
-    "url": "https://unsung.aresluna.org/as-a-windows-user-its-a-very-surreal-way-to-install-a-program/",
-    "title": "As a Windows user, it's a surreal way to install a program"
   },
   {
     "source": "lobsters",
@@ -86,16 +96,6 @@
   },
   {
     "source": "lobsters",
-    "url": "https://pointersgonewild.com/2026-08-06-building-groovie-an-advanced-web-based-drum-beat-sequencer/",
-    "title": "Building Groovie, an Advanced Web-Based Drum Machine / Beat Sequencer"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://archive.org/details/FarewellEtaoinShrdlu",
-    "title": "‘Farewell, Etaoin Shrdlu’"
-  },
-  {
-    "source": "lobsters",
     "url": "https://soar.qaidvoid.dev/",
     "title": "Soar package manager"
   },
@@ -106,8 +106,28 @@
   },
   {
     "source": "lobsters",
+    "url": "https://archive.org/details/FarewellEtaoinShrdlu",
+    "title": "‘Farewell, Etaoin Shrdlu’"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://pointersgonewild.com/2026-08-06-building-groovie-an-advanced-web-based-drum-beat-sequencer/",
+    "title": "Building Groovie, an Advanced Web-Based Drum Machine / Beat Sequencer"
+  },
+  {
+    "source": "lobsters",
     "url": "https://refp.se/articles/your-shell-and-the-lazy-exclamation-mark",
     "title": "A shell exclamation mark is not for yelling. Be lazy"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://l0puh.github.io/log/2026/08/04/experiments_with_isolation/",
+    "title": "experiments with isolation on blue pill"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://www.cs.umd.edu/users/gasarch/BLOGPAPERS/moral.pdf",
+    "title": "Some Moral and Technical Consequences of Automation (1960)"
   },
   {
     "source": "lobsters",
@@ -133,90 +153,5 @@
     "source": "lobsters",
     "url": "https://matklad.github.io/2026/08/06/neat-io-threaded.html",
     "title": "Zig's Io.Threaded is Neat"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://c.mov/lymphosat/",
-    "title": "Domain-specific hyperspecialization (for SAT)"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://utcc.utoronto.ca/~cks/space/blog/programming/EmacsGitBlameOverTime",
-    "title": "Some ways to navigate through 'git blame' over time in GNU Emacs"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.mayerowitz.io/blog/mario-meets-pareto",
-    "title": "Mario meets Pareto"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://semi-rad.com/2026/08/do-it-14000-times-slower-with-this-one-trick/",
-    "title": "Do It 14,000 Times Slower With This One Trick – Semi-Rad.com"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://blog.cloudflare.com/kitesurf/",
-    "title": "Introducing Kitesurf: The agent-first browser that runs in V8 isolates on Cloudflare Workers | The Cloudflare Blog"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://blog.cryptographyengineering.com/2026/07/29/some-notes-about-anthropics-new-results/",
-    "title": "Some thoughts about Anthropic’s new cryptanalysis results – A Few Thoughts on Cryptographic Engineering"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://sightlessscribbles.com/disability-dongle/",
-    "title": "The \"Disability Dongle\": Why Silicon Valley Hates Me and you., Sightless Scribbles"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://celld.dev/",
-    "title": "celld: self-hosted, distributed Durable Objects"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://blog.cloudflare.com/cloudflare-os/",
-    "title": "Cloudflare OS: an open platform for agents, apps, and work | The Cloudflare Blog"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://randsinrepose.com/archives/blade-runner-title-cards/",
-    "title": "The Title Cards in Blade Runner Are Fucking Amazing – Rands in Repose"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://firecrawl.github.io/anydoc/",
-    "title": "anydoc by Firecrawl"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.discoveryloop.com/",
-    "title": "Discovery Loop — Continuous Exploration"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://sheets.works/data-viz/keyboard-sounds",
-    "title": "The Listening Museum"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://research.meta.ai/blog/introducing-muse-code-and-muse-spark-1-2",
-    "title": "Introducing Muse Code and Muse Spark 1.2"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://gruhn.me/blog/2026-08-03/",
-    "title": "Don't be a meat proxy"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.wired.com/story/meta-ran-ads-that-contained-ai-generated-child-sexual-abuse-imagery/",
-    "title": "Meta Ran Ads That Contained AI-Generated Child Sexual Abuse Imagery"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://thereader.mitpress.mit.edu/the-lost-civic-life-of-movie-rental-stores/",
-    "title": "The Lost Civic Life of Movie Rental Stores | The MIT Press Reader"
   }
 ]
