@@ -1,33 +1,13 @@
 [
   {
     "source": "hn",
+    "url": "https://simonwillison.net/2026/Aug/7/openai-timeline/",
+    "title": "Timeline of the OpenAI accidental attack against Hugging Face"
+  },
+  {
+    "source": "hn",
     "url": "https://buttondown.com/suchbadtechads/archive/gateway-2000-part-2/",
     "title": "Gateway 2000's hilariously bad ads in the 90s (Part II)"
-  },
-  {
-    "source": "hn",
-    "url": "https://nate.spot/no-phone-while-poop/",
-    "title": "Don't use your phone while you poop"
-  },
-  {
-    "source": "hn",
-    "url": "https://zaneham.github.io/voyager-fds-emulator/",
-    "title": "Voyager 1 FDS Computer Emulator"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.bloomberg.com/news/articles/2026-08-06/us-military-s-cyber-command-unit-grapples-with-cluster-of-deaths-by-suicide",
-    "title": "US Military's cyber command unit grapples with cluster of deaths by suicide"
-  },
-  {
-    "source": "hn",
-    "url": "https://arcprize.org/results/deepseek-v4-flash-0731",
-    "title": "DeepSeek V4 Flash 0731"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.noemamag.com/why-is-everyone-in-tech-so-sad/",
-    "title": "What happens if an entire class of workers loses faith in their careers"
   },
   {
     "source": "hn",
@@ -36,18 +16,38 @@
   },
   {
     "source": "hn",
+    "url": "https://zaneham.github.io/voyager-fds-emulator/",
+    "title": "Voyager 1 FDS Computer Emulator"
+  },
+  {
+    "source": "hn",
     "url": "https://adepts.of0x.cc/eufy-doorbell-hacking/",
     "title": "From your doorbell to your home network"
   },
   {
     "source": "hn",
-    "url": "https://www.wired.com/story/sensitive-info-goes-into-no-reply-emails-constantly-this-guy-sees-it-all/",
-    "title": "Sensitive Info Goes into 'No Reply' Emails Constantly. This Guy Sees It All"
+    "url": "https://www.bloomberg.com/news/articles/2026-08-06/us-military-s-cyber-command-unit-grapples-with-cluster-of-deaths-by-suicide",
+    "title": "US Military's cyber command unit grapples with cluster of deaths by suicide"
   },
   {
     "source": "hn",
-    "url": "https://ancientlibrary.net/",
-    "title": "Ancient Library – 1,060 Greek/Latin texts, click any word to parse it"
+    "url": "https://www.fratepietro.com/2026/ferrox-rust-gguf-inference-engine/",
+    "title": "Building a Rust Inference Engine That Matches Llama.cpp"
+  },
+  {
+    "source": "hn",
+    "url": "https://arcprize.org/results/deepseek-v4-flash-0731",
+    "title": "DeepSeek V4 Flash 0731"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.wired.com/story/no-one-can-afford-to-make-myst-games-anymore/",
+    "title": "No one can afford to make Myst games anymore"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.noemamag.com/why-is-everyone-in-tech-so-sad/",
+    "title": "What happens if an entire class of workers loses faith in their careers"
   },
   {
     "source": "hn",
@@ -56,18 +56,28 @@
   },
   {
     "source": "hn",
+    "url": "https://ancientlibrary.net/",
+    "title": "Ancient Library – 1,060 Greek/Latin texts, click any word to parse it"
+  },
+  {
+    "source": "hn",
     "url": "https://www.ign.com/articles/ramageddon-continues-another-year-as-2027-memory-capacity-is-reportedly-sold-out",
     "title": "2027 memory capacity is reportedly sold out"
   },
   {
     "source": "hn",
-    "url": "https://0xkrt26.github.io/math_behind_security/2026/08/03/merkle-tree.html",
-    "title": "From One Seed to a Thousand Leaves – Merkle's Authentication Tree"
+    "url": "https://unsung.aresluna.org/as-a-windows-user-its-a-very-surreal-way-to-install-a-program/",
+    "title": "As a Windows user, it's a surreal way to install a program"
   },
   {
     "source": "lobsters",
     "url": "https://char.lt/blog/2026/08/talks-i-like/",
     "title": "some software talks i like"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://blog.rust-lang.org/2026/08/04/enabling-polonius-alpha-on-nightly/",
+    "title": "Enabling the next iteration of the borrow checker on nightly"
   },
   {
     "source": "lobsters",
@@ -86,13 +96,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://amiga.com/news/20260804-amiga-update",
-    "title": "Amiga August 2026 Update"
+    "url": "https://soar.qaidvoid.dev/",
+    "title": "Soar package manager"
   },
   {
     "source": "lobsters",
-    "url": "https://blog.rust-lang.org/2026/08/04/enabling-polonius-alpha-on-nightly/",
-    "title": "Enabling the next iteration of the borrow checker on nightly"
+    "url": "https://amiga.com/news/20260804-amiga-update",
+    "title": "Amiga August 2026 Update"
   },
   {
     "source": "lobsters",
@@ -135,8 +145,78 @@
     "title": "Some ways to navigate through 'git blame' over time in GNU Emacs"
   },
   {
-    "source": "lobsters",
-    "url": "https://trevmex.com/post/824245295374303232/my-son-found-a-world-atlas-in-a-thrift-store-so-i",
-    "title": "I got a 1998 CD-ROM world atlas running on Windows 11"
+    "source": "pinboard",
+    "url": "https://www.mayerowitz.io/blog/mario-meets-pareto",
+    "title": "Mario meets Pareto"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://semi-rad.com/2026/08/do-it-14000-times-slower-with-this-one-trick/",
+    "title": "Do It 14,000 Times Slower With This One Trick – Semi-Rad.com"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://blog.cloudflare.com/kitesurf/",
+    "title": "Introducing Kitesurf: The agent-first browser that runs in V8 isolates on Cloudflare Workers | The Cloudflare Blog"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://blog.cryptographyengineering.com/2026/07/29/some-notes-about-anthropics-new-results/",
+    "title": "Some thoughts about Anthropic’s new cryptanalysis results – A Few Thoughts on Cryptographic Engineering"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://sightlessscribbles.com/disability-dongle/",
+    "title": "The \"Disability Dongle\": Why Silicon Valley Hates Me and you., Sightless Scribbles"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://celld.dev/",
+    "title": "celld: self-hosted, distributed Durable Objects"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://blog.cloudflare.com/cloudflare-os/",
+    "title": "Cloudflare OS: an open platform for agents, apps, and work | The Cloudflare Blog"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://randsinrepose.com/archives/blade-runner-title-cards/",
+    "title": "The Title Cards in Blade Runner Are Fucking Amazing – Rands in Repose"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://firecrawl.github.io/anydoc/",
+    "title": "anydoc by Firecrawl"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.discoveryloop.com/",
+    "title": "Discovery Loop — Continuous Exploration"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://sheets.works/data-viz/keyboard-sounds",
+    "title": "The Listening Museum"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://research.meta.ai/blog/introducing-muse-code-and-muse-spark-1-2",
+    "title": "Introducing Muse Code and Muse Spark 1.2"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://gruhn.me/blog/2026-08-03/",
+    "title": "Don't be a meat proxy"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.wired.com/story/meta-ran-ads-that-contained-ai-generated-child-sexual-abuse-imagery/",
+    "title": "Meta Ran Ads That Contained AI-Generated Child Sexual Abuse Imagery"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://thereader.mitpress.mit.edu/the-lost-civic-life-of-movie-rental-stores/",
+    "title": "The Lost Civic Life of Movie Rental Stores | The MIT Press Reader"
   }
 ]
