@@ -21,13 +21,13 @@
   },
   {
     "source": "hn",
-    "url": "https://www.theregister.com/security/2026/08/07/water-system-controllers-dont-belong-on-the-internet-says-ex-nsa-chief-after-suspected-iran-attacks/5285070",
-    "title": "Water system controllers don't belong on the internet, says ex-NSA chief"
+    "url": "https://xvw.lol/en/articles/oop-refl.html",
+    "title": "Guarded Methods in OCaml (2025)"
   },
   {
     "source": "hn",
-    "url": "https://xvw.lol/en/articles/oop-refl.html",
-    "title": "Guarded Methods in OCaml"
+    "url": "https://www.theregister.com/security/2026/08/07/water-system-controllers-dont-belong-on-the-internet-says-ex-nsa-chief-after-suspected-iran-attacks/5285070",
+    "title": "Water system controllers don't belong on the internet, says ex-NSA chief"
   },
   {
     "source": "hn",
@@ -36,18 +36,8 @@
   },
   {
     "source": "hn",
-    "url": "https://daringfireball.net/2026/08/app_store_rejection_of_the_week_dark_hours",
-    "title": "App Store Rejection of the Week: Dark Hours"
-  },
-  {
-    "source": "hn",
     "url": "https://malisper.me/how-we-made-postgres-hundreds-of-times-faster-the-query-engine/",
     "title": "Making Postgres 300x faster for analytics: batching, operator fusion, and SIMD"
-  },
-  {
-    "source": "hn",
-    "url": "https://blog.cloudflare.com/kitesurf/",
-    "title": "Kitesurf: Agent-first browser that runs in V8 isolates"
   },
   {
     "source": "hn",
@@ -56,8 +46,8 @@
   },
   {
     "source": "hn",
-    "url": "https://quuxplusone.github.io/blog/2026/08/04/mobius-crossword/",
-    "title": "Möbius-Strip Crosswords"
+    "url": "https://blog.cloudflare.com/kitesurf/",
+    "title": "Kitesurf: Agent-first browser that runs in V8 isolates"
   },
   {
     "source": "hn",
@@ -71,23 +61,18 @@
   },
   {
     "source": "hn",
+    "url": "https://quuxplusone.github.io/blog/2026/08/04/mobius-crossword/",
+    "title": "Möbius-Strip Crosswords"
+  },
+  {
+    "source": "hn",
     "url": "https://blog.stackdump.com/posts/petri-net-sequencer",
     "title": "Petri Nets as a Music Sequencer"
   },
   {
     "source": "hn",
-    "url": "https://tracydurnell.com/2023/11/30/building-community-out-of-strangers/",
-    "title": "Building community out of strangers (2023)"
-  },
-  {
-    "source": "hn",
     "url": "https://www.theregister.com/systems/2026/08/06/amd-acquires-ai-chip-startup-taalas-to-boost-inference-performance-by-etching-models-into-silicon/5284344",
     "title": "AMD acquires Taalas to boost inference performance by etching models in silicon"
-  },
-  {
-    "source": "hn",
-    "url": "https://ykiko.me/en/articles/692886292/",
-    "title": "Thoroughly Understanding C++ ABI (2024)"
   },
   {
     "source": "lobsters",
@@ -143,10 +128,5 @@
     "source": "lobsters",
     "url": "https://c.mov/lymphosat/",
     "title": "Domain-specific hyperspecialization (for SAT)"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://celld.dev/",
-    "title": "celld — Durable Objects, self-hosted"
   }
 ]
