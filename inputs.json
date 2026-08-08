@@ -1,6 +1,16 @@
 [
   {
     "source": "hn",
+    "url": "https://trinixy.ru/7039-sssr_v_fotografijakh_100_foto.html",
+    "title": "The USSR in 100 Photographs"
+  },
+  {
+    "source": "hn",
+    "url": "https://simonwillison.net/2026/Aug/7/openai-timeline/",
+    "title": "Now we have a timeline of the OpenAI accidental attack against Hugging Face"
+  },
+  {
+    "source": "hn",
     "url": "https://arcprize.org/results/deepseek-v4-flash-0731",
     "title": "DeepSeek V4 Flash 0731"
   },
@@ -16,23 +26,23 @@
   },
   {
     "source": "hn",
-    "url": "https://www.bloomberg.com/news/articles/2026-08-06/us-military-s-cyber-command-unit-grapples-with-cluster-of-deaths-by-suicide",
-    "title": "US Military's Cyber Command Unit Grapples with Cluster of Deaths by Suicide"
-  },
-  {
-    "source": "hn",
     "url": "https://www.ign.com/articles/ramageddon-continues-another-year-as-2027-memory-capacity-is-reportedly-sold-out",
     "title": "2027 memory capacity is reportedly sold out"
   },
   {
     "source": "hn",
-    "url": "https://en.wikipedia.org/wiki/Tell_Abu_Hureyra",
-    "title": "Tell Abu Hureyra (prehistoric archaeological site)"
+    "url": "https://www.bloomberg.com/news/articles/2026-08-06/us-military-s-cyber-command-unit-grapples-with-cluster-of-deaths-by-suicide",
+    "title": "US Military's Cyber Command Unit Grapples with Cluster of Deaths by Suicide"
   },
   {
     "source": "hn",
     "url": "https://0xkrt26.github.io/math_behind_security/2026/08/03/merkle-tree.html",
     "title": "From One Seed to a Thousand Leaves – Merkle's Authentication Tree"
+  },
+  {
+    "source": "hn",
+    "url": "https://en.wikipedia.org/wiki/Tell_Abu_Hureyra",
+    "title": "Tell Abu Hureyra (prehistoric archaeological site)"
   },
   {
     "source": "hn",
@@ -43,21 +53,6 @@
     "source": "hn",
     "url": "https://carlkolon.com/reading/",
     "title": "Carl's Required Reading"
-  },
-  {
-    "source": "hn",
-    "url": "https://malisper.me/how-we-made-postgres-hundreds-of-times-faster-the-query-engine/",
-    "title": "Making Postgres 300x faster for analytics: batching, operator fusion, and SIMD"
-  },
-  {
-    "source": "hn",
-    "url": "https://blog.cloudflare.com/kitesurf/",
-    "title": "Kitesurf: Agent-first browser that runs in V8 isolates"
-  },
-  {
-    "source": "hn",
-    "url": "https://xvw.lol/en/articles/oop-refl.html",
-    "title": "Guarded Methods in OCaml (2025)"
   },
   {
     "source": "lobsters",
@@ -86,6 +81,11 @@
   },
   {
     "source": "lobsters",
+    "url": "https://notes.hella.cheap/twitter-isnt-a-town-square-its-a-high-school-cafeteria.html",
+    "title": "social media rabbit holes, clusters, and the relative mixing times of random walks"
+  },
+  {
+    "source": "lobsters",
     "url": "https://bobdahacker.com/blog/tldv-hack",
     "title": "tl;dv (Too Lazy; Didn't Validate): 181,874 Meetings Left Wide Open"
   },
@@ -98,11 +98,6 @@
     "source": "lobsters",
     "url": "https://c.mov/lymphosat/",
     "title": "Domain-specific hyperspecialization (for SAT)"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://notes.hella.cheap/twitter-isnt-a-town-square-its-a-high-school-cafeteria.html",
-    "title": "social media rabbit holes, clusters, and the relative mixing times of random walks"
   },
   {
     "source": "lobsters",
