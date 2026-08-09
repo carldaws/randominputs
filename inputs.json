@@ -6,6 +6,16 @@
   },
   {
     "source": "hn",
+    "url": "https://shopify.engineering/scaling-inventory-reservations",
+    "title": "Shopify replaced Redis with MySQL for inventory reservations–and it scaled"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.andrewt.net/dithered-qr-codes/wtf/",
+    "title": "Dithered QR Codes"
+  },
+  {
+    "source": "hn",
     "url": "https://eclipsefan.org/?v=2&t=max&layers=eclipse%2Cbesselian%2Cumbra-live%2Cshadow-3d%2Ccloud-projection%2Cosm&lat=43.4623&lon=-3.8099&opacity=besselian%3A0.2%2Cumbra-live%3A0.2&zoom=6&palier=minute",
     "title": "Open-source interactive map for the Aug 12 total solar eclipse"
   },
@@ -26,8 +36,8 @@
   },
   {
     "source": "hn",
-    "url": "https://news.maryland.gov/dnr/2026/08/05/dnr-closes-additional-areas-of-cunningham-falls-state-park-following-second-beaver-attack/",
-    "title": "Maryland Closes More of Cunningham Falls State Park After Second Beaver Attack"
+    "url": "https://www.bloomberg.com/news/articles/2026-08-06/us-military-s-cyber-command-unit-grapples-with-cluster-of-deaths-by-suicide",
+    "title": "US Military's cyber command unit grapples with cluster of deaths by suicide"
   },
   {
     "source": "hn",
@@ -36,13 +46,8 @@
   },
   {
     "source": "hn",
-    "url": "https://www.bloomberg.com/news/articles/2026-08-06/us-military-s-cyber-command-unit-grapples-with-cluster-of-deaths-by-suicide",
-    "title": "US Military's cyber command unit grapples with cluster of deaths by suicide"
-  },
-  {
-    "source": "hn",
-    "url": "https://classicbits.net/coding-and-software/my-software/monosol/",
-    "title": "TinySol, a tiny solitaire game for DOS"
+    "url": "https://news.maryland.gov/dnr/2026/08/05/dnr-closes-additional-areas-of-cunningham-falls-state-park-following-second-beaver-attack/",
+    "title": "Maryland Closes More of Cunningham Falls State Park After Second Beaver Attack"
   },
   {
     "source": "hn",
@@ -51,8 +56,8 @@
   },
   {
     "source": "hn",
-    "url": "https://www.nyujll.com/volume-14/title-vii-disparate-impact-liability-makes-almost-everything-presumptively-illegal",
-    "title": "Title 7 Disparate Impact Liability Makes Almost Everything Presumptively Illegal"
+    "url": "https://classicbits.net/coding-and-software/my-software/monosol/",
+    "title": "TinySol, a tiny solitaire game for DOS"
   },
   {
     "source": "hn",
@@ -61,18 +66,13 @@
   },
   {
     "source": "hn",
-    "url": "https://arcprize.org/results/deepseek-v4-flash-0731",
-    "title": "DeepSeek V4 Flash 0731"
+    "url": "https://www.nyujll.com/volume-14/title-vii-disparate-impact-liability-makes-almost-everything-presumptively-illegal",
+    "title": "Title 7 Disparate Impact Liability Makes Almost Everything Presumptively Illegal"
   },
   {
     "source": "hn",
-    "url": "https://web.njit.edu/~akansu/PAPERS/The%20Unreasonable%20Effectiveness%20of%20Mathematics%20(EP%20Wigner).pdf",
-    "title": "The Unreasonable Effectiveness of Mathematics in the Natural Sciences [pdf]"
-  },
-  {
-    "source": "hn",
-    "url": "https://zaneham.github.io/voyager-fds-emulator/",
-    "title": "Voyager 1 FDS Computer Emulator"
+    "url": "https://software.rajivprab.com/2019/12/19/when-feature-flags-do-and-dont-make-sense/",
+    "title": "When Feature Flags Do and Don't Make Sense"
   },
   {
     "source": "lobsters",
@@ -86,13 +86,18 @@
   },
   {
     "source": "lobsters",
-    "url": "https://www.inkandswitch.com/livelymerge/notebook/lm-03/",
-    "title": "The Object Model in Livelymerge"
+    "url": "https://dotat.at/@/2026-08-09-rata-die.html",
+    "title": "Counting the days, revisited"
   },
   {
     "source": "lobsters",
     "url": "https://soar.qaidvoid.dev/",
     "title": "Soar package manager"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://www.inkandswitch.com/livelymerge/notebook/lm-03/",
+    "title": "The Object Model in Livelymerge"
   },
   {
     "source": "lobsters",
@@ -111,8 +116,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://blog.dave.tf/post/fastlanes-utl/",
-    "title": "The FastLanes Unified Transport Layout"
+    "url": "https://www.sheeeeeeeep.art/multistack-catlangs.html",
+    "title": "Multistack Concatenative Programming Languages"
   },
   {
     "source": "lobsters",
@@ -121,8 +126,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://www.sheeeeeeeep.art/multistack-catlangs.html",
-    "title": "Multistack Concatenative Programming Languages"
+    "url": "https://blog.dave.tf/post/fastlanes-utl/",
+    "title": "The FastLanes Unified Transport Layout"
   },
   {
     "source": "lobsters",
@@ -135,8 +140,78 @@
     "title": "Building Groovie, an Advanced Web-Based Drum Machine / Beat Sequencer"
   },
   {
-    "source": "lobsters",
-    "url": "https://l0puh.github.io/log/2026/08/04/experiments_with_isolation/",
-    "title": "experiments with isolation on blue pill"
+    "source": "pinboard",
+    "url": "https://www.mayerowitz.io/blog/mario-meets-pareto",
+    "title": "Mario meets Pareto"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://semi-rad.com/2026/08/do-it-14000-times-slower-with-this-one-trick/",
+    "title": "Do It 14,000 Times Slower With This One Trick – Semi-Rad.com"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://blog.cloudflare.com/kitesurf/",
+    "title": "Introducing Kitesurf: The agent-first browser that runs in V8 isolates on Cloudflare Workers | The Cloudflare Blog"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://blog.cryptographyengineering.com/2026/07/29/some-notes-about-anthropics-new-results/",
+    "title": "Some thoughts about Anthropic’s new cryptanalysis results – A Few Thoughts on Cryptographic Engineering"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://sightlessscribbles.com/disability-dongle/",
+    "title": "The \"Disability Dongle\": Why Silicon Valley Hates Me and you., Sightless Scribbles"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://celld.dev/",
+    "title": "celld: self-hosted, distributed Durable Objects"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://blog.cloudflare.com/cloudflare-os/",
+    "title": "Cloudflare OS: an open platform for agents, apps, and work | The Cloudflare Blog"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://randsinrepose.com/archives/blade-runner-title-cards/",
+    "title": "The Title Cards in Blade Runner Are Fucking Amazing – Rands in Repose"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://firecrawl.github.io/anydoc/",
+    "title": "anydoc by Firecrawl"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.discoveryloop.com/",
+    "title": "Discovery Loop — Continuous Exploration"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://sheets.works/data-viz/keyboard-sounds",
+    "title": "The Listening Museum"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://research.meta.ai/blog/introducing-muse-code-and-muse-spark-1-2",
+    "title": "Introducing Muse Code and Muse Spark 1.2"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://gruhn.me/blog/2026-08-03/",
+    "title": "Don't be a meat proxy"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.wired.com/story/meta-ran-ads-that-contained-ai-generated-child-sexual-abuse-imagery/",
+    "title": "Meta Ran Ads That Contained AI-Generated Child Sexual Abuse Imagery"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://thereader.mitpress.mit.edu/the-lost-civic-life-of-movie-rental-stores/",
+    "title": "The Lost Civic Life of Movie Rental Stores | The MIT Press Reader"
   }
 ]
