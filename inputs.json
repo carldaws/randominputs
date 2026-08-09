@@ -26,18 +26,8 @@
   },
   {
     "source": "hn",
-    "url": "https://www.andrewt.net/dithered-qr-codes/wtf/",
-    "title": "Dithered QR Codes"
-  },
-  {
-    "source": "hn",
-    "url": "https://oskrim.github.io/hardware/2026/08/09/remarkable-over-ssh.html",
-    "title": "Reviving a four year old reMarkable 2"
-  },
-  {
-    "source": "hn",
-    "url": "https://shopify.engineering/scaling-inventory-reservations",
-    "title": "Shopify replaced Redis with MySQL for inventory reservations–and it scaled"
+    "url": "https://blog.denv.it/posts/when-the-apartment-listing-is-too-good-to-be-true/",
+    "title": "When the apartment listing is too good to be true"
   },
   {
     "source": "hn",
@@ -46,13 +36,18 @@
   },
   {
     "source": "hn",
-    "url": "https://alexandrelamure.github.io/graphics-posts/stylized-ggx-shading.html",
-    "title": "Stylized GGX Shading"
+    "url": "https://www.andrewt.net/dithered-qr-codes/wtf/",
+    "title": "Dithered QR Codes"
   },
   {
     "source": "hn",
-    "url": "https://unherd.com/2026/08/how-to-survive-on-a-louisiana-swamp/",
-    "title": "How to Survive in a Louisiana Swamp"
+    "url": "https://shopify.engineering/scaling-inventory-reservations",
+    "title": "Shopify replaced Redis with MySQL for inventory reservations–and it scaled"
+  },
+  {
+    "source": "hn",
+    "url": "https://oskrim.github.io/hardware/2026/08/09/remarkable-over-ssh.html",
+    "title": "Reviving a four year old reMarkable 2"
   },
   {
     "source": "hn",
@@ -61,18 +56,28 @@
   },
   {
     "source": "hn",
-    "url": "https://airy.so",
-    "title": "Show HN: Airy – Free, fast, and simple voice content creation"
+    "url": "https://eclipsefan.org/?v=2&t=max&layers=eclipse%2Cbesselian%2Cumbra-live%2Cshadow-3d%2Ccloud-projection%2Cosm&lat=43.4623&lon=-3.8099&opacity=besselian%3A0.2%2Cumbra-live%3A0.2&zoom=6&palier=minute",
+    "title": "Open-source interactive map for the Aug 12 total solar eclipse"
   },
   {
     "source": "hn",
-    "url": "https://eclipsefan.org/?v=2&t=max&layers=eclipse%2Cbesselian%2Cumbra-live%2Cshadow-3d%2Ccloud-projection%2Cosm&lat=43.4623&lon=-3.8099&opacity=besselian%3A0.2%2Cumbra-live%3A0.2&zoom=6&palier=minute",
-    "title": "Open-source interactive map for the Aug 12 total solar eclipse"
+    "url": "https://alexandrelamure.github.io/graphics-posts/stylized-ggx-shading.html",
+    "title": "Stylized GGX Shading"
+  },
+  {
+    "source": "hn",
+    "url": "https://airy.so",
+    "title": "Show HN: Airy – Free, fast, and simple voice content creation"
   },
   {
     "source": "lobsters",
     "url": "https://michael.stapelberg.ch/posts/2026-08-09-zsh-history-truncation-bug/",
     "title": "Tracking down a Zsh history data loss bug"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://kristoff.it/blog/source-code-availability/",
+    "title": "Who Should Pay For Source Code Availability?"
   },
   {
     "source": "lobsters",
@@ -91,8 +96,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://siderea.dreamwidth.org/1219758.html",
-    "title": "What Software is Made Of (2015)"
+    "url": "https://blog.netbsd.org/tnf/entry/gsoc2026_enlightenment",
+    "title": "Port the Enlightenment desktop environment to NetBSD"
   },
   {
     "source": "lobsters",
@@ -106,18 +111,23 @@
   },
   {
     "source": "lobsters",
+    "url": "https://devblog.archlinux.page/2026/on-scripts-and-hooks/",
+    "title": "On Arch Linux scripts and hooks"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://antonz.org/relying-on-go/",
+    "title": "Relying on Go"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://nickvsnetworking.com/3g-at-last/",
+    "title": "3G at last"
+  },
+  {
+    "source": "lobsters",
     "url": "https://www.sheeeeeeeep.art/multistack-catlangs.html",
     "title": "Multistack Concatenative Programming Languages"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://blog.netbsd.org/tnf/entry/gsoc2026_enlightenment",
-    "title": "Port the Enlightenment desktop environment to NetBSD"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://kristoff.it/blog/source-code-availability/",
-    "title": "Who Should Pay For Source Code Availability?"
   },
   {
     "source": "lobsters",
@@ -130,13 +140,73 @@
     "title": "The Object Model in Livelymerge"
   },
   {
-    "source": "lobsters",
-    "url": "https://soar.qaidvoid.dev/",
-    "title": "Soar package manager"
+    "source": "pinboard",
+    "url": "https://www.mayerowitz.io/blog/mario-meets-pareto",
+    "title": "Mario meets Pareto"
   },
   {
-    "source": "lobsters",
-    "url": "https://nickvsnetworking.com/3g-at-last/",
-    "title": "3G at last"
+    "source": "pinboard",
+    "url": "https://semi-rad.com/2026/08/do-it-14000-times-slower-with-this-one-trick/",
+    "title": "Do It 14,000 Times Slower With This One Trick – Semi-Rad.com"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.noemamag.com/why-is-everyone-in-tech-so-sad/",
+    "title": "Why Is Everyone In Tech So Sad?"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://carlkolon.com/reading/",
+    "title": "Reading"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://blog.cloudflare.com/kitesurf/",
+    "title": "Introducing Kitesurf: The agent-first browser that runs in V8 isolates on Cloudflare Workers | The Cloudflare Blog"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.schneier.com/blog/archives/2026/07/should-you-use-ai-for-a-task-heres-a-simple-way-to-decide.html",
+    "title": "Should You Use AI for a Task? Here’s a Simple Way to Decide - Schneier on Security"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://firecrawl.github.io/anydoc/",
+    "title": "anydoc by Firecrawl"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://agent-plugins.org/",
+    "title": "Agent Plugins"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://blog.google/company-news/inside-google/message-ceo/next-chapter-ai-momentum/",
+    "title": "The next chapter of our AI momentum: Demis Hassabis will be taking on a new strategic role as Chair of GDM and Chief Scientist of Alphabet (in order to focus on Isomorphic and human health benefits from AGI)"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://scalex.dev/blog/ai-agent-permissions-stats/",
+    "title": "Humans missed 1 in 3 threats approving AI agent commands across 40,000 plays (scalex.dev)"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://boyswhocriedai.lovable.app/archive",
+    "title": "Archive - Incorrect AI Predictions"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://ancientlibrary.net/",
+    "title": "Ancient Library - The Greek and Latin classics — every word parsed, every form defined."
+  },
+  {
+    "source": "pinboard",
+    "url": "https://blog.cloudflare.com/cloudflare-os/",
+    "title": "Cloudflare OS: an open platform for agents, apps, and work | The Cloudflare Blog"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://thereader.mitpress.mit.edu/the-lost-civic-life-of-movie-rental-stores/",
+    "title": "The Lost Civic Life of Movie Rental Stores | The MIT Press Reader"
   }
 ]
