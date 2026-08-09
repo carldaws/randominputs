@@ -6,23 +6,18 @@
   },
   {
     "source": "hn",
+    "url": "https://frequal.com/aptera/ProductionImminent.html",
+    "title": "Production Imminent: 40 Solar-Charging Aptera EVs Coming Soon"
+  },
+  {
+    "source": "hn",
+    "url": "https://openchamber.dev/",
+    "title": "OpenChamber: An Agentic Development Environment"
+  },
+  {
+    "source": "hn",
     "url": "https://www.shayon.dev/post/2026/220/every-fast-write-moves-work-somewhere-else/",
     "title": "Every fast write moves work somewhere else"
-  },
-  {
-    "source": "hn",
-    "url": "https://dylancastillo.co/posts/matryoshka-vs-pca",
-    "title": "Honey, I shrunk the embeddings: Matryoshka vs. PCA"
-  },
-  {
-    "source": "hn",
-    "url": "https://gukov.dev/math/2026/08/02/new-magic-hexagons.html",
-    "title": "There Are Magic Hexagons of Every Order"
-  },
-  {
-    "source": "hn",
-    "url": "https://seg6.space/posts/phone-server/",
-    "title": "My server is a phone now"
   },
   {
     "source": "hn",
@@ -31,18 +26,18 @@
   },
   {
     "source": "hn",
+    "url": "https://gukov.dev/math/2026/08/02/new-magic-hexagons.html",
+    "title": "There Are Magic Hexagons of Every Order"
+  },
+  {
+    "source": "hn",
     "url": "https://www.techeblog.com/tom-stanton-supersonic-trebuchet/",
     "title": "Tom Stanton's supersonic trebuchet breaks sound barrier with gravity alone"
   },
   {
     "source": "hn",
-    "url": "https://practical.engineering/blog/2026/8/4/the-grid-that-doubles-the-strength-of-the-ground",
-    "title": "The Grid That Doubles the Strength of the Ground"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.andrewt.net/dithered-qr-codes/wtf/",
-    "title": "Dithered QR Codes"
+    "url": "https://ai-updates.net/an-openai-strategist-says-ai-labs-should-rival-government-power/",
+    "title": "An OpenAI Strategist Says AI Labs Should Rival Government Power"
   },
   {
     "source": "hn",
@@ -56,8 +51,18 @@
   },
   {
     "source": "hn",
-    "url": "https://shopify.engineering/scaling-inventory-reservations",
-    "title": "We replaced Redis with MySQL for inventory reservations and it scaled"
+    "url": "https://www.andrewt.net/dithered-qr-codes/wtf/",
+    "title": "Dithered QR Codes"
+  },
+  {
+    "source": "hn",
+    "url": "https://practical.engineering/blog/2026/8/4/the-grid-that-doubles-the-strength-of-the-ground",
+    "title": "The Grid That Doubles the Strength of the Ground"
+  },
+  {
+    "source": "hn",
+    "url": "https://unyolo.io/",
+    "title": "UnYOLO: Agent credential broker and policy engine for your GitHub account"
   },
   {
     "source": "hn",
@@ -66,13 +71,8 @@
   },
   {
     "source": "hn",
-    "url": "https://www.historytoday.com/archive/history-matters/willoughbyland-englands-forgotten-south-american-colony",
-    "title": "Willoughbyland: England's Forgotten South American Colony"
-  },
-  {
-    "source": "hn",
-    "url": "https://alexandrelamure.github.io/graphics-posts/stylized-ggx-shading.html",
-    "title": "Stylized GGX Shading"
+    "url": "https://seg6.space/posts/phone-server/",
+    "title": "My server is a phone now"
   },
   {
     "source": "lobsters",
@@ -86,6 +86,11 @@
   },
   {
     "source": "lobsters",
+    "url": "https://antonz.org/relying-on-go/",
+    "title": "Relying on Go"
+  },
+  {
+    "source": "lobsters",
     "url": "https://blog.senko.net/code-was-never-the-hard-part-is-an-insult-to-all-programmers",
     "title": "\"Code was never the hard part\" is an insult to all programmers"
   },
@@ -93,11 +98,6 @@
     "source": "lobsters",
     "url": "https://char.lt/blog/2026/08/talks-i-like/",
     "title": "some software talks i like"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://antonz.org/relying-on-go/",
-    "title": "Relying on Go"
   },
   {
     "source": "lobsters",
@@ -116,18 +116,23 @@
   },
   {
     "source": "lobsters",
-    "url": "https://devblog.archlinux.page/2026/on-scripts-and-hooks/",
-    "title": "On Arch Linux scripts and hooks"
-  },
-  {
-    "source": "lobsters",
     "url": "https://blog.getutm.app/2026/introducing-triton-directx-11-driver-for-qemu/",
     "title": "Triton: DirectX 11 driver for QEMU"
   },
   {
     "source": "lobsters",
+    "url": "https://devblog.archlinux.page/2026/on-scripts-and-hooks/",
+    "title": "On Arch Linux scripts and hooks"
+  },
+  {
+    "source": "lobsters",
     "url": "https://blog.netbsd.org/tnf/entry/gsoc2026_enlightenment",
     "title": "Port the Enlightenment desktop environment to NetBSD"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://postmarketos.org/blog/2026/08/06/pmOS-update-2026-07/",
+    "title": "postmarketOS in 2026-07: libcamera 0.7.2"
   },
   {
     "source": "lobsters",
@@ -138,11 +143,6 @@
     "source": "lobsters",
     "url": "https://www.sheeeeeeeep.art/multistack-catlangs.html",
     "title": "Multistack Concatenative Programming Languages"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://postmarketos.org/blog/2026/08/06/pmOS-update-2026-07/",
-    "title": "postmarketOS in 2026-07: libcamera 0.7.2"
   },
   {
     "source": "pinboard",
@@ -198,6 +198,11 @@
     "source": "pinboard",
     "url": "https://boyswhocriedai.lovable.app/archive",
     "title": "Archive - Incorrect AI Predictions"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://ancientlibrary.net/",
+    "title": "Ancient Library - The Greek and Latin classics — every word parsed, every form defined."
   },
   {
     "source": "pinboard",
