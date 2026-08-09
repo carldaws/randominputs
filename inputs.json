@@ -1,13 +1,13 @@
 [
   {
     "source": "hn",
-    "url": "https://blog.terrygodier.com/2026/08/09/mea-culpa-dark-hours.html",
-    "title": "Mea Culpa – Dark Hours"
+    "url": "https://laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn/",
+    "title": "How I use LLMs to learn complex topics"
   },
   {
     "source": "hn",
-    "url": "https://rozumem.xyz/posts/19",
-    "title": "Saying No"
+    "url": "https://blog.terrygodier.com/2026/08/09/mea-culpa-dark-hours.html",
+    "title": "Mea Culpa – Dark Hours"
   },
   {
     "source": "hn",
@@ -16,23 +16,23 @@
   },
   {
     "source": "hn",
-    "url": "https://frequal.com/aptera/ProductionImminent.html",
-    "title": "Production Imminent: 40 Solar-Charging Aptera EVs Coming Soon"
-  },
-  {
-    "source": "hn",
-    "url": "https://laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn/",
-    "title": "I use LLMs to learn complex topics"
-  },
-  {
-    "source": "hn",
     "url": "https://en.wikipedia.org/wiki/Crickets_as_pets",
     "title": "Crickets as Pets"
   },
   {
     "source": "hn",
-    "url": "https://gukov.dev/math/2026/08/02/new-magic-hexagons.html",
-    "title": "There Are Magic Hexagons of Every Order"
+    "url": "https://www.newyorker.com/magazine/2026/08/10/silence-kate-mcloughlin-book-review",
+    "title": "How Golden Is Silence, Actually?"
+  },
+  {
+    "source": "hn",
+    "url": "https://rozumem.xyz/posts/19",
+    "title": "Saying No"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.theregister.com/security/2026/08/09/ransomware-gangs-skip-the-ceo-head-straight-for-the-40-something-it-manager/5284499",
+    "title": "Ransomware gangs skip the CEO, head straight for the 40-something IT manager"
   },
   {
     "source": "hn",
@@ -41,13 +41,13 @@
   },
   {
     "source": "hn",
-    "url": "https://www.techeblog.com/tom-stanton-supersonic-trebuchet/",
-    "title": "Tom Stanton's supersonic trebuchet breaks sound barrier with gravity alone"
+    "url": "https://gukov.dev/math/2026/08/02/new-magic-hexagons.html",
+    "title": "There Are Magic Hexagons of Every Order"
   },
   {
     "source": "hn",
-    "url": "https://chriswheeler.dev/posts/cross-compilation-with-wails/",
-    "title": "Cross-compilation with Wails (2025)"
+    "url": "https://www.techeblog.com/tom-stanton-supersonic-trebuchet/",
+    "title": "Tom Stanton's supersonic trebuchet breaks sound barrier with gravity alone"
   },
   {
     "source": "hn",
@@ -61,6 +61,11 @@
   },
   {
     "source": "hn",
+    "url": "https://chriswheeler.dev/posts/cross-compilation-with-wails/",
+    "title": "Cross-compilation with Wails (2025)"
+  },
+  {
+    "source": "hn",
     "url": "https://halfhill.com/byte/1998-12_alpha.html",
     "title": "The Alpha 21264 CPU: NT's Greatest RISC (1998)"
   },
@@ -68,11 +73,6 @@
     "source": "hn",
     "url": "https://practical.engineering/blog/2026/8/4/the-grid-that-doubles-the-strength-of-the-ground",
     "title": "The Grid That Doubles the Strength of the Ground"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.theregister.com/security/2026/08/09/ransomware-gangs-skip-the-ceo-head-straight-for-the-40-something-it-manager/5284499",
-    "title": "Ransomware gangs skip the CEO, head straight for the 40-something IT manager"
   },
   {
     "source": "lobsters",
@@ -91,13 +91,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://www.andrewt.net/dithered-qr-codes/wtf/",
-    "title": "Dithered QR codes"
+    "url": "https://www.ilmarilauhakangas.fi/irc_technology_news_from_the_first_half_of_2026/",
+    "title": "IRC technology news from the first half of 2026"
   },
   {
     "source": "lobsters",
-    "url": "https://www.ilmarilauhakangas.fi/irc_technology_news_from_the_first_half_of_2026/",
-    "title": "IRC technology news from the first half of 2026"
+    "url": "https://www.andrewt.net/dithered-qr-codes/wtf/",
+    "title": "Dithered QR codes"
   },
   {
     "source": "lobsters",
@@ -126,6 +126,11 @@
   },
   {
     "source": "lobsters",
+    "url": "https://www.efinancialcareers.com/news/a-high-frequency-trading-firm-just-hired-bjarne-stroustrup-creator-of-c",
+    "title": "High-frequency trading firm just hired Bjarne Stroustrup (creator of C++)"
+  },
+  {
+    "source": "lobsters",
     "url": "https://blog.netbsd.org/tnf/entry/gsoc2026_enlightenment",
     "title": "Port the Enlightenment desktop environment to NetBSD"
   },
@@ -143,6 +148,11 @@
     "source": "lobsters",
     "url": "https://postmarketos.org/blog/2026/08/06/pmOS-update-2026-07/",
     "title": "postmarketOS in 2026-07: libcamera 0.7.2"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://blog.waleedkhan.name/commit-message-test-plans/",
+    "title": "Commit message test plans"
   },
   {
     "source": "lobsters",
