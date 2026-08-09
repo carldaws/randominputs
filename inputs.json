@@ -1,8 +1,8 @@
 [
   {
     "source": "hn",
-    "url": "https://news.maryland.gov/dnr/2026/08/05/dnr-closes-additional-areas-of-cunningham-falls-state-park-following-second-beaver-attack/",
-    "title": "Maryland Closes More of Cunningham Falls State Park After Second Beaver Attack"
+    "url": "https://seg6.space/posts/phone-server/",
+    "title": "My server is a phone now"
   },
   {
     "source": "hn",
@@ -11,13 +11,13 @@
   },
   {
     "source": "hn",
-    "url": "https://hackaday.com/2026/08/08/want-energy-efficiency-dude-youre-getting-a-dell/",
-    "title": "Can Intel finally beat ARM on performance per Watt?"
+    "url": "http://www.davetech.co.uk/difficultycurves",
+    "title": "Making difficulty curves in games"
   },
   {
     "source": "hn",
-    "url": "http://www.davetech.co.uk/difficultycurves",
-    "title": "Making difficulty curves in games"
+    "url": "https://hackaday.com/2026/08/08/want-energy-efficiency-dude-youre-getting-a-dell/",
+    "title": "Can Intel finally beat ARM on performance per Watt?"
   },
   {
     "source": "hn",
@@ -26,8 +26,8 @@
   },
   {
     "source": "hn",
-    "url": "https://classicbits.net/coding-and-software/my-software/monosol/",
-    "title": "TinySol, a tiny solitaire game for DOS"
+    "url": "https://news.maryland.gov/dnr/2026/08/05/dnr-closes-additional-areas-of-cunningham-falls-state-park-following-second-beaver-attack/",
+    "title": "Maryland Closes More of Cunningham Falls State Park After Second Beaver Attack"
   },
   {
     "source": "hn",
@@ -41,8 +41,18 @@
   },
   {
     "source": "hn",
+    "url": "https://classicbits.net/coding-and-software/my-software/monosol/",
+    "title": "TinySol, a tiny solitaire game for DOS"
+  },
+  {
+    "source": "hn",
     "url": "https://buttondown.com/suchbadtechads/archive/gateway-2000-part-2/",
     "title": "Gateway 2000's hilariously bad ads in the 90s (Part II)"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.nyujll.com/volume-14/title-vii-disparate-impact-liability-makes-almost-everything-presumptively-illegal",
+    "title": "Title 7 Disparate Impact Liability Makes Almost Everything Presumptively Illegal"
   },
   {
     "source": "hn",
@@ -56,23 +66,13 @@
   },
   {
     "source": "hn",
-    "url": "https://www.noemamag.com/why-is-everyone-in-tech-so-sad/",
-    "title": "What happens if an entire class of workers loses faith in their careers"
-  },
-  {
-    "source": "hn",
-    "url": "https://adepts.of0x.cc/eufy-doorbell-hacking/",
-    "title": "From your doorbell to your home network"
+    "url": "https://web.njit.edu/~akansu/PAPERS/The%20Unreasonable%20Effectiveness%20of%20Mathematics%20(EP%20Wigner).pdf",
+    "title": "The Unreasonable Effectiveness of Mathematics in the Natural Sciences [pdf]"
   },
   {
     "source": "hn",
     "url": "https://zaneham.github.io/voyager-fds-emulator/",
     "title": "Voyager 1 FDS Computer Emulator"
-  },
-  {
-    "source": "hn",
-    "url": "https://web.njit.edu/~akansu/PAPERS/The%20Unreasonable%20Effectiveness%20of%20Mathematics%20(EP%20Wigner).pdf",
-    "title": "The Unreasonable Effectiveness of Mathematics in the Natural Sciences [pdf]"
   },
   {
     "source": "lobsters",
@@ -86,6 +86,11 @@
   },
   {
     "source": "lobsters",
+    "url": "https://www.inkandswitch.com/livelymerge/notebook/lm-03/",
+    "title": "The Object Model in Livelymerge"
+  },
+  {
+    "source": "lobsters",
     "url": "https://soar.qaidvoid.dev/",
     "title": "Soar package manager"
   },
@@ -96,23 +101,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://www.inkandswitch.com/livelymerge/notebook/lm-03/",
-    "title": "The Object Model in Livelymerge"
-  },
-  {
-    "source": "lobsters",
     "url": "https://yogthos.net/posts/2026-08-07-portable-jolt.html",
     "title": "Program images and portable Scheme backends for Jolt"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://archive.org/details/FarewellEtaoinShrdlu",
-    "title": "‘Farewell, Etaoin Shrdlu’"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://www.cs.umd.edu/users/gasarch/BLOGPAPERS/moral.pdf",
-    "title": "Some Moral and Technical Consequences of Automation (1960)"
   },
   {
     "source": "lobsters",
@@ -121,13 +111,28 @@
   },
   {
     "source": "lobsters",
-    "url": "https://pointersgonewild.com/2026-08-06-building-groovie-an-advanced-web-based-drum-beat-sequencer/",
-    "title": "Building Groovie, an Advanced Web-Based Drum Machine / Beat Sequencer"
+    "url": "https://blog.dave.tf/post/fastlanes-utl/",
+    "title": "The FastLanes Unified Transport Layout"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://archive.org/details/FarewellEtaoinShrdlu",
+    "title": "‘Farewell, Etaoin Shrdlu’"
   },
   {
     "source": "lobsters",
     "url": "https://www.sheeeeeeeep.art/multistack-catlangs.html",
     "title": "Multistack Concatenative Programming Languages"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://www.cs.umd.edu/users/gasarch/BLOGPAPERS/moral.pdf",
+    "title": "Some Moral and Technical Consequences of Automation (1960)"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://pointersgonewild.com/2026-08-06-building-groovie-an-advanced-web-based-drum-beat-sequencer/",
+    "title": "Building Groovie, an Advanced Web-Based Drum Machine / Beat Sequencer"
   },
   {
     "source": "lobsters",
