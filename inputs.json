@@ -1,8 +1,8 @@
 [
   {
     "source": "hn",
-    "url": "https://oskrim.github.io/hardware/2026/08/09/remarkable-over-ssh.html",
-    "title": "Reviving a four year old reMarkable 2"
+    "url": "https://blog.terrygodier.com/2026/08/09/mea-culpa-dark-hours.html",
+    "title": "Mea Culpa – Dark Hours"
   },
   {
     "source": "hn",
@@ -31,13 +31,18 @@
   },
   {
     "source": "hn",
+    "url": "https://oskrim.github.io/hardware/2026/08/09/remarkable-over-ssh.html",
+    "title": "Reviving a four year old reMarkable 2"
+  },
+  {
+    "source": "hn",
     "url": "https://shopify.engineering/scaling-inventory-reservations",
     "title": "Shopify replaced Redis with MySQL for inventory reservations–and it scaled"
   },
   {
     "source": "hn",
-    "url": "https://airy.so",
-    "title": "Show HN: Airy – Free, fast, and simple voice content creation"
+    "url": "https://dylancastillo.co/posts/matryoshka-vs-pca",
+    "title": "Honey, I shrunk the embeddings: Matryoshka vs. PCA"
   },
   {
     "source": "hn",
@@ -46,18 +51,23 @@
   },
   {
     "source": "hn",
+    "url": "https://unherd.com/2026/08/how-to-survive-on-a-louisiana-swamp/",
+    "title": "How to Survive in a Louisiana Swamp"
+  },
+  {
+    "source": "hn",
     "url": "http://www.davetech.co.uk/difficultycurves",
     "title": "Making difficulty curves in games"
   },
   {
     "source": "hn",
-    "url": "https://eclipsefan.org/?v=2&t=max&layers=eclipse%2Cbesselian%2Cumbra-live%2Cshadow-3d%2Ccloud-projection%2Cosm&lat=43.4623&lon=-3.8099&opacity=besselian%3A0.2%2Cumbra-live%3A0.2&zoom=6&palier=minute",
-    "title": "Open-source interactive map for the Aug 12 total solar eclipse"
+    "url": "https://airy.so",
+    "title": "Show HN: Airy – Free, fast, and simple voice content creation"
   },
   {
     "source": "hn",
-    "url": "https://unherd.com/2026/08/how-to-survive-on-a-louisiana-swamp/",
-    "title": "How to Survive in a Louisiana Swamp"
+    "url": "https://eclipsefan.org/?v=2&t=max&layers=eclipse%2Cbesselian%2Cumbra-live%2Cshadow-3d%2Ccloud-projection%2Cosm&lat=43.4623&lon=-3.8099&opacity=besselian%3A0.2%2Cumbra-live%3A0.2&zoom=6&palier=minute",
+    "title": "Open-source interactive map for the Aug 12 total solar eclipse"
   },
   {
     "source": "lobsters",
@@ -76,13 +86,18 @@
   },
   {
     "source": "lobsters",
-    "url": "https://blog.getutm.app/2026/introducing-triton-directx-11-driver-for-qemu/",
-    "title": "Triton: DirectX 11 driver for QEMU"
+    "url": "https://dotat.at/@/2026-08-09-rata-die.html",
+    "title": "Counting the days, revisited"
   },
   {
     "source": "lobsters",
-    "url": "https://www.sheeeeeeeep.art/multistack-catlangs.html",
-    "title": "Multistack Concatenative Programming Languages"
+    "url": "https://siderea.dreamwidth.org/1219758.html",
+    "title": "What Software is Made Of (2015)"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://blog.getutm.app/2026/introducing-triton-directx-11-driver-for-qemu/",
+    "title": "Triton: DirectX 11 driver for QEMU"
   },
   {
     "source": "lobsters",
@@ -91,8 +106,18 @@
   },
   {
     "source": "lobsters",
+    "url": "https://www.sheeeeeeeep.art/multistack-catlangs.html",
+    "title": "Multistack Concatenative Programming Languages"
+  },
+  {
+    "source": "lobsters",
     "url": "https://blog.netbsd.org/tnf/entry/gsoc2026_enlightenment",
     "title": "Port the Enlightenment desktop environment to NetBSD"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://kristoff.it/blog/source-code-availability/",
+    "title": "Who Should Pay For Source Code Availability?"
   },
   {
     "source": "lobsters",
@@ -111,12 +136,7 @@
   },
   {
     "source": "lobsters",
-    "url": "https://revisionprompting.info/",
-    "title": "Revision Prompting improves industrial LLM processes"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://yogthos.net/posts/2026-08-07-portable-jolt.html",
-    "title": "Program images and portable Scheme backends for Jolt"
+    "url": "https://nickvsnetworking.com/3g-at-last/",
+    "title": "3G at last"
   }
 ]
