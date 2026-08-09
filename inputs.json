@@ -6,13 +6,13 @@
   },
   {
     "source": "hn",
-    "url": "https://shopify.engineering/scaling-inventory-reservations",
-    "title": "Shopify replaced Redis with MySQL for inventory reservations–and it scaled"
+    "url": "https://www.andrewt.net/dithered-qr-codes/wtf/",
+    "title": "Dithered QR Codes"
   },
   {
     "source": "hn",
-    "url": "https://www.andrewt.net/dithered-qr-codes/wtf/",
-    "title": "Dithered QR Codes"
+    "url": "https://shopify.engineering/scaling-inventory-reservations",
+    "title": "Shopify replaced Redis with MySQL for inventory reservations–and it scaled"
   },
   {
     "source": "hn",
@@ -21,18 +21,8 @@
   },
   {
     "source": "hn",
-    "url": "http://www.davetech.co.uk/difficultycurves",
-    "title": "Making difficulty curves in games"
-  },
-  {
-    "source": "hn",
-    "url": "https://simonwillison.net/2026/Aug/7/openai-timeline/",
-    "title": "Timeline of the OpenAI accidental attack against Hugging Face"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.bloomberg.com/news/articles/2026-08-06/us-military-s-cyber-command-unit-grapples-with-cluster-of-deaths-by-suicide",
-    "title": "US Military's cyber command unit grapples with cluster of deaths by suicide"
+    "url": "https://daringfireball.net/2026/08/retraction_app_store_rejection_of_the_week",
+    "title": "Retraction: The App Store Rejection of the Week That Was a Correct Rejection"
   },
   {
     "source": "hn",
@@ -41,28 +31,13 @@
   },
   {
     "source": "hn",
-    "url": "https://hackaday.com/2026/08/08/want-energy-efficiency-dude-youre-getting-a-dell/",
-    "title": "Can Intel finally beat ARM on performance per Watt?"
-  },
-  {
-    "source": "hn",
     "url": "https://software.rajivprab.com/2019/12/19/when-feature-flags-do-and-dont-make-sense/",
     "title": "When Feature Flags Do and Don't Make Sense"
   },
   {
     "source": "hn",
-    "url": "https://classicbits.net/coding-and-software/my-software/monosol/",
-    "title": "TinySol, a tiny solitaire game for DOS"
-  },
-  {
-    "source": "hn",
     "url": "https://blog.senko.net/code-was-never-the-hard-part-is-an-insult-to-all-programmers",
     "title": "“Code was never the hard part” is an insult to all programmers"
-  },
-  {
-    "source": "hn",
-    "url": "https://buttondown.com/suchbadtechads/archive/gateway-2000-part-2/",
-    "title": "Gateway 2000's hilariously bad ads in the 90s (Part II)"
   },
   {
     "source": "lobsters",
@@ -81,11 +56,6 @@
   },
   {
     "source": "lobsters",
-    "url": "https://www.inkandswitch.com/livelymerge/notebook/lm-03/",
-    "title": "The Object Model in Livelymerge"
-  },
-  {
-    "source": "lobsters",
     "url": "https://soar.qaidvoid.dev/",
     "title": "Soar package manager"
   },
@@ -96,18 +66,23 @@
   },
   {
     "source": "lobsters",
+    "url": "https://www.inkandswitch.com/livelymerge/notebook/lm-03/",
+    "title": "The Object Model in Livelymerge"
+  },
+  {
+    "source": "lobsters",
     "url": "https://www.sheeeeeeeep.art/multistack-catlangs.html",
     "title": "Multistack Concatenative Programming Languages"
   },
   {
     "source": "lobsters",
-    "url": "https://amiga.com/news/20260804-amiga-update",
-    "title": "Amiga August 2026 Update"
+    "url": "https://yogthos.net/posts/2026-08-07-portable-jolt.html",
+    "title": "Program images and portable Scheme backends for Jolt"
   },
   {
     "source": "lobsters",
-    "url": "https://yogthos.net/posts/2026-08-07-portable-jolt.html",
-    "title": "Program images and portable Scheme backends for Jolt"
+    "url": "https://amiga.com/news/20260804-amiga-update",
+    "title": "Amiga August 2026 Update"
   },
   {
     "source": "lobsters",
@@ -123,80 +98,5 @@
     "source": "lobsters",
     "url": "https://www.cs.umd.edu/users/gasarch/BLOGPAPERS/moral.pdf",
     "title": "Some Moral and Technical Consequences of Automation (1960)"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.mayerowitz.io/blog/mario-meets-pareto",
-    "title": "Mario meets Pareto"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://semi-rad.com/2026/08/do-it-14000-times-slower-with-this-one-trick/",
-    "title": "Do It 14,000 Times Slower With This One Trick – Semi-Rad.com"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://blog.cloudflare.com/kitesurf/",
-    "title": "Introducing Kitesurf: The agent-first browser that runs in V8 isolates on Cloudflare Workers | The Cloudflare Blog"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://blog.cryptographyengineering.com/2026/07/29/some-notes-about-anthropics-new-results/",
-    "title": "Some thoughts about Anthropic’s new cryptanalysis results – A Few Thoughts on Cryptographic Engineering"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://sightlessscribbles.com/disability-dongle/",
-    "title": "The \"Disability Dongle\": Why Silicon Valley Hates Me and you., Sightless Scribbles"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://celld.dev/",
-    "title": "celld: self-hosted, distributed Durable Objects"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://blog.cloudflare.com/cloudflare-os/",
-    "title": "Cloudflare OS: an open platform for agents, apps, and work | The Cloudflare Blog"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://randsinrepose.com/archives/blade-runner-title-cards/",
-    "title": "The Title Cards in Blade Runner Are Fucking Amazing – Rands in Repose"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://firecrawl.github.io/anydoc/",
-    "title": "anydoc by Firecrawl"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.discoveryloop.com/",
-    "title": "Discovery Loop — Continuous Exploration"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://sheets.works/data-viz/keyboard-sounds",
-    "title": "The Listening Museum"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://research.meta.ai/blog/introducing-muse-code-and-muse-spark-1-2",
-    "title": "Introducing Muse Code and Muse Spark 1.2"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://gruhn.me/blog/2026-08-03/",
-    "title": "Don't be a meat proxy"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.wired.com/story/meta-ran-ads-that-contained-ai-generated-child-sexual-abuse-imagery/",
-    "title": "Meta Ran Ads That Contained AI-Generated Child Sexual Abuse Imagery"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://thereader.mitpress.mit.edu/the-lost-civic-life-of-movie-rental-stores/",
-    "title": "The Lost Civic Life of Movie Rental Stores | The MIT Press Reader"
   }
 ]
