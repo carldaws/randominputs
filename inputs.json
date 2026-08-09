@@ -6,8 +6,8 @@
   },
   {
     "source": "hn",
-    "url": "https://82mhz.net/posts/2026/08/tech-sucks-you-have-to-vote-with-your-wallet-or-nothing-will-change/",
-    "title": "Tech sucks: You have to vote with your wallet, or nothing will change"
+    "url": "https://www.shayon.dev/post/2026/220/every-fast-write-moves-work-somewhere-else/",
+    "title": "Every fast write moves work somewhere else"
   },
   {
     "source": "hn",
@@ -21,23 +21,13 @@
   },
   {
     "source": "hn",
-    "url": "https://www.shayon.dev/post/2026/220/every-fast-write-moves-work-somewhere-else/",
-    "title": "Every fast write moves work somewhere else"
-  },
-  {
-    "source": "hn",
-    "url": "https://alexanderwanyoike.github.io/vibez/",
-    "title": "Show HN: Vibez – Open-Source Rust Based Digital Audio Workstation (DAW)"
-  },
-  {
-    "source": "hn",
     "url": "https://seg6.space/posts/phone-server/",
     "title": "My server is a phone now"
   },
   {
     "source": "hn",
-    "url": "https://halfhill.com/byte/1998-12_alpha.html",
-    "title": "The Alpha 21264 CPU: NT's Greatest RISC (1998)"
+    "url": "https://en.wikipedia.org/wiki/Crickets_as_pets",
+    "title": "Crickets as Pets"
   },
   {
     "source": "hn",
@@ -56,23 +46,18 @@
   },
   {
     "source": "hn",
-    "url": "https://jorypestorious.com/blog/portable-agent-factory/",
-    "title": "I Wanted to Own the Harness. Then Codex Desktop Won"
+    "url": "https://halfhill.com/byte/1998-12_alpha.html",
+    "title": "The Alpha 21264 CPU: NT's Greatest RISC (1998)"
   },
   {
     "source": "hn",
-    "url": "https://www.historytoday.com/archive/history-matters/willoughbyland-englands-forgotten-south-american-colony",
-    "title": "Willoughbyland: England's Forgotten South American Colony"
-  },
-  {
-    "source": "hn",
-    "url": "https://oskrim.github.io/hardware/2026/08/09/remarkable-over-ssh.html",
-    "title": "Reviving a four year old reMarkable 2"
+    "url": "https://terrytao.wordpress.com/2026/08/06/a-partial-digestion-of-the-hrt-counterexample/",
+    "title": "A partial digestion of the HRT counterexample"
   },
   {
     "source": "hn",
     "url": "https://shopify.engineering/scaling-inventory-reservations",
-    "title": "Shopify replaced Redis with MySQL for inventory reservations–and it scaled"
+    "title": "We replaced Redis with MySQL for inventory reservations and it scaled"
   },
   {
     "source": "hn",
@@ -81,18 +66,23 @@
   },
   {
     "source": "hn",
+    "url": "https://www.historytoday.com/archive/history-matters/willoughbyland-englands-forgotten-south-american-colony",
+    "title": "Willoughbyland: England's Forgotten South American Colony"
+  },
+  {
+    "source": "hn",
     "url": "https://alexandrelamure.github.io/graphics-posts/stylized-ggx-shading.html",
     "title": "Stylized GGX Shading"
   },
   {
     "source": "lobsters",
-    "url": "https://michael.stapelberg.ch/posts/2026-08-09-zsh-history-truncation-bug/",
-    "title": "Tracking down a Zsh history data loss bug"
+    "url": "https://kristoff.it/blog/source-code-availability/",
+    "title": "Who Should Pay For Source Code Availability?"
   },
   {
     "source": "lobsters",
-    "url": "https://kristoff.it/blog/source-code-availability/",
-    "title": "Who Should Pay For Source Code Availability?"
+    "url": "https://michael.stapelberg.ch/posts/2026-08-09-zsh-history-truncation-bug/",
+    "title": "Tracking down a Zsh history data loss bug"
   },
   {
     "source": "lobsters",
@@ -106,13 +96,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://dotat.at/@/2026-08-09-rata-die.html",
-    "title": "Counting the days, revisited"
+    "url": "https://antonz.org/relying-on-go/",
+    "title": "Relying on Go"
   },
   {
     "source": "lobsters",
-    "url": "https://siderea.dreamwidth.org/1219758.html",
-    "title": "What Software is Made Of (2015)"
+    "url": "https://dotat.at/@/2026-08-09-rata-die.html",
+    "title": "Counting the days, revisited"
   },
   {
     "source": "lobsters",
@@ -121,18 +111,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://blog.netbsd.org/tnf/entry/gsoc2026_enlightenment",
-    "title": "Port the Enlightenment desktop environment to NetBSD"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://blog.getutm.app/2026/introducing-triton-directx-11-driver-for-qemu/",
-    "title": "Triton: DirectX 11 driver for QEMU"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://ethulhu.co.uk/systemd-dynamicuser",
-    "title": "Systemd Dynamic Users (2020)"
+    "url": "https://siderea.dreamwidth.org/1219758.html",
+    "title": "What Software is Made Of (2015)"
   },
   {
     "source": "lobsters",
@@ -141,13 +121,28 @@
   },
   {
     "source": "lobsters",
-    "url": "https://antonz.org/relying-on-go/",
-    "title": "Relying on Go"
+    "url": "https://blog.getutm.app/2026/introducing-triton-directx-11-driver-for-qemu/",
+    "title": "Triton: DirectX 11 driver for QEMU"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://blog.netbsd.org/tnf/entry/gsoc2026_enlightenment",
+    "title": "Port the Enlightenment desktop environment to NetBSD"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://ethulhu.co.uk/systemd-dynamicuser",
+    "title": "Systemd Dynamic Users (2020)"
   },
   {
     "source": "lobsters",
     "url": "https://www.sheeeeeeeep.art/multistack-catlangs.html",
     "title": "Multistack Concatenative Programming Languages"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://postmarketos.org/blog/2026/08/06/pmOS-update-2026-07/",
+    "title": "postmarketOS in 2026-07: libcamera 0.7.2"
   },
   {
     "source": "pinboard",
@@ -203,11 +198,6 @@
     "source": "pinboard",
     "url": "https://boyswhocriedai.lovable.app/archive",
     "title": "Archive - Incorrect AI Predictions"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://ancientlibrary.net/",
-    "title": "Ancient Library - The Greek and Latin classics — every word parsed, every form defined."
   },
   {
     "source": "pinboard",
