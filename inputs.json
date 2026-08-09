@@ -6,23 +6,8 @@
   },
   {
     "source": "hn",
-    "url": "https://blog.terrygodier.com/2026/08/09/mea-culpa-dark-hours.html",
-    "title": "Mea Culpa – Dark Hours"
-  },
-  {
-    "source": "hn",
-    "url": "https://openchamber.dev/",
-    "title": "OpenChamber: An Agentic Development Environment"
-  },
-  {
-    "source": "hn",
-    "url": "https://en.wikipedia.org/wiki/Crickets_as_pets",
-    "title": "Crickets as Pets"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.newyorker.com/magazine/2026/08/10/silence-kate-mcloughlin-book-review",
-    "title": "How Golden Is Silence, Actually?"
+    "url": "https://kirahowe.com/2026/aug/8/is-it-all-just-vapourware",
+    "title": "Is it all just vapourware?"
   },
   {
     "source": "hn",
@@ -31,13 +16,38 @@
   },
   {
     "source": "hn",
+    "url": "https://blog.terrygodier.com/2026/08/09/mea-culpa-dark-hours.html",
+    "title": "Mea Culpa – Dark Hours"
+  },
+  {
+    "source": "hn",
+    "url": "https://phrack.org/issues/72/19#article",
+    "title": "The Hacker's Renaissance"
+  },
+  {
+    "source": "hn",
+    "url": "https://openchamber.dev/",
+    "title": "OpenChamber: An Agentic Development Environment"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.newyorker.com/magazine/2026/08/10/silence-kate-mcloughlin-book-review",
+    "title": "How Golden Is Silence, Actually?"
+  },
+  {
+    "source": "hn",
     "url": "https://www.theregister.com/security/2026/08/09/ransomware-gangs-skip-the-ceo-head-straight-for-the-40-something-it-manager/5284499",
     "title": "Ransomware gangs skip the CEO, head straight for the 40-something IT manager"
   },
   {
     "source": "hn",
-    "url": "https://www.shayon.dev/post/2026/220/every-fast-write-moves-work-somewhere-else/",
-    "title": "Every fast write moves work somewhere else"
+    "url": "https://en.wikipedia.org/wiki/Crickets_as_pets",
+    "title": "Crickets as Pets"
+  },
+  {
+    "source": "hn",
+    "url": "https://arks.org/",
+    "title": "Archival Resource Key (Ark) Alliance"
   },
   {
     "source": "hn",
@@ -46,33 +56,13 @@
   },
   {
     "source": "hn",
-    "url": "https://www.techeblog.com/tom-stanton-supersonic-trebuchet/",
-    "title": "Tom Stanton's supersonic trebuchet breaks sound barrier with gravity alone"
+    "url": "https://oskrim.github.io/hardware/2026/08/09/remarkable-over-ssh.html",
+    "title": "Reviving a four year old reMarkable 2"
   },
   {
     "source": "hn",
-    "url": "https://terrytao.wordpress.com/2026/08/06/a-partial-digestion-of-the-hrt-counterexample/",
-    "title": "A partial digestion of the HRT counterexample"
-  },
-  {
-    "source": "hn",
-    "url": "https://unyolo.io/",
-    "title": "UnYOLO: Agent credential broker and policy engine for your GitHub account"
-  },
-  {
-    "source": "hn",
-    "url": "https://chriswheeler.dev/posts/cross-compilation-with-wails/",
-    "title": "Cross-compilation with Wails (2025)"
-  },
-  {
-    "source": "hn",
-    "url": "https://halfhill.com/byte/1998-12_alpha.html",
-    "title": "The Alpha 21264 CPU: NT's Greatest RISC (1998)"
-  },
-  {
-    "source": "hn",
-    "url": "https://practical.engineering/blog/2026/8/4/the-grid-that-doubles-the-strength-of-the-ground",
-    "title": "The Grid That Doubles the Strength of the Ground"
+    "url": "https://www.shayon.dev/post/2026/220/every-fast-write-moves-work-somewhere-else/",
+    "title": "Every fast write moves work somewhere else"
   },
   {
     "source": "lobsters",
@@ -86,13 +76,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://antonz.org/relying-on-go/",
-    "title": "Relying on Go"
+    "url": "https://www.ilmarilauhakangas.fi/irc_technology_news_from_the_first_half_of_2026/",
+    "title": "IRC technology news from the first half of 2026"
   },
   {
     "source": "lobsters",
-    "url": "https://www.ilmarilauhakangas.fi/irc_technology_news_from_the_first_half_of_2026/",
-    "title": "IRC technology news from the first half of 2026"
+    "url": "https://antonz.org/relying-on-go/",
+    "title": "Relying on Go"
   },
   {
     "source": "lobsters",
@@ -111,13 +101,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://seg6.space/posts/phone-server/",
-    "title": "my server is a phone now"
+    "url": "https://dotat.at/@/2026-08-09-rata-die.html",
+    "title": "Counting the days, revisited"
   },
   {
     "source": "lobsters",
-    "url": "https://dotat.at/@/2026-08-09-rata-die.html",
-    "title": "Counting the days, revisited"
+    "url": "https://seg6.space/posts/phone-server/",
+    "title": "my server is a phone now"
   },
   {
     "source": "lobsters",
@@ -126,13 +116,18 @@
   },
   {
     "source": "lobsters",
-    "url": "https://www.efinancialcareers.com/news/a-high-frequency-trading-firm-just-hired-bjarne-stroustrup-creator-of-c",
-    "title": "High-frequency trading firm just hired Bjarne Stroustrup (creator of C++)"
+    "url": "https://blog.netbsd.org/tnf/entry/gsoc2026_enlightenment",
+    "title": "Port the Enlightenment desktop environment to NetBSD"
   },
   {
     "source": "lobsters",
-    "url": "https://blog.netbsd.org/tnf/entry/gsoc2026_enlightenment",
-    "title": "Port the Enlightenment desktop environment to NetBSD"
+    "url": "https://blog.waleedkhan.name/commit-message-test-plans/",
+    "title": "Commit message test plans"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://siderea.dreamwidth.org/1219758.html",
+    "title": "What Software is Made Of (2015)"
   },
   {
     "source": "lobsters",
@@ -148,11 +143,6 @@
     "source": "lobsters",
     "url": "https://postmarketos.org/blog/2026/08/06/pmOS-update-2026-07/",
     "title": "postmarketOS in 2026-07: libcamera 0.7.2"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://blog.waleedkhan.name/commit-message-test-plans/",
-    "title": "Commit message test plans"
   },
   {
     "source": "lobsters",
