@@ -1,8 +1,18 @@
 [
   {
     "source": "hn",
+    "url": "https://oskrim.github.io/hardware/2026/08/09/remarkable-over-ssh.html",
+    "title": "Reviving a four year old reMarkable 2"
+  },
+  {
+    "source": "hn",
     "url": "https://gukov.dev/math/2026/08/02/new-magic-hexagons.html",
     "title": "There Are Magic Hexagons of Every Order"
+  },
+  {
+    "source": "hn",
+    "url": "https://halfhill.com/byte/1998-12_alpha.html",
+    "title": "The Alpha 21264 CPU: NT's Greatest RISC (1998)"
   },
   {
     "source": "hn",
@@ -16,11 +26,6 @@
   },
   {
     "source": "hn",
-    "url": "https://oskrim.github.io/hardware/2026/08/09/remarkable-over-ssh.html",
-    "title": "Reviving a four year old reMarkable 2"
-  },
-  {
-    "source": "hn",
     "url": "https://www.andrewt.net/dithered-qr-codes/wtf/",
     "title": "Dithered QR Codes"
   },
@@ -31,18 +36,8 @@
   },
   {
     "source": "hn",
-    "url": "https://halfhill.com/byte/1998-12_alpha.html",
-    "title": "The Alpha 21264 CPU: NT's Greatest RISC (1998)"
-  },
-  {
-    "source": "hn",
-    "url": "https://hivekit.io/blog/why-you-might-want-to-build-your-webapp-in-canvas-instead-of-html/",
-    "title": "You might want to build your WebApp in Canvas instead of HTML"
-  },
-  {
-    "source": "hn",
-    "url": "https://unherd.com/2026/08/how-to-survive-on-a-louisiana-swamp/",
-    "title": "How to Survive in a Louisiana Swamp"
+    "url": "https://airy.so",
+    "title": "Show HN: Airy – Free, fast, and simple voice content creation"
   },
   {
     "source": "hn",
@@ -51,8 +46,8 @@
   },
   {
     "source": "hn",
-    "url": "https://airy.so",
-    "title": "Show HN: Airy – Free, fast, and simple voice content creation"
+    "url": "http://www.davetech.co.uk/difficultycurves",
+    "title": "Making difficulty curves in games"
   },
   {
     "source": "hn",
@@ -61,18 +56,8 @@
   },
   {
     "source": "hn",
-    "url": "http://www.davetech.co.uk/difficultycurves",
-    "title": "Making difficulty curves in games"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.404media.co/software-giant-sap-stops-most-travel-and-hiring-because-of-ais-soaring-cost/",
-    "title": "Software Giant SAP Stops Most Travel and Hiring Because of AI's Soaring Cost"
-  },
-  {
-    "source": "hn",
-    "url": "https://daringfireball.net/2026/08/retraction_app_store_rejection_of_the_week",
-    "title": "Retraction: The App Store Rejection of the Week That Was a Correct Rejection"
+    "url": "https://unherd.com/2026/08/how-to-survive-on-a-louisiana-swamp/",
+    "title": "How to Survive in a Louisiana Swamp"
   },
   {
     "source": "lobsters",
@@ -106,23 +91,23 @@
   },
   {
     "source": "lobsters",
-    "url": "https://blog.dave.tf/post/fastlanes-utl/",
-    "title": "The FastLanes Unified Transport Layout"
-  },
-  {
-    "source": "lobsters",
     "url": "https://blog.netbsd.org/tnf/entry/gsoc2026_enlightenment",
     "title": "Port the Enlightenment desktop environment to NetBSD"
   },
   {
     "source": "lobsters",
-    "url": "https://soar.qaidvoid.dev/",
-    "title": "Soar package manager"
+    "url": "https://blog.dave.tf/post/fastlanes-utl/",
+    "title": "The FastLanes Unified Transport Layout"
   },
   {
     "source": "lobsters",
     "url": "https://www.inkandswitch.com/livelymerge/notebook/lm-03/",
     "title": "The Object Model in Livelymerge"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://soar.qaidvoid.dev/",
+    "title": "Soar package manager"
   },
   {
     "source": "lobsters",
@@ -133,10 +118,5 @@
     "source": "lobsters",
     "url": "https://yogthos.net/posts/2026-08-07-portable-jolt.html",
     "title": "Program images and portable Scheme backends for Jolt"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://amiga.com/news/20260804-amiga-update",
-    "title": "Amiga August 2026 Update"
   }
 ]
