@@ -6,28 +6,8 @@
   },
   {
     "source": "hn",
-    "url": "https://gukov.dev/math/2026/08/02/new-magic-hexagons.html",
-    "title": "There Are Magic Hexagons of Every Order"
-  },
-  {
-    "source": "hn",
-    "url": "https://halfhill.com/byte/1998-12_alpha.html",
-    "title": "The Alpha 21264 CPU: NT's Greatest RISC (1998)"
-  },
-  {
-    "source": "hn",
-    "url": "https://seg6.space/posts/phone-server/",
-    "title": "My server is a phone now"
-  },
-  {
-    "source": "hn",
-    "url": "https://practical.engineering/blog/2026/8/4/the-grid-that-doubles-the-strength-of-the-ground",
-    "title": "The Grid That Doubles the Strength of the Ground"
-  },
-  {
-    "source": "hn",
-    "url": "https://blog.denv.it/posts/when-the-apartment-listing-is-too-good-to-be-true/",
-    "title": "When the apartment listing is too good to be true"
+    "url": "https://82mhz.net/posts/2026/08/tech-sucks-you-have-to-vote-with-your-wallet-or-nothing-will-change/",
+    "title": "Tech sucks: You have to vote with your wallet, or nothing will change"
   },
   {
     "source": "hn",
@@ -36,13 +16,53 @@
   },
   {
     "source": "hn",
+    "url": "https://gukov.dev/math/2026/08/02/new-magic-hexagons.html",
+    "title": "There Are Magic Hexagons of Every Order"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.shayon.dev/post/2026/220/every-fast-write-moves-work-somewhere-else/",
+    "title": "Every fast write moves work somewhere else"
+  },
+  {
+    "source": "hn",
+    "url": "https://alexanderwanyoike.github.io/vibez/",
+    "title": "Show HN: Vibez – Open-Source Rust Based Digital Audio Workstation (DAW)"
+  },
+  {
+    "source": "hn",
+    "url": "https://seg6.space/posts/phone-server/",
+    "title": "My server is a phone now"
+  },
+  {
+    "source": "hn",
+    "url": "https://halfhill.com/byte/1998-12_alpha.html",
+    "title": "The Alpha 21264 CPU: NT's Greatest RISC (1998)"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.techeblog.com/tom-stanton-supersonic-trebuchet/",
+    "title": "Tom Stanton's supersonic trebuchet breaks sound barrier with gravity alone"
+  },
+  {
+    "source": "hn",
+    "url": "https://practical.engineering/blog/2026/8/4/the-grid-that-doubles-the-strength-of-the-ground",
+    "title": "The Grid That Doubles the Strength of the Ground"
+  },
+  {
+    "source": "hn",
     "url": "https://www.andrewt.net/dithered-qr-codes/wtf/",
     "title": "Dithered QR Codes"
   },
   {
     "source": "hn",
-    "url": "https://shopify.engineering/scaling-inventory-reservations",
-    "title": "Shopify replaced Redis with MySQL for inventory reservations–and it scaled"
+    "url": "https://jorypestorious.com/blog/portable-agent-factory/",
+    "title": "I Wanted to Own the Harness. Then Codex Desktop Won"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.historytoday.com/archive/history-matters/willoughbyland-englands-forgotten-south-american-colony",
+    "title": "Willoughbyland: England's Forgotten South American Colony"
   },
   {
     "source": "hn",
@@ -51,23 +71,18 @@
   },
   {
     "source": "hn",
-    "url": "http://www.davetech.co.uk/difficultycurves",
-    "title": "Making difficulty curves in games"
-  },
-  {
-    "source": "hn",
-    "url": "https://eclipsefan.org/?v=2&t=max&layers=eclipse%2Cbesselian%2Cumbra-live%2Cshadow-3d%2Ccloud-projection%2Cosm&lat=43.4623&lon=-3.8099&opacity=besselian%3A0.2%2Cumbra-live%3A0.2&zoom=6&palier=minute",
-    "title": "Open-source interactive map for the Aug 12 total solar eclipse"
-  },
-  {
-    "source": "hn",
-    "url": "https://alexandrelamure.github.io/graphics-posts/stylized-ggx-shading.html",
-    "title": "Stylized GGX Shading"
+    "url": "https://shopify.engineering/scaling-inventory-reservations",
+    "title": "Shopify replaced Redis with MySQL for inventory reservations–and it scaled"
   },
   {
     "source": "hn",
     "url": "https://airy.so",
     "title": "Show HN: Airy – Free, fast, and simple voice content creation"
+  },
+  {
+    "source": "hn",
+    "url": "https://alexandrelamure.github.io/graphics-posts/stylized-ggx-shading.html",
+    "title": "Stylized GGX Shading"
   },
   {
     "source": "lobsters",
@@ -96,6 +111,16 @@
   },
   {
     "source": "lobsters",
+    "url": "https://siderea.dreamwidth.org/1219758.html",
+    "title": "What Software is Made Of (2015)"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://nickvsnetworking.com/3g-at-last/",
+    "title": "3G at last"
+  },
+  {
+    "source": "lobsters",
     "url": "https://blog.netbsd.org/tnf/entry/gsoc2026_enlightenment",
     "title": "Port the Enlightenment desktop environment to NetBSD"
   },
@@ -121,23 +146,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://nickvsnetworking.com/3g-at-last/",
-    "title": "3G at last"
-  },
-  {
-    "source": "lobsters",
     "url": "https://www.sheeeeeeeep.art/multistack-catlangs.html",
     "title": "Multistack Concatenative Programming Languages"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://blog.dave.tf/post/fastlanes-utl/",
-    "title": "The FastLanes Unified Transport Layout"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://www.inkandswitch.com/livelymerge/notebook/lm-03/",
-    "title": "The Object Model in Livelymerge"
   },
   {
     "source": "pinboard",
