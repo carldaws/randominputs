@@ -1,13 +1,18 @@
 [
   {
     "source": "hn",
+    "url": "https://gukov.dev/math/2026/08/02/new-magic-hexagons.html",
+    "title": "There Are Magic Hexagons of Every Order"
+  },
+  {
+    "source": "hn",
     "url": "https://seg6.space/posts/phone-server/",
     "title": "My server is a phone now"
   },
   {
     "source": "hn",
-    "url": "https://gukov.dev/math/2026/08/02/new-magic-hexagons.html",
-    "title": "There Are Magic Hexagons of Every Order"
+    "url": "https://shopify.engineering/scaling-inventory-reservations",
+    "title": "Shopify replaced Redis with MySQL for inventory reservations–and it scaled"
   },
   {
     "source": "hn",
@@ -16,8 +21,8 @@
   },
   {
     "source": "hn",
-    "url": "https://shopify.engineering/scaling-inventory-reservations",
-    "title": "Shopify replaced Redis with MySQL for inventory reservations–and it scaled"
+    "url": "https://practical.engineering/blog/2026/8/4/the-grid-that-doubles-the-strength-of-the-ground",
+    "title": "The Grid That Doubles the Strength of the Ground"
   },
   {
     "source": "hn",
@@ -36,18 +41,18 @@
   },
   {
     "source": "hn",
+    "url": "https://unherd.com/2026/08/how-to-survive-on-a-louisiana-swamp/",
+    "title": "How to Survive in a Louisiana Swamp"
+  },
+  {
+    "source": "hn",
     "url": "https://daringfireball.net/2026/08/retraction_app_store_rejection_of_the_week",
     "title": "Retraction: The App Store Rejection of the Week That Was a Correct Rejection"
   },
   {
     "source": "hn",
-    "url": "https://practical.engineering/blog/2026/8/4/the-grid-that-doubles-the-strength-of-the-ground",
-    "title": "The Grid That Doubles the Strength of the Ground"
-  },
-  {
-    "source": "hn",
-    "url": "https://fiberfs.io/blog/assert_a_modern_how_to",
-    "title": "Assert(): A Modern How To"
+    "url": "https://www.404media.co/software-giant-sap-stops-most-travel-and-hiring-because-of-ais-soaring-cost/",
+    "title": "Software Giant SAP Stops Most Travel and Hiring Because of AI's Soaring Cost"
   },
   {
     "source": "hn",
@@ -56,8 +61,13 @@
   },
   {
     "source": "hn",
+    "url": "https://fiberfs.io/blog/assert_a_modern_how_to",
+    "title": "Assert(): A Modern How To"
+  },
+  {
+    "source": "lobsters",
     "url": "https://blog.senko.net/code-was-never-the-hard-part-is-an-insult-to-all-programmers",
-    "title": "“Code was never the hard part” is an insult to all programmers"
+    "title": "\"Code was never the hard part\" is an insult to all programmers"
   },
   {
     "source": "lobsters",
@@ -66,13 +76,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://dotat.at/@/2026-08-09-rata-die.html",
-    "title": "Counting the days, revisited"
+    "url": "https://michael.stapelberg.ch/posts/2026-08-09-zsh-history-truncation-bug/",
+    "title": "Tracking down a Zsh history data loss bug"
   },
   {
     "source": "lobsters",
-    "url": "https://michael.stapelberg.ch/posts/2026-08-09-zsh-history-truncation-bug/",
-    "title": "Tracking down a Zsh history data loss bug"
+    "url": "https://dotat.at/@/2026-08-09-rata-die.html",
+    "title": "Counting the days, revisited"
   },
   {
     "source": "lobsters",
@@ -96,13 +106,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://www.inkandswitch.com/livelymerge/notebook/lm-03/",
-    "title": "The Object Model in Livelymerge"
+    "url": "https://blog.netbsd.org/tnf/entry/gsoc2026_enlightenment",
+    "title": "Port the Enlightenment desktop environment to NetBSD"
   },
   {
     "source": "lobsters",
-    "url": "https://blog.netbsd.org/tnf/entry/gsoc2026_enlightenment",
-    "title": "Port the Enlightenment desktop environment to NetBSD"
+    "url": "https://www.inkandswitch.com/livelymerge/notebook/lm-03/",
+    "title": "The Object Model in Livelymerge"
   },
   {
     "source": "lobsters",
