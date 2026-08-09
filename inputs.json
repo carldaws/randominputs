@@ -6,8 +6,8 @@
   },
   {
     "source": "hn",
-    "url": "https://shopify.engineering/scaling-inventory-reservations",
-    "title": "Shopify replaced Redis with MySQL for inventory reservations–and it scaled"
+    "url": "https://gukov.dev/math/2026/08/02/new-magic-hexagons.html",
+    "title": "There Are Magic Hexagons of Every Order"
   },
   {
     "source": "hn",
@@ -16,13 +16,13 @@
   },
   {
     "source": "hn",
-    "url": "https://alexandrelamure.github.io/graphics-posts/stylized-ggx-shading.html",
-    "title": "Stylized GGX Shading"
+    "url": "https://shopify.engineering/scaling-inventory-reservations",
+    "title": "Shopify replaced Redis with MySQL for inventory reservations–and it scaled"
   },
   {
     "source": "hn",
-    "url": "https://eclipsefan.org/?v=2&t=max&layers=eclipse%2Cbesselian%2Cumbra-live%2Cshadow-3d%2Ccloud-projection%2Cosm&lat=43.4623&lon=-3.8099&opacity=besselian%3A0.2%2Cumbra-live%3A0.2&zoom=6&palier=minute",
-    "title": "Open-source interactive map for the Aug 12 total solar eclipse"
+    "url": "https://alexandrelamure.github.io/graphics-posts/stylized-ggx-shading.html",
+    "title": "Stylized GGX Shading"
   },
   {
     "source": "hn",
@@ -31,18 +31,28 @@
   },
   {
     "source": "hn",
+    "url": "https://eclipsefan.org/?v=2&t=max&layers=eclipse%2Cbesselian%2Cumbra-live%2Cshadow-3d%2Ccloud-projection%2Cosm&lat=43.4623&lon=-3.8099&opacity=besselian%3A0.2%2Cumbra-live%3A0.2&zoom=6&palier=minute",
+    "title": "Open-source interactive map for the Aug 12 total solar eclipse"
+  },
+  {
+    "source": "hn",
     "url": "https://daringfireball.net/2026/08/retraction_app_store_rejection_of_the_week",
     "title": "Retraction: The App Store Rejection of the Week That Was a Correct Rejection"
   },
   {
     "source": "hn",
-    "url": "https://blog.getutm.app/2026/introducing-triton-directx-11-driver-for-qemu/",
-    "title": "Triton: DirectX 11 Driver for QEMU"
+    "url": "https://practical.engineering/blog/2026/8/4/the-grid-that-doubles-the-strength-of-the-ground",
+    "title": "The Grid That Doubles the Strength of the Ground"
   },
   {
     "source": "hn",
     "url": "https://fiberfs.io/blog/assert_a_modern_how_to",
     "title": "Assert(): A Modern How To"
+  },
+  {
+    "source": "hn",
+    "url": "https://blog.getutm.app/2026/introducing-triton-directx-11-driver-for-qemu/",
+    "title": "Triton: DirectX 11 Driver for QEMU"
   },
   {
     "source": "hn",
@@ -61,6 +71,11 @@
   },
   {
     "source": "lobsters",
+    "url": "https://michael.stapelberg.ch/posts/2026-08-09-zsh-history-truncation-bug/",
+    "title": "Tracking down a Zsh history data loss bug"
+  },
+  {
+    "source": "lobsters",
     "url": "https://www.sheeeeeeeep.art/multistack-catlangs.html",
     "title": "Multistack Concatenative Programming Languages"
   },
@@ -76,11 +91,6 @@
   },
   {
     "source": "lobsters",
-    "url": "https://michael.stapelberg.ch/posts/2026-08-09-zsh-history-truncation-bug/",
-    "title": "Tracking down a Zsh history data loss bug"
-  },
-  {
-    "source": "lobsters",
     "url": "https://blog.dave.tf/post/fastlanes-utl/",
     "title": "The FastLanes Unified Transport Layout"
   },
@@ -88,6 +98,11 @@
     "source": "lobsters",
     "url": "https://www.inkandswitch.com/livelymerge/notebook/lm-03/",
     "title": "The Object Model in Livelymerge"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://blog.netbsd.org/tnf/entry/gsoc2026_enlightenment",
+    "title": "Port the Enlightenment desktop environment to NetBSD"
   },
   {
     "source": "lobsters",
@@ -103,10 +118,5 @@
     "source": "lobsters",
     "url": "https://amiga.com/news/20260804-amiga-update",
     "title": "Amiga August 2026 Update"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://blog.netbsd.org/tnf/entry/gsoc2026_enlightenment",
-    "title": "Port the Enlightenment desktop environment to NetBSD"
   }
 ]
