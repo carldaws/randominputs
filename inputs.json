@@ -1,6 +1,11 @@
 [
   {
     "source": "hn",
+    "url": "https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model",
+    "title": "Meta Muse Glimmer – open weights 30B local coding model"
+  },
+  {
+    "source": "hn",
     "url": "https://blog.teknogeek.io/posts/what-happened-to-hackerone/",
     "title": "What Happened to HackerOne?"
   },
@@ -11,13 +16,13 @@
   },
   {
     "source": "hn",
-    "url": "https://laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn/",
-    "title": "How I use LLMs to learn complex topics"
+    "url": "https://www.dsprelated.com/showarticle/40.php",
+    "title": "An Interesting Fourier Transform – 1/F Noise"
   },
   {
     "source": "hn",
-    "url": "https://www.dsprelated.com/showarticle/40.php",
-    "title": "An Interesting Fourier Transform – 1/F Noise"
+    "url": "https://laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn/",
+    "title": "How I use LLMs to learn complex topics"
   },
   {
     "source": "hn",
@@ -76,13 +81,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://www.andrewt.net/dithered-qr-codes/wtf/",
-    "title": "Dithered QR codes"
+    "url": "https://vale.rocks/micros/20260810-0330",
+    "title": "Light/Dark/System Theme Setting Design"
   },
   {
     "source": "lobsters",
-    "url": "https://vale.rocks/micros/20260810-0330",
-    "title": "Light/Dark/System Theme Setting Design"
+    "url": "https://www.andrewt.net/dithered-qr-codes/wtf/",
+    "title": "Dithered QR codes"
   },
   {
     "source": "lobsters",
@@ -96,8 +101,28 @@
   },
   {
     "source": "lobsters",
+    "url": "https://danluu.com/pl-tokens/",
+    "title": "How do programming languages impact token efficiency and correctness?"
+  },
+  {
+    "source": "lobsters",
     "url": "https://blog.regehr.org/archives/1292",
     "title": "SQLite with a Fine-Toothed Comb (2016)"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://sebsite.pw/w/20260810-c89ambiguity.html",
+    "title": "an ambiguity in c89 which will never be fixed"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://blog.waleedkhan.name/commit-message-test-plans/",
+    "title": "Commit message test plans"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://bxt.rs/blog/easy-sandboxing-on-linux-with-bubblewrap/",
+    "title": "Easy Sandboxing on Linux with Bubblewrap"
   },
   {
     "source": "lobsters",
@@ -111,37 +136,77 @@
   },
   {
     "source": "lobsters",
-    "url": "https://blog.waleedkhan.name/commit-message-test-plans/",
-    "title": "Commit message test plans"
-  },
-  {
-    "source": "lobsters",
     "url": "https://seg6.space/posts/phone-server/",
     "title": "my server is a phone now"
   },
   {
-    "source": "lobsters",
-    "url": "https://sebsite.pw/w/20260810-c89ambiguity.html",
-    "title": "an ambiguity in c89 which will never be fixed"
+    "source": "pinboard",
+    "url": "https://www.noemamag.com/why-is-everyone-in-tech-so-sad/",
+    "title": "Why Is Everyone In Tech So Sad?"
   },
   {
-    "source": "lobsters",
-    "url": "https://danluu.com/pl-tokens/",
-    "title": "How do programming languages impact token efficiency and correctness?"
+    "source": "pinboard",
+    "url": "https://carlkolon.com/reading/",
+    "title": "Reading"
   },
   {
-    "source": "lobsters",
-    "url": "https://blog.netbsd.org/tnf/entry/gsoc2026_enlightenment",
-    "title": "Port the Enlightenment desktop environment to NetBSD"
+    "source": "pinboard",
+    "url": "https://futurism.com/artificial-intelligence/meta-caught-paying-nazis-to-post-on-facebook",
+    "title": "Meta accusata di monetizzare contenuti di neo-nazisti su Facebook"
   },
   {
-    "source": "lobsters",
-    "url": "https://dotat.at/@/2026-08-09-rata-die.html",
-    "title": "Counting the days, revisited"
+    "source": "pinboard",
+    "url": "https://semi-rad.com/2026/08/do-it-14000-times-slower-with-this-one-trick/",
+    "title": "Do It 14,000 Times Slower With This One Trick – Semi-Rad.com"
   },
   {
-    "source": "lobsters",
-    "url": "https://char.lt/blog/2026/08/talks-i-like/",
-    "title": "some software talks i like"
+    "source": "pinboard",
+    "url": "https://kuber.studio/cookie/",
+    "title": "I didn't set a cookie."
+  },
+  {
+    "source": "pinboard",
+    "url": "https://unsung.aresluna.org/as-a-windows-user-its-a-very-surreal-way-to-install-a-program/",
+    "title": "“As a Windows user, it’s a very surreal way to install a program.” – Unsung"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://ancientlibrary.net/",
+    "title": "Ancient Library - The Greek and Latin classics — every word parsed, every form defined."
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.mayerowitz.io/blog/mario-meets-pareto",
+    "title": "Mario meets Pareto"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://andrealeopardi.com/posts/genstage-demand-visualized/",
+    "title": "Elixir's GenStage Demand (a Visual Explainer) – Andrea Leopardi"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://zayenz.se/blog/post/constraint-generated-puzzle-games/",
+    "title": "From constraint models to playable puzzle games - zayenz.se"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.geoffreylitt.com/2026/07/02/understanding-is-the-new-bottleneck.html",
+    "title": "Understanding is the new bottleneck"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://scalex.dev/blog/ai-agent-permissions-stats/",
+    "title": "Humans missed 1 in 3 threats approving AI agent commands across 40,000 plays (scalex.dev)"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.newyorker.com/cartoon/a62045",
+    "title": "A Cartoon from The New Yorker"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://news.ycombinator.com/item?id=49209539",
+    "title": "What happens if an entire class of workers loses faith in their careers | Hacker News"
   }
 ]
