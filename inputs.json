@@ -1,13 +1,13 @@
 [
   {
     "source": "hn",
-    "url": "https://linuxstans.com/illinois-hb5511-operating-system-age-verification/",
-    "title": "Illinois Just Passed a Law That Puts Linux on the Hook for Age Verification"
+    "url": "https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model",
+    "title": "Muse Glimmer: 30B-parameter model optimized for always-on local agent workflows"
   },
   {
     "source": "hn",
-    "url": "https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model",
-    "title": "Muse Glimmer: 30B-parameter model optimized for always-on local agent workflows"
+    "url": "https://www.vectorware.com/blog/simd-on-gpu/",
+    "title": "Rust SIMD on the GPU"
   },
   {
     "source": "hn",
@@ -16,8 +16,13 @@
   },
   {
     "source": "hn",
-    "url": "https://www.vectorware.com/blog/simd-on-gpu/",
-    "title": "Rust SIMD on the GPU"
+    "url": "https://linuxstans.com/illinois-hb5511-operating-system-age-verification/",
+    "title": "Illinois Just Passed a Law That Puts Linux on the Hook for Age Verification"
+  },
+  {
+    "source": "hn",
+    "url": "https://arachnoid.com/lutusp/sailbook.html",
+    "title": "Confessions of a Long-Distance Sailor"
   },
   {
     "source": "hn",
@@ -46,6 +51,11 @@
   },
   {
     "source": "hn",
+    "url": "https://number-garden.com/?@THLP@",
+    "title": "Show HN: Higher-dimensional lattices unfolded into the 2D plane"
+  },
+  {
+    "source": "hn",
     "url": "https://jackschaedler.github.io/handwriting-recognition/",
     "title": "Back to the Future of Handwriting Recognition (2016)"
   },
@@ -53,16 +63,6 @@
     "source": "hn",
     "url": "https://www.beautifulpublicdata.com/boat-names/",
     "title": "50k Boat Names"
-  },
-  {
-    "source": "hn",
-    "url": "https://alphatheta.com/en/information/important-notice-security-vulnerability-in-pro-dj-link/",
-    "title": "Security Vulnerability in Pioneer Rekordbox"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.wcax.com/2026/08/07/kinney-drugs-pulls-back-ai-phone-assistant-after-hundreds-customer-complaints/",
-    "title": "Kinney Drugs pulls back AI phone assistant after hundreds of customer complaints"
   },
   {
     "source": "lobsters",
@@ -91,8 +91,23 @@
   },
   {
     "source": "lobsters",
+    "url": "https://blog.rust-lang.org/inside-rust/2026/08/10/call-for-testing-impl-and-mut-restrictions/",
+    "title": "Restricting trait implementability and field mutability"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://lea.verou.me/blog/2026/dark-mode-toggles/",
+    "title": "Dark mode toggles: two states are enough"
+  },
+  {
+    "source": "lobsters",
     "url": "https://bxt.rs/blog/easy-sandboxing-on-linux-with-bubblewrap/",
     "title": "Easy Sandboxing on Linux with Bubblewrap"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://fzakaria.com/2026/08/01/a-c++-toolchain-from-357-bytes-in-bazel",
+    "title": "A C++ toolchain from 357 bytes in Bazel"
   },
   {
     "source": "lobsters",
@@ -101,8 +116,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://blog.rust-lang.org/inside-rust/2026/08/10/call-for-testing-impl-and-mut-restrictions/",
-    "title": "Restricting trait implementability and field mutability"
+    "url": "http://marc-b-reynolds.github.io/math/2026/08/10/IntDivByFP.html",
+    "title": "Moving integer division to floating-point is trivial"
   },
   {
     "source": "lobsters",
@@ -126,22 +141,7 @@
   },
   {
     "source": "lobsters",
-    "url": "https://lea.verou.me/blog/2026/dark-mode-toggles/",
-    "title": "Dark mode toggles: two states are enough"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://fzakaria.com/2026/08/01/a-c++-toolchain-from-357-bytes-in-bazel",
-    "title": "A C++ toolchain from 357 bytes in Bazel"
-  },
-  {
-    "source": "lobsters",
     "url": "https://michael.stapelberg.ch/posts/2026-08-09-zsh-history-truncation-bug/",
     "title": "Tracking down a Zsh history data loss bug"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://blog.klauspost.com/rebalancing-deflate-compression-levels/",
-    "title": "Re-balancing Deflate Compression Levels (2016)"
   }
 ]
