@@ -21,6 +21,11 @@
   },
   {
     "source": "hn",
+    "url": "https://www.dsprelated.com/showarticle/40.php",
+    "title": "An Interesting Fourier Transform – 1/F Noise"
+  },
+  {
+    "source": "hn",
     "url": "https://atproto.com/articles/atproto-for-distsys-engineers",
     "title": "ATProto for Distributed Systems Engineers"
   },
@@ -31,18 +36,13 @@
   },
   {
     "source": "hn",
-    "url": "https://oskrim.github.io/hardware/2026/08/09/remarkable-over-ssh.html",
-    "title": "Reviving a four year old reMarkable 2"
-  },
-  {
-    "source": "hn",
     "url": "https://www.newyorker.com/magazine/2026/08/10/silence-kate-mcloughlin-book-review",
     "title": "How Golden Is Silence, Actually?"
   },
   {
     "source": "hn",
-    "url": "https://halfhill.com/byte/1998-12_alpha.html",
-    "title": "The Alpha 21264 CPU: NT's Greatest RISC (1998)"
+    "url": "https://oskrim.github.io/hardware/2026/08/09/remarkable-over-ssh.html",
+    "title": "Reviving a four year old reMarkable 2"
   },
   {
     "source": "lobsters",
@@ -61,13 +61,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://michael.stapelberg.ch/posts/2026-08-09-zsh-history-truncation-bug/",
-    "title": "Tracking down a Zsh history data loss bug"
+    "url": "https://fzakaria.com/2026/08/09/nixpkgs-multiverse-every-version-that-ever-existed",
+    "title": "nixpkgs-multiverse: every version that ever existed"
   },
   {
     "source": "lobsters",
-    "url": "https://fzakaria.com/2026/08/09/nixpkgs-multiverse-every-version-that-ever-existed",
-    "title": "nixpkgs-multiverse: every version that ever existed"
+    "url": "https://michael.stapelberg.ch/posts/2026-08-09-zsh-history-truncation-bug/",
+    "title": "Tracking down a Zsh history data loss bug"
   },
   {
     "source": "lobsters",
@@ -76,13 +76,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://www.andrewt.net/dithered-qr-codes/wtf/",
-    "title": "Dithered QR codes"
+    "url": "https://www.seangoedecke.com/i-got-an-email-about-resistance/",
+    "title": "I got an email about resistance"
   },
   {
     "source": "lobsters",
-    "url": "https://www.seangoedecke.com/i-got-an-email-about-resistance/",
-    "title": "I got an email about resistance"
+    "url": "https://www.andrewt.net/dithered-qr-codes/wtf/",
+    "title": "Dithered QR codes"
   },
   {
     "source": "lobsters",
@@ -91,8 +91,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://seg6.space/posts/phone-server/",
-    "title": "my server is a phone now"
+    "url": "https://lemire.me/blog/2026/08/09/profile-guided-optimization-in-go/",
+    "title": "Profile-guided optimization in Go"
   },
   {
     "source": "lobsters",
@@ -101,33 +101,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://lemire.me/blog/2026/08/09/profile-guided-optimization-in-go/",
-    "title": "Profile-guided optimization in Go"
-  },
-  {
-    "source": "lobsters",
     "url": "https://blog.waleedkhan.name/commit-message-test-plans/",
     "title": "Commit message test plans"
   },
   {
     "source": "lobsters",
-    "url": "https://blog.netbsd.org/tnf/entry/gsoc2026_enlightenment",
-    "title": "Port the Enlightenment desktop environment to NetBSD"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://char.lt/blog/2026/08/talks-i-like/",
-    "title": "some software talks i like"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://dotat.at/@/2026-08-09-rata-die.html",
-    "title": "Counting the days, revisited"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://nickvsnetworking.com/3g-at-last/",
-    "title": "3G at last"
+    "url": "https://seg6.space/posts/phone-server/",
+    "title": "my server is a phone now"
   },
   {
     "source": "lobsters",
@@ -136,7 +116,32 @@
   },
   {
     "source": "lobsters",
-    "url": "https://www.sheeeeeeeep.art/multistack-catlangs.html",
-    "title": "Multistack Concatenative Programming Languages"
+    "url": "https://blog.netbsd.org/tnf/entry/gsoc2026_enlightenment",
+    "title": "Port the Enlightenment desktop environment to NetBSD"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://dotat.at/@/2026-08-09-rata-die.html",
+    "title": "Counting the days, revisited"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://char.lt/blog/2026/08/talks-i-like/",
+    "title": "some software talks i like"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://nickvsnetworking.com/3g-at-last/",
+    "title": "3G at last"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://atproto.com/blog/pds-customization-and-metrics",
+    "title": "Make the PDS Your Own: Customization and Metrics"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://siderea.dreamwidth.org/1219758.html",
+    "title": "What Software is Made Of (2015)"
   }
 ]
