@@ -1,8 +1,18 @@
 [
   {
     "source": "hn",
+    "url": "https://linuxstans.com/illinois-hb5511-operating-system-age-verification/",
+    "title": "Illinois Just Passed a Law That Puts Linux on the Hook for Age Verification"
+  },
+  {
+    "source": "hn",
     "url": "https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model",
     "title": "Muse Glimmer: 30B-parameter model optimized for always-on local agent workflows"
+  },
+  {
+    "source": "hn",
+    "url": "https://cactuscompute.com/needle",
+    "title": "Show HN: Needle2: 14MB agentic LLM for phones, wearables, smart home and robots"
   },
   {
     "source": "hn",
@@ -21,8 +31,8 @@
   },
   {
     "source": "hn",
-    "url": "https://www.newyorker.com/culture/open-questions/why-cant-you-pack-a-bag",
-    "title": "Why Can't You Pack a Bag?"
+    "url": "https://kuber.studio/blog/Reflections/Humanising-LLM-Outputs-is-Actually-Dumb",
+    "title": "Humanising LLM Outputs Is Dumb"
   },
   {
     "source": "hn",
@@ -31,23 +41,8 @@
   },
   {
     "source": "hn",
-    "url": "https://kuber.studio/blog/Reflections/Humanising-LLM-Outputs-is-Actually-Dumb",
-    "title": "Humanising LLM Outputs Is Dumb"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.beautifulpublicdata.com/boat-names/",
-    "title": "50k Boat Names"
-  },
-  {
-    "source": "hn",
     "url": "https://bobdahacker.com/blog/tldv-hack",
     "title": "Tl;dv: Over 180k meetings left wide open"
-  },
-  {
-    "source": "hn",
-    "url": "https://alphatheta.com/en/information/important-notice-security-vulnerability-in-pro-dj-link/",
-    "title": "Security Vulnerability in Pioneer Rekordbox"
   },
   {
     "source": "hn",
@@ -56,8 +51,13 @@
   },
   {
     "source": "hn",
-    "url": "https://stochastic.blog/sorting-hashing-and-sketches-on-370-103-words/",
-    "title": "Sorting, hashing, and sketches on 370,103 words"
+    "url": "https://www.beautifulpublicdata.com/boat-names/",
+    "title": "50k Boat Names"
+  },
+  {
+    "source": "hn",
+    "url": "https://alphatheta.com/en/information/important-notice-security-vulnerability-in-pro-dj-link/",
+    "title": "Security Vulnerability in Pioneer Rekordbox"
   },
   {
     "source": "hn",
@@ -76,6 +76,11 @@
   },
   {
     "source": "lobsters",
+    "url": "https://sebsite.pw/w/20260810-c89ambiguity.html",
+    "title": "an ambiguity in c89 which will never be fixed"
+  },
+  {
+    "source": "lobsters",
     "url": "https://www.ilmarilauhakangas.fi/irc_technology_news_from_the_first_half_of_2026/",
     "title": "IRC technology news from the first half of 2026"
   },
@@ -86,8 +91,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://sebsite.pw/w/20260810-c89ambiguity.html",
-    "title": "an ambiguity in c89 which will never be fixed"
+    "url": "https://bxt.rs/blog/easy-sandboxing-on-linux-with-bubblewrap/",
+    "title": "Easy Sandboxing on Linux with Bubblewrap"
   },
   {
     "source": "lobsters",
@@ -96,8 +101,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://bxt.rs/blog/easy-sandboxing-on-linux-with-bubblewrap/",
-    "title": "Easy Sandboxing on Linux with Bubblewrap"
+    "url": "https://blog.rust-lang.org/inside-rust/2026/08/10/call-for-testing-impl-and-mut-restrictions/",
+    "title": "Restricting trait implementability and field mutability"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://obsolescence.dev/interactive-computing-history.html",
+    "title": "The Early Days: A History of Interactive Computing"
   },
   {
     "source": "lobsters",
@@ -111,13 +121,18 @@
   },
   {
     "source": "lobsters",
-    "url": "https://blog.rust-lang.org/inside-rust/2026/08/10/call-for-testing-impl-and-mut-restrictions/",
-    "title": "Restricting trait implementability and field mutability"
+    "url": "https://linebender.org/blog/hyperbezier/",
+    "title": "The mathematical beauty of hyperbezier curves"
   },
   {
     "source": "lobsters",
     "url": "https://lea.verou.me/blog/2026/dark-mode-toggles/",
     "title": "Dark mode toggles: two states are enough"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://fzakaria.com/2026/08/01/a-c++-toolchain-from-357-bytes-in-bazel",
+    "title": "A C++ toolchain from 357 bytes in Bazel"
   },
   {
     "source": "lobsters",
@@ -128,15 +143,5 @@
     "source": "lobsters",
     "url": "https://blog.klauspost.com/rebalancing-deflate-compression-levels/",
     "title": "Re-balancing Deflate Compression Levels (2016)"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://fzakaria.com/2026/08/01/a-c++-toolchain-from-357-bytes-in-bazel",
-    "title": "A C++ toolchain from 357 bytes in Bazel"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://antonz.org/relying-on-go/",
-    "title": "Relying on Go"
   }
 ]
