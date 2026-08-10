@@ -16,18 +16,8 @@
   },
   {
     "source": "hn",
-    "url": "https://linuxstans.com/illinois-hb5511-operating-system-age-verification/",
-    "title": "Illinois Just Passed a Law That Puts Linux on the Hook for Age Verification"
-  },
-  {
-    "source": "hn",
     "url": "https://arachnoid.com/lutusp/sailbook.html",
     "title": "Confessions of a Long-Distance Sailor"
-  },
-  {
-    "source": "hn",
-    "url": "https://en.wikipedia.org/wiki/Bufo_Alvarius:_the_Psychedelic_Toad_of_the_Sonoran_Desert",
-    "title": "The Psychedelic Toad of the Sonoran Desert"
   },
   {
     "source": "hn",
@@ -36,8 +26,23 @@
   },
   {
     "source": "hn",
+    "url": "https://stowaway.live/",
+    "title": "Stowaway – take the window seat on any plane or satellite overhead"
+  },
+  {
+    "source": "hn",
     "url": "https://kuber.studio/blog/Reflections/Humanising-LLM-Outputs-is-Actually-Dumb",
     "title": "Humanising LLM Outputs Is Dumb"
+  },
+  {
+    "source": "hn",
+    "url": "https://en.wikipedia.org/wiki/Bufo_Alvarius:_the_Psychedelic_Toad_of_the_Sonoran_Desert",
+    "title": "The Psychedelic Toad of the Sonoran Desert"
+  },
+  {
+    "source": "hn",
+    "url": "https://linuxstans.com/illinois-hb5511-operating-system-age-verification/",
+    "title": "Illinois Just Passed a Law That Puts Linux on the Hook for Age Verification"
   },
   {
     "source": "hn",
@@ -53,11 +58,6 @@
     "source": "hn",
     "url": "https://number-garden.com/?@THLP@",
     "title": "Show HN: Higher-dimensional lattices unfolded into the 2D plane"
-  },
-  {
-    "source": "hn",
-    "url": "https://jackschaedler.github.io/handwriting-recognition/",
-    "title": "Back to the Future of Handwriting Recognition (2016)"
   },
   {
     "source": "hn",
@@ -106,18 +106,28 @@
   },
   {
     "source": "lobsters",
-    "url": "https://fzakaria.com/2026/08/01/a-c++-toolchain-from-357-bytes-in-bazel",
-    "title": "A C++ toolchain from 357 bytes in Bazel"
-  },
-  {
-    "source": "lobsters",
     "url": "https://kristoff.it/blog/source-code-availability/",
     "title": "Who Should Pay For Source Code Availability?"
   },
   {
     "source": "lobsters",
+    "url": "https://herecomesthemoon.net/2026/08/remaking-party-house/",
+    "title": "Remaking Party House"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://fzakaria.com/2026/08/01/a-c++-toolchain-from-357-bytes-in-bazel",
+    "title": "A C++ toolchain from 357 bytes in Bazel"
+  },
+  {
+    "source": "lobsters",
     "url": "http://marc-b-reynolds.github.io/math/2026/08/10/IntDivByFP.html",
     "title": "Moving integer division to floating-point is trivial"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://linebender.org/blog/hyperbezier/",
+    "title": "The mathematical beauty of hyperbezier curves"
   },
   {
     "source": "lobsters",
@@ -128,20 +138,5 @@
     "source": "lobsters",
     "url": "https://osadmins.com/en/ibm-i-os-400-the-database-operating-system/",
     "title": "IBM i (OS/400) The Database Operating System"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://blog.terrygodier.com/2026/08/09/mea-culpa-dark-hours.html",
-    "title": "Mea Culpa - Dark Hours"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://linebender.org/blog/hyperbezier/",
-    "title": "The mathematical beauty of hyperbezier curves"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://michael.stapelberg.ch/posts/2026-08-09-zsh-history-truncation-bug/",
-    "title": "Tracking down a Zsh history data loss bug"
   }
 ]
