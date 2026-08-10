@@ -11,13 +11,13 @@
   },
   {
     "source": "hn",
-    "url": "https://www.whodunnitai.com/",
-    "title": "Show HN: Voice driven murder mystery, Interview AI suspects with your voice"
+    "url": "https://www.dsprelated.com/showarticle/40.php",
+    "title": "An Interesting Fourier Transform – 1/F Noise"
   },
   {
     "source": "hn",
-    "url": "https://www.dsprelated.com/showarticle/40.php",
-    "title": "An Interesting Fourier Transform – 1/F Noise"
+    "url": "https://www.whodunnitai.com/",
+    "title": "Show HN: Voice driven murder mystery, Interview AI suspects with your voice"
   },
   {
     "source": "hn",
@@ -26,13 +26,18 @@
   },
   {
     "source": "hn",
-    "url": "https://smallcultfollowing.com/babysteps/blog/2018/04/27/an-alias-based-formulation-of-the-borrow-checker/",
-    "title": "An alias-based formulation of the borrow checker (2018)"
+    "url": "https://coldcard.rip/",
+    "title": "COLDCARD's Random Numbers Weren't"
   },
   {
     "source": "hn",
     "url": "https://foldingglobes.com/",
     "title": "Turn satellite imagery into a paper globe you fold yourself"
+  },
+  {
+    "source": "hn",
+    "url": "https://smallcultfollowing.com/babysteps/blog/2018/04/27/an-alias-based-formulation-of-the-borrow-checker/",
+    "title": "An alias-based formulation of the borrow checker (2018)"
   },
   {
     "source": "hn",
@@ -76,6 +81,11 @@
   },
   {
     "source": "lobsters",
+    "url": "https://danluu.com/pl-tokens/",
+    "title": "How do programming languages impact token efficiency and correctness?"
+  },
+  {
+    "source": "lobsters",
     "url": "https://www.seangoedecke.com/i-got-an-email-about-resistance/",
     "title": "I got an email about resistance"
   },
@@ -86,13 +96,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://www.andrewt.net/dithered-qr-codes/wtf/",
-    "title": "Dithered QR codes"
+    "url": "https://osadmins.com/en/ibm-i-os-400-the-database-operating-system/",
+    "title": "IBM i (OS/400) The Database Operating System"
   },
   {
     "source": "lobsters",
-    "url": "https://osadmins.com/en/ibm-i-os-400-the-database-operating-system/",
-    "title": "IBM i (OS/400) The Database Operating System"
+    "url": "https://www.andrewt.net/dithered-qr-codes/wtf/",
+    "title": "Dithered QR codes"
   },
   {
     "source": "lobsters",
@@ -101,18 +111,18 @@
   },
   {
     "source": "lobsters",
-    "url": "https://danluu.com/pl-tokens/",
-    "title": "How do programming languages impact token efficiency and correctness?"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://blog.regehr.org/archives/1292",
-    "title": "SQLite with a Fine-Toothed Comb (2016)"
+    "url": "https://webframp.com/posts/the-promise-none-of-them-kept/",
+    "title": "The Promise None of Them Kept"
   },
   {
     "source": "lobsters",
     "url": "https://sebsite.pw/w/20260810-c89ambiguity.html",
     "title": "an ambiguity in c89 which will never be fixed"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://blog.regehr.org/archives/1292",
+    "title": "SQLite with a Fine-Toothed Comb (2016)"
   },
   {
     "source": "lobsters",
@@ -133,80 +143,5 @@
     "source": "lobsters",
     "url": "https://atproto.com/blog/pds-customization-and-metrics",
     "title": "Make the PDS Your Own: Customization and Metrics"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://seg6.space/posts/phone-server/",
-    "title": "my server is a phone now"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.noemamag.com/why-is-everyone-in-tech-so-sad/",
-    "title": "Why Is Everyone In Tech So Sad?"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://carlkolon.com/reading/",
-    "title": "Reading"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://futurism.com/artificial-intelligence/meta-caught-paying-nazis-to-post-on-facebook",
-    "title": "Meta accusata di monetizzare contenuti di neo-nazisti su Facebook"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://semi-rad.com/2026/08/do-it-14000-times-slower-with-this-one-trick/",
-    "title": "Do It 14,000 Times Slower With This One Trick – Semi-Rad.com"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://kuber.studio/cookie/",
-    "title": "I didn't set a cookie."
-  },
-  {
-    "source": "pinboard",
-    "url": "https://unsung.aresluna.org/as-a-windows-user-its-a-very-surreal-way-to-install-a-program/",
-    "title": "“As a Windows user, it’s a very surreal way to install a program.” – Unsung"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://ancientlibrary.net/",
-    "title": "Ancient Library - The Greek and Latin classics — every word parsed, every form defined."
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.mayerowitz.io/blog/mario-meets-pareto",
-    "title": "Mario meets Pareto"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://andrealeopardi.com/posts/genstage-demand-visualized/",
-    "title": "Elixir's GenStage Demand (a Visual Explainer) – Andrea Leopardi"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://zayenz.se/blog/post/constraint-generated-puzzle-games/",
-    "title": "From constraint models to playable puzzle games - zayenz.se"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.geoffreylitt.com/2026/07/02/understanding-is-the-new-bottleneck.html",
-    "title": "Understanding is the new bottleneck"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://scalex.dev/blog/ai-agent-permissions-stats/",
-    "title": "Humans missed 1 in 3 threats approving AI agent commands across 40,000 plays (scalex.dev)"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.newyorker.com/cartoon/a62045",
-    "title": "A Cartoon from The New Yorker"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://news.ycombinator.com/item?id=49209539",
-    "title": "What happens if an entire class of workers loses faith in their careers | Hacker News"
   }
 ]
