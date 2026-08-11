@@ -11,11 +11,6 @@
   },
   {
     "source": "hn",
-    "url": "https://www.trykeet.com/",
-    "title": "Launch HN: Keet (YC S24) – An app to create video courses on anything"
-  },
-  {
-    "source": "hn",
     "url": "https://stratechery.com/2026/nvidias-risky-business/",
     "title": "Nvidia's Risky Business"
   },
@@ -23,6 +18,21 @@
     "source": "hn",
     "url": "https://www.lemonde.fr/en/france/article/2026/08/06/france-to-ban-unsolicited-telemarketing-calls-from-august-11_6756208_7.html",
     "title": "France to ban unsolicited telemarketing calls"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.trykeet.com/",
+    "title": "Launch HN: Keet (YC S24) – An app to create video courses on anything"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.wsj.com/us-news/education/university-of-michigan-grades-mental-health-1a5701d4",
+    "title": "University of Michigan Drops First-Semester Grades To'Curb Mental Health Crisis'"
+  },
+  {
+    "source": "hn",
+    "url": "https://jolt-lang.github.io",
+    "title": "Jolt: Clojure compiler implemented with Chez Scheme"
   },
   {
     "source": "hn",
@@ -43,6 +53,11 @@
     "source": "hn",
     "url": "https://everycube.alen.is/",
     "title": "Show HN: Scroll through all 43252003274489856000 Rubik's Cube states"
+  },
+  {
+    "source": "hn",
+    "url": "https://writemd.app/",
+    "title": "Show HN: Write.md, a free, open-source, themeable Markdown editor for macOS"
   },
   {
     "source": "hn",
@@ -71,13 +86,18 @@
   },
   {
     "source": "lobsters",
+    "url": "https://blog.jordan.matelsky.com/Penplotter-holography/",
+    "title": "Making [etched] holograms with a pen plotter"
+  },
+  {
+    "source": "lobsters",
     "url": "https://www.seangoedecke.com/local-models-will-not-win/",
     "title": "No, local models will not win"
   },
   {
     "source": "lobsters",
-    "url": "https://blog.jordan.matelsky.com/Penplotter-holography/",
-    "title": "Making [etched] holograms with a pen plotter"
+    "url": "https://blogs.gnome.org/shell-dev/2026/08/11/gnome-shell-design-dreams/",
+    "title": "GNOME Shell Design Dreams"
   },
   {
     "source": "lobsters",
@@ -91,8 +111,18 @@
   },
   {
     "source": "lobsters",
+    "url": "https://eme64.github.io/blog/2026/01/12/Alignment-Performance.html",
+    "title": "Performance impact of Alignment"
+  },
+  {
+    "source": "lobsters",
     "url": "https://9p.io/who/dmr/odd.html",
     "title": "Odd Comments and Strange Doings in Unix"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://squeak.org/release_notes/6.1/",
+    "title": "Squeak 6.1"
   },
   {
     "source": "lobsters",
@@ -106,97 +136,12 @@
   },
   {
     "source": "lobsters",
-    "url": "https://squeak.org/release_notes/6.1/",
-    "title": "Squeak 6.1"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://blogs.gnome.org/shell-dev/2026/08/11/gnome-shell-design-dreams/",
-    "title": "GNOME Shell Design Dreams"
+    "url": "https://briancallahan.net/blog/20260811.html",
+    "title": "Cleaning costs, or, examining the OpenBSD -fret-clean flag"
   },
   {
     "source": "lobsters",
     "url": "https://midirus.com/blog/advent-of-fpga",
     "title": "Solving Advent Of Code on FPGAs with Haskell Clash"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.noemamag.com/why-is-everyone-in-tech-so-sad/",
-    "title": "Why Is Everyone In Tech So Sad?"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://blog.senko.net/code-was-never-the-hard-part-is-an-insult-to-all-programmers",
-    "title": "\"Code was never the hard part\" is an insult to all programmers — Senko Rašić"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.andrewt.net/dithered-qr-codes/wtf/",
-    "title": "How to make error-diffused QR codes"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn/",
-    "title": "how i use llms to learn complex topics · laurentiu raducu"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://carlkolon.com/reading/",
-    "title": "Reading"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://seg6.space/posts/phone-server/",
-    "title": "my server is a phone now — seg6"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://futurism.com/artificial-intelligence/meta-caught-paying-nazis-to-post-on-facebook",
-    "title": "Meta accusata di monetizzare contenuti di neo-nazisti su Facebook"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://ancientlibrary.net/",
-    "title": "Ancient Library - The Greek and Latin classics — every word parsed, every form defined."
-  },
-  {
-    "source": "pinboard",
-    "url": "https://shopify.engineering/scaling-inventory-reservations",
-    "title": "We replaced Redis with MySQL for inventory reservations—and it scaled (2026) - Shopify"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://unsung.aresluna.org/as-a-windows-user-its-a-very-surreal-way-to-install-a-program/",
-    "title": "“As a Windows user, it’s a very surreal way to install a program.” – Unsung"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://kuber.studio/cookie/",
-    "title": "I didn't set a cookie."
-  },
-  {
-    "source": "pinboard",
-    "url": "https://char.lt/blog/2026/08/talks-i-like/",
-    "title": "some software talks i like - charlotte!"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://news.ycombinator.com/item?id=49234271",
-    "title": "I made tinnitus my friend, then it disappeared [video] | Hacker News"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://danluu.com/pl-tokens/",
-    "title": "What's the best programming language for coding agents?"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://semi-rad.com/2026/08/do-it-14000-times-slower-with-this-one-trick/",
-    "title": "Do It 14,000 Times Slower With This One Trick – Semi-Rad.com"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://daringfireball.net/2026/08/retraction_app_store_rejection_of_the_week",
-    "title": "Daring Fireball: Retraction: The App Store Rejection of the Week That Was, in Fact, a Correct Rejection"
   }
 ]
