@@ -6,6 +6,11 @@
   },
   {
     "source": "hn",
+    "url": "https://www.floppydisk.com/recycle",
+    "title": "Recycle – Floppydisks"
+  },
+  {
+    "source": "hn",
     "url": "https://everycube.alen.is/",
     "title": "Show HN: Scroll through all 43252003274489856000 Rubik's Cube states"
   },
@@ -16,13 +21,13 @@
   },
   {
     "source": "hn",
-    "url": "https://www.vectorware.com/blog/simd-on-gpu/",
-    "title": "Rust SIMD on the GPU"
+    "url": "https://hypercritical.co/hyperspace/",
+    "title": "Hyperspace"
   },
   {
     "source": "hn",
-    "url": "https://arachnoid.com/lutusp/sailbook.html",
-    "title": "Confessions of a Long-Distance Sailor"
+    "url": "https://www.vectorware.com/blog/simd-on-gpu/",
+    "title": "Rust SIMD on the GPU"
   },
   {
     "source": "hn",
@@ -31,13 +36,8 @@
   },
   {
     "source": "hn",
-    "url": "https://www.floppydisk.com/recycle",
-    "title": "Recycle – Floppydisks"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.wsj.com/world/middle-east/gulf-states-accept-a-new-normal-in-hormuz-iran-is-in-control-6db8908d",
-    "title": "Gulf States Accept a New Normal in Hormuz: Iran Is in Control"
+    "url": "https://arachnoid.com/lutusp/sailbook.html",
+    "title": "Confessions of a Long-Distance Sailor"
   },
   {
     "source": "hn",
@@ -46,23 +46,13 @@
   },
   {
     "source": "hn",
-    "url": "https://squeak.org/release_notes/6.1/",
-    "title": "Squeak 6.1"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.choral-lang.org/",
-    "title": "Choral: Choreographic Programming for Java"
-  },
-  {
-    "source": "hn",
-    "url": "https://gigamonkeys.com/book/macros-defining-your-own",
-    "title": "The Story of Mac: A Just-So Story"
-  },
-  {
-    "source": "hn",
     "url": "https://kuber.studio/blog/Reflections/Humanising-LLM-Outputs-is-Actually-Dumb",
     "title": "Humanising LLM Outputs Is Dumb"
+  },
+  {
+    "source": "hn",
+    "url": "https://squeak.org/release_notes/6.1/",
+    "title": "Squeak 6.1"
   },
   {
     "source": "hn",
@@ -71,8 +61,23 @@
   },
   {
     "source": "hn",
+    "url": "https://gigamonkeys.com/book/macros-defining-your-own",
+    "title": "The Story of Mac: A Just-So Story"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.choral-lang.org/",
+    "title": "Choral: Choreographic Programming for Java"
+  },
+  {
+    "source": "hn",
     "url": "https://en.wikipedia.org/wiki/Bufo_Alvarius:_the_Psychedelic_Toad_of_the_Sonoran_Desert",
     "title": "The Psychedelic Toad of the Sonoran Desert"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.beautifulpublicdata.com/boat-names/",
+    "title": "50k Boat Names"
   },
   {
     "source": "lobsters",
@@ -81,13 +86,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://danluu.com/pl-tokens/",
-    "title": "How do programming languages impact token efficiency and correctness?"
+    "url": "https://sebsite.pw/w/20260810-c89ambiguity.html",
+    "title": "an ambiguity in c89 which will never be fixed"
   },
   {
     "source": "lobsters",
-    "url": "https://sebsite.pw/w/20260810-c89ambiguity.html",
-    "title": "an ambiguity in c89 which will never be fixed"
+    "url": "https://danluu.com/pl-tokens/",
+    "title": "How do programming languages impact token efficiency and correctness?"
   },
   {
     "source": "lobsters",
@@ -103,6 +108,11 @@
     "source": "lobsters",
     "url": "https://lea.verou.me/blog/2026/dark-mode-toggles/",
     "title": "Dark mode toggles: two states are enough"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://blog.rust-lang.org/inside-rust/2026/08/10/call-for-testing-impl-and-mut-restrictions/",
+    "title": "Restricting trait implementability and field mutability"
   },
   {
     "source": "lobsters",
@@ -123,11 +133,6 @@
     "source": "lobsters",
     "url": "https://herecomesthemoon.net/2026/08/remaking-party-house/",
     "title": "Remaking Party House"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://blog.rust-lang.org/inside-rust/2026/08/10/call-for-testing-impl-and-mut-restrictions/",
-    "title": "Restricting trait implementability and field mutability"
   },
   {
     "source": "lobsters",
