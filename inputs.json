@@ -6,13 +6,13 @@
   },
   {
     "source": "hn",
-    "url": "https://www.floppydisk.com/recycle",
-    "title": "Recycle – Floppydisks"
+    "url": "https://everycube.alen.is/",
+    "title": "Show HN: Scroll through all 43252003274489856000 Rubik's Cube states"
   },
   {
     "source": "hn",
-    "url": "https://everycube.alen.is/",
-    "title": "Show HN: Scroll through all 43252003274489856000 Rubik's Cube states"
+    "url": "https://www.floppydisk.com/recycle",
+    "title": "Recycle – Floppydisks"
   },
   {
     "source": "hn",
@@ -46,8 +46,8 @@
   },
   {
     "source": "hn",
-    "url": "https://kuber.studio/blog/Reflections/Humanising-LLM-Outputs-is-Actually-Dumb",
-    "title": "Humanising LLM Outputs Is Dumb"
+    "url": "http://danluu.com/pl-tokens/",
+    "title": "What's the best programming language for coding agents?"
   },
   {
     "source": "hn",
@@ -56,13 +56,13 @@
   },
   {
     "source": "hn",
-    "url": "http://danluu.com/pl-tokens/",
-    "title": "What's the best programming language for coding agents?"
+    "url": "https://kuber.studio/blog/Reflections/Humanising-LLM-Outputs-is-Actually-Dumb",
+    "title": "Humanising LLM Outputs Is Dumb"
   },
   {
     "source": "hn",
-    "url": "https://gigamonkeys.com/book/macros-defining-your-own",
-    "title": "The Story of Mac: A Just-So Story"
+    "url": "https://whatever.scalzi.com/2026/08/10/why-my-father-is-wrong-a-defense-of-guitar-hero/",
+    "title": "Why My Father Is Wrong: A Defense of Guitar Hero"
   },
   {
     "source": "hn",
@@ -71,13 +71,8 @@
   },
   {
     "source": "hn",
-    "url": "https://en.wikipedia.org/wiki/Bufo_Alvarius:_the_Psychedelic_Toad_of_the_Sonoran_Desert",
-    "title": "The Psychedelic Toad of the Sonoran Desert"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.beautifulpublicdata.com/boat-names/",
-    "title": "50k Boat Names"
+    "url": "https://gigamonkeys.com/book/macros-defining-your-own",
+    "title": "The Story of Mac: A Just-So Story"
   },
   {
     "source": "lobsters",
@@ -91,8 +86,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://danluu.com/pl-tokens/",
-    "title": "How do programming languages impact token efficiency and correctness?"
+    "url": "https://herecomesthemoon.net/2026/08/remaking-party-house/",
+    "title": "Remaking Party House"
   },
   {
     "source": "lobsters",
@@ -101,8 +96,23 @@
   },
   {
     "source": "lobsters",
+    "url": "https://danluu.com/pl-tokens/",
+    "title": "How do programming languages impact token efficiency and correctness?"
+  },
+  {
+    "source": "lobsters",
     "url": "https://linebender.org/blog/hyperbezier/",
     "title": "The mathematical beauty of hyperbezier curves"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://blog.rust-lang.org/inside-rust/2026/08/10/call-for-testing-impl-and-mut-restrictions/",
+    "title": "Restricting trait implementability and field mutability"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://www.seangoedecke.com/local-models-will-not-win/",
+    "title": "No, local models will not win"
   },
   {
     "source": "lobsters",
@@ -111,8 +121,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://blog.rust-lang.org/inside-rust/2026/08/10/call-for-testing-impl-and-mut-restrictions/",
-    "title": "Restricting trait implementability and field mutability"
+    "url": "https://bxt.rs/blog/easy-sandboxing-on-linux-with-bubblewrap/",
+    "title": "Easy Sandboxing on Linux with Bubblewrap"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://typesanitizer.com/blog/code-review.html",
+    "title": "Reviewing code is a skill"
   },
   {
     "source": "lobsters",
@@ -123,25 +138,5 @@
     "source": "lobsters",
     "url": "https://fzakaria.com/2026/08/09/nixpkgs-multiverse-every-version-that-ever-existed",
     "title": "nixpkgs-multiverse: every version that ever existed"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://bxt.rs/blog/easy-sandboxing-on-linux-with-bubblewrap/",
-    "title": "Easy Sandboxing on Linux with Bubblewrap"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://herecomesthemoon.net/2026/08/remaking-party-house/",
-    "title": "Remaking Party House"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://fzakaria.com/2026/08/01/a-c++-toolchain-from-357-bytes-in-bazel",
-    "title": "A C++ toolchain from 357 bytes in Bazel"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://kristoff.it/blog/source-code-availability/",
-    "title": "Who Should Pay For Source Code Availability?"
   }
 ]
