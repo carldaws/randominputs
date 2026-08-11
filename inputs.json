@@ -7,17 +7,17 @@
   {
     "source": "hn",
     "url": "https://ngrok.com/blog/compression-is-prediction",
-    "title": "Compression Is Prediction"
-  },
-  {
-    "source": "hn",
-    "url": "https://ironicsans.ghost.io/how-we-used-to-get-jobs/",
-    "title": "How we used to get jobs: A newspaper classifieds story"
+    "title": "Compression is prediction"
   },
   {
     "source": "hn",
     "url": "https://stolen-thoughts.com/",
     "title": "Stealing Reasoning Traces from Proprietary LLM APIs"
+  },
+  {
+    "source": "hn",
+    "url": "https://ironicsans.ghost.io/how-we-used-to-get-jobs/",
+    "title": "How we used to get jobs: A newspaper classifieds story"
   },
   {
     "source": "hn",
@@ -36,13 +36,18 @@
   },
   {
     "source": "hn",
-    "url": "https://www.openssh.org/releasenotes.html#10.5",
-    "title": "OpenSSH 10.5/10.5p1"
+    "url": "https://www.simulationslabs.com/blogs/AI_Is_Solving_CTF_Challenges_in_Minutes",
+    "title": "AI Is Solving CTF Challenges in Minutes"
   },
   {
     "source": "hn",
     "url": "https://everythingmachine.io/phone/",
-    "title": "Your phone is the most intricate machine you've ever held. Let's take it apart."
+    "title": "Let’s take apart your phone"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.openssh.org/releasenotes.html#10.5",
+    "title": "OpenSSH 10.5/10.5p1"
   },
   {
     "source": "hn",
@@ -66,6 +71,11 @@
   },
   {
     "source": "hn",
+    "url": "https://www.psupress.org/books/titles/978-0-271-06650-9.html?srsltid=AfmBOorGIOS9Y77k3J_CX6UWqfZlPbHXO-8zSjtD5coAKmnN47_e9kAW&utm_source=chatgpt.com",
+    "title": "An Exegesis of the Visionary Autobiography of a Fourteenth-Century French Monk"
+  },
+  {
+    "source": "hn",
     "url": "https://writemd.app/",
     "title": "Show HN: Write.md – A free, open-source, themeable Markdown editor for macOS"
   },
@@ -86,13 +96,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://briarproject.org/news/2026-maintenance-mode/",
-    "title": "Briar is in maintenance mode"
+    "url": "https://punkx.org/jackdoe/home.html",
+    "title": "My Anti AI computer"
   },
   {
     "source": "lobsters",
-    "url": "https://punkx.org/jackdoe/home.html",
-    "title": "My Anti AI computer"
+    "url": "https://briarproject.org/news/2026-maintenance-mode/",
+    "title": "Briar is in maintenance mode"
   },
   {
     "source": "lobsters",
@@ -101,13 +111,18 @@
   },
   {
     "source": "lobsters",
+    "url": "https://vitaut.net/posts/2026/yy-dtoa/",
+    "title": "The fastest double-to-string algorithm you’ve never heard of"
+  },
+  {
+    "source": "lobsters",
     "url": "https://www.seangoedecke.com/local-models-will-not-win/",
     "title": "No, local models will not win"
   },
   {
     "source": "lobsters",
-    "url": "https://vitaut.net/posts/2026/yy-dtoa/",
-    "title": "The fastest double-to-string algorithm you’ve never heard of"
+    "url": "https://entropicthoughts.com/fft",
+    "title": "A noob learns FFT"
   },
   {
     "source": "lobsters",
@@ -121,8 +136,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://entropicthoughts.com/fft",
-    "title": "A noob learns FFT"
+    "url": "https://9p.io/who/dmr/odd.html",
+    "title": "Odd Comments and Strange Doings in Unix"
   },
   {
     "source": "lobsters",
@@ -131,17 +146,7 @@
   },
   {
     "source": "lobsters",
-    "url": "https://9p.io/who/dmr/odd.html",
-    "title": "Odd Comments and Strange Doings in Unix"
-  },
-  {
-    "source": "lobsters",
     "url": "https://squeak.org/release_notes/6.1/",
     "title": "Squeak 6.1"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://claytonwramsey.com/blog/mvt/",
-    "title": "We're not done with point clouds"
   }
 ]
