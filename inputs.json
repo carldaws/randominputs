@@ -1,18 +1,18 @@
 [
   {
     "source": "hn",
-    "url": "https://cactuscompute.com/needle",
-    "title": "Show HN: Needle2: 14MB agentic LLM for phones, wearables, smart home and robots"
-  },
-  {
-    "source": "hn",
-    "url": "https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model",
-    "title": "Muse Glimmer: 30B-parameter model optimized for always-on local agent workflows"
+    "url": "https://code.call-cc.org/releases/6.0.0/NEWS",
+    "title": "Chicken Scheme 6.0"
   },
   {
     "source": "hn",
     "url": "https://everycube.alen.is/",
     "title": "Show HN: Scroll through all 43252003274489856000 Rubik's Cube states"
+  },
+  {
+    "source": "hn",
+    "url": "https://cactuscompute.com/needle",
+    "title": "Show HN: Needle2: 14MB agentic LLM for phones, wearables, smart home and robots"
   },
   {
     "source": "hn",
@@ -27,7 +27,22 @@
   {
     "source": "hn",
     "url": "https://stowaway.live/",
-    "title": "Stowaway – take the window seat on any plane or satellite overhead"
+    "title": "Stowaway – Take the window seat on any plane or satellite overhead"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.floppydisk.com/recycle",
+    "title": "Recycle – Floppydisks"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.wsj.com/world/middle-east/gulf-states-accept-a-new-normal-in-hormuz-iran-is-in-control-6db8908d",
+    "title": "Gulf States Accept a New Normal in Hormuz: Iran Is in Control"
+  },
+  {
+    "source": "hn",
+    "url": "https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model",
+    "title": "Muse Glimmer: 30B-parameter model optimized for always-on local agent workflows"
   },
   {
     "source": "hn",
@@ -36,13 +51,18 @@
   },
   {
     "source": "hn",
-    "url": "https://kuber.studio/blog/Reflections/Humanising-LLM-Outputs-is-Actually-Dumb",
-    "title": "Humanising LLM Outputs Is Dumb"
+    "url": "https://www.choral-lang.org/",
+    "title": "Choral: Choreographic Programming for Java"
   },
   {
     "source": "hn",
     "url": "https://gigamonkeys.com/book/macros-defining-your-own",
     "title": "The Story of Mac: A Just-So Story"
+  },
+  {
+    "source": "hn",
+    "url": "https://kuber.studio/blog/Reflections/Humanising-LLM-Outputs-is-Actually-Dumb",
+    "title": "Humanising LLM Outputs Is Dumb"
   },
   {
     "source": "hn",
@@ -53,16 +73,6 @@
     "source": "hn",
     "url": "https://en.wikipedia.org/wiki/Bufo_Alvarius:_the_Psychedelic_Toad_of_the_Sonoran_Desert",
     "title": "The Psychedelic Toad of the Sonoran Desert"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.beautifulpublicdata.com/boat-names/",
-    "title": "50k Boat Names"
-  },
-  {
-    "source": "hn",
-    "url": "https://patentsgazette.uspto.gov/week26/OG/html/1547-5/US12670045-20260630.html",
-    "title": "Mistral Patent for “Code implemented tool calls”"
   },
   {
     "source": "lobsters",
@@ -81,6 +91,21 @@
   },
   {
     "source": "lobsters",
+    "url": "https://martinalderson.com/posts/watch-out-for-cache-read-costs/",
+    "title": "Watch out for cache read costs"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://linebender.org/blog/hyperbezier/",
+    "title": "The mathematical beauty of hyperbezier curves"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://lea.verou.me/blog/2026/dark-mode-toggles/",
+    "title": "Dark mode toggles: two states are enough"
+  },
+  {
+    "source": "lobsters",
     "url": "https://www.ilmarilauhakangas.fi/irc_technology_news_from_the_first_half_of_2026/",
     "title": "IRC technology news from the first half of 2026"
   },
@@ -91,23 +116,18 @@
   },
   {
     "source": "lobsters",
-    "url": "https://blog.rust-lang.org/inside-rust/2026/08/10/call-for-testing-impl-and-mut-restrictions/",
-    "title": "Restricting trait implementability and field mutability"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://lea.verou.me/blog/2026/dark-mode-toggles/",
-    "title": "Dark mode toggles: two states are enough"
-  },
-  {
-    "source": "lobsters",
     "url": "https://bxt.rs/blog/easy-sandboxing-on-linux-with-bubblewrap/",
     "title": "Easy Sandboxing on Linux with Bubblewrap"
   },
   {
     "source": "lobsters",
-    "url": "https://linebender.org/blog/hyperbezier/",
-    "title": "The mathematical beauty of hyperbezier curves"
+    "url": "https://herecomesthemoon.net/2026/08/remaking-party-house/",
+    "title": "Remaking Party House"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://blog.rust-lang.org/inside-rust/2026/08/10/call-for-testing-impl-and-mut-restrictions/",
+    "title": "Restricting trait implementability and field mutability"
   },
   {
     "source": "lobsters",
@@ -118,25 +138,5 @@
     "source": "lobsters",
     "url": "https://kristoff.it/blog/source-code-availability/",
     "title": "Who Should Pay For Source Code Availability?"
-  },
-  {
-    "source": "lobsters",
-    "url": "http://marc-b-reynolds.github.io/math/2026/08/10/IntDivByFP.html",
-    "title": "Moving integer division to floating-point is trivial"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://martinalderson.com/posts/watch-out-for-cache-read-costs/",
-    "title": "Watch out for cache read costs"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://obsolescence.dev/interactive-computing-history.html",
-    "title": "The Early Days: A History of Interactive Computing"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://code.call-cc.org/releases/6.0.0/NEWS",
-    "title": "Chicken Scheme 6.0 released"
   }
 ]
