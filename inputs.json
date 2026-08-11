@@ -6,11 +6,6 @@
   },
   {
     "source": "hn",
-    "url": "https://thephd.dev/to-save-c-we-must-save-abi-fixing-c-function-abi",
-    "title": "To Save C, We Must Save ABI"
-  },
-  {
-    "source": "hn",
     "url": "https://code.call-cc.org/releases/6.0.0/NEWS",
     "title": "Chicken Scheme 6.0"
   },
@@ -26,13 +21,13 @@
   },
   {
     "source": "hn",
-    "url": "https://www.iwriteiam.nl/PGigatron.html",
-    "title": "Programming the Gigatron"
+    "url": "https://rapha.land/closing-canario-terminal-source-code/",
+    "title": "Closing Canario Terminal source code"
   },
   {
     "source": "hn",
-    "url": "https://rapha.land/closing-canario-terminal-source-code/",
-    "title": "Closing Canario Terminal source code"
+    "url": "https://thephd.dev/to-save-c-we-must-save-abi-fixing-c-function-abi",
+    "title": "To Save C, We Must Save ABI (2022)"
   },
   {
     "source": "hn",
@@ -41,13 +36,13 @@
   },
   {
     "source": "hn",
-    "url": "https://pythonspeed.com/articles/faster-float-math-rust/",
-    "title": "Faster floating point math with Rust's new API"
+    "url": "https://stowaway.live/",
+    "title": "Stowaway – Take the window seat on any plane or satellite overhead"
   },
   {
     "source": "hn",
-    "url": "https://stowaway.live/",
-    "title": "Stowaway – Take the window seat on any plane or satellite overhead"
+    "url": "https://pythonspeed.com/articles/faster-float-math-rust/",
+    "title": "Faster floating point math with Rust's new API"
   },
   {
     "source": "hn",
@@ -58,6 +53,11 @@
     "source": "hn",
     "url": "https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model",
     "title": "Muse Glimmer: 30B-parameter model optimized for always-on local agent workflows"
+  },
+  {
+    "source": "hn",
+    "url": "https://docs.lib.purdue.edu/cgi/viewcontent.cgi?article=2225&context=clcweb",
+    "title": "Hollywood and Shanghai Cinema in the 1930s [pdf]"
   },
   {
     "source": "hn",
@@ -76,8 +76,8 @@
   },
   {
     "source": "hn",
-    "url": "https://en.wikipedia.org/wiki/Panic_of_1873",
-    "title": "Panic of 1873"
+    "url": "https://www.iwriteiam.nl/PGigatron.html",
+    "title": "Programming the Gigatron"
   },
   {
     "source": "lobsters",
@@ -96,13 +96,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://martinalderson.com/posts/watch-out-for-cache-read-costs/",
-    "title": "Watch out for cache read costs"
+    "url": "https://blog.jordan.matelsky.com/Penplotter-holography/",
+    "title": "Making [etched] holograms with a pen plotter"
   },
   {
     "source": "lobsters",
-    "url": "https://sebsite.pw/w/20260810-c89ambiguity.html",
-    "title": "an ambiguity in c89 which will never be fixed"
+    "url": "https://martinalderson.com/posts/watch-out-for-cache-read-costs/",
+    "title": "Watch out for cache read costs"
   },
   {
     "source": "lobsters",
@@ -111,8 +111,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://danluu.com/pl-tokens/",
-    "title": "How do programming languages impact token efficiency and correctness?"
+    "url": "https://sebsite.pw/w/20260810-c89ambiguity.html",
+    "title": "an ambiguity in c89 which will never be fixed"
   },
   {
     "source": "lobsters",
@@ -121,8 +121,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://herecomesthemoon.net/2026/08/remaking-party-house/",
-    "title": "Remaking Party House"
+    "url": "https://danluu.com/pl-tokens/",
+    "title": "How do programming languages impact token efficiency and correctness?"
   },
   {
     "source": "lobsters",
@@ -131,12 +131,97 @@
   },
   {
     "source": "lobsters",
+    "url": "https://9p.io/who/dmr/odd.html",
+    "title": "Odd Comments and Strange Doings in Unix"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://herecomesthemoon.net/2026/08/remaking-party-house/",
+    "title": "Remaking Party House"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://briarproject.org/news/2026-maintenance-mode/",
+    "title": "Briar is in maintenance mode"
+  },
+  {
+    "source": "lobsters",
     "url": "https://blog.rust-lang.org/inside-rust/2026/08/10/call-for-testing-impl-and-mut-restrictions/",
     "title": "Restricting trait implementability and field mutability"
   },
   {
-    "source": "lobsters",
-    "url": "https://9p.io/who/dmr/odd.html",
-    "title": "Odd Comments and Strange Doings in Unix"
+    "source": "pinboard",
+    "url": "https://www.noemamag.com/why-is-everyone-in-tech-so-sad/",
+    "title": "Why Is Everyone In Tech So Sad?"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://blog.senko.net/code-was-never-the-hard-part-is-an-insult-to-all-programmers",
+    "title": "\"Code was never the hard part\" is an insult to all programmers — Senko Rašić"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.andrewt.net/dithered-qr-codes/wtf/",
+    "title": "How to make error-diffused QR codes"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn/",
+    "title": "how i use llms to learn complex topics · laurentiu raducu"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://carlkolon.com/reading/",
+    "title": "Reading"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://seg6.space/posts/phone-server/",
+    "title": "my server is a phone now — seg6"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://futurism.com/artificial-intelligence/meta-caught-paying-nazis-to-post-on-facebook",
+    "title": "Meta accusata di monetizzare contenuti di neo-nazisti su Facebook"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://ancientlibrary.net/",
+    "title": "Ancient Library - The Greek and Latin classics — every word parsed, every form defined."
+  },
+  {
+    "source": "pinboard",
+    "url": "https://shopify.engineering/scaling-inventory-reservations",
+    "title": "We replaced Redis with MySQL for inventory reservations—and it scaled (2026) - Shopify"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://unsung.aresluna.org/as-a-windows-user-its-a-very-surreal-way-to-install-a-program/",
+    "title": "“As a Windows user, it’s a very surreal way to install a program.” – Unsung"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://kuber.studio/cookie/",
+    "title": "I didn't set a cookie."
+  },
+  {
+    "source": "pinboard",
+    "url": "https://char.lt/blog/2026/08/talks-i-like/",
+    "title": "some software talks i like - charlotte!"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://news.ycombinator.com/item?id=49234271",
+    "title": "I made tinnitus my friend, then it disappeared [video] | Hacker News"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://semi-rad.com/2026/08/do-it-14000-times-slower-with-this-one-trick/",
+    "title": "Do It 14,000 Times Slower With This One Trick – Semi-Rad.com"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://daringfireball.net/2026/08/retraction_app_store_rejection_of_the_week",
+    "title": "Daring Fireball: Retraction: The App Store Rejection of the Week That Was, in Fact, a Correct Rejection"
   }
 ]
