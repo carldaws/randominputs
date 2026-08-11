@@ -1,8 +1,18 @@
 [
   {
     "source": "hn",
+    "url": "https://cactuscompute.com/needle",
+    "title": "Show HN: Needle2: 14MB agentic LLM for phones, wearables, smart home and robots"
+  },
+  {
+    "source": "hn",
     "url": "https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model",
     "title": "Muse Glimmer: 30B-parameter model optimized for always-on local agent workflows"
+  },
+  {
+    "source": "hn",
+    "url": "https://everycube.alen.is/",
+    "title": "Show HN: Scroll through all 43252003274489856000 Rubik's Cube states"
   },
   {
     "source": "hn",
@@ -11,18 +21,8 @@
   },
   {
     "source": "hn",
-    "url": "https://cactuscompute.com/needle",
-    "title": "Show HN: Needle2: 14MB agentic LLM for phones, wearables, smart home and robots"
-  },
-  {
-    "source": "hn",
     "url": "https://arachnoid.com/lutusp/sailbook.html",
     "title": "Confessions of a Long-Distance Sailor"
-  },
-  {
-    "source": "hn",
-    "url": "https://squeak.org/release_notes/6.1/",
-    "title": "Squeak 6.1"
   },
   {
     "source": "hn",
@@ -31,8 +31,23 @@
   },
   {
     "source": "hn",
+    "url": "https://squeak.org/release_notes/6.1/",
+    "title": "Squeak 6.1"
+  },
+  {
+    "source": "hn",
     "url": "https://kuber.studio/blog/Reflections/Humanising-LLM-Outputs-is-Actually-Dumb",
     "title": "Humanising LLM Outputs Is Dumb"
+  },
+  {
+    "source": "hn",
+    "url": "https://gigamonkeys.com/book/macros-defining-your-own",
+    "title": "The Story of Mac: A Just-So Story"
+  },
+  {
+    "source": "hn",
+    "url": "http://danluu.com/pl-tokens/",
+    "title": "What's the best programming language for coding agents?"
   },
   {
     "source": "hn",
@@ -41,28 +56,13 @@
   },
   {
     "source": "hn",
-    "url": "https://linuxstans.com/illinois-hb5511-operating-system-age-verification/",
-    "title": "Illinois Just Passed a Law That Puts Linux on the Hook for Age Verification"
+    "url": "https://www.beautifulpublicdata.com/boat-names/",
+    "title": "50k Boat Names"
   },
   {
     "source": "hn",
     "url": "https://patentsgazette.uspto.gov/week26/OG/html/1547-5/US12670045-20260630.html",
     "title": "Mistral Patent for “Code implemented tool calls”"
-  },
-  {
-    "source": "hn",
-    "url": "https://bobdahacker.com/blog/tldv-hack",
-    "title": "Tl;dv: Over 180k meetings left wide open"
-  },
-  {
-    "source": "hn",
-    "url": "https://number-garden.com/?@THLP@",
-    "title": "Show HN: Higher-dimensional lattices unfolded into the 2D plane"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.beautifulpublicdata.com/boat-names/",
-    "title": "50k Boat Names"
   },
   {
     "source": "lobsters",
@@ -106,13 +106,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://kristoff.it/blog/source-code-availability/",
-    "title": "Who Should Pay For Source Code Availability?"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://herecomesthemoon.net/2026/08/remaking-party-house/",
-    "title": "Remaking Party House"
+    "url": "https://linebender.org/blog/hyperbezier/",
+    "title": "The mathematical beauty of hyperbezier curves"
   },
   {
     "source": "lobsters",
@@ -121,13 +116,18 @@
   },
   {
     "source": "lobsters",
+    "url": "https://kristoff.it/blog/source-code-availability/",
+    "title": "Who Should Pay For Source Code Availability?"
+  },
+  {
+    "source": "lobsters",
     "url": "http://marc-b-reynolds.github.io/math/2026/08/10/IntDivByFP.html",
     "title": "Moving integer division to floating-point is trivial"
   },
   {
     "source": "lobsters",
-    "url": "https://linebender.org/blog/hyperbezier/",
-    "title": "The mathematical beauty of hyperbezier curves"
+    "url": "https://martinalderson.com/posts/watch-out-for-cache-read-costs/",
+    "title": "Watch out for cache read costs"
   },
   {
     "source": "lobsters",
@@ -136,7 +136,7 @@
   },
   {
     "source": "lobsters",
-    "url": "https://osadmins.com/en/ibm-i-os-400-the-database-operating-system/",
-    "title": "IBM i (OS/400) The Database Operating System"
+    "url": "https://code.call-cc.org/releases/6.0.0/NEWS",
+    "title": "Chicken Scheme 6.0 released"
   }
 ]
