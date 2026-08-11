@@ -1,13 +1,23 @@
 [
   {
     "source": "hn",
-    "url": "https://www.openssh.org/releasenotes.html#10.5",
-    "title": "OpenSSH 10.5 released, AI assistance now welcome"
+    "url": "https://stolen-thoughts.com/",
+    "title": "Stealing Reasoning Traces from Proprietary LLM APIs"
   },
   {
     "source": "hn",
-    "url": "https://stolen-thoughts.com/",
-    "title": "Stealing Reasoning Traces from Proprietary LLM APIs"
+    "url": "https://ironicsans.ghost.io/how-we-used-to-get-jobs/",
+    "title": "How we used to get jobs: A newspaper classifieds story"
+  },
+  {
+    "source": "hn",
+    "url": "https://blogs.nvidia.com/blog/nemotron-lightning-switchyard-rtx-dgx/",
+    "title": "Nvidia Nemotron 3.5 lightning and Nemo Switchyard"
+  },
+  {
+    "source": "hn",
+    "url": "https://blog.jordan.matelsky.com/Penplotter-holography/",
+    "title": "Making holograms with a pen plotter"
   },
   {
     "source": "hn",
@@ -16,8 +26,8 @@
   },
   {
     "source": "hn",
-    "url": "https://manus.im/blog/a-note-to-our-users",
-    "title": "Manus will return to operating as an independent company"
+    "url": "https://www.openssh.org/releasenotes.html#10.5",
+    "title": "OpenSSH 10.5/10.5p1"
   },
   {
     "source": "hn",
@@ -26,13 +36,13 @@
   },
   {
     "source": "hn",
-    "url": "https://stratechery.com/2026/nvidias-risky-business/",
-    "title": "Nvidia's Risky Business"
+    "url": "https://manus.im/blog/a-note-to-our-users",
+    "title": "Manus will return to operating as an independent company"
   },
   {
     "source": "hn",
-    "url": "https://www.lemonde.fr/en/france/article/2026/08/06/france-to-ban-unsolicited-telemarketing-calls-from-august-11_6756208_7.html",
-    "title": "France to ban unsolicited telemarketing calls"
+    "url": "https://stratechery.com/2026/nvidias-risky-business/",
+    "title": "Nvidia's Risky Business"
   },
   {
     "source": "hn",
@@ -41,33 +51,28 @@
   },
   {
     "source": "hn",
+    "url": "https://master.dev/blog/typographic-css-tricks/",
+    "title": "CSS properties you should know for better text designs"
+  },
+  {
+    "source": "hn",
+    "url": "https://writemd.app/",
+    "title": "Show HN: Write.md – A free, open-source, themeable Markdown editor for macOS"
+  },
+  {
+    "source": "hn",
     "url": "https://cactuscompute.com/needle",
     "title": "Show HN: Needle2: 14MB agentic LLM for phones, wearables, smart home and robots"
   },
   {
     "source": "hn",
+    "url": "https://www.emergingtrajectories.com/lh/japan-economy-tradeoffs/",
+    "title": "The Tradeoffs Facing Japan's Economy"
+  },
+  {
+    "source": "hn",
     "url": "https://code.call-cc.org/releases/6.0.0/NEWS",
     "title": "Chicken Scheme 6.0"
-  },
-  {
-    "source": "hn",
-    "url": "https://everycube.alen.is/",
-    "title": "Show HN: Scroll through all 43252003274489856000 Rubik's Cube states"
-  },
-  {
-    "source": "hn",
-    "url": "https://stowaway.live/",
-    "title": "Stowaway – Take the window seat on any plane or satellite overhead"
-  },
-  {
-    "source": "hn",
-    "url": "https://pythonspeed.com/articles/faster-float-math-rust/",
-    "title": "Faster floating point math with Rust's new API"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://typesanitizer.com/blog/code-review.html",
-    "title": "Reviewing code is a skill"
   },
   {
     "source": "lobsters",
@@ -76,13 +81,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://briarproject.org/news/2026-maintenance-mode/",
-    "title": "Briar is in maintenance mode"
+    "url": "https://typesanitizer.com/blog/code-review.html",
+    "title": "Reviewing code is a skill"
   },
   {
     "source": "lobsters",
-    "url": "https://www.seangoedecke.com/local-models-will-not-win/",
-    "title": "No, local models will not win"
+    "url": "https://briarproject.org/news/2026-maintenance-mode/",
+    "title": "Briar is in maintenance mode"
   },
   {
     "source": "lobsters",
@@ -91,18 +96,18 @@
   },
   {
     "source": "lobsters",
-    "url": "https://blog.jordan.matelsky.com/Penplotter-holography/",
-    "title": "Making [etched] holograms with a pen plotter"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://bevy.org/news/bevys-sixth-birthday/",
-    "title": "Bevy's Sixth Birthday"
+    "url": "https://www.seangoedecke.com/local-models-will-not-win/",
+    "title": "No, local models will not win"
   },
   {
     "source": "lobsters",
     "url": "https://vitaut.net/posts/2026/yy-dtoa/",
     "title": "The fastest double-to-string algorithm you’ve never heard of"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://bevy.org/news/bevys-sixth-birthday/",
+    "title": "Bevy's Sixth Birthday"
   },
   {
     "source": "lobsters",
@@ -138,80 +143,5 @@
     "source": "lobsters",
     "url": "https://martinalderson.com/posts/watch-out-for-cache-read-costs/",
     "title": "Watch out for cache read costs"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.noemamag.com/why-is-everyone-in-tech-so-sad/",
-    "title": "Why Is Everyone In Tech So Sad?"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://blog.senko.net/code-was-never-the-hard-part-is-an-insult-to-all-programmers",
-    "title": "\"Code was never the hard part\" is an insult to all programmers — Senko Rašić"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.andrewt.net/dithered-qr-codes/wtf/",
-    "title": "How to make error-diffused QR codes"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn/",
-    "title": "how i use llms to learn complex topics · laurentiu raducu"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://carlkolon.com/reading/",
-    "title": "Reading"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://seg6.space/posts/phone-server/",
-    "title": "my server is a phone now — seg6"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://futurism.com/artificial-intelligence/meta-caught-paying-nazis-to-post-on-facebook",
-    "title": "Meta accusata di monetizzare contenuti di neo-nazisti su Facebook"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://shopify.engineering/scaling-inventory-reservations",
-    "title": "We replaced Redis with MySQL for inventory reservations—and it scaled (2026) - Shopify"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://unsung.aresluna.org/as-a-windows-user-its-a-very-surreal-way-to-install-a-program/",
-    "title": "“As a Windows user, it’s a very surreal way to install a program.” – Unsung"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://kuber.studio/cookie/",
-    "title": "I didn't set a cookie."
-  },
-  {
-    "source": "pinboard",
-    "url": "https://char.lt/blog/2026/08/talks-i-like/",
-    "title": "some software talks i like - charlotte!"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://news.ycombinator.com/item?id=49234271",
-    "title": "I made tinnitus my friend, then it disappeared [video] | Hacker News"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://danluu.com/pl-tokens/",
-    "title": "What's the best programming language for coding agents?"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://semi-rad.com/2026/08/do-it-14000-times-slower-with-this-one-trick/",
-    "title": "Do It 14,000 Times Slower With This One Trick – Semi-Rad.com"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://daringfireball.net/2026/08/retraction_app_store_rejection_of_the_week",
-    "title": "Daring Fireball: Retraction: The App Store Rejection of the Week That Was, in Fact, a Correct Rejection"
   }
 ]
