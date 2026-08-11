@@ -1,18 +1,23 @@
 [
   {
     "source": "hn",
+    "url": "https://www.openssh.org/releasenotes.html#10.5",
+    "title": "OpenSSH 10.5 released, AI assistance now welcome"
+  },
+  {
+    "source": "hn",
     "url": "https://stolen-thoughts.com/",
     "title": "Stealing Reasoning Traces from Proprietary LLM APIs"
   },
   {
     "source": "hn",
-    "url": "https://manus.im/blog/a-note-to-our-users",
-    "title": "Manus will return to operating as an independent company"
+    "url": "https://photosynthesis.camera",
+    "title": "Show HN: iPhone app takes simultaneous images from 2 lenses, fuses into 1 photo"
   },
   {
     "source": "hn",
-    "url": "https://photosynthesis.camera",
-    "title": "Show HN: iPhone app takes simultaneous images from 2 lenses, fuses into 1 photo"
+    "url": "https://manus.im/blog/a-note-to-our-users",
+    "title": "Manus will return to operating as an independent company"
   },
   {
     "source": "hn",
@@ -33,16 +38,6 @@
     "source": "hn",
     "url": "https://www.trykeet.com/",
     "title": "Launch HN: Keet (YC S24) – An app to create video courses on anything"
-  },
-  {
-    "source": "hn",
-    "url": "https://blog.gingerbeardman.com/2026/07/30/beltrunner-game-design-postmortem/",
-    "title": "Beltrunner: Game Design Postmortem"
-  },
-  {
-    "source": "hn",
-    "url": "https://writemd.app/",
-    "title": "Show HN: Write.md, a free, open-source, themeable Markdown editor for macOS"
   },
   {
     "source": "hn",
@@ -86,13 +81,18 @@
   },
   {
     "source": "lobsters",
-    "url": "https://blog.jordan.matelsky.com/Penplotter-holography/",
-    "title": "Making [etched] holograms with a pen plotter"
+    "url": "https://www.seangoedecke.com/local-models-will-not-win/",
+    "title": "No, local models will not win"
   },
   {
     "source": "lobsters",
-    "url": "https://www.seangoedecke.com/local-models-will-not-win/",
-    "title": "No, local models will not win"
+    "url": "https://punkx.org/jackdoe/home.html",
+    "title": "My Anti AI computer"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://blog.jordan.matelsky.com/Penplotter-holography/",
+    "title": "Making [etched] holograms with a pen plotter"
   },
   {
     "source": "lobsters",
@@ -101,8 +101,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://entropicthoughts.com/fft",
-    "title": "A noob learns FFT"
+    "url": "https://vitaut.net/posts/2026/yy-dtoa/",
+    "title": "The fastest double-to-string algorithm you’ve never heard of"
   },
   {
     "source": "lobsters",
@@ -111,13 +111,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://vitaut.net/posts/2026/yy-dtoa/",
-    "title": "The fastest double-to-string algorithm you’ve never heard of"
+    "url": "https://entropicthoughts.com/fft",
+    "title": "A noob learns FFT"
   },
   {
     "source": "lobsters",
-    "url": "https://punkx.org/jackdoe/home.html",
-    "title": "My Anti AI computer"
+    "url": "https://briancallahan.net/blog/20260811.html",
+    "title": "Cleaning costs, or, examining the OpenBSD -fret-clean flag"
   },
   {
     "source": "lobsters",
@@ -133,11 +133,6 @@
     "source": "lobsters",
     "url": "https://claytonwramsey.com/blog/mvt/",
     "title": "We're not done with point clouds"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://briancallahan.net/blog/20260811.html",
-    "title": "Cleaning costs, or, examining the OpenBSD -fret-clean flag"
   },
   {
     "source": "lobsters",
@@ -178,11 +173,6 @@
     "source": "pinboard",
     "url": "https://futurism.com/artificial-intelligence/meta-caught-paying-nazis-to-post-on-facebook",
     "title": "Meta accusata di monetizzare contenuti di neo-nazisti su Facebook"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://ancientlibrary.net/",
-    "title": "Ancient Library - The Greek and Latin classics — every word parsed, every form defined."
   },
   {
     "source": "pinboard",
