@@ -1,6 +1,11 @@
 [
   {
     "source": "hn",
+    "url": "https://tencent-hunyuan.github.io/Hunyuan3D-WorldClaw/",
+    "title": "WorldClaw Agentic 3D open-world generation at scale"
+  },
+  {
+    "source": "hn",
     "url": "https://blogs.nvidia.com/blog/nemotron-lightning-switchyard-rtx-dgx/",
     "title": "Nvidia Nemotron 3.5 Lightning and NeMo Switchyard"
   },
@@ -26,8 +31,8 @@
   },
   {
     "source": "hn",
-    "url": "https://tencent-hunyuan.github.io/Hunyuan3D-WorldClaw/",
-    "title": "WorldClaw Agentic 3D open-world generation at scale"
+    "url": "https://www.suzanne3d.com/",
+    "title": "Suzanne: AI tool for designing and manufacturing physical products"
   },
   {
     "source": "hn",
@@ -41,13 +46,8 @@
   },
   {
     "source": "hn",
-    "url": "https://www.suzanne3d.com/",
-    "title": "Suzanne: AI tool for designing and manufacturing physical products"
-  },
-  {
-    "source": "hn",
-    "url": "https://stratechery.com/2026/nvidias-risky-business/",
-    "title": "Nvidia's Risky Business"
+    "url": "https://blog.val.town/ethical-cold-outreach",
+    "title": "Ethical Cold Outreach"
   },
   {
     "source": "hn",
@@ -56,8 +56,8 @@
   },
   {
     "source": "hn",
-    "url": "https://master.dev/blog/typographic-css-tricks/",
-    "title": "CSS properties you should know for better text designs"
+    "url": "https://stratechery.com/2026/nvidias-risky-business/",
+    "title": "Nvidia's Risky Business"
   },
   {
     "source": "hn",
@@ -66,23 +66,23 @@
   },
   {
     "source": "hn",
+    "url": "https://master.dev/blog/typographic-css-tricks/",
+    "title": "CSS properties you should know for better text designs"
+  },
+  {
+    "source": "hn",
     "url": "https://momath.org/the-hat/",
     "title": "The Hat and the Spectre – Recent Groundbreaking Discoveries in Mathematics"
   },
   {
     "source": "hn",
-    "url": "https://www.theregister.com/public-sector/2026/08/11/palantir-could-receive-244m-pentagon-no-bid-contract/5286438",
-    "title": "Give Palantir up to $244M through 2028, says internal Defense Department memo"
+    "url": "https://writemd.app/",
+    "title": "Show HN: Write.md – A free, open-source, themeable Markdown editor for macOS"
   },
   {
     "source": "hn",
     "url": "https://www.trykeet.com/",
     "title": "Launch HN: Keet (YC S24) – An app to create video courses on anything"
-  },
-  {
-    "source": "hn",
-    "url": "https://writemd.app/",
-    "title": "Show HN: Write.md – A free, open-source, themeable Markdown editor for macOS"
   },
   {
     "source": "lobsters",
@@ -91,13 +91,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://typesanitizer.com/blog/code-review.html",
-    "title": "Reviewing code is a skill"
+    "url": "https://punkx.org/jackdoe/home.html",
+    "title": "My Anti AI computer"
   },
   {
     "source": "lobsters",
-    "url": "https://punkx.org/jackdoe/home.html",
-    "title": "My Anti AI computer"
+    "url": "https://typesanitizer.com/blog/code-review.html",
+    "title": "Reviewing code is a skill"
   },
   {
     "source": "lobsters",
@@ -126,13 +126,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://eme64.github.io/blog/2026/01/12/Alignment-Performance.html",
-    "title": "Performance impact of Alignment"
+    "url": "https://bevy.org/news/bevys-sixth-birthday/",
+    "title": "Bevy's Sixth Birthday"
   },
   {
     "source": "lobsters",
-    "url": "https://bevy.org/news/bevys-sixth-birthday/",
-    "title": "Bevy's Sixth Birthday"
+    "url": "https://eme64.github.io/blog/2026/01/12/Alignment-Performance.html",
+    "title": "Performance impact of Alignment"
   },
   {
     "source": "lobsters",
