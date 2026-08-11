@@ -11,13 +11,13 @@
   },
   {
     "source": "hn",
-    "url": "https://www.floppydisk.com/recycle",
-    "title": "Recycle – Floppydisks"
+    "url": "https://cactuscompute.com/needle",
+    "title": "Show HN: Needle2: 14MB agentic LLM for phones, wearables, smart home and robots"
   },
   {
     "source": "hn",
-    "url": "https://cactuscompute.com/needle",
-    "title": "Show HN: Needle2: 14MB agentic LLM for phones, wearables, smart home and robots"
+    "url": "https://www.floppydisk.com/recycle",
+    "title": "Recycle – Floppydisks"
   },
   {
     "source": "hn",
@@ -26,13 +26,23 @@
   },
   {
     "source": "hn",
+    "url": "https://stowaway.live/",
+    "title": "Stowaway – Take the window seat on any plane or satellite overhead"
+  },
+  {
+    "source": "hn",
     "url": "https://www.vectorware.com/blog/simd-on-gpu/",
     "title": "Rust SIMD on the GPU"
   },
   {
     "source": "hn",
-    "url": "https://stowaway.live/",
-    "title": "Stowaway – Take the window seat on any plane or satellite overhead"
+    "url": "https://manish.sh/writings/models/inside-deepseek-reverse-engineering-an-ai-assistant-by-interviewing-itself",
+    "title": "DeepSeek: Reverse Engineering an AI Assistant by Interviewing Itself"
+  },
+  {
+    "source": "hn",
+    "url": "http://danluu.com/pl-tokens/",
+    "title": "What's the best programming language for coding agents?"
   },
   {
     "source": "hn",
@@ -46,23 +56,8 @@
   },
   {
     "source": "hn",
-    "url": "http://danluu.com/pl-tokens/",
-    "title": "What's the best programming language for coding agents?"
-  },
-  {
-    "source": "hn",
     "url": "https://squeak.org/release_notes/6.1/",
     "title": "Squeak 6.1"
-  },
-  {
-    "source": "hn",
-    "url": "https://kuber.studio/blog/Reflections/Humanising-LLM-Outputs-is-Actually-Dumb",
-    "title": "Humanising LLM Outputs Is Dumb"
-  },
-  {
-    "source": "hn",
-    "url": "https://whatever.scalzi.com/2026/08/10/why-my-father-is-wrong-a-defense-of-guitar-hero/",
-    "title": "Why My Father Is Wrong: A Defense of Guitar Hero"
   },
   {
     "source": "hn",
@@ -71,8 +66,18 @@
   },
   {
     "source": "hn",
-    "url": "https://gigamonkeys.com/book/macros-defining-your-own",
-    "title": "The Story of Mac: A Just-So Story"
+    "url": "https://kuber.studio/blog/Reflections/Humanising-LLM-Outputs-is-Actually-Dumb",
+    "title": "Humanising LLM Outputs Is Dumb"
+  },
+  {
+    "source": "hn",
+    "url": "https://theamericanscholar.org/once-more-in-triple-time/",
+    "title": "Once More in Triple Time"
+  },
+  {
+    "source": "hn",
+    "url": "https://correctiv.org/en/europe/2026/04/21/half-of-europes-towns-and-villages-have-fewer-residents-than-60-years-ago/",
+    "title": "Half of Europe's towns and villages have fewer residents than 60 years ago"
   },
   {
     "source": "lobsters",
@@ -86,6 +91,11 @@
   },
   {
     "source": "lobsters",
+    "url": "https://danluu.com/pl-tokens/",
+    "title": "How do programming languages impact token efficiency and correctness?"
+  },
+  {
+    "source": "lobsters",
     "url": "https://herecomesthemoon.net/2026/08/remaking-party-house/",
     "title": "Remaking Party House"
   },
@@ -96,8 +106,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://danluu.com/pl-tokens/",
-    "title": "How do programming languages impact token efficiency and correctness?"
+    "url": "https://www.seangoedecke.com/local-models-will-not-win/",
+    "title": "No, local models will not win"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://typesanitizer.com/blog/code-review.html",
+    "title": "Reviewing code is a skill"
   },
   {
     "source": "lobsters",
@@ -111,11 +126,6 @@
   },
   {
     "source": "lobsters",
-    "url": "https://www.seangoedecke.com/local-models-will-not-win/",
-    "title": "No, local models will not win"
-  },
-  {
-    "source": "lobsters",
     "url": "https://lea.verou.me/blog/2026/dark-mode-toggles/",
     "title": "Dark mode toggles: two states are enough"
   },
@@ -123,11 +133,6 @@
     "source": "lobsters",
     "url": "https://bxt.rs/blog/easy-sandboxing-on-linux-with-bubblewrap/",
     "title": "Easy Sandboxing on Linux with Bubblewrap"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://typesanitizer.com/blog/code-review.html",
-    "title": "Reviewing code is a skill"
   },
   {
     "source": "lobsters",
