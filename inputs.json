@@ -1,8 +1,13 @@
 [
   {
     "source": "hn",
-    "url": "https://stolen-thoughts.com/",
-    "title": "Stealing Reasoning Traces from Proprietary LLM APIs"
+    "url": "https://blogs.nvidia.com/blog/nemotron-lightning-switchyard-rtx-dgx/",
+    "title": "Nvidia Nemotron 3.5 Lightning and NeMo Switchyard"
+  },
+  {
+    "source": "hn",
+    "url": "https://ngrok.com/blog/compression-is-prediction",
+    "title": "Compression Is Prediction"
   },
   {
     "source": "hn",
@@ -11,8 +16,8 @@
   },
   {
     "source": "hn",
-    "url": "https://blogs.nvidia.com/blog/nemotron-lightning-switchyard-rtx-dgx/",
-    "title": "Nvidia Nemotron 3.5 lightning and Nemo Switchyard"
+    "url": "https://stolen-thoughts.com/",
+    "title": "Stealing Reasoning Traces from Proprietary LLM APIs"
   },
   {
     "source": "hn",
@@ -26,13 +31,18 @@
   },
   {
     "source": "hn",
+    "url": "https://jolt-lang.github.io",
+    "title": "Jolt: Clojure compiler implemented with Chez Scheme"
+  },
+  {
+    "source": "hn",
     "url": "https://www.openssh.org/releasenotes.html#10.5",
     "title": "OpenSSH 10.5/10.5p1"
   },
   {
     "source": "hn",
-    "url": "https://jolt-lang.github.io",
-    "title": "Jolt: Clojure compiler implemented with Chez Scheme"
+    "url": "https://everythingmachine.io/phone/",
+    "title": "Your phone is the most intricate machine you've ever held. Let's take it apart."
   },
   {
     "source": "hn",
@@ -46,13 +56,13 @@
   },
   {
     "source": "hn",
-    "url": "https://www.trykeet.com/",
-    "title": "Launch HN: Keet (YC S24) – An app to create video courses on anything"
+    "url": "https://master.dev/blog/typographic-css-tricks/",
+    "title": "CSS properties you should know for better text designs"
   },
   {
     "source": "hn",
-    "url": "https://master.dev/blog/typographic-css-tricks/",
-    "title": "CSS properties you should know for better text designs"
+    "url": "https://www.trykeet.com/",
+    "title": "Launch HN: Keet (YC S24) – An app to create video courses on anything"
   },
   {
     "source": "hn",
@@ -63,16 +73,6 @@
     "source": "hn",
     "url": "https://cactuscompute.com/needle",
     "title": "Show HN: Needle2: 14MB agentic LLM for phones, wearables, smart home and robots"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.emergingtrajectories.com/lh/japan-economy-tradeoffs/",
-    "title": "The Tradeoffs Facing Japan's Economy"
-  },
-  {
-    "source": "hn",
-    "url": "https://code.call-cc.org/releases/6.0.0/NEWS",
-    "title": "Chicken Scheme 6.0"
   },
   {
     "source": "lobsters",
@@ -96,6 +96,11 @@
   },
   {
     "source": "lobsters",
+    "url": "https://code.call-cc.org/releases/6.0.0/NEWS",
+    "title": "Chicken Scheme 6.0 released"
+  },
+  {
+    "source": "lobsters",
     "url": "https://www.seangoedecke.com/local-models-will-not-win/",
     "title": "No, local models will not win"
   },
@@ -106,13 +111,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://bevy.org/news/bevys-sixth-birthday/",
-    "title": "Bevy's Sixth Birthday"
+    "url": "https://eme64.github.io/blog/2026/01/12/Alignment-Performance.html",
+    "title": "Performance impact of Alignment"
   },
   {
     "source": "lobsters",
-    "url": "https://eme64.github.io/blog/2026/01/12/Alignment-Performance.html",
-    "title": "Performance impact of Alignment"
+    "url": "https://bevy.org/news/bevys-sixth-birthday/",
+    "title": "Bevy's Sixth Birthday"
   },
   {
     "source": "lobsters",
@@ -138,10 +143,5 @@
     "source": "lobsters",
     "url": "https://claytonwramsey.com/blog/mvt/",
     "title": "We're not done with point clouds"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://martinalderson.com/posts/watch-out-for-cache-read-costs/",
-    "title": "Watch out for cache read costs"
   }
 ]
