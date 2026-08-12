@@ -31,8 +31,13 @@
   },
   {
     "source": "hn",
-    "url": "https://chad.cm/posts/2026-8-11-my-agent-setup",
-    "title": "My Agent Setup"
+    "url": "https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html",
+    "title": "AI is removing the middle class of software engineering"
+  },
+  {
+    "source": "hn",
+    "url": "https://blog.google/products-and-platforms/devices/pixel/pixel-11-pro-fold/",
+    "title": "Google launches Pixel 11 Pro Fold"
   },
   {
     "source": "hn",
@@ -41,18 +46,8 @@
   },
   {
     "source": "hn",
-    "url": "https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html",
-    "title": "AI is removing the middle class of software engineering"
-  },
-  {
-    "source": "hn",
     "url": "https://gowers.wordpress.com/2026/08/12/what-sort-of-maths-are-llms-good-at/",
     "title": "What sort of maths are LLMs good at?"
-  },
-  {
-    "source": "hn",
-    "url": "https://therad.ninja/from-8-10-seconds-to-3-7-teaching-automatic1111-to-speak-metal-on-an-m3-pro/",
-    "title": "Automatic1111 for Apple metal, 40% speed up sd1.5"
   },
   {
     "source": "hn",
@@ -61,13 +56,33 @@
   },
   {
     "source": "hn",
+    "url": "https://therad.ninja/from-8-10-seconds-to-3-7-teaching-automatic1111-to-speak-metal-on-an-m3-pro/",
+    "title": "Automatic1111 for Apple metal, 40% speed up sd1.5"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.githubstatus.com/incidents/76t89hbfb09h",
+    "title": "Wednesday, August 12: GitHub, Incident with Pull Requests and Issues"
+  },
+  {
+    "source": "hn",
+    "url": "https://chad.cm/posts/2026-8-11-my-agent-setup",
+    "title": "My Agent Setup"
+  },
+  {
+    "source": "hn",
+    "url": "https://usehax.dev/",
+    "title": "Hax – a minimalist, terminal-native coding agent written in C"
+  },
+  {
+    "source": "hn",
     "url": "https://petapixel.com/2026/08/04/amazing-high-res-photo-shows-a-butte-rising-from-mars/",
     "title": "High-Res Photo Shows Sand-Capped Butte Rising from Mars Plain of Polygons"
   },
   {
     "source": "hn",
-    "url": "https://discoveredmaterials.com/research/",
-    "title": "Launch HN: Discovered Materials (YC P26) – AI agents to discover new materials"
+    "url": "https://jacobfilipp.com/felix/",
+    "title": "Felix and I"
   },
   {
     "source": "hn",
@@ -76,13 +91,13 @@
   },
   {
     "source": "hn",
-    "url": "https://aresluna.org/the-hardest-working-font-in-manhattan/",
-    "title": "The hardest working font in Manhattan (2025)"
+    "url": "https://discoveredmaterials.com/research/",
+    "title": "Launch HN: Discovered Materials (YC P26) – AI agents to discover new materials"
   },
   {
     "source": "hn",
-    "url": "https://usehax.dev/",
-    "title": "Hax – a minimalist, terminal-native coding agent written in C"
+    "url": "https://aresluna.org/the-hardest-working-font-in-manhattan/",
+    "title": "The hardest working font in Manhattan (2025)"
   },
   {
     "source": "lobsters",
@@ -96,23 +111,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://blogs.gnome.org/shell-dev/2026/08/11/gnome-shell-design-dreams/",
-    "title": "GNOME Shell Design Dreams"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://signal.org/blog/automatic-key-verification/",
-    "title": "Introducing Automatic Key Verification"
-  },
-  {
-    "source": "lobsters",
     "url": "https://brettcodes.com/im-done-using-ai/",
     "title": "I'm done using AI"
   },
   {
     "source": "lobsters",
-    "url": "https://ngrok.com/blog/compression-is-prediction",
-    "title": "Compression is prediction"
+    "url": "https://blogs.gnome.org/shell-dev/2026/08/11/gnome-shell-design-dreams/",
+    "title": "GNOME Shell Design Dreams"
   },
   {
     "source": "lobsters",
@@ -121,8 +126,23 @@
   },
   {
     "source": "lobsters",
-    "url": "https://punkx.org/jackdoe/home.html",
-    "title": "My Anti AI computer"
+    "url": "https://signal.org/blog/automatic-key-verification/",
+    "title": "Introducing Automatic Key Verification"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://calnewport.com/on-ai-coding-and-its-discontents/",
+    "title": "On AI Coding and Its Discontents"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://phunky.cafe/my-homelab-got-hacked/",
+    "title": "My Homelab Got Hacked - A Postmortem"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://ngrok.com/blog/compression-is-prediction",
+    "title": "Compression is prediction"
   },
   {
     "source": "lobsters",
@@ -131,13 +151,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://laurent.le-brun.eu/blog/making-a-game-on-a-custom-bytecode-vm-in-7-days-and-3kb",
-    "title": "Making a game on a custom bytecode VM in 7 days and 3kB"
+    "url": "https://punkx.org/jackdoe/home.html",
+    "title": "My Anti AI computer"
   },
   {
     "source": "lobsters",
-    "url": "https://calnewport.com/on-ai-coding-and-its-discontents/",
-    "title": "On AI Coding and Its Discontents"
+    "url": "https://laurent.le-brun.eu/blog/making-a-game-on-a-custom-bytecode-vm-in-7-days-and-3kb",
+    "title": "Making a game on a custom bytecode VM in 7 days and 3kB"
   },
   {
     "source": "lobsters",
@@ -161,13 +181,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://erk.dev/2026/08/12/rangefrom-part-1",
-    "title": "RangeFrom, Part 1․․"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://blog.jordan.matelsky.com/Penplotter-holography/",
-    "title": "Making [etched] holograms with a pen plotter"
+    "url": "https://www.pcmag.com/news/apple-limits-bug-bounty-submissions-after-a-barrage-of-ai-entries",
+    "title": "Apple Limits Bug Bounty Submissions After a Barrage of AI Entries"
   },
   {
     "source": "pinboard",
