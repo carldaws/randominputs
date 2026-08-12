@@ -1,8 +1,13 @@
 [
   {
     "source": "hn",
+    "url": "https://jonty.github.io/2026_eclipse_webcams/",
+    "title": "2026 Eclipse Webcams"
+  },
+  {
+    "source": "hn",
     "url": "https://gowers.wordpress.com/2026/08/12/what-sort-of-maths-are-llms-good-at/",
-    "title": "Tim Gowers: What sort of maths are LLMs good at?"
+    "title": "What sort of maths are LLMs good at?"
   },
   {
     "source": "hn",
@@ -11,13 +16,13 @@
   },
   {
     "source": "hn",
-    "url": "https://www.cringebot3000.com/",
-    "title": "LinkedIn CringeBot 3000"
+    "url": "https://getfresh.dev/docs/blog/packaging-for-linux/",
+    "title": "I hate packaging my software for Linux"
   },
   {
     "source": "hn",
-    "url": "https://spoorkaart.zaza.dev",
-    "title": "Dutch Train Map Simulator"
+    "url": "https://www.cringebot3000.com/",
+    "title": "LinkedIn CringeBot 3000"
   },
   {
     "source": "hn",
@@ -46,13 +51,18 @@
   },
   {
     "source": "hn",
+    "url": "https://refp.se/articles/your-shell-and-the-lazy-exclamation-mark",
+    "title": "A shell exclamation mark is not for yelling. Be lazy"
+  },
+  {
+    "source": "hn",
     "url": "https://llama.app",
     "title": "llama.cpp"
   },
   {
     "source": "hn",
-    "url": "https://refp.se/articles/your-shell-and-the-lazy-exclamation-mark",
-    "title": "A shell exclamation mark is not for yelling. Be lazy"
+    "url": "https://www.wsj.com/us-news/education/university-of-michigan-grades-mental-health-1a5701d4",
+    "title": "U of Michigan drops first-semester grades to ‘curb mental health crisis’"
   },
   {
     "source": "hn",
@@ -61,13 +71,13 @@
   },
   {
     "source": "hn",
-    "url": "https://blogs.nvidia.com/blog/nemotron-lightning-switchyard-rtx-dgx/",
-    "title": "Nvidia Nemotron 3.5 Lightning and NeMo Switchyard"
+    "url": "https://www.cbsnews.com/news/video-gamer-air-traffic-controllers-faa-recruitment-sean-duffy/",
+    "title": "US hires over 2k video gamers as air traffic controllers"
   },
   {
     "source": "hn",
-    "url": "https://monictheory.com",
-    "title": "Music Generation by a Composer, for Musicians"
+    "url": "https://blogs.nvidia.com/blog/nemotron-lightning-switchyard-rtx-dgx/",
+    "title": "Nvidia Nemotron 3.5 Lightning and NeMo Switchyard"
   },
   {
     "source": "hn",
@@ -76,87 +86,62 @@
   },
   {
     "source": "hn",
-    "url": "https://photosynthesis.camera",
-    "title": "Show HN: iPhone app takes simultaneous images from 2 lenses, fuses into 1 photo"
+    "url": "https://monictheory.com",
+    "title": "Music Generation by a Composer, for Musicians"
   },
   {
     "source": "hn",
-    "url": "https://blog.jordan.matelsky.com/Penplotter-holography/",
-    "title": "Making holograms with a pen plotter"
-  },
-  {
-    "source": "hn",
-    "url": "https://hazyresearch.stanford.edu/blog/2026-08-05-retire-the-abstractions",
-    "title": "Retire the Abstractions"
-  },
-  {
-    "source": "hn",
-    "url": "https://jolt-lang.github.io",
-    "title": "Jolt: Clojure compiler implemented with Chez Scheme"
+    "url": "https://ironicsans.ghost.io/how-we-used-to-get-jobs/",
+    "title": "How we used to get jobs: A newspaper classifieds story"
   },
   {
     "source": "lobsters",
-    "url": "https://blogs.gnome.org/shell-dev/2026/08/11/gnome-shell-design-dreams/",
-    "title": "GNOME Shell Design Dreams"
+    "url": "https://blog.ropnop.com/upgrading-simple-shells-to-fully-interactive-ttys/",
+    "title": "Upgrading shells to fully interactive TTYs"
   },
   {
     "source": "lobsters",
-    "url": "https://punkx.org/jackdoe/home.html",
-    "title": "My Anti AI computer"
+    "url": "http://mail-index.netbsd.org/pkgsrc-users/2017/07/10/msg025237.html",
+    "title": "Announcing the pkgsrc-2017Q2 release"
   },
   {
     "source": "lobsters",
-    "url": "https://typesanitizer.com/blog/code-review.html",
-    "title": "Reviewing code is a skill"
+    "url": "https://accessibility.blog.gov.uk/2016/09/02/dos-and-donts-on-designing-for-accessibility/",
+    "title": "Dos and don'ts on designing for accessibility"
   },
   {
     "source": "lobsters",
-    "url": "https://signal.org/blog/automatic-key-verification/",
-    "title": "Introducing Automatic Key Verification"
+    "url": "https://pair-code.github.io/facets/",
+    "title": "Facets"
   },
   {
     "source": "lobsters",
-    "url": "https://laurent.le-brun.eu/blog/making-a-game-on-a-custom-bytecode-vm-in-7-days-and-3kb",
-    "title": "Making a game on a custom bytecode VM in 7 days and 3kB"
+    "url": "https://en.m.wikipedia.org/wiki/Immunity-aware_programming",
+    "title": "Immunity-Aware Programming"
   },
   {
     "source": "lobsters",
-    "url": "https://briarproject.org/news/2026-maintenance-mode/",
-    "title": "Briar is in maintenance mode"
+    "url": "https://vvvvalvalval.github.io/posts/2017-07-08-Datomic-this-is-not-the-history-youre-looking-for.html",
+    "title": "Datomic: this is not the history you're looking for"
   },
   {
     "source": "lobsters",
-    "url": "https://vitaut.net/posts/2026/yy-dtoa/",
-    "title": "The fastest double-to-string algorithm you’ve never heard of"
+    "url": "http://boxbase.org/entries/2017/jul/10/fortune-algorithm-triangulation/",
+    "title": "Application of Fortune's algorithm on triangulation"
   },
   {
     "source": "lobsters",
-    "url": "https://www.sandordargo.com/blog/2026/08/12/cpp26-indirect",
-    "title": "C++26: std::indirect"
+    "url": "http://laforge.gnumonks.org/blog/20170709-10years_openmoko/",
+    "title": "Ten years after first shipping Openmoko Neo1973"
   },
   {
     "source": "lobsters",
-    "url": "https://www.pillar.security/blog/deadbugz-currently-active-mcp-supply-chain-campaign",
-    "title": "Deadbugz: Currently Active MCP Supply-Chain Campaign"
+    "url": "https://meshedinsights.com/2017/07/09/drm-is-toxic-to-culture/",
+    "title": "DRM Is Toxic To Culture"
   },
   {
     "source": "lobsters",
-    "url": "https://code.call-cc.org/releases/6.0.0/NEWS",
-    "title": "Chicken Scheme 6.0 released"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://entropicthoughts.com/fft",
-    "title": "A noob learns FFT"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://erk.dev/2026/08/12/rangefrom-part-1",
-    "title": "RangeFrom, Part 1․․"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://calnewport.com/on-ai-coding-and-its-discontents/",
-    "title": "On AI Coding and Its Discontents"
+    "url": "https://anisse.astier.eu/awk-driven-iot.html",
+    "title": "Linux Engineer's random thoughts - awk driven IoT"
   }
 ]
