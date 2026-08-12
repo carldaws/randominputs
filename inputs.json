@@ -6,11 +6,6 @@
   },
   {
     "source": "hn",
-    "url": "https://corneroffifth.studio/why-cant-you-find-canned-sardines-right-now/",
-    "title": "Thanks to social media, canned sardines are a scarcity on the supermarket shelf"
-  },
-  {
-    "source": "hn",
     "url": "https://jonty.github.io/2026_eclipse_webcams/",
     "title": "2026 Eclipse Webcams"
   },
@@ -26,11 +21,6 @@
   },
   {
     "source": "hn",
-    "url": "https://guillaumetech.github.io/posts/jpg-scaling-chrome/",
-    "title": "Why tiny JPEGs look different in Chrome"
-  },
-  {
-    "source": "hn",
     "url": "https://discoveredmaterials.com/research/",
     "title": "Launch HN: Discovered Materials (YC P26) – AI agents to discover new materials"
   },
@@ -41,13 +31,48 @@
   },
   {
     "source": "hn",
+    "url": "https://guillaumetech.github.io/posts/jpg-scaling-chrome/",
+    "title": "Why tiny JPEGs look different in Chrome"
+  },
+  {
+    "source": "hn",
     "url": "https://blog.google/products-and-platforms/devices/pixel/pixel-watch-5/",
     "title": "Pixel Watch 5"
   },
   {
     "source": "hn",
+    "url": "http://funcall.blogspot.com/2026/08/why-vibe-code-in-lisp.html",
+    "title": "Why Target Common Lisp for Code Generation?"
+  },
+  {
+    "source": "hn",
+    "url": "https://aaas-marketplace-1089237826218.asia-northeast1.run.app",
+    "title": "Show HN: A marketplace where AI agents buy services from AI agents"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.historytoday.com/archive/review/cheese-and-worms-carlo-ginzburg-review",
+    "title": "'The Cheese and the Worms' by Carlo Ginzburg Review"
+  },
+  {
+    "source": "hn",
+    "url": "https://timer.jotaen.net",
+    "title": "Show HN: Programmable timer web app (for gym workouts or stretching sessions)"
+  },
+  {
+    "source": "hn",
     "url": "https://artificialanalysis.ai/articles/grok-4-6-benchmarks-and-analysis",
     "title": "Grok 4.6 scores 61 on the Artificial Analysis Intelligence Index"
+  },
+  {
+    "source": "hn",
+    "url": "https://bipluk.com/",
+    "title": "I built a browser-native SysEx librarian for 80s/90s synthesizers"
+  },
+  {
+    "source": "hn",
+    "url": "https://lovable.dev/blog/series-c",
+    "title": "Lovable raises $400M Series C"
   },
   {
     "source": "hn",
@@ -61,11 +86,6 @@
   },
   {
     "source": "hn",
-    "url": "https://lovable.dev/blog/series-c",
-    "title": "Lovable raises $400M Series C"
-  },
-  {
-    "source": "hn",
     "url": "https://blog.google/products-and-platforms/devices/pixel/pixel-11-pro-fold/",
     "title": "Pixel 11 Pro Fold"
   },
@@ -73,21 +93,6 @@
     "source": "hn",
     "url": "https://gowers.wordpress.com/2026/08/12/what-sort-of-maths-are-llms-good-at/",
     "title": "What sort of maths are LLMs good at?"
-  },
-  {
-    "source": "hn",
-    "url": "https://woxi.ad-si.com",
-    "title": "Show HN: Woxi - Open-source Mathematica / Wolfram Language reimplementation"
-  },
-  {
-    "source": "hn",
-    "url": "https://climate.metoffice.cloud/glaciers.html",
-    "title": "Glaciers on the Climate Dashboard"
-  },
-  {
-    "source": "hn",
-    "url": "https://jacobfilipp.com/felix/",
-    "title": "Felix and I"
   },
   {
     "source": "lobsters",
@@ -116,13 +121,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://var0.xyz/posts/mindful-coding-purpose-and-intention.html",
-    "title": "Mindful coding: Purpose and intention"
+    "url": "https://hackmd.io/@s_haMSbyTAOWfoXc1aYNUg/Hka74gCwZg",
+    "title": "A critical review of Xilem in 2026"
   },
   {
     "source": "lobsters",
-    "url": "https://hackmd.io/@s_haMSbyTAOWfoXc1aYNUg/Hka74gCwZg",
-    "title": "A critical review of Xilem in 2026"
+    "url": "https://var0.xyz/posts/mindful-coding-purpose-and-intention.html",
+    "title": "Mindful coding: Purpose and intention"
   },
   {
     "source": "lobsters",
@@ -141,18 +146,23 @@
   },
   {
     "source": "lobsters",
-    "url": "https://punkx.org/jackdoe/home.html",
-    "title": "My Anti AI computer"
-  },
-  {
-    "source": "lobsters",
     "url": "https://committing-crimes.com/articles/2026-08-04-java-nameof",
     "title": "Hacking in the 'nameOf'"
   },
   {
     "source": "lobsters",
+    "url": "https://punkx.org/jackdoe/home.html",
+    "title": "My Anti AI computer"
+  },
+  {
+    "source": "lobsters",
     "url": "https://laurent.le-brun.eu/blog/making-a-game-on-a-custom-bytecode-vm-in-7-days-and-3kb",
     "title": "Making a game on a custom bytecode VM in 7 days and 3kB"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://lithostech.com/2026/08/decrypting-flume-water-monitor-traffic/",
+    "title": "Decrypting Flume Water Monitor Traffic"
   },
   {
     "source": "lobsters",
@@ -163,10 +173,5 @@
     "source": "lobsters",
     "url": "https://typesanitizer.com/blog/code-review.html",
     "title": "Reviewing code is a skill"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://lithostech.com/2026/08/decrypting-flume-water-monitor-traffic/",
-    "title": "Decrypting Flume Water Monitor Traffic"
   }
 ]
