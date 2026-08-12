@@ -11,6 +11,11 @@
   },
   {
     "source": "hn",
+    "url": "https://artificialanalysis.ai/articles/grok-4-6-benchmarks-and-analysis",
+    "title": "Grok 4.6 scores 61 on the Artificial Analysis Intelligence Index"
+  },
+  {
+    "source": "hn",
     "url": "https://amiga-news.de/en/news/AN-2026-08-00070-EN.html",
     "title": "Tim King, AmigaDOS developer, has died"
   },
@@ -22,7 +27,7 @@
   {
     "source": "hn",
     "url": "https://guillaumetech.github.io/posts/jpg-scaling-chrome/",
-    "title": "Why Tiny JPEGs Look Different in Chrome"
+    "title": "Why tiny JPEGs look different in Chrome"
   },
   {
     "source": "hn",
@@ -31,23 +36,28 @@
   },
   {
     "source": "hn",
-    "url": "https://andrewpwheeler.com/2026/08/12/license-plate-reader-searches-should-require-a-warrant/",
-    "title": "License plate reader searches should require a warrant"
-  },
-  {
-    "source": "hn",
     "url": "https://loudbicycle.com/bb",
     "title": "Bike Bureau: Report Bike Lane Obstructions"
   },
   {
     "source": "hn",
-    "url": "https://lovable.dev/blog/series-c",
-    "title": "We just raised $400M in Series C"
+    "url": "https://blog.google/products-and-platforms/devices/pixel/pixel-watch-5/",
+    "title": "Pixel Watch 5"
+  },
+  {
+    "source": "hn",
+    "url": "https://andrewpwheeler.com/2026/08/12/license-plate-reader-searches-should-require-a-warrant/",
+    "title": "License plate reader searches should require a warrant"
   },
   {
     "source": "hn",
     "url": "https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html",
-    "title": "AI is removing the middle class of software engineering"
+    "title": "AI is removing the middle class of software engineering?"
+  },
+  {
+    "source": "hn",
+    "url": "https://lovable.dev/blog/series-c",
+    "title": "Lovable raises $400M Series C"
   },
   {
     "source": "hn",
@@ -56,8 +66,8 @@
   },
   {
     "source": "hn",
-    "url": "https://www.bloomberg.com/news/articles/2026-08-05/how-chartreuse-conquered-paris-wine-bars-to-become-a-luxury-spirit",
-    "title": "Why Paris Is Obsessed with a Niche Spirit Made by Monks"
+    "url": "https://blog.google/products-and-platforms/devices/pixel/pixel-11-pro-fold/",
+    "title": "Pixel 11 Pro Fold"
   },
   {
     "source": "hn",
@@ -66,13 +76,8 @@
   },
   {
     "source": "hn",
-    "url": "https://artificialanalysis.ai/articles/grok-4-6-benchmarks-and-analysis",
-    "title": "Grok 4.6 scores 61 on the Artificial Analysis Intelligence Index"
-  },
-  {
-    "source": "hn",
-    "url": "https://usehax.dev/",
-    "title": "Hax – a minimalist, terminal-native coding agent written in C"
+    "url": "https://www.bloomberg.com/news/articles/2026-08-05/how-chartreuse-conquered-paris-wine-bars-to-become-a-luxury-spirit",
+    "title": "Chartreuse, a case study in how scarcity and authenticity can drive desirability"
   },
   {
     "source": "hn",
@@ -81,8 +86,8 @@
   },
   {
     "source": "hn",
-    "url": "https://jacobfilipp.com/felix/",
-    "title": "Felix and I"
+    "url": "https://usehax.dev/",
+    "title": "Hax – a minimalist, terminal-native coding agent written in C"
   },
   {
     "source": "lobsters",
@@ -96,16 +101,6 @@
   },
   {
     "source": "lobsters",
-    "url": "https://linebender.org/blog/fearless-simd-0-7/",
-    "title": "fearless_simd v0.7: 64-bit integers, improved generics, SSE2, and upcoming v1.0"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://signal.org/blog/automatic-key-verification/",
-    "title": "Introducing Automatic Key Verification"
-  },
-  {
-    "source": "lobsters",
     "url": "https://var0.xyz/posts/mindful-coding-purpose-and-intention.html",
     "title": "Mindful coding: Purpose and intention"
   },
@@ -113,6 +108,16 @@
     "source": "lobsters",
     "url": "https://phunky.cafe/my-homelab-got-hacked/",
     "title": "My Homelab Got Hacked - A Postmortem"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://linebender.org/blog/fearless-simd-0-7/",
+    "title": "fearless_simd v0.7: 64-bit integers, improved generics, SSE2, and upcoming v1.0"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://signal.org/blog/automatic-key-verification/",
+    "title": "Introducing Automatic Key Verification"
   },
   {
     "source": "lobsters",
@@ -156,12 +161,87 @@
   },
   {
     "source": "lobsters",
+    "url": "https://lithostech.com/2026/08/decrypting-flume-water-monitor-traffic/",
+    "title": "Decrypting Flume Water Monitor Traffic"
+  },
+  {
+    "source": "lobsters",
     "url": "https://committing-crimes.com/articles/2026-08-04-java-nameof",
     "title": "Hacking in the 'nameOf'"
   },
   {
-    "source": "lobsters",
-    "url": "https://vitaut.net/posts/2026/yy-dtoa/",
-    "title": "The fastest double-to-string algorithm you’ve never heard of"
+    "source": "pinboard",
+    "url": "https://www.noemamag.com/why-is-everyone-in-tech-so-sad/",
+    "title": "Why Is Everyone In Tech So Sad?"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://stowaway.live/",
+    "title": "Stowaway — Ride along with the planes and satellites overhead"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.andrewt.net/dithered-qr-codes/wtf/",
+    "title": "How to make error-diffused QR codes"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn/",
+    "title": "how i use llms to learn complex topics · laurentiu raducu"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://blog.senko.net/code-was-never-the-hard-part-is-an-insult-to-all-programmers",
+    "title": "\"Code was never the hard part\" is an insult to all programmers — Senko Rašić"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://kuber.studio/cookie/",
+    "title": "I didn't set a cookie."
+  },
+  {
+    "source": "pinboard",
+    "url": "https://seg6.space/posts/phone-server/",
+    "title": "my server is a phone now — seg6"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://danluu.com/pl-tokens/",
+    "title": "What's the best programming language for coding agents?"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://aftermath.site/ai-resistance-tips-workforce-llm-workers/",
+    "title": "Welcome To The Resistance: Meet The Workers Dodging (And Sabotaging) Their Employer's AI Mandates"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://openchamber.dev/",
+    "title": "OpenChamber"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://shopify.engineering/scaling-inventory-reservations",
+    "title": "We replaced Redis with MySQL for inventory reservations—and it scaled (2026) - Shopify"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://emeraldbook.org/news/aug-0426-5/",
+    "title": "How Baltimore Achieved Historically Low Homicides—With Less Police – Emerald Book"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://semi-rad.com/2026/08/do-it-14000-times-slower-with-this-one-trick/",
+    "title": "Do It 14,000 Times Slower With This One Trick – Semi-Rad.com"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://news.ycombinator.com/item?id=49246804",
+    "title": "show hn: needle2: 14mb agentic llm for phones, wearables, smart home and robots | hacker news"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://mjtsai.com/blog/2026/08/07/dark-hours-rejected-from-the-app-store/",
+    "title": "Michael Tsai - Blog - Dark Hours Rejected From the App Store"
   }
 ]
