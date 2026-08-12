@@ -6,8 +6,8 @@
   },
   {
     "source": "hn",
-    "url": "https://artificialanalysis.ai/articles/grok-4-6-benchmarks-and-analysis",
-    "title": "Grok 4.6 scores 61 on the Artificial Analysis Intelligence Index"
+    "url": "https://corneroffifth.studio/why-cant-you-find-canned-sardines-right-now/",
+    "title": "Thanks to social media, canned sardines are a scarcity on the supermarket shelf"
   },
   {
     "source": "hn",
@@ -31,6 +31,11 @@
   },
   {
     "source": "hn",
+    "url": "https://discoveredmaterials.com/research/",
+    "title": "Launch HN: Discovered Materials (YC P26) – AI agents to discover new materials"
+  },
+  {
+    "source": "hn",
     "url": "https://iagoleal.com/posts/dynamic-programming/",
     "title": "A Tale of Dynamic Programming (2022)"
   },
@@ -38,6 +43,11 @@
     "source": "hn",
     "url": "https://blog.google/products-and-platforms/devices/pixel/pixel-watch-5/",
     "title": "Pixel Watch 5"
+  },
+  {
+    "source": "hn",
+    "url": "https://artificialanalysis.ai/articles/grok-4-6-benchmarks-and-analysis",
+    "title": "Grok 4.6 scores 61 on the Artificial Analysis Intelligence Index"
   },
   {
     "source": "hn",
@@ -66,28 +76,18 @@
   },
   {
     "source": "hn",
-    "url": "https://climate.metoffice.cloud/glaciers.html",
-    "title": "Glaciers on the Climate Dashboard"
-  },
-  {
-    "source": "hn",
     "url": "https://woxi.ad-si.com",
     "title": "Show HN: Woxi - Open-source Mathematica / Wolfram Language reimplementation"
   },
   {
     "source": "hn",
+    "url": "https://climate.metoffice.cloud/glaciers.html",
+    "title": "Glaciers on the Climate Dashboard"
+  },
+  {
+    "source": "hn",
     "url": "https://jacobfilipp.com/felix/",
     "title": "Felix and I"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.bloomberg.com/news/articles/2026-08-05/how-chartreuse-conquered-paris-wine-bars-to-become-a-luxury-spirit",
-    "title": "Chartreuse, a case study in how scarcity and authenticity can drive desirability"
-  },
-  {
-    "source": "hn",
-    "url": "https://petapixel.com/2026/08/04/amazing-high-res-photo-shows-a-butte-rising-from-mars/",
-    "title": "High-Res Photo Shows Sand-Capped Butte Rising from Mars Plain of Polygons"
   },
   {
     "source": "lobsters",
@@ -111,13 +111,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://var0.xyz/posts/mindful-coding-purpose-and-intention.html",
-    "title": "Mindful coding: Purpose and intention"
+    "url": "https://signal.org/blog/automatic-key-verification/",
+    "title": "Introducing Automatic Key Verification"
   },
   {
     "source": "lobsters",
-    "url": "https://signal.org/blog/automatic-key-verification/",
-    "title": "Introducing Automatic Key Verification"
+    "url": "https://var0.xyz/posts/mindful-coding-purpose-and-intention.html",
+    "title": "Mindful coding: Purpose and intention"
   },
   {
     "source": "lobsters",
@@ -156,6 +156,11 @@
   },
   {
     "source": "lobsters",
+    "url": "https://blog.himanshuanand.com/2026/08/i-found-a-kvm-guest-to-host-heap-corruption-bug-and-someone-else-got-there-first/",
+    "title": "I found a KVM guest-to-host heap corruption bug and someone else got there first"
+  },
+  {
+    "source": "lobsters",
     "url": "https://typesanitizer.com/blog/code-review.html",
     "title": "Reviewing code is a skill"
   },
@@ -163,10 +168,5 @@
     "source": "lobsters",
     "url": "https://lithostech.com/2026/08/decrypting-flume-water-monitor-traffic/",
     "title": "Decrypting Flume Water Monitor Traffic"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://vitaut.net/posts/2026/yy-dtoa/",
-    "title": "The fastest double-to-string algorithm you’ve never heard of"
   }
 ]
