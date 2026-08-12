@@ -1,13 +1,28 @@
 [
   {
     "source": "hn",
+    "url": "https://gowers.wordpress.com/2026/08/12/what-sort-of-maths-are-llms-good-at/",
+    "title": "Tim Gowers: What sort of maths are LLMs good at?"
+  },
+  {
+    "source": "hn",
+    "url": "https://woxi.ad-si.com",
+    "title": "Show HN: Woxi - Open-source Mathematica / Wolfram Language reimplementation"
+  },
+  {
+    "source": "hn",
     "url": "https://www.cringebot3000.com/",
     "title": "LinkedIn CringeBot 3000"
   },
   {
     "source": "hn",
-    "url": "https://www.oxfordmartin.ox.ac.uk/news/beef-and-dairy-drive-41-of-biodiversity-damage-linked-to-global-farmland",
-    "title": "Beef and dairy drive 41% of biodiversity damage linked to global farmland"
+    "url": "https://spoorkaart.zaza.dev",
+    "title": "Dutch Train Map Simulator"
+  },
+  {
+    "source": "hn",
+    "url": "https://petapixel.com/2026/08/04/amazing-high-res-photo-shows-a-butte-rising-from-mars/",
+    "title": "High-Res Photo Shows Sand-Capped Butte Rising from Mars Plain of Polygons"
   },
   {
     "source": "hn",
@@ -21,23 +36,8 @@
   },
   {
     "source": "hn",
-    "url": "https://spoorkaart.zaza.dev",
-    "title": "Dutch Train Map Simulator"
-  },
-  {
-    "source": "hn",
     "url": "https://discoveredmaterials.com/research/",
     "title": "Launch HN: Discovered Materials (YC P26) – AI agents to discover new materials"
-  },
-  {
-    "source": "hn",
-    "url": "https://refp.se/articles/your-shell-and-the-lazy-exclamation-mark",
-    "title": "A shell exclamation mark is not for yelling. Be lazy"
-  },
-  {
-    "source": "hn",
-    "url": "https://llama.app",
-    "title": "llama.cpp"
   },
   {
     "source": "hn",
@@ -46,8 +46,18 @@
   },
   {
     "source": "hn",
-    "url": "https://brentfitzgerald.com/posts/the-human-is-the-loop/",
-    "title": "The Human Is the Loop"
+    "url": "https://llama.app",
+    "title": "llama.cpp"
+  },
+  {
+    "source": "hn",
+    "url": "https://refp.se/articles/your-shell-and-the-lazy-exclamation-mark",
+    "title": "A shell exclamation mark is not for yelling. Be lazy"
+  },
+  {
+    "source": "hn",
+    "url": "https://stolen-thoughts.com/",
+    "title": "Stealing Reasoning Traces from Proprietary LLM APIs"
   },
   {
     "source": "hn",
@@ -56,8 +66,13 @@
   },
   {
     "source": "hn",
-    "url": "https://stolen-thoughts.com/",
-    "title": "Stealing Reasoning Traces from Proprietary LLM APIs"
+    "url": "https://monictheory.com",
+    "title": "Music Generation by a Composer, for Musicians"
+  },
+  {
+    "source": "hn",
+    "url": "https://brentfitzgerald.com/posts/the-human-is-the-loop/",
+    "title": "The Human Is the Loop"
   },
   {
     "source": "hn",
@@ -96,11 +111,6 @@
   },
   {
     "source": "lobsters",
-    "url": "https://briarproject.org/news/2026-maintenance-mode/",
-    "title": "Briar is in maintenance mode"
-  },
-  {
-    "source": "lobsters",
     "url": "https://signal.org/blog/automatic-key-verification/",
     "title": "Introducing Automatic Key Verification"
   },
@@ -108,6 +118,11 @@
     "source": "lobsters",
     "url": "https://laurent.le-brun.eu/blog/making-a-game-on-a-custom-bytecode-vm-in-7-days-and-3kb",
     "title": "Making a game on a custom bytecode VM in 7 days and 3kB"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://briarproject.org/news/2026-maintenance-mode/",
+    "title": "Briar is in maintenance mode"
   },
   {
     "source": "lobsters",
@@ -121,13 +136,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://code.call-cc.org/releases/6.0.0/NEWS",
-    "title": "Chicken Scheme 6.0 released"
+    "url": "https://www.pillar.security/blog/deadbugz-currently-active-mcp-supply-chain-campaign",
+    "title": "Deadbugz: Currently Active MCP Supply-Chain Campaign"
   },
   {
     "source": "lobsters",
-    "url": "https://erk.dev/2026/08/12/rangefrom-part-1",
-    "title": "RangeFrom, Part 1․․"
+    "url": "https://code.call-cc.org/releases/6.0.0/NEWS",
+    "title": "Chicken Scheme 6.0 released"
   },
   {
     "source": "lobsters",
@@ -136,92 +151,12 @@
   },
   {
     "source": "lobsters",
-    "url": "https://bevy.org/news/bevys-sixth-birthday/",
-    "title": "Bevy's Sixth Birthday"
+    "url": "https://erk.dev/2026/08/12/rangefrom-part-1",
+    "title": "RangeFrom, Part 1․․"
   },
   {
     "source": "lobsters",
-    "url": "https://www.seangoedecke.com/local-models-will-not-win/",
-    "title": "No, local models will not win"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://eme64.github.io/blog/2026/01/12/Alignment-Performance.html",
-    "title": "Performance impact of Alignment"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.noemamag.com/why-is-everyone-in-tech-so-sad/",
-    "title": "Why Is Everyone In Tech So Sad?"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://stowaway.live/",
-    "title": "Stowaway — Ride along with the planes and satellites overhead"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.andrewt.net/dithered-qr-codes/wtf/",
-    "title": "How to make error-diffused QR codes"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn/",
-    "title": "how i use llms to learn complex topics · laurentiu raducu"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://blog.senko.net/code-was-never-the-hard-part-is-an-insult-to-all-programmers",
-    "title": "\"Code was never the hard part\" is an insult to all programmers — Senko Rašić"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://kuber.studio/cookie/",
-    "title": "I didn't set a cookie."
-  },
-  {
-    "source": "pinboard",
-    "url": "https://seg6.space/posts/phone-server/",
-    "title": "my server is a phone now — seg6"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://danluu.com/pl-tokens/",
-    "title": "What's the best programming language for coding agents?"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://aftermath.site/ai-resistance-tips-workforce-llm-workers/",
-    "title": "Welcome To The Resistance: Meet The Workers Dodging (And Sabotaging) Their Employer's AI Mandates"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://openchamber.dev/",
-    "title": "OpenChamber"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://shopify.engineering/scaling-inventory-reservations",
-    "title": "We replaced Redis with MySQL for inventory reservations—and it scaled (2026) - Shopify"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://emeraldbook.org/news/aug-0426-5/",
-    "title": "How Baltimore Achieved Historically Low Homicides—With Less Police – Emerald Book"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://semi-rad.com/2026/08/do-it-14000-times-slower-with-this-one-trick/",
-    "title": "Do It 14,000 Times Slower With This One Trick – Semi-Rad.com"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://news.ycombinator.com/item?id=49246804",
-    "title": "show hn: needle2: 14mb agentic llm for phones, wearables, smart home and robots | hacker news"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://mjtsai.com/blog/2026/08/07/dark-hours-rejected-from-the-app-store/",
-    "title": "Michael Tsai - Blog - Dark Hours Rejected From the App Store"
+    "url": "https://calnewport.com/on-ai-coding-and-its-discontents/",
+    "title": "On AI Coding and Its Discontents"
   }
 ]
