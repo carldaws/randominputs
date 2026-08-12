@@ -1,6 +1,11 @@
 [
   {
     "source": "hn",
+    "url": "https://ngrok.com/blog/compression-is-prediction",
+    "title": "Compression is prediction"
+  },
+  {
+    "source": "hn",
     "url": "https://tencent-hunyuan.github.io/Hunyuan3D-WorldClaw/",
     "title": "WorldClaw Agentic 3D open-world generation at scale"
   },
@@ -11,13 +16,23 @@
   },
   {
     "source": "hn",
-    "url": "https://ngrok.com/blog/compression-is-prediction",
-    "title": "Compression is prediction"
+    "url": "https://aresluna.org/the-hardest-working-font-in-manhattan/",
+    "title": "The hardest working font in Manhattan (2025)"
   },
   {
     "source": "hn",
     "url": "https://stolen-thoughts.com/",
     "title": "Stealing Reasoning Traces from Proprietary LLM APIs"
+  },
+  {
+    "source": "hn",
+    "url": "https://hazyresearch.stanford.edu/blog/2026-08-05-retire-the-abstractions",
+    "title": "Retire the Abstractions"
+  },
+  {
+    "source": "hn",
+    "url": "https://newbedfordlight.org/new-bedford-police-officer-accused-of-using-flock-cameras-to-track-and-follow-ex-romantic-partner/",
+    "title": "New Bedford police officer accused of using Flock cameras to track ex-partner"
   },
   {
     "source": "hn",
@@ -31,18 +46,13 @@
   },
   {
     "source": "hn",
-    "url": "https://www.cbsnews.com/news/video-gamer-air-traffic-controllers-faa-recruitment-sean-duffy/",
-    "title": "US hires over 2k video gamers as air traffic controllers"
-  },
-  {
-    "source": "hn",
     "url": "https://ironicsans.ghost.io/how-we-used-to-get-jobs/",
     "title": "How we used to get jobs: A newspaper classifieds story"
   },
   {
     "source": "hn",
-    "url": "https://www.suzanne3d.com/",
-    "title": "Suzanne: AI tool for designing and manufacturing physical products"
+    "url": "https://www.404media.co/company-offering-100-human-written-never-ai-peer-review-is-entirely-ai/",
+    "title": "Company Offering '100% Human-Written, Never AI' Medical Research Is 100% AI"
   },
   {
     "source": "hn",
@@ -63,16 +73,6 @@
     "source": "hn",
     "url": "https://master.dev/blog/typographic-css-tricks/",
     "title": "CSS properties you should know for better text designs"
-  },
-  {
-    "source": "hn",
-    "url": "https://momath.org/the-hat/",
-    "title": "The Hat and the Spectre – Recent Groundbreaking Discoveries in Mathematics"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.openssh.org/releasenotes.html#10.5",
-    "title": "OpenSSH 10.5/10.5p1"
   },
   {
     "source": "lobsters",
@@ -96,8 +96,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://code.call-cc.org/releases/6.0.0/NEWS",
-    "title": "Chicken Scheme 6.0 released"
+    "url": "https://blog.gaborkoos.com/posts/2026-08-12-Text-Watermarking-for-Non-Academics/",
+    "title": "Text Watermarking for Non-Academics"
   },
   {
     "source": "lobsters",
@@ -106,18 +106,23 @@
   },
   {
     "source": "lobsters",
-    "url": "https://blog.gaborkoos.com/posts/2026-08-12-Text-Watermarking-for-Non-Academics/",
-    "title": "Text Watermarking for Non-Academics"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://www.seangoedecke.com/local-models-will-not-win/",
-    "title": "No, local models will not win"
+    "url": "https://code.call-cc.org/releases/6.0.0/NEWS",
+    "title": "Chicken Scheme 6.0 released"
   },
   {
     "source": "lobsters",
     "url": "https://entropicthoughts.com/fft",
     "title": "A noob learns FFT"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://laurent.le-brun.eu/blog/making-a-game-on-a-custom-bytecode-vm-in-7-days-and-3kb",
+    "title": "Making a game on a custom bytecode VM in 7 days and 3kB"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://www.seangoedecke.com/local-models-will-not-win/",
+    "title": "No, local models will not win"
   },
   {
     "source": "lobsters",
@@ -138,10 +143,5 @@
     "source": "lobsters",
     "url": "https://squeak.org/release_notes/6.1/",
     "title": "Squeak 6.1"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://briancallahan.net/blog/20260811.html",
-    "title": "Cleaning costs, or, examining the OpenBSD -fret-clean flag"
   }
 ]
