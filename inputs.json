@@ -6,6 +6,11 @@
   },
   {
     "source": "hn",
+    "url": "https://aresluna.org/the-hardest-working-font-in-manhattan/",
+    "title": "The hardest working font in Manhattan (2025)"
+  },
+  {
+    "source": "hn",
     "url": "https://tencent-hunyuan.github.io/Hunyuan3D-WorldClaw/",
     "title": "WorldClaw Agentic 3D open-world generation at scale"
   },
@@ -16,18 +21,23 @@
   },
   {
     "source": "hn",
-    "url": "https://aresluna.org/the-hardest-working-font-in-manhattan/",
-    "title": "The hardest working font in Manhattan (2025)"
-  },
-  {
-    "source": "hn",
     "url": "https://stolen-thoughts.com/",
     "title": "Stealing Reasoning Traces from Proprietary LLM APIs"
   },
   {
     "source": "hn",
-    "url": "https://hazyresearch.stanford.edu/blog/2026-08-05-retire-the-abstractions",
-    "title": "Retire the Abstractions"
+    "url": "https://s-1.vercel.app/posts/why-dropbox-is-a-obvious-pe-target/",
+    "title": "Dropbox, loved by the masses, a shareholder dead end"
+  },
+  {
+    "source": "hn",
+    "url": "https://brentfitzgerald.com/posts/the-human-is-the-loop/",
+    "title": "The Human Is the Loop"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.404media.co/company-offering-100-human-written-never-ai-peer-review-is-entirely-ai/",
+    "title": "Company Offering '100% Human-Written, Never AI' Medical Research Is 100% AI"
   },
   {
     "source": "hn",
@@ -46,18 +56,13 @@
   },
   {
     "source": "hn",
-    "url": "https://ironicsans.ghost.io/how-we-used-to-get-jobs/",
-    "title": "How we used to get jobs: A newspaper classifieds story"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.404media.co/company-offering-100-human-written-never-ai-peer-review-is-entirely-ai/",
-    "title": "Company Offering '100% Human-Written, Never AI' Medical Research Is 100% AI"
-  },
-  {
-    "source": "hn",
     "url": "https://jolt-lang.github.io",
     "title": "Jolt: Clojure compiler implemented with Chez Scheme"
+  },
+  {
+    "source": "hn",
+    "url": "https://ironicsans.ghost.io/how-we-used-to-get-jobs/",
+    "title": "How we used to get jobs: A newspaper classifieds story"
   },
   {
     "source": "hn",
@@ -66,18 +71,23 @@
   },
   {
     "source": "hn",
-    "url": "https://manus.im/blog/a-note-to-our-users",
-    "title": "Manus will return to operating as an independent company"
+    "url": "https://master.dev/blog/typographic-css-tricks/",
+    "title": "CSS properties you should know for better text designs"
   },
   {
     "source": "hn",
-    "url": "https://master.dev/blog/typographic-css-tricks/",
-    "title": "CSS properties you should know for better text designs"
+    "url": "https://manus.im/blog/a-note-to-our-users",
+    "title": "Manus will return to operating as an independent company"
   },
   {
     "source": "lobsters",
     "url": "https://blogs.gnome.org/shell-dev/2026/08/11/gnome-shell-design-dreams/",
     "title": "GNOME Shell Design Dreams"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://blog.gaborkoos.com/posts/2026-08-12-Text-Watermarking-for-Non-Academics/",
+    "title": "Text Watermarking for Non-Academics"
   },
   {
     "source": "lobsters",
@@ -96,13 +106,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://blog.gaborkoos.com/posts/2026-08-12-Text-Watermarking-for-Non-Academics/",
-    "title": "Text Watermarking for Non-Academics"
+    "url": "https://vitaut.net/posts/2026/yy-dtoa/",
+    "title": "The fastest double-to-string algorithm you’ve never heard of"
   },
   {
     "source": "lobsters",
-    "url": "https://vitaut.net/posts/2026/yy-dtoa/",
-    "title": "The fastest double-to-string algorithm you’ve never heard of"
+    "url": "https://laurent.le-brun.eu/blog/making-a-game-on-a-custom-bytecode-vm-in-7-days-and-3kb",
+    "title": "Making a game on a custom bytecode VM in 7 days and 3kB"
   },
   {
     "source": "lobsters",
@@ -116,8 +126,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://laurent.le-brun.eu/blog/making-a-game-on-a-custom-bytecode-vm-in-7-days-and-3kb",
-    "title": "Making a game on a custom bytecode VM in 7 days and 3kB"
+    "url": "https://bevy.org/news/bevys-sixth-birthday/",
+    "title": "Bevy's Sixth Birthday"
   },
   {
     "source": "lobsters",
@@ -126,13 +136,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://bevy.org/news/bevys-sixth-birthday/",
-    "title": "Bevy's Sixth Birthday"
+    "url": "https://eme64.github.io/blog/2026/01/12/Alignment-Performance.html",
+    "title": "Performance impact of Alignment"
   },
   {
     "source": "lobsters",
-    "url": "https://eme64.github.io/blog/2026/01/12/Alignment-Performance.html",
-    "title": "Performance impact of Alignment"
+    "url": "https://erk.dev/2026/08/12/rangefrom-part-1",
+    "title": "RangeFrom, Part 1․․"
   },
   {
     "source": "lobsters",
