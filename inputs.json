@@ -1,13 +1,18 @@
 [
   {
     "source": "hn",
+    "url": "https://aresluna.org/the-hardest-working-font-in-manhattan/",
+    "title": "The hardest working font in Manhattan (2025)"
+  },
+  {
+    "source": "hn",
     "url": "https://ngrok.com/blog/compression-is-prediction",
     "title": "Compression is prediction"
   },
   {
     "source": "hn",
-    "url": "https://aresluna.org/the-hardest-working-font-in-manhattan/",
-    "title": "The hardest working font in Manhattan (2025)"
+    "url": "https://llama.app",
+    "title": "llama.cpp"
   },
   {
     "source": "hn",
@@ -21,18 +26,18 @@
   },
   {
     "source": "hn",
+    "url": "https://brentfitzgerald.com/posts/the-human-is-the-loop/",
+    "title": "The Human Is the Loop"
+  },
+  {
+    "source": "hn",
     "url": "https://stolen-thoughts.com/",
     "title": "Stealing Reasoning Traces from Proprietary LLM APIs"
   },
   {
     "source": "hn",
-    "url": "https://s-1.vercel.app/posts/why-dropbox-is-a-obvious-pe-target/",
-    "title": "Dropbox, loved by the masses, a shareholder dead end"
-  },
-  {
-    "source": "hn",
-    "url": "https://brentfitzgerald.com/posts/the-human-is-the-loop/",
-    "title": "The Human Is the Loop"
+    "url": "https://refp.se/articles/your-shell-and-the-lazy-exclamation-mark",
+    "title": "A shell exclamation mark is not for yelling. Be lazy."
   },
   {
     "source": "hn",
@@ -41,13 +46,13 @@
   },
   {
     "source": "hn",
-    "url": "https://newbedfordlight.org/new-bedford-police-officer-accused-of-using-flock-cameras-to-track-and-follow-ex-romantic-partner/",
-    "title": "New Bedford police officer accused of using Flock cameras to track ex-partner"
+    "url": "https://blog.jordan.matelsky.com/Penplotter-holography/",
+    "title": "Making holograms with a pen plotter"
   },
   {
     "source": "hn",
-    "url": "https://blog.jordan.matelsky.com/Penplotter-holography/",
-    "title": "Making holograms with a pen plotter"
+    "url": "https://newbedfordlight.org/new-bedford-police-officer-accused-of-using-flock-cameras-to-track-and-follow-ex-romantic-partner/",
+    "title": "New Bedford police officer accused of using Flock cameras to track ex-partner"
   },
   {
     "source": "hn",
@@ -63,11 +68,6 @@
     "source": "hn",
     "url": "https://ironicsans.ghost.io/how-we-used-to-get-jobs/",
     "title": "How we used to get jobs: A newspaper classifieds story"
-  },
-  {
-    "source": "hn",
-    "url": "https://stratechery.com/2026/nvidias-risky-business/",
-    "title": "Nvidia's Risky Business"
   },
   {
     "source": "hn",
@@ -126,6 +126,11 @@
   },
   {
     "source": "lobsters",
+    "url": "https://blog.emre.xyz/posts/2be69f5e/",
+    "title": "Cloudflare OS, is it worth?"
+  },
+  {
+    "source": "lobsters",
     "url": "https://bevy.org/news/bevys-sixth-birthday/",
     "title": "Bevy's Sixth Birthday"
   },
@@ -136,22 +141,17 @@
   },
   {
     "source": "lobsters",
-    "url": "https://eme64.github.io/blog/2026/01/12/Alignment-Performance.html",
-    "title": "Performance impact of Alignment"
-  },
-  {
-    "source": "lobsters",
     "url": "https://erk.dev/2026/08/12/rangefrom-part-1",
     "title": "RangeFrom, Part 1․․"
   },
   {
     "source": "lobsters",
-    "url": "https://9p.io/who/dmr/odd.html",
-    "title": "Odd Comments and Strange Doings in Unix"
+    "url": "https://eme64.github.io/blog/2026/01/12/Alignment-Performance.html",
+    "title": "Performance impact of Alignment"
   },
   {
     "source": "lobsters",
-    "url": "https://squeak.org/release_notes/6.1/",
-    "title": "Squeak 6.1"
+    "url": "https://www.sandordargo.com/blog/2026/08/12/cpp26-indirect",
+    "title": "C++26: std::indirect"
   }
 ]
