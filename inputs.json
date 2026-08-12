@@ -11,18 +11,13 @@
   },
   {
     "source": "hn",
-    "url": "https://woxi.ad-si.com",
-    "title": "Show HN: Woxi - Open-source Mathematica / Wolfram Language reimplementation"
-  },
-  {
-    "source": "hn",
-    "url": "https://getfresh.dev/docs/blog/packaging-for-linux/",
-    "title": "I hate packaging my software for Linux"
-  },
-  {
-    "source": "hn",
     "url": "https://www.cringebot3000.com/",
     "title": "LinkedIn CringeBot 3000"
+  },
+  {
+    "source": "hn",
+    "url": "https://woxi.ad-si.com",
+    "title": "Show HN: Woxi - Open-source Mathematica / Wolfram Language reimplementation"
   },
   {
     "source": "hn",
@@ -31,13 +26,33 @@
   },
   {
     "source": "hn",
+    "url": "https://chad.cm/posts/2026-8-11-my-agent-setup",
+    "title": "My Agent Setup"
+  },
+  {
+    "source": "hn",
     "url": "https://aresluna.org/the-hardest-working-font-in-manhattan/",
     "title": "The hardest working font in Manhattan (2025)"
   },
   {
     "source": "hn",
+    "url": "https://therad.ninja/from-8-10-seconds-to-3-7-teaching-automatic1111-to-speak-metal-on-an-m3-pro/",
+    "title": "Automatic1111 for Apple metal, 40% speed up sd1.5"
+  },
+  {
+    "source": "hn",
     "url": "https://ngrok.com/blog/compression-is-prediction",
     "title": "Compression is prediction"
+  },
+  {
+    "source": "hn",
+    "url": "https://getbb.app/",
+    "title": "Bb: The IDE that builds itself"
+  },
+  {
+    "source": "hn",
+    "url": "https://worksinprogress.co/issue/the-ultimate-horse/",
+    "title": "The Ultimate Horse"
   },
   {
     "source": "hn",
@@ -48,16 +63,6 @@
     "source": "hn",
     "url": "https://tencent-hunyuan.github.io/Hunyuan3D-WorldClaw/",
     "title": "WorldClaw Agentic 3D open-world generation at scale"
-  },
-  {
-    "source": "hn",
-    "url": "https://refp.se/articles/your-shell-and-the-lazy-exclamation-mark",
-    "title": "A shell exclamation mark is not for yelling. Be lazy"
-  },
-  {
-    "source": "hn",
-    "url": "https://llama.app",
-    "title": "llama.cpp"
   },
   {
     "source": "hn",
@@ -76,72 +81,102 @@
   },
   {
     "source": "hn",
-    "url": "https://blogs.nvidia.com/blog/nemotron-lightning-switchyard-rtx-dgx/",
-    "title": "Nvidia Nemotron 3.5 Lightning and NeMo Switchyard"
-  },
-  {
-    "source": "hn",
     "url": "https://brentfitzgerald.com/posts/the-human-is-the-loop/",
     "title": "The Human Is the Loop"
   },
   {
     "source": "hn",
-    "url": "https://monictheory.com",
-    "title": "Music Generation by a Composer, for Musicians"
+    "url": "https://blogs.nvidia.com/blog/nemotron-lightning-switchyard-rtx-dgx/",
+    "title": "Nvidia Nemotron 3.5 Lightning and NeMo Switchyard"
   },
   {
     "source": "hn",
-    "url": "https://ironicsans.ghost.io/how-we-used-to-get-jobs/",
-    "title": "How we used to get jobs: A newspaper classifieds story"
+    "url": "https://refp.se/articles/your-shell-and-the-lazy-exclamation-mark",
+    "title": "A shell exclamation mark is not for yelling. Be lazy"
   },
   {
     "source": "lobsters",
-    "url": "https://blog.ropnop.com/upgrading-simple-shells-to-fully-interactive-ttys/",
-    "title": "Upgrading shells to fully interactive TTYs"
+    "url": "https://getfresh.dev/docs/blog/packaging-for-linux/",
+    "title": "I hate packaging my software for Linux"
   },
   {
     "source": "lobsters",
-    "url": "http://mail-index.netbsd.org/pkgsrc-users/2017/07/10/msg025237.html",
-    "title": "Announcing the pkgsrc-2017Q2 release"
+    "url": "https://blogs.gnome.org/shell-dev/2026/08/11/gnome-shell-design-dreams/",
+    "title": "GNOME Shell Design Dreams"
   },
   {
     "source": "lobsters",
-    "url": "https://accessibility.blog.gov.uk/2016/09/02/dos-and-donts-on-designing-for-accessibility/",
-    "title": "Dos and don'ts on designing for accessibility"
+    "url": "https://signal.org/blog/automatic-key-verification/",
+    "title": "Introducing Automatic Key Verification"
   },
   {
     "source": "lobsters",
-    "url": "https://pair-code.github.io/facets/",
-    "title": "Facets"
+    "url": "https://punkx.org/jackdoe/home.html",
+    "title": "My Anti AI computer"
   },
   {
     "source": "lobsters",
-    "url": "https://en.m.wikipedia.org/wiki/Immunity-aware_programming",
-    "title": "Immunity-Aware Programming"
+    "url": "https://laurent.le-brun.eu/blog/making-a-game-on-a-custom-bytecode-vm-in-7-days-and-3kb",
+    "title": "Making a game on a custom bytecode VM in 7 days and 3kB"
   },
   {
     "source": "lobsters",
-    "url": "https://vvvvalvalval.github.io/posts/2017-07-08-Datomic-this-is-not-the-history-youre-looking-for.html",
-    "title": "Datomic: this is not the history you're looking for"
+    "url": "https://typesanitizer.com/blog/code-review.html",
+    "title": "Reviewing code is a skill"
   },
   {
     "source": "lobsters",
-    "url": "http://boxbase.org/entries/2017/jul/10/fortune-algorithm-triangulation/",
-    "title": "Application of Fortune's algorithm on triangulation"
+    "url": "https://linebender.org/blog/fearless-simd-0-7/",
+    "title": "fearless_simd v0.7: 64-bit integers, improved generics, SSE2, and upcoming v1.0"
   },
   {
     "source": "lobsters",
-    "url": "http://laforge.gnumonks.org/blog/20170709-10years_openmoko/",
-    "title": "Ten years after first shipping Openmoko Neo1973"
+    "url": "https://var0.xyz/posts/mindful-coding-purpose-and-intention.html",
+    "title": "Mindful coding: Purpose and intention"
   },
   {
     "source": "lobsters",
-    "url": "https://meshedinsights.com/2017/07/09/drm-is-toxic-to-culture/",
-    "title": "DRM Is Toxic To Culture"
+    "url": "https://calnewport.com/on-ai-coding-and-its-discontents/",
+    "title": "On AI Coding and Its Discontents"
   },
   {
     "source": "lobsters",
-    "url": "https://anisse.astier.eu/awk-driven-iot.html",
-    "title": "Linux Engineer's random thoughts - awk driven IoT"
+    "url": "https://vitaut.net/posts/2026/yy-dtoa/",
+    "title": "The fastest double-to-string algorithm you’ve never heard of"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://briarproject.org/news/2026-maintenance-mode/",
+    "title": "Briar is in maintenance mode"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://www.sandordargo.com/blog/2026/08/12/cpp26-indirect",
+    "title": "C++26: std::indirect"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://www.pillar.security/blog/deadbugz-currently-active-mcp-supply-chain-campaign",
+    "title": "Deadbugz: Currently Active MCP Supply-Chain Campaign"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://erk.dev/2026/08/12/rangefrom-part-1",
+    "title": "RangeFrom, Part 1․․"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://blog.jordan.matelsky.com/Penplotter-holography/",
+    "title": "Making [etched] holograms with a pen plotter"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://notebook.link/blog/numba-in-the-browser",
+    "title": "Numba in the Browser: Unlocking a New Scientific Python Stack in JupyterLite"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://brettcodes.com/im-done-using-ai/",
+    "title": "I'm done using AI"
   }
 ]
