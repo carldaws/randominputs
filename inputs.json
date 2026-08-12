@@ -11,8 +11,8 @@
   },
   {
     "source": "hn",
-    "url": "https://api-docs.deepseek.com/guides/responses_api/",
-    "title": "DeepSeek V4 Pro 0813 quietly released"
+    "url": "https://climate.metoffice.cloud/glaciers.html",
+    "title": "Glaciers on the Climate Dashboard"
   },
   {
     "source": "hn",
@@ -26,18 +26,23 @@
   },
   {
     "source": "hn",
+    "url": "https://artificialanalysis.ai/articles/grok-4-6-benchmarks-and-analysis",
+    "title": "SpaceXAI's Grok 4.6 Scores 61 on the Artificial Analysis Intelligence Index"
+  },
+  {
+    "source": "hn",
     "url": "https://guillaumetech.github.io/posts/jpg-scaling-chrome/",
     "title": "Why Tiny JPEGs Look Different in Chrome"
   },
   {
     "source": "hn",
-    "url": "https://climate.metoffice.cloud/glaciers.html",
-    "title": "Glaciers on the Climate Dashboard"
+    "url": "https://www.githubstatus.com/incidents/76t89hbfb09h",
+    "title": "Wednesday, August 12: GitHub, Incident with Pull Requests and Issues"
   },
   {
     "source": "hn",
-    "url": "https://www.githubstatus.com/incidents/76t89hbfb09h",
-    "title": "Wednesday, August 12: GitHub, Incident with Pull Requests and Issues"
+    "url": "https://blog.google/products-and-platforms/devices/pixel/pixel-watch-5/",
+    "title": "Pixel Watch 5"
   },
   {
     "source": "hn",
@@ -62,22 +67,7 @@
   {
     "source": "hn",
     "url": "https://lovable.dev/blog/series-c",
-    "title": "AI coding startup Lovable raised $400M at $13.3B valuation up from $6.6B in 2025"
-  },
-  {
-    "source": "hn",
-    "url": "https://woxi.ad-si.com",
-    "title": "Show HN: Woxi - Open-source Mathematica / Wolfram Language reimplementation"
-  },
-  {
-    "source": "hn",
-    "url": "https://artificialanalysis.ai/articles/grok-4-6-benchmarks-and-analysis",
-    "title": "SpaceXAI's Grok 4.6 Scores 61 on the Artificial Analysis Intelligence Index"
-  },
-  {
-    "source": "hn",
-    "url": "https://usehax.dev/",
-    "title": "Hax – a minimalist, terminal-native coding agent written in C"
+    "title": "We just raised $400M in Series C"
   },
   {
     "source": "hn",
@@ -86,23 +76,18 @@
   },
   {
     "source": "hn",
-    "url": "https://www.foiaball.com/p/aaron-rodgers-secretly-bought-police-alpr-cameras",
-    "title": "Aaron Rodgers secretly funded his town's Flock-style cameras"
+    "url": "https://woxi.ad-si.com",
+    "title": "Show HN: Woxi - Open-source Mathematica / Wolfram Language reimplementation"
   },
   {
     "source": "hn",
-    "url": "https://therad.ninja/from-8-10-seconds-to-3-7-teaching-automatic1111-to-speak-metal-on-an-m3-pro/",
-    "title": "Automatic1111 for Apple metal, 40% speed up sd1.5"
+    "url": "https://usehax.dev/",
+    "title": "Hax – a minimalist, terminal-native coding agent written in C"
   },
   {
     "source": "hn",
     "url": "https://petapixel.com/2026/08/04/amazing-high-res-photo-shows-a-butte-rising-from-mars/",
     "title": "High-Res Photo Shows Sand-Capped Butte Rising from Mars Plain of Polygons"
-  },
-  {
-    "source": "hn",
-    "url": "https://blog.google/products-and-platforms/devices/pixel/pixel-watch-5/",
-    "title": "Pixel Watch 5"
   },
   {
     "source": "lobsters",
@@ -111,8 +96,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://var0.xyz/posts/mindful-coding-purpose-and-intention.html",
-    "title": "Mindful coding: Purpose and intention"
+    "url": "https://brettcodes.com/im-done-using-ai/",
+    "title": "I'm done using AI"
   },
   {
     "source": "lobsters",
@@ -121,18 +106,18 @@
   },
   {
     "source": "lobsters",
-    "url": "https://brettcodes.com/im-done-using-ai/",
-    "title": "I'm done using AI"
-  },
-  {
-    "source": "lobsters",
     "url": "https://signal.org/blog/automatic-key-verification/",
     "title": "Introducing Automatic Key Verification"
   },
   {
     "source": "lobsters",
-    "url": "https://blogs.gnome.org/shell-dev/2026/08/11/gnome-shell-design-dreams/",
-    "title": "GNOME Shell Design Dreams"
+    "url": "https://var0.xyz/posts/mindful-coding-purpose-and-intention.html",
+    "title": "Mindful coding: Purpose and intention"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://phunky.cafe/my-homelab-got-hacked/",
+    "title": "My Homelab Got Hacked - A Postmortem"
   },
   {
     "source": "lobsters",
@@ -141,8 +126,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://phunky.cafe/my-homelab-got-hacked/",
-    "title": "My Homelab Got Hacked - A Postmortem"
+    "url": "https://blogs.gnome.org/shell-dev/2026/08/11/gnome-shell-design-dreams/",
+    "title": "GNOME Shell Design Dreams"
   },
   {
     "source": "lobsters",
@@ -171,6 +156,11 @@
   },
   {
     "source": "lobsters",
+    "url": "https://committing-crimes.com/articles/2026-08-04-java-nameof",
+    "title": "Hacking in the 'nameOf'"
+  },
+  {
+    "source": "lobsters",
     "url": "https://vitaut.net/posts/2026/yy-dtoa/",
     "title": "The fastest double-to-string algorithm you’ve never heard of"
   },
@@ -178,21 +168,6 @@
     "source": "lobsters",
     "url": "https://briarproject.org/news/2026-maintenance-mode/",
     "title": "Briar is in maintenance mode"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://www.pillar.security/blog/deadbugz-currently-active-mcp-supply-chain-campaign",
-    "title": "Deadbugz: Currently Active MCP Supply-Chain Campaign"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://lithostech.com/2026/08/decrypting-flume-water-monitor-traffic/",
-    "title": "Decrypting Flume Water Monitor Traffic"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://committing-crimes.com/articles/2026-08-04-java-nameof",
-    "title": "Hacking in the 'nameOf'"
   },
   {
     "source": "pinboard",
