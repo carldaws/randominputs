@@ -21,18 +21,23 @@
   },
   {
     "source": "hn",
+    "url": "https://uniqueatpenn.wordpress.com/2026/08/05/come-for-eniac-stay-for-univac-and-skeduflo/",
+    "title": "Come for Eniac, Stay for Univac and Skeduflo"
+  },
+  {
+    "source": "hn",
     "url": "https://jonty.github.io/2026_eclipse_webcams/",
     "title": "2026 Eclipse Webcams"
   },
   {
     "source": "hn",
-    "url": "https://amiga-news.de/en/news/AN-2026-08-00070-EN.html",
-    "title": "Tim King, AmigaDOS developer, has died"
+    "url": "http://funcall.blogspot.com/2026/08/why-vibe-code-in-lisp.html",
+    "title": "Why Target Common Lisp for Code Generation?"
   },
   {
     "source": "hn",
-    "url": "http://funcall.blogspot.com/2026/08/why-vibe-code-in-lisp.html",
-    "title": "Why Target Common Lisp for Code Generation?"
+    "url": "https://amiga-news.de/en/news/AN-2026-08-00070-EN.html",
+    "title": "Tim King, AmigaDOS developer, has died"
   },
   {
     "source": "hn",
@@ -46,6 +51,11 @@
   },
   {
     "source": "hn",
+    "url": "https://corneroffifth.studio/why-cant-you-find-canned-sardines-right-now/",
+    "title": "Thanks to social media, canned sardines are a scarcity on the supermarket shelf"
+  },
+  {
+    "source": "hn",
     "url": "https://penpot.app/blog/the-three-stroke-problem/",
     "title": "The Three-Stroke Problem"
   },
@@ -53,11 +63,6 @@
     "source": "hn",
     "url": "https://guillaumetech.github.io/posts/jpg-scaling-chrome/",
     "title": "Why tiny JPEGs look different in Chrome"
-  },
-  {
-    "source": "hn",
-    "url": "https://corneroffifth.studio/why-cant-you-find-canned-sardines-right-now/",
-    "title": "Thanks to social media, canned sardines are a scarcity on the supermarket shelf"
   },
   {
     "source": "hn",
@@ -70,29 +75,9 @@
     "title": "Someone is running mass vulnerability scans, spoofing AI bots like ClaudeBot"
   },
   {
-    "source": "hn",
-    "url": "https://blog.google/products-and-platforms/devices/pixel/pixel-watch-5/",
-    "title": "Pixel Watch 5"
-  },
-  {
-    "source": "hn",
-    "url": "https://lovable.dev/blog/series-c",
-    "title": "Lovable raises $400M Series C"
-  },
-  {
-    "source": "hn",
-    "url": "https://adapt.com/blog/build-wide-ship-narrow",
-    "title": "Build Wide, Ship Narrow"
-  },
-  {
     "source": "lobsters",
     "url": "https://sebsite.pw/w/20260801-pythonconstants.html",
     "title": "python's pre-declared constants are kinda weird"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://getfresh.dev/docs/blog/packaging-for-linux/",
-    "title": "I hate packaging my software for Linux"
   },
   {
     "source": "lobsters",
@@ -101,13 +86,18 @@
   },
   {
     "source": "lobsters",
-    "url": "https://phunky.cafe/my-homelab-got-hacked/",
-    "title": "My Homelab Got Hacked - A Postmortem"
+    "url": "https://getfresh.dev/docs/blog/packaging-for-linux/",
+    "title": "I hate packaging my software for Linux"
   },
   {
     "source": "lobsters",
     "url": "https://brandur.org/fragments/postgres-without-pgbouncer",
     "title": "Does anyone run Postgres without PgBouncer?"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://phunky.cafe/my-homelab-got-hacked/",
+    "title": "My Homelab Got Hacked - A Postmortem"
   },
   {
     "source": "lobsters",
@@ -131,8 +121,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://ohadravid.github.io/posts/2026-08-let-them-write-rfcs/",
-    "title": "Let Them Write RFCs"
+    "url": "https://stallman.org/articles/on-hacking.html",
+    "title": "On Hacking"
   },
   {
     "source": "lobsters",
@@ -148,11 +138,6 @@
     "source": "lobsters",
     "url": "https://futhark-lang.org/blog/2026-08-12-flatmap.html",
     "title": "How should Futhark expose irregular arrays to the programmer?"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://stallman.org/articles/on-hacking.html",
-    "title": "On Hacking"
   },
   {
     "source": "lobsters",
