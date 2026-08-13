@@ -26,6 +26,16 @@
   },
   {
     "source": "hn",
+    "url": "https://cdn.openai.com/pdf/how-organizations-use-chatgpt.pdf",
+    "title": "How Organizations Use AI: Evidence from ChatGPT [pdf]"
+  },
+  {
+    "source": "hn",
+    "url": "https://nicole.express/2026/more-like-idle-mahjong.html",
+    "title": "Idol Mahjong Final Romance: A Slideshow Disguised as a Video Game"
+  },
+  {
+    "source": "hn",
     "url": "https://lrc.la.utexas.edu/eieol/tokol/0",
     "title": "Tocharian Online"
   },
@@ -36,28 +46,23 @@
   },
   {
     "source": "hn",
-    "url": "https://uniqueatpenn.wordpress.com/2026/08/05/come-for-eniac-stay-for-univac-and-skeduflo/",
-    "title": "Come for ENIAC, Stay for UNIVAC and Skeduflo"
-  },
-  {
-    "source": "hn",
-    "url": "https://cdn.openai.com/pdf/how-organizations-use-chatgpt.pdf",
-    "title": "How Organizations Use AI: Evidence from ChatGPT [pdf]"
-  },
-  {
-    "source": "hn",
     "url": "https://jdagostino.github.io/ai-pt1-box-o-scraps/index.html",
     "title": "AI At Home Part 1: A Box Of Scraps"
   },
   {
     "source": "hn",
-    "url": "https://gloom.sh/",
-    "title": "Gloomberb"
+    "url": "https://uniqueatpenn.wordpress.com/2026/08/05/come-for-eniac-stay-for-univac-and-skeduflo/",
+    "title": "Come for ENIAC, Stay for UNIVAC and Skeduflo"
   },
   {
     "source": "hn",
     "url": "https://aeon.co/essays/humans-did-not-invent-art-it-was-the-other-way-around",
     "title": "How art invented humanity"
+  },
+  {
+    "source": "hn",
+    "url": "https://gloom.sh/",
+    "title": "Gloomberb"
   },
   {
     "source": "hn",
@@ -71,23 +76,23 @@
   },
   {
     "source": "hn",
-    "url": "https://tschatzl.github.io/2026/08/10/jdk27-g1-serial-parallel-gc-changes.html",
-    "title": "JDK 27 G1/Parallel/Serial GC Changes"
-  },
-  {
-    "source": "hn",
     "url": "https://alexmorleyfinch.github.io/marlin/history/v1/article/the_birth.html",
     "title": "I built a 500k-domain search engine for makers in a weekend for $10"
   },
   {
     "source": "hn",
-    "url": "https://www.codewithbullet.com",
-    "title": "Launch HN: Bullet (YC S26) – A Faster Coding Agent"
+    "url": "https://tschatzl.github.io/2026/08/10/jdk27-g1-serial-parallel-gc-changes.html",
+    "title": "JDK 27 G1/Parallel/Serial GC Changes"
   },
   {
     "source": "hn",
-    "url": "https://pxl-th.github.io/blog/better-gs-julia/",
-    "title": "Better Gaussian Splatting in Julia"
+    "url": "https://earendil.com/posts/compaction-in-pi/",
+    "title": "How Compaction Works in Pi"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.codewithbullet.com",
+    "title": "Launch HN: Bullet (YC S26) – A Faster Coding Agent"
   },
   {
     "source": "lobsters",
@@ -101,23 +106,23 @@
   },
   {
     "source": "lobsters",
-    "url": "https://alan.norbauer.com/articles/github-stacks-with-jujutsu/",
-    "title": "GitHub Stacks in Jujutsu"
-  },
-  {
-    "source": "lobsters",
     "url": "https://domenkozar.com/2026/08/13/i-want-extern-fil-c/",
     "title": "I want extern \"fil-c\""
   },
   {
     "source": "lobsters",
-    "url": "https://brandur.org/fragments/postgres-without-pgbouncer",
-    "title": "Does anyone run Postgres without PgBouncer?"
+    "url": "https://alan.norbauer.com/articles/github-stacks-with-jujutsu/",
+    "title": "GitHub Stacks in Jujutsu"
   },
   {
     "source": "lobsters",
     "url": "https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html",
     "title": "AI is removing the middle class of software engineering"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://brandur.org/fragments/postgres-without-pgbouncer",
+    "title": "Does anyone run Postgres without PgBouncer?"
   },
   {
     "source": "lobsters",
@@ -141,6 +146,11 @@
   },
   {
     "source": "lobsters",
+    "url": "https://stallman.org/articles/on-hacking.html",
+    "title": "On Hacking"
+  },
+  {
+    "source": "lobsters",
     "url": "http://funcall.blogspot.com/2026/08/why-vibe-code-in-lisp.html",
     "title": "Why vibe code in Lisp?"
   },
@@ -151,8 +161,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://stallman.org/articles/on-hacking.html",
-    "title": "On Hacking"
+    "url": "https://a.security/blog/asecurity-zoomsday",
+    "title": "ZOOMSDAY, Zoom Zero-Click Vulnerabilities Via Annotation"
   },
   {
     "source": "lobsters",
@@ -173,11 +183,6 @@
     "source": "lobsters",
     "url": "https://rustmagazine.org/issue-2/write-a-sql-optimizer-using-egg",
     "title": "Write a SQL Optimizer using Egg (2023)"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://a.security/blog/asecurity-zoomsday",
-    "title": "ZOOMSDAY, Zoom Zero-Click Vulnerabilities Via Annotation"
   },
   {
     "source": "pinboard",
