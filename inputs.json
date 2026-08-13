@@ -6,11 +6,6 @@
   },
   {
     "source": "hn",
-    "url": "https://mcfunley.com/choose-boring-technology",
-    "title": "Choose Boring Technology (2015)"
-  },
-  {
-    "source": "hn",
     "url": "https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai",
     "title": "Accelerating GPT-5.6 Sol Ultrafast"
   },
@@ -21,18 +16,18 @@
   },
   {
     "source": "hn",
+    "url": "https://mcfunley.com/choose-boring-technology",
+    "title": "Choose Boring Technology (2015)"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.geoffreylitt.com/2026/07/02/understanding-is-the-new-bottleneck",
+    "title": "Understanding is the new bottleneck"
+  },
+  {
+    "source": "hn",
     "url": "https://lrc.la.utexas.edu/eieol/tokol/0",
     "title": "Tocharian Online"
-  },
-  {
-    "source": "hn",
-    "url": "https://jdagostino.github.io/ai-pt1-box-o-scraps/index.html",
-    "title": "AI At Home Part 1: A Box Of Scraps"
-  },
-  {
-    "source": "hn",
-    "url": "https://uniqueatpenn.wordpress.com/2026/08/05/come-for-eniac-stay-for-univac-and-skeduflo/",
-    "title": "Come for ENIAC, Stay for UNIVAC and Skeduflo"
   },
   {
     "source": "hn",
@@ -41,8 +36,18 @@
   },
   {
     "source": "hn",
-    "url": "https://aeon.co/essays/humans-did-not-invent-art-it-was-the-other-way-around",
-    "title": "How art invented humanity"
+    "url": "https://uniqueatpenn.wordpress.com/2026/08/05/come-for-eniac-stay-for-univac-and-skeduflo/",
+    "title": "Come for ENIAC, Stay for UNIVAC and Skeduflo"
+  },
+  {
+    "source": "hn",
+    "url": "https://cdn.openai.com/pdf/how-organizations-use-chatgpt.pdf",
+    "title": "How Organizations Use AI: Evidence from ChatGPT [pdf]"
+  },
+  {
+    "source": "hn",
+    "url": "https://jdagostino.github.io/ai-pt1-box-o-scraps/index.html",
+    "title": "AI At Home Part 1: A Box Of Scraps"
   },
   {
     "source": "hn",
@@ -51,8 +56,8 @@
   },
   {
     "source": "hn",
-    "url": "https://ordinaryabundance.com/",
-    "title": "Ordinary abundance"
+    "url": "https://aeon.co/essays/humans-did-not-invent-art-it-was-the-other-way-around",
+    "title": "How art invented humanity"
   },
   {
     "source": "hn",
@@ -61,8 +66,8 @@
   },
   {
     "source": "hn",
-    "url": "https://games.lukicengineering.com/blog/2013-vs-2026/",
-    "title": "From 13.5M installs to 499 active devices"
+    "url": "https://ordinaryabundance.com/",
+    "title": "Ordinary abundance"
   },
   {
     "source": "hn",
@@ -76,11 +81,6 @@
   },
   {
     "source": "hn",
-    "url": "https://ojcp.dev/",
-    "title": "Show HN: OJCP – an open protocol for agent-consumable job data"
-  },
-  {
-    "source": "hn",
     "url": "https://www.codewithbullet.com",
     "title": "Launch HN: Bullet (YC S26) – A Faster Coding Agent"
   },
@@ -88,11 +88,6 @@
     "source": "hn",
     "url": "https://pxl-th.github.io/blog/better-gs-julia/",
     "title": "Better Gaussian Splatting in Julia"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.wired.com/story/mcdonalds-built-a-515-page-dossier-on-me-it-says-ill-never-leave/",
-    "title": "I requested a copy of my data from McDonald’s loyalty program"
   },
   {
     "source": "lobsters",
@@ -108,6 +103,11 @@
     "source": "lobsters",
     "url": "https://alan.norbauer.com/articles/github-stacks-with-jujutsu/",
     "title": "GitHub Stacks in Jujutsu"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://domenkozar.com/2026/08/13/i-want-extern-fil-c/",
+    "title": "I want extern \"fil-c\""
   },
   {
     "source": "lobsters",
@@ -131,8 +131,18 @@
   },
   {
     "source": "lobsters",
+    "url": "https://c3-lang.org/blog/c3_0_8_3_feature_flags/",
+    "title": "C3 0.8.3 Feature flags"
+  },
+  {
+    "source": "lobsters",
     "url": "https://phunky.cafe/my-homelab-got-hacked/",
     "title": "My Homelab Got Hacked - A Postmortem"
+  },
+  {
+    "source": "lobsters",
+    "url": "http://funcall.blogspot.com/2026/08/why-vibe-code-in-lisp.html",
+    "title": "Why vibe code in Lisp?"
   },
   {
     "source": "lobsters",
@@ -143,16 +153,6 @@
     "source": "lobsters",
     "url": "https://stallman.org/articles/on-hacking.html",
     "title": "On Hacking"
-  },
-  {
-    "source": "lobsters",
-    "url": "http://funcall.blogspot.com/2026/08/why-vibe-code-in-lisp.html",
-    "title": "Why vibe code in Lisp?"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://domenkozar.com/2026/08/13/i-want-extern-fil-c/",
-    "title": "I want extern \"fil-c\""
   },
   {
     "source": "lobsters",
@@ -171,18 +171,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://guillaumetech.github.io/posts/jpg-scaling-chrome/",
-    "title": "Why tiny JPEGs look different in Chrome"
+    "url": "https://rustmagazine.org/issue-2/write-a-sql-optimizer-using-egg",
+    "title": "Write a SQL Optimizer using Egg (2023)"
   },
   {
     "source": "lobsters",
-    "url": "https://var0.xyz/posts/mindful-coding-purpose-and-intention.html",
-    "title": "Mindful coding: Purpose and intention"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://futhark-lang.org/blog/2026-08-12-flatmap.html",
-    "title": "How should Futhark expose irregular arrays to the programmer?"
+    "url": "https://a.security/blog/asecurity-zoomsday",
+    "title": "ZOOMSDAY, Zoom Zero-Click Vulnerabilities Via Annotation"
   },
   {
     "source": "pinboard",
