@@ -1,8 +1,23 @@
 [
   {
     "source": "hn",
+    "url": "https://www.netlify.com/blog/one-prompt-11-models-very-different-results/",
+    "title": "Choosing an AI model: one prompt, 11 models, different results"
+  },
+  {
+    "source": "hn",
+    "url": "https://leancrew.com/all-this/2026/08/my-rules-for-using-spreadsheets/",
+    "title": "My Rules for Using Spreadsheets"
+  },
+  {
+    "source": "hn",
+    "url": "https://pxl-th.github.io/blog/better-gs-julia/",
+    "title": "Better Gaussian Splatting in Julia"
+  },
+  {
+    "source": "hn",
     "url": "https://jdh.hamkins.org/the-lattice-of-sets-of-natural-numbers-is-rich/",
-    "title": "The lattice of sets of natural numbers is rich"
+    "title": "The lattice of sets of natural numbers is rich (2021)"
   },
   {
     "source": "hn",
@@ -16,8 +31,8 @@
   },
   {
     "source": "hn",
-    "url": "https://en.wikipedia.org/wiki/Antiqua%E2%80%93Fraktur_dispute",
-    "title": "Antiqua–Fraktur dispute"
+    "url": "https://shivanshuag.com/blog/what-garbage-collection-actually-costs/",
+    "title": "What Garbage Collection Costs"
   },
   {
     "source": "hn",
@@ -26,23 +41,8 @@
   },
   {
     "source": "hn",
-    "url": "https://jonty.github.io/2026_eclipse_webcams/",
-    "title": "2026 Eclipse Webcams"
-  },
-  {
-    "source": "hn",
-    "url": "http://funcall.blogspot.com/2026/08/why-vibe-code-in-lisp.html",
-    "title": "Why Target Common Lisp for Code Generation?"
-  },
-  {
-    "source": "hn",
-    "url": "https://amiga-news.de/en/news/AN-2026-08-00070-EN.html",
-    "title": "Tim King, AmigaDOS developer, has died"
-  },
-  {
-    "source": "hn",
-    "url": "https://discoveredmaterials.com/research/",
-    "title": "Launch HN: Discovered Materials (YC P26) – AI agents to discover new materials"
+    "url": "https://en.wikipedia.org/wiki/Antiqua%E2%80%93Fraktur_dispute",
+    "title": "Antiqua–Fraktur dispute"
   },
   {
     "source": "hn",
@@ -51,28 +51,18 @@
   },
   {
     "source": "hn",
-    "url": "https://corneroffifth.studio/why-cant-you-find-canned-sardines-right-now/",
-    "title": "Thanks to social media, canned sardines are a scarcity on the supermarket shelf"
+    "url": "https://jonty.github.io/2026_eclipse_webcams/",
+    "title": "2026 Eclipse Webcams"
   },
   {
     "source": "hn",
-    "url": "https://penpot.app/blog/the-three-stroke-problem/",
-    "title": "The Three-Stroke Problem"
+    "url": "https://phys.org/news/2026-08-rapid-atlantic-circulation-2c-slower.html",
+    "title": "Rapid warming may tip AMOC at 2°C, slower warming may avert collapse"
   },
   {
     "source": "hn",
-    "url": "https://guillaumetech.github.io/posts/jpg-scaling-chrome/",
-    "title": "Why tiny JPEGs look different in Chrome"
-  },
-  {
-    "source": "hn",
-    "url": "https://spillhistorie.no/2026/08/08/fra-gummistovler-til-copa-da-microprose-soccer-revolusjonerte-fotballen/",
-    "title": "From rubber boots to Copa: When MicroProse Soccer revolutionized football"
-  },
-  {
-    "source": "hn",
-    "url": "https://knownagents.com/insights",
-    "title": "Someone is running mass vulnerability scans, spoofing AI bots like ClaudeBot"
+    "url": "https://amiga-news.de/en/news/AN-2026-08-00070-EN.html",
+    "title": "Tim King, AmigaDOS developer, has died"
   },
   {
     "source": "lobsters",
@@ -111,13 +101,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://var0.xyz/posts/mindful-coding-purpose-and-intention.html",
-    "title": "Mindful coding: Purpose and intention"
+    "url": "http://funcall.blogspot.com/2026/08/why-vibe-code-in-lisp.html",
+    "title": "Why vibe code in Lisp?"
   },
   {
     "source": "lobsters",
-    "url": "https://linebender.org/blog/fearless-simd-0-7/",
-    "title": "fearless_simd v0.7: 64-bit integers, improved generics, SSE2, and upcoming v1.0"
+    "url": "https://nibblestew.blogspot.com/2026/08/digitizing-super-8-film-yourself.html",
+    "title": "Digitizing super 8 film yourself"
   },
   {
     "source": "lobsters",
@@ -126,13 +116,23 @@
   },
   {
     "source": "lobsters",
-    "url": "https://signal.org/blog/automatic-key-verification/",
-    "title": "Introducing Automatic Key Verification"
+    "url": "https://var0.xyz/posts/mindful-coding-purpose-and-intention.html",
+    "title": "Mindful coding: Purpose and intention"
   },
   {
     "source": "lobsters",
-    "url": "https://calnewport.com/on-ai-coding-and-its-discontents/",
-    "title": "On AI Coding and Its Discontents"
+    "url": "https://guillaumetech.github.io/posts/jpg-scaling-chrome/",
+    "title": "Why tiny JPEGs look different in Chrome"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://linebender.org/blog/fearless-simd-0-7/",
+    "title": "fearless_simd v0.7: 64-bit integers, improved generics, SSE2, and upcoming v1.0"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://signal.org/blog/automatic-key-verification/",
+    "title": "Introducing Automatic Key Verification"
   },
   {
     "source": "lobsters",
@@ -141,12 +141,82 @@
   },
   {
     "source": "lobsters",
+    "url": "https://calnewport.com/on-ai-coding-and-its-discontents/",
+    "title": "On AI Coding and Its Discontents"
+  },
+  {
+    "source": "lobsters",
     "url": "https://committing-crimes.com/articles/2026-08-04-java-nameof",
     "title": "Hacking in the 'nameOf'"
   },
   {
-    "source": "lobsters",
-    "url": "https://nibblestew.blogspot.com/2026/08/digitizing-super-8-film-yourself.html",
-    "title": "Digitizing super 8 film yourself"
+    "source": "pinboard",
+    "url": "https://stolen-thoughts.com/",
+    "title": "Stolen Thoughts: Stealing Reasoning Traces from Proprietary LLM APIs"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://stowaway.live/",
+    "title": "Stowaway — Ride along with the planes and satellites overhead"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.noemamag.com/why-is-everyone-in-tech-so-sad/",
+    "title": "Why Is Everyone In Tech So Sad?"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn/",
+    "title": "how i use llms to learn complex topics · laurentiu raducu"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://aresluna.org/the-hardest-working-font-in-manhattan/",
+    "title": "The hardest working font in Manhattan – Aresluna"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html",
+    "title": "AI is removing the middle class of software engineering"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://tumbledry.org/2026/08/07/idrive_ads",
+    "title": "tumbledry.org: iDrive Ads"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://danluu.com/pl-tokens/",
+    "title": "What's the best programming language for coding agents?"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://sophiebits.com/2026/06/25/there-are-no-lossless-transformations-of-natural-language-text",
+    "title": "There are no lossless transformations of natural-language text – Sophie Alpert"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://yeptype.com/article/inter-alternatives",
+    "title": "How to choose a UI font (and 10 Inter alternatives)"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://arachnoid.com/lutusp/sailbook.html",
+    "title": "* Confessions of a Long-Distance Sailor"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://gowers.wordpress.com/2026/08/12/what-sort-of-maths-are-llms-good-at/",
+    "title": "What sort of maths are LLMs good at? | Gowers's Weblog"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://aftermath.site/ai-resistance-tips-workforce-llm-workers/",
+    "title": "Welcome To The Resistance: Meet The Workers Dodging (And Sabotaging) Their Employer's AI Mandates"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.404media.co/company-offering-100-human-written-never-ai-peer-review-is-entirely-ai/",
+    "title": "Company Offering ‘100% Human-Written, Never AI’ Medical Research Is Entirely AI"
   }
 ]
