@@ -11,13 +11,8 @@
   },
   {
     "source": "hn",
-    "url": "https://www.ballet.dev/",
-    "title": "Show HN: Ballet – Workflow automation that writes integrations against any API"
-  },
-  {
-    "source": "hn",
-    "url": "http://funcall.blogspot.com/2026/08/why-vibe-code-in-lisp.html",
-    "title": "Why Target Common Lisp for Code Generation?"
+    "url": "https://adapt.com/blog/build-wide-ship-narrow",
+    "title": "Build Wide, Ship Narrow"
   },
   {
     "source": "hn",
@@ -26,18 +21,33 @@
   },
   {
     "source": "hn",
+    "url": "https://repository.lib.ncsu.edu/items/451b001d-e63a-4968-866d-3fb3a599b1e7",
+    "title": "Probabilistic Estimation for Localizing a Radioactive Source in an Urban Setting"
+  },
+  {
+    "source": "hn",
+    "url": "http://funcall.blogspot.com/2026/08/why-vibe-code-in-lisp.html",
+    "title": "Why Target Common Lisp for Code Generation?"
+  },
+  {
+    "source": "hn",
     "url": "https://amiga-news.de/en/news/AN-2026-08-00070-EN.html",
     "title": "Tim King, AmigaDOS developer, has died"
   },
   {
     "source": "hn",
-    "url": "https://adapt.com/blog/build-wide-ship-narrow",
-    "title": "Build Wide, Ship Narrow"
+    "url": "https://en.wikipedia.org/wiki/Antiqua%E2%80%93Fraktur_dispute",
+    "title": "Antiqua–Fraktur Dispute"
   },
   {
     "source": "hn",
     "url": "https://discoveredmaterials.com/research/",
     "title": "Launch HN: Discovered Materials (YC P26) – AI agents to discover new materials"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.ballet.dev/",
+    "title": "Show HN: Ballet – Workflow automation that writes integrations against any API"
   },
   {
     "source": "hn",
@@ -48,6 +58,11 @@
     "source": "hn",
     "url": "https://knownagents.com/insights",
     "title": "Someone is running mass vulnerability scans, spoofing AI bots like ClaudeBot"
+  },
+  {
+    "source": "hn",
+    "url": "https://corneroffifth.studio/why-cant-you-find-canned-sardines-right-now/",
+    "title": "Thanks to social media, canned sardines are a scarcity on the supermarket shelf"
   },
   {
     "source": "hn",
@@ -66,21 +81,6 @@
   },
   {
     "source": "hn",
-    "url": "https://yogthos.net/posts/2026-08-07-portable-jolt.html",
-    "title": "Program images and portable Scheme back ends for Jolt"
-  },
-  {
-    "source": "hn",
-    "url": "https://bipluk.com/",
-    "title": "I built a browser-native SysEx librarian for 80s/90s synthesizers"
-  },
-  {
-    "source": "hn",
-    "url": "https://artificialanalysis.ai/articles/grok-4-6-benchmarks-and-analysis",
-    "title": "Grok 4.6 scores 61 on the Artificial Analysis Intelligence Index"
-  },
-  {
-    "source": "hn",
     "url": "https://lovable.dev/blog/series-c",
     "title": "Lovable raises $400M Series C"
   },
@@ -88,6 +88,16 @@
     "source": "hn",
     "url": "https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html",
     "title": "AI is removing the middle class of software engineering?"
+  },
+  {
+    "source": "hn",
+    "url": "https://gowers.wordpress.com/2026/08/12/what-sort-of-maths-are-llms-good-at/",
+    "title": "What sort of maths are LLMs good at?"
+  },
+  {
+    "source": "hn",
+    "url": "https://woxi.ad-si.com",
+    "title": "Show HN: Woxi - Open-source Mathematica / Wolfram Language reimplementation"
   },
   {
     "source": "lobsters",
@@ -101,8 +111,18 @@
   },
   {
     "source": "lobsters",
+    "url": "https://alan.norbauer.com/articles/github-stacks-with-jujutsu/",
+    "title": "GitHub Stacks in Jujutsu"
+  },
+  {
+    "source": "lobsters",
     "url": "https://brettcodes.com/im-done-using-ai/",
     "title": "I'm done using AI"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://hackmd.io/@s_haMSbyTAOWfoXc1aYNUg/Hka74gCwZg",
+    "title": "A critical review of Xilem in 2026"
   },
   {
     "source": "lobsters",
@@ -113,11 +133,6 @@
     "source": "lobsters",
     "url": "https://signal.org/blog/automatic-key-verification/",
     "title": "Introducing Automatic Key Verification"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://hackmd.io/@s_haMSbyTAOWfoXc1aYNUg/Hka74gCwZg",
-    "title": "A critical review of Xilem in 2026"
   },
   {
     "source": "lobsters",
@@ -136,13 +151,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://www.sandordargo.com/blog/2026/08/12/cpp26-indirect",
-    "title": "C++26: std::indirect"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://alan.norbauer.com/articles/github-stacks-with-jujutsu/",
-    "title": "GitHub Stacks in Jujutsu"
+    "url": "https://brandur.org/fragments/postgres-without-pgbouncer",
+    "title": "Does anyone run Postgres without PgBouncer?"
   },
   {
     "source": "lobsters",
@@ -151,8 +161,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://punkx.org/jackdoe/home.html",
-    "title": "My Anti AI computer"
+    "url": "https://www.sandordargo.com/blog/2026/08/12/cpp26-indirect",
+    "title": "C++26: std::indirect"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://blog.comma.ai/chestnut/",
+    "title": "Introducing chestnut"
   },
   {
     "source": "lobsters",
@@ -166,7 +181,82 @@
   },
   {
     "source": "lobsters",
-    "url": "https://blog.himanshuanand.com/2026/08/i-found-a-kvm-guest-to-host-heap-corruption-bug-and-someone-else-got-there-first/",
-    "title": "I found a KVM guest-to-host heap corruption bug and someone else got there first"
+    "url": "https://punkx.org/jackdoe/home.html",
+    "title": "My Anti AI computer"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.noemamag.com/why-is-everyone-in-tech-so-sad/",
+    "title": "Why Is Everyone In Tech So Sad?"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://stowaway.live/",
+    "title": "Stowaway — Ride along with the planes and satellites overhead"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.andrewt.net/dithered-qr-codes/wtf/",
+    "title": "How to make error-diffused QR codes"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn/",
+    "title": "how i use llms to learn complex topics · laurentiu raducu"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://blog.senko.net/code-was-never-the-hard-part-is-an-insult-to-all-programmers",
+    "title": "\"Code was never the hard part\" is an insult to all programmers — Senko Rašić"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://kuber.studio/cookie/",
+    "title": "I didn't set a cookie."
+  },
+  {
+    "source": "pinboard",
+    "url": "https://seg6.space/posts/phone-server/",
+    "title": "my server is a phone now — seg6"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://danluu.com/pl-tokens/",
+    "title": "What's the best programming language for coding agents?"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://aftermath.site/ai-resistance-tips-workforce-llm-workers/",
+    "title": "Welcome To The Resistance: Meet The Workers Dodging (And Sabotaging) Their Employer's AI Mandates"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://openchamber.dev/",
+    "title": "OpenChamber"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://shopify.engineering/scaling-inventory-reservations",
+    "title": "We replaced Redis with MySQL for inventory reservations—and it scaled (2026) - Shopify"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://emeraldbook.org/news/aug-0426-5/",
+    "title": "How Baltimore Achieved Historically Low Homicides—With Less Police – Emerald Book"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://semi-rad.com/2026/08/do-it-14000-times-slower-with-this-one-trick/",
+    "title": "Do It 14,000 Times Slower With This One Trick – Semi-Rad.com"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://news.ycombinator.com/item?id=49246804",
+    "title": "show hn: needle2: 14mb agentic llm for phones, wearables, smart home and robots | hacker news"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://mjtsai.com/blog/2026/08/07/dark-hours-rejected-from-the-app-store/",
+    "title": "Michael Tsai - Blog - Dark Hours Rejected From the App Store"
   }
 ]
