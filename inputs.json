@@ -1,13 +1,13 @@
 [
   {
     "source": "hn",
-    "url": "https://gloom.sh/",
-    "title": "Gloomberb"
+    "url": "https://uniqueatpenn.wordpress.com/2026/08/05/come-for-eniac-stay-for-univac-and-skeduflo/",
+    "title": "Come for ENIAC, Stay for UNIVAC and Skeduflo"
   },
   {
     "source": "hn",
-    "url": "https://uniqueatpenn.wordpress.com/2026/08/05/come-for-eniac-stay-for-univac-and-skeduflo/",
-    "title": "Come for ENIAC, Stay for UNIVAC and Skeduflo"
+    "url": "https://www.techcentral.ie/mozilla-says-stricter-antitrust-measures-against-google-threaten-firefox/",
+    "title": "Mozilla says stricter antitrust measures against Google 'threaten Firefox'"
   },
   {
     "source": "hn",
@@ -16,28 +16,18 @@
   },
   {
     "source": "hn",
+    "url": "https://gloom.sh/",
+    "title": "Gloomberb"
+  },
+  {
+    "source": "hn",
     "url": "https://aeon.co/essays/humans-did-not-invent-art-it-was-the-other-way-around",
     "title": "How art invented humanity"
   },
   {
     "source": "hn",
-    "url": "https://alexmorleyfinch.github.io/marlin/history/v1/article/the_birth.html",
-    "title": "I built a 500k-domain search engine for makers in a weekend for $10"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.codewithbullet.com",
-    "title": "Launch HN: Bullet (YC S26) – A Faster Coding Agent"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.wired.com/story/mcdonalds-built-a-515-page-dossier-on-me-it-says-ill-never-leave/",
-    "title": "I requested a copy of my data from McDonald’s loyalty program"
-  },
-  {
-    "source": "hn",
-    "url": "https://tlakoba.w3.uvm.edu/AppliedUGMath/auxpaper_rainbow_glory_review.pdf",
-    "title": "The mathematical physics of rainbows and glories (2001) [pdf]"
+    "url": "https://lrc.la.utexas.edu/eieol/tokol/0",
+    "title": "Tocharian Online"
   },
   {
     "source": "hn",
@@ -46,18 +36,18 @@
   },
   {
     "source": "hn",
+    "url": "https://alexmorleyfinch.github.io/marlin/history/v1/article/the_birth.html",
+    "title": "I built a 500k-domain search engine for makers in a weekend for $10"
+  },
+  {
+    "source": "hn",
     "url": "https://djbinder.com/language-tree/",
     "title": "The Indo-European Family Tree"
   },
   {
     "source": "hn",
-    "url": "https://jdh.hamkins.org/the-lattice-of-sets-of-natural-numbers-is-rich/",
-    "title": "The lattice of sets of natural numbers is rich (2021)"
-  },
-  {
-    "source": "hn",
-    "url": "https://pxl-th.github.io/blog/better-gs-julia/",
-    "title": "Better Gaussian Splatting in Julia"
+    "url": "https://jdagostino.github.io/ai-pt1-box-o-scraps/index.html",
+    "title": "We Have AI at Home Chapter 1: A Box of Scraps"
   },
   {
     "source": "hn",
@@ -66,23 +56,48 @@
   },
   {
     "source": "hn",
-    "url": "https://www.seangoedecke.com/text-ai-watermarks/",
-    "title": "Text AI watermarks will always be trivial to remove"
+    "url": "https://ojcp.dev/",
+    "title": "Show HN: OJCP – an open protocol for agent-consumable job data"
   },
   {
     "source": "hn",
-    "url": "https://okmij.org/ftp/Computation/Impressions/PrincipiaMathematica.html",
-    "title": "Principia Mathematica is modern and insightful"
+    "url": "https://www.wired.com/story/mcdonalds-built-a-515-page-dossier-on-me-it-says-ill-never-leave/",
+    "title": "I requested a copy of my data from McDonald’s loyalty program"
   },
   {
     "source": "hn",
-    "url": "https://opscode.io/posts/ptp-grandmaster-cm4-sr1723u10/",
-    "title": "Build a Stratum 1 PTP Grandmaster on a Budget"
+    "url": "https://pxl-th.github.io/blog/better-gs-julia/",
+    "title": "Better Gaussian Splatting in Julia"
+  },
+  {
+    "source": "hn",
+    "url": "https://tlakoba.w3.uvm.edu/AppliedUGMath/auxpaper_rainbow_glory_review.pdf",
+    "title": "The mathematical physics of rainbows and glories (2001) [pdf]"
+  },
+  {
+    "source": "hn",
+    "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/",
+    "title": "Gemini 3.7 Flash"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.codewithbullet.com",
+    "title": "Launch HN: Bullet (YC S26) – A Faster Coding Agent"
+  },
+  {
+    "source": "hn",
+    "url": "https://jdh.hamkins.org/the-lattice-of-sets-of-natural-numbers-is-rich/",
+    "title": "The lattice of sets of natural numbers is rich (2021)"
   },
   {
     "source": "lobsters",
     "url": "https://sebsite.pw/w/20260801-pythonconstants.html",
     "title": "python's pre-declared constants are kinda weird"
+  },
+  {
+    "source": "lobsters",
+    "url": "http://eurozig.eu/",
+    "title": "EuroZig"
   },
   {
     "source": "lobsters",
@@ -106,8 +121,8 @@
   },
   {
     "source": "lobsters",
-    "url": "http://eurozig.eu/",
-    "title": "EuroZig"
+    "url": "https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html",
+    "title": "AI is removing the middle class of software engineering"
   },
   {
     "source": "lobsters",
@@ -116,23 +131,18 @@
   },
   {
     "source": "lobsters",
-    "url": "https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html",
-    "title": "AI is removing the middle class of software engineering"
-  },
-  {
-    "source": "lobsters",
     "url": "https://ohadravid.github.io/posts/2026-08-let-them-write-rfcs/",
     "title": "Let Them Write RFCs"
   },
   {
     "source": "lobsters",
-    "url": "https://stallman.org/articles/on-hacking.html",
-    "title": "On Hacking"
+    "url": "http://funcall.blogspot.com/2026/08/why-vibe-code-in-lisp.html",
+    "title": "Why vibe code in Lisp?"
   },
   {
     "source": "lobsters",
-    "url": "http://funcall.blogspot.com/2026/08/why-vibe-code-in-lisp.html",
-    "title": "Why vibe code in Lisp?"
+    "url": "https://stallman.org/articles/on-hacking.html",
+    "title": "On Hacking"
   },
   {
     "source": "lobsters",
@@ -151,6 +161,11 @@
   },
   {
     "source": "lobsters",
+    "url": "https://domenkozar.com/2026/08/13/i-want-extern-fil-c/",
+    "title": "I want extern \"fil-c\""
+  },
+  {
+    "source": "lobsters",
     "url": "https://var0.xyz/posts/mindful-coding-purpose-and-intention.html",
     "title": "Mindful coding: Purpose and intention"
   },
@@ -163,16 +178,6 @@
     "source": "lobsters",
     "url": "https://guillaumetech.github.io/posts/jpg-scaling-chrome/",
     "title": "Why tiny JPEGs look different in Chrome"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://a.security/blog/asecurity-zoomsday",
-    "title": "ZOOMSDAY, Zoom Zero-Click Vulnerabilities Via Annotation"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://linebender.org/blog/fearless-simd-0-7/",
-    "title": "fearless_simd v0.7: 64-bit integers, improved generics, SSE2, and upcoming v1.0"
   },
   {
     "source": "pinboard",
