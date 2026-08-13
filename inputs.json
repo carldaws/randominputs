@@ -2,7 +2,7 @@
   {
     "source": "hn",
     "url": "https://tailscale.com/blog/sqlite-wal-reset-bug",
-    "title": "We tracked down the 16-year-old WAL-reset SQLite bug"
+    "title": "Tracking down the 16-year-old WAL-reset SQLite bug"
   },
   {
     "source": "hn",
@@ -36,18 +36,13 @@
   },
   {
     "source": "hn",
-    "url": "https://adapt.com/blog/build-wide-ship-narrow",
-    "title": "Build Wide, Ship Narrow"
-  },
-  {
-    "source": "hn",
     "url": "https://discoveredmaterials.com/research/",
     "title": "Launch HN: Discovered Materials (YC P26) – AI agents to discover new materials"
   },
   {
     "source": "hn",
-    "url": "https://guillaumetech.github.io/posts/jpg-scaling-chrome/",
-    "title": "Why tiny JPEGs look different in Chrome"
+    "url": "https://spillhistorie.no/2026/08/08/fra-gummistovler-til-copa-da-microprose-soccer-revolusjonerte-fotballen/",
+    "title": "From rubber boots to Copa: When MicroProse Soccer revolutionized football"
   },
   {
     "source": "hn",
@@ -61,13 +56,8 @@
   },
   {
     "source": "hn",
-    "url": "https://repository.lib.ncsu.edu/items/451b001d-e63a-4968-866d-3fb3a599b1e7",
-    "title": "Locating an unknown source of radiation in a heterogeneous environment (2019)"
-  },
-  {
-    "source": "hn",
-    "url": "https://spillhistorie.no/2026/08/08/fra-gummistovler-til-copa-da-microprose-soccer-revolusjonerte-fotballen/",
-    "title": "From rubber boots to Copa: When MicroProse Soccer revolutionized football"
+    "url": "https://guillaumetech.github.io/posts/jpg-scaling-chrome/",
+    "title": "Why tiny JPEGs look different in Chrome"
   },
   {
     "source": "hn",
@@ -76,8 +66,8 @@
   },
   {
     "source": "hn",
-    "url": "https://celld.dev/",
-    "title": "Celld: Self-hosted, distributed Durable Objects"
+    "url": "https://adapt.com/blog/build-wide-ship-narrow",
+    "title": "Build Wide, Ship Narrow"
   },
   {
     "source": "hn",
@@ -91,18 +81,18 @@
   },
   {
     "source": "hn",
-    "url": "https://www.ballet.dev/",
-    "title": "Show HN: Ballet – Workflow automation that writes integrations against any API"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://getfresh.dev/docs/blog/packaging-for-linux/",
-    "title": "I hate packaging my software for Linux"
+    "url": "https://repository.lib.ncsu.edu/items/451b001d-e63a-4968-866d-3fb3a599b1e7",
+    "title": "Locating an unknown source of radiation in a heterogeneous environment (2019)"
   },
   {
     "source": "lobsters",
     "url": "https://sebsite.pw/w/20260801-pythonconstants.html",
     "title": "python's pre-declared constants are kinda weird"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://getfresh.dev/docs/blog/packaging-for-linux/",
+    "title": "I hate packaging my software for Linux"
   },
   {
     "source": "lobsters",
@@ -116,6 +106,11 @@
   },
   {
     "source": "lobsters",
+    "url": "https://brandur.org/fragments/postgres-without-pgbouncer",
+    "title": "Does anyone run Postgres without PgBouncer?"
+  },
+  {
+    "source": "lobsters",
     "url": "https://brettcodes.com/im-done-using-ai/",
     "title": "I'm done using AI"
   },
@@ -123,11 +118,6 @@
     "source": "lobsters",
     "url": "https://hackmd.io/@s_haMSbyTAOWfoXc1aYNUg/Hka74gCwZg",
     "title": "A critical review of Xilem in 2026"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://brandur.org/fragments/postgres-without-pgbouncer",
-    "title": "Does anyone run Postgres without PgBouncer?"
   },
   {
     "source": "lobsters",
@@ -143,6 +133,11 @@
     "source": "lobsters",
     "url": "https://signal.org/blog/automatic-key-verification/",
     "title": "Introducing Automatic Key Verification"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://stallman.org/articles/on-hacking.html",
+    "title": "On Hacking"
   },
   {
     "source": "lobsters",
@@ -173,15 +168,5 @@
     "source": "lobsters",
     "url": "https://blogs.gnome.org/shell-dev/2026/08/11/gnome-shell-design-dreams/",
     "title": "GNOME Shell Design Dreams"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://laurent.le-brun.eu/blog/making-a-game-on-a-custom-bytecode-vm-in-7-days-and-3kb",
-    "title": "Making a game on a custom bytecode VM in 7 days and 3kB"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://punkx.org/jackdoe/home.html",
-    "title": "My Anti AI computer"
   }
 ]
