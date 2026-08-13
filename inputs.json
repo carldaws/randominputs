@@ -11,8 +11,8 @@
   },
   {
     "source": "hn",
-    "url": "https://adapt.com/blog/build-wide-ship-narrow",
-    "title": "Build Wide, Ship Narrow"
+    "url": "https://en.wikipedia.org/wiki/Antiqua%E2%80%93Fraktur_dispute",
+    "title": "Antiqua–Fraktur dispute"
   },
   {
     "source": "hn",
@@ -21,8 +21,8 @@
   },
   {
     "source": "hn",
-    "url": "https://repository.lib.ncsu.edu/items/451b001d-e63a-4968-866d-3fb3a599b1e7",
-    "title": "Probabilistic Estimation for Localizing a Radioactive Source in an Urban Setting"
+    "url": "https://adapt.com/blog/build-wide-ship-narrow",
+    "title": "Build Wide, Ship Narrow"
   },
   {
     "source": "hn",
@@ -36,8 +36,8 @@
   },
   {
     "source": "hn",
-    "url": "https://en.wikipedia.org/wiki/Antiqua%E2%80%93Fraktur_dispute",
-    "title": "Antiqua–Fraktur Dispute"
+    "url": "https://spillhistorie.no/2026/08/08/fra-gummistovler-til-copa-da-microprose-soccer-revolusjonerte-fotballen/",
+    "title": "From rubber boots to Copa: When MicroProse Soccer revolutionized football"
   },
   {
     "source": "hn",
@@ -46,13 +46,8 @@
   },
   {
     "source": "hn",
-    "url": "https://www.ballet.dev/",
-    "title": "Show HN: Ballet – Workflow automation that writes integrations against any API"
-  },
-  {
-    "source": "hn",
-    "url": "https://guillaumetech.github.io/posts/jpg-scaling-chrome/",
-    "title": "Why tiny JPEGs look different in Chrome"
+    "url": "https://corneroffifth.studio/why-cant-you-find-canned-sardines-right-now/",
+    "title": "Thanks to social media, canned sardines are a scarcity on the supermarket shelf"
   },
   {
     "source": "hn",
@@ -61,23 +56,23 @@
   },
   {
     "source": "hn",
-    "url": "https://corneroffifth.studio/why-cant-you-find-canned-sardines-right-now/",
-    "title": "Thanks to social media, canned sardines are a scarcity on the supermarket shelf"
+    "url": "https://guillaumetech.github.io/posts/jpg-scaling-chrome/",
+    "title": "Why tiny JPEGs look different in Chrome"
+  },
+  {
+    "source": "hn",
+    "url": "https://repository.lib.ncsu.edu/items/451b001d-e63a-4968-866d-3fb3a599b1e7",
+    "title": "Probabilistic Estimation for Localizing a Radioactive Source in an Urban Setting"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.ballet.dev/",
+    "title": "Show HN: Ballet – Workflow automation that writes integrations against any API"
   },
   {
     "source": "hn",
     "url": "https://blog.google/products-and-platforms/devices/pixel/pixel-watch-5/",
     "title": "Pixel Watch 5"
-  },
-  {
-    "source": "hn",
-    "url": "https://bengodfrey.dev/blog/process/",
-    "title": "Process as a Proxy for Motivation"
-  },
-  {
-    "source": "hn",
-    "url": "https://iagoleal.com/posts/dynamic-programming/",
-    "title": "A Tale of Dynamic Programming (2022)"
   },
   {
     "source": "hn",
@@ -91,13 +86,18 @@
   },
   {
     "source": "hn",
-    "url": "https://gowers.wordpress.com/2026/08/12/what-sort-of-maths-are-llms-good-at/",
-    "title": "What sort of maths are LLMs good at?"
+    "url": "https://bengodfrey.dev/blog/process/",
+    "title": "Process as a Proxy for Motivation"
   },
   {
     "source": "hn",
     "url": "https://woxi.ad-si.com",
     "title": "Show HN: Woxi - Open-source Mathematica / Wolfram Language reimplementation"
+  },
+  {
+    "source": "hn",
+    "url": "https://andrewpwheeler.com/2026/08/12/license-plate-reader-searches-should-require-a-warrant/",
+    "title": "License plate reader searches should require a warrant"
   },
   {
     "source": "lobsters",
@@ -106,13 +106,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://phunky.cafe/my-homelab-got-hacked/",
-    "title": "My Homelab Got Hacked - A Postmortem"
+    "url": "https://alan.norbauer.com/articles/github-stacks-with-jujutsu/",
+    "title": "GitHub Stacks in Jujutsu"
   },
   {
     "source": "lobsters",
-    "url": "https://alan.norbauer.com/articles/github-stacks-with-jujutsu/",
-    "title": "GitHub Stacks in Jujutsu"
+    "url": "https://phunky.cafe/my-homelab-got-hacked/",
+    "title": "My Homelab Got Hacked - A Postmortem"
   },
   {
     "source": "lobsters",
@@ -141,18 +141,18 @@
   },
   {
     "source": "lobsters",
+    "url": "https://brandur.org/fragments/postgres-without-pgbouncer",
+    "title": "Does anyone run Postgres without PgBouncer?"
+  },
+  {
+    "source": "lobsters",
     "url": "https://calnewport.com/on-ai-coding-and-its-discontents/",
     "title": "On AI Coding and Its Discontents"
   },
   {
     "source": "lobsters",
-    "url": "https://blogs.gnome.org/shell-dev/2026/08/11/gnome-shell-design-dreams/",
-    "title": "GNOME Shell Design Dreams"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://brandur.org/fragments/postgres-without-pgbouncer",
-    "title": "Does anyone run Postgres without PgBouncer?"
+    "url": "https://sebsite.pw/w/20260801-pythonconstants.html",
+    "title": "python's pre-declared constants are kinda weird"
   },
   {
     "source": "lobsters",
@@ -166,13 +166,18 @@
   },
   {
     "source": "lobsters",
-    "url": "https://blog.comma.ai/chestnut/",
-    "title": "Introducing chestnut"
+    "url": "https://blogs.gnome.org/shell-dev/2026/08/11/gnome-shell-design-dreams/",
+    "title": "GNOME Shell Design Dreams"
   },
   {
     "source": "lobsters",
     "url": "https://lithostech.com/2026/08/decrypting-flume-water-monitor-traffic/",
     "title": "Decrypting Flume Water Monitor Traffic"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://futhark-lang.org/blog/2026-08-12-flatmap.html",
+    "title": "How should Futhark expose irregular arrays to the programmer?"
   },
   {
     "source": "lobsters",
@@ -183,80 +188,5 @@
     "source": "lobsters",
     "url": "https://punkx.org/jackdoe/home.html",
     "title": "My Anti AI computer"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.noemamag.com/why-is-everyone-in-tech-so-sad/",
-    "title": "Why Is Everyone In Tech So Sad?"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://stowaway.live/",
-    "title": "Stowaway — Ride along with the planes and satellites overhead"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.andrewt.net/dithered-qr-codes/wtf/",
-    "title": "How to make error-diffused QR codes"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn/",
-    "title": "how i use llms to learn complex topics · laurentiu raducu"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://blog.senko.net/code-was-never-the-hard-part-is-an-insult-to-all-programmers",
-    "title": "\"Code was never the hard part\" is an insult to all programmers — Senko Rašić"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://kuber.studio/cookie/",
-    "title": "I didn't set a cookie."
-  },
-  {
-    "source": "pinboard",
-    "url": "https://seg6.space/posts/phone-server/",
-    "title": "my server is a phone now — seg6"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://danluu.com/pl-tokens/",
-    "title": "What's the best programming language for coding agents?"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://aftermath.site/ai-resistance-tips-workforce-llm-workers/",
-    "title": "Welcome To The Resistance: Meet The Workers Dodging (And Sabotaging) Their Employer's AI Mandates"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://openchamber.dev/",
-    "title": "OpenChamber"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://shopify.engineering/scaling-inventory-reservations",
-    "title": "We replaced Redis with MySQL for inventory reservations—and it scaled (2026) - Shopify"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://emeraldbook.org/news/aug-0426-5/",
-    "title": "How Baltimore Achieved Historically Low Homicides—With Less Police – Emerald Book"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://semi-rad.com/2026/08/do-it-14000-times-slower-with-this-one-trick/",
-    "title": "Do It 14,000 Times Slower With This One Trick – Semi-Rad.com"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://news.ycombinator.com/item?id=49246804",
-    "title": "show hn: needle2: 14mb agentic llm for phones, wearables, smart home and robots | hacker news"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://mjtsai.com/blog/2026/08/07/dark-hours-rejected-from-the-app-store/",
-    "title": "Michael Tsai - Blog - Dark Hours Rejected From the App Store"
   }
 ]
