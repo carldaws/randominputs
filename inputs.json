@@ -1,13 +1,13 @@
 [
   {
     "source": "hn",
-    "url": "https://tailscale.com/blog/sqlite-wal-reset-bug",
-    "title": "Tracking down the 16-year-old WAL-reset SQLite bug"
+    "url": "https://jdh.hamkins.org/the-lattice-of-sets-of-natural-numbers-is-rich/",
+    "title": "The lattice of sets of natural numbers is rich"
   },
   {
     "source": "hn",
-    "url": "https://phys.org/news/2026-08-qa-mushroom-tiny-people-hallucinations.html",
-    "title": "Mushroom behind 'tiny people' hallucinations identified"
+    "url": "https://tailscale.com/blog/sqlite-wal-reset-bug",
+    "title": "Tracking down the 16-year-old WAL-reset SQLite bug"
   },
   {
     "source": "hn",
@@ -26,13 +26,13 @@
   },
   {
     "source": "hn",
-    "url": "http://funcall.blogspot.com/2026/08/why-vibe-code-in-lisp.html",
-    "title": "Why Target Common Lisp for Code Generation?"
+    "url": "https://amiga-news.de/en/news/AN-2026-08-00070-EN.html",
+    "title": "Tim King, AmigaDOS developer, has died"
   },
   {
     "source": "hn",
-    "url": "https://amiga-news.de/en/news/AN-2026-08-00070-EN.html",
-    "title": "Tim King, AmigaDOS developer, has died"
+    "url": "http://funcall.blogspot.com/2026/08/why-vibe-code-in-lisp.html",
+    "title": "Why Target Common Lisp for Code Generation?"
   },
   {
     "source": "hn",
@@ -41,8 +41,18 @@
   },
   {
     "source": "hn",
-    "url": "https://spillhistorie.no/2026/08/08/fra-gummistovler-til-copa-da-microprose-soccer-revolusjonerte-fotballen/",
-    "title": "From rubber boots to Copa: When MicroProse Soccer revolutionized football"
+    "url": "https://phys.org/news/2026-08-qa-mushroom-tiny-people-hallucinations.html",
+    "title": "Mushroom behind 'tiny people' hallucinations identified"
+  },
+  {
+    "source": "hn",
+    "url": "https://penpot.app/blog/the-three-stroke-problem/",
+    "title": "The Three-Stroke Problem"
+  },
+  {
+    "source": "hn",
+    "url": "https://guillaumetech.github.io/posts/jpg-scaling-chrome/",
+    "title": "Why tiny JPEGs look different in Chrome"
   },
   {
     "source": "hn",
@@ -56,18 +66,8 @@
   },
   {
     "source": "hn",
-    "url": "https://guillaumetech.github.io/posts/jpg-scaling-chrome/",
-    "title": "Why tiny JPEGs look different in Chrome"
-  },
-  {
-    "source": "hn",
-    "url": "https://penpot.app/blog/the-three-stroke-problem/",
-    "title": "The Three-Stroke Problem"
-  },
-  {
-    "source": "hn",
-    "url": "https://adapt.com/blog/build-wide-ship-narrow",
-    "title": "Build Wide, Ship Narrow"
+    "url": "https://spillhistorie.no/2026/08/08/fra-gummistovler-til-copa-da-microprose-soccer-revolusjonerte-fotballen/",
+    "title": "From rubber boots to Copa: When MicroProse Soccer revolutionized football"
   },
   {
     "source": "hn",
@@ -76,13 +76,13 @@
   },
   {
     "source": "hn",
-    "url": "https://lovable.dev/blog/series-c",
-    "title": "Lovable raises $400M Series C"
+    "url": "https://adapt.com/blog/build-wide-ship-narrow",
+    "title": "Build Wide, Ship Narrow"
   },
   {
     "source": "hn",
-    "url": "https://repository.lib.ncsu.edu/items/451b001d-e63a-4968-866d-3fb3a599b1e7",
-    "title": "Locating an unknown source of radiation in a heterogeneous environment (2019)"
+    "url": "https://lovable.dev/blog/series-c",
+    "title": "Lovable raises $400M Series C"
   },
   {
     "source": "lobsters",
@@ -121,13 +121,18 @@
   },
   {
     "source": "lobsters",
+    "url": "https://var0.xyz/posts/mindful-coding-purpose-and-intention.html",
+    "title": "Mindful coding: Purpose and intention"
+  },
+  {
+    "source": "lobsters",
     "url": "https://linebender.org/blog/fearless-simd-0-7/",
     "title": "fearless_simd v0.7: 64-bit integers, improved generics, SSE2, and upcoming v1.0"
   },
   {
     "source": "lobsters",
-    "url": "https://var0.xyz/posts/mindful-coding-purpose-and-intention.html",
-    "title": "Mindful coding: Purpose and intention"
+    "url": "https://ohadravid.github.io/posts/2026-08-let-them-write-rfcs/",
+    "title": "Let Them Write RFCs"
   },
   {
     "source": "lobsters",
@@ -136,13 +141,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://stallman.org/articles/on-hacking.html",
-    "title": "On Hacking"
+    "url": "https://calnewport.com/on-ai-coding-and-its-discontents/",
+    "title": "On AI Coding and Its Discontents"
   },
   {
     "source": "lobsters",
-    "url": "https://calnewport.com/on-ai-coding-and-its-discontents/",
-    "title": "On AI Coding and Its Discontents"
+    "url": "https://stallman.org/articles/on-hacking.html",
+    "title": "On Hacking"
   },
   {
     "source": "lobsters",
@@ -158,15 +163,5 @@
     "source": "lobsters",
     "url": "https://lithostech.com/2026/08/decrypting-flume-water-monitor-traffic/",
     "title": "Decrypting Flume Water Monitor Traffic"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://www.sandordargo.com/blog/2026/08/12/cpp26-indirect",
-    "title": "C++26: std::indirect"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://blogs.gnome.org/shell-dev/2026/08/11/gnome-shell-design-dreams/",
-    "title": "GNOME Shell Design Dreams"
   }
 ]
