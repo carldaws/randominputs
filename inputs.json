@@ -36,28 +36,13 @@
   },
   {
     "source": "hn",
-    "url": "https://nicole.express/2026/more-like-idle-mahjong.html",
-    "title": "Idol Mahjong Final Romance: A Slideshow Disguised as a Video Game"
-  },
-  {
-    "source": "hn",
     "url": "https://earendil.com/posts/compaction-in-pi/",
     "title": "How Compaction Works in Pi"
   },
   {
     "source": "hn",
-    "url": "https://lrc.la.utexas.edu/eieol/tokol/0",
-    "title": "Tocharian Online"
-  },
-  {
-    "source": "hn",
-    "url": "https://deepseek.com/harness/en/",
-    "title": "DeepSeek Harness developer preview"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.codewithbullet.com",
-    "title": "Launch HN: Bullet (YC S26) – A Faster Coding Agent"
+    "url": "https://nicole.express/2026/more-like-idle-mahjong.html",
+    "title": "Idol Mahjong Final Romance: A Slideshow Disguised as a Video Game"
   },
   {
     "source": "hn",
@@ -66,8 +51,13 @@
   },
   {
     "source": "hn",
-    "url": "https://uniqueatpenn.wordpress.com/2026/08/05/come-for-eniac-stay-for-univac-and-skeduflo/",
-    "title": "Come for ENIAC, Stay for UNIVAC and Skeduflo"
+    "url": "https://lrc.la.utexas.edu/eieol/tokol/0",
+    "title": "Tocharian Online"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.codewithbullet.com",
+    "title": "Launch HN: Bullet (YC S26) – A Faster Coding Agent"
   },
   {
     "source": "hn",
@@ -76,8 +66,8 @@
   },
   {
     "source": "hn",
-    "url": "https://gloom.sh/",
-    "title": "Gloomberb"
+    "url": "https://deepseek.com/harness/en/",
+    "title": "DeepSeek Harness developer preview"
   },
   {
     "source": "hn",
@@ -86,23 +76,33 @@
   },
   {
     "source": "hn",
+    "url": "https://gloom.sh/",
+    "title": "Gloomberb"
+  },
+  {
+    "source": "hn",
+    "url": "https://uniqueatpenn.wordpress.com/2026/08/05/come-for-eniac-stay-for-univac-and-skeduflo/",
+    "title": "Come for ENIAC, Stay for UNIVAC and Skeduflo"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.forth.org/literature/noble.html",
+    "title": "Finite State Machines in Forth (1994)"
+  },
+  {
+    "source": "hn",
     "url": "https://alexmorleyfinch.github.io/marlin/history/v1/article/the_birth.html",
     "title": "I built a 500k-domain search engine for makers in a weekend for $10"
   },
   {
     "source": "hn",
-    "url": "https://aeon.co/essays/humans-did-not-invent-art-it-was-the-other-way-around",
-    "title": "How art invented humanity"
-  },
-  {
-    "source": "hn",
-    "url": "https://ordinaryabundance.com/",
-    "title": "Ordinary abundance"
-  },
-  {
-    "source": "hn",
     "url": "https://tschatzl.github.io/2026/08/10/jdk27-g1-serial-parallel-gc-changes.html",
     "title": "JDK 27 G1/Parallel/Serial GC Changes"
+  },
+  {
+    "source": "hn",
+    "url": "https://aeon.co/essays/humans-did-not-invent-art-it-was-the-other-way-around",
+    "title": "How art invented humanity"
   },
   {
     "source": "lobsters",
@@ -111,23 +111,23 @@
   },
   {
     "source": "lobsters",
-    "url": "http://eurozig.eu/",
-    "title": "EuroZig"
-  },
-  {
-    "source": "lobsters",
     "url": "https://domenkozar.com/2026/08/13/i-want-extern-fil-c/",
     "title": "I want extern \"fil-c\""
   },
   {
     "source": "lobsters",
-    "url": "https://alan.norbauer.com/articles/github-stacks-with-jujutsu/",
-    "title": "GitHub Stacks in Jujutsu"
+    "url": "http://eurozig.eu/",
+    "title": "EuroZig"
   },
   {
     "source": "lobsters",
     "url": "https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html",
     "title": "AI is removing the middle class of software engineering"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://alan.norbauer.com/articles/github-stacks-with-jujutsu/",
+    "title": "GitHub Stacks in Jujutsu"
   },
   {
     "source": "lobsters",
@@ -181,6 +181,11 @@
   },
   {
     "source": "lobsters",
+    "url": "https://svelte.dev/blog/sveltekit-3-release-candidate",
+    "title": "The SvelteKit 3 Release Candidate is here"
+  },
+  {
+    "source": "lobsters",
     "url": "https://hackmd.io/@s_haMSbyTAOWfoXc1aYNUg/Hka74gCwZg",
     "title": "A critical review of Xilem in 2026"
   },
@@ -190,8 +195,83 @@
     "title": "Digitizing super 8 film yourself"
   },
   {
-    "source": "lobsters",
+    "source": "pinboard",
+    "url": "https://stolen-thoughts.com/",
+    "title": "Stolen Thoughts: Stealing Reasoning Traces from Proprietary LLM APIs"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://stowaway.live/",
+    "title": "Stowaway — Ride along with the planes and satellites overhead"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.noemamag.com/why-is-everyone-in-tech-so-sad/",
+    "title": "Why Is Everyone In Tech So Sad?"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn/",
+    "title": "how i use llms to learn complex topics · laurentiu raducu"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://aresluna.org/the-hardest-working-font-in-manhattan/",
+    "title": "The hardest working font in Manhattan – Aresluna"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://tumbledry.org/2026/08/07/idrive_ads",
+    "title": "tumbledry.org: iDrive Ads"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://danluu.com/pl-tokens/",
+    "title": "What's the best programming language for coding agents?"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://sophiebits.com/2026/06/25/there-are-no-lossless-transformations-of-natural-language-text",
+    "title": "There are no lossless transformations of natural-language text – Sophie Alpert"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://yeptype.com/article/inter-alternatives",
+    "title": "How to choose a UI font (and 10 Inter alternatives)"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://arachnoid.com/lutusp/sailbook.html",
+    "title": "* Confessions of a Long-Distance Sailor"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://gowers.wordpress.com/2026/08/12/what-sort-of-maths-are-llms-good-at/",
+    "title": "What sort of maths are LLMs good at? | Gowers's Weblog"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://aftermath.site/ai-resistance-tips-workforce-llm-workers/",
+    "title": "Welcome To The Resistance: Meet The Workers Dodging (And Sabotaging) Their Employer's AI Mandates"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.404media.co/company-offering-100-human-written-never-ai-peer-review-is-entirely-ai/",
+    "title": "Company Offering ‘100% Human-Written, Never AI’ Medical Research Is Entirely AI"
+  },
+  {
+    "source": "pinboard",
     "url": "https://brettcodes.com/im-done-using-ai/",
-    "title": "I'm done using AI"
+    "title": "I'm done using AI – Brett Codes"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://calnewport.com/on-ai-coding-and-its-discontents/",
+    "title": "On AI Coding and Its Discontents - Cal Newport"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://emeraldbook.org/news/aug-0426-5/",
+    "title": "How Baltimore Achieved Historically Low Homicides—With Less Police – Emerald Book"
   }
 ]
