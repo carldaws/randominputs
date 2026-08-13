@@ -6,6 +6,21 @@
   },
   {
     "source": "hn",
+    "url": "https://okmij.org/ftp/Computation/Impressions/PrincipiaMathematica.html",
+    "title": "Principia Mathematica is modern and insightful"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.ballet.dev/",
+    "title": "Show HN: Ballet – Workflow automation that writes integrations against any API"
+  },
+  {
+    "source": "hn",
+    "url": "http://funcall.blogspot.com/2026/08/why-vibe-code-in-lisp.html",
+    "title": "Why Target Common Lisp for Code Generation?"
+  },
+  {
+    "source": "hn",
     "url": "https://jonty.github.io/2026_eclipse_webcams/",
     "title": "2026 Eclipse Webcams"
   },
@@ -16,8 +31,8 @@
   },
   {
     "source": "hn",
-    "url": "https://knownagents.com/insights",
-    "title": "Someone is running mass vulnerability scans, spoofing AI bots like ClaudeBot"
+    "url": "https://adapt.com/blog/build-wide-ship-narrow",
+    "title": "Build Wide, Ship Narrow"
   },
   {
     "source": "hn",
@@ -26,13 +41,13 @@
   },
   {
     "source": "hn",
-    "url": "https://iagoleal.com/posts/dynamic-programming/",
-    "title": "A Tale of Dynamic Programming (2022)"
+    "url": "https://guillaumetech.github.io/posts/jpg-scaling-chrome/",
+    "title": "Why tiny JPEGs look different in Chrome"
   },
   {
     "source": "hn",
-    "url": "https://guillaumetech.github.io/posts/jpg-scaling-chrome/",
-    "title": "Why tiny JPEGs look different in Chrome"
+    "url": "https://knownagents.com/insights",
+    "title": "Someone is running mass vulnerability scans, spoofing AI bots like ClaudeBot"
   },
   {
     "source": "hn",
@@ -41,33 +56,28 @@
   },
   {
     "source": "hn",
-    "url": "http://funcall.blogspot.com/2026/08/why-vibe-code-in-lisp.html",
-    "title": "Why Target Common Lisp for Code Generation?"
+    "url": "https://bengodfrey.dev/blog/process/",
+    "title": "Process as a Proxy for Motivation"
   },
   {
     "source": "hn",
-    "url": "https://aaas-marketplace-1089237826218.asia-northeast1.run.app",
-    "title": "Show HN: A marketplace where AI agents buy services from AI agents"
+    "url": "https://iagoleal.com/posts/dynamic-programming/",
+    "title": "A Tale of Dynamic Programming (2022)"
   },
   {
     "source": "hn",
-    "url": "https://www.historytoday.com/archive/review/cheese-and-worms-carlo-ginzburg-review",
-    "title": "'The Cheese and the Worms' by Carlo Ginzburg Review"
-  },
-  {
-    "source": "hn",
-    "url": "https://timer.jotaen.net",
-    "title": "Show HN: Programmable timer web app (for gym workouts or stretching sessions)"
-  },
-  {
-    "source": "hn",
-    "url": "https://artificialanalysis.ai/articles/grok-4-6-benchmarks-and-analysis",
-    "title": "Grok 4.6 scores 61 on the Artificial Analysis Intelligence Index"
+    "url": "https://yogthos.net/posts/2026-08-07-portable-jolt.html",
+    "title": "Program images and portable Scheme back ends for Jolt"
   },
   {
     "source": "hn",
     "url": "https://bipluk.com/",
     "title": "I built a browser-native SysEx librarian for 80s/90s synthesizers"
+  },
+  {
+    "source": "hn",
+    "url": "https://artificialanalysis.ai/articles/grok-4-6-benchmarks-and-analysis",
+    "title": "Grok 4.6 scores 61 on the Artificial Analysis Intelligence Index"
   },
   {
     "source": "hn",
@@ -80,34 +90,19 @@
     "title": "AI is removing the middle class of software engineering?"
   },
   {
-    "source": "hn",
-    "url": "https://andrewpwheeler.com/2026/08/12/license-plate-reader-searches-should-require-a-warrant/",
-    "title": "License plate reader searches should require a warrant"
-  },
-  {
-    "source": "hn",
-    "url": "https://blog.google/products-and-platforms/devices/pixel/pixel-11-pro-fold/",
-    "title": "Pixel 11 Pro Fold"
-  },
-  {
-    "source": "hn",
-    "url": "https://gowers.wordpress.com/2026/08/12/what-sort-of-maths-are-llms-good-at/",
-    "title": "What sort of maths are LLMs good at?"
-  },
-  {
     "source": "lobsters",
     "url": "https://getfresh.dev/docs/blog/packaging-for-linux/",
     "title": "I hate packaging my software for Linux"
   },
   {
     "source": "lobsters",
-    "url": "https://brettcodes.com/im-done-using-ai/",
-    "title": "I'm done using AI"
+    "url": "https://phunky.cafe/my-homelab-got-hacked/",
+    "title": "My Homelab Got Hacked - A Postmortem"
   },
   {
     "source": "lobsters",
-    "url": "https://phunky.cafe/my-homelab-got-hacked/",
-    "title": "My Homelab Got Hacked - A Postmortem"
+    "url": "https://brettcodes.com/im-done-using-ai/",
+    "title": "I'm done using AI"
   },
   {
     "source": "lobsters",
@@ -146,6 +141,11 @@
   },
   {
     "source": "lobsters",
+    "url": "https://alan.norbauer.com/articles/github-stacks-with-jujutsu/",
+    "title": "GitHub Stacks in Jujutsu"
+  },
+  {
+    "source": "lobsters",
     "url": "https://committing-crimes.com/articles/2026-08-04-java-nameof",
     "title": "Hacking in the 'nameOf'"
   },
@@ -156,22 +156,17 @@
   },
   {
     "source": "lobsters",
-    "url": "https://laurent.le-brun.eu/blog/making-a-game-on-a-custom-bytecode-vm-in-7-days-and-3kb",
-    "title": "Making a game on a custom bytecode VM in 7 days and 3kB"
-  },
-  {
-    "source": "lobsters",
     "url": "https://lithostech.com/2026/08/decrypting-flume-water-monitor-traffic/",
     "title": "Decrypting Flume Water Monitor Traffic"
   },
   {
     "source": "lobsters",
-    "url": "https://blog.himanshuanand.com/2026/08/i-found-a-kvm-guest-to-host-heap-corruption-bug-and-someone-else-got-there-first/",
-    "title": "I found a KVM guest-to-host heap corruption bug and someone else got there first"
+    "url": "https://laurent.le-brun.eu/blog/making-a-game-on-a-custom-bytecode-vm-in-7-days-and-3kb",
+    "title": "Making a game on a custom bytecode VM in 7 days and 3kB"
   },
   {
     "source": "lobsters",
-    "url": "https://typesanitizer.com/blog/code-review.html",
-    "title": "Reviewing code is a skill"
+    "url": "https://blog.himanshuanand.com/2026/08/i-found-a-kvm-guest-to-host-heap-corruption-bug-and-someone-else-got-there-first/",
+    "title": "I found a KVM guest-to-host heap corruption bug and someone else got there first"
   }
 ]
