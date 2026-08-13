@@ -16,18 +16,28 @@
   },
   {
     "source": "hn",
-    "url": "https://donkeybas.com/",
-    "title": "Donkey.bas is 45 Years Old – 131 line of Glory"
-  },
-  {
-    "source": "hn",
     "url": "https://www.geoffreylitt.com/2026/07/02/understanding-is-the-new-bottleneck",
     "title": "Understanding is the new bottleneck"
   },
   {
     "source": "hn",
+    "url": "https://donkeybas.com/",
+    "title": "Donkey.bas is 45 Years Old – 131 line of Glory"
+  },
+  {
+    "source": "hn",
+    "url": "https://deepseek.com/harness/en/",
+    "title": "DeepSeek Harness developer preview"
+  },
+  {
+    "source": "hn",
     "url": "https://mcfunley.com/choose-boring-technology",
     "title": "Choose Boring Technology (2015)"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.forth.org/literature/noble.html",
+    "title": "Finite State Machines in Forth (1994)"
   },
   {
     "source": "hn",
@@ -41,23 +51,13 @@
   },
   {
     "source": "hn",
-    "url": "https://nicole.express/2026/more-like-idle-mahjong.html",
-    "title": "Idol Mahjong Final Romance: A Slideshow Disguised as a Video Game"
-  },
-  {
-    "source": "hn",
     "url": "https://nick.zoic.org/art/smooth-move-taming-trajectories-with-polynomials/",
     "title": "Smooth Move: Taming Trajectories with Polynomials"
   },
   {
     "source": "hn",
-    "url": "https://lrc.la.utexas.edu/eieol/tokol/0",
-    "title": "Tocharian Online"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.codewithbullet.com",
-    "title": "Launch HN: Bullet (YC S26) – A Faster Coding Agent"
+    "url": "https://nicole.express/2026/more-like-idle-mahjong.html",
+    "title": "Idol Mahjong Final Romance: A Slideshow Disguised as a Video Game"
   },
   {
     "source": "hn",
@@ -66,8 +66,13 @@
   },
   {
     "source": "hn",
-    "url": "https://deepseek.com/harness/en/",
-    "title": "DeepSeek Harness developer preview"
+    "url": "https://www.codewithbullet.com",
+    "title": "Launch HN: Bullet (YC S26) – A Faster Coding Agent"
+  },
+  {
+    "source": "hn",
+    "url": "https://lrc.la.utexas.edu/eieol/tokol/0",
+    "title": "Tocharian Online"
   },
   {
     "source": "hn",
@@ -76,33 +81,28 @@
   },
   {
     "source": "hn",
+    "url": "https://ordinaryabundance.com/",
+    "title": "Ordinary abundance"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.seangoedecke.com/text-ai-watermarks/",
+    "title": "Text AI watermarks will always be trivial to remove"
+  },
+  {
+    "source": "hn",
     "url": "https://gloom.sh/",
     "title": "Gloomberb"
   },
   {
     "source": "hn",
-    "url": "https://uniqueatpenn.wordpress.com/2026/08/05/come-for-eniac-stay-for-univac-and-skeduflo/",
-    "title": "Come for ENIAC, Stay for UNIVAC and Skeduflo"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.forth.org/literature/noble.html",
-    "title": "Finite State Machines in Forth (1994)"
-  },
-  {
-    "source": "hn",
-    "url": "https://alexmorleyfinch.github.io/marlin/history/v1/article/the_birth.html",
-    "title": "I built a 500k-domain search engine for makers in a weekend for $10"
+    "url": "https://aeon.co/essays/humans-did-not-invent-art-it-was-the-other-way-around",
+    "title": "How art invented humanity"
   },
   {
     "source": "hn",
     "url": "https://tschatzl.github.io/2026/08/10/jdk27-g1-serial-parallel-gc-changes.html",
     "title": "JDK 27 G1/Parallel/Serial GC Changes"
-  },
-  {
-    "source": "hn",
-    "url": "https://aeon.co/essays/humans-did-not-invent-art-it-was-the-other-way-around",
-    "title": "How art invented humanity"
   },
   {
     "source": "lobsters",
@@ -161,6 +161,16 @@
   },
   {
     "source": "lobsters",
+    "url": "https://ohadravid.github.io/posts/2026-08-let-them-write-rfcs/",
+    "title": "Let Them Write RFCs"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://svelte.dev/blog/sveltekit-3-release-candidate",
+    "title": "The SvelteKit 3 Release Candidate is here"
+  },
+  {
+    "source": "lobsters",
     "url": "http://funcall.blogspot.com/2026/08/why-vibe-code-in-lisp.html",
     "title": "Why vibe code in Lisp?"
   },
@@ -171,18 +181,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://ohadravid.github.io/posts/2026-08-let-them-write-rfcs/",
-    "title": "Let Them Write RFCs"
-  },
-  {
-    "source": "lobsters",
     "url": "https://a.security/blog/asecurity-zoomsday",
     "title": "ZOOMSDAY, Zoom Zero-Click Vulnerabilities Via Annotation"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://svelte.dev/blog/sveltekit-3-release-candidate",
-    "title": "The SvelteKit 3 Release Candidate is here"
   },
   {
     "source": "lobsters",
@@ -193,85 +193,5 @@
     "source": "lobsters",
     "url": "https://nibblestew.blogspot.com/2026/08/digitizing-super-8-film-yourself.html",
     "title": "Digitizing super 8 film yourself"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://stolen-thoughts.com/",
-    "title": "Stolen Thoughts: Stealing Reasoning Traces from Proprietary LLM APIs"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://stowaway.live/",
-    "title": "Stowaway — Ride along with the planes and satellites overhead"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.noemamag.com/why-is-everyone-in-tech-so-sad/",
-    "title": "Why Is Everyone In Tech So Sad?"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn/",
-    "title": "how i use llms to learn complex topics · laurentiu raducu"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://aresluna.org/the-hardest-working-font-in-manhattan/",
-    "title": "The hardest working font in Manhattan – Aresluna"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://tumbledry.org/2026/08/07/idrive_ads",
-    "title": "tumbledry.org: iDrive Ads"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://danluu.com/pl-tokens/",
-    "title": "What's the best programming language for coding agents?"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://sophiebits.com/2026/06/25/there-are-no-lossless-transformations-of-natural-language-text",
-    "title": "There are no lossless transformations of natural-language text – Sophie Alpert"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://yeptype.com/article/inter-alternatives",
-    "title": "How to choose a UI font (and 10 Inter alternatives)"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://arachnoid.com/lutusp/sailbook.html",
-    "title": "* Confessions of a Long-Distance Sailor"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://gowers.wordpress.com/2026/08/12/what-sort-of-maths-are-llms-good-at/",
-    "title": "What sort of maths are LLMs good at? | Gowers's Weblog"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://aftermath.site/ai-resistance-tips-workforce-llm-workers/",
-    "title": "Welcome To The Resistance: Meet The Workers Dodging (And Sabotaging) Their Employer's AI Mandates"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.404media.co/company-offering-100-human-written-never-ai-peer-review-is-entirely-ai/",
-    "title": "Company Offering ‘100% Human-Written, Never AI’ Medical Research Is Entirely AI"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://brettcodes.com/im-done-using-ai/",
-    "title": "I'm done using AI – Brett Codes"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://calnewport.com/on-ai-coding-and-its-discontents/",
-    "title": "On AI Coding and Its Discontents - Cal Newport"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://emeraldbook.org/news/aug-0426-5/",
-    "title": "How Baltimore Achieved Historically Low Homicides—With Less Police – Emerald Book"
   }
 ]
