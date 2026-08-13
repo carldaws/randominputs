@@ -1,13 +1,28 @@
 [
   {
     "source": "hn",
-    "url": "https://www.netlify.com/blog/one-prompt-11-models-very-different-results/",
-    "title": "Choosing an AI model: one prompt, 11 models, different results"
+    "url": "https://gloom.sh/",
+    "title": "Gloomberb"
+  },
+  {
+    "source": "hn",
+    "url": "https://alexmorleyfinch.github.io/marlin/history/v1/article/the_birth.html",
+    "title": "I Built a 500k-Domain Search Engine for Makers in a Weekend for $10"
   },
   {
     "source": "hn",
     "url": "https://leancrew.com/all-this/2026/08/my-rules-for-using-spreadsheets/",
     "title": "My Rules for Using Spreadsheets"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.wired.com/story/mcdonalds-built-a-515-page-dossier-on-me-it-says-ill-never-leave/",
+    "title": "McDonald's Built a 515-Page Dossier on Me. It Says I'll Never Stop Eating There"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.codewithbullet.com",
+    "title": "Launch HN: Bullet (YC S26) – A Faster Coding Agent"
   },
   {
     "source": "hn",
@@ -21,8 +36,18 @@
   },
   {
     "source": "hn",
-    "url": "https://tailscale.com/blog/sqlite-wal-reset-bug",
-    "title": "Tracking down the 16-year-old WAL-reset SQLite bug"
+    "url": "https://www.netlify.com/blog/one-prompt-11-models-very-different-results/",
+    "title": "Choosing an AI model: one prompt, 11 models, different results"
+  },
+  {
+    "source": "hn",
+    "url": "https://tlakoba.w3.uvm.edu/AppliedUGMath/auxpaper_rainbow_glory_review.pdf",
+    "title": "The mathematical physics of rainbows and glories(2001) [pdf]"
+  },
+  {
+    "source": "hn",
+    "url": "https://opscode.io/posts/ptp-grandmaster-cm4-sr1723u10/",
+    "title": "Build a Stratum 1 PTP Grandmaster on a Budget"
   },
   {
     "source": "hn",
@@ -31,38 +56,8 @@
   },
   {
     "source": "hn",
-    "url": "https://shivanshuag.com/blog/what-garbage-collection-actually-costs/",
-    "title": "What Garbage Collection Costs"
-  },
-  {
-    "source": "hn",
-    "url": "https://uniqueatpenn.wordpress.com/2026/08/05/come-for-eniac-stay-for-univac-and-skeduflo/",
-    "title": "Come for Eniac, Stay for Univac and Skeduflo"
-  },
-  {
-    "source": "hn",
-    "url": "https://en.wikipedia.org/wiki/Antiqua%E2%80%93Fraktur_dispute",
-    "title": "Antiqua–Fraktur dispute"
-  },
-  {
-    "source": "hn",
-    "url": "https://phys.org/news/2026-08-qa-mushroom-tiny-people-hallucinations.html",
-    "title": "Mushroom behind 'tiny people' hallucinations identified"
-  },
-  {
-    "source": "hn",
-    "url": "https://jonty.github.io/2026_eclipse_webcams/",
-    "title": "2026 Eclipse Webcams"
-  },
-  {
-    "source": "hn",
-    "url": "https://phys.org/news/2026-08-rapid-atlantic-circulation-2c-slower.html",
-    "title": "Rapid warming may tip AMOC at 2°C, slower warming may avert collapse"
-  },
-  {
-    "source": "hn",
-    "url": "https://amiga-news.de/en/news/AN-2026-08-00070-EN.html",
-    "title": "Tim King, AmigaDOS developer, has died"
+    "url": "https://www.seangoedecke.com/text-ai-watermarks/",
+    "title": "Text AI watermarks will always be trivial to remove"
   },
   {
     "source": "lobsters",
@@ -86,8 +81,18 @@
   },
   {
     "source": "lobsters",
+    "url": "https://tailscale.com/blog/sqlite-wal-reset-bug",
+    "title": "How Tailscale helped find the SQLite WAL-Reset bug"
+  },
+  {
+    "source": "lobsters",
     "url": "https://phunky.cafe/my-homelab-got-hacked/",
     "title": "My Homelab Got Hacked - A Postmortem"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://stallman.org/articles/on-hacking.html",
+    "title": "On Hacking"
   },
   {
     "source": "lobsters",
@@ -106,18 +111,18 @@
   },
   {
     "source": "lobsters",
-    "url": "https://nibblestew.blogspot.com/2026/08/digitizing-super-8-film-yourself.html",
-    "title": "Digitizing super 8 film yourself"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://stallman.org/articles/on-hacking.html",
-    "title": "On Hacking"
-  },
-  {
-    "source": "lobsters",
     "url": "https://var0.xyz/posts/mindful-coding-purpose-and-intention.html",
     "title": "Mindful coding: Purpose and intention"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://ohadravid.github.io/posts/2026-08-let-them-write-rfcs/",
+    "title": "Let Them Write RFCs"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://nibblestew.blogspot.com/2026/08/digitizing-super-8-film-yourself.html",
+    "title": "Digitizing super 8 film yourself"
   },
   {
     "source": "lobsters",
@@ -126,18 +131,18 @@
   },
   {
     "source": "lobsters",
+    "url": "https://futhark-lang.org/blog/2026-08-12-flatmap.html",
+    "title": "How should Futhark expose irregular arrays to the programmer?"
+  },
+  {
+    "source": "lobsters",
     "url": "https://linebender.org/blog/fearless-simd-0-7/",
     "title": "fearless_simd v0.7: 64-bit integers, improved generics, SSE2, and upcoming v1.0"
   },
   {
     "source": "lobsters",
-    "url": "https://signal.org/blog/automatic-key-verification/",
-    "title": "Introducing Automatic Key Verification"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://futhark-lang.org/blog/2026-08-12-flatmap.html",
-    "title": "How should Futhark expose irregular arrays to the programmer?"
+    "url": "https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html",
+    "title": "AI is removing the middle class of software engineering"
   },
   {
     "source": "lobsters",
@@ -146,8 +151,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://committing-crimes.com/articles/2026-08-04-java-nameof",
-    "title": "Hacking in the 'nameOf'"
+    "url": "https://signal.org/blog/automatic-key-verification/",
+    "title": "Introducing Automatic Key Verification"
   },
   {
     "source": "pinboard",
@@ -173,11 +178,6 @@
     "source": "pinboard",
     "url": "https://aresluna.org/the-hardest-working-font-in-manhattan/",
     "title": "The hardest working font in Manhattan – Aresluna"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html",
-    "title": "AI is removing the middle class of software engineering"
   },
   {
     "source": "pinboard",
