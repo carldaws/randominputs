@@ -1,11 +1,6 @@
 [
   {
     "source": "hn",
-    "url": "https://atproto.com/blog/introducing-bluesky-protocol-services",
-    "title": "Bluesky Protocol Services"
-  },
-  {
-    "source": "hn",
     "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/",
     "title": "Gemini 3.7 Flash"
   },
@@ -16,18 +11,8 @@
   },
   {
     "source": "hn",
-    "url": "https://gruhn.me/blog/2026-08-13/",
-    "title": "NP-Overrated"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.geoffreylitt.com/2026/07/02/understanding-is-the-new-bottleneck",
-    "title": "Understanding is the new bottleneck"
-  },
-  {
-    "source": "hn",
-    "url": "https://donkeybas.com/",
-    "title": "Donkey.bas is 45 Years Old – 131 line of Glory"
+    "url": "https://atproto.com/blog/introducing-bluesky-protocol-services",
+    "title": "Bluesky Protocol Services"
   },
   {
     "source": "hn",
@@ -36,13 +21,33 @@
   },
   {
     "source": "hn",
+    "url": "https://themech.net/2026/08/hello-me-its-been-a-while/",
+    "title": "Hello, me. It's been a while"
+  },
+  {
+    "source": "hn",
     "url": "https://mcfunley.com/choose-boring-technology",
     "title": "Choose Boring Technology (2015)"
   },
   {
     "source": "hn",
-    "url": "https://blog.dundns.eu/posts/ddr-encrypted-dns-discovery/",
-    "title": "How a device finds encrypted DNS by itself"
+    "url": "https://www.geoffreylitt.com/2026/07/02/understanding-is-the-new-bottleneck",
+    "title": "Understanding is the new bottleneck"
+  },
+  {
+    "source": "hn",
+    "url": "https://gruhn.me/blog/2026-08-13/",
+    "title": "NP-overrated"
+  },
+  {
+    "source": "hn",
+    "url": "https://donkeybas.com/",
+    "title": "Donkey.bas is 45 Years Old – 131 line of Glory"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.seangoedecke.com/blog-about-things-you-dont-understand-yet/",
+    "title": "Blog about things you don't understand yet"
   },
   {
     "source": "hn",
@@ -61,38 +66,13 @@
   },
   {
     "source": "hn",
-    "url": "https://domenkozar.com/2026/08/13/i-want-extern-fil-c/",
-    "title": "I want extern \"fil-C\""
+    "url": "https://sebsite.pw/w/20260810-c89ambiguity.html",
+    "title": "An ambiguity in c89 which will never be fixed"
   },
   {
     "source": "hn",
-    "url": "https://szha.ai/blog/compute-optimal-is-not-cluster-optimal/",
-    "title": "Compute-Optimal Is Not Cluster-Optimal"
-  },
-  {
-    "source": "hn",
-    "url": "https://themech.net/2026/08/hello-me-its-been-a-while/",
-    "title": "Hello, me. It's been a while"
-  },
-  {
-    "source": "hn",
-    "url": "https://nick.zoic.org/art/smooth-move-taming-trajectories-with-polynomials/",
-    "title": "Smooth Move: Taming Trajectories with Polynomials"
-  },
-  {
-    "source": "hn",
-    "url": "https://nicole.express/2026/more-like-idle-mahjong.html",
-    "title": "Idol Mahjong Final Romance: A Slideshow Disguised as a Video Game"
-  },
-  {
-    "source": "hn",
-    "url": "https://jdagostino.github.io/ai-pt1-box-o-scraps/index.html",
-    "title": "AI At Home Part 1: A Box Of Scraps"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.codewithbullet.com",
-    "title": "Launch HN: Bullet (YC S26) – A Faster Coding Agent"
+    "url": "https://blog.dundns.eu/posts/ddr-encrypted-dns-discovery/",
+    "title": "How a device finds encrypted DNS by itself"
   },
   {
     "source": "hn",
@@ -101,8 +81,23 @@
   },
   {
     "source": "hn",
-    "url": "https://www.seangoedecke.com/text-ai-watermarks/",
-    "title": "Text AI watermarks will always be trivial to remove"
+    "url": "https://domenkozar.com/2026/08/13/i-want-extern-fil-c/",
+    "title": "I want extern \"fil-C\""
+  },
+  {
+    "source": "hn",
+    "url": "https://www.codewithbullet.com",
+    "title": "Launch HN: Bullet (YC S26) – A Faster Coding Agent"
+  },
+  {
+    "source": "hn",
+    "url": "https://jdagostino.github.io/ai-pt1-box-o-scraps/index.html",
+    "title": "AI At Home Part 1: A Box Of Scraps"
+  },
+  {
+    "source": "hn",
+    "url": "https://nicole.express/2026/more-like-idle-mahjong.html",
+    "title": "Idol Mahjong Final Romance: A Slideshow Disguised as a Video Game"
   },
   {
     "source": "lobsters",
@@ -126,6 +121,11 @@
   },
   {
     "source": "lobsters",
+    "url": "https://www.simplermachines.com/lets-not-call-it-tech-debt-its-just-mess/",
+    "title": "Let's not call it \"tech debt,\" it's just \"mess\""
+  },
+  {
+    "source": "lobsters",
     "url": "https://brandur.org/fragments/postgres-without-pgbouncer",
     "title": "Does anyone run Postgres without PgBouncer?"
   },
@@ -141,23 +141,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://getfresh.dev/docs/blog/packaging-for-linux/",
-    "title": "I hate packaging my software for Linux"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://www.simplermachines.com/lets-not-call-it-tech-debt-its-just-mess/",
-    "title": "Let's not call it \"tech debt,\" it's just \"mess\""
-  },
-  {
-    "source": "lobsters",
     "url": "https://ohadravid.github.io/posts/2026-08-let-them-write-rfcs/",
     "title": "Let Them Write RFCs"
   },
   {
     "source": "lobsters",
-    "url": "https://phunky.cafe/my-homelab-got-hacked/",
-    "title": "My Homelab Got Hacked - A Postmortem"
+    "url": "https://getfresh.dev/docs/blog/packaging-for-linux/",
+    "title": "I hate packaging my software for Linux"
   },
   {
     "source": "lobsters",
@@ -166,13 +156,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://stallman.org/articles/on-hacking.html",
-    "title": "On Hacking"
+    "url": "https://newsletter.vickiboykis.com/archive/write-for-people/",
+    "title": "Write for people"
   },
   {
     "source": "lobsters",
-    "url": "http://funcall.blogspot.com/2026/08/why-vibe-code-in-lisp.html",
-    "title": "Why vibe code in Lisp?"
+    "url": "https://stallman.org/articles/on-hacking.html",
+    "title": "On Hacking"
   },
   {
     "source": "lobsters",
@@ -181,7 +171,12 @@
   },
   {
     "source": "lobsters",
-    "url": "https://a.security/blog/asecurity-zoomsday",
-    "title": "ZOOMSDAY, Zoom Zero-Click Vulnerabilities Via Annotation"
+    "url": "https://phunky.cafe/my-homelab-got-hacked/",
+    "title": "My Homelab Got Hacked - A Postmortem"
+  },
+  {
+    "source": "lobsters",
+    "url": "http://funcall.blogspot.com/2026/08/why-vibe-code-in-lisp.html",
+    "title": "Why vibe code in Lisp?"
   }
 ]
