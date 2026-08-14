@@ -11,11 +11,6 @@
   },
   {
     "source": "hn",
-    "url": "https://www.domenkozar.com/2026/08/13/i-want-extern-fil-c/",
-    "title": "I want extern \"fil-C\""
-  },
-  {
-    "source": "hn",
     "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/",
     "title": "Gemini 3.7 Flash"
   },
@@ -31,8 +26,8 @@
   },
   {
     "source": "hn",
-    "url": "https://mun-logadan.github.io/why-does-opus-5-feel-worse/",
-    "title": "Why does Opus 5 feel worse to work with?"
+    "url": "https://www.iroh.computer/blog/authenticated-relays",
+    "title": "Protect Your Relays"
   },
   {
     "source": "hn",
@@ -51,6 +46,11 @@
   },
   {
     "source": "hn",
+    "url": "https://claytonwramsey.com/blog/mvt/",
+    "title": "We're not done with point clouds"
+  },
+  {
+    "source": "hn",
     "url": "https://mcfunley.com/choose-boring-technology",
     "title": "Choose Boring Technology (2015)"
   },
@@ -61,8 +61,8 @@
   },
   {
     "source": "hn",
-    "url": "https://claytonwramsey.com/blog/mvt/",
-    "title": "We're not done with point clouds"
+    "url": "https://mun-logadan.github.io/why-does-opus-5-feel-worse/",
+    "title": "Why does Opus 5 feel worse to work with?"
   },
   {
     "source": "hn",
@@ -71,23 +71,18 @@
   },
   {
     "source": "hn",
-    "url": "https://www.historytoday.com/archive/feature/library-ashurbanipal",
-    "title": "The Library of Ashurbanipal (2025)"
-  },
-  {
-    "source": "hn",
     "url": "https://www.seangoedecke.com/blog-about-things-you-dont-understand-yet/",
     "title": "Blog about things you don't understand yet"
   },
   {
     "source": "hn",
-    "url": "https://cdn.openai.com/pdf/how-organizations-use-chatgpt.pdf",
-    "title": "How Organizations Use AI: Evidence from ChatGPT [pdf]"
+    "url": "https://www.historytoday.com/archive/feature/library-ashurbanipal",
+    "title": "The Library of Ashurbanipal (2025)"
   },
   {
     "source": "hn",
-    "url": "https://gruhn.me/blog/2026-08-13/",
-    "title": "NP-overrated"
+    "url": "https://cdn.openai.com/pdf/how-organizations-use-chatgpt.pdf",
+    "title": "How Organizations Use AI: Evidence from ChatGPT [pdf]"
   },
   {
     "source": "lobsters",
@@ -96,13 +91,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://sebsite.pw/w/20260801-pythonconstants.html",
-    "title": "python's pre-declared constants are kinda weird"
+    "url": "https://www.simplermachines.com/lets-not-call-it-tech-debt-its-just-mess/",
+    "title": "Let's not call it \"tech debt,\" it's just \"mess\""
   },
   {
     "source": "lobsters",
-    "url": "https://www.simplermachines.com/lets-not-call-it-tech-debt-its-just-mess/",
-    "title": "Let's not call it \"tech debt,\" it's just \"mess\""
+    "url": "https://sebsite.pw/w/20260801-pythonconstants.html",
+    "title": "python's pre-declared constants are kinda weird"
   },
   {
     "source": "lobsters",
@@ -121,6 +116,11 @@
   },
   {
     "source": "lobsters",
+    "url": "https://neugierig.org/software/blog/2026/08/dominators.html",
+    "title": "Computing graph dominators"
+  },
+  {
+    "source": "lobsters",
     "url": "https://alan.norbauer.com/articles/github-stacks-with-jujutsu/",
     "title": "GitHub Stacks in Jujutsu"
   },
@@ -128,6 +128,11 @@
     "source": "lobsters",
     "url": "https://c3-lang.org/blog/c3_0_8_3_feature_flags/",
     "title": "C3 0.8.3 Feature flags"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://ohadravid.github.io/posts/2026-08-let-them-write-rfcs/",
+    "title": "Let Them Write RFCs"
   },
   {
     "source": "lobsters",
@@ -143,11 +148,6 @@
     "source": "lobsters",
     "url": "https://byroot.github.io/ruby/performance/2026/08/13/speeding-up-ruby-hashes.html",
     "title": "Speeding Up (small) Ruby Hashes"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://ohadravid.github.io/posts/2026-08-let-them-write-rfcs/",
-    "title": "Let Them Write RFCs"
   },
   {
     "source": "lobsters",
