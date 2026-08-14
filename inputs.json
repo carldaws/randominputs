@@ -11,13 +11,13 @@
   },
   {
     "source": "hn",
-    "url": "https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/",
-    "title": "Google is making private AI practical with homomorphic encryption"
+    "url": "https://z.ai/blog/glm-5.3",
+    "title": "GLM-5.3: Frontier coding with emergent cyber capabilities"
   },
   {
     "source": "hn",
-    "url": "https://z.ai/blog/glm-5.3",
-    "title": "GLM-5.3: Frontier coding with emergent cyber capabilities"
+    "url": "https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/",
+    "title": "Google is making private AI practical with homomorphic encryption"
   },
   {
     "source": "hn",
@@ -26,8 +26,8 @@
   },
   {
     "source": "hn",
-    "url": "https://uvbirds.com/",
-    "title": "Ultraviolet Bird Photography"
+    "url": "https://www-cdn.anthropic.com/f61d49fa5596956a5dec75fea0e973bf6a6a8378/Redacted%20Risk%20Report%20August%202026%20.pdf",
+    "title": "Anthropic Risk August 2026 [pdf]"
   },
   {
     "source": "hn",
@@ -41,13 +41,8 @@
   },
   {
     "source": "hn",
-    "url": "https://cvd.z.ai",
-    "title": "Z.ai Security Disclosure"
-  },
-  {
-    "source": "hn",
-    "url": "https://luacad.ad-si.com",
-    "title": "Show HN: LuaCAD – Parametric CAD Scripted in Lua"
+    "url": "http://pascal.hansotten.com/delphi/turbo-pascal-on-cpm-msx-dos-and-ms-dos/",
+    "title": "Turbo Pascal on CP/M, MSX-DOS and MS-DOS – Pascal for Small Machines"
   },
   {
     "source": "hn",
@@ -61,8 +56,8 @@
   },
   {
     "source": "hn",
-    "url": "http://pascal.hansotten.com/delphi/turbo-pascal-on-cpm-msx-dos-and-ms-dos/",
-    "title": "Turbo Pascal on CP/M, MSX-DOS and MS-DOS – Pascal for Small Machines"
+    "url": "https://luacad.ad-si.com",
+    "title": "Show HN: LuaCAD – Parametric CAD Scripted in Lua"
   },
   {
     "source": "hn",
@@ -71,33 +66,13 @@
   },
   {
     "source": "hn",
-    "url": "https://e360.yale.edu/digest/australia-home-batteries",
-    "title": "In Australia, a home battery boom has helped cut wholesale power prices"
-  },
-  {
-    "source": "hn",
-    "url": "https://run.cosmograph.app/public/ca9fd1ad-fe83-4238-8b69-b707c633aef0",
-    "title": "AI Model Atlas – visualizing populations of ML models as interconnected 3D graph"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.chiply.dev/post-elisp-macros-are-beautiful",
-    "title": "Gödel, Escher, Elisp: The Beauty of Macros"
-  },
-  {
-    "source": "hn",
-    "url": "https://kukuroo.cc/",
-    "title": "Self-hosted web push Cloudflare Worker, works on iOS"
-  },
-  {
-    "source": "hn",
     "url": "https://xn--gckvb8fzb.com/the-temu-fication-of-software-digital-goods-services/",
     "title": "The TEMU-Fication of Software, Digital Goods and Services"
   },
   {
     "source": "hn",
-    "url": "https://earth.nullschool.net/",
-    "title": "Earth.nullschool.net"
+    "url": "https://e360.yale.edu/digest/australia-home-batteries",
+    "title": "In Australia, a home battery boom has helped cut wholesale power prices"
   },
   {
     "source": "lobsters",
@@ -131,6 +106,11 @@
   },
   {
     "source": "lobsters",
+    "url": "https://dmitry.gr/?r=06.%20Thoughts&proj=12.%20RV",
+    "title": "RISC-V: They Should Have Known Better"
+  },
+  {
+    "source": "lobsters",
     "url": "https://sebsite.pw/w/20260801-pythonconstants.html",
     "title": "python's pre-declared constants are kinda weird"
   },
@@ -161,11 +141,6 @@
   },
   {
     "source": "lobsters",
-    "url": "https://dmitry.gr/?r=06.%20Thoughts&proj=12.%20RV",
-    "title": "RISC-V: They Should Have Known Better"
-  },
-  {
-    "source": "lobsters",
     "url": "https://krebsonsecurity.com/2026/08/whos-tracking-you-use-this-new-service-to-find-out/",
     "title": "Find out who’s tracking you with DecryptAds"
   },
@@ -178,11 +153,6 @@
     "source": "lobsters",
     "url": "https://goonhost.rocks/blog/implementing-ipv8-internet-draft",
     "title": "We implemented the IPv8 Internet-Draft in the Linux Kernel, Musl Libc, and BGP"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://byroot.github.io/ruby/performance/2026/08/13/speeding-up-ruby-hashes.html",
-    "title": "Speeding Up (small) Ruby Hashes"
   },
   {
     "source": "pinboard",
