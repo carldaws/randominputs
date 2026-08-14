@@ -11,6 +11,11 @@
   },
   {
     "source": "hn",
+    "url": "https://softwaredoug.com/blog/2026/08/10/hypothetical-classifications",
+    "title": "Don't classify, hallucinate!"
+  },
+  {
+    "source": "hn",
     "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/",
     "title": "Gemini 3.7 Flash"
   },
@@ -18,6 +23,11 @@
     "source": "hn",
     "url": "https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai",
     "title": "Accelerating GPT-5.6 Sol Ultrafast"
+  },
+  {
+    "source": "hn",
+    "url": "https://mun-logadan.github.io/why-does-opus-5-feel-worse/",
+    "title": "Why does Opus 5 feel worse to work with?"
   },
   {
     "source": "hn",
@@ -36,6 +46,11 @@
   },
   {
     "source": "hn",
+    "url": "https://claytonwramsey.com/blog/mvt/",
+    "title": "We're not done with point clouds"
+  },
+  {
+    "source": "hn",
     "url": "https://atproto.com/blog/introducing-bluesky-protocol-services",
     "title": "Bluesky Protocol Services"
   },
@@ -46,11 +61,6 @@
   },
   {
     "source": "hn",
-    "url": "https://claytonwramsey.com/blog/mvt/",
-    "title": "We're not done with point clouds"
-  },
-  {
-    "source": "hn",
     "url": "https://mcfunley.com/choose-boring-technology",
     "title": "Choose Boring Technology (2015)"
   },
@@ -58,11 +68,6 @@
     "source": "hn",
     "url": "https://donkeybas.com/",
     "title": "Donkey.bas is 45 Years Old – 131 line of Glory"
-  },
-  {
-    "source": "hn",
-    "url": "https://mun-logadan.github.io/why-does-opus-5-feel-worse/",
-    "title": "Why does Opus 5 feel worse to work with?"
   },
   {
     "source": "hn",
@@ -85,6 +90,11 @@
     "title": "How Organizations Use AI: Evidence from ChatGPT [pdf]"
   },
   {
+    "source": "hn",
+    "url": "https://ordinaryabundance.com/",
+    "title": "Ordinary Abundance"
+  },
+  {
     "source": "lobsters",
     "url": "https://domenkozar.com/2026/08/13/i-want-extern-fil-c/",
     "title": "I want extern \"fil-c\""
@@ -101,8 +111,8 @@
   },
   {
     "source": "lobsters",
-    "url": "http://eurozig.eu/",
-    "title": "EuroZig"
+    "url": "https://beyondloom.com/blog/artofchip8.html",
+    "title": "The Art of CHIP-8"
   },
   {
     "source": "lobsters",
@@ -111,8 +121,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://beyondloom.com/blog/artofchip8.html",
-    "title": "The Art of CHIP-8"
+    "url": "http://eurozig.eu/",
+    "title": "EuroZig"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://daniel.haxx.se/blog/2026/08/14/curl-performance-2/",
+    "title": "Curl Performance"
   },
   {
     "source": "lobsters",
@@ -131,13 +146,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://ohadravid.github.io/posts/2026-08-let-them-write-rfcs/",
-    "title": "Let Them Write RFCs"
+    "url": "https://newsletter.vickiboykis.com/archive/write-for-people/",
+    "title": "Write for people"
   },
   {
     "source": "lobsters",
-    "url": "https://newsletter.vickiboykis.com/archive/write-for-people/",
-    "title": "Write for people"
+    "url": "https://ohadravid.github.io/posts/2026-08-let-them-write-rfcs/",
+    "title": "Let Them Write RFCs"
   },
   {
     "source": "lobsters",
@@ -155,8 +170,78 @@
     "title": "The SvelteKit 3 Release Candidate is here"
   },
   {
-    "source": "lobsters",
-    "url": "https://kolja.rs/algorithm-d",
-    "title": "A long division story"
+    "source": "pinboard",
+    "url": "https://stolen-thoughts.com/",
+    "title": "Stolen Thoughts: Stealing Reasoning Traces from Proprietary LLM APIs"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://brettcodes.com/im-done-using-ai/",
+    "title": "I'm done using AI – Brett Codes"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://stowaway.live/",
+    "title": "Stowaway — Ride along with the planes and satellites overhead"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://sophiebits.com/2026/06/25/there-are-no-lossless-transformations-of-natural-language-text",
+    "title": "There are no lossless transformations of natural-language text – Sophie Alpert"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.noemamag.com/why-is-everyone-in-tech-so-sad/",
+    "title": "Why Is Everyone In Tech So Sad?"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://calnewport.com/on-ai-coding-and-its-discontents/",
+    "title": "On AI Coding and Its Discontents - Cal Newport"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://refp.se/articles/your-shell-and-the-lazy-exclamation-mark",
+    "title": "A shell exclamation mark is not for yelling. Be lazy. | Filip Roséen - refp.se"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://tumbledry.org/2026/08/07/idrive_ads",
+    "title": "tumbledry.org: iDrive Ads"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://seg6.space/posts/phone-server/",
+    "title": "my server is a phone now — seg6"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://yeptype.com/article/inter-alternatives",
+    "title": "How to choose a UI font (and 10 Inter alternatives)"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://tailscale.com/blog/sqlite-wal-reset-bug",
+    "title": "How Tailscale helped find the SQLite WAL-Reset bug"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://danluu.com/pl-tokens/",
+    "title": "What's the best programming language for coding agents?"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.404media.co/company-offering-100-human-written-never-ai-peer-review-is-entirely-ai/",
+    "title": "Company Offering ‘100% Human-Written, Never AI’ Medical Research Is Entirely AI"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://master.dev/blog/typographic-css-tricks/",
+    "title": "5 CSS Properties You Should Know for Better Text Designs – Master.dev Blog"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://gowers.wordpress.com/2026/08/12/what-sort-of-maths-are-llms-good-at/",
+    "title": "What sort of maths are LLMs good at? | Gowers's Weblog"
   }
 ]
