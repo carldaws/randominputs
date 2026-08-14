@@ -2,7 +2,7 @@
   {
     "source": "hn",
     "url": "https://lxe.github.io/everywebsite/",
-    "title": "Every Fucking Website"
+    "title": "Every Fucking Website (2020)"
   },
   {
     "source": "hn",
@@ -11,13 +11,13 @@
   },
   {
     "source": "hn",
-    "url": "https://z.ai/blog/glm-5.3",
-    "title": "GLM-5.3: Frontier coding with emergent cyber capabilities"
+    "url": "https://www.mixedbread.com/blog/toast-1",
+    "title": "Introducing Toast 1"
   },
   {
     "source": "hn",
-    "url": "https://www.mixedbread.com/blog/toast-1",
-    "title": "Introducing Toast 1"
+    "url": "https://z.ai/blog/glm-5.3",
+    "title": "GLM-5.3: Frontier coding with emergent cyber capabilities"
   },
   {
     "source": "hn",
@@ -26,13 +26,8 @@
   },
   {
     "source": "hn",
-    "url": "https://softwaredoug.com/blog/2026/08/10/hypothetical-classifications",
-    "title": "Don't classify, hallucinate!"
-  },
-  {
-    "source": "hn",
-    "url": "https://api-docs.deepseek.com/news/news260813/",
-    "title": "DeepSeek peak/off-peak pricing update"
+    "url": "https://rayforcedb.com/",
+    "title": "RayforceDB – a pure C analytics database with a Lisp-like syntax"
   },
   {
     "source": "hn",
@@ -41,8 +36,13 @@
   },
   {
     "source": "hn",
-    "url": "https://www.whatcable.uk/",
-    "title": "WhatCable: Know what your USB-C cable can do"
+    "url": "https://softwaredoug.com/blog/2026/08/10/hypothetical-classifications",
+    "title": "Don't classify, hallucinate!"
+  },
+  {
+    "source": "hn",
+    "url": "https://unsung.aresluna.org/solving-a-largely-imaginary-user-goal/",
+    "title": "\"Solving a largely imaginary user goal\""
   },
   {
     "source": "hn",
@@ -51,18 +51,8 @@
   },
   {
     "source": "hn",
-    "url": "https://www.chiply.dev/post-elisp-macros-are-beautiful",
-    "title": "Gödel, Escher, Elisp: The Beauty of Macros"
-  },
-  {
-    "source": "hn",
-    "url": "https://hashagent.pages.dev/",
-    "title": "HashAgent – Share an AI agent as a URL, runs locally via WebGPU"
-  },
-  {
-    "source": "hn",
-    "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/",
-    "title": "Gemini 3.7 Flash"
+    "url": "https://api-docs.deepseek.com/news/news260813/",
+    "title": "DeepSeek peak/off-peak pricing update"
   },
   {
     "source": "hn",
@@ -71,18 +61,43 @@
   },
   {
     "source": "hn",
+    "url": "https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/",
+    "title": "Google Is Making Private AI Practical with Homomorphic Encryption"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.whatcable.uk/",
+    "title": "WhatCable: Know what your USB-C cable can do"
+  },
+  {
+    "source": "hn",
+    "url": "https://hashagent.pages.dev/",
+    "title": "HashAgent – Share an AI agent as a URL, runs locally via WebGPU"
+  },
+  {
+    "source": "hn",
+    "url": "https://uvbirds.com/",
+    "title": "Ultraviolet Bird Photography"
+  },
+  {
+    "source": "hn",
     "url": "https://run.cosmograph.app/public/ca9fd1ad-fe83-4238-8b69-b707c633aef0",
     "title": "AI Model Atlas – visualizing populations of ML models as interconnected 3D graph"
   },
   {
     "source": "hn",
-    "url": "https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai",
-    "title": "Accelerating GPT-5.6 Sol Ultrafast"
+    "url": "https://www.chiply.dev/post-elisp-macros-are-beautiful",
+    "title": "Gödel, Escher, Elisp: The Beauty of Macros"
   },
   {
     "source": "hn",
-    "url": "https://mun-logadan.github.io/why-does-opus-5-feel-worse/",
-    "title": "Why does Opus 5 feel worse to work with?"
+    "url": "https://mib-viewer.com/",
+    "title": "Show HN: Online SNMP MIB database - upload/view your own MIBs"
+  },
+  {
+    "source": "hn",
+    "url": "https://earth.nullschool.net/",
+    "title": "Earth.nullschool.net"
   },
   {
     "source": "hn",
@@ -91,28 +106,8 @@
   },
   {
     "source": "hn",
-    "url": "https://themech.net/2026/08/hello-me-its-been-a-while/",
-    "title": "Hello, me. It's been a while"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.iroh.computer/blog/authenticated-relays",
-    "title": "Protect Your Relays"
-  },
-  {
-    "source": "hn",
-    "url": "https://ntfy.sh/",
-    "title": "Ntfy – open-source Push to Mobile"
-  },
-  {
-    "source": "hn",
     "url": "https://goonhost.rocks/blog/implementing-ipv8-internet-draft",
     "title": "Show HN: We Implemented the IPv8 Internet-Draft in Linux, Libc, and BGP"
-  },
-  {
-    "source": "hn",
-    "url": "https://atproto.com/blog/introducing-bluesky-protocol-services",
-    "title": "Bluesky Protocol Services"
   },
   {
     "source": "lobsters",
@@ -146,13 +141,23 @@
   },
   {
     "source": "lobsters",
+    "url": "https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html",
+    "title": "AI is removing the middle class of software engineering"
+  },
+  {
+    "source": "lobsters",
     "url": "http://eurozig.eu/",
     "title": "EuroZig"
   },
   {
     "source": "lobsters",
-    "url": "https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html",
-    "title": "AI is removing the middle class of software engineering"
+    "url": "https://atproto.com/blog/introducing-bluesky-protocol-services",
+    "title": "Introducing Bluesky Protocol Services"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://byroot.github.io/ruby/performance/2026/08/13/speeding-up-ruby-hashes.html",
+    "title": "Speeding Up (small) Ruby Hashes"
   },
   {
     "source": "lobsters",
@@ -176,18 +181,18 @@
   },
   {
     "source": "lobsters",
-    "url": "https://byroot.github.io/ruby/performance/2026/08/13/speeding-up-ruby-hashes.html",
-    "title": "Speeding Up (small) Ruby Hashes"
+    "url": "https://simondobson.org/2026/08/07/strange-behaviour-in-lisp-sub-typing/",
+    "title": "Unexpected (to me) behaviour in Lisp sub-typing"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://markuseliasson.se/article/guilt-driven-development",
+    "title": "Guilt-Driven Development"
   },
   {
     "source": "lobsters",
     "url": "https://cekrem.github.io/posts/there-is-still-no-silver-bullet/",
     "title": "There Is Still No Silver Bullet"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://ohadravid.github.io/posts/2026-08-let-them-write-rfcs/",
-    "title": "Let Them Write RFCs"
   },
   {
     "source": "pinboard",
