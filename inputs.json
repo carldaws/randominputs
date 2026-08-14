@@ -2,7 +2,12 @@
   {
     "source": "hn",
     "url": "https://blog.cryptographyengineering.com/2026/08/14/everything-is-about-to-go-dark/",
-    "title": "Everything is about to \"go dark\""
+    "title": "Going Dark, and the era of law enforcement hacking"
+  },
+  {
+    "source": "hn",
+    "url": "https://dmitry.gr/?r=06.%20Thoughts&proj=12.%20RV",
+    "title": "RISC-V: They should have known better"
   },
   {
     "source": "hn",
@@ -16,8 +21,18 @@
   },
   {
     "source": "hn",
+    "url": "https://fzakaria.com/2026/08/05/super-mario-derivations",
+    "title": "Super Mario Derivations"
+  },
+  {
+    "source": "hn",
     "url": "https://www.mixedbread.com/blog/toast-1",
     "title": "Introducing Toast 1"
+  },
+  {
+    "source": "hn",
+    "url": "https://uvbirds.com/",
+    "title": "Ultraviolet Bird Photography"
   },
   {
     "source": "hn",
@@ -27,7 +42,7 @@
   {
     "source": "hn",
     "url": "http://pascal.hansotten.com/delphi/turbo-pascal-on-cpm-msx-dos-and-ms-dos/",
-    "title": "Turbo Pascal on CP/M, MSX-DOS and MS-DOS – Pascal for Small Machines"
+    "title": "Turbo Pascal on CP/M, MSX-DOS and MS-DOS"
   },
   {
     "source": "hn",
@@ -41,11 +56,6 @@
   },
   {
     "source": "hn",
-    "url": "https://lxe.github.io/everywebsite/",
-    "title": "Every Fucking Website (2020)"
-  },
-  {
-    "source": "hn",
     "url": "https://luacad.ad-si.com",
     "title": "Show HN: LuaCAD – Parametric CAD Scripted in Lua"
   },
@@ -56,13 +66,13 @@
   },
   {
     "source": "hn",
-    "url": "http://marc-b-reynolds.github.io/math/2026/08/10/IntDivByFP.html",
-    "title": "Moving integer division to floating-point is trivial"
+    "url": "https://lxe.github.io/everywebsite/",
+    "title": "Every Fucking Website (2020)"
   },
   {
     "source": "hn",
-    "url": "https://xn--gckvb8fzb.com/the-temu-fication-of-software-digital-goods-services/",
-    "title": "The TEMU-Fication of Software, Digital Goods and Services"
+    "url": "http://marc-b-reynolds.github.io/math/2026/08/10/IntDivByFP.html",
+    "title": "Moving integer division to floating-point is trivial"
   },
   {
     "source": "lobsters",
@@ -76,11 +86,6 @@
   },
   {
     "source": "lobsters",
-    "url": "https://dmitry.gr/?r=06.%20Thoughts&proj=12.%20RV",
-    "title": "RISC-V: They Should Have Known Better"
-  },
-  {
-    "source": "lobsters",
     "url": "https://beyondloom.com/blog/artofchip8.html",
     "title": "The Art of CHIP-8"
   },
@@ -91,13 +96,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://domenkozar.com/2026/08/13/i-want-extern-fil-c/",
-    "title": "I want extern \"fil-c\""
+    "url": "https://cekrem.github.io/posts/there-is-still-no-silver-bullet/",
+    "title": "There Is Still No Silver Bullet"
   },
   {
     "source": "lobsters",
-    "url": "https://cekrem.github.io/posts/there-is-still-no-silver-bullet/",
-    "title": "There Is Still No Silver Bullet"
+    "url": "https://domenkozar.com/2026/08/13/i-want-extern-fil-c/",
+    "title": "I want extern \"fil-c\""
   },
   {
     "source": "lobsters",
@@ -106,8 +111,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://neugierig.org/software/blog/2026/08/dominators.html",
-    "title": "Computing graph dominators"
+    "url": "https://goonhost.rocks/blog/implementing-ipv8-internet-draft",
+    "title": "We implemented the IPv8 Internet-Draft in the Linux Kernel, Musl Libc, and BGP"
   },
   {
     "source": "lobsters",
@@ -116,8 +121,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://goonhost.rocks/blog/implementing-ipv8-internet-draft",
-    "title": "We implemented the IPv8 Internet-Draft in the Linux Kernel, Musl Libc, and BGP"
+    "url": "https://neugierig.org/software/blog/2026/08/dominators.html",
+    "title": "Computing graph dominators"
   },
   {
     "source": "lobsters",
@@ -128,6 +133,11 @@
     "source": "lobsters",
     "url": "https://simondobson.org/2026/08/07/strange-behaviour-in-lisp-sub-typing/",
     "title": "Unexpected (to me) behaviour in Lisp sub-typing"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://krebsonsecurity.com/2026/08/whos-tracking-you-use-this-new-service-to-find-out/",
+    "title": "Find out who’s tracking you with DecryptAds"
   },
   {
     "source": "lobsters",
@@ -143,90 +153,5 @@
     "source": "lobsters",
     "url": "https://atproto.com/blog/introducing-bluesky-protocol-services",
     "title": "Introducing Bluesky Protocol Services"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://stolen-thoughts.com/",
-    "title": "Stolen Thoughts: Stealing Reasoning Traces from Proprietary LLM APIs"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://brettcodes.com/im-done-using-ai/",
-    "title": "I'm done using AI – Brett Codes"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://ordinaryabundance.com/",
-    "title": "Ordinary Abundance"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://stowaway.live/",
-    "title": "Stowaway — Ride along with the planes and satellites overhead"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://sophiebits.com/2026/06/25/there-are-no-lossless-transformations-of-natural-language-text",
-    "title": "There are no lossless transformations of natural-language text – Sophie Alpert"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.noemamag.com/why-is-everyone-in-tech-so-sad/",
-    "title": "Why Is Everyone In Tech So Sad?"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://aresluna.org/the-hardest-working-font-in-manhattan/",
-    "title": "The hardest working font in Manhattan – Aresluna"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://calnewport.com/on-ai-coding-and-its-discontents/",
-    "title": "On AI Coding and Its Discontents - Cal Newport"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://refp.se/articles/your-shell-and-the-lazy-exclamation-mark",
-    "title": "A shell exclamation mark is not for yelling. Be lazy. | Filip Roséen - refp.se"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://tumbledry.org/2026/08/07/idrive_ads",
-    "title": "tumbledry.org: iDrive Ads"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://seg6.space/posts/phone-server/",
-    "title": "my server is a phone now — seg6"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://yeptype.com/article/inter-alternatives",
-    "title": "How to choose a UI font (and 10 Inter alternatives)"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://tailscale.com/blog/sqlite-wal-reset-bug",
-    "title": "How Tailscale helped find the SQLite WAL-Reset bug"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://danluu.com/pl-tokens/",
-    "title": "What's the best programming language for coding agents?"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.404media.co/company-offering-100-human-written-never-ai-peer-review-is-entirely-ai/",
-    "title": "Company Offering ‘100% Human-Written, Never AI’ Medical Research Is Entirely AI"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://master.dev/blog/typographic-css-tricks/",
-    "title": "5 CSS Properties You Should Know for Better Text Designs – Master.dev Blog"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://gowers.wordpress.com/2026/08/12/what-sort-of-maths-are-llms-good-at/",
-    "title": "What sort of maths are LLMs good at? | Gowers's Weblog"
   }
 ]
