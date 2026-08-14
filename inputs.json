@@ -1,13 +1,8 @@
 [
   {
     "source": "hn",
-    "url": "https://blog.plover.com/2026/08/02/",
-    "title": "Seven books I keep close because I love them"
-  },
-  {
-    "source": "hn",
-    "url": "https://www-cdn.anthropic.com/f61d49fa5596956a5dec75fea0e973bf6a6a8378/Redacted%20Risk%20Report%20August%202026%20.pdf",
-    "title": "Anthropic Risk August 2026 [pdf]"
+    "url": "https://blog.cryptographyengineering.com/2026/08/14/everything-is-about-to-go-dark/",
+    "title": "Everything is about to \"go dark\""
   },
   {
     "source": "hn",
@@ -36,23 +31,8 @@
   },
   {
     "source": "hn",
-    "url": "https://luacad.ad-si.com",
-    "title": "Show HN: LuaCAD – Parametric CAD Scripted in Lua"
-  },
-  {
-    "source": "hn",
-    "url": "http://marc-b-reynolds.github.io/math/2026/08/10/IntDivByFP.html",
-    "title": "Moving integer division to floating-point is trivial"
-  },
-  {
-    "source": "hn",
-    "url": "https://api-docs.deepseek.com/news/news260813/",
-    "title": "DeepSeek peak/off-peak pricing update"
-  },
-  {
-    "source": "hn",
-    "url": "https://lxe.github.io/everywebsite/",
-    "title": "Every Fucking Website (2020)"
+    "url": "https://blog.plover.com/2026/08/02/",
+    "title": "Seven books I keep close because I love them"
   },
   {
     "source": "hn",
@@ -61,13 +41,33 @@
   },
   {
     "source": "hn",
+    "url": "https://lxe.github.io/everywebsite/",
+    "title": "Every Fucking Website (2020)"
+  },
+  {
+    "source": "hn",
+    "url": "https://luacad.ad-si.com",
+    "title": "Show HN: LuaCAD – Parametric CAD Scripted in Lua"
+  },
+  {
+    "source": "hn",
     "url": "https://z.ai/blog/glm-5.3",
     "title": "GLM-5.3: Frontier coding with emergent cyber capabilities"
   },
   {
     "source": "hn",
-    "url": "https://e360.yale.edu/digest/australia-home-batteries",
-    "title": "In Australia, a home battery boom has helped cut wholesale power prices"
+    "url": "http://marc-b-reynolds.github.io/math/2026/08/10/IntDivByFP.html",
+    "title": "Moving integer division to floating-point is trivial"
+  },
+  {
+    "source": "hn",
+    "url": "https://xn--gckvb8fzb.com/the-temu-fication-of-software-digital-goods-services/",
+    "title": "The TEMU-Fication of Software, Digital Goods and Services"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://o.ee/blog/activitypub-won-by-being-boring/",
+    "title": "ActivityPub Won by Being Boring"
   },
   {
     "source": "lobsters",
@@ -76,13 +76,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://beyondloom.com/blog/artofchip8.html",
-    "title": "The Art of CHIP-8"
+    "url": "https://dmitry.gr/?r=06.%20Thoughts&proj=12.%20RV",
+    "title": "RISC-V: They Should Have Known Better"
   },
   {
     "source": "lobsters",
-    "url": "https://o.ee/blog/activitypub-won-by-being-boring/",
-    "title": "ActivityPub Won by Being Boring"
+    "url": "https://beyondloom.com/blog/artofchip8.html",
+    "title": "The Art of CHIP-8"
   },
   {
     "source": "lobsters",
@@ -101,11 +101,6 @@
   },
   {
     "source": "lobsters",
-    "url": "https://dmitry.gr/?r=06.%20Thoughts&proj=12.%20RV",
-    "title": "RISC-V: They Should Have Known Better"
-  },
-  {
-    "source": "lobsters",
     "url": "https://sebsite.pw/w/20260801-pythonconstants.html",
     "title": "python's pre-declared constants are kinda weird"
   },
@@ -113,6 +108,16 @@
     "source": "lobsters",
     "url": "https://neugierig.org/software/blog/2026/08/dominators.html",
     "title": "Computing graph dominators"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://markuseliasson.se/article/guilt-driven-development",
+    "title": "Guilt-Driven Development"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://goonhost.rocks/blog/implementing-ipv8-internet-draft",
+    "title": "We implemented the IPv8 Internet-Draft in the Linux Kernel, Musl Libc, and BGP"
   },
   {
     "source": "lobsters",
@@ -126,13 +131,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://goonhost.rocks/blog/implementing-ipv8-internet-draft",
-    "title": "We implemented the IPv8 Internet-Draft in the Linux Kernel, Musl Libc, and BGP"
+    "url": "http://eurozig.eu/",
+    "title": "EuroZig"
   },
   {
     "source": "lobsters",
-    "url": "http://eurozig.eu/",
-    "title": "EuroZig"
+    "url": "https://newsletter.vickiboykis.com/archive/write-for-people/",
+    "title": "Write for people"
   },
   {
     "source": "lobsters",
@@ -140,13 +145,88 @@
     "title": "Introducing Bluesky Protocol Services"
   },
   {
-    "source": "lobsters",
-    "url": "https://markuseliasson.se/article/guilt-driven-development",
-    "title": "Guilt-Driven Development"
+    "source": "pinboard",
+    "url": "https://stolen-thoughts.com/",
+    "title": "Stolen Thoughts: Stealing Reasoning Traces from Proprietary LLM APIs"
   },
   {
-    "source": "lobsters",
-    "url": "https://newsletter.vickiboykis.com/archive/write-for-people/",
-    "title": "Write for people"
+    "source": "pinboard",
+    "url": "https://brettcodes.com/im-done-using-ai/",
+    "title": "I'm done using AI – Brett Codes"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://ordinaryabundance.com/",
+    "title": "Ordinary Abundance"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://stowaway.live/",
+    "title": "Stowaway — Ride along with the planes and satellites overhead"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://sophiebits.com/2026/06/25/there-are-no-lossless-transformations-of-natural-language-text",
+    "title": "There are no lossless transformations of natural-language text – Sophie Alpert"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.noemamag.com/why-is-everyone-in-tech-so-sad/",
+    "title": "Why Is Everyone In Tech So Sad?"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://aresluna.org/the-hardest-working-font-in-manhattan/",
+    "title": "The hardest working font in Manhattan – Aresluna"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://calnewport.com/on-ai-coding-and-its-discontents/",
+    "title": "On AI Coding and Its Discontents - Cal Newport"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://refp.se/articles/your-shell-and-the-lazy-exclamation-mark",
+    "title": "A shell exclamation mark is not for yelling. Be lazy. | Filip Roséen - refp.se"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://tumbledry.org/2026/08/07/idrive_ads",
+    "title": "tumbledry.org: iDrive Ads"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://seg6.space/posts/phone-server/",
+    "title": "my server is a phone now — seg6"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://yeptype.com/article/inter-alternatives",
+    "title": "How to choose a UI font (and 10 Inter alternatives)"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://tailscale.com/blog/sqlite-wal-reset-bug",
+    "title": "How Tailscale helped find the SQLite WAL-Reset bug"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://danluu.com/pl-tokens/",
+    "title": "What's the best programming language for coding agents?"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.404media.co/company-offering-100-human-written-never-ai-peer-review-is-entirely-ai/",
+    "title": "Company Offering ‘100% Human-Written, Never AI’ Medical Research Is Entirely AI"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://master.dev/blog/typographic-css-tricks/",
+    "title": "5 CSS Properties You Should Know for Better Text Designs – Master.dev Blog"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://gowers.wordpress.com/2026/08/12/what-sort-of-maths-are-llms-good-at/",
+    "title": "What sort of maths are LLMs good at? | Gowers's Weblog"
   }
 ]
