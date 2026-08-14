@@ -2,7 +2,7 @@
   {
     "source": "hn",
     "url": "https://z.ai/blog/glm-5.3",
-    "title": "GLM-5.3: Frontier Coding with Emergent Cyber Capabilities"
+    "title": "GLM-5.3: Frontier coding with emergent cyber capabilities"
   },
   {
     "source": "hn",
@@ -26,13 +26,13 @@
   },
   {
     "source": "hn",
-    "url": "https://deepseek.com/harness/en/",
-    "title": "DeepSeek Harness developer preview"
+    "url": "https://www.frandroid.com/marques/xiaomi/3211257_photo-de-leclipse-on-a-perce-a-jour-la-petite-triche-du-xiaomi-17-ultra-qui-confond-la-lune-et-le-soleil",
+    "title": "Eclipse: The Xiaomi 17 Ultra Confuses the Moon and the Sun"
   },
   {
     "source": "hn",
-    "url": "https://www.historytoday.com/archive/feature/library-ashurbanipal",
-    "title": "The Library of Ashurbanipal"
+    "url": "https://deepseek.com/harness/en/",
+    "title": "DeepSeek Harness developer preview"
   },
   {
     "source": "hn",
@@ -46,13 +46,13 @@
   },
   {
     "source": "hn",
-    "url": "https://gruhn.me/blog/2026-08-13/",
-    "title": "NP-overrated"
+    "url": "https://donkeybas.com/",
+    "title": "Donkey.bas is 45 Years Old – 131 line of Glory"
   },
   {
     "source": "hn",
-    "url": "https://donkeybas.com/",
-    "title": "Donkey.bas is 45 Years Old – 131 line of Glory"
+    "url": "https://www.historytoday.com/archive/feature/library-ashurbanipal",
+    "title": "The Library of Ashurbanipal (2025)"
   },
   {
     "source": "hn",
@@ -66,18 +66,18 @@
   },
   {
     "source": "hn",
-    "url": "https://www.forth.org/literature/noble.html",
-    "title": "Finite State Machines in Forth (1994)"
-  },
-  {
-    "source": "hn",
     "url": "https://cdn.openai.com/pdf/how-organizations-use-chatgpt.pdf",
     "title": "How Organizations Use AI: Evidence from ChatGPT [pdf]"
   },
   {
     "source": "hn",
-    "url": "https://sebsite.pw/w/20260810-c89ambiguity.html",
-    "title": "An ambiguity in c89 which will never be fixed"
+    "url": "https://gruhn.me/blog/2026-08-13/",
+    "title": "NP-overrated"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.forth.org/literature/noble.html",
+    "title": "Finite State Machines in Forth (1994)"
   },
   {
     "source": "hn",
@@ -88,21 +88,6 @@
     "source": "hn",
     "url": "https://en.wikipedia.org/wiki/Cave_of_the_Crystals",
     "title": "Cave of the Crystals"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.netlify.com/blog/one-prompt-11-models-very-different-results/",
-    "title": "Choosing an AI model: one prompt, 11 models, different results"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.codewithbullet.com",
-    "title": "Launch HN: Bullet (YC S26) – A Faster Coding Agent"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.seangoedecke.com/text-ai-watermarks/",
-    "title": "Text AI watermarks will always be trivial to remove"
   },
   {
     "source": "lobsters",
@@ -116,6 +101,11 @@
   },
   {
     "source": "lobsters",
+    "url": "https://www.simplermachines.com/lets-not-call-it-tech-debt-its-just-mess/",
+    "title": "Let's not call it \"tech debt,\" it's just \"mess\""
+  },
+  {
+    "source": "lobsters",
     "url": "http://eurozig.eu/",
     "title": "EuroZig"
   },
@@ -123,11 +113,6 @@
     "source": "lobsters",
     "url": "https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html",
     "title": "AI is removing the middle class of software engineering"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://www.simplermachines.com/lets-not-call-it-tech-debt-its-just-mess/",
-    "title": "Let's not call it \"tech debt,\" it's just \"mess\""
   },
   {
     "source": "lobsters",
@@ -146,18 +131,18 @@
   },
   {
     "source": "lobsters",
-    "url": "https://ohadravid.github.io/posts/2026-08-let-them-write-rfcs/",
-    "title": "Let Them Write RFCs"
-  },
-  {
-    "source": "lobsters",
     "url": "https://newsletter.vickiboykis.com/archive/write-for-people/",
     "title": "Write for people"
   },
   {
     "source": "lobsters",
-    "url": "https://tailscale.com/blog/sqlite-wal-reset-bug",
-    "title": "How Tailscale helped find the SQLite WAL-Reset bug"
+    "url": "https://byroot.github.io/ruby/performance/2026/08/13/speeding-up-ruby-hashes.html",
+    "title": "Speeding Up (small) Ruby Hashes"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://ohadravid.github.io/posts/2026-08-let-them-write-rfcs/",
+    "title": "Let Them Write RFCs"
   },
   {
     "source": "lobsters",
@@ -166,18 +151,18 @@
   },
   {
     "source": "lobsters",
+    "url": "https://kolja.rs/algorithm-d",
+    "title": "A long division story"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://tailscale.com/blog/sqlite-wal-reset-bug",
+    "title": "How Tailscale helped find the SQLite WAL-Reset bug"
+  },
+  {
+    "source": "lobsters",
     "url": "https://getfresh.dev/docs/blog/packaging-for-linux/",
     "title": "I hate packaging my software for Linux"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://a.security/blog/asecurity-zoomsday",
-    "title": "ZOOMSDAY, Zoom Zero-Click Vulnerabilities Via Annotation"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://stallman.org/articles/on-hacking.html",
-    "title": "On Hacking"
   },
   {
     "source": "lobsters",
@@ -186,7 +171,87 @@
   },
   {
     "source": "lobsters",
+    "url": "https://stallman.org/articles/on-hacking.html",
+    "title": "On Hacking"
+  },
+  {
+    "source": "lobsters",
     "url": "https://rustmagazine.org/issue-2/write-a-sql-optimizer-using-egg",
     "title": "Write a SQL Optimizer using Egg (2023)"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://stolen-thoughts.com/",
+    "title": "Stolen Thoughts: Stealing Reasoning Traces from Proprietary LLM APIs"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://brettcodes.com/im-done-using-ai/",
+    "title": "I'm done using AI – Brett Codes"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://stowaway.live/",
+    "title": "Stowaway — Ride along with the planes and satellites overhead"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://sophiebits.com/2026/06/25/there-are-no-lossless-transformations-of-natural-language-text",
+    "title": "There are no lossless transformations of natural-language text – Sophie Alpert"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.noemamag.com/why-is-everyone-in-tech-so-sad/",
+    "title": "Why Is Everyone In Tech So Sad?"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://aresluna.org/the-hardest-working-font-in-manhattan/",
+    "title": "The hardest working font in Manhattan – Aresluna"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://calnewport.com/on-ai-coding-and-its-discontents/",
+    "title": "On AI Coding and Its Discontents - Cal Newport"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://refp.se/articles/your-shell-and-the-lazy-exclamation-mark",
+    "title": "A shell exclamation mark is not for yelling. Be lazy. | Filip Roséen - refp.se"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://tumbledry.org/2026/08/07/idrive_ads",
+    "title": "tumbledry.org: iDrive Ads"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://seg6.space/posts/phone-server/",
+    "title": "my server is a phone now — seg6"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://yeptype.com/article/inter-alternatives",
+    "title": "How to choose a UI font (and 10 Inter alternatives)"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://danluu.com/pl-tokens/",
+    "title": "What's the best programming language for coding agents?"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.404media.co/company-offering-100-human-written-never-ai-peer-review-is-entirely-ai/",
+    "title": "Company Offering ‘100% Human-Written, Never AI’ Medical Research Is Entirely AI"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://master.dev/blog/typographic-css-tricks/",
+    "title": "5 CSS Properties You Should Know for Better Text Designs – Master.dev Blog"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://gowers.wordpress.com/2026/08/12/what-sort-of-maths-are-llms-good-at/",
+    "title": "What sort of maths are LLMs good at? | Gowers's Weblog"
   }
 ]
