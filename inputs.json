@@ -6,13 +6,18 @@
   },
   {
     "source": "hn",
-    "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/",
-    "title": "Gemini 3.7 Flash"
+    "url": "https://api-docs.deepseek.com/news/news260813/",
+    "title": "DeepSeek peak/off-peak pricing update"
   },
   {
     "source": "hn",
-    "url": "https://www.frandroid.com/marques/xiaomi/3211257_photo-de-leclipse-on-a-perce-a-jour-la-petite-triche-du-xiaomi-17-ultra-qui-confond-la-lune-et-le-soleil",
-    "title": "Eclipse: The Xiaomi 17 Ultra Confuses the Moon and the Sun"
+    "url": "https://www.domenkozar.com/2026/08/13/i-want-extern-fil-c/",
+    "title": "I want extern \"fil-C\""
+  },
+  {
+    "source": "hn",
+    "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/",
+    "title": "Gemini 3.7 Flash"
   },
   {
     "source": "hn",
@@ -23,6 +28,11 @@
     "source": "hn",
     "url": "https://themech.net/2026/08/hello-me-its-been-a-while/",
     "title": "Hello, me. It's been a while"
+  },
+  {
+    "source": "hn",
+    "url": "https://mun-logadan.github.io/why-does-opus-5-feel-worse/",
+    "title": "Why does Opus 5 feel worse to work with?"
   },
   {
     "source": "hn",
@@ -51,6 +61,16 @@
   },
   {
     "source": "hn",
+    "url": "https://claytonwramsey.com/blog/mvt/",
+    "title": "We're not done with point clouds"
+  },
+  {
+    "source": "hn",
+    "url": "https://earendil.com/posts/compaction-in-pi/",
+    "title": "How Compaction Works in Pi"
+  },
+  {
+    "source": "hn",
     "url": "https://www.historytoday.com/archive/feature/library-ashurbanipal",
     "title": "The Library of Ashurbanipal (2025)"
   },
@@ -61,11 +81,6 @@
   },
   {
     "source": "hn",
-    "url": "https://earendil.com/posts/compaction-in-pi/",
-    "title": "How Compaction Works in Pi"
-  },
-  {
-    "source": "hn",
     "url": "https://cdn.openai.com/pdf/how-organizations-use-chatgpt.pdf",
     "title": "How Organizations Use AI: Evidence from ChatGPT [pdf]"
   },
@@ -73,21 +88,6 @@
     "source": "hn",
     "url": "https://gruhn.me/blog/2026-08-13/",
     "title": "NP-overrated"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.forth.org/literature/noble.html",
-    "title": "Finite State Machines in Forth (1994)"
-  },
-  {
-    "source": "hn",
-    "url": "https://ordinaryabundance.com/",
-    "title": "Ordinary Abundance"
-  },
-  {
-    "source": "hn",
-    "url": "https://en.wikipedia.org/wiki/Cave_of_the_Crystals",
-    "title": "Cave of the Crystals"
   },
   {
     "source": "lobsters",
@@ -116,6 +116,11 @@
   },
   {
     "source": "lobsters",
+    "url": "https://beyondloom.com/blog/artofchip8.html",
+    "title": "The Art of CHIP-8"
+  },
+  {
+    "source": "lobsters",
     "url": "https://alan.norbauer.com/articles/github-stacks-with-jujutsu/",
     "title": "GitHub Stacks in Jujutsu"
   },
@@ -126,13 +131,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://brandur.org/fragments/postgres-without-pgbouncer",
-    "title": "Does anyone run Postgres without PgBouncer?"
+    "url": "https://newsletter.vickiboykis.com/archive/write-for-people/",
+    "title": "Write for people"
   },
   {
     "source": "lobsters",
-    "url": "https://newsletter.vickiboykis.com/archive/write-for-people/",
-    "title": "Write for people"
+    "url": "https://brandur.org/fragments/postgres-without-pgbouncer",
+    "title": "Does anyone run Postgres without PgBouncer?"
   },
   {
     "source": "lobsters",
@@ -153,20 +158,5 @@
     "source": "lobsters",
     "url": "https://kolja.rs/algorithm-d",
     "title": "A long division story"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://tailscale.com/blog/sqlite-wal-reset-bug",
-    "title": "How Tailscale helped find the SQLite WAL-Reset bug"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://beyondloom.com/blog/artofchip8.html",
-    "title": "The Art of CHIP-8"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://getfresh.dev/docs/blog/packaging-for-linux/",
-    "title": "I hate packaging my software for Linux"
   }
 ]
