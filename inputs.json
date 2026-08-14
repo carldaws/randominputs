@@ -11,6 +11,11 @@
   },
   {
     "source": "hn",
+    "url": "https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/",
+    "title": "Google is making private AI practical with homomorphic encryption"
+  },
+  {
+    "source": "hn",
     "url": "https://z.ai/blog/glm-5.3",
     "title": "GLM-5.3: Frontier coding with emergent cyber capabilities"
   },
@@ -18,6 +23,11 @@
     "source": "hn",
     "url": "https://www.mixedbread.com/blog/toast-1",
     "title": "Introducing Toast 1"
+  },
+  {
+    "source": "hn",
+    "url": "https://uvbirds.com/",
+    "title": "Ultraviolet Bird Photography"
   },
   {
     "source": "hn",
@@ -31,8 +41,28 @@
   },
   {
     "source": "hn",
-    "url": "https://rayforcedb.com/",
-    "title": "RayforceDB – a pure C analytics database with a Lisp-like syntax"
+    "url": "https://cvd.z.ai",
+    "title": "Z.ai Security Disclosure"
+  },
+  {
+    "source": "hn",
+    "url": "https://luacad.ad-si.com",
+    "title": "Show HN: LuaCAD – Parametric CAD Scripted in Lua"
+  },
+  {
+    "source": "hn",
+    "url": "https://api-docs.deepseek.com/news/news260813/",
+    "title": "DeepSeek peak/off-peak pricing update"
+  },
+  {
+    "source": "hn",
+    "url": "https://softwaredoug.com/blog/2026/08/10/hypothetical-classifications",
+    "title": "Don't classify, hallucinate"
+  },
+  {
+    "source": "hn",
+    "url": "http://pascal.hansotten.com/delphi/turbo-pascal-on-cpm-msx-dos-and-ms-dos/",
+    "title": "Turbo Pascal on CP/M, MSX-DOS and MS-DOS – Pascal for Small Machines"
   },
   {
     "source": "hn",
@@ -46,33 +76,8 @@
   },
   {
     "source": "hn",
-    "url": "https://softwaredoug.com/blog/2026/08/10/hypothetical-classifications",
-    "title": "Don't classify, hallucinate"
-  },
-  {
-    "source": "hn",
-    "url": "https://api-docs.deepseek.com/news/news260813/",
-    "title": "DeepSeek peak/off-peak pricing update"
-  },
-  {
-    "source": "hn",
-    "url": "https://luacad.ad-si.com",
-    "title": "Show HN: LuaCAD – Parametric CAD Scripted in Lua"
-  },
-  {
-    "source": "hn",
-    "url": "https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/",
-    "title": "Google is making private AI practical with homomorphic encryption"
-  },
-  {
-    "source": "hn",
     "url": "https://run.cosmograph.app/public/ca9fd1ad-fe83-4238-8b69-b707c633aef0",
     "title": "AI Model Atlas – visualizing populations of ML models as interconnected 3D graph"
-  },
-  {
-    "source": "hn",
-    "url": "https://kukuroo.cc/",
-    "title": "Self-hosted web push Cloudflare Worker, works on iOS"
   },
   {
     "source": "hn",
@@ -81,13 +86,13 @@
   },
   {
     "source": "hn",
-    "url": "https://xn--gckvb8fzb.com/the-temu-fication-of-software-digital-goods-services/",
-    "title": "The TEMU-Fication of Software, Digital Goods and Services"
+    "url": "https://kukuroo.cc/",
+    "title": "Self-hosted web push Cloudflare Worker, works on iOS"
   },
   {
     "source": "hn",
-    "url": "https://hashagent.pages.dev/",
-    "title": "HashAgent – Share an AI agent as a URL, runs locally via WebGPU"
+    "url": "https://xn--gckvb8fzb.com/the-temu-fication-of-software-digital-goods-services/",
+    "title": "The TEMU-Fication of Software, Digital Goods and Services"
   },
   {
     "source": "hn",
@@ -116,18 +121,28 @@
   },
   {
     "source": "lobsters",
+    "url": "https://cekrem.github.io/posts/there-is-still-no-silver-bullet/",
+    "title": "There Is Still No Silver Bullet"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://o.ee/blog/activitypub-won-by-being-boring/",
+    "title": "ActivityPub Won by Being Boring"
+  },
+  {
+    "source": "lobsters",
     "url": "https://sebsite.pw/w/20260801-pythonconstants.html",
     "title": "python's pre-declared constants are kinda weird"
   },
   {
     "source": "lobsters",
-    "url": "https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html",
-    "title": "AI is removing the middle class of software engineering"
+    "url": "https://neugierig.org/software/blog/2026/08/dominators.html",
+    "title": "Computing graph dominators"
   },
   {
     "source": "lobsters",
-    "url": "https://neugierig.org/software/blog/2026/08/dominators.html",
-    "title": "Computing graph dominators"
+    "url": "https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html",
+    "title": "AI is removing the middle class of software engineering"
   },
   {
     "source": "lobsters",
@@ -141,23 +156,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://cekrem.github.io/posts/there-is-still-no-silver-bullet/",
-    "title": "There Is Still No Silver Bullet"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://newsletter.vickiboykis.com/archive/write-for-people/",
-    "title": "Write for people"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://byroot.github.io/ruby/performance/2026/08/13/speeding-up-ruby-hashes.html",
-    "title": "Speeding Up (small) Ruby Hashes"
-  },
-  {
-    "source": "lobsters",
     "url": "https://simondobson.org/2026/08/07/strange-behaviour-in-lisp-sub-typing/",
     "title": "Unexpected (to me) behaviour in Lisp sub-typing"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://dmitry.gr/?r=06.%20Thoughts&proj=12.%20RV",
+    "title": "RISC-V: They Should Have Known Better"
   },
   {
     "source": "lobsters",
@@ -166,13 +171,18 @@
   },
   {
     "source": "lobsters",
-    "url": "https://markuseliasson.se/article/guilt-driven-development",
-    "title": "Guilt-Driven Development"
+    "url": "https://newsletter.vickiboykis.com/archive/write-for-people/",
+    "title": "Write for people"
   },
   {
     "source": "lobsters",
-    "url": "https://kolja.rs/algorithm-d",
-    "title": "A long division story"
+    "url": "https://goonhost.rocks/blog/implementing-ipv8-internet-draft",
+    "title": "We implemented the IPv8 Internet-Draft in the Linux Kernel, Musl Libc, and BGP"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://byroot.github.io/ruby/performance/2026/08/13/speeding-up-ruby-hashes.html",
+    "title": "Speeding Up (small) Ruby Hashes"
   },
   {
     "source": "pinboard",
