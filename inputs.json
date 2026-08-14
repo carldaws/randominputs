@@ -11,6 +11,16 @@
   },
   {
     "source": "hn",
+    "url": "https://z.ai/blog/glm-5.3",
+    "title": "GLM-5.3: Frontier Coding with Emergent Cyber Capabilities"
+  },
+  {
+    "source": "hn",
+    "url": "https://themech.net/2026/08/hello-me-its-been-a-while/",
+    "title": "Hello, me. It's been a while"
+  },
+  {
+    "source": "hn",
     "url": "https://atproto.com/blog/introducing-bluesky-protocol-services",
     "title": "Bluesky Protocol Services"
   },
@@ -21,13 +31,8 @@
   },
   {
     "source": "hn",
-    "url": "https://themech.net/2026/08/hello-me-its-been-a-while/",
-    "title": "Hello, me. It's been a while"
-  },
-  {
-    "source": "hn",
-    "url": "https://mcfunley.com/choose-boring-technology",
-    "title": "Choose Boring Technology (2015)"
+    "url": "https://gruhn.me/blog/2026-08-13/",
+    "title": "NP-overrated"
   },
   {
     "source": "hn",
@@ -36,8 +41,8 @@
   },
   {
     "source": "hn",
-    "url": "https://gruhn.me/blog/2026-08-13/",
-    "title": "NP-overrated"
+    "url": "https://mcfunley.com/choose-boring-technology",
+    "title": "Choose Boring Technology (2015)"
   },
   {
     "source": "hn",
@@ -51,6 +56,11 @@
   },
   {
     "source": "hn",
+    "url": "https://earendil.com/posts/compaction-in-pi/",
+    "title": "How Compaction Works in Pi"
+  },
+  {
+    "source": "hn",
     "url": "https://www.forth.org/literature/noble.html",
     "title": "Finite State Machines in Forth (1994)"
   },
@@ -61,8 +71,8 @@
   },
   {
     "source": "hn",
-    "url": "https://earendil.com/posts/compaction-in-pi/",
-    "title": "How Compaction Works in Pi"
+    "url": "https://en.wikipedia.org/wiki/Cave_of_the_Crystals",
+    "title": "Cave of the Crystals"
   },
   {
     "source": "hn",
@@ -71,18 +81,13 @@
   },
   {
     "source": "hn",
+    "url": "https://ordinaryabundance.com/",
+    "title": "Ordinary Abundance"
+  },
+  {
+    "source": "hn",
     "url": "https://blog.dundns.eu/posts/ddr-encrypted-dns-discovery/",
     "title": "How a device finds encrypted DNS by itself"
-  },
-  {
-    "source": "hn",
-    "url": "https://ordinaryabundance.com/",
-    "title": "Ordinary abundance"
-  },
-  {
-    "source": "hn",
-    "url": "https://domenkozar.com/2026/08/13/i-want-extern-fil-c/",
-    "title": "I want extern \"fil-C\""
   },
   {
     "source": "hn",
@@ -96,8 +101,13 @@
   },
   {
     "source": "hn",
-    "url": "https://nicole.express/2026/more-like-idle-mahjong.html",
-    "title": "Idol Mahjong Final Romance: A Slideshow Disguised as a Video Game"
+    "url": "https://www.netlify.com/blog/one-prompt-11-models-very-different-results/",
+    "title": "Choosing an AI model: one prompt, 11 models, different results"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://domenkozar.com/2026/08/13/i-want-extern-fil-c/",
+    "title": "I want extern \"fil-c\""
   },
   {
     "source": "lobsters",
@@ -116,18 +126,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://alan.norbauer.com/articles/github-stacks-with-jujutsu/",
-    "title": "GitHub Stacks in Jujutsu"
-  },
-  {
-    "source": "lobsters",
     "url": "https://www.simplermachines.com/lets-not-call-it-tech-debt-its-just-mess/",
     "title": "Let's not call it \"tech debt,\" it's just \"mess\""
   },
   {
     "source": "lobsters",
-    "url": "https://brandur.org/fragments/postgres-without-pgbouncer",
-    "title": "Does anyone run Postgres without PgBouncer?"
+    "url": "https://alan.norbauer.com/articles/github-stacks-with-jujutsu/",
+    "title": "GitHub Stacks in Jujutsu"
   },
   {
     "source": "lobsters",
@@ -136,13 +141,23 @@
   },
   {
     "source": "lobsters",
-    "url": "https://tailscale.com/blog/sqlite-wal-reset-bug",
-    "title": "How Tailscale helped find the SQLite WAL-Reset bug"
+    "url": "https://brandur.org/fragments/postgres-without-pgbouncer",
+    "title": "Does anyone run Postgres without PgBouncer?"
   },
   {
     "source": "lobsters",
     "url": "https://ohadravid.github.io/posts/2026-08-let-them-write-rfcs/",
     "title": "Let Them Write RFCs"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://newsletter.vickiboykis.com/archive/write-for-people/",
+    "title": "Write for people"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://tailscale.com/blog/sqlite-wal-reset-bug",
+    "title": "How Tailscale helped find the SQLite WAL-Reset bug"
   },
   {
     "source": "lobsters",
@@ -156,8 +171,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://newsletter.vickiboykis.com/archive/write-for-people/",
-    "title": "Write for people"
+    "url": "https://a.security/blog/asecurity-zoomsday",
+    "title": "ZOOMSDAY, Zoom Zero-Click Vulnerabilities Via Annotation"
   },
   {
     "source": "lobsters",
@@ -176,7 +191,7 @@
   },
   {
     "source": "lobsters",
-    "url": "http://funcall.blogspot.com/2026/08/why-vibe-code-in-lisp.html",
-    "title": "Why vibe code in Lisp?"
+    "url": "https://kolja.rs/algorithm-d",
+    "title": "A long division story"
   }
 ]
