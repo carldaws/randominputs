@@ -21,18 +21,8 @@
   },
   {
     "source": "hn",
-    "url": "https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai",
-    "title": "Accelerating GPT-5.6 Sol Ultrafast"
-  },
-  {
-    "source": "hn",
     "url": "https://mun-logadan.github.io/why-does-opus-5-feel-worse/",
     "title": "Why does Opus 5 feel worse to work with?"
-  },
-  {
-    "source": "hn",
-    "url": "https://themech.net/2026/08/hello-me-its-been-a-while/",
-    "title": "Hello, me. It's been a while"
   },
   {
     "source": "hn",
@@ -41,13 +31,33 @@
   },
   {
     "source": "hn",
-    "url": "https://deepseek.com/harness/en/",
-    "title": "DeepSeek Harness developer preview"
+    "url": "https://themech.net/2026/08/hello-me-its-been-a-while/",
+    "title": "Hello, me. It's been a while"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai",
+    "title": "Accelerating GPT-5.6 Sol Ultrafast"
   },
   {
     "source": "hn",
     "url": "https://claytonwramsey.com/blog/mvt/",
     "title": "We're not done with point clouds"
+  },
+  {
+    "source": "hn",
+    "url": "https://life-after-ssri.bearblog.dev/dear-people-who-work-at-the-airport/",
+    "title": "Dear people who work at the airport"
+  },
+  {
+    "source": "hn",
+    "url": "https://deepseek.com/harness/en/",
+    "title": "DeepSeek Harness developer preview"
+  },
+  {
+    "source": "hn",
+    "url": "https://hashagent.pages.dev/",
+    "title": "HashAgent – Share an AI agent as a URL, runs locally via WebGPU"
   },
   {
     "source": "hn",
@@ -58,6 +68,11 @@
     "source": "hn",
     "url": "https://www.geoffreylitt.com/2026/07/02/understanding-is-the-new-bottleneck",
     "title": "Understanding is the new bottleneck"
+  },
+  {
+    "source": "hn",
+    "url": "https://xn--gckvb8fzb.com/the-temu-fication-of-software-digital-goods-services/",
+    "title": "The TEMU-Fication of Software, Digital Goods and Services"
   },
   {
     "source": "hn",
@@ -76,23 +91,13 @@
   },
   {
     "source": "hn",
-    "url": "https://www.seangoedecke.com/blog-about-things-you-dont-understand-yet/",
-    "title": "Blog about things you don't understand yet"
-  },
-  {
-    "source": "hn",
     "url": "https://www.historytoday.com/archive/feature/library-ashurbanipal",
     "title": "The Library of Ashurbanipal (2025)"
   },
   {
     "source": "hn",
-    "url": "https://cdn.openai.com/pdf/how-organizations-use-chatgpt.pdf",
-    "title": "How Organizations Use AI: Evidence from ChatGPT [pdf]"
-  },
-  {
-    "source": "hn",
-    "url": "https://ordinaryabundance.com/",
-    "title": "Ordinary Abundance"
+    "url": "https://www.whatcable.uk/",
+    "title": "WhatCable: Know what your USB-C cable can do"
   },
   {
     "source": "lobsters",
@@ -116,6 +121,11 @@
   },
   {
     "source": "lobsters",
+    "url": "https://daniel.haxx.se/blog/2026/08/14/curl-performance-2/",
+    "title": "Curl Performance"
+  },
+  {
+    "source": "lobsters",
     "url": "https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html",
     "title": "AI is removing the middle class of software engineering"
   },
@@ -126,13 +136,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://daniel.haxx.se/blog/2026/08/14/curl-performance-2/",
-    "title": "Curl Performance"
+    "url": "https://neugierig.org/software/blog/2026/08/dominators.html",
+    "title": "Computing graph dominators"
   },
   {
     "source": "lobsters",
-    "url": "https://neugierig.org/software/blog/2026/08/dominators.html",
-    "title": "Computing graph dominators"
+    "url": "https://newsletter.vickiboykis.com/archive/write-for-people/",
+    "title": "Write for people"
   },
   {
     "source": "lobsters",
@@ -146,8 +156,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://newsletter.vickiboykis.com/archive/write-for-people/",
-    "title": "Write for people"
+    "url": "https://byroot.github.io/ruby/performance/2026/08/13/speeding-up-ruby-hashes.html",
+    "title": "Speeding Up (small) Ruby Hashes"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://kolja.rs/algorithm-d",
+    "title": "A long division story"
   },
   {
     "source": "lobsters",
@@ -158,90 +173,5 @@
     "source": "lobsters",
     "url": "https://brandur.org/fragments/postgres-without-pgbouncer",
     "title": "Does anyone run Postgres without PgBouncer?"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://byroot.github.io/ruby/performance/2026/08/13/speeding-up-ruby-hashes.html",
-    "title": "Speeding Up (small) Ruby Hashes"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://svelte.dev/blog/sveltekit-3-release-candidate",
-    "title": "The SvelteKit 3 Release Candidate is here"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://stolen-thoughts.com/",
-    "title": "Stolen Thoughts: Stealing Reasoning Traces from Proprietary LLM APIs"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://brettcodes.com/im-done-using-ai/",
-    "title": "I'm done using AI – Brett Codes"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://stowaway.live/",
-    "title": "Stowaway — Ride along with the planes and satellites overhead"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://sophiebits.com/2026/06/25/there-are-no-lossless-transformations-of-natural-language-text",
-    "title": "There are no lossless transformations of natural-language text – Sophie Alpert"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.noemamag.com/why-is-everyone-in-tech-so-sad/",
-    "title": "Why Is Everyone In Tech So Sad?"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://calnewport.com/on-ai-coding-and-its-discontents/",
-    "title": "On AI Coding and Its Discontents - Cal Newport"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://refp.se/articles/your-shell-and-the-lazy-exclamation-mark",
-    "title": "A shell exclamation mark is not for yelling. Be lazy. | Filip Roséen - refp.se"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://tumbledry.org/2026/08/07/idrive_ads",
-    "title": "tumbledry.org: iDrive Ads"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://seg6.space/posts/phone-server/",
-    "title": "my server is a phone now — seg6"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://yeptype.com/article/inter-alternatives",
-    "title": "How to choose a UI font (and 10 Inter alternatives)"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://tailscale.com/blog/sqlite-wal-reset-bug",
-    "title": "How Tailscale helped find the SQLite WAL-Reset bug"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://danluu.com/pl-tokens/",
-    "title": "What's the best programming language for coding agents?"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.404media.co/company-offering-100-human-written-never-ai-peer-review-is-entirely-ai/",
-    "title": "Company Offering ‘100% Human-Written, Never AI’ Medical Research Is Entirely AI"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://master.dev/blog/typographic-css-tricks/",
-    "title": "5 CSS Properties You Should Know for Better Text Designs – Master.dev Blog"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://gowers.wordpress.com/2026/08/12/what-sort-of-maths-are-llms-good-at/",
-    "title": "What sort of maths are LLMs good at? | Gowers's Weblog"
   }
 ]
