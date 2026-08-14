@@ -1,6 +1,11 @@
 [
   {
     "source": "hn",
+    "url": "https://atproto.com/blog/introducing-bluesky-protocol-services",
+    "title": "Bluesky Protocol Services"
+  },
+  {
+    "source": "hn",
     "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/",
     "title": "Gemini 3.7 Flash"
   },
@@ -36,6 +41,11 @@
   },
   {
     "source": "hn",
+    "url": "https://blog.dundns.eu/posts/ddr-encrypted-dns-discovery/",
+    "title": "How a device finds encrypted DNS by itself"
+  },
+  {
+    "source": "hn",
     "url": "https://www.forth.org/literature/noble.html",
     "title": "Finite State Machines in Forth (1994)"
   },
@@ -48,6 +58,21 @@
     "source": "hn",
     "url": "https://earendil.com/posts/compaction-in-pi/",
     "title": "How Compaction Works in Pi"
+  },
+  {
+    "source": "hn",
+    "url": "https://domenkozar.com/2026/08/13/i-want-extern-fil-c/",
+    "title": "I want extern \"fil-C\""
+  },
+  {
+    "source": "hn",
+    "url": "https://szha.ai/blog/compute-optimal-is-not-cluster-optimal/",
+    "title": "Compute-Optimal Is Not Cluster-Optimal"
+  },
+  {
+    "source": "hn",
+    "url": "https://themech.net/2026/08/hello-me-its-been-a-while/",
+    "title": "Hello, me. It's been a while"
   },
   {
     "source": "hn",
@@ -71,16 +96,6 @@
   },
   {
     "source": "hn",
-    "url": "https://lrc.la.utexas.edu/eieol/tokol/0",
-    "title": "Tocharian Online"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.netlify.com/blog/one-prompt-11-models-very-different-results/",
-    "title": "Choosing an AI model: one prompt, 11 models, different results"
-  },
-  {
-    "source": "hn",
     "url": "https://ordinaryabundance.com/",
     "title": "Ordinary abundance"
   },
@@ -90,29 +105,9 @@
     "title": "Text AI watermarks will always be trivial to remove"
   },
   {
-    "source": "hn",
-    "url": "https://gloom.sh/",
-    "title": "Gloomberb"
-  },
-  {
-    "source": "hn",
-    "url": "https://aeon.co/essays/humans-did-not-invent-art-it-was-the-other-way-around",
-    "title": "How art invented humanity"
-  },
-  {
-    "source": "hn",
-    "url": "https://tschatzl.github.io/2026/08/10/jdk27-g1-serial-parallel-gc-changes.html",
-    "title": "JDK 27 G1/Parallel/Serial GC Changes"
-  },
-  {
     "source": "lobsters",
     "url": "https://sebsite.pw/w/20260801-pythonconstants.html",
     "title": "python's pre-declared constants are kinda weird"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://domenkozar.com/2026/08/13/i-want-extern-fil-c/",
-    "title": "I want extern \"fil-c\""
   },
   {
     "source": "lobsters",
@@ -136,6 +131,11 @@
   },
   {
     "source": "lobsters",
+    "url": "https://c3-lang.org/blog/c3_0_8_3_feature_flags/",
+    "title": "C3 0.8.3 Feature flags"
+  },
+  {
+    "source": "lobsters",
     "url": "https://tailscale.com/blog/sqlite-wal-reset-bug",
     "title": "How Tailscale helped find the SQLite WAL-Reset bug"
   },
@@ -146,18 +146,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://c3-lang.org/blog/c3_0_8_3_feature_flags/",
-    "title": "C3 0.8.3 Feature flags"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://phunky.cafe/my-homelab-got-hacked/",
-    "title": "My Homelab Got Hacked - A Postmortem"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://stallman.org/articles/on-hacking.html",
-    "title": "On Hacking"
+    "url": "https://www.simplermachines.com/lets-not-call-it-tech-debt-its-just-mess/",
+    "title": "Let's not call it \"tech debt,\" it's just \"mess\""
   },
   {
     "source": "lobsters",
@@ -166,8 +156,18 @@
   },
   {
     "source": "lobsters",
+    "url": "https://phunky.cafe/my-homelab-got-hacked/",
+    "title": "My Homelab Got Hacked - A Postmortem"
+  },
+  {
+    "source": "lobsters",
     "url": "https://svelte.dev/blog/sveltekit-3-release-candidate",
     "title": "The SvelteKit 3 Release Candidate is here"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://stallman.org/articles/on-hacking.html",
+    "title": "On Hacking"
   },
   {
     "source": "lobsters",
@@ -183,15 +183,5 @@
     "source": "lobsters",
     "url": "https://a.security/blog/asecurity-zoomsday",
     "title": "ZOOMSDAY, Zoom Zero-Click Vulnerabilities Via Annotation"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://hackmd.io/@s_haMSbyTAOWfoXc1aYNUg/Hka74gCwZg",
-    "title": "A critical review of Xilem in 2026"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://nibblestew.blogspot.com/2026/08/digitizing-super-8-film-yourself.html",
-    "title": "Digitizing super 8 film yourself"
   }
 ]
