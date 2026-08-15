@@ -6,13 +6,13 @@
   },
   {
     "source": "hn",
-    "url": "https://www.wired.com/story/this-coin-sized-device-can-hack-a-boeing-737/",
-    "title": "Coin-sized device can hack a Boeing 737"
+    "url": "https://blog.cryptographyengineering.com/2026/08/14/everything-is-about-to-go-dark/",
+    "title": "Going Dark, and the era of law enforcement hacking"
   },
   {
     "source": "hn",
-    "url": "https://blog.cryptographyengineering.com/2026/08/14/everything-is-about-to-go-dark/",
-    "title": "Going Dark, and the era of law enforcement hacking"
+    "url": "https://www.wired.com/story/this-coin-sized-device-can-hack-a-boeing-737/",
+    "title": "Coin-sized device can hack a Boeing 737"
   },
   {
     "source": "hn",
@@ -21,28 +21,28 @@
   },
   {
     "source": "hn",
-    "url": "https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/",
-    "title": "Google is making private AI practical with homomorphic encryption"
-  },
-  {
-    "source": "hn",
     "url": "https://eigendrum.com/#p=circle",
     "title": "eigendrum"
   },
   {
     "source": "hn",
-    "url": "https://app.deltix.ai",
-    "title": "Show HN: Deltix – AI Driven Testing"
-  },
-  {
-    "source": "hn",
-    "url": "https://fzakaria.com/2026/08/05/super-mario-derivations",
-    "title": "Super Mario Derivations"
+    "url": "https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/",
+    "title": "Google is making private AI practical with homomorphic encryption"
   },
   {
     "source": "hn",
     "url": "https://chenxiachan.github.io/thoughtdag/",
     "title": "Show HN: ThoughtDAG – An editable context graph for LLM conversations"
+  },
+  {
+    "source": "hn",
+    "url": "https://silentshark.app/",
+    "title": "Show HN: Silent Shark – tactical map-based WWII submarine sim"
+  },
+  {
+    "source": "hn",
+    "url": "https://fzakaria.com/2026/08/05/super-mario-derivations",
+    "title": "Super Mario Derivations"
   },
   {
     "source": "hn",
@@ -56,13 +56,18 @@
   },
   {
     "source": "hn",
-    "url": "https://uvbirds.com/",
-    "title": "Ultraviolet Bird Photography"
+    "url": "https://blog.racket-lang.org/2026/08/racket-v9-3.html",
+    "title": "Racket v9.3"
   },
   {
     "source": "hn",
-    "url": "https://www.daniellitt.com/blog/2026/8/11/the-end-of-mathematics",
-    "title": "The End of Mathematics"
+    "url": "https://app.deltix.ai",
+    "title": "Show HN: Deltix – AI Driven Testing"
+  },
+  {
+    "source": "hn",
+    "url": "https://uvbirds.com/",
+    "title": "Ultraviolet Bird Photography"
   },
   {
     "source": "hn",
@@ -73,16 +78,6 @@
     "source": "hn",
     "url": "http://pascal.hansotten.com/delphi/turbo-pascal-on-cpm-msx-dos-and-ms-dos/",
     "title": "Turbo Pascal on CP/M, MSX-DOS and MS-DOS"
-  },
-  {
-    "source": "hn",
-    "url": "https://blog.racket-lang.org/2026/08/racket-v9-3.html",
-    "title": "Racket v9.3"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.michelebologna.net/2026/ssh-port-22-fwknop-single-packet-authorization/",
-    "title": "I close SSH port 22 (and what I use instead)"
   },
   {
     "source": "hn",
@@ -146,6 +141,16 @@
   },
   {
     "source": "lobsters",
+    "url": "https://sifter.org/~simon/journal/20260814.html",
+    "title": "Demystifying Type (and some Un-Paradoxing)"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://krebsonsecurity.com/2026/08/whos-tracking-you-use-this-new-service-to-find-out/",
+    "title": "Find out who’s tracking you with DecryptAds"
+  },
+  {
+    "source": "lobsters",
     "url": "https://neugierig.org/software/blog/2026/08/dominators.html",
     "title": "Computing graph dominators"
   },
@@ -153,10 +158,5 @@
     "source": "lobsters",
     "url": "https://sebsite.pw/w/20260801-pythonconstants.html",
     "title": "python's pre-declared constants are kinda weird"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://krebsonsecurity.com/2026/08/whos-tracking-you-use-this-new-service-to-find-out/",
-    "title": "Find out who’s tracking you with DecryptAds"
   }
 ]
