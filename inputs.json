@@ -36,8 +36,8 @@
   },
   {
     "source": "hn",
-    "url": "https://doeken.org/wcag-ebook",
-    "title": "Understanding WCAG 2.2 as ePub and PDF"
+    "url": "https://medicalxpress.com/news/2026-07-brain-rem-eeg.html",
+    "title": "Brain turns listening inward during REM sleep, EEG recordings suggest"
   },
   {
     "source": "hn",
@@ -48,6 +48,16 @@
     "source": "hn",
     "url": "https://chenxiachan.github.io/thoughtdag/",
     "title": "Show HN: ThoughtDAG – An editable context graph for LLM conversations"
+  },
+  {
+    "source": "hn",
+    "url": "https://doeken.org/wcag-ebook",
+    "title": "Understanding WCAG 2.2 as ePub and PDF"
+  },
+  {
+    "source": "hn",
+    "url": "https://hidden-phenomena.com/articles/monodromy",
+    "title": "Möbius Strips and Differential Equations"
   },
   {
     "source": "hn",
@@ -63,26 +73,6 @@
     "source": "hn",
     "url": "https://silentshark.app/",
     "title": "Show HN: Silent Shark – tactical map-based WWII submarine sim"
-  },
-  {
-    "source": "hn",
-    "url": "https://heyjonny.dev/posts/rss-to-eink-newspaper/",
-    "title": "I turned my RSS feeds into an e-ink newspaper to stop reading on my phone"
-  },
-  {
-    "source": "hn",
-    "url": "https://fzakaria.com/2026/08/05/super-mario-derivations",
-    "title": "Super Mario Derivations"
-  },
-  {
-    "source": "hn",
-    "url": "https://z.ai/blog/glm-5.3",
-    "title": "GLM-5.3: Frontier coding with emergent cyber capabilities"
-  },
-  {
-    "source": "hn",
-    "url": "https://blog.racket-lang.org/2026/08/racket-v9-3.html",
-    "title": "Racket v9.3"
   },
   {
     "source": "lobsters",
@@ -106,13 +96,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://goonhost.rocks/blog/implementing-ipv8-internet-draft",
-    "title": "We implemented the IPv8 Internet-Draft in the Linux Kernel, Musl Libc, and BGP"
+    "url": "https://lukefleed.xyz/posts/compression/",
+    "title": "How Is Compression Prediction?"
   },
   {
     "source": "lobsters",
-    "url": "https://fzakaria.com/2026/08/14/nixpkgs-multiverse-fast-mode",
-    "title": "nixpkgs-multiverse: fast mode"
+    "url": "https://blog.jsbarretto.com/post/i-remain-a-skeptic",
+    "title": "Why I remain a skeptic"
   },
   {
     "source": "lobsters",
@@ -121,8 +111,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://lukefleed.xyz/posts/compression/",
-    "title": "How Is Compression Prediction?"
+    "url": "https://fzakaria.com/2026/08/14/nixpkgs-multiverse-fast-mode",
+    "title": "nixpkgs-multiverse: fast mode"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://goonhost.rocks/blog/implementing-ipv8-internet-draft",
+    "title": "We implemented the IPv8 Internet-Draft in the Linux Kernel, Musl Libc, and BGP"
   },
   {
     "source": "lobsters",
