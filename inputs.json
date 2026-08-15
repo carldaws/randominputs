@@ -16,11 +16,6 @@
   },
   {
     "source": "hn",
-    "url": "https://blog.cr.yp.to/20260814-update.html",
-    "title": "NSA and IETF, Part 9"
-  },
-  {
-    "source": "hn",
     "url": "https://app.deltix.ai",
     "title": "AI Driven Testing"
   },
@@ -31,18 +26,18 @@
   },
   {
     "source": "hn",
-    "url": "https://www.mixedbread.com/blog/toast-1",
-    "title": "Introducing Toast 1"
-  },
-  {
-    "source": "hn",
     "url": "https://heyjonny.dev/posts/rss-to-eink-newspaper/",
     "title": "I turned my RSS feeds into an e-ink newspaper to stop reading on my phone"
   },
   {
     "source": "hn",
-    "url": "https://getsmall.xyz/post/cmstjfl9l000if70ljmpzr4va",
-    "title": "Stop sending me huge PRs; a rant"
+    "url": "https://www.mixedbread.com/blog/toast-1",
+    "title": "Introducing Toast 1"
+  },
+  {
+    "source": "hn",
+    "url": "https://blog.cr.yp.to/20260814-update.html",
+    "title": "NSA and IETF, Part 9"
   },
   {
     "source": "hn",
@@ -51,23 +46,23 @@
   },
   {
     "source": "hn",
-    "url": "https://mun-logadan.github.io/why-does-opus-5-feel-worse/",
-    "title": "Why does Opus 5 feel worse to work with?"
-  },
-  {
-    "source": "hn",
     "url": "https://z.ai/blog/glm-5.3",
     "title": "GLM-5.3: Frontier coding with emergent cyber capabilities"
   },
   {
     "source": "hn",
-    "url": "https://softwaredoug.com/blog/2026/08/10/hypothetical-classifications",
-    "title": "Don't classify, hallucinate"
+    "url": "https://mun-logadan.github.io/why-does-opus-5-feel-worse/",
+    "title": "Why does Opus 5 feel worse to work with?"
   },
   {
     "source": "hn",
     "url": "https://blog.plover.com/2026/08/02/",
     "title": "Seven books I keep close because I love them"
+  },
+  {
+    "source": "hn",
+    "url": "https://blog.racket-lang.org/2026/08/racket-v9-3.html",
+    "title": "Racket v9.3"
   },
   {
     "source": "hn",
@@ -101,13 +96,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://www.simplermachines.com/lets-not-call-it-tech-debt-its-just-mess/",
-    "title": "Let's not call it \"tech debt,\" it's just \"mess\""
+    "url": "https://cekrem.github.io/posts/there-is-still-no-silver-bullet/",
+    "title": "There Is Still No Silver Bullet"
   },
   {
     "source": "lobsters",
-    "url": "https://cekrem.github.io/posts/there-is-still-no-silver-bullet/",
-    "title": "There Is Still No Silver Bullet"
+    "url": "https://www.simplermachines.com/lets-not-call-it-tech-debt-its-just-mess/",
+    "title": "Let's not call it \"tech debt,\" it's just \"mess\""
   },
   {
     "source": "lobsters",
@@ -121,18 +116,18 @@
   },
   {
     "source": "lobsters",
-    "url": "https://sebsite.pw/w/20260801-pythonconstants.html",
-    "title": "python's pre-declared constants are kinda weird"
-  },
-  {
-    "source": "lobsters",
     "url": "https://neugierig.org/software/blog/2026/08/dominators.html",
     "title": "Computing graph dominators"
   },
   {
     "source": "lobsters",
-    "url": "https://simondobson.org/2026/08/07/strange-behaviour-in-lisp-sub-typing/",
-    "title": "Unexpected (to me) behaviour in Lisp sub-typing"
+    "url": "https://sebsite.pw/w/20260801-pythonconstants.html",
+    "title": "python's pre-declared constants are kinda weird"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://www.markusde.ca/pages/noslop.html",
+    "title": "An Anecdote Against Slop Artifacts"
   },
   {
     "source": "lobsters",
@@ -141,13 +136,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html",
-    "title": "AI is removing the middle class of software engineering"
+    "url": "https://simondobson.org/2026/08/07/strange-behaviour-in-lisp-sub-typing/",
+    "title": "Unexpected (to me) behaviour in Lisp sub-typing"
   },
   {
     "source": "lobsters",
-    "url": "https://www.markusde.ca/pages/noslop.html",
-    "title": "An Anecdote Against Slop Artifacts"
+    "url": "https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html",
+    "title": "AI is removing the middle class of software engineering"
   },
   {
     "source": "lobsters",
