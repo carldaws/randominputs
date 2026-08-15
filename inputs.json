@@ -16,8 +16,8 @@
   },
   {
     "source": "hn",
-    "url": "https://eigendrum.com/#p=circle",
-    "title": "eigendrum"
+    "url": "https://doeken.org/wcag-ebook",
+    "title": "Understanding WCAG 2.2 as ePub and PDF"
   },
   {
     "source": "hn",
@@ -26,13 +26,8 @@
   },
   {
     "source": "hn",
-    "url": "https://blog.ploopy.co/the-aplus-is-finally-here-499",
-    "title": "The Ploopy A+ Trackball Is Here"
-  },
-  {
-    "source": "hn",
-    "url": "https://chenxiachan.github.io/thoughtdag/",
-    "title": "Show HN: ThoughtDAG – An editable context graph for LLM conversations"
+    "url": "https://eigendrum.com/#p=circle",
+    "title": "eigendrum"
   },
   {
     "source": "hn",
@@ -41,8 +36,13 @@
   },
   {
     "source": "hn",
-    "url": "https://heyjonny.dev/posts/rss-to-eink-newspaper/",
-    "title": "I turned my RSS feeds into an e-ink newspaper to stop reading on my phone"
+    "url": "https://chenxiachan.github.io/thoughtdag/",
+    "title": "Show HN: ThoughtDAG – An editable context graph for LLM conversations"
+  },
+  {
+    "source": "hn",
+    "url": "https://blog.ploopy.co/the-aplus-is-finally-here-499",
+    "title": "The Ploopy A+ Trackball Is Here"
   },
   {
     "source": "hn",
@@ -51,13 +51,13 @@
   },
   {
     "source": "hn",
-    "url": "https://www.mixedbread.com/blog/toast-1",
-    "title": "Introducing Toast 1"
+    "url": "https://heyjonny.dev/posts/rss-to-eink-newspaper/",
+    "title": "I turned my RSS feeds into an e-ink newspaper to stop reading on my phone"
   },
   {
     "source": "hn",
-    "url": "https://blog.racket-lang.org/2026/08/racket-v9-3.html",
-    "title": "Racket v9.3"
+    "url": "https://www.mixedbread.com/blog/toast-1",
+    "title": "Introducing Toast 1"
   },
   {
     "source": "hn",
@@ -66,23 +66,23 @@
   },
   {
     "source": "hn",
+    "url": "https://blog.racket-lang.org/2026/08/racket-v9-3.html",
+    "title": "Racket v9.3"
+  },
+  {
+    "source": "hn",
     "url": "https://app.deltix.ai",
     "title": "Show HN: Deltix – AI Driven Testing"
   },
   {
     "source": "hn",
-    "url": "https://uvbirds.com/",
-    "title": "Ultraviolet Bird Photography"
+    "url": "https://mun-logadan.github.io/why-does-opus-5-feel-worse/",
+    "title": "Why does Opus 5 feel worse to work with?"
   },
   {
     "source": "hn",
     "url": "http://pascal.hansotten.com/delphi/turbo-pascal-on-cpm-msx-dos-and-ms-dos/",
     "title": "Turbo Pascal on CP/M, MSX-DOS and MS-DOS"
-  },
-  {
-    "source": "hn",
-    "url": "https://mun-logadan.github.io/why-does-opus-5-feel-worse/",
-    "title": "Why does Opus 5 feel worse to work with?"
   },
   {
     "source": "lobsters",
@@ -96,23 +96,23 @@
   },
   {
     "source": "lobsters",
-    "url": "https://daniel.haxx.se/blog/2026/08/14/curl-performance-2/",
-    "title": "Curl Performance"
-  },
-  {
-    "source": "lobsters",
     "url": "https://goonhost.rocks/blog/implementing-ipv8-internet-draft",
     "title": "We implemented the IPv8 Internet-Draft in the Linux Kernel, Musl Libc, and BGP"
   },
   {
     "source": "lobsters",
-    "url": "https://beyondloom.com/blog/artofchip8.html",
-    "title": "The Art of CHIP-8"
+    "url": "https://daniel.haxx.se/blog/2026/08/14/curl-performance-2/",
+    "title": "Curl Performance"
   },
   {
     "source": "lobsters",
     "url": "https://cekrem.github.io/posts/there-is-still-no-silver-bullet/",
     "title": "There Is Still No Silver Bullet"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://beyondloom.com/blog/artofchip8.html",
+    "title": "The Art of CHIP-8"
   },
   {
     "source": "lobsters",
@@ -128,6 +128,11 @@
     "source": "lobsters",
     "url": "https://www.markusde.ca/pages/noslop.html",
     "title": "An Anecdote Against Slop Artifacts"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://fzakaria.com/2026/08/14/nixpkgs-multiverse-fast-mode",
+    "title": "nixpkgs-multiverse: fast mode"
   },
   {
     "source": "lobsters",
