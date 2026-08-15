@@ -1,13 +1,13 @@
 [
   {
     "source": "hn",
-    "url": "https://sankalp.bearblog.dev/autoresearch/",
-    "title": "Auto-research with codex: How I achieved a 232x Faster Kernel"
+    "url": "https://dmitry.gr/?r=06.%20Thoughts&proj=12.%20RV",
+    "title": "RISC-V: They Should Have Known Better"
   },
   {
     "source": "hn",
-    "url": "https://dmitry.gr/?r=06.%20Thoughts&proj=12.%20RV",
-    "title": "RISC-V: They Should Have Known Better"
+    "url": "https://sankalp.bearblog.dev/autoresearch/",
+    "title": "Auto-research with codex: How I achieved a 232x Faster Kernel"
   },
   {
     "source": "hn",
@@ -16,13 +16,13 @@
   },
   {
     "source": "hn",
-    "url": "https://stankerstjens.github.io/could-a-computer-scientist-build-a-brain/",
-    "title": "Could a computer scientist build a brain?"
+    "url": "https://geek-fighter.vercel.app/",
+    "title": "Geek Fighter – 2d fighter game"
   },
   {
     "source": "hn",
-    "url": "https://linebender.org/blog/hyperbezier/",
-    "title": "The mathematical beauty of hyperbezier curves"
+    "url": "https://stankerstjens.github.io/could-a-computer-scientist-build-a-brain/",
+    "title": "Could a computer scientist build a brain?"
   },
   {
     "source": "hn",
@@ -36,8 +36,8 @@
   },
   {
     "source": "hn",
-    "url": "https://www.core77.com/posts/144869",
-    "title": "The Dutch Community Where People Live on Strips of Land in a Lake"
+    "url": "https://linebender.org/blog/hyperbezier/",
+    "title": "The mathematical beauty of hyperbezier curves"
   },
   {
     "source": "hn",
@@ -46,8 +46,8 @@
   },
   {
     "source": "hn",
-    "url": "https://blog.cryptographyengineering.com/2026/08/14/everything-is-about-to-go-dark/",
-    "title": "Going Dark, and the era of law enforcement hacking"
+    "url": "https://www.core77.com/posts/144869",
+    "title": "The Dutch Community Where People Live on Strips of Land in a Lake"
   },
   {
     "source": "hn",
@@ -71,6 +71,11 @@
   },
   {
     "source": "lobsters",
+    "url": "https://blog.cryptographyengineering.com/2026/08/14/everything-is-about-to-go-dark/",
+    "title": "Everything is about to “go dark”"
+  },
+  {
+    "source": "lobsters",
     "url": "https://blog.jsbarretto.com/post/i-remain-a-skeptic",
     "title": "Why I remain a skeptic"
   },
@@ -86,6 +91,11 @@
   },
   {
     "source": "lobsters",
+    "url": "https://bencornia.com/blog/recap-software-should-work-2026",
+    "title": "Recap: Software Should Work 2026"
+  },
+  {
+    "source": "lobsters",
     "url": "https://serokell.io/blog/serokell-s-work-on-ghc-dependent-types-part-5",
     "title": "Serokell’s Work on GHC: Dependent Types, Part 5"
   },
@@ -93,6 +103,11 @@
     "source": "lobsters",
     "url": "https://o.ee/blog/activitypub-won-by-being-boring/",
     "title": "ActivityPub Won by Being Boring"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://corbinsimpson.com/words/power-relations.html",
+    "title": "Power Relations"
   },
   {
     "source": "lobsters",
@@ -106,11 +121,6 @@
   },
   {
     "source": "lobsters",
-    "url": "https://corbinsimpson.com/words/power-relations.html",
-    "title": "Power Relations"
-  },
-  {
-    "source": "lobsters",
     "url": "https://sifter.org/~simon/journal/20260814.html",
     "title": "Demystifying Type (and some Un-Paradoxing)"
   },
@@ -121,8 +131,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://bencornia.com/blog/recap-software-should-work-2026",
-    "title": "Recap: Software Should Work 2026 | Ben Cornia"
+    "url": "https://ckrybus.com/static/papers/Bainbridge_1983_Automatica.pdf",
+    "title": "Ironies of Automation (1983)"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://jkm.dev/posts/how-2004-runescape-fit-a-multiplayer-rpg-into-56k-dialup/",
+    "title": "How 2004 RuneScape fit a multiplayer RPG into 56k dial-up"
   },
   {
     "source": "lobsters",
@@ -133,16 +148,6 @@
     "source": "lobsters",
     "url": "https://daniel.haxx.se/blog/2026/08/14/curl-performance-2/",
     "title": "Curl Performance"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://jkm.dev/posts/how-2004-runescape-fit-a-multiplayer-rpg-into-56k-dialup/",
-    "title": "How 2004 RuneScape fit a multiplayer RPG into 56k dial-up"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://ckrybus.com/static/papers/Bainbridge_1983_Automatica.pdf",
-    "title": "Ironies of Automation (1983)"
   },
   {
     "source": "lobsters",
