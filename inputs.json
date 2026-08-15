@@ -36,18 +36,13 @@
   },
   {
     "source": "hn",
-    "url": "https://www.treasurydirect.gov/savings-bonds/idme-one-month/",
-    "title": "TreasuryDirect: Prepare for ID.me – Your New Way to Log In"
-  },
-  {
-    "source": "hn",
     "url": "https://www.core77.com/posts/144869",
     "title": "The Dutch Community Where People Live on Strips of Land in a Lake"
   },
   {
     "source": "hn",
-    "url": "http://www.stephen-cresswell.com/2026/08/15/Yadda-3.0.0-BDD-in-the-Age-of-AI-Agents.html",
-    "title": "Yadda 3.0.0: BDD in the Age of AI Agents"
+    "url": "https://cblgh.org/posts/2026-07-31-pizza-box-project-stack/",
+    "title": "Pizza Box Project Stack"
   },
   {
     "source": "hn",
@@ -56,8 +51,8 @@
   },
   {
     "source": "hn",
-    "url": "https://uecker.codeberg.page/2026-07-14.html",
-    "title": "Using GCC's Nested Functions with Wide Pointers and No Trampolines II"
+    "url": "http://www.stephen-cresswell.com/2026/08/15/Yadda-3.0.0-BDD-in-the-Age-of-AI-Agents.html",
+    "title": "Yadda 3.0.0: BDD in the Age of AI Agents"
   },
   {
     "source": "hn",
@@ -66,13 +61,13 @@
   },
   {
     "source": "hn",
-    "url": "https://hidden-phenomena.com/articles/monodromy",
-    "title": "Möbius Strips and Differential Equations"
+    "url": "https://uecker.codeberg.page/2026-07-14.html",
+    "title": "Using GCC's Nested Functions with Wide Pointers and No Trampolines II"
   },
   {
     "source": "hn",
-    "url": "https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/",
-    "title": "Google is making private AI practical with homomorphic encryption"
+    "url": "https://hidden-phenomena.com/articles/monodromy",
+    "title": "Möbius Strips and Differential Equations"
   },
   {
     "source": "lobsters",
@@ -101,13 +96,13 @@
   },
   {
     "source": "lobsters",
-    "url": "http://www.gotw.ca/publications/concurrency-ddj.htm",
-    "title": "The Free Lunch Is Over: A Fundamental Turn Toward Concurrency in Software (2005)"
+    "url": "https://fzakaria.com/2026/08/14/nixpkgs-multiverse-fast-mode",
+    "title": "nixpkgs-multiverse: fast mode"
   },
   {
     "source": "lobsters",
-    "url": "https://fzakaria.com/2026/08/14/nixpkgs-multiverse-fast-mode",
-    "title": "nixpkgs-multiverse: fast mode"
+    "url": "http://www.gotw.ca/publications/concurrency-ddj.htm",
+    "title": "The Free Lunch Is Over: A Fundamental Turn Toward Concurrency in Software (2005)"
   },
   {
     "source": "lobsters",
@@ -116,13 +111,18 @@
   },
   {
     "source": "lobsters",
+    "url": "https://sifter.org/~simon/journal/20260814.html",
+    "title": "Demystifying Type (and some Un-Paradoxing)"
+  },
+  {
+    "source": "lobsters",
     "url": "https://goonhost.rocks/blog/implementing-ipv8-internet-draft",
     "title": "We implemented the IPv8 Internet-Draft in the Linux Kernel, Musl Libc, and BGP"
   },
   {
     "source": "lobsters",
-    "url": "https://sifter.org/~simon/journal/20260814.html",
-    "title": "Demystifying Type (and some Un-Paradoxing)"
+    "url": "https://bencornia.com/blog/recap-software-should-work-2026",
+    "title": "Recap: Software Should Work 2026 | Ben Cornia"
   },
   {
     "source": "lobsters",
@@ -136,6 +136,11 @@
   },
   {
     "source": "lobsters",
+    "url": "https://jkm.dev/posts/how-2004-runescape-fit-a-multiplayer-rpg-into-56k-dialup/",
+    "title": "How 2004 RuneScape fit a multiplayer RPG into 56k dial-up"
+  },
+  {
+    "source": "lobsters",
     "url": "https://ckrybus.com/static/papers/Bainbridge_1983_Automatica.pdf",
     "title": "Ironies of Automation (1983)"
   },
@@ -143,10 +148,5 @@
     "source": "lobsters",
     "url": "https://beyondloom.com/blog/artofchip8.html",
     "title": "The Art of CHIP-8"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://jkm.dev/posts/how-2004-runescape-fit-a-multiplayer-rpg-into-56k-dialup/",
-    "title": "How 2004 RuneScape fit a multiplayer RPG into 56k dial-up"
   }
 ]
