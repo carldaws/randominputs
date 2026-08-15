@@ -6,8 +6,8 @@
   },
   {
     "source": "hn",
-    "url": "https://alexrios.me/blog/writergate/",
-    "title": "Writergate: Zig I/O Interface Overhaul"
+    "url": "https://srikanth.ch/posts/the-ai-situation/",
+    "title": "The AI Situation in Software Development"
   },
   {
     "source": "hn",
@@ -31,28 +31,13 @@
   },
   {
     "source": "hn",
-    "url": "https://ludens.cl/photo/spectra/spectra.html",
-    "title": "The Color of White Light"
-  },
-  {
-    "source": "hn",
     "url": "https://baselashraf81.github.io/eigendrum/",
     "title": "Show HN: Eigendrum - Draw any shape and hear what it sounds like as a drum"
   },
   {
     "source": "hn",
-    "url": "https://opensauce.it/cloudflare-ai-psychosis/",
-    "title": "Cloudflare's AI Psychosis"
-  },
-  {
-    "source": "hn",
-    "url": "https://uecker.codeberg.page/2026-07-14.html",
-    "title": "Using GCC's Nested Functions with Wide Pointers and No Trampolines II"
-  },
-  {
-    "source": "hn",
-    "url": "https://stankerstjens.github.io/could-a-computer-scientist-build-a-brain/",
-    "title": "Could a computer scientist build a brain?"
+    "url": "https://ludens.cl/photo/spectra/spectra.html",
+    "title": "The Color of White Light"
   },
   {
     "source": "hn",
@@ -61,18 +46,13 @@
   },
   {
     "source": "hn",
-    "url": "https://leancrew.com/all-this/2026/08/a-planet-position-widget/",
-    "title": "A Planet Position Widget"
+    "url": "https://t3x.org/t3x/0/index.html",
+    "title": "T3X/0 a Minimal Procedural Language"
   },
   {
     "source": "hn",
-    "url": "https://horse.energy/who_buys_the_tokens.html",
-    "title": "So Who's Going to Buy All These Tokens?"
-  },
-  {
-    "source": "hn",
-    "url": "https://hidden-phenomena.com/articles/monodromy",
-    "title": "Möbius Strips and Differential Equations"
+    "url": "https://uecker.codeberg.page/2026-07-14.html",
+    "title": "Using GCC's Nested Functions with Wide Pointers and No Trampolines II"
   },
   {
     "source": "hn",
@@ -81,13 +61,8 @@
   },
   {
     "source": "hn",
-    "url": "https://medicalxpress.com/news/2026-07-brain-rem-eeg.html",
-    "title": "Brain turns listening inward during REM sleep, EEG recordings suggest"
-  },
-  {
-    "source": "hn",
-    "url": "https://t3x.org/t3x/0/index.html",
-    "title": "T3X/0 a Minimal Procedural Language"
+    "url": "https://hidden-phenomena.com/articles/monodromy",
+    "title": "Möbius Strips and Differential Equations"
   },
   {
     "source": "hn",
@@ -96,13 +71,23 @@
   },
   {
     "source": "hn",
+    "url": "https://stankerstjens.github.io/could-a-computer-scientist-build-a-brain/",
+    "title": "Could a computer scientist build a brain?"
+  },
+  {
+    "source": "hn",
+    "url": "https://leancrew.com/all-this/2026/08/a-planet-position-widget/",
+    "title": "A Planet Position Widget"
+  },
+  {
+    "source": "hn",
     "url": "https://chenxiachan.github.io/thoughtdag/",
     "title": "Show HN: ThoughtDAG – An editable context graph for LLM conversations"
   },
   {
     "source": "hn",
-    "url": "https://doeken.org/wcag-ebook",
-    "title": "Understanding WCAG 2.2 as ePub and PDF"
+    "url": "https://medicalxpress.com/news/2026-07-brain-rem-eeg.html",
+    "title": "Brain turns listening inward during REM sleep, EEG recordings suggest"
   },
   {
     "source": "lobsters",
@@ -161,6 +146,11 @@
   },
   {
     "source": "lobsters",
+    "url": "https://sifter.org/~simon/journal/20260814.html",
+    "title": "Demystifying Type (and some Un-Paradoxing)"
+  },
+  {
+    "source": "lobsters",
     "url": "https://beyondloom.com/blog/artofchip8.html",
     "title": "The Art of CHIP-8"
   },
@@ -168,16 +158,6 @@
     "source": "lobsters",
     "url": "https://jkm.dev/posts/how-2004-runescape-fit-a-multiplayer-rpg-into-56k-dialup/",
     "title": "How 2004 RuneScape fit a multiplayer RPG into 56k dial-up"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://sifter.org/~simon/journal/20260814.html",
-    "title": "Demystifying Type (and some Un-Paradoxing)"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://loktar00.github.io/qwen3-8-27b-demos/",
-    "title": "Qwen3.8-27B - Release Day Demos"
   },
   {
     "source": "lobsters",
