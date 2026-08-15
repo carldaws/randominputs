@@ -16,8 +16,18 @@
   },
   {
     "source": "hn",
+    "url": "https://baselashraf81.github.io/eigendrum/",
+    "title": "Show HN: Eigendrum - Draw any shape and hear what it sounds like as a drum"
+  },
+  {
+    "source": "hn",
     "url": "https://doeken.org/wcag-ebook",
     "title": "Understanding WCAG 2.2 as ePub and PDF"
+  },
+  {
+    "source": "hn",
+    "url": "https://chenxiachan.github.io/thoughtdag/",
+    "title": "Show HN: ThoughtDAG – An editable context graph for LLM conversations"
   },
   {
     "source": "hn",
@@ -36,18 +46,8 @@
   },
   {
     "source": "hn",
-    "url": "https://chenxiachan.github.io/thoughtdag/",
-    "title": "Show HN: ThoughtDAG – An editable context graph for LLM conversations"
-  },
-  {
-    "source": "hn",
-    "url": "https://blog.ploopy.co/the-aplus-is-finally-here-499",
-    "title": "The Ploopy A+ Trackball Is Here"
-  },
-  {
-    "source": "hn",
-    "url": "https://fzakaria.com/2026/08/05/super-mario-derivations",
-    "title": "Super Mario Derivations"
+    "url": "https://uecker.codeberg.page/2026-07-14.html",
+    "title": "Using GCC's Nested Functions with Wide Pointers and No Trampolines II"
   },
   {
     "source": "hn",
@@ -61,6 +61,11 @@
   },
   {
     "source": "hn",
+    "url": "https://fzakaria.com/2026/08/05/super-mario-derivations",
+    "title": "Super Mario Derivations"
+  },
+  {
+    "source": "hn",
     "url": "https://z.ai/blog/glm-5.3",
     "title": "GLM-5.3: Frontier coding with emergent cyber capabilities"
   },
@@ -71,18 +76,13 @@
   },
   {
     "source": "hn",
-    "url": "https://app.deltix.ai",
-    "title": "Show HN: Deltix – AI Driven Testing"
+    "url": "https://uvbirds.com/",
+    "title": "Ultraviolet Bird Photography"
   },
   {
     "source": "hn",
     "url": "https://mun-logadan.github.io/why-does-opus-5-feel-worse/",
     "title": "Why does Opus 5 feel worse to work with?"
-  },
-  {
-    "source": "hn",
-    "url": "http://pascal.hansotten.com/delphi/turbo-pascal-on-cpm-msx-dos-and-ms-dos/",
-    "title": "Turbo Pascal on CP/M, MSX-DOS and MS-DOS"
   },
   {
     "source": "lobsters",
@@ -106,13 +106,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://cekrem.github.io/posts/there-is-still-no-silver-bullet/",
-    "title": "There Is Still No Silver Bullet"
+    "url": "https://beyondloom.com/blog/artofchip8.html",
+    "title": "The Art of CHIP-8"
   },
   {
     "source": "lobsters",
-    "url": "https://beyondloom.com/blog/artofchip8.html",
-    "title": "The Art of CHIP-8"
+    "url": "https://cekrem.github.io/posts/there-is-still-no-silver-bullet/",
+    "title": "There Is Still No Silver Bullet"
   },
   {
     "source": "lobsters",
@@ -126,18 +126,13 @@
   },
   {
     "source": "lobsters",
+    "url": "https://sifter.org/~simon/journal/20260814.html",
+    "title": "Demystifying Type (and some Un-Paradoxing)"
+  },
+  {
+    "source": "lobsters",
     "url": "https://www.markusde.ca/pages/noslop.html",
     "title": "An Anecdote Against Slop Artifacts"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://fzakaria.com/2026/08/14/nixpkgs-multiverse-fast-mode",
-    "title": "nixpkgs-multiverse: fast mode"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://markuseliasson.se/article/guilt-driven-development",
-    "title": "Guilt-Driven Development"
   },
   {
     "source": "lobsters",
@@ -146,8 +141,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://sifter.org/~simon/journal/20260814.html",
-    "title": "Demystifying Type (and some Un-Paradoxing)"
+    "url": "https://markuseliasson.se/article/guilt-driven-development",
+    "title": "Guilt-Driven Development"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://fzakaria.com/2026/08/14/nixpkgs-multiverse-fast-mode",
+    "title": "nixpkgs-multiverse: fast mode"
   },
   {
     "source": "lobsters",
@@ -158,10 +158,5 @@
     "source": "lobsters",
     "url": "https://neugierig.org/software/blog/2026/08/dominators.html",
     "title": "Computing graph dominators"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://sebsite.pw/w/20260801-pythonconstants.html",
-    "title": "python's pre-declared constants are kinda weird"
   }
 ]
