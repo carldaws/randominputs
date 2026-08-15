@@ -16,11 +16,6 @@
   },
   {
     "source": "hn",
-    "url": "https://blog.ploopy.co/the-aplus-is-finally-here-499",
-    "title": "The Ploopy A+ Trackball Is Here"
-  },
-  {
-    "source": "hn",
     "url": "https://eigendrum.com/#p=circle",
     "title": "eigendrum"
   },
@@ -28,6 +23,11 @@
     "source": "hn",
     "url": "https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/",
     "title": "Google is making private AI practical with homomorphic encryption"
+  },
+  {
+    "source": "hn",
+    "url": "https://blog.ploopy.co/the-aplus-is-finally-here-499",
+    "title": "The Ploopy A+ Trackball Is Here"
   },
   {
     "source": "hn",
@@ -41,13 +41,13 @@
   },
   {
     "source": "hn",
-    "url": "https://fzakaria.com/2026/08/05/super-mario-derivations",
-    "title": "Super Mario Derivations"
+    "url": "https://heyjonny.dev/posts/rss-to-eink-newspaper/",
+    "title": "I turned my RSS feeds into an e-ink newspaper to stop reading on my phone"
   },
   {
     "source": "hn",
-    "url": "https://heyjonny.dev/posts/rss-to-eink-newspaper/",
-    "title": "I turned my RSS feeds into an e-ink newspaper to stop reading on my phone"
+    "url": "https://fzakaria.com/2026/08/05/super-mario-derivations",
+    "title": "Super Mario Derivations"
   },
   {
     "source": "hn",
@@ -61,6 +61,11 @@
   },
   {
     "source": "hn",
+    "url": "https://z.ai/blog/glm-5.3",
+    "title": "GLM-5.3: Frontier coding with emergent cyber capabilities"
+  },
+  {
+    "source": "hn",
     "url": "https://app.deltix.ai",
     "title": "Show HN: Deltix – AI Driven Testing"
   },
@@ -68,11 +73,6 @@
     "source": "hn",
     "url": "https://uvbirds.com/",
     "title": "Ultraviolet Bird Photography"
-  },
-  {
-    "source": "hn",
-    "url": "https://z.ai/blog/glm-5.3",
-    "title": "GLM-5.3: Frontier coding with emergent cyber capabilities"
   },
   {
     "source": "hn",
@@ -131,13 +131,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://simondobson.org/2026/08/07/strange-behaviour-in-lisp-sub-typing/",
-    "title": "Unexpected (to me) behaviour in Lisp sub-typing"
+    "url": "https://markuseliasson.se/article/guilt-driven-development",
+    "title": "Guilt-Driven Development"
   },
   {
     "source": "lobsters",
-    "url": "https://markuseliasson.se/article/guilt-driven-development",
-    "title": "Guilt-Driven Development"
+    "url": "https://simondobson.org/2026/08/07/strange-behaviour-in-lisp-sub-typing/",
+    "title": "Unexpected (to me) behaviour in Lisp sub-typing"
   },
   {
     "source": "lobsters",
