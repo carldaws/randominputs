@@ -6,13 +6,18 @@
   },
   {
     "source": "hn",
+    "url": "https://uecker.codeberg.page/2026-07-14.html",
+    "title": "Using GCC's Nested Functions with Wide Pointers and No Trampolines II"
+  },
+  {
+    "source": "hn",
     "url": "https://blog.cryptographyengineering.com/2026/08/14/everything-is-about-to-go-dark/",
     "title": "Going Dark, and the era of law enforcement hacking"
   },
   {
     "source": "hn",
-    "url": "https://www.wired.com/story/this-coin-sized-device-can-hack-a-boeing-737/",
-    "title": "Coin-sized device can hack a Boeing 737"
+    "url": "https://linebender.org/blog/hyperbezier/",
+    "title": "The mathematical beauty of hyperbezier curves"
   },
   {
     "source": "hn",
@@ -36,8 +41,8 @@
   },
   {
     "source": "hn",
-    "url": "https://eigendrum.com/#p=circle",
-    "title": "eigendrum"
+    "url": "https://www.wired.com/story/this-coin-sized-device-can-hack-a-boeing-737/",
+    "title": "Coin-sized device can hack a Boeing 737"
   },
   {
     "source": "hn",
@@ -46,8 +51,8 @@
   },
   {
     "source": "hn",
-    "url": "https://uecker.codeberg.page/2026-07-14.html",
-    "title": "Using GCC's Nested Functions with Wide Pointers and No Trampolines II"
+    "url": "https://eigendrum.com/#p=circle",
+    "title": "eigendrum"
   },
   {
     "source": "hn",
@@ -81,8 +86,8 @@
   },
   {
     "source": "hn",
-    "url": "https://mun-logadan.github.io/why-does-opus-5-feel-worse/",
-    "title": "Why does Opus 5 feel worse to work with?"
+    "url": "https://app.deltix.ai",
+    "title": "Show HN: Deltix – AI Driven Testing"
   },
   {
     "source": "lobsters",
@@ -106,8 +111,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://beyondloom.com/blog/artofchip8.html",
-    "title": "The Art of CHIP-8"
+    "url": "https://serokell.io/blog/serokell-s-work-on-ghc-dependent-types-part-5",
+    "title": "Serokell’s Work on GHC: Dependent Types, Part 5"
   },
   {
     "source": "lobsters",
@@ -116,8 +121,23 @@
   },
   {
     "source": "lobsters",
+    "url": "https://beyondloom.com/blog/artofchip8.html",
+    "title": "The Art of CHIP-8"
+  },
+  {
+    "source": "lobsters",
+    "url": "http://www.gotw.ca/publications/concurrency-ddj.htm",
+    "title": "The Free Lunch Is Over: A Fundamental Turn Toward Concurrency in Software (2005)"
+  },
+  {
+    "source": "lobsters",
     "url": "https://www.simplermachines.com/lets-not-call-it-tech-debt-its-just-mess/",
     "title": "Let's not call it \"tech debt,\" it's just \"mess\""
+  },
+  {
+    "source": "lobsters",
+    "url": "https://fzakaria.com/2026/08/14/nixpkgs-multiverse-fast-mode",
+    "title": "nixpkgs-multiverse: fast mode"
   },
   {
     "source": "lobsters",
@@ -143,20 +163,5 @@
     "source": "lobsters",
     "url": "https://markuseliasson.se/article/guilt-driven-development",
     "title": "Guilt-Driven Development"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://fzakaria.com/2026/08/14/nixpkgs-multiverse-fast-mode",
-    "title": "nixpkgs-multiverse: fast mode"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://krebsonsecurity.com/2026/08/whos-tracking-you-use-this-new-service-to-find-out/",
-    "title": "Find out who’s tracking you with DecryptAds"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://neugierig.org/software/blog/2026/08/dominators.html",
-    "title": "Computing graph dominators"
   }
 ]
