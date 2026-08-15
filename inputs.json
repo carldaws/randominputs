@@ -6,18 +6,28 @@
   },
   {
     "source": "hn",
+    "url": "https://conic.al/writing/the-other-sean-byrne-doesnt-exist/",
+    "title": "The other Sean Byrne doesn't exist"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.michelebologna.net/2026/ssh-port-22-fwknop-single-packet-authorization/",
+    "title": "I close SSH port 22 (and what I use instead)"
+  },
+  {
+    "source": "hn",
     "url": "https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/",
     "title": "Google is making private AI practical with homomorphic encryption"
   },
   {
     "source": "hn",
-    "url": "https://eigendrum.com/#p=circle",
-    "title": "eigendrum"
+    "url": "https://app.deltix.ai",
+    "title": "AI Driven Testing"
   },
   {
     "source": "hn",
-    "url": "https://app.deltix.ai",
-    "title": "AI Driven Testing"
+    "url": "https://eigendrum.com/#p=circle",
+    "title": "eigendrum"
   },
   {
     "source": "hn",
@@ -36,11 +46,6 @@
   },
   {
     "source": "hn",
-    "url": "https://blog.cr.yp.to/20260814-update.html",
-    "title": "NSA and IETF, Part 9"
-  },
-  {
-    "source": "hn",
     "url": "http://pascal.hansotten.com/delphi/turbo-pascal-on-cpm-msx-dos-and-ms-dos/",
     "title": "Turbo Pascal on CP/M, MSX-DOS and MS-DOS"
   },
@@ -56,18 +61,13 @@
   },
   {
     "source": "hn",
-    "url": "https://blog.plover.com/2026/08/02/",
-    "title": "Seven books I keep close because I love them"
-  },
-  {
-    "source": "hn",
     "url": "https://blog.racket-lang.org/2026/08/racket-v9-3.html",
     "title": "Racket v9.3"
   },
   {
     "source": "hn",
-    "url": "https://luacad.ad-si.com",
-    "title": "Show HN: LuaCAD – Parametric CAD Scripted in Lua"
+    "url": "https://blog.plover.com/2026/08/02/",
+    "title": "Seven books I keep close because I love them"
   },
   {
     "source": "lobsters",
@@ -111,6 +111,11 @@
   },
   {
     "source": "lobsters",
+    "url": "https://www.markusde.ca/pages/noslop.html",
+    "title": "An Anecdote Against Slop Artifacts"
+  },
+  {
+    "source": "lobsters",
     "url": "https://markuseliasson.se/article/guilt-driven-development",
     "title": "Guilt-Driven Development"
   },
@@ -126,28 +131,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://www.markusde.ca/pages/noslop.html",
-    "title": "An Anecdote Against Slop Artifacts"
-  },
-  {
-    "source": "lobsters",
     "url": "https://krebsonsecurity.com/2026/08/whos-tracking-you-use-this-new-service-to-find-out/",
     "title": "Find out who’s tracking you with DecryptAds"
   },
   {
     "source": "lobsters",
-    "url": "https://simondobson.org/2026/08/07/strange-behaviour-in-lisp-sub-typing/",
-    "title": "Unexpected (to me) behaviour in Lisp sub-typing"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html",
-    "title": "AI is removing the middle class of software engineering"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://newsletter.vickiboykis.com/archive/write-for-people/",
-    "title": "Write for people"
+    "url": "https://jkm.dev/posts/how-2004-runescape-fit-a-multiplayer-rpg-into-56k-dialup/",
+    "title": "How 2004 RuneScape fit a multiplayer RPG into 56k dial-up · jkm.dev"
   },
   {
     "source": "pinboard",
@@ -163,6 +153,11 @@
     "source": "pinboard",
     "url": "https://ordinaryabundance.com/",
     "title": "Ordinary Abundance"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html",
+    "title": "AI is removing the middle class of software engineering"
   },
   {
     "source": "pinboard",
