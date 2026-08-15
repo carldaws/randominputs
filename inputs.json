@@ -1,8 +1,18 @@
 [
   {
     "source": "hn",
+    "url": "https://sankalp.bearblog.dev/autoresearch/",
+    "title": "Auto-research with codex: How I achieved a 232x Faster Kernel"
+  },
+  {
+    "source": "hn",
     "url": "https://conic.al/writing/the-other-sean-byrne-doesnt-exist/",
     "title": "The other Sean Byrne doesn't exist"
+  },
+  {
+    "source": "hn",
+    "url": "https://linebender.org/blog/hyperbezier/",
+    "title": "The mathematical beauty of hyperbezier curves"
   },
   {
     "source": "hn",
@@ -13,11 +23,6 @@
     "source": "hn",
     "url": "https://blog.cryptographyengineering.com/2026/08/14/everything-is-about-to-go-dark/",
     "title": "Going Dark, and the era of law enforcement hacking"
-  },
-  {
-    "source": "hn",
-    "url": "https://linebender.org/blog/hyperbezier/",
-    "title": "The mathematical beauty of hyperbezier curves"
   },
   {
     "source": "hn",
@@ -41,6 +46,11 @@
   },
   {
     "source": "hn",
+    "url": "https://ludens.cl/photo/spectra/spectra.html",
+    "title": "The Color of White Light"
+  },
+  {
+    "source": "hn",
     "url": "https://www.wired.com/story/this-coin-sized-device-can-hack-a-boeing-737/",
     "title": "Coin-sized device can hack a Boeing 737"
   },
@@ -61,18 +71,13 @@
   },
   {
     "source": "hn",
-    "url": "https://www.mixedbread.com/blog/toast-1",
-    "title": "Introducing Toast 1"
-  },
-  {
-    "source": "hn",
     "url": "https://fzakaria.com/2026/08/05/super-mario-derivations",
     "title": "Super Mario Derivations"
   },
   {
     "source": "hn",
-    "url": "https://z.ai/blog/glm-5.3",
-    "title": "GLM-5.3: Frontier coding with emergent cyber capabilities"
+    "url": "https://www.mixedbread.com/blog/toast-1",
+    "title": "Introducing Toast 1"
   },
   {
     "source": "hn",
@@ -81,13 +86,8 @@
   },
   {
     "source": "hn",
-    "url": "https://uvbirds.com/",
-    "title": "Ultraviolet Bird Photography"
-  },
-  {
-    "source": "hn",
-    "url": "https://app.deltix.ai",
-    "title": "Show HN: Deltix – AI Driven Testing"
+    "url": "https://z.ai/blog/glm-5.3",
+    "title": "GLM-5.3: Frontier coding with emergent cyber capabilities"
   },
   {
     "source": "lobsters",
@@ -101,6 +101,11 @@
   },
   {
     "source": "lobsters",
+    "url": "https://serokell.io/blog/serokell-s-work-on-ghc-dependent-types-part-5",
+    "title": "Serokell’s Work on GHC: Dependent Types, Part 5"
+  },
+  {
+    "source": "lobsters",
     "url": "https://goonhost.rocks/blog/implementing-ipv8-internet-draft",
     "title": "We implemented the IPv8 Internet-Draft in the Linux Kernel, Musl Libc, and BGP"
   },
@@ -108,11 +113,6 @@
     "source": "lobsters",
     "url": "https://daniel.haxx.se/blog/2026/08/14/curl-performance-2/",
     "title": "Curl Performance"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://serokell.io/blog/serokell-s-work-on-ghc-dependent-types-part-5",
-    "title": "Serokell’s Work on GHC: Dependent Types, Part 5"
   },
   {
     "source": "lobsters",
@@ -126,6 +126,11 @@
   },
   {
     "source": "lobsters",
+    "url": "https://fzakaria.com/2026/08/14/nixpkgs-multiverse-fast-mode",
+    "title": "nixpkgs-multiverse: fast mode"
+  },
+  {
+    "source": "lobsters",
     "url": "http://www.gotw.ca/publications/concurrency-ddj.htm",
     "title": "The Free Lunch Is Over: A Fundamental Turn Toward Concurrency in Software (2005)"
   },
@@ -133,16 +138,6 @@
     "source": "lobsters",
     "url": "https://www.simplermachines.com/lets-not-call-it-tech-debt-its-just-mess/",
     "title": "Let's not call it \"tech debt,\" it's just \"mess\""
-  },
-  {
-    "source": "lobsters",
-    "url": "https://fzakaria.com/2026/08/14/nixpkgs-multiverse-fast-mode",
-    "title": "nixpkgs-multiverse: fast mode"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://domenkozar.com/2026/08/13/i-want-extern-fil-c/",
-    "title": "I want extern \"fil-c\""
   },
   {
     "source": "lobsters",
@@ -156,12 +151,22 @@
   },
   {
     "source": "lobsters",
-    "url": "https://simondobson.org/2026/08/07/strange-behaviour-in-lisp-sub-typing/",
-    "title": "Unexpected (to me) behaviour in Lisp sub-typing"
+    "url": "https://domenkozar.com/2026/08/13/i-want-extern-fil-c/",
+    "title": "I want extern \"fil-c\""
   },
   {
     "source": "lobsters",
     "url": "https://markuseliasson.se/article/guilt-driven-development",
     "title": "Guilt-Driven Development"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://simondobson.org/2026/08/07/strange-behaviour-in-lisp-sub-typing/",
+    "title": "Unexpected (to me) behaviour in Lisp sub-typing"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://jkm.dev/posts/how-2004-runescape-fit-a-multiplayer-rpg-into-56k-dialup/",
+    "title": "How 2004 RuneScape fit a multiplayer RPG into 56k dial-up"
   }
 ]
