@@ -16,8 +16,8 @@
   },
   {
     "source": "hn",
-    "url": "https://wiki.lowtechlab.org/wiki/Filtre_%C3%A0_eau_c%C3%A9ramique/en",
-    "title": "Low-Tech Ceramic Water Filter"
+    "url": "https://www.bloomberg.com/news/articles/2026-08-16/stripe-nears-deal-to-buy-ai-firm-openrouter-for-over-7-billion",
+    "title": "Stripe Clinches over $7B Deal to Buy AI Firm OpenRouter"
   },
   {
     "source": "hn",
@@ -56,18 +56,8 @@
   },
   {
     "source": "hn",
-    "url": "https://www.bloomberg.com/news/articles/2026-08-16/stripe-nears-deal-to-buy-ai-firm-openrouter-for-over-7-billion",
-    "title": "Stripe Clinches over $7B Deal to Buy AI Firm OpenRouter"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.newyorker.com/news/annals-of-inquiry/gps-and-the-lost-art-of-getting-lost",
-    "title": "GPS and the Lost Art of Getting Lost"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.motherjones.com/politics/2026/08/donald-trump-world-liberty-regulatory-approval/",
-    "title": "The Trumps' Crypto Project Just Got One Step Closer to Becoming a Bank"
+    "url": "https://www.slowtravelberlin.com/in-the-shadow-of-the-berlin-wall/",
+    "title": "In the Shadow of the (Berlin) Wall"
   },
   {
     "source": "lobsters",
@@ -86,13 +76,18 @@
   },
   {
     "source": "lobsters",
-    "url": "https://heiwiper.com/posts/magit-status-tour/",
-    "title": "A Tour of Magit's Status Interface"
+    "url": "https://www.benjoffe.com/fast-day-of-week",
+    "title": "A faster way to calculate the day-of-the-week"
   },
   {
     "source": "lobsters",
     "url": "https://nolanlawson.com/2026/08/16/you-can-just-choose-how-many-bugs-you-want-now/",
     "title": "You can just choose how many bugs you want now"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://heiwiper.com/posts/magit-status-tour/",
+    "title": "A Tour of Magit's Status Interface"
   },
   {
     "source": "lobsters",
@@ -106,8 +101,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://www.benjoffe.com/fast-day-of-week",
-    "title": "A faster way to calculate the day-of-the-week"
+    "url": "https://passbe.com/2022/healthchecks-io-systemd-checks/",
+    "title": "Monitoring SystemD services with Healthchecks.io"
   },
   {
     "source": "lobsters",
@@ -118,11 +113,6 @@
     "source": "lobsters",
     "url": "https://blog.cryptographyengineering.com/2026/08/14/everything-is-about-to-go-dark/",
     "title": "Everything is about to “go dark”"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://passbe.com/2022/healthchecks-io-systemd-checks/",
-    "title": "Monitoring SystemD services with Healthchecks.io"
   },
   {
     "source": "lobsters",
@@ -146,17 +136,112 @@
   },
   {
     "source": "lobsters",
-    "url": "https://corbinsimpson.com/words/power-relations.html",
-    "title": "Power Relations"
-  },
-  {
-    "source": "lobsters",
     "url": "https://rhonabwy.com/2026/08/15/software-engineering-fundamentals-matter-more-than-ever/",
     "title": "Software Engineering fundamentals matter more than ever"
   },
   {
     "source": "lobsters",
+    "url": "https://corbinsimpson.com/words/power-relations.html",
+    "title": "Power Relations"
+  },
+  {
+    "source": "lobsters",
     "url": "https://lukefleed.xyz/posts/compression/",
     "title": "How Is Compression Prediction?"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://ordinaryabundance.com/",
+    "title": "Ordinary Abundance"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html",
+    "title": "AI is removing the middle class of software engineering"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://brettcodes.com/im-done-using-ai/",
+    "title": "I'm done using AI – Brett Codes"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.geoffreylitt.com/2026/07/02/understanding-is-the-new-bottleneck",
+    "title": "Understanding is the new bottleneck"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://gloom.sh/",
+    "title": "Gloomberb"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://mcfunley.com/choose-boring-technology",
+    "title": "Dan McKinley :: Choose Boring Technology"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://stowaway.live/",
+    "title": "Stowaway — Ride along with the planes and satellites overhead"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://defector.com/humanists-have-done-nothing-wrong",
+    "title": "https://defector.com/humanists-have-done-nothing-wrong"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://craigmod.com/essays/robot_blood/",
+    "title": "A Swarm of Blood Robots — by Craig Mod"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/",
+    "title": "How Google is Making Private AI Practical with Homomorphic Encryption"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://calnewport.com/on-ai-coding-and-its-discontents/",
+    "title": "On AI Coding and Its Discontents - Cal Newport"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/",
+    "title": "Gemini 3.7 Flash: our most intelligent workhorse model"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://tailscale.com/blog/sqlite-wal-reset-bug",
+    "title": "How Tailscale helped find the SQLite WAL-Reset bug"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.noemamag.com/why-is-everyone-in-tech-so-sad/",
+    "title": "Why Is Everyone In Tech So Sad?"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://nurb.dev/",
+    "title": "nurb · describe the part, print the part"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://futurism.com/artificial-intelligence/ai-impact-environment-horrifying-new-paper",
+    "title": "AI's Impact on the Environment Is Absolutely Horrifying, New Paper Finds"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://eigendrum.com/#p=circle",
+    "title": "eigendrum.com"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://stolen-thoughts.com/",
+    "title": "Stolen Thoughts: Stealing Reasoning Traces from Proprietary LLM APIs"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://deepseek.com/harness/en/",
+    "title": "DeepSeek Harness developer preview: Everything is a plugin"
   }
 ]
