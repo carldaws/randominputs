@@ -1,6 +1,11 @@
 [
   {
     "source": "hn",
+    "url": "https://w4g1.dev/blog/models-are-getting-dumber-on-purpose",
+    "title": "Models Are Getting Dumber on Purpose"
+  },
+  {
+    "source": "hn",
     "url": "https://math-ai-org.github.io/mathcode/",
     "title": "MathCode, Mathematical Coding Agent"
   },
@@ -8,11 +13,6 @@
     "source": "hn",
     "url": "https://commonreader.wustl.edu/winning-and-losing-at-the-great-game-of-intimacy/",
     "title": "Anton Chekhov played at love most of his life"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.newyorker.com/news/annals-of-inquiry/gps-and-the-lost-art-of-getting-lost",
-    "title": "GPS and the Lost Art of Getting Lost"
   },
   {
     "source": "hn",
@@ -26,23 +26,18 @@
   },
   {
     "source": "hn",
-    "url": "https://www.lorekit.io/blog/give-your-agent-a-memory",
-    "title": "I've built a free, open-source local and remote memory system for agentw and CL"
+    "url": "https://ei3lh.eu/2026/08/16/a-true-telnet-bbs-on-a-casio-calculator/",
+    "title": "A True Telnet BBS on a Casio Calculator"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.newyorker.com/news/annals-of-inquiry/gps-and-the-lost-art-of-getting-lost",
+    "title": "GPS and the Lost Art of Getting Lost"
   },
   {
     "source": "hn",
     "url": "https://www.ianvisits.co.uk/articles/before-rightmove-there-was-the-cosmorama-londons-forgotten-property-innovation-91687/",
     "title": "Before Rightmove, there was the Cosmorama"
-  },
-  {
-    "source": "hn",
-    "url": "https://wildstatic.com/",
-    "title": "Show HN: A public AI whose memory is shared across all users"
-  },
-  {
-    "source": "hn",
-    "url": "https://ei3lh.eu/2026/08/16/a-true-telnet-bbs-on-a-casio-calculator/",
-    "title": "A True Telnet BBS on a Casio Calculator"
   },
   {
     "source": "hn",
@@ -56,18 +51,13 @@
   },
   {
     "source": "hn",
-    "url": "https://peterbloem.nl/blog/craft-coding",
-    "title": "AI Coding Without the Vibes"
+    "url": "https://wildstatic.com/",
+    "title": "Show HN: A public AI whose memory is shared across all users"
   },
   {
     "source": "hn",
     "url": "https://brandur.org/fragments/postgres-without-pgbouncer",
     "title": "Does anyone run Postgres without PgBouncer?"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.severe-weather.eu/long-range-2/super-el-nino-growth-accelerating-to-record-strength-fall-winter-2026-2027-forecast-impact-united-states-canada-europe-fa/",
-    "title": "Super El Niño Keeps Growing as New Forecasts Reach Record Territory Ahead Winter"
   },
   {
     "source": "lobsters",
@@ -96,6 +86,11 @@
   },
   {
     "source": "lobsters",
+    "url": "https://nolanlawson.com/2026/08/16/you-can-just-choose-how-many-bugs-you-want-now/",
+    "title": "You can just choose how many bugs you want now"
+  },
+  {
+    "source": "lobsters",
     "url": "https://christianheilmann.com/2026/08/11/anti-social-media/",
     "title": "Anti-Social Media"
   },
@@ -111,13 +106,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://zig.day/usa/seattle/3/",
-    "title": "Zig Day Seattle, WA #3"
+    "url": "https://passbe.com/2022/healthchecks-io-systemd-checks/",
+    "title": "Monitoring SystemD services with Healthchecks.io"
   },
   {
     "source": "lobsters",
-    "url": "https://nolanlawson.com/2026/08/16/you-can-just-choose-how-many-bugs-you-want-now/",
-    "title": "You can just choose how many bugs you want now"
+    "url": "https://zig.day/usa/seattle/3/",
+    "title": "Zig Day Seattle, WA #3"
   },
   {
     "source": "lobsters",
@@ -131,8 +126,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://passbe.com/2022/healthchecks-io-systemd-checks/",
-    "title": "Monitoring SystemD services with Healthchecks.io"
+    "url": "https://unsung.aresluna.org/i-think-theres-a-lot-of-value-in-these/",
+    "title": "Human Interface Guidelines from various platforms"
   },
   {
     "source": "lobsters",
@@ -141,18 +136,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://lukefleed.xyz/posts/compression/",
-    "title": "How Is Compression Prediction?"
-  },
-  {
-    "source": "lobsters",
     "url": "https://rhonabwy.com/2026/08/15/software-engineering-fundamentals-matter-more-than-ever/",
     "title": "Software Engineering fundamentals matter more than ever"
   },
   {
     "source": "lobsters",
-    "url": "https://blog.buenzli.dev/flirt-github-and-mailing-list/",
-    "title": "Flirt: GitHub and Mailing List backends"
+    "url": "https://lukefleed.xyz/posts/compression/",
+    "title": "How Is Compression Prediction?"
   },
   {
     "source": "pinboard",
