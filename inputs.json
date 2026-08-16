@@ -11,6 +11,11 @@
   },
   {
     "source": "hn",
+    "url": "https://hwbusters.com/news/comma-ai-egpu-dock-runs-open-source-firmware-249-bare-799-with-an-rx-9060/",
+    "title": "Chestnut – eGPU dock with open-source firmware"
+  },
+  {
+    "source": "hn",
     "url": "https://www.severe-weather.eu/long-range-2/super-el-nino-growth-accelerating-to-record-strength-fall-winter-2026-2027-forecast-impact-united-states-canada-europe-fa/",
     "title": "Super El Niño Keeps Growing as New Forecasts Reach Record Territory Ahead Winter"
   },
@@ -36,13 +41,8 @@
   },
   {
     "source": "hn",
-    "url": "https://hwbusters.com/news/comma-ai-egpu-dock-runs-open-source-firmware-249-bare-799-with-an-rx-9060/",
-    "title": "Chestnut – eGPU dock with open-source firmware"
-  },
-  {
-    "source": "hn",
-    "url": "https://bipluk.com/",
-    "title": "I built a browser-native SysEx librarian for 80s/90s synthesizers"
+    "url": "https://lapcatsoftware.com/articles/2026/8/3.html",
+    "title": "A fortuitous decade as an indie software developer"
   },
   {
     "source": "hn",
@@ -51,8 +51,8 @@
   },
   {
     "source": "hn",
-    "url": "https://lapcatsoftware.com/articles/2026/8/3.html",
-    "title": "A fortuitous decade as an indie software developer"
+    "url": "https://bipluk.com/",
+    "title": "I built a browser-native SysEx librarian for 80s/90s synthesizers"
   },
   {
     "source": "hn",
@@ -63,16 +63,6 @@
     "source": "hn",
     "url": "https://michael.stapelberg.ch/posts/2026-08-09-zsh-history-truncation-bug/",
     "title": "Tracking down a Zsh history data loss bug"
-  },
-  {
-    "source": "hn",
-    "url": "https://longreads.com/2026/08/11/obituaries-new-york-times-sam-roberts/",
-    "title": "Speaking for the Dead"
-  },
-  {
-    "source": "hn",
-    "url": "https://master.dev/blog/something-nobody-told-you-about-the-image-element-it-can-overflow/",
-    "title": "An image can overflow"
   },
   {
     "source": "lobsters",
@@ -96,6 +86,11 @@
   },
   {
     "source": "lobsters",
+    "url": "https://decuser.github.io/posts/aiki-alpha-mileston26-update/",
+    "title": "Aiki reaches recursive self-interpretation"
+  },
+  {
+    "source": "lobsters",
     "url": "https://bencornia.com/blog/recap-software-should-work-2026",
     "title": "Recap: Software Should Work 2026"
   },
@@ -103,11 +98,6 @@
     "source": "lobsters",
     "url": "https://lukefleed.xyz/posts/compression/",
     "title": "How Is Compression Prediction?"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://decuser.github.io/posts/aiki-alpha-mileston26-update/",
-    "title": "Aiki reaches recursive self-interpretation"
   },
   {
     "source": "lobsters",
@@ -123,6 +113,11 @@
     "source": "lobsters",
     "url": "https://blog.buenzli.dev/flirt-github-and-mailing-list/",
     "title": "Flirt: GitHub and Mailing List backends"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://passbe.com/2022/healthchecks-io-systemd-checks/",
+    "title": "Monitoring SystemD services with Healthchecks.io"
   },
   {
     "source": "lobsters",
@@ -158,10 +153,5 @@
     "source": "lobsters",
     "url": "https://ckrybus.com/static/papers/Bainbridge_1983_Automatica.pdf",
     "title": "Ironies of Automation (1983)"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://jkm.dev/posts/how-2004-runescape-fit-a-multiplayer-rpg-into-56k-dialup/",
-    "title": "How 2004 RuneScape fit a multiplayer RPG into 56k dial-up"
   }
 ]
