@@ -1,8 +1,13 @@
 [
   {
     "source": "hn",
-    "url": "https://sugartrack-beta.vercel.app/",
-    "title": "SugarTrack – an offline Android logbook for blood sugar (no account, no cloud)"
+    "url": "https://duckdb.org/2026/07/31/asynchronous-io",
+    "title": "Asynchronous I/O in DuckDB: Work, Thread, Work"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.severe-weather.eu/long-range-2/super-el-nino-growth-accelerating-to-record-strength-fall-winter-2026-2027-forecast-impact-united-states-canada-europe-fa/",
+    "title": "Super El Niño Keeps Growing as New Forecasts Reach Record Territory Ahead Winter"
   },
   {
     "source": "hn",
@@ -11,18 +16,18 @@
   },
   {
     "source": "hn",
-    "url": "https://sankalp.bearblog.dev/autoresearch/",
-    "title": "Auto-research with codex: How I achieved a 232x Faster Kernel"
-  },
-  {
-    "source": "hn",
     "url": "https://michael.stapelberg.ch/posts/2026-08-09-zsh-history-truncation-bug/",
     "title": "Tracking down a Zsh history data loss bug"
   },
   {
     "source": "hn",
-    "url": "https://www.severe-weather.eu/long-range-2/super-el-nino-growth-accelerating-to-record-strength-fall-winter-2026-2027-forecast-impact-united-states-canada-europe-fa/",
-    "title": "Super El Niño Keeps Growing as New Forecasts Reach Record Territory Ahead Winter"
+    "url": "https://sankalp.bearblog.dev/autoresearch/",
+    "title": "Auto-research with codex: How I achieved a 232x Faster Kernel"
+  },
+  {
+    "source": "hn",
+    "url": "https://waku.sh",
+    "title": "Show HN: I built a native app for coding agents with Rust and GPUI"
   },
   {
     "source": "hn",
@@ -36,23 +41,8 @@
   },
   {
     "source": "hn",
-    "url": "https://en.wikipedia.org/wiki/Wow!_signal",
-    "title": "The Wow signal was a strong narrowband radio signal detected on August 15, 1977"
-  },
-  {
-    "source": "hn",
-    "url": "https://abc7.com/story/credit-card-debt-rises-126-trillion-nearing-time-record/19667289/",
-    "title": "Credit card debt rises to $1.26T, nearing all-time record"
-  },
-  {
-    "source": "hn",
-    "url": "https://hughhowey.com/humazon/",
-    "title": "Humazon"
-  },
-  {
-    "source": "hn",
-    "url": "https://xescu.re/keeta-consensus.pdf",
-    "title": "Modeling and Verification of Keeta's Consensus [pdf]"
+    "url": "https://sugartrack-beta.vercel.app/",
+    "title": "SugarTrack – an offline Android logbook for blood sugar (no account, no cloud)"
   },
   {
     "source": "hn",
@@ -61,13 +51,8 @@
   },
   {
     "source": "hn",
-    "url": "https://cblgh.org/posts/2026-07-31-pizza-box-project-stack/",
-    "title": "Pizza Box Project Stack"
-  },
-  {
-    "source": "hn",
-    "url": "https://blog.jsbarretto.com/post/i-remain-a-skeptic",
-    "title": "I Remain a Skeptic"
+    "url": "https://en.wikipedia.org/wiki/Wow!_signal",
+    "title": "The Wow signal was a strong narrowband radio signal detected on August 15, 1977"
   },
   {
     "source": "hn",
@@ -76,8 +61,23 @@
   },
   {
     "source": "hn",
+    "url": "https://cblgh.org/posts/2026-07-31-pizza-box-project-stack/",
+    "title": "Pizza Box Project Stack"
+  },
+  {
+    "source": "hn",
     "url": "https://master.dev/blog/something-nobody-told-you-about-the-image-element-it-can-overflow/",
     "title": "An image can overflow"
+  },
+  {
+    "source": "hn",
+    "url": "https://xescu.re/keeta-consensus.pdf",
+    "title": "Modeling and Verification of Keeta's Consensus [pdf]"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://blog.jsbarretto.com/post/i-remain-a-skeptic",
+    "title": "Why I remain a skeptic"
   },
   {
     "source": "lobsters",
@@ -91,6 +91,11 @@
   },
   {
     "source": "lobsters",
+    "url": "https://zig.day/usa/seattle/3/",
+    "title": "Zig Day Seattle, WA #3"
+  },
+  {
+    "source": "lobsters",
     "url": "https://blog.buenzli.dev/flirt-github-and-mailing-list/",
     "title": "Flirt: GitHub and Mailing List backends"
   },
@@ -101,8 +106,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://zig.day/usa/seattle/",
-    "title": "Zig Day Seattle, WA"
+    "url": "https://corbinsimpson.com/words/power-relations.html",
+    "title": "Power Relations"
   },
   {
     "source": "lobsters",
@@ -111,23 +116,18 @@
   },
   {
     "source": "lobsters",
-    "url": "https://corbinsimpson.com/words/power-relations.html",
-    "title": "Power Relations"
-  },
-  {
-    "source": "lobsters",
     "url": "https://o.ee/blog/activitypub-won-by-being-boring/",
     "title": "ActivityPub Won by Being Boring"
   },
   {
     "source": "lobsters",
-    "url": "https://fzakaria.com/2026/08/14/nixpkgs-multiverse-fast-mode",
-    "title": "nixpkgs-multiverse: fast mode"
+    "url": "http://www.gotw.ca/publications/concurrency-ddj.htm",
+    "title": "The Free Lunch Is Over: A Fundamental Turn Toward Concurrency in Software (2005)"
   },
   {
     "source": "lobsters",
-    "url": "http://www.gotw.ca/publications/concurrency-ddj.htm",
-    "title": "The Free Lunch Is Over: A Fundamental Turn Toward Concurrency in Software (2005)"
+    "url": "https://fzakaria.com/2026/08/14/nixpkgs-multiverse-fast-mode",
+    "title": "nixpkgs-multiverse: fast mode"
   },
   {
     "source": "lobsters",
@@ -141,13 +141,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://goonhost.rocks/blog/implementing-ipv8-internet-draft",
-    "title": "We implemented the IPv8 Internet-Draft in the Linux Kernel, Musl Libc, and BGP"
+    "url": "https://jkm.dev/posts/how-2004-runescape-fit-a-multiplayer-rpg-into-56k-dialup/",
+    "title": "How 2004 RuneScape fit a multiplayer RPG into 56k dial-up"
   },
   {
     "source": "lobsters",
-    "url": "https://jkm.dev/posts/how-2004-runescape-fit-a-multiplayer-rpg-into-56k-dialup/",
-    "title": "How 2004 RuneScape fit a multiplayer RPG into 56k dial-up"
+    "url": "https://goonhost.rocks/blog/implementing-ipv8-internet-draft",
+    "title": "We implemented the IPv8 Internet-Draft in the Linux Kernel, Musl Libc, and BGP"
   },
   {
     "source": "lobsters",
