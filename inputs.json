@@ -1,13 +1,28 @@
 [
   {
     "source": "hn",
-    "url": "https://ivan-gavran.github.io/0-social-processes-paper",
-    "title": "The Case Against Formal Verification, 50 Years Later"
+    "url": "https://pikuma.com/blog/programming-intel-pentium-mmx-simd",
+    "title": "SIMD in the 90s: Programming Intel's Pentium MMX"
   },
   {
     "source": "hn",
-    "url": "https://pikuma.com/blog/programming-intel-pentium-mmx-simd",
-    "title": "SIMD in the 90s: Programming Intel's Pentium MMX"
+    "url": "https://bernsteinbear.com/blog/zkp/",
+    "title": "A quick look at zero-knowledge proofs"
+  },
+  {
+    "source": "hn",
+    "url": "https://wiki.lowtechlab.org/wiki/Filtre_%C3%A0_eau_c%C3%A9ramique/en",
+    "title": "Low-Tech Ceramic Water Filter"
+  },
+  {
+    "source": "hn",
+    "url": "https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing",
+    "title": "Anthropic's 'Watermark' Text Adulteration in Claude Is a Perversion of Writing"
+  },
+  {
+    "source": "hn",
+    "url": "https://ivan-gavran.github.io/0-social-processes-paper",
+    "title": "The Case Against Formal Verification, 50 Years Later"
   },
   {
     "source": "hn",
@@ -16,13 +31,13 @@
   },
   {
     "source": "hn",
-    "url": "https://www.bloomberg.com/news/articles/2026-08-16/stripe-nears-deal-to-buy-ai-firm-openrouter-for-over-7-billion",
-    "title": "Stripe Clinches over $7B Deal to Buy AI Firm OpenRouter"
+    "url": "https://math-ai-org.github.io/mathcode/",
+    "title": "MathCode, Mathematical Coding Agent"
   },
   {
     "source": "hn",
-    "url": "https://math-ai-org.github.io/mathcode/",
-    "title": "MathCode, Mathematical Coding Agent"
+    "url": "https://www.bloomberg.com/news/articles/2026-08-16/stripe-nears-deal-to-buy-ai-firm-openrouter-for-over-7-billion",
+    "title": "Stripe Clinches over $7B Deal to Buy AI Firm OpenRouter"
   },
   {
     "source": "hn",
@@ -56,8 +71,8 @@
   },
   {
     "source": "hn",
-    "url": "https://www.slowtravelberlin.com/in-the-shadow-of-the-berlin-wall/",
-    "title": "In the Shadow of the (Berlin) Wall"
+    "url": "https://brandur.org/fragments/postgres-without-pgbouncer",
+    "title": "Does anyone run Postgres without PgBouncer?"
   },
   {
     "source": "lobsters",
@@ -101,13 +116,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://passbe.com/2022/healthchecks-io-systemd-checks/",
-    "title": "Monitoring SystemD services with Healthchecks.io"
+    "url": "https://christianheilmann.com/2026/08/11/anti-social-media/",
+    "title": "Anti-Social Media"
   },
   {
     "source": "lobsters",
-    "url": "https://christianheilmann.com/2026/08/11/anti-social-media/",
-    "title": "Anti-Social Media"
+    "url": "https://passbe.com/2022/healthchecks-io-systemd-checks/",
+    "title": "Monitoring SystemD services with Healthchecks.io"
   },
   {
     "source": "lobsters",
