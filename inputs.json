@@ -31,6 +31,16 @@
   },
   {
     "source": "hn",
+    "url": "https://www.falstad.com/mathphysics.html",
+    "title": "Falstad Math and Physics Simulations"
+  },
+  {
+    "source": "hn",
+    "url": "https://hwbusters.com/news/comma-ai-egpu-dock-runs-open-source-firmware-249-bare-799-with-an-rx-9060/",
+    "title": "Chestnut – eGPU dock with open-source firmware"
+  },
+  {
+    "source": "hn",
     "url": "https://bipluk.com/",
     "title": "I built a browser-native SysEx librarian for 80s/90s synthesizers"
   },
@@ -46,11 +56,6 @@
   },
   {
     "source": "hn",
-    "url": "https://www.falstad.com/mathphysics.html",
-    "title": "Falstad Math and Physics Simulations"
-  },
-  {
-    "source": "hn",
     "url": "https://www.dampfkraft.com/ghost-characters.html",
     "title": "A spectre is haunting Unicode"
   },
@@ -63,11 +68,6 @@
     "source": "hn",
     "url": "https://longreads.com/2026/08/11/obituaries-new-york-times-sam-roberts/",
     "title": "Speaking for the Dead"
-  },
-  {
-    "source": "hn",
-    "url": "https://sugartrack-beta.vercel.app/",
-    "title": "SugarTrack – an offline Android logbook for blood sugar (no account, no cloud)"
   },
   {
     "source": "hn",
@@ -96,13 +96,18 @@
   },
   {
     "source": "lobsters",
+    "url": "https://bencornia.com/blog/recap-software-should-work-2026",
+    "title": "Recap: Software Should Work 2026"
+  },
+  {
+    "source": "lobsters",
     "url": "https://lukefleed.xyz/posts/compression/",
     "title": "How Is Compression Prediction?"
   },
   {
     "source": "lobsters",
-    "url": "https://bencornia.com/blog/recap-software-should-work-2026",
-    "title": "Recap: Software Should Work 2026"
+    "url": "https://decuser.github.io/posts/aiki-alpha-mileston26-update/",
+    "title": "Aiki reaches recursive self-interpretation"
   },
   {
     "source": "lobsters",
@@ -111,13 +116,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://blog.buenzli.dev/flirt-github-and-mailing-list/",
-    "title": "Flirt: GitHub and Mailing List backends"
+    "url": "https://heiwiper.com/posts/magit-status-tour/",
+    "title": "A Tour of Magit's Status Interface"
   },
   {
     "source": "lobsters",
-    "url": "https://decuser.github.io/posts/aiki-alpha-mileston26-update/",
-    "title": "Aiki reaches recursive self-interpretation"
+    "url": "https://blog.buenzli.dev/flirt-github-and-mailing-list/",
+    "title": "Flirt: GitHub and Mailing List backends"
   },
   {
     "source": "lobsters",
@@ -158,10 +163,5 @@
     "source": "lobsters",
     "url": "https://jkm.dev/posts/how-2004-runescape-fit-a-multiplayer-rpg-into-56k-dialup/",
     "title": "How 2004 RuneScape fit a multiplayer RPG into 56k dial-up"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://sifter.org/~simon/journal/20260814.html",
-    "title": "Demystifying Type (and some Un-Paradoxing)"
   }
 ]
