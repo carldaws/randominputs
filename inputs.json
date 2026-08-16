@@ -1,13 +1,8 @@
 [
   {
     "source": "hn",
-    "url": "https://horn.gg/blog/engineers-will-do-anything-to-avoid-learning-from-history/",
-    "title": "Engineers will do anything to avoid learning from history"
-  },
-  {
-    "source": "hn",
-    "url": "https://michael.stapelberg.ch/posts/2026-08-09-zsh-history-truncation-bug/",
-    "title": "Tracking down a Zsh history data loss bug"
+    "url": "https://sugartrack-beta.vercel.app/",
+    "title": "SugarTrack – an offline Android logbook for blood sugar (no account, no cloud)"
   },
   {
     "source": "hn",
@@ -21,53 +16,8 @@
   },
   {
     "source": "hn",
-    "url": "https://www.dampfkraft.com/ghost-characters.html",
-    "title": "A spectre is haunting Unicode"
-  },
-  {
-    "source": "hn",
-    "url": "https://sugartrack-beta.vercel.app/",
-    "title": "SugarTrack – an offline Android logbook for blood sugar (no account, no cloud)"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.404media.co/the-government-is-monitoring-anti-flock-tiktok-and-instagram-accounts/",
-    "title": "The Government Is Monitoring Anti-Flock TikTok and Instagram Accounts"
-  },
-  {
-    "source": "hn",
-    "url": "https://xescu.re/keeta-consensus.pdf",
-    "title": "Modeling and Verification of Keeta's Consensus [pdf]"
-  },
-  {
-    "source": "hn",
-    "url": "https://en.wikipedia.org/wiki/Wow!_signal",
-    "title": "The Wow signal was a strong narrowband radio signal detected on August 15, 1977"
-  },
-  {
-    "source": "hn",
-    "url": "https://hughhowey.com/humazon/",
-    "title": "Humazon"
-  },
-  {
-    "source": "hn",
-    "url": "https://geek-fighter.vercel.app/",
-    "title": "Geek Fighter – 2d fighter game"
-  },
-  {
-    "source": "hn",
-    "url": "https://cblgh.org/posts/2026-07-31-pizza-box-project-stack/",
-    "title": "Pizza Box Project Stack"
-  },
-  {
-    "source": "hn",
-    "url": "https://master.dev/blog/something-nobody-told-you-about-the-image-element-it-can-overflow/",
-    "title": "An image can overflow"
-  },
-  {
-    "source": "hn",
-    "url": "https://baselashraf81.github.io/eigendrum/",
-    "title": "Show HN: Eigendrum - Draw any shape and hear what it sounds like as a drum"
+    "url": "https://michael.stapelberg.ch/posts/2026-08-09-zsh-history-truncation-bug/",
+    "title": "Tracking down a Zsh history data loss bug"
   },
   {
     "source": "hn",
@@ -76,18 +26,63 @@
   },
   {
     "source": "hn",
+    "url": "https://lapcatsoftware.com/articles/2026/8/3.html",
+    "title": "A fortuitous decade as an indie software developer"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.dampfkraft.com/ghost-characters.html",
+    "title": "A spectre is haunting Unicode"
+  },
+  {
+    "source": "hn",
+    "url": "https://en.wikipedia.org/wiki/Wow!_signal",
+    "title": "The Wow signal was a strong narrowband radio signal detected on August 15, 1977"
+  },
+  {
+    "source": "hn",
+    "url": "https://abc7.com/story/credit-card-debt-rises-126-trillion-nearing-time-record/19667289/",
+    "title": "Credit card debt rises to $1.26T, nearing all-time record"
+  },
+  {
+    "source": "hn",
+    "url": "https://hughhowey.com/humazon/",
+    "title": "Humazon"
+  },
+  {
+    "source": "hn",
+    "url": "https://xescu.re/keeta-consensus.pdf",
+    "title": "Modeling and Verification of Keeta's Consensus [pdf]"
+  },
+  {
+    "source": "hn",
+    "url": "https://baselashraf81.github.io/eigendrum/",
+    "title": "Show HN: Eigendrum - Draw any shape and hear what it sounds like as a drum"
+  },
+  {
+    "source": "hn",
+    "url": "https://cblgh.org/posts/2026-07-31-pizza-box-project-stack/",
+    "title": "Pizza Box Project Stack"
+  },
+  {
+    "source": "hn",
+    "url": "https://blog.jsbarretto.com/post/i-remain-a-skeptic",
+    "title": "I Remain a Skeptic"
+  },
+  {
+    "source": "hn",
     "url": "https://linebender.org/blog/hyperbezier/",
     "title": "The mathematical beauty of hyperbezier curves"
+  },
+  {
+    "source": "hn",
+    "url": "https://master.dev/blog/something-nobody-told-you-about-the-image-element-it-can-overflow/",
+    "title": "An image can overflow"
   },
   {
     "source": "lobsters",
     "url": "https://blog.cryptographyengineering.com/2026/08/14/everything-is-about-to-go-dark/",
     "title": "Everything is about to “go dark”"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://blog.jsbarretto.com/post/i-remain-a-skeptic",
-    "title": "Why I remain a skeptic"
   },
   {
     "source": "lobsters",
@@ -103,6 +98,11 @@
     "source": "lobsters",
     "url": "https://bencornia.com/blog/recap-software-should-work-2026",
     "title": "Recap: Software Should Work 2026"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://zig.day/usa/seattle/",
+    "title": "Zig Day Seattle, WA"
   },
   {
     "source": "lobsters",
@@ -131,23 +131,18 @@
   },
   {
     "source": "lobsters",
+    "url": "https://ckrybus.com/static/papers/Bainbridge_1983_Automatica.pdf",
+    "title": "Ironies of Automation (1983)"
+  },
+  {
+    "source": "lobsters",
     "url": "https://sifter.org/~simon/journal/20260814.html",
     "title": "Demystifying Type (and some Un-Paradoxing)"
   },
   {
     "source": "lobsters",
-    "url": "https://zig.day/usa/seattle/",
-    "title": "Zig Day Seattle, WA"
-  },
-  {
-    "source": "lobsters",
     "url": "https://goonhost.rocks/blog/implementing-ipv8-internet-draft",
     "title": "We implemented the IPv8 Internet-Draft in the Linux Kernel, Musl Libc, and BGP"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://ckrybus.com/static/papers/Bainbridge_1983_Automatica.pdf",
-    "title": "Ironies of Automation (1983)"
   },
   {
     "source": "lobsters",
@@ -158,10 +153,5 @@
     "source": "lobsters",
     "url": "https://cekrem.github.io/posts/there-is-still-no-silver-bullet/",
     "title": "There Is Still No Silver Bullet"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://daniel.haxx.se/blog/2026/08/14/curl-performance-2/",
-    "title": "Curl Performance"
   }
 ]
