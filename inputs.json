@@ -21,8 +21,8 @@
   },
   {
     "source": "hn",
-    "url": "https://wildstatic.com/",
-    "title": "Show HN: A public AI whose memory is shared across all users"
+    "url": "https://www.ianvisits.co.uk/articles/before-rightmove-there-was-the-cosmorama-londons-forgotten-property-innovation-91687/",
+    "title": "Before Rightmove, there was the Cosmorama"
   },
   {
     "source": "hn",
@@ -31,18 +31,13 @@
   },
   {
     "source": "hn",
-    "url": "https://scholar.google.com/scholar?q=%22kidney+disappointment%22",
-    "title": "Research papers using \"kidney disappointment\" instead of \"kidney failure\""
-  },
-  {
-    "source": "hn",
-    "url": "https://brandur.org/fragments/postgres-without-pgbouncer",
-    "title": "Does anyone run Postgres without PgBouncer?"
-  },
-  {
-    "source": "hn",
     "url": "https://hwbusters.com/news/comma-ai-egpu-dock-runs-open-source-firmware-249-bare-799-with-an-rx-9060/",
     "title": "Chestnut – eGPU dock with open-source firmware"
+  },
+  {
+    "source": "hn",
+    "url": "https://scholar.google.com/scholar?q=%22kidney+disappointment%22",
+    "title": "Research papers using \"kidney disappointment\" instead of \"kidney failure\""
   },
   {
     "source": "hn",
@@ -51,13 +46,23 @@
   },
   {
     "source": "hn",
+    "url": "https://wildstatic.com/",
+    "title": "Show HN: A public AI whose memory is shared across all users"
+  },
+  {
+    "source": "hn",
     "url": "https://peterbloem.nl/blog/craft-coding",
     "title": "AI Coding Without the Vibes"
   },
   {
     "source": "hn",
-    "url": "https://rhonabwy.com/2026/08/15/software-engineering-fundamentals-matter-more-than-ever/",
-    "title": "Software Engineering fundamentals matter more"
+    "url": "https://brandur.org/fragments/postgres-without-pgbouncer",
+    "title": "Does anyone run Postgres without PgBouncer?"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.sciencedaily.com/releases/2026/08/260811052857.htm",
+    "title": "Ordinary WiFi can now identify you with near-perfect accuracy"
   },
   {
     "source": "hn",
@@ -66,18 +71,13 @@
   },
   {
     "source": "hn",
-    "url": "https://sniffnet.app/news/github-secure-open-source-fund/",
-    "title": "What I Learned Securing Sniffnet with the GitHub Secure Open Source Fund"
+    "url": "https://rhonabwy.com/2026/08/15/software-engineering-fundamentals-matter-more-than-ever/",
+    "title": "Software Engineering fundamentals matter more"
   },
   {
     "source": "hn",
     "url": "https://tinkerings.org/2018/03/28/guiding-ships-with-moire-patterns/",
     "title": "Guiding Ships with Moire Patterns (2018)"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.rand.org/pubs/research_reports/RRA4335-1.html",
-    "title": "A U.S. Strategy to Prevent the Creation of Mirror Life"
   },
   {
     "source": "lobsters",
@@ -86,13 +86,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://predr.ag/blog/protecting-the-rust-stdlib-from-breakage/",
-    "title": "Protecting the Rust standard library from accidental breakage"
+    "url": "https://op.tngl.io/every-fucking-website/",
+    "title": "Every Fucking Website"
   },
   {
     "source": "lobsters",
-    "url": "https://op.tngl.io/every-fucking-website/",
-    "title": "Every Fucking Website"
+    "url": "https://predr.ag/blog/protecting-the-rust-stdlib-from-breakage/",
+    "title": "Protecting the Rust standard library from accidental breakage"
   },
   {
     "source": "lobsters",
@@ -121,6 +121,16 @@
   },
   {
     "source": "lobsters",
+    "url": "https://christianheilmann.com/2026/08/11/anti-social-media/",
+    "title": "Anti-Social Media"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://bencornia.com/blog/recap-software-should-work-2026",
+    "title": "Recap: Software Should Work 2026"
+  },
+  {
+    "source": "lobsters",
     "url": "https://decuser.github.io/posts/aiki-alpha-mileston26-update/",
     "title": "Aiki reaches recursive self-interpretation"
   },
@@ -128,11 +138,6 @@
     "source": "lobsters",
     "url": "https://passbe.com/2022/healthchecks-io-systemd-checks/",
     "title": "Monitoring SystemD services with Healthchecks.io"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://bencornia.com/blog/recap-software-should-work-2026",
-    "title": "Recap: Software Should Work 2026"
   },
   {
     "source": "lobsters",
@@ -146,23 +151,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://christianheilmann.com/2026/08/11/anti-social-media/",
-    "title": "Anti-Social Media"
-  },
-  {
-    "source": "lobsters",
     "url": "https://blog.buenzli.dev/flirt-github-and-mailing-list/",
     "title": "Flirt: GitHub and Mailing List backends"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://sifter.org/~simon/journal/20130713.h.html",
-    "title": "On Knowledge Representation"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://dmitry.gr/?r=06.%20Thoughts&proj=12.%20RV",
-    "title": "RISC-V: They Should Have Known Better"
   },
   {
     "source": "pinboard",
