@@ -1,11 +1,6 @@
 [
   {
     "source": "hn",
-    "url": "https://breck.lol/plMakers.html",
-    "title": "The quirky personal homepages of programming language creators"
-  },
-  {
-    "source": "hn",
     "url": "https://duckdb.org/2026/07/31/asynchronous-io",
     "title": "Asynchronous I/O in DuckDB: Work, Thread, Work"
   },
@@ -16,23 +11,23 @@
   },
   {
     "source": "hn",
-    "url": "https://www.severe-weather.eu/long-range-2/super-el-nino-growth-accelerating-to-record-strength-fall-winter-2026-2027-forecast-impact-united-states-canada-europe-fa/",
-    "title": "Super El Niño Keeps Growing as New Forecasts Reach Record Territory Ahead Winter"
-  },
-  {
-    "source": "hn",
     "url": "https://rhonabwy.com/2026/08/15/software-engineering-fundamentals-matter-more-than-ever/",
     "title": "Software Engineering fundamentals matter more"
   },
   {
     "source": "hn",
-    "url": "https://notebook.link/blog/numba-in-the-browser/",
-    "title": "Numba in the Browser: Unlocking a New Scientific Python Stack in JupyterLite"
+    "url": "https://www.severe-weather.eu/long-range-2/super-el-nino-growth-accelerating-to-record-strength-fall-winter-2026-2027-forecast-impact-united-states-canada-europe-fa/",
+    "title": "Super El Niño Keeps Growing as New Forecasts Reach Record Territory Ahead Winter"
   },
   {
     "source": "hn",
     "url": "https://dmitry.gr/?r=06.%20Thoughts&proj=12.%20RV",
     "title": "RISC-V: They Should Have Known Better"
+  },
+  {
+    "source": "hn",
+    "url": "https://notebook.link/blog/numba-in-the-browser/",
+    "title": "Numba in the Browser: Unlocking a New Scientific Python Stack in JupyterLite"
   },
   {
     "source": "hn",
@@ -46,8 +41,8 @@
   },
   {
     "source": "hn",
-    "url": "https://longreads.com/2026/08/11/obituaries-new-york-times-sam-roberts/",
-    "title": "Speaking for the Dead"
+    "url": "https://ikouchiha47.github.io/2026/08/12/concurrency-and-gc.html",
+    "title": "Not sure where I am going with this garbage collection rabbit hole"
   },
   {
     "source": "hn",
@@ -56,18 +51,23 @@
   },
   {
     "source": "hn",
+    "url": "https://blog.pickcode.io/program-with-paint-brushes-not-pencils/",
+    "title": "Program with Paint Brushes, Not Pencils"
+  },
+  {
+    "source": "hn",
+    "url": "https://longreads.com/2026/08/11/obituaries-new-york-times-sam-roberts/",
+    "title": "Speaking for the Dead"
+  },
+  {
+    "source": "hn",
     "url": "https://sugartrack-beta.vercel.app/",
     "title": "SugarTrack – an offline Android logbook for blood sugar (no account, no cloud)"
   },
   {
     "source": "hn",
-    "url": "https://bribes.fyi/compare",
-    "title": "Show HN: Bribes.fyi – Compare bribes statistics department wise"
-  },
-  {
-    "source": "hn",
-    "url": "https://blog.pickcode.io/program-with-paint-brushes-not-pencils/",
-    "title": "Program with Paint Brushes, Not Pencils"
+    "url": "https://www.falstad.com/mathphysics.html",
+    "title": "Falstad Math and Physics Simulations"
   },
   {
     "source": "lobsters",
@@ -91,13 +91,18 @@
   },
   {
     "source": "lobsters",
+    "url": "https://bencornia.com/blog/recap-software-should-work-2026",
+    "title": "Recap: Software Should Work 2026"
+  },
+  {
+    "source": "lobsters",
     "url": "https://corbinsimpson.com/words/power-relations.html",
     "title": "Power Relations"
   },
   {
     "source": "lobsters",
-    "url": "https://bencornia.com/blog/recap-software-should-work-2026",
-    "title": "Recap: Software Should Work 2026"
+    "url": "https://snarky.ca/whats-missing-to-have-reproducible-builds-on-pypi/",
+    "title": "What's missing to have reproducible builds on PyPI"
   },
   {
     "source": "lobsters",
@@ -108,11 +113,6 @@
     "source": "lobsters",
     "url": "https://blog.buenzli.dev/flirt-github-and-mailing-list/",
     "title": "Flirt: GitHub and Mailing List backends"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://snarky.ca/whats-missing-to-have-reproducible-builds-on-pypi/",
-    "title": "What's missing to have reproducible builds on PyPI"
   },
   {
     "source": "lobsters",
@@ -136,107 +136,17 @@
   },
   {
     "source": "lobsters",
+    "url": "https://ckrybus.com/static/papers/Bainbridge_1983_Automatica.pdf",
+    "title": "Ironies of Automation (1983)"
+  },
+  {
+    "source": "lobsters",
     "url": "https://sifter.org/~simon/journal/20260814.html",
     "title": "Demystifying Type (and some Un-Paradoxing)"
   },
   {
     "source": "lobsters",
-    "url": "https://ckrybus.com/static/papers/Bainbridge_1983_Automatica.pdf",
-    "title": "Ironies of Automation (1983)"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://ordinaryabundance.com/",
-    "title": "Ordinary Abundance"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html",
-    "title": "AI is removing the middle class of software engineering"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://brettcodes.com/im-done-using-ai/",
-    "title": "I'm done using AI – Brett Codes"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.geoffreylitt.com/2026/07/02/understanding-is-the-new-bottleneck",
-    "title": "Understanding is the new bottleneck"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://gloom.sh/",
-    "title": "Gloomberb"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://mcfunley.com/choose-boring-technology",
-    "title": "Dan McKinley :: Choose Boring Technology"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://stowaway.live/",
-    "title": "Stowaway — Ride along with the planes and satellites overhead"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://defector.com/humanists-have-done-nothing-wrong",
-    "title": "https://defector.com/humanists-have-done-nothing-wrong"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://craigmod.com/essays/robot_blood/",
-    "title": "A Swarm of Blood Robots — by Craig Mod"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/",
-    "title": "How Google is Making Private AI Practical with Homomorphic Encryption"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://calnewport.com/on-ai-coding-and-its-discontents/",
-    "title": "On AI Coding and Its Discontents - Cal Newport"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/",
-    "title": "Gemini 3.7 Flash: our most intelligent workhorse model"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://tailscale.com/blog/sqlite-wal-reset-bug",
-    "title": "How Tailscale helped find the SQLite WAL-Reset bug"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.noemamag.com/why-is-everyone-in-tech-so-sad/",
-    "title": "Why Is Everyone In Tech So Sad?"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://nurb.dev/",
-    "title": "nurb · describe the part, print the part"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://futurism.com/artificial-intelligence/ai-impact-environment-horrifying-new-paper",
-    "title": "AI's Impact on the Environment Is Absolutely Horrifying, New Paper Finds"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://eigendrum.com/#p=circle",
-    "title": "eigendrum.com"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://stolen-thoughts.com/",
-    "title": "Stolen Thoughts: Stealing Reasoning Traces from Proprietary LLM APIs"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://deepseek.com/harness/en/",
-    "title": "DeepSeek Harness developer preview: Everything is a plugin"
+    "url": "https://jkm.dev/posts/how-2004-runescape-fit-a-multiplayer-rpg-into-56k-dialup/",
+    "title": "How 2004 RuneScape fit a multiplayer RPG into 56k dial-up"
   }
 ]
