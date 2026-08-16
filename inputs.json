@@ -1,8 +1,23 @@
 [
   {
     "source": "hn",
+    "url": "https://ivan-gavran.github.io/0-social-processes-paper",
+    "title": "The Case Against Formal Verification, 50 Years Later"
+  },
+  {
+    "source": "hn",
+    "url": "https://pikuma.com/blog/programming-intel-pentium-mmx-simd",
+    "title": "SIMD in the 90s: Programming Intel's Pentium MMX"
+  },
+  {
+    "source": "hn",
     "url": "https://w4g1.dev/blog/models-are-getting-dumber-on-purpose",
     "title": "Models Are Getting Dumber on Purpose"
+  },
+  {
+    "source": "hn",
+    "url": "https://wiki.lowtechlab.org/wiki/Filtre_%C3%A0_eau_c%C3%A9ramique/en",
+    "title": "Low-Tech Ceramic Water Filter"
   },
   {
     "source": "hn",
@@ -26,18 +41,13 @@
   },
   {
     "source": "hn",
-    "url": "https://ei3lh.eu/2026/08/16/a-true-telnet-bbs-on-a-casio-calculator/",
-    "title": "A True Telnet BBS on a Casio Calculator"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.newyorker.com/news/annals-of-inquiry/gps-and-the-lost-art-of-getting-lost",
-    "title": "GPS and the Lost Art of Getting Lost"
-  },
-  {
-    "source": "hn",
     "url": "https://www.ianvisits.co.uk/articles/before-rightmove-there-was-the-cosmorama-londons-forgotten-property-innovation-91687/",
     "title": "Before Rightmove, there was the Cosmorama"
+  },
+  {
+    "source": "hn",
+    "url": "https://ei3lh.eu/2026/08/16/a-true-telnet-bbs-on-a-casio-calculator/",
+    "title": "A True Telnet BBS on a Casio Calculator"
   },
   {
     "source": "hn",
@@ -46,18 +56,18 @@
   },
   {
     "source": "hn",
-    "url": "https://duckdb.org/2026/07/31/asynchronous-io",
-    "title": "Asynchronous I/O in DuckDB: Work, Thread, Work"
+    "url": "https://www.bloomberg.com/news/articles/2026-08-16/stripe-nears-deal-to-buy-ai-firm-openrouter-for-over-7-billion",
+    "title": "Stripe Clinches over $7B Deal to Buy AI Firm OpenRouter"
   },
   {
     "source": "hn",
-    "url": "https://wildstatic.com/",
-    "title": "Show HN: A public AI whose memory is shared across all users"
+    "url": "https://www.newyorker.com/news/annals-of-inquiry/gps-and-the-lost-art-of-getting-lost",
+    "title": "GPS and the Lost Art of Getting Lost"
   },
   {
     "source": "hn",
-    "url": "https://brandur.org/fragments/postgres-without-pgbouncer",
-    "title": "Does anyone run Postgres without PgBouncer?"
+    "url": "https://www.motherjones.com/politics/2026/08/donald-trump-world-liberty-regulatory-approval/",
+    "title": "The Trumps' Crypto Project Just Got One Step Closer to Becoming a Bank"
   },
   {
     "source": "lobsters",
@@ -81,13 +91,23 @@
   },
   {
     "source": "lobsters",
+    "url": "https://nolanlawson.com/2026/08/16/you-can-just-choose-how-many-bugs-you-want-now/",
+    "title": "You can just choose how many bugs you want now"
+  },
+  {
+    "source": "lobsters",
     "url": "https://blog.jsbarretto.com/post/i-remain-a-skeptic",
     "title": "Why I remain a skeptic"
   },
   {
     "source": "lobsters",
-    "url": "https://nolanlawson.com/2026/08/16/you-can-just-choose-how-many-bugs-you-want-now/",
-    "title": "You can just choose how many bugs you want now"
+    "url": "https://unsung.aresluna.org/i-think-theres-a-lot-of-value-in-these/",
+    "title": "Human Interface Guidelines from various platforms"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://www.benjoffe.com/fast-day-of-week",
+    "title": "A faster way to calculate the day-of-the-week"
   },
   {
     "source": "lobsters",
@@ -101,13 +121,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://snarky.ca/whats-missing-to-have-reproducible-builds-on-pypi/",
-    "title": "What's missing to have reproducible builds on PyPI"
+    "url": "https://passbe.com/2022/healthchecks-io-systemd-checks/",
+    "title": "Monitoring SystemD services with Healthchecks.io"
   },
   {
     "source": "lobsters",
-    "url": "https://passbe.com/2022/healthchecks-io-systemd-checks/",
-    "title": "Monitoring SystemD services with Healthchecks.io"
+    "url": "https://snarky.ca/whats-missing-to-have-reproducible-builds-on-pypi/",
+    "title": "What's missing to have reproducible builds on PyPI"
   },
   {
     "source": "lobsters",
@@ -126,11 +146,6 @@
   },
   {
     "source": "lobsters",
-    "url": "https://unsung.aresluna.org/i-think-theres-a-lot-of-value-in-these/",
-    "title": "Human Interface Guidelines from various platforms"
-  },
-  {
-    "source": "lobsters",
     "url": "https://corbinsimpson.com/words/power-relations.html",
     "title": "Power Relations"
   },
@@ -143,100 +158,5 @@
     "source": "lobsters",
     "url": "https://lukefleed.xyz/posts/compression/",
     "title": "How Is Compression Prediction?"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://ordinaryabundance.com/",
-    "title": "Ordinary Abundance"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html",
-    "title": "AI is removing the middle class of software engineering"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://brettcodes.com/im-done-using-ai/",
-    "title": "I'm done using AI – Brett Codes"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.geoffreylitt.com/2026/07/02/understanding-is-the-new-bottleneck",
-    "title": "Understanding is the new bottleneck"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://gloom.sh/",
-    "title": "Gloomberb"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://mcfunley.com/choose-boring-technology",
-    "title": "Dan McKinley :: Choose Boring Technology"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://stowaway.live/",
-    "title": "Stowaway — Ride along with the planes and satellites overhead"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://defector.com/humanists-have-done-nothing-wrong",
-    "title": "https://defector.com/humanists-have-done-nothing-wrong"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://craigmod.com/essays/robot_blood/",
-    "title": "A Swarm of Blood Robots — by Craig Mod"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/",
-    "title": "How Google is Making Private AI Practical with Homomorphic Encryption"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://calnewport.com/on-ai-coding-and-its-discontents/",
-    "title": "On AI Coding and Its Discontents - Cal Newport"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/",
-    "title": "Gemini 3.7 Flash: our most intelligent workhorse model"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://tailscale.com/blog/sqlite-wal-reset-bug",
-    "title": "How Tailscale helped find the SQLite WAL-Reset bug"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.noemamag.com/why-is-everyone-in-tech-so-sad/",
-    "title": "Why Is Everyone In Tech So Sad?"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://nurb.dev/",
-    "title": "nurb · describe the part, print the part"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://futurism.com/artificial-intelligence/ai-impact-environment-horrifying-new-paper",
-    "title": "AI's Impact on the Environment Is Absolutely Horrifying, New Paper Finds"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://eigendrum.com/#p=circle",
-    "title": "eigendrum.com"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://stolen-thoughts.com/",
-    "title": "Stolen Thoughts: Stealing Reasoning Traces from Proprietary LLM APIs"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://deepseek.com/harness/en/",
-    "title": "DeepSeek Harness developer preview: Everything is a plugin"
   }
 ]
