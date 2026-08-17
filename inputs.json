@@ -16,23 +16,18 @@
   },
   {
     "source": "hn",
-    "url": "https://blog.racket-lang.org/2026/08/rhombus-v1.1.html",
-    "title": "Rhombus 1.1 is now available"
-  },
-  {
-    "source": "hn",
     "url": "https://reticulum.network/",
     "title": "Reticulum – Decentralized Mesh Network"
   },
   {
     "source": "hn",
-    "url": "https://breakintochat.com/blog/2013/02/18/amit-patel-creator-of-solar-realms-elite/",
-    "title": "Interview with Amit Patel, Creator of “Solar Realms Elite” (2013)"
+    "url": "https://blog.racket-lang.org/2026/08/rhombus-v1.1.html",
+    "title": "Rhombus 1.1 is now available"
   },
   {
     "source": "hn",
-    "url": "https://wiki.lowtechlab.org/wiki/Filtre_%C3%A0_eau_c%C3%A9ramique/en",
-    "title": "Low-Tech Ceramic Water Filter"
+    "url": "https://breakintochat.com/blog/2013/02/18/amit-patel-creator-of-solar-realms-elite/",
+    "title": "Interview with Amit Patel, Creator of “Solar Realms Elite” (2013)"
   },
   {
     "source": "hn",
@@ -42,7 +37,17 @@
   {
     "source": "hn",
     "url": "https://community.wolfram.com/groups/-/m/t/122095",
-    "title": "Dancing with friends and enemies: boids' swarm intelligence"
+    "title": "Dancing with friends and enemies: boids' swarm intelligence (2012)"
+  },
+  {
+    "source": "hn",
+    "url": "https://vocalslice.com/",
+    "title": "Show HN: Vocal Slice – Cut audio by selecting text, fully on-device"
+  },
+  {
+    "source": "hn",
+    "url": "https://nurb.dev/",
+    "title": "Design 3D-printable parts by talking"
   },
   {
     "source": "hn",
@@ -63,26 +68,6 @@
     "source": "hn",
     "url": "https://support.mozilla.org/en-US/kb/block-ads-firefox-ios",
     "title": "Firefox for iOS now has a native adblocker"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.bloomberg.com/news/articles/2026-08-16/stripe-nears-deal-to-buy-ai-firm-openrouter-for-over-7-billion",
-    "title": "Stripe Clinches over $7B Deal to Buy AI Firm OpenRouter"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.highereddive.com/news/inside-the-federal-keyword-lists-that-canceled-billions-in-research-funding/826203/",
-    "title": "The federal keyword lists that canceled billions in research funding"
-  },
-  {
-    "source": "hn",
-    "url": "https://ei3lh.eu/2026/08/16/a-true-telnet-bbs-on-a-casio-calculator/",
-    "title": "A True Telnet BBS on a Casio Calculator"
-  },
-  {
-    "source": "hn",
-    "url": "https://hwbusters.com/news/comma-ai-egpu-dock-runs-open-source-firmware-249-bare-799-with-an-rx-9060/",
-    "title": "Chestnut – eGPU dock with open-source firmware"
   },
   {
     "source": "lobsters",
@@ -116,13 +101,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://heiwiper.com/posts/magit-status-tour/",
-    "title": "A Tour of Magit's Status Interface"
+    "url": "https://www.ponylang.io/blog/2026/08/ponys-arena-allocator/",
+    "title": "Pony's Arena Allocator"
   },
   {
     "source": "lobsters",
-    "url": "https://www.ponylang.io/blog/2026/08/ponys-arena-allocator/",
-    "title": "Pony's Arena Allocator"
+    "url": "https://heiwiper.com/posts/magit-status-tour/",
+    "title": "A Tour of Magit's Status Interface"
   },
   {
     "source": "lobsters",
@@ -136,13 +121,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://blog.jsbarretto.com/post/i-remain-a-skeptic",
-    "title": "Why I remain a skeptic"
+    "url": "https://christianheilmann.com/2026/08/11/anti-social-media/",
+    "title": "Anti-Social Media"
   },
   {
     "source": "lobsters",
-    "url": "https://christianheilmann.com/2026/08/11/anti-social-media/",
-    "title": "Anti-Social Media"
+    "url": "https://blog.jsbarretto.com/post/i-remain-a-skeptic",
+    "title": "Why I remain a skeptic"
   },
   {
     "source": "lobsters",
@@ -163,100 +148,5 @@
     "source": "lobsters",
     "url": "https://zig.day/usa/seattle/3/",
     "title": "Zig Day Seattle, WA #3"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://ordinaryabundance.com/",
-    "title": "Ordinary Abundance"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html",
-    "title": "AI is removing the middle class of software engineering"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://brettcodes.com/im-done-using-ai/",
-    "title": "I'm done using AI – Brett Codes"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.geoffreylitt.com/2026/07/02/understanding-is-the-new-bottleneck",
-    "title": "Understanding is the new bottleneck"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://gloom.sh/",
-    "title": "Gloomberb"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://mcfunley.com/choose-boring-technology",
-    "title": "Dan McKinley :: Choose Boring Technology"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://stowaway.live/",
-    "title": "Stowaway — Ride along with the planes and satellites overhead"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://defector.com/humanists-have-done-nothing-wrong",
-    "title": "https://defector.com/humanists-have-done-nothing-wrong"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://craigmod.com/essays/robot_blood/",
-    "title": "A Swarm of Blood Robots — by Craig Mod"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/",
-    "title": "How Google is Making Private AI Practical with Homomorphic Encryption"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://calnewport.com/on-ai-coding-and-its-discontents/",
-    "title": "On AI Coding and Its Discontents - Cal Newport"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/",
-    "title": "Gemini 3.7 Flash: our most intelligent workhorse model"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://tailscale.com/blog/sqlite-wal-reset-bug",
-    "title": "How Tailscale helped find the SQLite WAL-Reset bug"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.noemamag.com/why-is-everyone-in-tech-so-sad/",
-    "title": "Why Is Everyone In Tech So Sad?"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://nurb.dev/",
-    "title": "nurb · describe the part, print the part"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://futurism.com/artificial-intelligence/ai-impact-environment-horrifying-new-paper",
-    "title": "AI's Impact on the Environment Is Absolutely Horrifying, New Paper Finds"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://eigendrum.com/#p=circle",
-    "title": "eigendrum.com"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://stolen-thoughts.com/",
-    "title": "Stolen Thoughts: Stealing Reasoning Traces from Proprietary LLM APIs"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://deepseek.com/harness/en/",
-    "title": "DeepSeek Harness developer preview: Everything is a plugin"
   }
 ]
