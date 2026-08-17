@@ -11,6 +11,11 @@
   },
   {
     "source": "hn",
+    "url": "https://sunclock.net/",
+    "title": "Sun Clock"
+  },
+  {
+    "source": "hn",
     "url": "https://www.librarian.net/notoai/",
     "title": "How to disable or avoid intrusive AI"
   },
@@ -26,18 +31,8 @@
   },
   {
     "source": "hn",
-    "url": "https://sunclock.net/",
-    "title": "Sun Clock"
-  },
-  {
-    "source": "hn",
     "url": "https://en.wikipedia.org/wiki/Olo_(color)",
     "title": "Olo (Color)"
-  },
-  {
-    "source": "hn",
-    "url": "https://secretspec.dev/blog/we-are-forking-dotenvy-into-dotenv-ng/",
-    "title": "We Are Forking dotenvy into dotenv-ng"
   },
   {
     "source": "hn",
@@ -48,6 +43,11 @@
     "source": "hn",
     "url": "https://artificialanalysis.ai/models/qwen3-8-27b",
     "title": "Qwen3.8 27B scores 52 on Artificial Analysis"
+  },
+  {
+    "source": "hn",
+    "url": "https://beachfront.bearblog.dev/will-you-have-spent-more-of-your-life-with-computers-than-your-family/",
+    "title": "Will you have spent more of your life with computers than your family?"
   },
   {
     "source": "hn",
@@ -71,18 +71,13 @@
   },
   {
     "source": "hn",
+    "url": "https://secretspec.dev/blog/we-are-forking-dotenvy-into-dotenv-ng/",
+    "title": "We Are Forking dotenvy into dotenv-ng"
+  },
+  {
+    "source": "hn",
     "url": "https://mkornreich.me/projects/sokoban/",
     "title": "Show HN: Sokoban AI Solver"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.bundeskartellamt.de/SharedDocs/Meldung/EN/Pressemitteilungen/2026/08_17_2026_Apple_ATTF.html",
-    "title": "Apple's App Tracking Transparency treated its own apps better than rivals"
-  },
-  {
-    "source": "hn",
-    "url": "https://domenkozar.com/2026/08/17/buy-your-friends-batteries/",
-    "title": "Buy Your Friends Batteries"
   },
   {
     "source": "lobsters",
@@ -91,13 +86,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://c3-lang.org/blog/i_thought_i_was_building_a_c_replacement/",
-    "title": "I thought I was building a C replacement. I was wrong"
+    "url": "https://amoffat.github.io/blog/vetting-burnout.html",
+    "title": "Vetted AI code is hard to justify"
   },
   {
     "source": "lobsters",
-    "url": "https://amoffat.github.io/blog/vetting-burnout.html",
-    "title": "Vetted AI code is hard to justify"
+    "url": "https://c3-lang.org/blog/i_thought_i_was_building_a_c_replacement/",
+    "title": "I thought I was building a C replacement. I was wrong"
   },
   {
     "source": "lobsters",
@@ -116,13 +111,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://op.tngl.io/every-fucking-website/",
-    "title": "Every Fucking Website"
+    "url": "https://thefloatingcontinent.com/blog/upside-down-arrow-unicode/",
+    "title": "When the Down Arrow is not an Upside-Down Up Arrow (2022)"
   },
   {
     "source": "lobsters",
-    "url": "https://thefloatingcontinent.com/blog/upside-down-arrow-unicode/",
-    "title": "When the Down Arrow is not an Upside-Down Up Arrow (2022)"
+    "url": "https://op.tngl.io/every-fucking-website/",
+    "title": "Every Fucking Website"
   },
   {
     "source": "lobsters",
