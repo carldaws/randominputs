@@ -1,18 +1,13 @@
 [
   {
     "source": "hn",
-    "url": "https://ysph.yale.edu/news-article/universal-health-coverage-could-save-one-trillion-dollars-and-114000-lives-every-year/",
-    "title": "Universal Health Coverage Could Save $1T and 114,000 Lives a Year, Yale Study"
-  },
-  {
-    "source": "hn",
     "url": "https://duckdb.org/2026/08/17/duckdb-20-highlights",
     "title": "A Preview of DuckDB v2.0"
   },
   {
     "source": "hn",
-    "url": "https://blog.roboflow.com/openai-gpt-5-6/",
-    "title": "GPT 5.6 Sol is the best \"vision\" model OpenAI ever released"
+    "url": "https://speko.ai/",
+    "title": "Launch HN: Speko (YC S26) – OpenRouter for Voice AI"
   },
   {
     "source": "hn",
@@ -21,8 +16,18 @@
   },
   {
     "source": "hn",
+    "url": "https://blog.roboflow.com/openai-gpt-5-6/",
+    "title": "GPT 5.6 Sol is the best \"vision\" model OpenAI ever released"
+  },
+  {
+    "source": "hn",
     "url": "https://www.githubstatus.com/incidents/zkxwbgr0cnmx",
     "title": "Incident with Github.com"
+  },
+  {
+    "source": "hn",
+    "url": "https://domenkozar.com/2026/08/17/buy-your-friends-batteries/",
+    "title": "Buy Your Friends Batteries"
   },
   {
     "source": "hn",
@@ -31,8 +36,8 @@
   },
   {
     "source": "hn",
-    "url": "https://www.bundeskartellamt.de/SharedDocs/Meldung/EN/Pressemitteilungen/2026/08_17_2026_Apple_ATTF.html",
-    "title": "Apple's App Tracking Transparency treated its own apps better than rivals"
+    "url": "https://en.wikipedia.org/wiki/Olo_(color)",
+    "title": "Olo (Color)"
   },
   {
     "source": "hn",
@@ -41,23 +46,23 @@
   },
   {
     "source": "hn",
-    "url": "https://mkornreich.me/projects/sokoban/",
-    "title": "Show HN: Sokoban AI Solver"
-  },
-  {
-    "source": "hn",
     "url": "https://nanochess.org/am29000_c_compiler_web_browser.html",
     "title": "How I developed an Am29000 C compiler and web browser"
   },
   {
     "source": "hn",
-    "url": "https://en.wikipedia.org/wiki/Olo_(color)",
-    "title": "Olo (Color)"
+    "url": "https://mkornreich.me/projects/sokoban/",
+    "title": "Show HN: Sokoban AI Solver"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.bundeskartellamt.de/SharedDocs/Meldung/EN/Pressemitteilungen/2026/08_17_2026_Apple_ATTF.html",
+    "title": "Apple's App Tracking Transparency treated its own apps better than rivals"
   },
   {
     "source": "hn",
     "url": "https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing",
-    "title": "Anthropic's 'watermark' text adulteration in Claude is a perversion of writing"
+    "title": "Anthropic's ‘watermark’ text adulteration in Claude is a perversion of writing"
   },
   {
     "source": "hn",
@@ -71,13 +76,23 @@
   },
   {
     "source": "hn",
-    "url": "https://www.npr.org/2026/08/17/nx-s1-5928263/cialis-viagra-tadalafil-longevity-heart-health",
-    "title": "Cialis is an erectile dysfunction drug. Could it also help you live longer?"
+    "url": "https://ysph.yale.edu/news-article/universal-health-coverage-could-save-one-trillion-dollars-and-114000-lives-every-year/",
+    "title": "Universal Health Coverage Could Save $1T and 114k Lives a Year, Yale Study"
   },
   {
     "source": "hn",
     "url": "https://yucatanmagazine.com/mexico-crackdown-on-coastal-development/",
-    "title": "Mexico Crackdown on Coastal Development Underway"
+    "title": "Mexico crackdown on coastal development"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.kenkoonwong.com/blog/crossvalidation/",
+    "title": "Cross-Validation From Scratch and a Surprise at n=100"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.npr.org/2026/08/17/nx-s1-5928263/cialis-viagra-tadalafil-longevity-heart-health",
+    "title": "Online clinics and influencers are promoting Cialis as a longevity drug"
   },
   {
     "source": "hn",
@@ -101,18 +116,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://op.tngl.io/every-fucking-website/",
-    "title": "Every Fucking Website"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://blog.yoshuawuyts.com/four-levels-of-in-place-initialization/",
-    "title": "Four levels of in-place initialization"
-  },
-  {
-    "source": "lobsters",
     "url": "https://amoffat.github.io/blog/vetting-burnout.html",
     "title": "Vetted AI code is hard to justify"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://op.tngl.io/every-fucking-website/",
+    "title": "Every Fucking Website"
   },
   {
     "source": "lobsters",
@@ -121,13 +131,23 @@
   },
   {
     "source": "lobsters",
-    "url": "https://tibleiz.net/blog/2024-02-04-writing-a-fast-compiler.html",
-    "title": "Writing a Fast Compiler"
+    "url": "https://blog.yoshuawuyts.com/four-levels-of-in-place-initialization/",
+    "title": "Four levels of in-place initialization"
   },
   {
     "source": "lobsters",
     "url": "https://zverok.space/blog/2026-08-16-assertions-and-matchers.html",
     "title": "Thinking about tests: assertions and matchers"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://duckdb.org/2026/08/17/duckdb-20-highlights.html",
+    "title": "A Preview of DuckDB v2.0"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://tibleiz.net/blog/2024-02-04-writing-a-fast-compiler.html",
+    "title": "Writing a Fast Compiler"
   },
   {
     "source": "lobsters",
@@ -141,13 +161,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://stonetools.ghost.io/appleworks-apple2/",
-    "title": "AppleWorks on the Apple II"
+    "url": "https://codemanship.wordpress.com/2026/08/12/ai-software-development-what-does-the-data-say/",
+    "title": "AI Software Development – What Does The Data Say?"
   },
   {
     "source": "lobsters",
-    "url": "https://codemanship.wordpress.com/2026/08/12/ai-software-development-what-does-the-data-say/",
-    "title": "AI Software Development – What Does The Data Say?"
+    "url": "https://stonetools.ghost.io/appleworks-apple2/",
+    "title": "AppleWorks on the Apple II"
   },
   {
     "source": "lobsters",
@@ -161,17 +181,87 @@
   },
   {
     "source": "lobsters",
+    "url": "https://lalitm.com/post/github-alternatives/",
+    "title": "GitHub has alternatives, but no replacement"
+  },
+  {
+    "source": "lobsters",
     "url": "https://w4g1.dev/blog/models-are-getting-dumber-on-purpose",
     "title": "Models Are Getting Dumber on Purpose"
   },
   {
-    "source": "lobsters",
-    "url": "https://www.ponylang.io/blog/2026/08/ponys-arena-allocator/",
-    "title": "Pony's Arena Allocator"
+    "source": "pinboard",
+    "url": "https://ordinaryabundance.com/",
+    "title": "Ordinary Abundance"
   },
   {
-    "source": "lobsters",
-    "url": "https://gvolpe.com/blog/systemd-schedule/",
-    "title": "Build-time systemd schedule"
+    "source": "pinboard",
+    "url": "https://craigmod.com/essays/robot_blood/",
+    "title": "A Swarm of Blood Robots — by Craig Mod"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://gloom.sh/",
+    "title": "Gloomberb"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html",
+    "title": "AI is removing the middle class of software engineering"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://nurb.dev/",
+    "title": "nurb · describe the part, print the part"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://blog.cryptographyengineering.com/2026/08/14/everything-is-about-to-go-dark/",
+    "title": "Everything is about to “go dark” – A Few Thoughts on Cryptographic Engineering"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://futurism.com/artificial-intelligence/ai-impact-environment-horrifying-new-paper",
+    "title": "AI's Impact on the Environment Is Absolutely Horrifying, New Paper Finds"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.geoffreylitt.com/2026/07/02/understanding-is-the-new-bottleneck",
+    "title": "Understanding is the new bottleneck"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://eigendrum.com/#p=circle",
+    "title": "eigendrum.com"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/",
+    "title": "How Google is Making Private AI Practical with Homomorphic Encryption"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://news.ycombinator.com/item?id=49299222",
+    "title": "Every Fucking Website (2020) | Hacker News"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://news.ycombinator.com/item?id=49300800",
+    "title": "Maximizing the value of your Claude Code sessions | Hacker News"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.cringebot3000.com/",
+    "title": "LinkedIn CringeBot 3000"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.newyorker.com/news/annals-of-inquiry/gps-and-the-lost-art-of-getting-lost",
+    "title": "GPS and the lost art of getting lost • The New Yorker"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://delta.dev/",
+    "title": "Delta | A Multiplayer Environment for Coding with Agents"
   }
 ]
