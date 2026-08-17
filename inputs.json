@@ -1,18 +1,28 @@
 [
   {
     "source": "hn",
+    "url": "https://blog.roboflow.com/openai-gpt-5-6/",
+    "title": "GPT 5.6 Sol is the best \"vision\" model OpenAI ever released"
+  },
+  {
+    "source": "hn",
     "url": "https://simonwillison.net/2026/Aug/16/qwen-38-27b/",
     "title": "Qwen 3.8 27B is excellent, but it defaults to overthinking things"
   },
   {
     "source": "hn",
-    "url": "https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing",
-    "title": "Anthropic's 'watermark' text adulteration in Claude is a perversion of writing"
+    "url": "https://mkornreich.me/projects/sokoban/",
+    "title": "Show HN: Sokoban AI Solver"
   },
   {
     "source": "hn",
-    "url": "https://reticulum.network/",
-    "title": "Reticulum – Decentralized Mesh Network"
+    "url": "https://yucatanmagazine.com/mexico-crackdown-on-coastal-development/",
+    "title": "Mexico Crackdown on Coastal Development Underway"
+  },
+  {
+    "source": "hn",
+    "url": "https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing",
+    "title": "Anthropic's 'watermark' text adulteration in Claude is a perversion of writing"
   },
   {
     "source": "hn",
@@ -26,6 +36,11 @@
   },
   {
     "source": "hn",
+    "url": "https://reticulum.network/",
+    "title": "Reticulum – Decentralized Mesh Network"
+  },
+  {
+    "source": "hn",
     "url": "https://linear.axler.net/",
     "title": "Linear algebra done right"
   },
@@ -36,13 +51,13 @@
   },
   {
     "source": "hn",
-    "url": "https://blog.racket-lang.org/2026/08/rhombus-v1.1.html",
-    "title": "Rhombus 1.1 is now available"
+    "url": "https://opscode.io/posts/ptp-grandmaster-cm4-sr1723u10/",
+    "title": "Build a Stratum 1 PTP Grandmaster on a Budget"
   },
   {
     "source": "hn",
-    "url": "https://en.wikipedia.org/wiki/Gakutensoku",
-    "title": "Gakutensoku"
+    "url": "https://blog.racket-lang.org/2026/08/rhombus-v1.1.html",
+    "title": "Rhombus 1.1 is now available"
   },
   {
     "source": "hn",
@@ -51,18 +66,18 @@
   },
   {
     "source": "hn",
-    "url": "https://jacobin.com/2026/08/varoufakis-tech-capital-marxism-technofeudalism",
-    "title": "The Marxist Case for the Technofeudal Hypothesis"
+    "url": "https://www.bloomberg.com/news/articles/2026-08-16/stripe-nears-deal-to-buy-ai-firm-openrouter-for-over-7-billion",
+    "title": "Stripe to Buy OpenRouter for $7B"
+  },
+  {
+    "source": "hn",
+    "url": "https://en.wikipedia.org/wiki/Gakutensoku",
+    "title": "Gakutensoku"
   },
   {
     "source": "hn",
     "url": "https://math-ai-org.github.io/mathcode/",
     "title": "MathCode, Mathematical Coding Agent"
-  },
-  {
-    "source": "hn",
-    "url": "https://nnamgreb.de/blog/Clamiga+-+Common+Lisp+for+the+Amiga",
-    "title": "Clamiga: Common Lisp for the Amiga"
   },
   {
     "source": "lobsters",
@@ -96,8 +111,18 @@
   },
   {
     "source": "lobsters",
+    "url": "https://blog.yoshuawuyts.com/four-levels-of-in-place-initialization/",
+    "title": "Four levels of in-place initialization"
+  },
+  {
+    "source": "lobsters",
     "url": "https://codemanship.wordpress.com/2026/08/12/ai-software-development-what-does-the-data-say/",
     "title": "AI Software Development – What Does The Data Say?"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://amoffat.github.io/blog/vetting-burnout.html",
+    "title": "Vetted AI code is hard to justify"
   },
   {
     "source": "lobsters",
@@ -106,23 +131,23 @@
   },
   {
     "source": "lobsters",
+    "url": "https://tibleiz.net/blog/2024-02-04-writing-a-fast-compiler.html",
+    "title": "Writing a Fast Compiler"
+  },
+  {
+    "source": "lobsters",
     "url": "https://w4g1.dev/blog/models-are-getting-dumber-on-purpose",
     "title": "Models Are Getting Dumber on Purpose"
   },
   {
     "source": "lobsters",
-    "url": "https://blog.yoshuawuyts.com/four-levels-of-in-place-initialization/",
-    "title": "Four levels of in-place initialization"
+    "url": "https://stonetools.ghost.io/appleworks-apple2/",
+    "title": "AppleWorks on the Apple II"
   },
   {
     "source": "lobsters",
     "url": "https://gvolpe.com/blog/systemd-schedule/",
     "title": "Build-time systemd schedule"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://amoffat.github.io/blog/vetting-burnout.html",
-    "title": "Vetted AI code is hard to justify"
   },
   {
     "source": "lobsters",
@@ -138,16 +163,6 @@
     "source": "lobsters",
     "url": "https://heiwiper.com/posts/magit-status-tour/",
     "title": "A Tour of Magit's Status Interface"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://christianheilmann.com/2026/08/11/anti-social-media/",
-    "title": "Anti-Social Media"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://tibleiz.net/blog/2024-02-04-writing-a-fast-compiler.html",
-    "title": "Writing a Fast Compiler"
   },
   {
     "source": "pinboard",
