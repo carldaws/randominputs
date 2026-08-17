@@ -26,13 +26,13 @@
   },
   {
     "source": "hn",
-    "url": "https://wiki.lowtechlab.org/wiki/Filtre_%C3%A0_eau_c%C3%A9ramique/en",
-    "title": "Low-Tech Ceramic Water Filter"
+    "url": "https://breakintochat.com/blog/2013/02/18/amit-patel-creator-of-solar-realms-elite/",
+    "title": "Interview with Amit Patel, Creator of “Solar Realms Elite” (2013)"
   },
   {
     "source": "hn",
-    "url": "https://breakintochat.com/blog/2013/02/18/amit-patel-creator-of-solar-realms-elite/",
-    "title": "Interview with Amit Patel, Creator of \"Solar Realms Elite\""
+    "url": "https://wiki.lowtechlab.org/wiki/Filtre_%C3%A0_eau_c%C3%A9ramique/en",
+    "title": "Low-Tech Ceramic Water Filter"
   },
   {
     "source": "hn",
@@ -51,11 +51,6 @@
   },
   {
     "source": "hn",
-    "url": "https://bernsteinbear.com/blog/zkp/",
-    "title": "A quick look at zero-knowledge proofs"
-  },
-  {
-    "source": "hn",
     "url": "https://nnamgreb.de/blog/Clamiga+-+Common+Lisp+for+the+Amiga",
     "title": "Clamiga: Common Lisp for the Amiga"
   },
@@ -71,13 +66,23 @@
   },
   {
     "source": "hn",
+    "url": "https://www.bloomberg.com/news/articles/2026-08-16/stripe-nears-deal-to-buy-ai-firm-openrouter-for-over-7-billion",
+    "title": "Stripe Clinches over $7B Deal to Buy AI Firm OpenRouter"
+  },
+  {
+    "source": "hn",
     "url": "https://www.highereddive.com/news/inside-the-federal-keyword-lists-that-canceled-billions-in-research-funding/826203/",
     "title": "The federal keyword lists that canceled billions in research funding"
   },
   {
     "source": "hn",
-    "url": "https://www.bloomberg.com/news/articles/2026-08-16/stripe-nears-deal-to-buy-ai-firm-openrouter-for-over-7-billion",
-    "title": "Stripe Clinches over $7B Deal to Buy AI Firm OpenRouter"
+    "url": "https://ei3lh.eu/2026/08/16/a-true-telnet-bbs-on-a-casio-calculator/",
+    "title": "A True Telnet BBS on a Casio Calculator"
+  },
+  {
+    "source": "hn",
+    "url": "https://hwbusters.com/news/comma-ai-egpu-dock-runs-open-source-firmware-249-bare-799-with-an-rx-9060/",
+    "title": "Chestnut – eGPU dock with open-source firmware"
   },
   {
     "source": "lobsters",
@@ -121,6 +126,11 @@
   },
   {
     "source": "lobsters",
+    "url": "https://codemanship.wordpress.com/2026/08/12/ai-software-development-what-does-the-data-say/",
+    "title": "AI Software Development – What Does The Data Say?"
+  },
+  {
+    "source": "lobsters",
     "url": "https://unsung.aresluna.org/i-think-theres-a-lot-of-value-in-these/",
     "title": "Human Interface Guidelines from various platforms"
   },
@@ -128,11 +138,6 @@
     "source": "lobsters",
     "url": "https://blog.jsbarretto.com/post/i-remain-a-skeptic",
     "title": "Why I remain a skeptic"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://codemanship.wordpress.com/2026/08/12/ai-software-development-what-does-the-data-say/",
-    "title": "AI Software Development – What Does The Data Say?"
   },
   {
     "source": "lobsters",
@@ -146,23 +151,18 @@
   },
   {
     "source": "lobsters",
-    "url": "https://blog.cryptographyengineering.com/2026/08/14/everything-is-about-to-go-dark/",
-    "title": "Everything is about to “go dark”"
-  },
-  {
-    "source": "lobsters",
     "url": "https://snarky.ca/whats-missing-to-have-reproducible-builds-on-pypi/",
     "title": "What's missing to have reproducible builds on PyPI"
   },
   {
     "source": "lobsters",
-    "url": "https://zig.day/usa/seattle/3/",
-    "title": "Zig Day Seattle, WA #3"
+    "url": "https://blog.cryptographyengineering.com/2026/08/14/everything-is-about-to-go-dark/",
+    "title": "Everything is about to “go dark”"
   },
   {
     "source": "lobsters",
-    "url": "https://bencornia.com/blog/recap-software-should-work-2026",
-    "title": "Recap: Software Should Work 2026"
+    "url": "https://zig.day/usa/seattle/3/",
+    "title": "Zig Day Seattle, WA #3"
   },
   {
     "source": "pinboard",
