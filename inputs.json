@@ -6,23 +6,8 @@
   },
   {
     "source": "hn",
-    "url": "https://asteriskmag.com/issues/15/beware-the-permanent-periphery",
-    "title": "Beware the Permanent Periphery"
-  },
-  {
-    "source": "hn",
-    "url": "https://duti.dev/blog/2026/spr/",
-    "title": "HackEurope 2026: A short rant on AI and hackathons"
-  },
-  {
-    "source": "hn",
     "url": "https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing",
     "title": "Anthropic's 'watermark' text adulteration in Claude is a perversion of writing"
-  },
-  {
-    "source": "hn",
-    "url": "https://linear.axler.net/",
-    "title": "Linear algebra done right"
   },
   {
     "source": "hn",
@@ -36,6 +21,11 @@
   },
   {
     "source": "hn",
+    "url": "https://linear.axler.net/",
+    "title": "Linear algebra done right"
+  },
+  {
+    "source": "hn",
     "url": "https://meanhamster.com/news/agi-64-brings-sierra-adventures-to-the-commodore-64",
     "title": "AGI-64 Brings Sierra Adventures to the Commodore 64"
   },
@@ -46,18 +36,13 @@
   },
   {
     "source": "hn",
-    "url": "https://wiki.lowtechlab.org/wiki/Filtre_%C3%A0_eau_c%C3%A9ramique/en",
-    "title": "Low-Tech Ceramic Water Filter"
+    "url": "https://www.outsideonline.com/health/training-performance/running-empty/",
+    "title": "The Mysterious Syndrome Destroying Endurance Athletes"
   },
   {
     "source": "hn",
-    "url": "https://nurb.dev/",
-    "title": "Design 3D-printable parts by talking"
-  },
-  {
-    "source": "hn",
-    "url": "https://vocalslice.com/",
-    "title": "Show HN: Vocal Slice – Cut audio by selecting text, fully on-device"
+    "url": "https://desktopcolors.com",
+    "title": "Show HN: Desktopcolors.com – A museum for solid background colors of classic OS"
   },
   {
     "source": "hn",
@@ -66,13 +51,8 @@
   },
   {
     "source": "hn",
-    "url": "https://breakintochat.com/blog/2013/02/18/amit-patel-creator-of-solar-realms-elite/",
-    "title": "Interview with Amit Patel, Creator of “Solar Realms Elite” (2013)"
-  },
-  {
-    "source": "hn",
-    "url": "https://community.wolfram.com/groups/-/m/t/122095",
-    "title": "Dancing with friends and enemies: boids' swarm intelligence (2012)"
+    "url": "https://nurb.dev/",
+    "title": "Design 3D-printable parts by talking"
   },
   {
     "source": "hn",
@@ -83,6 +63,11 @@
     "source": "hn",
     "url": "https://nnamgreb.de/blog/Clamiga+-+Common+Lisp+for+the+Amiga",
     "title": "Clamiga: Common Lisp for the Amiga"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.newyorker.com/news/annals-of-inquiry/gps-and-the-lost-art-of-getting-lost",
+    "title": "GPS and the Lost Art of Getting Lost"
   },
   {
     "source": "lobsters",
@@ -106,8 +91,18 @@
   },
   {
     "source": "lobsters",
+    "url": "https://codemanship.wordpress.com/2026/08/12/ai-software-development-what-does-the-data-say/",
+    "title": "AI Software Development – What Does The Data Say?"
+  },
+  {
+    "source": "lobsters",
     "url": "https://nolanlawson.com/2026/08/16/you-can-just-choose-how-many-bugs-you-want-now/",
     "title": "You can just choose how many bugs you want now"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://zverok.space/blog/2026-08-16-assertions-and-matchers.html",
+    "title": "Thinking about tests: assertions and matchers"
   },
   {
     "source": "lobsters",
@@ -121,13 +116,23 @@
   },
   {
     "source": "lobsters",
-    "url": "https://codemanship.wordpress.com/2026/08/12/ai-software-development-what-does-the-data-say/",
-    "title": "AI Software Development – What Does The Data Say?"
+    "url": "https://amoffat.github.io/blog/vetting-burnout.html",
+    "title": "Vetted AI code is hard to justify"
   },
   {
     "source": "lobsters",
     "url": "https://blog.yoshuawuyts.com/four-levels-of-in-place-initialization/",
     "title": "Four levels of in-place initialization"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://gvolpe.com/blog/systemd-schedule/",
+    "title": "Build-time systemd schedule"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://unsung.aresluna.org/i-think-theres-a-lot-of-value-in-these/",
+    "title": "Human Interface Guidelines from various platforms"
   },
   {
     "source": "lobsters",
@@ -141,8 +146,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://unsung.aresluna.org/i-think-theres-a-lot-of-value-in-these/",
-    "title": "Human Interface Guidelines from various platforms"
+    "url": "https://tibleiz.net/blog/2024-02-04-writing-a-fast-compiler.html",
+    "title": "Writing a Fast Compiler"
   },
   {
     "source": "lobsters",
@@ -151,12 +156,72 @@
   },
   {
     "source": "lobsters",
-    "url": "https://gvolpe.com/blog/systemd-schedule/",
-    "title": "Build-time systemd schedule"
-  },
-  {
-    "source": "lobsters",
     "url": "https://blog.jsbarretto.com/post/i-remain-a-skeptic",
     "title": "Why I remain a skeptic"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://ordinaryabundance.com/",
+    "title": "Ordinary Abundance"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://craigmod.com/essays/robot_blood/",
+    "title": "A Swarm of Blood Robots — by Craig Mod"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://gloom.sh/",
+    "title": "Gloomberb"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html",
+    "title": "AI is removing the middle class of software engineering"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://blog.cryptographyengineering.com/2026/08/14/everything-is-about-to-go-dark/",
+    "title": "Everything is about to “go dark” – A Few Thoughts on Cryptographic Engineering"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://futurism.com/artificial-intelligence/ai-impact-environment-horrifying-new-paper",
+    "title": "AI's Impact on the Environment Is Absolutely Horrifying, New Paper Finds"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.geoffreylitt.com/2026/07/02/understanding-is-the-new-bottleneck",
+    "title": "Understanding is the new bottleneck"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://eigendrum.com/#p=circle",
+    "title": "eigendrum.com"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/",
+    "title": "How Google is Making Private AI Practical with Homomorphic Encryption"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://news.ycombinator.com/item?id=49299222",
+    "title": "Every Fucking Website (2020) | Hacker News"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://news.ycombinator.com/item?id=49300800",
+    "title": "Maximizing the value of your Claude Code sessions | Hacker News"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.cringebot3000.com/",
+    "title": "LinkedIn CringeBot 3000"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://delta.dev/",
+    "title": "Delta | A Multiplayer Environment for Coding with Agents"
   }
 ]
