@@ -16,28 +16,13 @@
   },
   {
     "source": "hn",
-    "url": "https://speko.ai/",
-    "title": "Launch HN: Speko (YC S26) – OpenRouter for Voice AI"
-  },
-  {
-    "source": "hn",
     "url": "https://blog.roboflow.com/openai-gpt-5-6/",
     "title": "GPT 5.6 Sol is the best \"vision\" model OpenAI ever released"
   },
   {
     "source": "hn",
-    "url": "https://en.wikipedia.org/wiki/Olo_(color)",
-    "title": "Olo (Color)"
-  },
-  {
-    "source": "hn",
-    "url": "https://artificialanalysis.ai/models/qwen3-8-27b",
-    "title": "Qwen3.8 27B scores 52 on Artificial Analysis"
-  },
-  {
-    "source": "hn",
-    "url": "https://signoregalilei.com/2026/08/02/how-to-put-170-atoms-in-an-atom/",
-    "title": "How to put 170 atoms in an atom"
+    "url": "https://speko.ai/",
+    "title": "Launch HN: Speko (YC S26) – OpenRouter for Voice AI"
   },
   {
     "source": "hn",
@@ -46,13 +31,33 @@
   },
   {
     "source": "hn",
-    "url": "https://domenkozar.com/2026/08/17/buy-your-friends-batteries/",
-    "title": "Buy Your Friends Batteries"
+    "url": "https://en.wikipedia.org/wiki/Olo_(color)",
+    "title": "Olo (Color)"
   },
   {
     "source": "hn",
-    "url": "https://mkornreich.me/projects/sokoban/",
-    "title": "Show HN: Sokoban AI Solver"
+    "url": "https://secretspec.dev/blog/we-are-forking-dotenvy-into-dotenv-ng/",
+    "title": "We Are Forking dotenvy into dotenv-ng"
+  },
+  {
+    "source": "hn",
+    "url": "https://blog.roboflow.com/roboflow-playground/",
+    "title": "Roboflow Playground: Try and Compare 30 Computer Vision Models"
+  },
+  {
+    "source": "hn",
+    "url": "https://artificialanalysis.ai/models/qwen3-8-27b",
+    "title": "Qwen3.8 27B scores 52 on Artificial Analysis"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.newyorker.com/culture/photo-booth/the-lonely-men-at-the-end-of-the-world",
+    "title": "The Lonely Men Who Work in Patagonia, at the End of the World"
+  },
+  {
+    "source": "hn",
+    "url": "https://signoregalilei.com/2026/08/02/how-to-put-170-atoms-in-an-atom/",
+    "title": "How to put 170 atoms in an atom"
   },
   {
     "source": "hn",
@@ -66,38 +71,23 @@
   },
   {
     "source": "hn",
+    "url": "https://mkornreich.me/projects/sokoban/",
+    "title": "Show HN: Sokoban AI Solver"
+  },
+  {
+    "source": "hn",
     "url": "https://www.bundeskartellamt.de/SharedDocs/Meldung/EN/Pressemitteilungen/2026/08_17_2026_Apple_ATTF.html",
     "title": "Apple's App Tracking Transparency treated its own apps better than rivals"
   },
   {
     "source": "hn",
-    "url": "https://turbopuffer.com/blog/control-plane",
-    "title": "How to ship a database every day"
+    "url": "https://domenkozar.com/2026/08/17/buy-your-friends-batteries/",
+    "title": "Buy Your Friends Batteries"
   },
   {
-    "source": "hn",
-    "url": "https://desktopcolors.com",
-    "title": "Show HN: Desktopcolors.com – A museum for solid background colors of classic OS"
-  },
-  {
-    "source": "hn",
-    "url": "https://yucatanmagazine.com/mexico-crackdown-on-coastal-development/",
-    "title": "Mexico crackdown on coastal development"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.kenkoonwong.com/blog/crossvalidation/",
-    "title": "Cross-Validation From Scratch and a Surprise at n=100"
-  },
-  {
-    "source": "hn",
-    "url": "https://reticulum.network/",
-    "title": "Reticulum – Decentralized Mesh Network"
-  },
-  {
-    "source": "hn",
-    "url": "https://linear.axler.net/",
-    "title": "Linear algebra done right"
+    "source": "lobsters",
+    "url": "https://lalitm.com/post/github-alternatives/",
+    "title": "GitHub has alternatives, but no replacement"
   },
   {
     "source": "lobsters",
@@ -111,23 +101,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://www.benjoffe.com/fast-day-of-week",
-    "title": "A faster way to calculate the day-of-the-week"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://op.tngl.io/every-fucking-website/",
-    "title": "Every Fucking Website"
-  },
-  {
-    "source": "lobsters",
     "url": "https://duckdb.org/2026/08/17/duckdb-20-highlights.html",
     "title": "A Preview of DuckDB v2.0"
   },
   {
     "source": "lobsters",
-    "url": "https://thefloatingcontinent.com/blog/upside-down-arrow-unicode/",
-    "title": "When the Down Arrow is not an Upside-Down Up Arrow (2022)"
+    "url": "https://www.benjoffe.com/fast-day-of-week",
+    "title": "A faster way to calculate the day-of-the-week"
   },
   {
     "source": "lobsters",
@@ -136,8 +116,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://lalitm.com/post/github-alternatives/",
-    "title": "GitHub has alternatives, but no replacement"
+    "url": "https://op.tngl.io/every-fucking-website/",
+    "title": "Every Fucking Website"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://thefloatingcontinent.com/blog/upside-down-arrow-unicode/",
+    "title": "When the Down Arrow is not an Upside-Down Up Arrow (2022)"
   },
   {
     "source": "lobsters",
@@ -146,13 +131,18 @@
   },
   {
     "source": "lobsters",
+    "url": "https://simonwillison.net/2026/Aug/16/qwen-38-27b/",
+    "title": "Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things"
+  },
+  {
+    "source": "lobsters",
     "url": "https://blog.yoshuawuyts.com/four-levels-of-in-place-initialization/",
     "title": "Four levels of in-place initialization"
   },
   {
     "source": "lobsters",
-    "url": "https://simonwillison.net/2026/Aug/16/qwen-38-27b/",
-    "title": "Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things"
+    "url": "https://labs.leaningtech.com/blog/browserpod-rust.html",
+    "title": "Beyond WASI: Running any Rust application in the browser with BrowserPod 3.0"
   },
   {
     "source": "lobsters",
@@ -163,11 +153,6 @@
     "source": "lobsters",
     "url": "https://codemanship.wordpress.com/2026/08/12/ai-software-development-what-does-the-data-say/",
     "title": "AI Software Development – What Does The Data Say?"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://labs.leaningtech.com/blog/browserpod-rust.html",
-    "title": "Beyond WASI: Running any Rust application in the browser with BrowserPod 3.0"
   },
   {
     "source": "lobsters",
@@ -188,5 +173,80 @@
     "source": "lobsters",
     "url": "https://w4g1.dev/blog/models-are-getting-dumber-on-purpose",
     "title": "Models Are Getting Dumber on Purpose"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://ordinaryabundance.com/",
+    "title": "Ordinary Abundance"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://craigmod.com/essays/robot_blood/",
+    "title": "A Swarm of Blood Robots — by Craig Mod"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://gloom.sh/",
+    "title": "Gloomberb"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html",
+    "title": "AI is removing the middle class of software engineering"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://nurb.dev/",
+    "title": "nurb · describe the part, print the part"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://blog.cryptographyengineering.com/2026/08/14/everything-is-about-to-go-dark/",
+    "title": "Everything is about to “go dark” – A Few Thoughts on Cryptographic Engineering"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://futurism.com/artificial-intelligence/ai-impact-environment-horrifying-new-paper",
+    "title": "AI's Impact on the Environment Is Absolutely Horrifying, New Paper Finds"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.geoffreylitt.com/2026/07/02/understanding-is-the-new-bottleneck",
+    "title": "Understanding is the new bottleneck"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://eigendrum.com/#p=circle",
+    "title": "eigendrum.com"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/",
+    "title": "How Google is Making Private AI Practical with Homomorphic Encryption"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://news.ycombinator.com/item?id=49299222",
+    "title": "Every Fucking Website (2020) | Hacker News"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://news.ycombinator.com/item?id=49300800",
+    "title": "Maximizing the value of your Claude Code sessions | Hacker News"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.cringebot3000.com/",
+    "title": "LinkedIn CringeBot 3000"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.newyorker.com/news/annals-of-inquiry/gps-and-the-lost-art-of-getting-lost",
+    "title": "GPS and the lost art of getting lost • The New Yorker"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://delta.dev/",
+    "title": "Delta | A Multiplayer Environment for Coding with Agents"
   }
 ]
