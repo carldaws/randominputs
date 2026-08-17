@@ -16,8 +16,13 @@
   },
   {
     "source": "hn",
-    "url": "https://en.wikipedia.org/wiki/Gakutensoku",
-    "title": "Gakutensoku"
+    "url": "https://desktopcolors.com",
+    "title": "Show HN: Desktopcolors.com – A museum for solid background colors of classic OS"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.outsideonline.com/health/training-performance/running-empty/",
+    "title": "The Mysterious Syndrome Destroying Endurance Athletes"
   },
   {
     "source": "hn",
@@ -36,13 +41,8 @@
   },
   {
     "source": "hn",
-    "url": "https://www.outsideonline.com/health/training-performance/running-empty/",
-    "title": "The Mysterious Syndrome Destroying Endurance Athletes"
-  },
-  {
-    "source": "hn",
-    "url": "https://desktopcolors.com",
-    "title": "Show HN: Desktopcolors.com – A museum for solid background colors of classic OS"
+    "url": "https://en.wikipedia.org/wiki/Gakutensoku",
+    "title": "Gakutensoku"
   },
   {
     "source": "hn",
@@ -51,8 +51,8 @@
   },
   {
     "source": "hn",
-    "url": "https://nurb.dev/",
-    "title": "Design 3D-printable parts by talking"
+    "url": "https://jacobin.com/2026/08/varoufakis-tech-capital-marxism-technofeudalism",
+    "title": "The Marxist Case for the Technofeudal Hypothesis"
   },
   {
     "source": "hn",
@@ -65,19 +65,9 @@
     "title": "Clamiga: Common Lisp for the Amiga"
   },
   {
-    "source": "hn",
-    "url": "https://www.newyorker.com/news/annals-of-inquiry/gps-and-the-lost-art-of-getting-lost",
-    "title": "GPS and the Lost Art of Getting Lost"
-  },
-  {
     "source": "lobsters",
     "url": "https://c3-lang.org/blog/i_thought_i_was_building_a_c_replacement/",
     "title": "I thought I was building a C replacement. I was wrong"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://op.tngl.io/every-fucking-website/",
-    "title": "Every Fucking Website"
   },
   {
     "source": "lobsters",
@@ -86,8 +76,23 @@
   },
   {
     "source": "lobsters",
+    "url": "https://op.tngl.io/every-fucking-website/",
+    "title": "Every Fucking Website"
+  },
+  {
+    "source": "lobsters",
     "url": "https://predr.ag/blog/protecting-the-rust-stdlib-from-breakage/",
     "title": "Protecting the Rust standard library from accidental breakage"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://zverok.space/blog/2026-08-16-assertions-and-matchers.html",
+    "title": "Thinking about tests: assertions and matchers"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://infrastructureinsights.fund/projects/what-comes-after-foss/",
+    "title": "(What Comes) After FOSS?"
   },
   {
     "source": "lobsters",
@@ -101,23 +106,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://zverok.space/blog/2026-08-16-assertions-and-matchers.html",
-    "title": "Thinking about tests: assertions and matchers"
-  },
-  {
-    "source": "lobsters",
     "url": "https://w4g1.dev/blog/models-are-getting-dumber-on-purpose",
     "title": "Models Are Getting Dumber on Purpose"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://infrastructureinsights.fund/projects/what-comes-after-foss/",
-    "title": "(What Comes) After FOSS?"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://amoffat.github.io/blog/vetting-burnout.html",
-    "title": "Vetted AI code is hard to justify"
   },
   {
     "source": "lobsters",
@@ -131,8 +121,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://unsung.aresluna.org/i-think-theres-a-lot-of-value-in-these/",
-    "title": "Human Interface Guidelines from various platforms"
+    "url": "https://amoffat.github.io/blog/vetting-burnout.html",
+    "title": "Vetted AI code is hard to justify"
   },
   {
     "source": "lobsters",
@@ -141,13 +131,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://heiwiper.com/posts/magit-status-tour/",
-    "title": "A Tour of Magit's Status Interface"
+    "url": "https://unsung.aresluna.org/i-think-theres-a-lot-of-value-in-these/",
+    "title": "Human Interface Guidelines from various platforms"
   },
   {
     "source": "lobsters",
-    "url": "https://tibleiz.net/blog/2024-02-04-writing-a-fast-compiler.html",
-    "title": "Writing a Fast Compiler"
+    "url": "https://heiwiper.com/posts/magit-status-tour/",
+    "title": "A Tour of Magit's Status Interface"
   },
   {
     "source": "lobsters",
@@ -156,8 +146,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://blog.jsbarretto.com/post/i-remain-a-skeptic",
-    "title": "Why I remain a skeptic"
+    "url": "https://tibleiz.net/blog/2024-02-04-writing-a-fast-compiler.html",
+    "title": "Writing a Fast Compiler"
   },
   {
     "source": "pinboard",
@@ -178,6 +168,11 @@
     "source": "pinboard",
     "url": "https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html",
     "title": "AI is removing the middle class of software engineering"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://nurb.dev/",
+    "title": "nurb · describe the part, print the part"
   },
   {
     "source": "pinboard",
@@ -218,6 +213,11 @@
     "source": "pinboard",
     "url": "https://www.cringebot3000.com/",
     "title": "LinkedIn CringeBot 3000"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.newyorker.com/news/annals-of-inquiry/gps-and-the-lost-art-of-getting-lost",
+    "title": "GPS and the lost art of getting lost • The New Yorker"
   },
   {
     "source": "pinboard",
