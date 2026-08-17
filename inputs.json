@@ -6,8 +6,8 @@
   },
   {
     "source": "hn",
-    "url": "https://simonwillison.net/2026/Aug/16/qwen-38-27b/",
-    "title": "Qwen 3.8 27B is excellent, but it defaults to overthinking things"
+    "url": "https://www.githubstatus.com/incidents/zkxwbgr0cnmx",
+    "title": "Incident with Github.com"
   },
   {
     "source": "hn",
@@ -16,8 +16,18 @@
   },
   {
     "source": "hn",
-    "url": "https://yucatanmagazine.com/mexico-crackdown-on-coastal-development/",
-    "title": "Mexico Crackdown on Coastal Development Underway"
+    "url": "https://simonwillison.net/2026/Aug/16/qwen-38-27b/",
+    "title": "Qwen 3.8 27B is excellent, but it defaults to overthinking things"
+  },
+  {
+    "source": "hn",
+    "url": "https://1667.ai/",
+    "title": "Show HN: 1667, a terminal UI for writing fiction with language models"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.bloomberg.com/news/articles/2026-08-16/stripe-nears-deal-to-buy-ai-firm-openrouter-for-over-7-billion",
+    "title": "Stripe to Buy OpenRouter for $7B"
   },
   {
     "source": "hn",
@@ -31,8 +41,18 @@
   },
   {
     "source": "hn",
-    "url": "https://www.outsideonline.com/health/training-performance/running-empty/",
-    "title": "The Mysterious Syndrome Destroying Endurance Athletes"
+    "url": "https://www.npr.org/2026/08/17/nx-s1-5928263/cialis-viagra-tadalafil-longevity-heart-health",
+    "title": "Cialis is an erectile dysfunction drug. Could it also help you live longer?"
+  },
+  {
+    "source": "hn",
+    "url": "https://yucatanmagazine.com/mexico-crackdown-on-coastal-development/",
+    "title": "Mexico Crackdown on Coastal Development Underway"
+  },
+  {
+    "source": "hn",
+    "url": "https://nanochess.org/am29000_c_compiler_web_browser.html",
+    "title": "How I developed an Am29000 C compiler and web browser"
   },
   {
     "source": "hn",
@@ -51,6 +71,11 @@
   },
   {
     "source": "hn",
+    "url": "https://www.outsideonline.com/health/training-performance/running-empty/",
+    "title": "The Mysterious Syndrome Destroying Endurance Athletes"
+  },
+  {
+    "source": "hn",
     "url": "https://opscode.io/posts/ptp-grandmaster-cm4-sr1723u10/",
     "title": "Build a Stratum 1 PTP Grandmaster on a Budget"
   },
@@ -61,23 +86,18 @@
   },
   {
     "source": "hn",
-    "url": "https://pikuma.com/blog/programming-intel-pentium-mmx-simd",
-    "title": "SIMD in the 90s: Programming Intel's Pentium MMX"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.bloomberg.com/news/articles/2026-08-16/stripe-nears-deal-to-buy-ai-firm-openrouter-for-over-7-billion",
-    "title": "Stripe to Buy OpenRouter for $7B"
-  },
-  {
-    "source": "hn",
     "url": "https://en.wikipedia.org/wiki/Gakutensoku",
     "title": "Gakutensoku"
   },
   {
     "source": "hn",
-    "url": "https://math-ai-org.github.io/mathcode/",
-    "title": "MathCode, Mathematical Coding Agent"
+    "url": "https://www.404media.co/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-training-facility/",
+    "title": "We Tracked a Shipment of Rare Books. It Ended at an Amazon AI Training Facility"
+  },
+  {
+    "source": "hn",
+    "url": "https://pikuma.com/blog/programming-intel-pentium-mmx-simd",
+    "title": "SIMD in the 90s: Programming Intel's Pentium MMX"
   },
   {
     "source": "lobsters",
@@ -101,23 +121,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://zverok.space/blog/2026-08-16-assertions-and-matchers.html",
-    "title": "Thinking about tests: assertions and matchers"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://infrastructureinsights.fund/projects/what-comes-after-foss/",
-    "title": "(What Comes) After FOSS?"
-  },
-  {
-    "source": "lobsters",
     "url": "https://blog.yoshuawuyts.com/four-levels-of-in-place-initialization/",
     "title": "Four levels of in-place initialization"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://codemanship.wordpress.com/2026/08/12/ai-software-development-what-does-the-data-say/",
-    "title": "AI Software Development – What Does The Data Say?"
   },
   {
     "source": "lobsters",
@@ -126,8 +131,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://nolanlawson.com/2026/08/16/you-can-just-choose-how-many-bugs-you-want-now/",
-    "title": "You can just choose how many bugs you want now"
+    "url": "https://zverok.space/blog/2026-08-16-assertions-and-matchers.html",
+    "title": "Thinking about tests: assertions and matchers"
   },
   {
     "source": "lobsters",
@@ -136,13 +141,38 @@
   },
   {
     "source": "lobsters",
-    "url": "https://w4g1.dev/blog/models-are-getting-dumber-on-purpose",
-    "title": "Models Are Getting Dumber on Purpose"
+    "url": "https://codemanship.wordpress.com/2026/08/12/ai-software-development-what-does-the-data-say/",
+    "title": "AI Software Development – What Does The Data Say?"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://infrastructureinsights.fund/projects/what-comes-after-foss/",
+    "title": "(What Comes) After FOSS?"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://nolanlawson.com/2026/08/16/you-can-just-choose-how-many-bugs-you-want-now/",
+    "title": "You can just choose how many bugs you want now"
   },
   {
     "source": "lobsters",
     "url": "https://stonetools.ghost.io/appleworks-apple2/",
     "title": "AppleWorks on the Apple II"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://w4g1.dev/blog/models-are-getting-dumber-on-purpose",
+    "title": "Models Are Getting Dumber on Purpose"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://labs.leaningtech.com/blog/browserpod-rust.html",
+    "title": "Beyond WASI: Running any Rust application in the browser with BrowserPod 3.0"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://thefloatingcontinent.com/blog/upside-down-arrow-unicode/",
+    "title": "When the Down Arrow is not an Upside-Down Up Arrow (2022)"
   },
   {
     "source": "lobsters",
@@ -158,11 +188,6 @@
     "source": "lobsters",
     "url": "https://unsung.aresluna.org/i-think-theres-a-lot-of-value-in-these/",
     "title": "Human Interface Guidelines from various platforms"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://heiwiper.com/posts/magit-status-tour/",
-    "title": "A Tour of Magit's Status Interface"
   },
   {
     "source": "pinboard",
