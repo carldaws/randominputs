@@ -1,6 +1,26 @@
 [
   {
     "source": "hn",
+    "url": "https://www.ischool.berkeley.edu/sites/default/files/vinton_report_5.pdf",
+    "title": "The Life and Death of Direct File [pdf]"
+  },
+  {
+    "source": "hn",
+    "url": "https://simonwillison.net/2026/Aug/16/qwen-38-27b/",
+    "title": "Qwen 3.8 27B is excellent, but it defaults to overthinking things"
+  },
+  {
+    "source": "hn",
+    "url": "https://blog.racket-lang.org/2026/08/rhombus-v1.1.html",
+    "title": "Rhombus 1.1 is now available"
+  },
+  {
+    "source": "hn",
+    "url": "https://meanhamster.com/news/agi-64-brings-sierra-adventures-to-the-commodore-64",
+    "title": "AGI-64 Brings Sierra Adventures to the Commodore 64"
+  },
+  {
+    "source": "hn",
     "url": "https://pikuma.com/blog/programming-intel-pentium-mmx-simd",
     "title": "SIMD in the 90s: Programming Intel's Pentium MMX"
   },
@@ -11,18 +31,18 @@
   },
   {
     "source": "hn",
-    "url": "https://bernsteinbear.com/blog/zkp/",
-    "title": "A quick look at zero-knowledge proofs"
+    "url": "https://breakintochat.com/blog/2013/02/18/amit-patel-creator-of-solar-realms-elite/",
+    "title": "Interview with Amit Patel, Creator of \"Solar Realms Elite\""
   },
   {
     "source": "hn",
-    "url": "https://w4g1.dev/blog/models-are-getting-dumber-on-purpose",
-    "title": "Models Are Getting Dumber on Purpose"
+    "url": "https://reticulum.network/",
+    "title": "Reticulum – Decentralized Mesh Network"
   },
   {
     "source": "hn",
-    "url": "https://math-ai-org.github.io/mathcode/",
-    "title": "MathCode, Mathematical Coding Agent"
+    "url": "https://www.highereddive.com/news/inside-the-federal-keyword-lists-that-canceled-billions-in-research-funding/826203/",
+    "title": "The federal keyword lists that canceled billions in research funding"
   },
   {
     "source": "hn",
@@ -31,13 +51,8 @@
   },
   {
     "source": "hn",
-    "url": "https://www.bloomberg.com/news/articles/2026-08-16/stripe-nears-deal-to-buy-ai-firm-openrouter-for-over-7-billion",
-    "title": "Stripe Clinches over $7B Deal to Buy AI Firm OpenRouter"
-  },
-  {
-    "source": "hn",
-    "url": "https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing",
-    "title": "Anthropic's 'Watermark' Text Adulteration in Claude Is a Perversion of Writing"
+    "url": "https://math-ai-org.github.io/mathcode/",
+    "title": "MathCode, Mathematical Coding Agent"
   },
   {
     "source": "hn",
@@ -46,18 +61,28 @@
   },
   {
     "source": "hn",
+    "url": "https://bernsteinbear.com/blog/zkp/",
+    "title": "A quick look at zero-knowledge proofs"
+  },
+  {
+    "source": "hn",
     "url": "https://commonreader.wustl.edu/winning-and-losing-at-the-great-game-of-intimacy/",
     "title": "Anton Chekhov played at love most of his life"
   },
   {
     "source": "hn",
-    "url": "https://ivan-gavran.github.io/0-social-processes-paper",
-    "title": "The Case Against Formal Verification, 50 Years Later"
+    "url": "https://w4g1.dev/blog/models-are-getting-dumber-on-purpose",
+    "title": "Models Are Getting Dumber on Purpose"
   },
   {
     "source": "hn",
     "url": "https://support.mozilla.org/en-US/kb/block-ads-firefox-ios",
     "title": "Firefox for iOS now has a native adblocker"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.bloomberg.com/news/articles/2026-08-16/stripe-nears-deal-to-buy-ai-firm-openrouter-for-over-7-billion",
+    "title": "Stripe Clinches over $7B Deal to Buy AI Firm OpenRouter"
   },
   {
     "source": "hn",
@@ -68,21 +93,6 @@
     "source": "hn",
     "url": "https://www.ianvisits.co.uk/articles/before-rightmove-there-was-the-cosmorama-londons-forgotten-property-innovation-91687/",
     "title": "Before Rightmove, there was the Cosmorama"
-  },
-  {
-    "source": "hn",
-    "url": "https://i.brandanthonymcdonald.com/what-my-tests-do-not-cover",
-    "title": "2,085 Tests, and None of Them Opens the Front Door"
-  },
-  {
-    "source": "hn",
-    "url": "https://hwbusters.com/news/comma-ai-egpu-dock-runs-open-source-firmware-249-bare-799-with-an-rx-9060/",
-    "title": "Chestnut – eGPU dock with open-source firmware"
-  },
-  {
-    "source": "hn",
-    "url": "https://duckdb.org/2026/07/31/asynchronous-io",
-    "title": "Asynchronous I/O in DuckDB: Work, Thread, Work"
   },
   {
     "source": "lobsters",
@@ -116,13 +126,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://blog.jsbarretto.com/post/i-remain-a-skeptic",
-    "title": "Why I remain a skeptic"
+    "url": "https://www.ponylang.io/blog/2026/08/ponys-arena-allocator/",
+    "title": "Pony's Arena Allocator"
   },
   {
     "source": "lobsters",
-    "url": "https://christianheilmann.com/2026/08/11/anti-social-media/",
-    "title": "Anti-Social Media"
+    "url": "https://blog.jsbarretto.com/post/i-remain-a-skeptic",
+    "title": "Why I remain a skeptic"
   },
   {
     "source": "lobsters",
@@ -131,8 +141,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://www.ponylang.io/blog/2026/08/ponys-arena-allocator/",
-    "title": "Pony's Arena Allocator"
+    "url": "https://christianheilmann.com/2026/08/11/anti-social-media/",
+    "title": "Anti-Social Media"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://codemanship.wordpress.com/2026/08/12/ai-software-development-what-does-the-data-say/",
+    "title": "AI Software Development – What Does The Data Say?"
   },
   {
     "source": "lobsters",
@@ -151,11 +166,6 @@
   },
   {
     "source": "lobsters",
-    "url": "https://codemanship.wordpress.com/2026/08/12/ai-software-development-what-does-the-data-say/",
-    "title": "AI Software Development – What Does The Data Say?"
-  },
-  {
-    "source": "lobsters",
     "url": "https://zig.day/usa/seattle/3/",
     "title": "Zig Day Seattle, WA #3"
   },
@@ -168,10 +178,5 @@
     "source": "lobsters",
     "url": "https://rhonabwy.com/2026/08/15/software-engineering-fundamentals-matter-more-than-ever/",
     "title": "Software Engineering fundamentals matter more than ever"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://corbinsimpson.com/words/power-relations.html",
-    "title": "Power Relations"
   }
 ]
