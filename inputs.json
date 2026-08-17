@@ -11,6 +11,11 @@
   },
   {
     "source": "hn",
+    "url": "https://blog.plover.com/brain/Jaynes.html",
+    "title": "The Origin of Consciousness (2008)"
+  },
+  {
+    "source": "hn",
     "url": "https://sunclock.net/",
     "title": "Sun Clock"
   },
@@ -26,23 +31,8 @@
   },
   {
     "source": "hn",
-    "url": "https://blog.roboflow.com/roboflow-playground/",
-    "title": "Roboflow Playground: Try and Compare 30 Computer Vision Models"
-  },
-  {
-    "source": "hn",
     "url": "https://en.wikipedia.org/wiki/Olo_(color)",
     "title": "Olo (Color)"
-  },
-  {
-    "source": "hn",
-    "url": "https://speko.ai/",
-    "title": "Launch HN: Speko (YC S26) – OpenRouter for Voice AI"
-  },
-  {
-    "source": "hn",
-    "url": "https://blog.plover.com/brain/Jaynes.html",
-    "title": "The Origin of Consciousness (2008)"
   },
   {
     "source": "hn",
@@ -51,8 +41,23 @@
   },
   {
     "source": "hn",
+    "url": "https://blog.roboflow.com/roboflow-playground/",
+    "title": "Roboflow Playground: Try and Compare 30 Computer Vision Models"
+  },
+  {
+    "source": "hn",
+    "url": "https://speko.ai/",
+    "title": "Launch HN: Speko (YC S26) – OpenRouter for Voice AI"
+  },
+  {
+    "source": "hn",
     "url": "https://engineering.myhoai.com/posts/a-simple-fix-for-llm-tail-latency/",
     "title": "A simple fix for LLM tail latency"
+  },
+  {
+    "source": "hn",
+    "url": "https://inventwithpython.com/blog/intriguing-stories-in-cs.html",
+    "title": "Intriguing Stories in Computer Science"
   },
   {
     "source": "hn",
@@ -66,18 +71,13 @@
   },
   {
     "source": "hn",
-    "url": "https://www.newyorker.com/culture/photo-booth/the-lonely-men-at-the-end-of-the-world",
-    "title": "Los Puesteros, solitary men who look after ranches and livestock in Patagonia"
-  },
-  {
-    "source": "hn",
     "url": "https://signoregalilei.com/2026/08/02/how-to-put-170-atoms-in-an-atom/",
     "title": "How to put 170 atoms in an atom"
   },
   {
     "source": "hn",
-    "url": "https://beachfront.bearblog.dev/will-you-have-spent-more-of-your-life-with-computers-than-your-family/",
-    "title": "Will you have spent more of your life with computers than your family?"
+    "url": "https://www.newyorker.com/culture/photo-booth/the-lonely-men-at-the-end-of-the-world",
+    "title": "Los Puesteros, solitary men who look after ranches and livestock in Patagonia"
   },
   {
     "source": "hn",
@@ -88,6 +88,16 @@
     "source": "hn",
     "url": "https://mkornreich.me/projects/sokoban/",
     "title": "Show HN: Sokoban AI Solver"
+  },
+  {
+    "source": "hn",
+    "url": "https://desktopcolors.com",
+    "title": "Show HN: Desktopcolors.com – A museum for solid background colors of classic OS"
+  },
+  {
+    "source": "hn",
+    "url": "https://turbopuffer.com/blog/control-plane",
+    "title": "How to ship a database every day"
   },
   {
     "source": "lobsters",
@@ -121,13 +131,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://zverok.space/blog/2026-08-16-assertions-and-matchers.html",
-    "title": "Thinking about tests: assertions and matchers"
+    "url": "https://op.tngl.io/every-fucking-website/",
+    "title": "Every Fucking Website"
   },
   {
     "source": "lobsters",
-    "url": "https://op.tngl.io/every-fucking-website/",
-    "title": "Every Fucking Website"
+    "url": "https://zverok.space/blog/2026-08-16-assertions-and-matchers.html",
+    "title": "Thinking about tests: assertions and matchers"
   },
   {
     "source": "lobsters",
@@ -143,6 +153,11 @@
     "source": "lobsters",
     "url": "https://blog.yoshuawuyts.com/four-levels-of-in-place-initialization/",
     "title": "Four levels of in-place initialization"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://timmarinin.net/2026/bluesky-screenshots/",
+    "title": "How Bluesky draws its logo on screenshots"
   },
   {
     "source": "lobsters",
@@ -166,17 +181,92 @@
   },
   {
     "source": "lobsters",
+    "url": "https://simonwillison.net/2026/Aug/17/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-tra/",
+    "title": "We Tracked a Shipment of Rare Books. It Ended at an Amazon AI Training Facility"
+  },
+  {
+    "source": "lobsters",
     "url": "https://infrastructureinsights.fund/projects/what-comes-after-foss/",
     "title": "(What Comes) After FOSS?"
   },
   {
-    "source": "lobsters",
-    "url": "https://nolanlawson.com/2026/08/16/you-can-just-choose-how-many-bugs-you-want-now/",
-    "title": "You can just choose how many bugs you want now"
+    "source": "pinboard",
+    "url": "https://ordinaryabundance.com/",
+    "title": "Ordinary Abundance"
   },
   {
-    "source": "lobsters",
-    "url": "https://w4g1.dev/blog/models-are-getting-dumber-on-purpose",
-    "title": "Models Are Getting Dumber on Purpose"
+    "source": "pinboard",
+    "url": "https://craigmod.com/essays/robot_blood/",
+    "title": "A Swarm of Blood Robots — by Craig Mod"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://gloom.sh/",
+    "title": "Gloomberb"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html",
+    "title": "AI is removing the middle class of software engineering"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://nurb.dev/",
+    "title": "nurb · describe the part, print the part"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://blog.cryptographyengineering.com/2026/08/14/everything-is-about-to-go-dark/",
+    "title": "Everything is about to “go dark” – A Few Thoughts on Cryptographic Engineering"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://futurism.com/artificial-intelligence/ai-impact-environment-horrifying-new-paper",
+    "title": "AI's Impact on the Environment Is Absolutely Horrifying, New Paper Finds"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing",
+    "title": "Daring Fireball: Anthropic’s ‘Watermark’ Text Adulteration in Claude Is a Perversion of Writing"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.geoffreylitt.com/2026/07/02/understanding-is-the-new-bottleneck",
+    "title": "Understanding is the new bottleneck"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://eigendrum.com/#p=circle",
+    "title": "eigendrum.com"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/",
+    "title": "How Google is Making Private AI Practical with Homomorphic Encryption"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://news.ycombinator.com/item?id=49299222",
+    "title": "Every Fucking Website (2020) | Hacker News"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://news.ycombinator.com/item?id=49300800",
+    "title": "Maximizing the value of your Claude Code sessions | Hacker News"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.cringebot3000.com/",
+    "title": "LinkedIn CringeBot 3000"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.newyorker.com/news/annals-of-inquiry/gps-and-the-lost-art-of-getting-lost",
+    "title": "GPS and the lost art of getting lost • The New Yorker"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://delta.dev/",
+    "title": "Delta | A Multiplayer Environment for Coding with Agents"
   }
 ]
