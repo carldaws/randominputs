@@ -1,6 +1,16 @@
 [
   {
     "source": "hn",
+    "url": "https://timmarinin.net/2026/bluesky-screenshots/",
+    "title": "How Bluesky draws its logo on screenshots"
+  },
+  {
+    "source": "hn",
+    "url": "https://fabiensanglard.net/quake_shareware_cd/index.html",
+    "title": "Quake Shareware, a CD-ROM just a little too full"
+  },
+  {
+    "source": "hn",
     "url": "https://duckdb.org/2026/08/17/duckdb-20-highlights",
     "title": "A Preview of DuckDB v2.0"
   },
@@ -11,13 +21,8 @@
   },
   {
     "source": "hn",
-    "url": "https://blog.plover.com/brain/Jaynes.html",
-    "title": "The Origin of Consciousness (2008)"
-  },
-  {
-    "source": "hn",
-    "url": "https://sunclock.net/",
-    "title": "Sun Clock"
+    "url": "https://catcrafts.net/posts/fairphone-6-postmarketos-working-main-camera",
+    "title": "Fairphone 6 and PostmarketOS working main camera"
   },
   {
     "source": "hn",
@@ -26,23 +31,23 @@
   },
   {
     "source": "hn",
-    "url": "https://blog.roboflow.com/openai-gpt-5-6/",
-    "title": "GPT 5.6 Sol is the best \"vision\" model OpenAI ever released"
-  },
-  {
-    "source": "hn",
     "url": "https://en.wikipedia.org/wiki/Olo_(color)",
     "title": "Olo (Color)"
   },
   {
     "source": "hn",
-    "url": "https://moddedbear.com/an-update-on-leaving-gmail-for-fastmail/",
-    "title": "An update on leaving Gmail for Fastmail"
+    "url": "https://sunclock.net/",
+    "title": "Sun Clock"
   },
   {
     "source": "hn",
-    "url": "https://blog.roboflow.com/roboflow-playground/",
-    "title": "Roboflow Playground: Try and Compare 30 Computer Vision Models"
+    "url": "https://blog.roboflow.com/openai-gpt-5-6/",
+    "title": "GPT 5.6 Sol is the best \"vision\" model OpenAI ever released"
+  },
+  {
+    "source": "hn",
+    "url": "https://inventwithpython.com/blog/intriguing-stories-in-cs.html",
+    "title": "Intriguing stories in computer science"
   },
   {
     "source": "hn",
@@ -51,13 +56,23 @@
   },
   {
     "source": "hn",
-    "url": "https://engineering.myhoai.com/posts/a-simple-fix-for-llm-tail-latency/",
-    "title": "A simple fix for LLM tail latency"
+    "url": "https://blog.roboflow.com/roboflow-playground/",
+    "title": "Roboflow Playground: Try and Compare 30 Computer Vision Models"
   },
   {
     "source": "hn",
-    "url": "https://inventwithpython.com/blog/intriguing-stories-in-cs.html",
-    "title": "Intriguing Stories in Computer Science"
+    "url": "https://www.fast.ai/posts/2026-08-18-returning-to-AI/",
+    "title": "My friends all hate AI; I just joined an AI startup"
+  },
+  {
+    "source": "hn",
+    "url": "https://scapplications.com/",
+    "title": "scScript for Linux"
+  },
+  {
+    "source": "hn",
+    "url": "https://engineering.myhoai.com/posts/a-simple-fix-for-llm-tail-latency/",
+    "title": "A simple fix for LLM tail latency"
   },
   {
     "source": "hn",
@@ -66,8 +81,8 @@
   },
   {
     "source": "hn",
-    "url": "https://secretspec.dev/blog/we-are-forking-dotenvy-into-dotenv-ng/",
-    "title": "We Are Forking dotenvy into dotenv-ng"
+    "url": "https://moddedbear.com/an-update-on-leaving-gmail-for-fastmail/",
+    "title": "An update on leaving Gmail for Fastmail"
   },
   {
     "source": "hn",
@@ -76,28 +91,8 @@
   },
   {
     "source": "hn",
-    "url": "https://www.newyorker.com/culture/photo-booth/the-lonely-men-at-the-end-of-the-world",
-    "title": "Los Puesteros, solitary men who look after ranches and livestock in Patagonia"
-  },
-  {
-    "source": "hn",
-    "url": "https://nanochess.org/am29000_c_compiler_web_browser.html",
-    "title": "How I developed an Am29000 C compiler and web browser"
-  },
-  {
-    "source": "hn",
-    "url": "https://mkornreich.me/projects/sokoban/",
-    "title": "Show HN: Sokoban AI Solver"
-  },
-  {
-    "source": "hn",
-    "url": "https://desktopcolors.com",
-    "title": "Show HN: Desktopcolors.com – A museum for solid background colors of classic OS"
-  },
-  {
-    "source": "hn",
-    "url": "https://turbopuffer.com/blog/control-plane",
-    "title": "How to ship a database every day"
+    "url": "https://secretspec.dev/blog/we-are-forking-dotenvy-into-dotenv-ng/",
+    "title": "We Are Forking dotenvy into dotenv-ng"
   },
   {
     "source": "lobsters",
@@ -111,8 +106,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://c3-lang.org/blog/i_thought_i_was_building_a_c_replacement/",
-    "title": "I thought I was building a C replacement. I was wrong"
+    "url": "https://thefloatingcontinent.com/blog/upside-down-arrow-unicode/",
+    "title": "When the Down Arrow is not an Upside-Down Up Arrow (2022)"
   },
   {
     "source": "lobsters",
@@ -121,8 +116,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://thefloatingcontinent.com/blog/upside-down-arrow-unicode/",
-    "title": "When the Down Arrow is not an Upside-Down Up Arrow (2022)"
+    "url": "https://c3-lang.org/blog/i_thought_i_was_building_a_c_replacement/",
+    "title": "I thought I was building a C replacement. I was wrong"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://tibleiz.net/blog/2024-02-04-writing-a-fast-compiler.html",
+    "title": "Writing a Fast Compiler"
   },
   {
     "source": "lobsters",
@@ -141,11 +141,6 @@
   },
   {
     "source": "lobsters",
-    "url": "https://tibleiz.net/blog/2024-02-04-writing-a-fast-compiler.html",
-    "title": "Writing a Fast Compiler"
-  },
-  {
-    "source": "lobsters",
     "url": "https://simonwillison.net/2026/Aug/16/qwen-38-27b/",
     "title": "Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things"
   },
@@ -156,13 +151,18 @@
   },
   {
     "source": "lobsters",
-    "url": "https://timmarinin.net/2026/bluesky-screenshots/",
-    "title": "How Bluesky draws its logo on screenshots"
+    "url": "https://simonwillison.net/2026/Aug/17/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-tra/",
+    "title": "We Tracked a Shipment of Rare Books. It Ended at an Amazon AI Training Facility"
   },
   {
     "source": "lobsters",
     "url": "https://labs.leaningtech.com/blog/browserpod-rust.html",
     "title": "Beyond WASI: Running any Rust application in the browser with BrowserPod 3.0"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://stonetools.ghost.io/appleworks-apple2/",
+    "title": "AppleWorks on the Apple II"
   },
   {
     "source": "lobsters",
@@ -176,97 +176,7 @@
   },
   {
     "source": "lobsters",
-    "url": "https://stonetools.ghost.io/appleworks-apple2/",
-    "title": "AppleWorks on the Apple II"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://simonwillison.net/2026/Aug/17/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-tra/",
-    "title": "We Tracked a Shipment of Rare Books. It Ended at an Amazon AI Training Facility"
-  },
-  {
-    "source": "lobsters",
     "url": "https://infrastructureinsights.fund/projects/what-comes-after-foss/",
     "title": "(What Comes) After FOSS?"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://ordinaryabundance.com/",
-    "title": "Ordinary Abundance"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://craigmod.com/essays/robot_blood/",
-    "title": "A Swarm of Blood Robots — by Craig Mod"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://gloom.sh/",
-    "title": "Gloomberb"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html",
-    "title": "AI is removing the middle class of software engineering"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://nurb.dev/",
-    "title": "nurb · describe the part, print the part"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://blog.cryptographyengineering.com/2026/08/14/everything-is-about-to-go-dark/",
-    "title": "Everything is about to “go dark” – A Few Thoughts on Cryptographic Engineering"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://futurism.com/artificial-intelligence/ai-impact-environment-horrifying-new-paper",
-    "title": "AI's Impact on the Environment Is Absolutely Horrifying, New Paper Finds"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing",
-    "title": "Daring Fireball: Anthropic’s ‘Watermark’ Text Adulteration in Claude Is a Perversion of Writing"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.geoffreylitt.com/2026/07/02/understanding-is-the-new-bottleneck",
-    "title": "Understanding is the new bottleneck"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://eigendrum.com/#p=circle",
-    "title": "eigendrum.com"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/",
-    "title": "How Google is Making Private AI Practical with Homomorphic Encryption"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://news.ycombinator.com/item?id=49299222",
-    "title": "Every Fucking Website (2020) | Hacker News"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://news.ycombinator.com/item?id=49300800",
-    "title": "Maximizing the value of your Claude Code sessions | Hacker News"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.cringebot3000.com/",
-    "title": "LinkedIn CringeBot 3000"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.newyorker.com/news/annals-of-inquiry/gps-and-the-lost-art-of-getting-lost",
-    "title": "GPS and the lost art of getting lost • The New Yorker"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://delta.dev/",
-    "title": "Delta | A Multiplayer Environment for Coding with Agents"
   }
 ]
