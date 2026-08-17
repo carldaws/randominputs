@@ -26,8 +26,8 @@
   },
   {
     "source": "hn",
-    "url": "https://speko.ai/",
-    "title": "Launch HN: Speko (YC S26) – OpenRouter for Voice AI"
+    "url": "https://blog.roboflow.com/roboflow-playground/",
+    "title": "Roboflow Playground: Try and Compare 30 Computer Vision Models"
   },
   {
     "source": "hn",
@@ -36,8 +36,23 @@
   },
   {
     "source": "hn",
-    "url": "https://blog.roboflow.com/roboflow-playground/",
-    "title": "Roboflow Playground: Try and Compare 30 Computer Vision Models"
+    "url": "https://speko.ai/",
+    "title": "Launch HN: Speko (YC S26) – OpenRouter for Voice AI"
+  },
+  {
+    "source": "hn",
+    "url": "https://blog.plover.com/brain/Jaynes.html",
+    "title": "The Origin of Consciousness (2008)"
+  },
+  {
+    "source": "hn",
+    "url": "https://moddedbear.com/an-update-on-leaving-gmail-for-fastmail/",
+    "title": "An update on leaving Gmail for Fastmail"
+  },
+  {
+    "source": "hn",
+    "url": "https://engineering.myhoai.com/posts/a-simple-fix-for-llm-tail-latency/",
+    "title": "A simple fix for LLM tail latency"
   },
   {
     "source": "hn",
@@ -46,13 +61,13 @@
   },
   {
     "source": "hn",
-    "url": "https://beachfront.bearblog.dev/will-you-have-spent-more-of-your-life-with-computers-than-your-family/",
-    "title": "Will you have spent more of your life with computers than your family?"
+    "url": "https://secretspec.dev/blog/we-are-forking-dotenvy-into-dotenv-ng/",
+    "title": "We Are Forking dotenvy into dotenv-ng"
   },
   {
     "source": "hn",
     "url": "https://www.newyorker.com/culture/photo-booth/the-lonely-men-at-the-end-of-the-world",
-    "title": "The Lonely Men Who Work in Patagonia, at the End of the World"
+    "title": "Los Puesteros, solitary men who look after ranches and livestock in Patagonia"
   },
   {
     "source": "hn",
@@ -61,18 +76,13 @@
   },
   {
     "source": "hn",
-    "url": "https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing",
-    "title": "Anthropic's ‘watermark’ text adulteration in Claude is a perversion of writing"
+    "url": "https://beachfront.bearblog.dev/will-you-have-spent-more-of-your-life-with-computers-than-your-family/",
+    "title": "Will you have spent more of your life with computers than your family?"
   },
   {
     "source": "hn",
     "url": "https://nanochess.org/am29000_c_compiler_web_browser.html",
     "title": "How I developed an Am29000 C compiler and web browser"
-  },
-  {
-    "source": "hn",
-    "url": "https://secretspec.dev/blog/we-are-forking-dotenvy-into-dotenv-ng/",
-    "title": "We Are Forking dotenvy into dotenv-ng"
   },
   {
     "source": "hn",
@@ -101,6 +111,11 @@
   },
   {
     "source": "lobsters",
+    "url": "https://thefloatingcontinent.com/blog/upside-down-arrow-unicode/",
+    "title": "When the Down Arrow is not an Upside-Down Up Arrow (2022)"
+  },
+  {
+    "source": "lobsters",
     "url": "https://www.benjoffe.com/fast-day-of-week",
     "title": "A faster way to calculate the day-of-the-week"
   },
@@ -108,11 +123,6 @@
     "source": "lobsters",
     "url": "https://zverok.space/blog/2026-08-16-assertions-and-matchers.html",
     "title": "Thinking about tests: assertions and matchers"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://thefloatingcontinent.com/blog/upside-down-arrow-unicode/",
-    "title": "When the Down Arrow is not an Upside-Down Up Arrow (2022)"
   },
   {
     "source": "lobsters",
@@ -168,80 +178,5 @@
     "source": "lobsters",
     "url": "https://w4g1.dev/blog/models-are-getting-dumber-on-purpose",
     "title": "Models Are Getting Dumber on Purpose"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://ordinaryabundance.com/",
-    "title": "Ordinary Abundance"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://craigmod.com/essays/robot_blood/",
-    "title": "A Swarm of Blood Robots — by Craig Mod"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://gloom.sh/",
-    "title": "Gloomberb"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html",
-    "title": "AI is removing the middle class of software engineering"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://nurb.dev/",
-    "title": "nurb · describe the part, print the part"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://blog.cryptographyengineering.com/2026/08/14/everything-is-about-to-go-dark/",
-    "title": "Everything is about to “go dark” – A Few Thoughts on Cryptographic Engineering"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://futurism.com/artificial-intelligence/ai-impact-environment-horrifying-new-paper",
-    "title": "AI's Impact on the Environment Is Absolutely Horrifying, New Paper Finds"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.geoffreylitt.com/2026/07/02/understanding-is-the-new-bottleneck",
-    "title": "Understanding is the new bottleneck"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://eigendrum.com/#p=circle",
-    "title": "eigendrum.com"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/",
-    "title": "How Google is Making Private AI Practical with Homomorphic Encryption"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://news.ycombinator.com/item?id=49299222",
-    "title": "Every Fucking Website (2020) | Hacker News"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://news.ycombinator.com/item?id=49300800",
-    "title": "Maximizing the value of your Claude Code sessions | Hacker News"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.cringebot3000.com/",
-    "title": "LinkedIn CringeBot 3000"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.newyorker.com/news/annals-of-inquiry/gps-and-the-lost-art-of-getting-lost",
-    "title": "GPS and the lost art of getting lost • The New Yorker"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://delta.dev/",
-    "title": "Delta | A Multiplayer Environment for Coding with Agents"
   }
 ]
