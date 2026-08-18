@@ -6,11 +6,6 @@
   },
   {
     "source": "hn",
-    "url": "https://www.ikea.com/se/en/customer-service/knowledge/articles/6f564c4d-2ccc-46de-b643-545a3948dc79.html",
-    "title": "How does IKEA come up with names for its products?"
-  },
-  {
-    "source": "hn",
     "url": "https://seths.blog/2026/08/the-amazon-tax/",
     "title": "The Amazon tax"
   },
@@ -26,6 +21,11 @@
   },
   {
     "source": "hn",
+    "url": "https://www.ikea.com/se/en/customer-service/knowledge/articles/6f564c4d-2ccc-46de-b643-545a3948dc79.html",
+    "title": "How does IKEA come up with names for its products?"
+  },
+  {
+    "source": "hn",
     "url": "https://pixelcluster.dev/VRAM-Overcommit/",
     "title": "Linux 7.3 improves performance when running out of vRAM"
   },
@@ -36,23 +36,28 @@
   },
   {
     "source": "hn",
-    "url": "https://opensource.posit.co/resources/cheatsheets/polars/",
-    "title": "Python Polars Cheatsheet (based on our O'Reilly book)"
-  },
-  {
-    "source": "hn",
     "url": "https://machine0.io",
     "title": "Launch HN: machine0 (YC S26) – Persistent CPU and GPU VMs from the CLI"
   },
   {
     "source": "hn",
-    "url": "https://pmotschmann.github.io/Evolve/",
-    "title": "Evolve: An incremental game about evolving a civilization"
+    "url": "https://opensource.posit.co/resources/cheatsheets/polars/",
+    "title": "Python Polars Cheatsheet (based on our O'Reilly book)"
+  },
+  {
+    "source": "hn",
+    "url": "https://a-hidden-infrastructure.spun.earth/map",
+    "title": "Mycorrhizal Infrastructure Map"
   },
   {
     "source": "hn",
     "url": "https://blog.gnoack.org/post/git-history-split",
     "title": "Splitting a Git Commit"
+  },
+  {
+    "source": "hn",
+    "url": "https://pmotschmann.github.io/Evolve/",
+    "title": "Evolve: An incremental game about evolving a civilization"
   },
   {
     "source": "hn",
@@ -66,11 +71,6 @@
   },
   {
     "source": "hn",
-    "url": "https://pantheongpu.com/",
-    "title": "Show HN: PantheonGPU – GPU health testing and AI workload benchmarking"
-  },
-  {
-    "source": "hn",
     "url": "https://grist.org/transportation/californias-new-tire-efficiency-rules-could-save-drivers-1b-a-year/",
     "title": "California's new tire efficiency rules could save drivers $1B a year"
   },
@@ -80,14 +80,19 @@
     "title": "Fairphone is now officially available in the United States"
   },
   {
-    "source": "lobsters",
-    "url": "https://untrusem.party/blog/how-I-browse-the-web-with-Ublock-Hard-Mode.html",
-    "title": "How I browse the Web with uBlock (Hard Mode)"
+    "source": "hn",
+    "url": "https://www.theregister.com/ai-and-ml/2026/08/18/google-buys-crashed-airline-spirits-data-at-auction-because-ai/5288962",
+    "title": "Google has acquired the data of failed US airline Spirit"
+  },
+  {
+    "source": "hn",
+    "url": "https://acadia.engineering/blog/rethinking-database-programming",
+    "title": "Rethinking Database Programming"
   },
   {
     "source": "lobsters",
-    "url": "https://acadia.engineering/blog/rethinking-database-programming",
-    "title": "Rethinking Database Programming"
+    "url": "https://untrusem.party/blog/how-I-browse-the-web-with-Ublock-Hard-Mode.html",
+    "title": "How I browse the Web with uBlock (Hard Mode)"
   },
   {
     "source": "lobsters",
@@ -126,8 +131,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://odin-lang.org/docs/inline-asm/",
-    "title": "Odin's New Inline Assembly Templates"
+    "url": "https://blog.rust-lang.org/inside-rust/2026/08/18/reducing-target-dir-size-on-nightly/",
+    "title": "Experiment in reducing target directory size on nightly"
   },
   {
     "source": "lobsters",
@@ -136,13 +141,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://actualbudget.org/",
-    "title": "Actual Budget"
+    "url": "https://odin-lang.org/docs/inline-asm/",
+    "title": "Odin's New Inline Assembly Templates"
   },
   {
     "source": "lobsters",
-    "url": "https://blog.rust-lang.org/inside-rust/2026/08/18/reducing-target-dir-size-on-nightly/",
-    "title": "Experiment in reducing target directory size on nightly"
+    "url": "https://actualbudget.org/",
+    "title": "Actual Budget"
   },
   {
     "source": "lobsters",
@@ -155,8 +160,93 @@
     "title": "Vetted AI code is hard to justify"
   },
   {
-    "source": "lobsters",
-    "url": "https://thefloatingcontinent.com/blog/upside-down-arrow-unicode/",
-    "title": "When the Down Arrow is not an Upside-Down Up Arrow (2022)"
+    "source": "pinboard",
+    "url": "https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing",
+    "title": "Daring Fireball: Anthropic’s ‘Watermark’ Text Adulteration in Claude Is a Perversion of Writing"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.404media.co/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-training-facility/",
+    "title": "https://www.404media.co/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-training-facility/"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://craigmod.com/essays/robot_blood/",
+    "title": "A Swarm of Blood Robots — by Craig Mod"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://ordinaryabundance.com/",
+    "title": "Ordinary Abundance"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/",
+    "title": "How Google is Making Private AI Practical with Homomorphic Encryption"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://simonwillison.net/2026/Aug/16/qwen-38-27b/",
+    "title": "Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.404media.co/show-how-3m-is-0-at-fault-expert-witness-used-chatgpt-to-write-report-defending-company-in-deadly-explosion-lawsuit/",
+    "title": "‘Show How 3M Is 0% at Fault:’ Expert Witness Used ChatGPT to Write Report Defending Company in Deadly Explosion Lawsuit"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://reticulum.network/",
+    "title": "Reticulum Network"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.librarian.net/notoai/",
+    "title": "How to disable or avoid intrusive AI – librarian.net"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://gloom.sh/",
+    "title": "Gloomberb"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://blog.j11y.io/2026-08-12_Anthropics-weak-watermarks-appease-a-weak-law/",
+    "title": "Anthropic’s weak watermarks appease a weak law - by James Padolsey"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.cringebot3000.com/",
+    "title": "LinkedIn CringeBot 3000"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://likebutter.app/",
+    "title": "Life without internet made smoother. Get access to tools that help."
+  },
+  {
+    "source": "pinboard",
+    "url": "https://annualreport.gallery/",
+    "title": "Annual Report Archive"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://futurism.com/artificial-intelligence/ai-impact-environment-horrifying-new-paper",
+    "title": "AI's Impact on the Environment Is Absolutely Horrifying, New Paper Finds"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.newyorker.com/news/annals-of-inquiry/gps-and-the-lost-art-of-getting-lost",
+    "title": "GPS and the lost art of getting lost • The New Yorker"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://eigendrum.com/#p=circle",
+    "title": "eigendrum.com"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://sophiebits.com/2026/06/25/there-are-no-lossless-transformations-of-natural-language-text",
+    "title": "There are no lossless transformations of natural-language text – Sophie Alpert"
   }
 ]
