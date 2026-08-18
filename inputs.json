@@ -6,6 +6,16 @@
   },
   {
     "source": "hn",
+    "url": "https://cdn.kuber.studio/chat/hp-laser-1008a-driver",
+    "title": "Claude Code Teaching macOS to Natively Print to the HP Laser 1008a"
+  },
+  {
+    "source": "hn",
+    "url": "https://nicholascharriere.com/blog/being-ambitious-and-being-a-dad/",
+    "title": "Being Ambitious and Being a Dad"
+  },
+  {
+    "source": "hn",
     "url": "https://seths.blog/2026/08/the-amazon-tax/",
     "title": "The Amazon tax"
   },
@@ -21,6 +31,11 @@
   },
   {
     "source": "hn",
+    "url": "https://www.theartnewspaper.com/2026/08/07/colossal-2500-year-old-sculpture-discovered-turkey-unesco-site",
+    "title": "2,500-year-old sculpture discovered at UNESCO site in Turkey"
+  },
+  {
+    "source": "hn",
     "url": "https://www.ikea.com/se/en/customer-service/knowledge/articles/6f564c4d-2ccc-46de-b643-545a3948dc79.html",
     "title": "How does IKEA come up with names for its products?"
   },
@@ -31,8 +46,13 @@
   },
   {
     "source": "hn",
-    "url": "https://www.theartnewspaper.com/2026/08/07/colossal-2500-year-old-sculpture-discovered-turkey-unesco-site",
-    "title": "2,500-year-old sculpture discovered at UNESCO site in Turkey"
+    "url": "https://a-hidden-infrastructure.spun.earth/map",
+    "title": "Mycorrhizal Infrastructure Map"
+  },
+  {
+    "source": "hn",
+    "url": "https://pmotschmann.github.io/Evolve/",
+    "title": "Evolve: An incremental game about evolving a civilization"
   },
   {
     "source": "hn",
@@ -46,18 +66,8 @@
   },
   {
     "source": "hn",
-    "url": "https://a-hidden-infrastructure.spun.earth/map",
-    "title": "Mycorrhizal Infrastructure Map"
-  },
-  {
-    "source": "hn",
     "url": "https://blog.gnoack.org/post/git-history-split",
     "title": "Splitting a Git Commit"
-  },
-  {
-    "source": "hn",
-    "url": "https://pmotschmann.github.io/Evolve/",
-    "title": "Evolve: An incremental game about evolving a civilization"
   },
   {
     "source": "hn",
@@ -75,24 +85,14 @@
     "title": "California's new tire efficiency rules could save drivers $1B a year"
   },
   {
-    "source": "hn",
-    "url": "https://www.fairphone.com/nl/stories/the-fairphone-gen-6-is-all-about-giving-you-more",
-    "title": "Fairphone is now officially available in the United States"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.theregister.com/ai-and-ml/2026/08/18/google-buys-crashed-airline-spirits-data-at-auction-because-ai/5288962",
-    "title": "Google has acquired the data of failed US airline Spirit"
-  },
-  {
-    "source": "hn",
-    "url": "https://acadia.engineering/blog/rethinking-database-programming",
-    "title": "Rethinking Database Programming"
-  },
-  {
     "source": "lobsters",
     "url": "https://untrusem.party/blog/how-I-browse-the-web-with-Ublock-Hard-Mode.html",
     "title": "How I browse the Web with uBlock (Hard Mode)"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://acadia.engineering/blog/rethinking-database-programming",
+    "title": "Rethinking Database Programming"
   },
   {
     "source": "lobsters",
@@ -101,13 +101,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://lalitm.com/post/github-alternatives/",
-    "title": "GitHub has alternatives, but no replacement"
+    "url": "https://kakoune.org/",
+    "title": "Kakoune code editor"
   },
   {
     "source": "lobsters",
-    "url": "https://kakoune.org/",
-    "title": "Kakoune code editor"
+    "url": "https://lalitm.com/post/github-alternatives/",
+    "title": "GitHub has alternatives, but no replacement"
   },
   {
     "source": "lobsters",
@@ -126,6 +126,11 @@
   },
   {
     "source": "lobsters",
+    "url": "https://catcrafts.net/posts/fairphone-6-postmarketos-working-main-camera",
+    "title": "Fairphone 6 + PostmarketOS working main camera"
+  },
+  {
+    "source": "lobsters",
     "url": "https://danluu.com/benchpocalypse/",
     "title": "The benchmarkpocalypse"
   },
@@ -133,11 +138,6 @@
     "source": "lobsters",
     "url": "https://blog.rust-lang.org/inside-rust/2026/08/18/reducing-target-dir-size-on-nightly/",
     "title": "Experiment in reducing target directory size on nightly"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://catcrafts.net/posts/fairphone-6-postmarketos-working-main-camera",
-    "title": "Fairphone 6 + PostmarketOS working main camera"
   },
   {
     "source": "lobsters",
@@ -153,6 +153,11 @@
     "source": "lobsters",
     "url": "https://duckdb.org/2026/08/17/duckdb-20-highlights.html",
     "title": "A Preview of DuckDB v2.0"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://blog.gnoack.org/post/hyper-customized-one-off-software",
+    "title": "Hyper-Customized One-Off Software for Cheap"
   },
   {
     "source": "lobsters",
