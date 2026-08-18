@@ -11,11 +11,6 @@
   },
   {
     "source": "hn",
-    "url": "https://acadia.engineering/blog/rethinking-database-programming",
-    "title": "Rethinking Database Programming"
-  },
-  {
-    "source": "hn",
     "url": "https://www.theregister.com/ai-and-ml/2026/08/18/google-buys-crashed-airline-spirits-data-at-auction-because-ai/5288962",
     "title": "Google buys crashed airline Spirit's data at auction, because AI"
   },
@@ -26,8 +21,8 @@
   },
   {
     "source": "hn",
-    "url": "https://moultano.wordpress.com/2026/08/14/fairly-ranking-the-most-brilliant-birds/",
-    "title": "Ranking the Most Brilliantly Colored Birds with Data"
+    "url": "https://acadia.engineering/blog/rethinking-database-programming",
+    "title": "Rethinking Database Programming"
   },
   {
     "source": "hn",
@@ -36,13 +31,13 @@
   },
   {
     "source": "hn",
-    "url": "https://duckdb.org/2026/08/17/duckdb-20-highlights",
-    "title": "A Preview of DuckDB v2.0"
+    "url": "https://moultano.wordpress.com/2026/08/14/fairly-ranking-the-most-brilliant-birds/",
+    "title": "Ranking the Most Brilliantly Colored Birds with Data"
   },
   {
     "source": "hn",
-    "url": "https://www.rainydaygc.com/",
-    "title": "I built a golf career management SIM (like Basketball GM, but golf)"
+    "url": "https://duckdb.org/2026/08/17/duckdb-20-highlights",
+    "title": "A Preview of DuckDB v2.0"
   },
   {
     "source": "hn",
@@ -56,8 +51,8 @@
   },
   {
     "source": "hn",
-    "url": "https://808bits.com/articles/threshold-signing-ceremony-in-your-browser/",
-    "title": "The key that never exists: a threshold signing ceremony in the browser"
+    "url": "https://tau.dev/2026/08/07/canon",
+    "title": "Teaching my kid to code with a modern MUD"
   },
   {
     "source": "hn",
@@ -71,11 +66,6 @@
   },
   {
     "source": "hn",
-    "url": "https://www.repaircafe.org/",
-    "title": "Repair Cafe – Fix Your Broken Items"
-  },
-  {
-    "source": "hn",
     "url": "https://www.librarian.net/notoai/",
     "title": "How to disable or avoid intrusive AI"
   },
@@ -86,18 +76,28 @@
   },
   {
     "source": "hn",
-    "url": "https://www.newyorker.com/culture/photo-booth/the-lonely-men-at-the-end-of-the-world",
-    "title": "Los Puesteros, solitary men who look after ranches and livestock in Patagonia"
+    "url": "https://irz.fr/en/articles/openclimbing-open-guide-en/",
+    "title": "Climbing Guide as a Shared Infrastructure"
   },
   {
     "source": "hn",
-    "url": "https://irz.fr/en/articles/openclimbing-open-guide-en/",
-    "title": "Climbing Guide as a Shared Infrastructure"
+    "url": "https://www.newyorker.com/culture/photo-booth/the-lonely-men-at-the-end-of-the-world",
+    "title": "Los Puesteros, solitary men who look after ranches and livestock in Patagonia"
   },
   {
     "source": "lobsters",
     "url": "https://lalitm.com/post/github-alternatives/",
     "title": "GitHub has alternatives, but no replacement"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://biboumi.codeberg.page/doc/",
+    "title": "Biboumi – XMPP gateway to IRC"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://simonwillison.net/2026/Aug/17/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-tra/",
+    "title": "We Tracked a Shipment of Rare Books. It Ended at an Amazon AI Training Facility"
   },
   {
     "source": "lobsters",
@@ -111,18 +111,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://simonwillison.net/2026/Aug/17/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-tra/",
-    "title": "We Tracked a Shipment of Rare Books. It Ended at an Amazon AI Training Facility"
-  },
-  {
-    "source": "lobsters",
     "url": "https://thefloatingcontinent.com/blog/upside-down-arrow-unicode/",
     "title": "When the Down Arrow is not an Upside-Down Up Arrow (2022)"
   },
   {
     "source": "lobsters",
-    "url": "https://biboumi.codeberg.page/doc/",
-    "title": "Biboumi – XMPP gateway to IRC"
+    "url": "https://actualbudget.org/",
+    "title": "Actual Budget"
   },
   {
     "source": "lobsters",
@@ -136,8 +131,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://actualbudget.org/",
-    "title": "Actual Budget"
+    "url": "https://www.tsampi.com/tsampi-bft-1.1.pdf",
+    "title": "Tsampi BFT: Leaderless One-Round Voting with Parameterized Finality"
   },
   {
     "source": "lobsters",
@@ -151,6 +146,16 @@
   },
   {
     "source": "lobsters",
+    "url": "https://blog.veritates.love/selective-applicatives-theoretical-basis",
+    "title": "Selective Applicative Functors"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://philo.gay/linecam/",
+    "title": "Using the railway network as a flatbed scanner"
+  },
+  {
+    "source": "lobsters",
     "url": "https://www.benjoffe.com/fast-day-of-week",
     "title": "A faster way to calculate the day-of-the-week"
   },
@@ -161,23 +166,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://blog.veritates.love/selective-applicatives-theoretical-basis",
-    "title": "Selective Applicative Functors"
-  },
-  {
-    "source": "lobsters",
     "url": "https://op.tngl.io/every-fucking-website/",
     "title": "Every Fucking Website"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://www.corsix.org/content/encoding-vcmpps-vcmppd",
-    "title": "Encoding vcmpps and vcmppd"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://www.dra27.uk/blog/platform/2025/09/25/building-with-effects.html",
-    "title": "Retrofitting a build system into a compiler"
   },
   {
     "source": "pinboard",
