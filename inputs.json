@@ -6,8 +6,23 @@
   },
   {
     "source": "hn",
+    "url": "https://seths.blog/2026/08/the-amazon-tax/",
+    "title": "The Amazon Tax"
+  },
+  {
+    "source": "hn",
     "url": "https://pixelcluster.dev/VRAM-Overcommit/",
     "title": "Linux 7.3 improves performance when running out of vRAM"
+  },
+  {
+    "source": "hn",
+    "url": "https://quantum5.ca/2026/08/16/fixing-bricked-amd-7040-series-framework-13-laptop-with-20-tools/",
+    "title": "Fixing a Bricked Framework Laptop"
+  },
+  {
+    "source": "hn",
+    "url": "https://opensource.posit.co/resources/cheatsheets/polars/",
+    "title": "Python Polars Cheatsheet (based on our O'Reilly book)"
   },
   {
     "source": "hn",
@@ -16,18 +31,13 @@
   },
   {
     "source": "hn",
+    "url": "https://www.fairphone.com/nl/stories/the-fairphone-gen-6-is-all-about-giving-you-more",
+    "title": "Fairphone is now officially available in the United States"
+  },
+  {
+    "source": "hn",
     "url": "https://www.theregister.com/ai-and-ml/2026/08/18/google-buys-crashed-airline-spirits-data-at-auction-because-ai/5288962",
     "title": "Google buys crashed airline Spirit's data at auction, because AI"
-  },
-  {
-    "source": "hn",
-    "url": "https://timmarinin.net/2026/bluesky-screenshots/",
-    "title": "How Bluesky draws its logo on screenshots"
-  },
-  {
-    "source": "hn",
-    "url": "https://acadia.engineering/blog/rethinking-database-programming",
-    "title": "Rethinking Database Programming"
   },
   {
     "source": "hn",
@@ -36,13 +46,23 @@
   },
   {
     "source": "hn",
-    "url": "https://www.fairphone.com/nl/stories/the-fairphone-gen-6-is-all-about-giving-you-more",
-    "title": "Fairphone is now officially available in the United States"
+    "url": "https://timmarinin.net/2026/bluesky-screenshots/",
+    "title": "How Bluesky draws its logo on screenshots"
   },
   {
     "source": "hn",
     "url": "https://fabiensanglard.net/quake_shareware_cd/index.html",
     "title": "Quake Shareware, a CD-ROM just a little too full"
+  },
+  {
+    "source": "hn",
+    "url": "https://en.wikipedia.org/wiki/Oxford_Electric_Bell",
+    "title": "Oxford Electric Bell"
+  },
+  {
+    "source": "hn",
+    "url": "https://acadia.engineering/blog/rethinking-database-programming",
+    "title": "Rethinking Database Programming"
   },
   {
     "source": "hn",
@@ -65,26 +85,6 @@
     "title": "The Benchmarkpocalypse"
   },
   {
-    "source": "hn",
-    "url": "https://moultano.wordpress.com/2026/08/14/fairly-ranking-the-most-brilliant-birds/",
-    "title": "Ranking the Most Brilliantly Colored Birds with Data"
-  },
-  {
-    "source": "hn",
-    "url": "https://blog.roboflow.com/openai-gpt-5-6/",
-    "title": "GPT 5.6 Sol is the best \"vision\" model OpenAI ever released"
-  },
-  {
-    "source": "hn",
-    "url": "https://moddedbear.com/an-update-on-leaving-gmail-for-fastmail/",
-    "title": "An update on leaving Gmail for Fastmail"
-  },
-  {
-    "source": "hn",
-    "url": "https://sunclock.net/",
-    "title": "Sun Clock"
-  },
-  {
     "source": "lobsters",
     "url": "https://lalitm.com/post/github-alternatives/",
     "title": "GitHub has alternatives, but no replacement"
@@ -93,6 +93,11 @@
     "source": "lobsters",
     "url": "https://untrusem.party/blog/how-I-browse-the-web-with-Ublock-Hard-Mode.html",
     "title": "How I browse the Web with uBlock (Hard Mode)"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://biboumi.codeberg.page/doc/",
+    "title": "Biboumi – XMPP gateway to IRC"
   },
   {
     "source": "lobsters",
@@ -106,13 +111,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://amoffat.github.io/blog/vetting-burnout.html",
-    "title": "Vetted AI code is hard to justify"
+    "url": "https://actualbudget.org/",
+    "title": "Actual Budget"
   },
   {
     "source": "lobsters",
-    "url": "https://actualbudget.org/",
-    "title": "Actual Budget"
+    "url": "https://amoffat.github.io/blog/vetting-burnout.html",
+    "title": "Vetted AI code is hard to justify"
   },
   {
     "source": "lobsters",
