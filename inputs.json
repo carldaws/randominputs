@@ -16,13 +16,13 @@
   },
   {
     "source": "hn",
-    "url": "https://fabiensanglard.net/quake_shareware_cd/index.html",
-    "title": "Quake Shareware, a CD-ROM just a little too full"
+    "url": "https://www.theregister.com/ai-and-ml/2026/08/18/google-buys-crashed-airline-spirits-data-at-auction-because-ai/5288962",
+    "title": "Google buys crashed airline Spirit's data at auction, because AI"
   },
   {
     "source": "hn",
-    "url": "https://catcrafts.net/posts/fairphone-6-postmarketos-working-main-camera",
-    "title": "Fairphone 6 and PostmarketOS working main camera"
+    "url": "https://fabiensanglard.net/quake_shareware_cd/index.html",
+    "title": "Quake Shareware, a CD-ROM just a little too full"
   },
   {
     "source": "hn",
@@ -31,8 +31,8 @@
   },
   {
     "source": "hn",
-    "url": "https://danluu.com/benchpocalypse/",
-    "title": "The Benchmarkpocalypse"
+    "url": "https://catcrafts.net/posts/fairphone-6-postmarketos-working-main-camera",
+    "title": "Fairphone 6 and PostmarketOS working main camera"
   },
   {
     "source": "hn",
@@ -41,8 +41,23 @@
   },
   {
     "source": "hn",
+    "url": "https://www.rainydaygc.com/",
+    "title": "I built a golf career management SIM (like Basketball GM, but golf)"
+  },
+  {
+    "source": "hn",
+    "url": "https://danluu.com/benchpocalypse/",
+    "title": "The Benchmarkpocalypse"
+  },
+  {
+    "source": "hn",
     "url": "https://en.wikipedia.org/wiki/Olo_(color)",
     "title": "Olo (Color)"
+  },
+  {
+    "source": "hn",
+    "url": "https://808bits.com/articles/threshold-signing-ceremony-in-your-browser/",
+    "title": "The key that never exists: a threshold signing ceremony in the browser"
   },
   {
     "source": "hn",
@@ -56,8 +71,8 @@
   },
   {
     "source": "hn",
-    "url": "https://www.rainydaygc.com/",
-    "title": "I built a golf career management SIM (like Basketball GM, but golf)"
+    "url": "https://www.repaircafe.org/",
+    "title": "Repair Cafe – Fix Your Broken Items"
   },
   {
     "source": "hn",
@@ -71,18 +86,13 @@
   },
   {
     "source": "hn",
-    "url": "https://irz.fr/en/articles/openclimbing-open-guide-en/",
-    "title": "Climbing Guide as a Shared Infrastructure"
-  },
-  {
-    "source": "hn",
     "url": "https://www.newyorker.com/culture/photo-booth/the-lonely-men-at-the-end-of-the-world",
     "title": "Los Puesteros, solitary men who look after ranches and livestock in Patagonia"
   },
   {
     "source": "hn",
-    "url": "https://speko.ai/",
-    "title": "Launch HN: Speko (YC S26) – OpenRouter for Voice AI"
+    "url": "https://irz.fr/en/articles/openclimbing-open-guide-en/",
+    "title": "Climbing Guide as a Shared Infrastructure"
   },
   {
     "source": "lobsters",
@@ -101,6 +111,11 @@
   },
   {
     "source": "lobsters",
+    "url": "https://simonwillison.net/2026/Aug/17/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-tra/",
+    "title": "We Tracked a Shipment of Rare Books. It Ended at an Amazon AI Training Facility"
+  },
+  {
+    "source": "lobsters",
     "url": "https://thefloatingcontinent.com/blog/upside-down-arrow-unicode/",
     "title": "When the Down Arrow is not an Upside-Down Up Arrow (2022)"
   },
@@ -111,18 +126,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://simonwillison.net/2026/Aug/17/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-tra/",
-    "title": "We Tracked a Shipment of Rare Books. It Ended at an Amazon AI Training Facility"
-  },
-  {
-    "source": "lobsters",
     "url": "https://tibleiz.net/blog/2024-02-04-writing-a-fast-compiler.html",
     "title": "Writing a Fast Compiler"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://c3-lang.org/blog/i_thought_i_was_building_a_c_replacement/",
-    "title": "I thought I was building a C replacement. I was wrong"
   },
   {
     "source": "lobsters",
@@ -133,6 +138,11 @@
     "source": "lobsters",
     "url": "https://actualbudget.org/",
     "title": "Actual Budget"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://c3-lang.org/blog/i_thought_i_was_building_a_c_replacement/",
+    "title": "I thought I was building a C replacement. I was wrong"
   },
   {
     "source": "lobsters",
@@ -151,6 +161,11 @@
   },
   {
     "source": "lobsters",
+    "url": "https://blog.veritates.love/selective-applicatives-theoretical-basis",
+    "title": "Selective Applicative Functors"
+  },
+  {
+    "source": "lobsters",
     "url": "https://op.tngl.io/every-fucking-website/",
     "title": "Every Fucking Website"
   },
@@ -165,8 +180,88 @@
     "title": "Retrofitting a build system into a compiler"
   },
   {
-    "source": "lobsters",
-    "url": "https://blog.yoshuawuyts.com/four-levels-of-in-place-initialization/",
-    "title": "Four levels of in-place initialization"
+    "source": "pinboard",
+    "url": "https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing",
+    "title": "Daring Fireball: Anthropic’s ‘Watermark’ Text Adulteration in Claude Is a Perversion of Writing"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.404media.co/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-training-facility/",
+    "title": "https://www.404media.co/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-training-facility/"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://craigmod.com/essays/robot_blood/",
+    "title": "A Swarm of Blood Robots — by Craig Mod"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://ordinaryabundance.com/",
+    "title": "Ordinary Abundance"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://ysph.yale.edu/news-article/universal-health-coverage-could-save-one-trillion-dollars-and-114000-lives-every-year/",
+    "title": "Universal Health Coverage Could Save $1 Trillion and 114,000 Lives Every Year, Yale Study Projects | Yale School of Public Health"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/",
+    "title": "How Google is Making Private AI Practical with Homomorphic Encryption"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.404media.co/show-how-3m-is-0-at-fault-expert-witness-used-chatgpt-to-write-report-defending-company-in-deadly-explosion-lawsuit/",
+    "title": "‘Show How 3M Is 0% at Fault:’ Expert Witness Used ChatGPT to Write Report Defending Company in Deadly Explosion Lawsuit"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://reticulum.network/",
+    "title": "Reticulum Network"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://gloom.sh/",
+    "title": "Gloomberb"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://blog.j11y.io/2026-08-12_Anthropics-weak-watermarks-appease-a-weak-law/",
+    "title": "Anthropic’s weak watermarks appease a weak law - by James Padolsey"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.cringebot3000.com/",
+    "title": "LinkedIn CringeBot 3000"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://likebutter.app/",
+    "title": "Life without internet made smoother. Get access to tools that help."
+  },
+  {
+    "source": "pinboard",
+    "url": "https://annualreport.gallery/",
+    "title": "Annual Report Archive"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://futurism.com/artificial-intelligence/ai-impact-environment-horrifying-new-paper",
+    "title": "AI's Impact on the Environment Is Absolutely Horrifying, New Paper Finds"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.newyorker.com/news/annals-of-inquiry/gps-and-the-lost-art-of-getting-lost",
+    "title": "GPS and the lost art of getting lost • The New Yorker"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://eigendrum.com/#p=circle",
+    "title": "eigendrum.com"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://sophiebits.com/2026/06/25/there-are-no-lossless-transformations-of-natural-language-text",
+    "title": "There are no lossless transformations of natural-language text – Sophie Alpert"
   }
 ]
