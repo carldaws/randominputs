@@ -1,53 +1,13 @@
 [
   {
     "source": "hn",
+    "url": "https://philo.gay/linecam/",
+    "title": "Using the railway network as a flatbed scanner"
+  },
+  {
+    "source": "hn",
     "url": "https://pixelcluster.dev/VRAM-Overcommit/",
     "title": "Linux 7.3 improves performance when running out of vRAM"
-  },
-  {
-    "source": "hn",
-    "url": "https://timmarinin.net/2026/bluesky-screenshots/",
-    "title": "How Bluesky draws its logo on screenshots"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.theregister.com/ai-and-ml/2026/08/18/google-buys-crashed-airline-spirits-data-at-auction-because-ai/5288962",
-    "title": "Google buys crashed airline Spirit's data at auction, because AI"
-  },
-  {
-    "source": "hn",
-    "url": "https://fabiensanglard.net/quake_shareware_cd/index.html",
-    "title": "Quake Shareware, a CD-ROM just a little too full"
-  },
-  {
-    "source": "hn",
-    "url": "https://acadia.engineering/blog/rethinking-database-programming",
-    "title": "Rethinking Database Programming"
-  },
-  {
-    "source": "hn",
-    "url": "https://catcrafts.net/posts/fairphone-6-postmarketos-working-main-camera",
-    "title": "Fairphone 6 and PostmarketOS working main camera"
-  },
-  {
-    "source": "hn",
-    "url": "https://moultano.wordpress.com/2026/08/14/fairly-ranking-the-most-brilliant-birds/",
-    "title": "Ranking the Most Brilliantly Colored Birds with Data"
-  },
-  {
-    "source": "hn",
-    "url": "https://duckdb.org/2026/08/17/duckdb-20-highlights",
-    "title": "A Preview of DuckDB v2.0"
-  },
-  {
-    "source": "hn",
-    "url": "https://danluu.com/benchpocalypse/",
-    "title": "The Benchmarkpocalypse"
-  },
-  {
-    "source": "hn",
-    "url": "https://en.wikipedia.org/wiki/Olo_(color)",
-    "title": "Olo (Color)"
   },
   {
     "source": "hn",
@@ -56,8 +16,58 @@
   },
   {
     "source": "hn",
-    "url": "https://moddedbear.com/an-update-on-leaving-gmail-for-fastmail/",
-    "title": "An update on leaving Gmail for Fastmail"
+    "url": "https://www.theregister.com/ai-and-ml/2026/08/18/google-buys-crashed-airline-spirits-data-at-auction-because-ai/5288962",
+    "title": "Google buys crashed airline Spirit's data at auction, because AI"
+  },
+  {
+    "source": "hn",
+    "url": "https://timmarinin.net/2026/bluesky-screenshots/",
+    "title": "How Bluesky draws its logo on screenshots"
+  },
+  {
+    "source": "hn",
+    "url": "https://acadia.engineering/blog/rethinking-database-programming",
+    "title": "Rethinking Database Programming"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.privacyguides.org/news/2026/08/17/meta-files-patent-for-facial-recognition-automatic-recording-of-people/",
+    "title": "Meta Files Patent for Facial Recognition, Automatic Recording of People"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.fairphone.com/nl/stories/the-fairphone-gen-6-is-all-about-giving-you-more",
+    "title": "Fairphone is now officially available in the United States"
+  },
+  {
+    "source": "hn",
+    "url": "https://fabiensanglard.net/quake_shareware_cd/index.html",
+    "title": "Quake Shareware, a CD-ROM just a little too full"
+  },
+  {
+    "source": "hn",
+    "url": "https://catcrafts.net/posts/fairphone-6-postmarketos-working-main-camera",
+    "title": "Fairphone 6 and PostmarketOS working main camera"
+  },
+  {
+    "source": "hn",
+    "url": "https://duckdb.org/2026/08/17/duckdb-20-highlights",
+    "title": "A Preview of DuckDB v2.0"
+  },
+  {
+    "source": "hn",
+    "url": "https://en.wikipedia.org/wiki/Olo_(color)",
+    "title": "Olo (Color)"
+  },
+  {
+    "source": "hn",
+    "url": "https://danluu.com/benchpocalypse/",
+    "title": "The Benchmarkpocalypse"
+  },
+  {
+    "source": "hn",
+    "url": "https://moultano.wordpress.com/2026/08/14/fairly-ranking-the-most-brilliant-birds/",
+    "title": "Ranking the Most Brilliantly Colored Birds with Data"
   },
   {
     "source": "hn",
@@ -66,23 +76,13 @@
   },
   {
     "source": "hn",
-    "url": "https://www.librarian.net/notoai/",
-    "title": "How to disable or avoid intrusive AI"
+    "url": "https://moddedbear.com/an-update-on-leaving-gmail-for-fastmail/",
+    "title": "An update on leaving Gmail for Fastmail"
   },
   {
     "source": "hn",
     "url": "https://sunclock.net/",
     "title": "Sun Clock"
-  },
-  {
-    "source": "hn",
-    "url": "https://irz.fr/en/articles/openclimbing-open-guide-en/",
-    "title": "Climbing Guide as a Shared Infrastructure"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.newyorker.com/culture/photo-booth/the-lonely-men-at-the-end-of-the-world",
-    "title": "Los Puesteros, solitary men who look after ranches and livestock in Patagonia"
   },
   {
     "source": "lobsters",
@@ -91,8 +91,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://biboumi.codeberg.page/doc/",
-    "title": "Biboumi – XMPP gateway to IRC"
+    "url": "https://untrusem.party/blog/how-I-browse-the-web-with-Ublock-Hard-Mode.html",
+    "title": "How I browse the Web with uBlock (Hard Mode)"
   },
   {
     "source": "lobsters",
@@ -111,18 +111,23 @@
   },
   {
     "source": "lobsters",
-    "url": "https://thefloatingcontinent.com/blog/upside-down-arrow-unicode/",
-    "title": "When the Down Arrow is not an Upside-Down Up Arrow (2022)"
-  },
-  {
-    "source": "lobsters",
     "url": "https://actualbudget.org/",
     "title": "Actual Budget"
   },
   {
     "source": "lobsters",
+    "url": "https://thefloatingcontinent.com/blog/upside-down-arrow-unicode/",
+    "title": "When the Down Arrow is not an Upside-Down Up Arrow (2022)"
+  },
+  {
+    "source": "lobsters",
     "url": "https://tibleiz.net/blog/2024-02-04-writing-a-fast-compiler.html",
     "title": "Writing a Fast Compiler"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://blog.veritates.love/selective-applicatives-theoretical-basis",
+    "title": "Selective Applicative Functors"
   },
   {
     "source": "lobsters",
@@ -143,31 +148,6 @@
     "source": "lobsters",
     "url": "https://yogthos.net/posts/2026-08-17-llm-workflow.html",
     "title": "A practical workflow for LLM-assisted development"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://blog.veritates.love/selective-applicatives-theoretical-basis",
-    "title": "Selective Applicative Functors"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://philo.gay/linecam/",
-    "title": "Using the railway network as a flatbed scanner"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://www.benjoffe.com/fast-day-of-week",
-    "title": "A faster way to calculate the day-of-the-week"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://zverok.space/blog/2026-08-16-assertions-and-matchers.html",
-    "title": "Thinking about tests: assertions and matchers"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://op.tngl.io/every-fucking-website/",
-    "title": "Every Fucking Website"
   },
   {
     "source": "pinboard",
@@ -208,6 +188,11 @@
     "source": "pinboard",
     "url": "https://reticulum.network/",
     "title": "Reticulum Network"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.librarian.net/notoai/",
+    "title": "How to disable or avoid intrusive AI – librarian.net"
   },
   {
     "source": "pinboard",
