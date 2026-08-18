@@ -1,6 +1,11 @@
 [
   {
     "source": "hn",
+    "url": "https://www.ikea.com/se/en/customer-service/knowledge/articles/6f564c4d-2ccc-46de-b643-545a3948dc79.html",
+    "title": "How does IKEA come up with names for its products?"
+  },
+  {
+    "source": "hn",
     "url": "https://philo.gay/linecam/",
     "title": "Using the railway network as a flatbed scanner"
   },
@@ -16,11 +21,6 @@
   },
   {
     "source": "hn",
-    "url": "https://machine0.io",
-    "title": "Launch HN: machine0 (YC S26) – Persistent CPU and GPU VMs from the CLI"
-  },
-  {
-    "source": "hn",
     "url": "https://pixelcluster.dev/VRAM-Overcommit/",
     "title": "Linux 7.3 improves performance when running out of vRAM"
   },
@@ -31,13 +31,18 @@
   },
   {
     "source": "hn",
-    "url": "https://blog.gnoack.org/post/git-history-split",
-    "title": "Splitting a Git Commit"
+    "url": "https://machine0.io",
+    "title": "Launch HN: machine0 (YC S26) – Persistent CPU and GPU VMs from the CLI"
   },
   {
     "source": "hn",
-    "url": "https://bond.now/news/superpowers-not-superintelligence",
-    "title": "Superpowers, Not Superintelligence"
+    "url": "https://pmotschmann.github.io/Evolve/",
+    "title": "Evolve: An incremental game about evolving a civilization"
+  },
+  {
+    "source": "hn",
+    "url": "https://blog.gnoack.org/post/git-history-split",
+    "title": "Splitting a Git Commit"
   },
   {
     "source": "hn",
@@ -46,8 +51,13 @@
   },
   {
     "source": "hn",
-    "url": "https://www.fairphone.com/nl/stories/the-fairphone-gen-6-is-all-about-giving-you-more",
-    "title": "Fairphone is now officially available in the United States"
+    "url": "https://bond.now/news/superpowers-not-superintelligence",
+    "title": "Superpowers, Not Superintelligence"
+  },
+  {
+    "source": "hn",
+    "url": "https://pantheongpu.com/",
+    "title": "Show HN: PantheonGPU – GPU health testing and AI workload benchmarking"
   },
   {
     "source": "hn",
@@ -56,8 +66,8 @@
   },
   {
     "source": "hn",
-    "url": "https://www.theregister.com/ai-and-ml/2026/08/18/google-buys-crashed-airline-spirits-data-at-auction-because-ai/5288962",
-    "title": "Google has acquired the data of failed US airline Spirit"
+    "url": "https://www.fairphone.com/nl/stories/the-fairphone-gen-6-is-all-about-giving-you-more",
+    "title": "Fairphone is now officially available in the United States"
   },
   {
     "source": "hn",
@@ -66,28 +76,18 @@
   },
   {
     "source": "hn",
-    "url": "https://www.privacyguides.org/news/2026/08/17/meta-files-patent-for-facial-recognition-automatic-recording-of-people/",
-    "title": "Meta Files Patent for Facial Recognition, Automatic Recording of People"
-  },
-  {
-    "source": "hn",
-    "url": "https://acadia.engineering/blog/rethinking-database-programming",
-    "title": "Rethinking Database Programming"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.bloomberg.com/news/articles/2026-08-18/diesel-margins-top-100-a-barrel-to-reach-record-high-as-supply-crunch-grows",
-    "title": "Diesel Margins Top $100 a Barrel to Reach Record High as Supply Crunch Grows"
-  },
-  {
-    "source": "hn",
-    "url": "https://status.claude.com/incidents/q7txxvbsftgq",
-    "title": "Degraded performance for multiple models"
+    "url": "https://www.theregister.com/ai-and-ml/2026/08/18/google-buys-crashed-airline-spirits-data-at-auction-because-ai/5288962",
+    "title": "Google has acquired the data of failed US airline Spirit"
   },
   {
     "source": "lobsters",
     "url": "https://untrusem.party/blog/how-I-browse-the-web-with-Ublock-Hard-Mode.html",
     "title": "How I browse the Web with uBlock (Hard Mode)"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://acadia.engineering/blog/rethinking-database-programming",
+    "title": "Rethinking Database Programming"
   },
   {
     "source": "lobsters",
@@ -128,6 +128,11 @@
     "source": "lobsters",
     "url": "https://catcrafts.net/posts/fairphone-6-postmarketos-working-main-camera",
     "title": "Fairphone 6 + PostmarketOS working main camera"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://kakoune.org/",
+    "title": "Kakoune code editor"
   },
   {
     "source": "lobsters",
