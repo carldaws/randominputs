@@ -11,6 +11,11 @@
   },
   {
     "source": "hn",
+    "url": "https://danluu.com/benchpocalypse/",
+    "title": "The Benchmarkpocalypse"
+  },
+  {
+    "source": "hn",
     "url": "https://duckdb.org/2026/08/17/duckdb-20-highlights",
     "title": "A Preview of DuckDB v2.0"
   },
@@ -21,13 +26,13 @@
   },
   {
     "source": "hn",
-    "url": "https://en.wikipedia.org/wiki/Olo_(color)",
-    "title": "Olo (Color)"
+    "url": "https://www.rnz.co.nz/life/books/wellington-second-hand-book-store-s-mysterious-orders",
+    "title": "Wellington second-hand bookstore's mysterious orders"
   },
   {
     "source": "hn",
-    "url": "https://www.rnz.co.nz/life/books/wellington-second-hand-book-store-s-mysterious-orders",
-    "title": "Wellington second-hand bookstore's mysterious orders"
+    "url": "https://en.wikipedia.org/wiki/Olo_(color)",
+    "title": "Olo (Color)"
   },
   {
     "source": "hn",
@@ -61,28 +66,18 @@
   },
   {
     "source": "hn",
-    "url": "https://danluu.com/benchpocalypse/",
-    "title": "The Benchmarkpocalypse"
-  },
-  {
-    "source": "hn",
     "url": "https://speko.ai/",
     "title": "Launch HN: Speko (YC S26) – OpenRouter for Voice AI"
   },
   {
     "source": "hn",
-    "url": "https://scapplications.com/",
-    "title": "scScript for Linux"
-  },
-  {
-    "source": "hn",
-    "url": "https://status.cursor.com/incidents/l9h9vrd726jv",
-    "title": "GitHub degradation affects Cursor Origin, its new Git platform"
-  },
-  {
-    "source": "hn",
     "url": "https://terrytao.wordpress.com/2026/08/12/a-digestion-of-the-proof-of-sendovs-conjecture/",
     "title": "A digestion of the proof of Sendov's conjecture"
+  },
+  {
+    "source": "hn",
+    "url": "https://scapplications.com/",
+    "title": "scScript for Linux"
   },
   {
     "source": "lobsters",
@@ -126,13 +121,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://op.tngl.io/every-fucking-website/",
-    "title": "Every Fucking Website"
+    "url": "https://simonwillison.net/2026/Aug/16/qwen-38-27b/",
+    "title": "Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things"
   },
   {
     "source": "lobsters",
-    "url": "https://simonwillison.net/2026/Aug/16/qwen-38-27b/",
-    "title": "Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things"
+    "url": "https://op.tngl.io/every-fucking-website/",
+    "title": "Every Fucking Website"
   },
   {
     "source": "lobsters",
@@ -141,13 +136,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://blog.yoshuawuyts.com/four-levels-of-in-place-initialization/",
-    "title": "Four levels of in-place initialization"
+    "url": "https://actualbudget.org/",
+    "title": "Actual Budget"
   },
   {
     "source": "lobsters",
-    "url": "https://www.dra27.uk/blog/platform/2025/09/25/building-with-effects.html",
-    "title": "Retrofitting a build system into a compiler"
+    "url": "https://blog.yoshuawuyts.com/four-levels-of-in-place-initialization/",
+    "title": "Four levels of in-place initialization"
   },
   {
     "source": "lobsters",
@@ -156,13 +151,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://stonetools.ghost.io/appleworks-apple2/",
-    "title": "AppleWorks on the Apple II"
+    "url": "https://www.dra27.uk/blog/platform/2025/09/25/building-with-effects.html",
+    "title": "Retrofitting a build system into a compiler"
   },
   {
     "source": "lobsters",
-    "url": "https://codemanship.wordpress.com/2026/08/12/ai-software-development-what-does-the-data-say/",
-    "title": "AI Software Development – What Does The Data Say?"
+    "url": "https://stonetools.ghost.io/appleworks-apple2/",
+    "title": "AppleWorks on the Apple II"
   },
   {
     "source": "pinboard",
