@@ -6,18 +6,23 @@
   },
   {
     "source": "hn",
-    "url": "https://seths.blog/2026/08/the-amazon-tax/",
-    "title": "The Amazon Tax"
-  },
-  {
-    "source": "hn",
     "url": "https://quantum5.ca/2026/08/16/fixing-bricked-amd-7040-series-framework-13-laptop-with-20-tools/",
     "title": "Fixing a Bricked Framework Laptop"
   },
   {
     "source": "hn",
+    "url": "https://seths.blog/2026/08/the-amazon-tax/",
+    "title": "The Amazon Tax"
+  },
+  {
+    "source": "hn",
     "url": "https://pixelcluster.dev/VRAM-Overcommit/",
     "title": "Linux 7.3 improves performance when running out of vRAM"
+  },
+  {
+    "source": "hn",
+    "url": "https://chriskiehl.com/article/how-i-under-engineered-my-book",
+    "title": "How I Under-Engineered My Book"
   },
   {
     "source": "hn",
@@ -36,18 +41,18 @@
   },
   {
     "source": "hn",
+    "url": "https://blog.gnoack.org/post/git-history-split",
+    "title": "Splitting a Git Commit"
+  },
+  {
+    "source": "hn",
     "url": "https://www.theregister.com/ai-and-ml/2026/08/18/google-buys-crashed-airline-spirits-data-at-auction-because-ai/5288962",
-    "title": "Google buys crashed airline Spirit's data at auction"
+    "title": "Google has acquired the data of failed US airline Spirit"
   },
   {
     "source": "hn",
     "url": "https://www.privacyguides.org/news/2026/08/17/meta-files-patent-for-facial-recognition-automatic-recording-of-people/",
     "title": "Meta Files Patent for Facial Recognition, Automatic Recording of People"
-  },
-  {
-    "source": "hn",
-    "url": "https://en.wikipedia.org/wiki/Oxford_Electric_Bell",
-    "title": "Oxford Electric Bell"
   },
   {
     "source": "hn",
@@ -61,13 +66,18 @@
   },
   {
     "source": "hn",
-    "url": "https://blog.gnoack.org/post/git-history-split",
-    "title": "Splitting a Git Commit"
+    "url": "https://notactuallytreyanastasio.github.io/shoehorn/",
+    "title": "Show HN: Shoehorn – Quantize any model down to run on your machine"
   },
   {
     "source": "hn",
-    "url": "https://pleated-jeans.com/2026/08/15/engineers-forgotten-recipe-hack-viral-divides-internet/",
-    "title": "An Engineer's Old Cooking Trick Is Going Viral, Divides the Internet"
+    "url": "https://abstractextraordinary.com/blog/how-muse-glimmer-fits-an-agent-on-your-device/",
+    "title": "Muse Glimmer is a memory hierarchy disguised as a 30B Transformer"
+  },
+  {
+    "source": "hn",
+    "url": "https://grist.org/transportation/californias-new-tire-efficiency-rules-could-save-drivers-1b-a-year/",
+    "title": "California's new tire efficiency rules could save drivers $1B a year"
   },
   {
     "source": "hn",
@@ -81,13 +91,8 @@
   },
   {
     "source": "hn",
-    "url": "https://duckdb.org/2026/08/17/duckdb-20-highlights",
-    "title": "A Preview of DuckDB v2.0"
-  },
-  {
-    "source": "hn",
-    "url": "https://en.wikipedia.org/wiki/Olo_(color)",
-    "title": "Olo (Color)"
+    "url": "https://www.worldwidewebsize.com/",
+    "title": "The Size of the World Wide Web"
   },
   {
     "source": "lobsters",
@@ -106,23 +111,23 @@
   },
   {
     "source": "lobsters",
-    "url": "https://simonwillison.net/2026/Aug/17/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-tra/",
-    "title": "We Tracked a Shipment of Rare Books. It Ended at an Amazon AI Training Facility"
-  },
-  {
-    "source": "lobsters",
     "url": "https://danluu.com/benchpocalypse/",
     "title": "The benchmarkpocalypse"
   },
   {
     "source": "lobsters",
-    "url": "https://duckdb.org/2026/08/17/duckdb-20-highlights.html",
-    "title": "A Preview of DuckDB v2.0"
+    "url": "https://simonwillison.net/2026/Aug/17/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-tra/",
+    "title": "We Tracked a Shipment of Rare Books. It Ended at an Amazon AI Training Facility"
   },
   {
     "source": "lobsters",
     "url": "https://actualbudget.org/",
     "title": "Actual Budget"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://duckdb.org/2026/08/17/duckdb-20-highlights.html",
+    "title": "A Preview of DuckDB v2.0"
   },
   {
     "source": "lobsters",
@@ -143,11 +148,6 @@
     "source": "lobsters",
     "url": "https://blog.veritates.love/selective-applicatives-theoretical-basis",
     "title": "Selective Applicative Functors"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://simonwillison.net/2026/Aug/16/qwen-38-27b/",
-    "title": "Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things"
   },
   {
     "source": "pinboard",
@@ -171,13 +171,13 @@
   },
   {
     "source": "pinboard",
-    "url": "https://ysph.yale.edu/news-article/universal-health-coverage-could-save-one-trillion-dollars-and-114000-lives-every-year/",
-    "title": "Universal Health Coverage Could Save $1 Trillion and 114,000 Lives Every Year, Yale Study Projects | Yale School of Public Health"
+    "url": "https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/",
+    "title": "How Google is Making Private AI Practical with Homomorphic Encryption"
   },
   {
     "source": "pinboard",
-    "url": "https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/",
-    "title": "How Google is Making Private AI Practical with Homomorphic Encryption"
+    "url": "https://simonwillison.net/2026/Aug/16/qwen-38-27b/",
+    "title": "Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things"
   },
   {
     "source": "pinboard",
