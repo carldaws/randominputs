@@ -11,13 +11,13 @@
   },
   {
     "source": "hn",
-    "url": "https://pixelcluster.dev/VRAM-Overcommit/",
-    "title": "Linux 7.3 improves performance when running out of vRAM"
+    "url": "https://quantum5.ca/2026/08/16/fixing-bricked-amd-7040-series-framework-13-laptop-with-20-tools/",
+    "title": "Fixing a Bricked Framework Laptop"
   },
   {
     "source": "hn",
-    "url": "https://quantum5.ca/2026/08/16/fixing-bricked-amd-7040-series-framework-13-laptop-with-20-tools/",
-    "title": "Fixing a Bricked Framework Laptop"
+    "url": "https://pixelcluster.dev/VRAM-Overcommit/",
+    "title": "Linux 7.3 improves performance when running out of vRAM"
   },
   {
     "source": "hn",
@@ -37,7 +37,7 @@
   {
     "source": "hn",
     "url": "https://www.theregister.com/ai-and-ml/2026/08/18/google-buys-crashed-airline-spirits-data-at-auction-because-ai/5288962",
-    "title": "Google buys crashed airline Spirit's data at auction, because AI"
+    "title": "Google buys crashed airline Spirit's data at auction"
   },
   {
     "source": "hn",
@@ -46,23 +46,33 @@
   },
   {
     "source": "hn",
-    "url": "https://timmarinin.net/2026/bluesky-screenshots/",
-    "title": "How Bluesky draws its logo on screenshots"
-  },
-  {
-    "source": "hn",
-    "url": "https://fabiensanglard.net/quake_shareware_cd/index.html",
-    "title": "Quake Shareware, a CD-ROM just a little too full"
-  },
-  {
-    "source": "hn",
     "url": "https://en.wikipedia.org/wiki/Oxford_Electric_Bell",
     "title": "Oxford Electric Bell"
   },
   {
     "source": "hn",
+    "url": "https://timmarinin.net/2026/bluesky-screenshots/",
+    "title": "How Bluesky draws its logo on screenshots"
+  },
+  {
+    "source": "hn",
     "url": "https://acadia.engineering/blog/rethinking-database-programming",
     "title": "Rethinking Database Programming"
+  },
+  {
+    "source": "hn",
+    "url": "https://blog.gnoack.org/post/git-history-split",
+    "title": "Splitting a Git Commit"
+  },
+  {
+    "source": "hn",
+    "url": "https://pleated-jeans.com/2026/08/15/engineers-forgotten-recipe-hack-viral-divides-internet/",
+    "title": "An Engineer's Old Cooking Trick Is Going Viral, Divides the Internet"
+  },
+  {
+    "source": "hn",
+    "url": "https://fabiensanglard.net/quake_shareware_cd/index.html",
+    "title": "Quake Shareware, a CD-ROM just a little too full"
   },
   {
     "source": "hn",
@@ -80,19 +90,14 @@
     "title": "Olo (Color)"
   },
   {
-    "source": "hn",
-    "url": "https://danluu.com/benchpocalypse/",
-    "title": "The Benchmarkpocalypse"
+    "source": "lobsters",
+    "url": "https://untrusem.party/blog/how-I-browse-the-web-with-Ublock-Hard-Mode.html",
+    "title": "How I browse the Web with uBlock (Hard Mode)"
   },
   {
     "source": "lobsters",
     "url": "https://lalitm.com/post/github-alternatives/",
     "title": "GitHub has alternatives, but no replacement"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://untrusem.party/blog/how-I-browse-the-web-with-Ublock-Hard-Mode.html",
-    "title": "How I browse the Web with uBlock (Hard Mode)"
   },
   {
     "source": "lobsters",
@@ -103,6 +108,11 @@
     "source": "lobsters",
     "url": "https://simonwillison.net/2026/Aug/17/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-tra/",
     "title": "We Tracked a Shipment of Rare Books. It Ended at an Amazon AI Training Facility"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://danluu.com/benchpocalypse/",
+    "title": "The benchmarkpocalypse"
   },
   {
     "source": "lobsters",
@@ -138,21 +148,6 @@
     "source": "lobsters",
     "url": "https://simonwillison.net/2026/Aug/16/qwen-38-27b/",
     "title": "Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://www.tsampi.com/tsampi-bft-1.1.pdf",
-    "title": "Tsampi BFT: Leaderless One-Round Voting with Parameterized Finality"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://c3-lang.org/blog/i_thought_i_was_building_a_c_replacement/",
-    "title": "I thought I was building a C replacement. I was wrong"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://yogthos.net/posts/2026-08-17-llm-workflow.html",
-    "title": "A practical workflow for LLM-assisted development"
   },
   {
     "source": "pinboard",
