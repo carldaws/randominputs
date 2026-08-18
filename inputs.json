@@ -31,18 +31,8 @@
   },
   {
     "source": "hn",
-    "url": "https://www.newyorker.com/culture/photo-booth/the-lonely-men-at-the-end-of-the-world",
-    "title": "Los Puesteros, solitary men who look after ranches and livestock in Patagonia"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.librarian.net/notoai/",
-    "title": "How to disable or avoid intrusive AI"
-  },
-  {
-    "source": "hn",
-    "url": "https://sunclock.net/",
-    "title": "Sun Clock"
+    "url": "https://www.repaircafe.org/",
+    "title": "Repair Cafe – Fix Your Broken Items"
   },
   {
     "source": "hn",
@@ -51,8 +41,18 @@
   },
   {
     "source": "hn",
-    "url": "https://www.repaircafe.org/",
-    "title": "Repair Cafe – Fix Your Broken Items"
+    "url": "https://www.newyorker.com/culture/photo-booth/the-lonely-men-at-the-end-of-the-world",
+    "title": "Los Puesteros, solitary men who look after ranches and livestock in Patagonia"
+  },
+  {
+    "source": "hn",
+    "url": "https://sunclock.net/",
+    "title": "Sun Clock"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.librarian.net/notoai/",
+    "title": "How to disable or avoid intrusive AI"
   },
   {
     "source": "hn",
@@ -61,18 +61,8 @@
   },
   {
     "source": "hn",
-    "url": "http://amosdudley.com/weblog/Designing-PPE-for-Hilde",
-    "title": "Puppy PPE"
-  },
-  {
-    "source": "hn",
-    "url": "https://status.cursor.com/incidents/l9h9vrd726jv",
-    "title": "GitHub degradation affects Cursor Origin, its new Git platform"
-  },
-  {
-    "source": "hn",
-    "url": "https://engineering.myhoai.com/posts/a-simple-fix-for-llm-tail-latency/",
-    "title": "A simple fix for LLM tail latency"
+    "url": "https://danluu.com/benchpocalypse/",
+    "title": "The Benchmarkpocalypse"
   },
   {
     "source": "hn",
@@ -81,8 +71,18 @@
   },
   {
     "source": "hn",
-    "url": "https://blog.roboflow.com/roboflow-playground/",
-    "title": "Roboflow Playground: Try and Compare 30 Computer Vision Models"
+    "url": "https://grist.org/transportation/californias-new-tire-efficiency-rules-could-save-drivers-1b-a-year/",
+    "title": "California's new tire efficiency rules could save drivers $1B a year"
+  },
+  {
+    "source": "hn",
+    "url": "https://status.cursor.com/incidents/l9h9vrd726jv",
+    "title": "GitHub degradation affects Cursor Origin, its new Git platform"
+  },
+  {
+    "source": "hn",
+    "url": "https://terrytao.wordpress.com/2026/08/12/a-digestion-of-the-proof-of-sendovs-conjecture/",
+    "title": "A digestion of the proof of Sendov's conjecture"
   },
   {
     "source": "lobsters",
@@ -146,18 +146,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://danluu.com/benchpocalypse/",
-    "title": "The benchmarkpocalypse"
-  },
-  {
-    "source": "lobsters",
     "url": "https://www.dra27.uk/blog/platform/2025/09/25/building-with-effects.html",
     "title": "Retrofitting a build system into a compiler"
   },
   {
     "source": "lobsters",
-    "url": "https://labs.leaningtech.com/blog/browserpod-rust.html",
-    "title": "Beyond WASI: Running any Rust application in the browser with BrowserPod 3.0"
+    "url": "https://yogthos.net/posts/2026-08-17-llm-workflow.html",
+    "title": "A practical workflow for LLM-assisted development"
   },
   {
     "source": "lobsters",
@@ -168,85 +163,5 @@
     "source": "lobsters",
     "url": "https://codemanship.wordpress.com/2026/08/12/ai-software-development-what-does-the-data-say/",
     "title": "AI Software Development – What Does The Data Say?"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://ordinaryabundance.com/",
-    "title": "Ordinary Abundance"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://craigmod.com/essays/robot_blood/",
-    "title": "A Swarm of Blood Robots — by Craig Mod"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://gloom.sh/",
-    "title": "Gloomberb"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html",
-    "title": "AI is removing the middle class of software engineering"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://nurb.dev/",
-    "title": "nurb · describe the part, print the part"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://blog.cryptographyengineering.com/2026/08/14/everything-is-about-to-go-dark/",
-    "title": "Everything is about to “go dark” – A Few Thoughts on Cryptographic Engineering"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://futurism.com/artificial-intelligence/ai-impact-environment-horrifying-new-paper",
-    "title": "AI's Impact on the Environment Is Absolutely Horrifying, New Paper Finds"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing",
-    "title": "Daring Fireball: Anthropic’s ‘Watermark’ Text Adulteration in Claude Is a Perversion of Writing"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.geoffreylitt.com/2026/07/02/understanding-is-the-new-bottleneck",
-    "title": "Understanding is the new bottleneck"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://eigendrum.com/#p=circle",
-    "title": "eigendrum.com"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/",
-    "title": "How Google is Making Private AI Practical with Homomorphic Encryption"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://news.ycombinator.com/item?id=49299222",
-    "title": "Every Fucking Website (2020) | Hacker News"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://news.ycombinator.com/item?id=49300800",
-    "title": "Maximizing the value of your Claude Code sessions | Hacker News"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.cringebot3000.com/",
-    "title": "LinkedIn CringeBot 3000"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.newyorker.com/news/annals-of-inquiry/gps-and-the-lost-art-of-getting-lost",
-    "title": "GPS and the lost art of getting lost • The New Yorker"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://delta.dev/",
-    "title": "Delta | A Multiplayer Environment for Coding with Agents"
   }
 ]
