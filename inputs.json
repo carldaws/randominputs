@@ -1,8 +1,18 @@
 [
   {
     "source": "hn",
+    "url": "https://about.iceland.co.uk/our-story/the-dark-ages/beware-management-consultants/",
+    "title": "Beware Management Consultants"
+  },
+  {
+    "source": "hn",
     "url": "https://www.ikea.com/se/en/customer-service/knowledge/articles/6f564c4d-2ccc-46de-b643-545a3948dc79.html",
     "title": "How does IKEA come up with names for its products?"
+  },
+  {
+    "source": "hn",
+    "url": "https://seths.blog/2026/08/the-amazon-tax/",
+    "title": "The Amazon tax"
   },
   {
     "source": "hn",
@@ -16,13 +26,13 @@
   },
   {
     "source": "hn",
-    "url": "https://seths.blog/2026/08/the-amazon-tax/",
-    "title": "The Amazon tax"
+    "url": "https://pixelcluster.dev/VRAM-Overcommit/",
+    "title": "Linux 7.3 improves performance when running out of vRAM"
   },
   {
     "source": "hn",
-    "url": "https://pixelcluster.dev/VRAM-Overcommit/",
-    "title": "Linux 7.3 improves performance when running out of vRAM"
+    "url": "https://www.theartnewspaper.com/2026/08/07/colossal-2500-year-old-sculpture-discovered-turkey-unesco-site",
+    "title": "2,500-year-old sculpture discovered at UNESCO site in Turkey"
   },
   {
     "source": "hn",
@@ -51,8 +61,8 @@
   },
   {
     "source": "hn",
-    "url": "https://bond.now/news/superpowers-not-superintelligence",
-    "title": "Superpowers, Not Superintelligence"
+    "url": "https://ysph.yale.edu/news-article/universal-health-coverage-could-save-one-trillion-dollars-and-114000-lives-every-year/",
+    "title": "Universal health coverage could save $1T and 114k lives a year: study"
   },
   {
     "source": "hn",
@@ -61,23 +71,13 @@
   },
   {
     "source": "hn",
-    "url": "https://ysph.yale.edu/news-article/universal-health-coverage-could-save-one-trillion-dollars-and-114000-lives-every-year/",
-    "title": "Universal health coverage could save $1T and 114k lives a year: study"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.fairphone.com/nl/stories/the-fairphone-gen-6-is-all-about-giving-you-more",
-    "title": "Fairphone is now officially available in the United States"
-  },
-  {
-    "source": "hn",
     "url": "https://grist.org/transportation/californias-new-tire-efficiency-rules-could-save-drivers-1b-a-year/",
     "title": "California's new tire efficiency rules could save drivers $1B a year"
   },
   {
     "source": "hn",
-    "url": "https://www.theregister.com/ai-and-ml/2026/08/18/google-buys-crashed-airline-spirits-data-at-auction-because-ai/5288962",
-    "title": "Google has acquired the data of failed US airline Spirit"
+    "url": "https://www.fairphone.com/nl/stories/the-fairphone-gen-6-is-all-about-giving-you-more",
+    "title": "Fairphone is now officially available in the United States"
   },
   {
     "source": "lobsters",
@@ -101,13 +101,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://biboumi.codeberg.page/doc/",
-    "title": "Biboumi – XMPP gateway to IRC"
+    "url": "https://kakoune.org/",
+    "title": "Kakoune code editor"
   },
   {
     "source": "lobsters",
-    "url": "https://fabiensanglard.net/quake_shareware_cd/index.html",
-    "title": "Quake Shareware, a CD-ROM just a little too full"
+    "url": "https://biboumi.codeberg.page/doc/",
+    "title": "Biboumi – XMPP gateway to IRC"
   },
   {
     "source": "lobsters",
@@ -116,13 +116,18 @@
   },
   {
     "source": "lobsters",
+    "url": "https://fabiensanglard.net/quake_shareware_cd/index.html",
+    "title": "Quake Shareware, a CD-ROM just a little too full"
+  },
+  {
+    "source": "lobsters",
     "url": "https://danluu.com/benchpocalypse/",
     "title": "The benchmarkpocalypse"
   },
   {
     "source": "lobsters",
-    "url": "https://actualbudget.org/",
-    "title": "Actual Budget"
+    "url": "https://odin-lang.org/docs/inline-asm/",
+    "title": "Odin's New Inline Assembly Templates"
   },
   {
     "source": "lobsters",
@@ -131,8 +136,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://kakoune.org/",
-    "title": "Kakoune code editor"
+    "url": "https://actualbudget.org/",
+    "title": "Actual Budget"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://blog.rust-lang.org/inside-rust/2026/08/18/reducing-target-dir-size-on-nightly/",
+    "title": "Experiment in reducing target directory size on nightly"
   },
   {
     "source": "lobsters",
@@ -148,10 +158,5 @@
     "source": "lobsters",
     "url": "https://thefloatingcontinent.com/blog/upside-down-arrow-unicode/",
     "title": "When the Down Arrow is not an Upside-Down Up Arrow (2022)"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://blog.veritates.love/selective-applicatives-theoretical-basis",
-    "title": "Selective Applicative Functors"
   }
 ]
