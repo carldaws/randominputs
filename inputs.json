@@ -26,11 +26,6 @@
   },
   {
     "source": "hn",
-    "url": "https://www.rnz.co.nz/life/books/wellington-second-hand-book-store-s-mysterious-orders",
-    "title": "Wellington second-hand bookstore's mysterious orders"
-  },
-  {
-    "source": "hn",
     "url": "https://en.wikipedia.org/wiki/Olo_(color)",
     "title": "Olo (Color)"
   },
@@ -46,6 +41,11 @@
   },
   {
     "source": "hn",
+    "url": "https://www.librarian.net/notoai/",
+    "title": "How to disable or avoid intrusive AI"
+  },
+  {
+    "source": "hn",
     "url": "https://www.newyorker.com/culture/photo-booth/the-lonely-men-at-the-end-of-the-world",
     "title": "Los Puesteros, solitary men who look after ranches and livestock in Patagonia"
   },
@@ -56,13 +56,13 @@
   },
   {
     "source": "hn",
-    "url": "https://www.librarian.net/notoai/",
-    "title": "How to disable or avoid intrusive AI"
+    "url": "https://www.repaircafe.org/",
+    "title": "Repair Cafe – Fix Your Broken Items"
   },
   {
     "source": "hn",
-    "url": "https://www.repaircafe.org/",
-    "title": "Repair Cafe – Fix Your Broken Items"
+    "url": "https://irz.fr/en/articles/openclimbing-open-guide-en/",
+    "title": "Climbing Guide as a Shared Infrastructure"
   },
   {
     "source": "hn",
@@ -73,11 +73,6 @@
     "source": "hn",
     "url": "https://terrytao.wordpress.com/2026/08/12/a-digestion-of-the-proof-of-sendovs-conjecture/",
     "title": "A digestion of the proof of Sendov's conjecture"
-  },
-  {
-    "source": "hn",
-    "url": "https://scapplications.com/",
-    "title": "scScript for Linux"
   },
   {
     "source": "lobsters",
@@ -111,13 +106,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://www.benjoffe.com/fast-day-of-week",
-    "title": "A faster way to calculate the day-of-the-week"
+    "url": "https://simonwillison.net/2026/Aug/16/qwen-38-27b/",
+    "title": "Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things"
   },
   {
     "source": "lobsters",
-    "url": "https://simonwillison.net/2026/Aug/16/qwen-38-27b/",
-    "title": "Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things"
+    "url": "https://www.benjoffe.com/fast-day-of-week",
+    "title": "A faster way to calculate the day-of-the-week"
   },
   {
     "source": "lobsters",
@@ -126,13 +121,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://op.tngl.io/every-fucking-website/",
-    "title": "Every Fucking Website"
+    "url": "https://simonwillison.net/2026/Aug/17/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-tra/",
+    "title": "We Tracked a Shipment of Rare Books. It Ended at an Amazon AI Training Facility"
   },
   {
     "source": "lobsters",
-    "url": "https://simonwillison.net/2026/Aug/17/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-tra/",
-    "title": "We Tracked a Shipment of Rare Books. It Ended at an Amazon AI Training Facility"
+    "url": "https://op.tngl.io/every-fucking-website/",
+    "title": "Every Fucking Website"
   },
   {
     "source": "lobsters",
