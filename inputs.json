@@ -16,13 +16,13 @@
   },
   {
     "source": "hn",
-    "url": "https://duckdb.org/2026/08/17/duckdb-20-highlights",
-    "title": "A Preview of DuckDB v2.0"
+    "url": "https://catcrafts.net/posts/fairphone-6-postmarketos-working-main-camera",
+    "title": "Fairphone 6 and PostmarketOS working main camera"
   },
   {
     "source": "hn",
-    "url": "https://catcrafts.net/posts/fairphone-6-postmarketos-working-main-camera",
-    "title": "Fairphone 6 and PostmarketOS working main camera"
+    "url": "https://duckdb.org/2026/08/17/duckdb-20-highlights",
+    "title": "A Preview of DuckDB v2.0"
   },
   {
     "source": "hn",
@@ -33,11 +33,6 @@
     "source": "hn",
     "url": "https://en.wikipedia.org/wiki/Olo_(color)",
     "title": "Olo (Color)"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.repaircafe.org/",
-    "title": "Repair Cafe – Fix Your Broken Items"
   },
   {
     "source": "hn",
@@ -63,6 +58,11 @@
     "source": "hn",
     "url": "https://www.librarian.net/notoai/",
     "title": "How to disable or avoid intrusive AI"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.repaircafe.org/",
+    "title": "Repair Cafe – Fix Your Broken Items"
   },
   {
     "source": "hn",
@@ -116,13 +116,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://zverok.space/blog/2026-08-16-assertions-and-matchers.html",
-    "title": "Thinking about tests: assertions and matchers"
+    "url": "https://simonwillison.net/2026/Aug/16/qwen-38-27b/",
+    "title": "Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things"
   },
   {
     "source": "lobsters",
-    "url": "https://simonwillison.net/2026/Aug/16/qwen-38-27b/",
-    "title": "Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things"
+    "url": "https://zverok.space/blog/2026-08-16-assertions-and-matchers.html",
+    "title": "Thinking about tests: assertions and matchers"
   },
   {
     "source": "lobsters",
@@ -136,6 +136,11 @@
   },
   {
     "source": "lobsters",
+    "url": "https://yogthos.net/posts/2026-08-17-llm-workflow.html",
+    "title": "A practical workflow for LLM-assisted development"
+  },
+  {
+    "source": "lobsters",
     "url": "https://actualbudget.org/",
     "title": "Actual Budget"
   },
@@ -143,11 +148,6 @@
     "source": "lobsters",
     "url": "https://blog.yoshuawuyts.com/four-levels-of-in-place-initialization/",
     "title": "Four levels of in-place initialization"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://yogthos.net/posts/2026-08-17-llm-workflow.html",
-    "title": "A practical workflow for LLM-assisted development"
   },
   {
     "source": "lobsters",
@@ -161,8 +161,13 @@
   },
   {
     "source": "pinboard",
-    "url": "https://ordinaryabundance.com/",
-    "title": "Ordinary Abundance"
+    "url": "https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing",
+    "title": "Daring Fireball: Anthropic’s ‘Watermark’ Text Adulteration in Claude Is a Perversion of Writing"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.404media.co/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-training-facility/",
+    "title": "https://www.404media.co/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-training-facility/"
   },
   {
     "source": "pinboard",
@@ -171,43 +176,13 @@
   },
   {
     "source": "pinboard",
-    "url": "https://gloom.sh/",
-    "title": "Gloomberb"
+    "url": "https://ordinaryabundance.com/",
+    "title": "Ordinary Abundance"
   },
   {
     "source": "pinboard",
-    "url": "https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html",
-    "title": "AI is removing the middle class of software engineering"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://nurb.dev/",
-    "title": "nurb · describe the part, print the part"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://blog.cryptographyengineering.com/2026/08/14/everything-is-about-to-go-dark/",
-    "title": "Everything is about to “go dark” – A Few Thoughts on Cryptographic Engineering"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://futurism.com/artificial-intelligence/ai-impact-environment-horrifying-new-paper",
-    "title": "AI's Impact on the Environment Is Absolutely Horrifying, New Paper Finds"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing",
-    "title": "Daring Fireball: Anthropic’s ‘Watermark’ Text Adulteration in Claude Is a Perversion of Writing"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.geoffreylitt.com/2026/07/02/understanding-is-the-new-bottleneck",
-    "title": "Understanding is the new bottleneck"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://eigendrum.com/#p=circle",
-    "title": "eigendrum.com"
+    "url": "https://ysph.yale.edu/news-article/universal-health-coverage-could-save-one-trillion-dollars-and-114000-lives-every-year/",
+    "title": "Universal Health Coverage Could Save $1 Trillion and 114,000 Lives Every Year, Yale Study Projects | Yale School of Public Health"
   },
   {
     "source": "pinboard",
@@ -216,13 +191,23 @@
   },
   {
     "source": "pinboard",
-    "url": "https://news.ycombinator.com/item?id=49299222",
-    "title": "Every Fucking Website (2020) | Hacker News"
+    "url": "https://www.404media.co/show-how-3m-is-0-at-fault-expert-witness-used-chatgpt-to-write-report-defending-company-in-deadly-explosion-lawsuit/",
+    "title": "‘Show How 3M Is 0% at Fault:’ Expert Witness Used ChatGPT to Write Report Defending Company in Deadly Explosion Lawsuit"
   },
   {
     "source": "pinboard",
-    "url": "https://news.ycombinator.com/item?id=49300800",
-    "title": "Maximizing the value of your Claude Code sessions | Hacker News"
+    "url": "https://reticulum.network/",
+    "title": "Reticulum Network"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://gloom.sh/",
+    "title": "Gloomberb"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://blog.j11y.io/2026-08-12_Anthropics-weak-watermarks-appease-a-weak-law/",
+    "title": "Anthropic’s weak watermarks appease a weak law - by James Padolsey"
   },
   {
     "source": "pinboard",
@@ -231,12 +216,32 @@
   },
   {
     "source": "pinboard",
+    "url": "https://likebutter.app/",
+    "title": "Life without internet made smoother. Get access to tools that help."
+  },
+  {
+    "source": "pinboard",
+    "url": "https://annualreport.gallery/",
+    "title": "Annual Report Archive"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://futurism.com/artificial-intelligence/ai-impact-environment-horrifying-new-paper",
+    "title": "AI's Impact on the Environment Is Absolutely Horrifying, New Paper Finds"
+  },
+  {
+    "source": "pinboard",
     "url": "https://www.newyorker.com/news/annals-of-inquiry/gps-and-the-lost-art-of-getting-lost",
     "title": "GPS and the lost art of getting lost • The New Yorker"
   },
   {
     "source": "pinboard",
-    "url": "https://delta.dev/",
-    "title": "Delta | A Multiplayer Environment for Coding with Agents"
+    "url": "https://eigendrum.com/#p=circle",
+    "title": "eigendrum.com"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://sophiebits.com/2026/06/25/there-are-no-lossless-transformations-of-natural-language-text",
+    "title": "There are no lossless transformations of natural-language text – Sophie Alpert"
   }
 ]
