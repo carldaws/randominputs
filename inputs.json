@@ -6,18 +6,8 @@
   },
   {
     "source": "hn",
-    "url": "https://quantum5.ca/2026/08/16/fixing-bricked-amd-7040-series-framework-13-laptop-with-20-tools/",
-    "title": "Fixing a Bricked Framework Laptop"
-  },
-  {
-    "source": "hn",
     "url": "https://seths.blog/2026/08/the-amazon-tax/",
     "title": "The Amazon Tax"
-  },
-  {
-    "source": "hn",
-    "url": "https://pixelcluster.dev/VRAM-Overcommit/",
-    "title": "Linux 7.3 improves performance when running out of vRAM"
   },
   {
     "source": "hn",
@@ -26,8 +16,28 @@
   },
   {
     "source": "hn",
+    "url": "https://status.claude.com/incidents/q7txxvbsftgq",
+    "title": "Degraded performance for multiple models"
+  },
+  {
+    "source": "hn",
+    "url": "https://pixelcluster.dev/VRAM-Overcommit/",
+    "title": "Linux 7.3 improves performance when running out of vRAM"
+  },
+  {
+    "source": "hn",
+    "url": "https://quantum5.ca/2026/08/16/fixing-bricked-amd-7040-series-framework-13-laptop-with-20-tools/",
+    "title": "Fixing a Bricked Framework Laptop"
+  },
+  {
+    "source": "hn",
     "url": "https://opensource.posit.co/resources/cheatsheets/polars/",
     "title": "Python Polars Cheatsheet (based on our O'Reilly book)"
+  },
+  {
+    "source": "hn",
+    "url": "https://machine0.io",
+    "title": "Launch HN: machine0 (YC S26) – Persistent CPU and GPU VMs from the CLI"
   },
   {
     "source": "hn",
@@ -36,13 +46,18 @@
   },
   {
     "source": "hn",
-    "url": "https://www.fairphone.com/nl/stories/the-fairphone-gen-6-is-all-about-giving-you-more",
-    "title": "Fairphone is now officially available in the United States"
+    "url": "https://blog.gnoack.org/post/git-history-split",
+    "title": "Splitting a Git Commit"
   },
   {
     "source": "hn",
-    "url": "https://blog.gnoack.org/post/git-history-split",
-    "title": "Splitting a Git Commit"
+    "url": "https://bond.now/news/superpowers-not-superintelligence",
+    "title": "Superpowers, Not Superintelligence"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.fairphone.com/nl/stories/the-fairphone-gen-6-is-all-about-giving-you-more",
+    "title": "Fairphone is now officially available in the United States"
   },
   {
     "source": "hn",
@@ -61,18 +76,13 @@
   },
   {
     "source": "hn",
-    "url": "https://acadia.engineering/blog/rethinking-database-programming",
-    "title": "Rethinking Database Programming"
-  },
-  {
-    "source": "hn",
     "url": "https://notactuallytreyanastasio.github.io/shoehorn/",
     "title": "Show HN: Shoehorn – Quantize any model down to run on your machine"
   },
   {
     "source": "hn",
-    "url": "https://abstractextraordinary.com/blog/how-muse-glimmer-fits-an-agent-on-your-device/",
-    "title": "Muse Glimmer is a memory hierarchy disguised as a 30B Transformer"
+    "url": "https://ysph.yale.edu/news-article/universal-health-coverage-could-save-one-trillion-dollars-and-114000-lives-every-year/",
+    "title": "Universal health coverage could save $1T and 114k lives a year: study"
   },
   {
     "source": "hn",
@@ -81,18 +91,13 @@
   },
   {
     "source": "hn",
+    "url": "https://acadia.engineering/blog/rethinking-database-programming",
+    "title": "Rethinking Database Programming"
+  },
+  {
+    "source": "hn",
     "url": "https://fabiensanglard.net/quake_shareware_cd/index.html",
     "title": "Quake Shareware, a CD-ROM just a little too full"
-  },
-  {
-    "source": "hn",
-    "url": "https://catcrafts.net/posts/fairphone-6-postmarketos-working-main-camera",
-    "title": "Fairphone 6 and PostmarketOS working main camera"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.worldwidewebsize.com/",
-    "title": "The Size of the World Wide Web"
   },
   {
     "source": "lobsters",
@@ -111,18 +116,23 @@
   },
   {
     "source": "lobsters",
-    "url": "https://danluu.com/benchpocalypse/",
-    "title": "The benchmarkpocalypse"
-  },
-  {
-    "source": "lobsters",
     "url": "https://simonwillison.net/2026/Aug/17/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-tra/",
     "title": "We Tracked a Shipment of Rare Books. It Ended at an Amazon AI Training Facility"
   },
   {
     "source": "lobsters",
+    "url": "https://danluu.com/benchpocalypse/",
+    "title": "The benchmarkpocalypse"
+  },
+  {
+    "source": "lobsters",
     "url": "https://actualbudget.org/",
     "title": "Actual Budget"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://catcrafts.net/posts/fairphone-6-postmarketos-working-main-camera",
+    "title": "Fairphone 6 + PostmarketOS working main camera"
   },
   {
     "source": "lobsters",
@@ -143,11 +153,6 @@
     "source": "lobsters",
     "url": "https://tibleiz.net/blog/2024-02-04-writing-a-fast-compiler.html",
     "title": "Writing a Fast Compiler"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://blog.veritates.love/selective-applicatives-theoretical-basis",
-    "title": "Selective Applicative Functors"
   },
   {
     "source": "pinboard",
