@@ -6,33 +6,13 @@
   },
   {
     "source": "hn",
-    "url": "https://seths.blog/2026/08/the-amazon-tax/",
-    "title": "The Amazon Tax"
-  },
-  {
-    "source": "hn",
-    "url": "https://chriskiehl.com/article/how-i-under-engineered-my-book",
-    "title": "How I Under-Engineered My Book"
-  },
-  {
-    "source": "hn",
-    "url": "https://status.claude.com/incidents/q7txxvbsftgq",
-    "title": "Degraded performance for multiple models"
-  },
-  {
-    "source": "hn",
-    "url": "https://pixelcluster.dev/VRAM-Overcommit/",
-    "title": "Linux 7.3 improves performance when running out of vRAM"
-  },
-  {
-    "source": "hn",
     "url": "https://quantum5.ca/2026/08/16/fixing-bricked-amd-7040-series-framework-13-laptop-with-20-tools/",
-    "title": "Fixing a Bricked Framework Laptop"
+    "title": "Fixing a bricked Framework laptop"
   },
   {
     "source": "hn",
-    "url": "https://opensource.posit.co/resources/cheatsheets/polars/",
-    "title": "Python Polars Cheatsheet (based on our O'Reilly book)"
+    "url": "https://seths.blog/2026/08/the-amazon-tax/",
+    "title": "The Amazon tax"
   },
   {
     "source": "hn",
@@ -41,8 +21,13 @@
   },
   {
     "source": "hn",
-    "url": "https://tau.dev/2026/08/07/canon",
-    "title": "Teaching my kid to code with a modern MUD"
+    "url": "https://pixelcluster.dev/VRAM-Overcommit/",
+    "title": "Linux 7.3 improves performance when running out of vRAM"
+  },
+  {
+    "source": "hn",
+    "url": "https://opensource.posit.co/resources/cheatsheets/polars/",
+    "title": "Python Polars Cheatsheet (based on our O'Reilly book)"
   },
   {
     "source": "hn",
@@ -56,28 +41,13 @@
   },
   {
     "source": "hn",
+    "url": "https://tau.dev/2026/08/07/canon",
+    "title": "Teaching my kid to code with a modern MUD"
+  },
+  {
+    "source": "hn",
     "url": "https://www.fairphone.com/nl/stories/the-fairphone-gen-6-is-all-about-giving-you-more",
     "title": "Fairphone is now officially available in the United States"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.theregister.com/ai-and-ml/2026/08/18/google-buys-crashed-airline-spirits-data-at-auction-because-ai/5288962",
-    "title": "Google has acquired the data of failed US airline Spirit"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.privacyguides.org/news/2026/08/17/meta-files-patent-for-facial-recognition-automatic-recording-of-people/",
-    "title": "Meta Files Patent for Facial Recognition, Automatic Recording of People"
-  },
-  {
-    "source": "hn",
-    "url": "https://timmarinin.net/2026/bluesky-screenshots/",
-    "title": "How Bluesky draws its logo on screenshots"
-  },
-  {
-    "source": "hn",
-    "url": "https://notactuallytreyanastasio.github.io/shoehorn/",
-    "title": "Show HN: Shoehorn – Quantize any model down to run on your machine"
   },
   {
     "source": "hn",
@@ -86,8 +56,18 @@
   },
   {
     "source": "hn",
+    "url": "https://www.theregister.com/ai-and-ml/2026/08/18/google-buys-crashed-airline-spirits-data-at-auction-because-ai/5288962",
+    "title": "Google has acquired the data of failed US airline Spirit"
+  },
+  {
+    "source": "hn",
     "url": "https://grist.org/transportation/californias-new-tire-efficiency-rules-could-save-drivers-1b-a-year/",
     "title": "California's new tire efficiency rules could save drivers $1B a year"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.privacyguides.org/news/2026/08/17/meta-files-patent-for-facial-recognition-automatic-recording-of-people/",
+    "title": "Meta Files Patent for Facial Recognition, Automatic Recording of People"
   },
   {
     "source": "hn",
@@ -96,13 +76,23 @@
   },
   {
     "source": "hn",
-    "url": "https://fabiensanglard.net/quake_shareware_cd/index.html",
-    "title": "Quake Shareware, a CD-ROM just a little too full"
+    "url": "https://www.bloomberg.com/news/articles/2026-08-18/diesel-margins-top-100-a-barrel-to-reach-record-high-as-supply-crunch-grows",
+    "title": "Diesel Margins Top $100 a Barrel to Reach Record High as Supply Crunch Grows"
+  },
+  {
+    "source": "hn",
+    "url": "https://status.claude.com/incidents/q7txxvbsftgq",
+    "title": "Degraded performance for multiple models"
   },
   {
     "source": "lobsters",
     "url": "https://untrusem.party/blog/how-I-browse-the-web-with-Ublock-Hard-Mode.html",
     "title": "How I browse the Web with uBlock (Hard Mode)"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://timmarinin.net/2026/bluesky-screenshots/",
+    "title": "How Bluesky draws its logo on screenshots"
   },
   {
     "source": "lobsters",
@@ -113,6 +103,11 @@
     "source": "lobsters",
     "url": "https://biboumi.codeberg.page/doc/",
     "title": "Biboumi – XMPP gateway to IRC"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://fabiensanglard.net/quake_shareware_cd/index.html",
+    "title": "Quake Shareware, a CD-ROM just a little too full"
   },
   {
     "source": "lobsters",
@@ -151,97 +146,7 @@
   },
   {
     "source": "lobsters",
-    "url": "https://tibleiz.net/blog/2024-02-04-writing-a-fast-compiler.html",
-    "title": "Writing a Fast Compiler"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing",
-    "title": "Daring Fireball: Anthropic’s ‘Watermark’ Text Adulteration in Claude Is a Perversion of Writing"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.404media.co/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-training-facility/",
-    "title": "https://www.404media.co/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-training-facility/"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://craigmod.com/essays/robot_blood/",
-    "title": "A Swarm of Blood Robots — by Craig Mod"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://ordinaryabundance.com/",
-    "title": "Ordinary Abundance"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/",
-    "title": "How Google is Making Private AI Practical with Homomorphic Encryption"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://simonwillison.net/2026/Aug/16/qwen-38-27b/",
-    "title": "Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.404media.co/show-how-3m-is-0-at-fault-expert-witness-used-chatgpt-to-write-report-defending-company-in-deadly-explosion-lawsuit/",
-    "title": "‘Show How 3M Is 0% at Fault:’ Expert Witness Used ChatGPT to Write Report Defending Company in Deadly Explosion Lawsuit"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://reticulum.network/",
-    "title": "Reticulum Network"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.librarian.net/notoai/",
-    "title": "How to disable or avoid intrusive AI – librarian.net"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://gloom.sh/",
-    "title": "Gloomberb"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://blog.j11y.io/2026-08-12_Anthropics-weak-watermarks-appease-a-weak-law/",
-    "title": "Anthropic’s weak watermarks appease a weak law - by James Padolsey"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.cringebot3000.com/",
-    "title": "LinkedIn CringeBot 3000"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://likebutter.app/",
-    "title": "Life without internet made smoother. Get access to tools that help."
-  },
-  {
-    "source": "pinboard",
-    "url": "https://annualreport.gallery/",
-    "title": "Annual Report Archive"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://futurism.com/artificial-intelligence/ai-impact-environment-horrifying-new-paper",
-    "title": "AI's Impact on the Environment Is Absolutely Horrifying, New Paper Finds"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.newyorker.com/news/annals-of-inquiry/gps-and-the-lost-art-of-getting-lost",
-    "title": "GPS and the lost art of getting lost • The New Yorker"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://eigendrum.com/#p=circle",
-    "title": "eigendrum.com"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://sophiebits.com/2026/06/25/there-are-no-lossless-transformations-of-natural-language-text",
-    "title": "There are no lossless transformations of natural-language text – Sophie Alpert"
+    "url": "https://blog.veritates.love/selective-applicatives-theoretical-basis",
+    "title": "Selective Applicative Functors"
   }
 ]
