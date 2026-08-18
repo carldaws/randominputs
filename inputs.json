@@ -11,18 +11,13 @@
   },
   {
     "source": "hn",
-    "url": "https://catcrafts.net/posts/fairphone-6-postmarketos-working-main-camera",
-    "title": "Fairphone 6 and PostmarketOS working main camera"
-  },
-  {
-    "source": "hn",
     "url": "https://duckdb.org/2026/08/17/duckdb-20-highlights",
     "title": "A Preview of DuckDB v2.0"
   },
   {
     "source": "hn",
-    "url": "https://www.githubstatus.com/incidents/zkxwbgr0cnmx",
-    "title": "Incident with Github.com"
+    "url": "https://catcrafts.net/posts/fairphone-6-postmarketos-working-main-camera",
+    "title": "Fairphone 6 and PostmarketOS working main camera"
   },
   {
     "source": "hn",
@@ -36,8 +31,8 @@
   },
   {
     "source": "hn",
-    "url": "https://sunclock.net/",
-    "title": "Sun Clock"
+    "url": "https://www.newyorker.com/culture/photo-booth/the-lonely-men-at-the-end-of-the-world",
+    "title": "Los Puesteros, solitary men who look after ranches and livestock in Patagonia"
   },
   {
     "source": "hn",
@@ -46,33 +41,23 @@
   },
   {
     "source": "hn",
+    "url": "https://sunclock.net/",
+    "title": "Sun Clock"
+  },
+  {
+    "source": "hn",
+    "url": "https://moddedbear.com/an-update-on-leaving-gmail-for-fastmail/",
+    "title": "An update on leaving Gmail for Fastmail"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.repaircafe.org/",
+    "title": "Repair Cafe – Fix Your Broken Items"
+  },
+  {
+    "source": "hn",
     "url": "https://speko.ai/",
     "title": "Launch HN: Speko (YC S26) – OpenRouter for Voice AI"
-  },
-  {
-    "source": "hn",
-    "url": "https://blog.roboflow.com/roboflow-playground/",
-    "title": "Roboflow Playground: Try and Compare 30 Computer Vision Models"
-  },
-  {
-    "source": "hn",
-    "url": "https://inventwithpython.com/blog/intriguing-stories-in-cs.html",
-    "title": "Intriguing stories in computer science"
-  },
-  {
-    "source": "hn",
-    "url": "https://scapplications.com/",
-    "title": "scScript for Linux"
-  },
-  {
-    "source": "hn",
-    "url": "https://engineering.myhoai.com/posts/a-simple-fix-for-llm-tail-latency/",
-    "title": "A simple fix for LLM tail latency"
-  },
-  {
-    "source": "hn",
-    "url": "https://status.cursor.com/incidents/l9h9vrd726jv",
-    "title": "GitHub degradation affects Cursor Origin, its new Git platform"
   },
   {
     "source": "hn",
@@ -81,13 +66,23 @@
   },
   {
     "source": "hn",
-    "url": "https://artificialanalysis.ai/models/qwen3-8-27b",
-    "title": "Qwen3.8 27B scores 52 on Artificial Analysis"
+    "url": "https://status.cursor.com/incidents/l9h9vrd726jv",
+    "title": "GitHub degradation affects Cursor Origin, its new Git platform"
   },
   {
     "source": "hn",
-    "url": "https://signoregalilei.com/2026/08/02/how-to-put-170-atoms-in-an-atom/",
-    "title": "How to put 170 atoms in an atom"
+    "url": "https://engineering.myhoai.com/posts/a-simple-fix-for-llm-tail-latency/",
+    "title": "A simple fix for LLM tail latency"
+  },
+  {
+    "source": "hn",
+    "url": "https://scapplications.com/",
+    "title": "scScript for Linux"
+  },
+  {
+    "source": "hn",
+    "url": "https://blog.roboflow.com/roboflow-playground/",
+    "title": "Roboflow Playground: Try and Compare 30 Computer Vision Models"
   },
   {
     "source": "lobsters",
@@ -126,13 +121,18 @@
   },
   {
     "source": "lobsters",
+    "url": "https://zverok.space/blog/2026-08-16-assertions-and-matchers.html",
+    "title": "Thinking about tests: assertions and matchers"
+  },
+  {
+    "source": "lobsters",
     "url": "https://op.tngl.io/every-fucking-website/",
     "title": "Every Fucking Website"
   },
   {
     "source": "lobsters",
-    "url": "https://zverok.space/blog/2026-08-16-assertions-and-matchers.html",
-    "title": "Thinking about tests: assertions and matchers"
+    "url": "https://simonwillison.net/2026/Aug/17/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-tra/",
+    "title": "We Tracked a Shipment of Rare Books. It Ended at an Amazon AI Training Facility"
   },
   {
     "source": "lobsters",
@@ -146,8 +146,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://simonwillison.net/2026/Aug/17/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-tra/",
-    "title": "We Tracked a Shipment of Rare Books. It Ended at an Amazon AI Training Facility"
+    "url": "https://danluu.com/benchpocalypse/",
+    "title": "The benchmarkpocalypse"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://www.dra27.uk/blog/platform/2025/09/25/building-with-effects.html",
+    "title": "Retrofitting a build system into a compiler"
   },
   {
     "source": "lobsters",
@@ -163,16 +168,6 @@
     "source": "lobsters",
     "url": "https://codemanship.wordpress.com/2026/08/12/ai-software-development-what-does-the-data-say/",
     "title": "AI Software Development – What Does The Data Say?"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://predr.ag/blog/protecting-the-rust-stdlib-from-breakage/",
-    "title": "Protecting the Rust standard library from accidental breakage"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://yogthos.net/posts/2026-08-17-llm-workflow.html",
-    "title": "A practical workflow for LLM-assisted development"
   },
   {
     "source": "pinboard",
