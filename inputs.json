@@ -1,6 +1,11 @@
 [
   {
     "source": "hn",
+    "url": "https://pixelcluster.dev/VRAM-Overcommit/",
+    "title": "Linux 7.3 improves performance when running out of vRAM"
+  },
+  {
+    "source": "hn",
     "url": "https://timmarinin.net/2026/bluesky-screenshots/",
     "title": "How Bluesky draws its logo on screenshots"
   },
@@ -16,13 +21,18 @@
   },
   {
     "source": "hn",
+    "url": "https://duckdb.org/2026/08/17/duckdb-20-highlights",
+    "title": "A Preview of DuckDB v2.0"
+  },
+  {
+    "source": "hn",
     "url": "https://danluu.com/benchpocalypse/",
     "title": "The Benchmarkpocalypse"
   },
   {
     "source": "hn",
-    "url": "https://duckdb.org/2026/08/17/duckdb-20-highlights",
-    "title": "A Preview of DuckDB v2.0"
+    "url": "https://moultano.wordpress.com/2026/08/14/fairly-ranking-the-most-brilliant-birds/",
+    "title": "Ranking the Most Brilliantly Colored Birds with Data"
   },
   {
     "source": "hn",
@@ -31,8 +41,8 @@
   },
   {
     "source": "hn",
-    "url": "https://moddedbear.com/an-update-on-leaving-gmail-for-fastmail/",
-    "title": "An update on leaving Gmail for Fastmail"
+    "url": "https://acadia.engineering/blog/rethinking-database-programming",
+    "title": "Rethinking Database Programming"
   },
   {
     "source": "hn",
@@ -41,13 +51,13 @@
   },
   {
     "source": "hn",
-    "url": "https://irz.fr/en/articles/openclimbing-open-guide-en/",
-    "title": "Climbing Guide as a Shared Infrastructure"
+    "url": "https://moddedbear.com/an-update-on-leaving-gmail-for-fastmail/",
+    "title": "An update on leaving Gmail for Fastmail"
   },
   {
     "source": "hn",
-    "url": "https://moultano.wordpress.com/2026/08/14/fairly-ranking-the-most-brilliant-birds/",
-    "title": "Ranking the Most Brilliantly Colored Birds with Data"
+    "url": "https://irz.fr/en/articles/openclimbing-open-guide-en/",
+    "title": "Climbing Guide as a Shared Infrastructure"
   },
   {
     "source": "hn",
@@ -66,18 +76,8 @@
   },
   {
     "source": "hn",
-    "url": "https://terrytao.wordpress.com/2026/08/12/a-digestion-of-the-proof-of-sendovs-conjecture/",
-    "title": "A digestion of the proof of Sendov's conjecture"
-  },
-  {
-    "source": "hn",
     "url": "https://speko.ai/",
     "title": "Launch HN: Speko (YC S26) – OpenRouter for Voice AI"
-  },
-  {
-    "source": "hn",
-    "url": "https://scapplications.com/",
-    "title": "scScript for Linux"
   },
   {
     "source": "lobsters",
@@ -111,6 +111,11 @@
   },
   {
     "source": "lobsters",
+    "url": "https://biboumi.codeberg.page/doc/",
+    "title": "Biboumi – XMPP gateway to IRC"
+  },
+  {
+    "source": "lobsters",
     "url": "https://simonwillison.net/2026/Aug/17/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-tra/",
     "title": "We Tracked a Shipment of Rare Books. It Ended at an Amazon AI Training Facility"
   },
@@ -118,6 +123,11 @@
     "source": "lobsters",
     "url": "https://simonwillison.net/2026/Aug/16/qwen-38-27b/",
     "title": "Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://yogthos.net/posts/2026-08-17-llm-workflow.html",
+    "title": "A practical workflow for LLM-assisted development"
   },
   {
     "source": "lobsters",
@@ -141,8 +151,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://yogthos.net/posts/2026-08-17-llm-workflow.html",
-    "title": "A practical workflow for LLM-assisted development"
+    "url": "https://www.dra27.uk/blog/platform/2025/09/25/building-with-effects.html",
+    "title": "Retrofitting a build system into a compiler"
   },
   {
     "source": "lobsters",
@@ -151,18 +161,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://biboumi.codeberg.page/doc/",
-    "title": "Biboumi – XMPP gateway to IRC"
-  },
-  {
-    "source": "lobsters",
     "url": "https://www.corsix.org/content/encoding-vcmpps-vcmppd",
     "title": "Encoding vcmpps and vcmppd"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://www.dra27.uk/blog/platform/2025/09/25/building-with-effects.html",
-    "title": "Retrofitting a build system into a compiler"
   },
   {
     "source": "pinboard",
