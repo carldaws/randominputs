@@ -6,8 +6,8 @@
   },
   {
     "source": "hn",
-    "url": "https://yassa9.github.io/osint/gralhix-004/",
-    "title": "Geolocating a random island using geometry and CUDA programming"
+    "url": "https://www.wsbtv.com/news/trending/affidavit-police-officer-used-flock-cameras-track-estranged-wife-717-times/5DVBYU2XTJEVDJR7LPZCBR7M5M/",
+    "title": "Police officer used Flock cameras to track estranged wife 717 times"
   },
   {
     "source": "hn",
@@ -16,13 +16,23 @@
   },
   {
     "source": "hn",
+    "url": "https://yassa9.github.io/osint/gralhix-004/",
+    "title": "Geolocating a random island using geometry and CUDA programming"
+  },
+  {
+    "source": "hn",
     "url": "https://jeremymorrell.dev/blog/extensible-software-in-the-age-of-llms/",
     "title": "Extensible Software in the age of LLMs"
   },
   {
     "source": "hn",
-    "url": "https://openlogi.org/en",
-    "title": "OpenLogi"
+    "url": "https://sprocketfox.io/xssfox/2026/07/01/cricut-unlock/",
+    "title": "Unlocking a locked/deactivated e-waste Cricut Maker"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.amppublic.com/research/openrouter",
+    "title": "You Probably Don't Get Why Stripe Bought OpenRouter"
   },
   {
     "source": "hn",
@@ -31,33 +41,13 @@
   },
   {
     "source": "hn",
-    "url": "https://kolja.rs/algorithm-d/",
-    "title": "A decades-old bug in Knuth's long division (TAOCP Vol II, Algorithm 4.3.1D)"
-  },
-  {
-    "source": "hn",
-    "url": "https://nicholascharriere.com/blog/being-ambitious-and-being-a-dad/",
-    "title": "Being ambitious and being a dad"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.cerebras.ai/cs4",
-    "title": "Cerebras CS-4"
-  },
-  {
-    "source": "hn",
     "url": "https://blog.cloudflare.com/revisiting-spectre-attacks-on-workers/",
     "title": "A revisit of remote Spectre attacks on Cloudflare Workers"
   },
   {
     "source": "hn",
-    "url": "https://phys.org/news/2026-08-forged-meteorites-fashionable-ancient-greek.html",
-    "title": "Rings forged from meteorites may have been fashionable among ancient Greek elite"
-  },
-  {
-    "source": "hn",
-    "url": "https://demo.frugaltokens.com/",
-    "title": "Show HN: Frugal Tokens – explore costs and usage across coding agents"
+    "url": "https://kolja.rs/algorithm-d/",
+    "title": "A decades-old bug in Knuth's long division (TAOCP Vol II, Algorithm 4.3.1D)"
   },
   {
     "source": "lobsters",
@@ -76,6 +66,11 @@
   },
   {
     "source": "lobsters",
+    "url": "https://joecode.com/2026-08-19-sqlite3/",
+    "title": "SQLite for Everything"
+  },
+  {
+    "source": "lobsters",
     "url": "https://blog.joinmastodon.org/2026/08/5.0-laying-the-foundation/",
     "title": "Mastodon 5.0: Laying the foundation"
   },
@@ -91,11 +86,6 @@
   },
   {
     "source": "lobsters",
-    "url": "https://joecode.com/2026-08-19-sqlite3/",
-    "title": "SQLite for Everything"
-  },
-  {
-    "source": "lobsters",
     "url": "https://sporks.space/2026/08/19/things-i-want-in-a-modern-relational-query-language/",
     "title": "Things I want in a modern relational query language"
   },
@@ -103,6 +93,11 @@
     "source": "lobsters",
     "url": "https://kakoune.org/",
     "title": "Kakoune code editor"
+  },
+  {
+    "source": "lobsters",
+    "url": "http://www.extremeprogramming.org/",
+    "title": "Extreme Programming: A Gentle Introduction"
   },
   {
     "source": "lobsters",
@@ -116,17 +111,17 @@
   },
   {
     "source": "lobsters",
-    "url": "https://acadia.engineering/blog/rethinking-database-programming",
-    "title": "Rethinking Database Programming"
-  },
-  {
-    "source": "lobsters",
-    "url": "http://www.extremeprogramming.org/",
-    "title": "Extreme Programming: A Gentle Introduction"
+    "url": "https://blog.ploopy.co/the-aplus-is-finally-here-499",
+    "title": "Ploopy A+ (external trackball)"
   },
   {
     "source": "lobsters",
     "url": "https://odin-lang.org/docs/inline-asm/",
     "title": "Odin's New Inline Assembly Templates"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://acadia.engineering/blog/rethinking-database-programming",
+    "title": "Rethinking Database Programming"
   }
 ]
