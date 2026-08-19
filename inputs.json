@@ -1,6 +1,11 @@
 [
   {
     "source": "hn",
+    "url": "https://yassa9.github.io/osint/gralhix-004/",
+    "title": "Geolocating a random island using geometry and CUDA programming"
+  },
+  {
+    "source": "hn",
     "url": "https://openlogi.org/en",
     "title": "OpenLogi"
   },
@@ -11,13 +16,23 @@
   },
   {
     "source": "hn",
+    "url": "https://phys.org/news/2026-08-forged-meteorites-fashionable-ancient-greek.html",
+    "title": "Rings forged from meteorites may have been fashionable among ancient Greek elite"
+  },
+  {
+    "source": "hn",
     "url": "https://nicholascharriere.com/blog/being-ambitious-and-being-a-dad/",
     "title": "Being ambitious and being a dad"
   },
   {
     "source": "hn",
-    "url": "https://phys.org/news/2026-08-forged-meteorites-fashionable-ancient-greek.html",
-    "title": "Rings forged from meteorites may have been fashionable among ancient Greek elite"
+    "url": "https://sprocketfox.io/xssfox/2026/08/19/sondehub-and-war/",
+    "title": "A joke domain purchase turned in geopolitical warfare"
+  },
+  {
+    "source": "hn",
+    "url": "https://kolja.rs/algorithm-d/",
+    "title": "A decades-old bug in Knuth's long division (TAOCP Vol II, Algorithm 4.3.1D)"
   },
   {
     "source": "hn",
@@ -45,24 +60,14 @@
     "title": "The Amazon tax"
   },
   {
-    "source": "hn",
-    "url": "https://herecomesthemoon.net/2024/11/two-factions-of-cpp/",
-    "title": "The Two Factions of C++ (2024)"
-  },
-  {
-    "source": "hn",
-    "url": "https://blog.regehr.org/archives/2124",
-    "title": "Looking for Missed Alarm Bugs in a Formal Verification Tool"
-  },
-  {
-    "source": "hn",
-    "url": "https://leimao.github.io/blog/CUDA-Shared-Memory-Swizzling/",
-    "title": "CUDA Shared Memory Swizzling"
-  },
-  {
     "source": "lobsters",
     "url": "https://tipiirai.com/writing/bun-rust-rewrite-worries",
     "title": "Bun 1.4 Rust rewrite is not looking good"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://chrisburnell.com/html-can-do-that/",
+    "title": "HTML Can Do That"
   },
   {
     "source": "lobsters",
@@ -76,13 +81,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://chrisburnell.com/html-can-do-that/",
-    "title": "HTML Can Do That"
+    "url": "https://kakoune.org/",
+    "title": "Kakoune code editor"
   },
   {
     "source": "lobsters",
-    "url": "https://kakoune.org/",
-    "title": "Kakoune code editor"
+    "url": "https://daniel.haxx.se/blog/2024/08/19/a-filename-when-none-exists/",
+    "title": "a filename when none exists"
   },
   {
     "source": "lobsters",
@@ -96,18 +101,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://daniel.haxx.se/blog/2024/08/19/a-filename-when-none-exists/",
-    "title": "a filename when none exists"
-  },
-  {
-    "source": "lobsters",
     "url": "https://odin-lang.org/docs/inline-asm/",
     "title": "Odin's New Inline Assembly Templates"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://philo.gay/linecam/",
-    "title": "Using the railway network as a flatbed scanner"
   },
   {
     "source": "lobsters",
@@ -121,13 +116,23 @@
   },
   {
     "source": "lobsters",
+    "url": "https://philo.gay/linecam/",
+    "title": "Using the railway network as a flatbed scanner"
+  },
+  {
+    "source": "lobsters",
     "url": "https://timmarinin.net/2026/bluesky-screenshots/",
     "title": "How Bluesky draws its logo on screenshots"
   },
   {
     "source": "lobsters",
-    "url": "https://www.githubstatus.com/incidents/zkxwbgr0cnmx",
-    "title": "Incident Report for GitHub outage on 2026-08-17"
+    "url": "https://www.jvt.me/posts/2026/08/17/hand-write-commits/",
+    "title": "Why I still hand write my commit messages"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://decuser.github.io/posts/aiki-alpha-2-release/",
+    "title": "Aiki Alpha 2 Released"
   },
   {
     "source": "lobsters",
@@ -136,12 +141,12 @@
   },
   {
     "source": "lobsters",
-    "url": "https://nanochess.org/am29000_c_compiler_web_browser.html",
-    "title": "How I developed an Am29000 C compiler and web browser"
+    "url": "https://www.githubstatus.com/incidents/zkxwbgr0cnmx",
+    "title": "Incident Report for GitHub outage on 2026-08-17"
   },
   {
     "source": "lobsters",
-    "url": "https://lalitm.com/post/github-alternatives/",
-    "title": "GitHub has alternatives, but no replacement"
+    "url": "https://nanochess.org/am29000_c_compiler_web_browser.html",
+    "title": "How I developed an Am29000 C compiler and web browser"
   }
 ]
