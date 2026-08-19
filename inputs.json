@@ -11,8 +11,8 @@
   },
   {
     "source": "hn",
-    "url": "https://www.casio.com/uk/watches/casio/product.F-B100W-1A/",
-    "title": "New Casio F-B100W – Upgrade to the iconic F-91W after 40 years"
+    "url": "https://ornith.ai/ornith_1_5.html",
+    "title": "Ornith-1.5: From Self-Scaffolding to Self-Improvement"
   },
   {
     "source": "hn",
@@ -21,8 +21,18 @@
   },
   {
     "source": "hn",
+    "url": "https://jeremymorrell.dev/blog/extensible-software-in-the-age-of-llms/",
+    "title": "Extensible Software in the Age of LLMs"
+  },
+  {
+    "source": "hn",
     "url": "https://www.raphaelbauer.com:443/posts/postgresql-everything/",
     "title": "PostgreSQL for Everything"
+  },
+  {
+    "source": "hn",
+    "url": "https://kolja.rs/algorithm-d/",
+    "title": "A decades-old bug in Knuth's long division (TAOCP Vol II, Algorithm 4.3.1D)"
   },
   {
     "source": "hn",
@@ -36,18 +46,18 @@
   },
   {
     "source": "hn",
-    "url": "https://kolja.rs/algorithm-d/",
-    "title": "A decades-old bug in Knuth's long division (TAOCP Vol II, Algorithm 4.3.1D)"
-  },
-  {
-    "source": "hn",
-    "url": "https://ornith.ai/ornith_1_5.html",
-    "title": "Ornith-1.5: From Self-Scaffolding to Self-Improvement"
-  },
-  {
-    "source": "hn",
     "url": "https://nicholascharriere.com/blog/being-ambitious-and-being-a-dad/",
     "title": "Being ambitious and being a dad"
+  },
+  {
+    "source": "hn",
+    "url": "https://mrandri19.github.io/2026/07/19/drone-racing-with-reinforcement-learning.html",
+    "title": "A recipe for drone racing with reinforcement learning"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.casio.com/uk/watches/casio/product.F-B100W-1A/",
+    "title": "New Casio F-B100W – Upgrade to the iconic F-91W after 40 years"
   },
   {
     "source": "hn",
@@ -58,11 +68,6 @@
     "source": "hn",
     "url": "https://www.ikea.com/se/en/customer-service/knowledge/articles/6f564c4d-2ccc-46de-b643-545a3948dc79.html",
     "title": "How does IKEA come up with names for its products?"
-  },
-  {
-    "source": "hn",
-    "url": "https://seths.blog/2026/08/the-amazon-tax/",
-    "title": "The Amazon tax"
   },
   {
     "source": "lobsters",
@@ -76,13 +81,18 @@
   },
   {
     "source": "lobsters",
-    "url": "https://untrusem.party/blog/how-I-browse-the-web-with-Ublock-Hard-Mode.html",
-    "title": "How I browse the Web with uBlock (Hard Mode)"
+    "url": "https://www.jvt.me/posts/2026/08/17/hand-write-commits/",
+    "title": "Why I still hand write my commit messages"
   },
   {
     "source": "lobsters",
     "url": "https://daniel.haxx.se/blog/2024/08/19/a-filename-when-none-exists/",
     "title": "a filename when none exists"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://untrusem.party/blog/how-I-browse-the-web-with-Ublock-Hard-Mode.html",
+    "title": "How I browse the Web with uBlock (Hard Mode)"
   },
   {
     "source": "lobsters",
@@ -93,11 +103,6 @@
     "source": "lobsters",
     "url": "https://kakoune.org/",
     "title": "Kakoune code editor"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://www.jvt.me/posts/2026/08/17/hand-write-commits/",
-    "title": "Why I still hand write my commit messages"
   },
   {
     "source": "lobsters",
@@ -121,6 +126,16 @@
   },
   {
     "source": "lobsters",
+    "url": "http://www.extremeprogramming.org/",
+    "title": "Extreme Programming: A Gentle Introduction"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://joecode.com/2026-08-19-sqlite3/",
+    "title": "SQLite for Everything"
+  },
+  {
+    "source": "lobsters",
     "url": "https://philo.gay/linecam/",
     "title": "Using the railway network as a flatbed scanner"
   },
@@ -128,20 +143,5 @@
     "source": "lobsters",
     "url": "https://timmarinin.net/2026/bluesky-screenshots/",
     "title": "How Bluesky draws its logo on screenshots"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://sethmlarson.dev/when-str-lower-is-a-security-vulnerability",
-    "title": "When str.lower() is a security vulnerability in Python"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://www.bahjeez.com/the-great-microsd-card-survey/",
-    "title": "On the Capacity, Performance, and Reliability of microSD Cards"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://www.githubstatus.com/incidents/zkxwbgr0cnmx",
-    "title": "Incident Report for GitHub outage on 2026-08-17"
   }
 ]
