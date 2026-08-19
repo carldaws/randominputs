@@ -1,18 +1,8 @@
 [
   {
     "source": "hn",
-    "url": "https://nicholascharriere.com/blog/being-ambitious-and-being-a-dad/",
-    "title": "Being ambitious and being a dad"
-  },
-  {
-    "source": "hn",
     "url": "https://seths.blog/2026/08/the-amazon-tax/",
     "title": "The Amazon tax"
-  },
-  {
-    "source": "hn",
-    "url": "https://artificialanalysis.ai/models/glm-5-3",
-    "title": "GLM-5.3 Artificial Analysis Benchmarks"
   },
   {
     "source": "hn",
@@ -21,23 +11,8 @@
   },
   {
     "source": "hn",
-    "url": "https://fx.sh",
-    "title": "fx :Tiny, open, native coding agent."
-  },
-  {
-    "source": "hn",
-    "url": "https://whoownsthecode.com/",
-    "title": "Who owns the code? AI code == no author == no copyright"
-  },
-  {
-    "source": "hn",
-    "url": "https://cdn.kuber.studio/chat/hp-laser-1008a-driver",
-    "title": "Claude Code Teaching macOS to Natively Print to the HP Laser 1008a"
-  },
-  {
-    "source": "hn",
-    "url": "https://about.iceland.co.uk/our-story/the-dark-ages/beware-management-consultants/",
-    "title": "Beware Management Consultants"
+    "url": "https://nicholascharriere.com/blog/being-ambitious-and-being-a-dad/",
+    "title": "Being ambitious and being a dad"
   },
   {
     "source": "hn",
@@ -46,8 +21,23 @@
   },
   {
     "source": "hn",
+    "url": "https://about.iceland.co.uk/our-story/the-dark-ages/beware-management-consultants/",
+    "title": "Beware Management Consultants"
+  },
+  {
+    "source": "hn",
     "url": "https://quantum5.ca/2026/08/16/fixing-bricked-amd-7040-series-framework-13-laptop-with-20-tools/",
     "title": "Fixing a bricked Framework laptop"
+  },
+  {
+    "source": "hn",
+    "url": "https://cdn.kuber.studio/chat/hp-laser-1008a-driver",
+    "title": "Claude Code Teaching macOS to Natively Print to the HP Laser 1008a"
+  },
+  {
+    "source": "hn",
+    "url": "https://artificialanalysis.ai/models/glm-5-3",
+    "title": "GLM-5.3 Artificial Analysis Benchmarks"
   },
   {
     "source": "hn",
@@ -56,18 +46,23 @@
   },
   {
     "source": "hn",
-    "url": "https://pixelcluster.dev/VRAM-Overcommit/",
-    "title": "Linux 7.3 improves performance when running out of vRAM"
+    "url": "https://lucasamoudruz.com/blog/red-blood-cells.html",
+    "title": "Simulated red blood cells and microscopy"
+  },
+  {
+    "source": "hn",
+    "url": "https://betakit.com/how-a-giant-battery-is-transforming-a-town-centre-in-cannington-ontario/",
+    "title": "How a giant battery is transforming a town centre in Cannington, Ontario"
+  },
+  {
+    "source": "hn",
+    "url": "https://ysph.yale.edu/news-article/universal-health-coverage-could-save-one-trillion-dollars-and-114000-lives-every-year/",
+    "title": "Universal health coverage could save $1T and 114k lives a year: study"
   },
   {
     "source": "hn",
     "url": "https://pmotschmann.github.io/Evolve/",
     "title": "Evolve: An incremental game about evolving a civilization"
-  },
-  {
-    "source": "hn",
-    "url": "https://a-hidden-infrastructure.spun.earth/map",
-    "title": "Mycorrhizal Infrastructure Map"
   },
   {
     "source": "hn",
@@ -111,13 +106,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://biboumi.codeberg.page/doc/",
-    "title": "Biboumi – XMPP gateway to IRC"
+    "url": "https://blog.joinmastodon.org/2026/08/5.0-laying-the-foundation/",
+    "title": "Mastodon 5.0: Laying the foundation"
   },
   {
     "source": "lobsters",
-    "url": "https://simonwillison.net/2026/Aug/17/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-tra/",
-    "title": "We Tracked a Shipment of Rare Books. It Ended at an Amazon AI Training Facility"
+    "url": "https://biboumi.codeberg.page/doc/",
+    "title": "Biboumi – XMPP gateway to IRC"
   },
   {
     "source": "lobsters",
@@ -126,8 +121,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://fabiensanglard.net/quake_shareware_cd/index.html",
-    "title": "Quake Shareware, a CD-ROM just a little too full"
+    "url": "https://simonwillison.net/2026/Aug/17/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-tra/",
+    "title": "We Tracked a Shipment of Rare Books. It Ended at an Amazon AI Training Facility"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://odin-lang.org/docs/inline-asm/",
+    "title": "Odin's New Inline Assembly Templates"
   },
   {
     "source": "lobsters",
@@ -136,13 +136,18 @@
   },
   {
     "source": "lobsters",
-    "url": "https://danluu.com/benchpocalypse/",
-    "title": "The benchmarkpocalypse"
+    "url": "https://fabiensanglard.net/quake_shareware_cd/index.html",
+    "title": "Quake Shareware, a CD-ROM just a little too full"
   },
   {
     "source": "lobsters",
-    "url": "https://odin-lang.org/docs/inline-asm/",
-    "title": "Odin's New Inline Assembly Templates"
+    "url": "https://sethmlarson.dev/when-str-lower-is-a-security-vulnerability",
+    "title": "When str.lower() is a security vulnerability in Python"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://danluu.com/benchpocalypse/",
+    "title": "The benchmarkpocalypse"
   },
   {
     "source": "lobsters",
@@ -155,13 +160,93 @@
     "title": "Hyper-Customized One-Off Software for Cheap"
   },
   {
-    "source": "lobsters",
-    "url": "https://duckdb.org/2026/08/17/duckdb-20-highlights.html",
-    "title": "A Preview of DuckDB v2.0"
+    "source": "pinboard",
+    "url": "https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing",
+    "title": "Daring Fireball: Anthropic’s ‘Watermark’ Text Adulteration in Claude Is a Perversion of Writing"
   },
   {
-    "source": "lobsters",
-    "url": "https://blog.veritates.love/selective-applicatives-theoretical-basis",
-    "title": "Selective Applicative Functors"
+    "source": "pinboard",
+    "url": "https://www.404media.co/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-training-facility/",
+    "title": "https://www.404media.co/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-training-facility/"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://craigmod.com/essays/robot_blood/",
+    "title": "A Swarm of Blood Robots — by Craig Mod"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://ordinaryabundance.com/",
+    "title": "Ordinary Abundance"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/",
+    "title": "How Google is Making Private AI Practical with Homomorphic Encryption"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://simonwillison.net/2026/Aug/16/qwen-38-27b/",
+    "title": "Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.404media.co/show-how-3m-is-0-at-fault-expert-witness-used-chatgpt-to-write-report-defending-company-in-deadly-explosion-lawsuit/",
+    "title": "‘Show How 3M Is 0% at Fault:’ Expert Witness Used ChatGPT to Write Report Defending Company in Deadly Explosion Lawsuit"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://reticulum.network/",
+    "title": "Reticulum Network"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.librarian.net/notoai/",
+    "title": "How to disable or avoid intrusive AI – librarian.net"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://gloom.sh/",
+    "title": "Gloomberb"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://blog.j11y.io/2026-08-12_Anthropics-weak-watermarks-appease-a-weak-law/",
+    "title": "Anthropic’s weak watermarks appease a weak law - by James Padolsey"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.cringebot3000.com/",
+    "title": "LinkedIn CringeBot 3000"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://likebutter.app/",
+    "title": "Life without internet made smoother. Get access to tools that help."
+  },
+  {
+    "source": "pinboard",
+    "url": "https://annualreport.gallery/",
+    "title": "Annual Report Archive"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://futurism.com/artificial-intelligence/ai-impact-environment-horrifying-new-paper",
+    "title": "AI's Impact on the Environment Is Absolutely Horrifying, New Paper Finds"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.newyorker.com/news/annals-of-inquiry/gps-and-the-lost-art-of-getting-lost",
+    "title": "GPS and the lost art of getting lost • The New Yorker"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://eigendrum.com/#p=circle",
+    "title": "eigendrum.com"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://sophiebits.com/2026/06/25/there-are-no-lossless-transformations-of-natural-language-text",
+    "title": "There are no lossless transformations of natural-language text – Sophie Alpert"
   }
 ]
