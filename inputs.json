@@ -11,18 +11,13 @@
   },
   {
     "source": "hn",
-    "url": "https://herecomesthemoon.net/2024/11/two-factions-of-cpp/",
-    "title": "The Two Factions of C++ (2024)"
+    "url": "https://nicholascharriere.com/blog/being-ambitious-and-being-a-dad/",
+    "title": "Being ambitious and being a dad"
   },
   {
     "source": "hn",
     "url": "https://phys.org/news/2026-08-forged-meteorites-fashionable-ancient-greek.html",
     "title": "Rings forged from meteorites may have been fashionable among ancient Greek elite"
-  },
-  {
-    "source": "hn",
-    "url": "https://nicholascharriere.com/blog/being-ambitious-and-being-a-dad/",
-    "title": "Being ambitious and being a dad"
   },
   {
     "source": "hn",
@@ -36,6 +31,11 @@
   },
   {
     "source": "hn",
+    "url": "https://leo98ml.github.io/win-v/",
+    "title": "Win-V combo from Windows on Ubuntu"
+  },
+  {
+    "source": "hn",
     "url": "https://www.koh-antique.com/client/tangwreck/tangwreck.html",
     "title": "The Vietnam Binh Chau (Chau Tan) Late Tang Wreck"
   },
@@ -46,18 +46,18 @@
   },
   {
     "source": "hn",
-    "url": "https://nautil.us/where-human-sleep-went-wrong-1283797",
-    "title": "Where Human Sleep Went Wrong"
-  },
-  {
-    "source": "hn",
-    "url": "https://leimao.github.io/blog/CUDA-Shared-Memory-Swizzling/",
-    "title": "CUDA Shared Memory Swizzling"
+    "url": "https://herecomesthemoon.net/2024/11/two-factions-of-cpp/",
+    "title": "The Two Factions of C++ (2024)"
   },
   {
     "source": "hn",
     "url": "https://blog.regehr.org/archives/2124",
     "title": "Looking for Missed Alarm Bugs in a Formal Verification Tool"
+  },
+  {
+    "source": "hn",
+    "url": "https://leimao.github.io/blog/CUDA-Shared-Memory-Swizzling/",
+    "title": "CUDA Shared Memory Swizzling"
   },
   {
     "source": "lobsters",
@@ -66,13 +66,18 @@
   },
   {
     "source": "lobsters",
+    "url": "https://blog.joinmastodon.org/2026/08/5.0-laying-the-foundation/",
+    "title": "Mastodon 5.0: Laying the foundation"
+  },
+  {
+    "source": "lobsters",
     "url": "https://untrusem.party/blog/how-I-browse-the-web-with-Ublock-Hard-Mode.html",
     "title": "How I browse the Web with uBlock (Hard Mode)"
   },
   {
     "source": "lobsters",
-    "url": "https://blog.joinmastodon.org/2026/08/5.0-laying-the-foundation/",
-    "title": "Mastodon 5.0: Laying the foundation"
+    "url": "https://chrisburnell.com/html-can-do-that/",
+    "title": "HTML Can Do That"
   },
   {
     "source": "lobsters",
@@ -96,18 +101,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://philo.gay/linecam/",
-    "title": "Using the railway network as a flatbed scanner"
-  },
-  {
-    "source": "lobsters",
     "url": "https://odin-lang.org/docs/inline-asm/",
     "title": "Odin's New Inline Assembly Templates"
   },
   {
     "source": "lobsters",
-    "url": "https://timmarinin.net/2026/bluesky-screenshots/",
-    "title": "How Bluesky draws its logo on screenshots"
+    "url": "https://philo.gay/linecam/",
+    "title": "Using the railway network as a flatbed scanner"
   },
   {
     "source": "lobsters",
@@ -116,13 +116,18 @@
   },
   {
     "source": "lobsters",
-    "url": "https://www.githubstatus.com/incidents/zkxwbgr0cnmx",
-    "title": "Incident Report for GitHub outage on 2026-08-17"
+    "url": "https://justingarrison.com/blog/2024-02-08-fargate-is-not-firecracker/",
+    "title": "Fargate Is Not Firecracker (2024)"
   },
   {
     "source": "lobsters",
-    "url": "https://chrisburnell.com/html-can-do-that/",
-    "title": "HTML Can Do That"
+    "url": "https://timmarinin.net/2026/bluesky-screenshots/",
+    "title": "How Bluesky draws its logo on screenshots"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://www.githubstatus.com/incidents/zkxwbgr0cnmx",
+    "title": "Incident Report for GitHub outage on 2026-08-17"
   },
   {
     "source": "lobsters",
@@ -138,10 +143,5 @@
     "source": "lobsters",
     "url": "https://lalitm.com/post/github-alternatives/",
     "title": "GitHub has alternatives, but no replacement"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://justingarrison.com/blog/2024-02-08-fargate-is-not-firecracker/",
-    "title": "Fargate Is Not Firecracker (2024)"
   }
 ]
