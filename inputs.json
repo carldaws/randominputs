@@ -11,13 +11,18 @@
   },
   {
     "source": "hn",
-    "url": "https://pennypresses.net/home/map.php",
-    "title": "Pressed Penny Machine Map"
+    "url": "https://inco.ai/blog/dflash2/",
+    "title": "DFlash 2: Keep Drafting Parallel"
   },
   {
     "source": "hn",
     "url": "https://www.casio.com/uk/watches/casio/product.F-B100W-1A/",
     "title": "Casio F-B100W-1A"
+  },
+  {
+    "source": "hn",
+    "url": "https://pennypresses.net/home/map.php",
+    "title": "Pressed Penny Machine Map"
   },
   {
     "source": "hn",
@@ -32,7 +37,7 @@
   {
     "source": "hn",
     "url": "https://ludens.cl/Electron/geiger2/geiger2.html",
-    "title": "A portable, sensitive, low power, analog Geiger counter"
+    "title": "A portable, sensitive, low power, analog Geiger counter (2025)"
   },
   {
     "source": "hn",
@@ -41,28 +46,23 @@
   },
   {
     "source": "hn",
-    "url": "https://lists.x.org/archives/xorg/2026-August/062280.html",
-    "title": "XWayland 26.1-rc1 Released Two Years After the Last Release"
-  },
-  {
-    "source": "hn",
     "url": "https://fx.sh",
     "title": "fx :Tiny, open, native coding agent."
   },
   {
     "source": "hn",
-    "url": "https://dogdogfish.com/blog/2026/08/19/digital-immortality/",
-    "title": "Digital Immortality"
-  },
-  {
-    "source": "hn",
-    "url": "https://inco.ai/blog/dflash2/",
-    "title": "DFlash 2: Keep Drafting Parallel"
-  },
-  {
-    "source": "hn",
     "url": "https://www.raphaelbauer.com:443/posts/postgresql-everything/",
     "title": "PostgreSQL for Everything"
+  },
+  {
+    "source": "hn",
+    "url": "https://davidsmaynard.com/blog/keyset",
+    "title": "IDE Nostalgia (2022)"
+  },
+  {
+    "source": "hn",
+    "url": "https://lists.x.org/archives/xorg/2026-August/062280.html",
+    "title": "Xwayland 26.1.0 rc1"
   },
   {
     "source": "lobsters",
@@ -116,13 +116,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://kakoune.org/",
-    "title": "Kakoune code editor"
+    "url": "http://www.extremeprogramming.org/",
+    "title": "Extreme Programming: A Gentle Introduction"
   },
   {
     "source": "lobsters",
-    "url": "http://www.extremeprogramming.org/",
-    "title": "Extreme Programming: A Gentle Introduction"
+    "url": "https://kakoune.org/",
+    "title": "Kakoune code editor"
   },
   {
     "source": "lobsters",
@@ -136,7 +136,12 @@
   },
   {
     "source": "lobsters",
-    "url": "https://odin-lang.org/docs/inline-asm/",
-    "title": "Odin's New Inline Assembly Templates"
+    "url": "https://nishantjosh.dev/blogs/reclaim-the-terminal/",
+    "title": "Reclaim the terminal"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://kernelkennel.com/blog/summercon2026-rosetta/",
+    "title": "Packing Malware in Rosetta 2"
   }
 ]
