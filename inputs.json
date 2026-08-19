@@ -1,8 +1,18 @@
 [
   {
     "source": "hn",
+    "url": "https://www.raphaelbauer.com:443/posts/postgresql-everything/",
+    "title": "PostgreSQL for Everything"
+  },
+  {
+    "source": "hn",
     "url": "https://yassa9.github.io/osint/gralhix-004/",
     "title": "Geolocating a random island using geometry and CUDA programming"
+  },
+  {
+    "source": "hn",
+    "url": "https://sprocketfox.io/xssfox/2026/08/19/sondehub-and-war/",
+    "title": "A joke domain purchase turned in geopolitical warfare"
   },
   {
     "source": "hn",
@@ -23,11 +33,6 @@
     "source": "hn",
     "url": "https://nicholascharriere.com/blog/being-ambitious-and-being-a-dad/",
     "title": "Being ambitious and being a dad"
-  },
-  {
-    "source": "hn",
-    "url": "https://sprocketfox.io/xssfox/2026/08/19/sondehub-and-war/",
-    "title": "A joke domain purchase turned in geopolitical warfare"
   },
   {
     "source": "hn",
@@ -61,11 +66,6 @@
   },
   {
     "source": "lobsters",
-    "url": "https://tipiirai.com/writing/bun-rust-rewrite-worries",
-    "title": "Bun 1.4 Rust rewrite is not looking good"
-  },
-  {
-    "source": "lobsters",
     "url": "https://chrisburnell.com/html-can-do-that/",
     "title": "HTML Can Do That"
   },
@@ -81,13 +81,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://kakoune.org/",
-    "title": "Kakoune code editor"
+    "url": "https://daniel.haxx.se/blog/2024/08/19/a-filename-when-none-exists/",
+    "title": "a filename when none exists"
   },
   {
     "source": "lobsters",
-    "url": "https://daniel.haxx.se/blog/2024/08/19/a-filename-when-none-exists/",
-    "title": "a filename when none exists"
+    "url": "https://kakoune.org/",
+    "title": "Kakoune code editor"
   },
   {
     "source": "lobsters",
@@ -96,23 +96,23 @@
   },
   {
     "source": "lobsters",
-    "url": "https://acadia.engineering/blog/rethinking-database-programming",
-    "title": "Rethinking Database Programming"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://odin-lang.org/docs/inline-asm/",
-    "title": "Odin's New Inline Assembly Templates"
-  },
-  {
-    "source": "lobsters",
     "url": "https://sporks.space/2026/08/19/things-i-want-in-a-modern-relational-query-language/",
     "title": "Things I want in a modern relational query language"
   },
   {
     "source": "lobsters",
+    "url": "https://acadia.engineering/blog/rethinking-database-programming",
+    "title": "Rethinking Database Programming"
+  },
+  {
+    "source": "lobsters",
     "url": "https://justingarrison.com/blog/2024-02-08-fargate-is-not-firecracker/",
     "title": "Fargate Is Not Firecracker (2024)"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://odin-lang.org/docs/inline-asm/",
+    "title": "Odin's New Inline Assembly Templates"
   },
   {
     "source": "lobsters",
@@ -123,6 +123,11 @@
     "source": "lobsters",
     "url": "https://timmarinin.net/2026/bluesky-screenshots/",
     "title": "How Bluesky draws its logo on screenshots"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://www.githubstatus.com/incidents/zkxwbgr0cnmx",
+    "title": "Incident Report for GitHub outage on 2026-08-17"
   },
   {
     "source": "lobsters",
@@ -141,12 +146,12 @@
   },
   {
     "source": "lobsters",
-    "url": "https://www.githubstatus.com/incidents/zkxwbgr0cnmx",
-    "title": "Incident Report for GitHub outage on 2026-08-17"
+    "url": "https://nanochess.org/am29000_c_compiler_web_browser.html",
+    "title": "How I developed an Am29000 C compiler and web browser"
   },
   {
     "source": "lobsters",
-    "url": "https://nanochess.org/am29000_c_compiler_web_browser.html",
-    "title": "How I developed an Am29000 C compiler and web browser"
+    "url": "https://vivianvoss.net/blog/copy-that-lies",
+    "title": "The Data Copy That Lies"
   }
 ]
