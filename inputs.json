@@ -6,6 +6,11 @@
   },
   {
     "source": "hn",
+    "url": "https://nautil.us/where-human-sleep-went-wrong-1283797",
+    "title": "Where Human Sleep Went Wrong"
+  },
+  {
+    "source": "hn",
     "url": "https://www.cerebras.ai/cs4",
     "title": "Cerebras CS-4"
   },
@@ -16,8 +21,23 @@
   },
   {
     "source": "hn",
+    "url": "https://nicholascharriere.com/blog/being-ambitious-and-being-a-dad/",
+    "title": "Being ambitious and being a dad"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.koh-antique.com/client/tangwreck/tangwreck.html",
+    "title": "The Vietnam Binh Chau (Chau Tan) Late Tang Wreck"
+  },
+  {
+    "source": "hn",
     "url": "https://www.ikea.com/se/en/customer-service/knowledge/articles/6f564c4d-2ccc-46de-b643-545a3948dc79.html",
     "title": "How does IKEA come up with names for its products?"
+  },
+  {
+    "source": "hn",
+    "url": "https://berd.xyz",
+    "title": "Berd"
   },
   {
     "source": "hn",
@@ -35,21 +55,6 @@
     "title": "The Amazon tax"
   },
   {
-    "source": "hn",
-    "url": "https://ysph.yale.edu/news-article/universal-health-coverage-could-save-one-trillion-dollars-and-114000-lives-every-year/",
-    "title": "Universal health coverage could save $1T and 114k lives a year: study"
-  },
-  {
-    "source": "hn",
-    "url": "https://nicholascharriere.com/blog/being-ambitious-and-being-a-dad/",
-    "title": "Being ambitious and being a dad"
-  },
-  {
-    "source": "hn",
-    "url": "https://lithub.com/on-that-disgraceful-disreputable-wonderful-form-of-punctuation-the-parenthesis/",
-    "title": "That Disgraceful, Disreputable, (Wonderful) Form of Punctuation: The Parenthesis"
-  },
-  {
     "source": "lobsters",
     "url": "https://untrusem.party/blog/how-I-browse-the-web-with-Ublock-Hard-Mode.html",
     "title": "How I browse the Web with uBlock (Hard Mode)"
@@ -61,23 +66,23 @@
   },
   {
     "source": "lobsters",
-    "url": "https://acadia.engineering/blog/rethinking-database-programming",
-    "title": "Rethinking Database Programming"
-  },
-  {
-    "source": "lobsters",
     "url": "https://blog.joinmastodon.org/2026/08/5.0-laying-the-foundation/",
     "title": "Mastodon 5.0: Laying the foundation"
   },
   {
     "source": "lobsters",
-    "url": "https://quantum5.ca/2026/08/16/fixing-bricked-amd-7040-series-framework-13-laptop-with-20-tools/",
-    "title": "Fixing a bricked AMD 7040 series Framework 13” laptop with $20 tools"
+    "url": "https://tipiirai.com/writing/bun-rust-rewrite-worries",
+    "title": "Bun 1.4 Rust rewrite is not looking good"
   },
   {
     "source": "lobsters",
-    "url": "https://tipiirai.com/writing/bun-rust-rewrite-worries",
-    "title": "Bun 1.4 Rust rewrite is not looking good"
+    "url": "https://acadia.engineering/blog/rethinking-database-programming",
+    "title": "Rethinking Database Programming"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://quantum5.ca/2026/08/16/fixing-bricked-amd-7040-series-framework-13-laptop-with-20-tools/",
+    "title": "Fixing a bricked AMD 7040 series Framework 13” laptop with $20 tools"
   },
   {
     "source": "lobsters",
@@ -91,13 +96,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://sporks.space/2026/08/19/things-i-want-in-a-modern-relational-query-language/",
-    "title": "Things I want in a modern relational query language"
+    "url": "https://odin-lang.org/docs/inline-asm/",
+    "title": "Odin's New Inline Assembly Templates"
   },
   {
     "source": "lobsters",
-    "url": "https://odin-lang.org/docs/inline-asm/",
-    "title": "Odin's New Inline Assembly Templates"
+    "url": "https://sporks.space/2026/08/19/things-i-want-in-a-modern-relational-query-language/",
+    "title": "Things I want in a modern relational query language"
   },
   {
     "source": "lobsters",
@@ -106,13 +111,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://nanochess.org/am29000_c_compiler_web_browser.html",
-    "title": "How I developed an Am29000 C compiler and web browser"
+    "url": "https://www.githubstatus.com/incidents/zkxwbgr0cnmx",
+    "title": "Incident Report for GitHub outage on 2026-08-17"
   },
   {
     "source": "lobsters",
-    "url": "https://www.githubstatus.com/incidents/zkxwbgr0cnmx",
-    "title": "Incident Report for GitHub outage on 2026-08-17"
+    "url": "https://nanochess.org/am29000_c_compiler_web_browser.html",
+    "title": "How I developed an Am29000 C compiler and web browser"
   },
   {
     "source": "lobsters",
@@ -126,6 +131,11 @@
   },
   {
     "source": "lobsters",
+    "url": "https://daniel.haxx.se/blog/2024/08/19/a-filename-when-none-exists/",
+    "title": "a filename when none exists"
+  },
+  {
+    "source": "lobsters",
     "url": "https://biboumi.codeberg.page/doc/",
     "title": "Biboumi – XMPP gateway to IRC"
   },
@@ -133,90 +143,5 @@
     "source": "lobsters",
     "url": "https://justingarrison.com/blog/2024-02-08-fargate-is-not-firecracker/",
     "title": "Fargate Is Not Firecracker (2024)"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://catcrafts.net/posts/fairphone-6-postmarketos-working-main-camera",
-    "title": "Fairphone 6 + PostmarketOS working main camera"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing",
-    "title": "Daring Fireball: Anthropic’s ‘Watermark’ Text Adulteration in Claude Is a Perversion of Writing"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.404media.co/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-training-facility/",
-    "title": "https://www.404media.co/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-training-facility/"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://ordinaryabundance.com/",
-    "title": "Ordinary Abundance"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://sunclock.net/",
-    "title": "Sun Clock - a 24hr clock that shows the position of the sun"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://opensource.posit.co/resources/cheatsheets/polars/",
-    "title": "Python Polars: The Definitive Cheatsheet :: Posit Open Source"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://linear.axler.net/",
-    "title": "(500) https://linear.axler.net/"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.librarian.net/notoai/",
-    "title": "How to disable or avoid intrusive AI – librarian.net"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://likebutter.app/",
-    "title": "Life without internet made smoother. Get access to tools that help."
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.macrumors.com/2026/08/17/camera-equipped-airpods-macos-26-7/",
-    "title": "Apple's Camera-Equipped AirPods Confirmed: See Them in Action - MacRumors"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://annualreport.gallery/",
-    "title": "Annual Report Archive"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.404media.co/show-how-3m-is-0-at-fault-expert-witness-used-chatgpt-to-write-report-defending-company-in-deadly-explosion-lawsuit/",
-    "title": "‘Show How 3M Is 0% at Fault:’ Expert Witness Used ChatGPT to Write Report Defending Company in Deadly Explosion Lawsuit"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://reticulum.network/",
-    "title": "Reticulum Network"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.cringebot3000.com/",
-    "title": "LinkedIn CringeBot 3000"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://craigmod.com/essays/robot_blood/",
-    "title": "A Swarm of Blood Robots — by Craig Mod"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://daringfireball.net/2026/08/follow-up_thoughts_on_watermarking",
-    "title": "Daring Fireball: Follow-Up Thoughts on Watermarking Schemes for AI-Generated Text"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.theregister.com/ai-and-ml/2026/08/18/google-buys-crashed-airline-spirits-data-at-auction-because-ai/5288962",
-    "title": "Google buys crashed airline Spirit’s data at auction, because AI • The Register Forums"
   }
 ]
