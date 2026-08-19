@@ -1,18 +1,23 @@
 [
   {
     "source": "hn",
+    "url": "https://sprocketfox.io/xssfox/2026/07/01/cricut-unlock/",
+    "title": "Unlocking a locked/deactivated e-waste Cricut Maker"
+  },
+  {
+    "source": "hn",
     "url": "https://sprocketfox.io/xssfox/2026/08/19/sondehub-and-war/",
     "title": "A joke domain purchase turned in geopolitical warfare"
   },
   {
     "source": "hn",
-    "url": "https://www.wsbtv.com/news/trending/affidavit-police-officer-used-flock-cameras-track-estranged-wife-717-times/5DVBYU2XTJEVDJR7LPZCBR7M5M/",
-    "title": "Police officer used Flock cameras to track estranged wife 717 times"
+    "url": "https://pennypresses.net/home/map.php",
+    "title": "Pressed Penny Machine Map"
   },
   {
     "source": "hn",
-    "url": "https://ornith.ai/ornith_1_5.html",
-    "title": "Ornith-1.5: From Self-Scaffolding to Self-Improvement"
+    "url": "https://www.casio.com/uk/watches/casio/product.F-B100W-1A/",
+    "title": "Casio F-B100W-1A"
   },
   {
     "source": "hn",
@@ -21,33 +26,43 @@
   },
   {
     "source": "hn",
+    "url": "https://ornith.ai/ornith_1_5.html",
+    "title": "Ornith-1.5: From Self-Scaffolding to Self-Improvement"
+  },
+  {
+    "source": "hn",
+    "url": "https://ludens.cl/Electron/geiger2/geiger2.html",
+    "title": "A portable, sensitive, low power, analog Geiger counter"
+  },
+  {
+    "source": "hn",
     "url": "https://jeremymorrell.dev/blog/extensible-software-in-the-age-of-llms/",
     "title": "Extensible Software in the age of LLMs"
   },
   {
     "source": "hn",
-    "url": "https://sprocketfox.io/xssfox/2026/07/01/cricut-unlock/",
-    "title": "Unlocking a locked/deactivated e-waste Cricut Maker"
+    "url": "https://lists.x.org/archives/xorg/2026-August/062280.html",
+    "title": "XWayland 26.1-rc1 Released Two Years After the Last Release"
   },
   {
     "source": "hn",
-    "url": "https://www.amppublic.com/research/openrouter",
-    "title": "You Probably Don't Get Why Stripe Bought OpenRouter"
+    "url": "https://fx.sh",
+    "title": "fx :Tiny, open, native coding agent."
+  },
+  {
+    "source": "hn",
+    "url": "https://dogdogfish.com/blog/2026/08/19/digital-immortality/",
+    "title": "Digital Immortality"
+  },
+  {
+    "source": "hn",
+    "url": "https://inco.ai/blog/dflash2/",
+    "title": "DFlash 2: Keep Drafting Parallel"
   },
   {
     "source": "hn",
     "url": "https://www.raphaelbauer.com:443/posts/postgresql-everything/",
     "title": "PostgreSQL for Everything"
-  },
-  {
-    "source": "hn",
-    "url": "https://blog.cloudflare.com/revisiting-spectre-attacks-on-workers/",
-    "title": "A revisit of remote Spectre attacks on Cloudflare Workers"
-  },
-  {
-    "source": "hn",
-    "url": "https://kolja.rs/algorithm-d/",
-    "title": "A decades-old bug in Knuth's long division (TAOCP Vol II, Algorithm 4.3.1D)"
   },
   {
     "source": "lobsters",
@@ -76,8 +91,18 @@
   },
   {
     "source": "lobsters",
+    "url": "https://blog.vrypan.net/2026/08/19/260819-sing-song/",
+    "title": "Sing-song: a speakable encoding for long numbers and keys"
+  },
+  {
+    "source": "lobsters",
     "url": "https://daniel.haxx.se/blog/2024/08/19/a-filename-when-none-exists/",
     "title": "a filename when none exists"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://sporks.space/2026/08/19/things-i-want-in-a-modern-relational-query-language/",
+    "title": "Things I want in a modern relational query language"
   },
   {
     "source": "lobsters",
@@ -86,8 +111,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://sporks.space/2026/08/19/things-i-want-in-a-modern-relational-query-language/",
-    "title": "Things I want in a modern relational query language"
+    "url": "https://blog.ploopy.co/the-aplus-is-finally-here-499",
+    "title": "Ploopy A+ (external trackball)"
   },
   {
     "source": "lobsters",
@@ -111,17 +136,7 @@
   },
   {
     "source": "lobsters",
-    "url": "https://blog.ploopy.co/the-aplus-is-finally-here-499",
-    "title": "Ploopy A+ (external trackball)"
-  },
-  {
-    "source": "lobsters",
     "url": "https://odin-lang.org/docs/inline-asm/",
     "title": "Odin's New Inline Assembly Templates"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://acadia.engineering/blog/rethinking-database-programming",
-    "title": "Rethinking Database Programming"
   }
 ]
