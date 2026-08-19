@@ -26,8 +26,8 @@
   },
   {
     "source": "hn",
-    "url": "https://www.koh-antique.com/client/tangwreck/tangwreck.html",
-    "title": "The Vietnam Binh Chau (Chau Tan) Late Tang Wreck"
+    "url": "https://herecomesthemoon.net/2024/11/two-factions-of-cpp/",
+    "title": "The Two Factions of C++"
   },
   {
     "source": "hn",
@@ -36,8 +36,8 @@
   },
   {
     "source": "hn",
-    "url": "https://berd.xyz",
-    "title": "Berd"
+    "url": "https://www.koh-antique.com/client/tangwreck/tangwreck.html",
+    "title": "The Vietnam Binh Chau (Chau Tan) Late Tang Wreck"
   },
   {
     "source": "hn",
@@ -56,13 +56,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://untrusem.party/blog/how-I-browse-the-web-with-Ublock-Hard-Mode.html",
-    "title": "How I browse the Web with uBlock (Hard Mode)"
+    "url": "https://tipiirai.com/writing/bun-rust-rewrite-worries",
+    "title": "Bun 1.4 Rust rewrite is not looking good"
   },
   {
     "source": "lobsters",
-    "url": "https://kakoune.org/",
-    "title": "Kakoune code editor"
+    "url": "https://untrusem.party/blog/how-I-browse-the-web-with-Ublock-Hard-Mode.html",
+    "title": "How I browse the Web with uBlock (Hard Mode)"
   },
   {
     "source": "lobsters",
@@ -71,13 +71,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://tipiirai.com/writing/bun-rust-rewrite-worries",
-    "title": "Bun 1.4 Rust rewrite is not looking good"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://acadia.engineering/blog/rethinking-database-programming",
-    "title": "Rethinking Database Programming"
+    "url": "https://kakoune.org/",
+    "title": "Kakoune code editor"
   },
   {
     "source": "lobsters",
@@ -86,13 +81,18 @@
   },
   {
     "source": "lobsters",
-    "url": "https://timmarinin.net/2026/bluesky-screenshots/",
-    "title": "How Bluesky draws its logo on screenshots"
+    "url": "https://acadia.engineering/blog/rethinking-database-programming",
+    "title": "Rethinking Database Programming"
   },
   {
     "source": "lobsters",
     "url": "https://philo.gay/linecam/",
     "title": "Using the railway network as a flatbed scanner"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://timmarinin.net/2026/bluesky-screenshots/",
+    "title": "How Bluesky draws its logo on screenshots"
   },
   {
     "source": "lobsters",
@@ -116,6 +116,11 @@
   },
   {
     "source": "lobsters",
+    "url": "https://daniel.haxx.se/blog/2024/08/19/a-filename-when-none-exists/",
+    "title": "a filename when none exists"
+  },
+  {
+    "source": "lobsters",
     "url": "https://nanochess.org/am29000_c_compiler_web_browser.html",
     "title": "How I developed an Am29000 C compiler and web browser"
   },
@@ -131,11 +136,6 @@
   },
   {
     "source": "lobsters",
-    "url": "https://daniel.haxx.se/blog/2024/08/19/a-filename-when-none-exists/",
-    "title": "a filename when none exists"
-  },
-  {
-    "source": "lobsters",
     "url": "https://biboumi.codeberg.page/doc/",
     "title": "Biboumi – XMPP gateway to IRC"
   },
@@ -143,5 +143,10 @@
     "source": "lobsters",
     "url": "https://justingarrison.com/blog/2024-02-08-fargate-is-not-firecracker/",
     "title": "Fargate Is Not Firecracker (2024)"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://catcrafts.net/posts/fairphone-6-postmarketos-working-main-camera",
+    "title": "Fairphone 6 + PostmarketOS working main camera"
   }
 ]
