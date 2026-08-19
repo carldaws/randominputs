@@ -16,13 +16,13 @@
   },
   {
     "source": "hn",
-    "url": "https://openlogi.org/en",
-    "title": "OpenLogi"
+    "url": "https://jeremymorrell.dev/blog/extensible-software-in-the-age-of-llms/",
+    "title": "Extensible Software in the age of LLMs"
   },
   {
     "source": "hn",
-    "url": "https://jeremymorrell.dev/blog/extensible-software-in-the-age-of-llms/",
-    "title": "Extensible Software in the Age of LLMs"
+    "url": "https://openlogi.org/en",
+    "title": "OpenLogi"
   },
   {
     "source": "hn",
@@ -31,23 +31,8 @@
   },
   {
     "source": "hn",
-    "url": "https://mrandri19.github.io/2026/07/19/drone-racing-with-reinforcement-learning.html",
-    "title": "A recipe for drone racing with reinforcement learning"
-  },
-  {
-    "source": "hn",
     "url": "https://kolja.rs/algorithm-d/",
     "title": "A decades-old bug in Knuth's long division (TAOCP Vol II, Algorithm 4.3.1D)"
-  },
-  {
-    "source": "hn",
-    "url": "https://demo.frugaltokens.com/",
-    "title": "Show HN: Frugal Tokens – explore costs and usage across coding agents"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.cerebras.ai/cs4",
-    "title": "Cerebras CS-4"
   },
   {
     "source": "hn",
@@ -56,13 +41,23 @@
   },
   {
     "source": "hn",
+    "url": "https://www.cerebras.ai/cs4",
+    "title": "Cerebras CS-4"
+  },
+  {
+    "source": "hn",
+    "url": "https://blog.cloudflare.com/revisiting-spectre-attacks-on-workers/",
+    "title": "A revisit of remote Spectre attacks on Cloudflare Workers"
+  },
+  {
+    "source": "hn",
     "url": "https://phys.org/news/2026-08-forged-meteorites-fashionable-ancient-greek.html",
     "title": "Rings forged from meteorites may have been fashionable among ancient Greek elite"
   },
   {
     "source": "hn",
-    "url": "https://www.casio.com/uk/watches/casio/product.F-B100W-1A/",
-    "title": "New Casio F-B100W – Upgrade to the iconic F-91W after 40 years"
+    "url": "https://demo.frugaltokens.com/",
+    "title": "Show HN: Frugal Tokens – explore costs and usage across coding agents"
   },
   {
     "source": "lobsters",
@@ -73,6 +68,11 @@
     "source": "lobsters",
     "url": "https://www.jvt.me/posts/2026/08/17/hand-write-commits/",
     "title": "Why I still hand write my commit messages"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://sumnerevans.com/posts/money/plain-text-accounting/",
+    "title": "Plain Text Accounting is Pretty Cool"
   },
   {
     "source": "lobsters",
@@ -91,8 +91,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://sumnerevans.com/posts/money/plain-text-accounting/",
-    "title": "Plain Text Accounting is Pretty Cool"
+    "url": "https://joecode.com/2026-08-19-sqlite3/",
+    "title": "SQLite for Everything"
   },
   {
     "source": "lobsters",
@@ -106,18 +106,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://joecode.com/2026-08-19-sqlite3/",
-    "title": "SQLite for Everything"
+    "url": "https://quantum5.ca/2026/08/16/fixing-bricked-amd-7040-series-framework-13-laptop-with-20-tools/",
+    "title": "Fixing a bricked AMD 7040 series Framework 13” laptop with $20 tools"
   },
   {
     "source": "lobsters",
     "url": "https://justingarrison.com/blog/2024-02-08-fargate-is-not-firecracker/",
     "title": "Fargate Is Not Firecracker (2024)"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://quantum5.ca/2026/08/16/fixing-bricked-amd-7040-series-framework-13-laptop-with-20-tools/",
-    "title": "Fixing a bricked AMD 7040 series Framework 13” laptop with $20 tools"
   },
   {
     "source": "lobsters",
