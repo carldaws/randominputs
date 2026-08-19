@@ -6,13 +6,18 @@
   },
   {
     "source": "hn",
-    "url": "https://sprocketfox.io/xssfox/2026/08/19/sondehub-and-war/",
-    "title": "A joke domain purchase turned in geopolitical warfare"
+    "url": "https://jumploops.com/blog/sol-loves-to-cheat/",
+    "title": "Sol Loves to Cheat"
   },
   {
     "source": "hn",
     "url": "https://inco.ai/blog/dflash2/",
     "title": "DFlash 2: Keep Drafting Parallel"
+  },
+  {
+    "source": "hn",
+    "url": "https://sprocketfox.io/xssfox/2026/08/19/sondehub-and-war/",
+    "title": "A joke domain purchase turned in geopolitical warfare"
   },
   {
     "source": "hn",
@@ -36,13 +41,18 @@
   },
   {
     "source": "hn",
+    "url": "https://jeremymorrell.dev/blog/extensible-software-in-the-age-of-llms/",
+    "title": "Extensible Software in the age of LLMs"
+  },
+  {
+    "source": "hn",
     "url": "https://ludens.cl/Electron/geiger2/geiger2.html",
     "title": "A portable, sensitive, low power, analog Geiger counter (2025)"
   },
   {
     "source": "hn",
-    "url": "https://jeremymorrell.dev/blog/extensible-software-in-the-age-of-llms/",
-    "title": "Extensible Software in the age of LLMs"
+    "url": "https://lists.x.org/archives/xorg/2026-August/062280.html",
+    "title": "Xwayland 26.1.0 rc1"
   },
   {
     "source": "hn",
@@ -51,18 +61,13 @@
   },
   {
     "source": "hn",
-    "url": "https://www.raphaelbauer.com:443/posts/postgresql-everything/",
-    "title": "PostgreSQL for Everything"
-  },
-  {
-    "source": "hn",
     "url": "https://davidsmaynard.com/blog/keyset",
     "title": "IDE Nostalgia (2022)"
   },
   {
     "source": "hn",
-    "url": "https://lists.x.org/archives/xorg/2026-August/062280.html",
-    "title": "Xwayland 26.1.0 rc1"
+    "url": "https://www.raphaelbauer.com:443/posts/postgresql-everything/",
+    "title": "PostgreSQL for Everything"
   },
   {
     "source": "lobsters",
@@ -71,13 +76,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://www.jvt.me/posts/2026/08/17/hand-write-commits/",
-    "title": "Why I still hand write my commit messages"
+    "url": "https://sumnerevans.com/posts/money/plain-text-accounting/",
+    "title": "Plain Text Accounting is Pretty Cool"
   },
   {
     "source": "lobsters",
-    "url": "https://sumnerevans.com/posts/money/plain-text-accounting/",
-    "title": "Plain Text Accounting is Pretty Cool"
+    "url": "https://www.jvt.me/posts/2026/08/17/hand-write-commits/",
+    "title": "Why I still hand write my commit messages"
   },
   {
     "source": "lobsters",
@@ -86,13 +91,18 @@
   },
   {
     "source": "lobsters",
+    "url": "https://blog.vrypan.net/2026/08/19/260819-sing-song/",
+    "title": "Sing-song: a speakable encoding for long numbers and keys"
+  },
+  {
+    "source": "lobsters",
     "url": "https://blog.joinmastodon.org/2026/08/5.0-laying-the-foundation/",
     "title": "Mastodon 5.0: Laying the foundation"
   },
   {
     "source": "lobsters",
-    "url": "https://blog.vrypan.net/2026/08/19/260819-sing-song/",
-    "title": "Sing-song: a speakable encoding for long numbers and keys"
+    "url": "https://blog.ploopy.co/the-aplus-is-finally-here-499",
+    "title": "Ploopy A+ (external trackball)"
   },
   {
     "source": "lobsters",
@@ -106,18 +116,18 @@
   },
   {
     "source": "lobsters",
-    "url": "https://untrusem.party/blog/how-I-browse-the-web-with-Ublock-Hard-Mode.html",
-    "title": "How I browse the Web with uBlock (Hard Mode)"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://blog.ploopy.co/the-aplus-is-finally-here-499",
-    "title": "Ploopy A+ (external trackball)"
+    "url": "https://nishantjosh.dev/blogs/reclaim-the-terminal/",
+    "title": "Reclaim the terminal"
   },
   {
     "source": "lobsters",
     "url": "http://www.extremeprogramming.org/",
     "title": "Extreme Programming: A Gentle Introduction"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://untrusem.party/blog/how-I-browse-the-web-with-Ublock-Hard-Mode.html",
+    "title": "How I browse the Web with uBlock (Hard Mode)"
   },
   {
     "source": "lobsters",
@@ -133,15 +143,5 @@
     "source": "lobsters",
     "url": "https://justingarrison.com/blog/2024-02-08-fargate-is-not-firecracker/",
     "title": "Fargate Is Not Firecracker (2024)"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://nishantjosh.dev/blogs/reclaim-the-terminal/",
-    "title": "Reclaim the terminal"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://kernelkennel.com/blog/summercon2026-rosetta/",
-    "title": "Packing Malware in Rosetta 2"
   }
 ]
