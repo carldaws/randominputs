@@ -1,8 +1,18 @@
 [
   {
     "source": "hn",
+    "url": "https://www.cerebras.ai/cs4",
+    "title": "Cerebras CS-4"
+  },
+  {
+    "source": "hn",
     "url": "https://seths.blog/2026/08/the-amazon-tax/",
     "title": "The Amazon tax"
+  },
+  {
+    "source": "hn",
+    "url": "https://konstantintkachuk.com/writing/depin-is-dead-long-live-infrastructure-as-a-service/",
+    "title": "Why crypto's best infrastructure companies stopped looking like crypto?"
   },
   {
     "source": "hn",
@@ -11,18 +21,13 @@
   },
   {
     "source": "hn",
-    "url": "https://nicholascharriere.com/blog/being-ambitious-and-being-a-dad/",
-    "title": "Being ambitious and being a dad"
-  },
-  {
-    "source": "hn",
     "url": "https://philo.gay/linecam/",
     "title": "Using the railway network as a flatbed scanner"
   },
   {
     "source": "hn",
-    "url": "https://about.iceland.co.uk/our-story/the-dark-ages/beware-management-consultants/",
-    "title": "Beware Management Consultants"
+    "url": "https://nicholascharriere.com/blog/being-ambitious-and-being-a-dad/",
+    "title": "Being ambitious and being a dad"
   },
   {
     "source": "hn",
@@ -31,8 +36,8 @@
   },
   {
     "source": "hn",
-    "url": "https://cdn.kuber.studio/chat/hp-laser-1008a-driver",
-    "title": "Claude Code Teaching macOS to Natively Print to the HP Laser 1008a"
+    "url": "https://about.iceland.co.uk/our-story/the-dark-ages/beware-management-consultants/",
+    "title": "Beware Management Consultants"
   },
   {
     "source": "hn",
@@ -41,13 +46,8 @@
   },
   {
     "source": "hn",
-    "url": "https://www.theartnewspaper.com/2026/08/07/colossal-2500-year-old-sculpture-discovered-turkey-unesco-site",
-    "title": "2,500-year-old sculpture discovered at UNESCO site in Turkey"
-  },
-  {
-    "source": "hn",
-    "url": "https://lucasamoudruz.com/blog/red-blood-cells.html",
-    "title": "Simulated red blood cells and microscopy"
+    "url": "https://lithub.com/on-that-disgraceful-disreputable-wonderful-form-of-punctuation-the-parenthesis/",
+    "title": "That Disgraceful, Disreputable, (Wonderful) Form of Punctuation: The Parenthesis"
   },
   {
     "source": "hn",
@@ -61,23 +61,13 @@
   },
   {
     "source": "hn",
-    "url": "https://pmotschmann.github.io/Evolve/",
-    "title": "Evolve: An incremental game about evolving a civilization"
-  },
-  {
-    "source": "hn",
-    "url": "https://opensource.posit.co/resources/cheatsheets/polars/",
-    "title": "Python Polars Cheatsheet (based on our O'Reilly book)"
-  },
-  {
-    "source": "hn",
     "url": "https://machine0.io",
     "title": "Launch HN: machine0 (YC S26) – Persistent CPU and GPU VMs from the CLI"
   },
   {
     "source": "hn",
-    "url": "https://tau.dev/2026/08/07/canon",
-    "title": "Teaching my kid to code with a modern MUD"
+    "url": "https://www.theartnewspaper.com/2026/08/07/colossal-2500-year-old-sculpture-discovered-turkey-unesco-site",
+    "title": "2,500-year-old sculpture discovered at UNESCO site in Turkey"
   },
   {
     "source": "lobsters",
@@ -111,8 +101,23 @@
   },
   {
     "source": "lobsters",
+    "url": "https://odin-lang.org/docs/inline-asm/",
+    "title": "Odin's New Inline Assembly Templates"
+  },
+  {
+    "source": "lobsters",
     "url": "https://biboumi.codeberg.page/doc/",
     "title": "Biboumi – XMPP gateway to IRC"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://sethmlarson.dev/when-str-lower-is-a-security-vulnerability",
+    "title": "When str.lower() is a security vulnerability in Python"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://catcrafts.net/posts/fairphone-6-postmarketos-working-main-camera",
+    "title": "Fairphone 6 + PostmarketOS working main camera"
   },
   {
     "source": "lobsters",
@@ -126,13 +131,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://odin-lang.org/docs/inline-asm/",
-    "title": "Odin's New Inline Assembly Templates"
+    "url": "https://folkwolf.net/claude-and-i-built-an-app/",
+    "title": "Claude and I built an app"
   },
   {
     "source": "lobsters",
-    "url": "https://catcrafts.net/posts/fairphone-6-postmarketos-working-main-camera",
-    "title": "Fairphone 6 + PostmarketOS working main camera"
+    "url": "https://www.githubstatus.com/incidents/zkxwbgr0cnmx",
+    "title": "Incident Report for GitHub outage on 2026-08-17"
   },
   {
     "source": "lobsters",
@@ -141,112 +146,7 @@
   },
   {
     "source": "lobsters",
-    "url": "https://sethmlarson.dev/when-str-lower-is-a-security-vulnerability",
-    "title": "When str.lower() is a security vulnerability in Python"
-  },
-  {
-    "source": "lobsters",
     "url": "https://danluu.com/benchpocalypse/",
     "title": "The benchmarkpocalypse"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://actualbudget.org/",
-    "title": "Actual Budget"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://blog.gnoack.org/post/hyper-customized-one-off-software",
-    "title": "Hyper-Customized One-Off Software for Cheap"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing",
-    "title": "Daring Fireball: Anthropic’s ‘Watermark’ Text Adulteration in Claude Is a Perversion of Writing"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.404media.co/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-training-facility/",
-    "title": "https://www.404media.co/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-training-facility/"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://craigmod.com/essays/robot_blood/",
-    "title": "A Swarm of Blood Robots — by Craig Mod"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://ordinaryabundance.com/",
-    "title": "Ordinary Abundance"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/",
-    "title": "How Google is Making Private AI Practical with Homomorphic Encryption"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://simonwillison.net/2026/Aug/16/qwen-38-27b/",
-    "title": "Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.404media.co/show-how-3m-is-0-at-fault-expert-witness-used-chatgpt-to-write-report-defending-company-in-deadly-explosion-lawsuit/",
-    "title": "‘Show How 3M Is 0% at Fault:’ Expert Witness Used ChatGPT to Write Report Defending Company in Deadly Explosion Lawsuit"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://reticulum.network/",
-    "title": "Reticulum Network"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.librarian.net/notoai/",
-    "title": "How to disable or avoid intrusive AI – librarian.net"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://gloom.sh/",
-    "title": "Gloomberb"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://blog.j11y.io/2026-08-12_Anthropics-weak-watermarks-appease-a-weak-law/",
-    "title": "Anthropic’s weak watermarks appease a weak law - by James Padolsey"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.cringebot3000.com/",
-    "title": "LinkedIn CringeBot 3000"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://likebutter.app/",
-    "title": "Life without internet made smoother. Get access to tools that help."
-  },
-  {
-    "source": "pinboard",
-    "url": "https://annualreport.gallery/",
-    "title": "Annual Report Archive"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://futurism.com/artificial-intelligence/ai-impact-environment-horrifying-new-paper",
-    "title": "AI's Impact on the Environment Is Absolutely Horrifying, New Paper Finds"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.newyorker.com/news/annals-of-inquiry/gps-and-the-lost-art-of-getting-lost",
-    "title": "GPS and the lost art of getting lost • The New Yorker"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://eigendrum.com/#p=circle",
-    "title": "eigendrum.com"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://sophiebits.com/2026/06/25/there-are-no-lossless-transformations-of-natural-language-text",
-    "title": "There are no lossless transformations of natural-language text – Sophie Alpert"
   }
 ]
