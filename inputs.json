@@ -1,6 +1,11 @@
 [
   {
     "source": "hn",
+    "url": "https://openlogi.org/en",
+    "title": "OpenLogi"
+  },
+  {
+    "source": "hn",
     "url": "https://www.cerebras.ai/cs4",
     "title": "Cerebras CS-4"
   },
@@ -11,13 +16,18 @@
   },
   {
     "source": "hn",
-    "url": "https://konstantintkachuk.com/writing/depin-is-dead-long-live-infrastructure-as-a-service/",
-    "title": "Why crypto's best infrastructure companies stopped looking like crypto?"
+    "url": "https://www.ikea.com/se/en/customer-service/knowledge/articles/6f564c4d-2ccc-46de-b643-545a3948dc79.html",
+    "title": "How does IKEA come up with names for its products?"
   },
   {
     "source": "hn",
-    "url": "https://www.ikea.com/se/en/customer-service/knowledge/articles/6f564c4d-2ccc-46de-b643-545a3948dc79.html",
-    "title": "How does IKEA come up with names for its products?"
+    "url": "https://lithub.com/on-that-disgraceful-disreputable-wonderful-form-of-punctuation-the-parenthesis/",
+    "title": "That Disgraceful, Disreputable, (Wonderful) Form of Punctuation: The Parenthesis"
+  },
+  {
+    "source": "hn",
+    "url": "https://leimao.github.io/blog/CUDA-Shared-Memory-Swizzling/",
+    "title": "CUDA Shared Memory Swizzling"
   },
   {
     "source": "hn",
@@ -26,13 +36,18 @@
   },
   {
     "source": "hn",
-    "url": "https://nicholascharriere.com/blog/being-ambitious-and-being-a-dad/",
-    "title": "Being ambitious and being a dad"
+    "url": "https://quantum5.ca/2026/08/16/fixing-bricked-amd-7040-series-framework-13-laptop-with-20-tools/",
+    "title": "Fixing a bricked Framework laptop"
   },
   {
     "source": "hn",
-    "url": "https://quantum5.ca/2026/08/16/fixing-bricked-amd-7040-series-framework-13-laptop-with-20-tools/",
-    "title": "Fixing a bricked Framework laptop"
+    "url": "https://terrytao.wordpress.com/2026/08/18/palomar-a-registry-of-lean-verified-mathematics/",
+    "title": "Palomar: A registry of Lean verified mathematics"
+  },
+  {
+    "source": "hn",
+    "url": "https://nicholascharriere.com/blog/being-ambitious-and-being-a-dad/",
+    "title": "Being ambitious and being a dad"
   },
   {
     "source": "hn",
@@ -46,16 +61,6 @@
   },
   {
     "source": "hn",
-    "url": "https://lithub.com/on-that-disgraceful-disreputable-wonderful-form-of-punctuation-the-parenthesis/",
-    "title": "That Disgraceful, Disreputable, (Wonderful) Form of Punctuation: The Parenthesis"
-  },
-  {
-    "source": "hn",
-    "url": "https://betakit.com/how-a-giant-battery-is-transforming-a-town-centre-in-cannington-ontario/",
-    "title": "How a giant battery is transforming a town centre in Cannington, Ontario"
-  },
-  {
-    "source": "hn",
     "url": "https://ysph.yale.edu/news-article/universal-health-coverage-could-save-one-trillion-dollars-and-114000-lives-every-year/",
     "title": "Universal health coverage could save $1T and 114k lives a year: study"
   },
@@ -66,8 +71,8 @@
   },
   {
     "source": "hn",
-    "url": "https://www.theartnewspaper.com/2026/08/07/colossal-2500-year-old-sculpture-discovered-turkey-unesco-site",
-    "title": "2,500-year-old sculpture discovered at UNESCO site in Turkey"
+    "url": "https://betakit.com/how-a-giant-battery-is-transforming-a-town-centre-in-cannington-ontario/",
+    "title": "How a giant battery is transforming a town centre in Cannington, Ontario"
   },
   {
     "source": "lobsters",
@@ -81,18 +86,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://timmarinin.net/2026/bluesky-screenshots/",
-    "title": "How Bluesky draws its logo on screenshots"
-  },
-  {
-    "source": "lobsters",
     "url": "https://kakoune.org/",
     "title": "Kakoune code editor"
   },
   {
     "source": "lobsters",
-    "url": "https://lalitm.com/post/github-alternatives/",
-    "title": "GitHub has alternatives, but no replacement"
+    "url": "https://timmarinin.net/2026/bluesky-screenshots/",
+    "title": "How Bluesky draws its logo on screenshots"
   },
   {
     "source": "lobsters",
@@ -101,33 +101,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://odin-lang.org/docs/inline-asm/",
-    "title": "Odin's New Inline Assembly Templates"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://biboumi.codeberg.page/doc/",
-    "title": "Biboumi – XMPP gateway to IRC"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://sethmlarson.dev/when-str-lower-is-a-security-vulnerability",
-    "title": "When str.lower() is a security vulnerability in Python"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://catcrafts.net/posts/fairphone-6-postmarketos-working-main-camera",
-    "title": "Fairphone 6 + PostmarketOS working main camera"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://blog.rust-lang.org/inside-rust/2026/08/18/reducing-target-dir-size-on-nightly/",
-    "title": "Experiment in reducing target directory size on nightly"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://simonwillison.net/2026/Aug/17/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-tra/",
-    "title": "We Tracked a Shipment of Rare Books. It Ended at an Amazon AI Training Facility"
+    "url": "https://lalitm.com/post/github-alternatives/",
+    "title": "GitHub has alternatives, but no replacement"
   },
   {
     "source": "lobsters",
@@ -136,17 +111,47 @@
   },
   {
     "source": "lobsters",
+    "url": "https://odin-lang.org/docs/inline-asm/",
+    "title": "Odin's New Inline Assembly Templates"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://sethmlarson.dev/when-str-lower-is-a-security-vulnerability",
+    "title": "When str.lower() is a security vulnerability in Python"
+  },
+  {
+    "source": "lobsters",
     "url": "https://www.githubstatus.com/incidents/zkxwbgr0cnmx",
     "title": "Incident Report for GitHub outage on 2026-08-17"
   },
   {
     "source": "lobsters",
-    "url": "https://fabiensanglard.net/quake_shareware_cd/index.html",
-    "title": "Quake Shareware, a CD-ROM just a little too full"
+    "url": "https://biboumi.codeberg.page/doc/",
+    "title": "Biboumi – XMPP gateway to IRC"
   },
   {
     "source": "lobsters",
-    "url": "https://danluu.com/benchpocalypse/",
-    "title": "The benchmarkpocalypse"
+    "url": "https://nanochess.org/am29000_c_compiler_web_browser.html",
+    "title": "How I developed an Am29000 C compiler and web browser"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://catcrafts.net/posts/fairphone-6-postmarketos-working-main-camera",
+    "title": "Fairphone 6 + PostmarketOS working main camera"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://simonwillison.net/2026/Aug/17/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-tra/",
+    "title": "We Tracked a Shipment of Rare Books. It Ended at an Amazon AI Training Facility"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://blog.rust-lang.org/inside-rust/2026/08/18/reducing-target-dir-size-on-nightly/",
+    "title": "Experiment in reducing target directory size on nightly"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://fabiensanglard.net/quake_shareware_cd/index.html",
+    "title": "Quake Shareware, a CD-ROM just a little too full"
   }
 ]
