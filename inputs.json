@@ -11,6 +11,16 @@
   },
   {
     "source": "hn",
+    "url": "https://franciscotrindade.me/blog/the-kids-are-really-alright/",
+    "title": "AI didn't erase the junior engineer's value, it increased it it"
+  },
+  {
+    "source": "hn",
+    "url": "https://simedw.com/2026/08/20/midi-autocomplete/",
+    "title": "Show HN: I trained a 125M model to autocomplete piano on-device"
+  },
+  {
+    "source": "hn",
     "url": "https://www.benjoffe.com/fast-day-of-week",
     "title": "A faster way to calculate the day of the week"
   },
@@ -55,21 +65,6 @@
     "title": "PostgreSQL for Everything"
   },
   {
-    "source": "hn",
-    "url": "https://satadorus.eu/x_ite/yacs_2_0/yacs_2_0.html",
-    "title": "YACS 2.0 – Yet Another Curta Simulator"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.alanzucconi.com/2026/08/15/xorshift-generators/",
-    "title": "Xorshift Generators"
-  },
-  {
-    "source": "hn",
-    "url": "https://jeremymorrell.dev/blog/extensible-software-in-the-age-of-llms/",
-    "title": "Extensible Software in the age of LLMs"
-  },
-  {
     "source": "lobsters",
     "url": "https://chrisburnell.com/html-can-do-that/",
     "title": "HTML Can Do That"
@@ -86,6 +81,11 @@
   },
   {
     "source": "lobsters",
+    "url": "https://besok.github.io/posts/what-zig-felt-like-coming-from-rust/",
+    "title": "What Zig felt like, coming from Rust"
+  },
+  {
+    "source": "lobsters",
     "url": "https://www.jvt.me/posts/2026/08/17/hand-write-commits/",
     "title": "Why I still hand write my commit messages"
   },
@@ -96,18 +96,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://besok.github.io/posts/what-zig-felt-like-coming-from-rust/",
-    "title": "What Zig felt like, coming from Rust"
+    "url": "https://blog.ploopy.co/the-aplus-is-finally-here-499",
+    "title": "Ploopy A+ (external trackball)"
   },
   {
     "source": "lobsters",
     "url": "https://joecode.com/2026-08-19-sqlite3/",
     "title": "SQLite for Everything"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://blog.ploopy.co/the-aplus-is-finally-here-499",
-    "title": "Ploopy A+ (external trackball)"
   },
   {
     "source": "lobsters",
@@ -141,7 +136,7 @@
   },
   {
     "source": "lobsters",
-    "url": "http://www.extremeprogramming.org/",
-    "title": "Extreme Programming: A Gentle Introduction"
+    "url": "https://raylib-jlt.b12n.app/",
+    "title": "raylib examples in Jolt"
   }
 ]
