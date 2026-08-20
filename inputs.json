@@ -6,18 +6,23 @@
   },
   {
     "source": "hn",
+    "url": "https://blog.laserphile.com/2026/08/aliexpress-webpage-keeping-multipoint.html",
+    "title": "AliExpress runs silent WebAudio fingerprinting that breaks Bluetooth multipoint"
+  },
+  {
+    "source": "hn",
     "url": "https://www.benjoffe.com/fast-day-of-week",
     "title": "A faster way to calculate the day of the week"
   },
   {
     "source": "hn",
-    "url": "https://coca11272000.wixsite.com/manabukosaka",
-    "title": "Manabu Kosaka's Handmade Paper Sculptures"
+    "url": "https://sprocketfox.io/xssfox/2026/08/19/sondehub-and-war/",
+    "title": "A joke domain purchase turned in geopolitical warfare"
   },
   {
     "source": "hn",
-    "url": "https://sprocketfox.io/xssfox/2026/08/19/sondehub-and-war/",
-    "title": "A joke domain purchase turned in geopolitical warfare"
+    "url": "https://coca11272000.wixsite.com/manabukosaka",
+    "title": "Manabu Kosaka's Handmade Paper Sculptures"
   },
   {
     "source": "hn",
@@ -46,28 +51,23 @@
   },
   {
     "source": "hn",
-    "url": "https://v4-frontend.netiter.com/",
-    "title": "Free v4 front end for your v6 site"
-  },
-  {
-    "source": "hn",
-    "url": "https://snarky.ca/whats-missing-to-have-reproducible-builds-on-pypi/",
-    "title": "What's missing to have reproducible builds on PyPI"
-  },
-  {
-    "source": "hn",
     "url": "https://www.raphaelbauer.com:443/posts/postgresql-everything/",
     "title": "PostgreSQL for Everything"
   },
   {
     "source": "hn",
-    "url": "https://jeremymorrell.dev/blog/extensible-software-in-the-age-of-llms/",
-    "title": "Extensible Software in the age of LLMs"
+    "url": "https://satadorus.eu/x_ite/yacs_2_0/yacs_2_0.html",
+    "title": "YACS 2.0 – Yet Another Curta Simulator"
   },
   {
     "source": "hn",
     "url": "https://www.alanzucconi.com/2026/08/15/xorshift-generators/",
     "title": "Xorshift Generators"
+  },
+  {
+    "source": "hn",
+    "url": "https://jeremymorrell.dev/blog/extensible-software-in-the-age-of-llms/",
+    "title": "Extensible Software in the age of LLMs"
   },
   {
     "source": "lobsters",
@@ -81,18 +81,23 @@
   },
   {
     "source": "lobsters",
-    "url": "https://www.jvt.me/posts/2026/08/17/hand-write-commits/",
-    "title": "Why I still hand write my commit messages"
-  },
-  {
-    "source": "lobsters",
     "url": "https://nishantjosh.dev/blogs/reclaim-the-terminal/",
     "title": "Reclaim the terminal"
   },
   {
     "source": "lobsters",
+    "url": "https://www.jvt.me/posts/2026/08/17/hand-write-commits/",
+    "title": "Why I still hand write my commit messages"
+  },
+  {
+    "source": "lobsters",
     "url": "https://blog.vrypan.net/2026/08/19/260819-sing-song/",
     "title": "Sing-song: a speakable encoding for long numbers and keys"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://besok.github.io/posts/what-zig-felt-like-coming-from-rust/",
+    "title": "What Zig felt like, coming from Rust"
   },
   {
     "source": "lobsters",
@@ -106,18 +111,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://besok.github.io/posts/what-zig-felt-like-coming-from-rust/",
-    "title": "What Zig felt like, coming from Rust"
+    "url": "https://zerotistic.blog/posts/find-my-people-linux/",
+    "title": "Reverse-engineering Find My People to stalk ̶m̶y̶ ̶e̶x̶ a friend, cause I can"
   },
   {
     "source": "lobsters",
     "url": "https://blog.joinmastodon.org/2026/08/5.0-laying-the-foundation/",
     "title": "Mastodon 5.0: Laying the foundation"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://zerotistic.blog/posts/find-my-people-linux/",
-    "title": "Reverse-engineering Find My People to stalk ̶m̶y̶ ̶e̶x̶ a friend, cause I can"
   },
   {
     "source": "lobsters",
@@ -143,10 +143,5 @@
     "source": "lobsters",
     "url": "http://www.extremeprogramming.org/",
     "title": "Extreme Programming: A Gentle Introduction"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://untrusem.party/blog/how-I-browse-the-web-with-Ublock-Hard-Mode.html",
-    "title": "How I browse the Web with uBlock (Hard Mode)"
   }
 ]
