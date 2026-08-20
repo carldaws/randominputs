@@ -11,13 +11,13 @@
   },
   {
     "source": "hn",
-    "url": "https://sprocketfox.io/xssfox/2026/07/01/cricut-unlock/",
-    "title": "Unlocking a locked/deactivated e-waste Cricut Maker"
+    "url": "https://sprocketfox.io/xssfox/2026/08/19/sondehub-and-war/",
+    "title": "A joke domain purchase turned in geopolitical warfare"
   },
   {
     "source": "hn",
-    "url": "https://sprocketfox.io/xssfox/2026/08/19/sondehub-and-war/",
-    "title": "A joke domain purchase turned in geopolitical warfare"
+    "url": "https://sprocketfox.io/xssfox/2026/07/01/cricut-unlock/",
+    "title": "Unlocking a locked/deactivated e-waste Cricut Maker"
   },
   {
     "source": "hn",
@@ -41,18 +41,18 @@
   },
   {
     "source": "hn",
-    "url": "https://www.raphaelbauer.com:443/posts/postgresql-everything/",
-    "title": "PostgreSQL for Everything"
-  },
-  {
-    "source": "hn",
     "url": "https://en.wikipedia.org/wiki/Simulacra_and_Simulation",
     "title": "Simulacra and Simulation"
   },
   {
     "source": "hn",
-    "url": "https://jeremymorrell.dev/blog/extensible-software-in-the-age-of-llms/",
-    "title": "Extensible Software in the age of LLMs"
+    "url": "https://www.raphaelbauer.com:443/posts/postgresql-everything/",
+    "title": "PostgreSQL for Everything"
+  },
+  {
+    "source": "hn",
+    "url": "https://snarky.ca/whats-missing-to-have-reproducible-builds-on-pypi/",
+    "title": "What's missing to have reproducible builds on PyPI"
   },
   {
     "source": "hn",
@@ -61,13 +61,8 @@
   },
   {
     "source": "hn",
-    "url": "https://ornith.ai/ornith_1_5.html",
-    "title": "Ornith-1.5: From Self-Scaffolding to Self-Improvement"
-  },
-  {
-    "source": "hn",
-    "url": "https://inco.ai/blog/dflash2/",
-    "title": "DFlash 2: Keep Drafting Parallel"
+    "url": "https://jeremymorrell.dev/blog/extensible-software-in-the-age-of-llms/",
+    "title": "Extensible Software in the age of LLMs"
   },
   {
     "source": "lobsters",
@@ -91,6 +86,11 @@
   },
   {
     "source": "lobsters",
+    "url": "https://nishantjosh.dev/blogs/reclaim-the-terminal/",
+    "title": "Reclaim the terminal"
+  },
+  {
+    "source": "lobsters",
     "url": "https://blog.ploopy.co/the-aplus-is-finally-here-499",
     "title": "Ploopy A+ (external trackball)"
   },
@@ -98,11 +98,6 @@
     "source": "lobsters",
     "url": "https://joecode.com/2026-08-19-sqlite3/",
     "title": "SQLite for Everything"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://nishantjosh.dev/blogs/reclaim-the-terminal/",
-    "title": "Reclaim the terminal"
   },
   {
     "source": "lobsters",
@@ -126,6 +121,11 @@
   },
   {
     "source": "lobsters",
+    "url": "https://lemire.me/blog/2026/08/19/parsing-ip-addresses-in-c-at-crazy-speeds/",
+    "title": "Parsing IP addresses in C# at crazy speeds"
+  },
+  {
+    "source": "lobsters",
     "url": "http://www.extremeprogramming.org/",
     "title": "Extreme Programming: A Gentle Introduction"
   },
@@ -133,10 +133,5 @@
     "source": "lobsters",
     "url": "https://untrusem.party/blog/how-I-browse-the-web-with-Ublock-Hard-Mode.html",
     "title": "How I browse the Web with uBlock (Hard Mode)"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://kakoune.org/",
-    "title": "Kakoune code editor"
   }
 ]
