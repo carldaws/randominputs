@@ -11,13 +11,18 @@
   },
   {
     "source": "hn",
+    "url": "https://www.wsj.com/tech/steve-jobs-apple-next-cia-161b65f9?st=NWWds1&reflink=desktopwebshare_permalink",
+    "title": "CIA funding helped keep NeXT afloat in the 80s"
+  },
+  {
+    "source": "hn",
     "url": "https://simedw.com/2026/08/20/midi-autocomplete/",
     "title": "Show HN: I trained a 125M model to autocomplete piano on-device"
   },
   {
     "source": "hn",
-    "url": "https://www.wsj.com/tech/steve-jobs-apple-next-cia-161b65f9?st=NWWds1&reflink=desktopwebshare_permalink",
-    "title": "CIA funding helped keep NeXT afloat in the 80s"
+    "url": "https://jsomers.net/i-should-have-loved-biology/",
+    "title": "I should have loved biology"
   },
   {
     "source": "hn",
@@ -26,18 +31,23 @@
   },
   {
     "source": "hn",
-    "url": "https://dominik.info/blog/go-generic-methods",
-    "title": "Generic Methods in Go 1.27"
-  },
-  {
-    "source": "hn",
     "url": "https://lists.x.org/archives/xorg-announce/2026-August/003741.html",
     "title": "Xorg-Server 26.0.99.901"
   },
   {
     "source": "hn",
-    "url": "https://blog.yaros.ae/anti-ai-fonts-are-useless-and-harmful/",
-    "title": "Anti-AI fonts are useless and harmful"
+    "url": "https://foxandlion.pub/analysis/the-defense-tech-bubble-is-headed-for-consolidation",
+    "title": "The Defense-Tech Bubble Is Headed for Consolidation"
+  },
+  {
+    "source": "hn",
+    "url": "https://dominik.info/blog/go-generic-methods",
+    "title": "Generic Methods in Go 1.27"
+  },
+  {
+    "source": "hn",
+    "url": "https://atpr.to/",
+    "title": "URL shortener links stored in your ATProto PDS"
   },
   {
     "source": "hn",
@@ -46,18 +56,18 @@
   },
   {
     "source": "hn",
+    "url": "https://bactra.org/notebooks/cybersyn.html",
+    "title": "Project Cybersyn"
+  },
+  {
+    "source": "hn",
     "url": "https://elliptic-rank.icarm.cloud/curve/273",
     "title": "An elliptic curve of rank ≥ 30"
   },
   {
     "source": "hn",
-    "url": "https://marekfiser.com/blog/double-double-arithmetic/",
-    "title": "Double-double: 31 digits of precision without leaving the FPU"
-  },
-  {
-    "source": "hn",
-    "url": "https://strawberry9.github.io/the-wrong-memory/Appendix_02.html",
-    "title": "A theory for decades of C vulnerabilities"
+    "url": "https://zoneless.com",
+    "title": "Show HN: Open-source Stripe Connect alternative"
   },
   {
     "source": "hn",
@@ -66,13 +76,13 @@
   },
   {
     "source": "hn",
-    "url": "https://bun.com/blog/bun-v1.4",
-    "title": "Bun 1.4"
+    "url": "https://chris-said.io/2016/05/11/optimizing-things-in-the-ussr/",
+    "title": "Optimizing Things in the USSR"
   },
   {
-    "source": "hn",
-    "url": "https://zoneless.com",
-    "title": "Show HN: Open-source Stripe Connect alternative"
+    "source": "lobsters",
+    "url": "https://bun.com/blog/bun-v1.4",
+    "title": "Bun 1.4"
   },
   {
     "source": "lobsters",
@@ -116,6 +126,11 @@
   },
   {
     "source": "lobsters",
+    "url": "https://www.gingerbill.org/article/2026/08/20/designing-odins-inline-asm/",
+    "title": "Everyone Says Assembly Is Untyped—Everyone Is Wrong - gingerBill"
+  },
+  {
+    "source": "lobsters",
     "url": "https://zerotistic.blog/posts/find-my-people-linux/",
     "title": "Reverse-engineering Find My People to stalk ̶m̶y̶ ̶e̶x̶ a friend, cause I can"
   },
@@ -131,112 +146,7 @@
   },
   {
     "source": "lobsters",
-    "url": "https://marekfiser.com/blog/double-double-arithmetic",
-    "title": "Double-double: 31 digits of precision without leaving the FPU"
-  },
-  {
-    "source": "lobsters",
     "url": "https://antonz.org/going-freestanding/",
     "title": "Going freestanding"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.raphaelbauer.com/posts/postgresql-everything/",
-    "title": "PostgreSQL for Everything - Dr. Raphael A. Bauer, MBA | Fractional & Interim CTO | PE/VC Tech Strategy & Due Diligence | Berlin | London | Austin, Texas"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing",
-    "title": "Daring Fireball: Anthropic’s ‘Watermark’ Text Adulteration in Claude Is a Perversion of Writing"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://philo.gay/linecam/",
-    "title": "Using the railway network as a flatbed scanner"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://ysph.yale.edu/news-article/universal-health-coverage-could-save-one-trillion-dollars-and-114000-lives-every-year/",
-    "title": "Universal Health Coverage Could Save $1 Trillion and 114,000 Lives Every Year, Yale Study Projects | Yale School of Public Health"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://openlogi.org/en",
-    "title": "OpenLogi"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.404media.co/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-training-facility/",
-    "title": "https://www.404media.co/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-training-facility/"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://seths.blog/2026/08/the-amazon-tax/",
-    "title": "The Amazon tax | Seth's Blog"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://sunclock.net/",
-    "title": "Sun Clock - a 24hr clock that shows the position of the sun"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://opensource.posit.co/resources/cheatsheets/polars/",
-    "title": "Python Polars: The Definitive Cheatsheet :: Posit Open Source"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://ordinaryabundance.com/",
-    "title": "Ordinary Abundance"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://linear.axler.net/",
-    "title": "(500) https://linear.axler.net/"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://simonwillison.net/2026/Aug/16/qwen-38-27b/",
-    "title": "Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.librarian.net/notoai/",
-    "title": "How to disable or avoid intrusive AI – librarian.net"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://daringfireball.net/2026/08/follow-up_thoughts_on_watermarking",
-    "title": "Daring Fireball: Follow-Up Thoughts on Watermarking Schemes for AI-Generated Text"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.macrumors.com/2026/08/17/camera-equipped-airpods-macos-26-7/",
-    "title": "Apple's Camera-Equipped AirPods Confirmed: See Them in Action - MacRumors"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.404media.co/show-how-3m-is-0-at-fault-expert-witness-used-chatgpt-to-write-report-defending-company-in-deadly-explosion-lawsuit/",
-    "title": "‘Show How 3M Is 0% at Fault:’ Expert Witness Used ChatGPT to Write Report Defending Company in Deadly Explosion Lawsuit"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.ikea.com/se/en/customer-service/knowledge/articles/6f564c4d-2ccc-46de-b643-545a3948dc79.html",
-    "title": "How does IKEA come up with names for its products?"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://tau.dev/2026/08/07/canon",
-    "title": "Canon"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.benjoffe.com/fast-day-of-week",
-    "title": "A faster way to calculate the day-of-the-week"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://fx.sh/",
-    "title": "fx - Tiny, open, native coding agent"
   }
 ]
