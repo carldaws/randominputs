@@ -21,18 +21,23 @@
   },
   {
     "source": "hn",
-    "url": "https://jumploops.com/blog/sol-loves-to-cheat/",
-    "title": "Sol Loves to Cheat"
-  },
-  {
-    "source": "hn",
     "url": "https://www.casio.com/uk/watches/casio/product.F-B100W-1A/",
     "title": "Casio F-B100W-1A"
   },
   {
     "source": "hn",
+    "url": "https://jumploops.com/blog/sol-loves-to-cheat/",
+    "title": "Sol Loves to Cheat"
+  },
+  {
+    "source": "hn",
     "url": "https://yassa9.github.io/osint/gralhix-004/",
     "title": "Geolocating a random island using geometry and CUDA programming"
+  },
+  {
+    "source": "hn",
+    "url": "https://fx.sh",
+    "title": "fx :Tiny, open, native coding agent."
   },
   {
     "source": "hn",
@@ -46,8 +51,8 @@
   },
   {
     "source": "hn",
-    "url": "https://fx.sh",
-    "title": "fx :Tiny, open, native coding agent."
+    "url": "https://jeremymorrell.dev/blog/extensible-software-in-the-age-of-llms/",
+    "title": "Extensible Software in the age of LLMs"
   },
   {
     "source": "hn",
@@ -63,16 +68,6 @@
     "source": "hn",
     "url": "https://ornith.ai/ornith_1_5.html",
     "title": "Ornith-1.5: From Self-Scaffolding to Self-Improvement"
-  },
-  {
-    "source": "hn",
-    "url": "https://pennypresses.net/home/map.php",
-    "title": "Pressed Penny Machine Map"
-  },
-  {
-    "source": "hn",
-    "url": "https://jeremymorrell.dev/blog/extensible-software-in-the-age-of-llms/",
-    "title": "Extensible Software in the age of LLMs"
   },
   {
     "source": "lobsters",
@@ -91,13 +86,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://joecode.com/2026-08-19-sqlite3/",
-    "title": "SQLite for Everything"
+    "url": "https://blog.ploopy.co/the-aplus-is-finally-here-499",
+    "title": "Ploopy A+ (external trackball)"
   },
   {
     "source": "lobsters",
-    "url": "https://blog.ploopy.co/the-aplus-is-finally-here-499",
-    "title": "Ploopy A+ (external trackball)"
+    "url": "https://joecode.com/2026-08-19-sqlite3/",
+    "title": "SQLite for Everything"
   },
   {
     "source": "lobsters",
@@ -116,13 +111,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://daniel.haxx.se/blog/2024/08/19/a-filename-when-none-exists/",
-    "title": "a filename when none exists"
+    "url": "https://kernelkennel.com/blog/summercon2026-rosetta/",
+    "title": "Packing Malware in Rosetta 2"
   },
   {
     "source": "lobsters",
-    "url": "https://kernelkennel.com/blog/summercon2026-rosetta/",
-    "title": "Packing Malware in Rosetta 2"
+    "url": "https://daniel.haxx.se/blog/2024/08/19/a-filename-when-none-exists/",
+    "title": "a filename when none exists"
   },
   {
     "source": "lobsters",
@@ -143,10 +138,5 @@
     "source": "lobsters",
     "url": "https://kakoune.org/",
     "title": "Kakoune code editor"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://quantum5.ca/2026/08/16/fixing-bricked-amd-7040-series-framework-13-laptop-with-20-tools/",
-    "title": "Fixing a bricked AMD 7040 series Framework 13” laptop with $20 tools"
   }
 ]
