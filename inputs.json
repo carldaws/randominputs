@@ -11,13 +11,18 @@
   },
   {
     "source": "hn",
-    "url": "https://franciscotrindade.me/blog/the-kids-are-really-alright/",
-    "title": "AI didn't erase the junior engineer's value, it increased it it"
+    "url": "https://simedw.com/2026/08/20/midi-autocomplete/",
+    "title": "Show HN: I trained a 125M model to autocomplete piano on-device"
   },
   {
     "source": "hn",
-    "url": "https://simedw.com/2026/08/20/midi-autocomplete/",
-    "title": "Show HN: I trained a 125M model to autocomplete piano on-device"
+    "url": "https://safedep.io/arrayref-proc-macro1-rust-build-time-malware/",
+    "title": "Malicious Rust Crate Arrayref Runs a Build-Time Payload"
+  },
+  {
+    "source": "hn",
+    "url": "https://sokoban.grok.me/",
+    "title": "Sokoban via Grok App Builder"
   },
   {
     "source": "hn",
@@ -38,6 +43,11 @@
     "source": "hn",
     "url": "https://sprocketfox.io/xssfox/2026/07/01/cricut-unlock/",
     "title": "Unlocking a locked/deactivated e-waste Cricut Maker"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.sacredheartsc.com/blog/browser-de-slop/",
+    "title": "Browser De-Slop"
   },
   {
     "source": "hn",
@@ -66,6 +76,11 @@
   },
   {
     "source": "lobsters",
+    "url": "https://besok.github.io/posts/what-zig-felt-like-coming-from-rust/",
+    "title": "What Zig felt like, coming from Rust"
+  },
+  {
+    "source": "lobsters",
     "url": "https://chrisburnell.com/html-can-do-that/",
     "title": "HTML Can Do That"
   },
@@ -78,11 +93,6 @@
     "source": "lobsters",
     "url": "https://nishantjosh.dev/blogs/reclaim-the-terminal/",
     "title": "Reclaim the terminal"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://besok.github.io/posts/what-zig-felt-like-coming-from-rust/",
-    "title": "What Zig felt like, coming from Rust"
   },
   {
     "source": "lobsters",
@@ -101,13 +111,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://joecode.com/2026-08-19-sqlite3/",
-    "title": "SQLite for Everything"
+    "url": "https://zerotistic.blog/posts/find-my-people-linux/",
+    "title": "Reverse-engineering Find My People to stalk ̶m̶y̶ ̶e̶x̶ a friend, cause I can"
   },
   {
     "source": "lobsters",
-    "url": "https://zerotistic.blog/posts/find-my-people-linux/",
-    "title": "Reverse-engineering Find My People to stalk ̶m̶y̶ ̶e̶x̶ a friend, cause I can"
+    "url": "https://joecode.com/2026-08-19-sqlite3/",
+    "title": "SQLite for Everything"
   },
   {
     "source": "lobsters",
@@ -130,13 +140,98 @@
     "title": "Parsing IP addresses in C# at crazy speeds"
   },
   {
-    "source": "lobsters",
-    "url": "https://sporks.space/2026/08/19/things-i-want-in-a-modern-relational-query-language/",
-    "title": "Things I want in a modern relational query language"
+    "source": "pinboard",
+    "url": "https://www.raphaelbauer.com/posts/postgresql-everything/",
+    "title": "PostgreSQL for Everything - Dr. Raphael A. Bauer, MBA | Fractional & Interim CTO | PE/VC Tech Strategy & Due Diligence | Berlin | London | Austin, Texas"
   },
   {
-    "source": "lobsters",
-    "url": "https://raylib-jlt.b12n.app/",
-    "title": "raylib examples in Jolt"
+    "source": "pinboard",
+    "url": "https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing",
+    "title": "Daring Fireball: Anthropic’s ‘Watermark’ Text Adulteration in Claude Is a Perversion of Writing"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://philo.gay/linecam/",
+    "title": "Using the railway network as a flatbed scanner"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://ysph.yale.edu/news-article/universal-health-coverage-could-save-one-trillion-dollars-and-114000-lives-every-year/",
+    "title": "Universal Health Coverage Could Save $1 Trillion and 114,000 Lives Every Year, Yale Study Projects | Yale School of Public Health"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://openlogi.org/en",
+    "title": "OpenLogi"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.404media.co/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-training-facility/",
+    "title": "https://www.404media.co/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-training-facility/"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://seths.blog/2026/08/the-amazon-tax/",
+    "title": "The Amazon tax | Seth's Blog"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://sunclock.net/",
+    "title": "Sun Clock - a 24hr clock that shows the position of the sun"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://opensource.posit.co/resources/cheatsheets/polars/",
+    "title": "Python Polars: The Definitive Cheatsheet :: Posit Open Source"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://ordinaryabundance.com/",
+    "title": "Ordinary Abundance"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://linear.axler.net/",
+    "title": "(500) https://linear.axler.net/"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://simonwillison.net/2026/Aug/16/qwen-38-27b/",
+    "title": "Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.librarian.net/notoai/",
+    "title": "How to disable or avoid intrusive AI – librarian.net"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://daringfireball.net/2026/08/follow-up_thoughts_on_watermarking",
+    "title": "Daring Fireball: Follow-Up Thoughts on Watermarking Schemes for AI-Generated Text"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.macrumors.com/2026/08/17/camera-equipped-airpods-macos-26-7/",
+    "title": "Apple's Camera-Equipped AirPods Confirmed: See Them in Action - MacRumors"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.404media.co/show-how-3m-is-0-at-fault-expert-witness-used-chatgpt-to-write-report-defending-company-in-deadly-explosion-lawsuit/",
+    "title": "‘Show How 3M Is 0% at Fault:’ Expert Witness Used ChatGPT to Write Report Defending Company in Deadly Explosion Lawsuit"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.ikea.com/se/en/customer-service/knowledge/articles/6f564c4d-2ccc-46de-b643-545a3948dc79.html",
+    "title": "How does IKEA come up with names for its products?"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://tau.dev/2026/08/07/canon",
+    "title": "Canon"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://fx.sh/",
+    "title": "fx - Tiny, open, native coding agent"
   }
 ]
