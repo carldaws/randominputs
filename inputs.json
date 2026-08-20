@@ -31,6 +31,11 @@
   },
   {
     "source": "hn",
+    "url": "https://snarky.ca/whats-missing-to-have-reproducible-builds-on-pypi/",
+    "title": "What's missing to have reproducible builds on PyPI"
+  },
+  {
+    "source": "hn",
     "url": "https://yassa9.github.io/osint/gralhix-004/",
     "title": "Geolocating a random island using geometry and CUDA programming"
   },
@@ -41,18 +46,8 @@
   },
   {
     "source": "hn",
-    "url": "https://en.wikipedia.org/wiki/Simulacra_and_Simulation",
-    "title": "Simulacra and Simulation"
-  },
-  {
-    "source": "hn",
     "url": "https://www.raphaelbauer.com:443/posts/postgresql-everything/",
     "title": "PostgreSQL for Everything"
-  },
-  {
-    "source": "hn",
-    "url": "https://snarky.ca/whats-missing-to-have-reproducible-builds-on-pypi/",
-    "title": "What's missing to have reproducible builds on PyPI"
   },
   {
     "source": "hn",
@@ -81,13 +76,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://blog.vrypan.net/2026/08/19/260819-sing-song/",
-    "title": "Sing-song: a speakable encoding for long numbers and keys"
+    "url": "https://nishantjosh.dev/blogs/reclaim-the-terminal/",
+    "title": "Reclaim the terminal"
   },
   {
     "source": "lobsters",
-    "url": "https://nishantjosh.dev/blogs/reclaim-the-terminal/",
-    "title": "Reclaim the terminal"
+    "url": "https://blog.vrypan.net/2026/08/19/260819-sing-song/",
+    "title": "Sing-song: a speakable encoding for long numbers and keys"
   },
   {
     "source": "lobsters",
@@ -106,23 +101,23 @@
   },
   {
     "source": "lobsters",
-    "url": "https://kernelkennel.com/blog/summercon2026-rosetta/",
-    "title": "Packing Malware in Rosetta 2"
-  },
-  {
-    "source": "lobsters",
     "url": "https://daniel.haxx.se/blog/2024/08/19/a-filename-when-none-exists/",
     "title": "a filename when none exists"
   },
   {
     "source": "lobsters",
-    "url": "https://sporks.space/2026/08/19/things-i-want-in-a-modern-relational-query-language/",
-    "title": "Things I want in a modern relational query language"
+    "url": "https://kernelkennel.com/blog/summercon2026-rosetta/",
+    "title": "Packing Malware in Rosetta 2"
   },
   {
     "source": "lobsters",
     "url": "https://lemire.me/blog/2026/08/19/parsing-ip-addresses-in-c-at-crazy-speeds/",
     "title": "Parsing IP addresses in C# at crazy speeds"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://sporks.space/2026/08/19/things-i-want-in-a-modern-relational-query-language/",
+    "title": "Things I want in a modern relational query language"
   },
   {
     "source": "lobsters",
