@@ -16,18 +16,8 @@
   },
   {
     "source": "hn",
-    "url": "https://www.mikekasberg.com/blog/2026/08/19/hacking-with-claude-on-a-27-smart-watch.html",
-    "title": "Hacking with Claude on a $27 Smart Watch"
-  },
-  {
-    "source": "hn",
     "url": "https://chrisburnell.com/html-can-do-that/",
     "title": "HTML Can Do That"
-  },
-  {
-    "source": "hn",
-    "url": "https://elliptic-rank.icarm.cloud/curve/273",
-    "title": "An elliptic curve of rank ≥ 30"
   },
   {
     "source": "hn",
@@ -36,23 +26,18 @@
   },
   {
     "source": "hn",
+    "url": "https://www.mikekasberg.com/blog/2026/08/19/hacking-with-claude-on-a-27-smart-watch.html",
+    "title": "Hacking with Claude on a $27 Smart Watch"
+  },
+  {
+    "source": "hn",
     "url": "https://lists.x.org/archives/xorg-announce/2026-August/003741.html",
     "title": "Xorg-Server 26.0.99.901"
   },
   {
     "source": "hn",
-    "url": "https://zoneless.com",
-    "title": "Show HN: Open-source Stripe Connect alternative"
-  },
-  {
-    "source": "hn",
-    "url": "https://pub.doub.ly/",
-    "title": "Show HN: Check if any of the $656M in unclaimed royalties at The MLC is yours"
-  },
-  {
-    "source": "hn",
-    "url": "https://bun.com/blog/bun-v1.4",
-    "title": "Bun 1.4"
+    "url": "https://blog.yaros.ae/anti-ai-fonts-are-useless-and-harmful/",
+    "title": "Anti-AI fonts are useless and harmful"
   },
   {
     "source": "hn",
@@ -61,13 +46,33 @@
   },
   {
     "source": "hn",
-    "url": "https://deadsimpleci.sparrowhub.io/doc/job-artifacts",
-    "title": "CI jobs artifacts should not be difficult"
+    "url": "https://elliptic-rank.icarm.cloud/curve/273",
+    "title": "An elliptic curve of rank ≥ 30"
   },
   {
     "source": "hn",
-    "url": "https://stwipe.com/",
-    "title": "Stwipe Acquires OpenWouter"
+    "url": "https://strawberry9.github.io/the-wrong-memory/Appendix_02.html",
+    "title": "A theory for decades of C vulnerabilities"
+  },
+  {
+    "source": "hn",
+    "url": "https://bun.com/blog/bun-v1.4",
+    "title": "Bun 1.4"
+  },
+  {
+    "source": "hn",
+    "url": "https://pub.doub.ly/",
+    "title": "Show HN: Check if any of the $656M in unclaimed royalties at The MLC is yours"
+  },
+  {
+    "source": "hn",
+    "url": "https://dominik.info/blog/go-generic-methods",
+    "title": "Generic Methods in Go 1.27"
+  },
+  {
+    "source": "hn",
+    "url": "https://zoneless.com",
+    "title": "Show HN: Open-source Stripe Connect alternative"
   },
   {
     "source": "lobsters",
@@ -76,13 +81,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://sumnerevans.com/posts/money/plain-text-accounting/",
-    "title": "Plain Text Accounting is Pretty Cool"
+    "url": "https://blog.rust-lang.org/2026/08/20/supply-chain-attack-on-arrayref/",
+    "title": "Supply chain attack on arrayref"
   },
   {
     "source": "lobsters",
-    "url": "https://blog.rust-lang.org/2026/08/20/supply-chain-attack-on-arrayref/",
-    "title": "Supply chain attack on arrayref"
+    "url": "https://sumnerevans.com/posts/money/plain-text-accounting/",
+    "title": "Plain Text Accounting is Pretty Cool"
   },
   {
     "source": "lobsters",
@@ -96,13 +101,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://blog.vrypan.net/2026/08/19/260819-sing-song/",
-    "title": "Sing-song: a speakable encoding for long numbers and keys"
+    "url": "https://www.jvt.me/posts/2026/08/17/hand-write-commits/",
+    "title": "Why I still hand write my commit messages"
   },
   {
     "source": "lobsters",
-    "url": "https://www.jvt.me/posts/2026/08/17/hand-write-commits/",
-    "title": "Why I still hand write my commit messages"
+    "url": "https://blog.vrypan.net/2026/08/19/260819-sing-song/",
+    "title": "Sing-song: a speakable encoding for long numbers and keys"
   },
   {
     "source": "lobsters",
@@ -121,112 +126,17 @@
   },
   {
     "source": "lobsters",
+    "url": "https://marekfiser.com/blog/double-double-arithmetic",
+    "title": "Double-double: 31 digits of precision without leaving the FPU"
+  },
+  {
+    "source": "lobsters",
     "url": "https://antonz.org/going-freestanding/",
     "title": "Going freestanding"
   },
   {
     "source": "lobsters",
-    "url": "https://blog.joinmastodon.org/2026/08/5.0-laying-the-foundation/",
-    "title": "Mastodon 5.0: Laying the foundation"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.raphaelbauer.com/posts/postgresql-everything/",
-    "title": "PostgreSQL for Everything - Dr. Raphael A. Bauer, MBA | Fractional & Interim CTO | PE/VC Tech Strategy & Due Diligence | Berlin | London | Austin, Texas"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing",
-    "title": "Daring Fireball: Anthropic’s ‘Watermark’ Text Adulteration in Claude Is a Perversion of Writing"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://philo.gay/linecam/",
-    "title": "Using the railway network as a flatbed scanner"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://ysph.yale.edu/news-article/universal-health-coverage-could-save-one-trillion-dollars-and-114000-lives-every-year/",
-    "title": "Universal Health Coverage Could Save $1 Trillion and 114,000 Lives Every Year, Yale Study Projects | Yale School of Public Health"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://openlogi.org/en",
-    "title": "OpenLogi"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.404media.co/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-training-facility/",
-    "title": "https://www.404media.co/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-training-facility/"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://seths.blog/2026/08/the-amazon-tax/",
-    "title": "The Amazon tax | Seth's Blog"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://sunclock.net/",
-    "title": "Sun Clock - a 24hr clock that shows the position of the sun"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://opensource.posit.co/resources/cheatsheets/polars/",
-    "title": "Python Polars: The Definitive Cheatsheet :: Posit Open Source"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://ordinaryabundance.com/",
-    "title": "Ordinary Abundance"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://linear.axler.net/",
-    "title": "(500) https://linear.axler.net/"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://simonwillison.net/2026/Aug/16/qwen-38-27b/",
-    "title": "Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.librarian.net/notoai/",
-    "title": "How to disable or avoid intrusive AI – librarian.net"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://daringfireball.net/2026/08/follow-up_thoughts_on_watermarking",
-    "title": "Daring Fireball: Follow-Up Thoughts on Watermarking Schemes for AI-Generated Text"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.macrumors.com/2026/08/17/camera-equipped-airpods-macos-26-7/",
-    "title": "Apple's Camera-Equipped AirPods Confirmed: See Them in Action - MacRumors"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.404media.co/show-how-3m-is-0-at-fault-expert-witness-used-chatgpt-to-write-report-defending-company-in-deadly-explosion-lawsuit/",
-    "title": "‘Show How 3M Is 0% at Fault:’ Expert Witness Used ChatGPT to Write Report Defending Company in Deadly Explosion Lawsuit"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.ikea.com/se/en/customer-service/knowledge/articles/6f564c4d-2ccc-46de-b643-545a3948dc79.html",
-    "title": "How does IKEA come up with names for its products?"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://tau.dev/2026/08/07/canon",
-    "title": "Canon"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.benjoffe.com/fast-day-of-week",
-    "title": "A faster way to calculate the day-of-the-week"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://fx.sh/",
-    "title": "fx - Tiny, open, native coding agent"
+    "url": "https://www.ethanheilman.com/x/33/index.html",
+    "title": "Open-sourcing OpenPubkey SSH (OPKSSH): integrating single sign-on with SSH"
   }
 ]
