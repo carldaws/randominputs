@@ -11,11 +11,6 @@
   },
   {
     "source": "hn",
-    "url": "https://inco.ai/blog/dflash2/",
-    "title": "DFlash 2: Keep Drafting Parallel"
-  },
-  {
-    "source": "hn",
     "url": "https://sprocketfox.io/xssfox/2026/08/19/sondehub-and-war/",
     "title": "A joke domain purchase turned in geopolitical warfare"
   },
@@ -26,8 +21,13 @@
   },
   {
     "source": "hn",
-    "url": "https://pennypresses.net/home/map.php",
-    "title": "Pressed Penny Machine Map"
+    "url": "https://inco.ai/blog/dflash2/",
+    "title": "DFlash 2: Keep Drafting Parallel"
+  },
+  {
+    "source": "hn",
+    "url": "https://fetzu.ch/blog/20260819_claudevsdrobo/",
+    "title": "Raiders of the Lost Array: vibe-coding a macOS driver for my orphaned Drobo"
   },
   {
     "source": "hn",
@@ -36,18 +36,18 @@
   },
   {
     "source": "hn",
+    "url": "https://www.raphaelbauer.com:443/posts/postgresql-everything/",
+    "title": "PostgreSQL for Everything"
+  },
+  {
+    "source": "hn",
+    "url": "https://pennypresses.net/home/map.php",
+    "title": "Pressed Penny Machine Map"
+  },
+  {
+    "source": "hn",
     "url": "https://ornith.ai/ornith_1_5.html",
     "title": "Ornith-1.5: From Self-Scaffolding to Self-Improvement"
-  },
-  {
-    "source": "hn",
-    "url": "https://jeremymorrell.dev/blog/extensible-software-in-the-age-of-llms/",
-    "title": "Extensible Software in the age of LLMs"
-  },
-  {
-    "source": "hn",
-    "url": "https://ludens.cl/Electron/geiger2/geiger2.html",
-    "title": "A portable, sensitive, low power, analog Geiger counter (2025)"
   },
   {
     "source": "hn",
@@ -61,13 +61,23 @@
   },
   {
     "source": "hn",
+    "url": "https://ludens.cl/Electron/geiger2/geiger2.html",
+    "title": "A portable, sensitive, low power, analog Geiger counter (2025)"
+  },
+  {
+    "source": "hn",
+    "url": "https://jeremymorrell.dev/blog/extensible-software-in-the-age-of-llms/",
+    "title": "Extensible Software in the age of LLMs"
+  },
+  {
+    "source": "hn",
     "url": "https://davidsmaynard.com/blog/keyset",
     "title": "IDE Nostalgia (2022)"
   },
   {
     "source": "hn",
-    "url": "https://www.raphaelbauer.com:443/posts/postgresql-everything/",
-    "title": "PostgreSQL for Everything"
+    "url": "https://coca11272000.wixsite.com/manabukosaka",
+    "title": "Manabu Kosaka's Handmade Paper Sculptures"
   },
   {
     "source": "lobsters",
@@ -131,6 +141,11 @@
   },
   {
     "source": "lobsters",
+    "url": "https://kernelkennel.com/blog/summercon2026-rosetta/",
+    "title": "Packing Malware in Rosetta 2"
+  },
+  {
+    "source": "lobsters",
     "url": "https://kakoune.org/",
     "title": "Kakoune code editor"
   },
@@ -138,10 +153,5 @@
     "source": "lobsters",
     "url": "https://quantum5.ca/2026/08/16/fixing-bricked-amd-7040-series-framework-13-laptop-with-20-tools/",
     "title": "Fixing a bricked AMD 7040 series Framework 13” laptop with $20 tools"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://justingarrison.com/blog/2024-02-08-fargate-is-not-firecracker/",
-    "title": "Fargate Is Not Firecracker (2024)"
   }
 ]
