@@ -46,8 +46,8 @@
   },
   {
     "source": "hn",
-    "url": "https://www.raphaelbauer.com:443/posts/postgresql-everything/",
-    "title": "PostgreSQL for Everything"
+    "url": "https://v4-frontend.netiter.com/",
+    "title": "Free v4 front end for your v6 site"
   },
   {
     "source": "hn",
@@ -56,13 +56,18 @@
   },
   {
     "source": "hn",
-    "url": "https://www.alanzucconi.com/2026/08/15/xorshift-generators/",
-    "title": "Xorshift Generators"
+    "url": "https://www.raphaelbauer.com:443/posts/postgresql-everything/",
+    "title": "PostgreSQL for Everything"
   },
   {
     "source": "hn",
     "url": "https://jeremymorrell.dev/blog/extensible-software-in-the-age-of-llms/",
     "title": "Extensible Software in the age of LLMs"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.alanzucconi.com/2026/08/15/xorshift-generators/",
+    "title": "Xorshift Generators"
   },
   {
     "source": "lobsters",
@@ -91,18 +96,28 @@
   },
   {
     "source": "lobsters",
-    "url": "https://blog.ploopy.co/the-aplus-is-finally-here-499",
-    "title": "Ploopy A+ (external trackball)"
-  },
-  {
-    "source": "lobsters",
     "url": "https://joecode.com/2026-08-19-sqlite3/",
     "title": "SQLite for Everything"
   },
   {
     "source": "lobsters",
+    "url": "https://blog.ploopy.co/the-aplus-is-finally-here-499",
+    "title": "Ploopy A+ (external trackball)"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://besok.github.io/posts/what-zig-felt-like-coming-from-rust/",
+    "title": "What Zig felt like, coming from Rust"
+  },
+  {
+    "source": "lobsters",
     "url": "https://blog.joinmastodon.org/2026/08/5.0-laying-the-foundation/",
     "title": "Mastodon 5.0: Laying the foundation"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://zerotistic.blog/posts/find-my-people-linux/",
+    "title": "Reverse-engineering Find My People to stalk ̶m̶y̶ ̶e̶x̶ a friend, cause I can"
   },
   {
     "source": "lobsters",
@@ -121,18 +136,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://zerotistic.blog/posts/find-my-people-linux/",
-    "title": "Reverse-engineering Find My People to stalk ̶m̶y̶ ̶e̶x̶ a friend, cause I can"
-  },
-  {
-    "source": "lobsters",
     "url": "https://sporks.space/2026/08/19/things-i-want-in-a-modern-relational-query-language/",
     "title": "Things I want in a modern relational query language"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://besok.github.io/posts/what-zig-felt-like-coming-from-rust/",
-    "title": "What Zig felt like, coming from Rust"
   },
   {
     "source": "lobsters",
