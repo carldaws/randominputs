@@ -1,6 +1,11 @@
 [
   {
     "source": "hn",
+    "url": "https://www.benjoffe.com/fast-day-of-week",
+    "title": "A faster way to calculate the day of the week"
+  },
+  {
+    "source": "hn",
     "url": "https://coca11272000.wixsite.com/manabukosaka",
     "title": "Manabu Kosaka's Handmade Paper Sculptures"
   },
@@ -16,18 +21,13 @@
   },
   {
     "source": "hn",
-    "url": "https://www.benjoffe.com/fast-day-of-week",
-    "title": "A faster way to calculate the day of the week"
+    "url": "https://jumploops.com/blog/sol-loves-to-cheat/",
+    "title": "Sol Loves to Cheat"
   },
   {
     "source": "hn",
     "url": "https://www.casio.com/uk/watches/casio/product.F-B100W-1A/",
     "title": "Casio F-B100W-1A"
-  },
-  {
-    "source": "hn",
-    "url": "https://jumploops.com/blog/sol-loves-to-cheat/",
-    "title": "Sol Loves to Cheat"
   },
   {
     "source": "hn",
@@ -51,6 +51,11 @@
   },
   {
     "source": "hn",
+    "url": "https://www.alanzucconi.com/2026/08/15/xorshift-generators/",
+    "title": "Xorshift Generators"
+  },
+  {
+    "source": "hn",
     "url": "https://inco.ai/blog/dflash2/",
     "title": "DFlash 2: Keep Drafting Parallel"
   },
@@ -63,11 +68,6 @@
     "source": "hn",
     "url": "https://pennypresses.net/home/map.php",
     "title": "Pressed Penny Machine Map"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.alanzucconi.com/2026/08/15/xorshift-generators/",
-    "title": "Xorshift Generators"
   },
   {
     "source": "hn",
@@ -96,18 +96,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://blog.vrypan.net/2026/08/19/260819-sing-song/",
-    "title": "Sing-song: a speakable encoding for long numbers and keys"
-  },
-  {
-    "source": "lobsters",
     "url": "https://blog.ploopy.co/the-aplus-is-finally-here-499",
     "title": "Ploopy A+ (external trackball)"
   },
   {
     "source": "lobsters",
-    "url": "https://blog.joinmastodon.org/2026/08/5.0-laying-the-foundation/",
-    "title": "Mastodon 5.0: Laying the foundation"
+    "url": "https://blog.vrypan.net/2026/08/19/260819-sing-song/",
+    "title": "Sing-song: a speakable encoding for long numbers and keys"
   },
   {
     "source": "lobsters",
@@ -116,18 +111,23 @@
   },
   {
     "source": "lobsters",
+    "url": "https://blog.joinmastodon.org/2026/08/5.0-laying-the-foundation/",
+    "title": "Mastodon 5.0: Laying the foundation"
+  },
+  {
+    "source": "lobsters",
     "url": "https://daniel.haxx.se/blog/2024/08/19/a-filename-when-none-exists/",
     "title": "a filename when none exists"
   },
   {
     "source": "lobsters",
-    "url": "https://sporks.space/2026/08/19/things-i-want-in-a-modern-relational-query-language/",
-    "title": "Things I want in a modern relational query language"
+    "url": "https://kernelkennel.com/blog/summercon2026-rosetta/",
+    "title": "Packing Malware in Rosetta 2"
   },
   {
     "source": "lobsters",
-    "url": "https://kernelkennel.com/blog/summercon2026-rosetta/",
-    "title": "Packing Malware in Rosetta 2"
+    "url": "https://sporks.space/2026/08/19/things-i-want-in-a-modern-relational-query-language/",
+    "title": "Things I want in a modern relational query language"
   },
   {
     "source": "lobsters",
