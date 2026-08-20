@@ -1,6 +1,11 @@
 [
   {
     "source": "hn",
+    "url": "https://dontpastetheai.com/",
+    "title": "Don't Paste the AI, please"
+  },
+  {
+    "source": "hn",
     "url": "https://www.benjoffe.com/fast-day-of-week",
     "title": "A faster way to calculate the day of the week"
   },
@@ -21,18 +26,13 @@
   },
   {
     "source": "hn",
-    "url": "https://jumploops.com/blog/sol-loves-to-cheat/",
-    "title": "Sol loves to cheat"
-  },
-  {
-    "source": "hn",
     "url": "https://www.casio.com/uk/watches/casio/product.F-B100W-1A/",
     "title": "Casio F-B100W-1A"
   },
   {
     "source": "hn",
-    "url": "https://snarky.ca/whats-missing-to-have-reproducible-builds-on-pypi/",
-    "title": "What's missing to have reproducible builds on PyPI"
+    "url": "https://jumploops.com/blog/sol-loves-to-cheat/",
+    "title": "Sol loves to cheat"
   },
   {
     "source": "hn",
@@ -48,6 +48,11 @@
     "source": "hn",
     "url": "https://www.raphaelbauer.com:443/posts/postgresql-everything/",
     "title": "PostgreSQL for Everything"
+  },
+  {
+    "source": "hn",
+    "url": "https://snarky.ca/whats-missing-to-have-reproducible-builds-on-pypi/",
+    "title": "What's missing to have reproducible builds on PyPI"
   },
   {
     "source": "hn",
@@ -116,8 +121,18 @@
   },
   {
     "source": "lobsters",
+    "url": "https://zerotistic.blog/posts/find-my-people-linux/",
+    "title": "Reverse-engineering Find My People to stalk ̶m̶y̶ ̶e̶x̶ a friend, cause I can"
+  },
+  {
+    "source": "lobsters",
     "url": "https://sporks.space/2026/08/19/things-i-want-in-a-modern-relational-query-language/",
     "title": "Things I want in a modern relational query language"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://besok.github.io/posts/what-zig-felt-like-coming-from-rust/",
+    "title": "What Zig felt like, coming from Rust"
   },
   {
     "source": "lobsters",
