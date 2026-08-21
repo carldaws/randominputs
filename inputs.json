@@ -6,6 +6,11 @@
   },
   {
     "source": "hn",
+    "url": "https://allaboutcoding.ghinda.com/a-week-of-using-codex-more-than-claude/",
+    "title": "Quick impressions: A week of using Codex more than Claude"
+  },
+  {
+    "source": "hn",
     "url": "https://www.felonybench.com/",
     "title": "Felony Bench"
   },
@@ -16,18 +21,23 @@
   },
   {
     "source": "hn",
-    "url": "https://nari-labs.com/blog/qwen3-tts-speed-cost-frontier/",
-    "title": "How we made a text-to-speech model respond in sub-50 ms"
-  },
-  {
-    "source": "hn",
     "url": "https://api-docs.deepseek.com/guides/vision/",
     "title": "DeepSeek-v4-flash-vision-exp"
   },
   {
     "source": "hn",
+    "url": "https://nari-labs.com/blog/qwen3-tts-speed-cost-frontier/",
+    "title": "How we made a text-to-speech model respond in sub-50 ms"
+  },
+  {
+    "source": "hn",
     "url": "https://pointinthecloud.com/2026-08-19-144600.html",
     "title": "I ran Photoshop on a £0.60 computer chip"
+  },
+  {
+    "source": "hn",
+    "url": "https://blog.doubleword.ai/what-happens-when-a-gpu-reads-memory",
+    "title": "What happens when a GPU reads memory"
   },
   {
     "source": "hn",
@@ -41,8 +51,8 @@
   },
   {
     "source": "hn",
-    "url": "https://blog.doubleword.ai/what-happens-when-a-gpu-reads-memory",
-    "title": "What happens when a GPU reads memory"
+    "url": "http://tronweb.super-nova.co.jp/b-right-vr2intro.html",
+    "title": "The B-right/V R2 Operating System (2000)"
   },
   {
     "source": "hn",
@@ -51,8 +61,8 @@
   },
   {
     "source": "hn",
-    "url": "https://precastreinforced.co.uk/2026/08/16/new-worlds/",
-    "title": "New Worlds: We are living in the future of J.G. Ballard or William Gibson"
+    "url": "https://cymerys.com/w/im-becoming-ai-blind",
+    "title": "I'm becoming AI-blind"
   },
   {
     "source": "hn",
@@ -61,23 +71,13 @@
   },
   {
     "source": "hn",
-    "url": "https://cymerys.com/w/im-becoming-ai-blind",
-    "title": "I'm becoming AI-blind"
+    "url": "https://precastreinforced.co.uk/2026/08/16/new-worlds/",
+    "title": "New Worlds: We are living in the future of J.G. Ballard or William Gibson"
   },
   {
     "source": "hn",
     "url": "https://notactuallytreyanastasio.github.io/shoehorn/",
     "title": "Show HN: Shoehorn – Quantize any model down to run on your machine"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.jank.cool/death-to-the-self-playing-game/",
-    "title": "Death to the Self-Playing Game"
-  },
-  {
-    "source": "hn",
-    "url": "http://gus-massa.blogspot.com/2026/08/another-better-lower-bound-for-n17.html",
-    "title": "Another better lower bound for n=17 square packing"
   },
   {
     "source": "lobsters",
@@ -146,107 +146,7 @@
   },
   {
     "source": "lobsters",
-    "url": "https://besok.github.io/posts/what-zig-felt-like-coming-from-rust/",
-    "title": "What Zig felt like, coming from Rust"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://chrisburnell.com/html-can-do-that/",
-    "title": "HTML Can Do That · Chris Burnell"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.raphaelbauer.com/posts/postgresql-everything/",
-    "title": "PostgreSQL for Everything - Dr. Raphael A. Bauer, MBA | Fractional & Interim CTO | PE/VC Tech Strategy & Due Diligence | Berlin | London | Austin, Texas"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://openlogi.org/en",
-    "title": "OpenLogi"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://philo.gay/linecam/",
-    "title": "Using the railway network as a flatbed scanner"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://seths.blog/2026/08/the-amazon-tax/",
-    "title": "The Amazon tax | Seth's Blog"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://opensource.posit.co/resources/cheatsheets/polars/",
-    "title": "Python Polars: The Definitive Cheatsheet :: Posit Open Source"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://dontpastetheai.com/",
-    "title": "Don't paste the AI."
-  },
-  {
-    "source": "pinboard",
-    "url": "https://chrisburnell.com/html-can-do-that/#example-until-found",
-    "title": "HTML Can Do That · Chris Burnell"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.casio.com/uk/watches/casio/product.F-B100W-1A/",
-    "title": "F-B100W-1A | CASIO"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing",
-    "title": "Daring Fireball: Anthropic’s ‘Watermark’ Text Adulteration in Claude Is a Perversion of Writing"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://ysph.yale.edu/news-article/universal-health-coverage-could-save-one-trillion-dollars-and-114000-lives-every-year/",
-    "title": "Universal Health Coverage Could Save $1 Trillion and 114,000 Lives Every Year, Yale Study Projects | Yale School of Public Health"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.ikea.com/se/en/customer-service/knowledge/articles/6f564c4d-2ccc-46de-b643-545a3948dc79.html",
-    "title": "How does IKEA come up with names for its products?"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://ordinaryabundance.com/",
-    "title": "Ordinary Abundance"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://sunclock.net/",
-    "title": "Sun Clock - a 24hr clock that shows the position of the sun"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://fx.sh/",
-    "title": "fx - Tiny, open, native coding agent"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.platformer.news/karpathy-llm-wiki-journalism-productivity/",
-    "title": "Casey Newton si è costruito una wiki personale con gli LLM, su idea di Karpathy"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://joecode.com/2026-08-19-sqlite3/",
-    "title": "SQLite for Everything | JoeCode"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.wired.com/story/the-worst-ive-ever-seen-cargo-thieves-are-turning-violent-in-pursuit-of-ai-hardware/",
-    "title": "‘The Worst I’ve Ever Seen’: Cargo Thefts Have Turned Violent in Pursuit of AI Hardware | WIRED"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html",
-    "title": "AI is removing the middle class of software engineering"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.benjoffe.com/fast-day-of-week",
-    "title": "A faster way to calculate the day-of-the-week"
+    "url": "https://hackaday.com/2026/08/20/homebrew-68k-machine-has-a-pci-bus/",
+    "title": "Homebrew 68K Machine Has A PCI Bus"
   }
 ]
