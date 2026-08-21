@@ -1,8 +1,8 @@
 [
   {
     "source": "hn",
-    "url": "https://sockpuppet.org/blog/2026/08/20/stop-making-tuis/",
-    "title": "Stop Making TUIs"
+    "url": "https://remapradio.com/articles/the-lost-treasure-of-sid-meiers-pirates/",
+    "title": "The Lost Treasure of Sid Meier's Pirates"
   },
   {
     "source": "hn",
@@ -31,11 +31,6 @@
   },
   {
     "source": "hn",
-    "url": "https://Argentic.network",
-    "title": "Show HN: Argentic – An L402 Lightning toll booth for AI scraping agents"
-  },
-  {
-    "source": "hn",
     "url": "https://www.wsj.com/tech/steve-jobs-apple-next-cia-161b65f9?st=NWWds1&reflink=desktopwebshare_permalink",
     "title": "CIA funding helped keep NeXT afloat in the 80s"
   },
@@ -51,11 +46,6 @@
   },
   {
     "source": "hn",
-    "url": "https://strn.cat/posts/spacetime/",
-    "title": "SpacetimeDB: a short technical review"
-  },
-  {
-    "source": "hn",
     "url": "https://byroot.github.io/ruby/performance/2026/08/13/speeding-up-ruby-hashes.html",
     "title": "Speeding Up (Small) Ruby Hashes"
   },
@@ -66,13 +56,13 @@
   },
   {
     "source": "hn",
-    "url": "https://consumerrights.wiki/w/Main_Page",
-    "title": "Consumer Rights Wiki"
+    "url": "https://strn.cat/posts/spacetime/",
+    "title": "SpacetimeDB: a short technical review"
   },
   {
     "source": "hn",
-    "url": "https://bactra.org/notebooks/cybersyn.html",
-    "title": "Project Cybersyn (2022)"
+    "url": "https://Argentic.network",
+    "title": "Show HN: Argentic – An L402 Lightning toll booth for AI scraping agents"
   },
   {
     "source": "lobsters",
@@ -81,13 +71,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://sprocketfox.io/xssfox/2026/08/19/sondehub-and-war/",
-    "title": "How a joke domain purchase turned into geopolitical warfare"
+    "url": "https://blog.rust-lang.org/2026/08/20/Rust-1.98.0/",
+    "title": "Announcing Rust 1.98.0"
   },
   {
     "source": "lobsters",
-    "url": "https://blog.rust-lang.org/2026/08/20/supply-chain-attack-on-arrayref/",
-    "title": "Supply chain attack on arrayref"
+    "url": "https://sprocketfox.io/xssfox/2026/08/19/sondehub-and-war/",
+    "title": "How a joke domain purchase turned into geopolitical warfare"
   },
   {
     "source": "lobsters",
@@ -96,13 +86,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://blog.rust-lang.org/2026/08/20/Rust-1.98.0/",
-    "title": "Announcing Rust 1.98.0"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://besok.github.io/posts/what-zig-felt-like-coming-from-rust/",
-    "title": "What Zig felt like, coming from Rust"
+    "url": "https://blog.rust-lang.org/2026/08/20/supply-chain-attack-on-arrayref/",
+    "title": "Supply chain attack on arrayref"
   },
   {
     "source": "lobsters",
@@ -111,18 +96,23 @@
   },
   {
     "source": "lobsters",
+    "url": "https://besok.github.io/posts/what-zig-felt-like-coming-from-rust/",
+    "title": "What Zig felt like, coming from Rust"
+  },
+  {
+    "source": "lobsters",
     "url": "https://www.ethanheilman.com/x/33/index.html",
     "title": "Open-sourcing OpenPubkey SSH (OPKSSH): integrating single sign-on with SSH"
   },
   {
     "source": "lobsters",
-    "url": "https://www.akitaonrails.com/en/2026/08/19/survival-guide-for-a-censored-internet/",
-    "title": "Survival Guide for a Censored Internet"
+    "url": "https://nishantjosh.dev/blogs/reclaim-the-terminal/",
+    "title": "Reclaim the terminal"
   },
   {
     "source": "lobsters",
-    "url": "https://nishantjosh.dev/blogs/reclaim-the-terminal/",
-    "title": "Reclaim the terminal"
+    "url": "https://www.akitaonrails.com/en/2026/08/19/survival-guide-for-a-censored-internet/",
+    "title": "Survival Guide for a Censored Internet"
   },
   {
     "source": "lobsters",
@@ -141,12 +131,12 @@
   },
   {
     "source": "lobsters",
-    "url": "https://antonz.org/going-freestanding/",
-    "title": "Going freestanding"
+    "url": "https://matklad.github.io/2026/08/20/better-batteries.html",
+    "title": "Better Batteries"
   },
   {
     "source": "lobsters",
-    "url": "https://zerotistic.blog/posts/find-my-people-linux/",
-    "title": "Reverse-engineering Find My People to stalk ̶m̶y̶ ̶e̶x̶ a friend, cause I can"
+    "url": "https://antonz.org/going-freestanding/",
+    "title": "Going freestanding"
   }
 ]
