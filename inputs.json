@@ -1,11 +1,6 @@
 [
   {
     "source": "hn",
-    "url": "https://jacob.gold/posts/theres-no-such-thing-as-a-small-software-team/",
-    "title": "There's no such thing as a small software team anymore"
-  },
-  {
-    "source": "hn",
     "url": "https://chrisburnell.com/html-can-do-that/",
     "title": "HTML Can Do That"
   },
@@ -26,18 +21,13 @@
   },
   {
     "source": "hn",
-    "url": "https://simedw.com/2026/08/20/midi-autocomplete/",
-    "title": "Show HN: I trained a 125M model to autocomplete piano on-device"
-  },
-  {
-    "source": "hn",
     "url": "https://www.danielvaughn.dev/posts/huzzah/",
     "title": "Show HN: Huzzah – a novel approach to coding with AI"
   },
   {
     "source": "hn",
-    "url": "https://niki.cat/detecting-scraper-bots-through-scroll-behaviour",
-    "title": "Detecting scraper bots through scroll behaviour"
+    "url": "https://jacob.gold/posts/theres-no-such-thing-as-a-small-software-team/",
+    "title": "There's no such thing as a small software team anymore"
   },
   {
     "source": "hn",
@@ -46,8 +36,8 @@
   },
   {
     "source": "hn",
-    "url": "https://byroot.github.io/ruby/performance/2026/08/13/speeding-up-ruby-hashes.html",
-    "title": "Speeding Up (Small) Ruby Hashes"
+    "url": "https://strn.cat/posts/spacetime/",
+    "title": "SpacetimeDB: A Short Technical Review"
   },
   {
     "source": "hn",
@@ -56,8 +46,8 @@
   },
   {
     "source": "hn",
-    "url": "https://strn.cat/posts/spacetime/",
-    "title": "SpacetimeDB: A Short Technical Review"
+    "url": "https://byroot.github.io/ruby/performance/2026/08/13/speeding-up-ruby-hashes.html",
+    "title": "Speeding Up (Small) Ruby Hashes"
   },
   {
     "source": "hn",
@@ -101,6 +91,11 @@
   },
   {
     "source": "lobsters",
+    "url": "https://blog.rust-lang.org/2026/08/20/Rust-1.98.0/",
+    "title": "Announcing Rust 1.98.0"
+  },
+  {
+    "source": "lobsters",
     "url": "https://nishantjosh.dev/blogs/reclaim-the-terminal/",
     "title": "Reclaim the terminal"
   },
@@ -118,11 +113,6 @@
     "source": "lobsters",
     "url": "https://blog.vrypan.net/2026/08/19/260819-sing-song/",
     "title": "Sing-song: a speakable encoding for long numbers and keys"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://blog.rust-lang.org/2026/08/20/Rust-1.98.0/",
-    "title": "Announcing Rust 1.98.0"
   },
   {
     "source": "lobsters",
