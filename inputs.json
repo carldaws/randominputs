@@ -6,18 +6,28 @@
   },
   {
     "source": "hn",
+    "url": "https://san.com/cc/grand-jury-declines-to-indict-ohio-man-charged-with-destroying-flock-camera/",
+    "title": "Grand jury declines to indict Ohio man charged with destroying Flock camera"
+  },
+  {
+    "source": "hn",
+    "url": "https://invertingvision.com/2026/08/10/kodaks-pre-invented-lunar-orbiter-camera-or-the-fate-of-samos-readout/",
+    "title": "Kodak's \"Pre-Invented\" Lunar Orbiter Camera; Or, the Fate of SAMOS Readout"
+  },
+  {
+    "source": "hn",
+    "url": "https://cymerys.com/w/im-becoming-ai-blind",
+    "title": "I'm Becoming AI-Blind"
+  },
+  {
+    "source": "hn",
     "url": "https://remapradio.com/articles/the-lost-treasure-of-sid-meiers-pirates/",
     "title": "The Lost Treasure of Sid Meier's Pirates"
   },
   {
     "source": "hn",
-    "url": "https://www.newyorker.com/science/elements/the-mystery-of-dark-oxygen",
-    "title": "The Mystery of Dark Oxygen"
-  },
-  {
-    "source": "hn",
-    "url": "https://san.com/cc/grand-jury-declines-to-indict-ohio-man-charged-with-destroying-flock-camera/",
-    "title": "Grand jury declines to indict Ohio man charged with destroying Flock camera"
+    "url": "https://catalystneuro.com/blog/cost-of-intelligence-drops-100x/",
+    "title": "What Happens When the Cost of Intelligence Drops 100x"
   },
   {
     "source": "hn",
@@ -26,8 +36,38 @@
   },
   {
     "source": "hn",
+    "url": "https://www.guidavid.com/writing/convite",
+    "title": "Convite"
+  },
+  {
+    "source": "hn",
+    "url": "https://lina.sh/blog/hijacking-e164-arpa",
+    "title": "I accidentally logged phone calls to military bases"
+  },
+  {
+    "source": "hn",
+    "url": "https://precastreinforced.co.uk/2026/08/16/new-worlds/",
+    "title": "We are living in a version of the future out of J.G. Ballard or William Gibson"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.newyorker.com/science/elements/the-mystery-of-dark-oxygen",
+    "title": "The Mystery of Dark Oxygen"
+  },
+  {
+    "source": "hn",
     "url": "https://safedep.io/arrayref-proc-macro1-rust-build-time-malware/",
     "title": "Malicious Rust crate Arrayref runs a build-time payload"
+  },
+  {
+    "source": "hn",
+    "url": "https://martin.kleppmann.com/2007/07/19/yes-no-cancel-causes-aspirin-sales-to-soar.html",
+    "title": "Yes/No/Cancel causes Aspirin sales to soar"
+  },
+  {
+    "source": "hn",
+    "url": "https://duckdb.org/2026/08/20/duckdb-20-peg-parser",
+    "title": "DuckDB V2 PEG-based SQL parser"
   },
   {
     "source": "hn",
@@ -35,34 +75,9 @@
     "title": "I should have loved biology (2020)"
   },
   {
-    "source": "hn",
+    "source": "lobsters",
     "url": "https://matklad.github.io/2026/08/20/better-batteries.html",
     "title": "Better Batteries"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.wsj.com/tech/steve-jobs-apple-next-cia-161b65f9?st=NWWds1&reflink=desktopwebshare_permalink",
-    "title": "CIA funding helped keep NeXT afloat in the 80s"
-  },
-  {
-    "source": "hn",
-    "url": "https://philipdick.com/resources/miscellaneous/the-religious-experience-of-philip-k-dick-by-r-crumb-from-weirdo-17/",
-    "title": "The Religious Experience of Philip K. Dick by R. Crumb (1986)"
-  },
-  {
-    "source": "hn",
-    "url": "https://changyi.fun/posts/attention-arithmetic-intensity/",
-    "title": "Attention Through Arithmetic Intensity"
-  },
-  {
-    "source": "hn",
-    "url": "https://blog.yaros.ae/anti-ai-fonts-are-useless-and-harmful/",
-    "title": "Anti-AI fonts are useless and harmful"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://lina.sh/blog/hijacking-e164-arpa",
-    "title": "I accidentally logged hundreds of thousands of phone calls to military bases"
   },
   {
     "source": "lobsters",
@@ -118,5 +133,100 @@
     "source": "lobsters",
     "url": "https://nishantjosh.dev/blogs/reclaim-the-terminal/",
     "title": "Reclaim the terminal"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.raphaelbauer.com/posts/postgresql-everything/",
+    "title": "PostgreSQL for Everything - Dr. Raphael A. Bauer, MBA | Fractional & Interim CTO | PE/VC Tech Strategy & Due Diligence | Berlin | London | Austin, Texas"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://openlogi.org/en",
+    "title": "OpenLogi"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://philo.gay/linecam/",
+    "title": "Using the railway network as a flatbed scanner"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://seths.blog/2026/08/the-amazon-tax/",
+    "title": "The Amazon tax | Seth's Blog"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://opensource.posit.co/resources/cheatsheets/polars/",
+    "title": "Python Polars: The Definitive Cheatsheet :: Posit Open Source"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://dontpastetheai.com/",
+    "title": "Don't paste the AI."
+  },
+  {
+    "source": "pinboard",
+    "url": "https://chrisburnell.com/html-can-do-that/#example-until-found",
+    "title": "HTML Can Do That · Chris Burnell"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.casio.com/uk/watches/casio/product.F-B100W-1A/",
+    "title": "F-B100W-1A | CASIO"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing",
+    "title": "Daring Fireball: Anthropic’s ‘Watermark’ Text Adulteration in Claude Is a Perversion of Writing"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://ysph.yale.edu/news-article/universal-health-coverage-could-save-one-trillion-dollars-and-114000-lives-every-year/",
+    "title": "Universal Health Coverage Could Save $1 Trillion and 114,000 Lives Every Year, Yale Study Projects | Yale School of Public Health"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.ikea.com/se/en/customer-service/knowledge/articles/6f564c4d-2ccc-46de-b643-545a3948dc79.html",
+    "title": "How does IKEA come up with names for its products?"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://ordinaryabundance.com/",
+    "title": "Ordinary Abundance"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://sunclock.net/",
+    "title": "Sun Clock - a 24hr clock that shows the position of the sun"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://fx.sh/",
+    "title": "fx - Tiny, open, native coding agent"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.platformer.news/karpathy-llm-wiki-journalism-productivity/",
+    "title": "Casey Newton si è costruito una wiki personale con gli LLM, su idea di Karpathy"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://joecode.com/2026-08-19-sqlite3/",
+    "title": "SQLite for Everything | JoeCode"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.wired.com/story/the-worst-ive-ever-seen-cargo-thieves-are-turning-violent-in-pursuit-of-ai-hardware/",
+    "title": "‘The Worst I’ve Ever Seen’: Cargo Thefts Have Turned Violent in Pursuit of AI Hardware | WIRED"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html",
+    "title": "AI is removing the middle class of software engineering"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.benjoffe.com/fast-day-of-week",
+    "title": "A faster way to calculate the day-of-the-week"
   }
 ]
