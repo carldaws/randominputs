@@ -36,11 +36,6 @@
   },
   {
     "source": "hn",
-    "url": "https://pradeeproark.com/posts/code-as-an-artifact-means-to-an-end/",
-    "title": "Code as an Artifact"
-  },
-  {
-    "source": "hn",
     "url": "https://www.wsj.com/tech/steve-jobs-apple-next-cia-161b65f9?st=NWWds1&reflink=desktopwebshare_permalink",
     "title": "CIA funding helped keep NeXT afloat in the 80s"
   },
@@ -51,8 +46,18 @@
   },
   {
     "source": "hn",
+    "url": "https://niki.cat/detecting-scraper-bots-through-scroll-behaviour",
+    "title": "Detecting scraper bots through scroll behaviour"
+  },
+  {
+    "source": "hn",
     "url": "https://strn.cat/posts/spacetime/",
     "title": "SpacetimeDB: A Short Technical Review"
+  },
+  {
+    "source": "hn",
+    "url": "https://pointersgonewild.com/2026-08-17-speeding-up-the-plush-garbage-collector/",
+    "title": "Speeding Up the Plush Garbage Collector"
   },
   {
     "source": "hn",
@@ -61,13 +66,8 @@
   },
   {
     "source": "hn",
-    "url": "https://byroot.github.io/ruby/performance/2026/08/13/speeding-up-ruby-hashes.html",
-    "title": "Speeding Up (Small) Ruby Hashes"
-  },
-  {
-    "source": "hn",
-    "url": "https://niki.cat/detecting-scraper-bots-through-scroll-behaviour",
-    "title": "Detecting scraper bots through scroll behaviour"
+    "url": "https://nautil.us/the-wonders-of-the-male-human-pelvis-1283947",
+    "title": "The Wonders of the Male Human Pelvis"
   },
   {
     "source": "hn",
@@ -76,13 +76,13 @@
   },
   {
     "source": "hn",
-    "url": "https://www.mikekasberg.com/blog/2026/08/19/hacking-with-claude-on-a-27-smart-watch.html",
-    "title": "Hacking with Claude on a $27 smart watch"
+    "url": "https://byroot.github.io/ruby/performance/2026/08/13/speeding-up-ruby-hashes.html",
+    "title": "Speeding Up (Small) Ruby Hashes"
   },
   {
     "source": "hn",
-    "url": "https://nautil.us/the-wonders-of-the-male-human-pelvis-1283947",
-    "title": "The Wonders of the Male Human Pelvis"
+    "url": "https://www.mikekasberg.com/blog/2026/08/19/hacking-with-claude-on-a-27-smart-watch.html",
+    "title": "Hacking with Claude on a $27 smart watch"
   },
   {
     "source": "lobsters",
@@ -150,103 +150,8 @@
     "title": "Decoding Magic School Lunar's Save Game Format"
   },
   {
-    "source": "pinboard",
-    "url": "https://www.raphaelbauer.com/posts/postgresql-everything/",
-    "title": "PostgreSQL for Everything - Dr. Raphael A. Bauer, MBA | Fractional & Interim CTO | PE/VC Tech Strategy & Due Diligence | Berlin | London | Austin, Texas"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing",
-    "title": "Daring Fireball: Anthropic’s ‘Watermark’ Text Adulteration in Claude Is a Perversion of Writing"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://philo.gay/linecam/",
-    "title": "Using the railway network as a flatbed scanner"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://ysph.yale.edu/news-article/universal-health-coverage-could-save-one-trillion-dollars-and-114000-lives-every-year/",
-    "title": "Universal Health Coverage Could Save $1 Trillion and 114,000 Lives Every Year, Yale Study Projects | Yale School of Public Health"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://openlogi.org/en",
-    "title": "OpenLogi"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.404media.co/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-training-facility/",
-    "title": "https://www.404media.co/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-training-facility/"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://seths.blog/2026/08/the-amazon-tax/",
-    "title": "The Amazon tax | Seth's Blog"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://sunclock.net/",
-    "title": "Sun Clock - a 24hr clock that shows the position of the sun"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://opensource.posit.co/resources/cheatsheets/polars/",
-    "title": "Python Polars: The Definitive Cheatsheet :: Posit Open Source"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://ordinaryabundance.com/",
-    "title": "Ordinary Abundance"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://linear.axler.net/",
-    "title": "(500) https://linear.axler.net/"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://simonwillison.net/2026/Aug/16/qwen-38-27b/",
-    "title": "Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.librarian.net/notoai/",
-    "title": "How to disable or avoid intrusive AI – librarian.net"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://daringfireball.net/2026/08/follow-up_thoughts_on_watermarking",
-    "title": "Daring Fireball: Follow-Up Thoughts on Watermarking Schemes for AI-Generated Text"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.macrumors.com/2026/08/17/camera-equipped-airpods-macos-26-7/",
-    "title": "Apple's Camera-Equipped AirPods Confirmed: See Them in Action - MacRumors"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.404media.co/show-how-3m-is-0-at-fault-expert-witness-used-chatgpt-to-write-report-defending-company-in-deadly-explosion-lawsuit/",
-    "title": "‘Show How 3M Is 0% at Fault:’ Expert Witness Used ChatGPT to Write Report Defending Company in Deadly Explosion Lawsuit"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.ikea.com/se/en/customer-service/knowledge/articles/6f564c4d-2ccc-46de-b643-545a3948dc79.html",
-    "title": "How does IKEA come up with names for its products?"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://tau.dev/2026/08/07/canon",
-    "title": "Canon"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.benjoffe.com/fast-day-of-week",
-    "title": "A faster way to calculate the day-of-the-week"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://fx.sh/",
-    "title": "fx - Tiny, open, native coding agent"
+    "source": "lobsters",
+    "url": "https://blog.ploopy.co/the-aplus-is-finally-here-499",
+    "title": "Ploopy A+ (external trackball)"
   }
 ]
