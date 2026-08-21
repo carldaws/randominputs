@@ -1,18 +1,13 @@
 [
   {
     "source": "hn",
+    "url": "https://caligra.com/c100/",
+    "title": "c100"
+  },
+  {
+    "source": "hn",
     "url": "https://api-docs.deepseek.com/guides/vision/",
     "title": "DeepSeek-v4-flash-vision-exp"
-  },
-  {
-    "source": "hn",
-    "url": "https://catalystneuro.com/blog/cost-of-intelligence-drops-100x/",
-    "title": "What Happens When the Cost of Intelligence Drops 100x"
-  },
-  {
-    "source": "hn",
-    "url": "https://blog.8ball.space/what-we-lost-when-search/",
-    "title": "What We Lost When Search Stopped Making Us Think"
   },
   {
     "source": "hn",
@@ -21,8 +16,18 @@
   },
   {
     "source": "hn",
-    "url": "https://san.com/cc/grand-jury-declines-to-indict-ohio-man-charged-with-destroying-flock-camera/",
-    "title": "Grand jury declines to indict Ohio man charged with destroying Flock camera"
+    "url": "https://canews24.online/?p=71",
+    "title": "AI Boosted Homework Scores by 18% – Then Exam Scores Dropped 20%, Study Shows"
+  },
+  {
+    "source": "hn",
+    "url": "https://omarchy.org/news/2026/08/omacom-foundation-launches-with-8-million/",
+    "title": "Omacom Foundation Launches with $8M"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.felonybench.com/",
+    "title": "Felony Bench"
   },
   {
     "source": "hn",
@@ -31,8 +36,23 @@
   },
   {
     "source": "hn",
-    "url": "https://martin.kleppmann.com/2007/07/19/yes-no-cancel-causes-aspirin-sales-to-soar.html",
-    "title": "Yes/No/Cancel causes Aspirin sales to soar"
+    "url": "https://san.com/cc/grand-jury-declines-to-indict-ohio-man-charged-with-destroying-flock-camera/",
+    "title": "Grand jury declines to indict Ohio man charged with destroying Flock camera"
+  },
+  {
+    "source": "hn",
+    "url": "https://blog.8ball.space/what-we-lost-when-search/",
+    "title": "What We Lost When Search Stopped Making Us Think"
+  },
+  {
+    "source": "hn",
+    "url": "https://catalystneuro.com/blog/cost-of-intelligence-drops-100x/",
+    "title": "What Happens When the Cost of Intelligence Drops 100x"
+  },
+  {
+    "source": "hn",
+    "url": "https://lawrencecpaulson.github.io//2026/08/21/Lamport.html",
+    "title": "I came to write THAT paper with Leslie Lamport"
   },
   {
     "source": "hn",
@@ -41,8 +61,8 @@
   },
   {
     "source": "hn",
-    "url": "https://invertingvision.com/2026/08/10/kodaks-pre-invented-lunar-orbiter-camera-or-the-fate-of-samos-readout/",
-    "title": "Kodak's \"Pre-Invented\" Lunar Orbiter Camera; Or, the Fate of SAMOS Readout"
+    "url": "http://tronweb.super-nova.co.jp/b-right-vr2intro.html",
+    "title": "The B-right/V R2 Operating System"
   },
   {
     "source": "hn",
@@ -51,23 +71,28 @@
   },
   {
     "source": "hn",
-    "url": "https://cymerys.com/w/im-becoming-ai-blind",
-    "title": "I'm Becoming AI-Blind"
+    "url": "https://invertingvision.com/2026/08/10/kodaks-pre-invented-lunar-orbiter-camera-or-the-fate-of-samos-readout/",
+    "title": "Kodak's \"Pre-Invented\" Lunar Orbiter Camera; Or, the Fate of SAMOS Readout"
   },
   {
     "source": "hn",
-    "url": "https://www.futilitycloset.com/2026/08/10/nothing-doing-12/",
-    "title": "Nothing Doing"
+    "url": "https://nari-labs.com/blog/qwen3-tts-speed-cost-frontier/",
+    "title": "How We Made a Text-to-Speech Model Respond in Sub-50 ms"
   },
   {
     "source": "hn",
-    "url": "https://www.guidavid.com/writing/convite",
-    "title": "Convite"
+    "url": "https://bisecto.com/every-shape-can-be-cut-in-half.html",
+    "title": "Every shape can be cut exactly in half with one straight line"
   },
   {
-    "source": "hn",
+    "source": "lobsters",
     "url": "https://matklad.github.io/2026/08/20/better-batteries.html",
     "title": "Better Batteries"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://blog.rust-lang.org/2026/08/21/enabling-next-solver-on-nightly/",
+    "title": "Enabling the next-generation trait solver on nightly | Rust Blog"
   },
   {
     "source": "lobsters",
@@ -106,8 +131,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://blog.rust-lang.org/2026/08/21/enabling-next-solver-on-nightly/",
-    "title": "Enabling the next-generation trait solver on nightly | Rust Blog"
+    "url": "https://rust-glancer.github.io/blog/hello-world/",
+    "title": "rust-glancer: An alternative LSP for Rust with focus on low memory usage"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://www.ethanheilman.com/x/33/index.html",
+    "title": "Open-sourcing OpenPubkey SSH (OPKSSH): integrating single sign-on with SSH"
   },
   {
     "source": "lobsters",
@@ -116,13 +146,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://rust-glancer.github.io/blog/hello-world/",
-    "title": "rust-glancer: An alternative LSP for Rust with focus on low memory usage"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://www.ethanheilman.com/x/33/index.html",
-    "title": "Open-sourcing OpenPubkey SSH (OPKSSH): integrating single sign-on with SSH"
+    "url": "https://atproto.com/blog/atproto-spaces-alpha",
+    "title": "The Atproto Spaces Alpha is Live"
   },
   {
     "source": "lobsters",
