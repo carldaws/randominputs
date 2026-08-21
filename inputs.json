@@ -11,13 +11,13 @@
   },
   {
     "source": "hn",
-    "url": "https://c3.handmade.network/blog/p/8486-the_case_against_a_c_alternative",
-    "title": "The case against a C alternative (2022)"
+    "url": "https://chrisburnell.com/html-can-do-that/",
+    "title": "HTML Can Do That"
   },
   {
     "source": "hn",
-    "url": "https://chrisburnell.com/html-can-do-that/",
-    "title": "HTML Can Do That"
+    "url": "https://philipdick.com/resources/miscellaneous/the-religious-experience-of-philip-k-dick-by-r-crumb-from-weirdo-17/",
+    "title": "The Religious Experience of Philip K. Dick by R. Crumb (1986)"
   },
   {
     "source": "hn",
@@ -26,8 +26,8 @@
   },
   {
     "source": "hn",
-    "url": "https://philipdick.com/resources/miscellaneous/the-religious-experience-of-philip-k-dick-by-r-crumb-from-weirdo-17/",
-    "title": "The Religious Experience of Philip K. Dick by R. Crumb (1986)"
+    "url": "https://www.newyorker.com/science/elements/the-mystery-of-dark-oxygen",
+    "title": "The Mystery of Dark Oxygen"
   },
   {
     "source": "hn",
@@ -51,98 +51,73 @@
   },
   {
     "source": "hn",
-    "url": "https://blog.yaros.ae/anti-ai-fonts-are-useless-and-harmful/",
-    "title": "Anti-AI fonts are useless and harmful"
-  },
-  {
-    "source": "hn",
-    "url": "https://changyi.fun/posts/attention-arithmetic-intensity/",
-    "title": "Attention Through Arithmetic Intensity"
-  },
-  {
-    "source": "hn",
-    "url": "https://byroot.github.io/ruby/performance/2026/08/13/speeding-up-ruby-hashes.html",
-    "title": "Speeding Up (Small) Ruby Hashes"
-  },
-  {
-    "source": "hn",
     "url": "https://matklad.github.io/2026/08/20/better-batteries.html",
     "title": "Better Batteries"
   },
   {
-    "source": "lobsters",
-    "url": "https://zerotistic.blog/posts/find-my-people-linux/",
-    "title": "Reverse-engineering Find My People to stalk ̶m̶y̶ ̶e̶x̶ a friend, cause I can"
+    "source": "hn",
+    "url": "https://blog.yaros.ae/anti-ai-fonts-are-useless-and-harmful/",
+    "title": "Anti-AI fonts are useless and harmful"
   },
   {
     "source": "lobsters",
-    "url": "https://www.jvt.me/posts/2026/08/17/hand-write-commits/",
-    "title": "Why I still hand write my commit messages"
+    "url": "https://blog.rust-lang.org/2026/08/20/Rust-1.98.0/",
+    "title": "Announcing Rust 1.98.0"
   },
   {
     "source": "lobsters",
-    "url": "https://marekfiser.com/blog/double-double-arithmetic",
-    "title": "Double-double: 31 digits of precision without leaving the FPU"
+    "url": "https://bharadwajraju.com/posts/btrfs-snapshots-in-kde/",
+    "title": "Btrfs Snapshot Integration in KDE"
   },
   {
     "source": "lobsters",
-    "url": "https://blog.ploopy.co/the-aplus-is-finally-here-499",
-    "title": "Ploopy A+ (external trackball)"
+    "url": "https://bun.com/blog/bun-v1.4",
+    "title": "Bun 1.4"
   },
   {
     "source": "lobsters",
-    "url": "https://joecode.com/2026-08-19-sqlite3/",
-    "title": "SQLite for Everything"
+    "url": "https://www.gingerbill.org/article/2026/08/20/designing-odins-inline-asm/",
+    "title": "Everyone Says Assembly Is Untyped—Everyone Is Wrong"
   },
   {
     "source": "lobsters",
-    "url": "https://fzakaria.com/2026/08/19/three-ways-to-smuggle-sqlite-into-nix",
-    "title": "Three ways to smuggle SQLite into Nix"
+    "url": "https://sprocketfox.io/xssfox/2026/08/19/sondehub-and-war/",
+    "title": "How a joke domain purchase turned into geopolitical warfare"
   },
   {
     "source": "lobsters",
-    "url": "https://protobuf.com/",
-    "title": "Protobuf Explained"
+    "url": "https://blog.rust-lang.org/2026/08/20/supply-chain-attack-on-arrayref/",
+    "title": "Supply chain attack on arrayref"
   },
   {
     "source": "lobsters",
-    "url": "https://blog.joinmastodon.org/2026/08/5.0-laying-the-foundation/",
-    "title": "Mastodon 5.0: Laying the foundation"
+    "url": "https://besok.github.io/posts/what-zig-felt-like-coming-from-rust/",
+    "title": "What Zig felt like, coming from Rust"
   },
   {
     "source": "lobsters",
-    "url": "https://ieeexplore.ieee.org/document/9843754",
-    "title": "NASA's System Modeling Language, FPP"
+    "url": "https://www.ethanheilman.com/x/33/index.html",
+    "title": "Open-sourcing OpenPubkey SSH (OPKSSH): integrating single sign-on with SSH"
   },
   {
     "source": "lobsters",
-    "url": "https://franciscotrindade.me/blog/the-kids-are-really-alright/",
-    "title": "AI didn't erase the junior's value. It increased it"
+    "url": "https://www.akitaonrails.com/en/2026/08/19/survival-guide-for-a-censored-internet/",
+    "title": "Survival Guide for a Censored Internet"
   },
   {
     "source": "lobsters",
-    "url": "https://raylib-jlt.b12n.app/",
-    "title": "raylib examples in Jolt"
+    "url": "https://lina.sh/blog/hijacking-e164-arpa",
+    "title": "I accidentally logged hundreds of thousands of phone calls to military bases"
   },
   {
     "source": "lobsters",
-    "url": "https://surfingcomplexity.blog/2026/08/19/github-autoscaling-and-the-component-substitution-fallacy/",
-    "title": "GitHub, autoscaling, and the component substitution fallacy"
+    "url": "https://nishantjosh.dev/blogs/reclaim-the-terminal/",
+    "title": "Reclaim the terminal"
   },
   {
     "source": "lobsters",
-    "url": "https://kernelkennel.com/blog/summercon2026-rosetta/",
-    "title": "Packing Malware in Rosetta 2"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://lemire.me/blog/2026/08/19/parsing-ip-addresses-in-c-at-crazy-speeds/",
-    "title": "Parsing IP addresses in C# at crazy speeds"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://blog.mozilla.ai/open-source-is-not-a-virtue-its-an-ownership-model/",
-    "title": "Open Source Is Not a Virtue: It’s an Ownership Model"
+    "url": "https://sumnerevans.com/posts/money/plain-text-accounting/",
+    "title": "Plain Text Accounting is Pretty Cool"
   },
   {
     "source": "pinboard",
@@ -178,11 +153,6 @@
     "source": "pinboard",
     "url": "https://chrisburnell.com/html-can-do-that/#example-until-found",
     "title": "HTML Can Do That · Chris Burnell"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://sprocketfox.io/xssfox/2026/08/19/sondehub-and-war/",
-    "title": "How a joke domain purchase turned in geopolitical warfare"
   },
   {
     "source": "pinboard",
@@ -223,6 +193,11 @@
     "source": "pinboard",
     "url": "https://www.platformer.news/karpathy-llm-wiki-journalism-productivity/",
     "title": "Casey Newton si è costruito una wiki personale con gli LLM, su idea di Karpathy"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://joecode.com/2026-08-19-sqlite3/",
+    "title": "SQLite for Everything | JoeCode"
   },
   {
     "source": "pinboard",
