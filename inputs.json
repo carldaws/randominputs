@@ -6,13 +6,13 @@
   },
   {
     "source": "hn",
-    "url": "https://chrisburnell.com/html-can-do-that/",
-    "title": "HTML Can Do That"
+    "url": "https://c3.handmade.network/blog/p/8486-the_case_against_a_c_alternative",
+    "title": "The case against a C alternative (2022)"
   },
   {
     "source": "hn",
-    "url": "https://c3.handmade.network/blog/p/8486-the_case_against_a_c_alternative",
-    "title": "The case against a C alternative (2022)"
+    "url": "https://chrisburnell.com/html-can-do-that/",
+    "title": "HTML Can Do That"
   },
   {
     "source": "hn",
@@ -21,8 +21,8 @@
   },
   {
     "source": "hn",
-    "url": "https://tyoverby.com/posts/version-control-for-everything-else/",
-    "title": "Version Control for Everything"
+    "url": "https://philipdick.com/resources/miscellaneous/the-religious-experience-of-philip-k-dick-by-r-crumb-from-weirdo-17/",
+    "title": "The Religious Experience of Philip K. Dick by R. Crumb (1986)"
   },
   {
     "source": "hn",
@@ -31,18 +31,13 @@
   },
   {
     "source": "hn",
-    "url": "https://philipdick.com/resources/miscellaneous/the-religious-experience-of-philip-k-dick-by-r-crumb-from-weirdo-17/",
-    "title": "The Religious Experience of Philip K. Dick by R. Crumb (1986)"
+    "url": "https://www.danielvaughn.dev/posts/huzzah/",
+    "title": "Show HN: Huzzah – a novel approach to coding with AI"
   },
   {
     "source": "hn",
     "url": "https://www.wsj.com/tech/steve-jobs-apple-next-cia-161b65f9?st=NWWds1&reflink=desktopwebshare_permalink",
     "title": "CIA funding helped keep NeXT afloat in the 80s"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.danielvaughn.dev/posts/huzzah/",
-    "title": "Show HN: Huzzah – a novel approach to coding with AI"
   },
   {
     "source": "hn",
@@ -61,13 +56,13 @@
   },
   {
     "source": "hn",
-    "url": "https://Argentic.network",
-    "title": "Show HN: Argentic – An L402 Lightning toll booth for AI scraping agents"
-  },
-  {
-    "source": "hn",
     "url": "https://strn.cat/posts/spacetime/",
     "title": "SpacetimeDB: a short technical review"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://blog.rust-lang.org/2026/08/20/Rust-1.98.0/",
+    "title": "Announcing Rust 1.98.0"
   },
   {
     "source": "lobsters",
@@ -76,8 +71,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://blog.rust-lang.org/2026/08/20/Rust-1.98.0/",
-    "title": "Announcing Rust 1.98.0"
+    "url": "https://bharadwajraju.com/posts/btrfs-snapshots-in-kde/",
+    "title": "Btrfs Snapshot Integration in KDE"
   },
   {
     "source": "lobsters",
@@ -96,11 +91,6 @@
   },
   {
     "source": "lobsters",
-    "url": "https://bharadwajraju.com/posts/btrfs-snapshots-in-kde/",
-    "title": "Btrfs Snapshot Integration in KDE"
-  },
-  {
-    "source": "lobsters",
     "url": "https://besok.github.io/posts/what-zig-felt-like-coming-from-rust/",
     "title": "What Zig felt like, coming from Rust"
   },
@@ -116,13 +106,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://nishantjosh.dev/blogs/reclaim-the-terminal/",
-    "title": "Reclaim the terminal"
+    "url": "https://matklad.github.io/2026/08/20/better-batteries.html",
+    "title": "Better Batteries"
   },
   {
     "source": "lobsters",
-    "url": "https://matklad.github.io/2026/08/20/better-batteries.html",
-    "title": "Better Batteries"
+    "url": "https://nishantjosh.dev/blogs/reclaim-the-terminal/",
+    "title": "Reclaim the terminal"
   },
   {
     "source": "lobsters",
