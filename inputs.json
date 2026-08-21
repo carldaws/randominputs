@@ -1,18 +1,8 @@
 [
   {
     "source": "hn",
-    "url": "https://canews24.online/?p=71",
-    "title": "AI Boosted Homework Scores by 18% – Then Exam Scores Dropped 20%, Study Shows"
-  },
-  {
-    "source": "hn",
-    "url": "https://api-docs.deepseek.com/guides/vision/",
-    "title": "DeepSeek-v4-flash-vision-exp"
-  },
-  {
-    "source": "hn",
-    "url": "https://lina.sh/blog/hijacking-e164-arpa",
-    "title": "I accidentally logged phone calls to military bases"
+    "url": "https://bandarlabs.github.io/Cobalt/",
+    "title": "Kobo can run apps now"
   },
   {
     "source": "hn",
@@ -21,33 +11,28 @@
   },
   {
     "source": "hn",
-    "url": "https://omarchy.org/news/2026/08/omacom-foundation-launches-with-8-million/",
-    "title": "Omacom Foundation Launches with $8M"
+    "url": "https://lina.sh/blog/hijacking-e164-arpa",
+    "title": "I accidentally logged hundreds of thousands of phone calls to military bases"
   },
   {
     "source": "hn",
-    "url": "https://bandarlabs.github.io/Cobalt/",
-    "title": "Kobo can run apps now"
+    "url": "https://api-docs.deepseek.com/guides/vision/",
+    "title": "DeepSeek-v4-flash-vision-exp"
   },
   {
     "source": "hn",
-    "url": "https://www.0xsid.com/blog/just-want-to-search",
-    "title": "I Just Want to Search"
+    "url": "https://nooneshappy.com/article/when-the-shortage-is-the-strategy/",
+    "title": "When the shortage is the strategy"
   },
   {
     "source": "hn",
     "url": "https://precastreinforced.co.uk/2026/08/16/new-worlds/",
-    "title": "We are living in a version of the future out of J.G. Ballard or William Gibson"
+    "title": "New Worlds: We are living in the future of J.G. Ballard or William Gibson"
   },
   {
     "source": "hn",
-    "url": "https://san.com/cc/grand-jury-declines-to-indict-ohio-man-charged-with-destroying-flock-camera/",
-    "title": "Grand jury declines to indict Ohio man charged with destroying Flock camera"
-  },
-  {
-    "source": "hn",
-    "url": "https://blog.8ball.space/what-we-lost-when-search/",
-    "title": "What We Lost When Search Stopped Making Us Think"
+    "url": "https://nari-labs.com/blog/qwen3-tts-speed-cost-frontier/",
+    "title": "How we made a text-to-speech model respond in sub-50 ms"
   },
   {
     "source": "hn",
@@ -56,13 +41,8 @@
   },
   {
     "source": "hn",
-    "url": "https://lawrencecpaulson.github.io//2026/08/21/Lamport.html",
-    "title": "I came to write THAT paper with Leslie Lamport"
-  },
-  {
-    "source": "hn",
-    "url": "https://blog.jakesaunders.dev/building-an-almost-fully-self-hosted-sandboxed-agentic-software-factory/",
-    "title": "A self hosted AI software factory"
+    "url": "https://pointinthecloud.com/2026-08-19-144600.html",
+    "title": "I ran Photoshop on a £0.60 computer chip"
   },
   {
     "source": "hn",
@@ -71,13 +51,28 @@
   },
   {
     "source": "hn",
-    "url": "https://caligra.com/c100/",
-    "title": "c100"
+    "url": "https://invertingvision.com/2026/08/10/kodaks-pre-invented-lunar-orbiter-camera-or-the-fate-of-samos-readout/",
+    "title": "Kodak's \"pre-invented\" lunar orbiter camera; or, the fate of SAMOS readout"
   },
   {
     "source": "hn",
-    "url": "https://remapradio.com/articles/the-lost-treasure-of-sid-meiers-pirates/",
-    "title": "The Lost Treasure of Sid Meier's Pirates"
+    "url": "http://gus-massa.blogspot.com/2026/08/another-better-lower-bound-for-n17.html",
+    "title": "Another better lower bound for n=17 square packing"
+  },
+  {
+    "source": "hn",
+    "url": "https://blog.jakesaunders.dev/building-an-almost-fully-self-hosted-sandboxed-agentic-software-factory/",
+    "title": "Building an (almost) fully self-hosted, sandboxed, agentic software factory"
+  },
+  {
+    "source": "hn",
+    "url": "https://interconnected.org/home/2026/08/21/galactic",
+    "title": "Galactic Compass 2: now with new augmented reality mode"
+  },
+  {
+    "source": "hn",
+    "url": "https://lithub.com/how-orchids-inspired-the-groundbreaking-work-of-charles-darwin/",
+    "title": "How orchids inspired the work of Charles Darwin"
   },
   {
     "source": "hn",
@@ -86,23 +81,18 @@
   },
   {
     "source": "hn",
-    "url": "https://catalystneuro.com/blog/cost-of-intelligence-drops-100x/",
-    "title": "What Happens When the Cost of Intelligence Drops 100x"
+    "url": "https://lawrencecpaulson.github.io//2026/08/21/Lamport.html",
+    "title": "How I came to write that paper with Leslie Lamport"
   },
   {
     "source": "hn",
-    "url": "https://nari-labs.com/blog/qwen3-tts-speed-cost-frontier/",
-    "title": "How We Made a Text-to-Speech Model Respond in Sub-50 ms"
-  },
-  {
-    "source": "hn",
-    "url": "https://invertingvision.com/2026/08/10/kodaks-pre-invented-lunar-orbiter-camera-or-the-fate-of-samos-readout/",
-    "title": "Kodak's \"Pre-Invented\" Lunar Orbiter Camera; Or, the Fate of SAMOS Readout"
+    "url": "https://bastian.rieck.me/blog/2026/unix/",
+    "title": "LLMs are proof that Unix won"
   },
   {
     "source": "lobsters",
     "url": "https://blog.rust-lang.org/2026/08/21/enabling-next-solver-on-nightly/",
-    "title": "Enabling the next-generation trait solver on nightly | Rust Blog"
+    "title": "Enabling the next-generation trait solver on nightly"
   },
   {
     "source": "lobsters",
@@ -136,13 +126,18 @@
   },
   {
     "source": "lobsters",
+    "url": "https://rust-glancer.github.io/blog/hello-world/",
+    "title": "rust-glancer: An alternative LSP for Rust with focus on low memory usage"
+  },
+  {
+    "source": "lobsters",
     "url": "https://blog.rust-lang.org/2026/08/20/supply-chain-attack-on-arrayref/",
     "title": "Supply chain attack on arrayref"
   },
   {
     "source": "lobsters",
-    "url": "https://rust-glancer.github.io/blog/hello-world/",
-    "title": "rust-glancer: An alternative LSP for Rust with focus on low memory usage"
+    "url": "https://griffinberlste.in/blog/do-the-thing/",
+    "title": "Unfortunately you sometimes need to do the thing"
   },
   {
     "source": "lobsters",
@@ -161,12 +156,107 @@
   },
   {
     "source": "lobsters",
-    "url": "https://griffinberlste.in/blog/do-the-thing/",
-    "title": "Unfortunately you sometimes need to do the thing"
-  },
-  {
-    "source": "lobsters",
     "url": "https://atproto.com/blog/atproto-spaces-alpha",
     "title": "The Atproto Spaces Alpha is Live"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://chrisburnell.com/html-can-do-that/",
+    "title": "HTML Can Do That · Chris Burnell"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.raphaelbauer.com/posts/postgresql-everything/",
+    "title": "PostgreSQL for Everything - Dr. Raphael A. Bauer, MBA | Fractional & Interim CTO | PE/VC Tech Strategy & Due Diligence | Berlin | London | Austin, Texas"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://openlogi.org/en",
+    "title": "OpenLogi"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://philo.gay/linecam/",
+    "title": "Using the railway network as a flatbed scanner"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://seths.blog/2026/08/the-amazon-tax/",
+    "title": "The Amazon tax | Seth's Blog"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://opensource.posit.co/resources/cheatsheets/polars/",
+    "title": "Python Polars: The Definitive Cheatsheet :: Posit Open Source"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://dontpastetheai.com/",
+    "title": "Don't paste the AI."
+  },
+  {
+    "source": "pinboard",
+    "url": "https://chrisburnell.com/html-can-do-that/#example-until-found",
+    "title": "HTML Can Do That · Chris Burnell"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.casio.com/uk/watches/casio/product.F-B100W-1A/",
+    "title": "F-B100W-1A | CASIO"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing",
+    "title": "Daring Fireball: Anthropic’s ‘Watermark’ Text Adulteration in Claude Is a Perversion of Writing"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://ysph.yale.edu/news-article/universal-health-coverage-could-save-one-trillion-dollars-and-114000-lives-every-year/",
+    "title": "Universal Health Coverage Could Save $1 Trillion and 114,000 Lives Every Year, Yale Study Projects | Yale School of Public Health"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.ikea.com/se/en/customer-service/knowledge/articles/6f564c4d-2ccc-46de-b643-545a3948dc79.html",
+    "title": "How does IKEA come up with names for its products?"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://ordinaryabundance.com/",
+    "title": "Ordinary Abundance"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://sunclock.net/",
+    "title": "Sun Clock - a 24hr clock that shows the position of the sun"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://fx.sh/",
+    "title": "fx - Tiny, open, native coding agent"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.platformer.news/karpathy-llm-wiki-journalism-productivity/",
+    "title": "Casey Newton si è costruito una wiki personale con gli LLM, su idea di Karpathy"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://joecode.com/2026-08-19-sqlite3/",
+    "title": "SQLite for Everything | JoeCode"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.wired.com/story/the-worst-ive-ever-seen-cargo-thieves-are-turning-violent-in-pursuit-of-ai-hardware/",
+    "title": "‘The Worst I’ve Ever Seen’: Cargo Thefts Have Turned Violent in Pursuit of AI Hardware | WIRED"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html",
+    "title": "AI is removing the middle class of software engineering"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.benjoffe.com/fast-day-of-week",
+    "title": "A faster way to calculate the day-of-the-week"
   }
 ]
