@@ -16,18 +16,13 @@
   },
   {
     "source": "hn",
+    "url": "https://pointinthecloud.com/2026-08-19-144600.html",
+    "title": "I ran Photoshop on a £0.60 computer chip"
+  },
+  {
+    "source": "hn",
     "url": "https://api-docs.deepseek.com/guides/vision/",
     "title": "DeepSeek-v4-flash-vision-exp"
-  },
-  {
-    "source": "hn",
-    "url": "https://nooneshappy.com/article/when-the-shortage-is-the-strategy/",
-    "title": "When the shortage is the strategy"
-  },
-  {
-    "source": "hn",
-    "url": "https://precastreinforced.co.uk/2026/08/16/new-worlds/",
-    "title": "New Worlds: We are living in the future of J.G. Ballard or William Gibson"
   },
   {
     "source": "hn",
@@ -41,23 +36,8 @@
   },
   {
     "source": "hn",
-    "url": "https://pointinthecloud.com/2026-08-19-144600.html",
-    "title": "I ran Photoshop on a £0.60 computer chip"
-  },
-  {
-    "source": "hn",
-    "url": "https://passo.uno/if-you-are-an-agent-read-this/",
-    "title": "Does whispering to agents in docs help?"
-  },
-  {
-    "source": "hn",
     "url": "https://invertingvision.com/2026/08/10/kodaks-pre-invented-lunar-orbiter-camera-or-the-fate-of-samos-readout/",
     "title": "Kodak's \"pre-invented\" lunar orbiter camera; or, the fate of SAMOS readout"
-  },
-  {
-    "source": "hn",
-    "url": "http://gus-massa.blogspot.com/2026/08/another-better-lower-bound-for-n17.html",
-    "title": "Another better lower bound for n=17 square packing"
   },
   {
     "source": "hn",
@@ -66,28 +46,33 @@
   },
   {
     "source": "hn",
-    "url": "https://interconnected.org/home/2026/08/21/galactic",
-    "title": "Galactic Compass 2: now with new augmented reality mode"
+    "url": "https://precastreinforced.co.uk/2026/08/16/new-worlds/",
+    "title": "New Worlds: We are living in the future of J.G. Ballard or William Gibson"
   },
   {
     "source": "hn",
-    "url": "https://lithub.com/how-orchids-inspired-the-groundbreaking-work-of-charles-darwin/",
-    "title": "How orchids inspired the work of Charles Darwin"
+    "url": "http://gus-massa.blogspot.com/2026/08/another-better-lower-bound-for-n17.html",
+    "title": "Another better lower bound for n=17 square packing"
   },
   {
     "source": "hn",
-    "url": "https://duckdb.org/2026/08/20/duckdb-20-peg-parser",
-    "title": "DuckDB V2 PEG-based SQL parser"
+    "url": "https://passo.uno/if-you-are-an-agent-read-this/",
+    "title": "Does whispering to agents in docs help?"
   },
   {
     "source": "hn",
-    "url": "https://lawrencecpaulson.github.io//2026/08/21/Lamport.html",
-    "title": "How I came to write that paper with Leslie Lamport"
+    "url": "https://cymerys.com/w/im-becoming-ai-blind",
+    "title": "I'm becoming AI-blind"
   },
   {
     "source": "hn",
-    "url": "https://bastian.rieck.me/blog/2026/unix/",
-    "title": "LLMs are proof that Unix won"
+    "url": "https://notactuallytreyanastasio.github.io/shoehorn/",
+    "title": "Show HN: Shoehorn – Quantize any model down to run on your machine"
+  },
+  {
+    "source": "hn",
+    "url": "https://nooneshappy.com/article/when-the-shortage-is-the-strategy/",
+    "title": "When the shortage is the strategy"
   },
   {
     "source": "lobsters",
@@ -116,13 +101,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://bun.com/blog/bun-v1.4",
-    "title": "Bun 1.4"
+    "url": "https://sprocketfox.io/xssfox/2026/08/19/sondehub-and-war/",
+    "title": "How a joke domain purchase turned into geopolitical warfare"
   },
   {
     "source": "lobsters",
-    "url": "https://sprocketfox.io/xssfox/2026/08/19/sondehub-and-war/",
-    "title": "How a joke domain purchase turned into geopolitical warfare"
+    "url": "https://bun.com/blog/bun-v1.4",
+    "title": "Bun 1.4"
   },
   {
     "source": "lobsters",
@@ -136,13 +121,18 @@
   },
   {
     "source": "lobsters",
-    "url": "https://griffinberlste.in/blog/do-the-thing/",
-    "title": "Unfortunately you sometimes need to do the thing"
+    "url": "https://atproto.com/blog/atproto-spaces-alpha",
+    "title": "The Atproto Spaces Alpha is Live"
   },
   {
     "source": "lobsters",
     "url": "https://blog.laserphile.com/2026/08/aliexpress-webpage-keeping-multipoint.html",
     "title": "AliExpress keeps multipoint Bluetooth headphones active with WebAudio fingerprinting"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://griffinberlste.in/blog/do-the-thing/",
+    "title": "Unfortunately you sometimes need to do the thing"
   },
   {
     "source": "lobsters",
@@ -153,11 +143,6 @@
     "source": "lobsters",
     "url": "https://besok.github.io/posts/what-zig-felt-like-coming-from-rust/",
     "title": "What Zig felt like, coming from Rust"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://atproto.com/blog/atproto-spaces-alpha",
-    "title": "The Atproto Spaces Alpha is Live"
   },
   {
     "source": "pinboard",
