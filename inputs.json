@@ -21,13 +21,18 @@
   },
   {
     "source": "hn",
+    "url": "https://nari-labs.com/blog/qwen3-tts-speed-cost-frontier/",
+    "title": "How we made a text-to-speech model respond in sub-50 ms"
+  },
+  {
+    "source": "hn",
     "url": "https://pointinthecloud.com/2026-08-19-144600.html",
     "title": "I ran Photoshop on a £0.60 computer chip"
   },
   {
     "source": "hn",
-    "url": "https://nari-labs.com/blog/qwen3-tts-speed-cost-frontier/",
-    "title": "How we made a text-to-speech model respond in sub-50 ms"
+    "url": "https://henriemategui.com/post/remotely-unlocking-electric-scooters",
+    "title": "Remotely Unlocking Electric Scooters"
   },
   {
     "source": "hn",
@@ -41,6 +46,21 @@
   },
   {
     "source": "hn",
+    "url": "https://fzakaria.com/2026/08/19/three-ways-to-smuggle-sqlite-into-nix",
+    "title": "Three ways to smuggle SQLite into Nix"
+  },
+  {
+    "source": "hn",
+    "url": "https://cymerys.com/w/im-becoming-ai-blind",
+    "title": "I'm becoming AI-blind"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.worldwidewebsize.com/",
+    "title": "The Size of the World Wide Web"
+  },
+  {
+    "source": "hn",
     "url": "https://blog.jakesaunders.dev/building-an-almost-fully-self-hosted-sandboxed-agentic-software-factory/",
     "title": "Building an (almost) fully self-hosted, sandboxed, agentic software factory"
   },
@@ -51,23 +71,8 @@
   },
   {
     "source": "hn",
-    "url": "https://allaboutcoding.ghinda.com/a-week-of-using-codex-more-than-claude/",
-    "title": "Quick impressions: A week of using Codex more than Claude"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.worldwidewebsize.com/",
-    "title": "The Size of the World Wide Web"
-  },
-  {
-    "source": "hn",
-    "url": "https://cymerys.com/w/im-becoming-ai-blind",
-    "title": "I'm becoming AI-blind"
-  },
-  {
-    "source": "hn",
-    "url": "https://henriemategui.com/post/remotely-unlocking-electric-scooters",
-    "title": "Remotely Unlocking Electric Scooters"
+    "url": "https://www.wsj.com/lifestyle/careers/ghost-job-ads-are-getting-so-bad-that-lawmakers-want-to-ban-them-2580bc3e",
+    "title": "'Ghost Job' Ads Are Getting So Bad That Lawmakers Want to Ban Them"
   },
   {
     "source": "hn",
@@ -76,8 +81,8 @@
   },
   {
     "source": "hn",
-    "url": "http://tronweb.super-nova.co.jp/b-right-vr2intro.html",
-    "title": "The B-right/V R2 Operating System (2000)"
+    "url": "https://allaboutcoding.ghinda.com/a-week-of-using-codex-more-than-claude/",
+    "title": "Quick impressions: A week of using Codex more than Claude"
   },
   {
     "source": "lobsters",
@@ -121,18 +126,23 @@
   },
   {
     "source": "lobsters",
+    "url": "https://hackaday.com/2026/08/20/homebrew-68k-machine-has-a-pci-bus/",
+    "title": "Homebrew 68K Machine Has A PCI Bus"
+  },
+  {
+    "source": "lobsters",
     "url": "https://blog.rust-lang.org/2026/08/20/supply-chain-attack-on-arrayref/",
     "title": "Supply chain attack on arrayref"
   },
   {
     "source": "lobsters",
-    "url": "https://atproto.com/blog/atproto-spaces-alpha",
-    "title": "The Atproto Spaces Alpha is Live"
+    "url": "https://griffinberlste.in/blog/do-the-thing/",
+    "title": "Unfortunately you sometimes need to do the thing"
   },
   {
     "source": "lobsters",
-    "url": "https://griffinberlste.in/blog/do-the-thing/",
-    "title": "Unfortunately you sometimes need to do the thing"
+    "url": "https://atproto.com/blog/atproto-spaces-alpha",
+    "title": "The Atproto Spaces Alpha is Live"
   },
   {
     "source": "lobsters",
@@ -143,10 +153,5 @@
     "source": "lobsters",
     "url": "https://blog.laserphile.com/2026/08/aliexpress-webpage-keeping-multipoint.html",
     "title": "AliExpress keeps multipoint Bluetooth headphones active with WebAudio fingerprinting"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://hackaday.com/2026/08/20/homebrew-68k-machine-has-a-pci-bus/",
-    "title": "Homebrew 68K Machine Has A PCI Bus"
   }
 ]
