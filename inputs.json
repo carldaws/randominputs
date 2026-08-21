@@ -16,13 +16,13 @@
   },
   {
     "source": "hn",
-    "url": "https://www.wsj.com/tech/steve-jobs-apple-next-cia-161b65f9?st=NWWds1&reflink=desktopwebshare_permalink",
-    "title": "CIA funding helped keep NeXT afloat in the 80s"
+    "url": "https://jacob.gold/posts/theres-no-such-thing-as-a-small-software-team/",
+    "title": "There's no such thing as a small software team anymore"
   },
   {
     "source": "hn",
-    "url": "https://jacob.gold/posts/theres-no-such-thing-as-a-small-software-team/",
-    "title": "There's no such thing as a small software team anymore"
+    "url": "https://www.wsj.com/tech/steve-jobs-apple-next-cia-161b65f9?st=NWWds1&reflink=desktopwebshare_permalink",
+    "title": "CIA funding helped keep NeXT afloat in the 80s"
   },
   {
     "source": "hn",
@@ -36,8 +36,8 @@
   },
   {
     "source": "hn",
-    "url": "https://blog.yaros.ae/anti-ai-fonts-are-useless-and-harmful/",
-    "title": "Anti-AI fonts are useless and harmful"
+    "url": "https://byroot.github.io/ruby/performance/2026/08/13/speeding-up-ruby-hashes.html",
+    "title": "Speeding Up (Small) Ruby Hashes"
   },
   {
     "source": "hn",
@@ -46,8 +46,8 @@
   },
   {
     "source": "hn",
-    "url": "https://byroot.github.io/ruby/performance/2026/08/13/speeding-up-ruby-hashes.html",
-    "title": "Speeding Up (Small) Ruby Hashes"
+    "url": "https://blog.yaros.ae/anti-ai-fonts-are-useless-and-harmful/",
+    "title": "Anti-AI fonts are useless and harmful"
   },
   {
     "source": "hn",
@@ -101,6 +101,11 @@
   },
   {
     "source": "lobsters",
+    "url": "https://bharadwajraju.com/posts/btrfs-snapshots-in-kde/",
+    "title": "Btrfs Snapshot Integration in KDE"
+  },
+  {
+    "source": "lobsters",
     "url": "https://nishantjosh.dev/blogs/reclaim-the-terminal/",
     "title": "Reclaim the terminal"
   },
@@ -126,11 +131,6 @@
   },
   {
     "source": "lobsters",
-    "url": "https://www.jvt.me/posts/2026/08/17/hand-write-commits/",
-    "title": "Why I still hand write my commit messages"
-  },
-  {
-    "source": "lobsters",
     "url": "https://zerotistic.blog/posts/find-my-people-linux/",
     "title": "Reverse-engineering Find My People to stalk ̶m̶y̶ ̶e̶x̶ a friend, cause I can"
   },
@@ -140,8 +140,98 @@
     "title": "Going freestanding"
   },
   {
-    "source": "lobsters",
-    "url": "https://bharadwajraju.com/posts/btrfs-snapshots-in-kde/",
-    "title": "Btrfs Snapshot Integration in KDE"
+    "source": "pinboard",
+    "url": "https://www.raphaelbauer.com/posts/postgresql-everything/",
+    "title": "PostgreSQL for Everything - Dr. Raphael A. Bauer, MBA | Fractional & Interim CTO | PE/VC Tech Strategy & Due Diligence | Berlin | London | Austin, Texas"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://openlogi.org/en",
+    "title": "OpenLogi"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://philo.gay/linecam/",
+    "title": "Using the railway network as a flatbed scanner"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://seths.blog/2026/08/the-amazon-tax/",
+    "title": "The Amazon tax | Seth's Blog"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://opensource.posit.co/resources/cheatsheets/polars/",
+    "title": "Python Polars: The Definitive Cheatsheet :: Posit Open Source"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://dontpastetheai.com/",
+    "title": "Don't paste the AI."
+  },
+  {
+    "source": "pinboard",
+    "url": "https://chrisburnell.com/html-can-do-that/#example-until-found",
+    "title": "HTML Can Do That · Chris Burnell"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.casio.com/uk/watches/casio/product.F-B100W-1A/",
+    "title": "F-B100W-1A | CASIO"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing",
+    "title": "Daring Fireball: Anthropic’s ‘Watermark’ Text Adulteration in Claude Is a Perversion of Writing"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://ysph.yale.edu/news-article/universal-health-coverage-could-save-one-trillion-dollars-and-114000-lives-every-year/",
+    "title": "Universal Health Coverage Could Save $1 Trillion and 114,000 Lives Every Year, Yale Study Projects | Yale School of Public Health"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.ikea.com/se/en/customer-service/knowledge/articles/6f564c4d-2ccc-46de-b643-545a3948dc79.html",
+    "title": "How does IKEA come up with names for its products?"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://ordinaryabundance.com/",
+    "title": "Ordinary Abundance"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://sunclock.net/",
+    "title": "Sun Clock - a 24hr clock that shows the position of the sun"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://fx.sh/",
+    "title": "fx - Tiny, open, native coding agent"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.platformer.news/karpathy-llm-wiki-journalism-productivity/",
+    "title": "Casey Newton si è costruito una wiki personale con gli LLM, su idea di Karpathy"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://joecode.com/2026-08-19-sqlite3/",
+    "title": "SQLite for Everything | JoeCode"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.wired.com/story/the-worst-ive-ever-seen-cargo-thieves-are-turning-violent-in-pursuit-of-ai-hardware/",
+    "title": "‘The Worst I’ve Ever Seen’: Cargo Thefts Have Turned Violent in Pursuit of AI Hardware | WIRED"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html",
+    "title": "AI is removing the middle class of software engineering"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.benjoffe.com/fast-day-of-week",
+    "title": "A faster way to calculate the day-of-the-week"
   }
 ]
