@@ -1,28 +1,8 @@
 [
   {
     "source": "hn",
-    "url": "http://observationalepidemiology.blogspot.com/2026/08/it-is-sign-of-times-that-amazon-gets-to.html",
-    "title": "It is a sign of the times that Amazon gets to call this fair use"
-  },
-  {
-    "source": "hn",
-    "url": "https://consumerrights.wiki/w/Main_Page",
-    "title": "Consumer Rights Wiki"
-  },
-  {
-    "source": "hn",
-    "url": "https://blog.laserphile.com/2026/08/aliexpress-webpage-keeping-multipoint.html",
-    "title": "AliExpress runs silent WebAudio fingerprinting that breaks Bluetooth multipoint"
-  },
-  {
-    "source": "hn",
     "url": "https://jacob.gold/posts/theres-no-such-thing-as-a-small-software-team/",
     "title": "There's no such thing as a small software team anymore"
-  },
-  {
-    "source": "hn",
-    "url": "https://blog.curiousquail.com/im-upset-again-about-a-co-creator-of-rss-being-prosecuted-for-something-meta-is-doing-with-little-consequence/",
-    "title": "Aaron Swartz was prosecuted for scraping, while Meta does it without consequence"
   },
   {
     "source": "hn",
@@ -31,13 +11,13 @@
   },
   {
     "source": "hn",
-    "url": "https://jsomers.net/i-should-have-loved-biology/",
-    "title": "I should have loved biology (2020)"
+    "url": "https://safedep.io/arrayref-proc-macro1-rust-build-time-malware/",
+    "title": "Malicious Rust crate Arrayref runs a build-time payload"
   },
   {
     "source": "hn",
-    "url": "https://safedep.io/arrayref-proc-macro1-rust-build-time-malware/",
-    "title": "Malicious Rust crate Arrayref runs a build-time payload"
+    "url": "https://jsomers.net/i-should-have-loved-biology/",
+    "title": "I should have loved biology (2020)"
   },
   {
     "source": "hn",
@@ -51,13 +31,28 @@
   },
   {
     "source": "hn",
+    "url": "https://www.danielvaughn.dev/posts/huzzah/",
+    "title": "Show HN: Huzzah – a novel approach to coding with AI"
+  },
+  {
+    "source": "hn",
     "url": "https://niki.cat/detecting-scraper-bots-through-scroll-behaviour",
     "title": "Detecting scraper bots through scroll behaviour"
   },
   {
     "source": "hn",
-    "url": "https://www.danielvaughn.dev/posts/huzzah/",
-    "title": "Show HN: Huzzah – a novel approach to coding with AI"
+    "url": "https://blog.laserphile.com/2026/08/aliexpress-webpage-keeping-multipoint.html",
+    "title": "AliExpress runs silent WebAudio fingerprinting that breaks Bluetooth multipoint"
+  },
+  {
+    "source": "hn",
+    "url": "https://byroot.github.io/ruby/performance/2026/08/13/speeding-up-ruby-hashes.html",
+    "title": "Speeding Up (Small) Ruby Hashes"
+  },
+  {
+    "source": "hn",
+    "url": "https://consumerrights.wiki/w/Main_Page",
+    "title": "Consumer Rights Wiki"
   },
   {
     "source": "hn",
@@ -71,18 +66,8 @@
   },
   {
     "source": "hn",
-    "url": "https://tidalcycles.org/",
-    "title": "Tidal Cycles – Live coding music with Algorithmic patterns"
-  },
-  {
-    "source": "hn",
-    "url": "https://pointersgonewild.com/2026-08-17-speeding-up-the-plush-garbage-collector/",
-    "title": "Speeding Up the Plush Garbage Collector"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.mikekasberg.com/blog/2026/08/19/hacking-with-claude-on-a-27-smart-watch.html",
-    "title": "Hacking with Claude on a $27 smart watch"
+    "url": "https://blog.curiousquail.com/im-upset-again-about-a-co-creator-of-rss-being-prosecuted-for-something-meta-is-doing-with-little-consequence/",
+    "title": "Aaron Swartz was prosecuted for scraping, while Meta does it without consequence"
   },
   {
     "source": "lobsters",
@@ -123,6 +108,11 @@
     "source": "lobsters",
     "url": "https://sumnerevans.com/posts/money/plain-text-accounting/",
     "title": "Plain Text Accounting is Pretty Cool"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://www.akitaonrails.com/en/2026/08/19/survival-guide-for-a-censored-internet/",
+    "title": "Survival Guide for a Censored Internet"
   },
   {
     "source": "lobsters",
