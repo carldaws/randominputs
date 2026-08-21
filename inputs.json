@@ -1,6 +1,11 @@
 [
   {
     "source": "hn",
+    "url": "https://api-docs.deepseek.com/guides/vision/",
+    "title": "DeepSeek-v4-flash-vision-exp"
+  },
+  {
+    "source": "hn",
     "url": "https://remapradio.com/articles/the-lost-treasure-of-sid-meiers-pirates/",
     "title": "The Lost Treasure of Sid Meier's Pirates"
   },
@@ -31,13 +36,13 @@
   },
   {
     "source": "hn",
-    "url": "https://www.danielvaughn.dev/posts/huzzah/",
-    "title": "Show HN: Huzzah – a novel approach to coding with AI"
+    "url": "https://www.wsj.com/tech/steve-jobs-apple-next-cia-161b65f9?st=NWWds1&reflink=desktopwebshare_permalink",
+    "title": "CIA funding helped keep NeXT afloat in the 80s"
   },
   {
     "source": "hn",
-    "url": "https://www.wsj.com/tech/steve-jobs-apple-next-cia-161b65f9?st=NWWds1&reflink=desktopwebshare_permalink",
-    "title": "CIA funding helped keep NeXT afloat in the 80s"
+    "url": "https://www.danielvaughn.dev/posts/huzzah/",
+    "title": "Show HN: Huzzah – a novel approach to coding with AI"
   },
   {
     "source": "hn",
@@ -51,92 +56,187 @@
   },
   {
     "source": "hn",
+    "url": "https://changyi.fun/posts/attention-arithmetic-intensity/",
+    "title": "Attention Through Arithmetic Intensity"
+  },
+  {
+    "source": "hn",
     "url": "https://byroot.github.io/ruby/performance/2026/08/13/speeding-up-ruby-hashes.html",
     "title": "Speeding Up (Small) Ruby Hashes"
   },
   {
     "source": "hn",
-    "url": "https://strn.cat/posts/spacetime/",
-    "title": "SpacetimeDB: a short technical review"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://blog.rust-lang.org/2026/08/20/Rust-1.98.0/",
-    "title": "Announcing Rust 1.98.0"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://bun.com/blog/bun-v1.4",
-    "title": "Bun 1.4"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://bharadwajraju.com/posts/btrfs-snapshots-in-kde/",
-    "title": "Btrfs Snapshot Integration in KDE"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://sprocketfox.io/xssfox/2026/08/19/sondehub-and-war/",
-    "title": "How a joke domain purchase turned into geopolitical warfare"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://www.gingerbill.org/article/2026/08/20/designing-odins-inline-asm/",
-    "title": "Everyone Says Assembly Is Untyped—Everyone Is Wrong"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://blog.rust-lang.org/2026/08/20/supply-chain-attack-on-arrayref/",
-    "title": "Supply chain attack on arrayref"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://besok.github.io/posts/what-zig-felt-like-coming-from-rust/",
-    "title": "What Zig felt like, coming from Rust"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://www.ethanheilman.com/x/33/index.html",
-    "title": "Open-sourcing OpenPubkey SSH (OPKSSH): integrating single sign-on with SSH"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://www.akitaonrails.com/en/2026/08/19/survival-guide-for-a-censored-internet/",
-    "title": "Survival Guide for a Censored Internet"
-  },
-  {
-    "source": "lobsters",
     "url": "https://matklad.github.io/2026/08/20/better-batteries.html",
     "title": "Better Batteries"
   },
   {
     "source": "lobsters",
-    "url": "https://nishantjosh.dev/blogs/reclaim-the-terminal/",
-    "title": "Reclaim the terminal"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://sumnerevans.com/posts/money/plain-text-accounting/",
-    "title": "Plain Text Accounting is Pretty Cool"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://blog.vrypan.net/2026/08/19/260819-sing-song/",
-    "title": "Sing-song: a speakable encoding for long numbers and keys"
-  },
-  {
-    "source": "lobsters",
-    "url": "http://mistys-internet.website/blog/blog/2026/08/01/decoding-magic-school-lunars-save-game-format",
-    "title": "Decoding Magic School Lunar's Save Game Format"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://antonz.org/going-freestanding/",
-    "title": "Going freestanding"
-  },
-  {
-    "source": "lobsters",
     "url": "https://zerotistic.blog/posts/find-my-people-linux/",
     "title": "Reverse-engineering Find My People to stalk ̶m̶y̶ ̶e̶x̶ a friend, cause I can"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://www.jvt.me/posts/2026/08/17/hand-write-commits/",
+    "title": "Why I still hand write my commit messages"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://marekfiser.com/blog/double-double-arithmetic",
+    "title": "Double-double: 31 digits of precision without leaving the FPU"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://blog.ploopy.co/the-aplus-is-finally-here-499",
+    "title": "Ploopy A+ (external trackball)"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://joecode.com/2026-08-19-sqlite3/",
+    "title": "SQLite for Everything"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://fzakaria.com/2026/08/19/three-ways-to-smuggle-sqlite-into-nix",
+    "title": "Three ways to smuggle SQLite into Nix"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://protobuf.com/",
+    "title": "Protobuf Explained"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://blog.joinmastodon.org/2026/08/5.0-laying-the-foundation/",
+    "title": "Mastodon 5.0: Laying the foundation"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://ieeexplore.ieee.org/document/9843754",
+    "title": "NASA's System Modeling Language, FPP"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://franciscotrindade.me/blog/the-kids-are-really-alright/",
+    "title": "AI didn't erase the junior's value. It increased it"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://raylib-jlt.b12n.app/",
+    "title": "raylib examples in Jolt"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://surfingcomplexity.blog/2026/08/19/github-autoscaling-and-the-component-substitution-fallacy/",
+    "title": "GitHub, autoscaling, and the component substitution fallacy"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://kernelkennel.com/blog/summercon2026-rosetta/",
+    "title": "Packing Malware in Rosetta 2"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://lemire.me/blog/2026/08/19/parsing-ip-addresses-in-c-at-crazy-speeds/",
+    "title": "Parsing IP addresses in C# at crazy speeds"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://blog.mozilla.ai/open-source-is-not-a-virtue-its-an-ownership-model/",
+    "title": "Open Source Is Not a Virtue: It’s an Ownership Model"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.raphaelbauer.com/posts/postgresql-everything/",
+    "title": "PostgreSQL for Everything - Dr. Raphael A. Bauer, MBA | Fractional & Interim CTO | PE/VC Tech Strategy & Due Diligence | Berlin | London | Austin, Texas"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://openlogi.org/en",
+    "title": "OpenLogi"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://philo.gay/linecam/",
+    "title": "Using the railway network as a flatbed scanner"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://seths.blog/2026/08/the-amazon-tax/",
+    "title": "The Amazon tax | Seth's Blog"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://opensource.posit.co/resources/cheatsheets/polars/",
+    "title": "Python Polars: The Definitive Cheatsheet :: Posit Open Source"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://dontpastetheai.com/",
+    "title": "Don't paste the AI."
+  },
+  {
+    "source": "pinboard",
+    "url": "https://chrisburnell.com/html-can-do-that/#example-until-found",
+    "title": "HTML Can Do That · Chris Burnell"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://sprocketfox.io/xssfox/2026/08/19/sondehub-and-war/",
+    "title": "How a joke domain purchase turned in geopolitical warfare"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.casio.com/uk/watches/casio/product.F-B100W-1A/",
+    "title": "F-B100W-1A | CASIO"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing",
+    "title": "Daring Fireball: Anthropic’s ‘Watermark’ Text Adulteration in Claude Is a Perversion of Writing"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://ysph.yale.edu/news-article/universal-health-coverage-could-save-one-trillion-dollars-and-114000-lives-every-year/",
+    "title": "Universal Health Coverage Could Save $1 Trillion and 114,000 Lives Every Year, Yale Study Projects | Yale School of Public Health"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.ikea.com/se/en/customer-service/knowledge/articles/6f564c4d-2ccc-46de-b643-545a3948dc79.html",
+    "title": "How does IKEA come up with names for its products?"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://ordinaryabundance.com/",
+    "title": "Ordinary Abundance"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://sunclock.net/",
+    "title": "Sun Clock - a 24hr clock that shows the position of the sun"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://fx.sh/",
+    "title": "fx - Tiny, open, native coding agent"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.platformer.news/karpathy-llm-wiki-journalism-productivity/",
+    "title": "Casey Newton si è costruito una wiki personale con gli LLM, su idea di Karpathy"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.wired.com/story/the-worst-ive-ever-seen-cargo-thieves-are-turning-violent-in-pursuit-of-ai-hardware/",
+    "title": "‘The Worst I’ve Ever Seen’: Cargo Thefts Have Turned Violent in Pursuit of AI Hardware | WIRED"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html",
+    "title": "AI is removing the middle class of software engineering"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.benjoffe.com/fast-day-of-week",
+    "title": "A faster way to calculate the day-of-the-week"
   }
 ]
