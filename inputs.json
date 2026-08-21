@@ -21,13 +21,13 @@
   },
   {
     "source": "hn",
-    "url": "https://www.danielvaughn.dev/posts/huzzah/",
-    "title": "Show HN: Huzzah – a novel approach to coding with AI"
+    "url": "https://jacob.gold/posts/theres-no-such-thing-as-a-small-software-team/",
+    "title": "There's no such thing as a small software team anymore"
   },
   {
     "source": "hn",
-    "url": "https://jacob.gold/posts/theres-no-such-thing-as-a-small-software-team/",
-    "title": "There's no such thing as a small software team anymore"
+    "url": "https://www.danielvaughn.dev/posts/huzzah/",
+    "title": "Show HN: Huzzah – a novel approach to coding with AI"
   },
   {
     "source": "hn",
@@ -36,13 +36,13 @@
   },
   {
     "source": "hn",
-    "url": "https://strn.cat/posts/spacetime/",
-    "title": "SpacetimeDB: A Short Technical Review"
+    "url": "https://blog.yaros.ae/anti-ai-fonts-are-useless-and-harmful/",
+    "title": "Anti-AI fonts are useless and harmful"
   },
   {
     "source": "hn",
-    "url": "https://consumerrights.wiki/w/Main_Page",
-    "title": "Consumer Rights Wiki"
+    "url": "https://strn.cat/posts/spacetime/",
+    "title": "SpacetimeDB: A Short Technical Review"
   },
   {
     "source": "hn",
@@ -51,8 +51,13 @@
   },
   {
     "source": "hn",
-    "url": "https://blog.yaros.ae/anti-ai-fonts-are-useless-and-harmful/",
-    "title": "Anti-AI fonts are useless and harmful"
+    "url": "https://consumerrights.wiki/w/Main_Page",
+    "title": "Consumer Rights Wiki"
+  },
+  {
+    "source": "hn",
+    "url": "https://bactra.org/notebooks/cybersyn.html",
+    "title": "Project Cybersyn (2022)"
   },
   {
     "source": "hn",
@@ -86,13 +91,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://www.ethanheilman.com/x/33/index.html",
-    "title": "Open-sourcing OpenPubkey SSH (OPKSSH): integrating single sign-on with SSH"
+    "url": "https://blog.rust-lang.org/2026/08/20/Rust-1.98.0/",
+    "title": "Announcing Rust 1.98.0"
   },
   {
     "source": "lobsters",
-    "url": "https://blog.rust-lang.org/2026/08/20/Rust-1.98.0/",
-    "title": "Announcing Rust 1.98.0"
+    "url": "https://www.ethanheilman.com/x/33/index.html",
+    "title": "Open-sourcing OpenPubkey SSH (OPKSSH): integrating single sign-on with SSH"
   },
   {
     "source": "lobsters",
@@ -116,13 +121,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://www.jvt.me/posts/2026/08/17/hand-write-commits/",
-    "title": "Why I still hand write my commit messages"
+    "url": "http://mistys-internet.website/blog/blog/2026/08/01/decoding-magic-school-lunars-save-game-format",
+    "title": "Decoding Magic School Lunar's Save Game Format"
   },
   {
     "source": "lobsters",
-    "url": "https://antonz.org/going-freestanding/",
-    "title": "Going freestanding"
+    "url": "https://www.jvt.me/posts/2026/08/17/hand-write-commits/",
+    "title": "Why I still hand write my commit messages"
   },
   {
     "source": "lobsters",
@@ -131,107 +136,12 @@
   },
   {
     "source": "lobsters",
-    "url": "http://mistys-internet.website/blog/blog/2026/08/01/decoding-magic-school-lunars-save-game-format",
-    "title": "Decoding Magic School Lunar's Save Game Format"
+    "url": "https://antonz.org/going-freestanding/",
+    "title": "Going freestanding"
   },
   {
-    "source": "pinboard",
-    "url": "https://www.raphaelbauer.com/posts/postgresql-everything/",
-    "title": "PostgreSQL for Everything - Dr. Raphael A. Bauer, MBA | Fractional & Interim CTO | PE/VC Tech Strategy & Due Diligence | Berlin | London | Austin, Texas"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing",
-    "title": "Daring Fireball: Anthropic’s ‘Watermark’ Text Adulteration in Claude Is a Perversion of Writing"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://philo.gay/linecam/",
-    "title": "Using the railway network as a flatbed scanner"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://ysph.yale.edu/news-article/universal-health-coverage-could-save-one-trillion-dollars-and-114000-lives-every-year/",
-    "title": "Universal Health Coverage Could Save $1 Trillion and 114,000 Lives Every Year, Yale Study Projects | Yale School of Public Health"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://openlogi.org/en",
-    "title": "OpenLogi"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.404media.co/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-training-facility/",
-    "title": "https://www.404media.co/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-training-facility/"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://seths.blog/2026/08/the-amazon-tax/",
-    "title": "The Amazon tax | Seth's Blog"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://sunclock.net/",
-    "title": "Sun Clock - a 24hr clock that shows the position of the sun"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://opensource.posit.co/resources/cheatsheets/polars/",
-    "title": "Python Polars: The Definitive Cheatsheet :: Posit Open Source"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://ordinaryabundance.com/",
-    "title": "Ordinary Abundance"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://linear.axler.net/",
-    "title": "(500) https://linear.axler.net/"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://simonwillison.net/2026/Aug/16/qwen-38-27b/",
-    "title": "Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.librarian.net/notoai/",
-    "title": "How to disable or avoid intrusive AI – librarian.net"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://daringfireball.net/2026/08/follow-up_thoughts_on_watermarking",
-    "title": "Daring Fireball: Follow-Up Thoughts on Watermarking Schemes for AI-Generated Text"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.macrumors.com/2026/08/17/camera-equipped-airpods-macos-26-7/",
-    "title": "Apple's Camera-Equipped AirPods Confirmed: See Them in Action - MacRumors"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.404media.co/show-how-3m-is-0-at-fault-expert-witness-used-chatgpt-to-write-report-defending-company-in-deadly-explosion-lawsuit/",
-    "title": "‘Show How 3M Is 0% at Fault:’ Expert Witness Used ChatGPT to Write Report Defending Company in Deadly Explosion Lawsuit"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.ikea.com/se/en/customer-service/knowledge/articles/6f564c4d-2ccc-46de-b643-545a3948dc79.html",
-    "title": "How does IKEA come up with names for its products?"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://tau.dev/2026/08/07/canon",
-    "title": "Canon"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.benjoffe.com/fast-day-of-week",
-    "title": "A faster way to calculate the day-of-the-week"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://fx.sh/",
-    "title": "fx - Tiny, open, native coding agent"
+    "source": "lobsters",
+    "url": "https://bharadwajraju.com/posts/btrfs-snapshots-in-kde/",
+    "title": "Btrfs Snapshot Integration in KDE"
   }
 ]
