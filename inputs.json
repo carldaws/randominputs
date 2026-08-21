@@ -6,11 +6,6 @@
   },
   {
     "source": "hn",
-    "url": "https://allaboutcoding.ghinda.com/a-week-of-using-codex-more-than-claude/",
-    "title": "Quick impressions: A week of using Codex more than Claude"
-  },
-  {
-    "source": "hn",
     "url": "https://www.felonybench.com/",
     "title": "Felony Bench"
   },
@@ -26,13 +21,13 @@
   },
   {
     "source": "hn",
-    "url": "https://nari-labs.com/blog/qwen3-tts-speed-cost-frontier/",
-    "title": "How we made a text-to-speech model respond in sub-50 ms"
+    "url": "https://pointinthecloud.com/2026-08-19-144600.html",
+    "title": "I ran Photoshop on a £0.60 computer chip"
   },
   {
     "source": "hn",
-    "url": "https://pointinthecloud.com/2026-08-19-144600.html",
-    "title": "I ran Photoshop on a £0.60 computer chip"
+    "url": "https://nari-labs.com/blog/qwen3-tts-speed-cost-frontier/",
+    "title": "How we made a text-to-speech model respond in sub-50 ms"
   },
   {
     "source": "hn",
@@ -51,13 +46,18 @@
   },
   {
     "source": "hn",
-    "url": "http://tronweb.super-nova.co.jp/b-right-vr2intro.html",
-    "title": "The B-right/V R2 Operating System (2000)"
+    "url": "https://monocyte.blog/using-an-old-android-phone-as-a-music-player/",
+    "title": "Using an old Android phone as a music player"
   },
   {
     "source": "hn",
-    "url": "https://monocyte.blog/using-an-old-android-phone-as-a-music-player/",
-    "title": "Using an old Android phone as a music player"
+    "url": "https://allaboutcoding.ghinda.com/a-week-of-using-codex-more-than-claude/",
+    "title": "Quick impressions: A week of using Codex more than Claude"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.worldwidewebsize.com/",
+    "title": "The Size of the World Wide Web"
   },
   {
     "source": "hn",
@@ -66,18 +66,18 @@
   },
   {
     "source": "hn",
+    "url": "https://henriemategui.com/post/remotely-unlocking-electric-scooters",
+    "title": "Remotely Unlocking Electric Scooters"
+  },
+  {
+    "source": "hn",
     "url": "https://invertingvision.com/2026/08/10/kodaks-pre-invented-lunar-orbiter-camera-or-the-fate-of-samos-readout/",
     "title": "Kodak's \"pre-invented\" lunar orbiter camera; or, the fate of SAMOS readout"
   },
   {
     "source": "hn",
-    "url": "https://precastreinforced.co.uk/2026/08/16/new-worlds/",
-    "title": "New Worlds: We are living in the future of J.G. Ballard or William Gibson"
-  },
-  {
-    "source": "hn",
-    "url": "https://notactuallytreyanastasio.github.io/shoehorn/",
-    "title": "Show HN: Shoehorn – Quantize any model down to run on your machine"
+    "url": "http://tronweb.super-nova.co.jp/b-right-vr2intro.html",
+    "title": "The B-right/V R2 Operating System (2000)"
   },
   {
     "source": "lobsters",
@@ -111,18 +111,23 @@
   },
   {
     "source": "lobsters",
-    "url": "https://sprocketfox.io/xssfox/2026/08/19/sondehub-and-war/",
-    "title": "How a joke domain purchase turned into geopolitical warfare"
-  },
-  {
-    "source": "lobsters",
     "url": "https://bun.com/blog/bun-v1.4",
     "title": "Bun 1.4"
   },
   {
     "source": "lobsters",
+    "url": "https://sprocketfox.io/xssfox/2026/08/19/sondehub-and-war/",
+    "title": "How a joke domain purchase turned into geopolitical warfare"
+  },
+  {
+    "source": "lobsters",
     "url": "https://blog.rust-lang.org/2026/08/20/supply-chain-attack-on-arrayref/",
     "title": "Supply chain attack on arrayref"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://atproto.com/blog/atproto-spaces-alpha",
+    "title": "The Atproto Spaces Alpha is Live"
   },
   {
     "source": "lobsters",
@@ -133,11 +138,6 @@
     "source": "lobsters",
     "url": "https://www.ethanheilman.com/x/33/index.html",
     "title": "Open-sourcing OpenPubkey SSH (OPKSSH): integrating single sign-on with SSH"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://atproto.com/blog/atproto-spaces-alpha",
-    "title": "The Atproto Spaces Alpha is Live"
   },
   {
     "source": "lobsters",
