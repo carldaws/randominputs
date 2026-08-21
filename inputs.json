@@ -1,8 +1,8 @@
 [
   {
     "source": "hn",
-    "url": "https://caligra.com/c100/",
-    "title": "c100"
+    "url": "https://canews24.online/?p=71",
+    "title": "AI Boosted Homework Scores by 18% – Then Exam Scores Dropped 20%, Study Shows"
   },
   {
     "source": "hn",
@@ -16,8 +16,8 @@
   },
   {
     "source": "hn",
-    "url": "https://canews24.online/?p=71",
-    "title": "AI Boosted Homework Scores by 18% – Then Exam Scores Dropped 20%, Study Shows"
+    "url": "https://www.felonybench.com/",
+    "title": "Felony Bench"
   },
   {
     "source": "hn",
@@ -26,8 +26,13 @@
   },
   {
     "source": "hn",
-    "url": "https://www.felonybench.com/",
-    "title": "Felony Bench"
+    "url": "https://bandarlabs.github.io/Cobalt/",
+    "title": "Kobo can run apps now"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.0xsid.com/blog/just-want-to-search",
+    "title": "I Just Want to Search"
   },
   {
     "source": "hn",
@@ -46,8 +51,8 @@
   },
   {
     "source": "hn",
-    "url": "https://catalystneuro.com/blog/cost-of-intelligence-drops-100x/",
-    "title": "What Happens When the Cost of Intelligence Drops 100x"
+    "url": "https://blog.doubleword.ai/what-happens-when-a-gpu-reads-memory",
+    "title": "What happens when a GPU reads memory"
   },
   {
     "source": "hn",
@@ -56,13 +61,23 @@
   },
   {
     "source": "hn",
-    "url": "https://remapradio.com/articles/the-lost-treasure-of-sid-meiers-pirates/",
-    "title": "The Lost Treasure of Sid Meier's Pirates"
+    "url": "https://blog.jakesaunders.dev/building-an-almost-fully-self-hosted-sandboxed-agentic-software-factory/",
+    "title": "A self hosted AI software factory"
   },
   {
     "source": "hn",
-    "url": "http://tronweb.super-nova.co.jp/b-right-vr2intro.html",
-    "title": "The B-right/V R2 Operating System"
+    "url": "https://passo.uno/if-you-are-an-agent-read-this/",
+    "title": "Does whispering to agents in docs help?"
+  },
+  {
+    "source": "hn",
+    "url": "https://caligra.com/c100/",
+    "title": "c100"
+  },
+  {
+    "source": "hn",
+    "url": "https://remapradio.com/articles/the-lost-treasure-of-sid-meiers-pirates/",
+    "title": "The Lost Treasure of Sid Meier's Pirates"
   },
   {
     "source": "hn",
@@ -71,8 +86,8 @@
   },
   {
     "source": "hn",
-    "url": "https://invertingvision.com/2026/08/10/kodaks-pre-invented-lunar-orbiter-camera-or-the-fate-of-samos-readout/",
-    "title": "Kodak's \"Pre-Invented\" Lunar Orbiter Camera; Or, the Fate of SAMOS Readout"
+    "url": "https://catalystneuro.com/blog/cost-of-intelligence-drops-100x/",
+    "title": "What Happens When the Cost of Intelligence Drops 100x"
   },
   {
     "source": "hn",
@@ -81,13 +96,8 @@
   },
   {
     "source": "hn",
-    "url": "https://bisecto.com/every-shape-can-be-cut-in-half.html",
-    "title": "Every shape can be cut exactly in half with one straight line"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://matklad.github.io/2026/08/20/better-batteries.html",
-    "title": "Better Batteries"
+    "url": "https://invertingvision.com/2026/08/10/kodaks-pre-invented-lunar-orbiter-camera-or-the-fate-of-samos-readout/",
+    "title": "Kodak's \"Pre-Invented\" Lunar Orbiter Camera; Or, the Fate of SAMOS Readout"
   },
   {
     "source": "lobsters",
@@ -96,13 +106,18 @@
   },
   {
     "source": "lobsters",
-    "url": "https://blog.rust-lang.org/2026/08/20/Rust-1.98.0/",
-    "title": "Announcing Rust 1.98.0"
+    "url": "https://matklad.github.io/2026/08/20/better-batteries.html",
+    "title": "Better Batteries"
   },
   {
     "source": "lobsters",
     "url": "https://bharadwajraju.com/posts/btrfs-snapshots-in-kde/",
     "title": "Btrfs Snapshot Integration in KDE"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://blog.rust-lang.org/2026/08/20/Rust-1.98.0/",
+    "title": "Announcing Rust 1.98.0"
   },
   {
     "source": "lobsters",
@@ -126,13 +141,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://blog.laserphile.com/2026/08/aliexpress-webpage-keeping-multipoint.html",
-    "title": "AliExpress keeps multipoint Bluetooth headphones active with WebAudio fingerprinting"
+    "url": "https://rust-glancer.github.io/blog/hello-world/",
+    "title": "rust-glancer: An alternative LSP for Rust with focus on low memory usage"
   },
   {
     "source": "lobsters",
-    "url": "https://rust-glancer.github.io/blog/hello-world/",
-    "title": "rust-glancer: An alternative LSP for Rust with focus on low memory usage"
+    "url": "https://blog.laserphile.com/2026/08/aliexpress-webpage-keeping-multipoint.html",
+    "title": "AliExpress keeps multipoint Bluetooth headphones active with WebAudio fingerprinting"
   },
   {
     "source": "lobsters",
@@ -146,12 +161,12 @@
   },
   {
     "source": "lobsters",
-    "url": "https://atproto.com/blog/atproto-spaces-alpha",
-    "title": "The Atproto Spaces Alpha is Live"
+    "url": "https://griffinberlste.in/blog/do-the-thing/",
+    "title": "Unfortunately you sometimes need to do the thing"
   },
   {
     "source": "lobsters",
-    "url": "https://www.akitaonrails.com/en/2026/08/19/survival-guide-for-a-censored-internet/",
-    "title": "Survival Guide for a Censored Internet"
+    "url": "https://atproto.com/blog/atproto-spaces-alpha",
+    "title": "The Atproto Spaces Alpha is Live"
   }
 ]
