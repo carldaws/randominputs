@@ -1,18 +1,18 @@
 [
   {
     "source": "hn",
-    "url": "https://quantumi.sh/public/labs.html",
-    "title": "ElevenLabs, TwelveLabs, ThirteenLabs"
-  },
-  {
-    "source": "hn",
     "url": "https://lapcatsoftware.com/articles/2026/8/7.html",
     "title": "hdiutil is deprecated in macOS 27 Golden Gate"
   },
   {
     "source": "hn",
-    "url": "https://geometridae.bearblog.dev/a-friendly-introduction-to-racket/",
-    "title": "A Friendly Introduction to Racket"
+    "url": "https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html",
+    "title": "NetBSD and My Life (2005)"
+  },
+  {
+    "source": "hn",
+    "url": "https://quantumi.sh/public/labs.html",
+    "title": "ElevenLabs, TwelveLabs, ThirteenLabs"
   },
   {
     "source": "hn",
@@ -21,8 +21,8 @@
   },
   {
     "source": "hn",
-    "url": "https://www.rfcafe.com/",
-    "title": "RF Cafe"
+    "url": "https://geometridae.bearblog.dev/a-friendly-introduction-to-racket/",
+    "title": "A Friendly Introduction to Racket"
   },
   {
     "source": "hn",
@@ -31,8 +31,8 @@
   },
   {
     "source": "hn",
-    "url": "https://munderdiffl.in/",
-    "title": "Munder Difflin – Agent harness to run an office of your clones"
+    "url": "https://www.rfcafe.com/",
+    "title": "RF Cafe"
   },
   {
     "source": "hn",
@@ -41,8 +41,8 @@
   },
   {
     "source": "hn",
-    "url": "https://nautil.us/why-it-might-be-time-to-rethink-the-human-family-tree-1283985",
-    "title": "Why it might be time to rethink the human family tree"
+    "url": "https://munderdiffl.in/",
+    "title": "Munder Difflin – Agent harness to run an office of your clones"
   },
   {
     "source": "hn",
@@ -51,8 +51,8 @@
   },
   {
     "source": "hn",
-    "url": "https://vetto.ai/companies/programbench-vetted.html",
-    "title": "ProgramBench Vetted: Reverse Engineering from a Runnable Binary"
+    "url": "https://nautil.us/why-it-might-be-time-to-rethink-the-human-family-tree-1283985",
+    "title": "Why it might be time to rethink the human family tree"
   },
   {
     "source": "hn",
@@ -66,8 +66,13 @@
   },
   {
     "source": "hn",
-    "url": "https://ameliorate.app/",
-    "title": "Ameliorate"
+    "url": "https://terminal-code.com",
+    "title": "Show HN: terminal-code – VS Code inside the terminal"
+  },
+  {
+    "source": "hn",
+    "url": "https://rust-glancer.github.io/blog/hello-world/",
+    "title": "Rust Glancer: Rust LSP using 100x less RAM"
   },
   {
     "source": "hn",
@@ -76,18 +81,8 @@
   },
   {
     "source": "hn",
-    "url": "https://terminal-code.com",
-    "title": "Show HN: terminal-code – VS Code inside the terminal"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.pianoify.net/",
-    "title": "Show HN: Public Muscriptor Instance (latest, most powerful Audio-to-MIDI model)"
-  },
-  {
-    "source": "hn",
-    "url": "https://rust-glancer.github.io/blog/hello-world/",
-    "title": "Rust Glancer: Rust LSP using 100x less RAM"
+    "url": "https://vetto.ai/companies/programbench-vetted.html",
+    "title": "ProgramBench Vetted: Reverse Engineering from a Runnable Binary"
   },
   {
     "source": "lobsters",
@@ -96,13 +91,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://matduggan.com/otel-isnt-going-well-and-i-made-a-spreadsheet-about-it/",
-    "title": "OTel Isn't Going Well (And I Made A Spreadsheet About It)"
+    "url": "https://typesanitizer.com/blog/performance-issues.html",
+    "title": "There continue to be reasons for software to be slow"
   },
   {
     "source": "lobsters",
-    "url": "https://typesanitizer.com/blog/performance-issues.html",
-    "title": "There continue to be reasons for software to be slow"
+    "url": "https://matduggan.com/otel-isnt-going-well-and-i-made-a-spreadsheet-about-it/",
+    "title": "OTel Isn't Going Well (And I Made A Spreadsheet About It)"
   },
   {
     "source": "lobsters",
@@ -121,6 +116,11 @@
   },
   {
     "source": "lobsters",
+    "url": "https://blog.wybxc.cc/blog/rust-gui-survey-2026/",
+    "title": "A 2026 Survey of Rust GUI Libraries"
+  },
+  {
+    "source": "lobsters",
     "url": "https://lina.sh/blog/hijacking-e164-arpa",
     "title": "I accidentally logged hundreds of thousands of phone calls to military bases"
   },
@@ -131,28 +131,23 @@
   },
   {
     "source": "lobsters",
-    "url": "https://burakemir.ch/post/formal-semantics/",
-    "title": "Programming Language Semantics and Memory Safety"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://blog.wybxc.cc/blog/rust-gui-survey-2026/",
-    "title": "A 2026 Survey of Rust GUI Libraries"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://yashgarg.dev/posts/the-schrodinger-email/",
-    "title": "The Schrödinger Email"
-  },
-  {
-    "source": "lobsters",
     "url": "https://sockpuppet.org/blog/2026/08/20/stop-making-tuis/",
     "title": "Stop Making TUIs"
   },
   {
     "source": "lobsters",
+    "url": "https://burakemir.ch/post/formal-semantics/",
+    "title": "Programming Language Semantics and Memory Safety"
+  },
+  {
+    "source": "lobsters",
     "url": "https://entropicthoughts.com/ai-comment-classifier",
     "title": "Robot comment classifier"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://yashgarg.dev/posts/the-schrodinger-email/",
+    "title": "The Schrödinger Email"
   },
   {
     "source": "lobsters",
@@ -166,16 +161,6 @@
   },
   {
     "source": "lobsters",
-    "url": "https://bharadwajraju.com/posts/btrfs-snapshots-in-kde/",
-    "title": "Btrfs Snapshot Integration in KDE"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html",
-    "title": "NetBSD and my life (2005)"
-  },
-  {
-    "source": "lobsters",
     "url": "https://docs.pikvm.org/camera/",
     "title": "PiKVM project has gained support for web-camera forwarding"
   },
@@ -185,88 +170,8 @@
     "title": "An arcade fighting game over SSH"
   },
   {
-    "source": "pinboard",
-    "url": "https://chrisburnell.com/html-can-do-that/",
-    "title": "HTML Can Do That · Chris Burnell"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.raphaelbauer.com/posts/postgresql-everything/",
-    "title": "PostgreSQL for Everything - Dr. Raphael A. Bauer, MBA | Fractional & Interim CTO | PE/VC Tech Strategy & Due Diligence | Berlin | London | Austin, Texas"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://openlogi.org/en",
-    "title": "OpenLogi"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://dontpastetheai.com/",
-    "title": "Don't paste the AI."
-  },
-  {
-    "source": "pinboard",
-    "url": "https://sprocketfox.io/xssfox/2026/08/19/sondehub-and-war/",
-    "title": "How a joke domain purchase turned in geopolitical warfare"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://chrisburnell.com/html-can-do-that/#example-until-found",
-    "title": "HTML Can Do That · Chris Burnell"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.casio.com/uk/watches/casio/product.F-B100W-1A/",
-    "title": "F-B100W-1A | CASIO"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.platformer.news/karpathy-llm-wiki-journalism-productivity/",
-    "title": "Casey Newton si è costruito una wiki personale con gli LLM, su idea di Karpathy"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://likebutter.app/",
-    "title": "Life without internet made smoother. Get access to tools that help."
-  },
-  {
-    "source": "pinboard",
-    "url": "https://joecode.com/2026-08-19-sqlite3/",
-    "title": "SQLite for Everything | JoeCode"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://ordinaryabundance.com/",
-    "title": "Ordinary Abundance"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://blog.curiousquail.com/im-upset-again-about-a-co-creator-of-rss-being-prosecuted-for-something-meta-is-doing-with-little-consequence/",
-    "title": "I'm Upset Again About a Co-Creator of RSS Being Prosecuted For Something Meta Is Doing With Little Consequence – quailblog"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://fx.sh/",
-    "title": "fx - Tiny, open, native coding agent"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.pewresearch.org/short-reads/2026/08/18/young-adults-in-the-us-are-increasingly-wary-of-ai-concerned-it-will-take-jobs/",
-    "title": "Young US adults are increasingly wary of AI, concerned it will take jobs | Pew Research Center"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://cymerys.com/w/im-becoming-ai-blind",
-    "title": "I'm becoming AI-blind - Rafal Cymerys"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.benjoffe.com/fast-day-of-week",
-    "title": "A faster way to calculate the day-of-the-week"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://bookorbit.app/",
-    "title": "BookOrbit"
+    "source": "lobsters",
+    "url": "https://bharadwajraju.com/posts/btrfs-snapshots-in-kde/",
+    "title": "Btrfs Snapshot Integration in KDE"
   }
 ]
