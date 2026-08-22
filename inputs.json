@@ -7,7 +7,7 @@
   {
     "source": "hn",
     "url": "https://blog.modelcontextprotocol.io/posts/mcp-roadmap/",
-    "title": "The New MCP Roadmap"
+    "title": "New MCP Roadmap"
   },
   {
     "source": "hn",
@@ -16,8 +16,23 @@
   },
   {
     "source": "hn",
+    "url": "https://playtechnique.io/long/the-unix-time-sharing-system.html",
+    "title": "Learning about \"The Unix Time-Sharing System\""
+  },
+  {
+    "source": "hn",
+    "url": "https://www.rfcafe.com/",
+    "title": "RF Cafe"
+  },
+  {
+    "source": "hn",
     "url": "https://www.computer.org/csdl/magazine/mi/2021/06/09623402/1yJTvlRLmhi",
     "title": "Z80 – The 1970s Microprocessor Still Alive (2021)"
+  },
+  {
+    "source": "hn",
+    "url": "https://ameliorate.app/",
+    "title": "Ameliorate"
   },
   {
     "source": "hn",
@@ -26,8 +41,8 @@
   },
   {
     "source": "hn",
-    "url": "https://playtechnique.io/long/the-unix-time-sharing-system.html",
-    "title": "Learning about \"The Unix Time-Sharing System\""
+    "url": "https://perimeterinstitute.ca/news/dynamical-dark-energy-and-week-broke-cosmology",
+    "title": "Dynamical dark energy and the week that broke cosmology"
   },
   {
     "source": "hn",
@@ -38,6 +53,16 @@
     "source": "hn",
     "url": "https://bandarlabs.github.io/Cobalt/",
     "title": "Kobo can run apps now"
+  },
+  {
+    "source": "hn",
+    "url": "https://typ.ing/",
+    "title": "typ.ing"
+  },
+  {
+    "source": "hn",
+    "url": "https://editide.com/blog/what-is-a-pptx-file/",
+    "title": "What's in a PowerPoint File?"
   },
   {
     "source": "hn",
@@ -56,38 +81,13 @@
   },
   {
     "source": "hn",
-    "url": "https://matduggan.com/otel-isnt-going-well-and-i-made-a-spreadsheet-about-it/",
-    "title": "OTel isn’t going well"
-  },
-  {
-    "source": "hn",
     "url": "https://matklad.github.io/2026/08/06/neat-io-threaded.html",
     "title": "Zig’s Io.Threaded is neat"
   },
   {
     "source": "hn",
-    "url": "https://worksinprogress.co/issue/how-thailand-resisted-colonization/",
-    "title": "How Thailand Resisted Colonization"
-  },
-  {
-    "source": "hn",
-    "url": "https://thomasdullien.github.io/posts/2026-08-21-three-important-steps-in-my-maturation-process/",
-    "title": "Three important steps in my maturation process"
-  },
-  {
-    "source": "hn",
-    "url": "https://cymerys.com/w/im-becoming-ai-blind",
-    "title": "I'm becoming AI-blind"
-  },
-  {
-    "source": "hn",
-    "url": "https://medicine.washu.edu/news/how-early-life-stress-leaves-a-scar-inside-brain-cells/",
-    "title": "Early-life stress leaves a 'scar' inside brain cells in mice"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.gingerbill.org/article/2026/08/20/designing-odins-inline-asm/",
-    "title": "Everyone says assembly is untyped—everyone is wrong"
+    "url": "https://matduggan.com/otel-isnt-going-well-and-i-made-a-spreadsheet-about-it/",
+    "title": "OTel isn’t going well"
   },
   {
     "source": "lobsters",
@@ -101,13 +101,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://blog.rust-lang.org/2026/08/21/enabling-next-solver-on-nightly/",
-    "title": "Enabling the next-generation trait solver on nightly"
+    "url": "https://a.baez.link/3mtdbbp2dmc27",
+    "title": "The cool things of Gleam"
   },
   {
     "source": "lobsters",
-    "url": "https://a.baez.link/3mtdbbp2dmc27",
-    "title": "The cool things of Gleam"
+    "url": "https://blog.rust-lang.org/2026/08/21/enabling-next-solver-on-nightly/",
+    "title": "Enabling the next-generation trait solver on nightly"
   },
   {
     "source": "lobsters",
@@ -126,6 +126,11 @@
   },
   {
     "source": "lobsters",
+    "url": "https://entropicthoughts.com/ai-comment-classifier",
+    "title": "Robot comment classifier"
+  },
+  {
+    "source": "lobsters",
     "url": "https://matklad.github.io/2026/08/20/better-batteries.html",
     "title": "Better Batteries"
   },
@@ -136,8 +141,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://entropicthoughts.com/ai-comment-classifier",
-    "title": "Robot comment classifier"
+    "url": "https://blog.wybxc.cc/blog/rust-gui-survey-2026/",
+    "title": "A 2026 Survey of Rust GUI Libraries"
   },
   {
     "source": "lobsters",
@@ -153,10 +158,5 @@
     "source": "lobsters",
     "url": "https://blog.rust-lang.org/2026/08/20/Rust-1.98.0/",
     "title": "Announcing Rust 1.98.0"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://aerotwist.com/blog/guitar-tuner/",
-    "title": "Guitar Tuner (2015)"
   }
 ]
