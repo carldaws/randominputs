@@ -1,6 +1,16 @@
 [
   {
     "source": "hn",
+    "url": "https://www.computer.org/csdl/magazine/mi/2021/06/09623402/1yJTvlRLmhi",
+    "title": "Z80–The 1970s Microprocessor Still Alive"
+  },
+  {
+    "source": "hn",
+    "url": "https://munderdiffl.in/",
+    "title": "Munder Difflin – Agent harness to run an office of your clones"
+  },
+  {
+    "source": "hn",
     "url": "https://rust-glancer.github.io/blog/hello-world/",
     "title": "Rust Glancer: Rust LSP using 100x less RAM"
   },
@@ -8,11 +18,6 @@
     "source": "hn",
     "url": "https://www.felonybench.com/",
     "title": "Felony Bench"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.computer.org/csdl/magazine/mi/2021/06/09623402/1yJTvlRLmhi",
-    "title": "Z80–The 1970s Microprocessor Still Alive"
   },
   {
     "source": "hn",
@@ -36,23 +41,18 @@
   },
   {
     "source": "hn",
-    "url": "https://munderdiffl.in/",
-    "title": "Munder Difflin – Agent harness to run an office of your clones"
-  },
-  {
-    "source": "hn",
     "url": "https://thomasdullien.github.io/posts/2026-08-21-three-important-steps-in-my-maturation-process/",
     "title": "Three important steps in my maturation process"
   },
   {
     "source": "hn",
-    "url": "https://matduggan.com/otel-isnt-going-well-and-i-made-a-spreadsheet-about-it/",
-    "title": "OTel isn’t going well"
+    "url": "https://sockpuppet.org/blog/2026/08/20/stop-making-tuis/",
+    "title": "Stop Making TUIs"
   },
   {
     "source": "hn",
-    "url": "https://sockpuppet.org/blog/2026/08/20/stop-making-tuis/",
-    "title": "Stop Making TUIs"
+    "url": "https://matduggan.com/otel-isnt-going-well-and-i-made-a-spreadsheet-about-it/",
+    "title": "OTel isn’t going well"
   },
   {
     "source": "hn",
@@ -63,6 +63,11 @@
     "source": "hn",
     "url": "https://interconnected.org/home/2026/08/21/galactic",
     "title": "Galactic Compass 2: now with new augmented reality mode"
+  },
+  {
+    "source": "hn",
+    "url": "https://worksinprogress.co/issue/how-thailand-resisted-colonization/",
+    "title": "How Thailand Resisted Colonization"
   },
   {
     "source": "hn",
@@ -81,18 +86,23 @@
   },
   {
     "source": "hn",
+    "url": "https://www.gingerbill.org/article/2026/08/20/designing-odins-inline-asm/",
+    "title": "Everyone says assembly is untyped—everyone is wrong"
+  },
+  {
+    "source": "hn",
     "url": "https://blog.cloudflare.com/revisiting-spectre-attacks-on-workers/",
     "title": "A revisit of remote Spectre attacks on Cloudflare Workers"
   },
   {
     "source": "hn",
-    "url": "https://nari-labs.com/blog/qwen3-tts-speed-cost-frontier/",
-    "title": "How we made a text-to-speech model respond in sub-50 ms"
+    "url": "https://danluu.com/hn-comments/",
+    "title": "HN: The Good Parts (2016)"
   },
   {
     "source": "hn",
-    "url": "https://www.gingerbill.org/article/2026/08/20/designing-odins-inline-asm/",
-    "title": "Everyone says assembly is untyped—everyone is wrong"
+    "url": "https://nari-labs.com/blog/qwen3-tts-speed-cost-frontier/",
+    "title": "How we made a text-to-speech model respond in sub-50 ms"
   },
   {
     "source": "lobsters",
@@ -121,11 +131,6 @@
   },
   {
     "source": "lobsters",
-    "url": "https://blog.roomy.space/3mplw6vvw4s23",
-    "title": "Roomy is generally available"
-  },
-  {
-    "source": "lobsters",
     "url": "https://bharadwajraju.com/posts/btrfs-snapshots-in-kde/",
     "title": "Btrfs Snapshot Integration in KDE"
   },
@@ -133,6 +138,11 @@
     "source": "lobsters",
     "url": "https://yashgarg.dev/posts/the-schrodinger-email/",
     "title": "The Schrödinger Email"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://blog.roomy.space/3mplw6vvw4s23",
+    "title": "Roomy is generally available"
   },
   {
     "source": "lobsters",
