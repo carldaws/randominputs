@@ -11,6 +11,11 @@
   },
   {
     "source": "hn",
+    "url": "https://quantumi.sh/public/labs.html",
+    "title": "ElevenLabs, TwelveLabs, ThirteenLabs"
+  },
+  {
+    "source": "hn",
     "url": "https://munderdiffl.in/",
     "title": "Munder Difflin – Agent harness to run an office of your clones"
   },
@@ -18,11 +23,6 @@
     "source": "hn",
     "url": "https://www.computer.org/csdl/magazine/mi/2021/06/09623402/1yJTvlRLmhi",
     "title": "Z80 – The 1970s Microprocessor Still Alive (2021)"
-  },
-  {
-    "source": "hn",
-    "url": "https://zaksa.zip/blog/formal-education-is-the-answer/",
-    "title": "A formal degree and algorithmic problem-solving is the answer. Always has been"
   },
   {
     "source": "hn",
@@ -56,18 +56,13 @@
   },
   {
     "source": "hn",
-    "url": "https://matklad.github.io/2026/08/06/neat-io-threaded.html",
-    "title": "Zig’s Io.Threaded is neat"
-  },
-  {
-    "source": "hn",
     "url": "https://matduggan.com/otel-isnt-going-well-and-i-made-a-spreadsheet-about-it/",
     "title": "OTel isn’t going well"
   },
   {
     "source": "hn",
-    "url": "https://worksinprogress.co/issue/how-thailand-resisted-colonization/",
-    "title": "How Thailand Resisted Colonization"
+    "url": "https://matklad.github.io/2026/08/06/neat-io-threaded.html",
+    "title": "Zig’s Io.Threaded is neat"
   },
   {
     "source": "hn",
@@ -76,8 +71,8 @@
   },
   {
     "source": "hn",
-    "url": "https://zeux.io/2025/09/30/billions-of-triangles-in-minutes/",
-    "title": "Optimizing meshoptimizer to process billions of triangles in minutes (2025)"
+    "url": "https://worksinprogress.co/issue/how-thailand-resisted-colonization/",
+    "title": "How Thailand Resisted Colonization"
   },
   {
     "source": "hn",
@@ -90,6 +85,21 @@
     "title": "I'm becoming AI-blind"
   },
   {
+    "source": "hn",
+    "url": "https://zeux.io/2025/09/30/billions-of-triangles-in-minutes/",
+    "title": "Optimizing meshoptimizer to process billions of triangles in minutes (2025)"
+  },
+  {
+    "source": "hn",
+    "url": "https://medicine.washu.edu/news/how-early-life-stress-leaves-a-scar-inside-brain-cells/",
+    "title": "Early-life stress leaves a 'scar' inside brain cells in mice"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://www.seangoedecke.com/you-should-never-be-angry-at-work/",
+    "title": "You should never be angry at work"
+  },
+  {
     "source": "lobsters",
     "url": "https://blog.rust-lang.org/2026/08/21/enabling-next-solver-on-nightly/",
     "title": "Enabling the next-generation trait solver on nightly"
@@ -98,11 +108,6 @@
     "source": "lobsters",
     "url": "https://a.baez.link/3mtdbbp2dmc27",
     "title": "The cool things of Gleam"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://www.seangoedecke.com/you-should-never-be-angry-at-work/",
-    "title": "You should never be angry at work"
   },
   {
     "source": "lobsters",
@@ -121,23 +126,23 @@
   },
   {
     "source": "lobsters",
-    "url": "https://matklad.github.io/2026/08/20/better-batteries.html",
-    "title": "Better Batteries"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://entropicthoughts.com/ai-comment-classifier",
-    "title": "Robot comment classifier"
-  },
-  {
-    "source": "lobsters",
     "url": "https://yashgarg.dev/posts/the-schrodinger-email/",
     "title": "The Schrödinger Email"
   },
   {
     "source": "lobsters",
+    "url": "https://matklad.github.io/2026/08/20/better-batteries.html",
+    "title": "Better Batteries"
+  },
+  {
+    "source": "lobsters",
     "url": "https://blog.roomy.space/3mplw6vvw4s23",
     "title": "Roomy is generally available"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://entropicthoughts.com/ai-comment-classifier",
+    "title": "Robot comment classifier"
   },
   {
     "source": "lobsters",
