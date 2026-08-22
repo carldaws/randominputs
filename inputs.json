@@ -6,13 +6,13 @@
   },
   {
     "source": "hn",
-    "url": "https://bandarlabs.github.io/Cobalt/",
-    "title": "Kobo can run apps now"
+    "url": "https://rust-glancer.github.io/blog/hello-world/",
+    "title": "Rust Glancer: Rust LSP using 100x less RAM"
   },
   {
     "source": "hn",
-    "url": "https://rust-glancer.github.io/blog/hello-world/",
-    "title": "Rust Glancer: Rust LSP using 100x less RAM"
+    "url": "https://bandarlabs.github.io/Cobalt/",
+    "title": "Kobo can run apps now"
   },
   {
     "source": "hn",
@@ -26,28 +26,23 @@
   },
   {
     "source": "hn",
-    "url": "https://thomasdullien.github.io/posts/2026-08-21-three-important-steps-in-my-maturation-process/",
-    "title": "Three important steps in my maturation process"
-  },
-  {
-    "source": "hn",
     "url": "https://lina.sh/blog/hijacking-e164-arpa",
     "title": "I accidentally logged hundreds of thousands of phone calls to military bases"
   },
   {
     "source": "hn",
-    "url": "https://developers.openai.com/api/docs/models/gpt-5.6-sol",
-    "title": "GPT 5.6 Sol 20% price reduction"
-  },
-  {
-    "source": "hn",
-    "url": "https://matklad.github.io/2026/08/06/neat-io-threaded.html",
-    "title": "Zig’s io.threaded is neat"
+    "url": "https://thomasdullien.github.io/posts/2026-08-21-three-important-steps-in-my-maturation-process/",
+    "title": "Three important steps in my maturation process"
   },
   {
     "source": "hn",
     "url": "https://matduggan.com/otel-isnt-going-well-and-i-made-a-spreadsheet-about-it/",
     "title": "OTel isn’t going well"
+  },
+  {
+    "source": "hn",
+    "url": "https://matklad.github.io/2026/08/06/neat-io-threaded.html",
+    "title": "Zig’s io.threaded is neat"
   },
   {
     "source": "hn",
@@ -61,13 +56,18 @@
   },
   {
     "source": "hn",
+    "url": "https://medicine.washu.edu/news/how-early-life-stress-leaves-a-scar-inside-brain-cells/",
+    "title": "Early-life stress leaves a 'scar' inside brain cells in mice"
+  },
+  {
+    "source": "hn",
     "url": "https://ozbrain.com",
     "title": "Show HN: OzBrain, a shared brain for knowledge between agents and your team"
   },
   {
     "source": "hn",
-    "url": "https://medicine.washu.edu/news/how-early-life-stress-leaves-a-scar-inside-brain-cells/",
-    "title": "Early-life stress leaves a 'scar' inside brain cells in mice"
+    "url": "https://cymerys.com/w/im-becoming-ai-blind",
+    "title": "I'm becoming AI-blind"
   },
   {
     "source": "hn",
@@ -83,11 +83,6 @@
     "source": "hn",
     "url": "https://danluu.com/hn-comments/",
     "title": "HN: The Good Parts (2016)"
-  },
-  {
-    "source": "hn",
-    "url": "https://cymerys.com/w/im-becoming-ai-blind",
-    "title": "I'm becoming AI-blind"
   },
   {
     "source": "hn",
@@ -111,13 +106,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://hackaday.com/2026/08/20/homebrew-68k-machine-has-a-pci-bus/",
-    "title": "Homebrew 68K Machine Has A PCI Bus"
+    "url": "https://aengelke.net/llvm23-ct.html",
+    "title": "Compile-Time Improvements in LLVM 23"
   },
   {
     "source": "lobsters",
-    "url": "https://blog.rust-lang.org/2026/08/20/Rust-1.98.0/",
-    "title": "Announcing Rust 1.98.0"
+    "url": "https://hackaday.com/2026/08/20/homebrew-68k-machine-has-a-pci-bus/",
+    "title": "Homebrew 68K Machine Has A PCI Bus"
   },
   {
     "source": "lobsters",
@@ -126,8 +121,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://aengelke.net/llvm23-ct.html",
-    "title": "Compile-Time Improvements in LLVM 23"
+    "url": "https://blog.rust-lang.org/2026/08/20/Rust-1.98.0/",
+    "title": "Announcing Rust 1.98.0"
   },
   {
     "source": "lobsters",
@@ -141,13 +136,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://sprocketfox.io/xssfox/2026/08/19/sondehub-and-war/",
-    "title": "How a joke domain purchase turned into geopolitical warfare"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://bun.com/blog/bun-v1.4",
-    "title": "Bun 1.4"
+    "url": "https://lists.exim.org/lurker/message/20260820.154633.91995f73.en.html",
+    "title": "Exim 4.100 released"
   },
   {
     "source": "lobsters",
@@ -156,12 +146,12 @@
   },
   {
     "source": "lobsters",
-    "url": "https://lists.exim.org/lurker/message/20260820.154633.91995f73.en.html",
-    "title": "Exim 4.100 released"
+    "url": "https://sprocketfox.io/xssfox/2026/08/19/sondehub-and-war/",
+    "title": "How a joke domain purchase turned into geopolitical warfare"
   },
   {
     "source": "lobsters",
-    "url": "https://eprint.gacr.info/2025/003.pdf",
-    "title": "Zero-Knowledge Proof of Wasta with Applications in Lebanon"
+    "url": "https://bun.com/blog/bun-v1.4",
+    "title": "Bun 1.4"
   }
 ]
