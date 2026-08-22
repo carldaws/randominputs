@@ -36,18 +36,13 @@
   },
   {
     "source": "hn",
-    "url": "https://api-docs.deepseek.com/guides/vision/",
-    "title": "DeepSeek-v4-flash-vision-exp"
+    "url": "https://matduggan.com/otel-isnt-going-well-and-i-made-a-spreadsheet-about-it/",
+    "title": "OTel isn't going well (and I made a spreadsheet about it)"
   },
   {
     "source": "hn",
     "url": "https://danluu.com/hn-comments/",
     "title": "HN: The Good Parts (2016)"
-  },
-  {
-    "source": "hn",
-    "url": "https://matduggan.com/otel-isnt-going-well-and-i-made-a-spreadsheet-about-it/",
-    "title": "OTel isn't going well (and I made a spreadsheet about it)"
   },
   {
     "source": "hn",
@@ -61,18 +56,8 @@
   },
   {
     "source": "hn",
-    "url": "https://pointinthecloud.com/2026-08-19-144600.html",
-    "title": "I ran Photoshop on a £0.60 computer chip"
-  },
-  {
-    "source": "hn",
     "url": "https://precastreinforced.co.uk/2026/08/16/new-worlds/",
     "title": "New Worlds: We are living in the future of J.G. Ballard or William Gibson"
-  },
-  {
-    "source": "hn",
-    "url": "https://surfingcomplexity.blog/2026/08/19/github-autoscaling-and-the-component-substitution-fallacy/",
-    "title": "GitHub, autoscaling, and the component substitution fallacy"
   },
   {
     "source": "hn",
@@ -86,8 +71,18 @@
   },
   {
     "source": "hn",
+    "url": "https://surfingcomplexity.blog/2026/08/19/github-autoscaling-and-the-component-substitution-fallacy/",
+    "title": "GitHub, autoscaling, and the component substitution fallacy"
+  },
+  {
+    "source": "hn",
     "url": "https://cymerys.com/w/im-becoming-ai-blind",
     "title": "I'm becoming AI-blind"
+  },
+  {
+    "source": "hn",
+    "url": "https://pointinthecloud.com/2026-08-19-144600.html",
+    "title": "I ran Photoshop on a £0.60 computer chip"
   },
   {
     "source": "lobsters",
@@ -131,6 +126,16 @@
   },
   {
     "source": "lobsters",
+    "url": "https://lists.exim.org/lurker/message/20260820.154633.91995f73.en.html",
+    "title": "Exim 4.100 released"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://eprint.gacr.info/2025/003.pdf",
+    "title": "Zero-Knowledge Proof of Wasta with Applications in Lebanon"
+  },
+  {
+    "source": "lobsters",
     "url": "https://blog.rust-lang.org/2026/08/20/supply-chain-attack-on-arrayref/",
     "title": "Supply chain attack on arrayref"
   },
@@ -141,12 +146,7 @@
   },
   {
     "source": "lobsters",
-    "url": "https://lists.exim.org/lurker/message/20260820.154633.91995f73.en.html",
-    "title": "Exim 4.100 released"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://www.ethanheilman.com/x/33/index.html",
-    "title": "Open-sourcing OpenPubkey SSH (OPKSSH): integrating single sign-on with SSH"
+    "url": "https://aerotwist.com/blog/guitar-tuner/",
+    "title": "Guitar Tuner (2015)"
   }
 ]
