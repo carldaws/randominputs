@@ -1,13 +1,13 @@
 [
   {
     "source": "hn",
-    "url": "https://www.felonybench.com/",
-    "title": "Felony Bench"
+    "url": "https://rust-glancer.github.io/blog/hello-world/",
+    "title": "Rust Glancer: Rust LSP using 100x less RAM"
   },
   {
     "source": "hn",
-    "url": "https://rust-glancer.github.io/blog/hello-world/",
-    "title": "Rust Glancer: Rust LSP using 100x less RAM"
+    "url": "https://www.felonybench.com/",
+    "title": "Felony Bench"
   },
   {
     "source": "hn",
@@ -36,13 +36,13 @@
   },
   {
     "source": "hn",
-    "url": "https://matduggan.com/otel-isnt-going-well-and-i-made-a-spreadsheet-about-it/",
-    "title": "OTel isn’t going well"
+    "url": "https://matklad.github.io/2026/08/06/neat-io-threaded.html",
+    "title": "Zig’s io.threaded is neat"
   },
   {
     "source": "hn",
-    "url": "https://matklad.github.io/2026/08/06/neat-io-threaded.html",
-    "title": "Zig’s io.threaded is neat"
+    "url": "https://matduggan.com/otel-isnt-going-well-and-i-made-a-spreadsheet-about-it/",
+    "title": "OTel isn’t going well"
   },
   {
     "source": "hn",
@@ -58,11 +58,6 @@
     "source": "hn",
     "url": "https://medicine.washu.edu/news/how-early-life-stress-leaves-a-scar-inside-brain-cells/",
     "title": "Early-life stress leaves a 'scar' inside brain cells in mice"
-  },
-  {
-    "source": "hn",
-    "url": "https://ozbrain.com",
-    "title": "Show HN: OzBrain, a shared brain for knowledge between agents and your team"
   },
   {
     "source": "hn",
@@ -106,23 +101,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://aengelke.net/llvm23-ct.html",
-    "title": "Compile-Time Improvements in LLVM 23"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://hackaday.com/2026/08/20/homebrew-68k-machine-has-a-pci-bus/",
-    "title": "Homebrew 68K Machine Has A PCI Bus"
-  },
-  {
-    "source": "lobsters",
     "url": "https://burakemir.ch/post/formal-semantics/",
     "title": "Programming Language Semantics and Memory Safety"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://blog.rust-lang.org/2026/08/20/Rust-1.98.0/",
-    "title": "Announcing Rust 1.98.0"
   },
   {
     "source": "lobsters",
@@ -133,6 +113,21 @@
     "source": "lobsters",
     "url": "https://blog.roomy.space/3mplw6vvw4s23",
     "title": "Roomy is generally available"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://aengelke.net/llvm23-ct.html",
+    "title": "Compile-Time Improvements in LLVM 23"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://hackaday.com/2026/08/20/homebrew-68k-machine-has-a-pci-bus/",
+    "title": "Homebrew 68K Machine Has A PCI Bus"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://blog.rust-lang.org/2026/08/20/Rust-1.98.0/",
+    "title": "Announcing Rust 1.98.0"
   },
   {
     "source": "lobsters",
