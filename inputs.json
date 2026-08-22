@@ -36,13 +36,13 @@
   },
   {
     "source": "hn",
-    "url": "https://ozbrain.com",
-    "title": "Show HN: OzBrain, a shared brain for knowledge between agents and your team"
+    "url": "https://matklad.github.io/2026/08/06/neat-io-threaded.html",
+    "title": "Zig's Io.Threaded Is Neat"
   },
   {
     "source": "hn",
-    "url": "https://lithub.com/how-orchids-inspired-the-groundbreaking-work-of-charles-darwin/",
-    "title": "How orchids inspired the work of Charles Darwin"
+    "url": "https://ozbrain.com",
+    "title": "Show HN: OzBrain, a shared brain for knowledge between agents and your team"
   },
   {
     "source": "hn",
@@ -56,13 +56,13 @@
   },
   {
     "source": "hn",
-    "url": "https://danluu.com/hn-comments/",
-    "title": "HN: The Good Parts (2016)"
+    "url": "https://precastreinforced.co.uk/2026/08/16/new-worlds/",
+    "title": "New Worlds: We are living in the future of J.G. Ballard or William Gibson"
   },
   {
     "source": "hn",
-    "url": "https://precastreinforced.co.uk/2026/08/16/new-worlds/",
-    "title": "New Worlds: We are living in the future of J.G. Ballard or William Gibson"
+    "url": "https://lithub.com/how-orchids-inspired-the-groundbreaking-work-of-charles-darwin/",
+    "title": "How orchids inspired the work of Charles Darwin"
   },
   {
     "source": "hn",
@@ -71,8 +71,8 @@
   },
   {
     "source": "hn",
-    "url": "https://tumbleforth.hardcoded.net/",
-    "title": "Tumble Forth – from assembly to OS with C compiler (2023)"
+    "url": "https://danluu.com/hn-comments/",
+    "title": "HN: The Good Parts (2016)"
   },
   {
     "source": "hn",
@@ -83,6 +83,11 @@
     "source": "hn",
     "url": "https://surfingcomplexity.blog/2026/08/19/github-autoscaling-and-the-component-substitution-fallacy/",
     "title": "GitHub, autoscaling, and the component substitution fallacy"
+  },
+  {
+    "source": "hn",
+    "url": "https://tumbleforth.hardcoded.net/",
+    "title": "Tumble Forth – from assembly to OS with C compiler (2023)"
   },
   {
     "source": "lobsters",
@@ -121,13 +126,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://griffinberlste.in/blog/do-the-thing/",
-    "title": "Unfortunately you sometimes need to do the thing"
+    "url": "https://lists.exim.org/lurker/message/20260820.154633.91995f73.en.html",
+    "title": "Exim 4.100 released"
   },
   {
     "source": "lobsters",
-    "url": "https://lists.exim.org/lurker/message/20260820.154633.91995f73.en.html",
-    "title": "Exim 4.100 released"
+    "url": "https://griffinberlste.in/blog/do-the-thing/",
+    "title": "Unfortunately you sometimes need to do the thing"
   },
   {
     "source": "lobsters",
@@ -143,10 +148,5 @@
     "source": "lobsters",
     "url": "https://burakemir.ch/post/formal-semantics/",
     "title": "Programming Language Semantics and Memory Safety"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://atproto.com/blog/atproto-spaces-alpha",
-    "title": "The Atproto Spaces Alpha is Live"
   }
 ]
