@@ -11,8 +11,8 @@
   },
   {
     "source": "hn",
-    "url": "https://bandarlabs.github.io/Cobalt/",
-    "title": "Kobo can run apps now"
+    "url": "https://developers.openai.com/api/docs/models/gpt-5.6-sol",
+    "title": "GPT 5.6 Sol 20% price reduction"
   },
   {
     "source": "hn",
@@ -21,18 +21,13 @@
   },
   {
     "source": "hn",
+    "url": "https://bandarlabs.github.io/Cobalt/",
+    "title": "Kobo can run apps now"
+  },
+  {
+    "source": "hn",
     "url": "https://thomasdullien.github.io/posts/2026-08-21-three-important-steps-in-my-maturation-process/",
     "title": "Three important steps in my maturation process"
-  },
-  {
-    "source": "hn",
-    "url": "https://matduggan.com/otel-isnt-going-well-and-i-made-a-spreadsheet-about-it/",
-    "title": "OTel isn't going well (and I made a spreadsheet about it)"
-  },
-  {
-    "source": "hn",
-    "url": "https://lina.sh/blog/hijacking-e164-arpa",
-    "title": "I accidentally logged hundreds of thousands of phone calls to military bases"
   },
   {
     "source": "hn",
@@ -41,13 +36,23 @@
   },
   {
     "source": "hn",
-    "url": "https://ozbrain.com",
-    "title": "Show HN: OzBrain, a shared brain for knowledge between agents and your team"
+    "url": "https://matduggan.com/otel-isnt-going-well-and-i-made-a-spreadsheet-about-it/",
+    "title": "OTel isn't going well (and I made a spreadsheet about it)"
   },
   {
     "source": "hn",
-    "url": "https://nari-labs.com/blog/qwen3-tts-speed-cost-frontier/",
-    "title": "How we made a text-to-speech model respond in sub-50 ms"
+    "url": "https://zeux.io/2025/09/30/billions-of-triangles-in-minutes/",
+    "title": "Optimizing meshoptimizer to process billions of triangles in minutes (2025)"
+  },
+  {
+    "source": "hn",
+    "url": "https://lina.sh/blog/hijacking-e164-arpa",
+    "title": "I accidentally logged hundreds of thousands of phone calls to military bases"
+  },
+  {
+    "source": "hn",
+    "url": "https://ozbrain.com",
+    "title": "Show HN: OzBrain, a shared brain for knowledge between agents and your team"
   },
   {
     "source": "hn",
@@ -56,18 +61,13 @@
   },
   {
     "source": "hn",
-    "url": "https://precastreinforced.co.uk/2026/08/16/new-worlds/",
-    "title": "New Worlds: We are living in the future of J.G. Ballard or William Gibson"
+    "url": "https://sockpuppet.org/blog/2026/08/20/stop-making-tuis/",
+    "title": "Stop Making TUIs"
   },
   {
     "source": "hn",
-    "url": "https://lithub.com/how-orchids-inspired-the-groundbreaking-work-of-charles-darwin/",
-    "title": "How orchids inspired the work of Charles Darwin"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.gingerbill.org/article/2026/08/20/designing-odins-inline-asm/",
-    "title": "Everyone says assembly is untyped—everyone is wrong"
+    "url": "https://nari-labs.com/blog/qwen3-tts-speed-cost-frontier/",
+    "title": "How we made a text-to-speech model respond in sub-50 ms"
   },
   {
     "source": "hn",
@@ -76,18 +76,23 @@
   },
   {
     "source": "hn",
+    "url": "https://precastreinforced.co.uk/2026/08/16/new-worlds/",
+    "title": "New Worlds: We are living in the future of J.G. Ballard or William Gibson"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.gingerbill.org/article/2026/08/20/designing-odins-inline-asm/",
+    "title": "Everyone says assembly is untyped—everyone is wrong"
+  },
+  {
+    "source": "hn",
     "url": "https://cymerys.com/w/im-becoming-ai-blind",
     "title": "I'm becoming AI-blind"
   },
   {
     "source": "hn",
-    "url": "https://surfingcomplexity.blog/2026/08/19/github-autoscaling-and-the-component-substitution-fallacy/",
-    "title": "GitHub, autoscaling, and the component substitution fallacy"
-  },
-  {
-    "source": "hn",
-    "url": "https://tumbleforth.hardcoded.net/",
-    "title": "Tumble Forth – from assembly to OS with C compiler (2023)"
+    "url": "https://lithub.com/how-orchids-inspired-the-groundbreaking-work-of-charles-darwin/",
+    "title": "How orchids inspired the work of Charles Darwin"
   },
   {
     "source": "lobsters",
@@ -116,8 +121,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://bun.com/blog/bun-v1.4",
-    "title": "Bun 1.4"
+    "url": "https://blog.roomy.space/3mplw6vvw4s23",
+    "title": "Roomy is generally available"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://burakemir.ch/post/formal-semantics/",
+    "title": "Programming Language Semantics and Memory Safety"
   },
   {
     "source": "lobsters",
@@ -126,8 +136,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://lists.exim.org/lurker/message/20260820.154633.91995f73.en.html",
-    "title": "Exim 4.100 released"
+    "url": "https://bun.com/blog/bun-v1.4",
+    "title": "Bun 1.4"
   },
   {
     "source": "lobsters",
@@ -136,17 +146,22 @@
   },
   {
     "source": "lobsters",
+    "url": "https://lists.exim.org/lurker/message/20260820.154633.91995f73.en.html",
+    "title": "Exim 4.100 released"
+  },
+  {
+    "source": "lobsters",
     "url": "https://eprint.gacr.info/2025/003.pdf",
     "title": "Zero-Knowledge Proof of Wasta with Applications in Lebanon"
   },
   {
     "source": "lobsters",
-    "url": "https://blog.rust-lang.org/2026/08/20/supply-chain-attack-on-arrayref/",
-    "title": "Supply chain attack on arrayref"
+    "url": "https://a.baez.link/3mtdbbp2dmc27",
+    "title": "The cool things of Gleam"
   },
   {
     "source": "lobsters",
-    "url": "https://burakemir.ch/post/formal-semantics/",
-    "title": "Programming Language Semantics and Memory Safety"
+    "url": "https://eshelyaron.com/posts/2026-08-06-emacs-arbitrary-code-execution-returns.html",
+    "title": "Emacs Arbitrary Code Execution Returns"
   }
 ]
