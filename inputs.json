@@ -26,6 +26,11 @@
   },
   {
     "source": "hn",
+    "url": "https://atproto.com/blog/atproto-spaces-alpha",
+    "title": "ATProto spaces: A new extension to ATProto that enables non-public data"
+  },
+  {
+    "source": "hn",
     "url": "https://typ.ing/",
     "title": "typ.ing"
   },
@@ -36,8 +41,8 @@
   },
   {
     "source": "hn",
-    "url": "https://atproto.com/blog/atproto-spaces-alpha",
-    "title": "ATProto spaces: A new extension to ATProto that enables non-public data"
+    "url": "https://lucumr.pocoo.org/2026/8/22/fast-hard-code/",
+    "title": "Fast and Hard Code"
   },
   {
     "source": "hn",
@@ -46,23 +51,8 @@
   },
   {
     "source": "hn",
-    "url": "https://sgoedecke.github.io/watermark-quiz/",
-    "title": "Guess which of these LLM outputs is watermarked"
-  },
-  {
-    "source": "hn",
     "url": "https://nautil.us/why-it-might-be-time-to-rethink-the-human-family-tree-1283985",
     "title": "Why it might be time to rethink the human family tree"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.computer.org/csdl/magazine/mi/2021/06/09623402/1yJTvlRLmhi",
-    "title": "Z80 – The 1970s Microprocessor Still Alive (2021)"
-  },
-  {
-    "source": "hn",
-    "url": "https://blog.modelcontextprotocol.io/posts/mcp-roadmap/",
-    "title": "New MCP Roadmap"
   },
   {
     "source": "hn",
@@ -71,18 +61,33 @@
   },
   {
     "source": "hn",
+    "url": "https://www.computer.org/csdl/magazine/mi/2021/06/09623402/1yJTvlRLmhi",
+    "title": "Z80 – The 1970s Microprocessor Still Alive (2021)"
+  },
+  {
+    "source": "hn",
+    "url": "https://programasweights.com/claudish",
+    "title": "English ↔ Claudish Translator"
+  },
+  {
+    "source": "hn",
+    "url": "https://sgoedecke.github.io/watermark-quiz/",
+    "title": "Guess which of these LLM outputs is watermarked"
+  },
+  {
+    "source": "hn",
+    "url": "https://blog.modelcontextprotocol.io/posts/mcp-roadmap/",
+    "title": "New MCP Roadmap"
+  },
+  {
+    "source": "hn",
+    "url": "https://ameliorate.app/",
+    "title": "Ameliorate"
+  },
+  {
+    "source": "hn",
     "url": "https://rust-glancer.github.io/blog/hello-world/",
     "title": "Rust Glancer: Rust LSP using 100x less RAM"
-  },
-  {
-    "source": "hn",
-    "url": "https://editide.com/blog/what-is-a-pptx-file/",
-    "title": "What's in a PowerPoint File?"
-  },
-  {
-    "source": "hn",
-    "url": "https://vetto.ai/companies/programbench-vetted.html",
-    "title": "ProgramBench Vetted: Reverse Engineering from a Runnable Binary"
   },
   {
     "source": "lobsters",
@@ -111,13 +116,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://aengelke.net/llvm23-ct.html",
-    "title": "Compile-Time Improvements in LLVM 23"
+    "url": "https://blog.wybxc.cc/blog/rust-gui-survey-2026/",
+    "title": "A 2026 Survey of Rust GUI Libraries"
   },
   {
     "source": "lobsters",
-    "url": "https://blog.wybxc.cc/blog/rust-gui-survey-2026/",
-    "title": "A 2026 Survey of Rust GUI Libraries"
+    "url": "https://aengelke.net/llvm23-ct.html",
+    "title": "Compile-Time Improvements in LLVM 23"
   },
   {
     "source": "lobsters",
@@ -131,13 +136,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://sockpuppet.org/blog/2026/08/20/stop-making-tuis/",
-    "title": "Stop Making TUIs"
+    "url": "https://burakemir.ch/post/formal-semantics/",
+    "title": "Programming Language Semantics and Memory Safety"
   },
   {
     "source": "lobsters",
-    "url": "https://burakemir.ch/post/formal-semantics/",
-    "title": "Programming Language Semantics and Memory Safety"
+    "url": "https://sockpuppet.org/blog/2026/08/20/stop-making-tuis/",
+    "title": "Stop Making TUIs"
   },
   {
     "source": "lobsters",
@@ -170,8 +175,88 @@
     "title": "An arcade fighting game over SSH"
   },
   {
-    "source": "lobsters",
-    "url": "https://bharadwajraju.com/posts/btrfs-snapshots-in-kde/",
-    "title": "Btrfs Snapshot Integration in KDE"
+    "source": "pinboard",
+    "url": "https://chrisburnell.com/html-can-do-that/",
+    "title": "HTML Can Do That · Chris Burnell"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.raphaelbauer.com/posts/postgresql-everything/",
+    "title": "PostgreSQL for Everything - Dr. Raphael A. Bauer, MBA | Fractional & Interim CTO | PE/VC Tech Strategy & Due Diligence | Berlin | London | Austin, Texas"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://openlogi.org/en",
+    "title": "OpenLogi"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://dontpastetheai.com/",
+    "title": "Don't paste the AI."
+  },
+  {
+    "source": "pinboard",
+    "url": "https://sprocketfox.io/xssfox/2026/08/19/sondehub-and-war/",
+    "title": "How a joke domain purchase turned in geopolitical warfare"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://chrisburnell.com/html-can-do-that/#example-until-found",
+    "title": "HTML Can Do That · Chris Burnell"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.casio.com/uk/watches/casio/product.F-B100W-1A/",
+    "title": "F-B100W-1A | CASIO"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.platformer.news/karpathy-llm-wiki-journalism-productivity/",
+    "title": "Casey Newton si è costruito una wiki personale con gli LLM, su idea di Karpathy"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://likebutter.app/",
+    "title": "Life without internet made smoother. Get access to tools that help."
+  },
+  {
+    "source": "pinboard",
+    "url": "https://joecode.com/2026-08-19-sqlite3/",
+    "title": "SQLite for Everything | JoeCode"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://ordinaryabundance.com/",
+    "title": "Ordinary Abundance"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://blog.curiousquail.com/im-upset-again-about-a-co-creator-of-rss-being-prosecuted-for-something-meta-is-doing-with-little-consequence/",
+    "title": "I'm Upset Again About a Co-Creator of RSS Being Prosecuted For Something Meta Is Doing With Little Consequence – quailblog"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://fx.sh/",
+    "title": "fx - Tiny, open, native coding agent"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.pewresearch.org/short-reads/2026/08/18/young-adults-in-the-us-are-increasingly-wary-of-ai-concerned-it-will-take-jobs/",
+    "title": "Young US adults are increasingly wary of AI, concerned it will take jobs | Pew Research Center"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://cymerys.com/w/im-becoming-ai-blind",
+    "title": "I'm becoming AI-blind - Rafal Cymerys"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.benjoffe.com/fast-day-of-week",
+    "title": "A faster way to calculate the day-of-the-week"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://bookorbit.app/",
+    "title": "BookOrbit"
   }
 ]
