@@ -21,11 +21,6 @@
   },
   {
     "source": "hn",
-    "url": "https://zeux.io/2025/09/30/billions-of-triangles-in-minutes/",
-    "title": "Optimizing meshoptimizer to process billions of triangles in minutes (2025)"
-  },
-  {
-    "source": "hn",
     "url": "https://lina.sh/blog/hijacking-e164-arpa",
     "title": "I accidentally logged hundreds of thousands of phone calls to military bases"
   },
@@ -51,13 +46,8 @@
   },
   {
     "source": "hn",
-    "url": "https://blog.cloudflare.com/revisiting-spectre-attacks-on-workers/",
-    "title": "A revisit of remote Spectre attacks on Cloudflare Workers"
-  },
-  {
-    "source": "hn",
-    "url": "https://medicine.washu.edu/news/how-early-life-stress-leaves-a-scar-inside-brain-cells/",
-    "title": "Early-life stress leaves a 'scar' inside brain cells in mice"
+    "url": "https://zeux.io/2025/09/30/billions-of-triangles-in-minutes/",
+    "title": "Optimizing meshoptimizer to process billions of triangles in minutes (2025)"
   },
   {
     "source": "hn",
@@ -66,8 +56,18 @@
   },
   {
     "source": "hn",
+    "url": "https://medicine.washu.edu/news/how-early-life-stress-leaves-a-scar-inside-brain-cells/",
+    "title": "Early-life stress leaves a 'scar' inside brain cells in mice"
+  },
+  {
+    "source": "hn",
     "url": "https://precastreinforced.co.uk/2026/08/16/new-worlds/",
     "title": "New Worlds: We are living in the future of J.G. Ballard or William Gibson"
+  },
+  {
+    "source": "hn",
+    "url": "https://blog.cloudflare.com/revisiting-spectre-attacks-on-workers/",
+    "title": "A revisit of remote Spectre attacks on Cloudflare Workers"
   },
   {
     "source": "hn",
@@ -76,13 +76,18 @@
   },
   {
     "source": "hn",
+    "url": "https://www.gingerbill.org/article/2026/08/20/designing-odins-inline-asm/",
+    "title": "Everyone says assembly is untyped—everyone is wrong"
+  },
+  {
+    "source": "hn",
     "url": "https://danluu.com/hn-comments/",
     "title": "HN: The Good Parts (2016)"
   },
   {
     "source": "hn",
-    "url": "https://www.gingerbill.org/article/2026/08/20/designing-odins-inline-asm/",
-    "title": "Everyone says assembly is untyped—everyone is wrong"
+    "url": "https://pointinthecloud.com/2026-08-19-144600.html",
+    "title": "I ran Photoshop on a £0.60 computer chip"
   },
   {
     "source": "lobsters",
@@ -96,8 +101,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://bharadwajraju.com/posts/btrfs-snapshots-in-kde/",
-    "title": "Btrfs Snapshot Integration in KDE"
+    "url": "https://a.baez.link/3mtdbbp2dmc27",
+    "title": "The cool things of Gleam"
   },
   {
     "source": "lobsters",
@@ -106,13 +111,18 @@
   },
   {
     "source": "lobsters",
-    "url": "https://a.baez.link/3mtdbbp2dmc27",
-    "title": "The cool things of Gleam"
+    "url": "https://blog.roomy.space/3mplw6vvw4s23",
+    "title": "Roomy is generally available"
   },
   {
     "source": "lobsters",
-    "url": "https://blog.roomy.space/3mplw6vvw4s23",
-    "title": "Roomy is generally available"
+    "url": "https://bharadwajraju.com/posts/btrfs-snapshots-in-kde/",
+    "title": "Btrfs Snapshot Integration in KDE"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://yashgarg.dev/posts/the-schrodinger-email/",
+    "title": "The Schrödinger Email"
   },
   {
     "source": "lobsters",
@@ -136,17 +146,7 @@
   },
   {
     "source": "lobsters",
-    "url": "https://griffinberlste.in/blog/do-the-thing/",
-    "title": "Unfortunately you sometimes need to do the thing"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://sprocketfox.io/xssfox/2026/08/19/sondehub-and-war/",
-    "title": "How a joke domain purchase turned into geopolitical warfare"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://bun.com/blog/bun-v1.4",
-    "title": "Bun 1.4"
+    "url": "https://aerotwist.com/blog/guitar-tuner/",
+    "title": "Guitar Tuner (2015)"
   }
 ]
