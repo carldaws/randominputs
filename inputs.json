@@ -1,18 +1,13 @@
 [
   {
     "source": "hn",
-    "url": "https://blog.modelcontextprotocol.io/posts/mcp-roadmap/",
-    "title": "The New MCP Roadmap"
-  },
-  {
-    "source": "hn",
     "url": "https://geometridae.bearblog.dev/a-friendly-introduction-to-racket/",
     "title": "A Friendly Introduction to Racket"
   },
   {
     "source": "hn",
-    "url": "https://quantumi.sh/public/labs.html",
-    "title": "ElevenLabs, TwelveLabs, ThirteenLabs"
+    "url": "https://blog.modelcontextprotocol.io/posts/mcp-roadmap/",
+    "title": "The New MCP Roadmap"
   },
   {
     "source": "hn",
@@ -31,6 +26,11 @@
   },
   {
     "source": "hn",
+    "url": "https://playtechnique.io/long/the-unix-time-sharing-system.html",
+    "title": "Learning about \"The Unix Time-Sharing System\""
+  },
+  {
+    "source": "hn",
     "url": "https://www.felonybench.com/",
     "title": "Felony Bench"
   },
@@ -41,13 +41,13 @@
   },
   {
     "source": "hn",
-    "url": "https://lina.sh/blog/hijacking-e164-arpa",
-    "title": "I accidentally logged hundreds of thousands of phone calls to military bases"
+    "url": "https://sockpuppet.org/blog/2026/08/20/stop-making-tuis/",
+    "title": "Stop Making TUIs"
   },
   {
     "source": "hn",
-    "url": "https://sockpuppet.org/blog/2026/08/20/stop-making-tuis/",
-    "title": "Stop Making TUIs"
+    "url": "https://lina.sh/blog/hijacking-e164-arpa",
+    "title": "I accidentally logged hundreds of thousands of phone calls to military bases"
   },
   {
     "source": "hn",
@@ -66,18 +66,13 @@
   },
   {
     "source": "hn",
-    "url": "https://thomasdullien.github.io/posts/2026-08-21-three-important-steps-in-my-maturation-process/",
-    "title": "Three important steps in my maturation process"
-  },
-  {
-    "source": "hn",
     "url": "https://worksinprogress.co/issue/how-thailand-resisted-colonization/",
     "title": "How Thailand Resisted Colonization"
   },
   {
     "source": "hn",
-    "url": "https://www.gingerbill.org/article/2026/08/20/designing-odins-inline-asm/",
-    "title": "Everyone says assembly is untyped—everyone is wrong"
+    "url": "https://thomasdullien.github.io/posts/2026-08-21-three-important-steps-in-my-maturation-process/",
+    "title": "Three important steps in my maturation process"
   },
   {
     "source": "hn",
@@ -86,18 +81,23 @@
   },
   {
     "source": "hn",
-    "url": "https://zeux.io/2025/09/30/billions-of-triangles-in-minutes/",
-    "title": "Optimizing meshoptimizer to process billions of triangles in minutes (2025)"
+    "url": "https://medicine.washu.edu/news/how-early-life-stress-leaves-a-scar-inside-brain-cells/",
+    "title": "Early-life stress leaves a 'scar' inside brain cells in mice"
   },
   {
     "source": "hn",
-    "url": "https://medicine.washu.edu/news/how-early-life-stress-leaves-a-scar-inside-brain-cells/",
-    "title": "Early-life stress leaves a 'scar' inside brain cells in mice"
+    "url": "https://www.gingerbill.org/article/2026/08/20/designing-odins-inline-asm/",
+    "title": "Everyone says assembly is untyped—everyone is wrong"
   },
   {
     "source": "lobsters",
     "url": "https://www.seangoedecke.com/you-should-never-be-angry-at-work/",
     "title": "You should never be angry at work"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://typesanitizer.com/blog/performance-issues.html",
+    "title": "There continue to be reasons for software to be slow"
   },
   {
     "source": "lobsters",
@@ -108,11 +108,6 @@
     "source": "lobsters",
     "url": "https://a.baez.link/3mtdbbp2dmc27",
     "title": "The cool things of Gleam"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://typesanitizer.com/blog/performance-issues.html",
-    "title": "There continue to be reasons for software to be slow"
   },
   {
     "source": "lobsters",
@@ -158,5 +153,10 @@
     "source": "lobsters",
     "url": "https://blog.rust-lang.org/2026/08/20/Rust-1.98.0/",
     "title": "Announcing Rust 1.98.0"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://aerotwist.com/blog/guitar-tuner/",
+    "title": "Guitar Tuner (2015)"
   }
 ]
