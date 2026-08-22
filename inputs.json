@@ -26,8 +26,8 @@
   },
   {
     "source": "hn",
-    "url": "https://ozbrain.com",
-    "title": "Show HN: OzBrain, a shared brain for knowledge between agents and your team"
+    "url": "https://matduggan.com/otel-isnt-going-well-and-i-made-a-spreadsheet-about-it/",
+    "title": "OTel isn't going well (and I made a spreadsheet about it)"
   },
   {
     "source": "hn",
@@ -36,13 +36,13 @@
   },
   {
     "source": "hn",
-    "url": "https://matduggan.com/otel-isnt-going-well-and-i-made-a-spreadsheet-about-it/",
-    "title": "OTel isn't going well (and I made a spreadsheet about it)"
+    "url": "https://ozbrain.com",
+    "title": "Show HN: OzBrain, a shared brain for knowledge between agents and your team"
   },
   {
     "source": "hn",
-    "url": "https://danluu.com/hn-comments/",
-    "title": "HN: The Good Parts (2016)"
+    "url": "https://lithub.com/how-orchids-inspired-the-groundbreaking-work-of-charles-darwin/",
+    "title": "How orchids inspired the work of Charles Darwin"
   },
   {
     "source": "hn",
@@ -53,6 +53,11 @@
     "source": "hn",
     "url": "https://medicine.washu.edu/news/how-early-life-stress-leaves-a-scar-inside-brain-cells/",
     "title": "Early-life stress leaves a 'scar' inside brain cells in mice"
+  },
+  {
+    "source": "hn",
+    "url": "https://danluu.com/hn-comments/",
+    "title": "HN: The Good Parts (2016)"
   },
   {
     "source": "hn",
@@ -71,18 +76,13 @@
   },
   {
     "source": "hn",
-    "url": "https://surfingcomplexity.blog/2026/08/19/github-autoscaling-and-the-component-substitution-fallacy/",
-    "title": "GitHub, autoscaling, and the component substitution fallacy"
-  },
-  {
-    "source": "hn",
     "url": "https://cymerys.com/w/im-becoming-ai-blind",
     "title": "I'm becoming AI-blind"
   },
   {
     "source": "hn",
-    "url": "https://pointinthecloud.com/2026-08-19-144600.html",
-    "title": "I ran Photoshop on a £0.60 computer chip"
+    "url": "https://surfingcomplexity.blog/2026/08/19/github-autoscaling-and-the-component-substitution-fallacy/",
+    "title": "GitHub, autoscaling, and the component substitution fallacy"
   },
   {
     "source": "lobsters",
@@ -141,12 +141,12 @@
   },
   {
     "source": "lobsters",
-    "url": "https://atproto.com/blog/atproto-spaces-alpha",
-    "title": "The Atproto Spaces Alpha is Live"
+    "url": "https://burakemir.ch/post/formal-semantics/",
+    "title": "Programming Language Semantics and Memory Safety"
   },
   {
     "source": "lobsters",
-    "url": "https://aerotwist.com/blog/guitar-tuner/",
-    "title": "Guitar Tuner (2015)"
+    "url": "https://atproto.com/blog/atproto-spaces-alpha",
+    "title": "The Atproto Spaces Alpha is Live"
   }
 ]
