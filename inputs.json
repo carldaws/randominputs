@@ -26,6 +26,11 @@
   },
   {
     "source": "hn",
+    "url": "https://www.theglobeandmail.com/canada/article-canada-us-trade-deal-tariffs-mark-carney-donald-trump-august-22/",
+    "title": "Canada now 'at war' with United States over trade, Prime Minister says"
+  },
+  {
+    "source": "hn",
     "url": "https://quantumi.sh/public/labs.html",
     "title": "ElevenLabs, TwelveLabs, ThirteenLabs"
   },
@@ -36,13 +41,8 @@
   },
   {
     "source": "hn",
-    "url": "https://henry.codes/writing/i-dream-of-quieter-computing/",
-    "title": "I Dream of Quieter Computing"
-  },
-  {
-    "source": "hn",
-    "url": "https://typ.ing/",
-    "title": "typ.ing"
+    "url": "https://thinkinginpython.com/",
+    "title": "Thinking in Python"
   },
   {
     "source": "hn",
@@ -51,13 +51,13 @@
   },
   {
     "source": "hn",
-    "url": "https://www.rfcafe.com/",
-    "title": "RF Cafe"
+    "url": "https://typ.ing/",
+    "title": "typ.ing"
   },
   {
     "source": "hn",
-    "url": "https://thinkinginpython.com/",
-    "title": "Thinking in Python"
+    "url": "https://www.rfcafe.com/",
+    "title": "RF Cafe"
   },
   {
     "source": "hn",
@@ -66,18 +66,13 @@
   },
   {
     "source": "hn",
-    "url": "https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html",
-    "title": "NetBSD and my life (2005)"
+    "url": "https://henry.codes/writing/i-dream-of-quieter-computing/",
+    "title": "I Dream of Quieter Computing"
   },
   {
     "source": "hn",
-    "url": "https://allaboutcoding.ghinda.com/a-week-of-using-codex-more-than-claude/",
-    "title": "A week of using Codex more than Claude"
-  },
-  {
-    "source": "hn",
-    "url": "https://atproto.com/blog/atproto-spaces-alpha",
-    "title": "ATProto spaces: A new extension to ATProto that enables non-public data"
+    "url": "https://stories.tamu.edu/news/2026/08/13/doomscrolling-at-work-wastes-time-but-the-real-cost-is-what-happens-after/",
+    "title": "Doomscrolling at work wastes time, but the real cost is what happens after"
   },
   {
     "source": "hn",
@@ -86,13 +81,18 @@
   },
   {
     "source": "hn",
-    "url": "https://www.pianoify.net/",
-    "title": "Show HN: Public Muscriptor Instance (latest, most powerful Audio-to-MIDI model)"
+    "url": "https://allaboutcoding.ghinda.com/a-week-of-using-codex-more-than-claude/",
+    "title": "A week of using Codex more than Claude"
   },
   {
     "source": "hn",
-    "url": "https://munderdiffl.in/",
-    "title": "Munder Difflin – Agent harness to run an office of your clones"
+    "url": "https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html",
+    "title": "NetBSD and my life (2005)"
+  },
+  {
+    "source": "hn",
+    "url": "https://atproto.com/blog/atproto-spaces-alpha",
+    "title": "ATProto spaces: A new extension to ATProto that enables non-public data"
   },
   {
     "source": "hn",
@@ -101,23 +101,18 @@
   },
   {
     "source": "hn",
+    "url": "https://munderdiffl.in/",
+    "title": "Munder Difflin – Agent harness to run an office of your clones"
+  },
+  {
+    "source": "hn",
     "url": "https://marcua.net/minitools/figmimic/",
     "title": "Figmimic – A bookmarklet to copy any webpage into Figma as editable layers"
   },
   {
     "source": "hn",
-    "url": "https://www.computer.org/csdl/magazine/mi/2021/06/09623402/1yJTvlRLmhi",
-    "title": "Z80 – The 1970s Microprocessor Still Alive (2021)"
-  },
-  {
-    "source": "hn",
-    "url": "https://erikengdahl.se/autism/isnt/",
-    "title": "Tragically, as many as 9625 out of every 10k individuals may be neurotypical"
-  },
-  {
-    "source": "hn",
-    "url": "https://editide.com/blog/what-is-a-pptx-file/",
-    "title": "What's in a PowerPoint File?"
+    "url": "https://www.pianoify.net/",
+    "title": "Show HN: Public Muscriptor Instance (latest, most powerful Audio-to-MIDI model)"
   },
   {
     "source": "lobsters",
@@ -131,13 +126,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://thejpster.org.uk/blog/blog-2026-08-22/",
-    "title": "Why aren't my two Cortex-A9 cores cache coherent?"
+    "url": "https://blog.wybxc.cc/blog/rust-gui-survey-2026/",
+    "title": "A 2026 Survey of Rust GUI Libraries"
   },
   {
     "source": "lobsters",
-    "url": "https://blog.wybxc.cc/blog/rust-gui-survey-2026/",
-    "title": "A 2026 Survey of Rust GUI Libraries"
+    "url": "https://thejpster.org.uk/blog/blog-2026-08-22/",
+    "title": "Why aren't my two Cortex-A9 cores cache coherent?"
   },
   {
     "source": "lobsters",
@@ -176,6 +171,11 @@
   },
   {
     "source": "lobsters",
+    "url": "https://akselmo.dev/posts/kde-linux-experiences/",
+    "title": "KDE Linux experiences"
+  },
+  {
+    "source": "lobsters",
     "url": "https://sockpuppet.org/blog/2026/08/20/stop-making-tuis/",
     "title": "Stop Making TUIs"
   },
@@ -205,8 +205,83 @@
     "title": "hdiutil is deprecated in macOS 27 Golden Gate"
   },
   {
-    "source": "lobsters",
-    "url": "https://akselmo.dev/posts/kde-linux-experiences/",
-    "title": "KDE Linux experiences"
+    "source": "pinboard",
+    "url": "https://chrisburnell.com/html-can-do-that/",
+    "title": "HTML Can Do That · Chris Burnell"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://dontpastetheai.com/",
+    "title": "Don't paste the AI."
+  },
+  {
+    "source": "pinboard",
+    "url": "https://openlogi.org/",
+    "title": "OpenLogi"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.raphaelbauer.com/posts/postgresql-everything/",
+    "title": "PostgreSQL for Everything - Dr. Raphael A. Bauer, MBA | Fractional & Interim CTO | PE/VC Tech Strategy & Due Diligence | Berlin | London | Austin, Texas"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://bandarlabs.github.io/Cobalt/",
+    "title": "Cobalt: apps and an SDK for Kobo e-readers"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://chrisburnell.com/html-can-do-that/#example-until-found",
+    "title": "HTML Can Do That · Chris Burnell"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://jsomers.net/i-should-have-loved-biology/",
+    "title": "jsomers.net | I should have loved biology"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://cymerys.com/w/im-becoming-ai-blind",
+    "title": "I'm becoming AI-blind - Rafal Cymerys"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://academy.claude.com/",
+    "title": "Claude Academy · Learn to work and build with Claude"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.danielvaughn.dev/posts/huzzah/",
+    "title": "Huzzah"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://bookorbit.app/",
+    "title": "BookOrbit"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://openlogi.org/en",
+    "title": "OpenLogi"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://sprocketfox.io/xssfox/2026/08/19/sondehub-and-war/",
+    "title": "How a joke domain purchase turned in geopolitical warfare"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.benjoffe.com/fast-day-of-week",
+    "title": "A faster way to calculate the day-of-the-week"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://blog.curiousquail.com/im-upset-again-about-a-co-creator-of-rss-being-prosecuted-for-something-meta-is-doing-with-little-consequence/",
+    "title": "I'm Upset Again About a Co-Creator of RSS Being Prosecuted For Something Meta Is Doing With Little Consequence – quailblog"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://joecode.com/2026-08-19-sqlite3/",
+    "title": "SQLite for Everything | JoeCode"
   }
 ]
