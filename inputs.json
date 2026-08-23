@@ -1,13 +1,13 @@
 [
   {
     "source": "hn",
-    "url": "https://malisper.me/jit-compiling-code-in-5-us/",
-    "title": "JIT Compiling Code in 5μs"
+    "url": "https://nappertime.com/the-golden-rule-of-becoming-a-better-writer/",
+    "title": "To become a better writer, read as much as you can"
   },
   {
     "source": "hn",
-    "url": "https://nappertime.com/the-golden-rule-of-becoming-a-better-writer/",
-    "title": "To become a better writer, read as much as you can"
+    "url": "https://malisper.me/jit-compiling-code-in-5-us/",
+    "title": "JIT Compiling Code in 5μs"
   },
   {
     "source": "hn",
@@ -16,13 +16,8 @@
   },
   {
     "source": "hn",
-    "url": "https://erikengdahl.se/autism/isnt/",
-    "title": "Tragically, as many as 9625 out of every 10k individuals may be neurotypical"
-  },
-  {
-    "source": "hn",
-    "url": "https://henry.codes/writing/i-dream-of-quieter-computing/",
-    "title": "I Dream of Quieter Computing"
+    "url": "https://lucumr.pocoo.org/2026/8/22/fast-hard-code/",
+    "title": "Fast and Hard Code"
   },
   {
     "source": "hn",
@@ -36,23 +31,23 @@
   },
   {
     "source": "hn",
-    "url": "https://lucumr.pocoo.org/2026/8/22/fast-hard-code/",
-    "title": "Fast and Hard Code"
-  },
-  {
-    "source": "hn",
     "url": "https://hister.org/",
     "title": "Hister – A private, full content search index that you control"
   },
   {
     "source": "hn",
-    "url": "https://www.primeintellect.ai/research/nanogpt-speedrun",
-    "title": "NanoGPT Speedrun Frontier"
+    "url": "https://henry.codes/writing/i-dream-of-quieter-computing/",
+    "title": "I Dream of Quieter Computing"
   },
   {
     "source": "hn",
     "url": "https://typ.ing/",
     "title": "typ.ing"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.primeintellect.ai/research/nanogpt-speedrun",
+    "title": "NanoGPT Speedrun Frontier"
   },
   {
     "source": "hn",
@@ -66,13 +61,13 @@
   },
   {
     "source": "hn",
-    "url": "https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html",
-    "title": "NetBSD and my life (2005)"
+    "url": "https://blog.modelcontextprotocol.io/posts/mcp-roadmap/",
+    "title": "New MCP Roadmap"
   },
   {
     "source": "hn",
-    "url": "https://blog.modelcontextprotocol.io/posts/mcp-roadmap/",
-    "title": "New MCP Roadmap"
+    "url": "https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html",
+    "title": "NetBSD and my life (2005)"
   },
   {
     "source": "hn",
@@ -81,13 +76,13 @@
   },
   {
     "source": "hn",
-    "url": "https://geometridae.bearblog.dev/a-friendly-introduction-to-racket/",
-    "title": "A Friendly Introduction to Racket"
+    "url": "https://atproto.com/blog/atproto-spaces-alpha",
+    "title": "ATProto spaces: A new extension to ATProto that enables non-public data"
   },
   {
     "source": "hn",
-    "url": "https://atproto.com/blog/atproto-spaces-alpha",
-    "title": "ATProto spaces: A new extension to ATProto that enables non-public data"
+    "url": "https://geometridae.bearblog.dev/a-friendly-introduction-to-racket/",
+    "title": "A Friendly Introduction to Racket"
   },
   {
     "source": "hn",
@@ -101,6 +96,11 @@
   },
   {
     "source": "hn",
+    "url": "https://olli.unt.edu/handouts/fall24/tk-writing-sample.pdf",
+    "title": "Mathematicians will probably become obsolete before anyone else [pdf]"
+  },
+  {
+    "source": "hn",
     "url": "https://marcua.net/minitools/figmimic/",
     "title": "Figmimic – A bookmarklet to copy any webpage into Figma as editable layers"
   },
@@ -108,6 +108,11 @@
     "source": "hn",
     "url": "https://www.computer.org/csdl/magazine/mi/2021/06/09623402/1yJTvlRLmhi",
     "title": "Z80 – The 1970s Microprocessor Still Alive (2021)"
+  },
+  {
+    "source": "hn",
+    "url": "https://erikengdahl.se/autism/isnt/",
+    "title": "Tragically, as many as 9625 out of every 10k individuals may be neurotypical"
   },
   {
     "source": "hn",
@@ -126,13 +131,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://blog.wybxc.cc/blog/rust-gui-survey-2026/",
-    "title": "A 2026 Survey of Rust GUI Libraries"
+    "url": "https://thejpster.org.uk/blog/blog-2026-08-22/",
+    "title": "Why aren't my two Cortex-A9 cores cache coherent?"
   },
   {
     "source": "lobsters",
-    "url": "https://thejpster.org.uk/blog/blog-2026-08-22/",
-    "title": "Why aren't my two Cortex-A9 cores cache coherent?"
+    "url": "https://blog.wybxc.cc/blog/rust-gui-survey-2026/",
+    "title": "A 2026 Survey of Rust GUI Libraries"
   },
   {
     "source": "lobsters",
@@ -193,6 +198,11 @@
     "source": "lobsters",
     "url": "https://www.felonybench.com/",
     "title": "Felony Bench: Be AI, Do Crime"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://lapcatsoftware.com/articles/2026/8/7.html",
+    "title": "hdiutil is deprecated in macOS 27 Golden Gate"
   },
   {
     "source": "lobsters",
