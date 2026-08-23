@@ -1,6 +1,11 @@
 [
   {
     "source": "hn",
+    "url": "https://www.primeintellect.ai/research/nanogpt-speedrun",
+    "title": "NanoGPT Speedrun Frontier"
+  },
+  {
+    "source": "hn",
     "url": "https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html",
     "title": "NetBSD and my life (2005)"
   },
@@ -13,11 +18,6 @@
     "source": "hn",
     "url": "https://hister.org/",
     "title": "Hister – A private, full content search index that you control"
-  },
-  {
-    "source": "hn",
-    "url": "https://lapcatsoftware.com/articles/2026/8/7.html",
-    "title": "hdiutil is deprecated in macOS 27 Golden Gate"
   },
   {
     "source": "hn",
@@ -41,13 +41,13 @@
   },
   {
     "source": "hn",
-    "url": "https://munderdiffl.in/",
-    "title": "Munder Difflin – Agent harness to run an office of your clones"
+    "url": "https://lapcatsoftware.com/articles/2026/8/7.html",
+    "title": "hdiutil is deprecated in macOS 27 Golden Gate"
   },
   {
     "source": "hn",
-    "url": "https://programasweights.com/claudish",
-    "title": "English ↔ Claudish Translator"
+    "url": "https://munderdiffl.in/",
+    "title": "Munder Difflin – Agent harness to run an office of your clones"
   },
   {
     "source": "hn",
@@ -56,18 +56,23 @@
   },
   {
     "source": "hn",
+    "url": "https://thinkinginpython.com/",
+    "title": "Thinking in Python by Bruce Eckel"
+  },
+  {
+    "source": "hn",
+    "url": "https://programasweights.com/claudish",
+    "title": "English ↔ Claudish Translator"
+  },
+  {
+    "source": "hn",
+    "url": "https://editide.com/blog/what-is-a-pptx-file/",
+    "title": "What's in a PowerPoint File?"
+  },
+  {
+    "source": "hn",
     "url": "https://nautil.us/why-it-might-be-time-to-rethink-the-human-family-tree-1283985",
     "title": "Why it might be time to rethink the human family tree"
-  },
-  {
-    "source": "hn",
-    "url": "https://perimeterinstitute.ca/news/dynamical-dark-energy-and-week-broke-cosmology",
-    "title": "Dynamical dark energy and the week that broke cosmology"
-  },
-  {
-    "source": "hn",
-    "url": "https://sgoedecke.github.io/watermark-quiz/",
-    "title": "Guess which of these LLM outputs is watermarked"
   },
   {
     "source": "hn",
@@ -81,13 +86,18 @@
   },
   {
     "source": "hn",
-    "url": "https://thinkinginpython.com/",
-    "title": "Thinking in Python by Bruce Eckel"
+    "url": "https://perimeterinstitute.ca/news/dynamical-dark-energy-and-week-broke-cosmology",
+    "title": "Dynamical dark energy and the week that broke cosmology"
   },
   {
     "source": "hn",
     "url": "https://blog.modelcontextprotocol.io/posts/mcp-roadmap/",
     "title": "New MCP Roadmap"
+  },
+  {
+    "source": "hn",
+    "url": "https://rust-glancer.github.io/blog/hello-world/",
+    "title": "Rust Glancer: Rust LSP using 100x less RAM"
   },
   {
     "source": "hn",
@@ -141,6 +151,16 @@
   },
   {
     "source": "lobsters",
+    "url": "https://sockpuppet.org/blog/2026/08/20/stop-making-tuis/",
+    "title": "Stop Making TUIs"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://www.thebyteattic.com/2026/08/the-immortal-macintosh-restoration-diary.html",
+    "title": "The immortal 1984 Macintosh (restoration diary)"
+  },
+  {
+    "source": "lobsters",
     "url": "https://burakemir.ch/post/formal-semantics/",
     "title": "Programming Language Semantics and Memory Safety"
   },
@@ -148,11 +168,6 @@
     "source": "lobsters",
     "url": "https://entropicthoughts.com/ai-comment-classifier",
     "title": "Robot comment classifier"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://sockpuppet.org/blog/2026/08/20/stop-making-tuis/",
-    "title": "Stop Making TUIs"
   },
   {
     "source": "lobsters",
@@ -173,10 +188,5 @@
     "source": "lobsters",
     "url": "https://matklad.github.io/2026/08/20/better-batteries.html",
     "title": "Better Batteries"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://docs.pikvm.org/camera/",
-    "title": "PiKVM project has gained support for web-camera forwarding"
   }
 ]
