@@ -1,6 +1,26 @@
 [
   {
     "source": "hn",
+    "url": "https://martypc.net/",
+    "title": "MartyPC is a cross-platform emulator of early PCs written in Rust"
+  },
+  {
+    "source": "hn",
+    "url": "https://henry.codes/writing/i-dream-of-quieter-computing/",
+    "title": "I Dream of Quieter Computing"
+  },
+  {
+    "source": "hn",
+    "url": "https://nappertime.com/the-golden-rule-of-becoming-a-better-writer/",
+    "title": "The Golden Rule for Becoming a Better Writer"
+  },
+  {
+    "source": "hn",
+    "url": "https://nappertime.com/the-art-of-and-beauty-of-blade-runner/",
+    "title": "The Art and Beauty of Blade Runner"
+  },
+  {
+    "source": "hn",
     "url": "https://www.primeintellect.ai/research/nanogpt-speedrun",
     "title": "NanoGPT Speedrun Frontier"
   },
@@ -16,23 +36,13 @@
   },
   {
     "source": "hn",
-    "url": "https://typ.ing/",
-    "title": "typ.ing"
-  },
-  {
-    "source": "hn",
     "url": "https://www.rfcafe.com/",
     "title": "RF Cafe"
   },
   {
     "source": "hn",
-    "url": "https://readingmaps.com/",
-    "title": "Reading Maps – Journeys from fiction drawn on the real world"
-  },
-  {
-    "source": "hn",
-    "url": "https://martypc.net/",
-    "title": "MartyPC is a cross-platform emulator of early PCs written in Rust"
+    "url": "https://typ.ing/",
+    "title": "typ.ing"
   },
   {
     "source": "hn",
@@ -41,13 +51,8 @@
   },
   {
     "source": "hn",
-    "url": "https://nappertime.com/the-art-of-and-beauty-of-blade-runner/",
-    "title": "The Art and Beauty of Blade Runner"
-  },
-  {
-    "source": "hn",
-    "url": "https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html",
-    "title": "NetBSD and my life (2005)"
+    "url": "https://thinkinginpython.com/",
+    "title": "Thinking in Python"
   },
   {
     "source": "hn",
@@ -56,8 +61,18 @@
   },
   {
     "source": "hn",
-    "url": "https://thinkinginpython.com/",
-    "title": "Thinking in Python"
+    "url": "https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html",
+    "title": "NetBSD and my life (2005)"
+  },
+  {
+    "source": "hn",
+    "url": "https://readingmaps.com/",
+    "title": "Reading Maps – Journeys from fiction drawn on the real world"
+  },
+  {
+    "source": "hn",
+    "url": "https://allaboutcoding.ghinda.com/a-week-of-using-codex-more-than-claude/",
+    "title": "A week of using Codex more than Claude"
   },
   {
     "source": "hn",
@@ -71,18 +86,13 @@
   },
   {
     "source": "hn",
-    "url": "https://henry.codes/writing/i-dream-of-quieter-computing/",
-    "title": "I Dream of Quieter Computing"
-  },
-  {
-    "source": "hn",
-    "url": "https://allaboutcoding.ghinda.com/a-week-of-using-codex-more-than-claude/",
-    "title": "A week of using Codex more than Claude"
-  },
-  {
-    "source": "hn",
     "url": "https://marcua.net/minitools/figmimic/",
     "title": "Figmimic – A bookmarklet to copy any webpage into Figma as editable layers"
+  },
+  {
+    "source": "hn",
+    "url": "https://blog.modelcontextprotocol.io/posts/mcp-roadmap/",
+    "title": "New MCP Roadmap"
   },
   {
     "source": "hn",
@@ -96,18 +106,8 @@
   },
   {
     "source": "hn",
-    "url": "https://blog.modelcontextprotocol.io/posts/mcp-roadmap/",
-    "title": "New MCP Roadmap"
-  },
-  {
-    "source": "hn",
     "url": "https://www.computer.org/csdl/magazine/mi/2021/06/09623402/1yJTvlRLmhi",
     "title": "Z80 – The 1970s Microprocessor Still Alive (2021)"
-  },
-  {
-    "source": "hn",
-    "url": "https://ozbrain.com",
-    "title": "Show HN: OzBrain, a shared brain for knowledge between agents and your team"
   },
   {
     "source": "lobsters",
@@ -141,6 +141,11 @@
   },
   {
     "source": "lobsters",
+    "url": "https://www.thebyteattic.com/2026/08/the-immortal-macintosh-restoration-diary.html",
+    "title": "The immortal 1984 Macintosh (restoration diary)"
+  },
+  {
+    "source": "lobsters",
     "url": "https://aengelke.net/llvm23-ct.html",
     "title": "Compile-Time Improvements in LLVM 23"
   },
@@ -148,11 +153,6 @@
     "source": "lobsters",
     "url": "https://entropicthoughts.com/ai-comment-classifier",
     "title": "Robot comment classifier"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://www.thebyteattic.com/2026/08/the-immortal-macintosh-restoration-diary.html",
-    "title": "The immortal 1984 Macintosh (restoration diary)"
   },
   {
     "source": "lobsters",
@@ -181,6 +181,11 @@
   },
   {
     "source": "lobsters",
+    "url": "https://thejpster.org.uk/blog/blog-2026-08-22/",
+    "title": "Why aren't my two Cortex-A9 cores cache coherent?"
+  },
+  {
+    "source": "lobsters",
     "url": "https://akselmo.dev/posts/kde-linux-experiences/",
     "title": "KDE Linux experiences"
   },
@@ -193,90 +198,5 @@
     "source": "lobsters",
     "url": "https://matklad.github.io/2026/08/20/better-batteries.html",
     "title": "Better Batteries"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://chrisburnell.com/html-can-do-that/",
-    "title": "HTML Can Do That · Chris Burnell"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.raphaelbauer.com/posts/postgresql-everything/",
-    "title": "PostgreSQL for Everything - Dr. Raphael A. Bauer, MBA | Fractional & Interim CTO | PE/VC Tech Strategy & Due Diligence | Berlin | London | Austin, Texas"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://openlogi.org/en",
-    "title": "OpenLogi"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://dontpastetheai.com/",
-    "title": "Don't paste the AI."
-  },
-  {
-    "source": "pinboard",
-    "url": "https://sprocketfox.io/xssfox/2026/08/19/sondehub-and-war/",
-    "title": "How a joke domain purchase turned in geopolitical warfare"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://chrisburnell.com/html-can-do-that/#example-until-found",
-    "title": "HTML Can Do That · Chris Burnell"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.casio.com/uk/watches/casio/product.F-B100W-1A/",
-    "title": "F-B100W-1A | CASIO"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.platformer.news/karpathy-llm-wiki-journalism-productivity/",
-    "title": "Casey Newton si è costruito una wiki personale con gli LLM, su idea di Karpathy"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://likebutter.app/",
-    "title": "Life without internet made smoother. Get access to tools that help."
-  },
-  {
-    "source": "pinboard",
-    "url": "https://joecode.com/2026-08-19-sqlite3/",
-    "title": "SQLite for Everything | JoeCode"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://ordinaryabundance.com/",
-    "title": "Ordinary Abundance"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://blog.curiousquail.com/im-upset-again-about-a-co-creator-of-rss-being-prosecuted-for-something-meta-is-doing-with-little-consequence/",
-    "title": "I'm Upset Again About a Co-Creator of RSS Being Prosecuted For Something Meta Is Doing With Little Consequence – quailblog"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://fx.sh/",
-    "title": "fx - Tiny, open, native coding agent"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.pewresearch.org/short-reads/2026/08/18/young-adults-in-the-us-are-increasingly-wary-of-ai-concerned-it-will-take-jobs/",
-    "title": "Young US adults are increasingly wary of AI, concerned it will take jobs | Pew Research Center"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://cymerys.com/w/im-becoming-ai-blind",
-    "title": "I'm becoming AI-blind - Rafal Cymerys"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.benjoffe.com/fast-day-of-week",
-    "title": "A faster way to calculate the day-of-the-week"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://bookorbit.app/",
-    "title": "BookOrbit"
   }
 ]
