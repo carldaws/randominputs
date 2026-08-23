@@ -26,8 +26,8 @@
   },
   {
     "source": "hn",
-    "url": "https://www.theglobeandmail.com/canada/article-canada-us-trade-deal-tariffs-mark-carney-donald-trump-august-22/",
-    "title": "Canada now 'at war' with United States over trade, Prime Minister says"
+    "url": "https://hister.org/",
+    "title": "Hister – A private, full content search index that you control"
   },
   {
     "source": "hn",
@@ -36,18 +36,8 @@
   },
   {
     "source": "hn",
-    "url": "https://hister.org/",
-    "title": "Hister – A private, full content search index that you control"
-  },
-  {
-    "source": "hn",
     "url": "https://thinkinginpython.com/",
     "title": "Thinking in Python"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.primeintellect.ai/research/nanogpt-speedrun",
-    "title": "NanoGPT Speedrun Frontier"
   },
   {
     "source": "hn",
@@ -61,28 +51,23 @@
   },
   {
     "source": "hn",
+    "url": "https://www.primeintellect.ai/research/nanogpt-speedrun",
+    "title": "NanoGPT Speedrun Frontier"
+  },
+  {
+    "source": "hn",
     "url": "https://blog.modelcontextprotocol.io/posts/mcp-roadmap/",
     "title": "New MCP Roadmap"
   },
   {
     "source": "hn",
-    "url": "https://henry.codes/writing/i-dream-of-quieter-computing/",
-    "title": "I Dream of Quieter Computing"
-  },
-  {
-    "source": "hn",
-    "url": "https://stories.tamu.edu/news/2026/08/13/doomscrolling-at-work-wastes-time-but-the-real-cost-is-what-happens-after/",
-    "title": "Doomscrolling at work wastes time, but the real cost is what happens after"
+    "url": "https://allaboutcoding.ghinda.com/a-week-of-using-codex-more-than-claude/",
+    "title": "A week of using Codex more than Claude"
   },
   {
     "source": "hn",
     "url": "https://geometridae.bearblog.dev/a-friendly-introduction-to-racket/",
     "title": "A Friendly Introduction to Racket"
-  },
-  {
-    "source": "hn",
-    "url": "https://allaboutcoding.ghinda.com/a-week-of-using-codex-more-than-claude/",
-    "title": "A week of using Codex more than Claude"
   },
   {
     "source": "hn",
@@ -93,11 +78,6 @@
     "source": "hn",
     "url": "https://atproto.com/blog/atproto-spaces-alpha",
     "title": "ATProto spaces: A new extension to ATProto that enables non-public data"
-  },
-  {
-    "source": "hn",
-    "url": "https://olli.unt.edu/handouts/fall24/tk-writing-sample.pdf",
-    "title": "Mathematicians will probably become obsolete before anyone else [pdf]"
   },
   {
     "source": "hn",
@@ -113,6 +93,11 @@
     "source": "hn",
     "url": "https://www.pianoify.net/",
     "title": "Show HN: Public Muscriptor Instance (latest, most powerful Audio-to-MIDI model)"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.computer.org/csdl/magazine/mi/2021/06/09623402/1yJTvlRLmhi",
+    "title": "Z80 – The 1970s Microprocessor Still Alive (2021)"
   },
   {
     "source": "lobsters",
@@ -136,13 +121,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://matduggan.com/otel-isnt-going-well-and-i-made-a-spreadsheet-about-it/",
-    "title": "OTel Isn't Going Well (And I Made A Spreadsheet About It)"
+    "url": "https://www.thebyteattic.com/2026/08/the-immortal-macintosh-restoration-diary.html",
+    "title": "The immortal 1984 Macintosh (restoration diary)"
   },
   {
     "source": "lobsters",
-    "url": "https://www.thebyteattic.com/2026/08/the-immortal-macintosh-restoration-diary.html",
-    "title": "The immortal 1984 Macintosh (restoration diary)"
+    "url": "https://matduggan.com/otel-isnt-going-well-and-i-made-a-spreadsheet-about-it/",
+    "title": "OTel Isn't Going Well (And I Made A Spreadsheet About It)"
   },
   {
     "source": "lobsters",
@@ -151,18 +136,18 @@
   },
   {
     "source": "lobsters",
-    "url": "https://blog.rust-lang.org/2026/08/21/enabling-next-solver-on-nightly/",
-    "title": "Enabling the next-generation trait solver on nightly"
-  },
-  {
-    "source": "lobsters",
     "url": "https://aengelke.net/llvm23-ct.html",
     "title": "Compile-Time Improvements in LLVM 23"
   },
   {
     "source": "lobsters",
-    "url": "https://entropicthoughts.com/ai-comment-classifier",
-    "title": "Robot comment classifier"
+    "url": "https://blog.rust-lang.org/2026/08/21/enabling-next-solver-on-nightly/",
+    "title": "Enabling the next-generation trait solver on nightly"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://akselmo.dev/posts/kde-linux-experiences/",
+    "title": "KDE Linux experiences"
   },
   {
     "source": "lobsters",
@@ -171,8 +156,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://akselmo.dev/posts/kde-linux-experiences/",
-    "title": "KDE Linux experiences"
+    "url": "https://blog.kowalczyk.info/a-n8wf/optimizing-memory-use-in-markdown-parser.html",
+    "title": "Optimizing memory usage in a markdown parser"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://entropicthoughts.com/ai-comment-classifier",
+    "title": "Robot comment classifier"
   },
   {
     "source": "lobsters",
@@ -190,21 +180,6 @@
     "title": "The Schrödinger Email"
   },
   {
-    "source": "lobsters",
-    "url": "https://lina.sh/blog/hijacking-e164-arpa",
-    "title": "I accidentally logged hundreds of thousands of phone calls to military bases"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://www.felonybench.com/",
-    "title": "Felony Bench: Be AI, Do Crime"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://lapcatsoftware.com/articles/2026/8/7.html",
-    "title": "hdiutil is deprecated in macOS 27 Golden Gate"
-  },
-  {
     "source": "pinboard",
     "url": "https://chrisburnell.com/html-can-do-that/",
     "title": "HTML Can Do That · Chris Burnell"
@@ -213,6 +188,11 @@
     "source": "pinboard",
     "url": "https://dontpastetheai.com/",
     "title": "Don't paste the AI."
+  },
+  {
+    "source": "pinboard",
+    "url": "https://lina.sh/blog/hijacking-e164-arpa",
+    "title": "I accidentally logged hundreds of thousands of phone calls to military bases - lina's blog"
   },
   {
     "source": "pinboard",
