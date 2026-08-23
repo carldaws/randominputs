@@ -6,6 +6,21 @@
   },
   {
     "source": "hn",
+    "url": "https://reinvently.co.uk/tools/ed-o-meter/",
+    "title": "GLM-5.3 (open-weight) beat Anthropic/OpenAI models – for 1/5 the cost"
+  },
+  {
+    "source": "hn",
+    "url": "https://studyfinds.com/coconut-oil-jet-fuel-matches-kerosenes-efficiency-in-engine-tests/",
+    "title": "Coconut Oil Jet Fuel Matches Kerosene's Efficiency in Engine Tests"
+  },
+  {
+    "source": "hn",
+    "url": "https://punyamishra.com/2026/04/16/why-sal-khant-on-learning-by-making-but-teaching-by-telling/",
+    "title": "Why Sal Khan't: On Learning by Making but Teaching by Telling"
+  },
+  {
+    "source": "hn",
     "url": "https://sporks.space/2026/08/19/things-i-want-in-a-modern-relational-query-language/",
     "title": "Things I want in a modern relational query language"
   },
@@ -13,6 +28,11 @@
     "source": "hn",
     "url": "https://risky.biz/risky-bulletin-slovakia-finds-russian-backdoor-in-traffic-speed-cameras/",
     "title": "Slovakia finds Russian backdoor in traffic speed cameras"
+  },
+  {
+    "source": "hn",
+    "url": "https://debloat.dev/",
+    "title": "A website for debloated open source alternatives"
   },
   {
     "source": "hn",
@@ -31,28 +51,33 @@
   },
   {
     "source": "hn",
-    "url": "https://nappertime.com/the-art-of-and-beauty-of-blade-runner/",
-    "title": "The Art and Beauty of Blade Runner (2015)"
-  },
-  {
-    "source": "hn",
-    "url": "https://zedshaw.com/blog/2020-10-07-authoritarianism-of-code/",
-    "title": "Authoritarianism of Code"
-  },
-  {
-    "source": "hn",
     "url": "https://malisper.me/jit-compiling-code-in-5-us/",
     "title": "JIT Compiling Code in 5μs"
   },
   {
     "source": "hn",
-    "url": "https://hister.org/",
-    "title": "Hister – A private, full content search index that you control"
+    "url": "https://hackaday.com/2026/08/23/amiga-inspired-aros-goes-bare-metal-on-raspberry-pi/",
+    "title": "Amiga-Inspired AROS Goes Bare Metal on Raspberry Pi"
+  },
+  {
+    "source": "hn",
+    "url": "https://nappertime.com/the-art-of-and-beauty-of-blade-runner/",
+    "title": "The Art and Beauty of Blade Runner (2015)"
   },
   {
     "source": "hn",
     "url": "https://lucumr.pocoo.org/2026/8/22/fast-hard-code/",
     "title": "Fast and Hard Code"
+  },
+  {
+    "source": "hn",
+    "url": "https://henry.codes/writing/i-dream-of-quieter-computing/",
+    "title": "I Dream of Quieter Computing"
+  },
+  {
+    "source": "hn",
+    "url": "https://hister.org/",
+    "title": "Hister – A private, full content search index that you control"
   },
   {
     "source": "hn",
@@ -66,33 +91,8 @@
   },
   {
     "source": "hn",
-    "url": "https://hackaday.com/2026/08/23/amiga-inspired-aros-goes-bare-metal-on-raspberry-pi/",
-    "title": "Amiga-Inspired AROS Goes Bare Metal on Raspberry Pi"
-  },
-  {
-    "source": "hn",
     "url": "https://thinkinginpython.com/",
     "title": "Thinking in Python"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.rfcafe.com/",
-    "title": "RF Cafe"
-  },
-  {
-    "source": "hn",
-    "url": "https://blog.modelcontextprotocol.io/posts/mcp-roadmap/",
-    "title": "New MCP Roadmap"
-  },
-  {
-    "source": "hn",
-    "url": "https://doi.org/10.1016/S0140-6736(26)00767-1",
-    "title": "Risk of transmission of amyloid β pathology via transfused blood products"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.primeintellect.ai/research/nanogpt-speedrun",
-    "title": "NanoGPT Speedrun Frontier"
   },
   {
     "source": "lobsters",
@@ -126,18 +126,13 @@
   },
   {
     "source": "lobsters",
+    "url": "https://blog.tymscar.com/posts/howtoreportabug/",
+    "title": "How To Report A Bug So It Actually Gets Fixed"
+  },
+  {
+    "source": "lobsters",
     "url": "https://thejpster.org.uk/blog/blog-2026-08-22/",
     "title": "Why aren't my two Cortex-A9 cores cache coherent?"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://www.thebyteattic.com/2026/08/the-immortal-macintosh-restoration-diary.html",
-    "title": "The immortal 1984 Macintosh (restoration diary)"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://matduggan.com/otel-isnt-going-well-and-i-made-a-spreadsheet-about-it/",
-    "title": "OTel Isn't Going Well (And I Made A Spreadsheet About It)"
   },
   {
     "source": "lobsters",
@@ -146,8 +141,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://a.baez.link/3mtdbbp2dmc27",
-    "title": "The cool things of Gleam"
+    "url": "https://www.thebyteattic.com/2026/08/the-immortal-macintosh-restoration-diary.html",
+    "title": "The immortal 1984 Macintosh (restoration diary)"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://buttondown.com/carlton/archive/its-ok-do-your-thing/",
+    "title": "It's OK. Do Your Thing"
   },
   {
     "source": "lobsters",
@@ -156,22 +156,22 @@
   },
   {
     "source": "lobsters",
+    "url": "https://matduggan.com/otel-isnt-going-well-and-i-made-a-spreadsheet-about-it/",
+    "title": "OTel Isn't Going Well (And I Made A Spreadsheet About It)"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://a.baez.link/3mtdbbp2dmc27",
+    "title": "The cool things of Gleam"
+  },
+  {
+    "source": "lobsters",
     "url": "https://adam.chlipala.net/papers/MetricsCPP26/MetricsCPP26.pdf",
     "title": "Foundational Verification of Running-Time Bounds for Interactive Programs"
   },
   {
     "source": "lobsters",
-    "url": "https://akselmo.dev/posts/kde-linux-experiences/",
-    "title": "KDE Linux experiences"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://aengelke.net/llvm23-ct.html",
-    "title": "Compile-Time Improvements in LLVM 23"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://skemman.is/bitstream/1946/50465/2/integrating_discord_sdk_into_eve_frontier_report.pdf",
-    "title": "Integrating Discord SDK into EVE Frontier"
+    "url": "https://carvalho.sh/posts/2025-07-29-are-15-of-all-commits-fixes/",
+    "title": "Are 15% of all commits fixes? (2025)"
   }
 ]
