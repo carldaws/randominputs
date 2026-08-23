@@ -6,13 +6,18 @@
   },
   {
     "source": "hn",
+    "url": "https://nappertime.com/the-golden-rule-of-becoming-a-better-writer/",
+    "title": "To become a better writer, read as much as you can"
+  },
+  {
+    "source": "hn",
     "url": "https://martypc.net/",
     "title": "MartyPC is a cross-platform emulator of early PCs written in Rust"
   },
   {
     "source": "hn",
-    "url": "https://nappertime.com/the-golden-rule-of-becoming-a-better-writer/",
-    "title": "To become a better writer, read as much as you can"
+    "url": "https://erikengdahl.se/autism/isnt/",
+    "title": "Tragically, as many as 9625 out of every 10k individuals may be neurotypical"
   },
   {
     "source": "hn",
@@ -31,6 +36,11 @@
   },
   {
     "source": "hn",
+    "url": "https://lucumr.pocoo.org/2026/8/22/fast-hard-code/",
+    "title": "Fast and Hard Code"
+  },
+  {
+    "source": "hn",
     "url": "https://hister.org/",
     "title": "Hister – A private, full content search index that you control"
   },
@@ -41,13 +51,13 @@
   },
   {
     "source": "hn",
-    "url": "https://www.rfcafe.com/",
-    "title": "RF Cafe"
+    "url": "https://typ.ing/",
+    "title": "typ.ing"
   },
   {
     "source": "hn",
-    "url": "https://typ.ing/",
-    "title": "typ.ing"
+    "url": "https://www.rfcafe.com/",
+    "title": "RF Cafe"
   },
   {
     "source": "hn",
@@ -56,18 +66,13 @@
   },
   {
     "source": "hn",
-    "url": "https://geometridae.bearblog.dev/a-friendly-introduction-to-racket/",
-    "title": "A Friendly Introduction to Racket"
-  },
-  {
-    "source": "hn",
     "url": "https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html",
     "title": "NetBSD and my life (2005)"
   },
   {
     "source": "hn",
-    "url": "https://atproto.com/blog/atproto-spaces-alpha",
-    "title": "ATProto spaces: A new extension to ATProto that enables non-public data"
+    "url": "https://blog.modelcontextprotocol.io/posts/mcp-roadmap/",
+    "title": "New MCP Roadmap"
   },
   {
     "source": "hn",
@@ -76,8 +81,13 @@
   },
   {
     "source": "hn",
-    "url": "https://blog.modelcontextprotocol.io/posts/mcp-roadmap/",
-    "title": "New MCP Roadmap"
+    "url": "https://geometridae.bearblog.dev/a-friendly-introduction-to-racket/",
+    "title": "A Friendly Introduction to Racket"
+  },
+  {
+    "source": "hn",
+    "url": "https://atproto.com/blog/atproto-spaces-alpha",
+    "title": "ATProto spaces: A new extension to ATProto that enables non-public data"
   },
   {
     "source": "hn",
@@ -88,11 +98,6 @@
     "source": "hn",
     "url": "https://munderdiffl.in/",
     "title": "Munder Difflin – Agent harness to run an office of your clones"
-  },
-  {
-    "source": "hn",
-    "url": "https://lucumr.pocoo.org/2026/8/22/fast-hard-code/",
-    "title": "Fast and Hard Code"
   },
   {
     "source": "hn",
@@ -136,13 +141,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://a.baez.link/3mtdbbp2dmc27",
-    "title": "The cool things of Gleam"
+    "url": "https://www.thebyteattic.com/2026/08/the-immortal-macintosh-restoration-diary.html",
+    "title": "The immortal 1984 Macintosh (restoration diary)"
   },
   {
     "source": "lobsters",
-    "url": "https://www.thebyteattic.com/2026/08/the-immortal-macintosh-restoration-diary.html",
-    "title": "The immortal 1984 Macintosh (restoration diary)"
+    "url": "https://a.baez.link/3mtdbbp2dmc27",
+    "title": "The cool things of Gleam"
   },
   {
     "source": "lobsters",
@@ -161,6 +166,11 @@
   },
   {
     "source": "lobsters",
+    "url": "https://adam.chlipala.net/papers/MetricsCPP26/MetricsCPP26.pdf",
+    "title": "Foundational Verification of Running-Time Bounds for Interactive Programs"
+  },
+  {
+    "source": "lobsters",
     "url": "https://sockpuppet.org/blog/2026/08/20/stop-making-tuis/",
     "title": "Stop Making TUIs"
   },
@@ -168,6 +178,11 @@
     "source": "lobsters",
     "url": "https://burakemir.ch/post/formal-semantics/",
     "title": "Programming Language Semantics and Memory Safety"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://yashgarg.dev/posts/the-schrodinger-email/",
+    "title": "The Schrödinger Email"
   },
   {
     "source": "lobsters",
@@ -181,17 +196,7 @@
   },
   {
     "source": "lobsters",
-    "url": "https://adam.chlipala.net/papers/MetricsCPP26/MetricsCPP26.pdf",
-    "title": "Foundational Verification of Running-Time Bounds for Interactive Programs"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://skemman.is/bitstream/1946/50465/2/integrating_discord_sdk_into_eve_frontier_report.pdf",
-    "title": "Integrating Discord SDK into EVE Frontier"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://yashgarg.dev/posts/the-schrodinger-email/",
-    "title": "The Schrödinger Email"
+    "url": "https://akselmo.dev/posts/kde-linux-experiences/",
+    "title": "KDE Linux experiences"
   }
 ]
