@@ -46,11 +46,6 @@
   },
   {
     "source": "hn",
-    "url": "https://www.rfcafe.com/",
-    "title": "RF Cafe"
-  },
-  {
-    "source": "hn",
     "url": "https://www.primeintellect.ai/research/nanogpt-speedrun",
     "title": "NanoGPT Speedrun Frontier"
   },
@@ -90,16 +85,6 @@
     "title": "Figmimic – A bookmarklet to copy any webpage into Figma as editable layers"
   },
   {
-    "source": "hn",
-    "url": "https://www.pianoify.net/",
-    "title": "Show HN: Public Muscriptor Instance (latest, most powerful Audio-to-MIDI model)"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.computer.org/csdl/magazine/mi/2021/06/09623402/1yJTvlRLmhi",
-    "title": "Z80 – The 1970s Microprocessor Still Alive (2021)"
-  },
-  {
     "source": "lobsters",
     "url": "https://www.seangoedecke.com/you-should-never-be-angry-at-work/",
     "title": "You should never be angry at work"
@@ -136,6 +121,11 @@
   },
   {
     "source": "lobsters",
+    "url": "https://akselmo.dev/posts/kde-linux-experiences/",
+    "title": "KDE Linux experiences"
+  },
+  {
+    "source": "lobsters",
     "url": "https://aengelke.net/llvm23-ct.html",
     "title": "Compile-Time Improvements in LLVM 23"
   },
@@ -143,11 +133,6 @@
     "source": "lobsters",
     "url": "https://blog.rust-lang.org/2026/08/21/enabling-next-solver-on-nightly/",
     "title": "Enabling the next-generation trait solver on nightly"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://akselmo.dev/posts/kde-linux-experiences/",
-    "title": "KDE Linux experiences"
   },
   {
     "source": "lobsters",
@@ -171,97 +156,7 @@
   },
   {
     "source": "lobsters",
-    "url": "https://burakemir.ch/post/formal-semantics/",
-    "title": "Programming Language Semantics and Memory Safety"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://yashgarg.dev/posts/the-schrodinger-email/",
-    "title": "The Schrödinger Email"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://chrisburnell.com/html-can-do-that/",
-    "title": "HTML Can Do That · Chris Burnell"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://dontpastetheai.com/",
-    "title": "Don't paste the AI."
-  },
-  {
-    "source": "pinboard",
-    "url": "https://lina.sh/blog/hijacking-e164-arpa",
-    "title": "I accidentally logged hundreds of thousands of phone calls to military bases - lina's blog"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://openlogi.org/",
-    "title": "OpenLogi"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.raphaelbauer.com/posts/postgresql-everything/",
-    "title": "PostgreSQL for Everything - Dr. Raphael A. Bauer, MBA | Fractional & Interim CTO | PE/VC Tech Strategy & Due Diligence | Berlin | London | Austin, Texas"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://bandarlabs.github.io/Cobalt/",
-    "title": "Cobalt: apps and an SDK for Kobo e-readers"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://chrisburnell.com/html-can-do-that/#example-until-found",
-    "title": "HTML Can Do That · Chris Burnell"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://jsomers.net/i-should-have-loved-biology/",
-    "title": "jsomers.net | I should have loved biology"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://cymerys.com/w/im-becoming-ai-blind",
-    "title": "I'm becoming AI-blind - Rafal Cymerys"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://academy.claude.com/",
-    "title": "Claude Academy · Learn to work and build with Claude"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.danielvaughn.dev/posts/huzzah/",
-    "title": "Huzzah"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://bookorbit.app/",
-    "title": "BookOrbit"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://openlogi.org/en",
-    "title": "OpenLogi"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://sprocketfox.io/xssfox/2026/08/19/sondehub-and-war/",
-    "title": "How a joke domain purchase turned in geopolitical warfare"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.benjoffe.com/fast-day-of-week",
-    "title": "A faster way to calculate the day-of-the-week"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://blog.curiousquail.com/im-upset-again-about-a-co-creator-of-rss-being-prosecuted-for-something-meta-is-doing-with-little-consequence/",
-    "title": "I'm Upset Again About a Co-Creator of RSS Being Prosecuted For Something Meta Is Doing With Little Consequence – quailblog"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://joecode.com/2026-08-19-sqlite3/",
-    "title": "SQLite for Everything | JoeCode"
+    "url": "https://skemman.is/bitstream/1946/50465/2/integrating_discord_sdk_into_eve_frontier_report.pdf",
+    "title": "Integrating Discord SDK into EVE Frontier"
   }
 ]
