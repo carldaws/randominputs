@@ -11,8 +11,8 @@
   },
   {
     "source": "hn",
-    "url": "https://studyfinds.com/coconut-oil-jet-fuel-matches-kerosenes-efficiency-in-engine-tests/",
-    "title": "Coconut Oil Jet Fuel Matches Kerosene's Efficiency in Engine Tests"
+    "url": "https://debloat.dev/",
+    "title": "A website for debloated open source alternatives"
   },
   {
     "source": "hn",
@@ -21,18 +21,13 @@
   },
   {
     "source": "hn",
-    "url": "https://sporks.space/2026/08/19/things-i-want-in-a-modern-relational-query-language/",
-    "title": "Things I want in a modern relational query language"
+    "url": "https://studyfinds.com/coconut-oil-jet-fuel-matches-kerosenes-efficiency-in-engine-tests/",
+    "title": "Coconut Oil Jet Fuel Matches Kerosene's Efficiency in Engine Tests"
   },
   {
     "source": "hn",
     "url": "https://risky.biz/risky-bulletin-slovakia-finds-russian-backdoor-in-traffic-speed-cameras/",
     "title": "Slovakia finds Russian backdoor in traffic speed cameras"
-  },
-  {
-    "source": "hn",
-    "url": "https://debloat.dev/",
-    "title": "A website for debloated open source alternatives"
   },
   {
     "source": "hn",
@@ -43,6 +38,11 @@
     "source": "hn",
     "url": "https://earendil.com/posts/what-is-a-harness/",
     "title": "What Is a Harness?"
+  },
+  {
+    "source": "hn",
+    "url": "https://sporks.space/2026/08/19/things-i-want-in-a-modern-relational-query-language/",
+    "title": "Things I want in a modern relational query language"
   },
   {
     "source": "hn",
@@ -61,23 +61,23 @@
   },
   {
     "source": "hn",
-    "url": "https://nappertime.com/the-art-of-and-beauty-of-blade-runner/",
-    "title": "The Art and Beauty of Blade Runner (2015)"
-  },
-  {
-    "source": "hn",
-    "url": "https://lucumr.pocoo.org/2026/8/22/fast-hard-code/",
-    "title": "Fast and Hard Code"
-  },
-  {
-    "source": "hn",
     "url": "https://henry.codes/writing/i-dream-of-quieter-computing/",
     "title": "I Dream of Quieter Computing"
   },
   {
     "source": "hn",
+    "url": "https://nappertime.com/the-art-of-and-beauty-of-blade-runner/",
+    "title": "The Art and Beauty of Blade Runner (2015)"
+  },
+  {
+    "source": "hn",
     "url": "https://hister.org/",
     "title": "Hister – A private, full content search index that you control"
+  },
+  {
+    "source": "hn",
+    "url": "https://lucumr.pocoo.org/2026/8/22/fast-hard-code/",
+    "title": "Fast and Hard Code"
   },
   {
     "source": "hn",
@@ -106,6 +106,11 @@
   },
   {
     "source": "lobsters",
+    "url": "https://blog.tymscar.com/posts/howtoreportabug/",
+    "title": "How To Report A Bug So It Actually Gets Fixed"
+  },
+  {
+    "source": "lobsters",
     "url": "https://www.seangoedecke.com/you-should-never-be-angry-at-work/",
     "title": "You should never be angry at work"
   },
@@ -121,18 +126,18 @@
   },
   {
     "source": "lobsters",
+    "url": "https://thejpster.org.uk/blog/blog-2026-08-22/",
+    "title": "Why aren't my two Cortex-A9 cores cache coherent?"
+  },
+  {
+    "source": "lobsters",
     "url": "https://blog.wybxc.cc/blog/rust-gui-survey-2026/",
     "title": "A 2026 Survey of Rust GUI Libraries"
   },
   {
     "source": "lobsters",
-    "url": "https://blog.tymscar.com/posts/howtoreportabug/",
-    "title": "How To Report A Bug So It Actually Gets Fixed"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://thejpster.org.uk/blog/blog-2026-08-22/",
-    "title": "Why aren't my two Cortex-A9 cores cache coherent?"
+    "url": "https://buttondown.com/carlton/archive/its-ok-do-your-thing/",
+    "title": "It's OK. Do Your Thing"
   },
   {
     "source": "lobsters",
@@ -146,8 +151,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://buttondown.com/carlton/archive/its-ok-do-your-thing/",
-    "title": "It's OK. Do Your Thing"
+    "url": "https://carvalho.sh/posts/2025-07-29-are-15-of-all-commits-fixes/",
+    "title": "Are 15% of all commits fixes? (2025)"
   },
   {
     "source": "lobsters",
@@ -170,8 +175,93 @@
     "title": "Foundational Verification of Running-Time Bounds for Interactive Programs"
   },
   {
-    "source": "lobsters",
-    "url": "https://carvalho.sh/posts/2025-07-29-are-15-of-all-commits-fixes/",
-    "title": "Are 15% of all commits fixes? (2025)"
+    "source": "pinboard",
+    "url": "https://chrisburnell.com/html-can-do-that/",
+    "title": "HTML Can Do That · Chris Burnell"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://dontpastetheai.com/",
+    "title": "Don't paste the AI."
+  },
+  {
+    "source": "pinboard",
+    "url": "https://lina.sh/blog/hijacking-e164-arpa",
+    "title": "I accidentally logged hundreds of thousands of phone calls to military bases - lina's blog"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://openlogi.org/",
+    "title": "OpenLogi"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.raphaelbauer.com/posts/postgresql-everything/",
+    "title": "PostgreSQL for Everything - Dr. Raphael A. Bauer, MBA | Fractional & Interim CTO | PE/VC Tech Strategy & Due Diligence | Berlin | London | Austin, Texas"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://bandarlabs.github.io/Cobalt/",
+    "title": "Cobalt: apps and an SDK for Kobo e-readers"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://chrisburnell.com/html-can-do-that/#example-until-found",
+    "title": "HTML Can Do That · Chris Burnell"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://jsomers.net/i-should-have-loved-biology/",
+    "title": "jsomers.net | I should have loved biology"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://cymerys.com/w/im-becoming-ai-blind",
+    "title": "I'm becoming AI-blind - Rafal Cymerys"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://academy.claude.com/",
+    "title": "Claude Academy · Learn to work and build with Claude"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.danielvaughn.dev/posts/huzzah/",
+    "title": "Huzzah"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://bookorbit.app/",
+    "title": "BookOrbit"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://openlogi.org/en",
+    "title": "OpenLogi"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://sprocketfox.io/xssfox/2026/08/19/sondehub-and-war/",
+    "title": "How a joke domain purchase turned in geopolitical warfare"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.benjoffe.com/fast-day-of-week",
+    "title": "A faster way to calculate the day-of-the-week"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://sockpuppet.org/blog/2026/08/20/stop-making-tuis/",
+    "title": "Stop Making TUIs — Quarrelsome"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://blog.curiousquail.com/im-upset-again-about-a-co-creator-of-rss-being-prosecuted-for-something-meta-is-doing-with-little-consequence/",
+    "title": "I'm Upset Again About a Co-Creator of RSS Being Prosecuted For Something Meta Is Doing With Little Consequence – quailblog"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://joecode.com/2026-08-19-sqlite3/",
+    "title": "SQLite for Everything | JoeCode"
   }
 ]
