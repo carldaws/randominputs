@@ -31,11 +31,6 @@
   },
   {
     "source": "hn",
-    "url": "https://quantumi.sh/public/labs.html",
-    "title": "ElevenLabs, TwelveLabs, ThirteenLabs"
-  },
-  {
-    "source": "hn",
     "url": "https://thinkinginpython.com/",
     "title": "Thinking in Python"
   },
@@ -43,6 +38,11 @@
     "source": "hn",
     "url": "https://typ.ing/",
     "title": "typ.ing"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.rfcafe.com/",
+    "title": "RF Cafe"
   },
   {
     "source": "hn",
@@ -61,11 +61,6 @@
   },
   {
     "source": "hn",
-    "url": "https://geometridae.bearblog.dev/a-friendly-introduction-to-racket/",
-    "title": "A Friendly Introduction to Racket"
-  },
-  {
-    "source": "hn",
     "url": "https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html",
     "title": "NetBSD and my life (2005)"
   },
@@ -76,6 +71,16 @@
   },
   {
     "source": "hn",
+    "url": "https://doi.org/10.1016/S0140-6736(26)00767-1",
+    "title": "Risk of transmission of amyloid β pathology via transfused blood products"
+  },
+  {
+    "source": "hn",
+    "url": "https://geometridae.bearblog.dev/a-friendly-introduction-to-racket/",
+    "title": "A Friendly Introduction to Racket"
+  },
+  {
+    "source": "hn",
     "url": "https://munderdiffl.in/",
     "title": "Munder Difflin – Agent harness to run an office of your clones"
   },
@@ -83,6 +88,11 @@
     "source": "hn",
     "url": "https://marcua.net/minitools/figmimic/",
     "title": "Figmimic – A bookmarklet to copy any webpage into Figma as editable layers"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.computer.org/csdl/magazine/mi/2021/06/09623402/1yJTvlRLmhi",
+    "title": "Z80 – The 1970s Microprocessor Still Alive (2021)"
   },
   {
     "source": "lobsters",
@@ -121,8 +131,23 @@
   },
   {
     "source": "lobsters",
+    "url": "https://blog.kowalczyk.info/a-n8wf/optimizing-memory-use-in-markdown-parser.html",
+    "title": "Optimizing memory usage in a markdown parser"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://adam.chlipala.net/papers/MetricsCPP26/MetricsCPP26.pdf",
+    "title": "Foundational Verification of Running-Time Bounds for Interactive Programs"
+  },
+  {
+    "source": "lobsters",
     "url": "https://akselmo.dev/posts/kde-linux-experiences/",
     "title": "KDE Linux experiences"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://skemman.is/bitstream/1946/50465/2/integrating_discord_sdk_into_eve_frontier_report.pdf",
+    "title": "Integrating Discord SDK into EVE Frontier"
   },
   {
     "source": "lobsters",
@@ -136,27 +161,12 @@
   },
   {
     "source": "lobsters",
-    "url": "https://adam.chlipala.net/papers/MetricsCPP26/MetricsCPP26.pdf",
-    "title": "Foundational Verification of Running-Time Bounds for Interactive Programs"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://blog.kowalczyk.info/a-n8wf/optimizing-memory-use-in-markdown-parser.html",
-    "title": "Optimizing memory usage in a markdown parser"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://entropicthoughts.com/ai-comment-classifier",
-    "title": "Robot comment classifier"
-  },
-  {
-    "source": "lobsters",
     "url": "https://sockpuppet.org/blog/2026/08/20/stop-making-tuis/",
     "title": "Stop Making TUIs"
   },
   {
     "source": "lobsters",
-    "url": "https://skemman.is/bitstream/1946/50465/2/integrating_discord_sdk_into_eve_frontier_report.pdf",
-    "title": "Integrating Discord SDK into EVE Frontier"
+    "url": "https://entropicthoughts.com/ai-comment-classifier",
+    "title": "Robot comment classifier"
   }
 ]
