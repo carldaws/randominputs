@@ -1,11 +1,6 @@
 [
   {
     "source": "hn",
-    "url": "https://marcua.net/minitools/figmimic/",
-    "title": "Figmimic – A bookmarklet to copy any webpage into Figma as editable layers"
-  },
-  {
-    "source": "hn",
     "url": "https://www.primeintellect.ai/research/nanogpt-speedrun",
     "title": "NanoGPT Speedrun Frontier"
   },
@@ -18,11 +13,6 @@
     "source": "hn",
     "url": "https://hister.org/",
     "title": "Hister – A private, full content search index that you control"
-  },
-  {
-    "source": "hn",
-    "url": "https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html",
-    "title": "NetBSD and my life (2005)"
   },
   {
     "source": "hn",
@@ -51,13 +41,8 @@
   },
   {
     "source": "hn",
-    "url": "https://lapcatsoftware.com/articles/2026/8/7.html",
-    "title": "hdiutil is deprecated in macOS 27 Golden Gate"
-  },
-  {
-    "source": "hn",
-    "url": "https://munderdiffl.in/",
-    "title": "Munder Difflin – Agent harness to run an office of your clones"
+    "url": "https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html",
+    "title": "NetBSD and my life (2005)"
   },
   {
     "source": "hn",
@@ -66,28 +51,33 @@
   },
   {
     "source": "hn",
+    "url": "https://munderdiffl.in/",
+    "title": "Munder Difflin – Agent harness to run an office of your clones"
+  },
+  {
+    "source": "hn",
     "url": "https://allaboutcoding.ghinda.com/a-week-of-using-codex-more-than-claude/",
     "title": "A week of using Codex more than Claude"
   },
   {
     "source": "hn",
-    "url": "https://tigerbeetle.com/blog/2026-08-20-protocol-aware-dst/",
-    "title": "Protocol-Aware Deterministic Simulation Testing"
+    "url": "https://marcua.net/minitools/figmimic/",
+    "title": "Figmimic – A bookmarklet to copy any webpage into Figma as editable layers"
   },
   {
     "source": "hn",
-    "url": "https://vetto.ai/companies/programbench-vetted.html",
-    "title": "ProgramBench Vetted: Reverse Engineering from a Runnable Binary"
+    "url": "https://lapcatsoftware.com/articles/2026/8/7.html",
+    "title": "hdiutil is deprecated in macOS 27 Golden Gate"
+  },
+  {
+    "source": "hn",
+    "url": "https://nappertime.com/the-art-of-and-beauty-of-blade-runner/",
+    "title": "The Art and Beauty of Blade Runner"
   },
   {
     "source": "hn",
     "url": "https://editide.com/blog/what-is-a-pptx-file/",
     "title": "What's in a PowerPoint File?"
-  },
-  {
-    "source": "hn",
-    "url": "https://nautil.us/why-it-might-be-time-to-rethink-the-human-family-tree-1283985",
-    "title": "Why it might be time to rethink the human family tree"
   },
   {
     "source": "hn",
@@ -106,8 +96,13 @@
   },
   {
     "source": "hn",
-    "url": "https://terminal-code.com",
-    "title": "Show HN: terminal-code – VS Code inside the terminal"
+    "url": "https://vetto.ai/companies/programbench-vetted.html",
+    "title": "ProgramBench Vetted: Reverse Engineering from a Runnable Binary"
+  },
+  {
+    "source": "hn",
+    "url": "https://blog.modelcontextprotocol.io/posts/mcp-roadmap/",
+    "title": "New MCP Roadmap"
   },
   {
     "source": "lobsters",
@@ -146,6 +141,11 @@
   },
   {
     "source": "lobsters",
+    "url": "https://entropicthoughts.com/ai-comment-classifier",
+    "title": "Robot comment classifier"
+  },
+  {
+    "source": "lobsters",
     "url": "https://www.thebyteattic.com/2026/08/the-immortal-macintosh-restoration-diary.html",
     "title": "The immortal 1984 Macintosh (restoration diary)"
   },
@@ -158,11 +158,6 @@
     "source": "lobsters",
     "url": "https://www.felonybench.com/",
     "title": "Felony Bench: Be AI, Do Crime"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://entropicthoughts.com/ai-comment-classifier",
-    "title": "Robot comment classifier"
   },
   {
     "source": "lobsters",
