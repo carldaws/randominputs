@@ -1,13 +1,23 @@
 [
   {
     "source": "hn",
+    "url": "https://earendil.com/posts/what-is-a-harness/",
+    "title": "What Is a Harness?"
+  },
+  {
+    "source": "hn",
+    "url": "https://sporks.space/2026/08/19/things-i-want-in-a-modern-relational-query-language/",
+    "title": "Things I want in a modern relational query language"
+  },
+  {
+    "source": "hn",
     "url": "https://nappertime.com/the-golden-rule-of-becoming-a-better-writer/",
     "title": "To become a better writer, read as much as you can"
   },
   {
     "source": "hn",
-    "url": "https://malisper.me/jit-compiling-code-in-5-us/",
-    "title": "JIT Compiling Code in 5μs"
+    "url": "https://risky.biz/risky-bulletin-slovakia-finds-russian-backdoor-in-traffic-speed-cameras/",
+    "title": "Slovakia finds Russian backdoor in traffic speed cameras"
   },
   {
     "source": "hn",
@@ -18,6 +28,11 @@
     "source": "hn",
     "url": "https://lucumr.pocoo.org/2026/8/22/fast-hard-code/",
     "title": "Fast and Hard Code"
+  },
+  {
+    "source": "hn",
+    "url": "https://malisper.me/jit-compiling-code-in-5-us/",
+    "title": "JIT Compiling Code in 5μs"
   },
   {
     "source": "hn",
@@ -33,6 +48,11 @@
     "source": "hn",
     "url": "https://thinkinginpython.com/",
     "title": "Thinking in Python"
+  },
+  {
+    "source": "hn",
+    "url": "https://quantumi.sh/public/labs.html",
+    "title": "ElevenLabs, TwelveLabs, ThirteenLabs"
   },
   {
     "source": "hn",
@@ -56,13 +76,13 @@
   },
   {
     "source": "hn",
-    "url": "https://allaboutcoding.ghinda.com/a-week-of-using-codex-more-than-claude/",
-    "title": "A week of using Codex more than Claude"
+    "url": "https://doi.org/10.1016/S0140-6736(26)00767-1",
+    "title": "Risk of transmission of amyloid β pathology via transfused blood products"
   },
   {
     "source": "hn",
-    "url": "https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html",
-    "title": "NetBSD and my life (2005)"
+    "url": "https://zedshaw.com/blog/2020-10-07-authoritarianism-of-code/",
+    "title": "Authoritarianism of Code"
   },
   {
     "source": "hn",
@@ -71,28 +91,8 @@
   },
   {
     "source": "hn",
-    "url": "https://doi.org/10.1016/S0140-6736(26)00767-1",
-    "title": "Risk of transmission of amyloid β pathology via transfused blood products"
-  },
-  {
-    "source": "hn",
-    "url": "https://geometridae.bearblog.dev/a-friendly-introduction-to-racket/",
-    "title": "A Friendly Introduction to Racket"
-  },
-  {
-    "source": "hn",
-    "url": "https://munderdiffl.in/",
-    "title": "Munder Difflin – Agent harness to run an office of your clones"
-  },
-  {
-    "source": "hn",
-    "url": "https://marcua.net/minitools/figmimic/",
-    "title": "Figmimic – A bookmarklet to copy any webpage into Figma as editable layers"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.computer.org/csdl/magazine/mi/2021/06/09623402/1yJTvlRLmhi",
-    "title": "Z80 – The 1970s Microprocessor Still Alive (2021)"
+    "url": "https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html",
+    "title": "NetBSD and my life (2005)"
   },
   {
     "source": "lobsters",
@@ -116,6 +116,16 @@
   },
   {
     "source": "lobsters",
+    "url": "https://backtracking.github.io/en/2020/02/20/cs-books.html",
+    "title": "My favorite Computer Science books, and why"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://monadicsheep.org/blog/an-introduction-to-canvas-in-emacs.html",
+    "title": "An Introduction to Canvas in GNU Emacs"
+  },
+  {
+    "source": "lobsters",
     "url": "https://www.thebyteattic.com/2026/08/the-immortal-macintosh-restoration-diary.html",
     "title": "The immortal 1984 Macintosh (restoration diary)"
   },
@@ -128,6 +138,11 @@
     "source": "lobsters",
     "url": "https://a.baez.link/3mtdbbp2dmc27",
     "title": "The cool things of Gleam"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://geometridae.bearblog.dev/a-friendly-introduction-to-racket/",
+    "title": "A Friendly Introduction to Racket"
   },
   {
     "source": "lobsters",
@@ -146,27 +161,17 @@
   },
   {
     "source": "lobsters",
-    "url": "https://skemman.is/bitstream/1946/50465/2/integrating_discord_sdk_into_eve_frontier_report.pdf",
-    "title": "Integrating Discord SDK into EVE Frontier"
-  },
-  {
-    "source": "lobsters",
     "url": "https://aengelke.net/llvm23-ct.html",
     "title": "Compile-Time Improvements in LLVM 23"
   },
   {
     "source": "lobsters",
+    "url": "https://skemman.is/bitstream/1946/50465/2/integrating_discord_sdk_into_eve_frontier_report.pdf",
+    "title": "Integrating Discord SDK into EVE Frontier"
+  },
+  {
+    "source": "lobsters",
     "url": "https://blog.rust-lang.org/2026/08/21/enabling-next-solver-on-nightly/",
     "title": "Enabling the next-generation trait solver on nightly"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://sockpuppet.org/blog/2026/08/20/stop-making-tuis/",
-    "title": "Stop Making TUIs"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://entropicthoughts.com/ai-comment-classifier",
-    "title": "Robot comment classifier"
   }
 ]
