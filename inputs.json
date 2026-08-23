@@ -6,23 +6,13 @@
   },
   {
     "source": "hn",
-    "url": "https://debloat.dev/",
-    "title": "A website for debloated open source alternatives"
+    "url": "https://fabiensanglard.net/agent.md/index.html",
+    "title": "My agent.md to improve LLM-assisted code quality"
   },
   {
     "source": "hn",
-    "url": "https://insufferable.dev/posts/vibe-tax/",
-    "title": "The Vibe Tax"
-  },
-  {
-    "source": "hn",
-    "url": "https://punyamishra.com/2026/04/16/why-sal-khant-on-learning-by-making-but-teaching-by-telling/",
-    "title": "Why Sal Khan't: On Learning by Making but Teaching by Telling"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.dbreunig.com/2026/08/23/fable-the-end-of-moore-s-law.html",
-    "title": "Fable and the End of the Free Lunch"
+    "url": "https://alpo.ge/s6.pdf",
+    "title": "A complex structure on S^6 [pdf]"
   },
   {
     "source": "hn",
@@ -31,13 +21,33 @@
   },
   {
     "source": "hn",
+    "url": "https://punyamishra.com/2026/04/16/why-sal-khant-on-learning-by-making-but-teaching-by-telling/",
+    "title": "Why Sal Khan't: On Learning by Making but Teaching by Telling"
+  },
+  {
+    "source": "hn",
+    "url": "https://blog.elis.cc/articles/google-workspace-thinks-my-domain-is-an-email-provider/",
+    "title": "Google Workspace thinks my domain is an email provider"
+  },
+  {
+    "source": "hn",
+    "url": "https://insufferable.dev/posts/vibe-tax/",
+    "title": "The Vibe Tax"
+  },
+  {
+    "source": "hn",
+    "url": "https://debloat.dev/",
+    "title": "A website for debloated open source alternatives"
+  },
+  {
+    "source": "hn",
     "url": "https://studyfinds.com/coconut-oil-jet-fuel-matches-kerosenes-efficiency-in-engine-tests/",
     "title": "Coconut Oil Jet Fuel Matches Kerosene's Efficiency in Engine Tests"
   },
   {
     "source": "hn",
-    "url": "https://fabiensanglard.net/agent.md/index.html",
-    "title": "My agent.md to improve LLM-assisted code quality"
+    "url": "https://www.dbreunig.com/2026/08/23/fable-the-end-of-moore-s-law.html",
+    "title": "Fable and the End of the Free Lunch"
   },
   {
     "source": "hn",
@@ -51,6 +61,11 @@
   },
   {
     "source": "hn",
+    "url": "https://kpres12.github.io/Cicada.OS/",
+    "title": "Cicada.os – Graphene.os for Your Laptop"
+  },
+  {
+    "source": "hn",
     "url": "https://releaseoracle.xyz/",
     "title": "Predicting AI model release dates with stats"
   },
@@ -61,8 +76,8 @@
   },
   {
     "source": "hn",
-    "url": "https://pikuma.com/blog/pdp-8-minicomputer",
-    "title": "From Front Panel to Program: Thinking Like a PDP-8"
+    "url": "https://psmag.com/environment/the-planet-now-has-more-trees-than-it-did-35-years-ago/",
+    "title": "The Planet Now Has More Trees Than It Did 35 Years Ago"
   },
   {
     "source": "hn",
@@ -73,11 +88,6 @@
     "source": "hn",
     "url": "https://nappertime.com/the-golden-rule-of-becoming-a-better-writer/",
     "title": "To become a better writer, read as much as you can"
-  },
-  {
-    "source": "hn",
-    "url": "https://sporks.space/2026/08/19/things-i-want-in-a-modern-relational-query-language/",
-    "title": "Things I want in a modern relational query language"
   },
   {
     "source": "lobsters",
@@ -126,16 +136,6 @@
   },
   {
     "source": "lobsters",
-    "url": "https://typesanitizer.com/blog/performance-issues.html",
-    "title": "There continue to be reasons for software to be slow"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://blog.wybxc.cc/blog/rust-gui-survey-2026/",
-    "title": "A 2026 Survey of Rust GUI Libraries"
-  },
-  {
-    "source": "lobsters",
     "url": "https://tmpout.sh/5/",
     "title": "tmp.0ut volume 5"
   },
@@ -146,13 +146,33 @@
   },
   {
     "source": "lobsters",
+    "url": "https://typesanitizer.com/blog/performance-issues.html",
+    "title": "There continue to be reasons for software to be slow"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://blog.wybxc.cc/blog/rust-gui-survey-2026/",
+    "title": "A 2026 Survey of Rust GUI Libraries"
+  },
+  {
+    "source": "lobsters",
     "url": "https://hugodaniel.com/posts/declarative-webgpu-with-s-expressions/",
     "title": "Declarative WebGPU with S-expressions"
   },
   {
     "source": "lobsters",
+    "url": "https://www.osnews.com/story/144892/the-text-mode-lie-why-modern-tuis-are-a-nightmare-for-accessibility/",
+    "title": "The text mode lie: why modern TUIs are a nightmare for accessibility"
+  },
+  {
+    "source": "lobsters",
     "url": "https://geometridae.bearblog.dev/a-friendly-introduction-to-racket/",
     "title": "A Friendly Introduction to Racket"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://blog.guillheu.dev/articles/first-time-speaker/",
+    "title": "My experience as a first time speaker"
   },
   {
     "source": "lobsters",
@@ -163,15 +183,5 @@
     "source": "lobsters",
     "url": "https://www.thebyteattic.com/2026/08/the-immortal-macintosh-restoration-diary.html",
     "title": "The immortal 1984 Macintosh (restoration diary)"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://malisper.me/jit-compiling-code-in-5-us/",
-    "title": "JIT Compiling Code in 5μs"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://adam.chlipala.net/papers/MetricsCPP26/MetricsCPP26.pdf",
-    "title": "Foundational Verification of Running-Time Bounds for Interactive Programs"
   }
 ]
