@@ -12,7 +12,7 @@
   {
     "source": "hn",
     "url": "https://nappertime.com/the-golden-rule-of-becoming-a-better-writer/",
-    "title": "The Golden Rule for Becoming a Better Writer"
+    "title": "To become a better writer, read as much as you can"
   },
   {
     "source": "hn",
@@ -76,6 +76,11 @@
   },
   {
     "source": "hn",
+    "url": "https://blog.modelcontextprotocol.io/posts/mcp-roadmap/",
+    "title": "New MCP Roadmap"
+  },
+  {
+    "source": "hn",
     "url": "https://www.pianoify.net/",
     "title": "Show HN: Public Muscriptor Instance (latest, most powerful Audio-to-MIDI model)"
   },
@@ -86,8 +91,8 @@
   },
   {
     "source": "hn",
-    "url": "https://blog.modelcontextprotocol.io/posts/mcp-roadmap/",
-    "title": "New MCP Roadmap"
+    "url": "https://lucumr.pocoo.org/2026/8/22/fast-hard-code/",
+    "title": "Fast and Hard Code"
   },
   {
     "source": "hn",
@@ -103,11 +108,6 @@
     "source": "hn",
     "url": "https://editide.com/blog/what-is-a-pptx-file/",
     "title": "What's in a PowerPoint File?"
-  },
-  {
-    "source": "hn",
-    "url": "https://sockpuppet.org/blog/2026/08/20/stop-making-tuis/",
-    "title": "Stop Making TUIs"
   },
   {
     "source": "lobsters",
@@ -126,6 +126,11 @@
   },
   {
     "source": "lobsters",
+    "url": "https://thejpster.org.uk/blog/blog-2026-08-22/",
+    "title": "Why aren't my two Cortex-A9 cores cache coherent?"
+  },
+  {
+    "source": "lobsters",
     "url": "https://matduggan.com/otel-isnt-going-well-and-i-made-a-spreadsheet-about-it/",
     "title": "OTel Isn't Going Well (And I Made A Spreadsheet About It)"
   },
@@ -133,11 +138,6 @@
     "source": "lobsters",
     "url": "https://a.baez.link/3mtdbbp2dmc27",
     "title": "The cool things of Gleam"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://thejpster.org.uk/blog/blog-2026-08-22/",
-    "title": "Why aren't my two Cortex-A9 cores cache coherent?"
   },
   {
     "source": "lobsters",
@@ -158,6 +158,11 @@
     "source": "lobsters",
     "url": "https://entropicthoughts.com/ai-comment-classifier",
     "title": "Robot comment classifier"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://sockpuppet.org/blog/2026/08/20/stop-making-tuis/",
+    "title": "Stop Making TUIs"
   },
   {
     "source": "lobsters",
@@ -188,10 +193,5 @@
     "source": "lobsters",
     "url": "https://yashgarg.dev/posts/the-schrodinger-email/",
     "title": "The Schrödinger Email"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://akselmo.dev/posts/kde-linux-experiences/",
-    "title": "KDE Linux experiences"
   }
 ]
