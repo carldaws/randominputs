@@ -6,13 +6,13 @@
   },
   {
     "source": "hn",
-    "url": "https://henry.codes/writing/i-dream-of-quieter-computing/",
-    "title": "I Dream of Quieter Computing"
+    "url": "https://nappertime.com/the-golden-rule-of-becoming-a-better-writer/",
+    "title": "The Golden Rule for Becoming a Better Writer"
   },
   {
     "source": "hn",
-    "url": "https://nappertime.com/the-golden-rule-of-becoming-a-better-writer/",
-    "title": "The Golden Rule for Becoming a Better Writer"
+    "url": "https://henry.codes/writing/i-dream-of-quieter-computing/",
+    "title": "I Dream of Quieter Computing"
   },
   {
     "source": "hn",
@@ -46,18 +46,8 @@
   },
   {
     "source": "hn",
-    "url": "https://geometridae.bearblog.dev/a-friendly-introduction-to-racket/",
-    "title": "A Friendly Introduction to Racket"
-  },
-  {
-    "source": "hn",
     "url": "https://thinkinginpython.com/",
     "title": "Thinking in Python"
-  },
-  {
-    "source": "hn",
-    "url": "https://atproto.com/blog/atproto-spaces-alpha",
-    "title": "ATProto spaces: A new extension to ATProto that enables non-public data"
   },
   {
     "source": "hn",
@@ -66,13 +56,23 @@
   },
   {
     "source": "hn",
-    "url": "https://readingmaps.com/",
-    "title": "Reading Maps – Journeys from fiction drawn on the real world"
+    "url": "https://atproto.com/blog/atproto-spaces-alpha",
+    "title": "ATProto spaces: A new extension to ATProto that enables non-public data"
+  },
+  {
+    "source": "hn",
+    "url": "https://geometridae.bearblog.dev/a-friendly-introduction-to-racket/",
+    "title": "A Friendly Introduction to Racket"
   },
   {
     "source": "hn",
     "url": "https://allaboutcoding.ghinda.com/a-week-of-using-codex-more-than-claude/",
     "title": "A week of using Codex more than Claude"
+  },
+  {
+    "source": "hn",
+    "url": "https://readingmaps.com/",
+    "title": "Reading Maps – Journeys from fiction drawn on the real world"
   },
   {
     "source": "hn",
@@ -96,11 +96,6 @@
   },
   {
     "source": "hn",
-    "url": "https://lapcatsoftware.com/articles/2026/8/7.html",
-    "title": "hdiutil is deprecated in macOS 27 Golden Gate"
-  },
-  {
-    "source": "hn",
     "url": "https://editide.com/blog/what-is-a-pptx-file/",
     "title": "What's in a PowerPoint File?"
   },
@@ -108,6 +103,11 @@
     "source": "hn",
     "url": "https://www.computer.org/csdl/magazine/mi/2021/06/09623402/1yJTvlRLmhi",
     "title": "Z80 – The 1970s Microprocessor Still Alive (2021)"
+  },
+  {
+    "source": "hn",
+    "url": "https://lapcatsoftware.com/articles/2026/8/7.html",
+    "title": "hdiutil is deprecated in macOS 27 Golden Gate"
   },
   {
     "source": "lobsters",
@@ -136,13 +136,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://blog.rust-lang.org/2026/08/21/enabling-next-solver-on-nightly/",
-    "title": "Enabling the next-generation trait solver on nightly"
+    "url": "https://www.thebyteattic.com/2026/08/the-immortal-macintosh-restoration-diary.html",
+    "title": "The immortal 1984 Macintosh (restoration diary)"
   },
   {
     "source": "lobsters",
-    "url": "https://www.thebyteattic.com/2026/08/the-immortal-macintosh-restoration-diary.html",
-    "title": "The immortal 1984 Macintosh (restoration diary)"
+    "url": "https://blog.rust-lang.org/2026/08/21/enabling-next-solver-on-nightly/",
+    "title": "Enabling the next-generation trait solver on nightly"
   },
   {
     "source": "lobsters",
@@ -153,6 +153,16 @@
     "source": "lobsters",
     "url": "https://entropicthoughts.com/ai-comment-classifier",
     "title": "Robot comment classifier"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://thejpster.org.uk/blog/blog-2026-08-22/",
+    "title": "Why aren't my two Cortex-A9 cores cache coherent?"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://sockpuppet.org/blog/2026/08/20/stop-making-tuis/",
+    "title": "Stop Making TUIs"
   },
   {
     "source": "lobsters",
@@ -171,18 +181,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://sockpuppet.org/blog/2026/08/20/stop-making-tuis/",
-    "title": "Stop Making TUIs"
+    "url": "https://skemman.is/bitstream/1946/50465/2/integrating_discord_sdk_into_eve_frontier_report.pdf",
+    "title": "Integrating Discord SDK into EVE Frontier"
   },
   {
     "source": "lobsters",
     "url": "https://yashgarg.dev/posts/the-schrodinger-email/",
     "title": "The Schrödinger Email"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://thejpster.org.uk/blog/blog-2026-08-22/",
-    "title": "Why aren't my two Cortex-A9 cores cache coherent?"
   },
   {
     "source": "lobsters",
@@ -193,10 +198,5 @@
     "source": "lobsters",
     "url": "https://blog.roomy.space/3mplw6vvw4s23",
     "title": "Roomy is generally available"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://matklad.github.io/2026/08/20/better-batteries.html",
-    "title": "Better Batteries"
   }
 ]
