@@ -6,11 +6,6 @@
   },
   {
     "source": "hn",
-    "url": "https://reinvently.co.uk/tools/ed-o-meter/",
-    "title": "GLM-5.3 (open-weight) beat Anthropic/OpenAI models – for 1/5 the cost"
-  },
-  {
-    "source": "hn",
     "url": "https://debloat.dev/",
     "title": "A website for debloated open source alternatives"
   },
@@ -18,6 +13,16 @@
     "source": "hn",
     "url": "https://punyamishra.com/2026/04/16/why-sal-khant-on-learning-by-making-but-teaching-by-telling/",
     "title": "Why Sal Khan't: On Learning by Making but Teaching by Telling"
+  },
+  {
+    "source": "hn",
+    "url": "https://reinvently.co.uk/tools/ed-o-meter/",
+    "title": "GLM-5.3 (open-weight) beat Anthropic/OpenAI models – for 1/5 the cost"
+  },
+  {
+    "source": "hn",
+    "url": "https://earendil.com/posts/what-is-a-harness/",
+    "title": "What Is a Harness?"
   },
   {
     "source": "hn",
@@ -36,11 +41,6 @@
   },
   {
     "source": "hn",
-    "url": "https://earendil.com/posts/what-is-a-harness/",
-    "title": "What Is a Harness?"
-  },
-  {
-    "source": "hn",
     "url": "https://sporks.space/2026/08/19/things-i-want-in-a-modern-relational-query-language/",
     "title": "Things I want in a modern relational query language"
   },
@@ -53,11 +53,6 @@
     "source": "hn",
     "url": "https://malisper.me/jit-compiling-code-in-5-us/",
     "title": "JIT Compiling Code in 5μs"
-  },
-  {
-    "source": "hn",
-    "url": "https://hackaday.com/2026/08/23/amiga-inspired-aros-goes-bare-metal-on-raspberry-pi/",
-    "title": "Amiga-Inspired AROS Goes Bare Metal on Raspberry Pi"
   },
   {
     "source": "hn",
@@ -76,23 +71,13 @@
   },
   {
     "source": "hn",
-    "url": "https://lucumr.pocoo.org/2026/8/22/fast-hard-code/",
-    "title": "Fast and Hard Code"
+    "url": "https://hackaday.com/2026/08/23/amiga-inspired-aros-goes-bare-metal-on-raspberry-pi/",
+    "title": "Amiga-Inspired AROS Goes Bare Metal on Raspberry Pi"
   },
   {
     "source": "hn",
     "url": "https://quantumi.sh/public/labs.html",
     "title": "ElevenLabs, TwelveLabs, ThirteenLabs"
-  },
-  {
-    "source": "hn",
-    "url": "https://typ.ing/",
-    "title": "typ.ing"
-  },
-  {
-    "source": "hn",
-    "url": "https://thinkinginpython.com/",
-    "title": "Thinking in Python"
   },
   {
     "source": "lobsters",
@@ -116,6 +101,16 @@
   },
   {
     "source": "lobsters",
+    "url": "https://buttondown.com/carlton/archive/its-ok-do-your-thing/",
+    "title": "It's OK. Do Your Thing"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://thejpster.org.uk/blog/blog-2026-08-22/",
+    "title": "Why aren't my two Cortex-A9 cores cache coherent?"
+  },
+  {
+    "source": "lobsters",
     "url": "https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html",
     "title": "NetBSD and my life (2005)"
   },
@@ -126,18 +121,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://thejpster.org.uk/blog/blog-2026-08-22/",
-    "title": "Why aren't my two Cortex-A9 cores cache coherent?"
-  },
-  {
-    "source": "lobsters",
     "url": "https://blog.wybxc.cc/blog/rust-gui-survey-2026/",
     "title": "A 2026 Survey of Rust GUI Libraries"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://buttondown.com/carlton/archive/its-ok-do-your-thing/",
-    "title": "It's OK. Do Your Thing"
   },
   {
     "source": "lobsters",
@@ -151,13 +136,18 @@
   },
   {
     "source": "lobsters",
+    "url": "https://geometridae.bearblog.dev/a-friendly-introduction-to-racket/",
+    "title": "A Friendly Introduction to Racket"
+  },
+  {
+    "source": "lobsters",
     "url": "https://carvalho.sh/posts/2025-07-29-are-15-of-all-commits-fixes/",
     "title": "Are 15% of all commits fixes? (2025)"
   },
   {
     "source": "lobsters",
-    "url": "https://geometridae.bearblog.dev/a-friendly-introduction-to-racket/",
-    "title": "A Friendly Introduction to Racket"
+    "url": "https://www.redox-os.org/news/rsoc-eevdf/",
+    "title": "RSoC 2026: EEVDF for Redox"
   },
   {
     "source": "lobsters",
@@ -166,8 +156,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://a.baez.link/3mtdbbp2dmc27",
-    "title": "The cool things of Gleam"
+    "url": "https://surfingcomplexity.blog/2026/08/22/wild-ai-related-reliability-incidents-are-coming/",
+    "title": "Wild AI-related reliability incidents are coming"
   },
   {
     "source": "lobsters",
