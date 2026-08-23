@@ -1,13 +1,13 @@
 [
   {
     "source": "hn",
-    "url": "https://ericpardee.github.io/fire-hd-ownership/",
-    "title": "I spent $266 and four AI models to own my tablet. GLM-5.3 finished it in a day"
+    "url": "https://debloat.dev/",
+    "title": "A website for debloated open source alternatives"
   },
   {
     "source": "hn",
-    "url": "https://debloat.dev/",
-    "title": "A website for debloated open source alternatives"
+    "url": "https://lalitm.com/post/find-problems-staff-engineer/",
+    "title": "How I Find Problems to Solve as a Staff Engineer"
   },
   {
     "source": "hn",
@@ -16,8 +16,13 @@
   },
   {
     "source": "hn",
-    "url": "https://reinvently.co.uk/tools/ed-o-meter/",
-    "title": "GLM-5.3 (open-weight) beat Anthropic/OpenAI models – for 1/5 the cost"
+    "url": "https://www.dbreunig.com/2026/08/23/fable-the-end-of-moore-s-law.html",
+    "title": "Fable and the End of the Free Lunch"
+  },
+  {
+    "source": "hn",
+    "url": "https://studyfinds.com/coconut-oil-jet-fuel-matches-kerosenes-efficiency-in-engine-tests/",
+    "title": "Coconut Oil Jet Fuel Matches Kerosene's Efficiency in Engine Tests"
   },
   {
     "source": "hn",
@@ -26,8 +31,23 @@
   },
   {
     "source": "hn",
-    "url": "https://studyfinds.com/coconut-oil-jet-fuel-matches-kerosenes-efficiency-in-engine-tests/",
-    "title": "Coconut Oil Jet Fuel Matches Kerosene's Efficiency in Engine Tests"
+    "url": "https://insufferable.dev/posts/vibe-tax/",
+    "title": "The Vibe Tax"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.npr.org/2026/08/10/nx-s1-5925350/the-nerd-reich-tracks-the-unmasking-of-silicon-valleys-true-politics",
+    "title": "'The Nerd Reich' tracks the 'unmasking of Silicon Valley's true politics'"
+  },
+  {
+    "source": "hn",
+    "url": "https://ericpardee.github.io/fire-hd-ownership/",
+    "title": "I spent $266 and four AI models to own my tablet. GLM-5.3 finished it in a day"
+  },
+  {
+    "source": "hn",
+    "url": "https://fabiensanglard.net/agent.md/index.html",
+    "title": "My agent.md to improve LLM-assisted code quality"
   },
   {
     "source": "hn",
@@ -41,43 +61,18 @@
   },
   {
     "source": "hn",
-    "url": "https://sporks.space/2026/08/19/things-i-want-in-a-modern-relational-query-language/",
-    "title": "Things I want in a modern relational query language"
+    "url": "https://releaseoracle.xyz/",
+    "title": "Predicting AI model release dates with stats"
   },
   {
     "source": "hn",
-    "url": "https://martypc.net/",
-    "title": "MartyPC is a cross-platform emulator of early PCs written in Rust"
+    "url": "https://pikuma.com/blog/pdp-8-minicomputer",
+    "title": "From Front Panel to Program: Thinking Like a PDP-8"
   },
   {
     "source": "hn",
-    "url": "https://malisper.me/jit-compiling-code-in-5-us/",
-    "title": "JIT Compiling Code in 5μs"
-  },
-  {
-    "source": "hn",
-    "url": "https://henry.codes/writing/i-dream-of-quieter-computing/",
-    "title": "I Dream of Quieter Computing"
-  },
-  {
-    "source": "hn",
-    "url": "https://nappertime.com/the-art-of-and-beauty-of-blade-runner/",
-    "title": "The Art and Beauty of Blade Runner (2015)"
-  },
-  {
-    "source": "hn",
-    "url": "https://hister.org/",
-    "title": "Hister – A private, full content search index that you control"
-  },
-  {
-    "source": "hn",
-    "url": "https://hackaday.com/2026/08/23/amiga-inspired-aros-goes-bare-metal-on-raspberry-pi/",
-    "title": "Amiga-Inspired AROS Goes Bare Metal on Raspberry Pi"
-  },
-  {
-    "source": "hn",
-    "url": "https://quantumi.sh/public/labs.html",
-    "title": "ElevenLabs, TwelveLabs, ThirteenLabs"
+    "url": "https://omegion.dev/2026/08/ai-and-infrastructure-engineering/",
+    "title": "AI and Infrastructure Engineering"
   },
   {
     "source": "lobsters",
@@ -86,8 +81,18 @@
   },
   {
     "source": "lobsters",
+    "url": "https://hister.org/",
+    "title": "Hister - A private, full content search index that you control"
+  },
+  {
+    "source": "lobsters",
     "url": "https://backtracking.github.io/en/2020/02/20/cs-books.html",
     "title": "My favorite Computer Science books, and why"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://buttondown.com/carlton/archive/its-ok-do-your-thing/",
+    "title": "It's OK. Do Your Thing"
   },
   {
     "source": "lobsters",
@@ -98,11 +103,6 @@
     "source": "lobsters",
     "url": "https://www.seangoedecke.com/you-should-never-be-angry-at-work/",
     "title": "You should never be angry at work"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://buttondown.com/carlton/archive/its-ok-do-your-thing/",
-    "title": "It's OK. Do Your Thing"
   },
   {
     "source": "lobsters",
@@ -126,13 +126,33 @@
   },
   {
     "source": "lobsters",
+    "url": "https://xavd.id/blog/post/highlighting-users/",
+    "title": "Replicating Reddit's best feature on other forums"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://tmpout.sh/5/",
+    "title": "tmp.0ut volume 5"
+  },
+  {
+    "source": "lobsters",
     "url": "https://blog.kowalczyk.info/a-n8wf/optimizing-memory-use-in-markdown-parser.html",
     "title": "Optimizing memory usage in a markdown parser"
   },
   {
     "source": "lobsters",
+    "url": "https://surfingcomplexity.blog/2026/08/22/wild-ai-related-reliability-incidents-are-coming/",
+    "title": "Wild AI-related reliability incidents are coming"
+  },
+  {
+    "source": "lobsters",
     "url": "https://www.thebyteattic.com/2026/08/the-immortal-macintosh-restoration-diary.html",
     "title": "The immortal 1984 Macintosh (restoration diary)"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://malisper.me/jit-compiling-code-in-5-us/",
+    "title": "JIT Compiling Code in 5μs"
   },
   {
     "source": "lobsters",
@@ -148,110 +168,5 @@
     "source": "lobsters",
     "url": "https://www.redox-os.org/news/rsoc-eevdf/",
     "title": "RSoC 2026: EEVDF for Redox"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://matduggan.com/otel-isnt-going-well-and-i-made-a-spreadsheet-about-it/",
-    "title": "OTel Isn't Going Well (And I Made A Spreadsheet About It)"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://surfingcomplexity.blog/2026/08/22/wild-ai-related-reliability-incidents-are-coming/",
-    "title": "Wild AI-related reliability incidents are coming"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://adam.chlipala.net/papers/MetricsCPP26/MetricsCPP26.pdf",
-    "title": "Foundational Verification of Running-Time Bounds for Interactive Programs"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://chrisburnell.com/html-can-do-that/",
-    "title": "HTML Can Do That · Chris Burnell"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://dontpastetheai.com/",
-    "title": "Don't paste the AI."
-  },
-  {
-    "source": "pinboard",
-    "url": "https://lina.sh/blog/hijacking-e164-arpa",
-    "title": "I accidentally logged hundreds of thousands of phone calls to military bases - lina's blog"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://openlogi.org/",
-    "title": "OpenLogi"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.raphaelbauer.com/posts/postgresql-everything/",
-    "title": "PostgreSQL for Everything - Dr. Raphael A. Bauer, MBA | Fractional & Interim CTO | PE/VC Tech Strategy & Due Diligence | Berlin | London | Austin, Texas"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://bandarlabs.github.io/Cobalt/",
-    "title": "Cobalt: apps and an SDK for Kobo e-readers"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://chrisburnell.com/html-can-do-that/#example-until-found",
-    "title": "HTML Can Do That · Chris Burnell"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://jsomers.net/i-should-have-loved-biology/",
-    "title": "jsomers.net | I should have loved biology"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://cymerys.com/w/im-becoming-ai-blind",
-    "title": "I'm becoming AI-blind - Rafal Cymerys"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://academy.claude.com/",
-    "title": "Claude Academy · Learn to work and build with Claude"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.danielvaughn.dev/posts/huzzah/",
-    "title": "Huzzah"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://bookorbit.app/",
-    "title": "BookOrbit"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://openlogi.org/en",
-    "title": "OpenLogi"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://sprocketfox.io/xssfox/2026/08/19/sondehub-and-war/",
-    "title": "How a joke domain purchase turned in geopolitical warfare"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.benjoffe.com/fast-day-of-week",
-    "title": "A faster way to calculate the day-of-the-week"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://sockpuppet.org/blog/2026/08/20/stop-making-tuis/",
-    "title": "Stop Making TUIs — Quarrelsome"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://blog.curiousquail.com/im-upset-again-about-a-co-creator-of-rss-being-prosecuted-for-something-meta-is-doing-with-little-consequence/",
-    "title": "I'm Upset Again About a Co-Creator of RSS Being Prosecuted For Something Meta Is Doing With Little Consequence – quailblog"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://joecode.com/2026-08-19-sqlite3/",
-    "title": "SQLite for Everything | JoeCode"
   }
 ]
