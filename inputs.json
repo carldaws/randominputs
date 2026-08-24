@@ -11,11 +11,6 @@
   },
   {
     "source": "hn",
-    "url": "https://morgin.ai/articles/your-open-source-model-could-have-a-hidden-time-release-backdoor.html",
-    "title": "Your Open Source Model Could Have a Hidden Time-Release Backdoor"
-  },
-  {
-    "source": "hn",
     "url": "https://status.claude.com/uptime",
     "title": "Anthropic Claude and API service outages"
   },
@@ -28,6 +23,16 @@
     "source": "hn",
     "url": "https://pantel.is/projects/ai-gaming-companion/",
     "title": "I built a low-latency AI companion that plays Skyrim with me"
+  },
+  {
+    "source": "hn",
+    "url": "https://fzakaria.com/2026/08/23/your-executable-is-a-sqlite-database",
+    "title": "Executable Is a SQLite Database"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.modelrepublic.org/articles/a16z-portfolio",
+    "title": "Andreessen Horowitz is investing billions into a bleak future"
   },
   {
     "source": "hn",
@@ -51,18 +56,8 @@
   },
   {
     "source": "hn",
-    "url": "https://www.modelrepublic.org/articles/a16z-portfolio",
-    "title": "Andreessen Horowitz is investing billions into a bleak future"
-  },
-  {
-    "source": "hn",
     "url": "https://www.dbreunig.com/2026/08/23/fable-the-end-of-moore-s-law.html",
     "title": "Fable and the end of the free lunch"
-  },
-  {
-    "source": "hn",
-    "url": "https://status.claude.com/incidents/vgz5psbjmt1h",
-    "title": "Elevated Errors for Multiple Models"
   },
   {
     "source": "hn",
@@ -71,18 +66,18 @@
   },
   {
     "source": "hn",
+    "url": "https://status.claude.com/incidents/vgz5psbjmt1h",
+    "title": "Elevated Errors for Multiple Models"
+  },
+  {
+    "source": "hn",
+    "url": "https://morgin.ai/articles/your-open-source-model-could-have-a-hidden-time-release-backdoor.html",
+    "title": "Your Open Source Model Could Have a Hidden Time-Release Backdoor"
+  },
+  {
+    "source": "hn",
     "url": "https://debloat.dev/",
     "title": "A website for debloated open source alternatives"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.cntraveler.com/story/this-rural-village-in-spain-is-welcoming-digital-nomads-with-open-arms",
-    "title": "Rural Village in Spain Is Welcoming Digital Nomads with Open Arms"
-  },
-  {
-    "source": "hn",
-    "url": "https://fzakaria.com/2026/08/23/your-executable-is-a-sqlite-database",
-    "title": "Executable Is a SQLite Database"
   },
   {
     "source": "lobsters",
