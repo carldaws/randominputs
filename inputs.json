@@ -16,18 +16,23 @@
   },
   {
     "source": "hn",
+    "url": "https://fzakaria.com/2026/08/23/your-executable-is-a-sqlite-database",
+    "title": "Executable Is a SQLite Database"
+  },
+  {
+    "source": "hn",
     "url": "https://www.modelrepublic.org/articles/a16z-portfolio",
     "title": "Andreessen Horowitz is investing billions into a bleak future"
   },
   {
     "source": "hn",
-    "url": "https://pantel.is/projects/ai-gaming-companion/",
-    "title": "I built a low-latency AI companion that plays Skyrim with me"
+    "url": "https://essays.georgestrakhov.com/weird/",
+    "title": "The Future Belongs to the Weird"
   },
   {
     "source": "hn",
-    "url": "https://fzakaria.com/2026/08/23/your-executable-is-a-sqlite-database",
-    "title": "Executable Is a SQLite Database"
+    "url": "https://pantel.is/projects/ai-gaming-companion/",
+    "title": "I built a low-latency AI companion that plays Skyrim with me"
   },
   {
     "source": "hn",
@@ -46,6 +51,11 @@
   },
   {
     "source": "hn",
+    "url": "https://www.hamiltonulmer.com/customer-dashboards-r2-hyparquet/",
+    "title": "Fast drilldown dashboards from a single Parquet file"
+  },
+  {
+    "source": "hn",
     "url": "https://www.jepeake.com/ai-chip-architectures",
     "title": "AI Chip Architectures"
   },
@@ -56,13 +66,13 @@
   },
   {
     "source": "hn",
-    "url": "https://cmart.blog/claude-writing/",
-    "title": "Why is Anthropic's public writing style so unlike Claude's?"
+    "url": "https://punyamishra.com/2026/04/16/why-sal-khant-on-learning-by-making-but-teaching-by-telling/",
+    "title": "Why Sal Khan't: On Learning by Making but Teaching by Telling"
   },
   {
     "source": "hn",
-    "url": "https://punyamishra.com/2026/04/16/why-sal-khant-on-learning-by-making-but-teaching-by-telling/",
-    "title": "Why Sal Khan't: On Learning by Making but Teaching by Telling"
+    "url": "https://cmart.blog/claude-writing/",
+    "title": "Why is Anthropic's public writing style so unlike Claude's?"
   },
   {
     "source": "hn",
@@ -86,23 +96,23 @@
   },
   {
     "source": "lobsters",
-    "url": "https://monadicsheep.org/blog/an-introduction-to-canvas-in-emacs.html",
-    "title": "An Introduction to Canvas in GNU Emacs"
-  },
-  {
-    "source": "lobsters",
     "url": "https://xavd.id/blog/post/highlighting-users/",
     "title": "Replicating Reddit's best feature on other forums"
   },
   {
     "source": "lobsters",
-    "url": "https://hister.org/",
-    "title": "Hister - A private, full content search index that you control"
+    "url": "https://monadicsheep.org/blog/an-introduction-to-canvas-in-emacs.html",
+    "title": "An Introduction to Canvas in GNU Emacs"
   },
   {
     "source": "lobsters",
     "url": "https://backtracking.github.io/en/2020/02/20/cs-books.html",
     "title": "My favorite Computer Science books, and why"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://hister.org/",
+    "title": "Hister - A private, full content search index that you control"
   },
   {
     "source": "lobsters",
@@ -126,6 +136,11 @@
   },
   {
     "source": "lobsters",
+    "url": "https://haveibeensquatted.com/blog/building-certgrep",
+    "title": "Building certgrep.sh: a free certificate transparency search engine"
+  },
+  {
+    "source": "lobsters",
     "url": "https://tmpout.sh/5/",
     "title": "tmp.0ut volume 5"
   },
@@ -141,13 +156,18 @@
   },
   {
     "source": "lobsters",
-    "url": "https://haveibeensquatted.com/blog/building-certgrep",
-    "title": "Building certgrep.sh: a free certificate transparency search engine"
+    "url": "https://gcc.gnu.org/onlinedocs/jit/intro/tutorial04.html",
+    "title": "Adding JIT-compilation to a toy interpreter with libgccjit"
   },
   {
     "source": "lobsters",
-    "url": "https://gcc.gnu.org/onlinedocs/jit/intro/tutorial04.html",
-    "title": "Adding JIT-compilation to a toy interpreter with libgccjit"
+    "url": "https://text.marvinborner.de/2024-11-18-00.html",
+    "title": "Tiny, Untyped Monads (2024)"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://jordanlord.co.uk/blog/3-constraints/",
+    "title": "3 constraints before I build anything | Jordan Lord"
   },
   {
     "source": "lobsters",
@@ -158,15 +178,5 @@
     "source": "lobsters",
     "url": "https://thejpster.org.uk/blog/blog-2026-08-22/",
     "title": "Why aren't my two Cortex-A9 cores cache coherent?"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://www.seangoedecke.com/you-should-never-be-angry-at-work/",
-    "title": "You should never be angry at work"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html",
-    "title": "NetBSD and my life (2005)"
   }
 ]
