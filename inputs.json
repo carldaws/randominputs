@@ -36,8 +36,8 @@
   },
   {
     "source": "hn",
-    "url": "https://www.assinafy.com.br",
-    "title": "Assinafy – Assinatura eletrônica grátis and API liberada"
+    "url": "https://developers.openai.com/api/docs/pricing",
+    "title": "OpenAI: GPT 5.6 Sol price reduction (until at least Nov 21)"
   },
   {
     "source": "hn",
@@ -46,23 +46,8 @@
   },
   {
     "source": "hn",
-    "url": "https://developers.openai.com/api/docs/pricing",
-    "title": "OpenAI: GPT 5.6 Sol price reduction (until at least Nov 21)"
-  },
-  {
-    "source": "hn",
-    "url": "https://blog.archive.org/2026/08/16/vintage-artificial-intelligence-before-it-got-awkward/",
-    "title": "Vintage Artificial Intelligence: Before It Got Awkward"
-  },
-  {
-    "source": "hn",
     "url": "https://proofcraft.systems/news-2026/#2026-08-21",
     "title": "SeL4 security proofs now complete on AArch64"
-  },
-  {
-    "source": "hn",
-    "url": "https://blog.greencloudvps.com/what-is-a-syslog-server.php",
-    "title": "What Is a Syslog Server?"
   },
   {
     "source": "hn",
@@ -73,6 +58,11 @@
     "source": "hn",
     "url": "https://fzakaria.com/2026/08/23/your-executable-is-a-sqlite-database",
     "title": "Executable Is a SQLite Database"
+  },
+  {
+    "source": "hn",
+    "url": "https://blog.greencloudvps.com/what-is-a-syslog-server.php",
+    "title": "What Is a Syslog Server?"
   },
   {
     "source": "hn",
@@ -121,13 +111,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://ericpardee.github.io/fire-hd-ownership/",
-    "title": "Amazon kept shutting down my tablet, so I spent $266 on four AI models to own it"
+    "url": "https://jordanlord.co.uk/blog/3-constraints/",
+    "title": "3 constraints before I build anything"
   },
   {
     "source": "lobsters",
-    "url": "https://jordanlord.co.uk/blog/3-constraints/",
-    "title": "3 constraints before I build anything"
+    "url": "https://ericpardee.github.io/fire-hd-ownership/",
+    "title": "Amazon kept shutting down my tablet, so I spent $266 on four AI models to own it"
   },
   {
     "source": "lobsters",
@@ -151,12 +141,12 @@
   },
   {
     "source": "lobsters",
-    "url": "https://hister.org/",
-    "title": "Hister - A private, full content search index that you control"
+    "url": "https://jyn.dev/distributed-identity/",
+    "title": "distributed identity"
   },
   {
     "source": "lobsters",
-    "url": "https://haveibeensquatted.com/blog/building-certgrep",
-    "title": "Building certgrep.sh: a free certificate transparency search engine"
+    "url": "https://twotwos.nekoweb.org/posts/hyperlegible.html",
+    "title": "Atkinson Hyperlegible appears a little smaller than some other fonts at the same font size"
   }
 ]
