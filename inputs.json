@@ -11,13 +11,8 @@
   },
   {
     "source": "hn",
-    "url": "https://alexschapiro.com/security/vulnerability/2026/07/16/beam-living-graphql-data-exposure",
-    "title": "A Blackstone real estate company exposed SSN digits, DOBs, addresses and more"
-  },
-  {
-    "source": "hn",
-    "url": "https://developers.openai.com/api/docs/pricing",
-    "title": "OpenAI: GPT 5.6 Sol price reduction (until at least Nov 21)"
+    "url": "https://sf.thijs.gg/",
+    "title": "The entire city of San Francisco as a video game"
   },
   {
     "source": "hn",
@@ -26,8 +21,8 @@
   },
   {
     "source": "hn",
-    "url": "https://larsfaye.com/articles/ai-coding-will-prevent-expertise",
-    "title": "Coding expertise is going to collapse from AI reliance"
+    "url": "https://picomq.com/",
+    "title": "Show HN: PicoMQ – Durable Streams over HTTP, on object storage"
   },
   {
     "source": "hn",
@@ -36,18 +31,23 @@
   },
   {
     "source": "hn",
-    "url": "https://sf.thijs.gg/",
-    "title": "The entire city of San Francisco as a video game"
+    "url": "https://larsfaye.com/articles/ai-coding-will-prevent-expertise",
+    "title": "Coding expertise is going to collapse from AI reliance"
   },
   {
     "source": "hn",
-    "url": "https://picomq.com/",
-    "title": "Show HN: PicoMQ – Durable Streams over HTTP, on object storage"
+    "url": "https://developers.openai.com/api/docs/pricing",
+    "title": "OpenAI: GPT 5.6 Sol price reduction (until at least Nov 21)"
   },
   {
     "source": "hn",
-    "url": "https://acko.net/blog/curvature-beziers/",
-    "title": "Curvature Beziers – Improving on a timeless recipe"
+    "url": "https://catskull.net/adding-4-more-25gbe-interfaces-to-the-gmktec-nucbox-g9.html",
+    "title": "Adding 4 more 2.5GbE interfaces to the GMKtec NucBox G9"
+  },
+  {
+    "source": "hn",
+    "url": "https://alexschapiro.com/security/vulnerability/2026/07/16/beam-living-graphql-data-exposure",
+    "title": "A Blackstone real estate company exposed SSN digits, DOBs, addresses and more"
   },
   {
     "source": "hn",
@@ -56,8 +56,8 @@
   },
   {
     "source": "hn",
-    "url": "https://solar.lowtechmagazine.com/2018/08/could-we-dredge-the-netherlands-without-fossil-fuels",
-    "title": "Could We Dredge the Netherlands Without Fossil Fuels?"
+    "url": "https://acko.net/blog/curvature-beziers/",
+    "title": "Curvature Beziers – Improving on a timeless recipe"
   },
   {
     "source": "hn",
@@ -71,23 +71,13 @@
   },
   {
     "source": "hn",
-    "url": "https://johncarlosbaez.wordpress.com/2026/08/12/three-generations-in-e7/",
-    "title": "Three Generations in E7"
+    "url": "https://solar.lowtechmagazine.com/2018/08/could-we-dredge-the-netherlands-without-fossil-fuels",
+    "title": "Could We Dredge the Netherlands Without Fossil Fuels?"
   },
   {
     "source": "hn",
     "url": "https://blog.netbsd.org/tnf/entry/gsoc2026_raidframe",
     "title": "NetBSD GSoC 2026 Improving RAIDframe"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.hamiltonulmer.com/customer-dashboards-r2-hyparquet/",
-    "title": "Fast drilldown dashboards from a single Parquet file"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://schlarp.com/posts/everything-i-own-owned/",
-    "title": "Everything I own, owned"
   },
   {
     "source": "lobsters",
@@ -96,13 +86,28 @@
   },
   {
     "source": "lobsters",
-    "url": "https://xavd.id/blog/post/highlighting-users/",
-    "title": "Replicating Reddit's best feature on other forums"
+    "url": "https://schlarp.com/posts/everything-i-own-owned/",
+    "title": "Everything I own, owned"
   },
   {
     "source": "lobsters",
     "url": "https://adriansieber.com/announcing-perspec-1-0/",
     "title": "Perspec 1.0: A Haskell desktop app for perspective correction of document photos"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://nathancooper.io/blog/2026-08-10-ipython-is-all-you-need",
+    "title": "IPython is All You Need"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://xavd.id/blog/post/highlighting-users/",
+    "title": "Replicating Reddit's best feature on other forums"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://joeyh.name/blog/entry/offgrid_electric_car/",
+    "title": "offgrid electric car (2025)"
   },
   {
     "source": "lobsters",
@@ -116,18 +121,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://joeyh.name/blog/entry/offgrid_electric_car/",
-    "title": "offgrid electric car (2025)"
+    "url": "https://www.osnews.com/story/144892/the-text-mode-lie-why-modern-tuis-are-a-nightmare-for-accessibility/",
+    "title": "The text mode lie: why modern TUIs are a nightmare for accessibility"
   },
   {
     "source": "lobsters",
     "url": "https://jordanlord.co.uk/blog/3-constraints/",
     "title": "3 constraints before I build anything"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://www.osnews.com/story/144892/the-text-mode-lie-why-modern-tuis-are-a-nightmare-for-accessibility/",
-    "title": "The text mode lie: why modern TUIs are a nightmare for accessibility"
   },
   {
     "source": "lobsters",
@@ -141,18 +141,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://nathancooper.io/blog/2026-08-10-ipython-is-all-you-need",
-    "title": "IPython is All You Need"
-  },
-  {
-    "source": "lobsters",
     "url": "https://hister.org/",
     "title": "Hister - A private, full content search index that you control"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://haveibeensquatted.com/blog/building-certgrep",
-    "title": "Building certgrep.sh: a free certificate transparency search engine"
   },
   {
     "source": "lobsters",
@@ -161,13 +151,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://www.scd31.com/posts/defcon-choker",
-    "title": "My DIY DEF CON Choker Has a Screen On It"
+    "url": "https://haveibeensquatted.com/blog/building-certgrep",
+    "title": "Building certgrep.sh: a free certificate transparency search engine"
   },
   {
     "source": "lobsters",
-    "url": "https://buttondown.com/carlton/archive/its-ok-do-your-thing/",
-    "title": "It's OK. Do Your Thing"
+    "url": "https://www.scd31.com/posts/defcon-choker",
+    "title": "My DIY DEF CON Choker Has a Screen On It"
   },
   {
     "source": "lobsters",
