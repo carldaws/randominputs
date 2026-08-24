@@ -6,18 +6,23 @@
   },
   {
     "source": "hn",
+    "url": "https://medicine.washu.edu/news/fda-clears-blood-test-to-aid-evaluation-for-alzheimers-disease/",
+    "title": "FDA clears blood test to aid evaluation for Alzheimer's disease"
+  },
+  {
+    "source": "hn",
+    "url": "https://morgin.ai/articles/your-open-source-model-could-have-a-hidden-time-release-backdoor.html",
+    "title": "Your Open Source Model Could Have a Hidden Time-Release Backdoor"
+  },
+  {
+    "source": "hn",
+    "url": "https://status.claude.com/uptime",
+    "title": "Anthropic Claude and API service outages"
+  },
+  {
+    "source": "hn",
     "url": "https://lalitm.com/post/find-problems-staff-engineer/",
     "title": "How I find problems to solve as a staff engineer"
-  },
-  {
-    "source": "hn",
-    "url": "https://fabiensanglard.net/agent.md/index.html",
-    "title": "My agent.md to improve LLM-assisted code quality"
-  },
-  {
-    "source": "hn",
-    "url": "https://blog.elis.cc/articles/google-workspace-thinks-my-domain-is-an-email-provider/",
-    "title": "Google Workspace thinks my domain is an email provider (2025)"
   },
   {
     "source": "hn",
@@ -26,18 +31,38 @@
   },
   {
     "source": "hn",
+    "url": "https://blog.elis.cc/articles/google-workspace-thinks-my-domain-is-an-email-provider/",
+    "title": "Google Workspace thinks my domain is an email provider (2025)"
+  },
+  {
+    "source": "hn",
+    "url": "https://fabiensanglard.net/agent.md/index.html",
+    "title": "My agent.md to improve LLM-assisted code quality"
+  },
+  {
+    "source": "hn",
     "url": "https://earendil.com/posts/what-is-a-harness/",
     "title": "What Is a Harness?"
   },
   {
     "source": "hn",
-    "url": "https://status.claude.com/incidents/vgz5psbjmt1h",
-    "title": "Elevated Errors for Multiple Models"
+    "url": "https://www.jepeake.com/ai-chip-architectures",
+    "title": "AI Chip Architectures"
   },
   {
     "source": "hn",
-    "url": "https://www.cntraveler.com/story/this-rural-village-in-spain-is-welcoming-digital-nomads-with-open-arms",
-    "title": "Rural Village in Spain Is Welcoming Digital Nomads with Open Arms"
+    "url": "https://www.modelrepublic.org/articles/a16z-portfolio",
+    "title": "Andreessen Horowitz is investing billions into a bleak future"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.dbreunig.com/2026/08/23/fable-the-end-of-moore-s-law.html",
+    "title": "Fable and the end of the free lunch"
+  },
+  {
+    "source": "hn",
+    "url": "https://status.claude.com/incidents/vgz5psbjmt1h",
+    "title": "Elevated Errors for Multiple Models"
   },
   {
     "source": "hn",
@@ -51,23 +76,13 @@
   },
   {
     "source": "hn",
-    "url": "https://www.rnz.co.nz/life/people/celebrity/former-oc-actor-ben-mckenzie-on-crusade-to-take-down-stupid-cryptocurrency",
-    "title": "Former OC actor Ben McKenzie on crusade to take down 'stupid' cryptocurrency"
+    "url": "https://www.cntraveler.com/story/this-rural-village-in-spain-is-welcoming-digital-nomads-with-open-arms",
+    "title": "Rural Village in Spain Is Welcoming Digital Nomads with Open Arms"
   },
   {
     "source": "hn",
-    "url": "https://hugodaniel.com/posts/declarative-webgpu-with-s-expressions/",
-    "title": "Declarative WebGPU with S-Expressions"
-  },
-  {
-    "source": "hn",
-    "url": "https://omegion.dev/2026/08/ai-and-infrastructure-engineering/",
-    "title": "AI and Infrastructure Engineering"
-  },
-  {
-    "source": "hn",
-    "url": "https://sporks.space/2026/08/19/things-i-want-in-a-modern-relational-query-language/",
-    "title": "Things I want in a modern relational query language"
+    "url": "https://fzakaria.com/2026/08/23/your-executable-is-a-sqlite-database",
+    "title": "Executable Is a SQLite Database"
   },
   {
     "source": "lobsters",
@@ -96,18 +111,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://buttondown.com/carlton/archive/its-ok-do-your-thing/",
-    "title": "It's OK. Do Your Thing"
-  },
-  {
-    "source": "lobsters",
     "url": "https://www.osnews.com/story/144892/the-text-mode-lie-why-modern-tuis-are-a-nightmare-for-accessibility/",
     "title": "The text mode lie: why modern TUIs are a nightmare for accessibility"
   },
   {
     "source": "lobsters",
-    "url": "https://www.scd31.com/posts/defcon-choker",
-    "title": "My DIY DEF CON Choker Has a Screen On It"
+    "url": "https://buttondown.com/carlton/archive/its-ok-do-your-thing/",
+    "title": "It's OK. Do Your Thing"
   },
   {
     "source": "lobsters",
@@ -116,13 +126,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://tmpout.sh/5/",
-    "title": "tmp.0ut volume 5"
+    "url": "https://www.scd31.com/posts/defcon-choker",
+    "title": "My DIY DEF CON Choker Has a Screen On It"
   },
   {
     "source": "lobsters",
-    "url": "https://surfingcomplexity.blog/2026/08/22/wild-ai-related-reliability-incidents-are-coming/",
-    "title": "Wild AI-related reliability incidents are coming"
+    "url": "https://tmpout.sh/5/",
+    "title": "tmp.0ut volume 5"
   },
   {
     "source": "lobsters",
@@ -131,8 +141,18 @@
   },
   {
     "source": "lobsters",
+    "url": "https://surfingcomplexity.blog/2026/08/22/wild-ai-related-reliability-incidents-are-coming/",
+    "title": "Wild AI-related reliability incidents are coming"
+  },
+  {
+    "source": "lobsters",
     "url": "https://gcc.gnu.org/onlinedocs/jit/intro/tutorial04.html",
     "title": "Adding JIT-compilation to a toy interpreter with libgccjit"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://hugodaniel.com/posts/declarative-webgpu-with-s-expressions/",
+    "title": "Declarative WebGPU with S-expressions"
   },
   {
     "source": "lobsters",
@@ -153,15 +173,5 @@
     "source": "lobsters",
     "url": "https://blog.wybxc.cc/blog/rust-gui-survey-2026/",
     "title": "A 2026 Survey of Rust GUI Libraries"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://tympanus.net/codrops/2019/02/19/svg-filter-effects-creating-texture-with-feturbulence/",
-    "title": "SVG Filter Effects: Creating Texture with <feTurbulence> (2019)"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://typesanitizer.com/blog/performance-issues.html",
-    "title": "There continue to be reasons for software to be slow"
   }
 ]
