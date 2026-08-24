@@ -11,13 +11,13 @@
   },
   {
     "source": "hn",
-    "url": "https://status.claude.com/uptime",
-    "title": "Anthropic Claude and API service outages"
+    "url": "https://lalitm.com/post/find-problems-staff-engineer/",
+    "title": "How I find problems to solve as a staff engineer"
   },
   {
     "source": "hn",
-    "url": "https://lalitm.com/post/find-problems-staff-engineer/",
-    "title": "How I find problems to solve as a staff engineer"
+    "url": "https://www.modelrepublic.org/articles/a16z-portfolio",
+    "title": "Andreessen Horowitz is investing billions into a bleak future"
   },
   {
     "source": "hn",
@@ -28,11 +28,6 @@
     "source": "hn",
     "url": "https://fzakaria.com/2026/08/23/your-executable-is-a-sqlite-database",
     "title": "Executable Is a SQLite Database"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.modelrepublic.org/articles/a16z-portfolio",
-    "title": "Andreessen Horowitz is investing billions into a bleak future"
   },
   {
     "source": "hn",
@@ -61,6 +56,11 @@
   },
   {
     "source": "hn",
+    "url": "https://cmart.blog/claude-writing/",
+    "title": "Why is Anthropic's public writing style so unlike Claude's?"
+  },
+  {
+    "source": "hn",
     "url": "https://punyamishra.com/2026/04/16/why-sal-khant-on-learning-by-making-but-teaching-by-telling/",
     "title": "Why Sal Khan't: On Learning by Making but Teaching by Telling"
   },
@@ -71,13 +71,13 @@
   },
   {
     "source": "hn",
-    "url": "https://morgin.ai/articles/your-open-source-model-could-have-a-hidden-time-release-backdoor.html",
-    "title": "Your Open Source Model Could Have a Hidden Time-Release Backdoor"
+    "url": "https://debloat.dev/",
+    "title": "A website for debloated open source alternatives"
   },
   {
     "source": "hn",
-    "url": "https://debloat.dev/",
-    "title": "A website for debloated open source alternatives"
+    "url": "https://status.claude.com/uptime",
+    "title": "Anthropic Claude and API service outages"
   },
   {
     "source": "lobsters",
@@ -131,13 +131,18 @@
   },
   {
     "source": "lobsters",
+    "url": "https://surfingcomplexity.blog/2026/08/22/wild-ai-related-reliability-incidents-are-coming/",
+    "title": "Wild AI-related reliability incidents are coming"
+  },
+  {
+    "source": "lobsters",
     "url": "https://blog.tymscar.com/posts/howtoreportabug/",
     "title": "How To Report A Bug So It Actually Gets Fixed"
   },
   {
     "source": "lobsters",
-    "url": "https://surfingcomplexity.blog/2026/08/22/wild-ai-related-reliability-incidents-are-coming/",
-    "title": "Wild AI-related reliability incidents are coming"
+    "url": "https://haveibeensquatted.com/blog/building-certgrep",
+    "title": "Building certgrep.sh: a free certificate transparency search engine"
   },
   {
     "source": "lobsters",
@@ -163,10 +168,5 @@
     "source": "lobsters",
     "url": "https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html",
     "title": "NetBSD and my life (2005)"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://blog.wybxc.cc/blog/rust-gui-survey-2026/",
-    "title": "A 2026 Survey of Rust GUI Libraries"
   }
 ]
