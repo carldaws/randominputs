@@ -11,11 +11,6 @@
   },
   {
     "source": "hn",
-    "url": "https://www.jepeake.com/ai-chip-architectures",
-    "title": "AI Chip Architectures"
-  },
-  {
-    "source": "hn",
     "url": "https://blog.elis.cc/articles/google-workspace-thinks-my-domain-is-an-email-provider/",
     "title": "Google Workspace thinks my domain is an email provider (2025)"
   },
@@ -41,13 +36,13 @@
   },
   {
     "source": "hn",
-    "url": "https://hugodaniel.com/posts/declarative-webgpu-with-s-expressions/",
-    "title": "Declarative WebGPU with S-Expressions"
+    "url": "https://www.cntraveler.com/story/this-rural-village-in-spain-is-welcoming-digital-nomads-with-open-arms",
+    "title": "Rural Village in Spain Is Welcoming Digital Nomads with Open Arms"
   },
   {
     "source": "hn",
-    "url": "https://www.cntraveler.com/story/this-rural-village-in-spain-is-welcoming-digital-nomads-with-open-arms",
-    "title": "Rural Village in Spain Is Welcoming Digital Nomads with Open Arms"
+    "url": "https://www.jepeake.com/ai-chip-architectures",
+    "title": "AI Chip Architectures"
   },
   {
     "source": "hn",
@@ -56,8 +51,8 @@
   },
   {
     "source": "hn",
-    "url": "https://psmag.com/environment/the-planet-now-has-more-trees-than-it-did-35-years-ago/",
-    "title": "The planet now has more trees than it did 35 years ago (2018)"
+    "url": "https://hugodaniel.com/posts/declarative-webgpu-with-s-expressions/",
+    "title": "Declarative WebGPU with S-Expressions"
   },
   {
     "source": "hn",
@@ -66,18 +61,18 @@
   },
   {
     "source": "hn",
-    "url": "https://www.dbreunig.com/2026/08/23/fable-the-end-of-moore-s-law.html",
-    "title": "Fable and the end of the free lunch"
-  },
-  {
-    "source": "hn",
     "url": "https://sporks.space/2026/08/19/things-i-want-in-a-modern-relational-query-language/",
     "title": "Things I want in a modern relational query language"
   },
   {
     "source": "hn",
-    "url": "https://alpo.ge/s6.pdf",
-    "title": "A complex structure on S^6 [pdf]"
+    "url": "https://www.dbreunig.com/2026/08/23/fable-the-end-of-moore-s-law.html",
+    "title": "Fable and the end of the free lunch"
+  },
+  {
+    "source": "hn",
+    "url": "https://psmag.com/environment/the-planet-now-has-more-trees-than-it-did-35-years-ago/",
+    "title": "The planet now has more trees than it did 35 years ago (2018)"
   },
   {
     "source": "hn",
@@ -116,13 +111,18 @@
   },
   {
     "source": "lobsters",
-    "url": "https://blog.tymscar.com/posts/howtoreportabug/",
-    "title": "How To Report A Bug So It Actually Gets Fixed"
+    "url": "https://www.osnews.com/story/144892/the-text-mode-lie-why-modern-tuis-are-a-nightmare-for-accessibility/",
+    "title": "The text mode lie: why modern TUIs are a nightmare for accessibility"
   },
   {
     "source": "lobsters",
-    "url": "https://www.osnews.com/story/144892/the-text-mode-lie-why-modern-tuis-are-a-nightmare-for-accessibility/",
-    "title": "The text mode lie: why modern TUIs are a nightmare for accessibility"
+    "url": "https://surfingcomplexity.blog/2026/08/22/wild-ai-related-reliability-incidents-are-coming/",
+    "title": "Wild AI-related reliability incidents are coming"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://www.scd31.com/posts/defcon-choker",
+    "title": "My DIY DEF CON Choker Has a Screen On It"
   },
   {
     "source": "lobsters",
@@ -131,8 +131,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://surfingcomplexity.blog/2026/08/22/wild-ai-related-reliability-incidents-are-coming/",
-    "title": "Wild AI-related reliability incidents are coming"
+    "url": "https://blog.tymscar.com/posts/howtoreportabug/",
+    "title": "How To Report A Bug So It Actually Gets Fixed"
   },
   {
     "source": "lobsters",
@@ -146,18 +146,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://www.scd31.com/posts/defcon-choker",
-    "title": "My DIY DEF CON Choker Has a Screen On It"
-  },
-  {
-    "source": "lobsters",
     "url": "https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html",
     "title": "NetBSD and my life (2005)"
   },
   {
     "source": "lobsters",
-    "url": "https://typesanitizer.com/blog/performance-issues.html",
-    "title": "There continue to be reasons for software to be slow"
+    "url": "https://tympanus.net/codrops/2019/02/19/svg-filter-effects-creating-texture-with-feturbulence/",
+    "title": "SVG Filter Effects: Creating Texture with <feTurbulence> (2019)"
   },
   {
     "source": "lobsters",
@@ -166,17 +161,17 @@
   },
   {
     "source": "lobsters",
+    "url": "https://typesanitizer.com/blog/performance-issues.html",
+    "title": "There continue to be reasons for software to be slow"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://joeyh.name/blog/entry/offgrid_electric_car/",
+    "title": "offgrid electric car (2025)"
+  },
+  {
+    "source": "lobsters",
     "url": "https://www.redox-os.org/news/rsoc-eevdf/",
     "title": "RSoC 2026: EEVDF for Redox"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://wizardsardine.com/blog/coldcard-rng-vulnerability/",
-    "title": "Critical Coldcard flaw: what happened, who is affected, and what to do"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://geometridae.bearblog.dev/a-friendly-introduction-to-racket/",
-    "title": "A Friendly Introduction to Racket"
   }
 ]
