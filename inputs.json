@@ -21,13 +21,13 @@
   },
   {
     "source": "hn",
-    "url": "https://pantel.is/projects/ai-gaming-companion/",
-    "title": "I built a low-latency AI companion that plays Skyrim with me"
+    "url": "https://earendil.com/posts/what-is-a-harness/",
+    "title": "What Is a Harness?"
   },
   {
     "source": "hn",
-    "url": "https://earendil.com/posts/what-is-a-harness/",
-    "title": "What Is a Harness?"
+    "url": "https://pantel.is/projects/ai-gaming-companion/",
+    "title": "I built a low-latency AI companion that plays Skyrim with me"
   },
   {
     "source": "hn",
@@ -61,28 +61,23 @@
   },
   {
     "source": "hn",
-    "url": "https://insufferable.dev/posts/vibe-tax/",
-    "title": "The Vibe Tax"
-  },
-  {
-    "source": "hn",
     "url": "https://sporks.space/2026/08/19/things-i-want-in-a-modern-relational-query-language/",
     "title": "Things I want in a modern relational query language"
   },
   {
     "source": "hn",
-    "url": "https://studyfinds.com/coconut-oil-jet-fuel-matches-kerosenes-efficiency-in-engine-tests/",
-    "title": "Coconut oil jet fuel matches kerosene's efficiency in engine tests"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://monadicsheep.org/blog/an-introduction-to-canvas-in-emacs.html",
-    "title": "An Introduction to Canvas in GNU Emacs"
+    "url": "https://insufferable.dev/posts/vibe-tax/",
+    "title": "The Vibe Tax"
   },
   {
     "source": "lobsters",
     "url": "https://ericpardee.github.io/fire-hd-ownership/",
     "title": "Amazon kept shutting down my tablet, so I spent $266 on four AI models to own it"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://monadicsheep.org/blog/an-introduction-to-canvas-in-emacs.html",
+    "title": "An Introduction to Canvas in GNU Emacs"
   },
   {
     "source": "lobsters",
@@ -111,6 +106,11 @@
   },
   {
     "source": "lobsters",
+    "url": "https://www.osnews.com/story/144892/the-text-mode-lie-why-modern-tuis-are-a-nightmare-for-accessibility/",
+    "title": "The text mode lie: why modern TUIs are a nightmare for accessibility"
+  },
+  {
+    "source": "lobsters",
     "url": "https://tmpout.sh/5/",
     "title": "tmp.0ut volume 5"
   },
@@ -121,8 +121,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://www.osnews.com/story/144892/the-text-mode-lie-why-modern-tuis-are-a-nightmare-for-accessibility/",
-    "title": "The text mode lie: why modern TUIs are a nightmare for accessibility"
+    "url": "https://joeyh.name/blog/entry/offgrid_electric_car/",
+    "title": "offgrid electric car (2025)"
   },
   {
     "source": "lobsters",
@@ -131,8 +131,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://joeyh.name/blog/entry/offgrid_electric_car/",
-    "title": "offgrid electric car (2025)"
+    "url": "https://gcc.gnu.org/onlinedocs/jit/intro/tutorial04.html",
+    "title": "Adding JIT-compilation to a toy interpreter with libgccjit"
   },
   {
     "source": "lobsters",
@@ -146,18 +146,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://gcc.gnu.org/onlinedocs/jit/intro/tutorial04.html",
-    "title": "Adding JIT-compilation to a toy interpreter with libgccjit"
-  },
-  {
-    "source": "lobsters",
     "url": "https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html",
     "title": "NetBSD and my life (2005)"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://tympanus.net/codrops/2019/02/19/svg-filter-effects-creating-texture-with-feturbulence/",
-    "title": "SVG Filter Effects: Creating Texture with <feTurbulence> (2019)"
   },
   {
     "source": "lobsters",
@@ -166,12 +156,12 @@
   },
   {
     "source": "lobsters",
-    "url": "https://typesanitizer.com/blog/performance-issues.html",
-    "title": "There continue to be reasons for software to be slow"
+    "url": "https://tympanus.net/codrops/2019/02/19/svg-filter-effects-creating-texture-with-feturbulence/",
+    "title": "SVG Filter Effects: Creating Texture with <feTurbulence> (2019)"
   },
   {
     "source": "lobsters",
-    "url": "https://www.redox-os.org/news/rsoc-eevdf/",
-    "title": "RSoC 2026: EEVDF for Redox"
+    "url": "https://typesanitizer.com/blog/performance-issues.html",
+    "title": "There continue to be reasons for software to be slow"
   }
 ]
