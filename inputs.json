@@ -11,23 +11,18 @@
   },
   {
     "source": "hn",
-    "url": "https://omarchy.org/news/2026/08/omacom-foundation-funding-hits-10m/",
-    "title": "Omacom Foundation funding hits $10M"
-  },
-  {
-    "source": "hn",
     "url": "https://medicine.washu.edu/news/fda-clears-blood-test-to-aid-evaluation-for-alzheimers-disease/",
     "title": "FDA clears blood test to aid evaluation for Alzheimer's disease"
   },
   {
     "source": "hn",
-    "url": "https://essays.georgestrakhov.com/weird/",
-    "title": "The Future Belongs to the Weird"
+    "url": "https://fzakaria.com/2026/08/23/your-executable-is-a-sqlite-database",
+    "title": "Executable Is a SQLite Database"
   },
   {
     "source": "hn",
-    "url": "https://fzakaria.com/2026/08/23/your-executable-is-a-sqlite-database",
-    "title": "Executable Is a SQLite Database"
+    "url": "https://essays.georgestrakhov.com/weird/",
+    "title": "The Future Belongs to the Weird"
   },
   {
     "source": "hn",
@@ -46,13 +41,13 @@
   },
   {
     "source": "hn",
-    "url": "https://code.joejag.com/2026/your-agent-is-not-the-model.html",
-    "title": "Agent Is Not the Model"
+    "url": "https://pantel.is/projects/ai-gaming-companion/",
+    "title": "I built a low-latency AI companion that plays Skyrim with me"
   },
   {
     "source": "hn",
-    "url": "https://pantel.is/projects/ai-gaming-companion/",
-    "title": "I built a low-latency AI companion that plays Skyrim with me"
+    "url": "https://code.joejag.com/2026/your-agent-is-not-the-model.html",
+    "title": "Agent Is Not the Model"
   },
   {
     "source": "hn",
@@ -71,13 +66,13 @@
   },
   {
     "source": "hn",
-    "url": "https://cmart.blog/claude-writing/",
-    "title": "Why is Anthropic's public writing style so unlike Claude's?"
+    "url": "https://www.jepeake.com/ai-chip-architectures",
+    "title": "AI Chip Architectures"
   },
   {
     "source": "hn",
-    "url": "https://www.jepeake.com/ai-chip-architectures",
-    "title": "AI Chip Architectures"
+    "url": "https://vanillaos.org/blog/article/2026-08-24/vanilla-os-3-reunion---stable-release",
+    "title": "Show HN: Vanilla OS 3 Reunion – Immutable and Reproducible Operating System"
   },
   {
     "source": "hn",
@@ -101,8 +96,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://hister.org/",
-    "title": "Hister - A private, full content search index that you control"
+    "url": "https://joeyh.name/blog/entry/offgrid_electric_car/",
+    "title": "offgrid electric car (2025)"
   },
   {
     "source": "lobsters",
@@ -111,18 +106,13 @@
   },
   {
     "source": "lobsters",
+    "url": "https://hister.org/",
+    "title": "Hister - A private, full content search index that you control"
+  },
+  {
+    "source": "lobsters",
     "url": "https://backtracking.github.io/en/2020/02/20/cs-books.html",
     "title": "My favorite Computer Science books, and why"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://joeyh.name/blog/entry/offgrid_electric_car/",
-    "title": "offgrid electric car (2025)"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://haveibeensquatted.com/blog/building-certgrep",
-    "title": "Building certgrep.sh: a free certificate transparency search engine"
   },
   {
     "source": "lobsters",
@@ -131,13 +121,18 @@
   },
   {
     "source": "lobsters",
-    "url": "https://buttondown.com/carlton/archive/its-ok-do-your-thing/",
-    "title": "It's OK. Do Your Thing"
+    "url": "https://haveibeensquatted.com/blog/building-certgrep",
+    "title": "Building certgrep.sh: a free certificate transparency search engine"
   },
   {
     "source": "lobsters",
     "url": "https://www.scd31.com/posts/defcon-choker",
     "title": "My DIY DEF CON Choker Has a Screen On It"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://buttondown.com/carlton/archive/its-ok-do-your-thing/",
+    "title": "It's OK. Do Your Thing"
   },
   {
     "source": "lobsters",
@@ -151,23 +146,23 @@
   },
   {
     "source": "lobsters",
-    "url": "https://ferd.ca/control-and-complexity-tension-in-systems-design.html",
-    "title": "Control and complexity: tension in systems design"
-  },
-  {
-    "source": "lobsters",
     "url": "https://gcc.gnu.org/onlinedocs/jit/intro/tutorial04.html",
     "title": "Adding JIT-compilation to a toy interpreter with libgccjit"
   },
   {
     "source": "lobsters",
-    "url": "https://text.marvinborner.de/2024-11-18-00.html",
-    "title": "Tiny, Untyped Monads (2024)"
+    "url": "https://ferd.ca/control-and-complexity-tension-in-systems-design.html",
+    "title": "Control and complexity: tension in systems design"
   },
   {
     "source": "lobsters",
     "url": "https://hugodaniel.com/posts/declarative-webgpu-with-s-expressions/",
     "title": "Declarative WebGPU with S-expressions"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://text.marvinborner.de/2024-11-18-00.html",
+    "title": "Tiny, Untyped Monads (2024)"
   },
   {
     "source": "lobsters",
