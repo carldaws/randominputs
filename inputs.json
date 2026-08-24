@@ -6,13 +6,23 @@
   },
   {
     "source": "hn",
+    "url": "https://ipshipyard.com/blog/2026-the-end-of-ipfs-at-shipyard/",
+    "title": "IPFS Maintainers Winding Down"
+  },
+  {
+    "source": "hn",
+    "url": "https://alexschapiro.com/security/vulnerability/2026/07/16/beam-living-graphql-data-exposure",
+    "title": "A Blackstone real estate company exposed SSN digits, DOBs, addresses and more"
+  },
+  {
+    "source": "hn",
     "url": "https://developers.openai.com/api/docs/pricing",
     "title": "OpenAI: GPT 5.6 Sol price reduction (until at least Nov 21)"
   },
   {
     "source": "hn",
-    "url": "https://ipshipyard.com/blog/2026-the-end-of-ipfs-at-shipyard/",
-    "title": "IPFS Maintainers Winding Down"
+    "url": "https://gultsch.de/posts/25-years-of-digital-independence/",
+    "title": "Jabber/XMPP: 25 Years of Digital Independence"
   },
   {
     "source": "hn",
@@ -26,13 +36,28 @@
   },
   {
     "source": "hn",
-    "url": "https://schlarp.com/posts/everything-i-own-owned/",
-    "title": "Everything I own, owned"
+    "url": "https://sf.thijs.gg/",
+    "title": "The entire city of San Francisco as a video game"
+  },
+  {
+    "source": "hn",
+    "url": "https://picomq.com/",
+    "title": "Show HN: PicoMQ – Durable Streams over HTTP, on object storage"
+  },
+  {
+    "source": "hn",
+    "url": "https://acko.net/blog/curvature-beziers/",
+    "title": "Curvature Beziers – Improving on a timeless recipe"
   },
   {
     "source": "hn",
     "url": "https://fzakaria.com/2026/08/23/your-executable-is-a-sqlite-database",
     "title": "Executable Is a SQLite Database"
+  },
+  {
+    "source": "hn",
+    "url": "https://solar.lowtechmagazine.com/2018/08/could-we-dredge-the-netherlands-without-fossil-fuels",
+    "title": "Could We Dredge the Netherlands Without Fossil Fuels?"
   },
   {
     "source": "hn",
@@ -51,48 +76,33 @@
   },
   {
     "source": "hn",
-    "url": "https://www.hamiltonulmer.com/customer-dashboards-r2-hyparquet/",
-    "title": "Fast drilldown dashboards from a single Parquet file"
-  },
-  {
-    "source": "hn",
-    "url": "https://lalitm.com/post/find-problems-staff-engineer/",
-    "title": "How I find problems to solve as a staff engineer"
-  },
-  {
-    "source": "hn",
     "url": "https://blog.netbsd.org/tnf/entry/gsoc2026_raidframe",
     "title": "NetBSD GSoC 2026 Improving RAIDframe"
   },
   {
     "source": "hn",
-    "url": "https://solar.lowtechmagazine.com/2018/08/could-we-dredge-the-netherlands-without-fossil-fuels",
-    "title": "Could We Dredge the Netherlands Without Fossil Fuels?"
+    "url": "https://www.hamiltonulmer.com/customer-dashboards-r2-hyparquet/",
+    "title": "Fast drilldown dashboards from a single Parquet file"
   },
   {
-    "source": "hn",
-    "url": "https://inferquest.org",
-    "title": "Show HN: Free Inference Engineer and Model Training Roadmap"
+    "source": "lobsters",
+    "url": "https://schlarp.com/posts/everything-i-own-owned/",
+    "title": "Everything I own, owned"
   },
   {
-    "source": "hn",
-    "url": "https://www.modelrepublic.org/articles/a16z-portfolio",
-    "title": "Andreessen Horowitz is investing billions into a bleak future"
-  },
-  {
-    "source": "hn",
-    "url": "https://pantel.is/projects/ai-gaming-companion/",
-    "title": "I built a low-latency AI companion that plays Skyrim with me"
-  },
-  {
-    "source": "hn",
-    "url": "https://code.joejag.com/2026/your-agent-is-not-the-model.html",
-    "title": "Agent Is Not the Model"
+    "source": "lobsters",
+    "url": "https://diggingforfire.blog/posts/can-a-blog-post-be-handwritten/",
+    "title": "Can a blog post be handwritten?"
   },
   {
     "source": "lobsters",
     "url": "https://xavd.id/blog/post/highlighting-users/",
     "title": "Replicating Reddit's best feature on other forums"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://adriansieber.com/announcing-perspec-1-0/",
+    "title": "Perspec 1.0: A Haskell desktop app for perspective correction of document photos"
   },
   {
     "source": "lobsters",
@@ -121,13 +131,18 @@
   },
   {
     "source": "lobsters",
+    "url": "https://arch.dog/bark/dynamically-naming-servers",
+    "title": "Dynamically Naming Servers"
+  },
+  {
+    "source": "lobsters",
     "url": "https://ferd.ca/control-and-complexity-tension-in-systems-design.html",
     "title": "Control and complexity: tension in systems design"
   },
   {
     "source": "lobsters",
-    "url": "https://adriansieber.com/announcing-perspec-1-0/",
-    "title": "Perspec 1.0: A Haskell desktop app for perspective correction of document photos"
+    "url": "https://nathancooper.io/blog/2026-08-10-ipython-is-all-you-need",
+    "title": "IPython is All You Need"
   },
   {
     "source": "lobsters",
@@ -141,18 +156,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://arch.dog/bark/dynamically-naming-servers",
-    "title": "Dynamically Naming Servers"
-  },
-  {
-    "source": "lobsters",
     "url": "https://backtracking.github.io/en/2020/02/20/cs-books.html",
     "title": "My favorite Computer Science books, and why"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://nathancooper.io/blog/2026-08-10-ipython-is-all-you-need",
-    "title": "IPython is All You Need"
   },
   {
     "source": "lobsters",
@@ -168,15 +173,5 @@
     "source": "lobsters",
     "url": "https://tmpout.sh/5/",
     "title": "tmp.0ut volume 5"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://surfingcomplexity.blog/2026/08/22/wild-ai-related-reliability-incidents-are-coming/",
-    "title": "Wild AI-related reliability incidents are coming"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://ahelwer.ca/post/2026-08-24-finite-state-future/",
-    "title": "The changing role of finite-state model checking"
   }
 ]
