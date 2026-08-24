@@ -1,13 +1,18 @@
 [
   {
     "source": "hn",
+    "url": "https://schlarp.com/posts/everything-i-own-owned/",
+    "title": "Everything I own, owned"
+  },
+  {
+    "source": "hn",
     "url": "https://lalitm.com/post/find-problems-staff-engineer/",
     "title": "How I find problems to solve as a staff engineer"
   },
   {
     "source": "hn",
-    "url": "https://schlarp.com/posts/everything-i-own-owned/",
-    "title": "Everything I own, owned"
+    "url": "https://www.jepeake.com/ai-chip-architectures",
+    "title": "AI Chip Architectures"
   },
   {
     "source": "hn",
@@ -36,8 +41,23 @@
   },
   {
     "source": "hn",
-    "url": "https://alpo.ge/s6.pdf",
-    "title": "A complex structure on S^6 [pdf]"
+    "url": "https://hugodaniel.com/posts/declarative-webgpu-with-s-expressions/",
+    "title": "Declarative WebGPU with S-Expressions"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.cntraveler.com/story/this-rural-village-in-spain-is-welcoming-digital-nomads-with-open-arms",
+    "title": "Rural Village in Spain Is Welcoming Digital Nomads with Open Arms"
+  },
+  {
+    "source": "hn",
+    "url": "https://omegion.dev/2026/08/ai-and-infrastructure-engineering/",
+    "title": "AI and Infrastructure Engineering"
+  },
+  {
+    "source": "hn",
+    "url": "https://psmag.com/environment/the-planet-now-has-more-trees-than-it-did-35-years-ago/",
+    "title": "The planet now has more trees than it did 35 years ago (2018)"
   },
   {
     "source": "hn",
@@ -56,33 +76,13 @@
   },
   {
     "source": "hn",
-    "url": "https://psmag.com/environment/the-planet-now-has-more-trees-than-it-did-35-years-ago/",
-    "title": "The planet now has more trees than it did 35 years ago (2018)"
-  },
-  {
-    "source": "hn",
-    "url": "https://omegion.dev/2026/08/ai-and-infrastructure-engineering/",
-    "title": "AI and Infrastructure Engineering"
+    "url": "https://alpo.ge/s6.pdf",
+    "title": "A complex structure on S^6 [pdf]"
   },
   {
     "source": "hn",
     "url": "https://studyfinds.com/coconut-oil-jet-fuel-matches-kerosenes-efficiency-in-engine-tests/",
     "title": "Coconut oil jet fuel matches kerosene's efficiency in engine tests"
-  },
-  {
-    "source": "hn",
-    "url": "https://surya.website/rling-qwen-to-paint-with-code",
-    "title": "Training AI to Paint with Code"
-  },
-  {
-    "source": "hn",
-    "url": "https://hugodaniel.com/posts/declarative-webgpu-with-s-expressions/",
-    "title": "Declarative WebGPU with S-Expressions"
-  },
-  {
-    "source": "hn",
-    "url": "https://nappertime.com/the-golden-rule-of-becoming-a-better-writer/",
-    "title": "To become a better writer, read as much as you can"
   },
   {
     "source": "lobsters",
@@ -121,6 +121,16 @@
   },
   {
     "source": "lobsters",
+    "url": "https://www.osnews.com/story/144892/the-text-mode-lie-why-modern-tuis-are-a-nightmare-for-accessibility/",
+    "title": "The text mode lie: why modern TUIs are a nightmare for accessibility"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://tmpout.sh/5/",
+    "title": "tmp.0ut volume 5"
+  },
+  {
+    "source": "lobsters",
     "url": "https://surfingcomplexity.blog/2026/08/22/wild-ai-related-reliability-incidents-are-coming/",
     "title": "Wild AI-related reliability incidents are coming"
   },
@@ -131,13 +141,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://tmpout.sh/5/",
-    "title": "tmp.0ut volume 5"
+    "url": "https://thejpster.org.uk/blog/blog-2026-08-22/",
+    "title": "Why aren't my two Cortex-A9 cores cache coherent?"
   },
   {
     "source": "lobsters",
-    "url": "https://thejpster.org.uk/blog/blog-2026-08-22/",
-    "title": "Why aren't my two Cortex-A9 cores cache coherent?"
+    "url": "https://www.scd31.com/posts/defcon-choker",
+    "title": "My DIY DEF CON Choker Has a Screen On It"
   },
   {
     "source": "lobsters",
@@ -156,27 +166,17 @@
   },
   {
     "source": "lobsters",
-    "url": "https://www.scd31.com/posts/defcon-choker",
-    "title": "My DIY DEF CON Choker Has a Screen On It"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://www.osnews.com/story/144892/the-text-mode-lie-why-modern-tuis-are-a-nightmare-for-accessibility/",
-    "title": "The text mode lie: why modern TUIs are a nightmare for accessibility"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://geometridae.bearblog.dev/a-friendly-introduction-to-racket/",
-    "title": "A Friendly Introduction to Racket"
-  },
-  {
-    "source": "lobsters",
     "url": "https://www.redox-os.org/news/rsoc-eevdf/",
     "title": "RSoC 2026: EEVDF for Redox"
   },
   {
     "source": "lobsters",
-    "url": "https://blog.guillheu.dev/articles/first-time-speaker/",
-    "title": "My experience as a first time speaker"
+    "url": "https://wizardsardine.com/blog/coldcard-rng-vulnerability/",
+    "title": "Critical Coldcard flaw: what happened, who is affected, and what to do"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://geometridae.bearblog.dev/a-friendly-introduction-to-racket/",
+    "title": "A Friendly Introduction to Racket"
   }
 ]
