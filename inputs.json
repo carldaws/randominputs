@@ -16,6 +16,11 @@
   },
   {
     "source": "hn",
+    "url": "https://lucumr.pocoo.org/2026/8/24/anger-anxiety-agency/",
+    "title": "Anger, Anxiety and Agency"
+  },
+  {
+    "source": "hn",
     "url": "https://gultsch.de/posts/25-years-of-digital-independence/",
     "title": "Jabber/XMPP: 25 Years of Digital Independence"
   },
@@ -23,6 +28,21 @@
     "source": "hn",
     "url": "https://picomq.com/",
     "title": "Show HN: PicoMQ – Durable Streams over HTTP, on object storage"
+  },
+  {
+    "source": "hn",
+    "url": "https://blog.greencloudvps.com/what-is-a-syslog-server.php",
+    "title": "What Is a Syslog Server?"
+  },
+  {
+    "source": "hn",
+    "url": "https://boydkane.com/essays/llms-could-control-their-host-machines-by-exploiting-inference-engines",
+    "title": "LLMs could control their host machines by exploiting inference engines"
+  },
+  {
+    "source": "hn",
+    "url": "https://developers.openai.com/api/docs/pricing",
+    "title": "OpenAI: GPT 5.6 Sol price reduction (until at least Nov 21)"
   },
   {
     "source": "hn",
@@ -36,13 +56,8 @@
   },
   {
     "source": "hn",
-    "url": "https://developers.openai.com/api/docs/pricing",
-    "title": "OpenAI: GPT 5.6 Sol price reduction (until at least Nov 21)"
-  },
-  {
-    "source": "hn",
-    "url": "https://catskull.net/adding-4-more-25gbe-interfaces-to-the-gmktec-nucbox-g9.html",
-    "title": "Adding 4 more 2.5GbE interfaces to the GMKtec NucBox G9"
+    "url": "https://fzakaria.com/2026/08/23/your-executable-is-a-sqlite-database",
+    "title": "Executable Is a SQLite Database"
   },
   {
     "source": "hn",
@@ -51,13 +66,13 @@
   },
   {
     "source": "hn",
-    "url": "https://fzakaria.com/2026/08/23/your-executable-is-a-sqlite-database",
-    "title": "Executable Is a SQLite Database"
+    "url": "https://acko.net/blog/curvature-beziers/",
+    "title": "Curvature Beziers – Improving on a timeless recipe"
   },
   {
     "source": "hn",
-    "url": "https://acko.net/blog/curvature-beziers/",
-    "title": "Curvature Beziers – Improving on a timeless recipe"
+    "url": "https://solar.lowtechmagazine.com/2018/08/could-we-dredge-the-netherlands-without-fossil-fuels",
+    "title": "Could We Dredge the Netherlands Without Fossil Fuels?"
   },
   {
     "source": "hn",
@@ -70,24 +85,9 @@
     "title": "FDA clears blood test to aid evaluation for Alzheimer's disease"
   },
   {
-    "source": "hn",
-    "url": "https://solar.lowtechmagazine.com/2018/08/could-we-dredge-the-netherlands-without-fossil-fuels",
-    "title": "Could We Dredge the Netherlands Without Fossil Fuels?"
-  },
-  {
-    "source": "hn",
-    "url": "https://blog.netbsd.org/tnf/entry/gsoc2026_raidframe",
-    "title": "NetBSD GSoC 2026 Improving RAIDframe"
-  },
-  {
     "source": "lobsters",
     "url": "https://diggingforfire.blog/posts/can-a-blog-post-be-handwritten/",
     "title": "Can a blog post be handwritten?"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://schlarp.com/posts/everything-i-own-owned/",
-    "title": "Everything I own, owned"
   },
   {
     "source": "lobsters",
@@ -101,8 +101,18 @@
   },
   {
     "source": "lobsters",
+    "url": "https://schlarp.com/posts/everything-i-own-owned/",
+    "title": "Everything I own, owned"
+  },
+  {
+    "source": "lobsters",
     "url": "https://xavd.id/blog/post/highlighting-users/",
     "title": "Replicating Reddit's best feature on other forums"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://arch.dog/bark/dynamically-naming-servers",
+    "title": "Dynamically Naming Servers"
   },
   {
     "source": "lobsters",
@@ -116,13 +126,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://monadicsheep.org/blog/an-introduction-to-canvas-in-emacs.html",
-    "title": "An Introduction to Canvas in GNU Emacs"
+    "url": "https://www.osnews.com/story/144892/the-text-mode-lie-why-modern-tuis-are-a-nightmare-for-accessibility/",
+    "title": "The text mode lie: why modern TUIs are a nightmare for accessibility"
   },
   {
     "source": "lobsters",
-    "url": "https://www.osnews.com/story/144892/the-text-mode-lie-why-modern-tuis-are-a-nightmare-for-accessibility/",
-    "title": "The text mode lie: why modern TUIs are a nightmare for accessibility"
+    "url": "https://monadicsheep.org/blog/an-introduction-to-canvas-in-emacs.html",
+    "title": "An Introduction to Canvas in GNU Emacs"
   },
   {
     "source": "lobsters",
@@ -131,13 +141,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://arch.dog/bark/dynamically-naming-servers",
-    "title": "Dynamically Naming Servers"
+    "url": "https://ferd.ca/control-and-complexity-tension-in-systems-design.html",
+    "title": "Control and complexity: tension in systems design"
   },
   {
     "source": "lobsters",
-    "url": "https://ferd.ca/control-and-complexity-tension-in-systems-design.html",
-    "title": "Control and complexity: tension in systems design"
+    "url": "https://ahelwer.ca/post/2026-08-24-finite-state-future/",
+    "title": "The changing role of finite-state model checking"
   },
   {
     "source": "lobsters",
@@ -155,13 +165,93 @@
     "title": "Building certgrep.sh: a free certificate transparency search engine"
   },
   {
-    "source": "lobsters",
-    "url": "https://www.scd31.com/posts/defcon-choker",
-    "title": "My DIY DEF CON Choker Has a Screen On It"
+    "source": "pinboard",
+    "url": "https://chrisburnell.com/html-can-do-that/",
+    "title": "HTML Can Do That · Chris Burnell"
   },
   {
-    "source": "lobsters",
-    "url": "https://tmpout.sh/5/",
-    "title": "tmp.0ut volume 5"
+    "source": "pinboard",
+    "url": "https://thinkinginpython.com/",
+    "title": "Thinking in Python"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://openlogi.org/",
+    "title": "OpenLogi"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://lina.sh/blog/hijacking-e164-arpa",
+    "title": "I accidentally logged hundreds of thousands of phone calls to military bases - lina's blog"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://cymerys.com/w/im-becoming-ai-blind",
+    "title": "I'm becoming AI-blind - Rafal Cymerys"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://nappertime.com/the-golden-rule-of-becoming-a-better-writer/",
+    "title": "The Golden Rule for Becoming a Better Writer - T.R Napper"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://bandarlabs.github.io/Cobalt/",
+    "title": "Cobalt: apps and an SDK for Kobo e-readers"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://jsomers.net/i-should-have-loved-biology/",
+    "title": "jsomers.net | I should have loved biology"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://earendil.com/posts/what-is-a-harness/",
+    "title": "What is a Harness?"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://academy.claude.com/",
+    "title": "Claude Academy · Learn to work and build with Claude"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.danielvaughn.dev/posts/huzzah/",
+    "title": "Huzzah"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://lalitm.com/post/find-problems-staff-engineer/",
+    "title": "How I Find Problems to Solve as a Staff Engineer - Lalit Maganti"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://geometridae.bearblog.dev/a-friendly-introduction-to-racket/",
+    "title": "A Friendly Introduction to Racket – geometridae"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.seangoedecke.com/you-should-never-be-angry-at-work/",
+    "title": "You should never be angry at work"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://omarchy.org/news/2026/08/omacom-foundation-launches-with-8-million/",
+    "title": "Omacom Foundation launches with $8 million — Omarchy News"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.raphaelbauer.com/posts/postgresql-everything/",
+    "title": "PostgreSQL for Everything - Dr. Raphael A. Bauer, MBA | Fractional & Interim CTO | PE/VC Tech Strategy & Due Diligence | Berlin | London | Austin, Texas"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://sockpuppet.org/blog/2026/08/20/stop-making-tuis/",
+    "title": "Stop Making TUIs — Quarrelsome"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://danluu.com/perf-opt/",
+    "title": "There's no reason for software to be slow anymore"
   }
 ]
