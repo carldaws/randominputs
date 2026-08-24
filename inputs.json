@@ -11,13 +11,13 @@
   },
   {
     "source": "hn",
-    "url": "https://blog.elis.cc/articles/google-workspace-thinks-my-domain-is-an-email-provider/",
-    "title": "Google Workspace thinks my domain is an email provider (2025)"
+    "url": "https://fabiensanglard.net/agent.md/index.html",
+    "title": "My agent.md to improve LLM-assisted code quality"
   },
   {
     "source": "hn",
-    "url": "https://fabiensanglard.net/agent.md/index.html",
-    "title": "My agent.md to improve LLM-assisted code quality"
+    "url": "https://blog.elis.cc/articles/google-workspace-thinks-my-domain-is-an-email-provider/",
+    "title": "Google Workspace thinks my domain is an email provider (2025)"
   },
   {
     "source": "hn",
@@ -31,18 +31,18 @@
   },
   {
     "source": "hn",
-    "url": "https://debloat.dev/",
-    "title": "A website for debloated open source alternatives"
-  },
-  {
-    "source": "hn",
     "url": "https://www.cntraveler.com/story/this-rural-village-in-spain-is-welcoming-digital-nomads-with-open-arms",
     "title": "Rural Village in Spain Is Welcoming Digital Nomads with Open Arms"
   },
   {
     "source": "hn",
-    "url": "https://www.jepeake.com/ai-chip-architectures",
-    "title": "AI Chip Architectures"
+    "url": "https://debloat.dev/",
+    "title": "A website for debloated open source alternatives"
+  },
+  {
+    "source": "hn",
+    "url": "https://pantel.is/projects/ai-gaming-companion/",
+    "title": "I built a low-latency AI companion that plays Skyrim with me"
   },
   {
     "source": "hn",
@@ -66,13 +66,8 @@
   },
   {
     "source": "hn",
-    "url": "https://www.dbreunig.com/2026/08/23/fable-the-end-of-moore-s-law.html",
-    "title": "Fable and the end of the free lunch"
-  },
-  {
-    "source": "hn",
-    "url": "https://psmag.com/environment/the-planet-now-has-more-trees-than-it-did-35-years-ago/",
-    "title": "The planet now has more trees than it did 35 years ago (2018)"
+    "url": "https://www.rnz.co.nz/life/people/celebrity/former-oc-actor-ben-mckenzie-on-crusade-to-take-down-stupid-cryptocurrency",
+    "title": "Former OC actor Ben McKenzie on crusade to take down 'stupid' cryptocurrency"
   },
   {
     "source": "hn",
@@ -91,13 +86,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://hister.org/",
-    "title": "Hister - A private, full content search index that you control"
+    "url": "https://xavd.id/blog/post/highlighting-users/",
+    "title": "Replicating Reddit's best feature on other forums"
   },
   {
     "source": "lobsters",
-    "url": "https://xavd.id/blog/post/highlighting-users/",
-    "title": "Replicating Reddit's best feature on other forums"
+    "url": "https://hister.org/",
+    "title": "Hister - A private, full content search index that you control"
   },
   {
     "source": "lobsters",
@@ -111,8 +106,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://www.osnews.com/story/144892/the-text-mode-lie-why-modern-tuis-are-a-nightmare-for-accessibility/",
-    "title": "The text mode lie: why modern TUIs are a nightmare for accessibility"
+    "url": "https://tmpout.sh/5/",
+    "title": "tmp.0ut volume 5"
   },
   {
     "source": "lobsters",
@@ -126,8 +121,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://tmpout.sh/5/",
-    "title": "tmp.0ut volume 5"
+    "url": "https://www.osnews.com/story/144892/the-text-mode-lie-why-modern-tuis-are-a-nightmare-for-accessibility/",
+    "title": "The text mode lie: why modern TUIs are a nightmare for accessibility"
   },
   {
     "source": "lobsters",
@@ -136,13 +131,18 @@
   },
   {
     "source": "lobsters",
+    "url": "https://thejpster.org.uk/blog/blog-2026-08-22/",
+    "title": "Why aren't my two Cortex-A9 cores cache coherent?"
+  },
+  {
+    "source": "lobsters",
     "url": "https://www.seangoedecke.com/you-should-never-be-angry-at-work/",
     "title": "You should never be angry at work"
   },
   {
     "source": "lobsters",
-    "url": "https://thejpster.org.uk/blog/blog-2026-08-22/",
-    "title": "Why aren't my two Cortex-A9 cores cache coherent?"
+    "url": "https://joeyh.name/blog/entry/offgrid_electric_car/",
+    "title": "offgrid electric car (2025)"
   },
   {
     "source": "lobsters",
@@ -163,11 +163,6 @@
     "source": "lobsters",
     "url": "https://typesanitizer.com/blog/performance-issues.html",
     "title": "There continue to be reasons for software to be slow"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://joeyh.name/blog/entry/offgrid_electric_car/",
-    "title": "offgrid electric car (2025)"
   },
   {
     "source": "lobsters",
