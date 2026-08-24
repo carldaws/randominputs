@@ -1,8 +1,18 @@
 [
   {
     "source": "hn",
+    "url": "https://proofcraft.systems/news-2026/#2026-08-21",
+    "title": "SeL4 security proofs now complete on AArch64"
+  },
+  {
+    "source": "hn",
     "url": "https://schlarp.com/posts/everything-i-own-owned/",
     "title": "Everything I own, owned"
+  },
+  {
+    "source": "hn",
+    "url": "https://omarchy.org/news/2026/08/omacom-foundation-funding-hits-10m/",
+    "title": "Omacom Foundation funding hits $10M"
   },
   {
     "source": "hn",
@@ -11,13 +21,13 @@
   },
   {
     "source": "hn",
-    "url": "https://fzakaria.com/2026/08/23/your-executable-is-a-sqlite-database",
-    "title": "Executable Is a SQLite Database"
+    "url": "https://essays.georgestrakhov.com/weird/",
+    "title": "The Future Belongs to the Weird"
   },
   {
     "source": "hn",
-    "url": "https://lalitm.com/post/find-problems-staff-engineer/",
-    "title": "How I find problems to solve as a staff engineer"
+    "url": "https://fzakaria.com/2026/08/23/your-executable-is-a-sqlite-database",
+    "title": "Executable Is a SQLite Database"
   },
   {
     "source": "hn",
@@ -26,18 +36,23 @@
   },
   {
     "source": "hn",
+    "url": "https://lalitm.com/post/find-problems-staff-engineer/",
+    "title": "How I find problems to solve as a staff engineer"
+  },
+  {
+    "source": "hn",
     "url": "https://www.modelrepublic.org/articles/a16z-portfolio",
     "title": "Andreessen Horowitz is investing billions into a bleak future"
   },
   {
     "source": "hn",
-    "url": "https://pantel.is/projects/ai-gaming-companion/",
-    "title": "I built a low-latency AI companion that plays Skyrim with me"
+    "url": "https://code.joejag.com/2026/your-agent-is-not-the-model.html",
+    "title": "Agent Is Not the Model"
   },
   {
     "source": "hn",
-    "url": "https://essays.georgestrakhov.com/weird/",
-    "title": "The Future Belongs to the Weird"
+    "url": "https://pantel.is/projects/ai-gaming-companion/",
+    "title": "I built a low-latency AI companion that plays Skyrim with me"
   },
   {
     "source": "hn",
@@ -56,6 +71,11 @@
   },
   {
     "source": "hn",
+    "url": "https://cmart.blog/claude-writing/",
+    "title": "Why is Anthropic's public writing style so unlike Claude's?"
+  },
+  {
+    "source": "hn",
     "url": "https://www.jepeake.com/ai-chip-architectures",
     "title": "AI Chip Architectures"
   },
@@ -65,34 +85,14 @@
     "title": "Fable and the end of the free lunch"
   },
   {
-    "source": "hn",
-    "url": "https://cmart.blog/claude-writing/",
-    "title": "Why is Anthropic's public writing style so unlike Claude's?"
-  },
-  {
-    "source": "hn",
-    "url": "https://punyamishra.com/2026/04/16/why-sal-khant-on-learning-by-making-but-teaching-by-telling/",
-    "title": "Why Sal Khan't: On Learning by Making but Teaching by Telling"
-  },
-  {
-    "source": "hn",
-    "url": "https://debloat.dev/",
-    "title": "A website for debloated open source alternatives"
-  },
-  {
-    "source": "hn",
-    "url": "https://status.claude.com/incidents/vgz5psbjmt1h",
-    "title": "Elevated Errors for Multiple Models"
+    "source": "lobsters",
+    "url": "https://xavd.id/blog/post/highlighting-users/",
+    "title": "Replicating Reddit's best feature on other forums"
   },
   {
     "source": "lobsters",
     "url": "https://ericpardee.github.io/fire-hd-ownership/",
     "title": "Amazon kept shutting down my tablet, so I spent $266 on four AI models to own it"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://xavd.id/blog/post/highlighting-users/",
-    "title": "Replicating Reddit's best feature on other forums"
   },
   {
     "source": "lobsters",
@@ -106,18 +106,28 @@
   },
   {
     "source": "lobsters",
-    "url": "https://backtracking.github.io/en/2020/02/20/cs-books.html",
-    "title": "My favorite Computer Science books, and why"
-  },
-  {
-    "source": "lobsters",
     "url": "https://www.osnews.com/story/144892/the-text-mode-lie-why-modern-tuis-are-a-nightmare-for-accessibility/",
     "title": "The text mode lie: why modern TUIs are a nightmare for accessibility"
   },
   {
     "source": "lobsters",
+    "url": "https://backtracking.github.io/en/2020/02/20/cs-books.html",
+    "title": "My favorite Computer Science books, and why"
+  },
+  {
+    "source": "lobsters",
     "url": "https://joeyh.name/blog/entry/offgrid_electric_car/",
     "title": "offgrid electric car (2025)"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://haveibeensquatted.com/blog/building-certgrep",
+    "title": "Building certgrep.sh: a free certificate transparency search engine"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://jordanlord.co.uk/blog/3-constraints/",
+    "title": "3 constraints before I build anything"
   },
   {
     "source": "lobsters",
@@ -131,18 +141,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://jordanlord.co.uk/blog/3-constraints/",
-    "title": "3 constraints before I build anything"
-  },
-  {
-    "source": "lobsters",
     "url": "https://tmpout.sh/5/",
     "title": "tmp.0ut volume 5"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://haveibeensquatted.com/blog/building-certgrep",
-    "title": "Building certgrep.sh: a free certificate transparency search engine"
   },
   {
     "source": "lobsters",
@@ -151,8 +151,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://text.marvinborner.de/2024-11-18-00.html",
-    "title": "Tiny, Untyped Monads (2024)"
+    "url": "https://ferd.ca/control-and-complexity-tension-in-systems-design.html",
+    "title": "Control and complexity: tension in systems design"
   },
   {
     "source": "lobsters",
@@ -161,8 +161,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://blog.tymscar.com/posts/howtoreportabug/",
-    "title": "How To Report A Bug So It Actually Gets Fixed"
+    "url": "https://text.marvinborner.de/2024-11-18-00.html",
+    "title": "Tiny, Untyped Monads (2024)"
   },
   {
     "source": "lobsters",
@@ -170,83 +170,8 @@
     "title": "Declarative WebGPU with S-expressions"
   },
   {
-    "source": "pinboard",
-    "url": "https://chrisburnell.com/html-can-do-that/",
-    "title": "HTML Can Do That · Chris Burnell"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://thinkinginpython.com/",
-    "title": "Thinking in Python"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://openlogi.org/",
-    "title": "OpenLogi"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://lina.sh/blog/hijacking-e164-arpa",
-    "title": "I accidentally logged hundreds of thousands of phone calls to military bases - lina's blog"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://cymerys.com/w/im-becoming-ai-blind",
-    "title": "I'm becoming AI-blind - Rafal Cymerys"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://nappertime.com/the-golden-rule-of-becoming-a-better-writer/",
-    "title": "The Golden Rule for Becoming a Better Writer - T.R Napper"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://bandarlabs.github.io/Cobalt/",
-    "title": "Cobalt: apps and an SDK for Kobo e-readers"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://jsomers.net/i-should-have-loved-biology/",
-    "title": "jsomers.net | I should have loved biology"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://academy.claude.com/",
-    "title": "Claude Academy · Learn to work and build with Claude"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.danielvaughn.dev/posts/huzzah/",
-    "title": "Huzzah"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://geometridae.bearblog.dev/a-friendly-introduction-to-racket/",
-    "title": "A Friendly Introduction to Racket – geometridae"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.seangoedecke.com/you-should-never-be-angry-at-work/",
-    "title": "You should never be angry at work"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://omarchy.org/news/2026/08/omacom-foundation-launches-with-8-million/",
-    "title": "Omacom Foundation launches with $8 million — Omarchy News"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.raphaelbauer.com/posts/postgresql-everything/",
-    "title": "PostgreSQL for Everything - Dr. Raphael A. Bauer, MBA | Fractional & Interim CTO | PE/VC Tech Strategy & Due Diligence | Berlin | London | Austin, Texas"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://sockpuppet.org/blog/2026/08/20/stop-making-tuis/",
-    "title": "Stop Making TUIs — Quarrelsome"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://danluu.com/perf-opt/",
-    "title": "There's no reason for software to be slow anymore"
+    "source": "lobsters",
+    "url": "https://blog.tymscar.com/posts/howtoreportabug/",
+    "title": "How To Report A Bug So It Actually Gets Fixed"
   }
 ]
