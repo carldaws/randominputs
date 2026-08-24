@@ -11,13 +11,13 @@
   },
   {
     "source": "hn",
-    "url": "https://medicine.washu.edu/news/fda-clears-blood-test-to-aid-evaluation-for-alzheimers-disease/",
-    "title": "FDA clears blood test to aid evaluation for Alzheimer's disease"
+    "url": "https://fzakaria.com/2026/08/23/your-executable-is-a-sqlite-database",
+    "title": "Executable Is a SQLite Database"
   },
   {
     "source": "hn",
-    "url": "https://fzakaria.com/2026/08/23/your-executable-is-a-sqlite-database",
-    "title": "Executable Is a SQLite Database"
+    "url": "https://medicine.washu.edu/news/fda-clears-blood-test-to-aid-evaluation-for-alzheimers-disease/",
+    "title": "FDA clears blood test to aid evaluation for Alzheimer's disease"
   },
   {
     "source": "hn",
@@ -36,6 +36,11 @@
   },
   {
     "source": "hn",
+    "url": "https://code.joejag.com/2026/your-agent-is-not-the-model.html",
+    "title": "Agent Is Not the Model"
+  },
+  {
+    "source": "hn",
     "url": "https://www.modelrepublic.org/articles/a16z-portfolio",
     "title": "Andreessen Horowitz is investing billions into a bleak future"
   },
@@ -46,18 +51,13 @@
   },
   {
     "source": "hn",
-    "url": "https://code.joejag.com/2026/your-agent-is-not-the-model.html",
-    "title": "Agent Is Not the Model"
+    "url": "https://earendil.com/posts/what-is-a-harness/",
+    "title": "What Is a Harness?"
   },
   {
     "source": "hn",
     "url": "https://blog.elis.cc/articles/google-workspace-thinks-my-domain-is-an-email-provider/",
     "title": "Google Workspace thinks my domain is an email provider (2025)"
-  },
-  {
-    "source": "hn",
-    "url": "https://earendil.com/posts/what-is-a-harness/",
-    "title": "What Is a Harness?"
   },
   {
     "source": "hn",
@@ -111,13 +111,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://backtracking.github.io/en/2020/02/20/cs-books.html",
-    "title": "My favorite Computer Science books, and why"
+    "url": "https://jordanlord.co.uk/blog/3-constraints/",
+    "title": "3 constraints before I build anything"
   },
   {
     "source": "lobsters",
-    "url": "https://jordanlord.co.uk/blog/3-constraints/",
-    "title": "3 constraints before I build anything"
+    "url": "https://backtracking.github.io/en/2020/02/20/cs-books.html",
+    "title": "My favorite Computer Science books, and why"
   },
   {
     "source": "lobsters",
@@ -136,6 +136,11 @@
   },
   {
     "source": "lobsters",
+    "url": "https://ferd.ca/control-and-complexity-tension-in-systems-design.html",
+    "title": "Control and complexity: tension in systems design"
+  },
+  {
+    "source": "lobsters",
     "url": "https://tmpout.sh/5/",
     "title": "tmp.0ut volume 5"
   },
@@ -146,27 +151,17 @@
   },
   {
     "source": "lobsters",
-    "url": "https://gcc.gnu.org/onlinedocs/jit/intro/tutorial04.html",
-    "title": "Adding JIT-compilation to a toy interpreter with libgccjit"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://ferd.ca/control-and-complexity-tension-in-systems-design.html",
-    "title": "Control and complexity: tension in systems design"
-  },
-  {
-    "source": "lobsters",
     "url": "https://hugodaniel.com/posts/declarative-webgpu-with-s-expressions/",
     "title": "Declarative WebGPU with S-expressions"
   },
   {
     "source": "lobsters",
-    "url": "https://text.marvinborner.de/2024-11-18-00.html",
-    "title": "Tiny, Untyped Monads (2024)"
+    "url": "https://gcc.gnu.org/onlinedocs/jit/intro/tutorial04.html",
+    "title": "Adding JIT-compilation to a toy interpreter with libgccjit"
   },
   {
     "source": "lobsters",
-    "url": "https://blog.tymscar.com/posts/howtoreportabug/",
-    "title": "How To Report A Bug So It Actually Gets Fixed"
+    "url": "https://text.marvinborner.de/2024-11-18-00.html",
+    "title": "Tiny, Untyped Monads (2024)"
   }
 ]
