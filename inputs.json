@@ -6,6 +6,11 @@
   },
   {
     "source": "hn",
+    "url": "https://ciechanow.ski/moon/",
+    "title": "Moon"
+  },
+  {
+    "source": "hn",
     "url": "https://sf.thijs.gg/",
     "title": "The entire city of San Francisco as a video game"
   },
@@ -16,13 +21,13 @@
   },
   {
     "source": "hn",
-    "url": "https://gultsch.de/posts/25-years-of-digital-independence/",
-    "title": "Jabber/XMPP: 25 Years of Digital Independence"
+    "url": "https://blog.archive.org/2026/08/16/vintage-artificial-intelligence-before-it-got-awkward/",
+    "title": "Vintage Artificial Intelligence: Before It Got Awkward"
   },
   {
     "source": "hn",
-    "url": "https://lucumr.pocoo.org/2026/8/24/anger-anxiety-agency/",
-    "title": "Anger, Anxiety and Agency"
+    "url": "https://gultsch.de/posts/25-years-of-digital-independence/",
+    "title": "Jabber/XMPP: 25 Years of Digital Independence"
   },
   {
     "source": "hn",
@@ -31,18 +36,23 @@
   },
   {
     "source": "hn",
+    "url": "https://lucumr.pocoo.org/2026/8/24/anger-anxiety-agency/",
+    "title": "Anger, Anxiety and Agency"
+  },
+  {
+    "source": "hn",
     "url": "https://app.dover.com/Autostep/careers/e9510e3b-a854-4e48-9e5d-c89796acaed4",
     "title": "Autostep (YC P26) Is Hiring AI/Fullstack Engineers and a Chief of Staff"
   },
   {
     "source": "hn",
-    "url": "https://developers.openai.com/api/docs/pricing",
-    "title": "OpenAI: GPT 5.6 Sol price reduction (until at least Nov 21)"
+    "url": "https://picomq.com/",
+    "title": "Show HN: PicoMQ – Durable Streams over HTTP, on object storage"
   },
   {
     "source": "hn",
-    "url": "https://picomq.com/",
-    "title": "Show HN: PicoMQ – Durable Streams over HTTP, on object storage"
+    "url": "https://developers.openai.com/api/docs/pricing",
+    "title": "OpenAI: GPT 5.6 Sol price reduction (until at least Nov 21)"
   },
   {
     "source": "hn",
@@ -56,23 +66,18 @@
   },
   {
     "source": "hn",
-    "url": "https://fzakaria.com/2026/08/23/your-executable-is-a-sqlite-database",
-    "title": "Executable Is a SQLite Database"
-  },
-  {
-    "source": "hn",
     "url": "https://blog.greencloudvps.com/what-is-a-syslog-server.php",
     "title": "What Is a Syslog Server?"
   },
   {
     "source": "hn",
-    "url": "https://ssx360.github.io/rack-02/?src=hn",
-    "title": "Show HN: A techno machine in one HTML file, with verifiable renders"
+    "url": "https://fzakaria.com/2026/08/23/your-executable-is-a-sqlite-database",
+    "title": "Executable Is a SQLite Database"
   },
   {
     "source": "hn",
-    "url": "https://medicine.washu.edu/news/fda-clears-blood-test-to-aid-evaluation-for-alzheimers-disease/",
-    "title": "FDA clears blood test to aid evaluation for Alzheimer's disease"
+    "url": "https://ssx360.github.io/rack-02/?src=hn",
+    "title": "Show HN: A techno machine in one HTML file, with verifiable renders"
   },
   {
     "source": "lobsters",
@@ -111,6 +116,11 @@
   },
   {
     "source": "lobsters",
+    "url": "https://ferd.ca/control-and-complexity-tension-in-systems-design.html",
+    "title": "Control and complexity: tension in systems design"
+  },
+  {
+    "source": "lobsters",
     "url": "https://jordanlord.co.uk/blog/3-constraints/",
     "title": "3 constraints before I build anything"
   },
@@ -136,13 +146,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://ferd.ca/control-and-complexity-tension-in-systems-design.html",
-    "title": "Control and complexity: tension in systems design"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://jyn.dev/distributed-identity/",
-    "title": "distributed identity"
+    "url": "https://boyter.org/posts/sloc-cloc-code-hotspots-finding-files-that-need-attention/",
+    "title": "Sloc Cloc and Code 4.0 (scc) - Finding the files that need the most attention"
   },
   {
     "source": "lobsters",
