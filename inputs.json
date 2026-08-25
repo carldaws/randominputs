@@ -1,13 +1,23 @@
 [
   {
     "source": "hn",
+    "url": "https://xusheng.dev/posts/reversing/mspaint_invisible_watermark/main/",
+    "title": "MS Paint and Photos inivisibly watermark even locally generated output with GUID"
+  },
+  {
+    "source": "hn",
     "url": "https://ciechanow.ski/moon/",
     "title": "Moon (2024)"
   },
   {
     "source": "hn",
-    "url": "https://xusheng.dev/posts/reversing/mspaint_invisible_watermark/main/",
-    "title": "MS Paint and Photos inivisibly watermark even locally generated output with GUID"
+    "url": "https://paulgraham.com/prepare.html",
+    "title": "How Universities Should Prepare Founders"
+  },
+  {
+    "source": "hn",
+    "url": "https://plicara.ai/research/agent-skill-languages/",
+    "title": "What languages are agent skills written in?"
   },
   {
     "source": "hn",
@@ -16,13 +26,13 @@
   },
   {
     "source": "hn",
-    "url": "https://blog.archive.org/2026/08/16/vintage-artificial-intelligence-before-it-got-awkward/",
-    "title": "Vintage Artificial Intelligence: Before It Got Awkward"
+    "url": "https://gultsch.de/posts/25-years-of-digital-independence/",
+    "title": "Jabber/XMPP: 25 Years of Digital Independence"
   },
   {
     "source": "hn",
-    "url": "https://gultsch.de/posts/25-years-of-digital-independence/",
-    "title": "Jabber/XMPP: 25 Years of Digital Independence"
+    "url": "https://blog.archive.org/2026/08/16/vintage-artificial-intelligence-before-it-got-awkward/",
+    "title": "Vintage Artificial Intelligence: Before It Got Awkward"
   },
   {
     "source": "hn",
@@ -36,18 +46,13 @@
   },
   {
     "source": "hn",
-    "url": "https://picomq.com/",
-    "title": "Show HN: PicoMQ – Durable Streams over HTTP, on object storage"
-  },
-  {
-    "source": "hn",
-    "url": "https://app.dover.com/Autostep/careers/e9510e3b-a854-4e48-9e5d-c89796acaed4",
-    "title": "Autostep (YC P26) Is Hiring AI/Fullstack Engineers and a Chief of Staff"
-  },
-  {
-    "source": "hn",
     "url": "https://proofcraft.systems/news-2026/#2026-08-21",
     "title": "SeL4 security proofs now complete on AArch64"
+  },
+  {
+    "source": "hn",
+    "url": "https://picomq.com/",
+    "title": "Show HN: PicoMQ – Durable Streams over HTTP, on object storage"
   },
   {
     "source": "hn",
@@ -56,23 +61,13 @@
   },
   {
     "source": "hn",
+    "url": "https://app.dover.com/Autostep/careers/e9510e3b-a854-4e48-9e5d-c89796acaed4",
+    "title": "Autostep (YC P26) Is Hiring AI/Fullstack Engineers and a Chief of Staff"
+  },
+  {
+    "source": "hn",
     "url": "https://larsfaye.com/articles/ai-coding-will-prevent-expertise",
     "title": "Coding expertise is going to collapse from AI reliance"
-  },
-  {
-    "source": "hn",
-    "url": "https://lucumr.pocoo.org/2026/8/24/anger-anxiety-agency/",
-    "title": "Anger, Anxiety and Agency"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.newyorker.com/news/letter-from-the-uk/iran-is-using-foreign-criminals-to-attack-its-critics-overseas",
-    "title": "Iran Is Using Foreign Criminals to Attack Its Critics Overseas"
-  },
-  {
-    "source": "hn",
-    "url": "https://blog.greencloudvps.com/what-is-a-syslog-server.php",
-    "title": "What Is a Syslog Server?"
   },
   {
     "source": "hn",
@@ -81,8 +76,8 @@
   },
   {
     "source": "hn",
-    "url": "https://schlarp.com/posts/everything-i-own-owned/",
-    "title": "Everything I own, owned"
+    "url": "https://lucumr.pocoo.org/2026/8/24/anger-anxiety-agency/",
+    "title": "Anger, Anxiety and Agency"
   },
   {
     "source": "lobsters",
@@ -106,6 +101,11 @@
   },
   {
     "source": "lobsters",
+    "url": "https://schlarp.com/posts/everything-i-own-owned/",
+    "title": "Everything I own, owned"
+  },
+  {
+    "source": "lobsters",
     "url": "https://arch.dog/bark/dynamically-naming-servers",
     "title": "Dynamically Naming Servers"
   },
@@ -121,8 +121,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://jordanlord.co.uk/blog/3-constraints/",
-    "title": "3 constraints before I build anything"
+    "url": "https://jyn.dev/distributed-identity/",
+    "title": "distributed identity"
   },
   {
     "source": "lobsters",
@@ -131,8 +131,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://www.osnews.com/story/144892/the-text-mode-lie-why-modern-tuis-are-a-nightmare-for-accessibility/",
-    "title": "The text mode lie: why modern TUIs are a nightmare for accessibility"
+    "url": "https://jordanlord.co.uk/blog/3-constraints/",
+    "title": "3 constraints before I build anything"
   },
   {
     "source": "lobsters",
@@ -141,13 +141,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://jyn.dev/distributed-identity/",
-    "title": "distributed identity"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://monadicsheep.org/blog/an-introduction-to-canvas-in-emacs.html",
-    "title": "An Introduction to Canvas in GNU Emacs"
+    "url": "https://www.osnews.com/story/144892/the-text-mode-lie-why-modern-tuis-are-a-nightmare-for-accessibility/",
+    "title": "The text mode lie: why modern TUIs are a nightmare for accessibility"
   },
   {
     "source": "lobsters",
@@ -156,7 +151,7 @@
   },
   {
     "source": "lobsters",
-    "url": "https://haveibeensquatted.com/blog/building-certgrep",
-    "title": "Building certgrep.sh: a free certificate transparency search engine"
+    "url": "https://monadicsheep.org/blog/an-introduction-to-canvas-in-emacs.html",
+    "title": "An Introduction to Canvas in GNU Emacs"
   }
 ]
