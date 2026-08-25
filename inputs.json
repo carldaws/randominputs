@@ -16,13 +16,13 @@
   },
   {
     "source": "hn",
-    "url": "https://www.laude.org/updates/headlong-a-microharness-for-persistent-agents",
-    "title": "Headlong: A Microharness for Persistent Agents"
+    "url": "https://sf.thijs.gg/",
+    "title": "The entire city of San Francisco as a video game"
   },
   {
     "source": "hn",
-    "url": "https://sf.thijs.gg/",
-    "title": "The entire city of San Francisco as a video game"
+    "url": "https://www.laude.org/updates/headlong-a-microharness-for-persistent-agents",
+    "title": "Headlong: A Microharness for Persistent Agents"
   },
   {
     "source": "hn",
@@ -36,8 +36,8 @@
   },
   {
     "source": "hn",
-    "url": "https://gultsch.de/posts/25-years-of-digital-independence/",
-    "title": "Jabber/XMPP: 25 Years of Digital Independence"
+    "url": "https://blog.archive.org/2026/08/16/vintage-artificial-intelligence-before-it-got-awkward/",
+    "title": "Vintage Artificial Intelligence: Before It Got Awkward"
   },
   {
     "source": "hn",
@@ -46,13 +46,13 @@
   },
   {
     "source": "hn",
-    "url": "https://blog.archive.org/2026/08/16/vintage-artificial-intelligence-before-it-got-awkward/",
-    "title": "Vintage Artificial Intelligence: Before It Got Awkward"
+    "url": "https://surya.website/rling-qwen-to-paint-with-code",
+    "title": "Training AI to Paint with Code"
   },
   {
     "source": "hn",
-    "url": "https://surya.website/rling-qwen-to-paint-with-code",
-    "title": "Training AI to Paint with Code"
+    "url": "https://gultsch.de/posts/25-years-of-digital-independence/",
+    "title": "Jabber/XMPP: 25 Years of Digital Independence"
   },
   {
     "source": "hn",
@@ -101,6 +101,11 @@
   },
   {
     "source": "lobsters",
+    "url": "https://acadia.engineering/blog/solving-the-1-plus-N-query-problem",
+    "title": "Solving the 1+N query problem"
+  },
+  {
+    "source": "lobsters",
     "url": "https://schlarp.com/posts/everything-i-own-owned/",
     "title": "Everything I own, owned"
   },
@@ -111,13 +116,23 @@
   },
   {
     "source": "lobsters",
-    "url": "https://acadia.engineering/blog/solving-the-1-plus-N-query-problem",
-    "title": "Solving the 1+N query problem"
+    "url": "https://galaxium.app",
+    "title": "Galaxium, a WebGPU universe explorer"
   },
   {
     "source": "lobsters",
     "url": "https://hitogata.neocities.org/POP-2000",
     "title": "POP-2000, a lingua-franca POP-2 dialect"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://honk.foo/porffor-alpha/",
+    "title": "Porffor goes alpha August 11th"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://mgarletmilani.com/blog/2026-06-03-tessellations/",
+    "title": "Haskell diagrams: Tessellations"
   },
   {
     "source": "lobsters",
@@ -143,10 +158,5 @@
     "source": "lobsters",
     "url": "https://ferd.ca/control-and-complexity-tension-in-systems-design.html",
     "title": "Control and complexity: tension in systems design"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://mgarletmilani.com/blog/2026-06-03-tessellations/",
-    "title": "Haskell diagrams: Tessellations"
   }
 ]
