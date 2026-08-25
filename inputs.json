@@ -1,8 +1,13 @@
 [
   {
     "source": "hn",
-    "url": "https://www.library.hbs.edu/working-knowledge/how-credit-card-rewards-became-multibillion-dollar-wealth-transfer",
-    "title": "Credit Card Rewards Became a $9.2B Wealth Transfer"
+    "url": "https://dontwordle.com/",
+    "title": "Don't Wordle"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.cybernetica.fr/piratage-des-impots-comment-en-est-on-arrive-la/",
+    "title": "France's tax agency got hacked (in French)"
   },
   {
     "source": "hn",
@@ -46,8 +51,8 @@
   },
   {
     "source": "hn",
-    "url": "https://nostr.org/",
-    "title": "Nostr is an inclusive communication commons"
+    "url": "https://app.dover.com/Autostep/careers/e9510e3b-a854-4e48-9e5d-c89796acaed4",
+    "title": "Autostep (YC P26) Is Hiring AI/Fullstack Engineers and a Chief of Staff"
   },
   {
     "source": "hn",
@@ -60,14 +65,9 @@
     "title": "Jabber/XMPP: 25 Years of Digital Independence"
   },
   {
-    "source": "hn",
-    "url": "https://boydkane.com/essays/llms-could-control-their-host-machines-by-exploiting-inference-engines",
-    "title": "LLMs could control their host machines by exploiting inference engines"
-  },
-  {
-    "source": "hn",
-    "url": "https://proofcraft.systems/news-2026/#2026-08-21",
-    "title": "SeL4 security proofs now complete on AArch64"
+    "source": "lobsters",
+    "url": "https://acadia.engineering/blog/solving-the-1-plus-N-query-problem",
+    "title": "Solving the 1+N query problem"
   },
   {
     "source": "lobsters",
@@ -86,8 +86,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://acadia.engineering/blog/solving-the-1-plus-N-query-problem",
-    "title": "Solving the 1+N query problem"
+    "url": "https://honk.foo/porffor-alpha/",
+    "title": "Porffor goes alpha August 11th"
   },
   {
     "source": "lobsters",
@@ -96,8 +96,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://honk.foo/porffor-alpha/",
-    "title": "Porffor goes alpha August 11th"
+    "url": "https://galaxium.app",
+    "title": "Galaxium, a WebGPU universe explorer"
   },
   {
     "source": "lobsters",
@@ -106,18 +106,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://galaxium.app",
-    "title": "Galaxium, a WebGPU universe explorer"
+    "url": "https://hitogata.neocities.org/POP-2000",
+    "title": "POP-2000, a lingua-franca POP-2 dialect"
   },
   {
     "source": "lobsters",
     "url": "https://jyn.dev/distributed-identity/",
     "title": "distributed identity"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://hitogata.neocities.org/POP-2000",
-    "title": "POP-2000, a lingua-franca POP-2 dialect"
   },
   {
     "source": "lobsters",
@@ -133,11 +128,6 @@
     "source": "lobsters",
     "url": "https://mgarletmilani.com/blog/2026-06-03-tessellations/",
     "title": "Haskell diagrams: Tessellations"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://jordanlord.co.uk/blog/3-constraints/",
-    "title": "3 constraints before I build anything"
   },
   {
     "source": "pinboard",
