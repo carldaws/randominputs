@@ -1,13 +1,23 @@
 [
   {
     "source": "hn",
+    "url": "https://www.cybernetica.fr/piratage-des-impots-comment-en-est-on-arrive-la/",
+    "title": "France's tax agency got hacked (in French)"
+  },
+  {
+    "source": "hn",
     "url": "https://dontwordle.com/",
     "title": "Don't Wordle"
   },
   {
     "source": "hn",
-    "url": "https://www.cybernetica.fr/piratage-des-impots-comment-en-est-on-arrive-la/",
-    "title": "France's tax agency got hacked (in French)"
+    "url": "https://e360.yale.edu/digest/bomb-fishing-coral-reefs",
+    "title": "Bomb Fishing Is Wreaking Havoc on Indonesia's Coral Reefs"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.erathos.com/en/blog/mysql-cdc-to-bigquery",
+    "title": "MySQL CDC to BigQuery: what periodic syncs miss, and how binlog avoids it"
   },
   {
     "source": "hn",
@@ -21,6 +31,11 @@
   },
   {
     "source": "hn",
+    "url": "https://www.masteringemacs.org/article/whats-new-in-emacs-311",
+    "title": "What's new in Emacs 31.1"
+  },
+  {
+    "source": "hn",
     "url": "https://sf.thijs.gg/",
     "title": "The entire city of San Francisco as a video game"
   },
@@ -31,18 +46,8 @@
   },
   {
     "source": "hn",
-    "url": "https://www.masteringemacs.org/article/whats-new-in-emacs-311",
-    "title": "What's new in Emacs 31.1"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.laude.org/updates/headlong-a-microharness-for-persistent-agents",
-    "title": "Headlong: A Microharness for Persistent Agents"
-  },
-  {
-    "source": "hn",
-    "url": "https://blog.archive.org/2026/08/16/vintage-artificial-intelligence-before-it-got-awkward/",
-    "title": "Vintage Artificial Intelligence: Before It Got Awkward"
+    "url": "https://app.dover.com/Autostep/careers/e9510e3b-a854-4e48-9e5d-c89796acaed4",
+    "title": "Autostep (YC P26) Is Hiring AI/Fullstack Engineers and a Chief of Staff"
   },
   {
     "source": "hn",
@@ -51,18 +56,13 @@
   },
   {
     "source": "hn",
-    "url": "https://app.dover.com/Autostep/careers/e9510e3b-a854-4e48-9e5d-c89796acaed4",
-    "title": "Autostep (YC P26) Is Hiring AI/Fullstack Engineers and a Chief of Staff"
+    "url": "https://blog.archive.org/2026/08/16/vintage-artificial-intelligence-before-it-got-awkward/",
+    "title": "Vintage Artificial Intelligence: Before It Got Awkward"
   },
   {
     "source": "hn",
     "url": "https://kylezhe.ng/writes/crafting-qr-codes",
     "title": "Crafting QR Codes: A deep dive into QR code art (2024)"
-  },
-  {
-    "source": "hn",
-    "url": "https://gultsch.de/posts/25-years-of-digital-independence/",
-    "title": "Jabber/XMPP: 25 Years of Digital Independence"
   },
   {
     "source": "lobsters",
@@ -121,13 +121,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://schlarp.com/posts/everything-i-own-owned/",
-    "title": "Everything I own, owned"
+    "url": "https://xyproblem.info/",
+    "title": "The XY Problem"
   },
   {
     "source": "lobsters",
-    "url": "https://mgarletmilani.com/blog/2026-06-03-tessellations/",
-    "title": "Haskell diagrams: Tessellations"
+    "url": "https://schlarp.com/posts/everything-i-own-owned/",
+    "title": "Everything I own, owned"
   },
   {
     "source": "pinboard",
