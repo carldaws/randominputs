@@ -1,23 +1,18 @@
 [
   {
     "source": "hn",
+    "url": "https://ciechanow.ski/moon/",
+    "title": "Moon (2024)"
+  },
+  {
+    "source": "hn",
     "url": "https://xusheng.dev/posts/reversing/mspaint_invisible_watermark/main/",
     "title": "MS Paint and Photos inivisibly watermark even locally generated output with GUID"
   },
   {
     "source": "hn",
-    "url": "https://ciechanow.ski/moon/",
-    "title": "Moon"
-  },
-  {
-    "source": "hn",
     "url": "https://sf.thijs.gg/",
     "title": "The entire city of San Francisco as a video game"
-  },
-  {
-    "source": "hn",
-    "url": "https://ipshipyard.com/blog/2026-the-end-of-ipfs-at-shipyard/",
-    "title": "IPFS Maintainers Winding Down"
   },
   {
     "source": "hn",
@@ -31,18 +26,13 @@
   },
   {
     "source": "hn",
+    "url": "https://ipshipyard.com/blog/2026-the-end-of-ipfs-at-shipyard/",
+    "title": "IPFS Maintainers Winding Down"
+  },
+  {
+    "source": "hn",
     "url": "https://boydkane.com/essays/llms-could-control-their-host-machines-by-exploiting-inference-engines",
     "title": "LLMs could control their host machines by exploiting inference engines"
-  },
-  {
-    "source": "hn",
-    "url": "https://lucumr.pocoo.org/2026/8/24/anger-anxiety-agency/",
-    "title": "Anger, Anxiety and Agency"
-  },
-  {
-    "source": "hn",
-    "url": "https://app.dover.com/Autostep/careers/e9510e3b-a854-4e48-9e5d-c89796acaed4",
-    "title": "Autostep (YC P26) Is Hiring AI/Fullstack Engineers and a Chief of Staff"
   },
   {
     "source": "hn",
@@ -51,8 +41,8 @@
   },
   {
     "source": "hn",
-    "url": "https://developers.openai.com/api/docs/pricing",
-    "title": "OpenAI: GPT 5.6 Sol price reduction (until at least Nov 21)"
+    "url": "https://app.dover.com/Autostep/careers/e9510e3b-a854-4e48-9e5d-c89796acaed4",
+    "title": "Autostep (YC P26) Is Hiring AI/Fullstack Engineers and a Chief of Staff"
   },
   {
     "source": "hn",
@@ -61,8 +51,23 @@
   },
   {
     "source": "hn",
+    "url": "https://developers.openai.com/api/docs/pricing",
+    "title": "OpenAI: GPT 5.6 Sol price reduction (until at least Nov 21)"
+  },
+  {
+    "source": "hn",
     "url": "https://larsfaye.com/articles/ai-coding-will-prevent-expertise",
     "title": "Coding expertise is going to collapse from AI reliance"
+  },
+  {
+    "source": "hn",
+    "url": "https://lucumr.pocoo.org/2026/8/24/anger-anxiety-agency/",
+    "title": "Anger, Anxiety and Agency"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.newyorker.com/news/letter-from-the-uk/iran-is-using-foreign-criminals-to-attack-its-critics-overseas",
+    "title": "Iran Is Using Foreign Criminals to Attack Its Critics Overseas"
   },
   {
     "source": "hn",
@@ -71,13 +76,18 @@
   },
   {
     "source": "hn",
-    "url": "https://fzakaria.com/2026/08/23/your-executable-is-a-sqlite-database",
-    "title": "Executable Is a SQLite Database"
+    "url": "https://ssx360.github.io/rack-02/?src=hn",
+    "title": "Show HN: A techno machine in one HTML file, with verifiable renders"
   },
   {
     "source": "hn",
-    "url": "https://ssx360.github.io/rack-02/?src=hn",
-    "title": "Show HN: A techno machine in one HTML file, with verifiable renders"
+    "url": "https://schlarp.com/posts/everything-i-own-owned/",
+    "title": "Everything I own, owned"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://fzakaria.com/2026/08/23/your-executable-is-a-sqlite-database",
+    "title": "Your executable is a SQLite database"
   },
   {
     "source": "lobsters",
@@ -96,11 +106,6 @@
   },
   {
     "source": "lobsters",
-    "url": "https://schlarp.com/posts/everything-i-own-owned/",
-    "title": "Everything I own, owned"
-  },
-  {
-    "source": "lobsters",
     "url": "https://arch.dog/bark/dynamically-naming-servers",
     "title": "Dynamically Naming Servers"
   },
@@ -116,13 +121,18 @@
   },
   {
     "source": "lobsters",
+    "url": "https://jordanlord.co.uk/blog/3-constraints/",
+    "title": "3 constraints before I build anything"
+  },
+  {
+    "source": "lobsters",
     "url": "https://ferd.ca/control-and-complexity-tension-in-systems-design.html",
     "title": "Control and complexity: tension in systems design"
   },
   {
     "source": "lobsters",
-    "url": "https://jordanlord.co.uk/blog/3-constraints/",
-    "title": "3 constraints before I build anything"
+    "url": "https://www.osnews.com/story/144892/the-text-mode-lie-why-modern-tuis-are-a-nightmare-for-accessibility/",
+    "title": "The text mode lie: why modern TUIs are a nightmare for accessibility"
   },
   {
     "source": "lobsters",
@@ -131,8 +141,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://www.osnews.com/story/144892/the-text-mode-lie-why-modern-tuis-are-a-nightmare-for-accessibility/",
-    "title": "The text mode lie: why modern TUIs are a nightmare for accessibility"
+    "url": "https://jyn.dev/distributed-identity/",
+    "title": "distributed identity"
   },
   {
     "source": "lobsters",
@@ -146,12 +156,7 @@
   },
   {
     "source": "lobsters",
-    "url": "https://boyter.org/posts/sloc-cloc-code-hotspots-finding-files-that-need-attention/",
-    "title": "Sloc Cloc and Code 4.0 (scc) - Finding the files that need the most attention"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://twotwos.nekoweb.org/posts/hyperlegible.html",
-    "title": "Atkinson Hyperlegible appears a little smaller than some other fonts at the same font size"
+    "url": "https://haveibeensquatted.com/blog/building-certgrep",
+    "title": "Building certgrep.sh: a free certificate transparency search engine"
   }
 ]
