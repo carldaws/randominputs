@@ -16,11 +16,6 @@
   },
   {
     "source": "hn",
-    "url": "https://plicara.ai/research/agent-skill-languages/",
-    "title": "What languages are agent skills written in?"
-  },
-  {
-    "source": "hn",
     "url": "https://sf.thijs.gg/",
     "title": "The entire city of San Francisco as a video game"
   },
@@ -36,11 +31,6 @@
   },
   {
     "source": "hn",
-    "url": "https://ipshipyard.com/blog/2026-the-end-of-ipfs-at-shipyard/",
-    "title": "IPFS Maintainers Winding Down"
-  },
-  {
-    "source": "hn",
     "url": "https://boydkane.com/essays/llms-could-control-their-host-machines-by-exploiting-inference-engines",
     "title": "LLMs could control their host machines by exploiting inference engines"
   },
@@ -51,13 +41,13 @@
   },
   {
     "source": "hn",
-    "url": "https://picomq.com/",
-    "title": "Show HN: PicoMQ – Durable Streams over HTTP, on object storage"
+    "url": "https://ipshipyard.com/blog/2026-the-end-of-ipfs-at-shipyard/",
+    "title": "IPFS Maintainers Winding Down"
   },
   {
     "source": "hn",
-    "url": "https://developers.openai.com/api/docs/pricing",
-    "title": "OpenAI: GPT 5.6 Sol price reduction (until at least Nov 21)"
+    "url": "https://picomq.com/",
+    "title": "Show HN: PicoMQ – Durable Streams over HTTP, on object storage"
   },
   {
     "source": "hn",
@@ -66,13 +56,13 @@
   },
   {
     "source": "hn",
-    "url": "https://larsfaye.com/articles/ai-coding-will-prevent-expertise",
-    "title": "Coding expertise is going to collapse from AI reliance"
+    "url": "https://ssx360.github.io/rack-02/?src=hn",
+    "title": "Show HN: A techno machine in one HTML file, with verifiable renders"
   },
   {
     "source": "hn",
-    "url": "https://ssx360.github.io/rack-02/?src=hn",
-    "title": "Show HN: A techno machine in one HTML file, with verifiable renders"
+    "url": "https://developers.openai.com/api/docs/pricing",
+    "title": "OpenAI: GPT 5.6 Sol price reduction (until at least Nov 21)"
   },
   {
     "source": "hn",
@@ -96,6 +86,11 @@
   },
   {
     "source": "lobsters",
+    "url": "https://larsfaye.com/articles/ai-coding-will-prevent-expertise",
+    "title": "AI Coding will Prevent Expertise"
+  },
+  {
+    "source": "lobsters",
     "url": "https://nathancooper.io/blog/2026-08-10-ipython-is-all-you-need",
     "title": "IPython is All You Need"
   },
@@ -111,13 +106,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://xavd.id/blog/post/highlighting-users/",
-    "title": "Replicating Reddit's best feature on other forums"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://joeyh.name/blog/entry/offgrid_electric_car/",
-    "title": "offgrid electric car (2025)"
+    "url": "https://hitogata.neocities.org/POP-2000",
+    "title": "POP-2000, a lingua-franca POP-2 dialect"
   },
   {
     "source": "lobsters",
@@ -126,13 +116,28 @@
   },
   {
     "source": "lobsters",
+    "url": "https://jordanlord.co.uk/blog/3-constraints/",
+    "title": "3 constraints before I build anything"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://joeyh.name/blog/entry/offgrid_electric_car/",
+    "title": "offgrid electric car (2025)"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://xavd.id/blog/post/highlighting-users/",
+    "title": "Replicating Reddit's best feature on other forums"
+  },
+  {
+    "source": "lobsters",
     "url": "https://ferd.ca/control-and-complexity-tension-in-systems-design.html",
     "title": "Control and complexity: tension in systems design"
   },
   {
     "source": "lobsters",
-    "url": "https://jordanlord.co.uk/blog/3-constraints/",
-    "title": "3 constraints before I build anything"
+    "url": "https://ahelwer.ca/post/2026-08-24-finite-state-future/",
+    "title": "The changing role of finite-state model checking"
   },
   {
     "source": "lobsters",
@@ -145,13 +150,103 @@
     "title": "The text mode lie: why modern TUIs are a nightmare for accessibility"
   },
   {
-    "source": "lobsters",
-    "url": "https://ahelwer.ca/post/2026-08-24-finite-state-future/",
-    "title": "The changing role of finite-state model checking"
+    "source": "pinboard",
+    "url": "https://chrisburnell.com/html-can-do-that/",
+    "title": "HTML Can Do That · Chris Burnell"
   },
   {
-    "source": "lobsters",
-    "url": "https://monadicsheep.org/blog/an-introduction-to-canvas-in-emacs.html",
-    "title": "An Introduction to Canvas in GNU Emacs"
+    "source": "pinboard",
+    "url": "https://thinkinginpython.com/",
+    "title": "Thinking in Python"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://openlogi.org/",
+    "title": "OpenLogi"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://lina.sh/blog/hijacking-e164-arpa",
+    "title": "I accidentally logged hundreds of thousands of phone calls to military bases - lina's blog"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://cymerys.com/w/im-becoming-ai-blind",
+    "title": "I'm becoming AI-blind - Rafal Cymerys"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://nappertime.com/the-golden-rule-of-becoming-a-better-writer/",
+    "title": "The Golden Rule for Becoming a Better Writer - T.R Napper"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://bandarlabs.github.io/Cobalt/",
+    "title": "Cobalt: apps and an SDK for Kobo e-readers"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://jsomers.net/i-should-have-loved-biology/",
+    "title": "jsomers.net | I should have loved biology"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://earendil.com/posts/what-is-a-harness/",
+    "title": "What is a Harness?"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://academy.claude.com/",
+    "title": "Claude Academy · Learn to work and build with Claude"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://hister.org/",
+    "title": "Hister"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.danielvaughn.dev/posts/huzzah/",
+    "title": "Huzzah"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://backtracking.github.io/en/2020/02/20/cs-books.html",
+    "title": "Jean-Christophe’s CS Book Recommendations"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://lalitm.com/post/find-problems-staff-engineer/",
+    "title": "How I Find Problems to Solve as a Staff Engineer - Lalit Maganti"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://geometridae.bearblog.dev/a-friendly-introduction-to-racket/",
+    "title": "A Friendly Introduction to Racket – geometridae"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.seangoedecke.com/you-should-never-be-angry-at-work/",
+    "title": "You should never be angry at work"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://omarchy.org/news/2026/08/omacom-foundation-launches-with-8-million/",
+    "title": "Omacom Foundation launches with $8 million — Omarchy News"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.raphaelbauer.com/posts/postgresql-everything/",
+    "title": "PostgreSQL for Everything - Dr. Raphael A. Bauer, MBA | Fractional & Interim CTO | PE/VC Tech Strategy & Due Diligence | Berlin | London | Austin, Texas"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://sockpuppet.org/blog/2026/08/20/stop-making-tuis/",
+    "title": "Stop Making TUIs — Quarrelsome"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://danluu.com/perf-opt/",
+    "title": "There's no reason for software to be slow anymore"
   }
 ]
