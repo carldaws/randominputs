@@ -1,6 +1,11 @@
 [
   {
     "source": "hn",
+    "url": "https://e360.yale.edu/digest/bomb-fishing-coral-reefs",
+    "title": "Bomb Fishing Is Wreaking Havoc on Indonesia's Coral Reefs"
+  },
+  {
+    "source": "hn",
     "url": "https://www.cybernetica.fr/piratage-des-impots-comment-en-est-on-arrive-la/",
     "title": "France's tax agency got hacked (in French)"
   },
@@ -11,8 +16,13 @@
   },
   {
     "source": "hn",
-    "url": "https://e360.yale.edu/digest/bomb-fishing-coral-reefs",
-    "title": "Bomb Fishing Is Wreaking Havoc on Indonesia's Coral Reefs"
+    "url": "https://www.macrumors.com/2026/08/25/apple-releases-new-polishing-cloth/",
+    "title": "Apple Releases New Polishing Cloth"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.historytoday.com/archive/feature/beyond-good-and-evil-nietzsche-and-great-war",
+    "title": "Beyond Good and Evil: Nietzsche and the Great War"
   },
   {
     "source": "hn",
@@ -46,23 +56,13 @@
   },
   {
     "source": "hn",
-    "url": "https://app.dover.com/Autostep/careers/e9510e3b-a854-4e48-9e5d-c89796acaed4",
-    "title": "Autostep (YC P26) Is Hiring AI/Fullstack Engineers and a Chief of Staff"
-  },
-  {
-    "source": "hn",
     "url": "https://surya.website/rling-qwen-to-paint-with-code",
     "title": "Training AI to Paint with Code"
   },
   {
     "source": "hn",
-    "url": "https://blog.archive.org/2026/08/16/vintage-artificial-intelligence-before-it-got-awkward/",
-    "title": "Vintage Artificial Intelligence: Before It Got Awkward"
-  },
-  {
-    "source": "hn",
-    "url": "https://kylezhe.ng/writes/crafting-qr-codes",
-    "title": "Crafting QR Codes: A deep dive into QR code art (2024)"
+    "url": "https://app.dover.com/Autostep/careers/e9510e3b-a854-4e48-9e5d-c89796acaed4",
+    "title": "Autostep (YC P26) Is Hiring AI/Fullstack Engineers and a Chief of Staff"
   },
   {
     "source": "lobsters",
@@ -81,23 +81,28 @@
   },
   {
     "source": "lobsters",
-    "url": "https://larsfaye.com/articles/ai-coding-will-prevent-expertise",
-    "title": "AI Coding will Prevent Expertise"
-  },
-  {
-    "source": "lobsters",
     "url": "https://honk.foo/porffor-alpha/",
     "title": "Porffor goes alpha August 11th"
   },
   {
     "source": "lobsters",
-    "url": "https://adriansieber.com/announcing-perspec-1-0/",
-    "title": "Perspec 1.0: A Haskell desktop app for perspective correction of document photos"
+    "url": "https://larsfaye.com/articles/ai-coding-will-prevent-expertise",
+    "title": "AI Coding will Prevent Expertise"
   },
   {
     "source": "lobsters",
     "url": "https://galaxium.app",
     "title": "Galaxium, a WebGPU universe explorer"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://xyproblem.info/",
+    "title": "The XY Problem"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://adriansieber.com/announcing-perspec-1-0/",
+    "title": "Perspec 1.0: A Haskell desktop app for perspective correction of document photos"
   },
   {
     "source": "lobsters",
@@ -116,18 +121,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://arch.dog/bark/dynamically-naming-servers",
-    "title": "Dynamically Naming Servers"
+    "url": "https://blog.ihatereality.space/0C-never-type/",
+    "title": "I stabilized never type"
   },
   {
     "source": "lobsters",
-    "url": "https://xyproblem.info/",
-    "title": "The XY Problem"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://schlarp.com/posts/everything-i-own-owned/",
-    "title": "Everything I own, owned"
+    "url": "https://mgarletmilani.com/blog/2026-06-03-tessellations/",
+    "title": "Haskell diagrams: Tessellations"
   },
   {
     "source": "pinboard",
@@ -138,6 +138,11 @@
     "source": "pinboard",
     "url": "https://openlogi.org/",
     "title": "OpenLogi"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://schlarp.com/posts/everything-i-own-owned/",
+    "title": "Everything I own, owned - schlarp.com"
   },
   {
     "source": "pinboard",
