@@ -1,8 +1,18 @@
 [
   {
     "source": "hn",
+    "url": "https://rorz.io/writing/my-friend-aaron",
+    "title": "My Friend Aaron"
+  },
+  {
+    "source": "hn",
     "url": "https://e360.yale.edu/digest/bomb-fishing-coral-reefs",
     "title": "Bomb fishing is wreaking havoc on Indonesia's coral reefs"
+  },
+  {
+    "source": "hn",
+    "url": "https://nil.wallyjones.com/run-openbsd-on-digitalocean-for-4month/",
+    "title": "Run OpenBSD on DigitalOcean for $4/month"
   },
   {
     "source": "hn",
@@ -11,33 +21,33 @@
   },
   {
     "source": "hn",
-    "url": "https://rorz.io/writing/my-friend-aaron",
-    "title": "My Friend Aaron"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.historytoday.com/archive/feature/beyond-good-and-evil-nietzsche-and-great-war",
-    "title": "Beyond Good and Evil: Nietzsche and the Great War (2019)"
+    "url": "https://www.judegomila.com/posts/riemann-lambda-0.1787854",
+    "title": "A new ceiling for Λ: the de Bruijn–Newman constant"
   },
   {
     "source": "hn",
     "url": "https://blog.master.dev/tooltips-need-a-delay-and-then-they-need-to-skip-it/",
-    "title": "Tooltips Need a Delay, and Then They Need to Skip It"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.erathos.com/en/blog/mysql-cdc-to-bigquery",
-    "title": "MySQL CDC to BigQuery: what periodic syncs miss, and how binlog avoids it"
-  },
-  {
-    "source": "hn",
-    "url": "https://xusheng.dev/posts/reversing/mspaint_invisible_watermark/main/",
-    "title": "MS Paint and Photos inivisibly watermark even locally generated output with GUID"
+    "title": "Tooltips need a delay, and then they need to skip it"
   },
   {
     "source": "hn",
     "url": "https://movq.de/blog/postings/2026-08-05/0/POSTING-en.html",
     "title": "Visualizing Binary Files"
+  },
+  {
+    "source": "hn",
+    "url": "https://cua.ai/docs/how-to-guides/sandbox/minecraft",
+    "title": "Run Minecraft in a Windows sandbox for computer use agents"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.historytoday.com/archive/feature/beyond-good-and-evil-nietzsche-and-great-war",
+    "title": "Otto Dix, Nietzsche, and the Great War (2019)"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.kurz.net/posts/fuzzing-gleam-compiler",
+    "title": "Fuzzing the Gleam Compiler"
   },
   {
     "source": "hn",
@@ -48,16 +58,6 @@
     "source": "hn",
     "url": "https://paulgraham.com/prepare.html",
     "title": "How Universities Should Prepare Founders"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.masteringemacs.org/article/whats-new-in-emacs-311",
-    "title": "What's new in Emacs 31.1"
-  },
-  {
-    "source": "hn",
-    "url": "https://app.dover.com/Autostep/careers/e9510e3b-a854-4e48-9e5d-c89796acaed4",
-    "title": "Autostep (YC P26) Is Hiring AI/Fullstack Engineers and a Chief of Staff"
   },
   {
     "source": "lobsters",
@@ -81,13 +81,18 @@
   },
   {
     "source": "lobsters",
-    "url": "https://honk.foo/porffor-alpha/",
-    "title": "Porffor goes alpha August 11th"
+    "url": "https://pointersgonewild.com/2026-08-25-replacing-a-rust-enum-with-a-64-bit-word/",
+    "title": "Replacing a Rust Enum with a 64-bit Word Made My Interpreter 17% Faster"
   },
   {
     "source": "lobsters",
     "url": "https://galaxium.app",
     "title": "Galaxium, a WebGPU universe explorer"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://honk.foo/porffor-alpha/",
+    "title": "Porffor goes alpha August 11th"
   },
   {
     "source": "lobsters",
@@ -101,132 +106,12 @@
   },
   {
     "source": "lobsters",
-    "url": "https://pointersgonewild.com/2026-08-25-replacing-a-rust-enum-with-a-64-bit-word/",
-    "title": "Replacing a Rust Enum with a 64-bit Word Made My Interpreter 17% Faster"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://hitogata.neocities.org/POP-2000",
-    "title": "POP-2000, a lingua-franca POP-2 dialect"
-  },
-  {
-    "source": "lobsters",
     "url": "https://nathancooper.io/blog/2026-08-10-ipython-is-all-you-need",
     "title": "IPython is All You Need"
   },
   {
     "source": "lobsters",
-    "url": "https://jyn.dev/distributed-identity/",
-    "title": "distributed identity"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://nil.wallyjones.com/run-openbsd-on-digitalocean-for-4month/",
-    "title": "Run OpenBSD on DigitalOcean for $4/month"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://thinkinginpython.com/",
-    "title": "Thinking in Python"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://openlogi.org/",
-    "title": "OpenLogi"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://schlarp.com/posts/everything-i-own-owned/",
-    "title": "Everything I own, owned - schlarp.com"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://earendil.com/posts/what-is-a-harness/",
-    "title": "What is a Harness?"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://backtracking.github.io/en/2020/02/20/cs-books.html",
-    "title": "Jean-Christophe’s CS Book Recommendations"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://hister.org/",
-    "title": "Hister"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://nappertime.com/the-golden-rule-of-becoming-a-better-writer/",
-    "title": "The Golden Rule for Becoming a Better Writer - T.R Napper"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://chrisburnell.com/html-can-do-that/",
-    "title": "HTML Can Do That · Chris Burnell"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://debloat.dev/",
-    "title": "debloat.dev — replace the junk"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://lucumr.pocoo.org/2026/8/24/anger-anxiety-agency/",
-    "title": "Anger, Anxiety and Agency | Armin Ronacher's Thoughts and Writings"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://marcua.net/minitools/figmimic/",
-    "title": "Figmimic - A bookmarklet to copy any webpage into Figma as editable layers"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://lalitm.com/post/find-problems-staff-engineer/",
-    "title": "How I Find Problems to Solve as a Staff Engineer - Lalit Maganti"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://bandarlabs.github.io/Cobalt/",
-    "title": "Cobalt: apps and an SDK for Kobo e-readers"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://geometridae.bearblog.dev/a-friendly-introduction-to-racket/",
-    "title": "A Friendly Introduction to Racket – geometridae"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://academy.claude.com/",
-    "title": "Claude Academy · Learn to work and build with Claude"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.matuzo.at/blog/2026/html-boilerplate",
-    "title": "My HTML boilerplate in 2026 - Manuel Matuzović"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://picomq.com/",
-    "title": "PicoMQ"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://munderdiffl.in/",
-    "title": "Munder Difflin — Agent harness to run an office of your clones"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.seangoedecke.com/you-should-never-be-angry-at-work/",
-    "title": "You should never be angry at work"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.hamiltonulmer.com/customer-dashboards-r2-hyparquet/",
-    "title": "Fast drilldown dashboards from a single Parquet file"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.modelrepublic.org/articles/a16z-portfolio",
-    "title": "Andreessen Horowitz is shaping AI policy — while investing in a bleak vision of the future - Model Republic"
+    "url": "https://hitogata.neocities.org/POP-2000",
+    "title": "POP-2000, a lingua-franca POP-2 dialect"
   }
 ]
