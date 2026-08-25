@@ -6,13 +6,18 @@
   },
   {
     "source": "hn",
+    "url": "https://paulgraham.com/prepare.html",
+    "title": "How Universities Should Prepare Founders"
+  },
+  {
+    "source": "hn",
     "url": "https://ciechanow.ski/moon/",
     "title": "Moon (2024)"
   },
   {
     "source": "hn",
-    "url": "https://paulgraham.com/prepare.html",
-    "title": "How Universities Should Prepare Founders"
+    "url": "https://www.laude.org/updates/headlong-a-microharness-for-persistent-agents",
+    "title": "Headlong: A Microharness for Persistent Agents"
   },
   {
     "source": "hn",
@@ -21,8 +26,28 @@
   },
   {
     "source": "hn",
+    "url": "https://kylezhe.ng/writes/crafting-qr-codes",
+    "title": "Crafting QR Codes: A deep dive into QR code art (2024)"
+  },
+  {
+    "source": "hn",
+    "url": "https://nostr.org/",
+    "title": "Nostr is an inclusive communication commons"
+  },
+  {
+    "source": "hn",
+    "url": "https://surya.website/rling-qwen-to-paint-with-code",
+    "title": "Training AI to Paint with Code"
+  },
+  {
+    "source": "hn",
     "url": "https://gultsch.de/posts/25-years-of-digital-independence/",
     "title": "Jabber/XMPP: 25 Years of Digital Independence"
+  },
+  {
+    "source": "hn",
+    "url": "https://dejan.ai/blog/ox-alpha/",
+    "title": "Ox-Alpha Is GLM?"
   },
   {
     "source": "hn",
@@ -31,23 +56,13 @@
   },
   {
     "source": "hn",
+    "url": "https://www.masteringemacs.org/article/whats-new-in-emacs-311",
+    "title": "What's new in Emacs 31.1"
+  },
+  {
+    "source": "hn",
     "url": "https://boydkane.com/essays/llms-could-control-their-host-machines-by-exploiting-inference-engines",
     "title": "LLMs could control their host machines by exploiting inference engines"
-  },
-  {
-    "source": "hn",
-    "url": "https://proofcraft.systems/news-2026/#2026-08-21",
-    "title": "SeL4 security proofs now complete on AArch64"
-  },
-  {
-    "source": "hn",
-    "url": "https://ipshipyard.com/blog/2026-the-end-of-ipfs-at-shipyard/",
-    "title": "IPFS Maintainers Winding Down"
-  },
-  {
-    "source": "hn",
-    "url": "https://picomq.com/",
-    "title": "Show HN: PicoMQ – Durable Streams over HTTP, on object storage"
   },
   {
     "source": "hn",
@@ -56,18 +71,13 @@
   },
   {
     "source": "hn",
-    "url": "https://ssx360.github.io/rack-02/?src=hn",
-    "title": "Show HN: A techno machine in one HTML file, with verifiable renders"
+    "url": "https://solar.lowtechmagazine.com/2018/08/could-we-dredge-the-netherlands-without-fossil-fuels",
+    "title": "Could we dredge the Netherlands without fossil fuels? (2018)"
   },
   {
     "source": "hn",
-    "url": "https://developers.openai.com/api/docs/pricing",
-    "title": "OpenAI: GPT 5.6 Sol price reduction (until at least Nov 21)"
-  },
-  {
-    "source": "hn",
-    "url": "https://lucumr.pocoo.org/2026/8/24/anger-anxiety-agency/",
-    "title": "Anger, Anxiety and Agency"
+    "url": "https://proofcraft.systems/news-2026/#2026-08-21",
+    "title": "SeL4 security proofs now complete on AArch64"
   },
   {
     "source": "lobsters",
@@ -81,13 +91,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://adriansieber.com/announcing-perspec-1-0/",
-    "title": "Perspec 1.0: A Haskell desktop app for perspective correction of document photos"
+    "url": "https://larsfaye.com/articles/ai-coding-will-prevent-expertise",
+    "title": "AI Coding will Prevent Expertise"
   },
   {
     "source": "lobsters",
-    "url": "https://larsfaye.com/articles/ai-coding-will-prevent-expertise",
-    "title": "AI Coding will Prevent Expertise"
+    "url": "https://adriansieber.com/announcing-perspec-1-0/",
+    "title": "Perspec 1.0: A Haskell desktop app for perspective correction of document photos"
   },
   {
     "source": "lobsters",
@@ -101,6 +111,11 @@
   },
   {
     "source": "lobsters",
+    "url": "https://jyn.dev/distributed-identity/",
+    "title": "distributed identity"
+  },
+  {
+    "source": "lobsters",
     "url": "https://arch.dog/bark/dynamically-naming-servers",
     "title": "Dynamically Naming Servers"
   },
@@ -108,11 +123,6 @@
     "source": "lobsters",
     "url": "https://hitogata.neocities.org/POP-2000",
     "title": "POP-2000, a lingua-franca POP-2 dialect"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://jyn.dev/distributed-identity/",
-    "title": "distributed identity"
   },
   {
     "source": "lobsters",
@@ -141,112 +151,12 @@
   },
   {
     "source": "lobsters",
-    "url": "https://ericpardee.github.io/fire-hd-ownership/",
-    "title": "Amazon kept shutting down my tablet, so I spent $266 on four AI models to own it"
-  },
-  {
-    "source": "lobsters",
     "url": "https://www.osnews.com/story/144892/the-text-mode-lie-why-modern-tuis-are-a-nightmare-for-accessibility/",
     "title": "The text mode lie: why modern TUIs are a nightmare for accessibility"
   },
   {
-    "source": "pinboard",
-    "url": "https://chrisburnell.com/html-can-do-that/",
-    "title": "HTML Can Do That · Chris Burnell"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://thinkinginpython.com/",
-    "title": "Thinking in Python"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://openlogi.org/",
-    "title": "OpenLogi"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://lina.sh/blog/hijacking-e164-arpa",
-    "title": "I accidentally logged hundreds of thousands of phone calls to military bases - lina's blog"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://cymerys.com/w/im-becoming-ai-blind",
-    "title": "I'm becoming AI-blind - Rafal Cymerys"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://nappertime.com/the-golden-rule-of-becoming-a-better-writer/",
-    "title": "The Golden Rule for Becoming a Better Writer - T.R Napper"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://bandarlabs.github.io/Cobalt/",
-    "title": "Cobalt: apps and an SDK for Kobo e-readers"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://jsomers.net/i-should-have-loved-biology/",
-    "title": "jsomers.net | I should have loved biology"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://earendil.com/posts/what-is-a-harness/",
-    "title": "What is a Harness?"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://academy.claude.com/",
-    "title": "Claude Academy · Learn to work and build with Claude"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://hister.org/",
-    "title": "Hister"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.danielvaughn.dev/posts/huzzah/",
-    "title": "Huzzah"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://backtracking.github.io/en/2020/02/20/cs-books.html",
-    "title": "Jean-Christophe’s CS Book Recommendations"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://lalitm.com/post/find-problems-staff-engineer/",
-    "title": "How I Find Problems to Solve as a Staff Engineer - Lalit Maganti"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://geometridae.bearblog.dev/a-friendly-introduction-to-racket/",
-    "title": "A Friendly Introduction to Racket – geometridae"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.seangoedecke.com/you-should-never-be-angry-at-work/",
-    "title": "You should never be angry at work"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://omarchy.org/news/2026/08/omacom-foundation-launches-with-8-million/",
-    "title": "Omacom Foundation launches with $8 million — Omarchy News"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.raphaelbauer.com/posts/postgresql-everything/",
-    "title": "PostgreSQL for Everything - Dr. Raphael A. Bauer, MBA | Fractional & Interim CTO | PE/VC Tech Strategy & Due Diligence | Berlin | London | Austin, Texas"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://sockpuppet.org/blog/2026/08/20/stop-making-tuis/",
-    "title": "Stop Making TUIs — Quarrelsome"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://danluu.com/perf-opt/",
-    "title": "There's no reason for software to be slow anymore"
+    "source": "lobsters",
+    "url": "https://ericpardee.github.io/fire-hd-ownership/",
+    "title": "Amazon kept shutting down my tablet, so I spent $266 on four AI models to own it"
   }
 ]
