@@ -6,13 +6,18 @@
   },
   {
     "source": "hn",
+    "url": "https://www.psu.edu/news/research/story/more-half-adults-us-say-they-lack-basic-statistical-understanding",
+    "title": "More than half of adults in U.S. say they lack basic statistical understanding"
+  },
+  {
+    "source": "hn",
     "url": "https://fzakaria.com/2026/08/24/actually-queryable-executables",
     "title": "Queryable Executables"
   },
   {
     "source": "hn",
     "url": "https://sethmlarson.dev/when-str-lower-is-a-security-vulnerability",
-    "title": "When str.lower() is a security vulnerability in Python – Seth Larson"
+    "title": "When str.lower() is a security vulnerability in Python"
   },
   {
     "source": "hn",
@@ -41,11 +46,6 @@
   },
   {
     "source": "hn",
-    "url": "https://studyarena.com/blog/chatgpt-vs-claude-vs-gemini-college-essays-2026",
-    "title": "Students prefer Gemini over ChatGPT and Claude for AI essays in blind tests"
-  },
-  {
-    "source": "hn",
     "url": "https://movq.de/blog/postings/2026-08-05/0/POSTING-en.html",
     "title": "Visualizing Binary Files"
   },
@@ -53,11 +53,6 @@
     "source": "hn",
     "url": "https://www.jack.bio/blog/costco-gas-tracking",
     "title": "Tracking Costco gas prices"
-  },
-  {
-    "source": "hn",
-    "url": "https://fdeploy.com/",
-    "title": "Show HN: I built self-hosted deployment automation tool for Windows and IIS"
   },
   {
     "source": "lobsters",
@@ -81,6 +76,11 @@
   },
   {
     "source": "lobsters",
+    "url": "https://jdagostino.github.io/ai-pt2-multi-gpu-drifting/index.html",
+    "title": "AI At Home Part 2: Multi GPU Drifting"
+  },
+  {
+    "source": "lobsters",
     "url": "https://www.kurz.net/posts/fuzzing-gleam-compiler",
     "title": "Fuzzing The Gleam Compiler"
   },
@@ -101,11 +101,6 @@
   },
   {
     "source": "lobsters",
-    "url": "https://jdagostino.github.io/ai-pt2-multi-gpu-drifting/index.html",
-    "title": "AI At Home Part 2: Multi GPU Drifting"
-  },
-  {
-    "source": "lobsters",
     "url": "https://fzakaria.com/2026/08/23/your-executable-is-a-sqlite-database",
     "title": "Your executable is a SQLite database"
   },
@@ -116,12 +111,97 @@
   },
   {
     "source": "lobsters",
-    "url": "https://larsfaye.com/articles/ai-coding-will-prevent-expertise",
-    "title": "AI Coding will Prevent Expertise"
+    "url": "https://www.inkandswitch.com/livelymerge/notebook/",
+    "title": "Lively Merge | Collaborative programming kernels"
   },
   {
-    "source": "lobsters",
-    "url": "https://beyondgrep.com/feature-comparison/",
-    "title": "Feature comparison of ack, ag, git-grep, grep and ripgrep"
+    "source": "pinboard",
+    "url": "https://thinkinginpython.com/",
+    "title": "Thinking in Python"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://schlarp.com/posts/everything-i-own-owned/",
+    "title": "Everything I own, owned - schlarp.com"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://earendil.com/posts/what-is-a-harness/",
+    "title": "What is a Harness?"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://kylezhe.ng/writes/crafting-qr-codes",
+    "title": "Crafting QR Codes: A deep dive into QR code art | Kyle Zheng"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://backtracking.github.io/en/2020/02/20/cs-books.html",
+    "title": "Jean-Christophe’s CS Book Recommendations"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://debloat.dev/",
+    "title": "debloat.dev — replace the junk"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://hister.org/",
+    "title": "Hister"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://nappertime.com/the-golden-rule-of-becoming-a-better-writer/",
+    "title": "The Golden Rule for Becoming a Better Writer - T.R Napper"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://surya.website/rling-qwen-to-paint-with-code",
+    "title": "Training AI to Paint with Code (March 2026 · Research, Design, Development | Surya Narreddi)"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://fabiensanglard.net/agent.md/index.html",
+    "title": "My agent.md to improve LLM-assisted code quality"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.hamiltonulmer.com/customer-dashboards-r2-hyparquet/",
+    "title": "Fast drilldown dashboards from a single Parquet file"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://lalitm.com/post/find-problems-staff-engineer/",
+    "title": "How I Find Problems to Solve as a Staff Engineer - Lalit Maganti"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://openlogi.org/",
+    "title": "OpenLogi"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://lucumr.pocoo.org/2026/8/24/anger-anxiety-agency/",
+    "title": "Anger, Anxiety and Agency | Armin Ronacher's Thoughts and Writings"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://chillchamp1.github.io/github.io/#eu",
+    "title": "One Day on Rails"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://marcua.net/minitools/figmimic/",
+    "title": "Figmimic - A bookmarklet to copy any webpage into Figma as editable layers"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://picomq.com/",
+    "title": "PicoMQ"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.matuzo.at/blog/2026/html-boilerplate",
+    "title": "My HTML boilerplate in 2026 - Manuel Matuzović"
   }
 ]
