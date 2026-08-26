@@ -6,6 +6,11 @@
   },
   {
     "source": "hn",
+    "url": "https://www.bloomberg.com/news/articles/2026-08-26/china-s-z-ai-made-ox-alpha-stealth-model-that-rivals-deepseek",
+    "title": "Z.ai confirms Ox Alpha is a new GLM-series model and will release its weights"
+  },
+  {
+    "source": "hn",
     "url": "https://rupertlinacre.com/buslens/",
     "title": "Show HN: Buslens – where can I get to by bus? (UK)"
   },
@@ -26,6 +31,11 @@
   },
   {
     "source": "hn",
+    "url": "https://var0.xyz/posts/beyond-recall-and-the-illusion-of-competence.html",
+    "title": "Beyond Recall and the Illusion of Competence"
+  },
+  {
+    "source": "hn",
     "url": "https://sethmlarson.dev/when-str-lower-is-a-security-vulnerability",
     "title": "When str.lower() is a security vulnerability in Python"
   },
@@ -36,8 +46,8 @@
   },
   {
     "source": "hn",
-    "url": "https://www.psu.edu/news/research/story/more-half-adults-us-say-they-lack-basic-statistical-understanding",
-    "title": "More than half of adults in U.S. say they lack basic statistical understanding"
+    "url": "https://e360.yale.edu/digest/bomb-fishing-coral-reefs",
+    "title": "Bomb fishing is wreaking havoc on Indonesia's coral reefs"
   },
   {
     "source": "hn",
@@ -46,8 +56,8 @@
   },
   {
     "source": "hn",
-    "url": "https://e360.yale.edu/digest/bomb-fishing-coral-reefs",
-    "title": "Bomb fishing is wreaking havoc on Indonesia's coral reefs"
+    "url": "https://archive.org/details/1958-02_IF",
+    "title": "The Feeling of Power (Asimov, 1958)"
   },
   {
     "source": "hn",
@@ -61,8 +71,8 @@
   },
   {
     "source": "hn",
-    "url": "https://www.library.hbs.edu/working-knowledge/how-credit-card-rewards-became-multibillion-dollar-wealth-transfer",
-    "title": "How credit card rewards became a $9.2B wealth transfer"
+    "url": "https://www.psu.edu/news/research/story/more-half-adults-us-say-they-lack-basic-statistical-understanding",
+    "title": "More than half of adults in U.S. say they lack basic statistical understanding"
   },
   {
     "source": "lobsters",
@@ -81,8 +91,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://jfmengels.net/concurrent-linter-fixes/",
-    "title": "Problem with concurrent linter fixes"
+    "url": "https://victoriametrics.com/blog/go-sync-map-hash-trie/",
+    "title": "Understanding Go's sync.Map from API to Hash Trie"
   },
   {
     "source": "lobsters",
@@ -91,22 +101,17 @@
   },
   {
     "source": "lobsters",
+    "url": "https://jfmengels.net/concurrent-linter-fixes/",
+    "title": "Problem with concurrent linter fixes"
+  },
+  {
+    "source": "lobsters",
     "url": "https://acadia.engineering/blog/solving-the-1-plus-N-query-problem",
     "title": "Solving the 1+N query problem"
   },
   {
     "source": "lobsters",
-    "url": "https://var0.xyz/posts/beyond-recall-and-the-illusion-of-competence.html",
-    "title": "Beyond recall and the illusion of competence"
-  },
-  {
-    "source": "lobsters",
     "url": "https://jdagostino.github.io/ai-pt2-multi-gpu-drifting/index.html",
     "title": "AI At Home Part 2: Multi GPU Drifting"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://pointersgonewild.com/2026-08-25-replacing-a-rust-enum-with-a-64-bit-word/",
-    "title": "Replacing a Rust Enum with a 64-bit Word Made My Interpreter 17% Faster"
   }
 ]
