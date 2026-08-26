@@ -1,8 +1,18 @@
 [
   {
     "source": "hn",
+    "url": "https://openstreetmap.us/news/2026/08/oim-charter-project/",
+    "title": "Oldinsurancemaps.net is now a Charter Project"
+  },
+  {
+    "source": "hn",
     "url": "https://rupertlinacre.com/buslens/",
     "title": "Show HN: Buslens – where can I get to by bus? (UK)"
+  },
+  {
+    "source": "hn",
+    "url": "https://johan-sjolen.github.io/post/compiler-sympathy/compiler-sympathy/",
+    "title": "Value Classes Still Need Compiler Sympathy"
   },
   {
     "source": "hn",
@@ -21,18 +31,23 @@
   },
   {
     "source": "hn",
+    "url": "https://www.france24.com/en/live-news/20260826-social-media-use-on-the-rise-among-australian-under-16s-after-ban-data",
+    "title": "Social media use on the rise among Australian under-16s after ban: data"
+  },
+  {
+    "source": "hn",
     "url": "https://www.psu.edu/news/research/story/more-half-adults-us-say-they-lack-basic-statistical-understanding",
     "title": "More than half of adults in U.S. say they lack basic statistical understanding"
   },
   {
     "source": "hn",
-    "url": "https://e360.yale.edu/digest/bomb-fishing-coral-reefs",
-    "title": "Bomb fishing is wreaking havoc on Indonesia's coral reefs"
+    "url": "https://blog.master.dev/tooltips-need-a-delay-and-then-they-need-to-skip-it/",
+    "title": "Tooltips need a delay, and then they need to skip it"
   },
   {
     "source": "hn",
-    "url": "https://blog.master.dev/tooltips-need-a-delay-and-then-they-need-to-skip-it/",
-    "title": "Tooltips need a delay, and then they need to skip it"
+    "url": "https://e360.yale.edu/digest/bomb-fishing-coral-reefs",
+    "title": "Bomb fishing is wreaking havoc on Indonesia's coral reefs"
   },
   {
     "source": "hn",
@@ -48,16 +63,6 @@
     "source": "hn",
     "url": "https://www.library.hbs.edu/working-knowledge/how-credit-card-rewards-became-multibillion-dollar-wealth-transfer",
     "title": "How credit card rewards became a $9.2B wealth transfer"
-  },
-  {
-    "source": "hn",
-    "url": "https://rorz.io/writing/my-friend-aaron",
-    "title": "My Friend Aaron"
-  },
-  {
-    "source": "hn",
-    "url": "https://movq.de/blog/postings/2026-08-05/0/POSTING-en.html",
-    "title": "Visualizing Binary Files"
   },
   {
     "source": "lobsters",
@@ -81,13 +86,18 @@
   },
   {
     "source": "lobsters",
+    "url": "https://www.kurz.net/posts/fuzzing-gleam-compiler",
+    "title": "Fuzzing The Gleam Compiler"
+  },
+  {
+    "source": "lobsters",
     "url": "https://acadia.engineering/blog/solving-the-1-plus-N-query-problem",
     "title": "Solving the 1+N query problem"
   },
   {
     "source": "lobsters",
-    "url": "https://www.kurz.net/posts/fuzzing-gleam-compiler",
-    "title": "Fuzzing The Gleam Compiler"
+    "url": "https://var0.xyz/posts/beyond-recall-and-the-illusion-of-competence.html",
+    "title": "Beyond recall and the illusion of competence"
   },
   {
     "source": "lobsters",
@@ -98,15 +108,5 @@
     "source": "lobsters",
     "url": "https://pointersgonewild.com/2026-08-25-replacing-a-rust-enum-with-a-64-bit-word/",
     "title": "Replacing a Rust Enum with a 64-bit Word Made My Interpreter 17% Faster"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://xyproblem.info/",
-    "title": "The XY Problem"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://beyondgrep.com/feature-comparison/",
-    "title": "Feature comparison of ack, ag, git-grep, grep and ripgrep"
   }
 ]
