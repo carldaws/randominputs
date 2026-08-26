@@ -16,8 +16,53 @@
   },
   {
     "source": "hn",
+    "url": "https://www.nebulasans.com",
+    "title": "Nebula Sans"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.githubstatus.com/incidents/hcbtzksccj2f",
+    "title": "Disruption with Some GitHub Services"
+  },
+  {
+    "source": "hn",
+    "url": "https://farmaction.us/taylorfarmsreport/",
+    "title": "Taylor Farms: How One Company's Reach Became a National Risk"
+  },
+  {
+    "source": "hn",
+    "url": "https://cartefibre.arcep.fr",
+    "title": "France reaches 94.9% fiber coverage in 2026"
+  },
+  {
+    "source": "hn",
+    "url": "https://artificialanalysis.ai/models/glm-5-3-flash",
+    "title": "GLM-5.3-Flash Intelligence, Performance and Price Analysis"
+  },
+  {
+    "source": "hn",
+    "url": "https://sreenathmenon.com/blog/2026-08-04-webmcp-teaching-websites-to-talk-to-ai-agents/",
+    "title": "WebMCP: Teaching Your Website to Talk to AI Agents"
+  },
+  {
+    "source": "hn",
+    "url": "https://praveshkoirala.com/2026/08/26/you-could-have-invented-pagerank/",
+    "title": "You could have invented PageRank"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.ssp.sh/brain/using-obsidian-with-ai/",
+    "title": "It's so hard to finish an idea that is not yours (and suggested by AI)"
+  },
+  {
+    "source": "hn",
     "url": "https://entropicthoughts.com/curmudgeon-tries-language-server",
     "title": "A curmudgeon tries a language server"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.bookandsword.com/2026/08/25/a-citation-to-asimov/",
+    "title": "A Citation to Asimov"
   },
   {
     "source": "hn",
@@ -31,48 +76,13 @@
   },
   {
     "source": "hn",
+    "url": "https://thereader.mitpress.mit.edu/the-man-who-saw-humanity-from-two-billion-years-away/",
+    "title": "A Man Who Saw Humanity from Two Billion Years Away"
+  },
+  {
+    "source": "hn",
     "url": "https://var0.xyz/posts/beyond-recall-and-the-illusion-of-competence.html",
     "title": "Beyond Recall and the Illusion of Competence"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.fda.gov/news-events/press-announcements/fda-authorizes-first-wearable-device-continuously-monitors-both-ketone-levels-and-blood-sugar",
-    "title": "FDA authorizes first wearable device that monitors ketone and blood sugar levels"
-  },
-  {
-    "source": "hn",
-    "url": "https://johan-sjolen.github.io/post/compiler-sympathy/compiler-sympathy/",
-    "title": "Value Classes Still Need Compiler Sympathy"
-  },
-  {
-    "source": "hn",
-    "url": "https://fzakaria.com/2026/08/24/actually-queryable-executables",
-    "title": "Queryable Executables"
-  },
-  {
-    "source": "hn",
-    "url": "https://sethmlarson.dev/when-str-lower-is-a-security-vulnerability",
-    "title": "When str.lower() is a security vulnerability in Python"
-  },
-  {
-    "source": "hn",
-    "url": "https://rupertlinacre.com/buslens/",
-    "title": "Show HN: Buslens – where can I get to by bus? (UK)"
-  },
-  {
-    "source": "hn",
-    "url": "https://blog.master.dev/tooltips-need-a-delay-and-then-they-need-to-skip-it/",
-    "title": "Tooltips need a delay, and then they need to skip it"
-  },
-  {
-    "source": "hn",
-    "url": "https://nil.wallyjones.com/run-openbsd-on-digitalocean-for-4month/",
-    "title": "Run OpenBSD on DigitalOcean for $4/month"
-  },
-  {
-    "source": "hn",
-    "url": "https://e360.yale.edu/digest/bomb-fishing-coral-reefs",
-    "title": "Bomb fishing is wreaking havoc on Indonesia's coral reefs"
   },
   {
     "source": "lobsters",
@@ -86,6 +96,21 @@
   },
   {
     "source": "lobsters",
+    "url": "https://blog.happyfellow.dev/merchants-of-insecurity/",
+    "title": "Merchants of Insecurity"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://academy.fpblock.com/blog/2017/06/readert-design-pattern/",
+    "title": "The ReaderT Design Pattern (2017)"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://fgiesen.wordpress.com/2026/08/25/memory-ordering-in-cpus/",
+    "title": "Memory ordering in CPUs"
+  },
+  {
+    "source": "lobsters",
     "url": "https://www.jack.bio/blog/licenseplate",
     "title": "Using TypeScript to Obtain One of the Rarest License Plates (2025)"
   },
@@ -96,28 +121,18 @@
   },
   {
     "source": "lobsters",
-    "url": "https://fgiesen.wordpress.com/2026/08/25/memory-ordering-in-cpus/",
-    "title": "Memory ordering in CPUs"
+    "url": "https://nil.wallyjones.com/run-openbsd-on-digitalocean-for-4month/",
+    "title": "Run OpenBSD on DigitalOcean for $4/month"
   },
   {
     "source": "lobsters",
-    "url": "https://academy.fpblock.com/blog/2017/06/readert-design-pattern/",
-    "title": "The ReaderT Design Pattern (2017)"
+    "url": "https://thecloudlet.github.io/technical/compiler/catching-nan-at-the-mlir-pass-boundary/",
+    "title": "Catching NaN at the MLIR Pass Boundary"
   },
   {
     "source": "lobsters",
     "url": "https://kevinmahoney.co.uk/articles/ai-review-loops/",
     "title": "AI Review Loops Don't Always Stabilise"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://www.kurz.net/posts/fuzzing-gleam-compiler",
-    "title": "Fuzzing The Gleam Compiler"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://blog.happyfellow.dev/merchants-of-insecurity/",
-    "title": "Merchants of Insecurity"
   },
   {
     "source": "pinboard",
