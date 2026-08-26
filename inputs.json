@@ -1,6 +1,11 @@
 [
   {
     "source": "hn",
+    "url": "https://blog.happyfellow.dev/merchants-of-insecurity/",
+    "title": "Omarchy is full of security holes"
+  },
+  {
+    "source": "hn",
     "url": "https://openstreetmap.us/news/2026/08/oim-charter-project/",
     "title": "Oldinsurancemaps.net is now a Charter Project"
   },
@@ -11,13 +16,18 @@
   },
   {
     "source": "hn",
+    "url": "https://johan-sjolen.github.io/post/compiler-sympathy/compiler-sympathy/",
+    "title": "Value Classes Still Need Compiler Sympathy"
+  },
+  {
+    "source": "hn",
     "url": "https://rupertlinacre.com/buslens/",
     "title": "Show HN: Buslens – where can I get to by bus? (UK)"
   },
   {
     "source": "hn",
-    "url": "https://johan-sjolen.github.io/post/compiler-sympathy/compiler-sympathy/",
-    "title": "Value Classes Still Need Compiler Sympathy"
+    "url": "https://var0.xyz/posts/beyond-recall-and-the-illusion-of-competence.html",
+    "title": "Beyond Recall and the Illusion of Competence"
   },
   {
     "source": "hn",
@@ -31,23 +41,13 @@
   },
   {
     "source": "hn",
-    "url": "https://var0.xyz/posts/beyond-recall-and-the-illusion-of-competence.html",
-    "title": "Beyond Recall and the Illusion of Competence"
-  },
-  {
-    "source": "hn",
     "url": "https://sethmlarson.dev/when-str-lower-is-a-security-vulnerability",
     "title": "When str.lower() is a security vulnerability in Python"
   },
   {
     "source": "hn",
-    "url": "https://www.france24.com/en/live-news/20260826-social-media-use-on-the-rise-among-australian-under-16s-after-ban-data",
-    "title": "Social media use on the rise among Australian under-16s after ban: data"
-  },
-  {
-    "source": "hn",
-    "url": "https://e360.yale.edu/digest/bomb-fishing-coral-reefs",
-    "title": "Bomb fishing is wreaking havoc on Indonesia's coral reefs"
+    "url": "https://www.theregister.com/ai-and-ml/2026/08/26/debian-polls-its-developers-on-whether-to-burn-the-bots-tame-the-bots-or-let-em-loose/5292270",
+    "title": "Debian polls its developers on AI: permit or ban?"
   },
   {
     "source": "hn",
@@ -56,8 +56,8 @@
   },
   {
     "source": "hn",
-    "url": "https://archive.org/details/1958-02_IF",
-    "title": "The Feeling of Power (Asimov, 1958)"
+    "url": "https://e360.yale.edu/digest/bomb-fishing-coral-reefs",
+    "title": "Bomb fishing is wreaking havoc on Indonesia's coral reefs"
   },
   {
     "source": "hn",
@@ -71,18 +71,13 @@
   },
   {
     "source": "hn",
-    "url": "https://www.psu.edu/news/research/story/more-half-adults-us-say-they-lack-basic-statistical-understanding",
-    "title": "More than half of adults in U.S. say they lack basic statistical understanding"
+    "url": "https://www.library.hbs.edu/working-knowledge/how-credit-card-rewards-became-multibillion-dollar-wealth-transfer",
+    "title": "How credit card rewards became a $9.2B wealth transfer"
   },
   {
     "source": "lobsters",
     "url": "https://blog.ihatereality.space/0C-never-type/",
     "title": "I stabilized never type"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://kevinmahoney.co.uk/articles/ai-review-loops/",
-    "title": "AI Review Loops Don't Always Stabilise"
   },
   {
     "source": "lobsters",
@@ -96,18 +91,28 @@
   },
   {
     "source": "lobsters",
-    "url": "https://www.kurz.net/posts/fuzzing-gleam-compiler",
-    "title": "Fuzzing The Gleam Compiler"
-  },
-  {
-    "source": "lobsters",
     "url": "https://jfmengels.net/concurrent-linter-fixes/",
     "title": "Problem with concurrent linter fixes"
   },
   {
     "source": "lobsters",
+    "url": "https://kevinmahoney.co.uk/articles/ai-review-loops/",
+    "title": "AI Review Loops Don't Always Stabilise"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://www.kurz.net/posts/fuzzing-gleam-compiler",
+    "title": "Fuzzing The Gleam Compiler"
+  },
+  {
+    "source": "lobsters",
     "url": "https://acadia.engineering/blog/solving-the-1-plus-N-query-problem",
     "title": "Solving the 1+N query problem"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://academy.fpblock.com/blog/2017/06/readert-design-pattern/",
+    "title": "The ReaderT Design Pattern (2017)"
   },
   {
     "source": "lobsters",
