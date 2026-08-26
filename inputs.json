@@ -1,11 +1,6 @@
 [
   {
     "source": "hn",
-    "url": "https://sebsite.pw/w/20260801-pythonconstants.html",
-    "title": "Python's pre-declared constants are kinda weird"
-  },
-  {
-    "source": "hn",
     "url": "https://www.fda.gov/news-events/press-announcements/fda-authorizes-first-wearable-device-continuously-monitors-both-ketone-levels-and-blood-sugar",
     "title": "FDA authorizes first wearable device that monitors ketone and blood sugar levels"
   },
@@ -38,6 +33,16 @@
     "source": "hn",
     "url": "https://blog.master.dev/tooltips-need-a-delay-and-then-they-need-to-skip-it/",
     "title": "Tooltips need a delay, and then they need to skip it"
+  },
+  {
+    "source": "hn",
+    "url": "https://sebsite.pw/w/20260801-pythonconstants.html",
+    "title": "Python's pre-declared constants are kinda weird"
+  },
+  {
+    "source": "hn",
+    "url": "https://fzakaria.com/2026/08/24/actually-queryable-executables",
+    "title": "Queryable Executables"
   },
   {
     "source": "hn",
@@ -91,6 +96,16 @@
   },
   {
     "source": "lobsters",
+    "url": "https://honk.foo/porffor-alpha/",
+    "title": "Porffor goes alpha August 11th"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://www.kurz.net/posts/fuzzing-gleam-compiler",
+    "title": "Fuzzing The Gleam Compiler"
+  },
+  {
+    "source": "lobsters",
     "url": "https://jdagostino.github.io/ai-pt2-multi-gpu-drifting/index.html",
     "title": "AI At Home Part 2: Multi GPU Drifting"
   },
@@ -101,8 +116,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://honk.foo/porffor-alpha/",
-    "title": "Porffor goes alpha August 11th"
+    "url": "https://beyondgrep.com/feature-comparison/",
+    "title": "Feature comparison of ack, ag, git-grep, grep and ripgrep"
   },
   {
     "source": "lobsters",
@@ -111,7 +126,7 @@
   },
   {
     "source": "lobsters",
-    "url": "https://beyondgrep.com/feature-comparison/",
-    "title": "Feature comparison of ack, ag, git-grep, grep and ripgrep"
+    "url": "https://www.inkandswitch.com/livelymerge/notebook/",
+    "title": "Lively Merge | Collaborative programming kernels"
   }
 ]
