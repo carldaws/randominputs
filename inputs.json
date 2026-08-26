@@ -6,6 +6,11 @@
   },
   {
     "source": "hn",
+    "url": "https://fzakaria.com/2026/08/24/actually-queryable-executables",
+    "title": "Queryable Executables"
+  },
+  {
+    "source": "hn",
     "url": "https://sethmlarson.dev/when-str-lower-is-a-security-vulnerability",
     "title": "When str.lower() is a security vulnerability in Python – Seth Larson"
   },
@@ -21,6 +26,11 @@
   },
   {
     "source": "hn",
+    "url": "https://blog.master.dev/tooltips-need-a-delay-and-then-they-need-to-skip-it/",
+    "title": "Tooltips need a delay, and then they need to skip it"
+  },
+  {
+    "source": "hn",
     "url": "https://dontwordle.com/",
     "title": "Don't Wordle"
   },
@@ -31,18 +41,8 @@
   },
   {
     "source": "hn",
-    "url": "https://blog.master.dev/tooltips-need-a-delay-and-then-they-need-to-skip-it/",
-    "title": "Tooltips need a delay, and then they need to skip it"
-  },
-  {
-    "source": "hn",
-    "url": "https://sebsite.pw/w/20260801-pythonconstants.html",
-    "title": "Python's pre-declared constants are kinda weird"
-  },
-  {
-    "source": "hn",
-    "url": "https://fzakaria.com/2026/08/24/actually-queryable-executables",
-    "title": "Queryable Executables"
+    "url": "https://movq.de/blog/postings/2026-08-05/0/POSTING-en.html",
+    "title": "Visualizing Binary Files"
   },
   {
     "source": "hn",
@@ -55,14 +55,14 @@
     "title": "Show HN: I built self-hosted deployment automation tool for Windows and IIS"
   },
   {
-    "source": "hn",
-    "url": "https://movq.de/blog/postings/2026-08-05/0/POSTING-en.html",
-    "title": "Visualizing Binary Files"
-  },
-  {
     "source": "lobsters",
     "url": "https://blog.ihatereality.space/0C-never-type/",
     "title": "I stabilized never type"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://kevinmahoney.co.uk/articles/ai-review-loops/",
+    "title": "AI Review Loops Don't Always Stabilise"
   },
   {
     "source": "lobsters",
@@ -71,8 +71,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://kevinmahoney.co.uk/articles/ai-review-loops/",
-    "title": "AI Review Loops Don't Always Stabilise"
+    "url": "https://pointersgonewild.com/2026-08-25-replacing-a-rust-enum-with-a-64-bit-word/",
+    "title": "Replacing a Rust Enum with a 64-bit Word Made My Interpreter 17% Faster"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://xyproblem.info/",
+    "title": "The XY Problem"
   },
   {
     "source": "lobsters",
@@ -86,11 +91,6 @@
   },
   {
     "source": "lobsters",
-    "url": "https://pointersgonewild.com/2026-08-25-replacing-a-rust-enum-with-a-64-bit-word/",
-    "title": "Replacing a Rust Enum with a 64-bit Word Made My Interpreter 17% Faster"
-  },
-  {
-    "source": "lobsters",
     "url": "https://larsfaye.com/articles/ai-coding-will-prevent-expertise",
     "title": "AI Coding will Prevent Expertise"
   },
@@ -98,21 +98,6 @@
     "source": "lobsters",
     "url": "https://honk.foo/porffor-alpha/",
     "title": "Porffor goes alpha August 11th"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://www.kurz.net/posts/fuzzing-gleam-compiler",
-    "title": "Fuzzing The Gleam Compiler"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://jdagostino.github.io/ai-pt2-multi-gpu-drifting/index.html",
-    "title": "AI At Home Part 2: Multi GPU Drifting"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://xyproblem.info/",
-    "title": "The XY Problem"
   },
   {
     "source": "lobsters",
@@ -126,7 +111,12 @@
   },
   {
     "source": "lobsters",
-    "url": "https://www.inkandswitch.com/livelymerge/notebook/",
-    "title": "Lively Merge | Collaborative programming kernels"
+    "url": "https://www.kurz.net/posts/fuzzing-gleam-compiler",
+    "title": "Fuzzing The Gleam Compiler"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://jdagostino.github.io/ai-pt2-multi-gpu-drifting/index.html",
+    "title": "AI At Home Part 2: Multi GPU Drifting"
   }
 ]
