@@ -1,8 +1,13 @@
 [
   {
     "source": "hn",
-    "url": "https://blog.happyfellow.dev/merchants-of-insecurity/",
-    "title": "Omarchy is full of security holes"
+    "url": "https://ducklabs.com/news/2026/08/26/ducklabs-to-join-aws",
+    "title": "AWS Acquires DuckDB"
+  },
+  {
+    "source": "hn",
+    "url": "https://qwen.ai/blog?id=qwen3.8-flash-next",
+    "title": "Qwen3.8-Flash-Next: A New Architecture, Towards Ultimate Cost-Efficiency"
   },
   {
     "source": "hn",
@@ -11,18 +16,13 @@
   },
   {
     "source": "hn",
+    "url": "https://entropicthoughts.com/curmudgeon-tries-language-server",
+    "title": "A curmudgeon tries a language server"
+  },
+  {
+    "source": "hn",
     "url": "https://www.bloomberg.com/news/articles/2026-08-26/china-s-z-ai-made-ox-alpha-stealth-model-that-rivals-deepseek",
     "title": "Z.ai confirms Ox Alpha is a new GLM-series model and will release its weights"
-  },
-  {
-    "source": "hn",
-    "url": "https://johan-sjolen.github.io/post/compiler-sympathy/compiler-sympathy/",
-    "title": "Value Classes Still Need Compiler Sympathy"
-  },
-  {
-    "source": "hn",
-    "url": "https://rupertlinacre.com/buslens/",
-    "title": "Show HN: Buslens – where can I get to by bus? (UK)"
   },
   {
     "source": "hn",
@@ -36,8 +36,28 @@
   },
   {
     "source": "hn",
+    "url": "https://johan-sjolen.github.io/post/compiler-sympathy/compiler-sympathy/",
+    "title": "Value Classes Still Need Compiler Sympathy"
+  },
+  {
+    "source": "hn",
     "url": "https://fzakaria.com/2026/08/24/actually-queryable-executables",
     "title": "Queryable Executables"
+  },
+  {
+    "source": "hn",
+    "url": "https://blog.happyfellow.dev/merchants-of-insecurity/",
+    "title": "Omarchy development practices lead to predictable security issues"
+  },
+  {
+    "source": "hn",
+    "url": "https://rupertlinacre.com/buslens/",
+    "title": "Show HN: Buslens – where can I get to by bus? (UK)"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.gatesnotes.com/work/make-ai-work-for-everyone/reader/a-turbulent-ai-era-and-critical-choices-to-make",
+    "title": "Bill Gates: The turbulent AI era is here"
   },
   {
     "source": "hn",
@@ -46,33 +66,13 @@
   },
   {
     "source": "hn",
-    "url": "https://www.theregister.com/ai-and-ml/2026/08/26/debian-polls-its-developers-on-whether-to-burn-the-bots-tame-the-bots-or-let-em-loose/5292270",
-    "title": "Debian polls its developers on AI: permit or ban?"
-  },
-  {
-    "source": "hn",
-    "url": "https://blog.master.dev/tooltips-need-a-delay-and-then-they-need-to-skip-it/",
-    "title": "Tooltips need a delay, and then they need to skip it"
-  },
-  {
-    "source": "hn",
-    "url": "https://e360.yale.edu/digest/bomb-fishing-coral-reefs",
-    "title": "Bomb fishing is wreaking havoc on Indonesia's coral reefs"
-  },
-  {
-    "source": "hn",
     "url": "https://nil.wallyjones.com/run-openbsd-on-digitalocean-for-4month/",
     "title": "Run OpenBSD on DigitalOcean for $4/month"
   },
   {
     "source": "hn",
-    "url": "https://dontwordle.com/",
-    "title": "Don't Wordle"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.library.hbs.edu/working-knowledge/how-credit-card-rewards-became-multibillion-dollar-wealth-transfer",
-    "title": "How credit card rewards became a $9.2B wealth transfer"
+    "url": "https://blog.master.dev/tooltips-need-a-delay-and-then-they-need-to-skip-it/",
+    "title": "Tooltips need a delay, and then they need to skip it"
   },
   {
     "source": "lobsters",
@@ -86,13 +86,18 @@
   },
   {
     "source": "lobsters",
+    "url": "https://jfmengels.net/concurrent-linter-fixes/",
+    "title": "Problem with concurrent linter fixes"
+  },
+  {
+    "source": "lobsters",
     "url": "https://victoriametrics.com/blog/go-sync-map-hash-trie/",
     "title": "Understanding Go's sync.Map from API to Hash Trie"
   },
   {
     "source": "lobsters",
-    "url": "https://jfmengels.net/concurrent-linter-fixes/",
-    "title": "Problem with concurrent linter fixes"
+    "url": "https://academy.fpblock.com/blog/2017/06/readert-design-pattern/",
+    "title": "The ReaderT Design Pattern (2017)"
   },
   {
     "source": "lobsters",
@@ -111,12 +116,107 @@
   },
   {
     "source": "lobsters",
-    "url": "https://academy.fpblock.com/blog/2017/06/readert-design-pattern/",
-    "title": "The ReaderT Design Pattern (2017)"
+    "url": "https://fgiesen.wordpress.com/2026/08/25/memory-ordering-in-cpus/",
+    "title": "Memory ordering in CPUs"
   },
   {
-    "source": "lobsters",
-    "url": "https://jdagostino.github.io/ai-pt2-multi-gpu-drifting/index.html",
-    "title": "AI At Home Part 2: Multi GPU Drifting"
+    "source": "pinboard",
+    "url": "https://thinkinginpython.com/",
+    "title": "Thinking in Python"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://schlarp.com/posts/everything-i-own-owned/",
+    "title": "Everything I own, owned - schlarp.com"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://fzakaria.com/2026/08/23/your-executable-is-a-sqlite-database",
+    "title": "Your executable is a SQLite database | Farid Zakaria’s Blog"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://earendil.com/posts/what-is-a-harness/",
+    "title": "What is a Harness?"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://kylezhe.ng/writes/crafting-qr-codes",
+    "title": "Crafting QR Codes: A deep dive into QR code art | Kyle Zheng"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://backtracking.github.io/en/2020/02/20/cs-books.html",
+    "title": "Jean-Christophe’s CS Book Recommendations"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://debloat.dev/",
+    "title": "debloat.dev — replace the junk"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://hister.org/",
+    "title": "Hister"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://nappertime.com/the-golden-rule-of-becoming-a-better-writer/",
+    "title": "The Golden Rule for Becoming a Better Writer - T.R Napper"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://surya.website/rling-qwen-to-paint-with-code",
+    "title": "Training AI to Paint with Code (March 2026 · Research, Design, Development | Surya Narreddi)"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://fabiensanglard.net/agent.md/index.html",
+    "title": "My agent.md to improve LLM-assisted code quality"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.hamiltonulmer.com/customer-dashboards-r2-hyparquet/",
+    "title": "Fast drilldown dashboards from a single Parquet file"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://lalitm.com/post/find-problems-staff-engineer/",
+    "title": "How I Find Problems to Solve as a Staff Engineer - Lalit Maganti"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://openlogi.org/",
+    "title": "OpenLogi"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://lucumr.pocoo.org/2026/8/24/anger-anxiety-agency/",
+    "title": "Anger, Anxiety and Agency | Armin Ronacher's Thoughts and Writings"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://chillchamp1.github.io/github.io/#eu",
+    "title": "One Day on Rails"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://marcua.net/minitools/figmimic/",
+    "title": "Figmimic - A bookmarklet to copy any webpage into Figma as editable layers"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://picomq.com/",
+    "title": "PicoMQ"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://blog.archive.org/2026/08/16/vintage-artificial-intelligence-before-it-got-awkward/",
+    "title": "Vintage Artificial Intelligence: Before It Got Awkward | Internet Archive Blogs"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.matuzo.at/blog/2026/html-boilerplate",
+    "title": "My HTML boilerplate in 2026 - Manuel Matuzović"
   }
 ]
