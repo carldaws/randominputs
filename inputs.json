@@ -1,23 +1,13 @@
 [
   {
     "source": "hn",
-    "url": "https://ducklabs.com/news/2026/08/26/ducklabs-to-join-aws",
-    "title": "AWS Acquires DuckDB"
-  },
-  {
-    "source": "hn",
     "url": "https://z.ai/blog/glm-5.3-flash",
     "title": "GLM-5.3-Flash"
   },
   {
     "source": "hn",
-    "url": "https://qwen.ai/blog?id=qwen3.8-flash-next",
-    "title": "Qwen3.8-Flash-Next: A New Architecture, Towards Ultimate Cost-Efficiency"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.nebulasans.com",
-    "title": "Nebula Sans"
+    "url": "https://ducklabs.com/news/2026/08/26/ducklabs-to-join-aws",
+    "title": "AWS Acquires DuckLabs"
   },
   {
     "source": "hn",
@@ -26,53 +16,63 @@
   },
   {
     "source": "hn",
+    "url": "https://qwen.ai/blog?id=qwen3.8-flash-next",
+    "title": "Qwen3.8-Flash-Next"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.nebulasans.com",
+    "title": "Nebula Sans"
+  },
+  {
+    "source": "hn",
+    "url": "https://insurancewatchdogcoalition.com/wp-content/uploads/2026/08/UHG-Profits-Study_August-2026.pdf",
+    "title": "Study Reveals UnitedHealth's Profit Margins Four Times What It Claimed [pdf]"
+  },
+  {
+    "source": "hn",
     "url": "https://farmaction.us/taylorfarmsreport/",
     "title": "Taylor Farms: How One Company's Reach Became a National Risk"
   },
   {
     "source": "hn",
-    "url": "https://cartefibre.arcep.fr",
-    "title": "France reaches 94.9% fiber coverage in 2026"
-  },
-  {
-    "source": "hn",
-    "url": "https://artificialanalysis.ai/models/glm-5-3-flash",
-    "title": "GLM-5.3-Flash Intelligence, Performance and Price Analysis"
-  },
-  {
-    "source": "hn",
-    "url": "https://sreenathmenon.com/blog/2026-08-04-webmcp-teaching-websites-to-talk-to-ai-agents/",
-    "title": "WebMCP: Teaching Your Website to Talk to AI Agents"
-  },
-  {
-    "source": "hn",
-    "url": "https://praveshkoirala.com/2026/08/26/you-could-have-invented-pagerank/",
-    "title": "You could have invented PageRank"
+    "url": "https://hotosm.org/en/news/comaps-the-offline-app-that-guided-rescuers-without-a-signal-in-the-venezuela-response/",
+    "title": "CoMaps: The Offline App That Guided Rescuers Without a Signal in Venezuela"
   },
   {
     "source": "hn",
     "url": "https://www.ssp.sh/brain/using-obsidian-with-ai/",
-    "title": "It's so hard to finish an idea that is not yours (and suggested by AI)"
+    "title": "It’s so hard to finish an idea that is not yours and is just suggested by AI"
   },
   {
     "source": "hn",
-    "url": "https://entropicthoughts.com/curmudgeon-tries-language-server",
-    "title": "A curmudgeon tries a language server"
+    "url": "https://praveshkoirala.com/2026/08/26/you-could-have-invented-pagerank/",
+    "title": "PageRank explained"
   },
   {
     "source": "hn",
-    "url": "https://www.bookandsword.com/2026/08/25/a-citation-to-asimov/",
-    "title": "A Citation to Asimov"
+    "url": "https://www.fda.gov/news-events/press-announcements/fda-approves-first-class-targeted-therapy-metastatic-pancreatic-cancer",
+    "title": "FDA Approves First in Class Targeted Therapy for Metastatic Pancreatic Cancer"
   },
   {
     "source": "hn",
-    "url": "https://openstreetmap.us/news/2026/08/oim-charter-project/",
-    "title": "Oldinsurancemaps.net is now a Charter Project"
+    "url": "https://www.gatesnotes.com/a-turbulent-ai-era-and-critical-choices-to-make",
+    "title": "The turbulent AI era is here"
   },
   {
     "source": "hn",
-    "url": "https://www.bloomberg.com/news/articles/2026-08-26/china-s-z-ai-made-ox-alpha-stealth-model-that-rivals-deepseek",
-    "title": "Z.ai confirms Ox Alpha is a new GLM-series model and will release its weights"
+    "url": "https://www.wsj.com/politics/policy/u-s-state-department-pauses-immigrant-visa-applications-25b31b23",
+    "title": "U.S. State Department Pauses Immigrant Visa Applications"
+  },
+  {
+    "source": "hn",
+    "url": "https://graze.leaflet.pub/3mtypcuxxc22p",
+    "title": "Graze Joins Flipboard"
+  },
+  {
+    "source": "hn",
+    "url": "https://e360.yale.edu/digest/scotland-woodlands-antidepressants",
+    "title": "Access to Urban Woodlands Linked with Lower Use of Antidepressants"
   },
   {
     "source": "hn",
@@ -80,9 +80,9 @@
     "title": "A Man Who Saw Humanity from Two Billion Years Away"
   },
   {
-    "source": "hn",
-    "url": "https://var0.xyz/posts/beyond-recall-and-the-illusion-of-competence.html",
-    "title": "Beyond Recall and the Illusion of Competence"
+    "source": "lobsters",
+    "url": "https://www.haiku-os.org/get-haiku/r1beta6/release-notes/",
+    "title": "Haiku R1/beta6 released"
   },
   {
     "source": "lobsters",
@@ -91,18 +91,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://victoriametrics.com/blog/go-sync-map-hash-trie/",
-    "title": "Understanding Go's sync.Map from API to Hash Trie"
-  },
-  {
-    "source": "lobsters",
     "url": "https://blog.happyfellow.dev/merchants-of-insecurity/",
     "title": "Merchants of Insecurity"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://academy.fpblock.com/blog/2017/06/readert-design-pattern/",
-    "title": "The ReaderT Design Pattern (2017)"
   },
   {
     "source": "lobsters",
@@ -111,8 +101,18 @@
   },
   {
     "source": "lobsters",
-    "url": "https://www.jack.bio/blog/licenseplate",
-    "title": "Using TypeScript to Obtain One of the Rarest License Plates (2025)"
+    "url": "https://victoriametrics.com/blog/go-sync-map-hash-trie/",
+    "title": "Understanding Go's sync.Map from API to Hash Trie"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://academy.fpblock.com/blog/2017/06/readert-design-pattern/",
+    "title": "The ReaderT Design Pattern (2017)"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://var0.xyz/posts/beyond-recall-and-the-illusion-of-competence.html",
+    "title": "Beyond recall and the illusion of competence"
   },
   {
     "source": "lobsters",
@@ -121,117 +121,12 @@
   },
   {
     "source": "lobsters",
+    "url": "https://www.jack.bio/blog/licenseplate",
+    "title": "Using TypeScript to Obtain One of the Rarest License Plates (2025)"
+  },
+  {
+    "source": "lobsters",
     "url": "https://nil.wallyjones.com/run-openbsd-on-digitalocean-for-4month/",
     "title": "Run OpenBSD on DigitalOcean for $4/month"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://thecloudlet.github.io/technical/compiler/catching-nan-at-the-mlir-pass-boundary/",
-    "title": "Catching NaN at the MLIR Pass Boundary"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://kevinmahoney.co.uk/articles/ai-review-loops/",
-    "title": "AI Review Loops Don't Always Stabilise"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://thinkinginpython.com/",
-    "title": "Thinking in Python"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://schlarp.com/posts/everything-i-own-owned/",
-    "title": "Everything I own, owned - schlarp.com"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://fzakaria.com/2026/08/23/your-executable-is-a-sqlite-database",
-    "title": "Your executable is a SQLite database | Farid Zakaria’s Blog"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://earendil.com/posts/what-is-a-harness/",
-    "title": "What is a Harness?"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://kylezhe.ng/writes/crafting-qr-codes",
-    "title": "Crafting QR Codes: A deep dive into QR code art | Kyle Zheng"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://backtracking.github.io/en/2020/02/20/cs-books.html",
-    "title": "Jean-Christophe’s CS Book Recommendations"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://debloat.dev/",
-    "title": "debloat.dev — replace the junk"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://hister.org/",
-    "title": "Hister"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://nappertime.com/the-golden-rule-of-becoming-a-better-writer/",
-    "title": "The Golden Rule for Becoming a Better Writer - T.R Napper"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://surya.website/rling-qwen-to-paint-with-code",
-    "title": "Training AI to Paint with Code (March 2026 · Research, Design, Development | Surya Narreddi)"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://fabiensanglard.net/agent.md/index.html",
-    "title": "My agent.md to improve LLM-assisted code quality"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.hamiltonulmer.com/customer-dashboards-r2-hyparquet/",
-    "title": "Fast drilldown dashboards from a single Parquet file"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://lalitm.com/post/find-problems-staff-engineer/",
-    "title": "How I Find Problems to Solve as a Staff Engineer - Lalit Maganti"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://openlogi.org/",
-    "title": "OpenLogi"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://lucumr.pocoo.org/2026/8/24/anger-anxiety-agency/",
-    "title": "Anger, Anxiety and Agency | Armin Ronacher's Thoughts and Writings"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://chillchamp1.github.io/github.io/#eu",
-    "title": "One Day on Rails"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://marcua.net/minitools/figmimic/",
-    "title": "Figmimic - A bookmarklet to copy any webpage into Figma as editable layers"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://picomq.com/",
-    "title": "PicoMQ"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://blog.archive.org/2026/08/16/vintage-artificial-intelligence-before-it-got-awkward/",
-    "title": "Vintage Artificial Intelligence: Before It Got Awkward | Internet Archive Blogs"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.matuzo.at/blog/2026/html-boilerplate",
-    "title": "My HTML boilerplate in 2026 - Manuel Matuzović"
   }
 ]
