@@ -16,13 +16,13 @@
   },
   {
     "source": "hn",
-    "url": "https://e360.yale.edu/digest/bomb-fishing-coral-reefs",
-    "title": "Bomb fishing is wreaking havoc on Indonesia's coral reefs"
+    "url": "https://nil.wallyjones.com/run-openbsd-on-digitalocean-for-4month/",
+    "title": "Run OpenBSD on DigitalOcean for $4/month"
   },
   {
     "source": "hn",
-    "url": "https://nil.wallyjones.com/run-openbsd-on-digitalocean-for-4month/",
-    "title": "Run OpenBSD on DigitalOcean for $4/month"
+    "url": "https://e360.yale.edu/digest/bomb-fishing-coral-reefs",
+    "title": "Bomb fishing is wreaking havoc on Indonesia's coral reefs"
   },
   {
     "source": "hn",
@@ -76,13 +76,18 @@
   },
   {
     "source": "lobsters",
-    "url": "https://xyproblem.info/",
-    "title": "The XY Problem"
+    "url": "https://www.kurz.net/posts/fuzzing-gleam-compiler",
+    "title": "Fuzzing The Gleam Compiler"
   },
   {
     "source": "lobsters",
     "url": "https://diggingforfire.blog/posts/can-a-blog-post-be-handwritten/",
     "title": "Can a blog post be handwritten?"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://xyproblem.info/",
+    "title": "The XY Problem"
   },
   {
     "source": "lobsters",
@@ -111,12 +116,112 @@
   },
   {
     "source": "lobsters",
-    "url": "https://www.kurz.net/posts/fuzzing-gleam-compiler",
-    "title": "Fuzzing The Gleam Compiler"
-  },
-  {
-    "source": "lobsters",
     "url": "https://jdagostino.github.io/ai-pt2-multi-gpu-drifting/index.html",
     "title": "AI At Home Part 2: Multi GPU Drifting"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://thinkinginpython.com/",
+    "title": "Thinking in Python"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://openlogi.org/",
+    "title": "OpenLogi"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://schlarp.com/posts/everything-i-own-owned/",
+    "title": "Everything I own, owned - schlarp.com"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://earendil.com/posts/what-is-a-harness/",
+    "title": "What is a Harness?"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://backtracking.github.io/en/2020/02/20/cs-books.html",
+    "title": "Jean-Christophe’s CS Book Recommendations"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://hister.org/",
+    "title": "Hister"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://nappertime.com/the-golden-rule-of-becoming-a-better-writer/",
+    "title": "The Golden Rule for Becoming a Better Writer - T.R Napper"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://chrisburnell.com/html-can-do-that/",
+    "title": "HTML Can Do That · Chris Burnell"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://debloat.dev/",
+    "title": "debloat.dev — replace the junk"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://lucumr.pocoo.org/2026/8/24/anger-anxiety-agency/",
+    "title": "Anger, Anxiety and Agency | Armin Ronacher's Thoughts and Writings"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://marcua.net/minitools/figmimic/",
+    "title": "Figmimic - A bookmarklet to copy any webpage into Figma as editable layers"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://lalitm.com/post/find-problems-staff-engineer/",
+    "title": "How I Find Problems to Solve as a Staff Engineer - Lalit Maganti"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://bandarlabs.github.io/Cobalt/",
+    "title": "Cobalt: apps and an SDK for Kobo e-readers"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://geometridae.bearblog.dev/a-friendly-introduction-to-racket/",
+    "title": "A Friendly Introduction to Racket – geometridae"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://academy.claude.com/",
+    "title": "Claude Academy · Learn to work and build with Claude"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.matuzo.at/blog/2026/html-boilerplate",
+    "title": "My HTML boilerplate in 2026 - Manuel Matuzović"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://picomq.com/",
+    "title": "PicoMQ"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://munderdiffl.in/",
+    "title": "Munder Difflin — Agent harness to run an office of your clones"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.seangoedecke.com/you-should-never-be-angry-at-work/",
+    "title": "You should never be angry at work"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.hamiltonulmer.com/customer-dashboards-r2-hyparquet/",
+    "title": "Fast drilldown dashboards from a single Parquet file"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.modelrepublic.org/articles/a16z-portfolio",
+    "title": "Andreessen Horowitz is shaping AI policy — while investing in a bleak vision of the future - Model Republic"
   }
 ]
