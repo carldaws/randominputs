@@ -6,13 +6,13 @@
   },
   {
     "source": "hn",
-    "url": "https://www.psu.edu/news/research/story/more-half-adults-us-say-they-lack-basic-statistical-understanding",
-    "title": "More than half of adults in U.S. say they lack basic statistical understanding"
+    "url": "https://fzakaria.com/2026/08/24/actually-queryable-executables",
+    "title": "Queryable Executables"
   },
   {
     "source": "hn",
-    "url": "https://fzakaria.com/2026/08/24/actually-queryable-executables",
-    "title": "Queryable Executables"
+    "url": "https://www.psu.edu/news/research/story/more-half-adults-us-say-they-lack-basic-statistical-understanding",
+    "title": "More than half of adults in U.S. say they lack basic statistical understanding"
   },
   {
     "source": "hn",
@@ -41,6 +41,11 @@
   },
   {
     "source": "hn",
+    "url": "https://www.library.hbs.edu/working-knowledge/how-credit-card-rewards-became-multibillion-dollar-wealth-transfer",
+    "title": "How credit card rewards became a $9.2B wealth transfer"
+  },
+  {
+    "source": "hn",
     "url": "https://rorz.io/writing/my-friend-aaron",
     "title": "My Friend Aaron"
   },
@@ -48,11 +53,6 @@
     "source": "hn",
     "url": "https://movq.de/blog/postings/2026-08-05/0/POSTING-en.html",
     "title": "Visualizing Binary Files"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.jack.bio/blog/costco-gas-tracking",
-    "title": "Tracking Costco gas prices"
   },
   {
     "source": "lobsters",
@@ -108,100 +108,5 @@
     "source": "lobsters",
     "url": "https://galaxium.app",
     "title": "Galaxium, a WebGPU universe explorer"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://www.inkandswitch.com/livelymerge/notebook/",
-    "title": "Lively Merge | Collaborative programming kernels"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://thinkinginpython.com/",
-    "title": "Thinking in Python"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://schlarp.com/posts/everything-i-own-owned/",
-    "title": "Everything I own, owned - schlarp.com"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://earendil.com/posts/what-is-a-harness/",
-    "title": "What is a Harness?"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://kylezhe.ng/writes/crafting-qr-codes",
-    "title": "Crafting QR Codes: A deep dive into QR code art | Kyle Zheng"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://backtracking.github.io/en/2020/02/20/cs-books.html",
-    "title": "Jean-Christophe’s CS Book Recommendations"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://debloat.dev/",
-    "title": "debloat.dev — replace the junk"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://hister.org/",
-    "title": "Hister"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://nappertime.com/the-golden-rule-of-becoming-a-better-writer/",
-    "title": "The Golden Rule for Becoming a Better Writer - T.R Napper"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://surya.website/rling-qwen-to-paint-with-code",
-    "title": "Training AI to Paint with Code (March 2026 · Research, Design, Development | Surya Narreddi)"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://fabiensanglard.net/agent.md/index.html",
-    "title": "My agent.md to improve LLM-assisted code quality"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.hamiltonulmer.com/customer-dashboards-r2-hyparquet/",
-    "title": "Fast drilldown dashboards from a single Parquet file"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://lalitm.com/post/find-problems-staff-engineer/",
-    "title": "How I Find Problems to Solve as a Staff Engineer - Lalit Maganti"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://openlogi.org/",
-    "title": "OpenLogi"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://lucumr.pocoo.org/2026/8/24/anger-anxiety-agency/",
-    "title": "Anger, Anxiety and Agency | Armin Ronacher's Thoughts and Writings"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://chillchamp1.github.io/github.io/#eu",
-    "title": "One Day on Rails"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://marcua.net/minitools/figmimic/",
-    "title": "Figmimic - A bookmarklet to copy any webpage into Figma as editable layers"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://picomq.com/",
-    "title": "PicoMQ"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.matuzo.at/blog/2026/html-boilerplate",
-    "title": "My HTML boilerplate in 2026 - Manuel Matuzović"
   }
 ]
