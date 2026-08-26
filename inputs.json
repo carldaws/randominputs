@@ -6,18 +6,23 @@
   },
   {
     "source": "hn",
+    "url": "https://z.ai/blog/glm-5.3-flash",
+    "title": "GLM-5.3-Flash"
+  },
+  {
+    "source": "hn",
     "url": "https://qwen.ai/blog?id=qwen3.8-flash-next",
     "title": "Qwen3.8-Flash-Next: A New Architecture, Towards Ultimate Cost-Efficiency"
   },
   {
     "source": "hn",
-    "url": "https://openstreetmap.us/news/2026/08/oim-charter-project/",
-    "title": "Oldinsurancemaps.net is now a Charter Project"
+    "url": "https://entropicthoughts.com/curmudgeon-tries-language-server",
+    "title": "A curmudgeon tries a language server"
   },
   {
     "source": "hn",
-    "url": "https://entropicthoughts.com/curmudgeon-tries-language-server",
-    "title": "A curmudgeon tries a language server"
+    "url": "https://openstreetmap.us/news/2026/08/oim-charter-project/",
+    "title": "Oldinsurancemaps.net is now a Charter Project"
   },
   {
     "source": "hn",
@@ -46,8 +51,8 @@
   },
   {
     "source": "hn",
-    "url": "https://blog.happyfellow.dev/merchants-of-insecurity/",
-    "title": "Omarchy development practices lead to predictable security issues"
+    "url": "https://sethmlarson.dev/when-str-lower-is-a-security-vulnerability",
+    "title": "When str.lower() is a security vulnerability in Python"
   },
   {
     "source": "hn",
@@ -56,13 +61,8 @@
   },
   {
     "source": "hn",
-    "url": "https://www.gatesnotes.com/work/make-ai-work-for-everyone/reader/a-turbulent-ai-era-and-critical-choices-to-make",
-    "title": "Bill Gates: The turbulent AI era is here"
-  },
-  {
-    "source": "hn",
-    "url": "https://sethmlarson.dev/when-str-lower-is-a-security-vulnerability",
-    "title": "When str.lower() is a security vulnerability in Python"
+    "url": "https://blog.master.dev/tooltips-need-a-delay-and-then-they-need-to-skip-it/",
+    "title": "Tooltips need a delay, and then they need to skip it"
   },
   {
     "source": "hn",
@@ -71,13 +71,18 @@
   },
   {
     "source": "hn",
-    "url": "https://blog.master.dev/tooltips-need-a-delay-and-then-they-need-to-skip-it/",
-    "title": "Tooltips need a delay, and then they need to skip it"
+    "url": "https://e360.yale.edu/digest/bomb-fishing-coral-reefs",
+    "title": "Bomb fishing is wreaking havoc on Indonesia's coral reefs"
   },
   {
     "source": "lobsters",
     "url": "https://blog.ihatereality.space/0C-never-type/",
     "title": "I stabilized never type"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://victoriametrics.com/blog/go-sync-map-hash-trie/",
+    "title": "Understanding Go's sync.Map from API to Hash Trie"
   },
   {
     "source": "lobsters",
@@ -91,8 +96,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://victoriametrics.com/blog/go-sync-map-hash-trie/",
-    "title": "Understanding Go's sync.Map from API to Hash Trie"
+    "url": "https://fgiesen.wordpress.com/2026/08/25/memory-ordering-in-cpus/",
+    "title": "Memory ordering in CPUs"
   },
   {
     "source": "lobsters",
@@ -111,13 +116,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://acadia.engineering/blog/solving-the-1-plus-N-query-problem",
-    "title": "Solving the 1+N query problem"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://fgiesen.wordpress.com/2026/08/25/memory-ordering-in-cpus/",
-    "title": "Memory ordering in CPUs"
+    "url": "https://blog.happyfellow.dev/merchants-of-insecurity/",
+    "title": "Merchants of Insecurity"
   },
   {
     "source": "pinboard",
