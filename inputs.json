@@ -1,13 +1,18 @@
 [
   {
     "source": "hn",
+    "url": "https://www.mturk.com/",
+    "title": "Mechanical Turk shutting down September 30"
+  },
+  {
+    "source": "hn",
     "url": "https://z.ai/blog/glm-5.3-flash",
     "title": "GLM-5.3-Flash"
   },
   {
     "source": "hn",
-    "url": "https://www.actinideinc.com/press/actinide-becomes-first-startup-to-ever-enrich-natural-uranium-to-produce-haleu",
-    "title": "Dallas startup enriches Uranium"
+    "url": "https://nhess.copernicus.org/articles/22/3765/2022/nhess-22-3765-2022.html",
+    "title": "Worst-case glacial lake flood scenarios in a transboundary Himalayan basin 2022"
   },
   {
     "source": "hn",
@@ -16,18 +21,28 @@
   },
   {
     "source": "hn",
+    "url": "https://iamwillwang.com/notes/zohran-and-the-short-link/",
+    "title": "Zohran and the Short Link"
+  },
+  {
+    "source": "hn",
+    "url": "https://asahilinux.org/2026/08/progress-report-7-2/",
+    "title": "Asahi Linux Progress Report: Linux 7.2"
+  },
+  {
+    "source": "hn",
     "url": "https://isgithubcooked.com/",
     "title": "GitHub Outage Tracker: Is GitHub Cooked?"
   },
   {
     "source": "hn",
-    "url": "https://acceptmarkdown.com/",
-    "title": "Serve Markdown to AI Agents with Accept Headers"
+    "url": "https://www.actinideinc.com/press/actinide-becomes-first-startup-to-ever-enrich-natural-uranium-to-produce-haleu",
+    "title": "Actinide is first startup to produce high-assay low-enriched uranium (HALEU)"
   },
   {
     "source": "hn",
-    "url": "https://hotosm.org/en/news/comaps-the-offline-app-that-guided-rescuers-without-a-signal-in-the-venezuela-response/",
-    "title": "CoMaps: The Offline App That Guided Rescuers Without a Signal in Venezuela"
+    "url": "https://www.wsj.com/politics/policy/u-s-state-department-pauses-immigrant-visa-applications-25b31b23",
+    "title": "U.S. State Department pauses immigrant visa applications"
   },
   {
     "source": "hn",
@@ -36,43 +51,43 @@
   },
   {
     "source": "hn",
+    "url": "https://hotosm.org/en/news/comaps-the-offline-app-that-guided-rescuers-without-a-signal-in-the-venezuela-response/",
+    "title": "CoMaps: The Offline App That Guided Rescuers Without a Signal in Venezuela"
+  },
+  {
+    "source": "hn",
+    "url": "https://acceptmarkdown.com/",
+    "title": "Serve Markdown to AI Agents with Accept Headers"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.fda.gov/news-events/press-announcements/fda-approves-first-class-targeted-therapy-metastatic-pancreatic-cancer",
+    "title": "FDA approves first in class targeted therapy for metastatic pancreatic cancer"
+  },
+  {
+    "source": "hn",
     "url": "https://www.nebulasans.com",
     "title": "Nebula Sans"
   },
   {
     "source": "hn",
-    "url": "https://www.githubstatus.com/incidents/hcbtzksccj2f",
-    "title": "Disruption with Some GitHub Services"
+    "url": "https://scott-fryxell.github.io/blog/the-harness-is-the-thing/",
+    "title": "The Harness Is the Thing"
   },
   {
     "source": "hn",
-    "url": "https://www.fda.gov/news-events/press-announcements/fda-approves-first-class-targeted-therapy-metastatic-pancreatic-cancer",
-    "title": "FDA Approves First in Class Targeted Therapy for Metastatic Pancreatic Cancer"
+    "url": "https://www.linum.ai/field-notes/data-filtering-gen-video",
+    "title": "Getting video models to learn better, faster"
   },
   {
     "source": "hn",
-    "url": "https://www.gkogan.co/say-something-people-want/",
-    "title": "Just say something people want"
+    "url": "https://projects.laion.ai/bvd/",
+    "title": "Laion Big Video Dataset"
   },
   {
     "source": "hn",
     "url": "https://farmaction.us/taylorfarmsreport/",
     "title": "Taylor Farms: How One Company's Reach Became a National Risk"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.ssp.sh/brain/using-obsidian-with-ai/",
-    "title": "It’s so hard to finish an idea that is not yours and is just suggested by AI"
-  },
-  {
-    "source": "hn",
-    "url": "https://praveshkoirala.com/2026/08/26/you-could-have-invented-pagerank/",
-    "title": "PageRank explained"
-  },
-  {
-    "source": "hn",
-    "url": "https://e360.yale.edu/digest/scotland-woodlands-antidepressants",
-    "title": "Access to Urban Woodlands Linked with Lower Use of Antidepressants"
   },
   {
     "source": "lobsters",
@@ -86,6 +101,11 @@
   },
   {
     "source": "lobsters",
+    "url": "https://www.jack.bio/blog/wafflehouse",
+    "title": "Getting a Cease and Desist from Waffle House (2025)"
+  },
+  {
+    "source": "lobsters",
     "url": "https://blog.ihatereality.space/0C-never-type/",
     "title": "I stabilized never type"
   },
@@ -93,6 +113,11 @@
     "source": "lobsters",
     "url": "https://fgiesen.wordpress.com/2026/08/25/memory-ordering-in-cpus/",
     "title": "Memory ordering in CPUs"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://www.nebulasans.com/",
+    "title": "Nebula Sans"
   },
   {
     "source": "lobsters",
@@ -106,6 +131,11 @@
   },
   {
     "source": "lobsters",
+    "url": "https://alyssarosenzweig.ca/blog/asahi-gpu-part-n.html",
+    "title": "Dissectingthe Apple M1 GPU, the end"
+  },
+  {
+    "source": "lobsters",
     "url": "https://var0.xyz/posts/beyond-recall-and-the-illusion-of-competence.html",
     "title": "Beyond recall and the illusion of competence"
   },
@@ -113,15 +143,5 @@
     "source": "lobsters",
     "url": "https://www.jack.bio/blog/licenseplate",
     "title": "Using TypeScript to Obtain One of the Rarest License Plates (2025)"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://jfmengels.net/concurrent-linter-fixes/",
-    "title": "Problem with concurrent linter fixes"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://nil.wallyjones.com/run-openbsd-on-digitalocean-for-4month/",
-    "title": "Run OpenBSD on DigitalOcean for $4/month"
   }
 ]
