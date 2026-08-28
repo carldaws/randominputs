@@ -1,6 +1,11 @@
 [
   {
     "source": "hn",
+    "url": "https://www.bloomberg.com/news/articles/2026-08-28/advent-stripe-consortium-is-said-to-drop-pursuit-of-paypal",
+    "title": "Stripe said to abandon $50B pursuit of PayPal"
+  },
+  {
+    "source": "hn",
     "url": "https://blog.cloudflare.com/dns-cache-memory-optimization-1111/",
     "title": "Saving 100 terabytes of memory by optimizing 1.1.1.1's DNS cache"
   },
@@ -8,6 +13,11 @@
     "source": "hn",
     "url": "https://calv.info/small-models-have-arrived",
     "title": "Small Models Have Arrived"
+  },
+  {
+    "source": "hn",
+    "url": "https://modal.cx/blog/announcing-flatpak-sta/",
+    "title": "Sovereign Tech Agency invests €500k in Flatpak"
   },
   {
     "source": "hn",
@@ -31,13 +41,33 @@
   },
   {
     "source": "hn",
+    "url": "https://www.terminal-bench-science.ai/announcement",
+    "title": "Terminal-Bench-Science: Evaluating AI agents on scientific research workflows"
+  },
+  {
+    "source": "hn",
+    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/build-with-gemini-omni-1-1-flash/",
+    "title": "Gemini Omni 1.1 Flash"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.gatesnotes.com/a-turbulent-ai-era-and-critical-choices-to-make",
+    "title": "The turbulent AI era is here"
+  },
+  {
+    "source": "hn",
+    "url": "https://louisabraham.github.io/load-bearing/",
+    "title": "Show HN: The load-bearing vocabulary of Claude"
+  },
+  {
+    "source": "hn",
     "url": "https://blog.chrislewis.au/decompiling-a-nintendo-64-game-in-84-days/",
     "title": "Decompiling a Nintendo 64 game in 84 days"
   },
   {
     "source": "hn",
-    "url": "https://www.gatesnotes.com/work/make-ai-work-for-everyone/reader/a-turbulent-ai-era-and-critical-choices-to-make?WT.mc_id=20260826_ai-overture-2026-med-med",
-    "title": "The turbulent AI era is here"
+    "url": "https://pfrazee.leaflet.pub/3mu3p2smmis22",
+    "title": "Select * from Internet.blogposts"
   },
   {
     "source": "hn",
@@ -51,33 +81,8 @@
   },
   {
     "source": "hn",
-    "url": "https://www.techdirt.com/2026/08/26/meta-just-paid-nearly-17-billion-to-make-sure-it-gets-to-write-the-kid-safety-rules-for-every-other-social-media-platform/",
-    "title": "Meta Paid $17B – Gets to Write Safety Rules for Other SocMedia Platform"
-  },
-  {
-    "source": "hn",
-    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/build-with-gemini-omni-1-1-flash/",
-    "title": "Gemini Omni 1.1 Flash"
-  },
-  {
-    "source": "hn",
-    "url": "https://louisabraham.github.io/load-bearing/",
-    "title": "Show HN: The load-bearing vocabulary of Claude"
-  },
-  {
-    "source": "hn",
     "url": "https://voronoigo.com/",
     "title": "Show HN: Voronoi Go"
-  },
-  {
-    "source": "hn",
-    "url": "https://aiandeducation.mit.edu/report/",
-    "title": "MIT's Ad Hoc Committee on AI Use in Teaching, Learning, and Research Training"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.daemonology.net/blog/2026-08-27-Launching-Route-53-Files.html",
-    "title": "Launching Route 53 Files"
   },
   {
     "source": "lobsters",
@@ -96,13 +101,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://blog.mempko.com/a-million-kakapos/",
-    "title": "A Million Kakapos"
+    "url": "https://ardour.org/whatsnew.html",
+    "title": "Ardour 9.8 released"
   },
   {
     "source": "lobsters",
-    "url": "https://asahilinux.org/2026/08/progress-report-7-2/",
-    "title": "Asahi Linux Progress Report: Linux 7.2"
+    "url": "https://blog.mempko.com/a-million-kakapos/",
+    "title": "A Million Kakapos"
   },
   {
     "source": "lobsters",
@@ -111,8 +116,18 @@
   },
   {
     "source": "lobsters",
+    "url": "https://asahilinux.org/2026/08/progress-report-7-2/",
+    "title": "Asahi Linux Progress Report: Linux 7.2"
+  },
+  {
+    "source": "lobsters",
     "url": "https://www.nebulasans.com/",
     "title": "Nebula Sans"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://gilramir.github.io/gren-format-lib/grenFormatChallenges.html",
+    "title": "Challenges when writing gren-format"
   },
   {
     "source": "lobsters",
@@ -121,18 +136,23 @@
   },
   {
     "source": "lobsters",
-    "url": "https://notes.highlysuspect.agency/cant-release-that.html",
-    "title": "If I release it, you won’t get the same experience I get"
-  },
-  {
-    "source": "lobsters",
     "url": "https://www.haiku-os.org/get-haiku/r1beta6/release-notes/",
     "title": "Haiku R1/beta6 released"
   },
   {
     "source": "lobsters",
+    "url": "https://notes.highlysuspect.agency/cant-release-that.html",
+    "title": "If I release it, you won’t get the same experience I get"
+  },
+  {
+    "source": "lobsters",
     "url": "https://blog.happyfellow.dev/merchants-of-insecurity/",
     "title": "Merchants of Insecurity"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://blog.doubleword.ai/what-happens-when-a-gpu-reads-memory",
+    "title": "What happens when a GPU reads memory"
   },
   {
     "source": "lobsters",
@@ -146,27 +166,12 @@
   },
   {
     "source": "lobsters",
-    "url": "https://bonsai.io/blog/float-bloat/",
-    "title": "Float Bloat: vector serialization gone wrong"
+    "url": "https://www.gatesnotes.com/work/make-ai-work-for-everyone/reader/a-turbulent-ai-era-and-critical-choices-to-make?WT.mc_id=20260826_ai-overture-2026-med-med",
+    "title": "The turbulent AI era is here"
   },
   {
     "source": "lobsters",
-    "url": "https://blog.doubleword.ai/what-happens-when-a-gpu-reads-memory",
-    "title": "What happens when a GPU reads memory"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://www.joshwcomeau.com/react/usememo-and-usecallback/",
-    "title": "Understanding useMemo and useCallback"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://www.jack.bio/blog/wafflehouse",
-    "title": "Getting a Cease and Desist from Waffle House (2025)"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://ap29600.github.io/boolean_scans.html",
-    "title": "Symmetries in boolean scans"
+    "url": "https://idlip.in/posts/show-me-source/",
+    "title": "Talk is Cheap. Code is Cheap. Show me the Source"
   }
 ]
