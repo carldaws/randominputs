@@ -1,18 +1,13 @@
 [
   {
     "source": "hn",
-    "url": "https://www.stephendiehl.com/posts/internet_predatory_cesspit/",
-    "title": "The Internet Is Kind of a Predatory Cesspit Now"
-  },
-  {
-    "source": "hn",
     "url": "https://www.tencent.com/tencent-releases-and-open-sources-tencent-hy4-preview/",
     "title": "Tencent Releases and Open-Sources Tencent Hy4 Preview"
   },
   {
     "source": "hn",
-    "url": "https://tucker.wales/writing/bias-towards-action/",
-    "title": "Calibrate Before You Accelerate: Bias Toward Action in a New Role"
+    "url": "https://frequal.com/aptera/ProductionDealAug2026.html",
+    "title": "$44M Solar-Powered EV Production Deal Struck"
   },
   {
     "source": "hn",
@@ -21,28 +16,18 @@
   },
   {
     "source": "hn",
+    "url": "https://tucker.wales/writing/bias-towards-action/",
+    "title": "Calibrate Before You Accelerate: Bias Toward Action in a New Role"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.npr.org/2026/08/28/nx-s1-5905370/nasa-nancy-grace-roman-space-telescope-dark-energy-supernova",
+    "title": "Nancy Grace Roman Space Telescope Launches this Sunday"
+  },
+  {
+    "source": "hn",
     "url": "https://dgl.cx/2020/06/sqlite-json-support",
     "title": "SQLite as a Document Database (2020)"
-  },
-  {
-    "source": "hn",
-    "url": "https://uecker.codeberg.page/2026-08-29.html",
-    "title": "Indirect Calling of Nested Functions on GCC Without Executable Stack"
-  },
-  {
-    "source": "hn",
-    "url": "https://r136a1.dev/2026/08/24/sleepwalker-a-passive-backdoor-with-its-own-command-language/",
-    "title": "Sleepwalker: Passive Backdoor with Its Own Command Language"
-  },
-  {
-    "source": "hn",
-    "url": "https://typebase.io",
-    "title": "Show HN: Typebase – A single-folder back end you write in TypeScript"
-  },
-  {
-    "source": "hn",
-    "url": "https://en.wikipedia.org/wiki/Glacier_mice",
-    "title": "Glacier Mice"
   },
   {
     "source": "hn",
@@ -51,13 +36,33 @@
   },
   {
     "source": "hn",
-    "url": "https://ekunazanu.foo/lab/quantifying-colour/",
-    "title": "Quantifying Colour"
+    "url": "https://blog.elis.cc/articles/a-safe-mysql-upgrade-that-wasnt-so-safe/",
+    "title": "A safe MySQL upgrade that wasn't so safe"
   },
   {
     "source": "hn",
-    "url": "https://shitposting.ai/pickup-incident/",
-    "title": "The elementary school pickup incident and the road ahead"
+    "url": "https://en.wikipedia.org/wiki/Glacier_mice",
+    "title": "Glacier Mice"
+  },
+  {
+    "source": "hn",
+    "url": "https://uecker.codeberg.page/2026-08-29.html",
+    "title": "Indirect Calling of Nested Functions on GCC Without Executable Stack"
+  },
+  {
+    "source": "hn",
+    "url": "https://typebase.io",
+    "title": "Show HN: Typebase – A single-folder back end you write in TypeScript"
+  },
+  {
+    "source": "hn",
+    "url": "https://r136a1.dev/2026/08/24/sleepwalker-a-passive-backdoor-with-its-own-command-language/",
+    "title": "Sleepwalker: Passive Backdoor with Its Own Command Language"
+  },
+  {
+    "source": "hn",
+    "url": "https://ekunazanu.foo/lab/quantifying-colour/",
+    "title": "Quantifying Colour"
   },
   {
     "source": "hn",
@@ -71,13 +76,13 @@
   },
   {
     "source": "hn",
-    "url": "https://mason.bearblog.dev/kmart-digicam-mod-part-2/",
-    "title": "Kmart Digicam Mod Part 2"
+    "url": "https://cinemasojourns.com/2026/08/27/the-wandering-yamamura-theater-troupe/",
+    "title": "The Wandering Yamamura Theater Troupe"
   },
   {
     "source": "hn",
-    "url": "https://four.htmx.org/announcements/2026-08-28-htmx-4.0.0-is-released",
-    "title": "Htmx 4.0"
+    "url": "https://mason.bearblog.dev/kmart-digicam-mod-part-2/",
+    "title": "Kmart Digicam Mod Part 2"
   },
   {
     "source": "hn",
@@ -85,14 +90,19 @@
     "title": "Show HN: Galaxium, an experimental WebGPU space explorer"
   },
   {
-    "source": "lobsters",
-    "url": "https://joeyh.name/blog/entry/Debian_and_the_sirens/",
-    "title": "Debian and the sirens"
+    "source": "hn",
+    "url": "https://pwning.systems/posts/llm-memory-program-analysis/",
+    "title": "I accidentally turned LLM memory into program analysis"
   },
   {
     "source": "lobsters",
     "url": "https://people.kernel.org/monsieuricon/creepy-crawlies",
     "title": "Creepy crawlies"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://joeyh.name/blog/entry/Debian_and_the_sirens/",
+    "title": "Debian and the sirens"
   },
   {
     "source": "lobsters",
@@ -103,6 +113,16 @@
     "source": "lobsters",
     "url": "https://yogthos.net/posts/2026-08-29-glimmer-ui.html",
     "title": "Wrapping GTK4 in 800 lines of Clojure with Jolt"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://four.htmx.org/announcements/2026-08-28-htmx-4.0.0-is-released",
+    "title": "htmx 4.0.0 has been released"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://martinalderson.com/posts/glm-5-3-flash-chinese-hardware/",
+    "title": "What GLM-5.3 Flash running on Chinese hardware actually means"
   },
   {
     "source": "lobsters",
@@ -126,12 +146,82 @@
   },
   {
     "source": "lobsters",
-    "url": "https://nesbitt.io/2026/08/28/now-hiring-senior-open-source-maintainer.html",
-    "title": "Now Hiring: Senior Open Source Maintainer"
+    "url": "https://surfingcomplexity.blog/2026/08/29/omnipresent-availability-risks-in-cloud-software/",
+    "title": "Omnipresent availability risks in cloud software"
   },
   {
-    "source": "lobsters",
-    "url": "https://hackaday.com/2026/08/28/reviving-an-sd-card-with-shorted-capacitors/",
-    "title": "Reviving An SD Card With Shorted Capacitors"
+    "source": "pinboard",
+    "url": "https://www.nebulasans.com/",
+    "title": "Nebula Sans"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://507movements.com/",
+    "title": "507 Mechanical Movements - an online edition of the classic technical reference Five Hundred and Seven Mechanical Movements"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.gatesnotes.com/a-turbulent-ai-era-and-critical-choices-to-make",
+    "title": "The turbulent AI era is here. The choices we make now are critical. We need a plan to ensure that the good outweighs the bad."
+  },
+  {
+    "source": "pinboard",
+    "url": "https://morphing.cloud/afterglow/",
+    "title": "Afterglow — classic After Dark screen savers on modern macOS"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://aiandeducation.mit.edu/report/",
+    "title": "Report – AI and Education"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://calv.info/small-models-have-arrived",
+    "title": "Small Models Have Arrived"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://louisabraham.github.io/load-bearing/",
+    "title": "The load-bearing vocabulary of Claude"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://scott-fryxell.github.io/blog/the-harness-is-the-thing/",
+    "title": "The Harness Is the Thing — Scott Fryxell"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://kylezhe.ng/writes/crafting-qr-codes",
+    "title": "Crafting QR Codes: A deep dive into QR code art | Kyle Zheng"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.matuzo.at/blog/2026/html-boilerplate",
+    "title": "My HTML boilerplate in 2026 - Manuel Matuzović"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://news.ycombinator.com/item?id=49445727",
+    "title": "rag is simpler than you think | hacker news"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://nil.wallyjones.com/run-openbsd-on-digitalocean-for-4month/",
+    "title": "Run OpenBSD on DigitalOcean for $4/month - Nil"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://thinkinginpython.com/",
+    "title": "Thinking in Python"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://schlarp.com/posts/everything-i-own-owned/",
+    "title": "Everything I own, owned - schlarp.com"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://news.ycombinator.com/item?id=49466917",
+    "title": "Small Models Have Arrived | Hacker News"
   }
 ]
