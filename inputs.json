@@ -1,8 +1,13 @@
 [
   {
     "source": "hn",
-    "url": "https://shukla.io/quantum-oracle-engineering/",
-    "title": "I'm teaching an introductory 12 week course on Quantum Oracle Engineering"
+    "url": "https://dgl.cx/2020/06/sqlite-json-support",
+    "title": "SQLite as a Document Database (2020)"
+  },
+  {
+    "source": "hn",
+    "url": "https://zackbartel.com/blog/2026/08/tether/",
+    "title": "Tether: iMessage, SMS, etc. on Linux"
   },
   {
     "source": "hn",
@@ -11,8 +16,13 @@
   },
   {
     "source": "hn",
-    "url": "https://ckardaris.com/blog/2026/08/28/keyboard-driven-guis.html",
-    "title": "GUIs should be fully keyboard-driven"
+    "url": "https://typebase.io",
+    "title": "Show HN: Typebase – A single-folder back end you write in TypeScript"
+  },
+  {
+    "source": "hn",
+    "url": "https://r136a1.dev/2026/08/24/sleepwalker-a-passive-backdoor-with-its-own-command-language/",
+    "title": "Sleepwalker: Passive Backdoor with Its Own Command Language"
   },
   {
     "source": "hn",
@@ -21,8 +31,18 @@
   },
   {
     "source": "hn",
+    "url": "https://ckardaris.com/blog/2026/08/28/keyboard-driven-guis.html",
+    "title": "GUIs should be fully keyboard-driven"
+  },
+  {
+    "source": "hn",
     "url": "https://haz.ee/posts/aetheryte-radio.html",
     "title": "Creating the Aetheryte Radio"
+  },
+  {
+    "source": "hn",
+    "url": "https://ekunazanu.foo/lab/quantifying-colour/",
+    "title": "Quantifying Colour"
   },
   {
     "source": "hn",
@@ -36,18 +56,8 @@
   },
   {
     "source": "hn",
-    "url": "https://typebase.io",
-    "title": "Show HN: Typebase – A single-folder back end you write in TypeScript"
-  },
-  {
-    "source": "hn",
     "url": "https://pwning.systems/posts/llm-memory-program-analysis/",
     "title": "I accidentally turned LLM memory into program analysis"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.orbify.eu/demo/",
-    "title": "Inception-style curved map for turn-by-turn directions"
   },
   {
     "source": "hn",
@@ -56,28 +66,28 @@
   },
   {
     "source": "hn",
+    "url": "https://www.orbify.eu/demo/",
+    "title": "Inception-style curved map for turn-by-turn directions"
+  },
+  {
+    "source": "hn",
     "url": "https://anil.recoil.org/notes/rumour-is-the-exploit",
     "title": "Just the rumour of a bug is enough to find an exploit these days"
   },
   {
     "source": "hn",
-    "url": "https://www.vectorian.be/articles/2026-06-07/sumerian-king-list-paleoclimate-alignment-explorer/",
-    "title": "Does the Sumerian King List Align with Paleoclimate Events?"
-  },
-  {
-    "source": "hn",
-    "url": "https://sometimes.digital/posts/experiments-with-plotter-art/",
-    "title": "Experiments with Plotter Art"
-  },
-  {
-    "source": "hn",
-    "url": "https://acko.net/blog/curvature-beziers/",
-    "title": "Curvature Beziers: Improving on a timeless recipe"
+    "url": "https://www.dampfkraft.com/posuto.html",
+    "title": "Parsing the Infamous Japanese Postal CSV"
   },
   {
     "source": "lobsters",
-    "url": "https://www.dampfkraft.com/posuto.html",
-    "title": "Parsing the Infamous Japanese Postal CSV"
+    "url": "https://joeyh.name/blog/entry/Debian_and_the_sirens/",
+    "title": "Debian and the sirens"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://people.kernel.org/monsieuricon/creepy-crawlies",
+    "title": "Creepy crawlies"
   },
   {
     "source": "lobsters",
@@ -106,17 +116,82 @@
   },
   {
     "source": "lobsters",
-    "url": "https://ziglang.org/devlog/2026/#2026-08-27",
-    "title": "Pointer Stability for ArrayLists"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://modal.cx/blog/announcing-flatpak-sta/",
-    "title": "Announcing Sovereign Tech Agency Investment in Flatpak"
-  },
-  {
-    "source": "lobsters",
     "url": "https://tzovar.as/scaling-up-and-on-being-the-right-size/",
     "title": "On 'scaling up' and being the right size"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.nebulasans.com/",
+    "title": "Nebula Sans"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://507movements.com/",
+    "title": "507 Mechanical Movements - an online edition of the classic technical reference Five Hundred and Seven Mechanical Movements"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.gatesnotes.com/a-turbulent-ai-era-and-critical-choices-to-make",
+    "title": "The turbulent AI era is here. The choices we make now are critical. We need a plan to ensure that the good outweighs the bad."
+  },
+  {
+    "source": "pinboard",
+    "url": "https://morphing.cloud/afterglow/",
+    "title": "Afterglow — classic After Dark screen savers on modern macOS"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://aiandeducation.mit.edu/report/",
+    "title": "Report – AI and Education"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://calv.info/small-models-have-arrived",
+    "title": "Small Models Have Arrived"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://louisabraham.github.io/load-bearing/",
+    "title": "The load-bearing vocabulary of Claude"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://scott-fryxell.github.io/blog/the-harness-is-the-thing/",
+    "title": "The Harness Is the Thing — Scott Fryxell"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://kylezhe.ng/writes/crafting-qr-codes",
+    "title": "Crafting QR Codes: A deep dive into QR code art | Kyle Zheng"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.matuzo.at/blog/2026/html-boilerplate",
+    "title": "My HTML boilerplate in 2026 - Manuel Matuzović"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://news.ycombinator.com/item?id=49445727",
+    "title": "rag is simpler than you think | hacker news"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://nil.wallyjones.com/run-openbsd-on-digitalocean-for-4month/",
+    "title": "Run OpenBSD on DigitalOcean for $4/month - Nil"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://thinkinginpython.com/",
+    "title": "Thinking in Python"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://schlarp.com/posts/everything-i-own-owned/",
+    "title": "Everything I own, owned - schlarp.com"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://news.ycombinator.com/item?id=49466917",
+    "title": "Small Models Have Arrived | Hacker News"
   }
 ]
