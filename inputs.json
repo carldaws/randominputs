@@ -1,8 +1,33 @@
 [
   {
     "source": "hn",
+    "url": "https://shukla.io/quantum-oracle-engineering/",
+    "title": "I'm teaching an introductory 12 week course on Quantum Oracle Engineering"
+  },
+  {
+    "source": "hn",
+    "url": "https://uecker.codeberg.page/2026-08-29.html",
+    "title": "Indirect Calling of Nested Functions on GCC Without Executable Stack"
+  },
+  {
+    "source": "hn",
     "url": "https://ckardaris.com/blog/2026/08/28/keyboard-driven-guis.html",
     "title": "GUIs should be fully keyboard-driven"
+  },
+  {
+    "source": "hn",
+    "url": "https://en.wikipedia.org/wiki/Glacier_mice",
+    "title": "Glacier Mice"
+  },
+  {
+    "source": "hn",
+    "url": "https://haz.ee/posts/aetheryte-radio.html",
+    "title": "Creating the Aetheryte Radio"
+  },
+  {
+    "source": "hn",
+    "url": "https://galaxium.app",
+    "title": "Show HN: Galaxium, an experimental WebGPU space explorer"
   },
   {
     "source": "hn",
@@ -11,13 +36,13 @@
   },
   {
     "source": "hn",
-    "url": "https://pwning.systems/posts/llm-memory-program-analysis/",
-    "title": "I accidentally turned LLM memory into program analysis"
+    "url": "https://typebase.io",
+    "title": "Show HN: Typebase – A single-folder back end you write in TypeScript"
   },
   {
     "source": "hn",
-    "url": "https://anil.recoil.org/notes/rumour-is-the-exploit",
-    "title": "Just the rumour of a bug is enough to find an exploit these days"
+    "url": "https://pwning.systems/posts/llm-memory-program-analysis/",
+    "title": "I accidentally turned LLM memory into program analysis"
   },
   {
     "source": "hn",
@@ -26,13 +51,18 @@
   },
   {
     "source": "hn",
-    "url": "https://www.vectorian.be/articles/2026-06-07/sumerian-king-list-paleoclimate-alignment-explorer/",
-    "title": "Does the Sumerian King List Align with Paleoclimate Events?"
+    "url": "https://docs.python.org/3.16/library/time-complexity.html",
+    "title": "Time complexity of operations on Python's built-in types"
   },
   {
     "source": "hn",
-    "url": "https://www.kumander.org/",
-    "title": "Kumander Linux – A Linux Distro with a Windows 7 Desktop"
+    "url": "https://anil.recoil.org/notes/rumour-is-the-exploit",
+    "title": "Just the rumour of a bug is enough to find an exploit these days"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.vectorian.be/articles/2026-06-07/sumerian-king-list-paleoclimate-alignment-explorer/",
+    "title": "Does the Sumerian King List Align with Paleoclimate Events?"
   },
   {
     "source": "hn",
@@ -45,9 +75,9 @@
     "title": "Curvature Beziers: Improving on a timeless recipe"
   },
   {
-    "source": "hn",
-    "url": "https://binvis.io/#/",
-    "title": "Visual Analysis of Binary Files"
+    "source": "lobsters",
+    "url": "https://www.dampfkraft.com/posuto.html",
+    "title": "Parsing the Infamous Japanese Postal CSV"
   },
   {
     "source": "lobsters",
@@ -66,8 +96,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://contextswitch-blue.vercel.app/",
-    "title": "ContextSwitch — take your AI conversations with you"
+    "url": "https://hackaday.com/2026/08/28/reviving-an-sd-card-with-shorted-capacitors/",
+    "title": "Reviving An SD Card With Shorted Capacitors"
   },
   {
     "source": "lobsters",
@@ -76,22 +106,17 @@
   },
   {
     "source": "lobsters",
-    "url": "https://modal.cx/blog/announcing-flatpak-sta/",
-    "title": "Announcing Sovereign Tech Agency Investment in Flatpak"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://www.dampfkraft.com/posuto.html",
-    "title": "Parsing the Infamous Japanese Postal CSV"
-  },
-  {
-    "source": "lobsters",
     "url": "https://ziglang.org/devlog/2026/#2026-08-27",
     "title": "Pointer Stability for ArrayLists"
   },
   {
     "source": "lobsters",
-    "url": "https://sourcehut.org/blog/2026-08-27-tos-changes-and-llms/",
-    "title": "Changes to SourceHut's terms of service regarding LLMs"
+    "url": "https://modal.cx/blog/announcing-flatpak-sta/",
+    "title": "Announcing Sovereign Tech Agency Investment in Flatpak"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://tzovar.as/scaling-up-and-on-being-the-right-size/",
+    "title": "On 'scaling up' and being the right size"
   }
 ]
