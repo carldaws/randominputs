@@ -6,23 +6,8 @@
   },
   {
     "source": "hn",
-    "url": "https://www.vectorian.be/articles/2026-06-07/sumerian-king-list-paleoclimate-alignment-explorer/",
-    "title": "Does the Sumerian King List Align with Paleoclimate Events?"
-  },
-  {
-    "source": "hn",
     "url": "https://four.htmx.org/announcements/2026-08-28-htmx-4.0.0-is-released",
     "title": "Htmx 4.0"
-  },
-  {
-    "source": "hn",
-    "url": "https://anil.recoil.org/notes/rumour-is-the-exploit",
-    "title": "Just the rumour of a bug is enough to find an exploit these days"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.rascal.news/ppwr-lands-another-blow-to-an-already-precarious-tabletop-industry/",
-    "title": "PPWR lands another blow to an precarious tabletop industry"
   },
   {
     "source": "hn",
@@ -31,28 +16,23 @@
   },
   {
     "source": "hn",
+    "url": "https://anil.recoil.org/notes/rumour-is-the-exploit",
+    "title": "Just the rumour of a bug is enough to find an exploit these days"
+  },
+  {
+    "source": "hn",
     "url": "https://www.orbify.eu/demo/",
     "title": "Inception-style curved map for turn-by-turn directions"
   },
   {
     "source": "hn",
-    "url": "https://groverlab.org/hnbfpr/2026-08-26-ai-counterfeit-cosmetics.html",
-    "title": "Identifying fake cosmetics using AI"
+    "url": "https://www.vectorian.be/articles/2026-06-07/sumerian-king-list-paleoclimate-alignment-explorer/",
+    "title": "Does the Sumerian King List Align with Paleoclimate Events?"
   },
   {
     "source": "hn",
-    "url": "https://acko.net/blog/curvature-beziers/",
-    "title": "Curvature Beziers: Improving on a timeless recipe"
-  },
-  {
-    "source": "hn",
-    "url": "https://blog.luanti.org/2026/08/27/luanti-dmca-tracer-ai/",
-    "title": "Luanti removed from Google Play due to baseless AI copyright notice"
-  },
-  {
-    "source": "hn",
-    "url": "https://binvis.io/#/",
-    "title": "Visual Analysis of Binary Files"
+    "url": "https://www.kumander.org/",
+    "title": "Kumander Linux – A Linux Distro with a Windows 7 Desktop"
   },
   {
     "source": "hn",
@@ -61,8 +41,13 @@
   },
   {
     "source": "hn",
-    "url": "https://charlesleifer.com/blog/aspirational-clownmaxxing-and-joey-s-cadillac-todo-list/",
-    "title": "Aspirational Clownmaxxing and Joey's cadillac todo list"
+    "url": "https://acko.net/blog/curvature-beziers/",
+    "title": "Curvature Beziers: Improving on a timeless recipe"
+  },
+  {
+    "source": "hn",
+    "url": "https://binvis.io/#/",
+    "title": "Visual Analysis of Binary Files"
   },
   {
     "source": "lobsters",
@@ -81,6 +66,11 @@
   },
   {
     "source": "lobsters",
+    "url": "https://contextswitch-blue.vercel.app/",
+    "title": "ContextSwitch — take your AI conversations with you"
+  },
+  {
+    "source": "lobsters",
     "url": "https://blog.cloudflare.com/dns-cache-memory-optimization-1111/",
     "title": "How we saved 100 terabytes of memory by optimizing 1.1.1.1’s DNS cache"
   },
@@ -91,8 +81,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://sourcehut.org/blog/2026-08-27-tos-changes-and-llms/",
-    "title": "Changes to SourceHut's terms of service regarding LLMs"
+    "url": "https://www.dampfkraft.com/posuto.html",
+    "title": "Parsing the Infamous Japanese Postal CSV"
   },
   {
     "source": "lobsters",
@@ -101,27 +91,7 @@
   },
   {
     "source": "lobsters",
-    "url": "https://www.jeffquast.com/post/a-perfect-simcity/",
-    "title": "A Perfect SimCity"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://alyssarosenzweig.ca/blog/hilariously-fast-volume-computation-with-the-divergence-theorem.html",
-    "title": "Hilariously Fast Volume Computation with the Divergence Theorem (2018)"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://maplant.com/2025-04-20-25x-Performance,-Three-Optimizations.html",
-    "title": "25x Performance, Three Optimizations"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://tmpout.sh/5/2.html",
-    "title": "Interview: Doug McIlroy"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://neilalexander.dev/2026/06/30/flooding-contributions.html",
-    "title": "Please stop flooding our projects with AI slop to furnish your CV"
+    "url": "https://sourcehut.org/blog/2026-08-27-tos-changes-and-llms/",
+    "title": "Changes to SourceHut's terms of service regarding LLMs"
   }
 ]
