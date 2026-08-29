@@ -6,8 +6,8 @@
   },
   {
     "source": "hn",
-    "url": "https://anil.recoil.org/notes/rumour-is-the-exploit",
-    "title": "Just the rumour of a bug is enough to find an exploit these days"
+    "url": "https://www.vectorian.be/articles/2026-06-07/sumerian-king-list-paleoclimate-alignment-explorer/",
+    "title": "Does the Sumerian King List Align with Paleoclimate Events?"
   },
   {
     "source": "hn",
@@ -16,33 +16,33 @@
   },
   {
     "source": "hn",
+    "url": "https://anil.recoil.org/notes/rumour-is-the-exploit",
+    "title": "Just the rumour of a bug is enough to find an exploit these days"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.rascal.news/ppwr-lands-another-blow-to-an-already-precarious-tabletop-industry/",
+    "title": "PPWR lands another blow to an precarious tabletop industry"
+  },
+  {
+    "source": "hn",
+    "url": "https://pwning.systems/posts/llm-memory-program-analysis/",
+    "title": "I accidentally turned LLM memory into program analysis"
+  },
+  {
+    "source": "hn",
     "url": "https://www.orbify.eu/demo/",
     "title": "Inception-style curved map for turn-by-turn directions"
   },
   {
     "source": "hn",
+    "url": "https://groverlab.org/hnbfpr/2026-08-26-ai-counterfeit-cosmetics.html",
+    "title": "Identifying fake cosmetics using AI"
+  },
+  {
+    "source": "hn",
     "url": "https://acko.net/blog/curvature-beziers/",
-    "title": "Curvature Beziers"
-  },
-  {
-    "source": "hn",
-    "url": "https://binvis.io/#/",
-    "title": "Visual Analysis of Binary Files"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.wired.com/2015/03/illegal-sand-mining/",
-    "title": "Global demand for sand spawned a worldwide boom in illegal mining (2015)"
-  },
-  {
-    "source": "hn",
-    "url": "https://alyssarosenzweig.ca/blog/hilariously-fast-volume-computation-with-the-divergence-theorem.html",
-    "title": "Hilariously fast volume computation with the divergence theorem (2018)"
-  },
-  {
-    "source": "hn",
-    "url": "https://2026.stateofthemap.org/",
-    "title": "State of the Map 2026"
+    "title": "Curvature Beziers: Improving on a timeless recipe"
   },
   {
     "source": "hn",
@@ -51,18 +51,18 @@
   },
   {
     "source": "hn",
-    "url": "https://www.futilitycloset.com/2026/08/18/bhartrharis-paradox/",
-    "title": "Bhartrhari's Paradox"
+    "url": "https://binvis.io/#/",
+    "title": "Visual Analysis of Binary Files"
   },
   {
     "source": "hn",
-    "url": "https://dactyl.dev/blog/how-dactyl-works/",
-    "title": "How Dactyl Works"
+    "url": "https://sometimes.digital/posts/experiments-with-plotter-art/",
+    "title": "Experiments with Plotter Art"
   },
   {
     "source": "hn",
-    "url": "https://blog.brokk.ai/dont-use-musl-if-you-care-about-performance/",
-    "title": "Don't use musl if you care about performance"
+    "url": "https://charlesleifer.com/blog/aspirational-clownmaxxing-and-joey-s-cadillac-todo-list/",
+    "title": "Aspirational Clownmaxxing and Joey's cadillac todo list"
   },
   {
     "source": "lobsters",
@@ -71,13 +71,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://nesbitt.io/2026/08/28/now-hiring-senior-open-source-maintainer.html",
-    "title": "Now Hiring: Senior Open Source Maintainer"
+    "url": "https://noahlev.org/blog/2026/08/27/making-rustdoc-faster/",
+    "title": "How I made Rustdoc 33% faster in one week"
   },
   {
     "source": "lobsters",
-    "url": "https://noahlev.org/blog/2026/08/27/making-rustdoc-faster/",
-    "title": "How I made Rustdoc 33% faster in one week"
+    "url": "https://nesbitt.io/2026/08/28/now-hiring-senior-open-source-maintainer.html",
+    "title": "Now Hiring: Senior Open Source Maintainer"
   },
   {
     "source": "lobsters",
@@ -86,13 +86,18 @@
   },
   {
     "source": "lobsters",
+    "url": "https://modal.cx/blog/announcing-flatpak-sta/",
+    "title": "Announcing Sovereign Tech Agency Investment in Flatpak"
+  },
+  {
+    "source": "lobsters",
     "url": "https://sourcehut.org/blog/2026-08-27-tos-changes-and-llms/",
     "title": "Changes to SourceHut's terms of service regarding LLMs"
   },
   {
     "source": "lobsters",
-    "url": "https://modal.cx/blog/announcing-flatpak-sta/",
-    "title": "Announcing Sovereign Tech Agency Investment in Flatpak"
+    "url": "https://ziglang.org/devlog/2026/#2026-08-27",
+    "title": "Pointer Stability for ArrayLists"
   },
   {
     "source": "lobsters",
@@ -101,18 +106,13 @@
   },
   {
     "source": "lobsters",
+    "url": "https://alyssarosenzweig.ca/blog/hilariously-fast-volume-computation-with-the-divergence-theorem.html",
+    "title": "Hilariously Fast Volume Computation with the Divergence Theorem (2018)"
+  },
+  {
+    "source": "lobsters",
     "url": "https://maplant.com/2025-04-20-25x-Performance,-Three-Optimizations.html",
     "title": "25x Performance, Three Optimizations"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://neilalexander.dev/2026/06/30/flooding-contributions.html",
-    "title": "Please stop flooding our projects with AI slop to furnish your CV"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://ardour.org/whatsnew.html",
-    "title": "Ardour 9.8 released"
   },
   {
     "source": "lobsters",
@@ -121,7 +121,7 @@
   },
   {
     "source": "lobsters",
-    "url": "https://testing.googleblog.com/2015/01/testing-on-toilet-change-detector-tests.html",
-    "title": "Change-Detector Tests Considered Harmful (2015)"
+    "url": "https://neilalexander.dev/2026/06/30/flooding-contributions.html",
+    "title": "Please stop flooding our projects with AI slop to furnish your CV"
   }
 ]
