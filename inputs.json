@@ -1,8 +1,18 @@
 [
   {
     "source": "hn",
-    "url": "https://danluu.com/bug-blind/",
-    "title": "Bug Blindness"
+    "url": "https://www.qubes-os.org/news/2026/08/29/qsb-118/",
+    "title": "Arbitrary code execution in QubesOS via copy-to-VM error reporting backchannel"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.theregister.com/security/2026/08/30/turns-out-brits-would-quite-like-their-private-messages-to-stay-private/5292994",
+    "title": "Brits would quite like their private messages to stay private"
+  },
+  {
+    "source": "hn",
+    "url": "https://blog.lyc8503.net/en/post/dn42-2-dnet/",
+    "title": "Everyone Should Build Their Own Network Stack"
   },
   {
     "source": "hn",
@@ -16,13 +26,13 @@
   },
   {
     "source": "hn",
-    "url": "https://www.muppetlabs.com/~breadbox/software/tiny/teensy.html",
-    "title": "Creating Teensy ELF Executables for Linux (Or, \"Size Is Everything\")"
+    "url": "https://zackbartel.com/blog/2026/08/tether/",
+    "title": "Tether: iMessage, SMS, etc. on Linux"
   },
   {
     "source": "hn",
-    "url": "https://zackbartel.com/blog/2026/08/tether/",
-    "title": "Tether: iMessage, SMS, etc. on Linux"
+    "url": "https://danluu.com/bug-blind/",
+    "title": "Bug Blindness"
   },
   {
     "source": "hn",
@@ -31,8 +41,8 @@
   },
   {
     "source": "hn",
-    "url": "https://www.texastribune.org/2026/08/28/texas-flock-cameras-auto-insurance-fee-mvcpa-grants/",
-    "title": "Lawmakers added $1 to car insurance policies. That money paid for Flock cameras"
+    "url": "https://www.muppetlabs.com/~breadbox/software/tiny/teensy.html",
+    "title": "Creating Teensy ELF Executables for Linux (Or, \"Size Is Everything\") (1999)"
   },
   {
     "source": "hn",
@@ -41,13 +51,8 @@
   },
   {
     "source": "hn",
-    "url": "https://tucker.wales/writing/bias-towards-action/",
-    "title": "Calibrate Before You Accelerate: Bias Toward Action in a New Role"
-  },
-  {
-    "source": "hn",
-    "url": "https://worksinprogress.co/issue/daycare-pseudoscience/",
-    "title": "Daycare Pseudoscience"
+    "url": "https://www.texastribune.org/2026/08/28/texas-flock-cameras-auto-insurance-fee-mvcpa-grants/",
+    "title": "Lawmakers added $1 to car insurance policies. That money paid for Flock cameras"
   },
   {
     "source": "hn",
@@ -56,13 +61,13 @@
   },
   {
     "source": "hn",
-    "url": "https://coldtake.dev/blog/domain-driven-agents",
-    "title": "Domain-Driven Agents"
+    "url": "https://hitogata.neocities.org/POP-2000",
+    "title": "Pop-2000, a lingua-franca POP-2 dialect"
   },
   {
     "source": "hn",
-    "url": "https://r136a1.dev/2026/08/24/sleepwalker-a-passive-backdoor-with-its-own-command-language/",
-    "title": "Sleepwalker: Passive Backdoor with Its Own Command Language"
+    "url": "https://tucker.wales/writing/bias-towards-action/",
+    "title": "Calibrate Before You Accelerate: Bias Toward Action in a New Role"
   },
   {
     "source": "lobsters",
@@ -76,8 +81,18 @@
   },
   {
     "source": "lobsters",
+    "url": "https://blog.rust-lang.org/inside-rust/2026/08/19/overloading-experiment/",
+    "title": "Rust Function Overloading - Call for Experimentation"
+  },
+  {
+    "source": "lobsters",
     "url": "https://martinalderson.com/posts/glm-5-3-flash-chinese-hardware/",
     "title": "What GLM-5.3 Flash running on Chinese hardware actually means"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://gram-editor.com/posts/release-3.3.0/",
+    "title": "Gram Editor 3.3.0 Released"
   },
   {
     "source": "lobsters",
@@ -86,37 +101,27 @@
   },
   {
     "source": "lobsters",
-    "url": "https://www.dampfkraft.com/posuto.html",
-    "title": "Parsing the Infamous Japanese Postal CSV (2020)"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://four.htmx.org/announcements/2026-08-28-htmx-4.0.0-is-released",
-    "title": "htmx 4.0.0 has been released"
-  },
-  {
-    "source": "lobsters",
     "url": "https://embracethered.com/blog/posts/2026/breaking-claude-code-opus-5-and-automode/",
     "title": "Prompt Injection in Claude Code Opus 5 Auto Mode"
   },
   {
     "source": "lobsters",
-    "url": "https://beza1e1.tuxen.de/lore/print_on_tuesday.html",
-    "title": "OpenOffice does not print on Tuesdays (2009)"
+    "url": "https://www.dampfkraft.com/posuto.html",
+    "title": "Parsing the Infamous Japanese Postal CSV (2020)"
   },
   {
     "source": "lobsters",
-    "url": "https://anil.recoil.org/notes/rumour-is-the-exploit",
-    "title": "Just a rumour of a bug is enough to find a security exploit these days"
+    "url": "https://www.mattiryttylainen.com/posts/on-taste",
+    "title": "On Taste"
   },
   {
     "source": "lobsters",
-    "url": "https://ckardaris.com/blog/2026/08/28/keyboard-driven-guis.html",
-    "title": "GUIs should be fully keyboard-driven"
+    "url": "https://www.ufried.com/blog/essence_of_architecture_6/",
+    "title": "The essence of architectural work - Part 6"
   },
   {
     "source": "lobsters",
-    "url": "https://noahlev.org/blog/2026/08/27/making-rustdoc-faster/",
-    "title": "How I made Rustdoc 33% faster in one week"
+    "url": "https://four.htmx.org/announcements/2026-08-28-htmx-4.0.0-is-released",
+    "title": "htmx 4.0.0 has been released"
   }
 ]
