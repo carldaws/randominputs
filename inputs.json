@@ -1,13 +1,23 @@
 [
   {
     "source": "hn",
+    "url": "https://danluu.com/bug-blind/",
+    "title": "Bug Blindness"
+  },
+  {
+    "source": "hn",
+    "url": "https://blog.python.org/2026/08/riscv-now-officially-supported/",
+    "title": "RISC-V is now officially supported by CPython"
+  },
+  {
+    "source": "hn",
     "url": "https://www.tencent.com/tencent-releases-and-open-sources-tencent-hy4-preview/",
     "title": "Hy4 preview"
   },
   {
     "source": "hn",
-    "url": "https://danluu.com/bug-blind/",
-    "title": "Bug Blindness"
+    "url": "https://www.muppetlabs.com/~breadbox/software/tiny/teensy.html",
+    "title": "Creating Teensy ELF Executables for Linux (Or, \"Size Is Everything\")"
   },
   {
     "source": "hn",
@@ -16,18 +26,8 @@
   },
   {
     "source": "hn",
-    "url": "https://tucker.wales/writing/bias-towards-action/",
-    "title": "Calibrate Before You Accelerate: Bias Toward Action in a New Role"
-  },
-  {
-    "source": "hn",
-    "url": "https://dgl.cx/2020/06/sqlite-json-support",
-    "title": "SQLite as a Document Database (2020)"
-  },
-  {
-    "source": "hn",
-    "url": "https://coldtake.dev/blog/domain-driven-agents",
-    "title": "Domain-Driven Agents"
+    "url": "https://artificialanalysis.ai/hardware-inference-stack/mobile-phones",
+    "title": "Benchmarking Pocket-Scale Inference"
   },
   {
     "source": "hn",
@@ -36,8 +36,18 @@
   },
   {
     "source": "hn",
-    "url": "https://defrag98.com",
-    "title": "Defrag98: Windows 98 Disk Defragmenter Simulator Online"
+    "url": "https://dgl.cx/2020/06/sqlite-json-support",
+    "title": "SQLite as a Document Database (2020)"
+  },
+  {
+    "source": "hn",
+    "url": "https://tucker.wales/writing/bias-towards-action/",
+    "title": "Calibrate Before You Accelerate: Bias Toward Action in a New Role"
+  },
+  {
+    "source": "hn",
+    "url": "https://worksinprogress.co/issue/daycare-pseudoscience/",
+    "title": "Daycare Pseudoscience"
   },
   {
     "source": "hn",
@@ -46,38 +56,13 @@
   },
   {
     "source": "hn",
-    "url": "https://uecker.codeberg.page/2026-08-29.html",
-    "title": "Indirect Calling of Nested Functions on GCC Without Executable Stack"
-  },
-  {
-    "source": "hn",
-    "url": "https://typebase.io",
-    "title": "Show HN: Typebase – A single-folder back end you write in TypeScript"
+    "url": "https://coldtake.dev/blog/domain-driven-agents",
+    "title": "Domain-Driven Agents"
   },
   {
     "source": "hn",
     "url": "https://r136a1.dev/2026/08/24/sleepwalker-a-passive-backdoor-with-its-own-command-language/",
     "title": "Sleepwalker: Passive Backdoor with Its Own Command Language"
-  },
-  {
-    "source": "hn",
-    "url": "https://haz.ee/posts/aetheryte-radio.html",
-    "title": "Creating the Aetheryte Radio"
-  },
-  {
-    "source": "hn",
-    "url": "https://cinemasojourns.com/2026/08/27/the-wandering-yamamura-theater-troupe/",
-    "title": "The Wandering Yamamura Theater Troupe"
-  },
-  {
-    "source": "hn",
-    "url": "https://ekunazanu.foo/lab/quantifying-colour/",
-    "title": "Quantifying Colour"
-  },
-  {
-    "source": "hn",
-    "url": "https://blog.elis.cc/articles/a-safe-mysql-upgrade-that-wasnt-so-safe/",
-    "title": "A safe MySQL upgrade that wasn't so safe"
   },
   {
     "source": "lobsters",
@@ -96,18 +81,23 @@
   },
   {
     "source": "lobsters",
-    "url": "https://www.dampfkraft.com/posuto.html",
-    "title": "Parsing the Infamous Japanese Postal CSV (2020)"
-  },
-  {
-    "source": "lobsters",
     "url": "https://yogthos.net/posts/2026-08-29-glimmer-ui.html",
     "title": "Wrapping GTK4 in 800 lines of Clojure with Jolt"
   },
   {
     "source": "lobsters",
+    "url": "https://www.dampfkraft.com/posuto.html",
+    "title": "Parsing the Infamous Japanese Postal CSV (2020)"
+  },
+  {
+    "source": "lobsters",
     "url": "https://four.htmx.org/announcements/2026-08-28-htmx-4.0.0-is-released",
     "title": "htmx 4.0.0 has been released"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://embracethered.com/blog/posts/2026/breaking-claude-code-opus-5-and-automode/",
+    "title": "Prompt Injection in Claude Code Opus 5 Auto Mode"
   },
   {
     "source": "lobsters",
@@ -128,85 +118,5 @@
     "source": "lobsters",
     "url": "https://noahlev.org/blog/2026/08/27/making-rustdoc-faster/",
     "title": "How I made Rustdoc 33% faster in one week"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://surfingcomplexity.blog/2026/08/29/omnipresent-availability-risks-in-cloud-software/",
-    "title": "Omnipresent availability risks in cloud software"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.nebulasans.com/",
-    "title": "Nebula Sans"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://507movements.com/",
-    "title": "507 Mechanical Movements - an online edition of the classic technical reference Five Hundred and Seven Mechanical Movements"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.gatesnotes.com/a-turbulent-ai-era-and-critical-choices-to-make",
-    "title": "The turbulent AI era is here. The choices we make now are critical. We need a plan to ensure that the good outweighs the bad."
-  },
-  {
-    "source": "pinboard",
-    "url": "https://morphing.cloud/afterglow/",
-    "title": "Afterglow — classic After Dark screen savers on modern macOS"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://aiandeducation.mit.edu/report/",
-    "title": "Report – AI and Education"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://calv.info/small-models-have-arrived",
-    "title": "Small Models Have Arrived"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://louisabraham.github.io/load-bearing/",
-    "title": "The load-bearing vocabulary of Claude"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://scott-fryxell.github.io/blog/the-harness-is-the-thing/",
-    "title": "The Harness Is the Thing — Scott Fryxell"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://kylezhe.ng/writes/crafting-qr-codes",
-    "title": "Crafting QR Codes: A deep dive into QR code art | Kyle Zheng"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.matuzo.at/blog/2026/html-boilerplate",
-    "title": "My HTML boilerplate in 2026 - Manuel Matuzović"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://news.ycombinator.com/item?id=49445727",
-    "title": "rag is simpler than you think | hacker news"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://nil.wallyjones.com/run-openbsd-on-digitalocean-for-4month/",
-    "title": "Run OpenBSD on DigitalOcean for $4/month - Nil"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://thinkinginpython.com/",
-    "title": "Thinking in Python"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://schlarp.com/posts/everything-i-own-owned/",
-    "title": "Everything I own, owned - schlarp.com"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://news.ycombinator.com/item?id=49466917",
-    "title": "Small Models Have Arrived | Hacker News"
   }
 ]
