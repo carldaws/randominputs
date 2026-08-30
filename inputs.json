@@ -1,11 +1,6 @@
 [
   {
     "source": "hn",
-    "url": "https://0xcc.io/posts/omarchy-root-creds/",
-    "title": "Omarchy: Any User Process Can Escalate to Root"
-  },
-  {
-    "source": "hn",
     "url": "https://people.kernel.org/monsieuricon/creepy-crawlies",
     "title": "Creepy Crawlies"
   },
@@ -16,13 +11,38 @@
   },
   {
     "source": "hn",
+    "url": "https://komoroske.com/slime-mold/",
+    "title": "Coordination Headwind: How Organizations Are Like Slime Molds"
+  },
+  {
+    "source": "hn",
+    "url": "https://thezvi.wordpress.com/2026/08/29/metr-and-redwood-offer-holy-postmortem-of-the-huggingface-hack/",
+    "title": "METR and Redwood Offer Holy %^ Postmortem of the HuggingFace Hack"
+  },
+  {
+    "source": "hn",
     "url": "https://greenlightning.eu/diy/hacking-ikea-furniture/",
     "title": "Hacking IKEA Furniture"
   },
   {
     "source": "hn",
-    "url": "https://komoroske.com/slime-mold/",
-    "title": "Coordination Headwind: How Organizations Are Like Slime Molds"
+    "url": "https://www.righto.com/2026/08/spacelab-core-memory.html",
+    "title": "Cores in space: The core memory module from a 1980 Spacelab computer"
+  },
+  {
+    "source": "hn",
+    "url": "https://ziglang.org/devlog/2026/#2026-08-27",
+    "title": "Zig: Pointer Stability for ArrayLists"
+  },
+  {
+    "source": "hn",
+    "url": "https://ryangreenberg.com/til/git-branches-by-commit-date/",
+    "title": "Sort branches by last commit date"
+  },
+  {
+    "source": "hn",
+    "url": "https://openrun.dev/blog/litestream/",
+    "title": "Running SQLite Apps on Docker and Kubernetes with Litestream"
   },
   {
     "source": "hn",
@@ -36,18 +56,13 @@
   },
   {
     "source": "hn",
-    "url": "https://fortune.com/2026/08/29/europe-summer-drought-desertification-threat-rivers-fish/",
-    "title": "Europe's summer drought is so extreme that desertification is a growing threat"
+    "url": "https://0xcc.io/posts/omarchy-root-creds/",
+    "title": "Omarchy: Any User Process Can Escalate to Root"
   },
   {
     "source": "hn",
-    "url": "https://www.muppetlabs.com/~breadbox/software/windows.html",
-    "title": "An implementation of Conway's Game of Life for Windows 3.1x and later"
-  },
-  {
-    "source": "hn",
-    "url": "https://ziglang.org/devlog/2026/#2026-08-27",
-    "title": "Zig: Pointer Stability for ArrayLists"
+    "url": "https://www.philrees.co.uk/articles/timecode.htm",
+    "title": "Synchronisation and SMPTE timecode (time code)"
   },
   {
     "source": "hn",
@@ -56,8 +71,8 @@
   },
   {
     "source": "hn",
-    "url": "https://danluu.com/bug-blind/",
-    "title": "Bug Blindness"
+    "url": "https://fortune.com/2026/08/29/europe-summer-drought-desertification-threat-rivers-fish/",
+    "title": "Europe's summer drought is so extreme that desertification is a growing threat"
   },
   {
     "source": "hn",
@@ -66,8 +81,13 @@
   },
   {
     "source": "hn",
-    "url": "https://thezvi.wordpress.com/2026/08/29/metr-and-redwood-offer-holy-postmortem-of-the-huggingface-hack/",
-    "title": "METR and Redwood Offer Holy %^ Postmortem of the HuggingFace Hack"
+    "url": "https://danluu.com/bug-blind/",
+    "title": "Bug Blindness"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.muppetlabs.com/~breadbox/software/windows.html",
+    "title": "An implementation of Conway's Game of Life for Windows 3.1x and later"
   },
   {
     "source": "hn",
@@ -78,11 +98,6 @@
     "source": "hn",
     "url": "https://www.tencent.com/tencent-releases-and-open-sources-tencent-hy4-preview/",
     "title": "Hy4 preview"
-  },
-  {
-    "source": "hn",
-    "url": "https://fzakaria.com/2026/08/28/one-flake-to-rule-them-all",
-    "title": "One Nix flake to rule them all"
   },
   {
     "source": "lobsters",
@@ -106,8 +121,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://joeyh.name/blog/entry/Debian_and_the_sirens/",
-    "title": "Debian and the sirens"
+    "url": "https://fzakaria.com/2026/08/28/one-flake-to-rule-them-all",
+    "title": "One flake to rule them all"
   },
   {
     "source": "lobsters",
@@ -138,6 +153,11 @@
     "source": "lobsters",
     "url": "https://www.dampfkraft.com/posuto.html",
     "title": "Parsing the Infamous Japanese Postal CSV (2020)"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://hskmanga.com/blog/",
+    "title": "HSK Manga: Turning Manga into Beginner-Level Chinese"
   },
   {
     "source": "pinboard",
