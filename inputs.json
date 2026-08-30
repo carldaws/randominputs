@@ -1,33 +1,58 @@
 [
   {
     "source": "hn",
+    "url": "https://0xcc.io/posts/omarchy-root-creds/",
+    "title": "Omarchy: Any User Process Can Escalate to Root"
+  },
+  {
+    "source": "hn",
+    "url": "https://people.kernel.org/monsieuricon/creepy-crawlies",
+    "title": "Creepy Crawlies"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.haiku-os.org/news/2026-08-26_haiku_r1_beta6",
+    "title": "Haiku R1/beta6 has been released"
+  },
+  {
+    "source": "hn",
+    "url": "https://greenlightning.eu/diy/hacking-ikea-furniture/",
+    "title": "Hacking IKEA Furniture"
+  },
+  {
+    "source": "hn",
+    "url": "https://komoroske.com/slime-mold/",
+    "title": "Coordination Headwind: How Organizations Are Like Slime Molds"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.artie.com/careers?ashby_jid=e87b84d2-78b3-41a3-937a-47e83643cdf1",
+    "title": "Artie (YC S23) Is Hiring Technical AES"
+  },
+  {
+    "source": "hn",
     "url": "https://www.qubes-os.org/news/2026/08/29/qsb-118/",
     "title": "Arbitrary code execution in QubesOS via copy-to-VM error reporting backchannel"
   },
   {
     "source": "hn",
-    "url": "https://www.theregister.com/security/2026/08/30/turns-out-brits-would-quite-like-their-private-messages-to-stay-private/5292994",
-    "title": "Brits would quite like their private messages to stay private"
+    "url": "https://fortune.com/2026/08/29/europe-summer-drought-desertification-threat-rivers-fish/",
+    "title": "Europe's summer drought is so extreme that desertification is a growing threat"
   },
   {
     "source": "hn",
-    "url": "https://blog.lyc8503.net/en/post/dn42-2-dnet/",
-    "title": "Everyone Should Build Their Own Network Stack"
+    "url": "https://www.muppetlabs.com/~breadbox/software/windows.html",
+    "title": "An implementation of Conway's Game of Life for Windows 3.1x and later"
   },
   {
     "source": "hn",
-    "url": "https://blog.python.org/2026/08/riscv-now-officially-supported/",
-    "title": "RISC-V is now officially supported by CPython"
+    "url": "https://ziglang.org/devlog/2026/#2026-08-27",
+    "title": "Zig: Pointer Stability for ArrayLists"
   },
   {
     "source": "hn",
-    "url": "https://www.tencent.com/tencent-releases-and-open-sources-tencent-hy4-preview/",
-    "title": "Hy4 preview"
-  },
-  {
-    "source": "hn",
-    "url": "https://zackbartel.com/blog/2026/08/tether/",
-    "title": "Tether: iMessage, SMS, etc. on Linux"
+    "url": "https://askmike.org/articles/ai-coding-lessons-in-the-90s-from-my-dad/",
+    "title": "What my dad taught me about AI coding in the 90s"
   },
   {
     "source": "hn",
@@ -36,58 +61,33 @@
   },
   {
     "source": "hn",
-    "url": "https://artificialanalysis.ai/hardware-inference-stack/mobile-phones",
-    "title": "Benchmarking Pocket-Scale Inference"
+    "url": "https://blog.python.org/2026/08/riscv-now-officially-supported/",
+    "title": "RISC-V is now officially supported by CPython"
   },
   {
     "source": "hn",
-    "url": "https://www.muppetlabs.com/~breadbox/software/tiny/teensy.html",
-    "title": "Creating Teensy ELF Executables for Linux (Or, \"Size Is Everything\") (1999)"
+    "url": "https://thezvi.wordpress.com/2026/08/29/metr-and-redwood-offer-holy-postmortem-of-the-huggingface-hack/",
+    "title": "METR and Redwood Offer Holy %^ Postmortem of the HuggingFace Hack"
   },
   {
     "source": "hn",
-    "url": "https://dgl.cx/2020/06/sqlite-json-support",
-    "title": "SQLite as a Document Database (2020)"
+    "url": "https://blog.lyc8503.net/en/post/dn42-2-dnet/",
+    "title": "Building my own network stack"
   },
   {
     "source": "hn",
-    "url": "https://www.texastribune.org/2026/08/28/texas-flock-cameras-auto-insurance-fee-mvcpa-grants/",
-    "title": "Lawmakers added $1 to car insurance policies. That money paid for Flock cameras"
+    "url": "https://www.tencent.com/tencent-releases-and-open-sources-tencent-hy4-preview/",
+    "title": "Hy4 preview"
   },
   {
     "source": "hn",
-    "url": "https://en.wikipedia.org/wiki/Glacier_mice",
-    "title": "Glacier Mice"
-  },
-  {
-    "source": "hn",
-    "url": "https://hitogata.neocities.org/POP-2000",
-    "title": "Pop-2000, a lingua-franca POP-2 dialect"
-  },
-  {
-    "source": "hn",
-    "url": "https://tucker.wales/writing/bias-towards-action/",
-    "title": "Calibrate Before You Accelerate: Bias Toward Action in a New Role"
+    "url": "https://fzakaria.com/2026/08/28/one-flake-to-rule-them-all",
+    "title": "One Nix flake to rule them all"
   },
   {
     "source": "lobsters",
-    "url": "https://people.kernel.org/monsieuricon/creepy-crawlies",
-    "title": "Creepy crawlies"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://joeyh.name/blog/entry/Debian_and_the_sirens/",
-    "title": "Debian and the sirens"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://blog.rust-lang.org/inside-rust/2026/08/19/overloading-experiment/",
-    "title": "Rust Function Overloading - Call for Experimentation"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://martinalderson.com/posts/glm-5-3-flash-chinese-hardware/",
-    "title": "What GLM-5.3 Flash running on Chinese hardware actually means"
+    "url": "https://dustycloud.org/blog/but-where-does-taste-come-from/",
+    "title": "But where does taste come from?"
   },
   {
     "source": "lobsters",
@@ -96,8 +96,23 @@
   },
   {
     "source": "lobsters",
-    "url": "https://yogthos.net/posts/2026-08-29-glimmer-ui.html",
-    "title": "Wrapping GTK4 in 800 lines of Clojure with Jolt"
+    "url": "https://blog.rust-lang.org/inside-rust/2026/08/19/overloading-experiment/",
+    "title": "Rust Function Overloading - Call for Experimentation"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://maurycyz.com/misc/etherfiles/",
+    "title": "Transfer files over an ethernet patch cable"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://joeyh.name/blog/entry/Debian_and_the_sirens/",
+    "title": "Debian and the sirens"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://alexalejandre.com/interviews/interview-with-oofoe/",
+    "title": "Interview with oofoe about REBOL, Forth, Decker, Janet and the VFx Industry"
   },
   {
     "source": "lobsters",
@@ -106,22 +121,97 @@
   },
   {
     "source": "lobsters",
+    "url": "https://martinalderson.com/posts/glm-5-3-flash-chinese-hardware/",
+    "title": "What GLM-5.3 Flash running on Chinese hardware actually means"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://yogthos.net/posts/2026-08-29-glimmer-ui.html",
+    "title": "Wrapping GTK4 in 800 lines of Clojure with Jolt"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://loshz.com/debugging-bpf-tbaa/",
+    "title": "Debugging Type-Based Alias Analysis optimizations in BPF"
+  },
+  {
+    "source": "lobsters",
     "url": "https://www.dampfkraft.com/posuto.html",
     "title": "Parsing the Infamous Japanese Postal CSV (2020)"
   },
   {
-    "source": "lobsters",
-    "url": "https://www.mattiryttylainen.com/posts/on-taste",
-    "title": "On Taste"
+    "source": "pinboard",
+    "url": "https://507movements.com/",
+    "title": "507 Mechanical Movements - an online edition of the classic technical reference Five Hundred and Seven Mechanical Movements"
   },
   {
-    "source": "lobsters",
-    "url": "https://www.ufried.com/blog/essence_of_architecture_6/",
-    "title": "The essence of architectural work - Part 6"
+    "source": "pinboard",
+    "url": "https://morphing.cloud/afterglow/",
+    "title": "Afterglow — classic After Dark screen savers on modern macOS"
   },
   {
-    "source": "lobsters",
-    "url": "https://four.htmx.org/announcements/2026-08-28-htmx-4.0.0-is-released",
-    "title": "htmx 4.0.0 has been released"
+    "source": "pinboard",
+    "url": "https://calv.info/small-models-have-arrived",
+    "title": "Small Models Have Arrived"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.nebulasans.com/",
+    "title": "Nebula Sans"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://aiandeducation.mit.edu/report/",
+    "title": "Report – AI and Education"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.gatesnotes.com/a-turbulent-ai-era-and-critical-choices-to-make",
+    "title": "The turbulent AI era is here. The choices we make now are critical. We need a plan to ensure that the good outweighs the bad."
+  },
+  {
+    "source": "pinboard",
+    "url": "https://louisabraham.github.io/load-bearing/",
+    "title": "The load-bearing vocabulary of Claude"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://tools.simonwillison.net/llm-cliche-highlighter",
+    "title": "LLM cliché highlighter"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://pinyin.info/readings/texts/moser.html",
+    "title": "Why Chinese Is So Damn Hard"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://blog.cloudflare.com/dns-cache-memory-optimization-1111/",
+    "title": "How we saved 100 terabytes of memory by optimizing 1.1.1.1’s DNS cache | Cloudflare Blog"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://scott-fryxell.github.io/blog/the-harness-is-the-thing/",
+    "title": "The Harness Is the Thing — Scott Fryxell"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://news.ycombinator.com/item?id=49466917",
+    "title": "Small Models Have Arrived | Hacker News"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://blog.chrislewis.au/decompiling-a-nintendo-64-game-in-84-days/",
+    "title": "Decompiling a Nintendo 64 Game in 84 Days | Chris' Blog"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.gamedeveloper.com/business/playdate-maker-is-refunding-tariff-fees-to-customers",
+    "title": "Playdate maker Panic is refunding tariff fees to customers"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://sourcehut.org/blog/2026-08-27-tos-changes-and-llms/",
+    "title": "Changes to SourceHut's terms of service regarding LLMs"
   }
 ]
