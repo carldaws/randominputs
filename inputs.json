@@ -2,12 +2,12 @@
   {
     "source": "hn",
     "url": "https://www.tencent.com/tencent-releases-and-open-sources-tencent-hy4-preview/",
-    "title": "Tencent Releases and Open-Sources Tencent Hy4 Preview"
+    "title": "Hy4 preview"
   },
   {
     "source": "hn",
-    "url": "https://frequal.com/aptera/ProductionDealAug2026.html",
-    "title": "$44M Solar-Powered EV Production Deal Struck"
+    "url": "https://danluu.com/bug-blind/",
+    "title": "Bug Blindness"
   },
   {
     "source": "hn",
@@ -21,11 +21,6 @@
   },
   {
     "source": "hn",
-    "url": "https://www.npr.org/2026/08/28/nx-s1-5905370/nasa-nancy-grace-roman-space-telescope-dark-energy-supernova",
-    "title": "Nancy Grace Roman Space Telescope Launches this Sunday"
-  },
-  {
-    "source": "hn",
     "url": "https://dgl.cx/2020/06/sqlite-json-support",
     "title": "SQLite as a Document Database (2020)"
   },
@@ -36,8 +31,13 @@
   },
   {
     "source": "hn",
-    "url": "https://blog.elis.cc/articles/a-safe-mysql-upgrade-that-wasnt-so-safe/",
-    "title": "A safe MySQL upgrade that wasn't so safe"
+    "url": "https://www.texastribune.org/2026/08/28/texas-flock-cameras-auto-insurance-fee-mvcpa-grants/",
+    "title": "Lawmakers added $1 to car insurance policies. That money paid for Flock cameras"
+  },
+  {
+    "source": "hn",
+    "url": "https://defrag98.com",
+    "title": "Defrag98: Windows 98 Disk Defragmenter Simulator Online"
   },
   {
     "source": "hn",
@@ -61,16 +61,6 @@
   },
   {
     "source": "hn",
-    "url": "https://ekunazanu.foo/lab/quantifying-colour/",
-    "title": "Quantifying Colour"
-  },
-  {
-    "source": "hn",
-    "url": "https://prela-lang.org/tutorial/",
-    "title": "A better SQL in 11 lines of code"
-  },
-  {
-    "source": "hn",
     "url": "https://haz.ee/posts/aetheryte-radio.html",
     "title": "Creating the Aetheryte Radio"
   },
@@ -81,18 +71,13 @@
   },
   {
     "source": "hn",
-    "url": "https://mason.bearblog.dev/kmart-digicam-mod-part-2/",
-    "title": "Kmart Digicam Mod Part 2"
+    "url": "https://ekunazanu.foo/lab/quantifying-colour/",
+    "title": "Quantifying Colour"
   },
   {
     "source": "hn",
-    "url": "https://galaxium.app",
-    "title": "Show HN: Galaxium, an experimental WebGPU space explorer"
-  },
-  {
-    "source": "hn",
-    "url": "https://pwning.systems/posts/llm-memory-program-analysis/",
-    "title": "I accidentally turned LLM memory into program analysis"
+    "url": "https://blog.elis.cc/articles/a-safe-mysql-upgrade-that-wasnt-so-safe/",
+    "title": "A safe MySQL upgrade that wasn't so safe"
   },
   {
     "source": "lobsters",
@@ -103,6 +88,11 @@
     "source": "lobsters",
     "url": "https://joeyh.name/blog/entry/Debian_and_the_sirens/",
     "title": "Debian and the sirens"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://martinalderson.com/posts/glm-5-3-flash-chinese-hardware/",
+    "title": "What GLM-5.3 Flash running on Chinese hardware actually means"
   },
   {
     "source": "lobsters",
@@ -118,11 +108,6 @@
     "source": "lobsters",
     "url": "https://four.htmx.org/announcements/2026-08-28-htmx-4.0.0-is-released",
     "title": "htmx 4.0.0 has been released"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://martinalderson.com/posts/glm-5-3-flash-chinese-hardware/",
-    "title": "What GLM-5.3 Flash running on Chinese hardware actually means"
   },
   {
     "source": "lobsters",
