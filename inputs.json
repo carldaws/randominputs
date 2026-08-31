@@ -1,23 +1,43 @@
 [
   {
     "source": "hn",
-    "url": "https://unsung.aresluna.org/i-just-chose-words-carefully/",
-    "title": "“I just chose words carefully”"
+    "url": "https://codex-tool-reference.simonw.chatgpt.site/",
+    "title": "ChatGPT Work Tool and Skill Reference"
   },
   {
     "source": "hn",
-    "url": "https://ruurtjan.com/articles/p99-0ms-autocomplete-for-240-million-domain-names",
-    "title": "P99 0 ms* autocomplete for 240M domain names"
+    "url": "https://aeon.co/essays/at-the-heart-of-the-snow-leavis-two-cultures-clash",
+    "title": "Culture Clash"
   },
   {
     "source": "hn",
-    "url": "https://people.kernel.org/monsieuricon/creepy-crawlies",
-    "title": "Creepy Crawlies"
+    "url": "https://www.cppstories.com/2026/hardening-experiments/",
+    "title": "C++26: Standard Library Hardening Experiments"
   },
   {
     "source": "hn",
-    "url": "https://maurycyz.com/misc/etherfiles/",
-    "title": "Transfer files over an Ethernet patch cable"
+    "url": "https://embracethered.com/blog/posts/2026/breaking-claude-code-opus-5-and-automode/",
+    "title": "Breaking Claude Code Opus 5 Auto Mode"
+  },
+  {
+    "source": "hn",
+    "url": "https://trustcontrols.ai/",
+    "title": "Agentic Trust Controls"
+  },
+  {
+    "source": "hn",
+    "url": "http://beyondloom.com/blog/artofchip8.html",
+    "title": "The Art of Chip-8"
+  },
+  {
+    "source": "hn",
+    "url": "https://serverbox.stupidlabs.lol/",
+    "title": "Show HN: Linux server management over SSH – written in Rust and Tauri"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.mdubakov.me/malleable-software-solid-bases-custom-code/",
+    "title": "Malleable software = solid bases and custom code"
   },
   {
     "source": "hn",
@@ -26,13 +46,33 @@
   },
   {
     "source": "hn",
-    "url": "https://blog.vghaisas.com/rube-goldberg-doorbell/",
-    "title": "It takes 5 cloud services to hear my doorbell"
+    "url": "https://research.uga.edu/news/blue-light-has-a-surprising-effect-on-your-eyes-study-finds/",
+    "title": "Study: Blue light impairs the eye's ability to distinguish fine detail most"
   },
   {
     "source": "hn",
-    "url": "https://hank.bond/posts/highlighting-my-code-based-on-how-much-i-care/",
-    "title": "Highlighting My Code Based on How Much I Care"
+    "url": "https://fraware.github.io/EVERYTHING-RINGS/",
+    "title": "Hit anything. Discover how it rings"
+  },
+  {
+    "source": "hn",
+    "url": "https://unsung.aresluna.org/i-just-chose-words-carefully/",
+    "title": "“I just chose words carefully”"
+  },
+  {
+    "source": "hn",
+    "url": "https://povesham.wordpress.com/2026/08/30/state-of-the-map-2026-openstreetmap-conference/",
+    "title": "State of the Map 2026: OpenStreetMap conference"
+  },
+  {
+    "source": "hn",
+    "url": "https://ruurtjan.com/articles/p99-0ms-autocomplete-for-240-million-domain-names",
+    "title": "P99 0 ms* autocomplete for 240M domain names"
+  },
+  {
+    "source": "hn",
+    "url": "https://flowg.cloud/blog/using-floci-local-emulators",
+    "title": "Using floci to emulate Cloud platforms (GCP, AWS, Azure)"
   },
   {
     "source": "hn",
@@ -41,8 +81,8 @@
   },
   {
     "source": "hn",
-    "url": "https://www.haiku-os.org/news/2026-08-26_haiku_r1_beta6",
-    "title": "Haiku R1/beta6 has been released"
+    "url": "https://blog.jim-nielsen.com/2026/nuance-for-me-none-for-you/",
+    "title": "My Experience Has Nuance, Yours Is a Data Point"
   },
   {
     "source": "hn",
@@ -50,64 +90,9 @@
     "title": "How to build a diffusion language model"
   },
   {
-    "source": "hn",
-    "url": "https://wilsonharper.net/projects/businesscard/",
-    "title": "Show HN: NFC Energy-Harvesting PCB Business Card with an MCU"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.righto.com/2026/08/spacelab-core-memory.html",
-    "title": "Cores in space: The core memory module from a 1980 Spacelab computer"
-  },
-  {
-    "source": "hn",
-    "url": "https://greenlightning.eu/diy/hacking-ikea-furniture/",
-    "title": "Hacking IKEA Furniture"
-  },
-  {
-    "source": "hn",
-    "url": "https://ryangreenberg.com/til/git-branches-by-commit-date/",
-    "title": "Sort branches by last commit date"
-  },
-  {
-    "source": "hn",
-    "url": "https://sander.ai/2026/08/24/continuous-dlms.html",
-    "title": "Continuous Diffusion Language Models (CDLM's)"
-  },
-  {
-    "source": "hn",
-    "url": "https://studyfinds.com/what-2000-buried-underpants-revealed-about-where-soil-is-most-alive/",
-    "title": "What 2000 Buried Underpants Revealed About Where Soil Is Most Alive"
-  },
-  {
-    "source": "hn",
-    "url": "https://relm4.org/",
-    "title": "Relm4 makes developing beautiful cross-platform applications idiomatic"
-  },
-  {
-    "source": "hn",
-    "url": "https://dreamstation.systems/personal/ntppost.html",
-    "title": "Internet centralization and the original sin of NAT"
-  },
-  {
-    "source": "hn",
-    "url": "https://komoroske.com/slime-mold/",
-    "title": "Coordination Headwind: How Organizations Are Like Slime Molds"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.qubes-os.org/news/2026/08/29/qsb-118/",
-    "title": "Arbitrary code execution in QubesOS via copy-to-VM error reporting backchannel"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.ubu.com/historical/racter/index.html",
-    "title": "Racter (1984)"
-  },
-  {
-    "source": "hn",
-    "url": "https://ziglang.org/devlog/2026/#2026-08-27",
-    "title": "Zig: Pointer Stability for ArrayLists"
+    "source": "lobsters",
+    "url": "https://daniel.haxx.se/blog/2026/06/24/a-cve-dispute/",
+    "title": "curl: a CVE dispute"
   },
   {
     "source": "lobsters",
@@ -116,18 +101,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://dustycloud.org/blog/but-where-does-taste-come-from/",
-    "title": "But where does taste come from?"
+    "url": "https://prela-lang.org/tutorial/",
+    "title": "A Better SQL in 11 Lines of Code"
   },
   {
     "source": "lobsters",
-    "url": "https://blog.rust-lang.org/inside-rust/2026/08/19/overloading-experiment/",
-    "title": "Rust Function Overloading - Call for Experimentation"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://gram-editor.com/posts/release-3.3.0/",
-    "title": "Gram Editor 3.3.0 Released"
+    "url": "https://servo.org/blog/2026/08/31/july-in-servo/",
+    "title": "July in Servo: more platforms, faster canvas, web fonts in SVG, and more"
   },
   {
     "source": "lobsters",
@@ -136,13 +116,33 @@
   },
   {
     "source": "lobsters",
-    "url": "https://alexalejandre.com/interviews/interview-with-oofoe/",
-    "title": "Interview with oofoe about REBOL, Forth, Decker, Janet and the VFx Industry"
+    "url": "https://dustycloud.org/blog/but-where-does-taste-come-from/",
+    "title": "But where does taste come from?"
   },
   {
     "source": "lobsters",
-    "url": "https://fzakaria.com/2026/08/28/one-flake-to-rule-them-all",
-    "title": "One flake to rule them all"
+    "url": "https://matklad.github.io/2026/08/31/cancelation-terminology.html",
+    "title": "Cancelation Terminology"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://maurycyz.com/misc/etherfiles/",
+    "title": "Transfer files over an ethernet patch cable"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://www.vesto.me/2026/08/31/any-process-escalate-root.html",
+    "title": "Any user process can escalate to root"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://nolanlawson.com/2026/08/31/on-not-becoming-a-cyborg/",
+    "title": "On not becoming a cyborg"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://spirali.github.io/blog/cargo-scheduler/",
+    "title": "Could Cargo's scheduler be better?"
   },
   {
     "source": "lobsters",
@@ -151,27 +151,27 @@
   },
   {
     "source": "lobsters",
-    "url": "https://embracethered.com/blog/posts/2026/breaking-claude-code-opus-5-and-automode/",
-    "title": "Prompt Injection in Claude Code Opus 5 Auto Mode"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://danluu.com/bug-blind/",
-    "title": "Bug blindness"
-  },
-  {
-    "source": "lobsters",
     "url": "https://martypc.blogspot.com/2026/08/executable-emoji.html",
     "title": "Executable Emoji"
   },
   {
     "source": "lobsters",
-    "url": "https://joeyh.name/blog/entry/Debian_and_the_sirens/",
-    "title": "Debian and the sirens"
+    "url": "https://gram-editor.com/posts/release-3.3.0/",
+    "title": "Gram Editor 3.3.0 Released"
   },
   {
     "source": "lobsters",
-    "url": "https://martinalderson.com/posts/glm-5-3-flash-chinese-hardware/",
-    "title": "What GLM-5.3 Flash running on Chinese hardware actually means"
+    "url": "https://blog.rust-lang.org/inside-rust/2026/08/19/overloading-experiment/",
+    "title": "Rust Function Overloading - Call for Experimentation"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://www.mannulinux.org/2026/08/Privilege-escalation-from-IIS-AppPool-to-NT-AuthoritySYSTEM-via-AD-CS-RPC-endpoint.html",
+    "title": "Privilege escalation from IIS AppPool to NT Authority/SYSTEM"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://alexalejandre.com/interviews/interview-with-oofoe/",
+    "title": "Interview with oofoe about REBOL, Forth, Decker, Janet and the VFx Industry"
   }
 ]
