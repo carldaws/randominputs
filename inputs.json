@@ -1,23 +1,23 @@
 [
   {
     "source": "hn",
+    "url": "https://tomverbeure.github.io/2026/08/23/Tektronix-TDS7104-Refurbishing.html",
+    "title": "Refurbishing a Tektronix TDS7104 Oscilloscope"
+  },
+  {
+    "source": "hn",
+    "url": "https://simonwillison.net/2026/Sep/1/codex-libreoffice/",
+    "title": "The ChatGPT/Codex app bundles a full copy of LibreOffice"
+  },
+  {
+    "source": "hn",
     "url": "https://www.norirobotics.com/",
     "title": "Launch HN: Nori Robotics (YC S26) – A low-cost humanoid robot for development"
   },
   {
     "source": "hn",
-    "url": "https://ersc.io/blog/martin-joins-ersc",
-    "title": "The creator of Jujutsu has joined ERSC"
-  },
-  {
-    "source": "hn",
     "url": "https://ambientcss.vercel.app/",
     "title": "Ambient CSS v3 – Blender meets CSS"
-  },
-  {
-    "source": "hn",
-    "url": "https://sariyuce.com/blog/2026/UEFA-Draw/",
-    "title": "UEFA's Champions League draw creates unfair clusters; a Cayley graph fixes it"
   },
   {
     "source": "hn",
@@ -31,13 +31,38 @@
   },
   {
     "source": "hn",
-    "url": "https://frn.sh/io-uring/",
-    "title": "Io_uring Without Readahead"
+    "url": "https://newtonsorchard.app",
+    "title": "Show HN: Newton's Orchard – Browser-based space/gravity playground"
   },
   {
     "source": "hn",
-    "url": "https://www.monicahq.com/en/blog/we-are-rebuilding-monica/",
-    "title": "We are rebuilding Monica"
+    "url": "https://www.galois.com/articles/specifications-dont-exist",
+    "title": "Specifications Don't Exist (2025)"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.dougbarnesauthor.com/2018/06/how-bicycle-coaster-brakes-work.html",
+    "title": "How bicycle coaster brakes work (2018)"
+  },
+  {
+    "source": "hn",
+    "url": "https://ersc.io/blog/martin-joins-ersc",
+    "title": "The creator of Jujutsu has joined ERSC"
+  },
+  {
+    "source": "hn",
+    "url": "https://hnmatchmaker.com/",
+    "title": "Show HN: HN Match Maker – Matching \"Who Wants to Be Hired?\" With \"Who's Hiring?\""
+  },
+  {
+    "source": "hn",
+    "url": "https://inside.java/2026/05/28/podcast-059/",
+    "title": "Java is memory efficient [audio]"
+  },
+  {
+    "source": "hn",
+    "url": "https://frn.sh/io-uring/",
+    "title": "Io_uring Without Readahead"
   },
   {
     "source": "hn",
@@ -46,33 +71,8 @@
   },
   {
     "source": "hn",
-    "url": "https://savartus.com/solutions/enterprise-laser-storage/",
-    "title": "Physically Immutable Optical Archive Libraries"
-  },
-  {
-    "source": "hn",
-    "url": "https://keenableai.github.io/select-showcase/",
-    "title": "Keenable SELECT: an agent that searches the web in SQL"
-  },
-  {
-    "source": "hn",
-    "url": "https://ooxml.silurus.dev/",
-    "title": "A browser-based viewer for Office Open XML documents"
-  },
-  {
-    "source": "hn",
-    "url": "https://tmpout.sh/5/",
-    "title": "Tmp.0ut Volume 5"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.boristhebrave.com/2026/08/29/fractal-jittered-voronoi-partitions/",
-    "title": "Fractal Jittered Voronoi Partitions"
-  },
-  {
-    "source": "hn",
-    "url": "https://jasontucker.blog/how-i-turned-my-security-cameras-into-an-automatic-bird-identification-system-with-birdnet-go/",
-    "title": "I turned my security cameras into an automatic bird identification system"
+    "url": "https://iurii.net/en/blog/posts/software-engineering/i-used-fable-to-rewrite-65kloc-to-rust/",
+    "title": "I used Fable to rewrite 65kLoC of Go in Rust. It cost $400"
   },
   {
     "source": "lobsters",
@@ -86,23 +86,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://pulkomandy.tk/_/_Life/_A%20bicycle%20for%20the%20mind",
-    "title": "A bicycle for the mind"
-  },
-  {
-    "source": "lobsters",
     "url": "https://www.hillelwayne.com/post/predicate-logic/",
     "title": "A Crash Course in Predicate Logic"
   },
   {
     "source": "lobsters",
-    "url": "https://erk.dev/2026/08/30/rangefrom-part-2",
-    "title": "RangeFrom, Part 2..: What I think is wrong about the design"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://bjk5.com/post/44698559168/breaking-down-amazons-mega-dropdown",
-    "title": "Breaking down Amazon’s mega dropdown (2013)"
+    "url": "https://pulkomandy.tk/_/_Life/_A%20bicycle%20for%20the%20mind",
+    "title": "A bicycle for the mind"
   },
   {
     "source": "lobsters",
@@ -111,18 +101,38 @@
   },
   {
     "source": "lobsters",
+    "url": "https://www.v01.io/posts/2026/08/texttile/",
+    "title": "Texttile, a multiplayer blog engine for people who write together"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://bjk5.com/post/44698559168/breaking-down-amazons-mega-dropdown",
+    "title": "Breaking down Amazon’s mega dropdown (2013)"
+  },
+  {
+    "source": "lobsters",
     "url": "https://daniel.haxx.se/blog/2026/06/24/a-cve-dispute/",
     "title": "curl: a CVE dispute"
   },
   {
     "source": "lobsters",
-    "url": "https://osa1.net/posts/2026-08-29-coherence-and-orphans.html",
-    "title": "Coherence and orphan instance rules"
+    "url": "https://erk.dev/2026/08/30/rangefrom-part-2",
+    "title": "RangeFrom, Part 2..: What I think is wrong about the design"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://aerynos.com/blog/2026/08/31/a-community-that-works-together-builds-together/",
+    "title": "A community that works together, builds together"
   },
   {
     "source": "lobsters",
     "url": "https://nolanlawson.com/2026/08/31/on-not-becoming-a-cyborg/",
     "title": "On not becoming a cyborg"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://osa1.net/posts/2026-08-29-coherence-and-orphans.html",
+    "title": "Coherence and orphan instance rules"
   },
   {
     "source": "lobsters",
@@ -136,18 +146,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://www.v01.io/posts/2026/08/texttile/",
-    "title": "Texttile, a multiplayer blog engine for people who write together"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://prela-lang.org/tutorial/",
-    "title": "A Better SQL in 11 Lines of Code"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://arewelegacycomputingyet.com/",
-    "title": "Are We Legacy Computing Yet?"
+    "url": "https://metapatterns.io/",
+    "title": "The pattern language of software architecture"
   },
   {
     "source": "pinboard",
