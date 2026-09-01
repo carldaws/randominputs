@@ -1,13 +1,18 @@
 [
   {
     "source": "hn",
-    "url": "https://jasontucker.blog/how-i-turned-my-security-cameras-into-an-automatic-bird-identification-system-with-birdnet-go/",
-    "title": "I turned my security cameras into an automatic bird identification system"
+    "url": "https://www.darlinghq.org/",
+    "title": "Run macOS Software on Linux"
   },
   {
     "source": "hn",
-    "url": "https://laser.consti.de",
-    "title": "Show HN: Laser Graffiti"
+    "url": "https://datacolada.org/138",
+    "title": "Evidence of Fraud in an Influential Study About Procrastination"
+  },
+  {
+    "source": "hn",
+    "url": "https://jasontucker.blog/how-i-turned-my-security-cameras-into-an-automatic-bird-identification-system-with-birdnet-go/",
+    "title": "I turned my security cameras into an automatic bird identification system"
   },
   {
     "source": "hn",
@@ -16,13 +21,18 @@
   },
   {
     "source": "hn",
-    "url": "https://www.chosun.com/english/industry-en/2026/08/30/SBFXUIJQYZEARKP5T4FBAY25HQ/",
-    "title": "Smartphone LED detects hidden cameras with AI"
+    "url": "https://en.wikipedia.org/wiki/Lion-man",
+    "title": "Lion-man – the oldest confirmed statue ever discovered"
   },
   {
     "source": "hn",
-    "url": "https://tmpout.sh/5/",
-    "title": "Tmp.0ut, Vol. 5"
+    "url": "https://cgicoffee.com/blog/2026/04/tcl-tk-develop-cross-platform-cli-gui-tools-tutorial-guide",
+    "title": "Develop Cross-Platform CLI and GUI Tools with Tcl/Tk"
+  },
+  {
+    "source": "hn",
+    "url": "https://laser.consti.de",
+    "title": "Show HN: Laser Graffiti"
   },
   {
     "source": "hn",
@@ -31,28 +41,28 @@
   },
   {
     "source": "hn",
-    "url": "https://codex-tool-reference.simonw.chatgpt.site/",
-    "title": "ChatGPT Work Tool and Skill Reference"
+    "url": "https://www.chosun.com/english/industry-en/2026/08/30/SBFXUIJQYZEARKP5T4FBAY25HQ/",
+    "title": "Smartphone LED detects hidden cameras with AI"
   },
   {
     "source": "hn",
     "url": "https://ravynos.com/",
-    "title": "ravynOS: Pre-alpha open-source OS based on Darwin, FreeBSD, Apple open-source"
+    "title": "RavynOS: Pre-alpha open-source OS based on Darwin, FreeBSD, Apple open-source"
   },
   {
     "source": "hn",
-    "url": "https://corporatemindgames.com/",
-    "title": "Show HN: Corporate Mind Games – logic puzzles with a sarcastic corporate theme"
+    "url": "https://www.r-bloggers.com/2025/05/the-dynamics-of-the-gentle-way-exploring-judo-attack-combinations-as-networks-in-r/",
+    "title": "Visualizing Combos in Judo in R"
   },
   {
     "source": "hn",
-    "url": "https://dreamstation.systems/personal/ntppost.html",
-    "title": "Internet centralization and the original sin of NAT"
+    "url": "https://www.wsj.com/tech/gps-jammers-dead-zones-e76f3261",
+    "title": "Cheap GPS jammers are filling the world with navigation dead zones"
   },
   {
     "source": "hn",
-    "url": "https://www.cppstories.com/2026/hardening-experiments/",
-    "title": "C++26: Standard Library Hardening Experiments"
+    "url": "https://codex-tool-reference.simonw.chatgpt.site/",
+    "title": "ChatGPT Work Tool and Skill Reference"
   },
   {
     "source": "hn",
@@ -61,13 +71,23 @@
   },
   {
     "source": "hn",
-    "url": "https://aeon.co/essays/at-the-heart-of-the-snow-leavis-two-cultures-clash",
-    "title": "The Snow/Leavis ‘two cultures’ clash"
+    "url": "https://dmitrybrant.com/2026/08/23/claude-x-retrocomputing-emulating-a-qic-117-tape-drive",
+    "title": "Claude × retrocomputing: emulating a QIC-117 tape drive"
   },
   {
     "source": "hn",
-    "url": "https://embracethered.com/blog/posts/2026/breaking-claude-code-opus-5-and-automode/",
-    "title": "Breaking Claude Code Opus 5 Auto Mode"
+    "url": "https://dreamstation.systems/personal/ntppost.html",
+    "title": "Internet centralization and the original sin of NAT"
+  },
+  {
+    "source": "hn",
+    "url": "http://muratbuffalo.blogspot.com/2026/08/the-safest-job-from-ai-may-be-writing.html",
+    "title": "The safest job from AI may be writing"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.sixpatterns.com/blog/how-we-configured-opentelemetry-logs-in-rails",
+    "title": "How we configured OpenTelemetry logs in Rails"
   },
   {
     "source": "lobsters",
@@ -76,8 +96,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://prela-lang.org/tutorial/",
-    "title": "A Better SQL in 11 Lines of Code"
+    "url": "https://erk.dev/2026/08/30/rangefrom-part-2",
+    "title": "RangeFrom, Part 2..: What I think is wrong about the design"
   },
   {
     "source": "lobsters",
@@ -86,13 +106,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://trevmex.com/post/826439929093636096/the-us-is-more-than-just-the-us-according-to",
-    "title": "The U.S. is more than just the US (according to the ISO)"
+    "url": "https://prela-lang.org/tutorial/",
+    "title": "A Better SQL in 11 Lines of Code"
   },
   {
     "source": "lobsters",
-    "url": "https://erk.dev/2026/08/30/rangefrom-part-2",
-    "title": "RangeFrom, Part 2..: What I think is wrong about the design"
+    "url": "https://trevmex.com/post/826439929093636096/the-us-is-more-than-just-the-us-according-to",
+    "title": "The U.S. is more than just the US (according to the ISO)"
   },
   {
     "source": "lobsters",
@@ -106,8 +126,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://dustycloud.org/blog/but-where-does-taste-come-from/",
-    "title": "But where does taste come from?"
+    "url": "https://arewelegacycomputingyet.com/",
+    "title": "Are We Legacy Computing Yet?"
   },
   {
     "source": "lobsters",
@@ -121,8 +141,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://arewelegacycomputingyet.com/",
-    "title": "Are We Legacy Computing Yet?"
+    "url": "https://dustycloud.org/blog/but-where-does-taste-come-from/",
+    "title": "But where does taste come from?"
   },
   {
     "source": "lobsters",
@@ -131,8 +151,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://maurycyz.com/misc/etherfiles/",
-    "title": "Transfer files over an ethernet patch cable"
+    "url": "https://www.cppstories.com/2026/hardening-experiments/",
+    "title": "C++26: Standard Library Hardening Experiments"
   },
   {
     "source": "lobsters",
@@ -141,12 +161,97 @@
   },
   {
     "source": "lobsters",
+    "url": "https://www.mannulinux.org/2026/08/Privilege-escalation-from-IIS-AppPool-to-NT-AuthoritySYSTEM-via-AD-CS-RPC-endpoint.html",
+    "title": "Privilege escalation from IIS AppPool to NT Authority/SYSTEM"
+  },
+  {
+    "source": "lobsters",
     "url": "https://www.kenmuse.com/blog/rootless-docker-and-its-hidden-security-trade-offs/",
     "title": "Rootless Docker and Its Hidden Security Trade-Offs"
   },
   {
-    "source": "lobsters",
-    "url": "https://jasonsantamaria.com/blog/css-is-still-awesome",
-    "title": "CSS is Still Awesome"
+    "source": "pinboard",
+    "url": "https://people.kernel.org/monsieuricon/creepy-crawlies",
+    "title": "Creepy crawlies — Konstantin Ryabitsev"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.itamarnovick.com/intro-to-startup-anti-pattern-series/",
+    "title": "Intro to Startup anti-pattern Series | Insights, not just posts"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://morphing.cloud/afterglow/",
+    "title": "Afterglow — classic After Dark screen savers on modern macOS"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://tools.simonwillison.net/llm-cliche-highlighter",
+    "title": "LLM cliché highlighter"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://507movements.com/",
+    "title": "507 Mechanical Movements - an online edition of the classic technical reference Five Hundred and Seven Mechanical Movements"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://unsung.aresluna.org/i-just-chose-words-carefully/",
+    "title": "“I just chose words carefully.” – Unsung"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.nebulasans.com/",
+    "title": "Nebula Sans"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://danluu.com/bug-blind/",
+    "title": "Bug blindness"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://calv.info/small-models-have-arrived",
+    "title": "Small Models Have Arrived"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://ledger.worseonpurpose.com/",
+    "title": "The Brand Ledger — Worse on Purpose"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.cropart.com/Resist.pdf",
+    "title": "Crop Art Tributes to the Minnesota Resistance"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://pinyin.info/readings/texts/moser.html",
+    "title": "Why Chinese Is So Damn Hard"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://coldtake.dev/blog/domain-driven-agents",
+    "title": "Domain-Driven Agents"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://vgpu.sh/",
+    "title": "vgpu"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://daringfireball.net/linked/2026/08/28/trump-lake-ontario",
+    "title": "Daring Fireball: Trump Declares That Lake Ontario Is Now 'Lake America'"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://daringfireball.net/2026/08/thoughts_and_observations_apple_immersive_mlb_broadcast",
+    "title": "Daring Fireball: Thoughts and Observations on Apple’s First Immersive MLB Broadcast, a Yankees 1-0 Win Over the Red Sox"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://ekunazanu.foo/lab/quantifying-colour/",
+    "title": "Quantifying Colour ~ ekunazanu.foo"
   }
 ]
