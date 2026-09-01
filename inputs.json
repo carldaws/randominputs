@@ -1,13 +1,8 @@
 [
   {
     "source": "hn",
-    "url": "https://www.gpuworld.org/",
-    "title": "GPU World"
-  },
-  {
-    "source": "hn",
-    "url": "https://fastpotify.rocks/",
-    "title": "Fastpotify"
+    "url": "https://frn.sh/io-uring/",
+    "title": "Io_uring Without Readahead"
   },
   {
     "source": "hn",
@@ -16,13 +11,23 @@
   },
   {
     "source": "hn",
+    "url": "https://fastpotify.rocks/",
+    "title": "Fastpotify"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.boristhebrave.com/2026/08/29/fractal-jittered-voronoi-partitions/",
+    "title": "Fractal Jittered Voronoi Partitions"
+  },
+  {
+    "source": "hn",
     "url": "https://tmpout.sh/5/",
     "title": "Tmp.0ut Volume 5"
   },
   {
     "source": "hn",
-    "url": "https://512pixels.net/2026/08/polishing-cloth-updated/",
-    "title": "Polishing Cloth Updated"
+    "url": "https://www.gpuworld.org/",
+    "title": "GPU World"
   },
   {
     "source": "hn",
@@ -31,18 +36,18 @@
   },
   {
     "source": "hn",
+    "url": "https://www.rebootedmom.com/build-a-potato-box/",
+    "title": "DIY – Build a Potato Box (2022)"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.monicahq.com/en/blog/we-are-rebuilding-monica/",
+    "title": "We Are Rebuilding Monica"
+  },
+  {
+    "source": "hn",
     "url": "https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand/",
     "title": "Apple caught off guard by AI demand for Mac Mini and Mac Studio"
-  },
-  {
-    "source": "hn",
-    "url": "https://laser.consti.de",
-    "title": "Show HN: Laser Graffiti"
-  },
-  {
-    "source": "hn",
-    "url": "https://datacolada.org/138",
-    "title": "Evidence of Fraud in an Influential Study About Procrastination"
   },
   {
     "source": "hn",
@@ -51,38 +56,18 @@
   },
   {
     "source": "hn",
+    "url": "https://laser.consti.de",
+    "title": "Show HN: Laser Graffiti"
+  },
+  {
+    "source": "hn",
     "url": "https://www.chosun.com/english/industry-en/2026/08/30/SBFXUIJQYZEARKP5T4FBAY25HQ/",
     "title": "Smartphone LED detects hidden cameras with AI"
   },
   {
     "source": "hn",
-    "url": "https://artflsrv04.uchicago.edu/roget-thesaurus/",
-    "title": "Roget's Thesaurus"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.humprog.org/~stephen/blog/2026/08/25/#flat-vs-segmented",
-    "title": "Flat vs. segmented memory – it's recursive"
-  },
-  {
-    "source": "hn",
-    "url": "https://jkm.dev/posts/how-2004-runescape-fit-a-multiplayer-rpg-into-56k-dialup/",
-    "title": "2004 RuneScape fit a multiplayer RPG into 56k dial-up"
-  },
-  {
-    "source": "hn",
-    "url": "https://en.wikipedia.org/wiki/Lion-man",
-    "title": "Lion-man"
-  },
-  {
-    "source": "hn",
     "url": "https://nullpt.rs/reverse-engineering-adhd-test",
     "title": "Reverse engineering my ADHD test"
-  },
-  {
-    "source": "hn",
-    "url": "https://ravynos.com/",
-    "title": "RavynOS: Pre-alpha open-source OS based on Darwin, FreeBSD, Apple open-source"
   },
   {
     "source": "lobsters",
@@ -96,13 +81,38 @@
   },
   {
     "source": "lobsters",
+    "url": "https://bjk5.com/post/44698559168/breaking-down-amazons-mega-dropdown",
+    "title": "Breaking down Amazon’s mega dropdown (2013)"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://zuzai.org/",
+    "title": "Zuzai, a new word, indicates the absence of AI"
+  },
+  {
+    "source": "lobsters",
     "url": "https://servo.org/blog/2026/08/31/july-in-servo/",
     "title": "July in Servo: more platforms, faster canvas, web fonts in SVG, and more"
   },
   {
     "source": "lobsters",
-    "url": "https://bjk5.com/post/44698559168/breaking-down-amazons-mega-dropdown",
-    "title": "Breaking down Amazon’s mega dropdown (2013)"
+    "url": "https://docs.robotframework.org/docs/getting_started/how_to_write_rf",
+    "title": "The Robot Framework language"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://nolanlawson.com/2026/08/31/on-not-becoming-a-cyborg/",
+    "title": "On not becoming a cyborg"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://pulkomandy.tk/_/_Life/_A%20bicycle%20for%20the%20mind",
+    "title": "A bicycle for the mind"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://arewelegacycomputingyet.com/",
+    "title": "Are We Legacy Computing Yet?"
   },
   {
     "source": "lobsters",
@@ -116,28 +126,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://nolanlawson.com/2026/08/31/on-not-becoming-a-cyborg/",
-    "title": "On not becoming a cyborg"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://arewelegacycomputingyet.com/",
-    "title": "Are We Legacy Computing Yet?"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://docs.robotframework.org/docs/getting_started/how_to_write_rf",
-    "title": "The Robot Framework language"
-  },
-  {
-    "source": "lobsters",
     "url": "https://matklad.github.io/2026/08/31/cancelation-terminology.html",
     "title": "Cancelation Terminology"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://0xcc.io/posts/omarchy-root-creds/",
-    "title": "Omarchy: Any User Process Can Escalate to Root"
   },
   {
     "source": "lobsters",
@@ -146,17 +136,17 @@
   },
   {
     "source": "lobsters",
-    "url": "https://spirali.github.io/blog/cargo-scheduler/",
-    "title": "Could Cargo's scheduler be better?"
+    "url": "https://osa1.net/posts/2026-08-29-coherence-and-orphans.html",
+    "title": "Coherence and orphan instance rules"
   },
   {
     "source": "lobsters",
-    "url": "https://jasonsantamaria.com/blog/css-is-still-awesome",
-    "title": "CSS is Still Awesome"
+    "url": "https://0xcc.io/posts/omarchy-root-creds/",
+    "title": "Omarchy: Any User Process Can Escalate to Root"
   },
   {
     "source": "lobsters",
-    "url": "https://www.vesto.me/2026/08/31/any-process-escalate-root.html",
-    "title": "Any user process can escalate to root"
+    "url": "https://wasmi-labs.github.io/blog/posts/wasmi-v2.0/",
+    "title": "Wasmi 2.0 - Engineering of the Fastest Wasm Interpreters"
   }
 ]
