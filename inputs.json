@@ -1,13 +1,13 @@
 [
   {
     "source": "hn",
-    "url": "https://www.darlinghq.org/",
-    "title": "Run macOS Software on Linux"
+    "url": "https://www.gpuworld.org/",
+    "title": "GPU World"
   },
   {
     "source": "hn",
-    "url": "https://datacolada.org/138",
-    "title": "Evidence of Fraud in an Influential Study About Procrastination"
+    "url": "https://fastpotify.rocks/",
+    "title": "Fastpotify"
   },
   {
     "source": "hn",
@@ -16,23 +16,13 @@
   },
   {
     "source": "hn",
-    "url": "https://phys.org/news/2026-08-mad-honey-heart-sold-online.html",
-    "title": "'Mad honey' that can stop your heart is being sold online"
+    "url": "https://jkm.dev/posts/how-2004-runescape-fit-a-multiplayer-rpg-into-56k-dialup/",
+    "title": "2004 RuneScape fit a multiplayer RPG into 56k dial-up"
   },
   {
     "source": "hn",
-    "url": "https://en.wikipedia.org/wiki/Lion-man",
-    "title": "Lion-man – the oldest confirmed statue ever discovered"
-  },
-  {
-    "source": "hn",
-    "url": "https://cgicoffee.com/blog/2026/04/tcl-tk-develop-cross-platform-cli-gui-tools-tutorial-guide",
-    "title": "Develop Cross-Platform CLI and GUI Tools with Tcl/Tk"
-  },
-  {
-    "source": "hn",
-    "url": "https://laser.consti.de",
-    "title": "Show HN: Laser Graffiti"
+    "url": "https://datacolada.org/138",
+    "title": "Evidence of Fraud in an Influential Study About Procrastination"
   },
   {
     "source": "hn",
@@ -41,23 +31,43 @@
   },
   {
     "source": "hn",
-    "url": "https://www.chosun.com/english/industry-en/2026/08/30/SBFXUIJQYZEARKP5T4FBAY25HQ/",
-    "title": "Smartphone LED detects hidden cameras with AI"
-  },
-  {
-    "source": "hn",
-    "url": "https://ravynos.com/",
-    "title": "RavynOS: Pre-alpha open-source OS based on Darwin, FreeBSD, Apple open-source"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.r-bloggers.com/2025/05/the-dynamics-of-the-gentle-way-exploring-judo-attack-combinations-as-networks-in-r/",
-    "title": "Visualizing Combos in Judo in R"
+    "url": "https://laser.consti.de",
+    "title": "Show HN: Laser Graffiti"
   },
   {
     "source": "hn",
     "url": "https://www.wsj.com/tech/gps-jammers-dead-zones-e76f3261",
     "title": "Cheap GPS jammers are filling the world with navigation dead zones"
+  },
+  {
+    "source": "hn",
+    "url": "https://en.wikipedia.org/wiki/Lion-man",
+    "title": "Lion-man"
+  },
+  {
+    "source": "hn",
+    "url": "https://cgicoffee.com/blog/2026/04/tcl-tk-develop-cross-platform-cli-gui-tools-tutorial-guide",
+    "title": "Develop Cross-Platform CLI and GUI Tools with Tcl/Tk"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.chosun.com/english/industry-en/2026/08/30/SBFXUIJQYZEARKP5T4FBAY25HQ/",
+    "title": "Smartphone LED detects hidden cameras with AI"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.darlinghq.org/",
+    "title": "Run macOS Software on Linux"
+  },
+  {
+    "source": "hn",
+    "url": "https://byopiapress.wordpress.com/2024/05/19/a-cyanometer-and-a-cloud-colourimeter/",
+    "title": "A Cyanometer and a Cloud Colourimeter"
+  },
+  {
+    "source": "hn",
+    "url": "https://ravynos.com/",
+    "title": "RavynOS: Pre-alpha open-source OS based on Darwin, FreeBSD, Apple open-source"
   },
   {
     "source": "hn",
@@ -71,23 +81,8 @@
   },
   {
     "source": "hn",
-    "url": "https://dmitrybrant.com/2026/08/23/claude-x-retrocomputing-emulating-a-qic-117-tape-drive",
-    "title": "Claude × retrocomputing: emulating a QIC-117 tape drive"
-  },
-  {
-    "source": "hn",
-    "url": "https://dreamstation.systems/personal/ntppost.html",
-    "title": "Internet centralization and the original sin of NAT"
-  },
-  {
-    "source": "hn",
-    "url": "http://muratbuffalo.blogspot.com/2026/08/the-safest-job-from-ai-may-be-writing.html",
-    "title": "The safest job from AI may be writing"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.sixpatterns.com/blog/how-we-configured-opentelemetry-logs-in-rails",
-    "title": "How we configured OpenTelemetry logs in Rails"
+    "url": "https://phys.org/news/2026-08-mad-honey-heart-sold-online.html",
+    "title": "'Mad honey' that can stop your heart is being sold online"
   },
   {
     "source": "lobsters",
@@ -116,8 +111,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://0xcc.io/posts/omarchy-root-creds/",
-    "title": "Omarchy: Any User Process Can Escalate to Root"
+    "url": "https://arewelegacycomputingyet.com/",
+    "title": "Are We Legacy Computing Yet?"
   },
   {
     "source": "lobsters",
@@ -126,8 +121,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://arewelegacycomputingyet.com/",
-    "title": "Are We Legacy Computing Yet?"
+    "url": "https://0xcc.io/posts/omarchy-root-creds/",
+    "title": "Omarchy: Any User Process Can Escalate to Root"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://bjk5.com/post/44698559168/breaking-down-amazons-mega-dropdown",
+    "title": "Breaking down Amazon’s mega dropdown (2013)"
   },
   {
     "source": "lobsters",
@@ -151,18 +151,13 @@
   },
   {
     "source": "lobsters",
+    "url": "https://jasonsantamaria.com/blog/css-is-still-awesome",
+    "title": "CSS is Still Awesome"
+  },
+  {
+    "source": "lobsters",
     "url": "https://www.cppstories.com/2026/hardening-experiments/",
     "title": "C++26: Standard Library Hardening Experiments"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://martypc.blogspot.com/2026/08/executable-emoji.html",
-    "title": "Executable Emoji"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://www.mannulinux.org/2026/08/Privilege-escalation-from-IIS-AppPool-to-NT-AuthoritySYSTEM-via-AD-CS-RPC-endpoint.html",
-    "title": "Privilege escalation from IIS AppPool to NT Authority/SYSTEM"
   },
   {
     "source": "lobsters",
@@ -170,88 +165,8 @@
     "title": "Rootless Docker and Its Hidden Security Trade-Offs"
   },
   {
-    "source": "pinboard",
-    "url": "https://people.kernel.org/monsieuricon/creepy-crawlies",
-    "title": "Creepy crawlies — Konstantin Ryabitsev"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.itamarnovick.com/intro-to-startup-anti-pattern-series/",
-    "title": "Intro to Startup anti-pattern Series | Insights, not just posts"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://morphing.cloud/afterglow/",
-    "title": "Afterglow — classic After Dark screen savers on modern macOS"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://tools.simonwillison.net/llm-cliche-highlighter",
-    "title": "LLM cliché highlighter"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://507movements.com/",
-    "title": "507 Mechanical Movements - an online edition of the classic technical reference Five Hundred and Seven Mechanical Movements"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://unsung.aresluna.org/i-just-chose-words-carefully/",
-    "title": "“I just chose words carefully.” – Unsung"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.nebulasans.com/",
-    "title": "Nebula Sans"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://danluu.com/bug-blind/",
-    "title": "Bug blindness"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://calv.info/small-models-have-arrived",
-    "title": "Small Models Have Arrived"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://ledger.worseonpurpose.com/",
-    "title": "The Brand Ledger — Worse on Purpose"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.cropart.com/Resist.pdf",
-    "title": "Crop Art Tributes to the Minnesota Resistance"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://pinyin.info/readings/texts/moser.html",
-    "title": "Why Chinese Is So Damn Hard"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://coldtake.dev/blog/domain-driven-agents",
-    "title": "Domain-Driven Agents"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://vgpu.sh/",
-    "title": "vgpu"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://daringfireball.net/linked/2026/08/28/trump-lake-ontario",
-    "title": "Daring Fireball: Trump Declares That Lake Ontario Is Now 'Lake America'"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://daringfireball.net/2026/08/thoughts_and_observations_apple_immersive_mlb_broadcast",
-    "title": "Daring Fireball: Thoughts and Observations on Apple’s First Immersive MLB Broadcast, a Yankees 1-0 Win Over the Red Sox"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://ekunazanu.foo/lab/quantifying-colour/",
-    "title": "Quantifying Colour ~ ekunazanu.foo"
+    "source": "lobsters",
+    "url": "https://www.mannulinux.org/2026/08/Privilege-escalation-from-IIS-AppPool-to-NT-AuthoritySYSTEM-via-AD-CS-RPC-endpoint.html",
+    "title": "Privilege escalation from IIS AppPool to NT Authority/SYSTEM"
   }
 ]
