@@ -6,8 +6,8 @@
   },
   {
     "source": "hn",
-    "url": "https://webfpga.io/",
-    "title": "WebFPGA"
+    "url": "https://chemisting.com/2026/09/02/why-are-there-no-flow-batteries-with-symmetric-ferrocyanide-electrolytes/",
+    "title": "Why are there no flow batteries with symmetric ferrocyanide electrolytes?"
   },
   {
     "source": "hn",
@@ -16,13 +16,23 @@
   },
   {
     "source": "hn",
-    "url": "https://saladtheory.github.io/",
-    "title": "Salad Theory"
+    "url": "https://code.mendhak.com/hardcode-feature-flags/",
+    "title": "It's OK to hardcode feature flags (2025)"
   },
   {
     "source": "hn",
-    "url": "https://masteranza.github.io/weedout/",
-    "title": "Show HN: Weedout – Safari extension that hides YouTube AI-labeled videos"
+    "url": "https://careers.telli.com/",
+    "title": "Telli (YC F24) is hiring engineers and designers [Berlin, on-site]"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.wired.com/story/insurance-claims-adjusters-really-hate-ai/",
+    "title": "You Know Who Hates AI? Insurance Claims Adjusters"
+  },
+  {
+    "source": "hn",
+    "url": "https://webfpga.io/",
+    "title": "WebFPGA (2019)"
   },
   {
     "source": "hn",
@@ -31,13 +41,13 @@
   },
   {
     "source": "hn",
-    "url": "https://simonwillison.net/2026/Sep/1/codex-libreoffice/",
-    "title": "The ChatGPT/Codex app bundles a full copy of LibreOffice"
+    "url": "https://www.nordiskpost.com/2026/05/08/sweden-power-cable-dispute-freezes-link-to-denmark/",
+    "title": "Sweden pauses Denmark power cable over EU grid rules"
   },
   {
     "source": "hn",
-    "url": "https://hnmatchmaker.com/",
-    "title": "Show HN: HN Match Maker – Matching \"Who Wants to Be Hired?\" With \"Who's Hiring?\""
+    "url": "https://masteranza.github.io/weedout/",
+    "title": "Show HN: Weedout – Safari extension that hides YouTube AI-labeled videos"
   },
   {
     "source": "hn",
@@ -46,13 +56,13 @@
   },
   {
     "source": "hn",
-    "url": "https://ersc.io/blog/martin-joins-ersc",
-    "title": "The creator of Jujutsu has joined ERSC"
+    "url": "https://ambientcss.vercel.app/",
+    "title": "Ambient CSS v3 – Blender meets CSS"
   },
   {
     "source": "hn",
-    "url": "https://ambientcss.vercel.app/",
-    "title": "Ambient CSS v3 – Blender meets CSS"
+    "url": "https://simonwillison.net/2026/Sep/1/codex-libreoffice/",
+    "title": "The ChatGPT/Codex app bundles a full copy of LibreOffice"
   },
   {
     "source": "hn",
@@ -61,23 +71,23 @@
   },
   {
     "source": "hn",
-    "url": "https://mathenchant.wordpress.com/2026/08/19/solving-the-flat-cube/",
-    "title": "Solving the Flat Cube"
+    "url": "https://ersc.io/blog/martin-joins-ersc",
+    "title": "The creator of Jujutsu has joined ERSC"
   },
   {
     "source": "hn",
-    "url": "https://contemporary-home-computing.org/prof-dr-style/",
-    "title": "Top Web Design Styles of 1993"
+    "url": "https://hnmatchmaker.com/",
+    "title": "Show HN: HN Match Maker – Matching \"Who Wants to Be Hired?\" With \"Who's Hiring?\""
   },
   {
     "source": "hn",
-    "url": "https://jx0.ca/building-autonomous-goal-loops-that-deliver/",
-    "title": "Building Autonomous Goal Loops That Deliver"
+    "url": "https://www.dougbarnesauthor.com/2018/06/how-bicycle-coaster-brakes-work.html",
+    "title": "How bicycle coaster brakes work (2018)"
   },
   {
-    "source": "hn",
-    "url": "https://benholmen.com/blog/halfmoon-chimes/",
-    "title": "Building an interactive instrument for a one-of-a-kind festival"
+    "source": "lobsters",
+    "url": "https://louisabraham.github.io/load-bearing/",
+    "title": "The load-bearing vocabulary of Claude"
   },
   {
     "source": "lobsters",
@@ -96,18 +106,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://louisabraham.github.io/load-bearing/",
-    "title": "The load-bearing vocabulary of Claude"
-  },
-  {
-    "source": "lobsters",
     "url": "https://pulkomandy.tk/_/_Life/_A%20bicycle%20for%20the%20mind",
     "title": "A bicycle for the mind"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://wasmi-labs.github.io/blog/posts/wasmi-v2.0/",
-    "title": "Wasmi 2.0 - Engineering of the Fastest Wasm Interpreters"
   },
   {
     "source": "lobsters",
@@ -116,8 +116,23 @@
   },
   {
     "source": "lobsters",
+    "url": "https://h2.jaguarpaw.co.uk/posts/bluefin-capability-system/",
+    "title": "Bluefin is a capability system"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://wasmi-labs.github.io/blog/posts/wasmi-v2.0/",
+    "title": "Wasmi 2.0 - Engineering of the Fastest Wasm Interpreters"
+  },
+  {
+    "source": "lobsters",
     "url": "https://www.humprog.org/~stephen/blog/2026/08/25/#flat-vs-segmented",
     "title": "Flat vs segmented memory -- it's recursive"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://ariadne.space/2026/09/01/humanity-has-built-the-records.html",
+    "title": "humanity has built the records of FATE by accident"
   },
   {
     "source": "lobsters",
@@ -126,8 +141,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://www.v01.io/posts/2026/08/texttile/",
-    "title": "Texttile, a multiplayer blog engine for people who write together"
+    "url": "https://abundance.build/blog/2026-08-31-risc-v-interpreter-from-the-future/",
+    "title": "RISC-V interpreter from the future"
   },
   {
     "source": "lobsters",
@@ -136,33 +151,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://bjk5.com/post/44698559168/breaking-down-amazons-mega-dropdown",
-    "title": "Breaking down Amazon’s mega dropdown (2013)"
+    "url": "https://mathenchant.wordpress.com/2026/08/19/solving-the-flat-cube/",
+    "title": "Solving the Flat Cube"
   },
   {
     "source": "lobsters",
-    "url": "https://mvakde.github.io/blog/44-on-arc-1/",
-    "title": "44% on ARC-AGI-1 in 67 cents"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://erk.dev/2026/08/30/rangefrom-part-2",
-    "title": "RangeFrom, Part 2..: What I think is wrong about the design"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://daniel.haxx.se/blog/2026/06/24/a-cve-dispute/",
-    "title": "curl: a CVE dispute"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://h2.jaguarpaw.co.uk/posts/bluefin-capability-system/",
-    "title": "Bluefin is a capability system"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://abundance.build/blog/2026-08-31-risc-v-interpreter-from-the-future/",
-    "title": "RISC-V interpreter from the future"
+    "url": "https://news.wsu.edu/news/2026/08/24/researchers-use-ai-to-democratize-3d-printing-of-crucial-metal-alloy/",
+    "title": "Researchers use AI to ‘democratize’ 3D printing of crucial metal alloy"
   },
   {
     "source": "lobsters",
@@ -170,58 +165,8 @@
     "title": "Why I'm excited about effect systems (2025)"
   },
   {
-    "source": "pinboard",
-    "url": "https://people.kernel.org/monsieuricon/creepy-crawlies",
-    "title": "Creepy crawlies — Konstantin Ryabitsev"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.itamarnovick.com/intro-to-startup-anti-pattern-series/",
-    "title": "Intro to Startup anti-pattern Series | Insights, not just posts"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://unsung.aresluna.org/i-just-chose-words-carefully/",
-    "title": "“I just chose words carefully.” – Unsung"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://maurycyz.com/misc/etherfiles/",
-    "title": "Technical note: transfer files over an ethernet patch cable (Maurycy's blog)"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://news.ycombinator.com/item?id=49503521",
-    "title": "Terence Tao explains 6 essential mathematical concepts [video] | Hacker News"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://defrag98.com/",
-    "title": "Windows 98 Disk Defrag Simulator"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://tt-a1i.github.io/archify/",
-    "title": "Archify — Technical Diagrams from Plain English"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://simonwillison.net/2026/Aug/30/understanding-chatgpt-work/",
-    "title": "Understanding ChatGPT Work"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://fastpotify.rocks/",
-    "title": "Fastpotify"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://datacolada.org/138",
-    "title": "[138] Artificial Deadlines (Part 1): Evidence of Fraud in an Influential Study About Procrastination – Data Colada"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://aiandeducation.mit.edu/report/",
-    "title": "Report – AI and Education"
+    "source": "lobsters",
+    "url": "https://bjk5.com/post/44698559168/breaking-down-amazons-mega-dropdown",
+    "title": "Breaking down Amazon’s mega dropdown (2013)"
   }
 ]
