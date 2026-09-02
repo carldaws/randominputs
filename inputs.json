@@ -6,13 +6,23 @@
   },
   {
     "source": "hn",
-    "url": "https://ploum.net/2026-09-02-i_dont_have_a_smartphone.html",
-    "title": "I Don't Have a Smartphone"
+    "url": "https://images.gatesnotes.com/12514eb8-7b51-008e-41a9-512542cf683b/34d561c8-cf5c-4e69-af47-3782ea11482e/Original-Microsoft-Source-Code.pdf",
+    "title": "Altair Basic Interpreter Source Code (1975) [pdf]"
   },
   {
     "source": "hn",
-    "url": "https://trellner.com/reports/manufactured-sources-behind-ai-recommendations/",
-    "title": "Three sites made 215,128 “best software” pages for AI. Perplexity cites them"
+    "url": "https://nango.dev/careers",
+    "title": "Nango (YC W23) is hiring across eng, product and GTM (SF and remote)"
+  },
+  {
+    "source": "hn",
+    "url": "https://signalundefied.bearblog.dev/i-wanna-live-an-npc-life/",
+    "title": "I wanna live an NPC life"
+  },
+  {
+    "source": "hn",
+    "url": "https://tweedegolf.nl/en/blog/65/async-rust-vs-rtos-showdown/",
+    "title": "Embedded Rust RTOS vs. C RTOS"
   },
   {
     "source": "hn",
@@ -21,8 +31,18 @@
   },
   {
     "source": "hn",
-    "url": "https://stripeacross.com/posts/poisson-disk-sampling/",
-    "title": "Poisson Disk Sampling"
+    "url": "https://research.meta.ai/blog/introducing-muse-spark-1-3",
+    "title": "Introducing Muse Spark 1.3"
+  },
+  {
+    "source": "hn",
+    "url": "https://owntime.app/",
+    "title": "Show HN: OwnTime – a chess clock for your day's priorities"
+  },
+  {
+    "source": "hn",
+    "url": "https://blog.cloudflare.com/cache-transcoding/",
+    "title": "We could save petabytes of cache storage with Zstandard and Pingora"
   },
   {
     "source": "hn",
@@ -31,43 +51,53 @@
   },
   {
     "source": "hn",
-    "url": "https://frontierharness.org",
-    "title": "Show HN: FrontierHarness Eval – 9 harness, same model, cost per pass varies 17x"
+    "url": "https://stripeacross.com/posts/poisson-disk-sampling/",
+    "title": "Poisson Disk Sampling"
   },
   {
     "source": "hn",
-    "url": "https://hausresearch.com/reports/perplexity-citation-audit/",
-    "title": "A third of Perplexity's citations don't contain the number they're cited for"
+    "url": "https://blog.val.town/aeo",
+    "title": "A docs page is a search query to find AI agents and route them to your company"
   },
   {
-    "source": "hn",
-    "url": "https://tangleml.com/",
-    "title": "Tangle – Visual ML Pipeline Editor"
+    "source": "lobsters",
+    "url": "https://haskellforall.com/2026/09/dependent-if-expressions",
+    "title": "Dependent if expressions without dependent types"
   },
   {
-    "source": "hn",
-    "url": "https://trackerninja.codeberg.page/post/how-to-debloat-your-xiaomi-15-ultra-without-rooting-and-connecting-it-to-the-computer/",
-    "title": "How to debloat your Xiaomi 15 Ultra without root access"
+    "source": "lobsters",
+    "url": "https://matklad.github.io/2026/09/02/static-allocation-constant-work.html",
+    "title": "Static Allocation, Constant Work"
   },
   {
-    "source": "hn",
-    "url": "https://openteams.com/intelligence-vs-cost/",
-    "title": "LLMs: Intelligence vs. Cost"
-  },
-  {
-    "source": "hn",
-    "url": "https://careers.telli.com/",
-    "title": "Telli (YC F24) is hiring engineers and designers [Berlin, on-site]"
-  },
-  {
-    "source": "hn",
-    "url": "https://practical.engineering/blog/2023/12/29/how-railroad-crossings-work",
-    "title": "How Railroad Crossings Work"
+    "source": "lobsters",
+    "url": "https://ploum.net/2026-09-02-i_dont_have_a_smartphone.html",
+    "title": "I Don’t Have a Smartphone…"
   },
   {
     "source": "lobsters",
     "url": "https://louisabraham.github.io/load-bearing/",
     "title": "The load-bearing vocabulary of Claude"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://shnatsel.github.io/implementing-fma-finding-bugs-in-std/",
+    "title": "Implementing FMA and finding bugs in C and Rust standard libraries"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://ochagavia.nl/blog/lets-build-a-compressor-from-scratch/",
+    "title": "Let's build a compressor from scratch"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://tinygo.org/blog/2026/tinygo-0.42-recover-is-real/",
+    "title": "TinyGo 0.42 - Recover Is Real"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://fzakaria.com/2026/09/01/the-holy-grail-of-nixpkgs-version-ranges",
+    "title": "The holy grail of nixpkgs: version ranges"
   },
   {
     "source": "lobsters",
@@ -81,38 +111,18 @@
   },
   {
     "source": "lobsters",
-    "url": "https://haskellforall.com/2026/09/dependent-if-expressions",
-    "title": "Dependent if expressions without dependent types"
-  },
-  {
-    "source": "lobsters",
     "url": "https://luke8086.dev/gentleos16.html",
     "title": "GentleOS/16 hobby OS for vintage 16-bit PCs"
   },
   {
     "source": "lobsters",
-    "url": "https://matklad.github.io/2026/09/02/static-allocation-constant-work.html",
-    "title": "Static Allocation, Constant Work"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://tinygo.org/blog/2026/tinygo-0.42-recover-is-real/",
-    "title": "TinyGo 0.42 - Recover Is Real"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://blog.exe.dev/revisiting-joel",
-    "title": "Revisiting Joel's Test - exe.dev blog"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://shnatsel.github.io/implementing-fma-finding-bugs-in-std/",
-    "title": "Implementing FMA and finding bugs in C and Rust standard libraries"
-  },
-  {
-    "source": "lobsters",
     "url": "https://h2.jaguarpaw.co.uk/posts/bluefin-capability-system/",
     "title": "Bluefin is a capability system"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://www.gingerbill.org/article/2026/09/02/ctti-is-exponential-rtti-is-linear/",
+    "title": "CTTI is Exponential, RTTI is Linear"
   },
   {
     "source": "lobsters",
@@ -128,11 +138,6 @@
     "source": "lobsters",
     "url": "https://ariadne.space/2026/09/01/humanity-has-built-the-records.html",
     "title": "humanity has built the records of FATE by accident"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://pulkomandy.tk/_/_Life/_A%20bicycle%20for%20the%20mind",
-    "title": "A bicycle for the mind"
   },
   {
     "source": "lobsters",
