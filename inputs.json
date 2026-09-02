@@ -1,28 +1,28 @@
 [
   {
     "source": "hn",
-    "url": "https://www.newsonaut.com/articles/hang-on-to-your-firefox",
-    "title": "Hang on to Your Firefox"
-  },
-  {
-    "source": "hn",
     "url": "https://danluu.com/zitron/",
     "title": "How accurate have Ed Zitron's AI skeptic predictions been?"
   },
   {
     "source": "hn",
+    "url": "https://webfpga.io/",
+    "title": "WebFPGA"
+  },
+  {
+    "source": "hn",
+    "url": "https://krebsonsecurity.com/2026/09/fbi-probes-service-selling-153m-drivers-licenses/",
+    "title": "FBI Probes Service Selling 153M+ Drivers Licenses"
+  },
+  {
+    "source": "hn",
+    "url": "https://saladtheory.github.io/",
+    "title": "Salad Theory"
+  },
+  {
+    "source": "hn",
     "url": "https://masteranza.github.io/weedout/",
     "title": "Show HN: Weedout – Safari extension that hides YouTube AI-labeled videos"
-  },
-  {
-    "source": "hn",
-    "url": "https://simonwillison.net/2026/Sep/1/claude-fable-5-1/",
-    "title": "Claude Fable 5.1 made me a nice animated pelican"
-  },
-  {
-    "source": "hn",
-    "url": "https://benholmen.com/blog/halfmoon-chimes/",
-    "title": "Building an interactive instrument for a one-of-a-kind festival"
   },
   {
     "source": "hn",
@@ -36,13 +36,8 @@
   },
   {
     "source": "hn",
-    "url": "https://ersc.io/blog/martin-joins-ersc",
-    "title": "The creator of Jujutsu has joined ERSC"
-  },
-  {
-    "source": "hn",
-    "url": "https://tomverbeure.github.io/2026/08/23/Tektronix-TDS7104-Refurbishing.html",
-    "title": "Refurbishing a Tektronix TDS7104 Oscilloscope"
+    "url": "https://hnmatchmaker.com/",
+    "title": "Show HN: HN Match Maker – Matching \"Who Wants to Be Hired?\" With \"Who's Hiring?\""
   },
   {
     "source": "hn",
@@ -51,8 +46,8 @@
   },
   {
     "source": "hn",
-    "url": "https://mvakde.github.io/blog/44-on-arc-1/",
-    "title": "I trained a small transformer in 1.5hrs and it beats many LLMs"
+    "url": "https://ersc.io/blog/martin-joins-ersc",
+    "title": "The creator of Jujutsu has joined ERSC"
   },
   {
     "source": "hn",
@@ -61,8 +56,18 @@
   },
   {
     "source": "hn",
-    "url": "https://hnmatchmaker.com/",
-    "title": "Show HN: HN Match Maker – Matching \"Who Wants to Be Hired?\" With \"Who's Hiring?\""
+    "url": "https://tomverbeure.github.io/2026/08/23/Tektronix-TDS7104-Refurbishing.html",
+    "title": "Refurbishing a Tektronix TDS7104 Oscilloscope"
+  },
+  {
+    "source": "hn",
+    "url": "https://mathenchant.wordpress.com/2026/08/19/solving-the-flat-cube/",
+    "title": "Solving the Flat Cube"
+  },
+  {
+    "source": "hn",
+    "url": "https://contemporary-home-computing.org/prof-dr-style/",
+    "title": "Top Web Design Styles of 1993"
   },
   {
     "source": "hn",
@@ -71,8 +76,8 @@
   },
   {
     "source": "hn",
-    "url": "https://en.wikipedia.org/wiki/Magic_eye_tube",
-    "title": "Magic eye tube"
+    "url": "https://benholmen.com/blog/halfmoon-chimes/",
+    "title": "Building an interactive instrument for a one-of-a-kind festival"
   },
   {
     "source": "lobsters",
@@ -91,6 +96,11 @@
   },
   {
     "source": "lobsters",
+    "url": "https://louisabraham.github.io/load-bearing/",
+    "title": "The load-bearing vocabulary of Claude"
+  },
+  {
+    "source": "lobsters",
     "url": "https://pulkomandy.tk/_/_Life/_A%20bicycle%20for%20the%20mind",
     "title": "A bicycle for the mind"
   },
@@ -98,6 +108,21 @@
     "source": "lobsters",
     "url": "https://wasmi-labs.github.io/blog/posts/wasmi-v2.0/",
     "title": "Wasmi 2.0 - Engineering of the Fastest Wasm Interpreters"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://luke8086.dev/gentleos16.html",
+    "title": "GentleOS/16 hobby OS for vintage 16-bit PCs"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://www.humprog.org/~stephen/blog/2026/08/25/#flat-vs-segmented",
+    "title": "Flat vs segmented memory -- it's recursive"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://metapatterns.io/",
+    "title": "The pattern language of software architecture"
   },
   {
     "source": "lobsters",
@@ -116,13 +141,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://metapatterns.io/",
-    "title": "The pattern language of software architecture"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://www.humprog.org/~stephen/blog/2026/08/25/#flat-vs-segmented",
-    "title": "Flat vs segmented memory -- it's recursive"
+    "url": "https://mvakde.github.io/blog/44-on-arc-1/",
+    "title": "44% on ARC-AGI-1 in 67 cents"
   },
   {
     "source": "lobsters",
@@ -136,17 +156,72 @@
   },
   {
     "source": "lobsters",
-    "url": "https://news.wsu.edu/news/2026/08/24/researchers-use-ai-to-democratize-3d-printing-of-crucial-metal-alloy/",
-    "title": "Researchers use AI to ‘democratize’ 3D printing of crucial metal alloy"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://osa1.net/posts/2026-08-29-coherence-and-orphans.html",
-    "title": "Coherence and orphan instance rules"
+    "url": "https://h2.jaguarpaw.co.uk/posts/bluefin-capability-system/",
+    "title": "Bluefin is a capability system"
   },
   {
     "source": "lobsters",
     "url": "https://abundance.build/blog/2026-08-31-risc-v-interpreter-from-the-future/",
     "title": "RISC-V interpreter from the future"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://osa1.net/posts/2025-06-28-why-effects.html",
+    "title": "Why I'm excited about effect systems (2025)"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://people.kernel.org/monsieuricon/creepy-crawlies",
+    "title": "Creepy crawlies — Konstantin Ryabitsev"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.itamarnovick.com/intro-to-startup-anti-pattern-series/",
+    "title": "Intro to Startup anti-pattern Series | Insights, not just posts"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://unsung.aresluna.org/i-just-chose-words-carefully/",
+    "title": "“I just chose words carefully.” – Unsung"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://maurycyz.com/misc/etherfiles/",
+    "title": "Technical note: transfer files over an ethernet patch cable (Maurycy's blog)"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://news.ycombinator.com/item?id=49503521",
+    "title": "Terence Tao explains 6 essential mathematical concepts [video] | Hacker News"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://defrag98.com/",
+    "title": "Windows 98 Disk Defrag Simulator"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://tt-a1i.github.io/archify/",
+    "title": "Archify — Technical Diagrams from Plain English"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://simonwillison.net/2026/Aug/30/understanding-chatgpt-work/",
+    "title": "Understanding ChatGPT Work"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://fastpotify.rocks/",
+    "title": "Fastpotify"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://datacolada.org/138",
+    "title": "[138] Artificial Deadlines (Part 1): Evidence of Fraud in an Influential Study About Procrastination – Data Colada"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://aiandeducation.mit.edu/report/",
+    "title": "Report – AI and Education"
   }
 ]
