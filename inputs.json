@@ -1,23 +1,33 @@
 [
   {
     "source": "hn",
-    "url": "https://danluu.com/zitron/",
-    "title": "How accurate have Ed Zitron's AI skeptic predictions been?"
+    "url": "https://trellner.com/reports/manufactured-sources-behind-ai-recommendations/",
+    "title": "Three sites made 215,128 “best software” pages for AI. Perplexity cites them"
   },
   {
     "source": "hn",
-    "url": "https://chemisting.com/2026/09/02/why-are-there-no-flow-batteries-with-symmetric-ferrocyanide-electrolytes/",
-    "title": "Why are there no flow batteries with symmetric ferrocyanide electrolytes?"
+    "url": "https://stripeacross.com/posts/poisson-disk-sampling/",
+    "title": "Poisson Disk Sampling"
   },
   {
     "source": "hn",
-    "url": "https://krebsonsecurity.com/2026/09/fbi-probes-service-selling-153m-drivers-licenses/",
-    "title": "FBI Probes Service Selling 153M+ Drivers Licenses"
+    "url": "https://studyfinds.com/aging-brains-blend-memories-together-instead-of-forgetting-them-study-finds/",
+    "title": "Aging Brains Blend Memories Together Instead of Just Forgetting Them"
   },
   {
     "source": "hn",
-    "url": "https://code.mendhak.com/hardcode-feature-flags/",
-    "title": "It's OK to hardcode feature flags (2025)"
+    "url": "https://hausresearch.com/reports/perplexity-citation-audit/",
+    "title": "A third of Perplexity's citations don't contain the number they're cited for"
+  },
+  {
+    "source": "hn",
+    "url": "https://openteams.com/intelligence-vs-cost/",
+    "title": "LLMs: Intelligence vs. Cost"
+  },
+  {
+    "source": "hn",
+    "url": "https://lucassifoni.info/blog/the-end-of-this-elixir-log/",
+    "title": "Ending my elixir exploratory writing"
   },
   {
     "source": "hn",
@@ -26,63 +36,23 @@
   },
   {
     "source": "hn",
-    "url": "https://www.wired.com/story/insurance-claims-adjusters-really-hate-ai/",
-    "title": "You Know Who Hates AI? Insurance Claims Adjusters"
+    "url": "https://chris48s.github.io/blogmarks/posts/2021/jsontidy/",
+    "title": "Using jq to format JSON on the clipboard"
   },
   {
     "source": "hn",
-    "url": "https://webfpga.io/",
-    "title": "WebFPGA (2019)"
+    "url": "https://code.mendhak.com/hardcode-feature-flags/",
+    "title": "It's OK to hardcode feature flags (2025)"
   },
   {
     "source": "hn",
-    "url": "https://sonic-pi.net/",
-    "title": "Sonic Pi"
+    "url": "https://xn--gckvb8fzb.com/the-cables-that-connect-the-world/",
+    "title": "The Cables That Connect the World"
   },
   {
     "source": "hn",
-    "url": "https://www.nordiskpost.com/2026/05/08/sweden-power-cable-dispute-freezes-link-to-denmark/",
-    "title": "Sweden pauses Denmark power cable over EU grid rules"
-  },
-  {
-    "source": "hn",
-    "url": "https://masteranza.github.io/weedout/",
-    "title": "Show HN: Weedout – Safari extension that hides YouTube AI-labeled videos"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.norirobotics.com/",
-    "title": "Launch HN: Nori Robotics (YC S26) – A low-cost humanoid robot for development"
-  },
-  {
-    "source": "hn",
-    "url": "https://ambientcss.vercel.app/",
-    "title": "Ambient CSS v3 – Blender meets CSS"
-  },
-  {
-    "source": "hn",
-    "url": "https://simonwillison.net/2026/Sep/1/codex-libreoffice/",
-    "title": "The ChatGPT/Codex app bundles a full copy of LibreOffice"
-  },
-  {
-    "source": "hn",
-    "url": "https://tomverbeure.github.io/2026/08/23/Tektronix-TDS7104-Refurbishing.html",
-    "title": "Refurbishing a Tektronix TDS7104 Oscilloscope"
-  },
-  {
-    "source": "hn",
-    "url": "https://ersc.io/blog/martin-joins-ersc",
-    "title": "The creator of Jujutsu has joined ERSC"
-  },
-  {
-    "source": "hn",
-    "url": "https://hnmatchmaker.com/",
-    "title": "Show HN: HN Match Maker – Matching \"Who Wants to Be Hired?\" With \"Who's Hiring?\""
-  },
-  {
-    "source": "hn",
-    "url": "https://www.dougbarnesauthor.com/2018/06/how-bicycle-coaster-brakes-work.html",
-    "title": "How bicycle coaster brakes work (2018)"
+    "url": "https://deniskyashif.com/2026/08/29/crossing-boundaries-with-integration-events/",
+    "title": "Crossing Boundaries with Integration Events"
   },
   {
     "source": "lobsters",
@@ -101,18 +71,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://zuzai.org/",
-    "title": "Zuzai, a new word, indicates the absence of AI"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://pulkomandy.tk/_/_Life/_A%20bicycle%20for%20the%20mind",
-    "title": "A bicycle for the mind"
-  },
-  {
-    "source": "lobsters",
     "url": "https://luke8086.dev/gentleos16.html",
     "title": "GentleOS/16 hobby OS for vintage 16-bit PCs"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://zuzai.org/",
+    "title": "Zuzai, a new word, indicates the absence of AI"
   },
   {
     "source": "lobsters",
@@ -121,13 +86,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://wasmi-labs.github.io/blog/posts/wasmi-v2.0/",
-    "title": "Wasmi 2.0 - Engineering of the Fastest Wasm Interpreters"
+    "url": "https://pulkomandy.tk/_/_Life/_A%20bicycle%20for%20the%20mind",
+    "title": "A bicycle for the mind"
   },
   {
     "source": "lobsters",
-    "url": "https://www.humprog.org/~stephen/blog/2026/08/25/#flat-vs-segmented",
-    "title": "Flat vs segmented memory -- it's recursive"
+    "url": "https://www.depesz.com/2026/08/25/new-things-for-regular-expressions-in-postgresql-pg_tre-and-pg_re2/",
+    "title": "New things for regular expressions in PostgreSQL (pg_tre and pg_re2)"
   },
   {
     "source": "lobsters",
@@ -136,28 +101,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://metapatterns.io/",
-    "title": "The pattern language of software architecture"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://abundance.build/blog/2026-08-31-risc-v-interpreter-from-the-future/",
-    "title": "RISC-V interpreter from the future"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://aerynos.com/blog/2026/08/31/a-community-that-works-together-builds-together/",
-    "title": "A community that works together, builds together"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://mathenchant.wordpress.com/2026/08/19/solving-the-flat-cube/",
-    "title": "Solving the Flat Cube"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://news.wsu.edu/news/2026/08/24/researchers-use-ai-to-democratize-3d-printing-of-crucial-metal-alloy/",
-    "title": "Researchers use AI to ‘democratize’ 3D printing of crucial metal alloy"
+    "url": "https://wasmi-labs.github.io/blog/posts/wasmi-v2.0/",
+    "title": "Wasmi 2.0 - Engineering of the Fastest Wasm Interpreters"
   },
   {
     "source": "lobsters",
@@ -166,7 +111,17 @@
   },
   {
     "source": "lobsters",
-    "url": "https://bjk5.com/post/44698559168/breaking-down-amazons-mega-dropdown",
-    "title": "Breaking down Amazon’s mega dropdown (2013)"
+    "url": "https://www.humprog.org/~stephen/blog/2026/08/25/#flat-vs-segmented",
+    "title": "Flat vs segmented memory -- it's recursive"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://abundance.build/blog/2026-08-31-risc-v-interpreter-from-the-future/",
+    "title": "RISC-V interpreter from the future"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://mathenchant.wordpress.com/2026/08/19/solving-the-flat-cube/",
+    "title": "Solving the Flat Cube"
   }
 ]
