@@ -16,38 +16,13 @@
   },
   {
     "source": "hn",
-    "url": "https://simonwillison.net/2026/Sep/1/codex-libreoffice/",
-    "title": "The ChatGPT/Codex app bundles a full copy of LibreOffice"
+    "url": "https://simonwillison.net/2026/Sep/1/claude-fable-5-1/",
+    "title": "Claude Fable 5.1 made me a nice animated pelican"
   },
   {
     "source": "hn",
-    "url": "https://tomverbeure.github.io/2026/08/23/Tektronix-TDS7104-Refurbishing.html",
-    "title": "Refurbishing a Tektronix TDS7104 Oscilloscope"
-  },
-  {
-    "source": "hn",
-    "url": "https://ersc.io/blog/martin-joins-ersc",
-    "title": "The creator of Jujutsu has joined ERSC"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.norirobotics.com/",
-    "title": "Launch HN: Nori Robotics (YC S26) – A low-cost humanoid robot for development"
-  },
-  {
-    "source": "hn",
-    "url": "https://hnmatchmaker.com/",
-    "title": "Show HN: HN Match Maker – Matching \"Who Wants to Be Hired?\" With \"Who's Hiring?\""
-  },
-  {
-    "source": "hn",
-    "url": "https://ambientcss.vercel.app/",
-    "title": "Ambient CSS v3 – Blender meets CSS"
-  },
-  {
-    "source": "hn",
-    "url": "https://mvakde.github.io/blog/44-on-arc-1/",
-    "title": "I trained a small transformer in 1.5hrs and it beats many LLMs"
+    "url": "https://benholmen.com/blog/halfmoon-chimes/",
+    "title": "Building an interactive instrument for a one-of-a-kind festival"
   },
   {
     "source": "hn",
@@ -56,18 +31,48 @@
   },
   {
     "source": "hn",
+    "url": "https://simonwillison.net/2026/Sep/1/codex-libreoffice/",
+    "title": "The ChatGPT/Codex app bundles a full copy of LibreOffice"
+  },
+  {
+    "source": "hn",
+    "url": "https://ersc.io/blog/martin-joins-ersc",
+    "title": "The creator of Jujutsu has joined ERSC"
+  },
+  {
+    "source": "hn",
+    "url": "https://tomverbeure.github.io/2026/08/23/Tektronix-TDS7104-Refurbishing.html",
+    "title": "Refurbishing a Tektronix TDS7104 Oscilloscope"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.norirobotics.com/",
+    "title": "Launch HN: Nori Robotics (YC S26) – A low-cost humanoid robot for development"
+  },
+  {
+    "source": "hn",
+    "url": "https://mvakde.github.io/blog/44-on-arc-1/",
+    "title": "I trained a small transformer in 1.5hrs and it beats many LLMs"
+  },
+  {
+    "source": "hn",
+    "url": "https://ambientcss.vercel.app/",
+    "title": "Ambient CSS v3 – Blender meets CSS"
+  },
+  {
+    "source": "hn",
+    "url": "https://hnmatchmaker.com/",
+    "title": "Show HN: HN Match Maker – Matching \"Who Wants to Be Hired?\" With \"Who's Hiring?\""
+  },
+  {
+    "source": "hn",
+    "url": "https://jx0.ca/building-autonomous-goal-loops-that-deliver/",
+    "title": "Building Autonomous Goal Loops That Deliver"
+  },
+  {
+    "source": "hn",
     "url": "https://en.wikipedia.org/wiki/Magic_eye_tube",
     "title": "Magic eye tube"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.galois.com/articles/specifications-dont-exist",
-    "title": "Specifications Don't Exist (2025)"
-  },
-  {
-    "source": "hn",
-    "url": "https://newtonsorchard.app",
-    "title": "Show HN: Newton's Orchard – Browser-based space/gravity playground"
   },
   {
     "source": "lobsters",
@@ -111,8 +116,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://daniel.haxx.se/blog/2026/06/24/a-cve-dispute/",
-    "title": "curl: a CVE dispute"
+    "url": "https://metapatterns.io/",
+    "title": "The pattern language of software architecture"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://www.humprog.org/~stephen/blog/2026/08/25/#flat-vs-segmented",
+    "title": "Flat vs segmented memory -- it's recursive"
   },
   {
     "source": "lobsters",
@@ -121,23 +131,13 @@
   },
   {
     "source": "lobsters",
+    "url": "https://daniel.haxx.se/blog/2026/06/24/a-cve-dispute/",
+    "title": "curl: a CVE dispute"
+  },
+  {
+    "source": "lobsters",
     "url": "https://news.wsu.edu/news/2026/08/24/researchers-use-ai-to-democratize-3d-printing-of-crucial-metal-alloy/",
     "title": "Researchers use AI to ‘democratize’ 3D printing of crucial metal alloy"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://abundance.build/blog/2026-08-31-risc-v-interpreter-from-the-future/",
-    "title": "RISC-V interpreter from the future"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://docs.robotframework.org/docs/getting_started/how_to_write_rf",
-    "title": "The Robot Framework language"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://nolanlawson.com/2026/08/31/on-not-becoming-a-cyborg/",
-    "title": "On not becoming a cyborg"
   },
   {
     "source": "lobsters",
@@ -146,12 +146,7 @@
   },
   {
     "source": "lobsters",
-    "url": "https://servo.org/blog/2026/08/31/july-in-servo/",
-    "title": "July in Servo: more platforms, faster canvas, web fonts in SVG, and more"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://metapatterns.io/",
-    "title": "The pattern language of software architecture"
+    "url": "https://abundance.build/blog/2026-08-31-risc-v-interpreter-from-the-future/",
+    "title": "RISC-V interpreter from the future"
   }
 ]
