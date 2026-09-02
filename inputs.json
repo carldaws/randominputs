@@ -1,13 +1,18 @@
 [
   {
     "source": "hn",
-    "url": "https://trellner.com/reports/manufactured-sources-behind-ai-recommendations/",
-    "title": "Three sites made 215,128 “best software” pages for AI. Perplexity cites them"
+    "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/",
+    "title": "Gemini 3.8 Flash and 3.8 Flash Cyber"
   },
   {
     "source": "hn",
-    "url": "https://stripeacross.com/posts/poisson-disk-sampling/",
-    "title": "Poisson Disk Sampling"
+    "url": "https://ploum.net/2026-09-02-i_dont_have_a_smartphone.html",
+    "title": "I Don't Have a Smartphone"
+  },
+  {
+    "source": "hn",
+    "url": "https://trellner.com/reports/manufactured-sources-behind-ai-recommendations/",
+    "title": "Three sites made 215,128 “best software” pages for AI. Perplexity cites them"
   },
   {
     "source": "hn",
@@ -16,8 +21,33 @@
   },
   {
     "source": "hn",
+    "url": "https://stripeacross.com/posts/poisson-disk-sampling/",
+    "title": "Poisson Disk Sampling"
+  },
+  {
+    "source": "hn",
+    "url": "https://cemrehancavdar.com/2026/08/30/making-the-internet-boring/",
+    "title": "Making the Internet Boring"
+  },
+  {
+    "source": "hn",
+    "url": "https://frontierharness.org",
+    "title": "Show HN: FrontierHarness Eval – 9 harness, same model, cost per pass varies 17x"
+  },
+  {
+    "source": "hn",
     "url": "https://hausresearch.com/reports/perplexity-citation-audit/",
     "title": "A third of Perplexity's citations don't contain the number they're cited for"
+  },
+  {
+    "source": "hn",
+    "url": "https://tangleml.com/",
+    "title": "Tangle – Visual ML Pipeline Editor"
+  },
+  {
+    "source": "hn",
+    "url": "https://trackerninja.codeberg.page/post/how-to-debloat-your-xiaomi-15-ultra-without-rooting-and-connecting-it-to-the-computer/",
+    "title": "How to debloat your Xiaomi 15 Ultra without root access"
   },
   {
     "source": "hn",
@@ -26,33 +56,13 @@
   },
   {
     "source": "hn",
-    "url": "https://lucassifoni.info/blog/the-end-of-this-elixir-log/",
-    "title": "Ending my elixir exploratory writing"
-  },
-  {
-    "source": "hn",
     "url": "https://careers.telli.com/",
     "title": "Telli (YC F24) is hiring engineers and designers [Berlin, on-site]"
   },
   {
     "source": "hn",
-    "url": "https://chris48s.github.io/blogmarks/posts/2021/jsontidy/",
-    "title": "Using jq to format JSON on the clipboard"
-  },
-  {
-    "source": "hn",
-    "url": "https://code.mendhak.com/hardcode-feature-flags/",
-    "title": "It's OK to hardcode feature flags (2025)"
-  },
-  {
-    "source": "hn",
-    "url": "https://xn--gckvb8fzb.com/the-cables-that-connect-the-world/",
-    "title": "The Cables That Connect the World"
-  },
-  {
-    "source": "hn",
-    "url": "https://deniskyashif.com/2026/08/29/crossing-boundaries-with-integration-events/",
-    "title": "Crossing Boundaries with Integration Events"
+    "url": "https://practical.engineering/blog/2023/12/29/how-railroad-crossings-work",
+    "title": "How Railroad Crossings Work"
   },
   {
     "source": "lobsters",
@@ -71,13 +81,33 @@
   },
   {
     "source": "lobsters",
+    "url": "https://haskellforall.com/2026/09/dependent-if-expressions",
+    "title": "Dependent if expressions without dependent types"
+  },
+  {
+    "source": "lobsters",
     "url": "https://luke8086.dev/gentleos16.html",
     "title": "GentleOS/16 hobby OS for vintage 16-bit PCs"
   },
   {
     "source": "lobsters",
-    "url": "https://zuzai.org/",
-    "title": "Zuzai, a new word, indicates the absence of AI"
+    "url": "https://matklad.github.io/2026/09/02/static-allocation-constant-work.html",
+    "title": "Static Allocation, Constant Work"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://tinygo.org/blog/2026/tinygo-0.42-recover-is-real/",
+    "title": "TinyGo 0.42 - Recover Is Real"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://blog.exe.dev/revisiting-joel",
+    "title": "Revisiting Joel's Test - exe.dev blog"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://shnatsel.github.io/implementing-fma-finding-bugs-in-std/",
+    "title": "Implementing FMA and finding bugs in C and Rust standard libraries"
   },
   {
     "source": "lobsters",
@@ -86,8 +116,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://pulkomandy.tk/_/_Life/_A%20bicycle%20for%20the%20mind",
-    "title": "A bicycle for the mind"
+    "url": "https://zuzai.org/",
+    "title": "Zuzai, a new word, indicates the absence of AI"
   },
   {
     "source": "lobsters",
@@ -101,27 +131,12 @@
   },
   {
     "source": "lobsters",
-    "url": "https://wasmi-labs.github.io/blog/posts/wasmi-v2.0/",
-    "title": "Wasmi 2.0 - Engineering of the Fastest Wasm Interpreters"
+    "url": "https://pulkomandy.tk/_/_Life/_A%20bicycle%20for%20the%20mind",
+    "title": "A bicycle for the mind"
   },
   {
     "source": "lobsters",
     "url": "https://osa1.net/posts/2025-06-28-why-effects.html",
     "title": "Why I'm excited about effect systems (2025)"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://www.humprog.org/~stephen/blog/2026/08/25/#flat-vs-segmented",
-    "title": "Flat vs segmented memory -- it's recursive"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://abundance.build/blog/2026-08-31-risc-v-interpreter-from-the-future/",
-    "title": "RISC-V interpreter from the future"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://mathenchant.wordpress.com/2026/08/19/solving-the-flat-cube/",
-    "title": "Solving the Flat Cube"
   }
 ]
