@@ -1,8 +1,38 @@
 [
   {
     "source": "hn",
-    "url": "https://status.claude.com/incidents/461yvfrzpwtt",
-    "title": "Elevated Errors for Multiple Models"
+    "url": "https://neil.fraser.name/news/2026/09/03/",
+    "title": ".name Termination"
+  },
+  {
+    "source": "hn",
+    "url": "https://ifm.ai/blog/k2/",
+    "title": "K2 Horizon: Frontier Performance, Radically Open"
+  },
+  {
+    "source": "hn",
+    "url": "https://newsguild.org/new-york-times-and-the-athletic-workers-demand-company-scrap-kalshi-deal/",
+    "title": "New York Times and The Athletic workers demand company scrap Kalshi deal"
+  },
+  {
+    "source": "hn",
+    "url": "https://unsung.aresluna.org/we-want-it-to-really-confuse-people-but-also-really-make-people-happy/",
+    "title": "“We want it to really confuse people, but also really make people happy”"
+  },
+  {
+    "source": "hn",
+    "url": "https://babyloniantwins.com/blog/porting-a-1993-amiga-game-to-godot/",
+    "title": "Porting my 1993 Amiga game to Godot, with an LLM reading the 68000 assembly"
+  },
+  {
+    "source": "hn",
+    "url": "https://matklad.github.io/2026/09/02/static-allocation-constant-work.html",
+    "title": "Static Allocation, Constant Work"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.severe-weather.eu/long-range-2/winter-2026-2027-first-forecast-super-el-nino-polar-vortex-snow-cold-united-states-canada-europe-fa/",
+    "title": "Winter 2026/2027 First Forecast: Super El Niño Drives a Major Weather Divide"
   },
   {
     "source": "hn",
@@ -12,7 +42,7 @@
   {
     "source": "hn",
     "url": "https://kciter.so/posts/the-expensive-main-thread/en/",
-    "title": "The Browser's Main Thread Is Expensive"
+    "title": "The browser's main thread is expensive"
   },
   {
     "source": "hn",
@@ -21,48 +51,28 @@
   },
   {
     "source": "hn",
+    "url": "https://www.sanders.senate.gov/press-releases/news-sanders-casar-introduce-legislation-to-ban-artificial-superintelligence-and-temporarily-pause-advanced-ai-development/",
+    "title": "Sanders introduces bill to ban artificial superintelligence and pause AI"
+  },
+  {
+    "source": "hn",
     "url": "https://www.data-structures-in-practice.com/intrusive-linked-lists/",
-    "title": "Intrusive Linked Lists"
+    "title": "Intrusive linked lists (2019)"
   },
   {
     "source": "hn",
-    "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/",
-    "title": "Gemini 3.8 Flash and 3.8 Flash Cyber"
+    "url": "https://lithub.com/fish-bad-sugar-good-and-other-medieval-ideas-about-food/",
+    "title": "Fish bad, sugar good and other medieval ideas about food"
   },
   {
     "source": "hn",
-    "url": "https://blogs.nvidia.com/blog/nvidia-to-acquire-hugging-face/",
-    "title": "Nvidia to Acquire Hugging Face"
+    "url": "https://www.kxan.com/news/texas/texas-data-center-tracker-see-where-600-projects-are-operating-or-planned-across-state-in-interactive-map/",
+    "title": "Texas Data Center Map: See where data centers are operating or planned"
   },
   {
     "source": "hn",
     "url": "https://en.wikipedia.org/wiki/Parque_Arqueol%C3%B3gico_do_Solst%C3%ADcio",
     "title": "Amazon Stonehenge: Parque Arqueológico do Solstício"
-  },
-  {
-    "source": "hn",
-    "url": "https://trellner.com/reports/manufactured-sources-behind-ai-recommendations/",
-    "title": "Three sites made 215,128 “best software” pages for AI. Perplexity cites them"
-  },
-  {
-    "source": "hn",
-    "url": "https://en.wikipedia.org/wiki/Holden%27s_Lightning_flight",
-    "title": "Holden's Lightning Flight"
-  },
-  {
-    "source": "hn",
-    "url": "https://computer-museum.org/wp/",
-    "title": "The Computer Museum of America reclamation project"
-  },
-  {
-    "source": "hn",
-    "url": "https://lithub.com/fish-bad-sugar-good-and-other-medieval-ideas-about-food/",
-    "title": "Fish Bad, Sugar Good and Other Medieval Ideas About Food"
-  },
-  {
-    "source": "hn",
-    "url": "https://studyfinds.com/aging-brains-blend-memories-together-instead-of-forgetting-them-study-finds/",
-    "title": "Aging brains blend memories together instead of just forgetting them"
   },
   {
     "source": "lobsters",
@@ -71,8 +81,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://matklad.github.io/2026/09/02/static-allocation-constant-work.html",
-    "title": "Static Allocation, Constant Work"
+    "url": "https://revo.lung.fyi/",
+    "title": "Revo Programming language"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://vale.rocks/micros/20260902-1350",
+    "title": "You Don't Need Initial-Scale In Your HTML"
   },
   {
     "source": "lobsters",
@@ -81,8 +96,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://revo.lung.fyi/",
-    "title": "Révo Programming language"
+    "url": "https://blog.rust-lang.org/2026/09/03/Rust-1.98.1/",
+    "title": "Announcing Rust 1.98.1"
   },
   {
     "source": "lobsters",
@@ -96,8 +111,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://kore-nordmann.de/blog/how_to_guarantee_you_never_ship.html",
-    "title": "How to Guarantee You Never Ship"
+    "url": "https://qtea.me/posts/souping-up-my-blog/",
+    "title": "Souping up my blog"
   },
   {
     "source": "lobsters",
@@ -106,8 +121,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://qtea.me/posts/souping-up-my-blog/",
-    "title": "Souping up my blog"
+    "url": "https://kore-nordmann.de/blog/how_to_guarantee_you_never_ship.html",
+    "title": "How to Guarantee You Never Ship"
   },
   {
     "source": "lobsters",
@@ -116,28 +131,18 @@
   },
   {
     "source": "lobsters",
-    "url": "https://shnatsel.github.io/implementing-fma-finding-bugs-in-std/",
-    "title": "Implementing FMA and finding bugs in C and Rust standard libraries"
-  },
-  {
-    "source": "lobsters",
     "url": "https://www.gingerbill.org/article/2026/09/02/ctti-is-exponential-rtti-is-linear/",
     "title": "CTTI is Exponential, RTTI is Linear"
   },
   {
     "source": "lobsters",
-    "url": "https://blog.rust-lang.org/2026/09/03/Rust-1.98.1/",
-    "title": "Announcing Rust 1.98.1"
+    "url": "https://shnatsel.github.io/implementing-fma-finding-bugs-in-std/",
+    "title": "Implementing FMA and finding bugs in C and Rust standard libraries"
   },
   {
     "source": "lobsters",
-    "url": "https://vale.rocks/micros/20260902-1350",
-    "title": "You Don't Need Initial-Scale In Your HTML"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://tinygo.org/blog/2026/tinygo-0.42-recover-is-real/",
-    "title": "TinyGo 0.42 - Recover Is Real"
+    "url": "https://scottaaronson.blog/?p=10046",
+    "title": "LLMs and self-referentiality"
   },
   {
     "source": "pinboard",
