@@ -16,23 +16,13 @@
   },
   {
     "source": "hn",
+    "url": "https://smarmelling.com/posts/creating-backup-storage-sucks.html",
+    "title": "Creating Backup Storage Sucks"
+  },
+  {
+    "source": "hn",
     "url": "https://wasmi-labs.github.io/blog/posts/wasmi-v2.0/",
     "title": "Engineering of the fastest WebAssembly interpreters"
-  },
-  {
-    "source": "hn",
-    "url": "https://nango.dev/careers",
-    "title": "Nango (YC W23) is hiring across eng, product and GTM (SF and remote)"
-  },
-  {
-    "source": "hn",
-    "url": "https://images.gatesnotes.com/12514eb8-7b51-008e-41a9-512542cf683b/34d561c8-cf5c-4e69-af47-3782ea11482e/Original-Microsoft-Source-Code.pdf",
-    "title": "Altair Basic Interpreter Source Code (1975) [pdf]"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.cbsnews.com/news/whistleblower-postal-service-new-mail-ballot-system/",
-    "title": "Whistleblower warns Postal Service mail ballot system has catastrophic problems"
   },
   {
     "source": "hn",
@@ -41,13 +31,18 @@
   },
   {
     "source": "hn",
+    "url": "https://www.cbsnews.com/news/whistleblower-postal-service-new-mail-ballot-system/",
+    "title": "Whistleblower warns Postal Service mail ballot system has catastrophic problems"
+  },
+  {
+    "source": "hn",
     "url": "https://tweedegolf.nl/en/blog/65/async-rust-vs-rtos-showdown/",
     "title": "Embedded Rust RTOS vs. C RTOS"
   },
   {
     "source": "hn",
-    "url": "https://signalundefied.bearblog.dev/i-wanna-live-an-npc-life/",
-    "title": "I wanna live an NPC life"
+    "url": "https://nango.dev/careers",
+    "title": "Nango (YC W23) is hiring across eng, product and GTM (SF and remote)"
   },
   {
     "source": "hn",
@@ -56,8 +51,13 @@
   },
   {
     "source": "hn",
-    "url": "https://metr.org/blog/2026-08-26-openai-hugging-face-incident-investigation/#core-takeaways-about-this-incident",
-    "title": "METR Report on OpenAI / Hugging Face Hacking Incident"
+    "url": "https://blog.cloudflare.com/cache-transcoding/",
+    "title": "We could save petabytes of cache storage with Zstandard and Pingora"
+  },
+  {
+    "source": "hn",
+    "url": "https://images.gatesnotes.com/12514eb8-7b51-008e-41a9-512542cf683b/34d561c8-cf5c-4e69-af47-3782ea11482e/Original-Microsoft-Source-Code.pdf",
+    "title": "Altair Basic Interpreter Source Code (1975) [pdf]"
   },
   {
     "source": "hn",
@@ -65,19 +65,14 @@
     "title": "Making the Internet Boring"
   },
   {
-    "source": "hn",
-    "url": "https://blog.cloudflare.com/cache-transcoding/",
-    "title": "We could save petabytes of cache storage with Zstandard and Pingora"
+    "source": "lobsters",
+    "url": "https://matklad.github.io/2026/09/02/static-allocation-constant-work.html",
+    "title": "Static Allocation, Constant Work"
   },
   {
     "source": "lobsters",
     "url": "https://haskellforall.com/2026/09/dependent-if-expressions",
     "title": "Dependent if expressions without dependent types"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://matklad.github.io/2026/09/02/static-allocation-constant-work.html",
-    "title": "Static Allocation, Constant Work"
   },
   {
     "source": "lobsters",
@@ -91,8 +86,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://louisabraham.github.io/load-bearing/",
-    "title": "The load-bearing vocabulary of Claude"
+    "url": "https://ochagavia.nl/blog/lets-build-a-compressor-from-scratch/",
+    "title": "Let's build a compressor from scratch"
   },
   {
     "source": "lobsters",
@@ -101,43 +96,13 @@
   },
   {
     "source": "lobsters",
+    "url": "https://louisabraham.github.io/load-bearing/",
+    "title": "The load-bearing vocabulary of Claude"
+  },
+  {
+    "source": "lobsters",
     "url": "https://tinygo.org/blog/2026/tinygo-0.42-recover-is-real/",
     "title": "TinyGo 0.42 - Recover Is Real"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://ochagavia.nl/blog/lets-build-a-compressor-from-scratch/",
-    "title": "Let's build a compressor from scratch"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://blog.exe.dev/revisiting-joel",
-    "title": "Revisiting Joel's Test - exe.dev blog"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://shivjm.blog/is-minifying-css-necessary/",
-    "title": "Is Minifying CSS Necessary? (2023)"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://www.hillelwayne.com/post/predicate-logic/",
-    "title": "A Crash Course in Predicate Logic"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://www.depesz.com/2026/08/25/new-things-for-regular-expressions-in-postgresql-pg_tre-and-pg_re2/",
-    "title": "New things for regular expressions in PostgreSQL (pg_tre and pg_re2)"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://luke8086.dev/gentleos16.html",
-    "title": "GentleOS/16 hobby OS for vintage 16-bit PCs"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://h2.jaguarpaw.co.uk/posts/bluefin-capability-system/",
-    "title": "Bluefin is a capability system"
   },
   {
     "source": "lobsters",
@@ -146,77 +111,27 @@
   },
   {
     "source": "lobsters",
-    "url": "https://zuzai.org/",
-    "title": "Zuzai, a new word, indicates the absence of AI"
+    "url": "https://blog.exe.dev/revisiting-joel",
+    "title": "Revisiting Joel's Test - exe.dev blog"
   },
   {
-    "source": "pinboard",
-    "url": "https://people.kernel.org/monsieuricon/creepy-crawlies",
-    "title": "Creepy crawlies — Konstantin Ryabitsev"
+    "source": "lobsters",
+    "url": "https://www.hillelwayne.com/post/predicate-logic/",
+    "title": "A Crash Course in Predicate Logic"
   },
   {
-    "source": "pinboard",
-    "url": "https://www.itamarnovick.com/intro-to-startup-anti-pattern-series/",
-    "title": "Intro to Startup anti-pattern Series | Insights, not just posts"
+    "source": "lobsters",
+    "url": "https://shivjm.blog/is-minifying-css-necessary/",
+    "title": "Is Minifying CSS Necessary? (2023)"
   },
   {
-    "source": "pinboard",
-    "url": "https://unsung.aresluna.org/i-just-chose-words-carefully/",
-    "title": "“I just chose words carefully.” – Unsung"
+    "source": "lobsters",
+    "url": "https://asciiquake.wtf/",
+    "title": "asciiQuake"
   },
   {
-    "source": "pinboard",
-    "url": "https://maurycyz.com/misc/etherfiles/",
-    "title": "Technical note: transfer files over an ethernet patch cable (Maurycy's blog)"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://news.ycombinator.com/item?id=49503521",
-    "title": "Terence Tao explains 6 essential mathematical concepts [video] | Hacker News"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://defrag98.com/",
-    "title": "Windows 98 Disk Defrag Simulator"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://danluu.com/zitron/",
-    "title": "How accurate have Ed Zitron's AI skeptic predictions been?"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://mvakde.github.io/blog/44-on-arc-1/",
-    "title": "44% on ARC-AGI-1 in 67 cents - Mithil Vakde’s Homepage"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://tt-a1i.github.io/archify/",
-    "title": "Archify — Technical Diagrams from Plain English"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://ambientcss.vercel.app/",
-    "title": "Ambient CSS — a physics-based lighting system for CSS"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://simonwillison.net/2026/Aug/30/understanding-chatgpt-work/",
-    "title": "Understanding ChatGPT Work"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://fastpotify.rocks/",
-    "title": "Fastpotify"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://datacolada.org/138",
-    "title": "[138] Artificial Deadlines (Part 1): Evidence of Fraud in an Influential Study About Procrastination – Data Colada"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://aiandeducation.mit.edu/report/",
-    "title": "Report – AI and Education"
+    "source": "lobsters",
+    "url": "https://www.depesz.com/2026/08/25/new-things-for-regular-expressions-in-postgresql-pg_tre-and-pg_re2/",
+    "title": "New things for regular expressions in PostgreSQL (pg_tre and pg_re2)"
   }
 ]
