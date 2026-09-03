@@ -6,13 +6,18 @@
   },
   {
     "source": "hn",
+    "url": "https://babyloniantwins.com/blog/porting-a-1993-amiga-game-to-godot/",
+    "title": "Porting my 1993 Amiga game to Godot, with an LLM reading the 68000 assembly"
+  },
+  {
+    "source": "hn",
     "url": "https://ifm.ai/blog/k2/",
     "title": "K2 Horizon: A connected fleet of six open models"
   },
   {
     "source": "hn",
-    "url": "https://babyloniantwins.com/blog/porting-a-1993-amiga-game-to-godot/",
-    "title": "Porting my 1993 Amiga game to Godot, with an LLM reading the 68000 assembly"
+    "url": "https://www.kevin.md/the-business-card-that-lights-up.md/",
+    "title": "A PCB business card with a batteryless LED, powered by the phone that taps it"
   },
   {
     "source": "hn",
@@ -21,23 +26,8 @@
   },
   {
     "source": "hn",
-    "url": "https://matklad.github.io/2026/09/02/static-allocation-constant-work.html",
-    "title": "Static Allocation, Constant Work"
-  },
-  {
-    "source": "hn",
-    "url": "https://nolanlawson.com/2026/08/23/the-asteroid-currently-hitting-frontend-web-development/",
-    "title": "The asteroid currently hitting front end web development"
-  },
-  {
-    "source": "hn",
     "url": "https://www.kedglobal.com/artificial-intelligence/newsView/ked202607210007",
     "title": "Go grandmaster Shin defeats AI KataGo with a two-stone handicap"
-  },
-  {
-    "source": "hn",
-    "url": "https://monfak.top/blog/posts/dextroproporphan",
-    "title": "Dextroproporphan: An Analogue for a Better Dextromethorphan"
   },
   {
     "source": "hn",
@@ -46,13 +36,28 @@
   },
   {
     "source": "hn",
+    "url": "https://iscinumpy.dev/post/flake8-lazy/",
+    "title": "Working to Make Python Lazy"
+  },
+  {
+    "source": "hn",
+    "url": "https://monfak.top/blog/posts/dextroproporphan",
+    "title": "Dextroproporphan: An Analogue for a Better Dextromethorphan"
+  },
+  {
+    "source": "hn",
+    "url": "https://nolanlawson.com/2026/08/23/the-asteroid-currently-hitting-frontend-web-development/",
+    "title": "The asteroid currently hitting front end web development"
+  },
+  {
+    "source": "hn",
     "url": "https://hawksley.dev/blog/get-free-arpa-domain",
     "title": "How to get a free .arpa domain"
   },
   {
     "source": "hn",
-    "url": "https://unsung.aresluna.org/we-want-it-to-really-confuse-people-but-also-really-make-people-happy/",
-    "title": "“We want it to really confuse people, but also really make people happy”"
+    "url": "https://matklad.github.io/2026/09/02/static-allocation-constant-work.html",
+    "title": "Static Allocation, Constant Work"
   },
   {
     "source": "hn",
@@ -76,13 +81,18 @@
   },
   {
     "source": "lobsters",
+    "url": "https://jyn.dev/simple-is-not-the-same-as-small/",
+    "title": "simple is not small"
+  },
+  {
+    "source": "lobsters",
     "url": "https://blog.rust-lang.org/2026/09/03/Rust-1.98.1/",
     "title": "Announcing Rust 1.98.1"
   },
   {
     "source": "lobsters",
-    "url": "https://victoriametrics.com/blog/go-swiss-table-map/",
-    "title": "How Swiss Tables Work in Go’s Built-in Map"
+    "url": "https://d.erenrich.net/apple.avif",
+    "title": "An image only some users can see"
   },
   {
     "source": "lobsters",
@@ -96,13 +106,23 @@
   },
   {
     "source": "lobsters",
-    "url": "https://haskellforall.com/2026/09/dependent-if-expressions",
-    "title": "Dependent if expressions without dependent types"
+    "url": "https://victoriametrics.com/blog/go-swiss-table-map/",
+    "title": "How Swiss Tables Work in Go’s Built-in Map"
   },
   {
     "source": "lobsters",
     "url": "https://blog.jim-nielsen.com/2026/stop-with-the-uptime-percentage/",
     "title": "Can We Stop With the Uptime Percentages?"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://haskellforall.com/2026/09/dependent-if-expressions",
+    "title": "Dependent if expressions without dependent types"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://elite.bbcelite.com/hacks/two-player_elite/technical_information.html",
+    "title": "How I converted BBC Micro Elite into a two-player game"
   },
   {
     "source": "lobsters",
@@ -113,90 +133,5 @@
     "source": "lobsters",
     "url": "https://fzakaria.com/2026/09/01/the-holy-grail-of-nixpkgs-version-ranges",
     "title": "The holy grail of nixpkgs: version ranges"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://www.gingerbill.org/article/2026/09/02/ctti-is-exponential-rtti-is-linear/",
-    "title": "CTTI is Exponential, RTTI is Linear"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://elite.bbcelite.com/hacks/two-player_elite/technical_information.html",
-    "title": "How I converted BBC Micro Elite into a two-player game"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://ochagavia.nl/blog/lets-build-a-compressor-from-scratch/",
-    "title": "Let's build a compressor from scratch"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://people.kernel.org/monsieuricon/creepy-crawlies",
-    "title": "Creepy crawlies — Konstantin Ryabitsev"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://danluu.com/zitron/",
-    "title": "How accurate have Ed Zitron's AI skeptic predictions been?"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://ambientcss.vercel.app/",
-    "title": "Ambient CSS — a physics-based lighting system for CSS"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://aiandeducation.mit.edu/report/",
-    "title": "Report – AI and Education"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://maurycyz.com/misc/etherfiles/",
-    "title": "Technical note: transfer files over an ethernet patch cable (Maurycy's blog)"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://simonwillison.net/2026/Aug/30/understanding-chatgpt-work/",
-    "title": "Understanding ChatGPT Work"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://news.ycombinator.com/item?id=49503521",
-    "title": "Terence Tao explains 6 essential mathematical concepts [video] | Hacker News"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://drewdevault.com/weird-guys/",
-    "title": "Weird little guys of FOSS"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://notetoself.studio/post/the-joy-of-3d-printing/",
-    "title": "The joy of making stuff with a 3D printer"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://mvakde.github.io/blog/44-on-arc-1/",
-    "title": "44% on ARC-AGI-1 in 67 cents - Mithil Vakde’s Homepage"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://muratbuffalo.blogspot.com/2026/08/the-safest-job-from-ai-may-be-writing.html",
-    "title": "The Safest Job from AI may be Writing"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://tt-a1i.github.io/archify/",
-    "title": "Archify — Technical Diagrams from Plain English"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://datacolada.org/138",
-    "title": "[138] Artificial Deadlines (Part 1): Evidence of Fraud in an Influential Study About Procrastination – Data Colada"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://fastpotify.rocks/",
-    "title": "Fastpotify"
   }
 ]
