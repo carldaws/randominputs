@@ -7,17 +7,7 @@
   {
     "source": "hn",
     "url": "https://ifm.ai/blog/k2/",
-    "title": "K2 Horizon: Frontier Performance, Radically Open"
-  },
-  {
-    "source": "hn",
-    "url": "https://newsguild.org/new-york-times-and-the-athletic-workers-demand-company-scrap-kalshi-deal/",
-    "title": "New York Times and The Athletic workers demand company scrap Kalshi deal"
-  },
-  {
-    "source": "hn",
-    "url": "https://unsung.aresluna.org/we-want-it-to-really-confuse-people-but-also-really-make-people-happy/",
-    "title": "“We want it to really confuse people, but also really make people happy”"
+    "title": "K2 Horizon: A connected fleet of six open models"
   },
   {
     "source": "hn",
@@ -26,58 +16,48 @@
   },
   {
     "source": "hn",
+    "url": "https://arcprize.org/blog/astra",
+    "title": "OpenAI's GPT-6 Astra on ARC-AGI-3"
+  },
+  {
+    "source": "hn",
     "url": "https://matklad.github.io/2026/09/02/static-allocation-constant-work.html",
     "title": "Static Allocation, Constant Work"
   },
   {
     "source": "hn",
-    "url": "https://www.severe-weather.eu/long-range-2/winter-2026-2027-first-forecast-super-el-nino-polar-vortex-snow-cold-united-states-canada-europe-fa/",
-    "title": "Winter 2026/2027 First Forecast: Super El Niño Drives a Major Weather Divide"
+    "url": "https://nolanlawson.com/2026/08/23/the-asteroid-currently-hitting-frontend-web-development/",
+    "title": "The asteroid currently hitting front end web development"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.kedglobal.com/artificial-intelligence/newsView/ked202607210007",
+    "title": "Go grandmaster Shin defeats AI KataGo with a two-stone handicap"
+  },
+  {
+    "source": "hn",
+    "url": "https://monfak.top/blog/posts/dextroproporphan",
+    "title": "Dextroproporphan: An Analogue for a Better Dextromethorphan"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.lesswrong.com/posts/PLisnSFir8y5AHkmP/how-concerned-should-we-be-about-astra-s-recurrent",
+    "title": "How concerned should we be about Astra's recurrent architecture?"
+  },
+  {
+    "source": "hn",
+    "url": "https://hawksley.dev/blog/get-free-arpa-domain",
+    "title": "How to get a free .arpa domain"
+  },
+  {
+    "source": "hn",
+    "url": "https://unsung.aresluna.org/we-want-it-to-really-confuse-people-but-also-really-make-people-happy/",
+    "title": "“We want it to really confuse people, but also really make people happy”"
   },
   {
     "source": "hn",
     "url": "https://pola.rs/posts/announcing-polars-2/",
     "title": "Pre-Release of Polars 2.0"
-  },
-  {
-    "source": "hn",
-    "url": "https://kciter.so/posts/the-expensive-main-thread/en/",
-    "title": "The browser's main thread is expensive"
-  },
-  {
-    "source": "hn",
-    "url": "https://colossus.com/article/invisible-companies/",
-    "title": "Invisible Companies"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.sanders.senate.gov/press-releases/news-sanders-casar-introduce-legislation-to-ban-artificial-superintelligence-and-temporarily-pause-advanced-ai-development/",
-    "title": "Sanders introduces bill to ban artificial superintelligence and pause AI"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.data-structures-in-practice.com/intrusive-linked-lists/",
-    "title": "Intrusive linked lists (2019)"
-  },
-  {
-    "source": "hn",
-    "url": "https://lithub.com/fish-bad-sugar-good-and-other-medieval-ideas-about-food/",
-    "title": "Fish bad, sugar good and other medieval ideas about food"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.kxan.com/news/texas/texas-data-center-tracker-see-where-600-projects-are-operating-or-planned-across-state-in-interactive-map/",
-    "title": "Texas Data Center Map: See where data centers are operating or planned"
-  },
-  {
-    "source": "hn",
-    "url": "https://en.wikipedia.org/wiki/Parque_Arqueol%C3%B3gico_do_Solst%C3%ADcio",
-    "title": "Amazon Stonehenge: Parque Arqueológico do Solstício"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://sachachua.com/blog/2026/04/what-s-in-the-emacs-newcomers-presets-theme/",
-    "title": "What's in the Emacs newcomers-presets theme?"
   },
   {
     "source": "lobsters",
@@ -91,8 +71,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://victoriametrics.com/blog/go-swiss-table-map/",
-    "title": "How Swiss Tables Work in Go’s Built-in Map"
+    "url": "https://sachachua.com/blog/2026/04/what-s-in-the-emacs-newcomers-presets-theme/",
+    "title": "What's in the Emacs newcomers-presets theme?"
   },
   {
     "source": "lobsters",
@@ -101,13 +81,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://haskellforall.com/2026/09/dependent-if-expressions",
-    "title": "Dependent if expressions without dependent types"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://ploum.net/2026-09-02-i_dont_have_a_smartphone.html",
-    "title": "I Don’t Have a Smartphone…"
+    "url": "https://victoriametrics.com/blog/go-swiss-table-map/",
+    "title": "How Swiss Tables Work in Go’s Built-in Map"
   },
   {
     "source": "lobsters",
@@ -116,18 +91,28 @@
   },
   {
     "source": "lobsters",
+    "url": "https://kciter.so/posts/the-expensive-main-thread/en/",
+    "title": "The Browser's Main Thread Is Expensive"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://haskellforall.com/2026/09/dependent-if-expressions",
+    "title": "Dependent if expressions without dependent types"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://blog.jim-nielsen.com/2026/stop-with-the-uptime-percentage/",
+    "title": "Can We Stop With the Uptime Percentages?"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://ploum.net/2026-09-02-i_dont_have_a_smartphone.html",
+    "title": "I Don’t Have a Smartphone…"
+  },
+  {
+    "source": "lobsters",
     "url": "https://fzakaria.com/2026/09/01/the-holy-grail-of-nixpkgs-version-ranges",
     "title": "The holy grail of nixpkgs: version ranges"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://kore-nordmann.de/blog/how_to_guarantee_you_never_ship.html",
-    "title": "How to Guarantee You Never Ship"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://ochagavia.nl/blog/lets-build-a-compressor-from-scratch/",
-    "title": "Let's build a compressor from scratch"
   },
   {
     "source": "lobsters",
@@ -136,13 +121,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://shnatsel.github.io/implementing-fma-finding-bugs-in-std/",
-    "title": "Implementing FMA and finding bugs in C and Rust standard libraries"
+    "url": "https://elite.bbcelite.com/hacks/two-player_elite/technical_information.html",
+    "title": "How I converted BBC Micro Elite into a two-player game"
   },
   {
     "source": "lobsters",
-    "url": "https://scottaaronson.blog/?p=10046",
-    "title": "LLMs and self-referentiality"
+    "url": "https://ochagavia.nl/blog/lets-build-a-compressor-from-scratch/",
+    "title": "Let's build a compressor from scratch"
   },
   {
     "source": "pinboard",
