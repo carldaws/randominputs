@@ -1,8 +1,23 @@
 [
   {
     "source": "hn",
+    "url": "https://collusion.wiki/",
+    "title": "Discovery of a new OpenAI agent message board"
+  },
+  {
+    "source": "hn",
+    "url": "https://productrise.app/blog/google-ai-mode-prefers-more-expensive-products",
+    "title": "Google AI Mode shows same products 21.6% more expensive than traditional search"
+  },
+  {
+    "source": "hn",
     "url": "https://jestoph.com/2026/09/04/jane-street-challenge.html",
     "title": "Solving the Jane Street Reverse Engineering Challenge"
+  },
+  {
+    "source": "hn",
+    "url": "https://spacetimedb.com/blog/how-does-spacetime-scale",
+    "title": "Ok, but Does It Scale?"
   },
   {
     "source": "hn",
@@ -11,18 +26,28 @@
   },
   {
     "source": "hn",
-    "url": "https://carbonawarepricing.com/",
-    "title": "Carbon-aware electricity pricing, measured daily on 38 grids"
+    "url": "http://muratbuffalo.blogspot.com/2026/05/the-two-abstractions-of-system-design.html",
+    "title": "The Two Abstractions of System Design: Hide or Reduce"
   },
   {
     "source": "hn",
-    "url": "https://idpro.org/authorization-terminology-is-a-mess-lets-fix-it/",
-    "title": "Authorization terminology is a mess: Let's fix it"
+    "url": "https://jennywanger.com/articles/burnt-out-on-a-three-day-week/",
+    "title": "Burnt out on a three-day week"
+  },
+  {
+    "source": "hn",
+    "url": "https://msj.prose.sh/epaper-retained-state",
+    "title": "E-Paper Panel Isn't Broken: How Retained State Makes Drivers Look Buggy"
   },
   {
     "source": "hn",
     "url": "http://www.techdirt.com/2026/09/03/hackers-had-a-live-feed-of-every-id-this-verification-company-scanned-for-over-a-year/",
     "title": "Hackers Had a Live Feed of Every ID Verification Company Scanned for over a Year"
+  },
+  {
+    "source": "hn",
+    "url": "https://prospect.org/2026/08/21/pentagon-minerals-deal-department-defense-cerberus-capital-alan-waldenberg-stephen-feinberg/",
+    "title": "Top Pentagon Official Contracted Personal Lawyer to Handle Minerals Deal"
   },
   {
     "source": "hn",
@@ -36,8 +61,13 @@
   },
   {
     "source": "hn",
-    "url": "https://gwern.net/xanadu",
-    "title": "Project Xanadu: Even More Hindsight (2025)"
+    "url": "https://idpro.org/authorization-terminology-is-a-mess-lets-fix-it/",
+    "title": "Authorization terminology is a mess: Let's fix it"
+  },
+  {
+    "source": "hn",
+    "url": "https://bob.ibm.com/",
+    "title": "IBM Bob"
   },
   {
     "source": "hn",
@@ -46,33 +76,13 @@
   },
   {
     "source": "hn",
-    "url": "https://reactoratlas.com",
-    "title": "Show HN: Reactor Atlas"
-  },
-  {
-    "source": "hn",
-    "url": "https://jactl.io/blog/2026/08/28/jactl-virtual-threads",
-    "title": "Virtual Threads for a scripting language in Java 8 without Loom"
-  },
-  {
-    "source": "hn",
-    "url": "https://computer.rip/2026-06-14-hookswitch-to-grave.html",
-    "title": "From Hookswitch to Grave"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.insulators.info/porcelain/",
-    "title": "Welcome to the Porcelain Insulator Collector's World of Mud"
-  },
-  {
-    "source": "hn",
-    "url": "https://nolanlawson.com/2026/08/23/the-asteroid-currently-hitting-frontend-web-development/",
-    "title": "The asteroid currently hitting front end web development"
+    "url": "https://gwern.net/xanadu",
+    "title": "Project Xanadu: Even More Hindsight (2025)"
   },
   {
     "source": "lobsters",
-    "url": "https://jyn.dev/simple-is-not-the-same-as-small/",
-    "title": "simple is not small"
+    "url": "https://nolanlawson.com/2026/08/23/the-asteroid-currently-hitting-frontend-web-development/",
+    "title": "The asteroid currently hitting frontend web development"
   },
   {
     "source": "lobsters",
@@ -81,13 +91,18 @@
   },
   {
     "source": "lobsters",
-    "url": "https://revo.lung.fyi/",
-    "title": "Revo Programming language"
+    "url": "https://jyn.dev/simple-is-not-the-same-as-small/",
+    "title": "simple is not small"
   },
   {
     "source": "lobsters",
-    "url": "https://d.erenrich.net/apple.avif",
-    "title": "An image only some users can see"
+    "url": "https://eighty-twenty.org/2026/09/04/smolts",
+    "title": "smolts: a pedagogical IDE for a teaching language"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://revo.lung.fyi/",
+    "title": "Revo Programming language"
   },
   {
     "source": "lobsters",
@@ -96,23 +111,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://vale.rocks/micros/20260902-1350",
-    "title": "You Don't Need Initial-Scale In Your HTML"
-  },
-  {
-    "source": "lobsters",
     "url": "https://neovim.io/doc/user/lua-async/",
     "title": "Lua-async"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://apfelmus.nfshost.com/articles/lazy-eval.html",
-    "title": "The Incomplete Guide to Lazy Evaluation in Haskell (2015)"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://sachachua.com/blog/2026/04/what-s-in-the-emacs-newcomers-presets-theme/",
-    "title": "What's in the Emacs newcomers-presets theme?"
   },
   {
     "source": "lobsters",
@@ -121,27 +121,22 @@
   },
   {
     "source": "lobsters",
-    "url": "https://eighty-twenty.org/2026/09/04/smolts",
-    "title": "smolts: a pedagogical IDE for a teaching language (eighty-twenty news)"
+    "url": "https://d.erenrich.net/apple.avif",
+    "title": "An image only some users can see"
   },
   {
     "source": "lobsters",
-    "url": "https://blog.jim-nielsen.com/2026/stop-with-the-uptime-percentage/",
-    "title": "Can We Stop With the Uptime Percentages?"
+    "url": "https://vale.rocks/micros/20260902-1350",
+    "title": "You Don't Need Initial-Scale In Your HTML"
   },
   {
     "source": "lobsters",
-    "url": "https://blog.rust-lang.org/2026/09/03/Rust-1.98.1/",
-    "title": "Announcing Rust 1.98.1"
+    "url": "https://force-color.org/",
+    "title": "FORCE_COLOR: Keep Your Command Line Colorful, Even when Piping - Retain Text Colors in Logs, Output Streams, and More"
   },
   {
     "source": "lobsters",
-    "url": "https://zine-ssg.io/log/#v0.14.0",
-    "title": "Zine v0.14.0"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://qtea.me/posts/souping-up-my-blog/",
-    "title": "Souping up my blog"
+    "url": "https://begriffs.com/posts/2021-07-04-shared-libraries.html",
+    "title": "Dynamic linking best practices (2021)"
   }
 ]
