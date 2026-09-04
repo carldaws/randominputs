@@ -16,6 +16,11 @@
   },
   {
     "source": "hn",
+    "url": "https://thephp.foundation/blog/2026/09/02/digital-sovereignty-is-written-in-php/",
+    "title": "Digital Sovereignty Is Written in PHP"
+  },
+  {
+    "source": "hn",
     "url": "https://blog.master.dev/react-now-rusted-all-the-way-out/",
     "title": "The Rust React Compiler is now native in Vite"
   },
@@ -31,13 +36,23 @@
   },
   {
     "source": "hn",
-    "url": "https://ceu.su/letter_to_america.html",
-    "title": "Bin Laden's \"Letter to America\""
+    "url": "https://www.jeremykun.com/2026/09/04/updates-on-heir-homomorphic-encryption/",
+    "title": "Updates on HEIR, the Homomorphic Encryption Compiler Project"
   },
   {
     "source": "hn",
-    "url": "https://nityasnotes.com/writing/decades/",
-    "title": "People that worked on the same idea for decades"
+    "url": "https://nravic.com/blog/images/",
+    "title": "Icons as a Service"
+  },
+  {
+    "source": "hn",
+    "url": "https://rznicolet.com/2026/07/05/wormhole-hall-of-shame/",
+    "title": "The Wormhole Hall of Shame"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.charlespetzold.com/blog/2026/09/Can-Guitar-Frets-Perform-Multiplication.html",
+    "title": "Can guitar frets perform multiplication?"
   },
   {
     "source": "hn",
@@ -46,28 +61,8 @@
   },
   {
     "source": "hn",
-    "url": "https://bnb.im/posts/atproto-essential-resources/",
-    "title": "Getting Started with AT Protocol"
-  },
-  {
-    "source": "hn",
-    "url": "https://spacetimedb.com/blog/how-does-spacetime-scale",
-    "title": "Ok, but does it scale?"
-  },
-  {
-    "source": "hn",
-    "url": "http://muratbuffalo.blogspot.com/2026/05/the-two-abstractions-of-system-design.html",
-    "title": "The Two Abstractions of System Design: Hide or Reduce"
-  },
-  {
-    "source": "hn",
     "url": "https://gmcgoldr.github.io/2026/09/04/llm-next-token-predictors.html",
     "title": "\"Next-token predictor\" is the wrong mental model for LLMs"
-  },
-  {
-    "source": "hn",
-    "url": "https://productrise.app/blog/google-ai-mode-prefers-more-expensive-products",
-    "title": "Google AI Mode shows same products 21.6% more expensive than traditional search"
   },
   {
     "source": "lobsters",
@@ -78,6 +73,11 @@
     "source": "lobsters",
     "url": "https://blog.michielborkent.nl/babashka-ffi.html",
     "title": "Babashka 1.13.220 gets FFI"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://xenaproject.wordpress.com/2026/09/04/flt-anthropic-has-beaten-me-to-it/",
+    "title": "FLT: Anthropic has beaten me to it"
   },
   {
     "source": "lobsters",
@@ -93,11 +93,6 @@
     "source": "lobsters",
     "url": "https://nolanlawson.com/2026/08/23/the-asteroid-currently-hitting-frontend-web-development/",
     "title": "The asteroid currently hitting frontend web development"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://xenaproject.wordpress.com/2026/09/04/flt-anthropic-has-beaten-me-to-it/",
-    "title": "FLT: Anthropic has beaten me to it"
   },
   {
     "source": "lobsters",
@@ -136,12 +131,12 @@
   },
   {
     "source": "lobsters",
-    "url": "https://neovim.io/doc/user/lua-async/",
-    "title": "Lua-async"
+    "url": "https://force-color.org/",
+    "title": "FORCE_COLOR: Keep Your Command Line Colorful, Even when Piping - Retain Text Colors in Logs, Output Streams, and More"
   },
   {
     "source": "lobsters",
-    "url": "https://crumbles.blog/posts/2026-09-04-r7rs-wtf.html",
-    "title": "WTF is going on with R7RS Large? 2026 edition"
+    "url": "https://neovim.io/doc/user/lua-async/",
+    "title": "Lua-async"
   }
 ]
