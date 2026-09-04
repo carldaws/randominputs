@@ -16,8 +16,8 @@
   },
   {
     "source": "hn",
-    "url": "https://www.kevin.md/the-business-card-that-lights-up.md/",
-    "title": "A PCB business card with a batteryless LED, powered by the phone that taps it"
+    "url": "https://www.kedglobal.com/artificial-intelligence/newsView/ked202607210007",
+    "title": "Go grandmaster Shin defeats AI KataGo with a two-stone handicap"
   },
   {
     "source": "hn",
@@ -26,23 +26,18 @@
   },
   {
     "source": "hn",
-    "url": "https://www.kedglobal.com/artificial-intelligence/newsView/ked202607210007",
-    "title": "Go grandmaster Shin defeats AI KataGo with a two-stone handicap"
-  },
-  {
-    "source": "hn",
     "url": "https://www.lesswrong.com/posts/PLisnSFir8y5AHkmP/how-concerned-should-we-be-about-astra-s-recurrent",
     "title": "How concerned should we be about Astra's recurrent architecture?"
   },
   {
     "source": "hn",
-    "url": "https://iscinumpy.dev/post/flake8-lazy/",
-    "title": "Working to Make Python Lazy"
+    "url": "https://jactl.io/blog/2026/08/28/jactl-virtual-threads",
+    "title": "Virtual Threads for a scripting language in Java 8 without Loom"
   },
   {
     "source": "hn",
-    "url": "https://monfak.top/blog/posts/dextroproporphan",
-    "title": "Dextroproporphan: An Analogue for a Better Dextromethorphan"
+    "url": "https://www.kevin.md/the-business-card-that-lights-up.md/",
+    "title": "A PCB business card with a batteryless LED, powered by the phone that taps it"
   },
   {
     "source": "hn",
@@ -56,18 +51,23 @@
   },
   {
     "source": "hn",
-    "url": "https://matklad.github.io/2026/09/02/static-allocation-constant-work.html",
-    "title": "Static Allocation, Constant Work"
+    "url": "https://kciter.so/posts/the-expensive-main-thread/en/",
+    "title": "The browser's main thread is expensive"
   },
   {
     "source": "hn",
-    "url": "https://pola.rs/posts/announcing-polars-2/",
-    "title": "Pre-Release of Polars 2.0"
+    "url": "https://matklad.github.io/2026/09/02/static-allocation-constant-work.html",
+    "title": "Static Allocation, Constant Work"
   },
   {
     "source": "lobsters",
     "url": "https://revo.lung.fyi/",
     "title": "Revo Programming language"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://jyn.dev/simple-is-not-the-same-as-small/",
+    "title": "simple is not small"
   },
   {
     "source": "lobsters",
@@ -78,11 +78,6 @@
     "source": "lobsters",
     "url": "https://sachachua.com/blog/2026/04/what-s-in-the-emacs-newcomers-presets-theme/",
     "title": "What's in the Emacs newcomers-presets theme?"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://jyn.dev/simple-is-not-the-same-as-small/",
-    "title": "simple is not small"
   },
   {
     "source": "lobsters",
@@ -101,18 +96,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://kciter.so/posts/the-expensive-main-thread/en/",
-    "title": "The Browser's Main Thread Is Expensive"
+    "url": "https://blog.jim-nielsen.com/2026/stop-with-the-uptime-percentage/",
+    "title": "Can We Stop With the Uptime Percentages?"
   },
   {
     "source": "lobsters",
     "url": "https://victoriametrics.com/blog/go-swiss-table-map/",
     "title": "How Swiss Tables Work in Go’s Built-in Map"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://blog.jim-nielsen.com/2026/stop-with-the-uptime-percentage/",
-    "title": "Can We Stop With the Uptime Percentages?"
   },
   {
     "source": "lobsters",
