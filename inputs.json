@@ -6,8 +6,18 @@
   },
   {
     "source": "hn",
+    "url": "https://eebench.org/blog/can-ai-design-circuit-boards-yet/",
+    "title": "Can AI design circuit boards yet?"
+  },
+  {
+    "source": "hn",
     "url": "https://opentrailpaper.com",
     "title": "Show HN: Open-Source eInk Bike Computer"
+  },
+  {
+    "source": "hn",
+    "url": "https://blog.master.dev/react-now-rusted-all-the-way-out/",
+    "title": "The Rust React Compiler is now native in Vite"
   },
   {
     "source": "hn",
@@ -21,18 +31,8 @@
   },
   {
     "source": "hn",
-    "url": "https://www.wired.com/story/nobody-is-saying-why-openai-and-anthropic-had-outages-today/",
-    "title": "Nobody Is Saying Why OpenAI and Anthropic Had Outages"
-  },
-  {
-    "source": "hn",
-    "url": "http://muratbuffalo.blogspot.com/2026/05/the-two-abstractions-of-system-design.html",
-    "title": "The Two Abstractions of System Design: Hide or Reduce"
-  },
-  {
-    "source": "hn",
-    "url": "https://bnb.im/posts/atproto-essential-resources/",
-    "title": "Getting Started with AT Protocol"
+    "url": "https://ceu.su/letter_to_america.html",
+    "title": "Bin Laden's \"Letter to America\""
   },
   {
     "source": "hn",
@@ -41,13 +41,13 @@
   },
   {
     "source": "hn",
-    "url": "https://productrise.app/blog/google-ai-mode-prefers-more-expensive-products",
-    "title": "Google AI Mode shows same products 21.6% more expensive than traditional search"
+    "url": "https://photoni.st/index.php/2026/07/12/deadpan-photography-enjoying-the-pretence/",
+    "title": "Deadpan Photography: Enjoying the Pretence"
   },
   {
     "source": "hn",
-    "url": "https://en.wikipedia.org/wiki/Hayes_AT_command_set",
-    "title": "Hayes AT command set"
+    "url": "https://bnb.im/posts/atproto-essential-resources/",
+    "title": "Getting Started with AT Protocol"
   },
   {
     "source": "hn",
@@ -56,18 +56,38 @@
   },
   {
     "source": "hn",
-    "url": "https://www.cs.cmu.edu/~bryant/pubdir/MIT-LCS-TR-259.pdf",
-    "title": "A Switch-Level Simulation Model for Integrated Logic Circuits (1981) [pdf]"
+    "url": "http://muratbuffalo.blogspot.com/2026/05/the-two-abstractions-of-system-design.html",
+    "title": "The Two Abstractions of System Design: Hide or Reduce"
   },
   {
     "source": "hn",
+    "url": "https://gmcgoldr.github.io/2026/09/04/llm-next-token-predictors.html",
+    "title": "\"Next-token predictor\" is the wrong mental model for LLMs"
+  },
+  {
+    "source": "hn",
+    "url": "https://productrise.app/blog/google-ai-mode-prefers-more-expensive-products",
+    "title": "Google AI Mode shows same products 21.6% more expensive than traditional search"
+  },
+  {
+    "source": "lobsters",
     "url": "https://neil.fraser.name/news/2026/09/03/",
     "title": ".name Termination"
   },
   {
-    "source": "hn",
-    "url": "https://prospect.org/2026/08/21/pentagon-minerals-deal-department-defense-cerberus-capital-alan-waldenberg-stephen-feinberg/",
-    "title": "Top Pentagon Official Contracted Personal Lawyer to Handle Minerals Deal"
+    "source": "lobsters",
+    "url": "https://blog.michielborkent.nl/babashka-ffi.html",
+    "title": "Babashka 1.13.220 gets FFI"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://purplesyringa.moe/blog/guest/the-nx-bit-is-not-just-about-security/",
+    "title": "The NX bit is not just about security"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://jank-lang.org/blog/2026-09-04-better-and-better/",
+    "title": "jank reimagines C++ errors and gets an official native package repo"
   },
   {
     "source": "lobsters",
@@ -76,8 +96,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://purplesyringa.moe/blog/guest/the-nx-bit-is-not-just-about-security/",
-    "title": "The NX bit is not just about security"
+    "url": "https://xenaproject.wordpress.com/2026/09/04/flt-anthropic-has-beaten-me-to-it/",
+    "title": "FLT: Anthropic has beaten me to it"
   },
   {
     "source": "lobsters",
@@ -91,8 +111,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://revo.lung.fyi/",
-    "title": "Revo Programming language"
+    "url": "https://intel.github.io/SDM/announcement/2026/08/20/announce-preview.html",
+    "title": "A preview of the future Intel Architecture documentation"
   },
   {
     "source": "lobsters",
@@ -106,18 +126,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://jank-lang.org/blog/2026-09-04-better-and-better/",
-    "title": "jank reimagines C++ errors and gets an official native package repo"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://neovim.io/doc/user/lua-async/",
-    "title": "Lua-async"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://intel.github.io/SDM/announcement/2026/08/20/announce-preview.html",
-    "title": "A preview of the future Intel Architecture documentation"
+    "url": "https://revo.lung.fyi/",
+    "title": "Revo Programming language"
   },
   {
     "source": "lobsters",
@@ -126,97 +136,12 @@
   },
   {
     "source": "lobsters",
+    "url": "https://neovim.io/doc/user/lua-async/",
+    "title": "Lua-async"
+  },
+  {
+    "source": "lobsters",
     "url": "https://crumbles.blog/posts/2026-09-04-r7rs-wtf.html",
     "title": "WTF is going on with R7RS Large? 2026 edition"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://force-color.org/",
-    "title": "FORCE_COLOR: Keep Your Command Line Colorful, Even when Piping - Retain Text Colors in Logs, Output Streams, and More"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://blog.michielborkent.nl/babashka-ffi.html",
-    "title": "Babashka 1.13.220 gets FFI"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://apfelmus.nfshost.com/articles/lazy-eval.html",
-    "title": "The Incomplete Guide to Lazy Evaluation in Haskell (2015)"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://danluu.com/zitron/",
-    "title": "How accurate have Ed Zitron's AI skeptic predictions been?"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://ambientcss.vercel.app/",
-    "title": "Ambient CSS — a physics-based lighting system for CSS"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://people.kernel.org/monsieuricon/creepy-crawlies",
-    "title": "Creepy crawlies — Konstantin Ryabitsev"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://notetoself.studio/post/the-joy-of-3d-printing/",
-    "title": "The joy of making stuff with a 3D printer"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://aiandeducation.mit.edu/report/",
-    "title": "Report – AI and Education"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://simonwillison.net/2026/Aug/30/understanding-chatgpt-work/",
-    "title": "Understanding ChatGPT Work"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://drewdevault.com/weird-guys/",
-    "title": "Weird little guys of FOSS"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://fastpotify.rocks/",
-    "title": "Fastpotify"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://mvakde.github.io/blog/44-on-arc-1/",
-    "title": "44% on ARC-AGI-1 in 67 cents - Mithil Vakde’s Homepage"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://news.ycombinator.com/item?id=49503521",
-    "title": "Terence Tao explains 6 essential mathematical concepts [video] | Hacker News"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://datacolada.org/138",
-    "title": "[138] Artificial Deadlines (Part 1): Evidence of Fraud in an Influential Study About Procrastination – Data Colada"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.alilleybrinker.com/blog/1password-funds-ethnic-cleansing/",
-    "title": "1Password Supports the Ethnic Cleansing of Europe — Andrew Lilley Brinker"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://maurycyz.com/misc/etherfiles/",
-    "title": "Technical note: transfer files over an ethernet patch cable (Maurycy's blog)"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://kciter.so/posts/the-expensive-main-thread/en/",
-    "title": "The Browser's Main Thread Is Expensive | kciter.so"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://muratbuffalo.blogspot.com/2026/08/the-safest-job-from-ai-may-be-writing.html",
-    "title": "The Safest Job from AI may be Writing"
   }
 ]
