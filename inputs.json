@@ -6,8 +6,18 @@
   },
   {
     "source": "hn",
+    "url": "https://gwern.net/xanadu",
+    "title": "Project Xanadu: Even More Hindsight"
+  },
+  {
+    "source": "hn",
     "url": "https://babyloniantwins.com/blog/porting-a-1993-amiga-game-to-godot/",
     "title": "Porting my 1993 Amiga game to Godot, with an LLM reading the 68000 assembly"
+  },
+  {
+    "source": "hn",
+    "url": "https://computer.rip/2026-06-14-hookswitch-to-grave.html",
+    "title": "From Hookswitch to Grave"
   },
   {
     "source": "hn",
@@ -16,18 +26,23 @@
   },
   {
     "source": "hn",
+    "url": "https://www.texasmonthly.com/news-politics/ckdu-kidney-disease-immigration/",
+    "title": "A mysterious kidney disease has arrived in Texas"
+  },
+  {
+    "source": "hn",
     "url": "https://www.kedglobal.com/artificial-intelligence/newsView/ked202607210007",
     "title": "Go grandmaster Shin defeats AI KataGo with a two-stone handicap"
   },
   {
     "source": "hn",
-    "url": "https://arcprize.org/blog/astra",
-    "title": "OpenAI's GPT-6 Astra on ARC-AGI-3"
+    "url": "https://reactoratlas.com",
+    "title": "Show HN: Reactor Atlas"
   },
   {
     "source": "hn",
-    "url": "https://www.lesswrong.com/posts/PLisnSFir8y5AHkmP/how-concerned-should-we-be-about-astra-s-recurrent",
-    "title": "How concerned should we be about Astra's recurrent architecture?"
+    "url": "https://www.agentconnect.md/blog/grep-beat-lsp-harness/",
+    "title": "Grep beats LSP? Why coding agents ignore your fancier tools"
   },
   {
     "source": "hn",
@@ -41,13 +56,13 @@
   },
   {
     "source": "hn",
-    "url": "https://nolanlawson.com/2026/08/23/the-asteroid-currently-hitting-frontend-web-development/",
-    "title": "The asteroid currently hitting front end web development"
+    "url": "https://blog.vrypan.net/2026/08/19/260819-sing-song/",
+    "title": "Sing-song: a speakable encoding for long numbers and keys"
   },
   {
     "source": "hn",
-    "url": "https://hawksley.dev/blog/get-free-arpa-domain",
-    "title": "How to get a free .arpa domain"
+    "url": "https://nolanlawson.com/2026/08/23/the-asteroid-currently-hitting-frontend-web-development/",
+    "title": "The asteroid currently hitting front end web development"
   },
   {
     "source": "hn",
@@ -55,19 +70,14 @@
     "title": "The browser's main thread is expensive"
   },
   {
-    "source": "hn",
-    "url": "https://matklad.github.io/2026/09/02/static-allocation-constant-work.html",
-    "title": "Static Allocation, Constant Work"
+    "source": "lobsters",
+    "url": "https://jyn.dev/simple-is-not-the-same-as-small/",
+    "title": "simple is not small"
   },
   {
     "source": "lobsters",
     "url": "https://revo.lung.fyi/",
     "title": "Revo Programming language"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://jyn.dev/simple-is-not-the-same-as-small/",
-    "title": "simple is not small"
   },
   {
     "source": "lobsters",
@@ -81,18 +91,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://blog.rust-lang.org/2026/09/03/Rust-1.98.1/",
-    "title": "Announcing Rust 1.98.1"
-  },
-  {
-    "source": "lobsters",
     "url": "https://d.erenrich.net/apple.avif",
     "title": "An image only some users can see"
   },
   {
     "source": "lobsters",
-    "url": "https://qtea.me/posts/souping-up-my-blog/",
-    "title": "Souping up my blog"
+    "url": "https://blog.rust-lang.org/2026/09/03/Rust-1.98.1/",
+    "title": "Announcing Rust 1.98.1"
   },
   {
     "source": "lobsters",
@@ -101,13 +106,18 @@
   },
   {
     "source": "lobsters",
+    "url": "https://qtea.me/posts/souping-up-my-blog/",
+    "title": "Souping up my blog"
+  },
+  {
+    "source": "lobsters",
     "url": "https://victoriametrics.com/blog/go-swiss-table-map/",
     "title": "How Swiss Tables Work in Go’s Built-in Map"
   },
   {
     "source": "lobsters",
-    "url": "https://haskellforall.com/2026/09/dependent-if-expressions",
-    "title": "Dependent if expressions without dependent types"
+    "url": "https://neovim.io/doc/user/lua-async/",
+    "title": "Lua-async"
   },
   {
     "source": "lobsters",
@@ -116,12 +126,12 @@
   },
   {
     "source": "lobsters",
-    "url": "https://ploum.net/2026-09-02-i_dont_have_a_smartphone.html",
-    "title": "I Don’t Have a Smartphone…"
+    "url": "https://matklad.github.io/2026/09/02/static-allocation-constant-work.html",
+    "title": "Static Allocation, Constant Work"
   },
   {
     "source": "lobsters",
-    "url": "https://fzakaria.com/2026/09/01/the-holy-grail-of-nixpkgs-version-ranges",
-    "title": "The holy grail of nixpkgs: version ranges"
+    "url": "https://purplesyringa.moe/blog/guest/the-nx-bit-is-not-just-about-security/",
+    "title": "The NX bit is not just about security"
   }
 ]
