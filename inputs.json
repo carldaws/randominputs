@@ -6,63 +6,8 @@
   },
   {
     "source": "hn",
-    "url": "https://productrise.app/blog/google-ai-mode-prefers-more-expensive-products",
-    "title": "Google AI Mode shows same products 21.6% more expensive than traditional search"
-  },
-  {
-    "source": "hn",
-    "url": "https://jestoph.com/2026/09/04/jane-street-challenge.html",
-    "title": "Solving the Jane Street Reverse Engineering Challenge"
-  },
-  {
-    "source": "hn",
-    "url": "https://spacetimedb.com/blog/how-does-spacetime-scale",
-    "title": "Ok, but Does It Scale?"
-  },
-  {
-    "source": "hn",
-    "url": "https://neil.fraser.name/news/2026/09/03/",
-    "title": ".name Termination"
-  },
-  {
-    "source": "hn",
-    "url": "http://muratbuffalo.blogspot.com/2026/05/the-two-abstractions-of-system-design.html",
-    "title": "The Two Abstractions of System Design: Hide or Reduce"
-  },
-  {
-    "source": "hn",
-    "url": "https://jennywanger.com/articles/burnt-out-on-a-three-day-week/",
-    "title": "Burnt out on a three-day week"
-  },
-  {
-    "source": "hn",
-    "url": "https://msj.prose.sh/epaper-retained-state",
-    "title": "E-Paper Panel Isn't Broken: How Retained State Makes Drivers Look Buggy"
-  },
-  {
-    "source": "hn",
-    "url": "http://www.techdirt.com/2026/09/03/hackers-had-a-live-feed-of-every-id-this-verification-company-scanned-for-over-a-year/",
-    "title": "Hackers Had a Live Feed of Every ID Verification Company Scanned for over a Year"
-  },
-  {
-    "source": "hn",
-    "url": "https://prospect.org/2026/08/21/pentagon-minerals-deal-department-defense-cerberus-capital-alan-waldenberg-stephen-feinberg/",
-    "title": "Top Pentagon Official Contracted Personal Lawyer to Handle Minerals Deal"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.kedglobal.com/artificial-intelligence/newsView/ked202607210007",
-    "title": "Go grandmaster Shin defeats AI KataGo with a two-stone handicap"
-  },
-  {
-    "source": "hn",
-    "url": "https://babyloniantwins.com/blog/porting-a-1993-amiga-game-to-godot/",
-    "title": "Porting my 1993 Amiga game to Godot, with an LLM reading the 68000 assembly"
-  },
-  {
-    "source": "hn",
-    "url": "https://idpro.org/authorization-terminology-is-a-mess-lets-fix-it/",
-    "title": "Authorization terminology is a mess: Let's fix it"
+    "url": "https://opentrailpaper.com",
+    "title": "Show HN: Open-Source eInk Bike Computer"
   },
   {
     "source": "hn",
@@ -71,13 +16,58 @@
   },
   {
     "source": "hn",
-    "url": "https://ifm.ai/blog/k2/",
-    "title": "K2 Horizon: A connected fleet of six open models"
+    "url": "https://jestoph.com/2026/09/04/jane-street-challenge.html",
+    "title": "Solving the Jane Street reverse engineering challenge"
   },
   {
     "source": "hn",
-    "url": "https://gwern.net/xanadu",
-    "title": "Project Xanadu: Even More Hindsight (2025)"
+    "url": "https://www.wired.com/story/nobody-is-saying-why-openai-and-anthropic-had-outages-today/",
+    "title": "Nobody Is Saying Why OpenAI and Anthropic Had Outages"
+  },
+  {
+    "source": "hn",
+    "url": "http://muratbuffalo.blogspot.com/2026/05/the-two-abstractions-of-system-design.html",
+    "title": "The Two Abstractions of System Design: Hide or Reduce"
+  },
+  {
+    "source": "hn",
+    "url": "https://bnb.im/posts/atproto-essential-resources/",
+    "title": "Getting Started with AT Protocol"
+  },
+  {
+    "source": "hn",
+    "url": "https://nityasnotes.com/writing/decades/",
+    "title": "People that worked on the same idea for decades"
+  },
+  {
+    "source": "hn",
+    "url": "https://productrise.app/blog/google-ai-mode-prefers-more-expensive-products",
+    "title": "Google AI Mode shows same products 21.6% more expensive than traditional search"
+  },
+  {
+    "source": "hn",
+    "url": "https://en.wikipedia.org/wiki/Hayes_AT_command_set",
+    "title": "Hayes AT command set"
+  },
+  {
+    "source": "hn",
+    "url": "https://spacetimedb.com/blog/how-does-spacetime-scale",
+    "title": "Ok, but does it scale?"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.cs.cmu.edu/~bryant/pubdir/MIT-LCS-TR-259.pdf",
+    "title": "A Switch-Level Simulation Model for Integrated Logic Circuits (1981) [pdf]"
+  },
+  {
+    "source": "hn",
+    "url": "https://neil.fraser.name/news/2026/09/03/",
+    "title": ".name Termination"
+  },
+  {
+    "source": "hn",
+    "url": "https://prospect.org/2026/08/21/pentagon-minerals-deal-department-defense-cerberus-capital-alan-waldenberg-stephen-feinberg/",
+    "title": "Top Pentagon Official Contracted Personal Lawyer to Handle Minerals Deal"
   },
   {
     "source": "lobsters",
@@ -106,13 +96,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://crumbles.blog/posts/2026-09-04-r7rs-wtf.html",
-    "title": "WTF is going on with R7RS Large? 2026 edition"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://neovim.io/doc/user/lua-async/",
-    "title": "Lua-async"
+    "url": "https://lemire.me/blog/2026/08/29/the-new-go-json-api-twice-as-fast-or-1-5x-slower/",
+    "title": "The new Go JSON API: twice as fast, or 1.5x slower?"
   },
   {
     "source": "lobsters",
@@ -121,13 +106,28 @@
   },
   {
     "source": "lobsters",
-    "url": "https://d.erenrich.net/apple.avif",
-    "title": "An image only some users can see"
+    "url": "https://jank-lang.org/blog/2026-09-04-better-and-better/",
+    "title": "jank reimagines C++ errors and gets an official native package repo"
   },
   {
     "source": "lobsters",
-    "url": "https://vale.rocks/micros/20260902-1350",
-    "title": "You Don't Need Initial-Scale In Your HTML"
+    "url": "https://neovim.io/doc/user/lua-async/",
+    "title": "Lua-async"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://intel.github.io/SDM/announcement/2026/08/20/announce-preview.html",
+    "title": "A preview of the future Intel Architecture documentation"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://qum.cz/imperial_colors/",
+    "title": "Imperial Colors Manifesto"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://crumbles.blog/posts/2026-09-04-r7rs-wtf.html",
+    "title": "WTF is going on with R7RS Large? 2026 edition"
   },
   {
     "source": "lobsters",
@@ -136,7 +136,87 @@
   },
   {
     "source": "lobsters",
-    "url": "https://begriffs.com/posts/2021-07-04-shared-libraries.html",
-    "title": "Dynamic linking best practices (2021)"
+    "url": "https://blog.michielborkent.nl/babashka-ffi.html",
+    "title": "Babashka 1.13.220 gets FFI"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://apfelmus.nfshost.com/articles/lazy-eval.html",
+    "title": "The Incomplete Guide to Lazy Evaluation in Haskell (2015)"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://danluu.com/zitron/",
+    "title": "How accurate have Ed Zitron's AI skeptic predictions been?"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://ambientcss.vercel.app/",
+    "title": "Ambient CSS — a physics-based lighting system for CSS"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://people.kernel.org/monsieuricon/creepy-crawlies",
+    "title": "Creepy crawlies — Konstantin Ryabitsev"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://notetoself.studio/post/the-joy-of-3d-printing/",
+    "title": "The joy of making stuff with a 3D printer"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://aiandeducation.mit.edu/report/",
+    "title": "Report – AI and Education"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://simonwillison.net/2026/Aug/30/understanding-chatgpt-work/",
+    "title": "Understanding ChatGPT Work"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://drewdevault.com/weird-guys/",
+    "title": "Weird little guys of FOSS"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://fastpotify.rocks/",
+    "title": "Fastpotify"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://mvakde.github.io/blog/44-on-arc-1/",
+    "title": "44% on ARC-AGI-1 in 67 cents - Mithil Vakde’s Homepage"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://news.ycombinator.com/item?id=49503521",
+    "title": "Terence Tao explains 6 essential mathematical concepts [video] | Hacker News"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://datacolada.org/138",
+    "title": "[138] Artificial Deadlines (Part 1): Evidence of Fraud in an Influential Study About Procrastination – Data Colada"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.alilleybrinker.com/blog/1password-funds-ethnic-cleansing/",
+    "title": "1Password Supports the Ethnic Cleansing of Europe — Andrew Lilley Brinker"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://maurycyz.com/misc/etherfiles/",
+    "title": "Technical note: transfer files over an ethernet patch cable (Maurycy's blog)"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://kciter.so/posts/the-expensive-main-thread/en/",
+    "title": "The Browser's Main Thread Is Expensive | kciter.so"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://muratbuffalo.blogspot.com/2026/08/the-safest-job-from-ai-may-be-writing.html",
+    "title": "The Safest Job from AI may be Writing"
   }
 ]
