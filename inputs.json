@@ -11,8 +11,18 @@
   },
   {
     "source": "hn",
+    "url": "https://engineering.atspotify.com/2026/9/portal-by-spotify-cut-my-claude-code-token-usage-by-90",
+    "title": "Portal by Spotify cut my Claude Code token usage by 90%"
+  },
+  {
+    "source": "hn",
     "url": "https://nesbitt.io/2026/09/01/git-submodules-as-a-package-manager.html",
     "title": "Git Submodules as a Package Manager"
+  },
+  {
+    "source": "hn",
+    "url": "https://skymap2000.com/",
+    "title": "Sky Map 2000 – Star Atlas and Planetarium"
   },
   {
     "source": "hn",
@@ -21,8 +31,8 @@
   },
   {
     "source": "hn",
-    "url": "https://engineering.atspotify.com/2026/9/portal-by-spotify-cut-my-claude-code-token-usage-by-90",
-    "title": "Portal by Spotify cut my Claude Code token usage by 90%"
+    "url": "https://opentrailpaper.com",
+    "title": "Show HN: Open-Source eInk Bike Computer"
   },
   {
     "source": "hn",
@@ -31,13 +41,8 @@
   },
   {
     "source": "hn",
-    "url": "https://opentrailpaper.com",
-    "title": "Show HN: Open-Source eInk Bike Computer"
-  },
-  {
-    "source": "hn",
-    "url": "https://ipv6.hanazo.no/posts/anniversary-personal/",
-    "title": "The Highest Point in the Netherlands"
+    "url": "https://uutils.org/blog/2026-08-error-diagnostics/",
+    "title": "Pointing at the error: compiler-style diagnostics in uutils coreutils"
   },
   {
     "source": "hn",
@@ -48,16 +53,6 @@
     "source": "hn",
     "url": "https://blog.master.dev/react-now-rusted-all-the-way-out/",
     "title": "The Rust React Compiler is now native in Vite"
-  },
-  {
-    "source": "hn",
-    "url": "https://nravic.com/blog/images/",
-    "title": "Icons as a Service"
-  },
-  {
-    "source": "hn",
-    "url": "https://blog.val.town/connectors",
-    "title": "Connecting every app to every other app"
   },
   {
     "source": "lobsters",
@@ -96,6 +91,11 @@
   },
   {
     "source": "lobsters",
+    "url": "https://gmcgoldr.github.io/2026/09/04/llm-next-token-predictors.html",
+    "title": "Stop Thinking of LLMs as Next-Token Predictors"
+  },
+  {
+    "source": "lobsters",
     "url": "https://eighty-twenty.org/2026/09/04/smolts",
     "title": "smolts: a pedagogical IDE for a teaching language"
   },
@@ -106,11 +106,6 @@
   },
   {
     "source": "lobsters",
-    "url": "https://gmcgoldr.github.io/2026/09/04/llm-next-token-predictors.html",
-    "title": "Stop Thinking of LLMs as Next-Token Predictors"
-  },
-  {
-    "source": "lobsters",
     "url": "https://lemire.me/blog/2026/08/29/the-new-go-json-api-twice-as-fast-or-1-5x-slower/",
     "title": "The new Go JSON API: twice as fast, or 1.5x slower?"
   },
@@ -118,15 +113,5 @@
     "source": "lobsters",
     "url": "https://pradyun.net/blog/reverse_engineering.html",
     "title": "Reverse Engineering a Chip (or well, a GDS)"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://qum.cz/imperial_colors/",
-    "title": "Imperial Colors Manifesto"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://pointieststick.com/2026/09/03/bug-triaging-help-needed/",
-    "title": "Bug triaging help needed"
   }
 ]
