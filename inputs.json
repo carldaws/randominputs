@@ -1,11 +1,6 @@
 [
   {
     "source": "hn",
-    "url": "https://artificialanalysis.ai/articles/artificial-analysis-intelligence-index-v4-2",
-    "title": "Artificial Analysis Intelligence Index v4.2"
-  },
-  {
-    "source": "hn",
     "url": "https://collusion.wiki/",
     "title": "Discovery of a new OpenAI agent message board"
   },
@@ -13,6 +8,16 @@
     "source": "hn",
     "url": "https://eebench.org/blog/can-ai-design-circuit-boards-yet/",
     "title": "Can AI design circuit boards yet?"
+  },
+  {
+    "source": "hn",
+    "url": "https://nesbitt.io/2026/09/01/git-submodules-as-a-package-manager.html",
+    "title": "Git Submodules as a Package Manager"
+  },
+  {
+    "source": "hn",
+    "url": "https://artificialanalysis.ai/articles/artificial-analysis-intelligence-index-v4-2",
+    "title": "Artificial Analysis Intelligence Index v4.2"
   },
   {
     "source": "hn",
@@ -31,18 +36,18 @@
   },
   {
     "source": "hn",
-    "url": "https://blog.master.dev/react-now-rusted-all-the-way-out/",
-    "title": "The Rust React Compiler is now native in Vite"
-  },
-  {
-    "source": "hn",
-    "url": "https://greatcircle.com/blog/2026/08/11/declaring-incidents-for-side-effects/",
-    "title": "When declaring an incident becomes everyone's favorite workaround"
+    "url": "https://ipv6.hanazo.no/posts/anniversary-personal/",
+    "title": "The Highest Point in the Netherlands"
   },
   {
     "source": "hn",
     "url": "https://bob.ibm.com/",
     "title": "IBM Bob"
+  },
+  {
+    "source": "hn",
+    "url": "https://blog.master.dev/react-now-rusted-all-the-way-out/",
+    "title": "The Rust React Compiler is now native in Vite"
   },
   {
     "source": "hn",
@@ -55,34 +60,19 @@
     "title": "Connecting every app to every other app"
   },
   {
-    "source": "hn",
-    "url": "https://jestoph.com/2026/09/04/jane-street-challenge.html",
-    "title": "Solving the Jane Street reverse engineering challenge"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.jeremykun.com/2026/09/04/updates-on-heir-homomorphic-encryption/",
-    "title": "Updates on HEIR, the Homomorphic Encryption Compiler Project"
-  },
-  {
-    "source": "hn",
-    "url": "https://gmcgoldr.github.io/2026/09/04/llm-next-token-predictors.html",
-    "title": "“Next-token predictor” is the wrong mental model for LLMs"
-  },
-  {
     "source": "lobsters",
     "url": "https://blog.michielborkent.nl/babashka-ffi.html",
     "title": "Babashka 1.13.220 gets FFI"
   },
   {
     "source": "lobsters",
-    "url": "https://neil.fraser.name/news/2026/09/03/",
-    "title": ".name Termination"
+    "url": "https://xenaproject.wordpress.com/2026/09/04/flt-anthropic-has-beaten-me-to-it/",
+    "title": "FLT: Anthropic has beaten me to it"
   },
   {
     "source": "lobsters",
-    "url": "https://xenaproject.wordpress.com/2026/09/04/flt-anthropic-has-beaten-me-to-it/",
-    "title": "FLT: Anthropic has beaten me to it"
+    "url": "https://neil.fraser.name/news/2026/09/03/",
+    "title": ".name Termination"
   },
   {
     "source": "lobsters",
@@ -96,13 +86,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://nolanlawson.com/2026/08/23/the-asteroid-currently-hitting-frontend-web-development/",
-    "title": "The asteroid currently hitting frontend web development"
+    "url": "https://intel.github.io/SDM/announcement/2026/08/20/announce-preview.html",
+    "title": "A preview of the future Intel Architecture documentation"
   },
   {
     "source": "lobsters",
-    "url": "https://intel.github.io/SDM/announcement/2026/08/20/announce-preview.html",
-    "title": "A preview of the future Intel Architecture documentation"
+    "url": "https://nolanlawson.com/2026/08/23/the-asteroid-currently-hitting-frontend-web-development/",
+    "title": "The asteroid currently hitting frontend web development"
   },
   {
     "source": "lobsters",
@@ -116,8 +106,18 @@
   },
   {
     "source": "lobsters",
+    "url": "https://gmcgoldr.github.io/2026/09/04/llm-next-token-predictors.html",
+    "title": "Stop Thinking of LLMs as Next-Token Predictors"
+  },
+  {
+    "source": "lobsters",
     "url": "https://lemire.me/blog/2026/08/29/the-new-go-json-api-twice-as-fast-or-1-5x-slower/",
     "title": "The new Go JSON API: twice as fast, or 1.5x slower?"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://pradyun.net/blog/reverse_engineering.html",
+    "title": "Reverse Engineering a Chip (or well, a GDS)"
   },
   {
     "source": "lobsters",
@@ -128,20 +128,5 @@
     "source": "lobsters",
     "url": "https://pointieststick.com/2026/09/03/bug-triaging-help-needed/",
     "title": "Bug triaging help needed"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://revo.lung.fyi/",
-    "title": "Revo Programming language"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://neovim.io/doc/user/lua-async/",
-    "title": "Lua-async"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://force-color.org/",
-    "title": "FORCE_COLOR: Keep Your Command Line Colorful, Even when Piping - Retain Text Colors in Logs, Output Streams, and More"
   }
 ]
