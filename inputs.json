@@ -1,8 +1,18 @@
 [
   {
     "source": "hn",
+    "url": "https://devquasar.com/hardware/the-60-gaming-pc-amd-bc-250/",
+    "title": "The \"$60 Gaming PC\" – AMD BC-250 (2025)"
+  },
+  {
+    "source": "hn",
     "url": "https://collusion.wiki/",
     "title": "Discovery of a new OpenAI agent message board"
+  },
+  {
+    "source": "hn",
+    "url": "http://terpstrakeyboard.com/",
+    "title": "Terpstra Keyboard"
   },
   {
     "source": "hn",
@@ -21,23 +31,8 @@
   },
   {
     "source": "hn",
-    "url": "https://skymap2000.com/",
-    "title": "Sky Map 2000 – Star Atlas and Planetarium"
-  },
-  {
-    "source": "hn",
-    "url": "https://artificialanalysis.ai/articles/artificial-analysis-intelligence-index-v4-2",
-    "title": "Artificial Analysis Intelligence Index v4.2"
-  },
-  {
-    "source": "hn",
     "url": "https://opentrailpaper.com",
     "title": "Show HN: Open-Source eInk Bike Computer"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.charlespetzold.com/blog/2026/09/Can-Guitar-Frets-Perform-Multiplication.html",
-    "title": "Can guitar frets perform multiplication?"
   },
   {
     "source": "hn",
@@ -51,8 +46,23 @@
   },
   {
     "source": "hn",
+    "url": "https://www.charlespetzold.com/blog/2026/09/Can-Guitar-Frets-Perform-Multiplication.html",
+    "title": "Can guitar frets perform multiplication?"
+  },
+  {
+    "source": "hn",
     "url": "https://blog.master.dev/react-now-rusted-all-the-way-out/",
     "title": "The Rust React Compiler is now native in Vite"
+  },
+  {
+    "source": "hn",
+    "url": "https://skymap2000.com/",
+    "title": "Sky Map 2000 – Star Atlas and Planetarium"
+  },
+  {
+    "source": "hn",
+    "url": "https://artificialanalysis.ai/articles/artificial-analysis-intelligence-index-v4-2",
+    "title": "Artificial Analysis Intelligence Index v4.2"
   },
   {
     "source": "lobsters",
@@ -76,6 +86,16 @@
   },
   {
     "source": "lobsters",
+    "url": "https://sofiabelen.github.io/projects/visualizing-rusts-vtables-how-dyn-trait-works-in-memory/",
+    "title": "Visualizing Rust's Vtables: How dyn Trait Works In Memory"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://randomascii.wordpress.com/2015/01/19/knowing-where-to-type-zero/",
+    "title": "Knowing Where to Type ‘Zero’ (2015)"
+  },
+  {
+    "source": "lobsters",
     "url": "https://purplesyringa.moe/blog/guest/the-nx-bit-is-not-just-about-security/",
     "title": "The NX bit is not just about security"
   },
@@ -91,6 +111,11 @@
   },
   {
     "source": "lobsters",
+    "url": "https://pradyun.net/blog/reverse_engineering.html",
+    "title": "Reverse Engineering a Chip (or well, a GDS)"
+  },
+  {
+    "source": "lobsters",
     "url": "https://gmcgoldr.github.io/2026/09/04/llm-next-token-predictors.html",
     "title": "Stop Thinking of LLMs as Next-Token Predictors"
   },
@@ -98,20 +123,5 @@
     "source": "lobsters",
     "url": "https://eighty-twenty.org/2026/09/04/smolts",
     "title": "smolts: a pedagogical IDE for a teaching language"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://jyn.dev/simple-is-not-the-same-as-small/",
-    "title": "simple is not small"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://lemire.me/blog/2026/08/29/the-new-go-json-api-twice-as-fast-or-1-5x-slower/",
-    "title": "The new Go JSON API: twice as fast, or 1.5x slower?"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://pradyun.net/blog/reverse_engineering.html",
-    "title": "Reverse Engineering a Chip (or well, a GDS)"
   }
 ]
