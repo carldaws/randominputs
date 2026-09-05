@@ -1,8 +1,18 @@
 [
   {
     "source": "hn",
+    "url": "https://terrytao.wordpress.com/2014/02/04/finite-time-blowup-for-an-averaged-three-dimensional-navier-stokes-equation/",
+    "title": "Finite time blowup for an averaged three-dimensional Navier-Stokes equation"
+  },
+  {
+    "source": "hn",
     "url": "https://devquasar.com/hardware/the-60-gaming-pc-amd-bc-250/",
     "title": "The \"$60 Gaming PC\" – AMD BC-250 (2025)"
+  },
+  {
+    "source": "hn",
+    "url": "https://sofiabelen.github.io/projects/visualizing-rusts-vtables-how-dyn-trait-works-in-memory/",
+    "title": "Visualizing Rust's Vtables: How dyn Trait Works In Memory"
   },
   {
     "source": "hn",
@@ -16,28 +26,28 @@
   },
   {
     "source": "hn",
+    "url": "https://www.gregegan.net/SCIENCE/Steffen/Steffen.html",
+    "title": "Steffen's Polyhedron"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.defensenews.com/industry/techwatch/2026/09/04/space-industry-lacks-workers-needed-to-rebuild-satellites-lost-in-war-report-says/",
+    "title": "Space industry lacks workers needed to rebuild satellites lost in war: report"
+  },
+  {
+    "source": "hn",
     "url": "https://wikiworkersunited.org/announcements/2026-09-04-us-wikimedia-foundation-workers-overwhelmingly-vote-to-form-union-with-cwa/",
     "title": "Wikimedia Foundation Workers Overwhelmingly Vote to Form Union with CWA"
   },
   {
     "source": "hn",
-    "url": "https://sofiabelen.github.io/projects/visualizing-rusts-vtables-how-dyn-trait-works-in-memory/",
-    "title": "Visualizing Rust's Vtables: How dyn Trait Works In Memory"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.gregegan.net/SCIENCE/Steffen/Steffen.html",
-    "title": "Steffen's Polyhedron – Greg Egan"
+    "url": "https://buttondown.com/suchbadtechads/archive/spartan-and-the-mime/",
+    "title": "A bizarre Commodore 64 peripheral, a mime, and some pretty bad ads"
   },
   {
     "source": "hn",
     "url": "https://practical.engineering/blog/2026/9/1/stopping-the-unstoppable",
     "title": "Stopping the Unstoppable: When an unstoppable force meets a dashpot snubber"
-  },
-  {
-    "source": "hn",
-    "url": "https://buttondown.com/suchbadtechads/archive/spartan-and-the-mime/",
-    "title": "A bizarre Commodore 64 peripheral, a mime, and some pretty bad ads"
   },
   {
     "source": "hn",
@@ -51,18 +61,8 @@
   },
   {
     "source": "hn",
-    "url": "https://engineering.atspotify.com/2026/9/portal-by-spotify-cut-my-claude-code-token-usage-by-90",
-    "title": "Portal by Spotify cut my Claude Code token usage by 90%"
-  },
-  {
-    "source": "hn",
     "url": "https://opentrailpaper.com",
     "title": "Show HN: Open-Source eInk Bike Computer"
-  },
-  {
-    "source": "hn",
-    "url": "https://uutils.org/blog/2026-08-error-diagnostics/",
-    "title": "Pointing at the error: compiler-style diagnostics in uutils coreutils"
   },
   {
     "source": "lobsters",
@@ -71,13 +71,18 @@
   },
   {
     "source": "lobsters",
-    "url": "https://blog.michielborkent.nl/babashka-ffi.html",
-    "title": "Babashka 1.13.220 gets FFI"
+    "url": "https://uutils.org/blog/2026-08-error-diagnostics/",
+    "title": "Pointing at the error: compiler-style diagnostics in uutils coreutils"
   },
   {
     "source": "lobsters",
-    "url": "https://xenaproject.wordpress.com/2026/09/04/flt-anthropic-has-beaten-me-to-it/",
-    "title": "FLT: Anthropic has beaten me to it"
+    "url": "https://bastiangruber.ca/posts/it-matters-who-teaches-you/",
+    "title": "It matters who teaches you"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://blog.michielborkent.nl/babashka-ffi.html",
+    "title": "Babashka 1.13.220 gets FFI"
   },
   {
     "source": "lobsters",
@@ -86,8 +91,18 @@
   },
   {
     "source": "lobsters",
+    "url": "https://xenaproject.wordpress.com/2026/09/04/flt-anthropic-has-beaten-me-to-it/",
+    "title": "FLT: Anthropic has beaten me to it"
+  },
+  {
+    "source": "lobsters",
     "url": "https://jonathan-frere.com/posts/anatomy-of-a-test/",
     "title": "Anatomy of a Test"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://www.sandordargo.com/blog/2026/09/02/cpp26-hive",
+    "title": "C++26: std::hive"
   },
   {
     "source": "lobsters",
@@ -100,13 +115,53 @@
     "title": ".name Termination"
   },
   {
-    "source": "lobsters",
-    "url": "https://bastiangruber.ca/posts/it-matters-who-teaches-you/",
-    "title": "It matters who teaches you"
+    "source": "pinboard",
+    "url": "https://danluu.com/zitron/",
+    "title": "How accurate have Ed Zitron's AI skeptic predictions been?"
   },
   {
-    "source": "lobsters",
-    "url": "https://purplesyringa.moe/blog/guest/the-nx-bit-is-not-just-about-security/",
-    "title": "The NX bit is not just about security"
+    "source": "pinboard",
+    "url": "https://kciter.so/posts/the-expensive-main-thread/en/",
+    "title": "The Browser's Main Thread Is Expensive | kciter.so"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://notetoself.studio/post/the-joy-of-3d-printing/",
+    "title": "The joy of making stuff with a 3D printer"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://drewdevault.com/weird-guys/",
+    "title": "Weird little guys of FOSS"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://ambientcss.vercel.app/",
+    "title": "Ambient CSS — a physics-based lighting system for CSS"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://krebsonsecurity.com/2026/09/fbi-probes-service-selling-153m-drivers-licenses/",
+    "title": "[no title]"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://aiandeducation.mit.edu/report/",
+    "title": "Report – AI and Education"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://tangleml.com/",
+    "title": "Visual ML Pipeline Editor | Tangle"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://bayareacurrent.com/theres-a-lot-of-cleaning-up-poop-a-depot-worker-on-the-human-labor-behind-waymos-autonomous-vehicles/",
+    "title": "Cleaning Up Poop: The Human Labor Behind Waymo"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://simonwillison.net/2026/Sep/3/gpt6-astra/",
+    "title": "GPT‑6 Astra"
   }
 ]
