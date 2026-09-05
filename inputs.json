@@ -2,7 +2,7 @@
   {
     "source": "hn",
     "url": "https://terrytao.wordpress.com/2014/02/04/finite-time-blowup-for-an-averaged-three-dimensional-navier-stokes-equation/",
-    "title": "Finite time blowup for an averaged three-dimensional Navier-Stokes equation"
+    "title": "Finite time blowup for an averaged three-dimensional Navier-Stokes equation (2014)"
   },
   {
     "source": "hn",
@@ -11,8 +11,18 @@
   },
   {
     "source": "hn",
+    "url": "https://victoriametrics.com/blog/go-swiss-table-map/index.html",
+    "title": "How Swiss tables work in Go built-in map"
+  },
+  {
+    "source": "hn",
     "url": "https://sofiabelen.github.io/projects/visualizing-rusts-vtables-how-dyn-trait-works-in-memory/",
     "title": "Visualizing Rust's Vtables: How dyn Trait Works In Memory"
+  },
+  {
+    "source": "hn",
+    "url": "https://michaelteter.com/flyby.html",
+    "title": "Show HN: Fly By – retro biplane flying game"
   },
   {
     "source": "hn",
@@ -26,18 +36,23 @@
   },
   {
     "source": "hn",
+    "url": "https://practical.engineering/blog/2026/9/1/stopping-the-unstoppable",
+    "title": "Stopping the Unstoppable: When an unstoppable force meets a dashpot snubber"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.wsj.com/business/diamond-mines-are-closing-and-south-africans-have-few-alternatives-fa3b8cbf",
+    "title": "South African diamond mines are closing due to weak sales and lab-grown stones"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.techpolicy.press/americas-two-largest-school-districts-impose-ai-moratoriums/",
+    "title": "America's Two Largest School Districts Impose AI Moratoriums"
+  },
+  {
+    "source": "hn",
     "url": "https://www.gregegan.net/SCIENCE/Steffen/Steffen.html",
     "title": "Steffen's Polyhedron"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.defensenews.com/industry/techwatch/2026/09/04/space-industry-lacks-workers-needed-to-rebuild-satellites-lost-in-war-report-says/",
-    "title": "Space industry lacks workers needed to rebuild satellites lost in war: report"
-  },
-  {
-    "source": "hn",
-    "url": "https://wikiworkersunited.org/announcements/2026-09-04-us-wikimedia-foundation-workers-overwhelmingly-vote-to-form-union-with-cwa/",
-    "title": "Wikimedia Foundation Workers Overwhelmingly Vote to Form Union with CWA"
   },
   {
     "source": "hn",
@@ -46,13 +61,8 @@
   },
   {
     "source": "hn",
-    "url": "https://practical.engineering/blog/2026/9/1/stopping-the-unstoppable",
-    "title": "Stopping the Unstoppable: When an unstoppable force meets a dashpot snubber"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.nationalgeographic.com/animals/article/falcons-migration-angola-falcopolis",
-    "title": "A Million Falcons Went Missing. Here’s How They Were Found"
+    "url": "https://wikiworkersunited.org/announcements/2026-09-04-us-wikimedia-foundation-workers-overwhelmingly-vote-to-form-union-with-cwa/",
+    "title": "Wikimedia Foundation Workers Overwhelmingly Vote to Form Union with CWA"
   },
   {
     "source": "hn",
@@ -61,13 +71,13 @@
   },
   {
     "source": "hn",
-    "url": "https://opentrailpaper.com",
-    "title": "Show HN: Open-Source eInk Bike Computer"
+    "url": "https://www.nationalgeographic.com/animals/article/falcons-migration-angola-falcopolis",
+    "title": "A Million Falcons Went Missing. Here’s How They Were Found"
   },
   {
     "source": "lobsters",
-    "url": "https://randomascii.wordpress.com/2015/01/19/knowing-where-to-type-zero/",
-    "title": "Knowing Where to Type ‘Zero’ (2015)"
+    "url": "https://bastiangruber.ca/posts/it-matters-who-teaches-you/",
+    "title": "It matters who teaches you"
   },
   {
     "source": "lobsters",
@@ -76,8 +86,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://bastiangruber.ca/posts/it-matters-who-teaches-you/",
-    "title": "It matters who teaches you"
+    "url": "https://randomascii.wordpress.com/2015/01/19/knowing-where-to-type-zero/",
+    "title": "Knowing Where to Type ‘Zero’ (2015)"
   },
   {
     "source": "lobsters",
@@ -96,8 +106,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://jonathan-frere.com/posts/anatomy-of-a-test/",
-    "title": "Anatomy of a Test"
+    "url": "https://bcantrill.dtrace.org/2026/09/05/the-revolt-of-the-reader/",
+    "title": "The revolt of the reader"
   },
   {
     "source": "lobsters",
@@ -106,13 +116,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://jank-lang.org/blog/2026-09-04-better-and-better/",
-    "title": "jank reimagines C++ errors and gets an official native package repo"
+    "url": "https://jonathan-frere.com/posts/anatomy-of-a-test/",
+    "title": "Anatomy of a Test"
   },
   {
     "source": "lobsters",
-    "url": "https://neil.fraser.name/news/2026/09/03/",
-    "title": ".name Termination"
+    "url": "https://jank-lang.org/blog/2026-09-04-better-and-better/",
+    "title": "jank reimagines C++ errors and gets an official native package repo"
   },
   {
     "source": "pinboard",
@@ -153,6 +163,11 @@
     "source": "pinboard",
     "url": "https://tangleml.com/",
     "title": "Visual ML Pipeline Editor | Tangle"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://neil.fraser.name/news/2026/09/03/",
+    "title": "Neil Fraser: News: .name Termination"
   },
   {
     "source": "pinboard",
