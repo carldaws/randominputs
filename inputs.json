@@ -1,33 +1,13 @@
 [
   {
     "source": "hn",
-    "url": "https://terrytao.wordpress.com/2014/02/04/finite-time-blowup-for-an-averaged-three-dimensional-navier-stokes-equation/",
-    "title": "Finite time blowup for an averaged three-dimensional Navier-Stokes equation (2014)"
-  },
-  {
-    "source": "hn",
     "url": "https://cloudinabottle.org/blog/launch-post",
     "title": "Cloud in a Bottle: making self-hosting accessible to everyone"
   },
   {
     "source": "hn",
-    "url": "https://devquasar.com/hardware/the-60-gaming-pc-amd-bc-250/",
-    "title": "The \"$60 Gaming PC\" – AMD BC-250 (2025)"
-  },
-  {
-    "source": "hn",
-    "url": "https://victoriametrics.com/blog/go-swiss-table-map/index.html",
-    "title": "How Swiss tables work in Go built-in map"
-  },
-  {
-    "source": "hn",
-    "url": "https://sofiabelen.github.io/projects/visualizing-rusts-vtables-how-dyn-trait-works-in-memory/",
-    "title": "Visualizing Rust's Vtables: How dyn Trait Works In Memory"
-  },
-  {
-    "source": "hn",
-    "url": "https://collusion.wiki/",
-    "title": "Discovery of a new OpenAI agent message board"
+    "url": "https://openai.robocurve.org/gpt-6-astra/",
+    "title": "GPT-6 Astra on robot arms"
   },
   {
     "source": "hn",
@@ -36,8 +16,38 @@
   },
   {
     "source": "hn",
-    "url": "https://www.techpolicy.press/americas-two-largest-school-districts-impose-ai-moratoriums/",
-    "title": "America's two largest school districts impose AI moratoriums"
+    "url": "http://miod.online.fr/software/openbsd/stories/smd.html",
+    "title": "OpenBSD Stories: Strange Medieval Devices"
+  },
+  {
+    "source": "hn",
+    "url": "https://lapcatsoftware.com/articles/2026/9/1.html",
+    "title": "Chrome again exempts Google from user site data settings"
+  },
+  {
+    "source": "hn",
+    "url": "https://devquasar.com/hardware/the-60-gaming-pc-amd-bc-250/",
+    "title": "The \"$60 Gaming PC\" – AMD BC-250 (2025)"
+  },
+  {
+    "source": "hn",
+    "url": "https://collusion.wiki/",
+    "title": "Discovery of a new OpenAI agent message board"
+  },
+  {
+    "source": "hn",
+    "url": "https://mm-dev.rocks/series/recursecenter.return/",
+    "title": "RecurseCenter.return()"
+  },
+  {
+    "source": "hn",
+    "url": "https://sofiabelen.github.io/projects/visualizing-rusts-vtables-how-dyn-trait-works-in-memory/",
+    "title": "Visualizing Rust's Vtables: How dyn Trait Works In Memory"
+  },
+  {
+    "source": "hn",
+    "url": "https://victoriametrics.com/blog/go-swiss-table-map/index.html",
+    "title": "How Swiss tables work in Go built-in map"
   },
   {
     "source": "hn",
@@ -46,8 +56,8 @@
   },
   {
     "source": "hn",
-    "url": "https://www.wsj.com/business/diamond-mines-are-closing-and-south-africans-have-few-alternatives-fa3b8cbf",
-    "title": "South African diamond mines are closing due to weak sales and lab-grown stones"
+    "url": "https://terrytao.wordpress.com/2014/02/04/finite-time-blowup-for-an-averaged-three-dimensional-navier-stokes-equation/",
+    "title": "Finite time blowup for an averaged three-dimensional Navier-Stokes equation (2014)"
   },
   {
     "source": "hn",
@@ -61,8 +71,8 @@
   },
   {
     "source": "hn",
-    "url": "https://practical.engineering/blog/2026/9/1/stopping-the-unstoppable",
-    "title": "Stopping the Unstoppable: When an unstoppable force meets a dashpot snubber"
+    "url": "https://www.circuitvalley.com/2026/08/chc5-open-camera-sensor-comparison-specification.html",
+    "title": "CHC5: Open Camera System – Image Sensor Specification Comparison"
   },
   {
     "source": "hn",
@@ -71,13 +81,8 @@
   },
   {
     "source": "hn",
-    "url": "https://buttondown.com/suchbadtechads/archive/spartan-and-the-mime/",
-    "title": "A bizarre Commodore 64 peripheral, a mime, and some pretty bad ads"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.gregegan.net/SCIENCE/Steffen/Steffen.html",
-    "title": "Steffen's Polyhedron"
+    "url": "https://practical.engineering/blog/2026/9/1/stopping-the-unstoppable",
+    "title": "Stopping the Unstoppable: When an unstoppable force meets a dashpot snubber"
   },
   {
     "source": "lobsters",
@@ -86,13 +91,33 @@
   },
   {
     "source": "lobsters",
+    "url": "https://asahilinux.org/2026/09/m2-episode-1/",
+    "title": "M2: Episode 1 (or, Asahi Linux on M3)"
+  },
+  {
+    "source": "lobsters",
     "url": "https://uutils.org/blog/2026-08-error-diagnostics/",
     "title": "Pointing at the error: compiler-style diagnostics in uutils coreutils"
   },
   {
     "source": "lobsters",
+    "url": "https://noteflakes.com/articles/2026-09-05-beyond-orms",
+    "title": "Beyond ORMs"
+  },
+  {
+    "source": "lobsters",
     "url": "https://randomascii.wordpress.com/2015/01/19/knowing-where-to-type-zero/",
     "title": "Knowing Where to Type ‘Zero’ (2015)"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://jonathan-frere.com/posts/anatomy-of-a-test/",
+    "title": "Anatomy of a Test"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://zachkehs.com/blog/theres_no_limit_to_how_bad_code_can_get/",
+    "title": "There's No Limit to How Bad Code Can Get"
   },
   {
     "source": "lobsters",
@@ -113,16 +138,6 @@
     "source": "lobsters",
     "url": "https://www.sandordargo.com/blog/2026/09/02/cpp26-hive",
     "title": "C++26: std::hive"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://jonathan-frere.com/posts/anatomy-of-a-test/",
-    "title": "Anatomy of a Test"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://jank-lang.org/blog/2026-09-04-better-and-better/",
-    "title": "jank reimagines C++ errors and gets an official native package repo"
   },
   {
     "source": "pinboard",
@@ -153,6 +168,11 @@
     "source": "pinboard",
     "url": "https://krebsonsecurity.com/2026/09/fbi-probes-service-selling-153m-drivers-licenses/",
     "title": "[no title]"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://aiandeducation.mit.edu/report/",
+    "title": "Report – AI and Education"
   },
   {
     "source": "pinboard",
