@@ -2,7 +2,27 @@
   {
     "source": "hn",
     "url": "https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open/",
-    "title": "Intellectual Fly Is Open"
+    "title": "Intellectual Fly Is Open (2025)"
+  },
+  {
+    "source": "hn",
+    "url": "https://keepitfree.ai/announcements/a/i-shuts-down-stay-human/",
+    "title": "A/I shuts down – Stay human"
+  },
+  {
+    "source": "hn",
+    "url": "https://albertapolitics.ca/2026/09/ucp-slaps-punitive-tax-on-solar-panels-opening-new-front-in-its-war-on-renewable-energy/",
+    "title": "Alberta (Canada) slaps punitive tax on solar panels"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.lesswrong.com/posts/RCYF2rW8wgusidZk7/what-is-neuralese-and-why-is-it-bad",
+    "title": "What is Nueralese and Why is it Bad"
+  },
+  {
+    "source": "hn",
+    "url": "https://beza1e1.tuxen.de/ai_feelings.html",
+    "title": "I Feel about AI"
   },
   {
     "source": "hn",
@@ -11,8 +31,13 @@
   },
   {
     "source": "hn",
-    "url": "https://4d-chess.pages.dev/",
-    "title": "I asked astra to make playable 4D chess"
+    "url": "https://blog.netbsd.org/tnf/entry/netbsd_9_5_released_and",
+    "title": "NetBSD 9.5 released and EOL for NetBSD-9"
+  },
+  {
+    "source": "hn",
+    "url": "https://kaeruct.github.io/posts/2026/09/06/conquering-entropy-cultivating-trust/",
+    "title": "Cultivating Trust"
   },
   {
     "source": "hn",
@@ -26,13 +51,8 @@
   },
   {
     "source": "hn",
-    "url": "https://bergie.iki.fi/blog/eupl/",
-    "title": "I Changed My License"
-  },
-  {
-    "source": "hn",
-    "url": "https://vermaden.wordpress.com/2026/09/06/amd-based-freebsd-desktop-reloaded/",
-    "title": "AMD Based FreeBSD Desktop Reloaded"
+    "url": "https://shukla.io/quantum-oracle-engineering/",
+    "title": "I'm teaching an introductory 12 week course on Quantum Oracle Engineering"
   },
   {
     "source": "hn",
@@ -46,48 +66,8 @@
   },
   {
     "source": "hn",
-    "url": "https://lareviewofbooks.org/article/data-empire-roopika-risam-information-organize-control-dominate/",
-    "title": "The Empire of Information"
-  },
-  {
-    "source": "hn",
-    "url": "http://miod.online.fr/software/openbsd/stories/smd.html",
-    "title": "OpenBSD Stories: Strange Medieval Devices"
-  },
-  {
-    "source": "hn",
-    "url": "https://devquasar.com/hardware/the-60-gaming-pc-amd-bc-250/",
-    "title": "The \"$60 Gaming PC\" – AMD BC-250 (2025)"
-  },
-  {
-    "source": "hn",
-    "url": "https://lapcatsoftware.com/articles/2026/9/1.html",
-    "title": "Chrome again exempts Google from user site data settings"
-  },
-  {
-    "source": "hn",
-    "url": "https://olimex.wordpress.com/2026/09/04/new-open-source-hardware-variant-of-neo6502-now-includes-keyboard-4-usb-hosts-uext-power-switch-and-usb-c-for-power-and-programming-all-in-one-keyboard-body/",
-    "title": "New all in one 6502 computer (Neo6502kbd)"
-  },
-  {
-    "source": "hn",
-    "url": "https://sofiabelen.github.io/projects/visualizing-rusts-vtables-how-dyn-trait-works-in-memory/",
-    "title": "Visualizing Rust's Vtables: How dyn Trait Works In Memory"
-  },
-  {
-    "source": "hn",
-    "url": "https://sled.neocities.org/",
-    "title": "Schemy Lisp En DOS"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.futilitycloset.com/2026/09/01/small-world-20/",
-    "title": "Topologist's Map of the World"
-  },
-  {
-    "source": "hn",
-    "url": "https://victoriametrics.com/blog/go-swiss-table-map/index.html",
-    "title": "How Swiss tables work in Go built-in map"
+    "url": "https://vermaden.wordpress.com/2026/09/06/amd-based-freebsd-desktop-reloaded/",
+    "title": "AMD Based FreeBSD Desktop Reloaded"
   },
   {
     "source": "lobsters",
@@ -101,18 +81,28 @@
   },
   {
     "source": "lobsters",
-    "url": "https://asahilinux.org/2026/09/m2-episode-1/",
-    "title": "M2: Episode 1 (or, Asahi Linux on M3)"
-  },
-  {
-    "source": "lobsters",
     "url": "https://zachkehs.com/blog/theres_no_limit_to_how_bad_code_can_get/",
     "title": "There's No Limit to How Bad Code Can Get"
   },
   {
     "source": "lobsters",
+    "url": "https://asahilinux.org/2026/09/m2-episode-1/",
+    "title": "M2: Episode 1 (or, Asahi Linux on M3)"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://meanmicio.org/2026/09/06/netbsd-11-from-scratch/",
+    "title": "NetBSD 11 from scratch"
+  },
+  {
+    "source": "lobsters",
     "url": "https://bastiangruber.ca/posts/it-matters-who-teaches-you/",
     "title": "It matters who teaches you"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://a.l3x.in/blog/my-travel-setup",
+    "title": "Who said a tech addict can't be comfortable far from home?"
   },
   {
     "source": "lobsters",
@@ -131,23 +121,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://a.l3x.in/blog/my-travel-setup",
-    "title": "Who said a tech addict can't be comfortable far from home?"
+    "url": "https://sofiabelen.github.io/projects/visualizing-rusts-vtables-how-dyn-trait-works-in-memory/",
+    "title": "Visualizing Rust's Vtables: How dyn Trait Works In Memory"
   },
   {
     "source": "lobsters",
     "url": "https://venko.blog/articles/forth-brainfuck",
     "title": "Building a Brainfuck DSL in Forth using code generation"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://jonathan-frere.com/posts/anatomy-of-a-test/",
-    "title": "Anatomy of a Test"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://randomascii.wordpress.com/2015/01/19/knowing-where-to-type-zero/",
-    "title": "Knowing Where to Type ‘Zero’ (2015)"
   },
   {
     "source": "pinboard",
