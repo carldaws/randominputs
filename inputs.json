@@ -1,8 +1,8 @@
 [
   {
     "source": "hn",
-    "url": "https://a.wholelottanothing.org/the-car-industry-a-b-tested-selling-the-same-car-with-and-without-carplay-and-the-results-are-not-shocking/",
-    "title": "The car industry A/B tested selling a car with and without CarPlay"
+    "url": "https://anubis.techaro.lol/blog/2026/anubis-wasm/",
+    "title": "It took a year to ship WebAssembly in Anubis"
   },
   {
     "source": "hn",
@@ -16,8 +16,13 @@
   },
   {
     "source": "hn",
-    "url": "https://anubis.techaro.lol/blog/2026/anubis-wasm/",
-    "title": "It took a year to ship WebAssembly in Anubis"
+    "url": "https://getvodforge.com/",
+    "title": "Show HN: VODForge – a free local desktop UI for YouTube video/playlist downloads"
+  },
+  {
+    "source": "hn",
+    "url": "https://asahilinux.org/2026/09/m2-episode-1/",
+    "title": "Asahi Linux on M3"
   },
   {
     "source": "hn",
@@ -26,18 +31,18 @@
   },
   {
     "source": "hn",
-    "url": "https://www.vidact.dev/",
-    "title": "Vidact – a compiler that turns React into direct DOM operations"
-  },
-  {
-    "source": "hn",
     "url": "https://news.wsu.edu/press-release/2026/08/20/researchers-develop-electronic-skin-for-prosthetics-to-sense-temperature-and-pressure/",
     "title": "Electronic skin for prosthetics to sense temperature and pressure"
   },
   {
     "source": "hn",
-    "url": "https://getvodforge.com/",
-    "title": "Show HN: VODForge – a free local desktop UI for YouTube video/playlist downloads"
+    "url": "https://www.vidact.dev/",
+    "title": "Vidact – a compiler that turns React into direct DOM operations"
+  },
+  {
+    "source": "hn",
+    "url": "https://blog.glazer.ee/posts/converting-cronos/",
+    "title": "Reverse engineering the storage format for an undocumented database"
   },
   {
     "source": "hn",
@@ -46,18 +51,28 @@
   },
   {
     "source": "hn",
-    "url": "https://bcantrill.dtrace.org/2026/09/05/the-revolt-of-the-reader/",
-    "title": "The revolt of the reader"
+    "url": "https://a.wholelottanothing.org/the-car-industry-a-b-tested-selling-the-same-car-with-and-without-carplay-and-the-results-are-not-shocking/",
+    "title": "The car industry A/B tested selling a car with and without CarPlay"
   },
   {
     "source": "hn",
-    "url": "https://cloudinabottle.org/blog/launch-post",
-    "title": "Cloud in a Bottle: making self-hosting accessible to everyone"
+    "url": "https://d2lang.com/blog/d2-non-profit/",
+    "title": "D2 Is Non-Profit"
+  },
+  {
+    "source": "hn",
+    "url": "https://shukla.io/quantum-oracle-engineering/",
+    "title": "I'm teaching an introductory 12 week course on Quantum Oracle Engineering"
   },
   {
     "source": "lobsters",
     "url": "https://michael.stapelberg.ch/posts/2026-09-06-dcs-fast-turbopfor-go-simd/",
     "title": "Debian Code Search: Fast TurboPFor with Go SIMD"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://bcantrill.dtrace.org/2026/09/05/the-revolt-of-the-reader/",
+    "title": "The revolt of the reader"
   },
   {
     "source": "lobsters",
@@ -81,11 +96,6 @@
   },
   {
     "source": "lobsters",
-    "url": "https://asahilinux.org/2026/09/m2-episode-1/",
-    "title": "M2: Episode 1 (or, Asahi Linux on M3)"
-  },
-  {
-    "source": "lobsters",
     "url": "https://a.l3x.in/blog/my-travel-setup",
     "title": "Who said a tech addict can't be comfortable far from home?"
   },
@@ -101,13 +111,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://noteflakes.com/articles/2026-09-05-beyond-orms",
-    "title": "Beyond ORMs"
+    "url": "https://retrododo.com/see-windows-ce-running-on-the-n64/",
+    "title": "See Windows CE Running On The N64"
   },
   {
     "source": "lobsters",
-    "url": "https://retrododo.com/see-windows-ce-running-on-the-n64/",
-    "title": "See Windows CE Running On The N64"
+    "url": "https://noteflakes.com/articles/2026-09-05-beyond-orms",
+    "title": "Beyond ORMs"
   },
   {
     "source": "lobsters",
