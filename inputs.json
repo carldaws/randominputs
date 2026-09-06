@@ -1,8 +1,8 @@
 [
   {
     "source": "hn",
-    "url": "https://blog.netbsd.org/tnf/entry/netbsd_9_5_released_and",
-    "title": "NetBSD 9.5 released and EOL for NetBSD-9"
+    "url": "https://a.wholelottanothing.org/the-car-industry-a-b-tested-selling-the-same-car-with-and-without-carplay-and-the-results-are-not-shocking/",
+    "title": "The car industry A/B tested selling a car with and without CarPlay"
   },
   {
     "source": "hn",
@@ -11,18 +11,33 @@
   },
   {
     "source": "hn",
+    "url": "https://blog.netbsd.org/tnf/entry/netbsd_9_5_released_and",
+    "title": "NetBSD 9.5 released and EOL for NetBSD-9"
+  },
+  {
+    "source": "hn",
+    "url": "https://anubis.techaro.lol/blog/2026/anubis-wasm/",
+    "title": "It took a year to ship WebAssembly in Anubis"
+  },
+  {
+    "source": "hn",
     "url": "https://keepitfree.ai/announcements/a/i-shuts-down-stay-human/",
     "title": "A/I shuts down – Stay human"
   },
   {
     "source": "hn",
-    "url": "https://kuber.studio/blog/Reflections/Recreating-Minecraft-is-Not-a-Benchmark",
-    "title": "Recreating Minecraft Is Not a Benchmark"
+    "url": "https://www.vidact.dev/",
+    "title": "Vidact – a compiler that turns React into direct DOM operations"
   },
   {
     "source": "hn",
     "url": "https://news.wsu.edu/press-release/2026/08/20/researchers-develop-electronic-skin-for-prosthetics-to-sense-temperature-and-pressure/",
     "title": "Electronic skin for prosthetics to sense temperature and pressure"
+  },
+  {
+    "source": "hn",
+    "url": "https://getvodforge.com/",
+    "title": "Show HN: VODForge – a free local desktop UI for YouTube video/playlist downloads"
   },
   {
     "source": "hn",
@@ -40,34 +55,24 @@
     "title": "Cloud in a Bottle: making self-hosting accessible to everyone"
   },
   {
-    "source": "hn",
-    "url": "https://shukla.io/quantum-oracle-engineering/",
-    "title": "I'm teaching an introductory 12 week course on Quantum Oracle Engineering"
-  },
-  {
-    "source": "hn",
-    "url": "https://collusion.wiki/",
-    "title": "Discovery of a new OpenAI agent message board"
-  },
-  {
-    "source": "hn",
-    "url": "https://cceckman.com/writing/household-laser-cuts/",
-    "title": "Household Laser Cuts"
-  },
-  {
     "source": "lobsters",
     "url": "https://michael.stapelberg.ch/posts/2026-09-06-dcs-fast-turbopfor-go-simd/",
     "title": "Debian Code Search: Fast TurboPFor with Go SIMD"
   },
   {
     "source": "lobsters",
-    "url": "https://fzakaria.com/2026/09/04/any-nix-package-live-in-your-browser",
-    "title": "Any Nix package, live in your browser"
+    "url": "https://aleyan.com/projects/python-iceberg/",
+    "title": "Python Iceberg"
   },
   {
     "source": "lobsters",
     "url": "https://meanmicio.org/2026/09/06/netbsd-11-from-scratch/",
     "title": "NetBSD 11 from scratch"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://fzakaria.com/2026/09/04/any-nix-package-live-in-your-browser",
+    "title": "Any Nix package, live in your browser"
   },
   {
     "source": "lobsters",
@@ -91,6 +96,11 @@
   },
   {
     "source": "lobsters",
+    "url": "https://martinalderson.com/posts/ai-safety-vs-security/",
+    "title": "Have the frontier labs mixed up AI safety and security?"
+  },
+  {
+    "source": "lobsters",
     "url": "https://noteflakes.com/articles/2026-09-05-beyond-orms",
     "title": "Beyond ORMs"
   },
@@ -105,8 +115,68 @@
     "title": "Pointing at the error: compiler-style diagnostics in uutils coreutils"
   },
   {
-    "source": "lobsters",
-    "url": "https://venko.blog/articles/forth-brainfuck",
-    "title": "Building a Brainfuck DSL in Forth using code generation"
+    "source": "pinboard",
+    "url": "https://collusion.wiki/",
+    "title": "Discovery of a new OpenAI agent message board"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://neil.fraser.name/news/2026/09/03/",
+    "title": "Neil Fraser: News: .name Termination"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://kciter.so/posts/the-expensive-main-thread/en/",
+    "title": "The Browser's Main Thread Is Expensive | kciter.so"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://krebsonsecurity.com/2026/09/fbi-probes-service-selling-153m-drivers-licenses/",
+    "title": "[no title]"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://danluu.com/zitron/",
+    "title": "How accurate have Ed Zitron's AI skeptic predictions been?"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://simonwillison.net/2026/Sep/3/gpt6-astra/",
+    "title": "GPT‑6 Astra"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://drewdevault.com/weird-guys/",
+    "title": "Weird little guys of FOSS"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.newyorker.com/culture/life-and-letters/gloria-steinems-final-essay?cndid=66114350",
+    "title": "Gloria Steinem’s Final Essay | The New Yorker"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://gwern.net/xanadu",
+    "title": "Project Xanadu: Even More Hindsight"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://nolanlawson.com/2026/08/23/the-asteroid-currently-hitting-frontend-web-development/",
+    "title": "The asteroid currently hitting frontend web development | Read the Tea Leaves"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://ambientcss.vercel.app/",
+    "title": "Ambient CSS — a physics-based lighting system for CSS"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.charlespetzold.com/blog/2026/09/Can-Guitar-Frets-Perform-Multiplication.html",
+    "title": "Charles Petzold: Can Guitar Frets Perform Multiplication?"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://hawksley.dev/blog/get-free-arpa-domain",
+    "title": "How to get a free .arpa domain | Ethan Hawksley"
   }
 ]
