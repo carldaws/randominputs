@@ -6,18 +6,28 @@
   },
   {
     "source": "hn",
-    "url": "https://openai.robocurve.org/gpt-6-astra/",
-    "title": "GPT-6 Astra on robot arms"
-  },
-  {
-    "source": "hn",
     "url": "https://bcantrill.dtrace.org/2026/09/05/the-revolt-of-the-reader/",
     "title": "The revolt of the reader"
   },
   {
     "source": "hn",
+    "url": "https://www.motherjones.com/politics/2026/09/drinking-water-mississippi-lawsuit/",
+    "title": "You Don't Have a Right to Safe Drinking Water, US Court Rules"
+  },
+  {
+    "source": "hn",
     "url": "http://miod.online.fr/software/openbsd/stories/smd.html",
     "title": "OpenBSD Stories: Strange Medieval Devices"
+  },
+  {
+    "source": "hn",
+    "url": "https://vermaden.wordpress.com/2026/09/06/amd-based-freebsd-desktop-reloaded/",
+    "title": "AMD Based FreeBSD Desktop Reloaded"
+  },
+  {
+    "source": "hn",
+    "url": "https://collusion.wiki/",
+    "title": "Discovery of a new OpenAI agent message board"
   },
   {
     "source": "hn",
@@ -31,13 +41,8 @@
   },
   {
     "source": "hn",
-    "url": "https://collusion.wiki/",
-    "title": "Discovery of a new OpenAI agent message board"
-  },
-  {
-    "source": "hn",
-    "url": "https://mm-dev.rocks/series/recursecenter.return/",
-    "title": "RecurseCenter.return()"
+    "url": "https://blog.archive.org/2026/08/27/a-computer-history-time-capsule/",
+    "title": "A Computer History Time Capsule"
   },
   {
     "source": "hn",
@@ -46,8 +51,8 @@
   },
   {
     "source": "hn",
-    "url": "https://victoriametrics.com/blog/go-swiss-table-map/index.html",
-    "title": "How Swiss tables work in Go built-in map"
+    "url": "https://openai.robocurve.org/gpt-6-astra/",
+    "title": "GPT-6 Astra on robot arms"
   },
   {
     "source": "hn",
@@ -56,38 +61,28 @@
   },
   {
     "source": "hn",
-    "url": "https://terrytao.wordpress.com/2014/02/04/finite-time-blowup-for-an-averaged-three-dimensional-navier-stokes-equation/",
-    "title": "Finite time blowup for an averaged three-dimensional Navier-Stokes equation (2014)"
+    "url": "https://mm-dev.rocks/series/recursecenter.return/",
+    "title": "RecurseCenter.return()"
   },
   {
     "source": "hn",
-    "url": "https://michaelteter.com/flyby.html",
-    "title": "Show HN: Fly By – retro biplane flying game"
+    "url": "https://victoriametrics.com/blog/go-swiss-table-map/index.html",
+    "title": "How Swiss tables work in Go built-in map"
   },
   {
     "source": "hn",
-    "url": "http://terpstrakeyboard.com/",
-    "title": "Terpstra Keyboard"
+    "url": "https://v7.robweychert.com/",
+    "title": "Site Is Closed on Sundays"
   },
   {
     "source": "hn",
-    "url": "https://www.circuitvalley.com/2026/08/chc5-open-camera-sensor-comparison-specification.html",
-    "title": "CHC5: Open Camera System – Image Sensor Specification Comparison"
-  },
-  {
-    "source": "hn",
-    "url": "https://eebench.org/blog/can-ai-design-circuit-boards-yet/",
-    "title": "Can AI design circuit boards yet?"
-  },
-  {
-    "source": "hn",
-    "url": "https://practical.engineering/blog/2026/9/1/stopping-the-unstoppable",
-    "title": "Stopping the Unstoppable: When an unstoppable force meets a dashpot snubber"
+    "url": "https://llogiq.github.io/2026/03/20/case.html",
+    "title": "Matching Puzzle Pieces and Disappointing Benchmarks"
   },
   {
     "source": "lobsters",
-    "url": "https://bastiangruber.ca/posts/it-matters-who-teaches-you/",
-    "title": "It matters who teaches you"
+    "url": "https://michael.stapelberg.ch/posts/2026-09-06-dcs-fast-turbopfor-go-simd/",
+    "title": "Debian Code Search: Fast TurboPFor with Go SIMD"
   },
   {
     "source": "lobsters",
@@ -96,13 +91,28 @@
   },
   {
     "source": "lobsters",
-    "url": "https://uutils.org/blog/2026-08-error-diagnostics/",
-    "title": "Pointing at the error: compiler-style diagnostics in uutils coreutils"
+    "url": "https://bastiangruber.ca/posts/it-matters-who-teaches-you/",
+    "title": "It matters who teaches you"
   },
   {
     "source": "lobsters",
     "url": "https://noteflakes.com/articles/2026-09-05-beyond-orms",
     "title": "Beyond ORMs"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://fzakaria.com/2026/09/04/any-nix-package-live-in-your-browser",
+    "title": "Any Nix package, live in your browser"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://zachkehs.com/blog/theres_no_limit_to_how_bad_code_can_get/",
+    "title": "There's No Limit to How Bad Code Can Get"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://uutils.org/blog/2026-08-error-diagnostics/",
+    "title": "Pointing at the error: compiler-style diagnostics in uutils coreutils"
   },
   {
     "source": "lobsters",
@@ -116,8 +126,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://zachkehs.com/blog/theres_no_limit_to_how_bad_code_can_get/",
-    "title": "There's No Limit to How Bad Code Can Get"
+    "url": "https://vectorware.com/blog/simd-on-gpu/",
+    "title": "Rust SIMD on the GPU"
   },
   {
     "source": "lobsters",
@@ -126,72 +136,7 @@
   },
   {
     "source": "lobsters",
-    "url": "https://vectorware.com/blog/simd-on-gpu/",
-    "title": "Rust SIMD on the GPU"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://xenaproject.wordpress.com/2026/09/04/flt-anthropic-has-beaten-me-to-it/",
-    "title": "FLT: Anthropic has beaten me to it"
-  },
-  {
-    "source": "lobsters",
     "url": "https://www.sandordargo.com/blog/2026/09/02/cpp26-hive",
     "title": "C++26: std::hive"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://danluu.com/zitron/",
-    "title": "How accurate have Ed Zitron's AI skeptic predictions been?"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://kciter.so/posts/the-expensive-main-thread/en/",
-    "title": "The Browser's Main Thread Is Expensive | kciter.so"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://notetoself.studio/post/the-joy-of-3d-printing/",
-    "title": "The joy of making stuff with a 3D printer"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://drewdevault.com/weird-guys/",
-    "title": "Weird little guys of FOSS"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://ambientcss.vercel.app/",
-    "title": "Ambient CSS — a physics-based lighting system for CSS"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://krebsonsecurity.com/2026/09/fbi-probes-service-selling-153m-drivers-licenses/",
-    "title": "[no title]"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://aiandeducation.mit.edu/report/",
-    "title": "Report – AI and Education"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://tangleml.com/",
-    "title": "Visual ML Pipeline Editor | Tangle"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://neil.fraser.name/news/2026/09/03/",
-    "title": "Neil Fraser: News: .name Termination"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://bayareacurrent.com/theres-a-lot-of-cleaning-up-poop-a-depot-worker-on-the-human-labor-behind-waymos-autonomous-vehicles/",
-    "title": "Cleaning Up Poop: The Human Labor Behind Waymo"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://simonwillison.net/2026/Sep/3/gpt6-astra/",
-    "title": "GPT‑6 Astra"
   }
 ]
