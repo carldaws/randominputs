@@ -1,8 +1,13 @@
 [
   {
     "source": "hn",
+    "url": "https://blog.netbsd.org/tnf/entry/netbsd_9_5_released_and",
+    "title": "NetBSD 9.5 released and EOL for NetBSD-9"
+  },
+  {
+    "source": "hn",
     "url": "https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open/",
-    "title": "Intellectual Fly Is Open (2025)"
+    "title": "Your intellectual fly is open (2025)"
   },
   {
     "source": "hn",
@@ -11,18 +16,13 @@
   },
   {
     "source": "hn",
-    "url": "https://albertapolitics.ca/2026/09/ucp-slaps-punitive-tax-on-solar-panels-opening-new-front-in-its-war-on-renewable-energy/",
-    "title": "Alberta (Canada) slaps punitive tax on solar panels"
+    "url": "https://kuber.studio/blog/Reflections/Recreating-Minecraft-is-Not-a-Benchmark",
+    "title": "Recreating Minecraft Is Not a Benchmark"
   },
   {
     "source": "hn",
-    "url": "https://www.lesswrong.com/posts/RCYF2rW8wgusidZk7/what-is-neuralese-and-why-is-it-bad",
-    "title": "What is Nueralese and Why is it Bad"
-  },
-  {
-    "source": "hn",
-    "url": "https://beza1e1.tuxen.de/ai_feelings.html",
-    "title": "I Feel about AI"
+    "url": "https://news.wsu.edu/press-release/2026/08/20/researchers-develop-electronic-skin-for-prosthetics-to-sense-temperature-and-pressure/",
+    "title": "Electronic skin for prosthetics to sense temperature and pressure"
   },
   {
     "source": "hn",
@@ -31,13 +31,8 @@
   },
   {
     "source": "hn",
-    "url": "https://blog.netbsd.org/tnf/entry/netbsd_9_5_released_and",
-    "title": "NetBSD 9.5 released and EOL for NetBSD-9"
-  },
-  {
-    "source": "hn",
-    "url": "https://kaeruct.github.io/posts/2026/09/06/conquering-entropy-cultivating-trust/",
-    "title": "Cultivating Trust"
+    "url": "https://bcantrill.dtrace.org/2026/09/05/the-revolt-of-the-reader/",
+    "title": "The revolt of the reader"
   },
   {
     "source": "hn",
@@ -46,18 +41,8 @@
   },
   {
     "source": "hn",
-    "url": "https://bcantrill.dtrace.org/2026/09/05/the-revolt-of-the-reader/",
-    "title": "The revolt of the reader"
-  },
-  {
-    "source": "hn",
     "url": "https://shukla.io/quantum-oracle-engineering/",
     "title": "I'm teaching an introductory 12 week course on Quantum Oracle Engineering"
-  },
-  {
-    "source": "hn",
-    "url": "https://cceckman.com/writing/household-laser-cuts/",
-    "title": "Household Laser Cuts"
   },
   {
     "source": "hn",
@@ -66,8 +51,8 @@
   },
   {
     "source": "hn",
-    "url": "https://vermaden.wordpress.com/2026/09/06/amd-based-freebsd-desktop-reloaded/",
-    "title": "AMD Based FreeBSD Desktop Reloaded"
+    "url": "https://cceckman.com/writing/household-laser-cuts/",
+    "title": "Household Laser Cuts"
   },
   {
     "source": "lobsters",
@@ -81,6 +66,11 @@
   },
   {
     "source": "lobsters",
+    "url": "https://meanmicio.org/2026/09/06/netbsd-11-from-scratch/",
+    "title": "NetBSD 11 from scratch"
+  },
+  {
+    "source": "lobsters",
     "url": "https://zachkehs.com/blog/theres_no_limit_to_how_bad_code_can_get/",
     "title": "There's No Limit to How Bad Code Can Get"
   },
@@ -91,18 +81,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://meanmicio.org/2026/09/06/netbsd-11-from-scratch/",
-    "title": "NetBSD 11 from scratch"
+    "url": "https://a.l3x.in/blog/my-travel-setup",
+    "title": "Who said a tech addict can't be comfortable far from home?"
   },
   {
     "source": "lobsters",
     "url": "https://bastiangruber.ca/posts/it-matters-who-teaches-you/",
     "title": "It matters who teaches you"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://a.l3x.in/blog/my-travel-setup",
-    "title": "Who said a tech addict can't be comfortable far from home?"
   },
   {
     "source": "lobsters",
@@ -121,77 +106,7 @@
   },
   {
     "source": "lobsters",
-    "url": "https://sofiabelen.github.io/projects/visualizing-rusts-vtables-how-dyn-trait-works-in-memory/",
-    "title": "Visualizing Rust's Vtables: How dyn Trait Works In Memory"
-  },
-  {
-    "source": "lobsters",
     "url": "https://venko.blog/articles/forth-brainfuck",
     "title": "Building a Brainfuck DSL in Forth using code generation"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://neil.fraser.name/news/2026/09/03/",
-    "title": "Neil Fraser: News: .name Termination"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://kciter.so/posts/the-expensive-main-thread/en/",
-    "title": "The Browser's Main Thread Is Expensive | kciter.so"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://krebsonsecurity.com/2026/09/fbi-probes-service-selling-153m-drivers-licenses/",
-    "title": "[no title]"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://danluu.com/zitron/",
-    "title": "How accurate have Ed Zitron's AI skeptic predictions been?"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://simonwillison.net/2026/Sep/3/gpt6-astra/",
-    "title": "GPT‑6 Astra"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://drewdevault.com/weird-guys/",
-    "title": "Weird little guys of FOSS"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.newyorker.com/culture/life-and-letters/gloria-steinems-final-essay?cndid=66114350",
-    "title": "Gloria Steinem’s Final Essay | The New Yorker"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://gwern.net/xanadu",
-    "title": "Project Xanadu: Even More Hindsight"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://ifm.ai/blog/k2/",
-    "title": "Introducing K2 Horizon: Frontier Performance, Radically Open ( September 3, 2026 - Institute of Foundation Models)"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://nolanlawson.com/2026/08/23/the-asteroid-currently-hitting-frontend-web-development/",
-    "title": "The asteroid currently hitting frontend web development | Read the Tea Leaves"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://ambientcss.vercel.app/",
-    "title": "Ambient CSS — a physics-based lighting system for CSS"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.charlespetzold.com/blog/2026/09/Can-Guitar-Frets-Perform-Multiplication.html",
-    "title": "Charles Petzold: Can Guitar Frets Perform Multiplication?"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://hawksley.dev/blog/get-free-arpa-domain",
-    "title": "How to get a free .arpa domain | Ethan Hawksley"
   }
 ]
