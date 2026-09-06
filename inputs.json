@@ -1,6 +1,21 @@
 [
   {
     "source": "hn",
+    "url": "https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open/",
+    "title": "Intellectual Fly Is Open"
+  },
+  {
+    "source": "hn",
+    "url": "https://en.wikipedia.org/wiki/M-DISC",
+    "title": "M-DISC – DVD/Blu-ray compatible discs that may last up to 1000 years"
+  },
+  {
+    "source": "hn",
+    "url": "https://4d-chess.pages.dev/",
+    "title": "I asked astra to make playable 4D chess"
+  },
+  {
+    "source": "hn",
     "url": "https://cloudinabottle.org/blog/launch-post",
     "title": "Cloud in a Bottle: making self-hosting accessible to everyone"
   },
@@ -11,13 +26,8 @@
   },
   {
     "source": "hn",
-    "url": "https://www.motherjones.com/politics/2026/09/drinking-water-mississippi-lawsuit/",
-    "title": "You Don't Have a Right to Safe Drinking Water, US Court Rules"
-  },
-  {
-    "source": "hn",
-    "url": "http://miod.online.fr/software/openbsd/stories/smd.html",
-    "title": "OpenBSD Stories: Strange Medieval Devices"
+    "url": "https://bergie.iki.fi/blog/eupl/",
+    "title": "I Changed My License"
   },
   {
     "source": "hn",
@@ -26,13 +36,23 @@
   },
   {
     "source": "hn",
+    "url": "https://cceckman.com/writing/household-laser-cuts/",
+    "title": "Household Laser Cuts"
+  },
+  {
+    "source": "hn",
     "url": "https://collusion.wiki/",
     "title": "Discovery of a new OpenAI agent message board"
   },
   {
     "source": "hn",
-    "url": "https://lapcatsoftware.com/articles/2026/9/1.html",
-    "title": "Chrome again exempts Google from user site data settings"
+    "url": "https://lareviewofbooks.org/article/data-empire-roopika-risam-information-organize-control-dominate/",
+    "title": "The Empire of Information"
+  },
+  {
+    "source": "hn",
+    "url": "http://miod.online.fr/software/openbsd/stories/smd.html",
+    "title": "OpenBSD Stories: Strange Medieval Devices"
   },
   {
     "source": "hn",
@@ -41,8 +61,13 @@
   },
   {
     "source": "hn",
-    "url": "https://blog.archive.org/2026/08/27/a-computer-history-time-capsule/",
-    "title": "A Computer History Time Capsule"
+    "url": "https://lapcatsoftware.com/articles/2026/9/1.html",
+    "title": "Chrome again exempts Google from user site data settings"
+  },
+  {
+    "source": "hn",
+    "url": "https://olimex.wordpress.com/2026/09/04/new-open-source-hardware-variant-of-neo6502-now-includes-keyboard-4-usb-hosts-uext-power-switch-and-usb-c-for-power-and-programming-all-in-one-keyboard-body/",
+    "title": "New all in one 6502 computer (Neo6502kbd)"
   },
   {
     "source": "hn",
@@ -51,8 +76,8 @@
   },
   {
     "source": "hn",
-    "url": "https://openai.robocurve.org/gpt-6-astra/",
-    "title": "GPT-6 Astra on robot arms"
+    "url": "https://sled.neocities.org/",
+    "title": "Schemy Lisp En DOS"
   },
   {
     "source": "hn",
@@ -61,23 +86,8 @@
   },
   {
     "source": "hn",
-    "url": "https://mm-dev.rocks/series/recursecenter.return/",
-    "title": "RecurseCenter.return()"
-  },
-  {
-    "source": "hn",
     "url": "https://victoriametrics.com/blog/go-swiss-table-map/index.html",
     "title": "How Swiss tables work in Go built-in map"
-  },
-  {
-    "source": "hn",
-    "url": "https://v7.robweychert.com/",
-    "title": "Site Is Closed on Sundays"
-  },
-  {
-    "source": "hn",
-    "url": "https://llogiq.github.io/2026/03/20/case.html",
-    "title": "Matching Puzzle Pieces and Disappointing Benchmarks"
   },
   {
     "source": "lobsters",
@@ -86,8 +96,18 @@
   },
   {
     "source": "lobsters",
+    "url": "https://fzakaria.com/2026/09/04/any-nix-package-live-in-your-browser",
+    "title": "Any Nix package, live in your browser"
+  },
+  {
+    "source": "lobsters",
     "url": "https://asahilinux.org/2026/09/m2-episode-1/",
     "title": "M2: Episode 1 (or, Asahi Linux on M3)"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://zachkehs.com/blog/theres_no_limit_to_how_bad_code_can_get/",
+    "title": "There's No Limit to How Bad Code Can Get"
   },
   {
     "source": "lobsters",
@@ -101,13 +121,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://fzakaria.com/2026/09/04/any-nix-package-live-in-your-browser",
-    "title": "Any Nix package, live in your browser"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://zachkehs.com/blog/theres_no_limit_to_how_bad_code_can_get/",
-    "title": "There's No Limit to How Bad Code Can Get"
+    "url": "https://retrododo.com/see-windows-ce-running-on-the-n64/",
+    "title": "See Windows CE Running On The N64"
   },
   {
     "source": "lobsters",
@@ -116,8 +131,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://randomascii.wordpress.com/2015/01/19/knowing-where-to-type-zero/",
-    "title": "Knowing Where to Type ‘Zero’ (2015)"
+    "url": "https://a.l3x.in/blog/my-travel-setup",
+    "title": "Who said a tech addict can't be comfortable far from home?"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://venko.blog/articles/forth-brainfuck",
+    "title": "Building a Brainfuck DSL in Forth using code generation"
   },
   {
     "source": "lobsters",
@@ -126,17 +146,72 @@
   },
   {
     "source": "lobsters",
-    "url": "https://vectorware.com/blog/simd-on-gpu/",
-    "title": "Rust SIMD on the GPU"
+    "url": "https://randomascii.wordpress.com/2015/01/19/knowing-where-to-type-zero/",
+    "title": "Knowing Where to Type ‘Zero’ (2015)"
   },
   {
-    "source": "lobsters",
-    "url": "https://blog.michielborkent.nl/babashka-ffi.html",
-    "title": "Babashka 1.13.220 gets FFI"
+    "source": "pinboard",
+    "url": "https://neil.fraser.name/news/2026/09/03/",
+    "title": "Neil Fraser: News: .name Termination"
   },
   {
-    "source": "lobsters",
-    "url": "https://www.sandordargo.com/blog/2026/09/02/cpp26-hive",
-    "title": "C++26: std::hive"
+    "source": "pinboard",
+    "url": "https://kciter.so/posts/the-expensive-main-thread/en/",
+    "title": "The Browser's Main Thread Is Expensive | kciter.so"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://krebsonsecurity.com/2026/09/fbi-probes-service-selling-153m-drivers-licenses/",
+    "title": "[no title]"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://danluu.com/zitron/",
+    "title": "How accurate have Ed Zitron's AI skeptic predictions been?"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://simonwillison.net/2026/Sep/3/gpt6-astra/",
+    "title": "GPT‑6 Astra"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://drewdevault.com/weird-guys/",
+    "title": "Weird little guys of FOSS"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.newyorker.com/culture/life-and-letters/gloria-steinems-final-essay?cndid=66114350",
+    "title": "Gloria Steinem’s Final Essay | The New Yorker"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://gwern.net/xanadu",
+    "title": "Project Xanadu: Even More Hindsight"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://ifm.ai/blog/k2/",
+    "title": "Introducing K2 Horizon: Frontier Performance, Radically Open ( September 3, 2026 - Institute of Foundation Models)"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://nolanlawson.com/2026/08/23/the-asteroid-currently-hitting-frontend-web-development/",
+    "title": "The asteroid currently hitting frontend web development | Read the Tea Leaves"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://ambientcss.vercel.app/",
+    "title": "Ambient CSS — a physics-based lighting system for CSS"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.charlespetzold.com/blog/2026/09/Can-Guitar-Frets-Perform-Multiplication.html",
+    "title": "Charles Petzold: Can Guitar Frets Perform Multiplication?"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://hawksley.dev/blog/get-free-arpa-domain",
+    "title": "How to get a free .arpa domain | Ethan Hawksley"
   }
 ]
