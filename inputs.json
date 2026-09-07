@@ -1,8 +1,8 @@
 [
   {
     "source": "hn",
-    "url": "https://anubis.techaro.lol/blog/2026/anubis-wasm/",
-    "title": "It took a year to ship WebAssembly in Anubis"
+    "url": "https://austinhenley.com/blog/python1024.html",
+    "title": "Making a Python interpreter in 1024 bytes"
   },
   {
     "source": "hn",
@@ -16,8 +16,8 @@
   },
   {
     "source": "hn",
-    "url": "https://getvodforge.com/",
-    "title": "Show HN: VODForge – a free local desktop UI for YouTube video/playlist downloads"
+    "url": "https://blog.glazer.ee/posts/converting-cronos/",
+    "title": "Reverse engineering the storage format for an undocumented database"
   },
   {
     "source": "hn",
@@ -31,28 +31,13 @@
   },
   {
     "source": "hn",
-    "url": "https://news.wsu.edu/press-release/2026/08/20/researchers-develop-electronic-skin-for-prosthetics-to-sense-temperature-and-pressure/",
-    "title": "Electronic skin for prosthetics to sense temperature and pressure"
-  },
-  {
-    "source": "hn",
     "url": "https://www.vidact.dev/",
     "title": "Vidact – a compiler that turns React into direct DOM operations"
   },
   {
     "source": "hn",
-    "url": "https://blog.glazer.ee/posts/converting-cronos/",
-    "title": "Reverse engineering the storage format for an undocumented database"
-  },
-  {
-    "source": "hn",
-    "url": "https://en.wikipedia.org/wiki/M-DISC",
-    "title": "M-DISC – DVD/Blu-ray compatible discs that may last up to 1000 years"
-  },
-  {
-    "source": "hn",
-    "url": "https://a.wholelottanothing.org/the-car-industry-a-b-tested-selling-the-same-car-with-and-without-carplay-and-the-results-are-not-shocking/",
-    "title": "The car industry A/B tested selling a car with and without CarPlay"
+    "url": "https://news.wsu.edu/press-release/2026/08/20/researchers-develop-electronic-skin-for-prosthetics-to-sense-temperature-and-pressure/",
+    "title": "Electronic skin for prosthetics to sense temperature and pressure"
   },
   {
     "source": "hn",
@@ -61,8 +46,23 @@
   },
   {
     "source": "hn",
-    "url": "https://shukla.io/quantum-oracle-engineering/",
-    "title": "I'm teaching an introductory 12 week course on Quantum Oracle Engineering"
+    "url": "https://en.wikipedia.org/wiki/M-DISC",
+    "title": "M-DISC – DVD/Blu-ray compatible discs that may last up to 1000 years"
+  },
+  {
+    "source": "hn",
+    "url": "https://machow.ski/posts/markouts_and_adverse_selection/",
+    "title": "Adverse Selection and Markouts"
+  },
+  {
+    "source": "hn",
+    "url": "https://anubis.techaro.lol/blog/2026/anubis-wasm/",
+    "title": "It took a year to ship WebAssembly in Anubis"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://aleyan.com/projects/python-iceberg/",
+    "title": "Python Iceberg"
   },
   {
     "source": "lobsters",
@@ -73,11 +73,6 @@
     "source": "lobsters",
     "url": "https://bcantrill.dtrace.org/2026/09/05/the-revolt-of-the-reader/",
     "title": "The revolt of the reader"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://aleyan.com/projects/python-iceberg/",
-    "title": "Python Iceberg"
   },
   {
     "source": "lobsters",
@@ -118,75 +113,5 @@
     "source": "lobsters",
     "url": "https://noteflakes.com/articles/2026-09-05-beyond-orms",
     "title": "Beyond ORMs"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://uutils.org/blog/2026-08-error-diagnostics/",
-    "title": "Pointing at the error: compiler-style diagnostics in uutils coreutils"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://collusion.wiki/",
-    "title": "Discovery of a new OpenAI agent message board"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://neil.fraser.name/news/2026/09/03/",
-    "title": "Neil Fraser: News: .name Termination"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://kciter.so/posts/the-expensive-main-thread/en/",
-    "title": "The Browser's Main Thread Is Expensive | kciter.so"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://krebsonsecurity.com/2026/09/fbi-probes-service-selling-153m-drivers-licenses/",
-    "title": "[no title]"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://danluu.com/zitron/",
-    "title": "How accurate have Ed Zitron's AI skeptic predictions been?"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://simonwillison.net/2026/Sep/3/gpt6-astra/",
-    "title": "GPT‑6 Astra"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://drewdevault.com/weird-guys/",
-    "title": "Weird little guys of FOSS"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.newyorker.com/culture/life-and-letters/gloria-steinems-final-essay?cndid=66114350",
-    "title": "Gloria Steinem’s Final Essay | The New Yorker"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://gwern.net/xanadu",
-    "title": "Project Xanadu: Even More Hindsight"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://nolanlawson.com/2026/08/23/the-asteroid-currently-hitting-frontend-web-development/",
-    "title": "The asteroid currently hitting frontend web development | Read the Tea Leaves"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://ambientcss.vercel.app/",
-    "title": "Ambient CSS — a physics-based lighting system for CSS"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.charlespetzold.com/blog/2026/09/Can-Guitar-Frets-Perform-Multiplication.html",
-    "title": "Charles Petzold: Can Guitar Frets Perform Multiplication?"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://hawksley.dev/blog/get-free-arpa-domain",
-    "title": "How to get a free .arpa domain | Ethan Hawksley"
   }
 ]
