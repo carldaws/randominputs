@@ -6,68 +6,8 @@
   },
   {
     "source": "hn",
-    "url": "https://allan.reyes.sh/posts/ai-cold-showers/",
-    "title": "AI Cold Showers"
-  },
-  {
-    "source": "hn",
-    "url": "https://blog.archive.org/2026/09/01/keep-our-servers-running-your-recurring-donation-goes-3x-this-september/",
-    "title": "Keep Our Servers Running"
-  },
-  {
-    "source": "hn",
-    "url": "https://justinjay.wang/methods-for-random-gradients/",
-    "title": "Methods for Random Gradients"
-  },
-  {
-    "source": "hn",
-    "url": "https://jyn.dev/simple-is-not-the-same-as-small/",
-    "title": "Simple Is Not Small"
-  },
-  {
-    "source": "hn",
-    "url": "https://mathathonchallenge.com/index.html",
-    "title": "Caltech Mathathon – first hackathon ever devoted to research level mathematics"
-  },
-  {
-    "source": "hn",
-    "url": "https://martypc.blogspot.com/2026/09/decoding-nec-v20-microcode.html",
-    "title": "Decoding the NEC V20 Microcode"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.vldb.org/pvldb/volumes/19/paper/The%20Dataflow%20Model%20Revisited",
-    "title": "The Dataflow Model Revisited"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.frankchiarulli.com/blog/best-silicone-usb-cable/",
-    "title": "Searching for the best silicone USB cable"
-  },
-  {
-    "source": "hn",
-    "url": "https://mm-dev.rocks/series/decapitating-macbook-an-odyssey/",
-    "title": "Decapitating a MacBook (2025)"
-  },
-  {
-    "source": "hn",
-    "url": "https://myhomecat.com",
-    "title": "Show HN: HomeCat – Design your backyard office"
-  },
-  {
-    "source": "hn",
-    "url": "https://openbaarvervoerbelgie.be/",
-    "title": "Live map of public transport in Belgium"
-  },
-  {
-    "source": "hn",
-    "url": "https://sled.neocities.org/",
-    "title": "Schemy Lisp En DOS"
-  },
-  {
-    "source": "hn",
-    "url": "https://ladybird.org/newsletter/2026-08-31/",
-    "title": "This Month in Ladybird – August 2026"
+    "url": "https://wilsoniumite.com/2026/08/03/working-on-economics-with-fable-5/",
+    "title": "Working on Economics with Fable 5"
   },
   {
     "source": "hn",
@@ -76,18 +16,83 @@
   },
   {
     "source": "hn",
+    "url": "https://ptree.org/",
+    "title": "Show HN: Interactive Tree of Life"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.virtualizationhowto.com/2026/09/leaving-vmware-just-got-harder-after-broadcom-pulled-vddk-downloads/",
+    "title": "Leaving VMware just got harder after Broadcom pulled VDDK downloads"
+  },
+  {
+    "source": "hn",
+    "url": "https://mm-dev.rocks/series/decapitating-macbook-an-odyssey/",
+    "title": "Decapitating a MacBook (2025)"
+  },
+  {
+    "source": "hn",
+    "url": "https://justinjay.wang/methods-for-random-gradients/",
+    "title": "Methods for Random Gradients (2024)"
+  },
+  {
+    "source": "hn",
+    "url": "https://martypc.blogspot.com/2026/09/decoding-nec-v20-microcode.html",
+    "title": "Decoding the NEC V20 Microcode"
+  },
+  {
+    "source": "hn",
+    "url": "https://mathathonchallenge.com/index.html",
+    "title": "Caltech Mathathon – first hackathon ever devoted to research level mathematics"
+  },
+  {
+    "source": "hn",
+    "url": "https://jyn.dev/simple-is-not-the-same-as-small/",
+    "title": "Simple Is Not Small"
+  },
+  {
+    "source": "hn",
+    "url": "https://ladybird.org/newsletter/2026-08-31/",
+    "title": "This Month in Ladybird – August 2026"
+  },
+  {
+    "source": "hn",
+    "url": "https://borretti.me/article/the-education-of-a-doomer",
+    "title": "The Education of a Doomer"
+  },
+  {
+    "source": "hn",
+    "url": "https://molily.de/safe-websurfing/",
+    "title": "My practical approach to surfing the web safely"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.vldb.org/pvldb/volumes/19/paper/The%20Dataflow%20Model%20Revisited",
+    "title": "The Dataflow Model Revisited"
+  },
+  {
+    "source": "hn",
+    "url": "https://jigsawhaiku.com/",
+    "title": "Show HN: I built an aesthetically pleasing puzzle"
+  },
+  {
+    "source": "hn",
+    "url": "https://blog.archive.org/2026/09/01/keep-our-servers-running-your-recurring-donation-goes-3x-this-september/",
+    "title": "Keep Our Servers Running"
+  },
+  {
+    "source": "hn",
+    "url": "https://hedgehogreview.com/web-features/thr/posts/she-also-found-it-at-the-movies",
+    "title": "She Also Found It at the Movies"
+  },
+  {
+    "source": "hn",
     "url": "https://www.jefftk.com/p/whistle-synth-mac-app",
-    "title": "Whistle Synth"
+    "title": "Whistle Synth Mac App"
   },
   {
     "source": "hn",
-    "url": "https://vllm.ai/blog/2026-08-23-speculative-decoding-amd-gpus",
-    "title": "Speculative Decoding in vLLM on AMD GPUs"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.jeffgeerling.com/blog/2026/truetime-xl-gps-time-server-restomod/",
-    "title": "Rebuilding a 1995 GPS Time Server so I don't get Telstra'd"
+    "url": "https://openbaarvervoerbelgie.be/",
+    "title": "Live map of public transport in Belgium"
   },
   {
     "source": "lobsters",
@@ -126,13 +131,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://walac.github.io/jumplabels/",
-    "title": "What every kernel programmer should know about Jump Labels"
+    "url": "https://austinhenley.com/blog/python1024.html",
+    "title": "Making a Python interpreter in 1024 bytes"
   },
   {
     "source": "lobsters",
-    "url": "https://austinhenley.com/blog/python1024.html",
-    "title": "Making a Python interpreter in 1024 bytes"
+    "url": "https://walac.github.io/jumplabels/",
+    "title": "What every kernel programmer should know about Jump Labels"
   },
   {
     "source": "lobsters",
@@ -141,18 +146,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://bschaatsbergen.com/posts/go-tpm-tls/",
-    "title": "Signing TLS handshakes inside a TPM"
+    "url": "https://martinalderson.com/posts/ai-safety-vs-security/",
+    "title": "Have the frontier labs mixed up AI safety and security?"
   },
   {
     "source": "lobsters",
     "url": "https://kaeruct.github.io/posts/2026/09/06/conquering-entropy-cultivating-trust/",
     "title": "Conquering Entropy: Cultivating Trust"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://martinalderson.com/posts/ai-safety-vs-security/",
-    "title": "Have the frontier labs mixed up AI safety and security?"
   },
   {
     "source": "pinboard",
