@@ -1,6 +1,11 @@
 [
   {
     "source": "hn",
+    "url": "https://devz.cl/posts/i-spent-my-vacations-de-brainrotting/",
+    "title": "De-Brainrot Vacations"
+  },
+  {
+    "source": "hn",
     "url": "https://blog.archive.org/2026/09/01/keep-our-servers-running-your-recurring-donation-goes-3x-this-september/",
     "title": "Keep Our Servers Running"
   },
@@ -11,6 +16,11 @@
   },
   {
     "source": "hn",
+    "url": "https://jyn.dev/simple-is-not-the-same-as-small/",
+    "title": "Simple Is Not Small"
+  },
+  {
+    "source": "hn",
     "url": "https://openbaarvervoerbelgie.be/",
     "title": "Live map of public transport in Belgium"
   },
@@ -18,6 +28,21 @@
     "source": "hn",
     "url": "https://vllm.ai/blog/2026-08-23-speculative-decoding-amd-gpus",
     "title": "Speculative Decoding in vLLM on AMD GPUs"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.theregister.com/personal-tech/2026/09/07/smartphone-makers-dont-bother-to-comply-with-eu-repairability-requirements/5294532",
+    "title": "Smartphone makers don't bother to comply with EU repairability requirements"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.vldb.org/pvldb/volumes/19/paper/The%20Dataflow%20Model%20Revisited",
+    "title": "The Dataflow Model Revisited"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.jefftk.com/p/whistle-synth-mac-app",
+    "title": "Whistle Synth"
   },
   {
     "source": "hn",
@@ -36,18 +61,13 @@
   },
   {
     "source": "hn",
-    "url": "https://rfd.shared.oxide.computer/rfd/0301",
-    "title": "Has anybody seen my keys? A key-hierarchy strategy for rack-level security"
+    "url": "https://didac.dev/blog/i-made-my-withings-scale-sync-to-home-assistant-without-the-cloud",
+    "title": "I Connected My Withings Body+ to Home Assistant with an ESP32"
   },
   {
     "source": "hn",
-    "url": "https://cordcuttersnews.com/tivo-plans-to-end-free-automatic-commercial-skipping-in-november-tests-paid-premium-replacement-service/",
-    "title": "TiVo to charge money for skipping commercials in your own recordings"
-  },
-  {
-    "source": "hn",
-    "url": "https://asahilinux.org/2026/09/m2-episode-1/",
-    "title": "Asahi Linux on M3"
+    "url": "https://chemisting.com/2026/09/02/why-are-there-no-flow-batteries-with-symmetric-ferrocyanide-electrolytes/",
+    "title": "Why are there no flow batteries with symmetric ferrocyanide electrolytes?"
   },
   {
     "source": "hn",
@@ -55,14 +75,14 @@
     "title": "I'm a seeing-eye dog for a computer"
   },
   {
-    "source": "hn",
-    "url": "https://blog.netbsd.org/tnf/entry/netbsd_9_5_released_and",
-    "title": "NetBSD 9.5 released and EOL for NetBSD-9"
+    "source": "lobsters",
+    "url": "https://www.benjoffe.com/fast-time-of-day",
+    "title": "A faster way to convert a timestamp to Hour, Min, Sec"
   },
   {
-    "source": "hn",
-    "url": "https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open/",
-    "title": "Your intellectual fly is open when you use an LLM to author a post (2025)"
+    "source": "lobsters",
+    "url": "https://ache.one/notes/vanity-ipv6",
+    "title": "The shortest IPv6 addresses"
   },
   {
     "source": "lobsters",
@@ -76,6 +96,11 @@
   },
   {
     "source": "lobsters",
+    "url": "https://martinalderson.com/posts/ai-safety-vs-security/",
+    "title": "Have the frontier labs mixed up AI safety and security?"
+  },
+  {
+    "source": "lobsters",
     "url": "https://michael.stapelberg.ch/posts/2026-09-06-dcs-fast-turbopfor-go-simd/",
     "title": "Debian Code Search: Fast TurboPFor with Go SIMD"
   },
@@ -86,8 +111,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://www.benjoffe.com/fast-time-of-day",
-    "title": "A faster way to convert a timestamp to Hour, Min, Sec"
+    "url": "https://bschaatsbergen.com/posts/go-tpm-tls/",
+    "title": "Signing TLS handshakes inside a TPM"
   },
   {
     "source": "lobsters",
@@ -96,27 +121,7 @@
   },
   {
     "source": "lobsters",
-    "url": "https://ache.one/notes/vanity-ipv6",
-    "title": "The shortest IPv6 addresses"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://rep.rs/",
-    "title": "rep.rs - A fitness challenge for Rust developers"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://martinalderson.com/posts/ai-safety-vs-security/",
-    "title": "Have the frontier labs mixed up AI safety and security?"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://zachkehs.com/blog/theres_no_limit_to_how_bad_code_can_get/",
-    "title": "There's No Limit to How Bad Code Can Get"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://a.l3x.in/blog/my-travel-setup",
-    "title": "Who said a tech addict can't be comfortable far from home?"
+    "url": "https://walac.github.io/jumplabels/",
+    "title": "What every kernel programmer should know about Jump Labels | Wander Lairson Costa"
   }
 ]
