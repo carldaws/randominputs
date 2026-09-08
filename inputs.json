@@ -1,13 +1,8 @@
 [
   {
     "source": "hn",
-    "url": "https://jyn.dev/a-year-to-fix-security/",
-    "title": "We have a year to fix security everywhere"
-  },
-  {
-    "source": "hn",
-    "url": "https://cims.nyu.edu/~tristanb/statement.pdf",
-    "title": "Navier-Stokes – Tristan Buckmaster [pdf]"
+    "url": "https://vale.rocks/posts/html-relics",
+    "title": "Antiquated HTML Snippets and Artefacts"
   },
   {
     "source": "hn",
@@ -16,18 +11,13 @@
   },
   {
     "source": "hn",
-    "url": "https://www.pm.gov.au/media/my-feed-my-way",
-    "title": "My Feed, My Way"
+    "url": "https://lanparty.house/",
+    "title": "We built our house for LAN parties"
   },
   {
     "source": "hn",
-    "url": "https://alvins82.github.io/hangar-harness-model-tests/",
-    "title": "I tested 10 model/harness combinations on the same Three.js task"
-  },
-  {
-    "source": "hn",
-    "url": "https://leaflet.pub/p/did:plc:yhgc5rlqhoezrx6fbawajxlh/3muwrqenzfk2n",
-    "title": "GamersNexus and LG: Or why rooting your TV is a bad idea"
+    "url": "https://weirdgloop.org/blog/google-jail",
+    "title": "There's a new \"Google Jail\" for independent wikis"
   },
   {
     "source": "hn",
@@ -51,8 +41,23 @@
   },
   {
     "source": "hn",
+    "url": "https://www.virtualizationhowto.com/2026/09/leaving-vmware-just-got-harder-after-broadcom-pulled-vddk-downloads/",
+    "title": "Leaving VMware just got harder after Broadcom pulled VDDK downloads"
+  },
+  {
+    "source": "hn",
     "url": "https://jellyfin.org/posts/jellyfin-release-12.0/",
     "title": "Jellyfin 12.0"
+  },
+  {
+    "source": "hn",
+    "url": "https://anystation.net/",
+    "title": "anystation: Calling any station A public board shaped like a tree. No account"
+  },
+  {
+    "source": "hn",
+    "url": "https://novalis.org/blog/2026-08-31-picolibrary-a-very-small-press.html",
+    "title": "Picolibrary: A Small Press"
   },
   {
     "source": "hn",
@@ -61,28 +66,8 @@
   },
   {
     "source": "hn",
-    "url": "https://www.virtualizationhowto.com/2026/09/leaving-vmware-just-got-harder-after-broadcom-pulled-vddk-downloads/",
-    "title": "Leaving VMware just got harder after Broadcom pulled VDDK downloads"
-  },
-  {
-    "source": "hn",
-    "url": "https://weirdgloop.org/blog/google-jail",
-    "title": "There's a new \"Google Jail\" for independent wikis"
-  },
-  {
-    "source": "hn",
-    "url": "https://blog.yosyshq.com/p/colorlight-part-1/",
-    "title": "Colorlight 5A-75B: A dive into a popular low-cost ECP5 (FPGA) development board"
-  },
-  {
-    "source": "hn",
-    "url": "https://jigsawhaiku.com/",
-    "title": "Show HN: Jigsaw Haiku"
-  },
-  {
-    "source": "hn",
-    "url": "https://ladybird.org/newsletter/2026-08-31/",
-    "title": "This Month in Ladybird – August 2026"
+    "url": "https://www.pm.gov.au/media/my-feed-my-way",
+    "title": "My Feed, My Way"
   },
   {
     "source": "hn",
@@ -91,18 +76,13 @@
   },
   {
     "source": "hn",
-    "url": "https://eighttrigrams.net/post/79",
-    "title": "Everything is free now, so why not a floating orb in my IDE"
+    "url": "https://jyn.dev/a-year-to-fix-security/",
+    "title": "We have a year to fix security everywhere"
   },
   {
-    "source": "lobsters",
-    "url": "https://www.benjoffe.com/fast-time-of-day",
-    "title": "A faster way to convert a timestamp to Hour, Min, Sec"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://ache.one/notes/vanity-ipv6",
-    "title": "The shortest IPv6 addresses"
+    "source": "hn",
+    "url": "https://alvins82.github.io/hangar-harness-model-tests/",
+    "title": "I tested 10 model/harness combinations on the same Three.js task"
   },
   {
     "source": "lobsters",
@@ -111,23 +91,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://anubis.techaro.lol/blog/2026/anubis-wasm/",
-    "title": "It took a year to ship WebAssembly in Anubis"
+    "url": "https://crescentro.se/posts/euro-cloud-providers-2026/",
+    "title": "The state of European cloud providers in 2026"
   },
   {
     "source": "lobsters",
-    "url": "https://blog.rust-lang.org/2026/09/07/rust-debugging-survey-2026-results/",
-    "title": "Rust debugging survey 2026 results"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://jellyfin.org/posts/jellyfin-release-12.0",
-    "title": "Jellyfin 12.0"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://www.scd31.com/posts/nix-files-are-intimate",
-    "title": "My Nix Config Is Intimate"
+    "url": "https://www.benjoffe.com/fast-time-of-day",
+    "title": "A faster way to convert a timestamp to Hour, Min, Sec"
   },
   {
     "source": "lobsters",
@@ -136,18 +106,38 @@
   },
   {
     "source": "lobsters",
-    "url": "https://www.vldb.org/pvldb/vol19/p4953-fernandez-moctezuma.pdf",
-    "title": "The Dataflow Model Revisited"
+    "url": "https://jellyfin.org/posts/jellyfin-release-12.0",
+    "title": "Jellyfin 12.0"
   },
   {
     "source": "lobsters",
-    "url": "https://aleyan.com/projects/python-iceberg/",
-    "title": "Python Iceberg"
+    "url": "https://ache.one/notes/vanity-ipv6",
+    "title": "The shortest IPv6 addresses"
   },
   {
     "source": "lobsters",
-    "url": "https://kaeruct.github.io/posts/2026/09/06/conquering-entropy-cultivating-trust/",
-    "title": "Conquering Entropy: Cultivating Trust"
+    "url": "https://cims.nyu.edu/~tristanb/statement.pdf",
+    "title": "Statement on finite-time blowup for forced 3D Euler, and OpenAI's conduct"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://www.scd31.com/posts/extreme-server-side-rendering",
+    "title": "Extreme Server Side Rendering"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://www.scd31.com/posts/nix-files-are-intimate",
+    "title": "My Nix Config Is Intimate"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://hawksley.dev/blog/get-free-arpa-domain",
+    "title": "How to get a free .arpa domain"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://anubis.techaro.lol/blog/2026/anubis-wasm/",
+    "title": "It took a year to ship WebAssembly in Anubis"
   },
   {
     "source": "lobsters",
@@ -155,83 +145,28 @@
     "title": "Type inference has usability problems (2019)"
   },
   {
-    "source": "pinboard",
-    "url": "https://cloudinabottle.org/blog/launch-post",
-    "title": "Cloud in a Bottle: making self-hosting accessible to everyone | Cloud in a Bottle"
+    "source": "lobsters",
+    "url": "https://blog.rust-lang.org/2026/09/07/rust-debugging-survey-2026-results/",
+    "title": "Rust debugging survey 2026 results"
   },
   {
-    "source": "pinboard",
-    "url": "https://collusion.wiki/",
-    "title": "Discovery of a new OpenAI agent message board"
+    "source": "lobsters",
+    "url": "https://ladybird.org/newsletter/2026-08-31/",
+    "title": "This Month in Ladybird - August 2026"
   },
   {
-    "source": "pinboard",
-    "url": "https://bcantrill.dtrace.org/2026/09/05/the-revolt-of-the-reader/",
-    "title": "The revolt of the reader | The Observation Deck"
+    "source": "lobsters",
+    "url": "https://cukic.co/2026/09/07/startplasma-with-shell-scripts-or-dinit",
+    "title": "Replacing startplasma with shell scripts or dinit (Part 1)"
   },
   {
-    "source": "pinboard",
-    "url": "https://engineering.atspotify.com/2026/9/portal-by-spotify-cut-my-claude-code-token-usage-by-90",
-    "title": "Portal by Spotify cut my Claude Code token usage by 90% | Spotify Engineering"
+    "source": "lobsters",
+    "url": "https://inbox.sourceware.org/binutils/CAKSQd8XJVf3jq8boOJcOE_GzcNvcqMUHeW-whbw3uGnVE2iN_w@mail.gmail.com/",
+    "title": "x86 evolution for segmentation and paging"
   },
   {
-    "source": "pinboard",
-    "url": "https://www.newyorker.com/culture/life-and-letters/gloria-steinems-final-essay?cndid=66114350",
-    "title": "Gloria Steinem’s Final Essay | The New Yorker"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://ciechanow.ski/",
-    "title": "Bartosz Ciechanowski"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://news.ycombinator.com/item?id=49578280",
-    "title": "Learn Programming with OCaml | Hacker News"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://drewdevault.com/weird-guys/",
-    "title": "Weird little guys of FOSS"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://mail.cyberneticforests.com/models-dont-go-rogue/",
-    "title": "Models Don't Go Rogue"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.npr.org/2026/07/19/nx-s1-5891817/5-clever-design-tricks-to-make-a-small-home-look-bigger",
-    "title": "5 clever ways to make a small space look bigger : NPR"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://zachkehs.com/blog/theres_no_limit_to_how_bad_code_can_get/",
-    "title": "There's No Limit to How Bad Code Can Get"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://cloudinabottle.org/",
-    "title": "Cloud in a Bottle: your corner of the cloud"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://brettcodes.com/im-done-using-ai/",
-    "title": "I'm done using AI – Brett Codes"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.whatwetellai.com/",
-    "title": "What We Tell AI"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://tangledbankforaging.co.uk/2026/09/06/disaster-prep-for-people-who-arent-gun-obsessed-misanthropes/",
-    "title": "Disaster prep for people who aren’t gun-obsessed misanthropes – Tangled Bank Foraging and Fibre Crafts"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://neil.fraser.name/news/2026/09/03/",
-    "title": "Neil Fraser: News: .name Termination"
+    "source": "lobsters",
+    "url": "https://www.vldb.org/pvldb/vol19/p4953-fernandez-moctezuma.pdf",
+    "title": "The Dataflow Model Revisited"
   }
 ]
