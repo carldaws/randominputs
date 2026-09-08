@@ -6,6 +6,11 @@
   },
   {
     "source": "hn",
+    "url": "https://hackaday.com/2026/09/07/the-helicopter-with-radioactive-blades/",
+    "title": "The Helicopter with Radioactive Blades"
+  },
+  {
+    "source": "hn",
     "url": "https://signoregalilei.com/2026/08/30/the-two-christian-saints-who-are-secretly-the-buddha/",
     "title": "The two Christian saints who are the Buddha"
   },
@@ -16,18 +21,38 @@
   },
   {
     "source": "hn",
+    "url": "https://uecker.codeberg.page/2026-09-05.html",
+    "title": "Implementation of GCC's Nested Functions (vs. C++ Lambdas)"
+  },
+  {
+    "source": "hn",
     "url": "https://bumbershootsoft.wordpress.com/2026/09/05/zx-spectrum-experimenting-with-1-bit-sound/",
     "title": "ZX Spectrum: Experimenting with 1-Bit Sound"
   },
   {
     "source": "hn",
-    "url": "https://alphageo.ai/how-climate-resilient-are-the-worlds-largest-cities/",
-    "title": "How Climate Resilient Are the Largest Cities?"
+    "url": "https://pointersgonewild.com/2026-08-25-replacing-a-rust-enum-with-a-64-bit-word/",
+    "title": "Replacing a Rust Enum with a 64-Bit Word Made My Interpreter 17% Faster"
   },
   {
     "source": "hn",
-    "url": "https://vale.rocks/posts/html-relics",
-    "title": "Antiquated HTML Snippets and Artefacts"
+    "url": "https://www.techdirt.com/2026/09/08/paramount-caught-using-astroturf-group-to-drum-up-fake-support-for-merger/",
+    "title": "Paramount Caught Using 'Astroturf' Group to Drum Up Fake Support for Merger"
+  },
+  {
+    "source": "hn",
+    "url": "https://cims.nyu.edu/~tristanb/statement.pdf",
+    "title": "Navier-Stokes – Tristan Buckmaster [pdf]"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.404media.co/a-secretive-dhs-predictive-policing-unit-is-analyzing-americans-financial-habits-and-pulling-them-over/",
+    "title": "DHS 'Predictive Policing' Unit Is Analyzing Americans' Financial Habits"
+  },
+  {
+    "source": "hn",
+    "url": "https://weirdgloop.org/blog/google-jail",
+    "title": "There's a new \"Google Jail\" for independent wikis"
   },
   {
     "source": "hn",
@@ -41,58 +66,8 @@
   },
   {
     "source": "hn",
-    "url": "https://www.techdirt.com/2026/09/08/paramount-caught-using-astroturf-group-to-drum-up-fake-support-for-merger/",
-    "title": "Paramount Caught Using 'Astroturf' Group to Drum Up Fake Support for Merger"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.404media.co/a-secretive-dhs-predictive-policing-unit-is-analyzing-americans-financial-habits-and-pulling-them-over/",
-    "title": "DHS 'Predictive Policing' Unit Is Analyzing Americans' Financial Habits"
-  },
-  {
-    "source": "hn",
-    "url": "https://mcpherrin.ca/2026/09/07/rsa.html",
-    "title": "I've factored the RSA keys of a Certificate Authority from the 90s"
-  },
-  {
-    "source": "hn",
-    "url": "https://weirdgloop.org/blog/google-jail",
-    "title": "There's a new \"Google Jail\" for independent wikis"
-  },
-  {
-    "source": "hn",
-    "url": "https://logicola.org/blog/the-new-logicola",
-    "title": "Reverse engineering the 2008 LogiCola, a logic drill program"
-  },
-  {
-    "source": "hn",
-    "url": "https://novalis.org/blog/2026-08-31-picolibrary-a-very-small-press.html",
-    "title": "Picolibrary: A Small Press"
-  },
-  {
-    "source": "hn",
-    "url": "https://d2lang.com/blog/tala-is-open-source/",
-    "title": "TALA Is Open-Source"
-  },
-  {
-    "source": "hn",
-    "url": "https://lanparty.house/",
-    "title": "We built our house for LAN parties (2024)"
-  },
-  {
-    "source": "hn",
-    "url": "https://danluu.com/agentic-testing/",
-    "title": "How well do agents use test/verification techniques?"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.virtualizationhowto.com/2026/09/leaving-vmware-just-got-harder-after-broadcom-pulled-vddk-downloads/",
-    "title": "Leaving VMware just got harder after Broadcom pulled VDDK downloads"
-  },
-  {
-    "source": "hn",
-    "url": "https://newsroom.arm.com/blog/arm-mali-g2-ultra-nx-ai-native-mobile-graphics",
-    "title": "Arm Mali G2-Ultra NX GPU: desktop-class mobile gameplay with AI-native graphics"
+    "url": "https://vale.rocks/posts/html-relics",
+    "title": "Antiquated HTML Snippets and Artefacts"
   },
   {
     "source": "lobsters",
@@ -103,6 +78,11 @@
     "source": "lobsters",
     "url": "https://crescentro.se/posts/euro-cloud-providers-2026/",
     "title": "The state of European cloud providers in 2026"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://rmondello.com/2026/09/07/switching-password-managers-2026/",
+    "title": "Switching Password Managers in 2026"
   },
   {
     "source": "lobsters",
@@ -121,18 +101,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://rmondello.com/2026/09/07/switching-password-managers-2026/",
-    "title": "Switching Password Managers in 2026"
-  },
-  {
-    "source": "lobsters",
     "url": "https://hawksley.dev/blog/get-free-arpa-domain",
     "title": "How to get a free .arpa domain"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://www.benjoffe.com/fast-time-of-day",
-    "title": "A faster way to convert a timestamp to Hour, Min, Sec"
   },
   {
     "source": "lobsters",
@@ -146,13 +116,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://lambdaland.org/posts/2026-09-06-bedrock-v2/",
-    "title": "Emacs Bedrock 2.0 Released"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://ache.one/notes/vanity-ipv6",
-    "title": "The shortest IPv6 addresses"
+    "url": "https://www.benjoffe.com/fast-time-of-day",
+    "title": "A faster way to convert a timestamp to Hour, Min, Sec"
   },
   {
     "source": "lobsters",
@@ -161,8 +126,28 @@
   },
   {
     "source": "lobsters",
+    "url": "https://mcpherrin.ca/2026/09/07/rsa.html",
+    "title": "I’ve factored the RSA keys of a Certificate Authority…from the 90s"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://lambdaland.org/posts/2026-09-06-bedrock-v2/",
+    "title": "Emacs Bedrock 2.0 Released"
+  },
+  {
+    "source": "lobsters",
     "url": "https://austinhenley.com/blog/typeinference.html",
     "title": "Type inference has usability problems (2019)"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://ache.one/notes/vanity-ipv6",
+    "title": "The shortest IPv6 addresses"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://yui.dev/blog/minesweeper-in-247-bytes",
+    "title": "The Depths of JavaScript: Minesweeper in 247 Bytes"
   },
   {
     "source": "lobsters",
@@ -171,8 +156,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://yui.dev/blog/minesweeper-in-247-bytes",
-    "title": "The Depths of JavaScript: Minesweeper in 247 Bytes"
+    "url": "https://blog.mro.name/2026/09/web-from-dial-up/",
+    "title": "Serving Web from volatile Dial-up IP"
   },
   {
     "source": "lobsters",
@@ -183,11 +168,6 @@
     "source": "lobsters",
     "url": "https://cukic.co/2026/09/07/startplasma-with-shell-scripts-or-dinit",
     "title": "Replacing startplasma with shell scripts or dinit (Part 1)"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://k3xec.com/pigeon/",
-    "title": "pigeon: my experimental PHY (Part 0/12)"
   },
   {
     "source": "pinboard",
