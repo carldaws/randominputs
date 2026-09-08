@@ -1,8 +1,33 @@
 [
   {
     "source": "hn",
+    "url": "https://jyn.dev/a-year-to-fix-security/",
+    "title": "We have a year to fix security everywhere"
+  },
+  {
+    "source": "hn",
+    "url": "https://cims.nyu.edu/~tristanb/statement.pdf",
+    "title": "Navier-Stokes – Tristan Buckmaster [pdf]"
+  },
+  {
+    "source": "hn",
     "url": "https://mcpherrin.ca/2026/09/07/rsa.html",
     "title": "I've factored the RSA keys of a Certificate Authority from the 90s"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.pm.gov.au/media/my-feed-my-way",
+    "title": "My Feed, My Way"
+  },
+  {
+    "source": "hn",
+    "url": "https://alvins82.github.io/hangar-harness-model-tests/",
+    "title": "I tested 10 model/harness combinations on the same Three.js task"
+  },
+  {
+    "source": "hn",
+    "url": "https://leaflet.pub/p/did:plc:yhgc5rlqhoezrx6fbawajxlh/3muwrqenzfk2n",
+    "title": "GamersNexus and LG: Or why rooting your TV is a bad idea"
   },
   {
     "source": "hn",
@@ -11,8 +36,28 @@
   },
   {
     "source": "hn",
+    "url": "https://danluu.com/agentic-testing/",
+    "title": "How well do agents use test/verification techniques?"
+  },
+  {
+    "source": "hn",
+    "url": "https://newsroom.arm.com/blog/arm-mali-g2-ultra-nx-ai-native-mobile-graphics",
+    "title": "Arm Mali G2-Ultra NX GPU: desktop-class mobile gameplay with AI-native graphics"
+  },
+  {
+    "source": "hn",
     "url": "https://lax-skyline.parcelscope.net/",
     "title": "Watch Los Angeles get built, one building at a time (1880–2026)"
+  },
+  {
+    "source": "hn",
+    "url": "https://jellyfin.org/posts/jellyfin-release-12.0/",
+    "title": "Jellyfin 12.0"
+  },
+  {
+    "source": "hn",
+    "url": "https://rohanadwankar.github.io/posts/platforms.html",
+    "title": "The VMs Powering Mobile Agents (Instinct, Claude Code)"
   },
   {
     "source": "hn",
@@ -21,18 +66,8 @@
   },
   {
     "source": "hn",
-    "url": "https://jigsawhaiku.com/",
-    "title": "Show HN: I built an aesthetically pleasing puzzle"
-  },
-  {
-    "source": "hn",
-    "url": "https://kallus.org/blog/dummit_and_foote.html",
-    "title": "Finding a bug in Dummit and Foote's Abstract Algebra"
-  },
-  {
-    "source": "hn",
-    "url": "https://ptree.org/",
-    "title": "Show HN: Interactive Tree of Life"
+    "url": "https://weirdgloop.org/blog/google-jail",
+    "title": "There's a new \"Google Jail\" for independent wikis"
   },
   {
     "source": "hn",
@@ -41,63 +76,23 @@
   },
   {
     "source": "hn",
+    "url": "https://jigsawhaiku.com/",
+    "title": "Show HN: Jigsaw Haiku"
+  },
+  {
+    "source": "hn",
     "url": "https://ladybird.org/newsletter/2026-08-31/",
     "title": "This Month in Ladybird – August 2026"
   },
   {
     "source": "hn",
-    "url": "https://mathathonchallenge.com/index.html",
-    "title": "Caltech Mathathon – first hackathon ever devoted to research level mathematics"
+    "url": "https://lambdaland.org/posts/2026-09-06-bedrock-v2/",
+    "title": "Emacs Bedrock 2.0"
   },
   {
     "source": "hn",
-    "url": "https://martypc.blogspot.com/2026/09/decoding-nec-v20-microcode.html",
-    "title": "Decoding the NEC V20 Microcode"
-  },
-  {
-    "source": "hn",
-    "url": "https://jyn.dev/simple-is-not-the-same-as-small/",
-    "title": "Simple Is Not Small"
-  },
-  {
-    "source": "hn",
-    "url": "https://justinjay.wang/methods-for-random-gradients/",
-    "title": "Methods for Random Gradients (2024)"
-  },
-  {
-    "source": "hn",
-    "url": "https://blog.archive.org/2026/09/01/keep-our-servers-running-your-recurring-donation-goes-3x-this-september/",
-    "title": "Keep Our Servers Running"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.vldb.org/pvldb/volumes/19/paper/The%20Dataflow%20Model%20Revisited",
-    "title": "The Dataflow Model Revisited"
-  },
-  {
-    "source": "hn",
-    "url": "https://openbaarvervoerbelgie.be/",
-    "title": "Live map of public transport in Belgium"
-  },
-  {
-    "source": "hn",
-    "url": "https://hedgehogreview.com/web-features/thr/posts/she-also-found-it-at-the-movies",
-    "title": "She Also Found It at the Movies"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.jefftk.com/p/whistle-synth-mac-app",
-    "title": "Whistle Synth Mac App"
-  },
-  {
-    "source": "hn",
-    "url": "https://wilsoniumite.com/2026/08/03/working-on-economics-with-fable-5/",
-    "title": "Working on Economics with Fable 5"
-  },
-  {
-    "source": "hn",
-    "url": "https://vllm.ai/blog/2026-08-23-speculative-decoding-amd-gpus",
-    "title": "Speculative Decoding in vLLM on AMD GPUs"
+    "url": "https://eighttrigrams.net/post/79",
+    "title": "Everything is free now, so why not a floating orb in my IDE"
   },
   {
     "source": "lobsters",
@@ -111,6 +106,11 @@
   },
   {
     "source": "lobsters",
+    "url": "https://bergie.iki.fi/blog/eupl/",
+    "title": "I changed my license to EUPL"
+  },
+  {
+    "source": "lobsters",
     "url": "https://anubis.techaro.lol/blog/2026/anubis-wasm/",
     "title": "It took a year to ship WebAssembly in Anubis"
   },
@@ -121,8 +121,18 @@
   },
   {
     "source": "lobsters",
-    "url": "https://danluu.com/agentic-testing/",
-    "title": "How well do agents use test/verification techniques?"
+    "url": "https://jellyfin.org/posts/jellyfin-release-12.0",
+    "title": "Jellyfin 12.0"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://www.scd31.com/posts/nix-files-are-intimate",
+    "title": "My Nix Config Is Intimate"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://jo3-l.dev/posts/bitap/",
+    "title": "Bitap: my favorite string matching algorithm"
   },
   {
     "source": "lobsters",
@@ -136,22 +146,92 @@
   },
   {
     "source": "lobsters",
-    "url": "https://austinhenley.com/blog/python1024.html",
-    "title": "Making a Python interpreter in 1024 bytes"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://meanmicio.org/2026/09/06/netbsd-11-from-scratch/",
-    "title": "NetBSD 11 from scratch"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://martinalderson.com/posts/ai-safety-vs-security/",
-    "title": "Have the frontier labs mixed up AI safety and security?"
-  },
-  {
-    "source": "lobsters",
     "url": "https://kaeruct.github.io/posts/2026/09/06/conquering-entropy-cultivating-trust/",
     "title": "Conquering Entropy: Cultivating Trust"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://austinhenley.com/blog/typeinference.html",
+    "title": "Type inference has usability problems (2019)"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://cloudinabottle.org/blog/launch-post",
+    "title": "Cloud in a Bottle: making self-hosting accessible to everyone | Cloud in a Bottle"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://collusion.wiki/",
+    "title": "Discovery of a new OpenAI agent message board"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://bcantrill.dtrace.org/2026/09/05/the-revolt-of-the-reader/",
+    "title": "The revolt of the reader | The Observation Deck"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://engineering.atspotify.com/2026/9/portal-by-spotify-cut-my-claude-code-token-usage-by-90",
+    "title": "Portal by Spotify cut my Claude Code token usage by 90% | Spotify Engineering"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.newyorker.com/culture/life-and-letters/gloria-steinems-final-essay?cndid=66114350",
+    "title": "Gloria Steinem’s Final Essay | The New Yorker"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://ciechanow.ski/",
+    "title": "Bartosz Ciechanowski"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://news.ycombinator.com/item?id=49578280",
+    "title": "Learn Programming with OCaml | Hacker News"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://drewdevault.com/weird-guys/",
+    "title": "Weird little guys of FOSS"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://mail.cyberneticforests.com/models-dont-go-rogue/",
+    "title": "Models Don't Go Rogue"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.npr.org/2026/07/19/nx-s1-5891817/5-clever-design-tricks-to-make-a-small-home-look-bigger",
+    "title": "5 clever ways to make a small space look bigger : NPR"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://zachkehs.com/blog/theres_no_limit_to_how_bad_code_can_get/",
+    "title": "There's No Limit to How Bad Code Can Get"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://cloudinabottle.org/",
+    "title": "Cloud in a Bottle: your corner of the cloud"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://brettcodes.com/im-done-using-ai/",
+    "title": "I'm done using AI – Brett Codes"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.whatwetellai.com/",
+    "title": "What We Tell AI"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://tangledbankforaging.co.uk/2026/09/06/disaster-prep-for-people-who-arent-gun-obsessed-misanthropes/",
+    "title": "Disaster prep for people who aren’t gun-obsessed misanthropes – Tangled Bank Foraging and Fibre Crafts"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://neil.fraser.name/news/2026/09/03/",
+    "title": "Neil Fraser: News: .name Termination"
   }
 ]
