@@ -1,8 +1,53 @@
 [
   {
     "source": "hn",
+    "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/alphagenome-atlas/",
+    "title": "Google DeepMind Releases AlphaGenome Atlas"
+  },
+  {
+    "source": "hn",
+    "url": "https://signoregalilei.com/2026/08/30/the-two-christian-saints-who-are-secretly-the-buddha/",
+    "title": "The two Christian saints who are the Buddha"
+  },
+  {
+    "source": "hn",
+    "url": "https://copperhead.sh/",
+    "title": "Show HN: Copperhead – Hardware as Fast as Software"
+  },
+  {
+    "source": "hn",
+    "url": "https://bumbershootsoft.wordpress.com/2026/09/05/zx-spectrum-experimenting-with-1-bit-sound/",
+    "title": "ZX Spectrum: Experimenting with 1-Bit Sound"
+  },
+  {
+    "source": "hn",
+    "url": "https://alphageo.ai/how-climate-resilient-are-the-worlds-largest-cities/",
+    "title": "How Climate Resilient Are the Largest Cities?"
+  },
+  {
+    "source": "hn",
     "url": "https://vale.rocks/posts/html-relics",
     "title": "Antiquated HTML Snippets and Artefacts"
+  },
+  {
+    "source": "hn",
+    "url": "https://cwodtke.com/disappointed-optimists/",
+    "title": "Disappointed Optimists"
+  },
+  {
+    "source": "hn",
+    "url": "https://darshanmakwana412.github.io/2026/09/extracting-steering-vectors-from-j-space/",
+    "title": "Extracting Steering Vectors from J space"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.techdirt.com/2026/09/08/paramount-caught-using-astroturf-group-to-drum-up-fake-support-for-merger/",
+    "title": "Paramount Caught Using 'Astroturf' Group to Drum Up Fake Support for Merger"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.404media.co/a-secretive-dhs-predictive-policing-unit-is-analyzing-americans-financial-habits-and-pulling-them-over/",
+    "title": "DHS 'Predictive Policing' Unit Is Analyzing Americans' Financial Habits"
   },
   {
     "source": "hn",
@@ -11,48 +56,13 @@
   },
   {
     "source": "hn",
-    "url": "https://lanparty.house/",
-    "title": "We built our house for LAN parties"
-  },
-  {
-    "source": "hn",
     "url": "https://weirdgloop.org/blog/google-jail",
     "title": "There's a new \"Google Jail\" for independent wikis"
   },
   {
     "source": "hn",
-    "url": "https://d2lang.com/blog/tala-is-open-source/",
-    "title": "TALA Is Open-Source"
-  },
-  {
-    "source": "hn",
-    "url": "https://danluu.com/agentic-testing/",
-    "title": "How well do agents use test/verification techniques?"
-  },
-  {
-    "source": "hn",
-    "url": "https://newsroom.arm.com/blog/arm-mali-g2-ultra-nx-ai-native-mobile-graphics",
-    "title": "Arm Mali G2-Ultra NX GPU: desktop-class mobile gameplay with AI-native graphics"
-  },
-  {
-    "source": "hn",
-    "url": "https://lax-skyline.parcelscope.net/",
-    "title": "Watch Los Angeles get built, one building at a time (1880–2026)"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.virtualizationhowto.com/2026/09/leaving-vmware-just-got-harder-after-broadcom-pulled-vddk-downloads/",
-    "title": "Leaving VMware just got harder after Broadcom pulled VDDK downloads"
-  },
-  {
-    "source": "hn",
-    "url": "https://jellyfin.org/posts/jellyfin-release-12.0/",
-    "title": "Jellyfin 12.0"
-  },
-  {
-    "source": "hn",
-    "url": "https://anystation.net/",
-    "title": "anystation: Calling any station A public board shaped like a tree. No account"
+    "url": "https://logicola.org/blog/the-new-logicola",
+    "title": "Reverse engineering the 2008 LogiCola, a logic drill program"
   },
   {
     "source": "hn",
@@ -61,28 +71,28 @@
   },
   {
     "source": "hn",
-    "url": "https://rohanadwankar.github.io/posts/platforms.html",
-    "title": "The VMs Powering Mobile Agents (Instinct, Claude Code)"
+    "url": "https://d2lang.com/blog/tala-is-open-source/",
+    "title": "TALA Is Open-Source"
   },
   {
     "source": "hn",
-    "url": "https://www.pm.gov.au/media/my-feed-my-way",
-    "title": "My Feed, My Way"
+    "url": "https://lanparty.house/",
+    "title": "We built our house for LAN parties (2024)"
   },
   {
     "source": "hn",
-    "url": "https://lambdaland.org/posts/2026-09-06-bedrock-v2/",
-    "title": "Emacs Bedrock 2.0"
+    "url": "https://danluu.com/agentic-testing/",
+    "title": "How well do agents use test/verification techniques?"
   },
   {
     "source": "hn",
-    "url": "https://jyn.dev/a-year-to-fix-security/",
-    "title": "We have a year to fix security everywhere"
+    "url": "https://www.virtualizationhowto.com/2026/09/leaving-vmware-just-got-harder-after-broadcom-pulled-vddk-downloads/",
+    "title": "Leaving VMware just got harder after Broadcom pulled VDDK downloads"
   },
   {
     "source": "hn",
-    "url": "https://alvins82.github.io/hangar-harness-model-tests/",
-    "title": "I tested 10 model/harness combinations on the same Three.js task"
+    "url": "https://newsroom.arm.com/blog/arm-mali-g2-ultra-nx-ai-native-mobile-graphics",
+    "title": "Arm Mali G2-Ultra NX GPU: desktop-class mobile gameplay with AI-native graphics"
   },
   {
     "source": "lobsters",
@@ -96,13 +106,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://www.benjoffe.com/fast-time-of-day",
-    "title": "A faster way to convert a timestamp to Hour, Min, Sec"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://jo3-l.dev/posts/bitap/",
-    "title": "Bitap: my favorite string matching algorithm"
+    "url": "https://www.scd31.com/posts/extreme-server-side-rendering",
+    "title": "Extreme Server Side Rendering"
   },
   {
     "source": "lobsters",
@@ -111,23 +116,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://ache.one/notes/vanity-ipv6",
-    "title": "The shortest IPv6 addresses"
+    "url": "https://jo3-l.dev/posts/bitap/",
+    "title": "Bitap: my favorite string matching algorithm"
   },
   {
     "source": "lobsters",
-    "url": "https://cims.nyu.edu/~tristanb/statement.pdf",
-    "title": "Statement on finite-time blowup for forced 3D Euler, and OpenAI's conduct"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://www.scd31.com/posts/extreme-server-side-rendering",
-    "title": "Extreme Server Side Rendering"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://www.scd31.com/posts/nix-files-are-intimate",
-    "title": "My Nix Config Is Intimate"
+    "url": "https://rmondello.com/2026/09/07/switching-password-managers-2026/",
+    "title": "Switching Password Managers in 2026"
   },
   {
     "source": "lobsters",
@@ -136,8 +131,33 @@
   },
   {
     "source": "lobsters",
-    "url": "https://anubis.techaro.lol/blog/2026/anubis-wasm/",
-    "title": "It took a year to ship WebAssembly in Anubis"
+    "url": "https://www.benjoffe.com/fast-time-of-day",
+    "title": "A faster way to convert a timestamp to Hour, Min, Sec"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://ladybird.org/newsletter/2026-08-31/",
+    "title": "This Month in Ladybird - August 2026"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://www.scd31.com/posts/nix-files-are-intimate",
+    "title": "My Nix Config Is Intimate"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://lambdaland.org/posts/2026-09-06-bedrock-v2/",
+    "title": "Emacs Bedrock 2.0 Released"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://ache.one/notes/vanity-ipv6",
+    "title": "The shortest IPv6 addresses"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://inbox.sourceware.org/binutils/CAKSQd8XJVf3jq8boOJcOE_GzcNvcqMUHeW-whbw3uGnVE2iN_w@mail.gmail.com/",
+    "title": "x86 evolution for segmentation and paging"
   },
   {
     "source": "lobsters",
@@ -151,8 +171,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://ladybird.org/newsletter/2026-08-31/",
-    "title": "This Month in Ladybird - August 2026"
+    "url": "https://yui.dev/blog/minesweeper-in-247-bytes",
+    "title": "The Depths of JavaScript: Minesweeper in 247 Bytes"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://anubis.techaro.lol/blog/2026/anubis-wasm/",
+    "title": "It took a year to ship WebAssembly in Anubis"
   },
   {
     "source": "lobsters",
@@ -161,12 +186,82 @@
   },
   {
     "source": "lobsters",
-    "url": "https://inbox.sourceware.org/binutils/CAKSQd8XJVf3jq8boOJcOE_GzcNvcqMUHeW-whbw3uGnVE2iN_w@mail.gmail.com/",
-    "title": "x86 evolution for segmentation and paging"
+    "url": "https://k3xec.com/pigeon/",
+    "title": "pigeon: my experimental PHY (Part 0/12)"
   },
   {
-    "source": "lobsters",
-    "url": "https://www.vldb.org/pvldb/vol19/p4953-fernandez-moctezuma.pdf",
-    "title": "The Dataflow Model Revisited"
+    "source": "pinboard",
+    "url": "https://cloudinabottle.org/blog/launch-post",
+    "title": "Cloud in a Bottle: making self-hosting accessible to everyone | Cloud in a Bottle"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://collusion.wiki/",
+    "title": "Discovery of a new OpenAI agent message board"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://bcantrill.dtrace.org/2026/09/05/the-revolt-of-the-reader/",
+    "title": "The revolt of the reader | The Observation Deck"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://engineering.atspotify.com/2026/9/portal-by-spotify-cut-my-claude-code-token-usage-by-90",
+    "title": "Portal by Spotify cut my Claude Code token usage by 90% | Spotify Engineering"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://ciechanow.ski/",
+    "title": "Bartosz Ciechanowski"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://news.ycombinator.com/item?id=49578280",
+    "title": "Learn Programming with OCaml | Hacker News"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://drewdevault.com/weird-guys/",
+    "title": "Weird little guys of FOSS"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://mail.cyberneticforests.com/models-dont-go-rogue/",
+    "title": "Models Don't Go Rogue"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.npr.org/2026/07/19/nx-s1-5891817/5-clever-design-tricks-to-make-a-small-home-look-bigger",
+    "title": "5 clever ways to make a small space look bigger : NPR"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://zachkehs.com/blog/theres_no_limit_to_how_bad_code_can_get/",
+    "title": "There's No Limit to How Bad Code Can Get"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://cloudinabottle.org/",
+    "title": "Cloud in a Bottle: your corner of the cloud"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://brettcodes.com/im-done-using-ai/",
+    "title": "I'm done using AI – Brett Codes"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.whatwetellai.com/",
+    "title": "What We Tell AI"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://tangledbankforaging.co.uk/2026/09/06/disaster-prep-for-people-who-arent-gun-obsessed-misanthropes/",
+    "title": "Disaster prep for people who aren’t gun-obsessed misanthropes – Tangled Bank Foraging and Fibre Crafts"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://neil.fraser.name/news/2026/09/03/",
+    "title": "Neil Fraser: News: .name Termination"
   }
 ]
