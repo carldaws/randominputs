@@ -21,6 +21,11 @@
   },
   {
     "source": "hn",
+    "url": "https://labguysworld.com/Project_ESCRTs_001.htm",
+    "title": "Electrostatic Cathode Ray Tube Project 1 (2014)"
+  },
+  {
+    "source": "hn",
     "url": "https://about.readthedocs.com/blog/2026/09/2026-ddos-attack/",
     "title": "Understanding the recent DDoS attack against Read the Docs"
   },
@@ -31,8 +36,8 @@
   },
   {
     "source": "hn",
-    "url": "https://www.jamescherti.com/emacs-consult-speed-async-searche-grep-ripgrep-fd-find/",
-    "title": "Why Emacs Consult async searches feel slow and how to speed them up"
+    "url": "https://blog.remijouan.net/posts/libzmq-vsock-pyzmq/",
+    "title": "Use Vsock with Libzmq"
   },
   {
     "source": "hn",
@@ -41,13 +46,13 @@
   },
   {
     "source": "hn",
-    "url": "https://k-monk.org/blog/generating-the-p3-tiling/",
-    "title": "Generating the P3 Tiling"
+    "url": "https://www.jamescherti.com/emacs-consult-speed-async-searche-grep-ripgrep-fd-find/",
+    "title": "Why Emacs Consult async searches feel slow and how to speed them up"
   },
   {
     "source": "hn",
-    "url": "https://bnext.bio/post/we-accidentally-built-a-synthetic-cell-factory",
-    "title": "We accidentally built a synthetic cell factory"
+    "url": "https://k-monk.org/blog/generating-the-p3-tiling/",
+    "title": "Generating the P3 Tiling"
   },
   {
     "source": "lobsters",
@@ -66,13 +71,18 @@
   },
   {
     "source": "lobsters",
-    "url": "https://rdmsr.github.io/writing/turnstiles/",
-    "title": "Solaris Turnstiles"
+    "url": "https://anchorsandlinks.com/posts/primary-keys/",
+    "title": "ID design and primary keys"
   },
   {
     "source": "lobsters",
     "url": "https://cel.cs.brown.edu/blog/design-space-async-await/",
     "title": "A Design Space Exploration of Async/Await"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://rdmsr.github.io/writing/turnstiles/",
+    "title": "Solaris Turnstiles"
   },
   {
     "source": "lobsters",
@@ -86,13 +96,18 @@
   },
   {
     "source": "lobsters",
-    "url": "https://ettolrach.com/blog/rust_when_empty_isnt_bottom.html",
-    "title": "Rust: When Empty Isn't Bottom"
+    "url": "https://bensimms.moe/reverse-engineering-scooter/",
+    "title": "Reverse engineering my e-scooter and rewriting the firmware in rust"
   },
   {
     "source": "lobsters",
-    "url": "https://bensimms.moe/reverse-engineering-scooter/",
-    "title": "Reverse engineering my e-scooter and rewriting the firmware in rust"
+    "url": "https://hackers.pub/@hongminhee/2026/upyo-email-decoupled-from-where-and-how",
+    "title": "Email, decoupled from where and how: A cross-runtime, cross-provider email library for JS & TS"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://ettolrach.com/blog/rust_when_empty_isnt_bottom.html",
+    "title": "Rust: When Empty Isn't Bottom"
   },
   {
     "source": "lobsters",
@@ -101,18 +116,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://anchorsandlinks.com/posts/primary-keys/",
-    "title": "ID design and primary keys"
-  },
-  {
-    "source": "lobsters",
     "url": "https://jerf.org/iri/post/2026/func_args_are_not_colors/",
     "title": "Why Function Arguments Are Not Function Colors"
   },
   {
     "source": "lobsters",
-    "url": "https://hackers.pub/@hongminhee/2026/upyo-email-decoupled-from-where-and-how",
-    "title": "Email, decoupled from where and how: A cross-runtime, cross-provider email library for JS & TS"
+    "url": "https://jordivillar.com/blog/every-millisecond-counts",
+    "title": "Every Millisecond Counts"
   },
   {
     "source": "lobsters",
@@ -131,18 +141,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://jordivillar.com/blog/every-millisecond-counts",
-    "title": "Every Millisecond Counts"
+    "url": "https://clankerfree.org",
+    "title": "software for humans"
   },
   {
     "source": "lobsters",
     "url": "https://andrewxiwu.github.io/public/papers/2019/macrobase-sql-VLDB2019.pdf",
     "title": "DIFF: A Relational Interface for Large-Scale Data Explanation"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://stacks.stanford.edu/file/fk030tb6783/thesis-augmented.pdf",
-    "title": "Efficient and accurate systems for querying unstructured data"
   },
   {
     "source": "pinboard",
