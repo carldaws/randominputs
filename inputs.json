@@ -1,13 +1,18 @@
 [
   {
     "source": "hn",
-    "url": "https://phys.org/news/2026-09-trees-muscle-posture-newly-role.html",
-    "title": "Tension wood: A 'muscle' that can both bend and straighten plants"
+    "url": "https://gwern.net/on-really-trying",
+    "title": "On Really Trying (2009)"
   },
   {
     "source": "hn",
     "url": "https://cims.nyu.edu/~tristanb/statement.pdf",
     "title": "Navier-Stokes – Tristan Buckmaster [pdf]"
+  },
+  {
+    "source": "hn",
+    "url": "https://phys.org/news/2026-09-trees-muscle-posture-newly-role.html",
+    "title": "Tension wood: A 'muscle' that can both bend and straighten plants"
   },
   {
     "source": "hn",
@@ -21,11 +26,6 @@
   },
   {
     "source": "hn",
-    "url": "https://www.racunalniski-muzej.si/en/the-origins-of-partners-computer-case/",
-    "title": "The origins of Partner’s computer case"
-  },
-  {
-    "source": "hn",
     "url": "https://www.inceptionlabs.ai/blog/introducing-mercury-2-5",
     "title": "Mercury 2.5"
   },
@@ -36,8 +36,8 @@
   },
   {
     "source": "hn",
-    "url": "https://e-infinity.space/picture-book/",
-    "title": "A Topological Picture Book, Rendered"
+    "url": "https://swtos.softwarewrighter.com/",
+    "title": "Interactive demo of MINIX1-like O/S on emulated CPU"
   },
   {
     "source": "hn",
@@ -46,23 +46,18 @@
   },
   {
     "source": "hn",
-    "url": "https://www.thran.uk/writ/devlog/2026/09/phpbb-144-in-docker.html",
-    "title": "Getting phpBB 1.4.4 working in Docker"
+    "url": "https://www.racunalniski-muzej.si/en/the-origins-of-partners-computer-case/",
+    "title": "The origins of Partner’s computer case"
+  },
+  {
+    "source": "hn",
+    "url": "https://e-infinity.space/picture-book/",
+    "title": "A Topological Picture Book, Rendered"
   },
   {
     "source": "hn",
     "url": "https://pointersgonewild.com/2026-08-25-replacing-a-rust-enum-with-a-64-bit-word/",
     "title": "Replacing a Rust Enum with a 64-Bit Word Made My Interpreter 17% Faster"
-  },
-  {
-    "source": "hn",
-    "url": "https://glocq.com/en/blog/20260827/",
-    "title": "Animation in Bevy: The Big Picture"
-  },
-  {
-    "source": "hn",
-    "url": "https://hackaday.com/2026/09/07/the-helicopter-with-radioactive-blades/",
-    "title": "The Helicopter with Radioactive Blades"
   },
   {
     "source": "lobsters",
@@ -91,8 +86,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://jellyfin.org/posts/jellyfin-release-12.0",
-    "title": "Jellyfin 12.0"
+    "url": "https://bensimms.moe/reverse-engineering-scooter/",
+    "title": "Reverse engineering my e-scooter and rewriting the firmware in rust"
   },
   {
     "source": "lobsters",
@@ -101,8 +96,18 @@
   },
   {
     "source": "lobsters",
+    "url": "https://jellyfin.org/posts/jellyfin-release-12.0",
+    "title": "Jellyfin 12.0"
+  },
+  {
+    "source": "lobsters",
     "url": "https://hawksley.dev/blog/get-free-arpa-domain",
     "title": "How to get a free .arpa domain"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://rdmsr.github.io/writing/turnstiles/",
+    "title": "Solaris Turnstiles"
   },
   {
     "source": "lobsters",
@@ -111,8 +116,18 @@
   },
   {
     "source": "lobsters",
-    "url": "https://bensimms.moe/reverse-engineering-scooter/",
-    "title": "Reverse engineering my e-scooter and rewriting the firmware in rust"
+    "url": "https://cetra3.github.io/blog/state-of-allocators-2026-part-2/",
+    "title": "The State of Allocators in 2026 - 6 Months Later"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://clankerfree.org",
+    "title": "software for humans"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://boyter.org/posts/did-i-just-get-buster-scrugged/",
+    "title": "Sloc Cloc and Code - Did I just get Buster Scrugged?"
   },
   {
     "source": "lobsters",
@@ -123,11 +138,6 @@
     "source": "lobsters",
     "url": "https://www.scd31.com/posts/nix-files-are-intimate",
     "title": "My Nix Config Is Intimate"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://boyter.org/posts/did-i-just-get-buster-scrugged/",
-    "title": "Sloc Cloc and Code - Did I just get Buster Scrugged?"
   },
   {
     "source": "lobsters",
@@ -146,102 +156,7 @@
   },
   {
     "source": "lobsters",
-    "url": "https://mcpherrin.ca/2026/09/07/rsa.html",
-    "title": "I’ve factored the RSA keys of a Certificate Authority…from the 90s"
-  },
-  {
-    "source": "lobsters",
     "url": "https://vale.rocks/posts/html-relics",
     "title": "Antiquated HTML Snippets and Artefacts"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://blog.mro.name/2026/09/web-from-dial-up/",
-    "title": "Serving Web from volatile Dial-up IP"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://yui.dev/blog/minesweeper-in-247-bytes",
-    "title": "The Depths of JavaScript: Minesweeper in 247 Bytes"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://austinhenley.com/blog/typeinference.html",
-    "title": "Type inference has usability problems (2019)"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://cloudinabottle.org/blog/launch-post",
-    "title": "Cloud in a Bottle: making self-hosting accessible to everyone | Cloud in a Bottle"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://collusion.wiki/",
-    "title": "Discovery of a new OpenAI agent message board"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://bcantrill.dtrace.org/2026/09/05/the-revolt-of-the-reader/",
-    "title": "The revolt of the reader | The Observation Deck"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://engineering.atspotify.com/2026/9/portal-by-spotify-cut-my-claude-code-token-usage-by-90",
-    "title": "Portal by Spotify cut my Claude Code token usage by 90% | Spotify Engineering"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://ciechanow.ski/",
-    "title": "Bartosz Ciechanowski"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://news.ycombinator.com/item?id=49578280",
-    "title": "Learn Programming with OCaml | Hacker News"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://drewdevault.com/weird-guys/",
-    "title": "Weird little guys of FOSS"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://mail.cyberneticforests.com/models-dont-go-rogue/",
-    "title": "Models Don't Go Rogue"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.npr.org/2026/07/19/nx-s1-5891817/5-clever-design-tricks-to-make-a-small-home-look-bigger",
-    "title": "5 clever ways to make a small space look bigger : NPR"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://zachkehs.com/blog/theres_no_limit_to_how_bad_code_can_get/",
-    "title": "There's No Limit to How Bad Code Can Get"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://cloudinabottle.org/",
-    "title": "Cloud in a Bottle: your corner of the cloud"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://brettcodes.com/im-done-using-ai/",
-    "title": "I'm done using AI – Brett Codes"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.whatwetellai.com/",
-    "title": "What We Tell AI"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://tangledbankforaging.co.uk/2026/09/06/disaster-prep-for-people-who-arent-gun-obsessed-misanthropes/",
-    "title": "Disaster prep for people who aren’t gun-obsessed misanthropes – Tangled Bank Foraging and Fibre Crafts"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://neil.fraser.name/news/2026/09/03/",
-    "title": "Neil Fraser: News: .name Termination"
   }
 ]
