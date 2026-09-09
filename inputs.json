@@ -2,7 +2,12 @@
   {
     "source": "hn",
     "url": "https://tailwindcss.com/blog/tailwind-is-joining-shopify",
-    "title": "Tailwind Labs is joining Shopify"
+    "title": "Shopify acquires Tailwind"
+  },
+  {
+    "source": "hn",
+    "url": "https://tautology.town/2026/06/01/card-networks.html",
+    "title": "What do Visa and Mastercard do? An intro to card networks"
   },
   {
     "source": "hn",
@@ -11,8 +16,8 @@
   },
   {
     "source": "hn",
-    "url": "https://tautology.town/2026/06/01/card-networks.html",
-    "title": "What do Visa and Mastercard do? An intro to card networks"
+    "url": "https://desertant.com/blog/introducing-desert-ant-labs/",
+    "title": "Desert Ant Labs: local, fast models that run on device"
   },
   {
     "source": "hn",
@@ -26,43 +31,13 @@
   },
   {
     "source": "hn",
-    "url": "https://desertant.com/blog/introducing-desert-ant-labs/",
-    "title": "Desert Ant Labs: local, fast models that run on device"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.not-ship.com/united-nations-map/",
-    "title": "The UN challenges five centuries of cartography"
-  },
-  {
-    "source": "hn",
     "url": "https://www.jamescherti.com/emacs-consult-speed-async-searche-grep-ripgrep-fd-find/",
     "title": "Why Emacs Consult async searches feel slow and how to speed them up"
   },
   {
     "source": "hn",
-    "url": "https://bnext.bio/post/we-accidentally-built-a-synthetic-cell-factory",
-    "title": "We accidentally built a synthetic cell factory"
-  },
-  {
-    "source": "hn",
     "url": "https://opusfived.dev/",
-    "title": "Claude, change the \"Add to Cart\" button to blue"
-  },
-  {
-    "source": "hn",
-    "url": "https://entropicthoughts.com/better-ai-comment-classifier",
-    "title": "Better AI code comment detector"
-  },
-  {
-    "source": "hn",
-    "url": "https://rahulrav.com/blog/magic_move.html",
-    "title": "Magic Move for Code Snippets from first principles"
-  },
-  {
-    "source": "hn",
-    "url": "https://jordivillar.com/blog/every-millisecond-counts",
-    "title": "Every Millisecond Counts"
+    "title": "Claude, change the “Add to Cart” button to blue"
   },
   {
     "source": "hn",
@@ -71,18 +46,13 @@
   },
   {
     "source": "hn",
-    "url": "https://www.sudomoin.com/p/consumer-claims",
-    "title": "I haven't lost a customer service fight in seven months"
+    "url": "https://bnext.bio/post/we-accidentally-built-a-synthetic-cell-factory",
+    "title": "We accidentally built a synthetic cell factory"
   },
   {
-    "source": "hn",
-    "url": "https://rough-ideas.bearblog.dev/my-mental-model-of-ai-broke-on-september-8/",
-    "title": "My Mental Model of AI Broke on September 8"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.frankchiarulli.com/blog/best-silicone-usb-cable/",
-    "title": "Searching for the best silicone USB cable"
+    "source": "lobsters",
+    "url": "https://ploum.net/2026-09-09-ai_policy.html",
+    "title": "I Don’t Want to Interact With Stochastic Parrots"
   },
   {
     "source": "lobsters",
@@ -96,13 +66,18 @@
   },
   {
     "source": "lobsters",
-    "url": "https://ploum.net/2026-09-09-ai_policy.html",
-    "title": "I Don’t Want to Interact With Stochastic Parrots"
+    "url": "https://rdmsr.github.io/writing/turnstiles/",
+    "title": "Solaris Turnstiles"
   },
   {
     "source": "lobsters",
-    "url": "https://rdmsr.github.io/writing/turnstiles/",
-    "title": "Solaris Turnstiles"
+    "url": "https://cel.cs.brown.edu/blog/design-space-async-await/",
+    "title": "A Design Space Exploration of Async/Await"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://entropicthoughts.com/better-ai-comment-classifier",
+    "title": "Better AI code comment detector"
   },
   {
     "source": "lobsters",
@@ -126,13 +101,23 @@
   },
   {
     "source": "lobsters",
-    "url": "https://bergie.iki.fi/blog/eupl/",
-    "title": "I changed my license to EUPL"
+    "url": "https://anchorsandlinks.com/posts/primary-keys/",
+    "title": "ID design and primary keys"
   },
   {
     "source": "lobsters",
     "url": "https://jerf.org/iri/post/2026/func_args_are_not_colors/",
     "title": "Why Function Arguments Are Not Function Colors"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://hackers.pub/@hongminhee/2026/upyo-email-decoupled-from-where-and-how",
+    "title": "Email, decoupled from where and how: A cross-runtime, cross-provider email library for JS & TS"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://bergie.iki.fi/blog/eupl/",
+    "title": "I changed my license to EUPL"
   },
   {
     "source": "lobsters",
@@ -146,28 +131,18 @@
   },
   {
     "source": "lobsters",
-    "url": "https://hackers.pub/@hongminhee/2026/upyo-email-decoupled-from-where-and-how",
-    "title": "Email, decoupled from where and how: A cross-runtime, cross-provider email library for JS & TS"
+    "url": "https://jordivillar.com/blog/every-millisecond-counts",
+    "title": "Every Millisecond Counts"
   },
   {
     "source": "lobsters",
-    "url": "https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/small2048/",
-    "title": "Analysing 2048 on a 3×3 board"
+    "url": "https://andrewxiwu.github.io/public/papers/2019/macrobase-sql-VLDB2019.pdf",
+    "title": "DIFF: A Relational Interface for Large-Scale Data Explanation"
   },
   {
     "source": "lobsters",
-    "url": "https://clankerfree.org",
-    "title": "software for humans"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://cel.cs.brown.edu/blog/design-space-async-await/",
-    "title": "A Design Space Exploration of Async/Await"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://jellyfin.org/posts/jellyfin-release-12.0",
-    "title": "Jellyfin 12.0"
+    "url": "https://stacks.stanford.edu/file/fk030tb6783/thesis-augmented.pdf",
+    "title": "Efficient and accurate systems for querying unstructured data"
   },
   {
     "source": "pinboard",
