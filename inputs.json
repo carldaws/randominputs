@@ -1,13 +1,43 @@
 [
   {
     "source": "hn",
-    "url": "https://gwern.net/on-really-trying",
-    "title": "On Really Trying (2009)"
+    "url": "https://tailwindcss.com/blog/tailwind-is-joining-shopify",
+    "title": "Tailwind Labs is joining Shopify"
+  },
+  {
+    "source": "hn",
+    "url": "https://desertant.com/blog/introducing-desert-ant-labs/",
+    "title": "Desert Ant Labs: local, fast models that run on device"
+  },
+  {
+    "source": "hn",
+    "url": "https://opusfived.dev/",
+    "title": "Claude, change the \"Add to Cart\" button to blue"
+  },
+  {
+    "source": "hn",
+    "url": "https://buttondown.com/blog/lotus-notes-email",
+    "title": "Lotus Notes and the dangers of starting from scratch"
   },
   {
     "source": "hn",
     "url": "https://cims.nyu.edu/~tristanb/statement.pdf",
     "title": "Navier-Stokes – Tristan Buckmaster [pdf]"
+  },
+  {
+    "source": "hn",
+    "url": "https://mbugert.de/posts/2026-09-09-bedroom-lamp-build/",
+    "title": "Building a Wall Lamp from Scratch"
+  },
+  {
+    "source": "hn",
+    "url": "https://eighty-twenty.org/2026/09/04/smolts",
+    "title": "Smolts: A pedagogical IDE for a teaching language"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.frankchiarulli.com/blog/best-silicone-usb-cable/",
+    "title": "Searching for the best silicone USB cable"
   },
   {
     "source": "hn",
@@ -31,58 +61,13 @@
   },
   {
     "source": "hn",
-    "url": "https://gpu-lexer.vercel.app/",
-    "title": "27.5KB language-agnostic WebGPU syntax highlighter"
-  },
-  {
-    "source": "hn",
-    "url": "https://swtos.softwarewrighter.com/",
-    "title": "Interactive demo of MINIX1-like O/S on emulated CPU"
-  },
-  {
-    "source": "hn",
-    "url": "https://lanparty.house/",
-    "title": "We built our house for LAN parties (2024)"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.racunalniski-muzej.si/en/the-origins-of-partners-computer-case/",
-    "title": "The origins of Partner’s computer case"
-  },
-  {
-    "source": "hn",
-    "url": "https://e-infinity.space/picture-book/",
-    "title": "A Topological Picture Book, Rendered"
-  },
-  {
-    "source": "hn",
-    "url": "https://pointersgonewild.com/2026-08-25-replacing-a-rust-enum-with-a-64-bit-word/",
-    "title": "Replacing a Rust Enum with a 64-Bit Word Made My Interpreter 17% Faster"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://herecomesthemoon.net/2026/09/why-is-big-tech-bad/",
-    "title": "What makes $BigTechCompany's products bad, anyway?"
+    "url": "https://www.openculture.com/2026/09/the-ancient-greek-water-clock-that-kept-the-most-accurate-time-for-1800-years.html",
+    "title": "The Ancient Greek Water Clock That Kept the Most Accurate Time for 1,800 Years"
   },
   {
     "source": "lobsters",
     "url": "https://rmondello.com/2026/09/07/switching-password-managers-2026/",
     "title": "Switching Password Managers in 2026"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://bergie.iki.fi/blog/eupl/",
-    "title": "I changed my license to EUPL"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://crescentro.se/posts/euro-cloud-providers-2026/",
-    "title": "The state of European cloud providers in 2026"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://www.scd31.com/posts/extreme-server-side-rendering",
-    "title": "Extreme Server Side Rendering"
   },
   {
     "source": "lobsters",
@@ -96,23 +81,18 @@
   },
   {
     "source": "lobsters",
-    "url": "https://jellyfin.org/posts/jellyfin-release-12.0",
-    "title": "Jellyfin 12.0"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://hawksley.dev/blog/get-free-arpa-domain",
-    "title": "How to get a free .arpa domain"
-  },
-  {
-    "source": "lobsters",
     "url": "https://rdmsr.github.io/writing/turnstiles/",
     "title": "Solaris Turnstiles"
   },
   {
     "source": "lobsters",
-    "url": "https://jo3-l.dev/posts/bitap/",
-    "title": "Bitap: my favorite string matching algorithm"
+    "url": "https://rustls.dev/blog/2026-09-08-a-decade-of-rustls/",
+    "title": "A decade of rustls"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://bergie.iki.fi/blog/eupl/",
+    "title": "I changed my license to EUPL"
   },
   {
     "source": "lobsters",
@@ -121,8 +101,38 @@
   },
   {
     "source": "lobsters",
+    "url": "https://crescentro.se/posts/euro-cloud-providers-2026/",
+    "title": "The state of European cloud providers in 2026"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://www.scd31.com/posts/extreme-server-side-rendering",
+    "title": "Extreme Server Side Rendering"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://jerf.org/iri/post/2026/func_args_are_not_colors/",
+    "title": "Why Function Arguments Are Not Function Colors"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://jellyfin.org/posts/jellyfin-release-12.0",
+    "title": "Jellyfin 12.0"
+  },
+  {
+    "source": "lobsters",
     "url": "https://clankerfree.org",
     "title": "software for humans"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://hawksley.dev/blog/get-free-arpa-domain",
+    "title": "How to get a free .arpa domain"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://www.jamescherti.com/emacs-consult-speed-async-searche-grep-ripgrep-fd-find/",
+    "title": "Why Emacs Consult async searches feel slow and how to speed them up"
   },
   {
     "source": "lobsters",
@@ -131,32 +141,72 @@
   },
   {
     "source": "lobsters",
-    "url": "https://ladybird.org/newsletter/2026-08-31/",
-    "title": "This Month in Ladybird - August 2026"
+    "url": "https://jo3-l.dev/posts/bitap/",
+    "title": "Bitap: my favorite string matching algorithm"
   },
   {
     "source": "lobsters",
-    "url": "https://www.scd31.com/posts/nix-files-are-intimate",
-    "title": "My Nix Config Is Intimate"
+    "url": "https://idlip.in/posts/playing-emacs/",
+    "title": "Playing with Emacs"
   },
   {
-    "source": "lobsters",
-    "url": "https://inbox.sourceware.org/binutils/CAKSQd8XJVf3jq8boOJcOE_GzcNvcqMUHeW-whbw3uGnVE2iN_w@mail.gmail.com/",
-    "title": "x86 evolution for segmentation and paging"
+    "source": "pinboard",
+    "url": "https://cloudinabottle.org/blog/launch-post",
+    "title": "Cloud in a Bottle: making self-hosting accessible to everyone | Cloud in a Bottle"
   },
   {
-    "source": "lobsters",
-    "url": "https://www.benjoffe.com/fast-time-of-day",
-    "title": "A faster way to convert a timestamp to Hour, Min, Sec"
+    "source": "pinboard",
+    "url": "https://drewdevault.com/weird-guys/",
+    "title": "Weird little guys of FOSS"
   },
   {
-    "source": "lobsters",
-    "url": "https://lambdaland.org/posts/2026-09-06-bedrock-v2/",
-    "title": "Emacs Bedrock 2.0 Released"
+    "source": "pinboard",
+    "url": "https://trackables.app/",
+    "title": "Trackables"
   },
   {
-    "source": "lobsters",
+    "source": "pinboard",
+    "url": "https://collusion.wiki/",
+    "title": "Discovery of a new OpenAI agent message board"
+  },
+  {
+    "source": "pinboard",
     "url": "https://vale.rocks/posts/html-relics",
-    "title": "Antiquated HTML Snippets and Artefacts"
+    "title": "Antiquated HTML Snippets and Artefacts | Vale.Rocks"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://bcantrill.dtrace.org/2026/09/05/the-revolt-of-the-reader/",
+    "title": "The revolt of the reader | The Observation Deck"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.npr.org/2026/07/19/nx-s1-5891817/5-clever-design-tricks-to-make-a-small-home-look-bigger",
+    "title": "5 clever ways to make a small space look bigger : NPR"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://markview.io/",
+    "title": "MarkView - The Markdown Viewer for Everyone"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://mail.cyberneticforests.com/models-dont-go-rogue/",
+    "title": "Models Don't Go Rogue"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://engineering.atspotify.com/2026/9/portal-by-spotify-cut-my-claude-code-token-usage-by-90",
+    "title": "Portal by Spotify cut my Claude Code token usage by 90% | Spotify Engineering"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://mckinleysymbols.com/",
+    "title": "McKinley — Design your own SF Symbols"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://ciechanow.ski/",
+    "title": "Bartosz Ciechanowski"
   }
 ]
