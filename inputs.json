@@ -11,13 +11,13 @@
   },
   {
     "source": "hn",
-    "url": "https://gnuradioworld.com/",
-    "title": "GNU Radio in the browser"
+    "url": "https://desertant.com/blog/introducing-desert-ant-labs/",
+    "title": "Desert Ant Labs: local, fast models that run on device"
   },
   {
     "source": "hn",
-    "url": "https://desertant.com/blog/introducing-desert-ant-labs/",
-    "title": "Desert Ant Labs: local, fast models that run on device"
+    "url": "https://gnuradioworld.com/",
+    "title": "GNU Radio in the browser"
   },
   {
     "source": "hn",
@@ -48,11 +48,6 @@
     "source": "hn",
     "url": "https://www.jamescherti.com/emacs-consult-speed-async-searche-grep-ripgrep-fd-find/",
     "title": "Why Emacs Consult async searches feel slow and how to speed them up"
-  },
-  {
-    "source": "hn",
-    "url": "https://k-monk.org/blog/generating-the-p3-tiling/",
-    "title": "Generating the P3 Tiling"
   },
   {
     "source": "lobsters",
@@ -126,8 +121,18 @@
   },
   {
     "source": "lobsters",
+    "url": "https://fzakaria.com/2026/09/09/review-a-pull-request-by-booting-it",
+    "title": "Review a pull request by booting it"
+  },
+  {
+    "source": "lobsters",
     "url": "https://bergie.iki.fi/blog/eupl/",
     "title": "I changed my license to EUPL"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://stacks.stanford.edu/file/fk030tb6783/thesis-augmented.pdf",
+    "title": "Efficient and accurate systems for querying unstructured data"
   },
   {
     "source": "lobsters",
@@ -138,16 +143,6 @@
     "source": "lobsters",
     "url": "https://www.scd31.com/posts/extreme-server-side-rendering",
     "title": "Extreme Server Side Rendering"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://clankerfree.org",
-    "title": "software for humans"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://andrewxiwu.github.io/public/papers/2019/macrobase-sql-VLDB2019.pdf",
-    "title": "DIFF: A Relational Interface for Large-Scale Data Explanation"
   },
   {
     "source": "pinboard",
