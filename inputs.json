@@ -1,6 +1,26 @@
 [
   {
     "source": "hn",
+    "url": "https://rivendell.dmitrybrant.com/relativity/",
+    "title": "Show HN: What if the speed of light was 5 km/h?"
+  },
+  {
+    "source": "hn",
+    "url": "https://psantosl.github.io/posts/version-control-second-coming/",
+    "title": "Version Control Second Coming"
+  },
+  {
+    "source": "hn",
+    "url": "https://geo-tp.github.io/ESP32-Bit-Pirate/",
+    "title": "ESP32 Bit Pirate Hardware Hacking Kit with Web Tools That Speaks Every Protocol"
+  },
+  {
+    "source": "hn",
+    "url": "https://en.wikipedia.org/wiki/Larger_Pacific_striped_octopus",
+    "title": "Larger Pacific Striped Octopus"
+  },
+  {
+    "source": "hn",
     "url": "https://tailwindcss.com/blog/tailwind-is-joining-shopify",
     "title": "Shopify acquires Tailwind"
   },
@@ -8,6 +28,21 @@
     "source": "hn",
     "url": "https://tautology.town/2026/06/01/card-networks.html",
     "title": "What do Visa and Mastercard do? An intro to card networks"
+  },
+  {
+    "source": "hn",
+    "url": "https://hugovergnes.github.io/little-lm-3-8b/",
+    "title": "Training a 3.8B LLM to 0.384 CORE for $998 – Hugo Vergnes"
+  },
+  {
+    "source": "hn",
+    "url": "https://thomasahle.com/fast-polynomials/",
+    "title": "Show HN: Compute polynomials twice as fast"
+  },
+  {
+    "source": "hn",
+    "url": "https://slimemoldtimemold.com/2026/08/05/a-stupid-idea-for-ai-alignment-we-came-up-with-by-looking-at-the-list-of-specification-gaming-behaviours/",
+    "title": "A Stupid Idea for AI Alignment We Came with by Looking at Specification Gaming"
   },
   {
     "source": "hn",
@@ -21,13 +56,8 @@
   },
   {
     "source": "hn",
-    "url": "https://labguysworld.com/Project_ESCRTs_001.htm",
-    "title": "Electrostatic Cathode Ray Tube Project 1 (2014)"
-  },
-  {
-    "source": "hn",
-    "url": "https://about.readthedocs.com/blog/2026/09/2026-ddos-attack/",
-    "title": "Understanding the recent DDoS attack against Read the Docs"
+    "url": "https://www.not-ship.com/united-nations-map/",
+    "title": "The UN challenges five centuries of cartography"
   },
   {
     "source": "hn",
@@ -36,18 +66,8 @@
   },
   {
     "source": "hn",
-    "url": "https://blog.remijouan.net/posts/libzmq-vsock-pyzmq/",
-    "title": "Use Vsock with Libzmq"
-  },
-  {
-    "source": "hn",
-    "url": "https://opusfived.dev/",
-    "title": "Claude, change the “Add to Cart” button to blue"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.jamescherti.com/emacs-consult-speed-async-searche-grep-ripgrep-fd-find/",
-    "title": "Why Emacs Consult async searches feel slow and how to speed them up"
+    "url": "https://about.readthedocs.com/blog/2026/09/2026-ddos-attack/",
+    "title": "Understanding the recent DDoS attack against Read the Docs"
   },
   {
     "source": "lobsters",
@@ -56,13 +76,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://nishantjosh.dev/blogs/how-to-build-a-fking-printer/",
-    "title": "How to build a f**king printer"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://rustls.dev/blog/2026-09-08-a-decade-of-rustls/",
-    "title": "A decade of rustls"
+    "url": "https://cel.cs.brown.edu/blog/design-space-async-await/",
+    "title": "A Design Space Exploration of Async/Await"
   },
   {
     "source": "lobsters",
@@ -71,13 +86,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://cel.cs.brown.edu/blog/design-space-async-await/",
-    "title": "A Design Space Exploration of Async/Await"
+    "url": "https://rustls.dev/blog/2026-09-08-a-decade-of-rustls/",
+    "title": "A decade of rustls"
   },
   {
     "source": "lobsters",
-    "url": "https://rdmsr.github.io/writing/turnstiles/",
-    "title": "Solaris Turnstiles"
+    "url": "https://nishantjosh.dev/blogs/how-to-build-a-fking-printer/",
+    "title": "How to build a f**king printer"
   },
   {
     "source": "lobsters",
@@ -86,8 +101,23 @@
   },
   {
     "source": "lobsters",
-    "url": "https://rmondello.com/2026/09/07/switching-password-managers-2026/",
-    "title": "Switching Password Managers in 2026"
+    "url": "https://rdmsr.github.io/writing/turnstiles/",
+    "title": "Solaris Turnstiles"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://fzakaria.com/2026/09/09/review-a-pull-request-by-booting-it",
+    "title": "Review a pull request by booting it"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://codon.org.uk/~mjg59/blog/p/systemio-conflicts-are-not-firmware-bugs/",
+    "title": "SystemIO conflicts are not firmware bugs"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/small2048/",
+    "title": "Analysing 2048 on a 3×3 board"
   },
   {
     "source": "lobsters",
@@ -96,13 +126,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://hackers.pub/@hongminhee/2026/upyo-email-decoupled-from-where-and-how",
-    "title": "Email, decoupled from where and how: A cross-runtime, cross-provider email library for JS & TS"
+    "url": "https://www.jamescherti.com/emacs-consult-speed-async-searche-grep-ripgrep-fd-find/",
+    "title": "Why Emacs Consult async searches feel slow and how to speed them up"
   },
   {
     "source": "lobsters",
-    "url": "https://ettolrach.com/blog/rust_when_empty_isnt_bottom.html",
-    "title": "Rust: When Empty Isn't Bottom"
+    "url": "https://rmondello.com/2026/09/07/switching-password-managers-2026/",
+    "title": "Switching Password Managers in 2026"
   },
   {
     "source": "lobsters",
@@ -116,13 +146,23 @@
   },
   {
     "source": "lobsters",
+    "url": "https://ettolrach.com/blog/rust_when_empty_isnt_bottom.html",
+    "title": "Rust: When Empty Isn't Bottom"
+  },
+  {
+    "source": "lobsters",
     "url": "https://jordivillar.com/blog/every-millisecond-counts",
     "title": "Every Millisecond Counts"
   },
   {
     "source": "lobsters",
-    "url": "https://fzakaria.com/2026/09/09/review-a-pull-request-by-booting-it",
-    "title": "Review a pull request by booting it"
+    "url": "https://hackers.pub/@hongminhee/2026/upyo-email-decoupled-from-where-and-how",
+    "title": "Email, decoupled from where and how: A cross-runtime, cross-provider email library for JS & TS"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://utcc.utoronto.ca/~cks/space/blog/unix/LoadAverageHistoricalIssues",
+    "title": "Some (mostly historical) issues with the Unix load average"
   },
   {
     "source": "lobsters",
@@ -133,75 +173,5 @@
     "source": "lobsters",
     "url": "https://stacks.stanford.edu/file/fk030tb6783/thesis-augmented.pdf",
     "title": "Efficient and accurate systems for querying unstructured data"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://crescentro.se/posts/euro-cloud-providers-2026/",
-    "title": "The state of European cloud providers in 2026"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://www.scd31.com/posts/extreme-server-side-rendering",
-    "title": "Extreme Server Side Rendering"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://cloudinabottle.org/blog/launch-post",
-    "title": "Cloud in a Bottle: making self-hosting accessible to everyone | Cloud in a Bottle"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://drewdevault.com/weird-guys/",
-    "title": "Weird little guys of FOSS"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://trackables.app/",
-    "title": "Trackables"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://collusion.wiki/",
-    "title": "Discovery of a new OpenAI agent message board"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://vale.rocks/posts/html-relics",
-    "title": "Antiquated HTML Snippets and Artefacts | Vale.Rocks"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://bcantrill.dtrace.org/2026/09/05/the-revolt-of-the-reader/",
-    "title": "The revolt of the reader | The Observation Deck"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.npr.org/2026/07/19/nx-s1-5891817/5-clever-design-tricks-to-make-a-small-home-look-bigger",
-    "title": "5 clever ways to make a small space look bigger : NPR"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://markview.io/",
-    "title": "MarkView - The Markdown Viewer for Everyone"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://mail.cyberneticforests.com/models-dont-go-rogue/",
-    "title": "Models Don't Go Rogue"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://engineering.atspotify.com/2026/9/portal-by-spotify-cut-my-claude-code-token-usage-by-90",
-    "title": "Portal by Spotify cut my Claude Code token usage by 90% | Spotify Engineering"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://mckinleysymbols.com/",
-    "title": "McKinley — Design your own SF Symbols"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://ciechanow.ski/",
-    "title": "Bartosz Ciechanowski"
   }
 ]
