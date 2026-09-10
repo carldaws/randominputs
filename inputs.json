@@ -1,18 +1,23 @@
 [
   {
     "source": "hn",
+    "url": "https://rustfoundation.org/media/guest-post-rust-is-tier-1-language-at-microsoft/",
+    "title": "Rust is tier-1 language at Microsoft"
+  },
+  {
+    "source": "hn",
+    "url": "https://graybeard.ing/software-drives-people-insane/",
+    "title": "I have a theory that software drives people insane"
+  },
+  {
+    "source": "hn",
     "url": "https://shopify.engineering/back-to-native",
     "title": "Shopify moves back to Native from React Native"
   },
   {
     "source": "hn",
-    "url": "https://rustfoundation.org/media/guest-post-rust-is-tier-1-language-at-microsoft/",
-    "title": "Rust Is Tier-1 Language at Microsoft"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.marketingdive.com/news/amazon-pilots-ad-services-in-chatgpt-what-marketers-need-to-know/829945/",
-    "title": "Amazon pilots ad services in ChatGPT"
+    "url": "https://musictheory.pugetsound.edu/mt21c/MusicTheory.html",
+    "title": "Music Theory for the 21st-Century Classroom"
   },
   {
     "source": "hn",
@@ -21,13 +26,23 @@
   },
   {
     "source": "hn",
+    "url": "https://neki.dev/",
+    "title": "Neki is sharded Postgres by PlanetScale"
+  },
+  {
+    "source": "hn",
     "url": "https://consumerrights.wiki/w/Sony_PlayStation_digital_game_ownership_lawsuit",
     "title": "List of references on Sony websites to players \"owning\" their digital games"
   },
   {
     "source": "hn",
-    "url": "https://devz.cl/posts/how-to-write/",
-    "title": "To write non-fiction, draw the trunk, then the rest of the tree"
+    "url": "https://www.thecollector.com/casablanca-unproduced-play-movie-history/",
+    "title": "Casablanca: How an unproduced play marched into movie history"
+  },
+  {
+    "source": "hn",
+    "url": "https://lemire.me/blog/2026/09/03/python-sets-and-dictionaries-can-have-quadratic-time-performance/",
+    "title": "Python sets and dictionaries can have quadratic-time performance"
   },
   {
     "source": "hn",
@@ -36,43 +51,38 @@
   },
   {
     "source": "hn",
-    "url": "https://learningto.co/",
-    "title": "Show HN: I couldn't afford interview prep, so I built a free alternative"
+    "url": "https://devz.cl/posts/how-to-write/",
+    "title": "To write non-fiction, draw the trunk, then the rest of the tree"
   },
   {
     "source": "hn",
-    "url": "https://rivendell.dmitrybrant.com/relativity/",
-    "title": "Show HN: What if the speed of light was 5 km/h?"
+    "url": "https://ayles.github.io/doom-in-kernel/",
+    "title": "Show HN: DOOM in the kernel, or fibers in eBPF"
   },
   {
     "source": "hn",
-    "url": "https://www.ianvisits.co.uk/articles/the-worlds-first-drink-driving-conviction-may-have-happened-in-london-92107/",
-    "title": "The first drink-driving conviction may have happened in London"
+    "url": "https://ai-2027.com",
+    "title": "AI 2027 (2025)"
   },
   {
     "source": "hn",
-    "url": "https://turdle.fun/",
-    "title": "Who Dung It? (Turdle.fun)"
+    "url": "https://usefeyn.com/blog/multimatte/",
+    "title": "Show HN: MultiMatte, a Promptable Image Background Removal Model"
   },
   {
     "source": "hn",
-    "url": "https://tautology.town/2026/06/01/card-networks.html",
-    "title": "What do Visa and Mastercard do? An intro to card networks"
+    "url": "https://greaber.github.io/syq/",
+    "title": "Show HN: Syq – copy files between machines fast (better than rsync)"
   },
   {
-    "source": "hn",
-    "url": "https://blog.jim-nielsen.com/2026/hands-off-my-cables/",
-    "title": "Don't Let Anyone Take Away Your Big Box of Cables"
+    "source": "lobsters",
+    "url": "https://maurycyz.com/misc/domains/",
+    "title": "A rant about phishing: It's not the user's fault (and not DNS either)"
   },
   {
-    "source": "hn",
-    "url": "https://en.wikipedia.org/wiki/Larger_Pacific_striped_octopus",
-    "title": "Larger Pacific Striped Octopus"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.thelec.net/news/articleView.html?idxno=12835",
-    "title": "Samsung Debuts zHBM Prototype, Stacking Memory Directly on AI Accelerators"
+    "source": "lobsters",
+    "url": "https://abstractnonsense.xyz/microblog/2026-09-07-xteink-x4-pro-review/",
+    "title": "Xteink X4 Pro review"
   },
   {
     "source": "lobsters",
@@ -86,28 +96,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://maurycyz.com/misc/domains/",
-    "title": "A rant about phishing: It's not the user's fault (and not DNS either)"
+    "url": "https://slugcat.systems/post/26-09-10-yaml-spec/",
+    "title": "It's not the YAML spec's fault, but"
   },
   {
     "source": "lobsters",
-    "url": "https://spectrecollie.com/2026/09/05/bad-vibes-coding/",
-    "title": "Bad Vibes Coding"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://ploum.net/2026-09-09-ai_policy.html",
-    "title": "I Don’t Want to Interact With Stochastic Parrots"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://anchorsandlinks.com/posts/primary-keys/",
-    "title": "ID design and primary keys"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://cel.cs.brown.edu/blog/design-space-async-await/",
-    "title": "A Design Space Exploration of Async/Await"
+    "url": "https://blog.yuo.be/2026/09/10/the-terrible-menu-bar-in-the-windows-11-notepad/",
+    "title": "The terrible menu bar in the Windows 11 Notepad"
   },
   {
     "source": "lobsters",
@@ -116,8 +111,38 @@
   },
   {
     "source": "lobsters",
-    "url": "https://abstractnonsense.xyz/microblog/2026-09-07-xteink-x4-pro-review/",
-    "title": "Xteink X4 Pro review"
+    "url": "https://cel.cs.brown.edu/blog/design-space-async-await/",
+    "title": "A Design Space Exploration of Async/Await"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://anchorsandlinks.com/posts/primary-keys/",
+    "title": "ID design and primary keys"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://ploum.net/2026-09-09-ai_policy.html",
+    "title": "I Don’t Want to Interact With Stochastic Parrots"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://spectrecollie.com/2026/09/05/bad-vibes-coding/",
+    "title": "Bad Vibes Coding"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://vale.rocks/posts/html-boilerplate",
+    "title": "My HTML Boilerplate"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://ersc.io/blog/what-comes-after-git",
+    "title": "What comes after git"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://laurmaedje.github.io/posts/jj/",
+    "title": "Conversations with JJ"
   },
   {
     "source": "lobsters",
@@ -131,43 +156,18 @@
   },
   {
     "source": "lobsters",
-    "url": "https://nishantjosh.dev/blogs/how-to-build-a-fking-printer/",
-    "title": "How to build a f**king printer"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://entropicthoughts.com/better-ai-comment-classifier",
-    "title": "Better AI code comment detector"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://epicandmonicisnotiso.blogspot.com/2023/04/how-to-avoid-correctness-space-leaks-on.html",
-    "title": "How to avoid correctness space leaks on a lazy setting in Haskell (2023)"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://rdmsr.github.io/writing/turnstiles/",
-    "title": "Solaris Turnstiles"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://nesbitt.io/2026/09/10/package-manager-trends.html",
-    "title": "Package Manager Trends"
-  },
-  {
-    "source": "lobsters",
     "url": "https://utcc.utoronto.ca/~cks/space/blog/unix/LoadAverageHistoricalIssues",
     "title": "Some (mostly historical) issues with the Unix load average"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://lemire.me/blog/2026/09/09/a-quick-overview-of-atomics-in-c/",
-    "title": "A quick overview of atomics in C"
   },
   {
     "source": "pinboard",
     "url": "https://drewdevault.com/weird-guys/",
     "title": "Weird little guys of FOSS"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://nishantjosh.dev/blogs/how-to-build-a-fking-printer/",
+    "title": "How to build a f**king printer · Nishant Joshi"
   },
   {
     "source": "pinboard",
