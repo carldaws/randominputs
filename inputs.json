@@ -1,8 +1,33 @@
 [
   {
     "source": "hn",
-    "url": "https://honestlyranked.com/guides/streaming-price-increases/",
-    "title": "Show HN: The same nine streaming subscriptions cost $702/year more than in 2021"
+    "url": "https://shopify.engineering/back-to-native",
+    "title": "Shopify moves back to Native from React Native"
+  },
+  {
+    "source": "hn",
+    "url": "https://rustfoundation.org/media/guest-post-rust-is-tier-1-language-at-microsoft/",
+    "title": "Rust Is Tier-1 Language at Microsoft"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.marketingdive.com/news/amazon-pilots-ad-services-in-chatgpt-what-marketers-need-to-know/829945/",
+    "title": "Amazon pilots ad services in ChatGPT"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.pv-magazine.com/2026/09/07/hitachi-launches-co2-heat-pump-water-heaters-with-solar-friendly-tariff-controls/",
+    "title": "Hitachi launches CO2 heat pump water heaters with solar-friendly tariff controls"
+  },
+  {
+    "source": "hn",
+    "url": "https://consumerrights.wiki/w/Sony_PlayStation_digital_game_ownership_lawsuit",
+    "title": "List of references on Sony websites to players \"owning\" their digital games"
+  },
+  {
+    "source": "hn",
+    "url": "https://devz.cl/posts/how-to-write/",
+    "title": "To write non-fiction, draw the trunk, then the rest of the tree"
   },
   {
     "source": "hn",
@@ -11,18 +36,33 @@
   },
   {
     "source": "hn",
+    "url": "https://learningto.co/",
+    "title": "Show HN: I couldn't afford interview prep, so I built a free alternative"
+  },
+  {
+    "source": "hn",
     "url": "https://rivendell.dmitrybrant.com/relativity/",
     "title": "Show HN: What if the speed of light was 5 km/h?"
   },
   {
     "source": "hn",
-    "url": "https://tailwindcss.com/blog/tailwind-is-joining-shopify",
-    "title": "Shopify acquires Tailwind"
+    "url": "https://www.ianvisits.co.uk/articles/the-worlds-first-drink-driving-conviction-may-have-happened-in-london-92107/",
+    "title": "The first drink-driving conviction may have happened in London"
+  },
+  {
+    "source": "hn",
+    "url": "https://turdle.fun/",
+    "title": "Who Dung It? (Turdle.fun)"
   },
   {
     "source": "hn",
     "url": "https://tautology.town/2026/06/01/card-networks.html",
     "title": "What do Visa and Mastercard do? An intro to card networks"
+  },
+  {
+    "source": "hn",
+    "url": "https://blog.jim-nielsen.com/2026/hands-off-my-cables/",
+    "title": "Don't Let Anyone Take Away Your Big Box of Cables"
   },
   {
     "source": "hn",
@@ -35,29 +75,24 @@
     "title": "Samsung Debuts zHBM Prototype, Stacking Memory Directly on AI Accelerators"
   },
   {
-    "source": "hn",
-    "url": "https://thomasahle.com/fast-polynomials/",
-    "title": "Show HN: Compute polynomials twice as fast"
-  },
-  {
-    "source": "hn",
-    "url": "https://desertant.com/blog/introducing-desert-ant-labs/",
-    "title": "Desert Ant Labs: local, fast models that run on device"
-  },
-  {
-    "source": "hn",
-    "url": "https://hugovergnes.github.io/little-lm-3-8b/",
-    "title": "Training a 3.8B LLM to 0.384 CORE for $998"
-  },
-  {
-    "source": "hn",
-    "url": "https://strategictree.bearblog.dev/i-think-i-hate-the-internet/",
-    "title": "I think I hate the internet"
-  },
-  {
     "source": "lobsters",
     "url": "https://fzakaria.com/2026/09/09/review-a-pull-request-by-booting-it",
     "title": "Review a pull request by booting it"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://blog.fallible.net/it-breaks-a-village/",
+    "title": "It Breaks a Village: Bevy's 6th Birthday"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://maurycyz.com/misc/domains/",
+    "title": "A rant about phishing: It's not the user's fault (and not DNS either)"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://spectrecollie.com/2026/09/05/bad-vibes-coding/",
+    "title": "Bad Vibes Coding"
   },
   {
     "source": "lobsters",
@@ -76,6 +111,21 @@
   },
   {
     "source": "lobsters",
+    "url": "https://martypc.blogspot.com/2026/09/decoding-nec-v20-microcode.html",
+    "title": "Decoding the NEC V20 Microcode"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://abstractnonsense.xyz/microblog/2026-09-07-xteink-x4-pro-review/",
+    "title": "Xteink X4 Pro review"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://codon.org.uk/~mjg59/blog/p/systemio-conflicts-are-not-firmware-bugs/",
+    "title": "SystemIO conflicts are not firmware bugs"
+  },
+  {
+    "source": "lobsters",
     "url": "https://rustls.dev/blog/2026-09-08-a-decade-of-rustls/",
     "title": "A decade of rustls"
   },
@@ -86,28 +136,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://codon.org.uk/~mjg59/blog/p/systemio-conflicts-are-not-firmware-bugs/",
-    "title": "SystemIO conflicts are not firmware bugs"
-  },
-  {
-    "source": "lobsters",
     "url": "https://entropicthoughts.com/better-ai-comment-classifier",
     "title": "Better AI code comment detector"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://blog.fallible.net/it-breaks-a-village/",
-    "title": "It Breaks a Village: Bevy's 6th Birthday"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://rdmsr.github.io/writing/turnstiles/",
-    "title": "Solaris Turnstiles"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://martypc.blogspot.com/2026/09/decoding-nec-v20-microcode.html",
-    "title": "Decoding the NEC V20 Microcode"
   },
   {
     "source": "lobsters",
@@ -116,37 +146,102 @@
   },
   {
     "source": "lobsters",
+    "url": "https://rdmsr.github.io/writing/turnstiles/",
+    "title": "Solaris Turnstiles"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://nesbitt.io/2026/09/10/package-manager-trends.html",
+    "title": "Package Manager Trends"
+  },
+  {
+    "source": "lobsters",
     "url": "https://utcc.utoronto.ca/~cks/space/blog/unix/LoadAverageHistoricalIssues",
     "title": "Some (mostly historical) issues with the Unix load average"
   },
   {
     "source": "lobsters",
-    "url": "https://www.jamescherti.com/emacs-consult-speed-async-searche-grep-ripgrep-fd-find/",
-    "title": "Why Emacs Consult async searches feel slow and how to speed them up"
+    "url": "https://lemire.me/blog/2026/09/09/a-quick-overview-of-atomics-in-c/",
+    "title": "A quick overview of atomics in C"
   },
   {
-    "source": "lobsters",
-    "url": "https://humanistreview.ai/issue-1/tang-ai-democracy-optimization/",
-    "title": "AI and democracy: the right to resist optimization"
+    "source": "pinboard",
+    "url": "https://drewdevault.com/weird-guys/",
+    "title": "Weird little guys of FOSS"
   },
   {
-    "source": "lobsters",
-    "url": "https://bensimms.moe/reverse-engineering-scooter/",
-    "title": "Reverse engineering my e-scooter and rewriting the firmware in rust"
+    "source": "pinboard",
+    "url": "https://trackables.app/",
+    "title": "Trackables"
   },
   {
-    "source": "lobsters",
+    "source": "pinboard",
+    "url": "https://e-infinity.space/picture-book/",
+    "title": "A Topological Picture Book, Rendered"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://markview.io/",
+    "title": "MarkView - The Markdown Viewer for Everyone"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://cloudinabottle.org/blog/launch-post",
+    "title": "Cloud in a Bottle: making self-hosting accessible to everyone | Cloud in a Bottle"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://cims.nyu.edu/~tristanb/statement.pdf",
+    "title": "Lean-Verified Finite-Time Blowup Results for Porous Media, Boussinesq, and 3D Euler Equations"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://vale.rocks/posts/html-relics",
+    "title": "Antiquated HTML Snippets and Artefacts | Vale.Rocks"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://stratechery.com/2026/write-things-down/",
+    "title": "Write Things Down – Stratechery by Ben Thompson"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://marginalia-search.com/",
+    "title": "Marginalia Search Engine"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://simonwillison.net/2026/Sep/8/on-navier-stokes/",
+    "title": "[no title]"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://krebsonsecurity.com/2026/09/fbi-probes-service-selling-153m-drivers-licenses/",
+    "title": "[no title]"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://mail.cyberneticforests.com/models-dont-go-rogue/",
+    "title": "Models Don't Go Rogue"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.404media.co/a-secretive-dhs-predictive-policing-unit-is-analyzing-americans-financial-habits-and-pulling-them-over/",
+    "title": "A Secretive DHS ‘Predictive Policing’ Unit is Analyzing Americans’ Financial Habits and Pulling Them Over"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://d2lang.com/blog/tala-is-open-source/",
+    "title": "TALA is open-source | D2 Documentation"
+  },
+  {
+    "source": "pinboard",
     "url": "https://rmondello.com/2026/09/07/switching-password-managers-2026/",
-    "title": "Switching Password Managers in 2026"
+    "title": "\"how a mobile operating system (of all places!) got data interoperability for password managers that’s easier, more secure, and more comprehensive than on desktop.\""
   },
   {
-    "source": "lobsters",
-    "url": "https://jordivillar.com/blog/every-millisecond-counts",
-    "title": "Every Millisecond Counts"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://jerf.org/iri/post/2026/func_args_are_not_colors/",
-    "title": "Why Function Arguments Are Not Function Colors"
+    "source": "pinboard",
+    "url": "https://mckinleysymbols.com/",
+    "title": "McKinley — Design your own SF Symbols"
   }
 ]
