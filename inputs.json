@@ -1,23 +1,18 @@
 [
   {
     "source": "hn",
+    "url": "https://honestlyranked.com/guides/streaming-price-increases/",
+    "title": "Show HN: The same nine streaming subscriptions cost $702/year more than in 2021"
+  },
+  {
+    "source": "hn",
+    "url": "https://stockfishchess.org/blog/2026/stockfish-19/",
+    "title": "Stockfish 19"
+  },
+  {
+    "source": "hn",
     "url": "https://rivendell.dmitrybrant.com/relativity/",
     "title": "Show HN: What if the speed of light was 5 km/h?"
-  },
-  {
-    "source": "hn",
-    "url": "https://psantosl.github.io/posts/version-control-second-coming/",
-    "title": "Version Control Second Coming"
-  },
-  {
-    "source": "hn",
-    "url": "https://geo-tp.github.io/ESP32-Bit-Pirate/",
-    "title": "ESP32 Bit Pirate Hardware Hacking Kit with Web Tools That Speaks Every Protocol"
-  },
-  {
-    "source": "hn",
-    "url": "https://en.wikipedia.org/wiki/Larger_Pacific_striped_octopus",
-    "title": "Larger Pacific Striped Octopus"
   },
   {
     "source": "hn",
@@ -31,8 +26,13 @@
   },
   {
     "source": "hn",
-    "url": "https://hugovergnes.github.io/little-lm-3-8b/",
-    "title": "Training a 3.8B LLM to 0.384 CORE for $998 – Hugo Vergnes"
+    "url": "https://en.wikipedia.org/wiki/Larger_Pacific_striped_octopus",
+    "title": "Larger Pacific Striped Octopus"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.thelec.net/news/articleView.html?idxno=12835",
+    "title": "Samsung Debuts zHBM Prototype, Stacking Memory Directly on AI Accelerators"
   },
   {
     "source": "hn",
@@ -41,33 +41,23 @@
   },
   {
     "source": "hn",
-    "url": "https://slimemoldtimemold.com/2026/08/05/a-stupid-idea-for-ai-alignment-we-came-up-with-by-looking-at-the-list-of-specification-gaming-behaviours/",
-    "title": "A Stupid Idea for AI Alignment We Came with by Looking at Specification Gaming"
-  },
-  {
-    "source": "hn",
     "url": "https://desertant.com/blog/introducing-desert-ant-labs/",
     "title": "Desert Ant Labs: local, fast models that run on device"
   },
   {
     "source": "hn",
-    "url": "https://gnuradioworld.com/",
-    "title": "GNU Radio in the browser"
+    "url": "https://hugovergnes.github.io/little-lm-3-8b/",
+    "title": "Training a 3.8B LLM to 0.384 CORE for $998"
   },
   {
     "source": "hn",
-    "url": "https://www.not-ship.com/united-nations-map/",
-    "title": "The UN challenges five centuries of cartography"
+    "url": "https://strategictree.bearblog.dev/i-think-i-hate-the-internet/",
+    "title": "I think I hate the internet"
   },
   {
-    "source": "hn",
-    "url": "https://tech.marksblogg.com/planet-labs-open-satellite-feed.html",
-    "title": "Planet Labs' open satellite feed"
-  },
-  {
-    "source": "hn",
-    "url": "https://about.readthedocs.com/blog/2026/09/2026-ddos-attack/",
-    "title": "Understanding the recent DDoS attack against Read the Docs"
+    "source": "lobsters",
+    "url": "https://fzakaria.com/2026/09/09/review-a-pull-request-by-booting-it",
+    "title": "Review a pull request by booting it"
   },
   {
     "source": "lobsters",
@@ -76,13 +66,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://cel.cs.brown.edu/blog/design-space-async-await/",
-    "title": "A Design Space Exploration of Async/Await"
+    "url": "https://anchorsandlinks.com/posts/primary-keys/",
+    "title": "ID design and primary keys"
   },
   {
     "source": "lobsters",
-    "url": "https://anchorsandlinks.com/posts/primary-keys/",
-    "title": "ID design and primary keys"
+    "url": "https://cel.cs.brown.edu/blog/design-space-async-await/",
+    "title": "A Design Space Exploration of Async/Await"
   },
   {
     "source": "lobsters",
@@ -96,8 +86,18 @@
   },
   {
     "source": "lobsters",
+    "url": "https://codon.org.uk/~mjg59/blog/p/systemio-conflicts-are-not-firmware-bugs/",
+    "title": "SystemIO conflicts are not firmware bugs"
+  },
+  {
+    "source": "lobsters",
     "url": "https://entropicthoughts.com/better-ai-comment-classifier",
     "title": "Better AI code comment detector"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://blog.fallible.net/it-breaks-a-village/",
+    "title": "It Breaks a Village: Bevy's 6th Birthday"
   },
   {
     "source": "lobsters",
@@ -106,58 +106,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://fzakaria.com/2026/09/09/review-a-pull-request-by-booting-it",
-    "title": "Review a pull request by booting it"
+    "url": "https://martypc.blogspot.com/2026/09/decoding-nec-v20-microcode.html",
+    "title": "Decoding the NEC V20 Microcode"
   },
   {
     "source": "lobsters",
-    "url": "https://codon.org.uk/~mjg59/blog/p/systemio-conflicts-are-not-firmware-bugs/",
-    "title": "SystemIO conflicts are not firmware bugs"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/small2048/",
-    "title": "Analysing 2048 on a 3×3 board"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://bensimms.moe/reverse-engineering-scooter/",
-    "title": "Reverse engineering my e-scooter and rewriting the firmware in rust"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://www.jamescherti.com/emacs-consult-speed-async-searche-grep-ripgrep-fd-find/",
-    "title": "Why Emacs Consult async searches feel slow and how to speed them up"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://rmondello.com/2026/09/07/switching-password-managers-2026/",
-    "title": "Switching Password Managers in 2026"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://cetra3.github.io/blog/state-of-allocators-2026-part-2/",
-    "title": "The State of Allocators in 2026 - 6 Months Later"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://jerf.org/iri/post/2026/func_args_are_not_colors/",
-    "title": "Why Function Arguments Are Not Function Colors"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://ettolrach.com/blog/rust_when_empty_isnt_bottom.html",
-    "title": "Rust: When Empty Isn't Bottom"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://jordivillar.com/blog/every-millisecond-counts",
-    "title": "Every Millisecond Counts"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://hackers.pub/@hongminhee/2026/upyo-email-decoupled-from-where-and-how",
-    "title": "Email, decoupled from where and how: A cross-runtime, cross-provider email library for JS & TS"
+    "url": "https://epicandmonicisnotiso.blogspot.com/2023/04/how-to-avoid-correctness-space-leaks-on.html",
+    "title": "How to avoid correctness space leaks on a lazy setting in Haskell (2023)"
   },
   {
     "source": "lobsters",
@@ -166,12 +121,32 @@
   },
   {
     "source": "lobsters",
-    "url": "https://bergie.iki.fi/blog/eupl/",
-    "title": "I changed my license to EUPL"
+    "url": "https://www.jamescherti.com/emacs-consult-speed-async-searche-grep-ripgrep-fd-find/",
+    "title": "Why Emacs Consult async searches feel slow and how to speed them up"
   },
   {
     "source": "lobsters",
-    "url": "https://stacks.stanford.edu/file/fk030tb6783/thesis-augmented.pdf",
-    "title": "Efficient and accurate systems for querying unstructured data"
+    "url": "https://humanistreview.ai/issue-1/tang-ai-democracy-optimization/",
+    "title": "AI and democracy: the right to resist optimization"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://bensimms.moe/reverse-engineering-scooter/",
+    "title": "Reverse engineering my e-scooter and rewriting the firmware in rust"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://rmondello.com/2026/09/07/switching-password-managers-2026/",
+    "title": "Switching Password Managers in 2026"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://jordivillar.com/blog/every-millisecond-counts",
+    "title": "Every Millisecond Counts"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://jerf.org/iri/post/2026/func_args_are_not_colors/",
+    "title": "Why Function Arguments Are Not Function Colors"
   }
 ]
