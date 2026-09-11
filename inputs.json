@@ -1,8 +1,8 @@
 [
   {
     "source": "hn",
-    "url": "https://map-yue2.github.io/",
-    "title": "YuE2 · Frontier Music with Symbolic Planning"
+    "url": "https://lucumr.pocoo.org/2026/9/7/astra-why/",
+    "title": "Astra for Coding: Why Are We Doing This Again?"
   },
   {
     "source": "hn",
@@ -11,8 +11,23 @@
   },
   {
     "source": "hn",
+    "url": "https://blog.jim-nielsen.com/2026/hands-off-my-cables/",
+    "title": "Don't let anyone take away your big box of cables"
+  },
+  {
+    "source": "hn",
+    "url": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-app-now-on-windows/",
+    "title": "The Gemini app is now available for Windows"
+  },
+  {
+    "source": "hn",
     "url": "https://developers.openai.com/api/docs/guides/agents-api/overview",
     "title": "OpenAI Agents API"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.upsocl.com/en/16-year-old-mexican-student-creates-an-acoustic-fire-extinguisher-that-uses-sound-waves-to-put-out-fires-in-seconds/",
+    "title": "Mexican student creates an acoustic fire extinguisher to put out fire in seconds"
   },
   {
     "source": "hn",
@@ -21,18 +36,23 @@
   },
   {
     "source": "hn",
-    "url": "https://blog.jim-nielsen.com/2026/hands-off-my-cables/",
-    "title": "Don't let anyone take away your big box of cables"
+    "url": "https://emacsredux.com/blog/2026/09/02/working-with-git-worktrees-in-magit/",
+    "title": "Working with Git Worktrees in Magit"
   },
   {
     "source": "hn",
-    "url": "https://benzi.fly.dev/benchmark",
-    "title": "Show HN: Benzi – A Code Intillegence/Harness Beating Claude Code and CodeGraph"
+    "url": "https://map-yue2.github.io/",
+    "title": "YuE2 · Frontier Music with Symbolic Planning"
   },
   {
     "source": "hn",
     "url": "https://musictheory.pugetsound.edu/mt21c/MusicTheory.html",
     "title": "Music Theory for the 21st-Century Classroom"
+  },
+  {
+    "source": "hn",
+    "url": "https://merybenavente.me/blog/proof-of-capture",
+    "title": "Proof of Capture: Apple Reference Image, but open source and using steganography"
   },
   {
     "source": "hn",
@@ -46,28 +66,8 @@
   },
   {
     "source": "hn",
-    "url": "https://blog.doubleword.ai/what-happens-when-a-gpu-writes-memory",
-    "title": "What happens when a GPU writes memory"
-  },
-  {
-    "source": "hn",
-    "url": "https://vertumnus.fyi",
-    "title": "Show HN: Vertumnus – printable posters of farmers' market produce seasonality"
-  },
-  {
-    "source": "hn",
-    "url": "https://merybenavente.me/blog/proof-of-capture",
-    "title": "Proof of Capture: Apple Reference Image, but open source and using steganography"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.leadedsolder.com/2026/09/08/hypercard-custom-fonts-in-resources.html",
-    "title": "Embedding a bitmap font in your HyperCard stack"
-  },
-  {
-    "source": "hn",
-    "url": "https://tensorsandtokens.com/posts/opencode-ollama/",
-    "title": "Setting up OpenCode with Ollama and sbx on Mac"
+    "url": "https://powerfooI.github.io/herdr-studio/",
+    "title": "Herdr Studio"
   },
   {
     "source": "lobsters",
@@ -91,23 +91,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://blog.fallible.net/it-breaks-a-village/",
-    "title": "It Breaks a Village: Bevy's 6th Birthday"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://fzakaria.com/2026/09/09/review-a-pull-request-by-booting-it",
-    "title": "Review a pull request by booting it"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://vale.rocks/posts/html-boilerplate",
-    "title": "My HTML Boilerplate"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://gleamgathering.com/",
-    "title": "Gleam Gathering 2027"
+    "url": "https://speed.edgecompute.app/",
+    "title": "Fastly Speedtest Test"
   },
   {
     "source": "lobsters",
@@ -116,18 +101,28 @@
   },
   {
     "source": "lobsters",
+    "url": "https://gleamgathering.com/",
+    "title": "Gleam Gathering 2027"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://blog.fallible.net/it-breaks-a-village/",
+    "title": "It Breaks a Village: Bevy's 6th Birthday"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://vale.rocks/posts/html-boilerplate",
+    "title": "My HTML Boilerplate"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://fzakaria.com/2026/09/09/review-a-pull-request-by-booting-it",
+    "title": "Review a pull request by booting it"
+  },
+  {
+    "source": "lobsters",
     "url": "https://blog.yuo.be/2026/09/10/the-terrible-menu-bar-in-the-windows-11-notepad/",
     "title": "The terrible menu bar in the Windows 11 Notepad"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://speed.edgecompute.app/",
-    "title": "Fastly Speedtest Test"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://tante.cc/2026/09/10/making-social-media-social/",
-    "title": "Making Social Media Social"
   },
   {
     "source": "lobsters",
@@ -136,33 +131,18 @@
   },
   {
     "source": "lobsters",
-    "url": "https://martypc.blogspot.com/2026/09/decoding-nec-v20-microcode.html",
-    "title": "Decoding the NEC V20 Microcode"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://spectrecollie.com/2026/09/05/bad-vibes-coding/",
-    "title": "Bad Vibes Coding"
-  },
-  {
-    "source": "lobsters",
     "url": "https://david.alvarezrosa.com/posts/optimizing-a-spin-lock/",
     "title": "Optimizing a Spin-Lock"
   },
   {
-    "source": "pinboard",
-    "url": "https://drewdevault.com/weird-guys/",
-    "title": "Weird little guys of FOSS"
+    "source": "lobsters",
+    "url": "https://mail.cyberneticforests.com/models-dont-go-rogue/",
+    "title": "Models Don't Go Rogue"
   },
   {
-    "source": "pinboard",
-    "url": "https://nishantjosh.dev/blogs/how-to-build-a-fking-printer/",
-    "title": "How to build a f**king printer · Nishant Joshi"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://trackables.app/",
-    "title": "Trackables"
+    "source": "lobsters",
+    "url": "https://tante.cc/2026/09/10/making-social-media-social/",
+    "title": "Making Social Media Social"
   },
   {
     "source": "pinboard",
@@ -171,8 +151,8 @@
   },
   {
     "source": "pinboard",
-    "url": "https://markview.io/",
-    "title": "MarkView - The Markdown Viewer for Everyone"
+    "url": "https://nishantjosh.dev/blogs/how-to-build-a-fking-printer/",
+    "title": "How to build a f**king printer · Nishant Joshi"
   },
   {
     "source": "pinboard",
@@ -181,8 +161,8 @@
   },
   {
     "source": "pinboard",
-    "url": "https://cims.nyu.edu/~tristanb/statement.pdf",
-    "title": "Lean-Verified Finite-Time Blowup Results for Porous Media, Boussinesq, and 3D Euler Equations"
+    "url": "https://stratechery.com/2026/write-things-down/",
+    "title": "Write Things Down – Stratechery by Ben Thompson"
   },
   {
     "source": "pinboard",
@@ -191,8 +171,18 @@
   },
   {
     "source": "pinboard",
-    "url": "https://stratechery.com/2026/write-things-down/",
-    "title": "Write Things Down – Stratechery by Ben Thompson"
+    "url": "https://markview.io/",
+    "title": "MarkView - The Markdown Viewer for Everyone"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://cims.nyu.edu/~tristanb/statement.pdf",
+    "title": "Lean-Verified Finite-Time Blowup Results for Porous Media, Boussinesq, and 3D Euler Equations"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://desertant.com/blog/introducing-desert-ant-labs/",
+    "title": "On-device intelligence for every product | Desert Ant Labs"
   },
   {
     "source": "pinboard",
@@ -201,37 +191,22 @@
   },
   {
     "source": "pinboard",
+    "url": "https://drewdevault.com/weird-guys/",
+    "title": "Weird little guys of FOSS"
+  },
+  {
+    "source": "pinboard",
     "url": "https://simonwillison.net/2026/Sep/8/on-navier-stokes/",
     "title": "[no title]"
   },
   {
     "source": "pinboard",
-    "url": "https://krebsonsecurity.com/2026/09/fbi-probes-service-selling-153m-drivers-licenses/",
-    "title": "[no title]"
+    "url": "https://psantosl.github.io/posts/version-control-second-coming/",
+    "title": "Version control second coming · Pablo Santos Luaces"
   },
   {
     "source": "pinboard",
-    "url": "https://mail.cyberneticforests.com/models-dont-go-rogue/",
-    "title": "Models Don't Go Rogue"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.404media.co/a-secretive-dhs-predictive-policing-unit-is-analyzing-americans-financial-habits-and-pulling-them-over/",
-    "title": "A Secretive DHS ‘Predictive Policing’ Unit is Analyzing Americans’ Financial Habits and Pulling Them Over"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://d2lang.com/blog/tala-is-open-source/",
-    "title": "TALA is open-source | D2 Documentation"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://rmondello.com/2026/09/07/switching-password-managers-2026/",
-    "title": "\"how a mobile operating system (of all places!) got data interoperability for password managers that’s easier, more secure, and more comprehensive than on desktop.\""
-  },
-  {
-    "source": "pinboard",
-    "url": "https://mckinleysymbols.com/",
-    "title": "McKinley — Design your own SF Symbols"
+    "url": "https://cloudinabottle.org/",
+    "title": "Cloud in a Bottle: your corner of the cloud"
   }
 ]
