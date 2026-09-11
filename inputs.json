@@ -1,13 +1,13 @@
 [
   {
     "source": "hn",
-    "url": "https://shopify.engineering/back-to-native",
-    "title": "Shopify is moving from React Native back to Swift and Kotlin"
+    "url": "https://map-yue2.github.io/",
+    "title": "YuE2 · Frontier Music with Symbolic Planning"
   },
   {
     "source": "hn",
-    "url": "https://auberon.xyz/blog/posts/deathray/",
-    "title": "The Deathray: A simple way for an untrusted site to freeze a Mac"
+    "url": "https://shopify.engineering/back-to-native",
+    "title": "Shopify is moving from React Native back to Swift and Kotlin"
   },
   {
     "source": "hn",
@@ -16,13 +16,18 @@
   },
   {
     "source": "hn",
+    "url": "https://auberon.xyz/blog/posts/deathray/",
+    "title": "The Deathray: A simple way for an untrusted site to freeze a Mac"
+  },
+  {
+    "source": "hn",
     "url": "https://blog.jim-nielsen.com/2026/hands-off-my-cables/",
     "title": "Don't let anyone take away your big box of cables"
   },
   {
     "source": "hn",
-    "url": "https://merybenavente.me/blog/proof-of-capture",
-    "title": "Proof of Capture: Apple Reference Image, but open source and using steganography"
+    "url": "https://benzi.fly.dev/benchmark",
+    "title": "Show HN: Benzi – A Code Intillegence/Harness Beating Claude Code and CodeGraph"
   },
   {
     "source": "hn",
@@ -31,18 +36,13 @@
   },
   {
     "source": "hn",
-    "url": "https://www.pv-magazine.com/2026/09/07/hitachi-launches-co2-heat-pump-water-heaters-with-solar-friendly-tariff-controls/",
-    "title": "Hitachi launches CO2 heat pump water heaters with solar-friendly tariff controls"
-  },
-  {
-    "source": "hn",
-    "url": "https://vertumnus.fyi",
-    "title": "Show HN: Vertumnus – printable posters of farmers' market produce seasonality"
-  },
-  {
-    "source": "hn",
     "url": "https://rustfoundation.org/media/guest-post-rust-is-tier-1-language-at-microsoft/",
     "title": "Rust is tier-1 language at Microsoft"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.pv-magazine.com/2026/09/07/hitachi-launches-co2-heat-pump-water-heaters-with-solar-friendly-tariff-controls/",
+    "title": "Hitachi launches CO2 heat pump water heaters with solar-friendly tariff controls"
   },
   {
     "source": "hn",
@@ -51,28 +51,23 @@
   },
   {
     "source": "hn",
-    "url": "https://asm-editor.specy.app/",
-    "title": "Show HN: A browser IDE for m68000, Z80 assembly (and more), with graphics"
+    "url": "https://vertumnus.fyi",
+    "title": "Show HN: Vertumnus – printable posters of farmers' market produce seasonality"
   },
   {
     "source": "hn",
-    "url": "https://www.inventbuild.studio/blog/genuine-creativity-is-your-new-moat",
-    "title": "Creativity is the new moat"
+    "url": "https://merybenavente.me/blog/proof-of-capture",
+    "title": "Proof of Capture: Apple Reference Image, but open source and using steganography"
   },
   {
     "source": "hn",
-    "url": "https://consumerrights.wiki/w/Sony_PlayStation_digital_game_ownership_lawsuit",
-    "title": "List of references on Sony websites to players \"owning\" their digital games"
+    "url": "https://www.leadedsolder.com/2026/09/08/hypercard-custom-fonts-in-resources.html",
+    "title": "Embedding a bitmap font in your HyperCard stack"
   },
   {
     "source": "hn",
-    "url": "https://stockfishchess.org/blog/2026/stockfish-19/",
-    "title": "Stockfish 19"
-  },
-  {
-    "source": "hn",
-    "url": "https://sled.neocities.org/",
-    "title": "Schemy Lisp En DOS"
+    "url": "https://tensorsandtokens.com/posts/opencode-ollama/",
+    "title": "Setting up OpenCode with Ollama and sbx on Mac"
   },
   {
     "source": "lobsters",
@@ -91,6 +86,11 @@
   },
   {
     "source": "lobsters",
+    "url": "https://ersc.io/blog/what-comes-after-git",
+    "title": "What comes after git"
+  },
+  {
+    "source": "lobsters",
     "url": "https://blog.fallible.net/it-breaks-a-village/",
     "title": "It Breaks a Village: Bevy's 6th Birthday"
   },
@@ -101,8 +101,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://ersc.io/blog/what-comes-after-git",
-    "title": "What comes after git"
+    "url": "https://vale.rocks/posts/html-boilerplate",
+    "title": "My HTML Boilerplate"
   },
   {
     "source": "lobsters",
@@ -111,8 +111,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://vale.rocks/posts/html-boilerplate",
-    "title": "My HTML Boilerplate"
+    "url": "https://hugovk.dev/blog/2026/soft-deprecating-re.match/",
+    "title": "Soft-deprecating re.match()"
   },
   {
     "source": "lobsters",
@@ -121,18 +121,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://tante.cc/2026/09/10/making-social-media-social/",
-    "title": "Making Social Media Social"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://hugovk.dev/blog/2026/soft-deprecating-re.match/",
-    "title": "Soft-deprecating re.match()"
-  },
-  {
-    "source": "lobsters",
     "url": "https://speed.edgecompute.app/",
     "title": "Fastly Speedtest Test"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://tante.cc/2026/09/10/making-social-media-social/",
+    "title": "Making Social Media Social"
   },
   {
     "source": "lobsters",
@@ -141,18 +136,18 @@
   },
   {
     "source": "lobsters",
+    "url": "https://martypc.blogspot.com/2026/09/decoding-nec-v20-microcode.html",
+    "title": "Decoding the NEC V20 Microcode"
+  },
+  {
+    "source": "lobsters",
     "url": "https://spectrecollie.com/2026/09/05/bad-vibes-coding/",
     "title": "Bad Vibes Coding"
   },
   {
     "source": "lobsters",
-    "url": "https://anchorsandlinks.com/posts/primary-keys/",
-    "title": "ID design and primary keys"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://martypc.blogspot.com/2026/09/decoding-nec-v20-microcode.html",
-    "title": "Decoding the NEC V20 Microcode"
+    "url": "https://david.alvarezrosa.com/posts/optimizing-a-spin-lock/",
+    "title": "Optimizing a Spin-Lock"
   },
   {
     "source": "pinboard",
