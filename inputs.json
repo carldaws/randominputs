@@ -1,8 +1,13 @@
 [
   {
     "source": "hn",
-    "url": "https://terrytao.wordpress.com/2026/09/11/a-severe-misalignment-of-ai-in-mathematics/",
-    "title": "A Misalignment of AI in Mathematics"
+    "url": "https://cel.cs.brown.edu/blog/design-space-async-await/",
+    "title": "A Design Space Exploration of Async/Await"
+  },
+  {
+    "source": "hn",
+    "url": "https://dayzlegame.com/blog/google-ads-bot-farm/",
+    "title": "I spent $220 on Google app ads. 60% of the installs were robots"
   },
   {
     "source": "hn",
@@ -12,17 +17,7 @@
   {
     "source": "hn",
     "url": "https://capitalbnews.org/data-centers-permit-rules-epa/",
-    "title": "The EPA Is Planning to Scrap Public Review Rules for Data Center Pollution"
-  },
-  {
-    "source": "hn",
-    "url": "https://el.media.mit.edu/logo-foundation/what_is_logo/logo_programming.html",
-    "title": "Logo Programming Language"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.tinybird.co/blog/what-i-learned-operating-clickhouse",
-    "title": "I've operated petabyte-scale ClickHouse clusters for 5 years"
+    "title": "The EPA is planning to scrap public review rules for data center pollution"
   },
   {
     "source": "hn",
@@ -31,8 +26,8 @@
   },
   {
     "source": "hn",
-    "url": "https://glacierextinction.com",
-    "title": "Global Glacier Extinction Explorer"
+    "url": "https://www.tinybird.co/blog/what-i-learned-operating-clickhouse",
+    "title": "I've operated petabyte-scale ClickHouse clusters for 5 years"
   },
   {
     "source": "hn",
@@ -41,13 +36,23 @@
   },
   {
     "source": "hn",
-    "url": "https://thorstenball.com/talks/how-i-prompt/",
-    "title": "How I Prompt"
+    "url": "https://el.media.mit.edu/logo-foundation/what_is_logo/logo_programming.html",
+    "title": "Logo Programming Language"
   },
   {
     "source": "hn",
-    "url": "https://www.unslop.news/",
-    "title": "Show HN: Hacker News, Without AI"
+    "url": "https://pikuma.com/blog/pdp-8-minicomputer",
+    "title": "From Front Panel to Program: Thinking Like a PDP-8"
+  },
+  {
+    "source": "hn",
+    "url": "https://glacierextinction.com",
+    "title": "Global Glacier Extinction Explorer"
+  },
+  {
+    "source": "hn",
+    "url": "https://en.wikipedia.org/wiki/Room_641A",
+    "title": "Room 641A"
   },
   {
     "source": "hn",
@@ -56,18 +61,8 @@
   },
   {
     "source": "hn",
-    "url": "https://derflounder.wordpress.com/2026/09/08/manually-copying-login-keychain-files-from-one-mac-to-another-no-longer-works-on-secure-enclave-equipped-macs-running-macos-tahoe/",
-    "title": "Copying login keychains between Macs fails on Secure Enclave Macs with Tahoe"
-  },
-  {
-    "source": "hn",
-    "url": "https://ma.tt/2026/09/mirene/",
-    "title": "Major Life Announcement"
-  },
-  {
-    "source": "hn",
-    "url": "https://en.wikipedia.org/wiki/Room_641A",
-    "title": "Room 641A"
+    "url": "https://hcker.news/?ai=exclude",
+    "title": "Show HN: Hacker News, without AI"
   },
   {
     "source": "lobsters",
@@ -81,8 +76,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://maurycyz.com/misc/domains/",
-    "title": "A rant about phishing: It's not the user's fault (and not DNS either)"
+    "url": "https://evergarden.moe/",
+    "title": "evergarden"
   },
   {
     "source": "lobsters",
@@ -91,13 +86,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://evergarden.moe/",
-    "title": "evergarden"
+    "url": "https://terrytao.wordpress.com/2026/09/11/a-severe-misalignment-of-ai-in-mathematics/",
+    "title": "A Severe Misalignment of AI in Mathematics"
   },
   {
     "source": "lobsters",
-    "url": "https://rustfoundation.org/media/guest-post-rust-is-tier-1-language-at-microsoft/",
-    "title": "Rust Is Tier-1 Language at Microsoft"
+    "url": "https://maurycyz.com/misc/domains/",
+    "title": "A rant about phishing: It's not the user's fault (and not DNS either)"
   },
   {
     "source": "lobsters",
@@ -106,18 +101,23 @@
   },
   {
     "source": "lobsters",
+    "url": "https://rustfoundation.org/media/guest-post-rust-is-tier-1-language-at-microsoft/",
+    "title": "Rust Is Tier-1 Language at Microsoft"
+  },
+  {
+    "source": "lobsters",
     "url": "https://speed.edgecompute.app/",
     "title": "Fastly Speedtest Test"
   },
   {
     "source": "lobsters",
-    "url": "https://slugcat.systems/post/26-09-10-yaml-spec/",
-    "title": "It's not the YAML spec's fault, but"
+    "url": "https://auberon.xyz/blog/posts/deathray/",
+    "title": "An untrusted site can freeze a Mac using WebGPU"
   },
   {
     "source": "lobsters",
-    "url": "https://auberon.xyz/blog/posts/deathray/",
-    "title": "An untrusted site can freeze a Mac using WebGPU"
+    "url": "https://slugcat.systems/post/26-09-10-yaml-spec/",
+    "title": "It's not the YAML spec's fault, but"
   },
   {
     "source": "lobsters",
@@ -141,18 +141,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://ersc.io/blog/what-comes-after-git",
-    "title": "What comes after git"
-  },
-  {
-    "source": "lobsters",
     "url": "https://laurmaedje.github.io/posts/jj/",
     "title": "Conversations with JJ"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://shopify.engineering/back-to-native",
-    "title": "Native is now the future of mobile at Shopify (2026)"
   },
   {
     "source": "pinboard",
@@ -223,5 +213,10 @@
     "source": "pinboard",
     "url": "https://cloudinabottle.org/",
     "title": "Cloud in a Bottle: your corner of the cloud"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://shopify.engineering/back-to-native",
+    "title": "Native is now the future of mobile at Shopify (2026) - Shopify"
   }
 ]
