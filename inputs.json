@@ -1,8 +1,18 @@
 [
   {
     "source": "hn",
-    "url": "https://www.researchagenda.news/articles/the-waymo-effect.html",
-    "title": "The Waymo effect: how AI is quietly making research less collaborative"
+    "url": "https://terrytao.wordpress.com/2026/09/11/a-severe-misalignment-of-ai-in-mathematics/",
+    "title": "A Misalignment of AI in Mathematics"
+  },
+  {
+    "source": "hn",
+    "url": "https://snap.berkeley.edu/",
+    "title": "Λ Snap – An inviting programming language for kids and adults for CS study"
+  },
+  {
+    "source": "hn",
+    "url": "https://capitalbnews.org/data-centers-permit-rules-epa/",
+    "title": "The EPA Is Planning to Scrap Public Review Rules for Data Center Pollution"
   },
   {
     "source": "hn",
@@ -11,13 +21,38 @@
   },
   {
     "source": "hn",
+    "url": "https://www.tinybird.co/blog/what-i-learned-operating-clickhouse",
+    "title": "I've operated petabyte-scale ClickHouse clusters for 5 years"
+  },
+  {
+    "source": "hn",
+    "url": "https://rune.build/blog/rune-is-now-open-source",
+    "title": "Rune is now open source"
+  },
+  {
+    "source": "hn",
+    "url": "https://glacierextinction.com",
+    "title": "Global Glacier Extinction Explorer"
+  },
+  {
+    "source": "hn",
     "url": "https://mmoustafa.com/blog/so-you-want-to-use-openrouter/",
     "title": "So you want to use OpenRouter?"
   },
   {
     "source": "hn",
-    "url": "https://hcker.news/?ai=exclude",
-    "title": "Show HN: Hacker News, without AI"
+    "url": "https://thorstenball.com/talks/how-i-prompt/",
+    "title": "How I Prompt"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.unslop.news/",
+    "title": "Show HN: Hacker News, Without AI"
+  },
+  {
+    "source": "hn",
+    "url": "https://earendil.com/posts/measuring-code-sloppiness/",
+    "title": "Measuring the sloppiness of code"
   },
   {
     "source": "hn",
@@ -26,58 +61,23 @@
   },
   {
     "source": "hn",
-    "url": "https://shopify.engineering/back-to-native",
-    "title": "Shopify is moving from React Native back to Swift and Kotlin"
+    "url": "https://ma.tt/2026/09/mirene/",
+    "title": "Major Life Announcement"
   },
   {
     "source": "hn",
-    "url": "https://www.tinybird.co/blog/what-i-learned-operating-clickhouse",
-    "title": "I've operated petabyte-scale ClickHouse clusters for 5 years"
-  },
-  {
-    "source": "hn",
-    "url": "https://blog.jim-nielsen.com/2026/hands-off-my-cables/",
-    "title": "Don't let anyone take away your big box of cables"
-  },
-  {
-    "source": "hn",
-    "url": "https://vale.rocks/posts/css-relics",
-    "title": "CSS Curiosities of the Past"
-  },
-  {
-    "source": "hn",
-    "url": "https://emacsredux.com/blog/2026/09/02/working-with-git-worktrees-in-magit/",
-    "title": "Working with Git Worktrees in Magit"
-  },
-  {
-    "source": "hn",
-    "url": "https://developers.openai.com/api/docs/guides/agents-api/overview",
-    "title": "OpenAI Agents API"
-  },
-  {
-    "source": "hn",
-    "url": "https://earendil.com/posts/measuring-code-sloppiness/",
-    "title": "If coding is solved, what now?: Measuring the sloppiness of code"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.upsocl.com/en/16-year-old-mexican-student-creates-an-acoustic-fire-extinguisher-that-uses-sound-waves-to-put-out-fires-in-seconds/",
-    "title": "Mexican student creates an acoustic fire extinguisher to put out fire in seconds"
-  },
-  {
-    "source": "hn",
-    "url": "https://auberon.xyz/blog/posts/deathray/",
-    "title": "The Deathray: A simple way for an untrusted site to freeze a Mac"
-  },
-  {
-    "source": "hn",
-    "url": "https://musictheory.pugetsound.edu/mt21c/MusicTheory.html",
-    "title": "Music Theory for the 21st-Century Classroom"
+    "url": "https://en.wikipedia.org/wiki/Room_641A",
+    "title": "Room 641A"
   },
   {
     "source": "lobsters",
     "url": "https://artificialworlds.net/blog/2026/09/11/feeling-sad-about-ai/",
     "title": "Feeling sad about AI"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://tante.cc/2026/09/11/power-grab/",
+    "title": "Power grab"
   },
   {
     "source": "lobsters",
@@ -91,13 +91,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://rustfoundation.org/media/guest-post-rust-is-tier-1-language-at-microsoft/",
-    "title": "Rust Is Tier-1 Language at Microsoft"
+    "url": "https://evergarden.moe/",
+    "title": "evergarden"
   },
   {
     "source": "lobsters",
-    "url": "https://tante.cc/2026/09/11/power-grab/",
-    "title": "Power grab"
+    "url": "https://rustfoundation.org/media/guest-post-rust-is-tier-1-language-at-microsoft/",
+    "title": "Rust Is Tier-1 Language at Microsoft"
   },
   {
     "source": "lobsters",
@@ -116,8 +116,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://evergarden.moe/",
-    "title": "evergarden"
+    "url": "https://auberon.xyz/blog/posts/deathray/",
+    "title": "An untrusted site can freeze a Mac using WebGPU"
   },
   {
     "source": "lobsters",
@@ -136,6 +136,11 @@
   },
   {
     "source": "lobsters",
+    "url": "https://david.alvarezrosa.com/posts/optimizing-a-spin-lock/",
+    "title": "Optimizing a Spin-Lock"
+  },
+  {
+    "source": "lobsters",
     "url": "https://ersc.io/blog/what-comes-after-git",
     "title": "What comes after git"
   },
@@ -146,23 +151,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://david.alvarezrosa.com/posts/optimizing-a-spin-lock/",
-    "title": "Optimizing a Spin-Lock"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://blog.fallible.net/it-breaks-a-village/",
-    "title": "It Breaks a Village: Bevy's 6th Birthday"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://fzakaria.com/2026/09/09/review-a-pull-request-by-booting-it",
-    "title": "Review a pull request by booting it"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://blog.yuo.be/2026/09/10/the-terrible-menu-bar-in-the-windows-11-notepad/",
-    "title": "The terrible menu bar in the Windows 11 Notepad"
+    "url": "https://shopify.engineering/back-to-native",
+    "title": "Native is now the future of mobile at Shopify (2026)"
   },
   {
     "source": "pinboard",
@@ -173,6 +163,11 @@
     "source": "pinboard",
     "url": "https://nishantjosh.dev/blogs/how-to-build-a-fking-printer/",
     "title": "How to build a f**king printer · Nishant Joshi"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://musictheory.pugetsound.edu/mt21c/MusicTheory.html",
+    "title": "Music Theory for the 21st-Century Classroom"
   },
   {
     "source": "pinboard",
