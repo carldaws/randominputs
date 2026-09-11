@@ -6,8 +6,23 @@
   },
   {
     "source": "hn",
+    "url": "https://el.media.mit.edu/logo-foundation/what_is_logo/logo_programming.html",
+    "title": "Logo Programming Language"
+  },
+  {
+    "source": "hn",
     "url": "https://mmoustafa.com/blog/so-you-want-to-use-openrouter/",
     "title": "So you want to use OpenRouter?"
+  },
+  {
+    "source": "hn",
+    "url": "https://hcker.news/?ai=exclude",
+    "title": "Show HN: Hacker News, without AI"
+  },
+  {
+    "source": "hn",
+    "url": "https://derflounder.wordpress.com/2026/09/08/manually-copying-login-keychain-files-from-one-mac-to-another-no-longer-works-on-secure-enclave-equipped-macs-running-macos-tahoe/",
+    "title": "Copying login keychains between Macs fails on Secure Enclave Macs with Tahoe"
   },
   {
     "source": "hn",
@@ -16,8 +31,18 @@
   },
   {
     "source": "hn",
+    "url": "https://www.tinybird.co/blog/what-i-learned-operating-clickhouse",
+    "title": "I've operated petabyte-scale ClickHouse clusters for 5 years"
+  },
+  {
+    "source": "hn",
     "url": "https://blog.jim-nielsen.com/2026/hands-off-my-cables/",
     "title": "Don't let anyone take away your big box of cables"
+  },
+  {
+    "source": "hn",
+    "url": "https://vale.rocks/posts/css-relics",
+    "title": "CSS Curiosities of the Past"
   },
   {
     "source": "hn",
@@ -31,13 +56,8 @@
   },
   {
     "source": "hn",
-    "url": "https://vale.rocks/posts/css-relics",
-    "title": "CSS Curiosities of the Past"
-  },
-  {
-    "source": "hn",
-    "url": "https://auberon.xyz/blog/posts/deathray/",
-    "title": "The Deathray: A simple way for an untrusted site to freeze a Mac"
+    "url": "https://earendil.com/posts/measuring-code-sloppiness/",
+    "title": "If coding is solved, what now?: Measuring the sloppiness of code"
   },
   {
     "source": "hn",
@@ -46,8 +66,8 @@
   },
   {
     "source": "hn",
-    "url": "https://en.wikipedia.org/wiki/Neijuan",
-    "title": "Neijuan"
+    "url": "https://auberon.xyz/blog/posts/deathray/",
+    "title": "The Deathray: A simple way for an untrusted site to freeze a Mac"
   },
   {
     "source": "hn",
@@ -55,19 +75,9 @@
     "title": "Music Theory for the 21st-Century Classroom"
   },
   {
-    "source": "hn",
-    "url": "https://merybenavente.me/blog/proof-of-capture",
-    "title": "Proof of Capture: Apple Reference Image, but open source and using steganography"
-  },
-  {
-    "source": "hn",
-    "url": "https://rustfoundation.org/media/guest-post-rust-is-tier-1-language-at-microsoft/",
-    "title": "Rust is tier-1 language at Microsoft"
-  },
-  {
-    "source": "hn",
-    "url": "https://thenextweb.com/news/mosseri-instagram-algorithm-opt-out-engagement-australia",
-    "title": "Instagram's head says engagement falls by half without the algorithm"
+    "source": "lobsters",
+    "url": "https://artificialworlds.net/blog/2026/09/11/feeling-sad-about-ai/",
+    "title": "Feeling sad about AI"
   },
   {
     "source": "lobsters",
@@ -76,18 +86,18 @@
   },
   {
     "source": "lobsters",
-    "url": "https://slugcat.systems/post/26-09-10-yaml-spec/",
-    "title": "It's not the YAML spec's fault, but"
+    "url": "https://mail.cyberneticforests.com/models-dont-go-rogue/",
+    "title": "Models Don't Go Rogue"
   },
   {
     "source": "lobsters",
-    "url": "https://speed.edgecompute.app/",
-    "title": "Fastly Speedtest Test"
+    "url": "https://rustfoundation.org/media/guest-post-rust-is-tier-1-language-at-microsoft/",
+    "title": "Rust Is Tier-1 Language at Microsoft"
   },
   {
     "source": "lobsters",
-    "url": "https://abstractnonsense.xyz/microblog/2026-09-07-xteink-x4-pro-review/",
-    "title": "Xteink X4 Pro review"
+    "url": "https://tante.cc/2026/09/11/power-grab/",
+    "title": "Power grab"
   },
   {
     "source": "lobsters",
@@ -96,18 +106,28 @@
   },
   {
     "source": "lobsters",
+    "url": "https://speed.edgecompute.app/",
+    "title": "Fastly Speedtest Test"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://slugcat.systems/post/26-09-10-yaml-spec/",
+    "title": "It's not the YAML spec's fault, but"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://evergarden.moe/",
+    "title": "evergarden"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://abstractnonsense.xyz/microblog/2026-09-07-xteink-x4-pro-review/",
+    "title": "Xteink X4 Pro review"
+  },
+  {
+    "source": "lobsters",
     "url": "https://gleamgathering.com/",
     "title": "Gleam Gathering 2027"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://ersc.io/blog/what-comes-after-git",
-    "title": "What comes after git"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://mail.cyberneticforests.com/models-dont-go-rogue/",
-    "title": "Models Don't Go Rogue"
   },
   {
     "source": "lobsters",
@@ -116,13 +136,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://blog.fallible.net/it-breaks-a-village/",
-    "title": "It Breaks a Village: Bevy's 6th Birthday"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://fzakaria.com/2026/09/09/review-a-pull-request-by-booting-it",
-    "title": "Review a pull request by booting it"
+    "url": "https://ersc.io/blog/what-comes-after-git",
+    "title": "What comes after git"
   },
   {
     "source": "lobsters",
@@ -136,22 +151,82 @@
   },
   {
     "source": "lobsters",
+    "url": "https://blog.fallible.net/it-breaks-a-village/",
+    "title": "It Breaks a Village: Bevy's 6th Birthday"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://fzakaria.com/2026/09/09/review-a-pull-request-by-booting-it",
+    "title": "Review a pull request by booting it"
+  },
+  {
+    "source": "lobsters",
     "url": "https://blog.yuo.be/2026/09/10/the-terrible-menu-bar-in-the-windows-11-notepad/",
     "title": "The terrible menu bar in the Windows 11 Notepad"
   },
   {
-    "source": "lobsters",
-    "url": "https://kjartanvandriel.github.io/asic/",
-    "title": "Reverse engineering an ASIC"
+    "source": "pinboard",
+    "url": "https://e-infinity.space/picture-book/",
+    "title": "A Topological Picture Book, Rendered"
   },
   {
-    "source": "lobsters",
-    "url": "https://www.diffos.org/",
-    "title": "DiffOS is For Freedom"
+    "source": "pinboard",
+    "url": "https://nishantjosh.dev/blogs/how-to-build-a-fking-printer/",
+    "title": "How to build a f**king printer · Nishant Joshi"
   },
   {
-    "source": "lobsters",
-    "url": "https://tante.cc/2026/09/10/making-social-media-social/",
-    "title": "Making Social Media Social"
+    "source": "pinboard",
+    "url": "https://cloudinabottle.org/blog/launch-post",
+    "title": "Cloud in a Bottle: making self-hosting accessible to everyone | Cloud in a Bottle"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://stratechery.com/2026/write-things-down/",
+    "title": "Write Things Down – Stratechery by Ben Thompson"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://vale.rocks/posts/html-relics",
+    "title": "Antiquated HTML Snippets and Artefacts | Vale.Rocks"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://markview.io/",
+    "title": "MarkView - The Markdown Viewer for Everyone"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://cims.nyu.edu/~tristanb/statement.pdf",
+    "title": "Lean-Verified Finite-Time Blowup Results for Porous Media, Boussinesq, and 3D Euler Equations"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://desertant.com/blog/introducing-desert-ant-labs/",
+    "title": "On-device intelligence for every product | Desert Ant Labs"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://marginalia-search.com/",
+    "title": "Marginalia Search - A search engine that favors text-heavy sites and punishes modern web design"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://drewdevault.com/weird-guys/",
+    "title": "Weird little guys of FOSS"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://simonwillison.net/2026/Sep/8/on-navier-stokes/",
+    "title": "[no title]"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://psantosl.github.io/posts/version-control-second-coming/",
+    "title": "Version control second coming · Pablo Santos Luaces"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://cloudinabottle.org/",
+    "title": "Cloud in a Bottle: your corner of the cloud"
   }
 ]
