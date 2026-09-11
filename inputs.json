@@ -1,13 +1,18 @@
 [
   {
     "source": "hn",
+    "url": "https://dayzlegame.com/blog/google-ads-bot-farm/",
+    "title": "I spent $220 on Google app ads and 60% of the installs were robots"
+  },
+  {
+    "source": "hn",
     "url": "https://cel.cs.brown.edu/blog/design-space-async-await/",
     "title": "A Design Space Exploration of Async/Await"
   },
   {
     "source": "hn",
-    "url": "https://dayzlegame.com/blog/google-ads-bot-farm/",
-    "title": "I spent $220 on Google app ads. 60% of the installs were robots"
+    "url": "https://blinkenlights.de/en/",
+    "title": "Project Blinkenlights"
   },
   {
     "source": "hn",
@@ -16,13 +21,28 @@
   },
   {
     "source": "hn",
-    "url": "https://capitalbnews.org/data-centers-permit-rules-epa/",
-    "title": "The EPA is planning to scrap public review rules for data center pollution"
+    "url": "https://www.vldb.org/pvldb/vol19/p4494-schmidt.pdf",
+    "title": "QueryBrew: System-Agnostic SQL-to-SQL Query Optimization [pdf]"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.fink-translate.com/blog/hepburn-romanization.html",
+    "title": "Hepburn Romanization: How to Read Japanese in the Latin Alphabet"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.rubyhack.ai/",
+    "title": "OpenAI agents carried out an undisclosed attack on RubyGems"
   },
   {
     "source": "hn",
     "url": "https://rune.build/blog/rune-is-now-open-source",
     "title": "Rune is now open source"
+  },
+  {
+    "source": "hn",
+    "url": "https://capitalbnews.org/data-centers-permit-rules-epa/",
+    "title": "The EPA is planning to scrap public review rules for data center pollution"
   },
   {
     "source": "hn",
@@ -41,28 +61,8 @@
   },
   {
     "source": "hn",
-    "url": "https://pikuma.com/blog/pdp-8-minicomputer",
-    "title": "From Front Panel to Program: Thinking Like a PDP-8"
-  },
-  {
-    "source": "hn",
     "url": "https://glacierextinction.com",
     "title": "Global Glacier Extinction Explorer"
-  },
-  {
-    "source": "hn",
-    "url": "https://en.wikipedia.org/wiki/Room_641A",
-    "title": "Room 641A"
-  },
-  {
-    "source": "hn",
-    "url": "https://earendil.com/posts/measuring-code-sloppiness/",
-    "title": "Measuring the sloppiness of code"
-  },
-  {
-    "source": "hn",
-    "url": "https://hcker.news/?ai=exclude",
-    "title": "Show HN: Hacker News, without AI"
   },
   {
     "source": "lobsters",
@@ -76,6 +76,11 @@
   },
   {
     "source": "lobsters",
+    "url": "https://terrytao.wordpress.com/2026/09/11/a-severe-misalignment-of-ai-in-mathematics/",
+    "title": "A Severe Misalignment of AI in Mathematics"
+  },
+  {
+    "source": "lobsters",
     "url": "https://evergarden.moe/",
     "title": "evergarden"
   },
@@ -83,11 +88,6 @@
     "source": "lobsters",
     "url": "https://mail.cyberneticforests.com/models-dont-go-rogue/",
     "title": "Models Don't Go Rogue"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://terrytao.wordpress.com/2026/09/11/a-severe-misalignment-of-ai-in-mathematics/",
-    "title": "A Severe Misalignment of AI in Mathematics"
   },
   {
     "source": "lobsters",
@@ -106,13 +106,18 @@
   },
   {
     "source": "lobsters",
-    "url": "https://speed.edgecompute.app/",
-    "title": "Fastly Speedtest Test"
+    "url": "https://earendil.com/posts/measuring-code-sloppiness/",
+    "title": "Measuring the sloppiness of code"
   },
   {
     "source": "lobsters",
     "url": "https://auberon.xyz/blog/posts/deathray/",
     "title": "An untrusted site can freeze a Mac using WebGPU"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://speed.edgecompute.app/",
+    "title": "Fastly Speedtest Test"
   },
   {
     "source": "lobsters",
@@ -141,8 +146,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://laurmaedje.github.io/posts/jj/",
-    "title": "Conversations with JJ"
+    "url": "https://eiln.github.io/posts/ane.html",
+    "title": "Retrospectively Reverse-Engineering Apple's Neural Engine"
   },
   {
     "source": "pinboard",
