@@ -1,6 +1,16 @@
 [
   {
     "source": "hn",
+    "url": "https://www.joelotter.com/posts/2026/09/make-it-anyway/",
+    "title": "Fuck it, make it anyway"
+  },
+  {
+    "source": "hn",
+    "url": "https://transformer-circuits.pub/2021/framework/index.html",
+    "title": "A Mathematical Framework for Transformer Circuits (2021)"
+  },
+  {
+    "source": "hn",
     "url": "https://eiln.github.io/posts/ane.html",
     "title": "Retrospectively Reverse-Engineering Apple's Neural Engine"
   },
@@ -16,8 +26,8 @@
   },
   {
     "source": "hn",
-    "url": "https://www.claymath.org/news/navier-stokes-announcement/",
-    "title": "Navier-Stokes Announcement"
+    "url": "https://grahamdumpleton.me/posts/2026/09/finding-slow-code-with-wrapture/",
+    "title": "Finding Slow Code with Wrapture"
   },
   {
     "source": "hn",
@@ -36,8 +46,13 @@
   },
   {
     "source": "hn",
-    "url": "https://www.wsj.com/tech/ai/ai-math-millennium-prize-safety-openai-anthropic-05179825",
-    "title": "AI Is Powerful Enough to Crack Our Hardest Math Problems–and Kill Us All"
+    "url": "https://codon.org.uk/~mjg59/blog/p/systemio-conflicts-are-not-firmware-bugs/",
+    "title": "SystemIO conflicts are not firmware bugs"
+  },
+  {
+    "source": "hn",
+    "url": "https://davidbombal.com/your-compiler-can-undo-your-security-checks/",
+    "title": "Compiler Can Undo Your Security Checks"
   },
   {
     "source": "hn",
@@ -51,33 +66,13 @@
   },
   {
     "source": "hn",
+    "url": "https://www.claymath.org/news/navier-stokes-announcement/",
+    "title": "Navier-Stokes Announcement"
+  },
+  {
+    "source": "hn",
     "url": "https://www.tinybird.co/blog/what-i-learned-operating-clickhouse",
     "title": "I've operated petabyte-scale ClickHouse clusters for 5 years"
-  },
-  {
-    "source": "hn",
-    "url": "https://danboland.net/2021/07/15/bomb-sense.html",
-    "title": "Bomb Sense (2021)"
-  },
-  {
-    "source": "hn",
-    "url": "https://codon.org.uk/~mjg59/blog/p/systemio-conflicts-are-not-firmware-bugs/",
-    "title": "SystemIO conflicts are not firmware bugs"
-  },
-  {
-    "source": "hn",
-    "url": "https://rune.build/blog/rune-is-now-open-source",
-    "title": "Rune is now open source"
-  },
-  {
-    "source": "hn",
-    "url": "https://snap.berkeley.edu/",
-    "title": "Λ Snap – An inviting programming language for kids and adults for CS study"
-  },
-  {
-    "source": "hn",
-    "url": "https://projectzero.google/2026/09/maccconc-race-condition.html",
-    "title": "Testing Race Conditions"
   },
   {
     "source": "lobsters",
@@ -86,13 +81,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://terrytao.wordpress.com/2026/09/11/a-severe-misalignment-of-ai-in-mathematics/",
-    "title": "A Severe Misalignment of AI in Mathematics"
+    "url": "https://eddie.codes/posts/pandas-should-go-extinct/",
+    "title": "Pandas Should Go Extinct"
   },
   {
     "source": "lobsters",
-    "url": "https://eddie.codes/posts/pandas-should-go-extinct/",
-    "title": "Pandas Should Go Extinct"
+    "url": "https://terrytao.wordpress.com/2026/09/11/a-severe-misalignment-of-ai-in-mathematics/",
+    "title": "A Severe Misalignment of AI in Mathematics"
   },
   {
     "source": "lobsters",
@@ -116,6 +111,11 @@
   },
   {
     "source": "lobsters",
+    "url": "https://antonz.org/solod-0.4/",
+    "title": "Solod 0.4: Better C interop"
+  },
+  {
+    "source": "lobsters",
     "url": "https://hugovk.dev/blog/2026/soft-deprecating-re.match/",
     "title": "Soft-deprecating re.match()"
   },
@@ -131,17 +131,102 @@
   },
   {
     "source": "lobsters",
+    "url": "https://rune.build/blog/rune-is-now-open-source",
+    "title": "Rune is now open source"
+  },
+  {
+    "source": "lobsters",
     "url": "https://auberon.xyz/blog/posts/deathray/",
     "title": "An untrusted site can freeze a Mac using WebGPU"
   },
   {
-    "source": "lobsters",
-    "url": "https://speed.edgecompute.app/",
-    "title": "Fastly Speedtest Test"
+    "source": "pinboard",
+    "url": "https://musictheory.pugetsound.edu/mt21c/MusicTheory.html",
+    "title": "Music Theory for the 21st-Century Classroom"
   },
   {
-    "source": "lobsters",
-    "url": "https://slugcat.systems/post/26-09-10-yaml-spec/",
-    "title": "It's not the YAML spec's fault, but"
+    "source": "pinboard",
+    "url": "https://e-infinity.space/picture-book/",
+    "title": "A Topological Picture Book, Rendered"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://vale.rocks/posts/html-boilerplate",
+    "title": "My HTML Boilerplate | Vale.Rocks"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://nishantjosh.dev/blogs/how-to-build-a-fking-printer/",
+    "title": "How to build a f**king printer · Nishant Joshi"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://shopify.engineering/back-to-native",
+    "title": "Native is now the future of mobile at Shopify (2026) - Shopify"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://tautology.town/2026/06/01/card-networks.html",
+    "title": "What do Visa and Mastercard do? An intro to card networks @ tautology.town"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://lucumr.pocoo.org/2026/9/7/astra-why/",
+    "title": "Astra for Coding: Why Are We Doing This Again? | Armin Ronacher's Thoughts and Writings"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://prospect.org/2026/09/09/anthropic-artificial-intelligence-surveillance-system-monitor-activists/",
+    "title": "Anthropic crea un sistema predittivo per monitorare gli attivisti contro l’AI"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://desertant.com/blog/introducing-desert-ant-labs/",
+    "title": "On-device intelligence for every product | Desert Ant Labs"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://stratechery.com/2026/write-things-down/",
+    "title": "Write Things Down – Stratechery by Ben Thompson"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://opusfived.dev/",
+    "title": "Opusfived"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://psantosl.github.io/posts/version-control-second-coming/",
+    "title": "Version control second coming · Pablo Santos Luaces"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://mmoustafa.com/blog/so-you-want-to-use-openrouter/",
+    "title": "So you want to use OpenRouter?"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://ploum.net/2026-09-09-ai_policy.html",
+    "title": "I Don’t Want to Interact With Stochastic Parrots"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://neat-annotations.syabro.com/",
+    "title": "neat-annotations — neat hand-drawn CSS annotations"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://gnuradioworld.com/",
+    "title": "GNU Radio World — GNU Radio flowgraphs in your browser"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://copperhead.sh/",
+    "title": "copperhead. Cursor for circuit boards."
+  },
+  {
+    "source": "pinboard",
+    "url": "https://rivendell.dmitrybrant.com/relativity/",
+    "title": "Relativity Park: Walking Speed of Light"
   }
 ]
