@@ -1,8 +1,28 @@
 [
   {
     "source": "hn",
+    "url": "https://www.autom.dev/blog/google-search-goto-links",
+    "title": "google.com/goto: Google's anti-scraping update"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.claymath.org/news/navier-stokes-announcement/",
+    "title": "Navier-Stokes Announcement"
+  },
+  {
+    "source": "hn",
     "url": "https://dayzlegame.com/blog/google-ads-bot-farm/",
     "title": "I spent $220 on Google app ads and 60% of the installs were robots"
+  },
+  {
+    "source": "hn",
+    "url": "https://cel.cs.brown.edu/blog/design-space-async-await/",
+    "title": "A Design Space Exploration of Async/Await"
+  },
+  {
+    "source": "hn",
+    "url": "https://blog.stephaniestimac.com/posts/2023/05/design-foldable-devices/",
+    "title": "Designing for Dual Screen and Foldable Devices with CSS (2023)"
   },
   {
     "source": "hn",
@@ -11,8 +31,23 @@
   },
   {
     "source": "hn",
-    "url": "https://cel.cs.brown.edu/blog/design-space-async-await/",
-    "title": "A Design Space Exploration of Async/Await"
+    "url": "https://el.media.mit.edu/logo-foundation/what_is_logo/logo_programming.html",
+    "title": "Logo Programming"
+  },
+  {
+    "source": "hn",
+    "url": "https://calif.io/research/weworm",
+    "title": "WeWorm: Zero-Click WeChat Worm"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.tinybird.co/blog/what-i-learned-operating-clickhouse",
+    "title": "I've operated petabyte-scale ClickHouse clusters for 5 years"
+  },
+  {
+    "source": "hn",
+    "url": "https://theorangeduck.com/page/inverse-kinematics-foot-locking",
+    "title": "Inverse Kinematics and Foot Locking"
   },
   {
     "source": "hn",
@@ -26,33 +61,18 @@
   },
   {
     "source": "hn",
-    "url": "https://www.fink-translate.com/blog/hepburn-romanization.html",
-    "title": "Hepburn Romanization: How to Read Japanese in the Latin Alphabet"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.gadgetreview.com/starlinks-signal-leakage-is-threatening-radio-astronomys-most-critical-frequencies",
-    "title": "Starlink Signal Leakage Threatens Radio Astronomy's Most Critical Frequencies"
-  },
-  {
-    "source": "hn",
     "url": "https://capitalbnews.org/data-centers-permit-rules-epa/",
     "title": "The EPA is planning to scrap public review rules for data center pollution"
   },
   {
     "source": "hn",
-    "url": "https://www.tinybird.co/blog/what-i-learned-operating-clickhouse",
-    "title": "I've operated petabyte-scale ClickHouse clusters for 5 years"
+    "url": "https://projectzero.google/2026/09/maccconc-race-condition.html",
+    "title": "Testing Race Conditions"
   },
   {
     "source": "hn",
-    "url": "https://www.vldb.org/pvldb/vol19/p4494-schmidt.pdf",
-    "title": "QueryBrew: System-Agnostic SQL-to-SQL Query Optimization [pdf]"
-  },
-  {
-    "source": "hn",
-    "url": "https://el.media.mit.edu/logo-foundation/what_is_logo/logo_programming.html",
-    "title": "Logo Programming Language"
+    "url": "https://www.gadgetreview.com/starlinks-signal-leakage-is-threatening-radio-astronomys-most-critical-frequencies",
+    "title": "Starlink Signal Leakage Threatens Radio Astronomy's Most Critical Frequencies"
   },
   {
     "source": "lobsters",
@@ -61,13 +81,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://tante.cc/2026/09/11/power-grab/",
-    "title": "Power grab"
+    "url": "https://terrytao.wordpress.com/2026/09/11/a-severe-misalignment-of-ai-in-mathematics/",
+    "title": "A Severe Misalignment of AI in Mathematics"
   },
   {
     "source": "lobsters",
-    "url": "https://terrytao.wordpress.com/2026/09/11/a-severe-misalignment-of-ai-in-mathematics/",
-    "title": "A Severe Misalignment of AI in Mathematics"
+    "url": "https://tante.cc/2026/09/11/power-grab/",
+    "title": "Power grab"
   },
   {
     "source": "lobsters",
@@ -76,8 +96,18 @@
   },
   {
     "source": "lobsters",
+    "url": "https://eddie.codes/posts/pandas-should-go-extinct/",
+    "title": "Pandas Should Go Extinct"
+  },
+  {
+    "source": "lobsters",
     "url": "https://mail.cyberneticforests.com/models-dont-go-rogue/",
     "title": "Models Don't Go Rogue"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://earendil.com/posts/measuring-code-sloppiness/",
+    "title": "Measuring the sloppiness of code"
   },
   {
     "source": "lobsters",
@@ -88,11 +118,6 @@
     "source": "lobsters",
     "url": "https://hugovk.dev/blog/2026/soft-deprecating-re.match/",
     "title": "Soft-deprecating re.match()"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://earendil.com/posts/measuring-code-sloppiness/",
-    "title": "Measuring the sloppiness of code"
   },
   {
     "source": "lobsters",
@@ -123,85 +148,5 @@
     "source": "lobsters",
     "url": "https://gleamgathering.com/",
     "title": "Gleam Gathering 2027"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://vale.rocks/posts/html-boilerplate",
-    "title": "My HTML Boilerplate"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://e-infinity.space/picture-book/",
-    "title": "A Topological Picture Book, Rendered"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://nishantjosh.dev/blogs/how-to-build-a-fking-printer/",
-    "title": "How to build a f**king printer · Nishant Joshi"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://musictheory.pugetsound.edu/mt21c/MusicTheory.html",
-    "title": "Music Theory for the 21st-Century Classroom"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://cloudinabottle.org/blog/launch-post",
-    "title": "Cloud in a Bottle: making self-hosting accessible to everyone | Cloud in a Bottle"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://stratechery.com/2026/write-things-down/",
-    "title": "Write Things Down – Stratechery by Ben Thompson"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://vale.rocks/posts/html-relics",
-    "title": "Antiquated HTML Snippets and Artefacts | Vale.Rocks"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://markview.io/",
-    "title": "MarkView - The Markdown Viewer for Everyone"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://cims.nyu.edu/~tristanb/statement.pdf",
-    "title": "Lean-Verified Finite-Time Blowup Results for Porous Media, Boussinesq, and 3D Euler Equations"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://desertant.com/blog/introducing-desert-ant-labs/",
-    "title": "On-device intelligence for every product | Desert Ant Labs"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://marginalia-search.com/",
-    "title": "Marginalia Search - A search engine that favors text-heavy sites and punishes modern web design"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://drewdevault.com/weird-guys/",
-    "title": "Weird little guys of FOSS"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://simonwillison.net/2026/Sep/8/on-navier-stokes/",
-    "title": "[no title]"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://psantosl.github.io/posts/version-control-second-coming/",
-    "title": "Version control second coming · Pablo Santos Luaces"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://cloudinabottle.org/",
-    "title": "Cloud in a Bottle: your corner of the cloud"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://shopify.engineering/back-to-native",
-    "title": "Native is now the future of mobile at Shopify (2026) - Shopify"
   }
 ]
