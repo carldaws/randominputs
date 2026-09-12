@@ -6,6 +6,16 @@
   },
   {
     "source": "hn",
+    "url": "https://dunstanorchard.com/apple-ipod-engraver/",
+    "title": "Apple iPod Engraver (2019)"
+  },
+  {
+    "source": "hn",
+    "url": "https://eiln.github.io/posts/ane-dma.html",
+    "title": "Getting 50 GB/S Back from the Apple Neural Engine"
+  },
+  {
+    "source": "hn",
     "url": "https://modelrift.com/blog/cadquery-vs-openscad/",
     "title": "Benchmark: CadQuery vs. OpenSCAD for agentic CAD work"
   },
@@ -16,18 +26,8 @@
   },
   {
     "source": "hn",
-    "url": "https://dunstanorchard.com/apple-ipod-engraver/",
-    "title": "Apple iPod Engraver (2019)"
-  },
-  {
-    "source": "hn",
     "url": "https://www.righto.com/2026/09/8087-microcode-reverse-engineering-fscale.html",
     "title": "Microcode in Intel's 8087 floating-point chip: the scale instruction"
-  },
-  {
-    "source": "hn",
-    "url": "https://transformer-circuits.pub/2021/framework/index.html",
-    "title": "A Mathematical Framework for Transformer Circuits (2021)"
   },
   {
     "source": "hn",
@@ -36,18 +36,13 @@
   },
   {
     "source": "hn",
-    "url": "https://andrewarrow.dev/2026/moon/2/day/19/the-magic-behind-cubacadabra/",
-    "title": "The Magic Behind Cubacadabra"
-  },
-  {
-    "source": "hn",
     "url": "https://supuk.ch/papers/android-natt-keepalive-vpn-bypass",
     "title": "Android NAT-T keepalive offload bypasses VPN lockdown"
   },
   {
     "source": "hn",
-    "url": "https://pgadey.ca/blog/eating-fruit-skins/",
-    "title": "Eating Fruit Skins"
+    "url": "https://transformer-circuits.pub/2021/framework/index.html",
+    "title": "A Mathematical Framework for Transformer Circuits (2021)"
   },
   {
     "source": "hn",
@@ -56,23 +51,23 @@
   },
   {
     "source": "hn",
+    "url": "https://pgadey.ca/blog/eating-fruit-skins/",
+    "title": "Eating Fruit Skins"
+  },
+  {
+    "source": "hn",
+    "url": "https://maxmautner.com/2026/09/11/liability-coverage.html",
+    "title": "Killing with a car costs $1.6M, California requires drivers to carry $30K"
+  },
+  {
+    "source": "hn",
+    "url": "https://andrewarrow.dev/2026/moon/2/day/19/the-magic-behind-cubacadabra/",
+    "title": "The Magic Behind Cubacadabra"
+  },
+  {
+    "source": "hn",
     "url": "https://snap.berkeley.edu/",
     "title": "λ Snap – An inviting programming language for kids and adults for CS study"
-  },
-  {
-    "source": "hn",
-    "url": "https://cel.cs.brown.edu/blog/design-space-async-await/",
-    "title": "A Design Space Exploration of Async/Await"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.autom.dev/blog/google-search-goto-links",
-    "title": "google.com/goto: Google's anti-scraping update"
-  },
-  {
-    "source": "hn",
-    "url": "https://prydt.xyz/blog/a-few-good-ideas-in-pl/",
-    "title": "A few good ideas in programming languages"
   },
   {
     "source": "lobsters",
@@ -96,8 +91,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://el.media.mit.edu/logo-foundation/what_is_logo/logo_programming.html",
-    "title": "Logo Programming Language"
+    "url": "https://prydt.xyz/blog/a-few-good-ideas-in-pl/",
+    "title": "A Few Good Ideas in Programming Languages"
   },
   {
     "source": "lobsters",
@@ -106,8 +101,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://tante.cc/2026/09/11/power-grab/",
-    "title": "Power grab"
+    "url": "https://el.media.mit.edu/logo-foundation/what_is_logo/logo_programming.html",
+    "title": "Logo Programming Language"
   },
   {
     "source": "lobsters",
@@ -118,6 +113,11 @@
     "source": "lobsters",
     "url": "https://blog.goose.love/posts/making-a-clippy-lint-faster-by-3133x/",
     "title": "Optimizing a single Rust Clippy lint by 3133X"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://tante.cc/2026/09/11/power-grab/",
+    "title": "Power grab"
   },
   {
     "source": "lobsters",
