@@ -6,13 +6,8 @@
   },
   {
     "source": "hn",
-    "url": "https://jacob.gold/posts/open-letter-to-dario-amodei-about-open-weights/",
-    "title": "An open letter to Dario: if you mean it, open the weights"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.righto.com/2026/09/8087-microcode-reverse-engineering-fscale.html",
-    "title": "Microcode in Intel's 8087 floating-point chip: the scale instruction"
+    "url": "https://modelrift.com/blog/cadquery-vs-openscad/",
+    "title": "Benchmark: CadQuery vs. OpenSCAD for agentic CAD work"
   },
   {
     "source": "hn",
@@ -21,8 +16,13 @@
   },
   {
     "source": "hn",
-    "url": "https://www.autom.dev/blog/google-search-goto-links",
-    "title": "google.com/goto: Google's anti-scraping update"
+    "url": "https://dunstanorchard.com/apple-ipod-engraver/",
+    "title": "Apple iPod Engraver (2019)"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.righto.com/2026/09/8087-microcode-reverse-engineering-fscale.html",
+    "title": "Microcode in Intel's 8087 floating-point chip: the scale instruction"
   },
   {
     "source": "hn",
@@ -31,13 +31,13 @@
   },
   {
     "source": "hn",
-    "url": "https://prydt.xyz/blog/a-few-good-ideas-in-pl/",
-    "title": "A few good ideas in programming languages"
+    "url": "https://eiln.github.io/posts/ane.html",
+    "title": "Retrospectively Reverse-Engineering Apple's Neural Engine"
   },
   {
     "source": "hn",
-    "url": "https://eiln.github.io/posts/ane.html",
-    "title": "Retrospectively Reverse-Engineering Apple's Neural Engine"
+    "url": "https://andrewarrow.dev/2026/moon/2/day/19/the-magic-behind-cubacadabra/",
+    "title": "The Magic Behind Cubacadabra"
   },
   {
     "source": "hn",
@@ -66,8 +66,13 @@
   },
   {
     "source": "hn",
-    "url": "https://www.joelotter.com/posts/2026/09/make-it-anyway/",
-    "title": "Fuck it, make it anyway"
+    "url": "https://www.autom.dev/blog/google-search-goto-links",
+    "title": "google.com/goto: Google's anti-scraping update"
+  },
+  {
+    "source": "hn",
+    "url": "https://prydt.xyz/blog/a-few-good-ideas-in-pl/",
+    "title": "A few good ideas in programming languages"
   },
   {
     "source": "lobsters",
@@ -96,13 +101,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://tante.cc/2026/09/11/power-grab/",
-    "title": "Power grab"
+    "url": "https://www.joelotter.com/posts/2026/09/make-it-anyway/",
+    "title": "Make it anyway"
   },
   {
     "source": "lobsters",
-    "url": "https://evergarden.moe/",
-    "title": "evergarden"
+    "url": "https://tante.cc/2026/09/11/power-grab/",
+    "title": "Power grab"
   },
   {
     "source": "lobsters",
@@ -111,8 +116,18 @@
   },
   {
     "source": "lobsters",
-    "url": "https://jsnesx.github.io/js65/",
-    "title": "js65 - Advanced 6502 assembler with patching support based on ca65 syntax"
+    "url": "https://blog.goose.love/posts/making-a-clippy-lint-faster-by-3133x/",
+    "title": "Optimizing a single Rust Clippy lint by 3133X"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://evergarden.moe/",
+    "title": "evergarden"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://antonz.org/solod-0.4/",
+    "title": "Solod 0.4: Better C interop"
   },
   {
     "source": "pinboard",
