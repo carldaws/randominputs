@@ -1,13 +1,18 @@
 [
   {
     "source": "hn",
-    "url": "https://www.joelotter.com/posts/2026/09/make-it-anyway/",
-    "title": "Fuck it, make it anyway"
+    "url": "https://high5apps.github.io/josm-plugin-website-wizard/",
+    "title": "Make Your First Edit to OpenStreetMap in the Next 15 Minutes"
   },
   {
     "source": "hn",
     "url": "https://transformer-circuits.pub/2021/framework/index.html",
     "title": "A Mathematical Framework for Transformer Circuits (2021)"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.righto.com/2026/09/8087-microcode-reverse-engineering-fscale.html",
+    "title": "Microcode in Intel's 8087 floating-point chip: the scale instruction"
   },
   {
     "source": "hn",
@@ -21,13 +26,23 @@
   },
   {
     "source": "hn",
+    "url": "https://www.joelotter.com/posts/2026/09/make-it-anyway/",
+    "title": "Fuck it, make it anyway"
+  },
+  {
+    "source": "hn",
+    "url": "https://oilprice.com/Energy/Energy-General/Europes-Less-Is-Doing-More-Than-Anyone-Gives-It-Credit-For.html",
+    "title": "Europe's \"Less\" Is Doing More Than Anyone Gives It Credit For"
+  },
+  {
+    "source": "hn",
     "url": "https://cel.cs.brown.edu/blog/design-space-async-await/",
     "title": "A Design Space Exploration of Async/Await"
   },
   {
     "source": "hn",
-    "url": "https://grahamdumpleton.me/posts/2026/09/finding-slow-code-with-wrapture/",
-    "title": "Finding Slow Code with Wrapture"
+    "url": "https://prydt.xyz/blog/a-few-good-ideas-in-pl/",
+    "title": "A Few Good Ideas in Programming Languages"
   },
   {
     "source": "hn",
@@ -36,23 +51,13 @@
   },
   {
     "source": "hn",
+    "url": "https://www.npr.org/2026/09/08/nx-s1-5955618/is-it-time-for-a-luddite-renaissance",
+    "title": "Is it time for a Luddite Renaissance?"
+  },
+  {
+    "source": "hn",
     "url": "https://www.autom.dev/blog/google-search-goto-links",
     "title": "google.com/goto: Google's anti-scraping update"
-  },
-  {
-    "source": "hn",
-    "url": "https://el.media.mit.edu/logo-foundation/what_is_logo/logo_programming.html",
-    "title": "Logo Programming"
-  },
-  {
-    "source": "hn",
-    "url": "https://codon.org.uk/~mjg59/blog/p/systemio-conflicts-are-not-firmware-bugs/",
-    "title": "SystemIO conflicts are not firmware bugs"
-  },
-  {
-    "source": "hn",
-    "url": "https://davidbombal.com/your-compiler-can-undo-your-security-checks/",
-    "title": "Compiler Can Undo Your Security Checks"
   },
   {
     "source": "hn",
@@ -65,19 +70,14 @@
     "title": "Designing for Dual Screen and Foldable Devices with CSS (2023)"
   },
   {
-    "source": "hn",
-    "url": "https://www.claymath.org/news/navier-stokes-announcement/",
-    "title": "Navier-Stokes Announcement"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.tinybird.co/blog/what-i-learned-operating-clickhouse",
-    "title": "I've operated petabyte-scale ClickHouse clusters for 5 years"
-  },
-  {
     "source": "lobsters",
     "url": "https://artificialworlds.net/blog/2026/09/11/feeling-sad-about-ai/",
     "title": "Feeling sad about AI"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://lalitm.com/post/buildprof/",
+    "title": "I made a build profiler to understand Bun’s compile times"
   },
   {
     "source": "lobsters",
@@ -101,43 +101,18 @@
   },
   {
     "source": "lobsters",
+    "url": "https://el.media.mit.edu/logo-foundation/what_is_logo/logo_programming.html",
+    "title": "Logo Programming Language"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://khoury.northeastern.edu/~cmartens/papers/plateau26-itfp.pdf",
+    "title": "Is truth futureproof? On the possible futures of mechanized proofs"
+  },
+  {
+    "source": "lobsters",
     "url": "https://mail.cyberneticforests.com/models-dont-go-rogue/",
     "title": "Models Don't Go Rogue"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://earendil.com/posts/measuring-code-sloppiness/",
-    "title": "Measuring the sloppiness of code"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://antonz.org/solod-0.4/",
-    "title": "Solod 0.4: Better C interop"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://hugovk.dev/blog/2026/soft-deprecating-re.match/",
-    "title": "Soft-deprecating re.match()"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://maurycyz.com/misc/domains/",
-    "title": "A rant about phishing: It's not the user's fault (and not DNS either)"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://rustfoundation.org/media/guest-post-rust-is-tier-1-language-at-microsoft/",
-    "title": "Rust Is Tier-1 Language at Microsoft"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://rune.build/blog/rune-is-now-open-source",
-    "title": "Rune is now open source"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://auberon.xyz/blog/posts/deathray/",
-    "title": "An untrusted site can freeze a Mac using WebGPU"
   },
   {
     "source": "pinboard",
