@@ -6,13 +6,13 @@
   },
   {
     "source": "hn",
-    "url": "https://cel.cs.brown.edu/blog/design-space-async-await/",
-    "title": "A Design Space Exploration of Async/Await"
+    "url": "https://www.rubyhack.ai/",
+    "title": "OpenAI agents carried out an undisclosed attack on RubyGems"
   },
   {
     "source": "hn",
-    "url": "https://blinkenlights.de/en/",
-    "title": "Project Blinkenlights"
+    "url": "https://cel.cs.brown.edu/blog/design-space-async-await/",
+    "title": "A Design Space Exploration of Async/Await"
   },
   {
     "source": "hn",
@@ -21,8 +21,8 @@
   },
   {
     "source": "hn",
-    "url": "https://www.vldb.org/pvldb/vol19/p4494-schmidt.pdf",
-    "title": "QueryBrew: System-Agnostic SQL-to-SQL Query Optimization [pdf]"
+    "url": "https://rune.build/blog/rune-is-now-open-source",
+    "title": "Rune is now open source"
   },
   {
     "source": "hn",
@@ -31,13 +31,8 @@
   },
   {
     "source": "hn",
-    "url": "https://www.rubyhack.ai/",
-    "title": "OpenAI agents carried out an undisclosed attack on RubyGems"
-  },
-  {
-    "source": "hn",
-    "url": "https://rune.build/blog/rune-is-now-open-source",
-    "title": "Rune is now open source"
+    "url": "https://www.gadgetreview.com/starlinks-signal-leakage-is-threatening-radio-astronomys-most-critical-frequencies",
+    "title": "Starlink Signal Leakage Threatens Radio Astronomy's Most Critical Frequencies"
   },
   {
     "source": "hn",
@@ -51,18 +46,13 @@
   },
   {
     "source": "hn",
-    "url": "https://mmoustafa.com/blog/so-you-want-to-use-openrouter/",
-    "title": "So you want to use OpenRouter?"
+    "url": "https://www.vldb.org/pvldb/vol19/p4494-schmidt.pdf",
+    "title": "QueryBrew: System-Agnostic SQL-to-SQL Query Optimization [pdf]"
   },
   {
     "source": "hn",
     "url": "https://el.media.mit.edu/logo-foundation/what_is_logo/logo_programming.html",
     "title": "Logo Programming Language"
-  },
-  {
-    "source": "hn",
-    "url": "https://glacierextinction.com",
-    "title": "Global Glacier Extinction Explorer"
   },
   {
     "source": "lobsters",
@@ -101,13 +91,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://rustfoundation.org/media/guest-post-rust-is-tier-1-language-at-microsoft/",
-    "title": "Rust Is Tier-1 Language at Microsoft"
+    "url": "https://earendil.com/posts/measuring-code-sloppiness/",
+    "title": "Measuring the sloppiness of code"
   },
   {
     "source": "lobsters",
-    "url": "https://earendil.com/posts/measuring-code-sloppiness/",
-    "title": "Measuring the sloppiness of code"
+    "url": "https://rustfoundation.org/media/guest-post-rust-is-tier-1-language-at-microsoft/",
+    "title": "Rust Is Tier-1 Language at Microsoft"
   },
   {
     "source": "lobsters",
@@ -138,16 +128,6 @@
     "source": "lobsters",
     "url": "https://vale.rocks/posts/html-boilerplate",
     "title": "My HTML Boilerplate"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://david.alvarezrosa.com/posts/optimizing-a-spin-lock/",
-    "title": "Optimizing a Spin-Lock"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://eiln.github.io/posts/ane.html",
-    "title": "Retrospectively Reverse-Engineering Apple's Neural Engine"
   },
   {
     "source": "pinboard",
