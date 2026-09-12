@@ -2,12 +2,12 @@
   {
     "source": "hn",
     "url": "https://high5apps.github.io/josm-plugin-website-wizard/",
-    "title": "Make Your First Edit to OpenStreetMap in the Next 15 Minutes"
+    "title": "Make your first edit to OpenStreetMap"
   },
   {
     "source": "hn",
-    "url": "https://transformer-circuits.pub/2021/framework/index.html",
-    "title": "A Mathematical Framework for Transformer Circuits (2021)"
+    "url": "https://jacob.gold/posts/open-letter-to-dario-amodei-about-open-weights/",
+    "title": "An open letter to Dario: if you mean it, open the weights"
   },
   {
     "source": "hn",
@@ -16,43 +16,8 @@
   },
   {
     "source": "hn",
-    "url": "https://eiln.github.io/posts/ane.html",
-    "title": "Retrospectively Reverse-Engineering Apple's Neural Engine"
-  },
-  {
-    "source": "hn",
-    "url": "https://dayzlegame.com/blog/google-ads-bot-farm/",
-    "title": "I spent $220 on Google app ads and 60% of the installs were robots"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.joelotter.com/posts/2026/09/make-it-anyway/",
-    "title": "Fuck it, make it anyway"
-  },
-  {
-    "source": "hn",
-    "url": "https://oilprice.com/Energy/Energy-General/Europes-Less-Is-Doing-More-Than-Anyone-Gives-It-Credit-For.html",
-    "title": "Europe's \"Less\" Is Doing More Than Anyone Gives It Credit For"
-  },
-  {
-    "source": "hn",
-    "url": "https://cel.cs.brown.edu/blog/design-space-async-await/",
-    "title": "A Design Space Exploration of Async/Await"
-  },
-  {
-    "source": "hn",
-    "url": "https://prydt.xyz/blog/a-few-good-ideas-in-pl/",
-    "title": "A Few Good Ideas in Programming Languages"
-  },
-  {
-    "source": "hn",
-    "url": "https://theorangeduck.com/page/inverse-kinematics-foot-locking",
-    "title": "Inverse Kinematics and Foot Locking"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.npr.org/2026/09/08/nx-s1-5955618/is-it-time-for-a-luddite-renaissance",
-    "title": "Is it time for a Luddite Renaissance?"
+    "url": "https://lalitm.com/post/buildprof/",
+    "title": "I made a build visualizer to understand Bun's compile times"
   },
   {
     "source": "hn",
@@ -61,13 +26,48 @@
   },
   {
     "source": "hn",
-    "url": "https://www.rubyhack.ai/",
-    "title": "OpenAI agents carried out an undisclosed attack on RubyGems"
+    "url": "https://transformer-circuits.pub/2021/framework/index.html",
+    "title": "A Mathematical Framework for Transformer Circuits (2021)"
   },
   {
     "source": "hn",
-    "url": "https://blog.stephaniestimac.com/posts/2023/05/design-foldable-devices/",
-    "title": "Designing for Dual Screen and Foldable Devices with CSS (2023)"
+    "url": "https://prydt.xyz/blog/a-few-good-ideas-in-pl/",
+    "title": "A few good ideas in programming languages"
+  },
+  {
+    "source": "hn",
+    "url": "https://eiln.github.io/posts/ane.html",
+    "title": "Retrospectively Reverse-Engineering Apple's Neural Engine"
+  },
+  {
+    "source": "hn",
+    "url": "https://supuk.ch/papers/android-natt-keepalive-vpn-bypass",
+    "title": "Android NAT-T keepalive offload bypasses VPN lockdown"
+  },
+  {
+    "source": "hn",
+    "url": "https://pgadey.ca/blog/eating-fruit-skins/",
+    "title": "Eating Fruit Skins"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.claymath.org/news/navier-stokes-announcement/",
+    "title": "Navier-Stokes Announcement"
+  },
+  {
+    "source": "hn",
+    "url": "https://snap.berkeley.edu/",
+    "title": "λ Snap – An inviting programming language for kids and adults for CS study"
+  },
+  {
+    "source": "hn",
+    "url": "https://cel.cs.brown.edu/blog/design-space-async-await/",
+    "title": "A Design Space Exploration of Async/Await"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.joelotter.com/posts/2026/09/make-it-anyway/",
+    "title": "Fuck it, make it anyway"
   },
   {
     "source": "lobsters",
@@ -76,8 +76,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://lalitm.com/post/buildprof/",
-    "title": "I made a build profiler to understand Bun’s compile times"
+    "url": "https://www.rubyhack.ai/",
+    "title": "OpenAI agents carried out an undisclosed attack on RubyGems"
   },
   {
     "source": "lobsters",
@@ -91,6 +91,11 @@
   },
   {
     "source": "lobsters",
+    "url": "https://el.media.mit.edu/logo-foundation/what_is_logo/logo_programming.html",
+    "title": "Logo Programming Language"
+  },
+  {
+    "source": "lobsters",
     "url": "https://tante.cc/2026/09/11/power-grab/",
     "title": "Power grab"
   },
@@ -101,18 +106,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://el.media.mit.edu/logo-foundation/what_is_logo/logo_programming.html",
-    "title": "Logo Programming Language"
+    "url": "https://yogthos.net/posts/2026-09-12-reactive-dataflow.html",
+    "title": "Managing Complex Application State with Reactive Data Flows"
   },
   {
     "source": "lobsters",
-    "url": "https://khoury.northeastern.edu/~cmartens/papers/plateau26-itfp.pdf",
-    "title": "Is truth futureproof? On the possible futures of mechanized proofs"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://mail.cyberneticforests.com/models-dont-go-rogue/",
-    "title": "Models Don't Go Rogue"
+    "url": "https://jsnesx.github.io/js65/",
+    "title": "js65 - Advanced 6502 assembler with patching support based on ca65 syntax"
   },
   {
     "source": "pinboard",
@@ -158,6 +158,11 @@
     "source": "pinboard",
     "url": "https://desertant.com/blog/introducing-desert-ant-labs/",
     "title": "On-device intelligence for every product | Desert Ant Labs"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://mail.cyberneticforests.com/models-dont-go-rogue/",
+    "title": "Models Don't Go Rogue"
   },
   {
     "source": "pinboard",
