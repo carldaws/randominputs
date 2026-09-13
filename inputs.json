@@ -1,8 +1,18 @@
 [
   {
     "source": "hn",
+    "url": "https://xeiaso.net/notes/2026/everyone-slowdown-but-me/",
+    "title": "Everyone should slow down AI development except for me"
+  },
+  {
+    "source": "hn",
     "url": "https://high5apps.github.io/josm-plugin-website-wizard/",
     "title": "Make your first edit to OpenStreetMap"
+  },
+  {
+    "source": "hn",
+    "url": "https://liorpachter.wordpress.com/2026/09/12/align-ai-and-mathematics-to-something-else/",
+    "title": "Align AI and Mathematics–To Something Else"
   },
   {
     "source": "hn",
@@ -16,8 +26,13 @@
   },
   {
     "source": "hn",
-    "url": "https://modelrift.com/blog/cadquery-vs-openscad/",
-    "title": "Benchmark: CadQuery vs. OpenSCAD for agentic CAD work"
+    "url": "https://yifanzhang-pro.github.io/recurrent-looped-tranformer/",
+    "title": "Recurrent Looped Transformer"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.accuweather.com/en/hurricane/no-atlantic-hurricanes-by-sept-12-breaks-a-60-year-record/1932278",
+    "title": "No Atlantic hurricanes by Sept. 12 breaks a 60-year record"
   },
   {
     "source": "hn",
@@ -26,13 +41,13 @@
   },
   {
     "source": "hn",
-    "url": "https://www.righto.com/2026/09/8087-microcode-reverse-engineering-fscale.html",
-    "title": "Microcode in Intel's 8087 floating-point chip: the scale instruction"
+    "url": "https://agentsdock.net/",
+    "title": "AgentsDock: An IDE designed for agentic AI research"
   },
   {
     "source": "hn",
-    "url": "https://eiln.github.io/posts/ane.html",
-    "title": "Retrospectively Reverse-Engineering Apple's Neural Engine"
+    "url": "https://www.righto.com/2026/09/8087-microcode-reverse-engineering-fscale.html",
+    "title": "Microcode in Intel's 8087 floating-point chip: the scale instruction"
   },
   {
     "source": "hn",
@@ -46,28 +61,13 @@
   },
   {
     "source": "hn",
-    "url": "https://www.claymath.org/news/navier-stokes-announcement/",
-    "title": "Navier-Stokes Announcement"
-  },
-  {
-    "source": "hn",
     "url": "https://pgadey.ca/blog/eating-fruit-skins/",
     "title": "Eating Fruit Skins"
   },
   {
     "source": "hn",
-    "url": "https://maxmautner.com/2026/09/11/liability-coverage.html",
-    "title": "Killing with a car costs $1.6M, California requires drivers to carry $30K"
-  },
-  {
-    "source": "hn",
-    "url": "https://andrewarrow.dev/2026/moon/2/day/19/the-magic-behind-cubacadabra/",
-    "title": "The Magic Behind Cubacadabra"
-  },
-  {
-    "source": "hn",
-    "url": "https://snap.berkeley.edu/",
-    "title": "λ Snap – An inviting programming language for kids and adults for CS study"
+    "url": "https://cel.cs.brown.edu/blog/design-space-async-await/",
+    "title": "A Design Space Exploration of Async/Await"
   },
   {
     "source": "lobsters",
@@ -81,6 +81,11 @@
   },
   {
     "source": "lobsters",
+    "url": "https://prydt.xyz/blog/a-few-good-ideas-in-pl/",
+    "title": "A Few Good Ideas in Programming Languages"
+  },
+  {
+    "source": "lobsters",
     "url": "https://eddie.codes/posts/pandas-should-go-extinct/",
     "title": "Pandas Should Go Extinct"
   },
@@ -91,13 +96,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://prydt.xyz/blog/a-few-good-ideas-in-pl/",
-    "title": "A Few Good Ideas in Programming Languages"
+    "url": "https://www.joelotter.com/posts/2026/09/make-it-anyway/",
+    "title": "Make it anyway"
   },
   {
     "source": "lobsters",
-    "url": "https://www.joelotter.com/posts/2026/09/make-it-anyway/",
-    "title": "Make it anyway"
+    "url": "https://blog.goose.love/posts/making-a-clippy-lint-faster-by-3133x/",
+    "title": "Optimizing a single Rust Clippy lint by 3133X"
   },
   {
     "source": "lobsters",
@@ -111,8 +116,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://blog.goose.love/posts/making-a-clippy-lint-faster-by-3133x/",
-    "title": "Optimizing a single Rust Clippy lint by 3133X"
+    "url": "https://zoey-on-github.github.io/blog/updates.html",
+    "title": "a better way of blocking macOS updates"
   },
   {
     "source": "lobsters",
@@ -123,11 +128,6 @@
     "source": "lobsters",
     "url": "https://evergarden.moe/",
     "title": "evergarden"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://antonz.org/solod-0.4/",
-    "title": "Solod 0.4: Better C interop"
   },
   {
     "source": "pinboard",
