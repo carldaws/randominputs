@@ -1,13 +1,63 @@
 [
   {
     "source": "hn",
+    "url": "https://www.lesswrong.com/posts/munJKF7iWMsWJLAH2/astra-and-fable-still-hack-on-simple-variants-of-alignment",
+    "title": "Astra and Fable still hack on simple variants of alignment evals from 2025"
+  },
+  {
+    "source": "hn",
     "url": "https://jetkvm.com/blog/introducing-jetkvm-mini",
     "title": "JetKVM Mini"
   },
   {
     "source": "hn",
+    "url": "https://belderbos.dev/blog/how-libraries-run-rust-inside-python/",
+    "title": "Libraries Run Rust Inside Python (With PyO3)"
+  },
+  {
+    "source": "hn",
     "url": "https://ras.ac.uk/news-and-press/research-highlights/fingerprints-inside-sun-could-reveal-if-it-once-swallowed-planet",
     "title": "'Fingerprints' inside the Sun could reveal if it once swallowed a planet"
+  },
+  {
+    "source": "hn",
+    "url": "https://bensimms.moe/reverse-engineering-scooter/",
+    "title": "Reverse engineering my e-scooter and rewriting the firmware in Rust"
+  },
+  {
+    "source": "hn",
+    "url": "https://cpak.it/",
+    "title": "Cpak – OCI application package format for Linux desktops, servers and devices"
+  },
+  {
+    "source": "hn",
+    "url": "https://paulgraham.com/powerful.html",
+    "title": "Making Startups Powerful"
+  },
+  {
+    "source": "hn",
+    "url": "https://alanbellows.com/experiments/insult/index.html",
+    "title": "Alan's Random Insult Generator (1999)"
+  },
+  {
+    "source": "hn",
+    "url": "https://prior.chat/",
+    "title": "Predictive intelligence to anticipate anything."
+  },
+  {
+    "source": "hn",
+    "url": "https://brew.sh/2026/09/13/homebrew-7.0.0/",
+    "title": "Homebrew 7.0.0"
+  },
+  {
+    "source": "hn",
+    "url": "https://unsung.aresluna.org/key-symbols-we-lost-to-time-pt-1-the-pc-side/",
+    "title": "Key symbols we lost to time, pt. 1: The PC side"
+  },
+  {
+    "source": "hn",
+    "url": "https://hyperbo.la/w/aligned-to-whom/",
+    "title": "Aligned to whom?"
   },
   {
     "source": "hn",
@@ -21,68 +71,8 @@
   },
   {
     "source": "hn",
-    "url": "https://brew.sh/2026/09/13/homebrew-7.0.0/",
-    "title": "Homebrew 7.0.0"
-  },
-  {
-    "source": "hn",
-    "url": "https://hyperbo.la/w/aligned-to-whom/",
-    "title": "Aligned to whom?"
-  },
-  {
-    "source": "hn",
     "url": "https://dunstanorchard.com/apple-ipod-engraver/",
     "title": "Apple iPod Engraver (2019)"
-  },
-  {
-    "source": "hn",
-    "url": "https://blog.boerzel.de/de/blog/operation-smart-kettle",
-    "title": "Operation Smart Kettle – Börzels Blog"
-  },
-  {
-    "source": "hn",
-    "url": "https://xeiaso.net/notes/2026/everyone-slowdown-but-me/",
-    "title": "Everyone should slow down AI development except for me"
-  },
-  {
-    "source": "hn",
-    "url": "https://bensimms.moe/reverse-engineering-scooter/",
-    "title": "Reverse engineering my e-scooter and rewriting the firmware in Rust"
-  },
-  {
-    "source": "hn",
-    "url": "https://agentsdock.net/",
-    "title": "AgentsDock: An IDE designed for agentic AI research"
-  },
-  {
-    "source": "hn",
-    "url": "https://phys.org/news/2026-08-black-hole-caught.html",
-    "title": "A wandering black hole caught feeding on the run"
-  },
-  {
-    "source": "hn",
-    "url": "https://eiln.github.io/posts/ane-dma.html",
-    "title": "Getting 50 GB/S Back from the Apple Neural Engine"
-  },
-  {
-    "source": "hn",
-    "url": "https://lucumr.pocoo.org/2026/9/12/pdoom/",
-    "title": "P(doom)"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.historytoday.com/archive/feature/succession-crisis-tore-england-apart",
-    "title": "A succession crisis that tore England apart (2023)"
-  },
-  {
-    "source": "hn",
-    "url": "https://terrytao.wordpress.com/2026/09/12/after-math/",
-    "title": "After Math"
-  },
-  {
-    "source": "hn",
-    "url": "https://trigora.dev/blog/durable-execution-without-history-replay/",
-    "title": "Durable execution without history replay"
   },
   {
     "source": "lobsters",
@@ -96,8 +86,33 @@
   },
   {
     "source": "lobsters",
+    "url": "https://purplesyringa.moe/blog/dont-call-yourself-an-artisanal-programmer/",
+    "title": "Don't call yourself an artisanal programmer"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://this.weekinsecurity.com/watch-what-you-say-apple-opens-the-door-to-a-nightmare-world-of-always-listening-tech/",
+    "title": "Watch what you say: Apple opens the door to a nightmare world of always-listening tech"
+  },
+  {
+    "source": "lobsters",
     "url": "https://wiki.xxiivv.com/site/heol.html",
     "title": "heol"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://terrytao.wordpress.com/2026/09/12/after-math/",
+    "title": "After Math"
+  },
+  {
+    "source": "lobsters",
+    "url": "http://oldvcr.blogspot.com/2026/09/a-dick-smith-vz200-without-dick-smith.html",
+    "title": "A Dick Smith VZ200 without the Dick Smith"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://rm4n0s.github.io/posts/2-go-devs-should-learn-odin/",
+    "title": "Golang developers should try Odin"
   },
   {
     "source": "lobsters",
@@ -111,8 +126,18 @@
   },
   {
     "source": "lobsters",
-    "url": "http://oldvcr.blogspot.com/2026/09/a-dick-smith-vz200-without-dick-smith.html",
-    "title": "A Dick Smith VZ200 without the Dick Smith"
+    "url": "https://char.lt/blog/2026/09/sorcery-repo-viewer/",
+    "title": "what if my git host were a static site generator?"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://cpp-rendering.io/being-lazy-in-c/",
+    "title": "Being lazy in C++"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://opusfived.dev/",
+    "title": "Opusfived"
   },
   {
     "source": "lobsters",
@@ -126,42 +151,97 @@
   },
   {
     "source": "lobsters",
-    "url": "https://purplesyringa.moe/blog/dont-call-yourself-an-artisanal-programmer/",
-    "title": "Don't call yourself an artisanal programmer"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://opusfived.dev/",
-    "title": "Opusfived"
-  },
-  {
-    "source": "lobsters",
     "url": "https://www.joelotter.com/posts/2026/09/make-it-anyway/",
     "title": "Make it anyway"
   },
   {
-    "source": "lobsters",
-    "url": "https://eddie.codes/posts/pandas-should-go-extinct/",
-    "title": "Pandas Should Go Extinct"
+    "source": "pinboard",
+    "url": "https://musictheory.pugetsound.edu/mt21c/MusicTheory.html",
+    "title": "Music Theory for the 21st-Century Classroom"
   },
   {
-    "source": "lobsters",
+    "source": "pinboard",
     "url": "https://terrytao.wordpress.com/2026/09/11/a-severe-misalignment-of-ai-in-mathematics/",
-    "title": "A Severe Misalignment of AI in Mathematics"
+    "title": "A Severe Misalignment of AI in Mathematics – What's new"
   },
   {
-    "source": "lobsters",
-    "url": "https://yogthos.net/posts/2026-09-12-reactive-dataflow.html",
-    "title": "Managing Complex Application State with Reactive Data Flows"
+    "source": "pinboard",
+    "url": "https://lucumr.pocoo.org/2026/9/7/astra-why/",
+    "title": "Astra for Coding: Why Are We Doing This Again? | Armin Ronacher's Thoughts and Writings"
   },
   {
-    "source": "lobsters",
-    "url": "https://el.media.mit.edu/logo-foundation/what_is_logo/logo_programming.html",
-    "title": "Logo Programming Language"
+    "source": "pinboard",
+    "url": "https://vale.rocks/posts/html-boilerplate",
+    "title": "My HTML Boilerplate | Vale.Rocks"
   },
   {
-    "source": "lobsters",
-    "url": "https://this.weekinsecurity.com/watch-what-you-say-apple-opens-the-door-to-a-nightmare-world-of-always-listening-tech/",
-    "title": "Watch what you say: Apple opens the door to a nightmare world of always-listening tech"
+    "source": "pinboard",
+    "url": "https://shopify.engineering/back-to-native",
+    "title": "Native is now the future of mobile at Shopify (2026) - Shopify"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://psantosl.github.io/posts/version-control-second-coming/",
+    "title": "Version control second coming · Pablo Santos Luaces"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://mmoustafa.com/blog/so-you-want-to-use-openrouter/",
+    "title": "So you want to use OpenRouter?"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://mail.cyberneticforests.com/models-dont-go-rogue/",
+    "title": "Models Don't Go Rogue"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://e-infinity.space/picture-book/",
+    "title": "A Topological Picture Book, Rendered"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://tautology.town/2026/06/01/card-networks.html",
+    "title": "What do Visa and Mastercard do? An intro to card networks @ tautology.town"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://neat-annotations.syabro.com/",
+    "title": "neat-annotations — neat hand-drawn CSS annotations"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://collusion.wiki/",
+    "title": "Discovery of a new OpenAI agent message board"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://ploum.net/2026-09-09-ai_policy.html",
+    "title": "I Don’t Want to Interact With Stochastic Parrots"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://rivendell.dmitrybrant.com/relativity/",
+    "title": "Relativity Park: Walking Speed of Light"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://cel.cs.brown.edu/blog/design-space-async-await/",
+    "title": "A Design Space Exploration of Async/Await"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://graybeard.ing/software-drives-people-insane/",
+    "title": "Software Drives People Insane – The Gospel According to Graybeard"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://911realtime.org/",
+    "title": "9/11 Realtime"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://qr.ente.com/",
+    "title": "Ente QR"
   }
 ]
