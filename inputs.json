@@ -1,13 +1,18 @@
 [
   {
     "source": "hn",
-    "url": "https://dreamstation.systems/personal/tesla.html",
-    "title": "I'm being cyberattacked by Tesla, Inc"
+    "url": "https://www.atomic14.com/2026/09/13/why-is-google-still-serving-dodgy-ads",
+    "title": "Why is Google still serving dodgy ads?"
   },
   {
     "source": "hn",
-    "url": "https://www.atomic14.com/2026/09/13/why-is-google-still-serving-dodgy-ads",
-    "title": "Why is Google still serving dodgy ads?"
+    "url": "https://www.vals.ai/blogs/fable-solves-cyphral-distich",
+    "title": "Claude Fable 5.1 Solves the Cyphral Distich, a 370-year-old cipher"
+  },
+  {
+    "source": "hn",
+    "url": "https://julialang.org/blog/2026/09/julia-1.13-highlights/",
+    "title": "Julia 1.13 Highlights"
   },
   {
     "source": "hn",
@@ -16,8 +21,18 @@
   },
   {
     "source": "hn",
+    "url": "https://pages.cs.wisc.edu/~plonka/netgear-sntp/",
+    "title": "Flawed Routers Flood University of Wisconsin Internet Time Server (2003)"
+  },
+  {
+    "source": "hn",
     "url": "https://jetkvm.com/blog/introducing-jetkvm-mini",
     "title": "JetKVM Mini"
+  },
+  {
+    "source": "hn",
+    "url": "https://singjupost.com/startalk-there-is-no-ai-really-its-just-people-w-jaron-lanier-transcript/",
+    "title": "There Is No AI (It's Just People) with Jaron Lanier"
   },
   {
     "source": "hn",
@@ -31,6 +46,26 @@
   },
   {
     "source": "hn",
+    "url": "https://vickiboykis.com/2026/09/01/bad-code-is-kudzu/",
+    "title": "Bad Code Is Kudzu"
+  },
+  {
+    "source": "hn",
+    "url": "https://aprilnea.me/en/blog/reverse-engineering-claude-code-antspace",
+    "title": "Reverse-Engineering Claude Web's MicroVM: Uncovering Anthropic's Hidden Antspace"
+  },
+  {
+    "source": "hn",
+    "url": "https://dreamstation.systems/personal/tesla.html",
+    "title": "I'm being cyberattacked by Tesla, Inc"
+  },
+  {
+    "source": "hn",
+    "url": "https://belderbos.dev/blog/how-libraries-run-rust-inside-python/",
+    "title": "Libraries Run Rust Inside Python (With PyO3)"
+  },
+  {
+    "source": "hn",
     "url": "https://cpak.it/",
     "title": "Cpak – OCI application package format for Linux desktops, servers and devices"
   },
@@ -41,43 +76,13 @@
   },
   {
     "source": "hn",
-    "url": "https://aprilnea.me/en/blog/reverse-engineering-claude-code-antspace",
-    "title": "Reverse-Engineering Claude Web's MicroVM: Uncovering Anthropic's Hidden Antspace"
-  },
-  {
-    "source": "hn",
-    "url": "https://belderbos.dev/blog/how-libraries-run-rust-inside-python/",
-    "title": "Libraries Run Rust Inside Python (With PyO3)"
-  },
-  {
-    "source": "hn",
     "url": "https://alanbellows.com/experiments/insult/index.html",
     "title": "Alan's Random Insult Generator (1999)"
   },
   {
     "source": "hn",
-    "url": "https://www.paulgraham.com/powerful.html",
-    "title": "Making Startups Powerful"
-  },
-  {
-    "source": "hn",
     "url": "https://high5apps.github.io/josm-plugin-website-wizard/",
     "title": "Make your first edit to OpenStreetMap"
-  },
-  {
-    "source": "hn",
-    "url": "https://brew.sh/2026/09/13/homebrew-7.0.0/",
-    "title": "Homebrew 7.0.0"
-  },
-  {
-    "source": "hn",
-    "url": "https://unsung.aresluna.org/key-symbols-we-lost-to-time-pt-1-the-pc-side/",
-    "title": "Key symbols we lost to time, pt. 1: The PC side"
-  },
-  {
-    "source": "hn",
-    "url": "https://hyperbo.la/w/aligned-to-whom/",
-    "title": "Aligned to whom?"
   },
   {
     "source": "lobsters",
@@ -91,16 +96,6 @@
   },
   {
     "source": "lobsters",
-    "url": "https://lalitm.com/post/buildprof/",
-    "title": "I made a build visualizer to understand Bun’s compile times"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://lucio.albenga.es/web-en/posts/2025/from-git-to-fossil.html",
-    "title": "From Git to Fossil (2025)"
-  },
-  {
-    "source": "lobsters",
     "url": "https://rm4n0s.github.io/posts/2-go-devs-should-learn-odin/",
     "title": "Golang developers should try Odin"
   },
@@ -111,13 +106,33 @@
   },
   {
     "source": "lobsters",
+    "url": "https://lalitm.com/post/buildprof/",
+    "title": "I made a build visualizer to understand Bun’s compile times"
+  },
+  {
+    "source": "lobsters",
     "url": "https://purplesyringa.moe/blog/dont-call-yourself-an-artisanal-programmer/",
     "title": "Don't call yourself an artisanal programmer"
   },
   {
     "source": "lobsters",
+    "url": "https://lucio.albenga.es/web-en/posts/2025/from-git-to-fossil.html",
+    "title": "From Git to Fossil (2025)"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://brew.sh/2026/09/13/homebrew-7.0.0/",
+    "title": "Homebrew 7.0.0"
+  },
+  {
+    "source": "lobsters",
     "url": "https://wiki.xxiivv.com/site/heol.html",
     "title": "heol"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://abstractnonsense.xyz/blog/2025-08-31-can-a-regex-match-valid-card-numbers/",
+    "title": "Can a regex match valid card numbers?"
   },
   {
     "source": "lobsters",
@@ -131,8 +146,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://abstractnonsense.xyz/blog/2025-08-31-can-a-regex-match-valid-card-numbers/",
-    "title": "Can a regex match valid card numbers?"
+    "url": "https://a6mzero.com/posts/this-pcb-is-brought-to-you-by-fable-5/",
+    "title": "This PCB is brought to you by Fable 5"
   },
   {
     "source": "lobsters",
@@ -146,11 +161,6 @@
   },
   {
     "source": "lobsters",
-    "url": "https://a6mzero.com/posts/this-pcb-is-brought-to-you-by-fable-5/",
-    "title": "This PCB is brought to you by Fable 5"
-  },
-  {
-    "source": "lobsters",
     "url": "https://prydt.xyz/blog/a-few-good-ideas-in-pl/",
     "title": "A Few Good Ideas in Programming Languages"
   },
@@ -161,8 +171,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://artificialworlds.net/blog/2026/09/11/feeling-sad-about-ai/",
-    "title": "Feeling sad about AI"
+    "url": "https://blog.jchw.dev/wrong-number/",
+    "title": "Sorry, Wrong Number: Debugging a Crash under Wine (2022)"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://seldo.com/posts/nobody-pays-for-open-source-we-can-force-them-to/",
+    "title": "Nobody pays for open source. We can force them to"
   },
   {
     "source": "pinboard",
