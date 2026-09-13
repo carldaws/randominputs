@@ -1,8 +1,13 @@
 [
   {
     "source": "hn",
-    "url": "https://icm.museum/",
-    "title": "The Interim Computer Museum"
+    "url": "https://jetkvm.com/blog/introducing-jetkvm-mini",
+    "title": "JetKVM Mini"
+  },
+  {
+    "source": "hn",
+    "url": "https://ras.ac.uk/news-and-press/research-highlights/fingerprints-inside-sun-could-reveal-if-it-once-swallowed-planet",
+    "title": "'Fingerprints' inside the Sun could reveal if it once swallowed a planet"
   },
   {
     "source": "hn",
@@ -11,13 +16,28 @@
   },
   {
     "source": "hn",
+    "url": "https://icm.museum/",
+    "title": "The Interim Computer Museum"
+  },
+  {
+    "source": "hn",
+    "url": "https://brew.sh/2026/09/13/homebrew-7.0.0/",
+    "title": "Homebrew 7.0.0"
+  },
+  {
+    "source": "hn",
+    "url": "https://hyperbo.la/w/aligned-to-whom/",
+    "title": "Aligned to whom?"
+  },
+  {
+    "source": "hn",
     "url": "https://dunstanorchard.com/apple-ipod-engraver/",
     "title": "Apple iPod Engraver (2019)"
   },
   {
     "source": "hn",
-    "url": "https://terrytao.wordpress.com/2026/09/12/after-math/",
-    "title": "After Math"
+    "url": "https://blog.boerzel.de/de/blog/operation-smart-kettle",
+    "title": "Operation Smart Kettle – Börzels Blog"
   },
   {
     "source": "hn",
@@ -26,13 +46,8 @@
   },
   {
     "source": "hn",
-    "url": "https://www.historytoday.com/archive/feature/succession-crisis-tore-england-apart",
-    "title": "A succession crisis that tore England apart"
-  },
-  {
-    "source": "hn",
-    "url": "https://hyperbo.la/w/aligned-to-whom/",
-    "title": "Aligned to Whom?"
+    "url": "https://bensimms.moe/reverse-engineering-scooter/",
+    "title": "Reverse engineering my e-scooter and rewriting the firmware in Rust"
   },
   {
     "source": "hn",
@@ -41,13 +56,8 @@
   },
   {
     "source": "hn",
-    "url": "https://trigora.dev/blog/durable-execution-without-history-replay/",
-    "title": "Durable execution without history replay"
-  },
-  {
-    "source": "hn",
-    "url": "https://lucumr.pocoo.org/2026/9/12/pdoom/",
-    "title": "P(doom)"
+    "url": "https://phys.org/news/2026-08-black-hole-caught.html",
+    "title": "A wandering black hole caught feeding on the run"
   },
   {
     "source": "hn",
@@ -56,28 +66,53 @@
   },
   {
     "source": "hn",
-    "url": "https://phys.org/news/2026-08-black-hole-caught.html",
-    "title": "A wandering black hole caught feeding on the run"
+    "url": "https://lucumr.pocoo.org/2026/9/12/pdoom/",
+    "title": "P(doom)"
   },
   {
     "source": "hn",
-    "url": "https://lucio.albenga.es/web-en/posts/2025/from-git-to-fossil.html",
-    "title": "From Git to Fossil"
+    "url": "https://www.historytoday.com/archive/feature/succession-crisis-tore-england-apart",
+    "title": "A succession crisis that tore England apart (2023)"
   },
   {
     "source": "hn",
-    "url": "https://www.righto.com/2026/09/8087-microcode-reverse-engineering-fscale.html",
-    "title": "Microcode in Intel's 8087 floating-point chip: the scale instruction"
+    "url": "https://terrytao.wordpress.com/2026/09/12/after-math/",
+    "title": "After Math"
   },
   {
     "source": "hn",
+    "url": "https://trigora.dev/blog/durable-execution-without-history-replay/",
+    "title": "Durable execution without history replay"
+  },
+  {
+    "source": "lobsters",
     "url": "https://lalitm.com/post/buildprof/",
-    "title": "I made a build visualizer to understand Bun's compile times"
+    "title": "I made a build visualizer to understand Bun’s compile times"
   },
   {
-    "source": "hn",
-    "url": "https://www.compactmag.com/article/gunther-anders-the-philosopher-at-the-end-of-the-world/",
-    "title": "Günther Anders, the Philosopher at the End of the World"
+    "source": "lobsters",
+    "url": "https://lucio.albenga.es/web-en/posts/2025/from-git-to-fossil.html",
+    "title": "From Git to Fossil (2025)"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://wiki.xxiivv.com/site/heol.html",
+    "title": "heol"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://zoey-on-github.github.io/blog/updates.html",
+    "title": "a better way of blocking macOS updates"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://prydt.xyz/blog/a-few-good-ideas-in-pl/",
+    "title": "A Few Good Ideas in Programming Languages"
+  },
+  {
+    "source": "lobsters",
+    "url": "http://oldvcr.blogspot.com/2026/09/a-dick-smith-vz200-without-dick-smith.html",
+    "title": "A Dick Smith VZ200 without the Dick Smith"
   },
   {
     "source": "lobsters",
@@ -91,13 +126,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://prydt.xyz/blog/a-few-good-ideas-in-pl/",
-    "title": "A Few Good Ideas in Programming Languages"
+    "url": "https://purplesyringa.moe/blog/dont-call-yourself-an-artisanal-programmer/",
+    "title": "Don't call yourself an artisanal programmer"
   },
   {
     "source": "lobsters",
-    "url": "http://oldvcr.blogspot.com/2026/09/a-dick-smith-vz200-without-dick-smith.html",
-    "title": "A Dick Smith VZ200 without the Dick Smith"
+    "url": "https://opusfived.dev/",
+    "title": "Opusfived"
   },
   {
     "source": "lobsters",
@@ -116,8 +151,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://zoey-on-github.github.io/blog/updates.html",
-    "title": "a better way of blocking macOS updates"
+    "url": "https://yogthos.net/posts/2026-09-12-reactive-dataflow.html",
+    "title": "Managing Complex Application State with Reactive Data Flows"
   },
   {
     "source": "lobsters",
@@ -126,22 +161,7 @@
   },
   {
     "source": "lobsters",
-    "url": "https://yogthos.net/posts/2026-09-12-reactive-dataflow.html",
-    "title": "Managing Complex Application State with Reactive Data Flows"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://iamreiyn.github.io/lua-pattern-tester/",
-    "title": "Lua Pattern Tester"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://opusfived.dev/",
-    "title": "Opusfived"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://tante.cc/2026/09/11/power-grab/",
-    "title": "Power grab"
+    "url": "https://this.weekinsecurity.com/watch-what-you-say-apple-opens-the-door-to-a-nightmare-world-of-always-listening-tech/",
+    "title": "Watch what you say: Apple opens the door to a nightmare world of always-listening tech"
   }
 ]
