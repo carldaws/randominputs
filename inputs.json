@@ -1,8 +1,8 @@
 [
   {
     "source": "hn",
-    "url": "https://xeiaso.net/notes/2026/everyone-slowdown-but-me/",
-    "title": "Everyone should slow down AI development except for me"
+    "url": "https://icm.museum/",
+    "title": "The Interim Computer Museum"
   },
   {
     "source": "hn",
@@ -11,33 +11,28 @@
   },
   {
     "source": "hn",
-    "url": "https://liorpachter.wordpress.com/2026/09/12/align-ai-and-mathematics-to-something-else/",
-    "title": "Align AI and Mathematics–To Something Else"
-  },
-  {
-    "source": "hn",
     "url": "https://dunstanorchard.com/apple-ipod-engraver/",
     "title": "Apple iPod Engraver (2019)"
   },
   {
     "source": "hn",
-    "url": "https://eiln.github.io/posts/ane-dma.html",
-    "title": "Getting 50 GB/S Back from the Apple Neural Engine"
+    "url": "https://terrytao.wordpress.com/2026/09/12/after-math/",
+    "title": "After Math"
   },
   {
     "source": "hn",
-    "url": "https://yifanzhang-pro.github.io/recurrent-looped-tranformer/",
-    "title": "Recurrent Looped Transformer"
+    "url": "https://xeiaso.net/notes/2026/everyone-slowdown-but-me/",
+    "title": "Everyone should slow down AI development except for me"
   },
   {
     "source": "hn",
-    "url": "https://www.accuweather.com/en/hurricane/no-atlantic-hurricanes-by-sept-12-breaks-a-60-year-record/1932278",
-    "title": "No Atlantic hurricanes by Sept. 12 breaks a 60-year record"
+    "url": "https://www.historytoday.com/archive/feature/succession-crisis-tore-england-apart",
+    "title": "A succession crisis that tore England apart"
   },
   {
     "source": "hn",
-    "url": "https://lalitm.com/post/buildprof/",
-    "title": "I made a build visualizer to understand Bun's compile times"
+    "url": "https://hyperbo.la/w/aligned-to-whom/",
+    "title": "Aligned to Whom?"
   },
   {
     "source": "hn",
@@ -46,28 +41,43 @@
   },
   {
     "source": "hn",
+    "url": "https://trigora.dev/blog/durable-execution-without-history-replay/",
+    "title": "Durable execution without history replay"
+  },
+  {
+    "source": "hn",
+    "url": "https://lucumr.pocoo.org/2026/9/12/pdoom/",
+    "title": "P(doom)"
+  },
+  {
+    "source": "hn",
+    "url": "https://eiln.github.io/posts/ane-dma.html",
+    "title": "Getting 50 GB/S Back from the Apple Neural Engine"
+  },
+  {
+    "source": "hn",
+    "url": "https://phys.org/news/2026-08-black-hole-caught.html",
+    "title": "A wandering black hole caught feeding on the run"
+  },
+  {
+    "source": "hn",
+    "url": "https://lucio.albenga.es/web-en/posts/2025/from-git-to-fossil.html",
+    "title": "From Git to Fossil"
+  },
+  {
+    "source": "hn",
     "url": "https://www.righto.com/2026/09/8087-microcode-reverse-engineering-fscale.html",
     "title": "Microcode in Intel's 8087 floating-point chip: the scale instruction"
   },
   {
     "source": "hn",
-    "url": "https://supuk.ch/papers/android-natt-keepalive-vpn-bypass",
-    "title": "Android NAT-T keepalive offload bypasses VPN lockdown"
+    "url": "https://lalitm.com/post/buildprof/",
+    "title": "I made a build visualizer to understand Bun's compile times"
   },
   {
     "source": "hn",
-    "url": "https://transformer-circuits.pub/2021/framework/index.html",
-    "title": "A Mathematical Framework for Transformer Circuits (2021)"
-  },
-  {
-    "source": "hn",
-    "url": "https://pgadey.ca/blog/eating-fruit-skins/",
-    "title": "Eating Fruit Skins"
-  },
-  {
-    "source": "hn",
-    "url": "https://cel.cs.brown.edu/blog/design-space-async-await/",
-    "title": "A Design Space Exploration of Async/Await"
+    "url": "https://www.compactmag.com/article/gunther-anders-the-philosopher-at-the-end-of-the-world/",
+    "title": "Günther Anders, the Philosopher at the End of the World"
   },
   {
     "source": "lobsters",
@@ -86,6 +96,16 @@
   },
   {
     "source": "lobsters",
+    "url": "http://oldvcr.blogspot.com/2026/09/a-dick-smith-vz200-without-dick-smith.html",
+    "title": "A Dick Smith VZ200 without the Dick Smith"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://www.joelotter.com/posts/2026/09/make-it-anyway/",
+    "title": "Make it anyway"
+  },
+  {
+    "source": "lobsters",
     "url": "https://eddie.codes/posts/pandas-should-go-extinct/",
     "title": "Pandas Should Go Extinct"
   },
@@ -96,13 +116,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://www.joelotter.com/posts/2026/09/make-it-anyway/",
-    "title": "Make it anyway"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://blog.goose.love/posts/making-a-clippy-lint-faster-by-3133x/",
-    "title": "Optimizing a single Rust Clippy lint by 3133X"
+    "url": "https://zoey-on-github.github.io/blog/updates.html",
+    "title": "a better way of blocking macOS updates"
   },
   {
     "source": "lobsters",
@@ -116,112 +131,17 @@
   },
   {
     "source": "lobsters",
-    "url": "https://zoey-on-github.github.io/blog/updates.html",
-    "title": "a better way of blocking macOS updates"
+    "url": "https://iamreiyn.github.io/lua-pattern-tester/",
+    "title": "Lua Pattern Tester"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://opusfived.dev/",
+    "title": "Opusfived"
   },
   {
     "source": "lobsters",
     "url": "https://tante.cc/2026/09/11/power-grab/",
     "title": "Power grab"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://evergarden.moe/",
-    "title": "evergarden"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://musictheory.pugetsound.edu/mt21c/MusicTheory.html",
-    "title": "Music Theory for the 21st-Century Classroom"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://e-infinity.space/picture-book/",
-    "title": "A Topological Picture Book, Rendered"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://vale.rocks/posts/html-boilerplate",
-    "title": "My HTML Boilerplate | Vale.Rocks"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://nishantjosh.dev/blogs/how-to-build-a-fking-printer/",
-    "title": "How to build a f**king printer · Nishant Joshi"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://shopify.engineering/back-to-native",
-    "title": "Native is now the future of mobile at Shopify (2026) - Shopify"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://tautology.town/2026/06/01/card-networks.html",
-    "title": "What do Visa and Mastercard do? An intro to card networks @ tautology.town"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://lucumr.pocoo.org/2026/9/7/astra-why/",
-    "title": "Astra for Coding: Why Are We Doing This Again? | Armin Ronacher's Thoughts and Writings"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://prospect.org/2026/09/09/anthropic-artificial-intelligence-surveillance-system-monitor-activists/",
-    "title": "Anthropic crea un sistema predittivo per monitorare gli attivisti contro l’AI"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://desertant.com/blog/introducing-desert-ant-labs/",
-    "title": "On-device intelligence for every product | Desert Ant Labs"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://mail.cyberneticforests.com/models-dont-go-rogue/",
-    "title": "Models Don't Go Rogue"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://stratechery.com/2026/write-things-down/",
-    "title": "Write Things Down – Stratechery by Ben Thompson"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://opusfived.dev/",
-    "title": "Opusfived"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://psantosl.github.io/posts/version-control-second-coming/",
-    "title": "Version control second coming · Pablo Santos Luaces"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://mmoustafa.com/blog/so-you-want-to-use-openrouter/",
-    "title": "So you want to use OpenRouter?"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://ploum.net/2026-09-09-ai_policy.html",
-    "title": "I Don’t Want to Interact With Stochastic Parrots"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://neat-annotations.syabro.com/",
-    "title": "neat-annotations — neat hand-drawn CSS annotations"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://gnuradioworld.com/",
-    "title": "GNU Radio World — GNU Radio flowgraphs in your browser"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://copperhead.sh/",
-    "title": "copperhead. Cursor for circuit boards."
-  },
-  {
-    "source": "pinboard",
-    "url": "https://rivendell.dmitrybrant.com/relativity/",
-    "title": "Relativity Park: Walking Speed of Light"
   }
 ]
