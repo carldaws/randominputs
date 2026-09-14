@@ -1,13 +1,73 @@
 [
   {
     "source": "hn",
-    "url": "https://www.vals.ai/blogs/fable-solves-cyphral-distich",
-    "title": "Fable 5.1 Solves the Cyphral Distich, a 370-year-old cipher"
+    "url": "https://refactoringenglish.com/excerpts/write-an-effective-design-doc/",
+    "title": "How to Write an Effective Software Design Document"
   },
   {
     "source": "hn",
-    "url": "https://lareviewofbooks.org/article/of-gods-and-languages-on-when-god-spoke-greek/",
-    "title": "Of Gods and Languages: On \"When God Spoke Greek\" (2013)"
+    "url": "https://patrickmccanna.net/notes-on-migrating-large-prompts-away-from-anthropic-openai-to-self-hosted-llms/",
+    "title": "Notes on gotchas while migrating 35kb preprompts from Opus to self-hosted Ollama"
+  },
+  {
+    "source": "hn",
+    "url": "https://gultsch.de/posts/how-do-we-gain-traction/",
+    "title": "Jabber/XMPP: How Do We Gain Traction?"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.ilinmaks.com/blog/en/ai-jobs-market-2026",
+    "title": "The AI job market in 2026"
+  },
+  {
+    "source": "hn",
+    "url": "http://graphicrants.blogspot.com/2026/02/nanite-tessellation.html",
+    "title": "Graphic Rants: Nanite Tessellation"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.eurobirdportal.org/ebp/en/",
+    "title": "EuroBirdPortal – Live bird movements across Europe"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.threebodyorbits.com/",
+    "title": "An atlas of periodic solutions to the three-body problem"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.sciencedaily.com/releases/2026/09/260909005152.htm",
+    "title": "Devil's Arrows: Ancient builders hauled 55k-lb stones 11 miles for UK stone row"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.htx.com/en-in/news/internet-shocked-unsolved-problem-by-fields-medalist-breache-IBDgZG2j/",
+    "title": "Unsolved Problem by Fields Medalist Breached by Two High School Students"
+  },
+  {
+    "source": "hn",
+    "url": "https://chizkidd.github.io//2026/09/13/flashattention/",
+    "title": "Understanding FlashAttention Pt 1: Personal Notes"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.theartnewspaper.com/2026/09/14/largest-roman-mosaic-opens-to-the-public",
+    "title": "Largest known Roman mosaic, beneath Baths of Trajan, opens to the public"
+  },
+  {
+    "source": "hn",
+    "url": "https://gally.net/temp/20260914pelican-alternatives/index.html",
+    "title": "Show HN: Pelican-bicycle alternatives (updated for 2026)"
+  },
+  {
+    "source": "hn",
+    "url": "https://jsgroth.dev/blog/posts/trying-to-make-a-loop-auto-vectorize/",
+    "title": "Trying to Make a Loop Auto-Vectorize"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.vals.ai/blogs/fable-solves-cyphral-distich",
+    "title": "Fable 5.1 Solves the Cyphral Distich, a 370-year-old cipher"
   },
   {
     "source": "hn",
@@ -16,68 +76,13 @@
   },
   {
     "source": "hn",
-    "url": "https://julialang.org/blog/2026/09/julia-1.13-highlights/",
-    "title": "Julia 1.13 highlights"
+    "url": "https://www.omgubuntu.co.uk/2026/09/ubuntu-2610-rust-coreutils-complete",
+    "title": "Ubuntu 26.10 completes transition to Rust-based coreutils"
   },
   {
     "source": "hn",
-    "url": "https://calif.io/research/oempocalypse",
-    "title": "OEMpocalypse: Unprivileged Android app to root on Samsung, Xiaomi, others"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.atomic14.com/2026/09/13/why-is-google-still-serving-dodgy-ads",
-    "title": "Why is Google still serving dodgy ads?"
-  },
-  {
-    "source": "hn",
-    "url": "https://pages.cs.wisc.edu/~plonka/netgear-sntp/",
-    "title": "Flawed routers flood University of Wisconsin internet time server (2003)"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.wsj.com/arts-culture/books/coltrane-review-sound-and-spirit-b2417282",
-    "title": "'Coltrane' Review: Sound and Spirit"
-  },
-  {
-    "source": "hn",
-    "url": "https://blog.wordnik.com/five-words-from-vanishing-fleece",
-    "title": "Five Words from Vanishing Fleece"
-  },
-  {
-    "source": "hn",
-    "url": "https://cohere.com/blog/who-gets-to-define-the-rules-for-ai",
-    "title": "Who gets to define the rules for AI?"
-  },
-  {
-    "source": "hn",
-    "url": "https://danluu.com/exercise-7/",
-    "title": "Bad benchmarks and evals: Senior SWE-Bench, napkin math, and winter tires"
-  },
-  {
-    "source": "hn",
-    "url": "https://fortune.com/2026/09/08/nike-stock-plummets-sp500-market-cap-index/",
-    "title": "Nike exits the S&P 100 after 18 years and a $200B market-cap wipeout"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.lesswrong.com/posts/munJKF7iWMsWJLAH2/astra-and-fable-still-hack-on-simple-variants-of-alignment",
-    "title": "Astra and Fable still hack on simple variants of alignment evals from 2025"
-  },
-  {
-    "source": "hn",
-    "url": "https://aprilnea.me/en/blog/reverse-engineering-claude-code-antspace",
-    "title": "Reverse-Engineering Claude Web's MicroVM: Uncovering Anthropic's Hidden Antspace"
-  },
-  {
-    "source": "hn",
-    "url": "https://securityaffairs.com/197174/breaking-news/chess-com-leak-exposes-7-3-million-users-evidence-points-to-scraping.html",
-    "title": "Chess.com Leak Exposes 7.3M Users, Evidence Points to Scraping"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://evanhahn.com/posts/2026-09-13-programmers-dislike-reduce/",
-    "title": "Anecdotally, programmers dislike \"reduce\""
+    "url": "https://tncardoso.com/blog/2026/09/optimizing-anamorphic-sculptures/",
+    "title": "Optimizing Anamorphic Sculptures"
   },
   {
     "source": "lobsters",
@@ -86,8 +91,18 @@
   },
   {
     "source": "lobsters",
+    "url": "https://evanhahn.com/posts/2026-09-13-programmers-dislike-reduce/",
+    "title": "Anecdotally, programmers dislike \"reduce\""
+  },
+  {
+    "source": "lobsters",
     "url": "https://this.weekinsecurity.com/watch-what-you-say-apple-opens-the-door-to-a-nightmare-world-of-always-listening-tech/",
     "title": "Watch what you say: Apple opens the door to a nightmare world of always-listening tech"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://seldo.com/posts/we-are-all-product-engineers-now/",
+    "title": "We are all Product Engineers now"
   },
   {
     "source": "lobsters",
@@ -101,6 +116,11 @@
   },
   {
     "source": "lobsters",
+    "url": "https://eighty-twenty.org/2022/06/23/henderson-functional-operating-systems-1982",
+    "title": "Purely Functional Operating Systems"
+  },
+  {
+    "source": "lobsters",
     "url": "https://brew.sh/2026/09/13/homebrew-7.0.0/",
     "title": "Homebrew 7.0.0"
   },
@@ -111,13 +131,18 @@
   },
   {
     "source": "lobsters",
-    "url": "https://eighty-twenty.org/2022/06/23/henderson-functional-operating-systems-1982",
-    "title": "Purely Functional Operating Systems"
+    "url": "https://a6mzero.com/posts/this-pcb-is-brought-to-you-by-fable-5/",
+    "title": "This PCB is brought to you by Fable 5"
   },
   {
     "source": "lobsters",
-    "url": "https://lalitm.com/post/buildprof/",
-    "title": "I made a build visualizer to understand Bun’s compile times"
+    "url": "https://baldino.dev/blog/there-are-only-twelve-4x4-sudokus/",
+    "title": "There are only twelve 4x4 sudokus - and a cool trick for finding minimal subsets"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://blog.veritates.love/functions-as-data",
+    "title": "Sticking Functions Where They Donʼt Belong"
   },
   {
     "source": "lobsters",
@@ -126,13 +151,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://wiki.xxiivv.com/site/heol.html",
-    "title": "heol"
+    "url": "https://lalitm.com/post/buildprof/",
+    "title": "I made a build visualizer to understand Bun’s compile times"
   },
   {
     "source": "lobsters",
-    "url": "https://a6mzero.com/posts/this-pcb-is-brought-to-you-by-fable-5/",
-    "title": "This PCB is brought to you by Fable 5"
+    "url": "https://wiki.xxiivv.com/site/heol.html",
+    "title": "heol"
   },
   {
     "source": "lobsters",
@@ -143,21 +168,6 @@
     "source": "lobsters",
     "url": "https://terrytao.wordpress.com/2026/09/12/after-math/",
     "title": "After Math"
-  },
-  {
-    "source": "lobsters",
-    "url": "http://oldvcr.blogspot.com/2026/09/a-dick-smith-vz200-without-dick-smith.html",
-    "title": "A Dick Smith VZ200 without the Dick Smith"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://cpp-rendering.io/being-lazy-in-c/",
-    "title": "Being lazy in C++"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://blog.jchw.dev/wrong-number/",
-    "title": "Sorry, Wrong Number: Debugging a Crash under Wine (2022)"
   },
   {
     "source": "pinboard",
