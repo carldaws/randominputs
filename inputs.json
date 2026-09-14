@@ -11,23 +11,8 @@
   },
   {
     "source": "hn",
-    "url": "https://neomacs.org/",
-    "title": "Neo Emacs – Emacs from the Future"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.amazon.science/blog/why-dont-machine-learning-research-agents-overfit",
-    "title": "Why don't machine learning research agents overfit?"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.daniellitt.com/blog/2026/9/13/a-beginning-for-mathematics/",
-    "title": "A Beginning for Mathematics"
-  },
-  {
-    "source": "hn",
-    "url": "https://dial9-rs.github.io/blog/principles-for-fast-tokio-applications/",
-    "title": "Principles for Fast Tokio Applications"
+    "url": "https://read.vantezzen.io/miniflags",
+    "title": "Compressing a Flag to 11 Bits"
   },
   {
     "source": "hn",
@@ -36,8 +21,8 @@
   },
   {
     "source": "hn",
-    "url": "https://blog.cloudflare.com/automatic-key-exchange-for-origins/",
-    "title": "Cloudflare AKE cuts origin HelloRetryRequests from 52% to 3.7%"
+    "url": "https://www.daniellitt.com/blog/2026/9/13/a-beginning-for-mathematics/",
+    "title": "A Beginning for Mathematics"
   },
   {
     "source": "hn",
@@ -46,53 +31,23 @@
   },
   {
     "source": "hn",
-    "url": "https://narilabs.com/blog/nari-labs-leads-coval-voice-ai-benchmarks/",
-    "title": "Show HN: Nari Qwen3-TTS and Qwen3-ASR – High accuracy, low latency and cost"
+    "url": "https://dial9-rs.github.io/blog/principles-for-fast-tokio-applications/",
+    "title": "Principles for Fast Tokio Applications"
   },
   {
     "source": "hn",
-    "url": "https://patrickmccanna.net/notes-on-migrating-large-prompts-away-from-anthropic-openai-to-self-hosted-llms/",
-    "title": "Notes on gotchas while migrating 35kb preprompts from Opus to self-hosted Ollama"
+    "url": "https://www.amazon.science/blog/why-dont-machine-learning-research-agents-overfit",
+    "title": "Why don't machine learning research agents overfit?"
   },
   {
     "source": "hn",
-    "url": "https://gosandeep.com/eagles-descent/",
-    "title": "Show HN: Apollo Lunar Module landing simulation"
+    "url": "https://david.alvarezrosa.com/posts/optimizing-a-spin-lock/",
+    "title": "Optimizing a Spin-Lock"
   },
   {
     "source": "hn",
-    "url": "https://www.threebodyorbits.com/",
-    "title": "An atlas of periodic solutions to the three-body problem"
-  },
-  {
-    "source": "hn",
-    "url": "https://brashandplucky.com/2023/09/09/truncated-svd.html",
-    "title": "Truncated SVD (2023)"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.eurobirdportal.org/ebp/en/",
-    "title": "EuroBirdPortal – Live bird movements across Europe"
-  },
-  {
-    "source": "hn",
-    "url": "https://gally.net/temp/20260914pelican-alternatives/index.html",
-    "title": "Show HN: Pelican-bicycle alternatives"
-  },
-  {
-    "source": "hn",
-    "url": "https://jsgroth.dev/blog/posts/trying-to-make-a-loop-auto-vectorize/",
-    "title": "Trying to Make a Loop Auto-Vectorize"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.amazon.science/blog/when-llm-judges-agree-should-we-believe-them",
-    "title": "When LLM judges agree, should we believe them?"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.theregister.com/os-platforms/2026/09/14/microsoft-patches-windows-and-excel-breaks-audio-remote-access-and-paste/5296085",
-    "title": "Microsoft patches Windows and Excel – breaks audio, remote access, and paste"
+    "url": "https://blog.cloudflare.com/automatic-key-exchange-for-origins/",
+    "title": "Cloudflare AKE cuts origin HelloRetryRequests from 52% to 3.7%"
   },
   {
     "source": "hn",
@@ -101,18 +56,68 @@
   },
   {
     "source": "hn",
-    "url": "https://www.sciencedaily.com/releases/2026/09/260909005152.htm",
-    "title": "Devil's Arrows: Ancient builders hauled 55k-lb stones 11 miles for UK stone row"
+    "url": "https://entelligence.ai/blogs/gpt-5.6-luna-vs-gpt-6-astra-is-a-1.20-model-good-enough-for-code-review",
+    "title": "GPT-5.6 Luna vs. GPT-6 Astra: Is a $1.20 Model Good Enough for Code Review?"
   },
   {
     "source": "hn",
-    "url": "https://analog-antiquarian.net/2026/09/11/the-tudor-kings/",
-    "title": "The Tudor Kings"
+    "url": "https://www.threebodyorbits.com/",
+    "title": "An atlas of periodic solutions to the three-body problem"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.theregister.com/os-platforms/2026/09/14/microsoft-patches-windows-and-excel-breaks-audio-remote-access-and-paste/5296085",
+    "title": "Microsoft patches Windows and Excel – breaks audio, remote access, and paste"
+  },
+  {
+    "source": "hn",
+    "url": "https://patrickmccanna.net/notes-on-migrating-large-prompts-away-from-anthropic-openai-to-self-hosted-llms/",
+    "title": "Notes on gotchas while migrating 35kb preprompts from Opus to self-hosted Ollama"
+  },
+  {
+    "source": "hn",
+    "url": "https://narilabs.com/blog/nari-labs-leads-coval-voice-ai-benchmarks/",
+    "title": "Show HN: Nari Qwen3-TTS and Qwen3-ASR – High accuracy, low latency and cost"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.theartnewspaper.com/2026/09/14/largest-roman-mosaic-opens-to-the-public",
+    "title": "Largest known Roman mosaic, beneath Baths of Trajan, opens to the public"
+  },
+  {
+    "source": "hn",
+    "url": "https://pub.sakana.ai/pc-alm/",
+    "title": "Backprop Alternative: Augmented Lagrangian Predictive Coding"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.eurobirdportal.org/ebp/en/",
+    "title": "EuroBirdPortal – Live bird movements across Europe"
+  },
+  {
+    "source": "hn",
+    "url": "https://pop.rdi.sh/dario-please/",
+    "title": "Dario, Please"
+  },
+  {
+    "source": "hn",
+    "url": "https://brashandplucky.com/2023/09/09/truncated-svd.html",
+    "title": "Truncated SVD (2023)"
+  },
+  {
+    "source": "hn",
+    "url": "https://jsgroth.dev/blog/posts/trying-to-make-a-loop-auto-vectorize/",
+    "title": "Trying to Make a Loop Auto-Vectorize"
   },
   {
     "source": "lobsters",
     "url": "https://bcantrill.dtrace.org/2026/09/13/the-contagion-of-fear/",
     "title": "The contagion of fear"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://yuvalino.com/how-can-you-not-be-romantic-about-unix-domain-sockets",
+    "title": "How can you not be romantic about UNIX domain sockets?"
   },
   {
     "source": "lobsters",
@@ -126,8 +131,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://yuvalino.com/how-can-you-not-be-romantic-about-unix-domain-sockets",
-    "title": "How can you not be romantic about UNIX domain sockets?"
+    "url": "https://zanlib.dev/blog/do-you-still-read-the-code/",
+    "title": "\"Do You Still Read the Code?\""
+  },
+  {
+    "source": "lobsters",
+    "url": "https://www.benjoffe.com/map",
+    "title": "A New Equal-Area Map for Interactive Computer Use"
   },
   {
     "source": "lobsters",
@@ -161,22 +171,102 @@
   },
   {
     "source": "lobsters",
+    "url": "https://kythe.io",
+    "title": "Kythe, a pluggable, language-agnostic ecosystem for building tools that work with code"
+  },
+  {
+    "source": "lobsters",
     "url": "https://brew.sh/2026/09/13/homebrew-7.0.0/",
     "title": "Homebrew 7.0.0"
   },
   {
     "source": "lobsters",
-    "url": "https://rm4n0s.github.io/posts/2-go-devs-should-learn-odin/",
-    "title": "Golang developers should try Odin"
+    "url": "https://talkoren.com/blog/single-zshrc-macos-windows-wsl2/",
+    "title": "How I use a single .zshrc file on macOS and Windows (WSL2)"
   },
   {
-    "source": "lobsters",
-    "url": "https://blog.veritates.love/functions-as-data",
-    "title": "Sticking Functions Where They Donʼt Belong"
+    "source": "pinboard",
+    "url": "https://musictheory.pugetsound.edu/mt21c/MusicTheory.html",
+    "title": "Music Theory for the 21st-Century Classroom"
   },
   {
-    "source": "lobsters",
-    "url": "https://a6mzero.com/posts/this-pcb-is-brought-to-you-by-fable-5/",
-    "title": "This PCB is brought to you by Fable 5"
+    "source": "pinboard",
+    "url": "https://terrytao.wordpress.com/2026/09/11/a-severe-misalignment-of-ai-in-mathematics/",
+    "title": "A Severe Misalignment of AI in Mathematics – What's new"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://transitions.dev/",
+    "title": "Transitions.dev — Essential transitions for web apps"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://high5apps.github.io/josm-plugin-website-wizard/",
+    "title": "Make Your First Edit to OpenStreetMap in the Next 15 Minutes | Website Wizard JOSM Plugin"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://mmoustafa.com/blog/so-you-want-to-use-openrouter/",
+    "title": "So you want to use OpenRouter?"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://vale.rocks/posts/html-boilerplate",
+    "title": "My HTML Boilerplate | Vale.Rocks"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://lucumr.pocoo.org/2026/9/7/astra-why/",
+    "title": "Astra for Coding: Why Are We Doing This Again? | Armin Ronacher's Thoughts and Writings"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://911realtime.org/",
+    "title": "9/11 Realtime"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.details.so/inspo",
+    "title": "Details.so — Web design inspiration from the world's best sites"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://cel.cs.brown.edu/blog/design-space-async-await/",
+    "title": "A Design Space Exploration of Async/Await"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://knap.md/",
+    "title": "Knap · Turn data into Markdown"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://stopomarchy.neocities.org/",
+    "title": "STOP OMARCHY: Boycott Tech's Far-Right Backers"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://mail.cyberneticforests.com/models-dont-go-rogue/",
+    "title": "Models Don't Go Rogue"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://nishantjosh.dev/blogs/how-to-build-a-fking-printer/",
+    "title": "How to build a f**king printer · Nishant Joshi"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://jetkvm.com/blog/introducing-jetkvm-mini",
+    "title": "Introducing JetKVM Mini - JetKVM"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://aiandeducation.mit.edu/report/",
+    "title": "Report – AI and Education"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://evergarden.moe/",
+    "title": "evergarden"
   }
 ]
