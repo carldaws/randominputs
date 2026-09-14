@@ -1,8 +1,53 @@
 [
   {
     "source": "hn",
-    "url": "https://refactoringenglish.com/excerpts/write-an-effective-design-doc/",
-    "title": "How to Write an Effective Software Design Document"
+    "url": "https://andonlabs.com/blog/why-we-built-pion",
+    "title": "Pion, an agent designed to run any company autonomously"
+  },
+  {
+    "source": "hn",
+    "url": "https://nvartolomei.com/dist-sys-classics/",
+    "title": "Distributed Systems Classics (2017)"
+  },
+  {
+    "source": "hn",
+    "url": "https://neomacs.org/",
+    "title": "Neo Emacs – Emacs from the Future"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.amazon.science/blog/why-dont-machine-learning-research-agents-overfit",
+    "title": "Why don't machine learning research agents overfit?"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.daniellitt.com/blog/2026/9/13/a-beginning-for-mathematics/",
+    "title": "A Beginning for Mathematics"
+  },
+  {
+    "source": "hn",
+    "url": "https://dial9-rs.github.io/blog/principles-for-fast-tokio-applications/",
+    "title": "Principles for Fast Tokio Applications"
+  },
+  {
+    "source": "hn",
+    "url": "https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive/",
+    "title": "OpenAI bots knew about the RubyGems caching vulnerability"
+  },
+  {
+    "source": "hn",
+    "url": "https://blog.cloudflare.com/automatic-key-exchange-for-origins/",
+    "title": "Cloudflare AKE cuts origin HelloRetryRequests from 52% to 3.7%"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.serpentine.com/posts/2026/x3-stripes/",
+    "title": "How my e-reader lost its stripes"
+  },
+  {
+    "source": "hn",
+    "url": "https://narilabs.com/blog/nari-labs-leads-coval-voice-ai-benchmarks/",
+    "title": "Show HN: Nari Qwen3-TTS and Qwen3-ASR – High accuracy, low latency and cost"
   },
   {
     "source": "hn",
@@ -11,23 +56,8 @@
   },
   {
     "source": "hn",
-    "url": "https://gultsch.de/posts/how-do-we-gain-traction/",
-    "title": "Jabber/XMPP: How Do We Gain Traction?"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.ilinmaks.com/blog/en/ai-jobs-market-2026",
-    "title": "The AI job market in 2026"
-  },
-  {
-    "source": "hn",
-    "url": "http://graphicrants.blogspot.com/2026/02/nanite-tessellation.html",
-    "title": "Graphic Rants: Nanite Tessellation"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.eurobirdportal.org/ebp/en/",
-    "title": "EuroBirdPortal – Live bird movements across Europe"
+    "url": "https://gosandeep.com/eagles-descent/",
+    "title": "Show HN: Apollo Lunar Module landing simulation"
   },
   {
     "source": "hn",
@@ -36,28 +66,18 @@
   },
   {
     "source": "hn",
-    "url": "https://www.sciencedaily.com/releases/2026/09/260909005152.htm",
-    "title": "Devil's Arrows: Ancient builders hauled 55k-lb stones 11 miles for UK stone row"
+    "url": "https://brashandplucky.com/2023/09/09/truncated-svd.html",
+    "title": "Truncated SVD (2023)"
   },
   {
     "source": "hn",
-    "url": "https://www.htx.com/en-in/news/internet-shocked-unsolved-problem-by-fields-medalist-breache-IBDgZG2j/",
-    "title": "Unsolved Problem by Fields Medalist Breached by Two High School Students"
-  },
-  {
-    "source": "hn",
-    "url": "https://chizkidd.github.io//2026/09/13/flashattention/",
-    "title": "Understanding FlashAttention Pt 1: Personal Notes"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.theartnewspaper.com/2026/09/14/largest-roman-mosaic-opens-to-the-public",
-    "title": "Largest known Roman mosaic, beneath Baths of Trajan, opens to the public"
+    "url": "https://www.eurobirdportal.org/ebp/en/",
+    "title": "EuroBirdPortal – Live bird movements across Europe"
   },
   {
     "source": "hn",
     "url": "https://gally.net/temp/20260914pelican-alternatives/index.html",
-    "title": "Show HN: Pelican-bicycle alternatives (updated for 2026)"
+    "title": "Show HN: Pelican-bicycle alternatives"
   },
   {
     "source": "hn",
@@ -66,23 +86,33 @@
   },
   {
     "source": "hn",
-    "url": "https://www.vals.ai/blogs/fable-solves-cyphral-distich",
-    "title": "Fable 5.1 Solves the Cyphral Distich, a 370-year-old cipher"
+    "url": "https://www.amazon.science/blog/when-llm-judges-agree-should-we-believe-them",
+    "title": "When LLM judges agree, should we believe them?"
   },
   {
     "source": "hn",
-    "url": "https://giannirosato.com/blog/post/case-against-jxl/",
-    "title": "The case against JPEG XL"
+    "url": "https://www.theregister.com/os-platforms/2026/09/14/microsoft-patches-windows-and-excel-breaks-audio-remote-access-and-paste/5296085",
+    "title": "Microsoft patches Windows and Excel – breaks audio, remote access, and paste"
   },
   {
     "source": "hn",
-    "url": "https://www.omgubuntu.co.uk/2026/09/ubuntu-2610-rust-coreutils-complete",
-    "title": "Ubuntu 26.10 completes transition to Rust-based coreutils"
+    "url": "https://www.neobrutalism.dev/",
+    "title": "Show HN: Neobrutalism.dev – Just added Base UI support and added new color theme"
   },
   {
     "source": "hn",
-    "url": "https://tncardoso.com/blog/2026/09/optimizing-anamorphic-sculptures/",
-    "title": "Optimizing Anamorphic Sculptures"
+    "url": "https://www.sciencedaily.com/releases/2026/09/260909005152.htm",
+    "title": "Devil's Arrows: Ancient builders hauled 55k-lb stones 11 miles for UK stone row"
+  },
+  {
+    "source": "hn",
+    "url": "https://analog-antiquarian.net/2026/09/11/the-tudor-kings/",
+    "title": "The Tudor Kings"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://bcantrill.dtrace.org/2026/09/13/the-contagion-of-fear/",
+    "title": "The contagion of fear"
   },
   {
     "source": "lobsters",
@@ -96,13 +126,23 @@
   },
   {
     "source": "lobsters",
-    "url": "https://this.weekinsecurity.com/watch-what-you-say-apple-opens-the-door-to-a-nightmare-world-of-always-listening-tech/",
-    "title": "Watch what you say: Apple opens the door to a nightmare world of always-listening tech"
+    "url": "https://yuvalino.com/how-can-you-not-be-romantic-about-unix-domain-sockets",
+    "title": "How can you not be romantic about UNIX domain sockets?"
   },
   {
     "source": "lobsters",
     "url": "https://seldo.com/posts/we-are-all-product-engineers-now/",
     "title": "We are all Product Engineers now"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://baldino.dev/blog/there-are-only-twelve-4x4-sudokus/",
+    "title": "There are only twelve 4x4 sudokus - and a cool trick for finding minimal subsets"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://this.weekinsecurity.com/watch-what-you-say-apple-opens-the-door-to-a-nightmare-world-of-always-listening-tech/",
+    "title": "Watch what you say: Apple opens the door to a nightmare world of always-listening tech"
   },
   {
     "source": "lobsters",
@@ -131,127 +171,12 @@
   },
   {
     "source": "lobsters",
-    "url": "https://a6mzero.com/posts/this-pcb-is-brought-to-you-by-fable-5/",
-    "title": "This PCB is brought to you by Fable 5"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://baldino.dev/blog/there-are-only-twelve-4x4-sudokus/",
-    "title": "There are only twelve 4x4 sudokus - and a cool trick for finding minimal subsets"
-  },
-  {
-    "source": "lobsters",
     "url": "https://blog.veritates.love/functions-as-data",
     "title": "Sticking Functions Where They Donʼt Belong"
   },
   {
     "source": "lobsters",
-    "url": "https://lucio.albenga.es/web-en/posts/2025/from-git-to-fossil.html",
-    "title": "From Git to Fossil (2025)"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://lalitm.com/post/buildprof/",
-    "title": "I made a build visualizer to understand Bun’s compile times"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://wiki.xxiivv.com/site/heol.html",
-    "title": "heol"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://abstractnonsense.xyz/blog/2025-08-31-can-a-regex-match-valid-card-numbers/",
-    "title": "Can a regex match valid card numbers?"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://terrytao.wordpress.com/2026/09/12/after-math/",
-    "title": "After Math"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://musictheory.pugetsound.edu/mt21c/MusicTheory.html",
-    "title": "Music Theory for the 21st-Century Classroom"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://terrytao.wordpress.com/2026/09/11/a-severe-misalignment-of-ai-in-mathematics/",
-    "title": "A Severe Misalignment of AI in Mathematics – What's new"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://transitions.dev/",
-    "title": "Transitions.dev — Essential transitions for web apps"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://high5apps.github.io/josm-plugin-website-wizard/",
-    "title": "Make Your First Edit to OpenStreetMap in the Next 15 Minutes | Website Wizard JOSM Plugin"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://mmoustafa.com/blog/so-you-want-to-use-openrouter/",
-    "title": "So you want to use OpenRouter?"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://vale.rocks/posts/html-boilerplate",
-    "title": "My HTML Boilerplate | Vale.Rocks"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://lucumr.pocoo.org/2026/9/7/astra-why/",
-    "title": "Astra for Coding: Why Are We Doing This Again? | Armin Ronacher's Thoughts and Writings"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://911realtime.org/",
-    "title": "9/11 Realtime"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.details.so/inspo",
-    "title": "Details.so — Web design inspiration from the world's best sites"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://cel.cs.brown.edu/blog/design-space-async-await/",
-    "title": "A Design Space Exploration of Async/Await"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://knap.md/",
-    "title": "Knap · Turn data into Markdown"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://stopomarchy.neocities.org/",
-    "title": "STOP OMARCHY: Boycott Tech's Far-Right Backers"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://mail.cyberneticforests.com/models-dont-go-rogue/",
-    "title": "Models Don't Go Rogue"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://nishantjosh.dev/blogs/how-to-build-a-fking-printer/",
-    "title": "How to build a f**king printer · Nishant Joshi"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://jetkvm.com/blog/introducing-jetkvm-mini",
-    "title": "Introducing JetKVM Mini - JetKVM"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://aiandeducation.mit.edu/report/",
-    "title": "Report – AI and Education"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://evergarden.moe/",
-    "title": "evergarden"
+    "url": "https://a6mzero.com/posts/this-pcb-is-brought-to-you-by-fable-5/",
+    "title": "This PCB is brought to you by Fable 5"
   }
 ]
