@@ -1,8 +1,28 @@
 [
   {
     "source": "hn",
-    "url": "https://dallincrump.com/dystopian-surveillance-is-becoming-a-reality",
-    "title": "Dystopian Surveillance Is Becoming a Reality"
+    "url": "https://typesafe.ai/blog/introducing-system-one-models-and-jev",
+    "title": "Introducing System One Models and Jev"
+  },
+  {
+    "source": "hn",
+    "url": "https://blog.archive.org/2026/09/15/an-update-on-wayback-machine-access/",
+    "title": "An Update on Wayback Machine Access"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.strix.ai/blog/baseten-harbor-github-pat-takeover",
+    "title": "We got admin access to Baseten's production GitHub in 25 minutes"
+  },
+  {
+    "source": "hn",
+    "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-gemini-3-8-live-extended-thinking/",
+    "title": "Gemini 3.8 Live and 3.8 Live Extended Thinking"
+  },
+  {
+    "source": "hn",
+    "url": "https://attainablefelicity.mattkirkland.com/20260915/cut-up-your-books.html",
+    "title": "Chop Up Your Books"
   },
   {
     "source": "hn",
@@ -21,28 +41,23 @@
   },
   {
     "source": "hn",
-    "url": "https://www.404media.co/theres-a-100-chance-ai-agents-are-already-ruining-the-internet/",
-    "title": "There's a 100% Chance AI Agents Are Ruining the Internet"
-  },
-  {
-    "source": "hn",
     "url": "https://jiga.io/about-us/?ashby_jid=0b75d72d-c92b-4dca-8062-09d298ada0bd",
     "title": "Jiga (YC W21) Is Hiring Product Engineer (Remote/US)"
   },
   {
     "source": "hn",
-    "url": "https://www.formas.ai/cartesian",
-    "title": "Cartesian – AI 3D Modeling for Design"
-  },
-  {
-    "source": "hn",
-    "url": "https://deadparrotbbs.com/why-personal-websites-are-coming-back/",
-    "title": "Why Personal Websites Are Coming Back"
-  },
-  {
-    "source": "hn",
     "url": "https://www.forbrukerradet.no/short-life/",
     "title": "Let's make quality the norm again"
+  },
+  {
+    "source": "hn",
+    "url": "https://notesbylex.com/giving-up-on-smart-rings",
+    "title": "Giving up on smart rings"
+  },
+  {
+    "source": "hn",
+    "url": "https://vale.rocks/micros/20260915-0135",
+    "title": "CSS-Tricks in Limbo"
   },
   {
     "source": "hn",
@@ -56,8 +71,13 @@
   },
   {
     "source": "hn",
-    "url": "https://vale.rocks/micros/20260915-0135",
-    "title": "CSS-Tricks in Limbo"
+    "url": "https://www.formas.ai/cartesian",
+    "title": "Cartesian – AI 3D Modeling for Design"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.rmca.org/Articles/nurse.htm",
+    "title": "Rat and Mouse Gazette: Nursing Care (1996)"
   },
   {
     "source": "hn",
@@ -65,19 +85,9 @@
     "title": "A rough guide for going back to the Moon"
   },
   {
-    "source": "hn",
-    "url": "https://www.downtowndougbrown.com/2026/09/fixing-an-nzxt-signal-4k30-part-2-the-green-pink-video-bug/",
-    "title": "Fixing an NZXT Signal 4K30 part 2: the green/pink video bug"
-  },
-  {
-    "source": "hn",
-    "url": "https://tintotint.eu/whacky-corner/f-droid_slop/",
-    "title": "How much of F-Droid is LLM generated?"
-  },
-  {
-    "source": "hn",
-    "url": "https://nvidia.github.io/OpenShell-Research/dev-notes/posts/2026-09-10-learning-formal-methods-agent-policy-prover/",
-    "title": "What we have learned at OpenShell applying formal methods to control AI agents"
+    "source": "lobsters",
+    "url": "https://zanlib.dev/blog/do-you-still-read-the-code/",
+    "title": "\"Do You Still Read the Code?\""
   },
   {
     "source": "lobsters",
@@ -86,8 +96,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://zanlib.dev/blog/do-you-still-read-the-code/",
-    "title": "\"Do You Still Read the Code?\""
+    "url": "https://chauhankiran.blogspot.com/2026/09/levels.html",
+    "title": "From Intern to Software Architect"
   },
   {
     "source": "lobsters",
@@ -106,13 +116,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://fzakaria.com/2026/09/11/a-nix-store-is-three-functions",
-    "title": "A Nix store is three functions"
+    "url": "https://jsgroth.dev/blog/posts/trying-to-make-a-loop-auto-vectorize/",
+    "title": "Trying to Make a Loop Auto-Vectorize"
   },
   {
     "source": "lobsters",
-    "url": "https://anekstein.com/posts/2026-08-22.html",
-    "title": "Search over Algebraic Graphs"
+    "url": "https://fzakaria.com/2026/09/11/a-nix-store-is-three-functions",
+    "title": "A Nix store is three functions"
   },
   {
     "source": "lobsters",
@@ -121,8 +131,23 @@
   },
   {
     "source": "lobsters",
+    "url": "https://tintotint.eu/whacky-corner/f-droid_slop/",
+    "title": "How much of F-Droid is LLM generated?"
+  },
+  {
+    "source": "lobsters",
     "url": "https://lezli01.is-a.dev/vincent/docs/why/the-terminal-should-not-own-the-work.html",
     "title": "The terminal should not own the work"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://anekstein.com/posts/2026-08-22.html",
+    "title": "Search over Algebraic Graphs"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://vondra.me/posts/postgres-development-activity/",
+    "title": "Postgres development activity"
   },
   {
     "source": "lobsters",
@@ -131,18 +156,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://jsgroth.dev/blog/posts/trying-to-make-a-loop-auto-vectorize/",
-    "title": "Trying to Make a Loop Auto-Vectorize"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://lepisma.xyz/2017/06/25/simple-time-maps/",
-    "title": "Simpler time map plots (2017)"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://evanhahn.com/posts/2026-09-13-programmers-dislike-reduce/",
-    "title": "Anecdotally, programmers dislike \"reduce\""
+    "url": "https://lemire.me/blog/2026/09/15/subnormal-floating-point-numbers-are-expensive-on-intel-processors/",
+    "title": "Subnormal floating-point numbers are expensive… on Intel processors"
   },
   {
     "source": "pinboard",
