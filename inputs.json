@@ -1,23 +1,18 @@
 [
   {
     "source": "hn",
+    "url": "https://www.linuxfromscratch.org/",
+    "title": "Linux from Scratch"
+  },
+  {
+    "source": "hn",
     "url": "https://andonlabs.com/blog/why-we-built-pion",
     "title": "Pion, an agent designed to run any company autonomously"
   },
   {
     "source": "hn",
-    "url": "https://read.vantezzen.io/miniflags",
-    "title": "Compressing a Flag to 11 Bits"
-  },
-  {
-    "source": "hn",
-    "url": "https://nvartolomei.com/dist-sys-classics/",
-    "title": "Distributed Systems Classics (2017)"
-  },
-  {
-    "source": "hn",
-    "url": "https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive/",
-    "title": "OpenAI bots knew about the RubyGems caching vulnerability"
+    "url": "https://lingo.dev/en/careers/ff88132a-cb79-4d35-a6a0-a6230de7a013",
+    "title": "Lingo.dev (YC F24) is hiring a senior content engineer (Remote, worldwide)"
   },
   {
     "source": "hn",
@@ -26,28 +21,43 @@
   },
   {
     "source": "hn",
+    "url": "https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive/",
+    "title": "OpenAI bots knew about the RubyGems caching vulnerability"
+  },
+  {
+    "source": "hn",
+    "url": "https://poltora.dev/redis",
+    "title": "Show HN: Redis City – Explore how Redis works in an interactive 3D model"
+  },
+  {
+    "source": "hn",
+    "url": "https://nvartolomei.com/dist-sys-classics/",
+    "title": "Distributed Systems Classics (2017)"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.daniellitt.com/blog/2026/9/13/a-beginning-for-mathematics/",
+    "title": "A beginning for mathematics"
+  },
+  {
+    "source": "hn",
+    "url": "https://fitzgen.com/2020/01/13/synthesizing-loop-free-programs.html",
+    "title": "Synthesizing Loop-Free Programs with Rust and Z3 (2020)"
+  },
+  {
+    "source": "hn",
+    "url": "https://read.vantezzen.io/miniflags",
+    "title": "Compressing a flag to 11 bits"
+  },
+  {
+    "source": "hn",
     "url": "https://dial9-rs.github.io/blog/principles-for-fast-tokio-applications/",
     "title": "Principles for Fast Tokio Applications"
   },
   {
     "source": "hn",
-    "url": "https://www.serpentine.com/posts/2026/x3-stripes/",
-    "title": "How my e-reader lost its stripes"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.amazon.science/blog/why-dont-machine-learning-research-agents-overfit",
-    "title": "Why don't machine learning research agents overfit?"
-  },
-  {
-    "source": "hn",
-    "url": "https://david.alvarezrosa.com/posts/optimizing-a-spin-lock/",
-    "title": "Optimizing a Spin-Lock"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.daniellitt.com/blog/2026/9/13/a-beginning-for-mathematics/",
-    "title": "A Beginning for Mathematics"
+    "url": "https://www.omgubuntu.co.uk/2026/09/ubuntu-2610-rust-coreutils-complete",
+    "title": "Ubuntu 26.10 completes transition to Rust-based coreutils"
   },
   {
     "source": "hn",
@@ -61,8 +71,13 @@
   },
   {
     "source": "hn",
-    "url": "https://patrickmccanna.net/notes-on-migrating-large-prompts-away-from-anthropic-openai-to-self-hosted-llms/",
-    "title": "Notes on gotchas while migrating 35kb preprompts from Opus to self-hosted Ollama"
+    "url": "https://www.amazon.science/blog/why-dont-machine-learning-research-agents-overfit",
+    "title": "Why don't machine learning research agents overfit?"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.serpentine.com/posts/2026/x3-stripes/",
+    "title": "How my e-reader lost its stripes"
   },
   {
     "source": "hn",
@@ -71,28 +86,13 @@
   },
   {
     "source": "hn",
-    "url": "https://entelligence.ai/blogs/gpt-5.6-luna-vs-gpt-6-astra-is-a-1.20-model-good-enough-for-code-review",
-    "title": "GPT-5.6 Luna vs. GPT-6 Astra: Is a $1.20 Model Good Enough for Code Review?"
+    "url": "https://david.alvarezrosa.com/posts/optimizing-a-spin-lock/",
+    "title": "Optimizing a Spin-Lock"
   },
   {
     "source": "hn",
     "url": "https://www.theregister.com/ai-and-ml/2026/09/14/ex-ftc-boss-khan-urges-uncle-sam-to-break-out-the-handcuffs-for-ai-ceos-citing-1934-precedent/5296325",
     "title": "Ex-FTC boss Khan: break out the handcuffs for AI CEOs, citing 1934 precedent"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.neobrutalism.dev/",
-    "title": "Show HN: Neobrutalism.dev – Just added Base UI support and added new color theme"
-  },
-  {
-    "source": "hn",
-    "url": "https://narilabs.com/blog/nari-labs-leads-coval-voice-ai-benchmarks/",
-    "title": "Show HN: Nari Qwen3-TTS and Qwen3-ASR – High accuracy, low latency and cost"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.theregister.com/os-platforms/2026/09/14/microsoft-patches-windows-and-excel-breaks-audio-remote-access-and-paste/5296085",
-    "title": "Microsoft patches Windows and Excel – breaks audio, remote access, and paste"
   },
   {
     "source": "lobsters",
@@ -101,13 +101,18 @@
   },
   {
     "source": "lobsters",
+    "url": "https://zanlib.dev/blog/do-you-still-read-the-code/",
+    "title": "\"Do You Still Read the Code?\""
+  },
+  {
+    "source": "lobsters",
     "url": "https://yuvalino.com/how-can-you-not-be-romantic-about-unix-domain-sockets",
     "title": "How can you not be romantic about UNIX domain sockets?"
   },
   {
     "source": "lobsters",
-    "url": "https://zanlib.dev/blog/do-you-still-read-the-code/",
-    "title": "\"Do You Still Read the Code?\""
+    "url": "https://www.benjoffe.com/map",
+    "title": "A New Equal-Area Map for Interactive Computer Use (natively zooms to Mercator)"
   },
   {
     "source": "lobsters",
@@ -121,8 +126,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://www.benjoffe.com/map",
-    "title": "A New Equal-Area Map for Interactive Computer Use (natively zooms to Mercator)"
+    "url": "https://azhdarchid.com/gdscript-good-bad-ugly/",
+    "title": "GDScript: The Good, Bad, and Ugly Parts"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://fzakaria.com/2026/09/11/a-nix-store-is-three-functions",
+    "title": "A Nix store is three functions"
   },
   {
     "source": "lobsters",
@@ -136,117 +146,22 @@
   },
   {
     "source": "lobsters",
-    "url": "https://this.weekinsecurity.com/watch-what-you-say-apple-opens-the-door-to-a-nightmare-world-of-always-listening-tech/",
-    "title": "Watch what you say: Apple opens the door to a nightmare world of always-listening tech"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://char.lt/blog/2026/09/sorcery-repo-viewer/",
-    "title": "what if my git host were a static site generator?"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://azhdarchid.com/gdscript-good-bad-ugly/",
-    "title": "GDScript: The Good, Bad, and Ugly Parts"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://whhone.com/posts/switching-to-gnu-guix/",
-    "title": "Switching to GNU Guix: A Beginner's Perspective"
-  },
-  {
-    "source": "lobsters",
     "url": "https://kythe.io",
     "title": "Kythe, a pluggable, language-agnostic ecosystem for building tools that work with code"
   },
   {
     "source": "lobsters",
-    "url": "https://eighty-twenty.org/2022/06/23/henderson-functional-operating-systems-1982",
-    "title": "Purely Functional Operating Systems"
+    "url": "https://this.weekinsecurity.com/watch-what-you-say-apple-opens-the-door-to-a-nightmare-world-of-always-listening-tech/",
+    "title": "Watch what you say: Apple opens the door to a nightmare world of always-listening tech"
   },
   {
-    "source": "pinboard",
-    "url": "https://musictheory.pugetsound.edu/mt21c/MusicTheory.html",
-    "title": "Music Theory for the 21st-Century Classroom"
+    "source": "lobsters",
+    "url": "https://brevzin.github.io/c++/2026/09/14/push-vs-pull/",
+    "title": "Push-based vs Pull-based Customization"
   },
   {
-    "source": "pinboard",
-    "url": "https://terrytao.wordpress.com/2026/09/11/a-severe-misalignment-of-ai-in-mathematics/",
-    "title": "A Severe Misalignment of AI in Mathematics – What's new"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://transitions.dev/",
-    "title": "Transitions.dev — Essential transitions for web apps"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://high5apps.github.io/josm-plugin-website-wizard/",
-    "title": "Make Your First Edit to OpenStreetMap in the Next 15 Minutes | Website Wizard JOSM Plugin"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://mmoustafa.com/blog/so-you-want-to-use-openrouter/",
-    "title": "So you want to use OpenRouter?"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://vale.rocks/posts/html-boilerplate",
-    "title": "My HTML Boilerplate | Vale.Rocks"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://lucumr.pocoo.org/2026/9/7/astra-why/",
-    "title": "Astra for Coding: Why Are We Doing This Again? | Armin Ronacher's Thoughts and Writings"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://911realtime.org/",
-    "title": "9/11 Realtime"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.details.so/inspo",
-    "title": "Details.so — Web design inspiration from the world's best sites"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://cel.cs.brown.edu/blog/design-space-async-await/",
-    "title": "A Design Space Exploration of Async/Await"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://knap.md/",
-    "title": "Knap · Turn data into Markdown"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://stopomarchy.neocities.org/",
-    "title": "STOP OMARCHY: Boycott Tech's Far-Right Backers"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://mail.cyberneticforests.com/models-dont-go-rogue/",
-    "title": "Models Don't Go Rogue"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://nishantjosh.dev/blogs/how-to-build-a-fking-printer/",
-    "title": "How to build a f**king printer · Nishant Joshi"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://jetkvm.com/blog/introducing-jetkvm-mini",
-    "title": "Introducing JetKVM Mini - JetKVM"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://aiandeducation.mit.edu/report/",
-    "title": "Report – AI and Education"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://evergarden.moe/",
-    "title": "evergarden"
+    "source": "lobsters",
+    "url": "https://char.lt/blog/2026/09/sorcery-repo-viewer/",
+    "title": "what if my git host were a static site generator?"
   }
 ]
