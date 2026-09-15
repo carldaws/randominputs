@@ -1,13 +1,33 @@
 [
   {
     "source": "hn",
-    "url": "https://www.linuxfromscratch.org/",
-    "title": "Linux from Scratch"
+    "url": "https://bkovac.github.io/modem-thing/",
+    "title": "Show HN: Hacking a $20 4G wireless hotspot into a texting device"
   },
   {
     "source": "hn",
-    "url": "https://andonlabs.com/blog/why-we-built-pion",
-    "title": "Pion, an agent designed to run any company autonomously"
+    "url": "https://www.schneier.com/blog/archives/2026/09/25-years-of-mass-surveillance-is-enough.html",
+    "title": "25 Years of Mass Surveillance Is Enough"
+  },
+  {
+    "source": "hn",
+    "url": "https://vale.rocks/micros/20260915-0135",
+    "title": "CSS-Tricks in Limbo"
+  },
+  {
+    "source": "hn",
+    "url": "https://rmoff.net/2026/01/14/alternatives-to-minio-for-single-node-local-s3/",
+    "title": "Alternatives to MinIO for single-node local S3"
+  },
+  {
+    "source": "hn",
+    "url": "https://research.ibm.com/blog/nasa-ibm-lunar-foundation-model",
+    "title": "A rough guide for going back to the Moon"
+  },
+  {
+    "source": "hn",
+    "url": "https://baldino.dev/blog/there-are-only-twelve-4x4-sudokus/",
+    "title": "There are only twelve 4x4 sudokus (and a cool trick for finding minimal subsets)"
   },
   {
     "source": "hn",
@@ -16,13 +36,13 @@
   },
   {
     "source": "hn",
-    "url": "https://nathannaveen.dev/posts/dropping-ebpf-cpu-cost-by-90/",
-    "title": "Dropping eBPF CPU Cost by About 90% with Memoization (Not AI Gen)"
+    "url": "https://andonlabs.com/blog/why-we-built-pion",
+    "title": "Pion, an agent designed to run any company autonomously"
   },
   {
     "source": "hn",
-    "url": "https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive/",
-    "title": "OpenAI bots knew about the RubyGems caching vulnerability"
+    "url": "https://www.linuxfromscratch.org/",
+    "title": "Linux from Scratch"
   },
   {
     "source": "hn",
@@ -31,8 +51,13 @@
   },
   {
     "source": "hn",
-    "url": "https://nvartolomei.com/dist-sys-classics/",
-    "title": "Distributed Systems Classics (2017)"
+    "url": "https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive/",
+    "title": "OpenAI bots knew about the RubyGems caching vulnerability"
+  },
+  {
+    "source": "hn",
+    "url": "https://nathannaveen.dev/posts/dropping-ebpf-cpu-cost-by-90/",
+    "title": "Dropping eBPF CPU Cost by About 90% with Memoization (Not AI Gen)"
   },
   {
     "source": "hn",
@@ -41,58 +66,8 @@
   },
   {
     "source": "hn",
-    "url": "https://fitzgen.com/2020/01/13/synthesizing-loop-free-programs.html",
-    "title": "Synthesizing Loop-Free Programs with Rust and Z3 (2020)"
-  },
-  {
-    "source": "hn",
-    "url": "https://read.vantezzen.io/miniflags",
-    "title": "Compressing a flag to 11 bits"
-  },
-  {
-    "source": "hn",
-    "url": "https://dial9-rs.github.io/blog/principles-for-fast-tokio-applications/",
-    "title": "Principles for Fast Tokio Applications"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.omgubuntu.co.uk/2026/09/ubuntu-2610-rust-coreutils-complete",
-    "title": "Ubuntu 26.10 completes transition to Rust-based coreutils"
-  },
-  {
-    "source": "hn",
-    "url": "https://blog.cloudflare.com/automatic-key-exchange-for-origins/",
-    "title": "Cloudflare AKE cuts origin HelloRetryRequests from 52% to 3.7%"
-  },
-  {
-    "source": "hn",
-    "url": "https://pub.sakana.ai/pc-alm/",
-    "title": "Backprop Alternative: Augmented Lagrangian Predictive Coding"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.amazon.science/blog/why-dont-machine-learning-research-agents-overfit",
-    "title": "Why don't machine learning research agents overfit?"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.serpentine.com/posts/2026/x3-stripes/",
-    "title": "How my e-reader lost its stripes"
-  },
-  {
-    "source": "hn",
-    "url": "https://pop.rdi.sh/dario-please/",
-    "title": "Dario, Please"
-  },
-  {
-    "source": "hn",
-    "url": "https://david.alvarezrosa.com/posts/optimizing-a-spin-lock/",
-    "title": "Optimizing a Spin-Lock"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.theregister.com/ai-and-ml/2026/09/14/ex-ftc-boss-khan-urges-uncle-sam-to-break-out-the-handcuffs-for-ai-ceos-citing-1934-precedent/5296325",
-    "title": "Ex-FTC boss Khan: break out the handcuffs for AI CEOs, citing 1934 precedent"
+    "url": "https://nvartolomei.com/dist-sys-classics/",
+    "title": "Distributed Systems Classics (2017)"
   },
   {
     "source": "lobsters",
@@ -116,16 +91,6 @@
   },
   {
     "source": "lobsters",
-    "url": "https://giannirosato.com/blog/post/case-against-jxl",
-    "title": "The case against JPEG XL"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://evanhahn.com/posts/2026-09-13-programmers-dislike-reduce/",
-    "title": "Anecdotally, programmers dislike \"reduce\""
-  },
-  {
-    "source": "lobsters",
     "url": "https://azhdarchid.com/gdscript-good-bad-ugly/",
     "title": "GDScript: The Good, Bad, and Ugly Parts"
   },
@@ -136,32 +101,42 @@
   },
   {
     "source": "lobsters",
-    "url": "https://seldo.com/posts/we-are-all-product-engineers-now/",
-    "title": "We are all Product Engineers now"
+    "url": "https://giannirosato.com/blog/post/case-against-jxl",
+    "title": "The case against JPEG XL"
   },
   {
     "source": "lobsters",
-    "url": "https://baldino.dev/blog/there-are-only-twelve-4x4-sudokus/",
-    "title": "There are only twelve 4x4 sudokus - and a cool trick for finding minimal subsets"
+    "url": "https://lezli01.is-a.dev/vincent/docs/why/the-terminal-should-not-own-the-work.html",
+    "title": "The terminal should not own the work"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://anekstein.com/posts/2026-08-22.html",
+    "title": "Search over Algebraic Graphs"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://evanhahn.com/posts/2026-09-13-programmers-dislike-reduce/",
+    "title": "Anecdotally, programmers dislike \"reduce\""
+  },
+  {
+    "source": "lobsters",
+    "url": "https://lepisma.xyz/2017/06/25/simple-time-maps/",
+    "title": "Simpler time map plots (2017)"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://vondra.me/posts/postgres-development-activity/",
+    "title": "Postgres development activity"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://vtrlx.ca/w/2026-09-10-how-i-wrote-moonforth.html",
+    "title": "How I Wrote a Forth (Without Knowing How)"
   },
   {
     "source": "lobsters",
     "url": "https://kythe.io",
     "title": "Kythe, a pluggable, language-agnostic ecosystem for building tools that work with code"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://this.weekinsecurity.com/watch-what-you-say-apple-opens-the-door-to-a-nightmare-world-of-always-listening-tech/",
-    "title": "Watch what you say: Apple opens the door to a nightmare world of always-listening tech"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://brevzin.github.io/c++/2026/09/14/push-vs-pull/",
-    "title": "Push-based vs Pull-based Customization"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://char.lt/blog/2026/09/sorcery-repo-viewer/",
-    "title": "what if my git host were a static site generator?"
   }
 ]
