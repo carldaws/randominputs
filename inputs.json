@@ -6,13 +6,13 @@
   },
   {
     "source": "hn",
-    "url": "https://nvartolomei.com/dist-sys-classics/",
-    "title": "Distributed Systems Classics (2017)"
+    "url": "https://read.vantezzen.io/miniflags",
+    "title": "Compressing a Flag to 11 Bits"
   },
   {
     "source": "hn",
-    "url": "https://read.vantezzen.io/miniflags",
-    "title": "Compressing a Flag to 11 Bits"
+    "url": "https://nvartolomei.com/dist-sys-classics/",
+    "title": "Distributed Systems Classics (2017)"
   },
   {
     "source": "hn",
@@ -21,18 +21,18 @@
   },
   {
     "source": "hn",
-    "url": "https://www.daniellitt.com/blog/2026/9/13/a-beginning-for-mathematics/",
-    "title": "A Beginning for Mathematics"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.serpentine.com/posts/2026/x3-stripes/",
-    "title": "How my e-reader lost its stripes"
+    "url": "https://nathannaveen.dev/posts/dropping-ebpf-cpu-cost-by-90/",
+    "title": "Dropping eBPF CPU Cost by About 90% with Memoization (Not AI Gen)"
   },
   {
     "source": "hn",
     "url": "https://dial9-rs.github.io/blog/principles-for-fast-tokio-applications/",
     "title": "Principles for Fast Tokio Applications"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.serpentine.com/posts/2026/x3-stripes/",
+    "title": "How my e-reader lost its stripes"
   },
   {
     "source": "hn",
@@ -46,43 +46,13 @@
   },
   {
     "source": "hn",
+    "url": "https://www.daniellitt.com/blog/2026/9/13/a-beginning-for-mathematics/",
+    "title": "A Beginning for Mathematics"
+  },
+  {
+    "source": "hn",
     "url": "https://blog.cloudflare.com/automatic-key-exchange-for-origins/",
     "title": "Cloudflare AKE cuts origin HelloRetryRequests from 52% to 3.7%"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.neobrutalism.dev/",
-    "title": "Show HN: Neobrutalism.dev – Just added Base UI support and added new color theme"
-  },
-  {
-    "source": "hn",
-    "url": "https://entelligence.ai/blogs/gpt-5.6-luna-vs-gpt-6-astra-is-a-1.20-model-good-enough-for-code-review",
-    "title": "GPT-5.6 Luna vs. GPT-6 Astra: Is a $1.20 Model Good Enough for Code Review?"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.threebodyorbits.com/",
-    "title": "An atlas of periodic solutions to the three-body problem"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.theregister.com/os-platforms/2026/09/14/microsoft-patches-windows-and-excel-breaks-audio-remote-access-and-paste/5296085",
-    "title": "Microsoft patches Windows and Excel – breaks audio, remote access, and paste"
-  },
-  {
-    "source": "hn",
-    "url": "https://patrickmccanna.net/notes-on-migrating-large-prompts-away-from-anthropic-openai-to-self-hosted-llms/",
-    "title": "Notes on gotchas while migrating 35kb preprompts from Opus to self-hosted Ollama"
-  },
-  {
-    "source": "hn",
-    "url": "https://narilabs.com/blog/nari-labs-leads-coval-voice-ai-benchmarks/",
-    "title": "Show HN: Nari Qwen3-TTS and Qwen3-ASR – High accuracy, low latency and cost"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.theartnewspaper.com/2026/09/14/largest-roman-mosaic-opens-to-the-public",
-    "title": "Largest known Roman mosaic, beneath Baths of Trajan, opens to the public"
   },
   {
     "source": "hn",
@@ -91,8 +61,8 @@
   },
   {
     "source": "hn",
-    "url": "https://www.eurobirdportal.org/ebp/en/",
-    "title": "EuroBirdPortal – Live bird movements across Europe"
+    "url": "https://patrickmccanna.net/notes-on-migrating-large-prompts-away-from-anthropic-openai-to-self-hosted-llms/",
+    "title": "Notes on gotchas while migrating 35kb preprompts from Opus to self-hosted Ollama"
   },
   {
     "source": "hn",
@@ -101,13 +71,28 @@
   },
   {
     "source": "hn",
-    "url": "https://brashandplucky.com/2023/09/09/truncated-svd.html",
-    "title": "Truncated SVD (2023)"
+    "url": "https://entelligence.ai/blogs/gpt-5.6-luna-vs-gpt-6-astra-is-a-1.20-model-good-enough-for-code-review",
+    "title": "GPT-5.6 Luna vs. GPT-6 Astra: Is a $1.20 Model Good Enough for Code Review?"
   },
   {
     "source": "hn",
-    "url": "https://jsgroth.dev/blog/posts/trying-to-make-a-loop-auto-vectorize/",
-    "title": "Trying to Make a Loop Auto-Vectorize"
+    "url": "https://www.theregister.com/ai-and-ml/2026/09/14/ex-ftc-boss-khan-urges-uncle-sam-to-break-out-the-handcuffs-for-ai-ceos-citing-1934-precedent/5296325",
+    "title": "Ex-FTC boss Khan: break out the handcuffs for AI CEOs, citing 1934 precedent"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.neobrutalism.dev/",
+    "title": "Show HN: Neobrutalism.dev – Just added Base UI support and added new color theme"
+  },
+  {
+    "source": "hn",
+    "url": "https://narilabs.com/blog/nari-labs-leads-coval-voice-ai-benchmarks/",
+    "title": "Show HN: Nari Qwen3-TTS and Qwen3-ASR – High accuracy, low latency and cost"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.theregister.com/os-platforms/2026/09/14/microsoft-patches-windows-and-excel-breaks-audio-remote-access-and-paste/5296085",
+    "title": "Microsoft patches Windows and Excel – breaks audio, remote access, and paste"
   },
   {
     "source": "lobsters",
@@ -121,6 +106,11 @@
   },
   {
     "source": "lobsters",
+    "url": "https://zanlib.dev/blog/do-you-still-read-the-code/",
+    "title": "\"Do You Still Read the Code?\""
+  },
+  {
+    "source": "lobsters",
     "url": "https://giannirosato.com/blog/post/case-against-jxl",
     "title": "The case against JPEG XL"
   },
@@ -131,13 +121,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://zanlib.dev/blog/do-you-still-read-the-code/",
-    "title": "\"Do You Still Read the Code?\""
-  },
-  {
-    "source": "lobsters",
     "url": "https://www.benjoffe.com/map",
-    "title": "A New Equal-Area Map for Interactive Computer Use"
+    "title": "A New Equal-Area Map for Interactive Computer Use (natively zooms to Mercator)"
   },
   {
     "source": "lobsters",
@@ -161,13 +146,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://whhone.com/posts/switching-to-gnu-guix/",
-    "title": "Switching to GNU Guix: A Beginner's Perspective"
+    "url": "https://azhdarchid.com/gdscript-good-bad-ugly/",
+    "title": "GDScript: The Good, Bad, and Ugly Parts"
   },
   {
     "source": "lobsters",
-    "url": "https://eighty-twenty.org/2022/06/23/henderson-functional-operating-systems-1982",
-    "title": "Purely Functional Operating Systems"
+    "url": "https://whhone.com/posts/switching-to-gnu-guix/",
+    "title": "Switching to GNU Guix: A Beginner's Perspective"
   },
   {
     "source": "lobsters",
@@ -176,13 +161,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://brew.sh/2026/09/13/homebrew-7.0.0/",
-    "title": "Homebrew 7.0.0"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://talkoren.com/blog/single-zshrc-macos-windows-wsl2/",
-    "title": "How I use a single .zshrc file on macOS and Windows (WSL2)"
+    "url": "https://eighty-twenty.org/2022/06/23/henderson-functional-operating-systems-1982",
+    "title": "Purely Functional Operating Systems"
   },
   {
     "source": "pinboard",
