@@ -6,13 +6,18 @@
   },
   {
     "source": "hn",
+    "url": "https://rheinmetall.github.io/onboardapi-documentation/9.10.0/index.html",
+    "title": "German Rheinmetall open-sources its Battlesuite connected weapon system protcol"
+  },
+  {
+    "source": "hn",
     "url": "https://blog.archive.org/2026/09/15/an-update-on-wayback-machine-access/",
     "title": "An Update on Wayback Machine Access"
   },
   {
     "source": "hn",
-    "url": "https://www.strix.ai/blog/baseten-harbor-github-pat-takeover",
-    "title": "We got admin access to Baseten's production GitHub in 25 minutes"
+    "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Serre/",
+    "title": "Jean-Pierre Serre is 100 years old today"
   },
   {
     "source": "hn",
@@ -21,8 +26,28 @@
   },
   {
     "source": "hn",
+    "url": "https://www.strix.ai/blog/baseten-harbor-github-pat-takeover",
+    "title": "We got admin access to Baseten's production GitHub in 25 minutes"
+  },
+  {
+    "source": "hn",
+    "url": "https://codyho.dev/blog/gpu-driver/",
+    "title": "Building a Linux GPU Driver for the M4 Mac Mini in One Month"
+  },
+  {
+    "source": "hn",
+    "url": "https://dank.systems/posts/2026-09-15-ai-bear.html",
+    "title": "Why I'm still bearish on LLMs after Navier-Stokes"
+  },
+  {
+    "source": "hn",
     "url": "https://attainablefelicity.mattkirkland.com/20260915/cut-up-your-books.html",
-    "title": "Chop Up Your Books"
+    "title": "Chopping up books when they're physically too big"
+  },
+  {
+    "source": "hn",
+    "url": "https://mnoukhov.github.io/posts/ngu/",
+    "title": "Learning to solve hard problems in RL for LLMs by never giving up"
   },
   {
     "source": "hn",
@@ -36,8 +61,8 @@
   },
   {
     "source": "hn",
-    "url": "https://bkovac.github.io/modem-thing/",
-    "title": "Show HN: Hacking a $20 4G wireless hotspot into a texting device"
+    "url": "https://www.forbrukerradet.no/short-life/",
+    "title": "Let's make quality the norm again"
   },
   {
     "source": "hn",
@@ -46,28 +71,18 @@
   },
   {
     "source": "hn",
-    "url": "https://www.forbrukerradet.no/short-life/",
-    "title": "Let's make quality the norm again"
+    "url": "https://joecmarshall.com/posts/vibecoding-is-the-new-internet-dating/",
+    "title": "Vibe Coding is the new Internet Dating?"
   },
   {
     "source": "hn",
-    "url": "https://notesbylex.com/giving-up-on-smart-rings",
-    "title": "Giving up on smart rings"
+    "url": "https://google.github.io/xls/",
+    "title": "XLS: Accelerated HW Synthesis"
   },
   {
     "source": "hn",
-    "url": "https://vale.rocks/micros/20260915-0135",
-    "title": "CSS-Tricks in Limbo"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.schneier.com/blog/archives/2026/09/25-years-of-mass-surveillance-is-enough.html",
-    "title": "25 years of mass surveillance is enough"
-  },
-  {
-    "source": "hn",
-    "url": "https://rmoff.net/2026/01/14/alternatives-to-minio-for-single-node-local-s3/",
-    "title": "Alternatives to MinIO for single-node local S3"
+    "url": "https://bkovac.github.io/modem-thing/",
+    "title": "Show HN: Hacking a $20 4G wireless hotspot into a texting device"
   },
   {
     "source": "hn",
@@ -76,13 +91,8 @@
   },
   {
     "source": "hn",
-    "url": "https://www.rmca.org/Articles/nurse.htm",
-    "title": "Rat and Mouse Gazette: Nursing Care (1996)"
-  },
-  {
-    "source": "hn",
-    "url": "https://research.ibm.com/blog/nasa-ibm-lunar-foundation-model",
-    "title": "A rough guide for going back to the Moon"
+    "url": "https://notesbylex.com/giving-up-on-smart-rings",
+    "title": "Giving up on smart rings"
   },
   {
     "source": "lobsters",
@@ -91,8 +101,18 @@
   },
   {
     "source": "lobsters",
+    "url": "https://vale.rocks/micros/20260915-0135",
+    "title": "CSS-Tricks in Limbo"
+  },
+  {
+    "source": "lobsters",
     "url": "https://bcantrill.dtrace.org/2026/09/13/the-contagion-of-fear/",
     "title": "The contagion of fear"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://will-keleher.com/posts/small-programming-tricks-matter/",
+    "title": "Small Programming Tricks"
   },
   {
     "source": "lobsters",
@@ -101,13 +121,18 @@
   },
   {
     "source": "lobsters",
-    "url": "https://yuvalino.com/how-can-you-not-be-romantic-about-unix-domain-sockets",
-    "title": "How can you not be romantic about UNIX domain sockets?"
+    "url": "https://tintotint.eu/whacky-corner/f-droid_slop/",
+    "title": "How much of F-Droid is LLM generated?"
   },
   {
     "source": "lobsters",
     "url": "https://www.benjoffe.com/map",
     "title": "A New Equal-Area Map for Interactive Computer Use (natively zooms to Mercator)"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://yuvalino.com/how-can-you-not-be-romantic-about-unix-domain-sockets",
+    "title": "How can you not be romantic about UNIX domain sockets?"
   },
   {
     "source": "lobsters",
@@ -121,23 +146,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://fzakaria.com/2026/09/11/a-nix-store-is-three-functions",
-    "title": "A Nix store is three functions"
-  },
-  {
-    "source": "lobsters",
     "url": "https://vtrlx.ca/w/2026-09-10-how-i-wrote-moonforth.html",
     "title": "How I Wrote a Forth (Without Knowing How)"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://tintotint.eu/whacky-corner/f-droid_slop/",
-    "title": "How much of F-Droid is LLM generated?"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://lezli01.is-a.dev/vincent/docs/why/the-terminal-should-not-own-the-work.html",
-    "title": "The terminal should not own the work"
   },
   {
     "source": "lobsters",
@@ -146,18 +156,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://vondra.me/posts/postgres-development-activity/",
-    "title": "Postgres development activity"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://giannirosato.com/blog/post/case-against-jxl",
-    "title": "The case against JPEG XL"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://lemire.me/blog/2026/09/15/subnormal-floating-point-numbers-are-expensive-on-intel-processors/",
-    "title": "Subnormal floating-point numbers are expensive… on Intel processors"
+    "url": "https://fzakaria.com/2026/09/11/a-nix-store-is-three-functions",
+    "title": "A Nix store is three functions"
   },
   {
     "source": "pinboard",
