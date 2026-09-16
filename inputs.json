@@ -1,13 +1,33 @@
 [
   {
     "source": "hn",
+    "url": "https://will-keleher.com/posts/small-programming-tricks-matter/",
+    "title": "Small Programming Tricks"
+  },
+  {
+    "source": "hn",
     "url": "https://typesafe.ai/blog/introducing-system-one-models-and-jev",
     "title": "Introducing System One Models and Jev"
   },
   {
     "source": "hn",
-    "url": "https://blog.archive.org/2026/09/15/an-update-on-wayback-machine-access/",
-    "title": "An update on Wayback Machine access"
+    "url": "https://ohhelloana.blog/tell-the-speakers/",
+    "title": "Tell the speakers that you liked their talks"
+  },
+  {
+    "source": "hn",
+    "url": "https://eli.thegreenplace.net/2026/how-big-are-factorials/",
+    "title": "How big are factorials?"
+  },
+  {
+    "source": "hn",
+    "url": "https://blog.jim-nielsen.com/2026/stop-with-the-uptime-percentage/",
+    "title": "Can we stop with the uptime percentages?"
+  },
+  {
+    "source": "hn",
+    "url": "https://testing.googleblog.com/2011/02/this-code-is-crap.html",
+    "title": "This Code Is CRAP (2011)"
   },
   {
     "source": "hn",
@@ -16,8 +36,18 @@
   },
   {
     "source": "hn",
-    "url": "https://yosefk.com/blog/doing-everyone-elses-job.html",
-    "title": "Doing Everyone Else's Job"
+    "url": "https://blog.archive.org/2026/09/15/an-update-on-wayback-machine-access/",
+    "title": "An update on Wayback Machine access"
+  },
+  {
+    "source": "hn",
+    "url": "https://blog.simbastack.com/four-round-trips-six-months/",
+    "title": "Prisma's pgbouncer=true on Supabase made every query 4 round-trips (postmortem)"
+  },
+  {
+    "source": "hn",
+    "url": "https://loiseaujc.github.io/posts/blog-title/make_gauss_seidel_great_again.html",
+    "title": "Measuring Gauss-Seidel loop-carried dependency and fixing it via loop unrolling"
   },
   {
     "source": "hn",
@@ -26,18 +56,8 @@
   },
   {
     "source": "hn",
-    "url": "https://blog.ploeh.dk/2026/09/16/on-learning-programming-in-an-age-of-llms/",
-    "title": "Learning Programming in an Age of LLMs"
-  },
-  {
-    "source": "hn",
     "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-gemini-3-8-live-extended-thinking/",
     "title": "Gemini 3.8 Live and 3.8 Live Extended Thinking"
-  },
-  {
-    "source": "hn",
-    "url": "https://codyho.dev/blog/gpu-driver/",
-    "title": "Building a Linux GPU Driver for the M4 Mac Mini in One Month"
   },
   {
     "source": "hn",
@@ -46,38 +66,13 @@
   },
   {
     "source": "hn",
-    "url": "https://rheinmetall.github.io/onboardapi-documentation/9.10.0/index.html",
-    "title": "German Rheinmetall open-sources its Battlesuite connected weapon system protcol"
+    "url": "https://yosefk.com/blog/doing-everyone-elses-job.html",
+    "title": "Doing Everyone Else's Job"
   },
   {
     "source": "hn",
-    "url": "https://nand2mario.github.io/posts/2026/zsst-voodoo/",
-    "title": "Recreating Voodoo Graphics and a Late-1990s Gaming PC on an FPGA"
-  },
-  {
-    "source": "hn",
-    "url": "https://blog.archive.org/2026/09/11/negativland-culture-jamming-and-the-art-of-making-something-new/",
-    "title": "Negativland, Culture Jamming, and the Art of Making Something New"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.hyphanet.org/freenet-hyphanet-075-build-1507-fix-probe-routing-plugins-and-upkeep.html",
-    "title": "Better routing, probe fixes, plugin updates in Freenet/Hyphanet 0.7.5 build 1507"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.strix.ai/blog/baseten-harbor-github-pat-takeover",
-    "title": "We got admin access to Baseten's production GitHub"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.forbrukerradet.no/short-life/",
-    "title": "Let's make quality the norm again"
-  },
-  {
-    "source": "hn",
-    "url": "https://withcapsule.app/",
-    "title": "Show HN: Capsule – Single-file web apps that save their data into SQLite"
+    "url": "https://agentlien.github.io/texture/",
+    "title": "Anatomy of a Texture"
   },
   {
     "source": "lobsters",
@@ -86,18 +81,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://marc.info/?l=openbsd-tech&m=178948744271633&w=2",
-    "title": "GEFS on OpenBSD: A very early preview"
-  },
-  {
-    "source": "lobsters",
     "url": "https://www.omgubuntu.co.uk/2026/09/ubuntu-2610-rust-coreutils-complete",
     "title": "Ubuntu 26.10 completes transition to Rust-based coreutils"
   },
   {
     "source": "lobsters",
-    "url": "https://will-keleher.com/posts/small-programming-tricks-matter/",
-    "title": "Small Programming Tricks"
+    "url": "https://marc.info/?l=openbsd-tech&m=178948744271633&w=2",
+    "title": "GEFS on OpenBSD: A very early preview"
   },
   {
     "source": "lobsters",
@@ -106,18 +96,13 @@
   },
   {
     "source": "lobsters",
+    "url": "https://distrowatch.com/weekly.php?issue=20260914#qa",
+    "title": "The smallest possible Linux distribution"
+  },
+  {
+    "source": "lobsters",
     "url": "https://blog.nlnetlabs.nl/maintaining-the-love-for-coding-in-the-time-of-ai/",
     "title": "Maintaining the love for coding in the time of AI"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://thecloudlet.github.io/technical/til/tmux-agent-status-indicator/",
-    "title": "Agent State in the Tmux Status Line"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://vale.rocks/micros/20260915-0135",
-    "title": "CSS-Tricks in Limbo"
   },
   {
     "source": "lobsters",
@@ -131,43 +116,43 @@
   },
   {
     "source": "lobsters",
+    "url": "https://thecloudlet.github.io/technical/til/tmux-agent-status-indicator/",
+    "title": "Agent State in the Tmux Status Line"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://blog.verygoodsoftwarenotvirus.dev/posts/2026/09/12/the-end-of-verygoodsoftwarenotvirus-dot-ru/",
+    "title": "The end of verygoodsoftwarenotvirus.ru"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://vale.rocks/micros/20260915-0135",
+    "title": "CSS-Tricks in Limbo"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://rust-glancer.github.io/blog/why-lsp-is-hard/",
+    "title": "Why building a Rust LSP is hard"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://citrons.xyz/journal/2026-09-09",
+    "title": "type declaration syntax"
+  },
+  {
+    "source": "lobsters",
     "url": "https://tintotint.eu/whacky-corner/f-droid_slop/",
     "title": "How much of F-Droid is LLM generated?"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://distrowatch.com/weekly.php?issue=20260914#qa",
-    "title": "The smallest possible Linux distribution"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://zanlib.dev/blog/do-you-still-read-the-code/",
-    "title": "\"Do You Still Read the Code?\""
-  },
-  {
-    "source": "lobsters",
-    "url": "https://bcantrill.dtrace.org/2026/09/13/the-contagion-of-fear/",
-    "title": "The contagion of fear"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://chauhankiran.blogspot.com/2026/09/levels.html",
-    "title": "From Intern to Software Architect"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://bkovac.github.io/modem-thing/",
-    "title": "Converting a $20 4G wireless hotspot into a texting device"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://hackmd.io/@WorldSEnder/Hkyqni6Ofl",
-    "title": "Unsizing unsized values"
   },
   {
     "source": "pinboard",
     "url": "https://nvartolomei.com/dist-sys-classics/",
     "title": "Distributed Systems Classics"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://bcantrill.dtrace.org/2026/09/13/the-contagion-of-fear/",
+    "title": "The contagion of fear"
   },
   {
     "source": "pinboard",
