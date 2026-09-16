@@ -6,23 +6,13 @@
   },
   {
     "source": "hn",
-    "url": "https://inflightsimulator.com",
-    "title": "Show HN: I made a flight simulator, except you're just a passenger"
-  },
-  {
-    "source": "hn",
     "url": "https://blog.archive.org/2026/09/15/an-update-on-wayback-machine-access/",
     "title": "An update on Wayback Machine access"
   },
   {
     "source": "hn",
-    "url": "https://blog.archive.org/2026/09/11/negativland-culture-jamming-and-the-art-of-making-something-new/",
-    "title": "Negativland, Culture Jamming, and the Art of Making Something New"
-  },
-  {
-    "source": "hn",
-    "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-gemini-3-8-live-extended-thinking/",
-    "title": "Gemini 3.8 Live and 3.8 Live Extended Thinking"
+    "url": "https://www.cloudx.ai/posts/setup-go",
+    "title": "Scaling Golang CI by Replacing actions/setup-go"
   },
   {
     "source": "hn",
@@ -31,8 +21,18 @@
   },
   {
     "source": "hn",
-    "url": "https://nand2mario.github.io/posts/2026/zsst-voodoo/",
-    "title": "Recreating Voodoo Graphics and a Late-1990s Gaming PC on an FPGA"
+    "url": "https://inflightsimulator.com",
+    "title": "Show HN: I made a flight simulator, except you're just a passenger"
+  },
+  {
+    "source": "hn",
+    "url": "https://blog.ploeh.dk/2026/09/16/on-learning-programming-in-an-age-of-llms/",
+    "title": "Learning Programming in an Age of LLMs"
+  },
+  {
+    "source": "hn",
+    "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-gemini-3-8-live-extended-thinking/",
+    "title": "Gemini 3.8 Live and 3.8 Live Extended Thinking"
   },
   {
     "source": "hn",
@@ -41,13 +41,28 @@
   },
   {
     "source": "hn",
+    "url": "https://dank.systems/posts/2026-09-15-ai-bear.html",
+    "title": "Why I'm still bearish on LLMs after Navier-Stokes"
+  },
+  {
+    "source": "hn",
     "url": "https://rheinmetall.github.io/onboardapi-documentation/9.10.0/index.html",
     "title": "German Rheinmetall open-sources its Battlesuite connected weapon system protcol"
   },
   {
     "source": "hn",
-    "url": "https://dank.systems/posts/2026-09-15-ai-bear.html",
-    "title": "Why I'm still bearish on LLMs after Navier-Stokes"
+    "url": "https://nand2mario.github.io/posts/2026/zsst-voodoo/",
+    "title": "Recreating Voodoo Graphics and a Late-1990s Gaming PC on an FPGA"
+  },
+  {
+    "source": "hn",
+    "url": "https://blog.archive.org/2026/09/11/negativland-culture-jamming-and-the-art-of-making-something-new/",
+    "title": "Negativland, Culture Jamming, and the Art of Making Something New"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.hyphanet.org/freenet-hyphanet-075-build-1507-fix-probe-routing-plugins-and-upkeep.html",
+    "title": "Better routing, probe fixes, plugin updates in Freenet/Hyphanet 0.7.5 build 1507"
   },
   {
     "source": "hn",
@@ -56,8 +71,8 @@
   },
   {
     "source": "hn",
-    "url": "https://tech.marksblogg.com/scikit-decide-openap-optimal-flight-planning.html",
-    "title": "Saving Jet Fuel"
+    "url": "https://www.forbrukerradet.no/short-life/",
+    "title": "Let's make quality the norm again"
   },
   {
     "source": "hn",
@@ -65,44 +80,9 @@
     "title": "Show HN: Capsule – Single-file web apps that save their data into SQLite"
   },
   {
-    "source": "hn",
-    "url": "https://mnoukhov.github.io/posts/ngu/",
-    "title": "Learning to solve hard problems in RL for LLMs by never giving up"
-  },
-  {
-    "source": "hn",
-    "url": "https://attainablefelicity.mattkirkland.com/20260915/cut-up-your-books.html",
-    "title": "Chopping up books when they're physically too big"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.forbrukerradet.no/short-life/",
-    "title": "Let's make quality the norm again"
-  },
-  {
-    "source": "hn",
-    "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Serre/",
-    "title": "Jean-Pierre Serre turns 100"
-  },
-  {
-    "source": "hn",
-    "url": "https://gruhn.me/blog/2026-09-14/",
-    "title": "The Beauty of Roundabouts"
-  },
-  {
-    "source": "hn",
-    "url": "https://originmap.sunnyguha.com/",
-    "title": "An interactive world map of the stories cultures have told"
-  },
-  {
-    "source": "hn",
-    "url": "https://blog.cloudflare.com/accountable-mixed-use-ai-crawlers/",
-    "title": "Stay discoverable in search while disallowing AI training"
-  },
-  {
-    "source": "hn",
-    "url": "https://bensunter.com/commentpulse.html",
-    "title": "Show HN: Pull every comment out of a Google Sheet, in the browser"
+    "source": "lobsters",
+    "url": "https://keepitfree.ai/announcements/a/i-shuts-down-stay-human/",
+    "title": "A/I Shuts Down"
   },
   {
     "source": "lobsters",
@@ -111,8 +91,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://keepitfree.ai/announcements/a/i-shuts-down-stay-human/",
-    "title": "A/I Shuts Down"
+    "url": "https://www.omgubuntu.co.uk/2026/09/ubuntu-2610-rust-coreutils-complete",
+    "title": "Ubuntu 26.10 completes transition to Rust-based coreutils"
   },
   {
     "source": "lobsters",
@@ -126,13 +106,38 @@
   },
   {
     "source": "lobsters",
+    "url": "https://blog.nlnetlabs.nl/maintaining-the-love-for-coding-in-the-time-of-ai/",
+    "title": "Maintaining the love for coding in the time of AI"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://thecloudlet.github.io/technical/til/tmux-agent-status-indicator/",
+    "title": "Agent State in the Tmux Status Line"
+  },
+  {
+    "source": "lobsters",
     "url": "https://vale.rocks/micros/20260915-0135",
     "title": "CSS-Tricks in Limbo"
   },
   {
     "source": "lobsters",
+    "url": "https://crocidb.com/post/when-the-fractional-part-of-a-float-fixes-your-shader/",
+    "title": "When adding a fractional part to a number fixes your shader"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://acadia.engineering/blog/simple-and-efficient-row-level-security",
+    "title": "Simple and Efficient Row-Level Security"
+  },
+  {
+    "source": "lobsters",
     "url": "https://tintotint.eu/whacky-corner/f-droid_slop/",
     "title": "How much of F-Droid is LLM generated?"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://distrowatch.com/weekly.php?issue=20260914#qa",
+    "title": "The smallest possible Linux distribution"
   },
   {
     "source": "lobsters",
@@ -151,23 +156,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://www.omgubuntu.co.uk/2026/09/ubuntu-2610-rust-coreutils-complete",
-    "title": "Ubuntu 26.10 completes transition to Rust-based coreutils"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://blog.nlnetlabs.nl/maintaining-the-love-for-coding-in-the-time-of-ai/",
-    "title": "Maintaining the love for coding in the time of AI"
-  },
-  {
-    "source": "lobsters",
     "url": "https://bkovac.github.io/modem-thing/",
     "title": "Converting a $20 4G wireless hotspot into a texting device"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://thecloudlet.github.io/technical/til/tmux-agent-status-indicator/",
-    "title": "Agent State in the Tmux Status Line"
   },
   {
     "source": "lobsters",
@@ -175,13 +165,88 @@
     "title": "Unsizing unsized values"
   },
   {
-    "source": "lobsters",
-    "url": "https://www.benjoffe.com/map",
-    "title": "A New Equal-Area Map for Interactive Computer Use (natively zooms to Mercator)"
+    "source": "pinboard",
+    "url": "https://nvartolomei.com/dist-sys-classics/",
+    "title": "Distributed Systems Classics"
   },
   {
-    "source": "lobsters",
-    "url": "https://yuvalino.com/how-can-you-not-be-romantic-about-unix-domain-sockets",
-    "title": "How can you not be romantic about UNIX domain sockets?"
+    "source": "pinboard",
+    "url": "https://www.vals.ai/blogs/fable-solves-cyphral-distich",
+    "title": "Claude Fable 5.1 Solves the Cyphral Distich: We gave Claude Fable 5.1 an open task: solve an unsolved 370-year-old cipher. It solved it within a day. (Vals AI)"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://aiandeducation.mit.edu/report/",
+    "title": "Report – AI and Education"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://seldo.com/posts/we-are-all-product-engineers-now/",
+    "title": "We are all Product Engineers now | Seldo.com"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://refactoringenglish.com/excerpts/write-an-effective-design-doc/",
+    "title": "How to Write an Effective Software Design Document"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.404media.co/inside-project-lily-the-humans-reading-your-chatgpt-chats/",
+    "title": "Inside ‘Project Lily’: The Humans Reading Your ChatGPT Chats"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://jetkvm.com/blog/introducing-jetkvm-mini",
+    "title": "Introducing JetKVM Mini - JetKVM"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://transitions.dev/",
+    "title": "Transitions.dev — Essential transitions for web apps"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://high5apps.github.io/josm-plugin-website-wizard/",
+    "title": "Make Your First Edit to OpenStreetMap in the Next 15 Minutes | Website Wizard JOSM Plugin"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://knap.md/",
+    "title": "Knap · Turn data into Markdown"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://terrytao.wordpress.com/2026/09/11/a-severe-misalignment-of-ai-in-mathematics/",
+    "title": "A Severe Misalignment of AI in Mathematics – What's new"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://fatcousin.com/",
+    "title": "fatcousin — 5200 free local-first browser tools"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://colossus.com/article/mark-zuckerberg-profile/",
+    "title": "Mark Zuckerberg - Colossus"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.linuxfromscratch.org/",
+    "title": "Welcome to Linux From Scratch!"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://cel.cs.brown.edu/blog/design-space-async-await/",
+    "title": "A Design Space Exploration of Async/Await"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.details.so/inspo",
+    "title": "Details.so — Web design inspiration from the world's best sites"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://pop.rdi.sh/dario-please/",
+    "title": "dario, please! - POP RDI; RET;"
   }
 ]
