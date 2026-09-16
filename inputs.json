@@ -1,13 +1,23 @@
 [
   {
     "source": "hn",
-    "url": "https://will-keleher.com/posts/small-programming-tricks-matter/",
-    "title": "Small Programming Tricks"
+    "url": "https://rohanbansal.com/qorl",
+    "title": "Training a 4B model to produce 81% faster query plans than Postgres"
   },
   {
     "source": "hn",
-    "url": "https://typesafe.ai/blog/introducing-system-one-models-and-jev",
-    "title": "Introducing System One Models and Jev"
+    "url": "https://opensource.googleblog.com/2022/06/Vectorized%20and%20performance%20portable%20Quicksort.html",
+    "title": "Vectorized and performance-portable Quicksort (2022)"
+  },
+  {
+    "source": "hn",
+    "url": "https://will-keleher.com/posts/small-programming-tricks-matter/",
+    "title": "Small programming tricks"
+  },
+  {
+    "source": "hn",
+    "url": "https://gegell.github.io/posts/factorio-rng/",
+    "title": "Reversing Factorio's RNG"
   },
   {
     "source": "hn",
@@ -16,8 +26,18 @@
   },
   {
     "source": "hn",
+    "url": "https://blog.ploeh.dk/2026/09/16/on-learning-programming-in-an-age-of-llms/",
+    "title": "Learning Programming in an Age of LLMs"
+  },
+  {
+    "source": "hn",
     "url": "https://eli.thegreenplace.net/2026/how-big-are-factorials/",
     "title": "How big are factorials?"
+  },
+  {
+    "source": "hn",
+    "url": "https://krebsonsecurity.com/2026/09/data-broker-radaris-loses-domains-in-privacy-fight/",
+    "title": "Data Broker Radaris Loses Domains in Privacy Fight"
   },
   {
     "source": "hn",
@@ -26,28 +46,8 @@
   },
   {
     "source": "hn",
-    "url": "https://testing.googleblog.com/2011/02/this-code-is-crap.html",
-    "title": "This Code Is CRAP (2011)"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.cloudx.ai/posts/setup-go",
-    "title": "Scaling Golang CI by Replacing actions/setup-go"
-  },
-  {
-    "source": "hn",
-    "url": "https://blog.archive.org/2026/09/15/an-update-on-wayback-machine-access/",
-    "title": "An update on Wayback Machine access"
-  },
-  {
-    "source": "hn",
-    "url": "https://blog.simbastack.com/four-round-trips-six-months/",
-    "title": "Prisma's pgbouncer=true on Supabase made every query 4 round-trips (postmortem)"
-  },
-  {
-    "source": "hn",
-    "url": "https://loiseaujc.github.io/posts/blog-title/make_gauss_seidel_great_again.html",
-    "title": "Measuring Gauss-Seidel loop-carried dependency and fixing it via loop unrolling"
+    "url": "https://barndoor.ai/barndoor-acquires-diaphora/",
+    "title": "Barndoor acquires Diaphora, creators of open-source workflow runtime Frags"
   },
   {
     "source": "hn",
@@ -56,23 +56,18 @@
   },
   {
     "source": "hn",
-    "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-gemini-3-8-live-extended-thinking/",
-    "title": "Gemini 3.8 Live and 3.8 Live Extended Thinking"
+    "url": "https://mustafa-suleyman.ai/a-warning-about-model-welfare",
+    "title": "A warning about 'model welfare'"
   },
   {
     "source": "hn",
-    "url": "https://dank.systems/posts/2026-09-15-ai-bear.html",
-    "title": "Why I'm still bearish on LLMs after Navier-Stokes"
+    "url": "https://www.cloudx.ai/posts/setup-go",
+    "title": "Scaling Golang CI by Replacing actions/setup-go"
   },
   {
     "source": "hn",
-    "url": "https://yosefk.com/blog/doing-everyone-elses-job.html",
-    "title": "Doing Everyone Else's Job"
-  },
-  {
-    "source": "hn",
-    "url": "https://agentlien.github.io/texture/",
-    "title": "Anatomy of a Texture"
+    "url": "https://testing.googleblog.com/2011/02/this-code-is-crap.html",
+    "title": "This Code Is CRAP (2011)"
   },
   {
     "source": "lobsters",
@@ -81,18 +76,18 @@
   },
   {
     "source": "lobsters",
+    "url": "https://blog.verygoodsoftwarenotvirus.dev/posts/2026/09/12/the-end-of-verygoodsoftwarenotvirus-dot-ru/",
+    "title": "The end of verygoodsoftwarenotvirus.ru"
+  },
+  {
+    "source": "lobsters",
     "url": "https://www.omgubuntu.co.uk/2026/09/ubuntu-2610-rust-coreutils-complete",
     "title": "Ubuntu 26.10 completes transition to Rust-based coreutils"
   },
   {
     "source": "lobsters",
-    "url": "https://marc.info/?l=openbsd-tech&m=178948744271633&w=2",
-    "title": "GEFS on OpenBSD: A very early preview"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://blog.jsbarretto.com/post/veloren",
-    "title": "Some things Veloren does differently"
+    "url": "https://dank.systems/posts/2026-09-15-ai-bear.html",
+    "title": "Why i'm still bearish on LLMs after Navier-Stokes"
   },
   {
     "source": "lobsters",
@@ -101,8 +96,33 @@
   },
   {
     "source": "lobsters",
+    "url": "https://blog.jsbarretto.com/post/veloren",
+    "title": "Some things Veloren does differently"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://marc.info/?l=openbsd-tech&m=178948744271633&w=2",
+    "title": "GEFS on OpenBSD: A very early preview"
+  },
+  {
+    "source": "lobsters",
     "url": "https://blog.nlnetlabs.nl/maintaining-the-love-for-coding-in-the-time-of-ai/",
     "title": "Maintaining the love for coding in the time of AI"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://rust-glancer.github.io/blog/why-lsp-is-hard/",
+    "title": "Why building a Rust LSP is hard"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://release.gnome.org/51/",
+    "title": "Introducing GNOME 51"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://www.unicode.org/versions/Unicode18.0.0/",
+    "title": "Unicode 18.0.0"
   },
   {
     "source": "lobsters",
@@ -116,33 +136,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://thecloudlet.github.io/technical/til/tmux-agent-status-indicator/",
-    "title": "Agent State in the Tmux Status Line"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://blog.verygoodsoftwarenotvirus.dev/posts/2026/09/12/the-end-of-verygoodsoftwarenotvirus-dot-ru/",
-    "title": "The end of verygoodsoftwarenotvirus.ru"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://vale.rocks/micros/20260915-0135",
-    "title": "CSS-Tricks in Limbo"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://rust-glancer.github.io/blog/why-lsp-is-hard/",
-    "title": "Why building a Rust LSP is hard"
+    "url": "https://gothub.org/lists.html",
+    "title": "Gothub lists"
   },
   {
     "source": "lobsters",
     "url": "https://citrons.xyz/journal/2026-09-09",
     "title": "type declaration syntax"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://tintotint.eu/whacky-corner/f-droid_slop/",
-    "title": "How much of F-Droid is LLM generated?"
   },
   {
     "source": "pinboard",
@@ -233,5 +233,10 @@
     "source": "pinboard",
     "url": "https://pop.rdi.sh/dario-please/",
     "title": "dario, please! - POP RDI; RET;"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://typesafe.ai/blog/introducing-system-one-models-and-jev",
+    "title": "System One Models and Jev"
   }
 ]
