@@ -6,18 +6,13 @@
   },
   {
     "source": "hn",
-    "url": "https://rheinmetall.github.io/onboardapi-documentation/9.10.0/index.html",
-    "title": "German Rheinmetall open-sources its Battlesuite connected weapon system protcol"
-  },
-  {
-    "source": "hn",
     "url": "https://blog.archive.org/2026/09/15/an-update-on-wayback-machine-access/",
     "title": "An Update on Wayback Machine Access"
   },
   {
     "source": "hn",
-    "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Serre/",
-    "title": "Jean-Pierre Serre is 100 years old today"
+    "url": "https://rheinmetall.github.io/onboardapi-documentation/9.10.0/index.html",
+    "title": "German Rheinmetall open-sources its Battlesuite connected weapon system protcol"
   },
   {
     "source": "hn",
@@ -26,18 +21,23 @@
   },
   {
     "source": "hn",
+    "url": "https://nand2mario.github.io/posts/2026/zsst-voodoo/",
+    "title": "Recreating Voodoo Graphics and a Late-1990s Gaming PC on an FPGA"
+  },
+  {
+    "source": "hn",
     "url": "https://www.strix.ai/blog/baseten-harbor-github-pat-takeover",
     "title": "We got admin access to Baseten's production GitHub in 25 minutes"
   },
   {
     "source": "hn",
-    "url": "https://codyho.dev/blog/gpu-driver/",
-    "title": "Building a Linux GPU Driver for the M4 Mac Mini in One Month"
+    "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Serre/",
+    "title": "Jean-Pierre Serre is 100 years old today"
   },
   {
     "source": "hn",
-    "url": "https://dank.systems/posts/2026-09-15-ai-bear.html",
-    "title": "Why I'm still bearish on LLMs after Navier-Stokes"
+    "url": "https://codyho.dev/blog/gpu-driver/",
+    "title": "Building a Linux GPU Driver for the M4 Mac Mini in One Month"
   },
   {
     "source": "hn",
@@ -56,8 +56,18 @@
   },
   {
     "source": "hn",
-    "url": "https://marc.info/?l=openbsd-tech&m=178948744271633&w=2",
-    "title": "GEFS on OpenBSD: A Early Preview"
+    "url": "https://gruhn.me/blog/2026-09-14/",
+    "title": "The Beauty of Roundabouts"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.wsj.com/arts-culture/books/the-madmans-guide-to-stamp-collecting-review-sticking-to-what-they-know-e96da0e9?st=dT9wdV&reflink=desktopwebshare_permalink",
+    "title": "The madman's guide to stamp collecting"
+  },
+  {
+    "source": "hn",
+    "url": "https://tech.marksblogg.com/scikit-decide-openap-optimal-flight-planning.html",
+    "title": "Saving Jet Fuel"
   },
   {
     "source": "hn",
@@ -71,16 +81,6 @@
   },
   {
     "source": "hn",
-    "url": "https://joecmarshall.com/posts/vibecoding-is-the-new-internet-dating/",
-    "title": "Vibe Coding is the new Internet Dating?"
-  },
-  {
-    "source": "hn",
-    "url": "https://google.github.io/xls/",
-    "title": "XLS: Accelerated HW Synthesis"
-  },
-  {
-    "source": "hn",
     "url": "https://bkovac.github.io/modem-thing/",
     "title": "Show HN: Hacking a $20 4G wireless hotspot into a texting device"
   },
@@ -91,23 +91,13 @@
   },
   {
     "source": "hn",
-    "url": "https://notesbylex.com/giving-up-on-smart-rings",
-    "title": "Giving up on smart rings"
+    "url": "https://marc.info/?l=openbsd-tech&m=178948744271633&w=2",
+    "title": "GEFS on OpenBSD: A Early Preview"
   },
   {
-    "source": "lobsters",
-    "url": "https://zanlib.dev/blog/do-you-still-read-the-code/",
-    "title": "\"Do You Still Read the Code?\""
-  },
-  {
-    "source": "lobsters",
-    "url": "https://vale.rocks/micros/20260915-0135",
-    "title": "CSS-Tricks in Limbo"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://bcantrill.dtrace.org/2026/09/13/the-contagion-of-fear/",
-    "title": "The contagion of fear"
+    "source": "hn",
+    "url": "https://dank.systems/posts/2026-09-15-ai-bear.html",
+    "title": "Why I'm still bearish on LLMs after Navier-Stokes"
   },
   {
     "source": "lobsters",
@@ -116,13 +106,28 @@
   },
   {
     "source": "lobsters",
-    "url": "https://chauhankiran.blogspot.com/2026/09/levels.html",
-    "title": "From Intern to Software Architect"
+    "url": "https://vale.rocks/micros/20260915-0135",
+    "title": "CSS-Tricks in Limbo"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://zanlib.dev/blog/do-you-still-read-the-code/",
+    "title": "\"Do You Still Read the Code?\""
+  },
+  {
+    "source": "lobsters",
+    "url": "https://bcantrill.dtrace.org/2026/09/13/the-contagion-of-fear/",
+    "title": "The contagion of fear"
   },
   {
     "source": "lobsters",
     "url": "https://tintotint.eu/whacky-corner/f-droid_slop/",
     "title": "How much of F-Droid is LLM generated?"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://chauhankiran.blogspot.com/2026/09/levels.html",
+    "title": "From Intern to Software Architect"
   },
   {
     "source": "lobsters",
@@ -136,18 +141,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://azhdarchid.com/gdscript-good-bad-ugly/",
-    "title": "GDScript: The Good, Bad, and Ugly Parts"
-  },
-  {
-    "source": "lobsters",
     "url": "https://jsgroth.dev/blog/posts/trying-to-make-a-loop-auto-vectorize/",
     "title": "Trying to Make a Loop Auto-Vectorize"
   },
   {
     "source": "lobsters",
-    "url": "https://vtrlx.ca/w/2026-09-10-how-i-wrote-moonforth.html",
-    "title": "How I Wrote a Forth (Without Knowing How)"
+    "url": "https://azhdarchid.com/gdscript-good-bad-ugly/",
+    "title": "GDScript: The Good, Bad, and Ugly Parts"
   },
   {
     "source": "lobsters",
@@ -156,82 +156,17 @@
   },
   {
     "source": "lobsters",
+    "url": "https://lemire.me/blog/2026/09/15/subnormal-floating-point-numbers-are-expensive-on-intel-processors/",
+    "title": "Subnormal floating-point numbers are expensive… on Intel processors"
+  },
+  {
+    "source": "lobsters",
     "url": "https://fzakaria.com/2026/09/11/a-nix-store-is-three-functions",
     "title": "A Nix store is three functions"
   },
   {
-    "source": "pinboard",
-    "url": "https://transitions.dev/",
-    "title": "Transitions.dev — Essential transitions for web apps"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://high5apps.github.io/josm-plugin-website-wizard/",
-    "title": "Make Your First Edit to OpenStreetMap in the Next 15 Minutes | Website Wizard JOSM Plugin"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://terrytao.wordpress.com/2026/09/11/a-severe-misalignment-of-ai-in-mathematics/",
-    "title": "A Severe Misalignment of AI in Mathematics – What's new"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.vals.ai/blogs/fable-solves-cyphral-distich",
-    "title": "Claude Fable 5.1 Solves the Cyphral Distich: We gave Claude Fable 5.1 an open task: solve an unsolved 370-year-old cipher. It solved it within a day. (Vals AI)"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://aiandeducation.mit.edu/report/",
-    "title": "Report – AI and Education"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://jetkvm.com/blog/introducing-jetkvm-mini",
-    "title": "Introducing JetKVM Mini - JetKVM"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://cel.cs.brown.edu/blog/design-space-async-await/",
-    "title": "A Design Space Exploration of Async/Await"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://musictheory.pugetsound.edu/mt21c/MusicTheory.html",
-    "title": "Music Theory for the 21st-Century Classroom"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://refactoringenglish.com/excerpts/write-an-effective-design-doc/",
-    "title": "How to Write an Effective Software Design Document"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.details.so/inspo",
-    "title": "Details.so — Web design inspiration from the world's best sites"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://colossus.com/article/mark-zuckerberg-profile/",
-    "title": "Mark Zuckerberg - Colossus"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://seldo.com/posts/we-are-all-product-engineers-now/",
-    "title": "We are all Product Engineers now | Seldo.com"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://knap.md/",
-    "title": "Knap · Turn data into Markdown"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.lesswrong.com/posts/munJKF7iWMsWJLAH2/astra-and-fable-still-hack-on-simple-variants-of-alignment",
-    "title": "Astra and Fable still hack on simple variants of alignment evals from 2025 — LessWrong"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://stopomarchy.neocities.org/",
-    "title": "STOP OMARCHY: Boycott Tech's Far-Right Backers"
+    "source": "lobsters",
+    "url": "https://vtrlx.ca/w/2026-09-10-how-i-wrote-moonforth.html",
+    "title": "How I Wrote a Forth (Without Knowing How)"
   }
 ]
