@@ -6,8 +6,13 @@
   },
   {
     "source": "hn",
-    "url": "https://opensource.googleblog.com/2022/06/Vectorized%20and%20performance%20portable%20Quicksort.html",
-    "title": "Vectorized and performance-portable Quicksort (2022)"
+    "url": "https://mimo.xiaomi.com/rl/",
+    "title": "Xiaomi Mimo 2.6 live post-training dashboard"
+  },
+  {
+    "source": "hn",
+    "url": "https://openspec.dev/",
+    "title": "OpenSpec – A lightweight and configurable AI spec framework"
   },
   {
     "source": "hn",
@@ -16,63 +21,53 @@
   },
   {
     "source": "hn",
+    "url": "https://filipovski.net/2026/09/16/backups-arent-simple.html",
+    "title": "Backups Aren't Simple"
+  },
+  {
+    "source": "hn",
     "url": "https://gegell.github.io/posts/factorio-rng/",
     "title": "Reversing Factorio's RNG"
   },
   {
     "source": "hn",
-    "url": "https://ohhelloana.blog/tell-the-speakers/",
-    "title": "Tell the speakers that you liked their talks"
+    "url": "https://johnjwang.com/post/2026/09/15/engineering-behind-us-strategic-petroleum-reserve",
+    "title": "The engineering behind the US Strategic Petroleum Reserve"
   },
   {
     "source": "hn",
-    "url": "https://blog.ploeh.dk/2026/09/16/on-learning-programming-in-an-age-of-llms/",
-    "title": "Learning Programming in an Age of LLMs"
+    "url": "https://www.wsj.com/world/middle-east/aws-says-it-cant-restore-some-data-from-mideast-facilities-struck-by-iran-ddcb7e5d",
+    "title": "AWS says it can't restore some data from mideast facilities struck by Iran"
   },
   {
     "source": "hn",
-    "url": "https://eli.thegreenplace.net/2026/how-big-are-factorials/",
-    "title": "How big are factorials?"
+    "url": "https://agentlien.github.io/texture/",
+    "title": "Anatomy of a Texture"
   },
   {
     "source": "hn",
-    "url": "https://krebsonsecurity.com/2026/09/data-broker-radaris-loses-domains-in-privacy-fight/",
-    "title": "Data Broker Radaris Loses Domains in Privacy Fight"
+    "url": "https://evanhahn.com/posts/2026-09-13-programmers-dislike-reduce/",
+    "title": "Anecdotally, programmers dislike \"reduce\""
   },
   {
     "source": "hn",
-    "url": "https://blog.jim-nielsen.com/2026/stop-with-the-uptime-percentage/",
-    "title": "Can we stop with the uptime percentages?"
+    "url": "https://cosmicave.org/2026/09/15/why-does-the-universe-expand/",
+    "title": "Why Does the Universe Expand?"
   },
   {
     "source": "hn",
-    "url": "https://barndoor.ai/barndoor-acquires-diaphora/",
-    "title": "Barndoor acquires Diaphora, creators of open-source workflow runtime Frags"
+    "url": "https://opensource.googleblog.com/2022/06/Vectorized%20and%20performance%20portable%20Quicksort.html",
+    "title": "Vectorized and performance-portable Quicksort (2022)"
   },
   {
     "source": "hn",
-    "url": "https://inflightsimulator.com",
-    "title": "Show HN: I made a flight simulator, except you're just a passenger"
+    "url": "https://oldmanrahul.com/2026/09/14/hush/",
+    "title": "I replaced my brown-noise browser tab with a menu bar app"
   },
   {
     "source": "hn",
-    "url": "https://mustafa-suleyman.ai/a-warning-about-model-welfare",
-    "title": "A warning about 'model welfare'"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.cloudx.ai/posts/setup-go",
-    "title": "Scaling Golang CI by Replacing actions/setup-go"
-  },
-  {
-    "source": "hn",
-    "url": "https://testing.googleblog.com/2011/02/this-code-is-crap.html",
-    "title": "This Code Is CRAP (2011)"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://keepitfree.ai/announcements/a/i-shuts-down-stay-human/",
-    "title": "A/I Shuts Down"
+    "url": "https://www.linum.ai/field-notes/jit-ddt",
+    "title": "Training Text-to-Image Models 3.6× Faster"
   },
   {
     "source": "lobsters",
@@ -81,8 +76,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://www.omgubuntu.co.uk/2026/09/ubuntu-2610-rust-coreutils-complete",
-    "title": "Ubuntu 26.10 completes transition to Rust-based coreutils"
+    "url": "https://keepitfree.ai/announcements/a/i-shuts-down-stay-human/",
+    "title": "A/I Shuts Down"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://release.gnome.org/51/",
+    "title": "Introducing GNOME 51"
   },
   {
     "source": "lobsters",
@@ -91,13 +91,23 @@
   },
   {
     "source": "lobsters",
-    "url": "https://distrowatch.com/weekly.php?issue=20260914#qa",
-    "title": "The smallest possible Linux distribution"
+    "url": "https://www.omgubuntu.co.uk/2026/09/ubuntu-2610-rust-coreutils-complete",
+    "title": "Ubuntu 26.10 completes transition to Rust-based coreutils"
   },
   {
     "source": "lobsters",
     "url": "https://blog.jsbarretto.com/post/veloren",
     "title": "Some things Veloren does differently"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://www.unicode.org/versions/Unicode18.0.0/",
+    "title": "Unicode 18.0.0"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://distrowatch.com/weekly.php?issue=20260914#qa",
+    "title": "The smallest possible Linux distribution"
   },
   {
     "source": "lobsters",
@@ -116,18 +126,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://release.gnome.org/51/",
-    "title": "Introducing GNOME 51"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://www.unicode.org/versions/Unicode18.0.0/",
-    "title": "Unicode 18.0.0"
-  },
-  {
-    "source": "lobsters",
     "url": "https://crocidb.com/post/when-the-fractional-part-of-a-float-fixes-your-shader/",
     "title": "When adding a fractional part to a number fixes your shader"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://www.sandordargo.com/blog/2026/09/16/cpp26-trivial-infinite-loops",
+    "title": "C++26: Trivial infinite loops are no longer undefined behaviour"
   },
   {
     "source": "lobsters",
@@ -138,11 +143,6 @@
     "source": "lobsters",
     "url": "https://gothub.org/lists.html",
     "title": "Gothub lists"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://citrons.xyz/journal/2026-09-09",
-    "title": "type declaration syntax"
   },
   {
     "source": "pinboard",
