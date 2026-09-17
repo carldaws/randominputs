@@ -1,13 +1,38 @@
 [
   {
     "source": "hn",
-    "url": "https://global.fujitsu/en-global/pr/news/2026/09/14-02",
-    "title": "Fujitsu launches made-in-Japan next-generation CPU FUJITSU-MONAKA"
+    "url": "https://bend-lang.com/",
+    "title": "Bend – A language that blocks AI mistakes via proof, on CPU and GPU"
+  },
+  {
+    "source": "hn",
+    "url": "https://prismml.com/news/bonsai-2-27b",
+    "title": "Bonsai 2 27B: Near-Lossless Compression in a 9x Smaller Footprint"
   },
   {
     "source": "hn",
     "url": "https://en.wikipedia.org/wiki/Wax_motor",
     "title": "Wax motor"
+  },
+  {
+    "source": "hn",
+    "url": "https://global.fujitsu/en-global/pr/news/2026/09/14-02",
+    "title": "Fujitsu launches made-in-Japan next-generation CPU FUJITSU-MONAKA"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.iankduncan.com/personal/2026-09-16-sex-ai-and-the-apocalypse/",
+    "title": "Sex, AI, and the Apocalypse"
+  },
+  {
+    "source": "hn",
+    "url": "https://flet.dev/",
+    "title": "Flet 1.0 – Build cross-platform apps in Python"
+  },
+  {
+    "source": "hn",
+    "url": "https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/",
+    "title": "How to Write with an LLM"
   },
   {
     "source": "hn",
@@ -21,13 +46,8 @@
   },
   {
     "source": "hn",
-    "url": "https://gowers.wordpress.com/2026/09/17/why-i-didnt-sign-the-fields-medallists-letter/",
-    "title": "Why I didn’t sign the Fields medallists’ letter"
-  },
-  {
-    "source": "hn",
-    "url": "https://jiahao116.github.io/Articles/",
-    "title": "André Weil and the Hodge Conjecture"
+    "url": "https://liamnugent.me/posts/what-you-dont-build/",
+    "title": "The most important product decision is what you don't build"
   },
   {
     "source": "hn",
@@ -41,8 +61,8 @@
   },
   {
     "source": "hn",
-    "url": "https://vhaudiquet.fr/blog/duet-ubuntu/",
-    "title": "Running Ubuntu on the Lenovo IdeaPad Duet"
+    "url": "https://gowers.wordpress.com/2026/09/17/why-i-didnt-sign-the-fields-medallists-letter/",
+    "title": "Why I didn’t sign the Fields medallists’ letter"
   },
   {
     "source": "hn",
@@ -51,43 +71,18 @@
   },
   {
     "source": "hn",
-    "url": "https://joecmarshall.com/posts/vibecoding-is-the-new-internet-dating/",
-    "title": "Vibe Coding is the new Internet Dating?"
+    "url": "https://snapdrop.me",
+    "title": "Show HN: Snapdrop: Instantly share files between devices. No setup, no signup"
   },
   {
     "source": "hn",
-    "url": "https://blog.johnnovak.net/2023/03/05/grand-ms-dos-gaming-general-midi-showdown/",
-    "title": "Grand MS-DOS Gaming General MIDI Showdown"
+    "url": "https://vhaudiquet.fr/blog/duet-ubuntu/",
+    "title": "Running Ubuntu on the Lenovo IdeaPad Duet"
   },
   {
     "source": "hn",
-    "url": "https://blog.melashri.net/micro/public-job-referral/",
-    "title": "Don't Make Job Referrals Public"
-  },
-  {
-    "source": "hn",
-    "url": "https://minimallysufficient.com/posts/llm-classification-is-feature-extraction/",
-    "title": "LLM Classification Is Feature Engineering"
-  },
-  {
-    "source": "hn",
-    "url": "https://jakeasmith.com/blog/http-build-url/",
-    "title": "My temporary PHP fix from 2014 has nearly 20M installs. Today I'm deprecating it"
-  },
-  {
-    "source": "hn",
-    "url": "https://skillbay.sh/",
-    "title": "Show HN: Craigslist for agent skills, curated by a human"
-  },
-  {
-    "source": "hn",
-    "url": "https://nohello.net/en/",
-    "title": "Don't Just Say Hello"
-  },
-  {
-    "source": "hn",
-    "url": "https://whoisinspace.com",
-    "title": "Whoisinspace.com/"
+    "url": "https://jiahao116.github.io/Articles/",
+    "title": "André Weil and the Hodge Conjecture"
   },
   {
     "source": "lobsters",
@@ -101,13 +96,18 @@
   },
   {
     "source": "lobsters",
-    "url": "https://blog.verygoodsoftwarenotvirus.dev/posts/2026/09/12/the-end-of-verygoodsoftwarenotvirus-dot-ru/",
-    "title": "The end of verygoodsoftwarenotvirus.ru"
+    "url": "https://iev.ee/blog/categorize-everything-all-at-once/",
+    "title": "Labeled matches: why is this not in every regex engine?"
   },
   {
     "source": "lobsters",
-    "url": "https://iev.ee/blog/categorize-everything-all-at-once/",
-    "title": "Labeled matches: why is this not in every regex engine?"
+    "url": "https://jakeasmith.com/blog/http-build-url/",
+    "title": "My temporary PHP fix from 2014 has nearly 20M installs. Today I'm deprecating it"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://blog.verygoodsoftwarenotvirus.dev/posts/2026/09/12/the-end-of-verygoodsoftwarenotvirus-dot-ru/",
+    "title": "The end of verygoodsoftwarenotvirus.ru"
   },
   {
     "source": "lobsters",
@@ -116,8 +116,23 @@
   },
   {
     "source": "lobsters",
+    "url": "https://micahflee.com/flock-cameras-are-riddled-with-security-vulnerabilities-and-hard-coded-credentials/",
+    "title": "Flock cameras are riddled with security vulnerabilities and hard-coded credentials"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://markkarpov.com/post/announcing-tilia.html",
+    "title": "Tilia—a new formatter for Haskell"
+  },
+  {
+    "source": "lobsters",
     "url": "https://keepitfree.ai/announcements/a/i-shuts-down-stay-human/",
     "title": "A/I Shuts Down"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://blog.ploeh.dk/2026/09/16/on-learning-programming-in-an-age-of-llms/",
+    "title": "On learning programming in an age of LLMs"
   },
   {
     "source": "lobsters",
@@ -128,11 +143,6 @@
     "source": "lobsters",
     "url": "https://xapp-project.org/",
     "title": "XApp — Apps that work everywhere"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://markkarpov.com/post/announcing-tilia.html",
-    "title": "Tilia—a new formatter for Haskell"
   },
   {
     "source": "lobsters",
@@ -151,23 +161,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://blog.ploeh.dk/2026/09/16/on-learning-programming-in-an-age-of-llms/",
-    "title": "On learning programming in an age of LLMs"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://rust-glancer.github.io/blog/why-lsp-is-hard/",
-    "title": "Why building a Rust LSP is hard"
-  },
-  {
-    "source": "lobsters",
     "url": "https://www.amazon.science/blog/developing-provably-correct-rust-code-with-verus",
     "title": "Developing provably correct Rust code with Verus"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://chrisamico.com/blog/2026-09-12/who-owns-my-stack/",
-    "title": "Who owns my stack?"
   },
   {
     "source": "pinboard",
