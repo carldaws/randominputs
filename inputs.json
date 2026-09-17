@@ -1,8 +1,18 @@
 [
   {
     "source": "hn",
-    "url": "https://ryan.science/blog/keys-not-included",
-    "title": "Keys Not Included: recovering the signing keys for US driver's license barcodes"
+    "url": "https://global.fujitsu/en-global/pr/news/2026/09/14-02",
+    "title": "Fujitsu launches made-in-Japan next-generation CPU FUJITSU-MONAKA"
+  },
+  {
+    "source": "hn",
+    "url": "https://servo.org/blog/2026/09/15/one-year-of-sponsorship/",
+    "title": "One Year of Sponsored Servo Development"
+  },
+  {
+    "source": "hn",
+    "url": "https://flat.social",
+    "title": "Show HN: I built a new version of my fun spatial 3D online meeting app"
   },
   {
     "source": "hn",
@@ -11,8 +21,23 @@
   },
   {
     "source": "hn",
+    "url": "https://manticoresearch.com/blog/auto-chunking/",
+    "title": "Better Vector Search for Long Documents: Chunking Inside Manticore Search"
+  },
+  {
+    "source": "hn",
+    "url": "https://ryan.science/blog/keys-not-included",
+    "title": "Keys Not Included: recovering the signing keys for US driver's license barcodes"
+  },
+  {
+    "source": "hn",
     "url": "https://rohanbansal.com/qorl",
     "title": "Training a 4B model to produce 81% faster query plans than Postgres"
+  },
+  {
+    "source": "hn",
+    "url": "https://z.ai/blog/glm-built-its-inference-infrastructure",
+    "title": "GLM Built Its Own Inference Infrastructure"
   },
   {
     "source": "hn",
@@ -21,8 +46,8 @@
   },
   {
     "source": "hn",
-    "url": "https://filipovski.net/2026/09/16/backups-arent-simple.html",
-    "title": "Backups Aren't Simple"
+    "url": "https://togameforlife.wordpress.com/2023/12/09/on-lucasarts-afterlife/",
+    "title": "Lucasart's Afterlife"
   },
   {
     "source": "hn",
@@ -31,13 +56,33 @@
   },
   {
     "source": "hn",
+    "url": "https://microsoft.github.io/z3guide/",
+    "title": "Online Z3 Guide"
+  },
+  {
+    "source": "hn",
     "url": "https://www.amazon.science/blog/developing-provably-correct-rust-code-with-verus",
     "title": "Developing provably correct Rust code with Verus"
   },
   {
     "source": "hn",
-    "url": "https://labs.watchtowr.com/a-32-year-old-bug-walks-into-a-telnet-server-gnu-inetutils-telnetd-cve-2026-32746/",
-    "title": "A 32-year-old bug walks into a Telnet server"
+    "url": "https://filipovski.net/2026/09/16/backups-arent-simple.html",
+    "title": "Backups Aren't Simple"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.petervijeh.com/projects/reddit-ner",
+    "title": "I had Gemini train its own replacement for $9"
+  },
+  {
+    "source": "hn",
+    "url": "https://harnesstax.github.io/",
+    "title": "HarnessTax: How Much Does the Harness Matter for Coding Agents?"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.wsj.com/world/middle-east/aws-says-it-cant-restore-some-data-from-mideast-facilities-struck-by-iran-ddcb7e5d",
+    "title": "AWS says it can't restore some data from mideast facilities struck by Iran"
   },
   {
     "source": "hn",
@@ -48,36 +93,6 @@
     "source": "hn",
     "url": "https://openspec.dev/",
     "title": "OpenSpec – A lightweight and configurable AI spec framework"
-  },
-  {
-    "source": "hn",
-    "url": "https://a6mzero.com/posts/this-pcb-is-brought-to-you-by-fable-5/",
-    "title": "PCB is brought to you by Fable 5"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.wsj.com/world/middle-east/aws-says-it-cant-restore-some-data-from-mideast-facilities-struck-by-iran-ddcb7e5d",
-    "title": "AWS says it can't restore some data from mideast facilities struck by Iran"
-  },
-  {
-    "source": "hn",
-    "url": "https://harnesstax.github.io/",
-    "title": "HarnessTax: How Much Does the Harness Matter for Coding Agents?"
-  },
-  {
-    "source": "hn",
-    "url": "https://gegell.github.io/posts/factorio-rng/",
-    "title": "Reversing Factorio's RNG"
-  },
-  {
-    "source": "hn",
-    "url": "https://evanhahn.com/posts/2026-09-13-programmers-dislike-reduce/",
-    "title": "Anecdotally, programmers dislike \"reduce\""
-  },
-  {
-    "source": "hn",
-    "url": "https://agentlien.github.io/texture/",
-    "title": "Anatomy of a Texture"
   },
   {
     "source": "lobsters",
@@ -101,33 +116,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://www.sandordargo.com/blog/2026/09/16/cpp26-trivial-infinite-loops",
-    "title": "C++26: Trivial infinite loops are no longer undefined behaviour"
-  },
-  {
-    "source": "lobsters",
     "url": "https://www.unicode.org/versions/Unicode18.0.0/",
     "title": "Unicode 18.0.0"
   },
   {
     "source": "lobsters",
-    "url": "https://rust-glancer.github.io/blog/why-lsp-is-hard/",
-    "title": "Why building a Rust LSP is hard"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://www.omgubuntu.co.uk/2026/09/ubuntu-2610-rust-coreutils-complete",
-    "title": "Ubuntu 26.10 completes transition to Rust-based coreutils"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://blog.jsbarretto.com/post/veloren",
-    "title": "Some things Veloren does differently"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://distrowatch.com/weekly.php?issue=20260914#qa",
-    "title": "The smallest possible Linux distribution"
+    "url": "https://www.sandordargo.com/blog/2026/09/16/cpp26-trivial-infinite-loops",
+    "title": "C++26: Trivial infinite loops are no longer undefined behaviour"
   },
   {
     "source": "lobsters",
@@ -141,112 +136,32 @@
   },
   {
     "source": "lobsters",
-    "url": "https://blog.nlnetlabs.nl/maintaining-the-love-for-coding-in-the-time-of-ai/",
-    "title": "Maintaining the love for coding in the time of AI"
+    "url": "https://rust-glancer.github.io/blog/why-lsp-is-hard/",
+    "title": "Why building a Rust LSP is hard"
   },
   {
     "source": "lobsters",
-    "url": "https://marc.info/?l=openbsd-tech&m=178948744271633&w=2",
-    "title": "GEFS on OpenBSD: A very early preview"
+    "url": "https://gegell.github.io/posts/factorio-rng/",
+    "title": "Reversing Factorio's RNG"
   },
   {
-    "source": "pinboard",
-    "url": "https://typesafe.ai/blog/introducing-system-one-models-and-jev",
-    "title": "System One Models and Jev"
+    "source": "lobsters",
+    "url": "https://blog.ploeh.dk/2026/09/16/on-learning-programming-in-an-age-of-llms/",
+    "title": "On learning programming in an age of LLMs"
   },
   {
-    "source": "pinboard",
-    "url": "https://nvartolomei.com/dist-sys-classics/",
-    "title": "Distributed Systems Classics"
+    "source": "lobsters",
+    "url": "https://xapp-project.org/",
+    "title": "XApp — Apps that work everywhere"
   },
   {
-    "source": "pinboard",
-    "url": "https://seldo.com/posts/we-are-all-product-engineers-now/",
-    "title": "We are all Product Engineers now | Seldo.com"
+    "source": "lobsters",
+    "url": "https://www.omgubuntu.co.uk/2026/09/ubuntu-2610-rust-coreutils-complete",
+    "title": "Ubuntu 26.10 completes transition to Rust-based coreutils"
   },
   {
-    "source": "pinboard",
-    "url": "https://refactoringenglish.com/excerpts/write-an-effective-design-doc/",
-    "title": "How to Write an Effective Software Design Document"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.vals.ai/blogs/fable-solves-cyphral-distich",
-    "title": "Claude Fable 5.1 Solves the Cyphral Distich: We gave Claude Fable 5.1 an open task: solve an unsolved 370-year-old cipher. It solved it within a day. (Vals AI)"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://withcapsule.app/",
-    "title": "Capsule — Documents that run like apps"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://cel.cs.brown.edu/blog/design-space-async-await/",
-    "title": "A Design Space Exploration of Async/Await"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.404media.co/inside-project-lily-the-humans-reading-your-chatgpt-chats/",
-    "title": "Inside ‘Project Lily’: The Humans Reading Your ChatGPT Chats"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://typesafe.ai/",
-    "title": "Home - TypeSafe AI"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.404media.co/theres-a-100-chance-ai-agents-are-already-ruining-the-internet/",
-    "title": "There’s a 100% chance AI agents are already ruining the internet"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://howtounclench.com/",
-    "title": "How to Unclench | Jonny Miller"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://bcantrill.dtrace.org/2026/09/13/the-contagion-of-fear/",
-    "title": "The contagion of fear"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-gemini-3-8-live-extended-thinking/",
-    "title": "Gemini 3.8 Live & Gemini 3.8 Live Extended Thinking"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.linuxfromscratch.org/",
-    "title": "Welcome to Linux From Scratch!"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://daringfireball.net/2026/09/thoughts_and_observations_on_apples_surprise_and_shine_event",
-    "title": "Daring Fireball: Thoughts and Observations on Apple’s ‘Surprise and Shine’ Event; the Announcements of the iPhones 18 Pro, AirPods 5, Apple Watches Series 12 and Ultra 4, and the iPhone Duo; and the Dawn of the Ternus, John Ternus Era at Apple"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://colossus.com/article/mark-zuckerberg-profile/",
-    "title": "Mark Zuckerberg - Colossus"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://desertant.com/",
-    "title": "Desert Ant Labs: On-device AI models and SDKs"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://pop.rdi.sh/dario-please/",
-    "title": "dario, please! - POP RDI; RET;"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://rickiheicklen.com/unparalleled-misalignments.html",
-    "title": "Uparalleled Misalignments - Pairs of non-synonymous phrases where individual words are synonyms"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://scottaaronson.blog/?p=10062",
-    "title": "Shtetl-Optimized » Blog Archive » The Age of Wonders and Terrors"
+    "source": "lobsters",
+    "url": "https://distrowatch.com/weekly.php?issue=20260914#qa",
+    "title": "The smallest possible Linux distribution"
   }
 ]
