@@ -1,6 +1,16 @@
 [
   {
     "source": "hn",
+    "url": "https://ryan.science/blog/keys-not-included",
+    "title": "Keys Not Included: recovering the signing keys for US driver's license barcodes"
+  },
+  {
+    "source": "hn",
+    "url": "https://jakeasmith.com/blog/http-build-url/",
+    "title": "My temporary PHP fix from 2014 has nearly 20M installs. Today I'm deprecating it"
+  },
+  {
+    "source": "hn",
     "url": "https://rohanbansal.com/qorl",
     "title": "Training a 4B model to produce 81% faster query plans than Postgres"
   },
@@ -21,13 +31,18 @@
   },
   {
     "source": "hn",
-    "url": "https://johnjwang.com/post/2026/09/15/engineering-behind-us-strategic-petroleum-reserve",
-    "title": "The engineering behind the US Strategic Petroleum Reserve"
+    "url": "https://www.amazon.science/blog/developing-provably-correct-rust-code-with-verus",
+    "title": "Developing provably correct Rust code with Verus"
   },
   {
     "source": "hn",
-    "url": "https://www.amazon.science/blog/developing-provably-correct-rust-code-with-verus",
-    "title": "Developing provably correct Rust code with Verus"
+    "url": "https://labs.watchtowr.com/a-32-year-old-bug-walks-into-a-telnet-server-gnu-inetutils-telnetd-cve-2026-32746/",
+    "title": "A 32-year-old bug walks into a Telnet server"
+  },
+  {
+    "source": "hn",
+    "url": "https://johnjwang.com/post/2026/09/15/engineering-behind-us-strategic-petroleum-reserve",
+    "title": "The engineering behind the US Strategic Petroleum Reserve"
   },
   {
     "source": "hn",
@@ -36,13 +51,8 @@
   },
   {
     "source": "hn",
-    "url": "https://gegell.github.io/posts/factorio-rng/",
-    "title": "Reversing Factorio's RNG"
-  },
-  {
-    "source": "hn",
-    "url": "https://harnesstax.github.io/",
-    "title": "HarnessTax: How Much Does the Harness Matter for Coding Agents?"
+    "url": "https://a6mzero.com/posts/this-pcb-is-brought-to-you-by-fable-5/",
+    "title": "PCB is brought to you by Fable 5"
   },
   {
     "source": "hn",
@@ -51,33 +61,23 @@
   },
   {
     "source": "hn",
+    "url": "https://harnesstax.github.io/",
+    "title": "HarnessTax: How Much Does the Harness Matter for Coding Agents?"
+  },
+  {
+    "source": "hn",
+    "url": "https://gegell.github.io/posts/factorio-rng/",
+    "title": "Reversing Factorio's RNG"
+  },
+  {
+    "source": "hn",
     "url": "https://evanhahn.com/posts/2026-09-13-programmers-dislike-reduce/",
     "title": "Anecdotally, programmers dislike \"reduce\""
   },
   {
     "source": "hn",
-    "url": "https://cosmicave.org/2026/09/15/why-does-the-universe-expand/",
-    "title": "Why Does the Universe Expand?"
-  },
-  {
-    "source": "hn",
     "url": "https://agentlien.github.io/texture/",
     "title": "Anatomy of a Texture"
-  },
-  {
-    "source": "hn",
-    "url": "https://oldmanrahul.com/2026/09/14/hush/",
-    "title": "I replaced my brown-noise browser tab with a menu bar app"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.linum.ai/field-notes/jit-ddt",
-    "title": "Training Text-to-Image Models 3.6× Faster"
-  },
-  {
-    "source": "hn",
-    "url": "https://ohhelloana.blog/tell-the-speakers/",
-    "title": "Tell the speakers that you liked their talks"
   },
   {
     "source": "lobsters",
@@ -86,18 +86,33 @@
   },
   {
     "source": "lobsters",
-    "url": "https://keepitfree.ai/announcements/a/i-shuts-down-stay-human/",
-    "title": "A/I Shuts Down"
-  },
-  {
-    "source": "lobsters",
     "url": "https://release.gnome.org/51/",
     "title": "Introducing GNOME 51"
   },
   {
     "source": "lobsters",
+    "url": "https://keepitfree.ai/announcements/a/i-shuts-down-stay-human/",
+    "title": "A/I Shuts Down"
+  },
+  {
+    "source": "lobsters",
     "url": "https://dank.systems/posts/2026-09-15-ai-bear.html",
     "title": "Why i'm still bearish on LLMs after Navier-Stokes"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://www.sandordargo.com/blog/2026/09/16/cpp26-trivial-infinite-loops",
+    "title": "C++26: Trivial infinite loops are no longer undefined behaviour"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://www.unicode.org/versions/Unicode18.0.0/",
+    "title": "Unicode 18.0.0"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://rust-glancer.github.io/blog/why-lsp-is-hard/",
+    "title": "Why building a Rust LSP is hard"
   },
   {
     "source": "lobsters",
@@ -116,23 +131,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://www.unicode.org/versions/Unicode18.0.0/",
-    "title": "Unicode 18.0.0"
+    "url": "https://markkarpov.com/post/announcing-tilia.html",
+    "title": "Tilia—a new formatter for Haskell"
   },
   {
     "source": "lobsters",
-    "url": "https://www.sandordargo.com/blog/2026/09/16/cpp26-trivial-infinite-loops",
-    "title": "C++26: Trivial infinite loops are no longer undefined behaviour"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://rust-glancer.github.io/blog/why-lsp-is-hard/",
-    "title": "Why building a Rust LSP is hard"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://marc.info/?l=openbsd-tech&m=178948744271633&w=2",
-    "title": "GEFS on OpenBSD: A very early preview"
+    "url": "https://alexwlchan.net/2026/cat-confusion/",
+    "title": "Why .tar.gz files can't be combined with cat"
   },
   {
     "source": "lobsters",
@@ -141,33 +146,18 @@
   },
   {
     "source": "lobsters",
-    "url": "https://crocidb.com/post/when-the-fractional-part-of-a-float-fixes-your-shader/",
-    "title": "When adding a fractional part to a number fixes your shader"
+    "url": "https://marc.info/?l=openbsd-tech&m=178948744271633&w=2",
+    "title": "GEFS on OpenBSD: A very early preview"
   },
   {
-    "source": "lobsters",
-    "url": "https://citrons.xyz/journal/2026-09-09",
-    "title": "type declaration syntax"
+    "source": "pinboard",
+    "url": "https://typesafe.ai/blog/introducing-system-one-models-and-jev",
+    "title": "System One Models and Jev"
   },
   {
     "source": "pinboard",
     "url": "https://nvartolomei.com/dist-sys-classics/",
     "title": "Distributed Systems Classics"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://bcantrill.dtrace.org/2026/09/13/the-contagion-of-fear/",
-    "title": "The contagion of fear"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.vals.ai/blogs/fable-solves-cyphral-distich",
-    "title": "Claude Fable 5.1 Solves the Cyphral Distich: We gave Claude Fable 5.1 an open task: solve an unsolved 370-year-old cipher. It solved it within a day. (Vals AI)"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://aiandeducation.mit.edu/report/",
-    "title": "Report – AI and Education"
   },
   {
     "source": "pinboard",
@@ -181,48 +171,13 @@
   },
   {
     "source": "pinboard",
-    "url": "https://www.404media.co/inside-project-lily-the-humans-reading-your-chatgpt-chats/",
-    "title": "Inside ‘Project Lily’: The Humans Reading Your ChatGPT Chats"
+    "url": "https://www.vals.ai/blogs/fable-solves-cyphral-distich",
+    "title": "Claude Fable 5.1 Solves the Cyphral Distich: We gave Claude Fable 5.1 an open task: solve an unsolved 370-year-old cipher. It solved it within a day. (Vals AI)"
   },
   {
     "source": "pinboard",
-    "url": "https://jetkvm.com/blog/introducing-jetkvm-mini",
-    "title": "Introducing JetKVM Mini - JetKVM"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://transitions.dev/",
-    "title": "Transitions.dev — Essential transitions for web apps"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://high5apps.github.io/josm-plugin-website-wizard/",
-    "title": "Make Your First Edit to OpenStreetMap in the Next 15 Minutes | Website Wizard JOSM Plugin"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://knap.md/",
-    "title": "Knap · Turn data into Markdown"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://terrytao.wordpress.com/2026/09/11/a-severe-misalignment-of-ai-in-mathematics/",
-    "title": "A Severe Misalignment of AI in Mathematics – What's new"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://fatcousin.com/",
-    "title": "fatcousin — 5200 free local-first browser tools"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://colossus.com/article/mark-zuckerberg-profile/",
-    "title": "Mark Zuckerberg - Colossus"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.linuxfromscratch.org/",
-    "title": "Welcome to Linux From Scratch!"
+    "url": "https://withcapsule.app/",
+    "title": "Capsule — Documents that run like apps"
   },
   {
     "source": "pinboard",
@@ -231,8 +186,53 @@
   },
   {
     "source": "pinboard",
-    "url": "https://www.details.so/inspo",
-    "title": "Details.so — Web design inspiration from the world's best sites"
+    "url": "https://www.404media.co/inside-project-lily-the-humans-reading-your-chatgpt-chats/",
+    "title": "Inside ‘Project Lily’: The Humans Reading Your ChatGPT Chats"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://typesafe.ai/",
+    "title": "Home - TypeSafe AI"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.404media.co/theres-a-100-chance-ai-agents-are-already-ruining-the-internet/",
+    "title": "There’s a 100% chance AI agents are already ruining the internet"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://howtounclench.com/",
+    "title": "How to Unclench | Jonny Miller"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://bcantrill.dtrace.org/2026/09/13/the-contagion-of-fear/",
+    "title": "The contagion of fear"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-gemini-3-8-live-extended-thinking/",
+    "title": "Gemini 3.8 Live & Gemini 3.8 Live Extended Thinking"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.linuxfromscratch.org/",
+    "title": "Welcome to Linux From Scratch!"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://daringfireball.net/2026/09/thoughts_and_observations_on_apples_surprise_and_shine_event",
+    "title": "Daring Fireball: Thoughts and Observations on Apple’s ‘Surprise and Shine’ Event; the Announcements of the iPhones 18 Pro, AirPods 5, Apple Watches Series 12 and Ultra 4, and the iPhone Duo; and the Dawn of the Ternus, John Ternus Era at Apple"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://colossus.com/article/mark-zuckerberg-profile/",
+    "title": "Mark Zuckerberg - Colossus"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://desertant.com/",
+    "title": "Desert Ant Labs: On-device AI models and SDKs"
   },
   {
     "source": "pinboard",
@@ -241,7 +241,12 @@
   },
   {
     "source": "pinboard",
-    "url": "https://typesafe.ai/blog/introducing-system-one-models-and-jev",
-    "title": "System One Models and Jev"
+    "url": "https://rickiheicklen.com/unparalleled-misalignments.html",
+    "title": "Uparalleled Misalignments - Pairs of non-synonymous phrases where individual words are synonyms"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://scottaaronson.blog/?p=10062",
+    "title": "Shtetl-Optimized » Blog Archive » The Age of Wonders and Terrors"
   }
 ]
