@@ -11,8 +11,8 @@
   },
   {
     "source": "hn",
-    "url": "https://openspec.dev/",
-    "title": "OpenSpec – A lightweight and configurable AI spec framework"
+    "url": "https://filipovski.net/2026/09/16/backups-arent-simple.html",
+    "title": "Backups Aren't Simple"
   },
   {
     "source": "hn",
@@ -21,8 +21,18 @@
   },
   {
     "source": "hn",
-    "url": "https://filipovski.net/2026/09/16/backups-arent-simple.html",
-    "title": "Backups Aren't Simple"
+    "url": "https://johnjwang.com/post/2026/09/15/engineering-behind-us-strategic-petroleum-reserve",
+    "title": "The engineering behind the US Strategic Petroleum Reserve"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.amazon.science/blog/developing-provably-correct-rust-code-with-verus",
+    "title": "Developing provably correct Rust code with Verus"
+  },
+  {
+    "source": "hn",
+    "url": "https://openspec.dev/",
+    "title": "OpenSpec – A lightweight and configurable AI spec framework"
   },
   {
     "source": "hn",
@@ -31,18 +41,13 @@
   },
   {
     "source": "hn",
-    "url": "https://johnjwang.com/post/2026/09/15/engineering-behind-us-strategic-petroleum-reserve",
-    "title": "The engineering behind the US Strategic Petroleum Reserve"
+    "url": "https://harnesstax.github.io/",
+    "title": "HarnessTax: How Much Does the Harness Matter for Coding Agents?"
   },
   {
     "source": "hn",
     "url": "https://www.wsj.com/world/middle-east/aws-says-it-cant-restore-some-data-from-mideast-facilities-struck-by-iran-ddcb7e5d",
     "title": "AWS says it can't restore some data from mideast facilities struck by Iran"
-  },
-  {
-    "source": "hn",
-    "url": "https://agentlien.github.io/texture/",
-    "title": "Anatomy of a Texture"
   },
   {
     "source": "hn",
@@ -56,8 +61,8 @@
   },
   {
     "source": "hn",
-    "url": "https://opensource.googleblog.com/2022/06/Vectorized%20and%20performance%20portable%20Quicksort.html",
-    "title": "Vectorized and performance-portable Quicksort (2022)"
+    "url": "https://agentlien.github.io/texture/",
+    "title": "Anatomy of a Texture"
   },
   {
     "source": "hn",
@@ -68,6 +73,11 @@
     "source": "hn",
     "url": "https://www.linum.ai/field-notes/jit-ddt",
     "title": "Training Text-to-Image Models 3.6× Faster"
+  },
+  {
+    "source": "hn",
+    "url": "https://ohhelloana.blog/tell-the-speakers/",
+    "title": "Tell the speakers that you liked their talks"
   },
   {
     "source": "lobsters",
@@ -101,13 +111,23 @@
   },
   {
     "source": "lobsters",
+    "url": "https://distrowatch.com/weekly.php?issue=20260914#qa",
+    "title": "The smallest possible Linux distribution"
+  },
+  {
+    "source": "lobsters",
     "url": "https://www.unicode.org/versions/Unicode18.0.0/",
     "title": "Unicode 18.0.0"
   },
   {
     "source": "lobsters",
-    "url": "https://distrowatch.com/weekly.php?issue=20260914#qa",
-    "title": "The smallest possible Linux distribution"
+    "url": "https://www.sandordargo.com/blog/2026/09/16/cpp26-trivial-infinite-loops",
+    "title": "C++26: Trivial infinite loops are no longer undefined behaviour"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://rust-glancer.github.io/blog/why-lsp-is-hard/",
+    "title": "Why building a Rust LSP is hard"
   },
   {
     "source": "lobsters",
@@ -121,28 +141,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://rust-glancer.github.io/blog/why-lsp-is-hard/",
-    "title": "Why building a Rust LSP is hard"
-  },
-  {
-    "source": "lobsters",
     "url": "https://crocidb.com/post/when-the-fractional-part-of-a-float-fixes-your-shader/",
     "title": "When adding a fractional part to a number fixes your shader"
   },
   {
     "source": "lobsters",
-    "url": "https://www.sandordargo.com/blog/2026/09/16/cpp26-trivial-infinite-loops",
-    "title": "C++26: Trivial infinite loops are no longer undefined behaviour"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://acadia.engineering/blog/simple-and-efficient-row-level-security",
-    "title": "Simple and Efficient Row-Level Security"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://gothub.org/lists.html",
-    "title": "Gothub lists"
+    "url": "https://citrons.xyz/journal/2026-09-09",
+    "title": "type declaration syntax"
   },
   {
     "source": "pinboard",
