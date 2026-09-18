@@ -1,8 +1,18 @@
 [
   {
     "source": "hn",
+    "url": "https://blog.cloudflare.com/saving-100-tb-of-ram-with-math/",
+    "title": "Saving another 100TB of RAM"
+  },
+  {
+    "source": "hn",
     "url": "https://donjon.ledger.com/blog/rp2350-secure-debug-laser-fault-injection/",
     "title": "Photon-Emission-Guided Laser Fault Injection Enables RP2350 Secure Debug"
+  },
+  {
+    "source": "hn",
+    "url": "https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/",
+    "title": "How to Write with an LLM"
   },
   {
     "source": "hn",
@@ -16,8 +26,13 @@
   },
   {
     "source": "hn",
-    "url": "https://brand.systemd.io/",
-    "title": "Systemd is a suite of basic building blocks"
+    "url": "https://blog.ndepend.com/understanding-cyclomatic-complexity/",
+    "title": "Cyclomatic Complexity in C#"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.nationalgeographic.com/animals/article/meet-the-first-new-cat-species-discovered-in-100-years",
+    "title": "The first new cat species discovered in 100 years"
   },
   {
     "source": "hn",
@@ -26,8 +41,13 @@
   },
   {
     "source": "hn",
-    "url": "https://www.ax-check.com/",
-    "title": "Show HN: Ax-check.com – Can agents use your product?"
+    "url": "https://antfly.io/research/antfly-zig",
+    "title": "A search-and-inference database from scratch in pure Zig"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.koreajoongangdaily.com/business/korea-raises-data-breach-fines-to-10-of-revenue/12869899",
+    "title": "Korea raises data breach fines to 10% of revenue"
   },
   {
     "source": "hn",
@@ -36,38 +56,28 @@
   },
   {
     "source": "hn",
-    "url": "https://www.hacktron.ai/blog/hacking-openai",
-    "title": "A heap overflow and SSO misconfiguration to compromise OpenAI internal repos"
-  },
-  {
-    "source": "hn",
     "url": "https://blog.ferstar.org/en/posts/zcode-silent-workspace-snapshot-upload/",
     "title": "Inside ZCode: Silently uploading your Git history to the cloud"
   },
   {
     "source": "hn",
+    "url": "https://archive.org/details/b904a8eb-9c98-4bb1-bf25-3cb9d075b157",
+    "title": "Warez: The Infrastructure and Aesthetics of Piracy (2021)"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.ax-check.com/",
+    "title": "Show HN: Ax-check.com – Can agents use your product?"
+  },
+  {
+    "source": "lobsters",
     "url": "https://hawksley.dev/blog/i-dont-like-passkeys",
     "title": "I don't like passkeys"
   },
   {
-    "source": "hn",
-    "url": "https://fex-emu.com/Scourge-of-emulation/",
-    "title": "The scourge of x86 emulation"
-  },
-  {
-    "source": "hn",
-    "url": "https://gods.art/articles/equation_shadows",
-    "title": "The Shadows Lurking in the Equations – Underwater Islands"
-  },
-  {
-    "source": "hn",
-    "url": "https://beanshell.github.io/home.html",
-    "title": "BeanShell3 in Development"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.miro.vision/index.php/2026/09/17/grasslobbster/",
-    "title": "GrassLobster: AI Agentic Generation of Parametric Geometry Workflows"
+    "source": "lobsters",
+    "url": "https://danluu.com/brain-off/",
+    "title": "There's no point at which turning your brain off will work"
   },
   {
     "source": "lobsters",
@@ -76,18 +86,23 @@
   },
   {
     "source": "lobsters",
+    "url": "https://davidlattimore.github.io/posts/2026/09/18/benchmarking-wild-vs-mold.html",
+    "title": "Benchmarking Wild vs Mold"
+  },
+  {
+    "source": "lobsters",
     "url": "https://micahflee.com/flock-cameras-are-riddled-with-security-vulnerabilities-and-hard-coded-credentials/",
     "title": "Flock cameras are riddled with security vulnerabilities and hard-coded credentials"
   },
   {
     "source": "lobsters",
-    "url": "https://verdagon.dev/blog/golden-spike-reviving-vale-valen",
-    "title": "The Golden Spike, and Resurrecting the Vale(n) Programming Language"
+    "url": "https://crumbles.blog/posts/2026-09-17-immutable-mutable.html",
+    "title": "FAQ: Why isn’t mutable a subtype of immutable, or vice versa?"
   },
   {
     "source": "lobsters",
-    "url": "https://crumbles.blog/posts/2026-09-17-immutable-mutable.html",
-    "title": "FAQ: Why isn’t mutable a subtype of immutable, or vice versa?"
+    "url": "https://verdagon.dev/blog/golden-spike-reviving-vale-valen",
+    "title": "The Golden Spike, and Resurrecting the Vale(n) Programming Language"
   },
   {
     "source": "lobsters",
@@ -101,8 +116,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://danluu.com/brain-off/",
-    "title": "There's no point at which turning your brain off will work"
+    "url": "https://www.hacktron.ai/blog/hacking-openai",
+    "title": "Hacking OpenAI"
   },
   {
     "source": "lobsters",
@@ -116,11 +131,6 @@
   },
   {
     "source": "lobsters",
-    "url": "https://davidlattimore.github.io/posts/2026/09/18/benchmarking-wild-vs-mold.html",
-    "title": "Benchmarking Wild vs Mold"
-  },
-  {
-    "source": "lobsters",
     "url": "https://prismml.com/news/bonsai-2-27b",
     "title": "Bonsai 2 27B: Near-Lossless Compression in a 9x Smaller Footprint"
   },
@@ -131,8 +141,18 @@
   },
   {
     "source": "lobsters",
+    "url": "https://vale.sh",
+    "title": "Vale, code-like linting for prose"
+  },
+  {
+    "source": "lobsters",
     "url": "https://seclists.org/oss-sec/2026/q3/822",
     "title": "A quartet of Linux local root vulns: DirtyAH6, PPPoEject, TUNderflow, and DiagSpill"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://phk.freebsd.dk/sagas/bikeshed/",
+    "title": "The Bikeshed email — PHKs Bikeshed"
   },
   {
     "source": "pinboard",
