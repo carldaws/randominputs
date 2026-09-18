@@ -1,8 +1,18 @@
 [
   {
     "source": "hn",
-    "url": "https://www.hacktron.ai/blog/hacking-openai",
-    "title": "Hacking OpenAI"
+    "url": "https://blog.liampwll.com/posts/bend_vibe_coding/",
+    "title": "Bend 2 and the Vibe-Coding Trap"
+  },
+  {
+    "source": "hn",
+    "url": "https://openjev.com/",
+    "title": "OpenJev"
+  },
+  {
+    "source": "hn",
+    "url": "https://hawksley.dev/blog/i-dont-like-passkeys",
+    "title": "I don't like passkeys"
   },
   {
     "source": "hn",
@@ -16,13 +26,13 @@
   },
   {
     "source": "hn",
-    "url": "https://bend-lang.com/",
-    "title": "Bend – A language that blocks AI mistakes via proof, on CPU and GPU"
+    "url": "https://lemire.me/blog/2026/09/15/subnormal-floating-point-numbers-are-expensive-on-intel-processors/",
+    "title": "Subnormal floating-point numbers are expensive on Intel processors"
   },
   {
     "source": "hn",
-    "url": "https://linguisticdiscovery.com/posts/pre-greek/",
-    "title": "Pre-Greek: The lost language hidden within Ancient Greek"
+    "url": "https://bend-lang.com/",
+    "title": "Bend – A language that blocks AI mistakes via proof, on CPU and GPU"
   },
   {
     "source": "hn",
@@ -36,13 +46,18 @@
   },
   {
     "source": "hn",
+    "url": "https://crocidb.com/post/when-the-fractional-part-of-a-float-fixes-your-shader/",
+    "title": "When the fractional part of a float fixes your shader"
+  },
+  {
+    "source": "hn",
     "url": "https://global.fujitsu/en-global/pr/news/2026/09/14-02",
     "title": "Fujitsu launches made-in-Japan next-generation CPU FUJITSU-MONAKA"
   },
   {
     "source": "hn",
-    "url": "https://byteshape.com/blogs/Qwen3.8-27B/",
-    "title": "Shapelearn Qwen 3.8 27B (13.1 GB VRAM)"
+    "url": "https://linguisticdiscovery.com/posts/pre-greek/",
+    "title": "Pre-Greek: The lost language hidden within Ancient Greek"
   },
   {
     "source": "hn",
@@ -51,8 +66,13 @@
   },
   {
     "source": "hn",
-    "url": "https://flet.dev/",
-    "title": "Flet 1.0 – Build cross-platform apps in Python"
+    "url": "https://www.hacktron.ai/blog/hacking-openai",
+    "title": "A heap overflow and SSO misconfiguration to compromise OpenAI internal repos"
+  },
+  {
+    "source": "hn",
+    "url": "https://byteshape.com/blogs/Qwen3.8-27B/",
+    "title": "Shapelearn Qwen 3.8 27B (13.1 GB VRAM)"
   },
   {
     "source": "hn",
@@ -61,38 +81,18 @@
   },
   {
     "source": "hn",
-    "url": "https://www.downtowndougbrown.com/2026/09/fixing-an-nzxt-signal-4k30-part-2-the-green-pink-video-bug/",
-    "title": "Fixing an NZXT Signal 4K30 part 2: the green/pink video bug"
+    "url": "https://flet.dev/",
+    "title": "Flet 1.0 – Build cross-platform apps in Python"
   },
   {
     "source": "hn",
-    "url": "https://liamnugent.me/posts/what-you-dont-build/",
-    "title": "The most important product decision is what you don't build"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.khipufieldguide.com/",
-    "title": "Khipu (Quipu) Field Guide"
+    "url": "https://sam.dev/blog/gearhash-on-arm64",
+    "title": "Speeding up gearhash on ARM64"
   },
   {
     "source": "hn",
     "url": "https://gowers.wordpress.com/2026/09/17/why-i-didnt-sign-the-fields-medallists-letter/",
     "title": "Why I didn’t sign the Fields medallists’ letter"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.crowdsec.net/blog/crowdsec-statement-source-code-exposure",
-    "title": "CrowdSec Source Code Leak"
-  },
-  {
-    "source": "hn",
-    "url": "https://snapdrop.me",
-    "title": "Show HN: Snapdrop: Instantly share files between devices. No setup, no signup"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://verdagon.dev/blog/golden-spike-reviving-vale-valen",
-    "title": "The Golden Spike, and Resurrecting the Vale(n) Programming Language"
   },
   {
     "source": "lobsters",
@@ -106,8 +106,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://iev.ee/blog/categorize-everything-all-at-once/",
-    "title": "Labeled matches: why is this not in every regex engine?"
+    "url": "https://verdagon.dev/blog/golden-spike-reviving-vale-valen",
+    "title": "The Golden Spike, and Resurrecting the Vale(n) Programming Language"
   },
   {
     "source": "lobsters",
@@ -116,8 +116,18 @@
   },
   {
     "source": "lobsters",
+    "url": "https://iev.ee/blog/categorize-everything-all-at-once/",
+    "title": "Labeled matches: why is this not in every regex engine?"
+  },
+  {
+    "source": "lobsters",
     "url": "https://jakeasmith.com/blog/http-build-url/",
     "title": "My temporary PHP fix from 2014 has nearly 20M installs. Today I'm deprecating it"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://giodicanio.com/2026/09/11/the-c-plus-plus-20-s-u8-char8_t-fiasco/",
+    "title": "The C++20’s u8/char8_t Backward-Compatibility Fiasco"
   },
   {
     "source": "lobsters",
@@ -131,6 +141,11 @@
   },
   {
     "source": "lobsters",
+    "url": "https://seclists.org/oss-sec/2026/q3/822",
+    "title": "A quartet of Linux local root vulns: DirtyAH6, PPPoEject, TUNderflow, and DiagSpill"
+  },
+  {
+    "source": "lobsters",
     "url": "https://release.gnome.org/51/",
     "title": "Introducing GNOME 51"
   },
@@ -138,41 +153,6 @@
     "source": "lobsters",
     "url": "https://blog.ploeh.dk/2026/09/16/on-learning-programming-in-an-age-of-llms/",
     "title": "On learning programming in an age of LLMs"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://markkarpov.com/post/announcing-tilia.html",
-    "title": "Tilia—a new formatter for Haskell"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://harnesstax.github.io/",
-    "title": "HarnessTax: How Much Does the Harness Matter for Coding Agents?"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://keepitfree.ai/announcements/a/i-shuts-down-stay-human/",
-    "title": "A/I Shuts Down"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://alexwlchan.net/2026/cat-confusion/",
-    "title": "Why .tar.gz files can't be combined with cat"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://xapp-project.org/",
-    "title": "XApp — Apps that work everywhere"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://dank.systems/posts/2026-09-15-ai-bear.html",
-    "title": "Why i'm still bearish on LLMs after Navier-Stokes"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://www.unicode.org/versions/Unicode18.0.0/",
-    "title": "Unicode 18.0.0"
   },
   {
     "source": "pinboard",
@@ -188,6 +168,11 @@
     "source": "pinboard",
     "url": "https://typesafe.ai/",
     "title": "Home - TypeSafe AI"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://dank.systems/posts/2026-09-15-ai-bear.html",
+    "title": "why i'm still bearish on LLMs after navier-stokes | jay kruer"
   },
   {
     "source": "pinboard",
