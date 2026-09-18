@@ -1,18 +1,8 @@
 [
   {
     "source": "hn",
-    "url": "https://overreacted.io/how-i-vibed-a-proof-of-conways-conjecture/",
-    "title": "I vibed a proof of Conway's conjecture"
-  },
-  {
-    "source": "hn",
-    "url": "https://openjev.com/",
-    "title": "OpenJev"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.sandordargo.com/blog/2026/09/16/cpp26-trivial-infinite-loops",
-    "title": "C++26: Trivial infinite loops are no longer undefined behaviour"
+    "url": "https://donjon.ledger.com/blog/rp2350-secure-debug-laser-fault-injection/",
+    "title": "Photon-Emission-Guided Laser Fault Injection Enables RP2350 Secure Debug"
   },
   {
     "source": "hn",
@@ -21,8 +11,28 @@
   },
   {
     "source": "hn",
-    "url": "https://hawksley.dev/blog/i-dont-like-passkeys",
-    "title": "I don't like passkeys"
+    "url": "https://openjev.com/",
+    "title": "OpenJev"
+  },
+  {
+    "source": "hn",
+    "url": "https://brand.systemd.io/",
+    "title": "Systemd is a suite of basic building blocks"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.sandordargo.com/blog/2026/09/16/cpp26-trivial-infinite-loops",
+    "title": "C++26: Trivial infinite loops are no longer undefined behaviour"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.ax-check.com/",
+    "title": "Show HN: Ax-check.com – Can agents use your product?"
+  },
+  {
+    "source": "hn",
+    "url": "https://overreacted.io/how-i-vibed-a-proof-of-conways-conjecture/",
+    "title": "I vibed a proof of Conway's conjecture"
   },
   {
     "source": "hn",
@@ -31,13 +41,13 @@
   },
   {
     "source": "hn",
-    "url": "https://www.miro.vision/index.php/2026/09/17/grasslobbster/",
-    "title": "GrassLobster: AI Agentic Generation of Parametric Geometry Workflows"
+    "url": "https://blog.ferstar.org/en/posts/zcode-silent-workspace-snapshot-upload/",
+    "title": "Inside ZCode: Silently uploading your Git history to the cloud"
   },
   {
     "source": "hn",
-    "url": "https://gods.art/articles/equation_shadows",
-    "title": "The Shadows Lurking in the Equations – Underwater Islands"
+    "url": "https://hawksley.dev/blog/i-dont-like-passkeys",
+    "title": "I don't like passkeys"
   },
   {
     "source": "hn",
@@ -46,18 +56,8 @@
   },
   {
     "source": "hn",
-    "url": "https://prismml.com/news/bonsai-2-27b",
-    "title": "Bonsai 2 27B: Near-Lossless Compression in a 9x Smaller Footprint"
-  },
-  {
-    "source": "hn",
-    "url": "https://knightcolumbia.org/content/second-circuit-allows-government-to-search-electronic-devices-at-the-border-without-any-suspicion",
-    "title": "Second Circuit Allows Government to Search Electronic Devices at the Border"
-  },
-  {
-    "source": "hn",
-    "url": "https://qwen.ai/blog?id=qwen3.8-omni-flash",
-    "title": "Qwen 3.8 Omni Flash"
+    "url": "https://gods.art/articles/equation_shadows",
+    "title": "The Shadows Lurking in the Equations – Underwater Islands"
   },
   {
     "source": "hn",
@@ -66,23 +66,8 @@
   },
   {
     "source": "hn",
-    "url": "https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/",
-    "title": "How to Write with an LLM"
-  },
-  {
-    "source": "hn",
-    "url": "https://linguisticdiscovery.com/posts/pre-greek/",
-    "title": "Pre-Greek: The lost language hidden within Ancient Greek"
-  },
-  {
-    "source": "hn",
-    "url": "https://crocidb.com/post/when-the-fractional-part-of-a-float-fixes-your-shader/",
-    "title": "When the fractional part of a float fixes your shader"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://micahflee.com/flock-cameras-are-riddled-with-security-vulnerabilities-and-hard-coded-credentials/",
-    "title": "Flock cameras are riddled with security vulnerabilities and hard-coded credentials"
+    "url": "https://www.miro.vision/index.php/2026/09/17/grasslobbster/",
+    "title": "GrassLobster: AI Agentic Generation of Parametric Geometry Workflows"
   },
   {
     "source": "lobsters",
@@ -91,8 +76,23 @@
   },
   {
     "source": "lobsters",
+    "url": "https://micahflee.com/flock-cameras-are-riddled-with-security-vulnerabilities-and-hard-coded-credentials/",
+    "title": "Flock cameras are riddled with security vulnerabilities and hard-coded credentials"
+  },
+  {
+    "source": "lobsters",
     "url": "https://verdagon.dev/blog/golden-spike-reviving-vale-valen",
     "title": "The Golden Spike, and Resurrecting the Vale(n) Programming Language"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://crumbles.blog/posts/2026-09-17-immutable-mutable.html",
+    "title": "FAQ: Why isn’t mutable a subtype of immutable, or vice versa?"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://giodicanio.com/2026/09/11/the-c-plus-plus-20-s-u8-char8_t-fiasco/",
+    "title": "The C++20’s u8/char8_t Backward-Compatibility Fiasco"
   },
   {
     "source": "lobsters",
@@ -101,8 +101,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://giodicanio.com/2026/09/11/the-c-plus-plus-20-s-u8-char8_t-fiasco/",
-    "title": "The C++20’s u8/char8_t Backward-Compatibility Fiasco"
+    "url": "https://danluu.com/brain-off/",
+    "title": "There's no point at which turning your brain off will work"
   },
   {
     "source": "lobsters",
@@ -116,23 +116,23 @@
   },
   {
     "source": "lobsters",
-    "url": "https://crumbles.blog/posts/2026-09-17-immutable-mutable.html",
-    "title": "FAQ: Why isn’t mutable a subtype of immutable, or vice versa?"
+    "url": "https://davidlattimore.github.io/posts/2026/09/18/benchmarking-wild-vs-mold.html",
+    "title": "Benchmarking Wild vs Mold"
   },
   {
     "source": "lobsters",
-    "url": "https://jakeasmith.com/blog/http-build-url/",
-    "title": "My temporary PHP fix from 2014 has nearly 20M installs. Today I'm deprecating it"
+    "url": "https://prismml.com/news/bonsai-2-27b",
+    "title": "Bonsai 2 27B: Near-Lossless Compression in a 9x Smaller Footprint"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://internetphonebook.net/",
+    "title": "Internet Phone Book"
   },
   {
     "source": "lobsters",
     "url": "https://seclists.org/oss-sec/2026/q3/822",
     "title": "A quartet of Linux local root vulns: DirtyAH6, PPPoEject, TUNderflow, and DiagSpill"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://blog.verygoodsoftwarenotvirus.dev/posts/2026/09/12/the-end-of-verygoodsoftwarenotvirus-dot-ru/",
-    "title": "The end of verygoodsoftwarenotvirus.ru"
   },
   {
     "source": "pinboard",
