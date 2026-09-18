@@ -1,13 +1,13 @@
 [
   {
     "source": "hn",
-    "url": "https://bend-lang.com/",
-    "title": "Bend – A language that blocks AI mistakes via proof, on CPU and GPU"
+    "url": "https://prismml.com/news/bonsai-2-27b",
+    "title": "Bonsai 2 27B: Near-Lossless Compression in a 9x Smaller Footprint"
   },
   {
     "source": "hn",
-    "url": "https://prismml.com/news/bonsai-2-27b",
-    "title": "Bonsai 2 27B: Near-Lossless Compression in a 9x Smaller Footprint"
+    "url": "https://bend-lang.com/",
+    "title": "Bend – A language that blocks AI mistakes via proof, on CPU and GPU"
   },
   {
     "source": "hn",
@@ -21,8 +21,8 @@
   },
   {
     "source": "hn",
-    "url": "https://www.iankduncan.com/personal/2026-09-16-sex-ai-and-the-apocalypse/",
-    "title": "Sex, AI, and the Apocalypse"
+    "url": "https://qwen.ai/blog?id=qwen3.8-omni-flash",
+    "title": "Alibaba releases Qwen 3.8 Omni Flash"
   },
   {
     "source": "hn",
@@ -31,18 +31,13 @@
   },
   {
     "source": "hn",
-    "url": "https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/",
-    "title": "How to Write with an LLM"
-  },
-  {
-    "source": "hn",
     "url": "https://www.crowdsec.net/blog/crowdsec-statement-source-code-exposure",
     "title": "CrowdSec Source Code Leak"
   },
   {
     "source": "hn",
-    "url": "https://about.gitlab.com/blog/rate-limit-change-2026/",
-    "title": "Rate limits on GitLab.com are changing"
+    "url": "https://playtaurus.com/blog/i-put-nam-a2-lite-inside-an-irig-hd-x",
+    "title": "I Put Nam A2-Lite Inside an iRig HD X"
   },
   {
     "source": "hn",
@@ -51,28 +46,23 @@
   },
   {
     "source": "hn",
-    "url": "https://zscc.ai/careers?job_id=109821",
-    "title": "Zettascale (YC S24) Is Hiring ASIC/FPGA Engineers to Build Chips for ASI"
-  },
-  {
-    "source": "hn",
-    "url": "https://z.ai/blog/glm-built-its-inference-infrastructure",
-    "title": "How GLM built its own inference infrastructure"
-  },
-  {
-    "source": "hn",
     "url": "https://gowers.wordpress.com/2026/09/17/why-i-didnt-sign-the-fields-medallists-letter/",
     "title": "Why I didn’t sign the Fields medallists’ letter"
   },
   {
     "source": "hn",
-    "url": "https://servo.org/blog/2026/09/15/one-year-of-sponsorship/",
-    "title": "One year of sponsored Servo development"
+    "url": "https://about.gitlab.com/blog/rate-limit-change-2026/",
+    "title": "Rate limits on GitLab.com are changing"
   },
   {
     "source": "hn",
-    "url": "https://snapdrop.me",
-    "title": "Show HN: Snapdrop: Instantly share files between devices. No setup, no signup"
+    "url": "https://inspire.eaa.org/2019/05/16/landing-the-space-shuttle-an-incredible-flying-machine-and-the-thrill-of-a-lifetime/",
+    "title": "Landing the Space Shuttle – A Flying Machine and the Thrill of a Lifetime"
+  },
+  {
+    "source": "hn",
+    "url": "https://zscc.ai/careers?job_id=109821",
+    "title": "Zettascale (YC S24) Is Hiring ASIC/FPGA Engineers to Build Chips for ASI"
   },
   {
     "source": "hn",
@@ -81,8 +71,8 @@
   },
   {
     "source": "hn",
-    "url": "https://jiahao116.github.io/Articles/",
-    "title": "André Weil and the Hodge Conjecture"
+    "url": "https://snapdrop.me",
+    "title": "Show HN: Snapdrop: Instantly share files between devices. No setup, no signup"
   },
   {
     "source": "lobsters",
@@ -96,8 +86,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://iev.ee/blog/categorize-everything-all-at-once/",
-    "title": "Labeled matches: why is this not in every regex engine?"
+    "url": "https://micahflee.com/flock-cameras-are-riddled-with-security-vulnerabilities-and-hard-coded-credentials/",
+    "title": "Flock cameras are riddled with security vulnerabilities and hard-coded credentials"
   },
   {
     "source": "lobsters",
@@ -106,8 +96,18 @@
   },
   {
     "source": "lobsters",
+    "url": "https://iev.ee/blog/categorize-everything-all-at-once/",
+    "title": "Labeled matches: why is this not in every regex engine?"
+  },
+  {
+    "source": "lobsters",
     "url": "https://blog.verygoodsoftwarenotvirus.dev/posts/2026/09/12/the-end-of-verygoodsoftwarenotvirus-dot-ru/",
     "title": "The end of verygoodsoftwarenotvirus.ru"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://servo.org/blog/2026/09/15/one-year-of-sponsorship/",
+    "title": "Your Donations at Work: One Year of Sponsored Servo Development"
   },
   {
     "source": "lobsters",
@@ -116,8 +116,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://micahflee.com/flock-cameras-are-riddled-with-security-vulnerabilities-and-hard-coded-credentials/",
-    "title": "Flock cameras are riddled with security vulnerabilities and hard-coded credentials"
+    "url": "https://typesafe.ai/blog/introducing-system-one-models-and-jev",
+    "title": "Introducing System One Models & Jev"
   },
   {
     "source": "lobsters",
@@ -158,16 +158,6 @@
     "source": "lobsters",
     "url": "https://www.sandordargo.com/blog/2026/09/16/cpp26-trivial-infinite-loops",
     "title": "C++26: Trivial infinite loops are no longer undefined behaviour"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://www.amazon.science/blog/developing-provably-correct-rust-code-with-verus",
-    "title": "Developing provably correct Rust code with Verus"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://typesafe.ai/blog/introducing-system-one-models-and-jev",
-    "title": "System One Models and Jev"
   },
   {
     "source": "pinboard",
