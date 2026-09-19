@@ -1,13 +1,18 @@
 [
   {
     "source": "hn",
+    "url": "https://laya.convaiinnovations.com/",
+    "title": "Laya the open source version of Jev"
+  },
+  {
+    "source": "hn",
     "url": "https://med.stanford.edu/news/all-news/2026/09/two-separate-brains.html",
     "title": "Human brain is two separate organs, Stanford Medicine-led research finds"
   },
   {
     "source": "hn",
-    "url": "https://terrytao.wordpress.com/2026/09/18/if-math-is-more-than-proof-we-need-to-better-celebrate-the-rest-of-it/",
-    "title": "If math is more than proof, we need to better celebrate the rest of it"
+    "url": "https://john.hartnup.uk/2026/06/07/ai-event-posters.html",
+    "title": "AI-generated posters don’t have to be horrible"
   },
   {
     "source": "hn",
@@ -16,8 +21,13 @@
   },
   {
     "source": "hn",
-    "url": "https://jepedersen.dk/blog/202505_research/",
-    "title": "Science Is Open Software"
+    "url": "https://terrytao.wordpress.com/2026/09/18/if-math-is-more-than-proof-we-need-to-better-celebrate-the-rest-of-it/",
+    "title": "If math is more than proof, we need to better celebrate the rest of it"
+  },
+  {
+    "source": "hn",
+    "url": "https://reproof.app/blog/lotus-notes-history",
+    "title": "Ray Ozzie and the Optimism of Being Early"
   },
   {
     "source": "hn",
@@ -28,6 +38,11 @@
     "source": "hn",
     "url": "https://blog.cloudflare.com/saving-100-tb-of-ram-with-math/",
     "title": "Saving another 100TB of RAM"
+  },
+  {
+    "source": "hn",
+    "url": "https://jepedersen.dk/blog/202505_research/",
+    "title": "Science Is Open Software"
   },
   {
     "source": "hn",
@@ -60,14 +75,9 @@
     "title": "Warez: The Infrastructure and Aesthetics of Piracy (2021)"
   },
   {
-    "source": "hn",
-    "url": "https://blog.ferstar.org/en/posts/zcode-silent-workspace-snapshot-upload/",
-    "title": "Inside ZCode: Silently uploading your Git history to the cloud"
-  },
-  {
-    "source": "hn",
-    "url": "https://blog.ndepend.com/understanding-cyclomatic-complexity/",
-    "title": "Cyclomatic Complexity in C#"
+    "source": "lobsters",
+    "url": "https://fex-emu.com/Scourge-of-emulation/",
+    "title": "The scourge of x86 emulation"
   },
   {
     "source": "lobsters",
@@ -76,13 +86,18 @@
   },
   {
     "source": "lobsters",
-    "url": "https://fex-emu.com/Scourge-of-emulation/",
-    "title": "The scourge of x86 emulation"
+    "url": "https://www.joelonsoftware.com/2001/04/21/dont-let-architecture-astronauts-scare-you/",
+    "title": "Don’t Let Architecture Astronauts Scare You (2001)"
   },
   {
     "source": "lobsters",
     "url": "https://danluu.com/brain-off/",
     "title": "There's no point at which turning your brain off will work"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://purplesyringa.moe/blog/write-while-learning/",
+    "title": "Write while learning"
   },
   {
     "source": "lobsters",
@@ -96,18 +111,28 @@
   },
   {
     "source": "lobsters",
-    "url": "https://crumbles.blog/posts/2026-09-17-immutable-mutable.html",
-    "title": "FAQ: Why isn’t mutable a subtype of immutable, or vice versa?"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://vale.sh",
-    "title": "Vale, code-like linting for prose"
+    "url": "https://www.lispbm.com/",
+    "title": "LispBM: Concurrent Lisp for Microcontrollers"
   },
   {
     "source": "lobsters",
     "url": "https://yosefk.com/blog/unit-tests-mark-territory-more-than-squash-bugs.html",
     "title": "Unit tests mark territory more than squash bugs"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://crumbles.blog/posts/2026-09-17-immutable-mutable.html",
+    "title": "FAQ: Why isn’t mutable a subtype of immutable, or vice versa?"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://openloco.io/news/2026/09/openloco-v26.09.html",
+    "title": "OpenLoco version 26.09"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://vale.sh",
+    "title": "Vale, code-like linting for prose"
   },
   {
     "source": "lobsters",
@@ -118,35 +143,5 @@
     "source": "lobsters",
     "url": "https://blog.rust-lang.org/2026/09/17/targeted-attacks/",
     "title": "Be alert: targeted attacks on prominent Rustaceans"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://purplesyringa.moe/blog/write-while-learning/",
-    "title": "Write while learning"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://openloco.io/news/2026/09/openloco-v26.09.html",
-    "title": "OpenLoco version 26.09"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://prismml.com/news/bonsai-2-27b",
-    "title": "Bonsai 2 27B: Near-Lossless Compression in a 9x Smaller Footprint"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://verdagon.dev/blog/golden-spike-reviving-vale-valen",
-    "title": "The Golden Spike, and Resurrecting the Vale(n) Programming Language"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://phk.freebsd.dk/sagas/bikeshed/",
-    "title": "The Bikeshed email — PHKs Bikeshed"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://giodicanio.com/2026/09/11/the-c-plus-plus-20-s-u8-char8_t-fiasco/",
-    "title": "The C++20’s u8/char8_t Backward-Compatibility Fiasco"
   }
 ]
