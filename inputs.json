@@ -11,13 +11,33 @@
   },
   {
     "source": "hn",
-    "url": "https://bartosz.fenski.pl/modern-fs-benchmark/",
-    "title": "Btrfs/ZFS/bcachefs under workloads classic benchmarks skip"
+    "url": "https://ooni.org/install",
+    "title": "Measure internet censorship. Contribute to the largest open dataset"
   },
   {
     "source": "hn",
     "url": "https://med.stanford.edu/news/all-news/2026/09/two-separate-brains.html",
-    "title": "Human brain is two separate organs, Stanford Medicine-led research finds"
+    "title": "Two parallel neural ectoderm progenitors contribute to the developing brain"
+  },
+  {
+    "source": "hn",
+    "url": "https://eprint.iacr.org/2026/2039",
+    "title": "ZK-JPEG: Zero-Knowledge Image Editing and Compression"
+  },
+  {
+    "source": "hn",
+    "url": "https://bw.swerdlow.dev/report",
+    "title": "Brood War Bench"
+  },
+  {
+    "source": "hn",
+    "url": "https://ufoseries.com/",
+    "title": "UFO Series Home Page: \"UFO\" TV Series from 1970"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.bigmessowires.com/2026/08/30/adventures-in-microcontroller-circuit-debugging/",
+    "title": "Adventures in Microcontroller Circuit Debugging"
   },
   {
     "source": "hn",
@@ -31,38 +51,18 @@
   },
   {
     "source": "hn",
+    "url": "https://bartosz.fenski.pl/modern-fs-benchmark/",
+    "title": "Btrfs/ZFS/bcachefs under workloads classic benchmarks skip"
+  },
+  {
+    "source": "hn",
     "url": "https://terrytao.wordpress.com/2026/09/18/if-math-is-more-than-proof-we-need-to-better-celebrate-the-rest-of-it/",
     "title": "If math is more than proof, we need to better celebrate the rest of it"
   },
   {
     "source": "hn",
-    "url": "https://besok.github.io/posts/what-zig-felt-like-coming-from-rust/",
-    "title": "What Zig felt like, coming from Rust"
-  },
-  {
-    "source": "hn",
     "url": "https://blog.cloudflare.com/saving-100-tb-of-ram-with-math/",
     "title": "Saving another 100TB of RAM"
-  },
-  {
-    "source": "hn",
-    "url": "https://reproof.app/blog/lotus-notes-history",
-    "title": "Ray Ozzie and the Optimism of Being Early"
-  },
-  {
-    "source": "hn",
-    "url": "https://jepedersen.dk/blog/202505_research/",
-    "title": "Science Is Open Software"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.nationalgeographic.com/animals/article/meet-the-first-new-cat-species-discovered-in-100-years",
-    "title": "The first new cat species discovered in 100 years"
-  },
-  {
-    "source": "hn",
-    "url": "https://rust-glancer.github.io/blog/why-lsp-is-hard/",
-    "title": "Why building a Rust LSP is hard"
   },
   {
     "source": "lobsters",
@@ -86,8 +86,18 @@
   },
   {
     "source": "lobsters",
+    "url": "https://jyn.dev/a-year-to-fix-security/",
+    "title": "we have a year to fix security everywhere"
+  },
+  {
+    "source": "lobsters",
     "url": "https://opengoal.dev/",
     "title": "Reviving the language that brought us the Jak & Daxter Series"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://lemire.me/blog/2026/09/18/faster-json-parsing-with-sve2-on-arm-processors/",
+    "title": "Faster JSON parsing with SVE2 on ARM processors"
   },
   {
     "source": "lobsters",
@@ -101,11 +111,6 @@
   },
   {
     "source": "lobsters",
-    "url": "https://lemire.me/blog/2026/09/18/faster-json-parsing-with-sve2-on-arm-processors/",
-    "title": "Faster JSON parsing with SVE2 on ARM processors"
-  },
-  {
-    "source": "lobsters",
     "url": "https://www.lispbm.com/",
     "title": "LispBM: Concurrent Lisp for Microcontrollers"
   },
@@ -116,8 +121,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://davidlattimore.github.io/posts/2026/09/18/benchmarking-wild-vs-mold.html",
-    "title": "Benchmarking Wild vs Mold"
+    "url": "https://duckdb.org/2026/09/18/opfs-wasm",
+    "title": "Persistent Databases in the Browser with DuckDB-Wasm and OPFS"
   },
   {
     "source": "lobsters",
@@ -126,8 +131,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://ericwbailey.website/published/css-tricks-could-be-a-co-op/",
-    "title": "CSS-Tricks could be a co-op"
+    "url": "https://davidlattimore.github.io/posts/2026/09/18/benchmarking-wild-vs-mold.html",
+    "title": "Benchmarking Wild vs Mold"
   },
   {
     "source": "lobsters",
@@ -136,8 +141,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://duckdb.org/2026/09/18/opfs-wasm",
-    "title": "Persistent Databases in the Browser with DuckDB-Wasm and OPFS"
+    "url": "https://ericwbailey.website/published/css-tricks-could-be-a-co-op/",
+    "title": "CSS-Tricks could be a co-op"
   },
   {
     "source": "pinboard",
