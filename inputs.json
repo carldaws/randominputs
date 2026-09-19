@@ -6,13 +6,23 @@
   },
   {
     "source": "hn",
+    "url": "https://john.hartnup.uk/2026/06/07/ai-event-posters.html",
+    "title": "AI-generated posters don’t have to be horrible"
+  },
+  {
+    "source": "hn",
     "url": "https://med.stanford.edu/news/all-news/2026/09/two-separate-brains.html",
     "title": "Human brain is two separate organs, Stanford Medicine-led research finds"
   },
   {
     "source": "hn",
-    "url": "https://john.hartnup.uk/2026/06/07/ai-event-posters.html",
-    "title": "AI-generated posters don’t have to be horrible"
+    "url": "https://www.state.gov/wp-content/uploads/2019/02/04-806-Denmark-Defense.done_.pdf",
+    "title": "Agreement between the USA and Denmark (1951,2004) [pdf]"
+  },
+  {
+    "source": "hn",
+    "url": "https://qbixserver.com",
+    "title": "I built the fastest PHP webserver in the world"
   },
   {
     "source": "hn",
@@ -26,8 +36,8 @@
   },
   {
     "source": "hn",
-    "url": "https://reproof.app/blog/lotus-notes-history",
-    "title": "Ray Ozzie and the Optimism of Being Early"
+    "url": "https://besok.github.io/posts/what-zig-felt-like-coming-from-rust/",
+    "title": "What Zig felt like, coming from Rust"
   },
   {
     "source": "hn",
@@ -38,6 +48,11 @@
     "source": "hn",
     "url": "https://blog.cloudflare.com/saving-100-tb-of-ram-with-math/",
     "title": "Saving another 100TB of RAM"
+  },
+  {
+    "source": "hn",
+    "url": "https://reproof.app/blog/lotus-notes-history",
+    "title": "Ray Ozzie and the Optimism of Being Early"
   },
   {
     "source": "hn",
@@ -60,19 +75,9 @@
     "title": "OpenJev"
   },
   {
-    "source": "hn",
-    "url": "https://cactuscompute.com/needle",
-    "title": "Show HN: Cactus Needle 3: 8-29MB automation models can match DeepSeek V4 Flash"
-  },
-  {
-    "source": "hn",
-    "url": "https://donjon.ledger.com/blog/rp2350-secure-debug-laser-fault-injection/",
-    "title": "Photon-Emission-Guided Laser Fault Injection Enables RP2350 Secure Debug"
-  },
-  {
-    "source": "hn",
-    "url": "https://archive.org/details/b904a8eb-9c98-4bb1-bf25-3cb9d075b157",
-    "title": "Warez: The Infrastructure and Aesthetics of Piracy (2021)"
+    "source": "lobsters",
+    "url": "https://www.joelonsoftware.com/2001/04/21/dont-let-architecture-astronauts-scare-you/",
+    "title": "Don’t Let Architecture Astronauts Scare You (2001)"
   },
   {
     "source": "lobsters",
@@ -86,8 +91,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://www.joelonsoftware.com/2001/04/21/dont-let-architecture-astronauts-scare-you/",
-    "title": "Don’t Let Architecture Astronauts Scare You (2001)"
+    "url": "https://purplesyringa.moe/blog/write-while-learning/",
+    "title": "Write while learning"
   },
   {
     "source": "lobsters",
@@ -96,18 +101,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://purplesyringa.moe/blog/write-while-learning/",
-    "title": "Write while learning"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://davidlattimore.github.io/posts/2026/09/18/benchmarking-wild-vs-mold.html",
-    "title": "Benchmarking Wild vs Mold"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://ericwbailey.website/published/css-tricks-could-be-a-co-op/",
-    "title": "CSS-Tricks could be a co-op"
+    "url": "https://opengoal.dev/",
+    "title": "Reviving the language that brought us the Jak & Daxter Series"
   },
   {
     "source": "lobsters",
@@ -116,13 +111,28 @@
   },
   {
     "source": "lobsters",
-    "url": "https://yosefk.com/blog/unit-tests-mark-territory-more-than-squash-bugs.html",
-    "title": "Unit tests mark territory more than squash bugs"
+    "url": "https://astrid.tech/2022/04/05/0/dead-tlds/",
+    "title": "What happens to TLDs when their country stops existing? (2022)"
   },
   {
     "source": "lobsters",
-    "url": "https://crumbles.blog/posts/2026-09-17-immutable-mutable.html",
-    "title": "FAQ: Why isn’t mutable a subtype of immutable, or vice versa?"
+    "url": "https://davidlattimore.github.io/posts/2026/09/18/benchmarking-wild-vs-mold.html",
+    "title": "Benchmarking Wild vs Mold"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://lemire.me/blog/2026/09/18/faster-json-parsing-with-sve2-on-arm-processors/",
+    "title": "Faster JSON parsing with SVE2 on ARM processors"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://ericwbailey.website/published/css-tricks-could-be-a-co-op/",
+    "title": "CSS-Tricks could be a co-op"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://ch.terabyteoff.com/",
+    "title": "Consistent Hashing Proofs"
   },
   {
     "source": "lobsters",
@@ -136,12 +146,77 @@
   },
   {
     "source": "lobsters",
+    "url": "https://crumbles.blog/posts/2026-09-17-immutable-mutable.html",
+    "title": "FAQ: Why isn’t mutable a subtype of immutable, or vice versa?"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://will-keleher.com/posts/small-programming-tricks-matter/",
+    "title": "Small Programming Tricks · will keleher"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://typesafe.ai/blog/introducing-system-one-models-and-jev",
+    "title": "System One Models and Jev"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://typesafe.ai/",
+    "title": "Home - TypeSafe AI"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://www.404media.co/doom-loop-openai-and-microsoft-admits-llms-are-destroying-the-web-and-built-on-theft/",
+    "title": "Nel caso NYT-OpenAI, Microsoft testimonia: da Bing clic alle news giù oltre il 90%"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://bend-lang.com/",
+    "title": "Bend"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://filipovski.net/2026/09/16/backups-arent-simple.html",
+    "title": "Backups aren't simple"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://withcapsule.app/",
+    "title": "Capsule — Documents that run like apps"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://news.ycombinator.com/item?id=49711544",
+    "title": "Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations | Hacker News"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://gowers.wordpress.com/2026/09/17/why-i-didnt-sign-the-fields-medallists-letter/",
+    "title": "Why I didn’t sign the Fields medallists’ letter | Gowers's Weblog"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://dank.systems/posts/2026-09-15-ai-bear.html",
+    "title": "why i'm still bearish on LLMs after navier-stokes | jay kruer"
+  },
+  {
+    "source": "pinboard",
     "url": "https://micahflee.com/flock-cameras-are-riddled-with-security-vulnerabilities-and-hard-coded-credentials/",
     "title": "Flock cameras are riddled with security vulnerabilities and hard-coded credentials"
   },
   {
-    "source": "lobsters",
-    "url": "https://blog.rust-lang.org/2026/09/17/targeted-attacks/",
-    "title": "Be alert: targeted attacks on prominent Rustaceans"
+    "source": "pinboard",
+    "url": "https://bookofshapes.com/",
+    "title": "Book of Shapes"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://futurism.com/artificial-intelligence/brown-brothers-media-ai-slop-empire",
+    "title": "How Three Brothers Built an AI Slop Empire by Buying Legitimate News Sites and Turning Them Into Zombie Content Farms That They Say Get 50 Million Page Views per Month"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://linguisticdiscovery.com/posts/pre-greek/",
+    "title": "Pre-Greek: The lost language hidden within Ancient Greek"
   }
 ]
