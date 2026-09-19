@@ -1,6 +1,11 @@
 [
   {
     "source": "hn",
+    "url": "https://www.righto.com/2013/11/how-hacker-news-ranking-really-works.html",
+    "title": "How Hacker News ranking works: scoring, controversy, and penalties (2013)"
+  },
+  {
+    "source": "hn",
     "url": "https://laya.convaiinnovations.com/",
     "title": "I built non-autoregressive decision models with RL a year ago"
   },
@@ -16,6 +21,16 @@
   },
   {
     "source": "hn",
+    "url": "http://www.maydaymystery.org/mayday/",
+    "title": "Mayday Mysteries"
+  },
+  {
+    "source": "hn",
+    "url": "https://bw.swerdlow.dev/report",
+    "title": "Brood War Bench"
+  },
+  {
+    "source": "hn",
     "url": "https://med.stanford.edu/news/all-news/2026/09/two-separate-brains.html",
     "title": "Two parallel neural ectoderm progenitors contribute to the developing brain"
   },
@@ -26,18 +41,13 @@
   },
   {
     "source": "hn",
-    "url": "https://bw.swerdlow.dev/report",
-    "title": "Brood War Bench"
-  },
-  {
-    "source": "hn",
     "url": "https://ufoseries.com/",
     "title": "UFO Series Home Page: \"UFO\" TV Series from 1970"
   },
   {
     "source": "hn",
-    "url": "https://www.bigmessowires.com/2026/08/30/adventures-in-microcontroller-circuit-debugging/",
-    "title": "Adventures in Microcontroller Circuit Debugging"
+    "url": "https://www.filfre.net/2026/09/the-lamentable-later-life-of-lemmings/",
+    "title": "The Lamentable Later Life of Lemmings"
   },
   {
     "source": "hn",
@@ -51,8 +61,8 @@
   },
   {
     "source": "hn",
-    "url": "https://bartosz.fenski.pl/modern-fs-benchmark/",
-    "title": "Btrfs/ZFS/bcachefs under workloads classic benchmarks skip"
+    "url": "https://www.bigmessowires.com/2026/08/30/adventures-in-microcontroller-circuit-debugging/",
+    "title": "Adventures in Microcontroller Circuit Debugging"
   },
   {
     "source": "hn",
@@ -60,14 +70,14 @@
     "title": "If math is more than proof, we need to better celebrate the rest of it"
   },
   {
-    "source": "hn",
-    "url": "https://blog.cloudflare.com/saving-100-tb-of-ram-with-math/",
-    "title": "Saving another 100TB of RAM"
-  },
-  {
     "source": "lobsters",
     "url": "https://www.joelonsoftware.com/2001/04/21/dont-let-architecture-astronauts-scare-you/",
     "title": "Don’t Let Architecture Astronauts Scare You (2001)"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://jyn.dev/a-year-to-fix-security/",
+    "title": "we have a year to fix security everywhere"
   },
   {
     "source": "lobsters",
@@ -81,18 +91,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://purplesyringa.moe/blog/write-while-learning/",
-    "title": "Write while learning"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://jyn.dev/a-year-to-fix-security/",
-    "title": "we have a year to fix security everywhere"
-  },
-  {
-    "source": "lobsters",
     "url": "https://opengoal.dev/",
     "title": "Reviving the language that brought us the Jak & Daxter Series"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://purplesyringa.moe/blog/write-while-learning/",
+    "title": "Write while learning"
   },
   {
     "source": "lobsters",
@@ -101,13 +106,18 @@
   },
   {
     "source": "lobsters",
-    "url": "https://hawksley.dev/blog/i-dont-like-passkeys",
-    "title": "I don't like passkeys"
+    "url": "https://unsung.aresluna.org/cleanshots-bulldozed-settings/",
+    "title": "CleanShot’s bulldozed settings"
   },
   {
     "source": "lobsters",
-    "url": "https://danluu.com/brain-off/",
-    "title": "There's no point at which turning your brain off will work"
+    "url": "https://sarahjamielewis.com/log/2026/future-of-web-browsers.html",
+    "title": "Thoughts on the Future of Web Browsers"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://hawksley.dev/blog/i-dont-like-passkeys",
+    "title": "I don't like passkeys"
   },
   {
     "source": "lobsters",
@@ -116,13 +126,23 @@
   },
   {
     "source": "lobsters",
-    "url": "https://srcreigh.ca/posts/auditable-kata/",
-    "title": "Secure VMs for Kubernetes: Hardening Kata containers"
+    "url": "https://danluu.com/brain-off/",
+    "title": "There's no point at which turning your brain off will work"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://blog.cloudflare.com/saving-100-tb-of-ram-with-math/",
+    "title": "Saving another 100TB of RAM with math (and Rust)"
   },
   {
     "source": "lobsters",
     "url": "https://duckdb.org/2026/09/18/opfs-wasm",
     "title": "Persistent Databases in the Browser with DuckDB-Wasm and OPFS"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://srcreigh.ca/posts/auditable-kata/",
+    "title": "Secure VMs for Kubernetes: Hardening Kata containers"
   },
   {
     "source": "lobsters",
@@ -133,16 +153,6 @@
     "source": "lobsters",
     "url": "https://davidlattimore.github.io/posts/2026/09/18/benchmarking-wild-vs-mold.html",
     "title": "Benchmarking Wild vs Mold"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://openloco.io/news/2026/09/openloco-v26.09.html",
-    "title": "OpenLoco version 26.09"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://ericwbailey.website/published/css-tricks-could-be-a-co-op/",
-    "title": "CSS-Tricks could be a co-op"
   },
   {
     "source": "pinboard",
