@@ -1,6 +1,16 @@
 [
   {
     "source": "hn",
+    "url": "https://med.stanford.edu/news/all-news/2026/09/two-separate-brains.html",
+    "title": "Human brain is two separate organs, Stanford Medicine-led research finds"
+  },
+  {
+    "source": "hn",
+    "url": "https://terrytao.wordpress.com/2026/09/18/if-math-is-more-than-proof-we-need-to-better-celebrate-the-rest-of-it/",
+    "title": "If math is more than proof, we need to better celebrate the rest of it"
+  },
+  {
+    "source": "hn",
     "url": "https://onionfutures.com/",
     "title": "San Francisco Onion Futures Company"
   },
@@ -11,13 +21,13 @@
   },
   {
     "source": "hn",
-    "url": "https://blog.cloudflare.com/saving-100-tb-of-ram-with-math/",
-    "title": "Saving another 100TB of RAM"
+    "url": "https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/",
+    "title": "How to Write with an LLM"
   },
   {
     "source": "hn",
-    "url": "https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/",
-    "title": "How to Write with an LLM"
+    "url": "https://blog.cloudflare.com/saving-100-tb-of-ram-with-math/",
+    "title": "Saving another 100TB of RAM"
   },
   {
     "source": "hn",
@@ -31,6 +41,11 @@
   },
   {
     "source": "hn",
+    "url": "https://openjev.com/",
+    "title": "OpenJev"
+  },
+  {
+    "source": "hn",
     "url": "https://cactuscompute.com/needle",
     "title": "Show HN: Cactus Needle 3: 8-29MB automation models can match DeepSeek V4 Flash"
   },
@@ -38,26 +53,6 @@
     "source": "hn",
     "url": "https://donjon.ledger.com/blog/rp2350-secure-debug-laser-fault-injection/",
     "title": "Photon-Emission-Guided Laser Fault Injection Enables RP2350 Secure Debug"
-  },
-  {
-    "source": "hn",
-    "url": "https://openjev.com/",
-    "title": "OpenJev"
-  },
-  {
-    "source": "hn",
-    "url": "https://blog.ndepend.com/understanding-cyclomatic-complexity/",
-    "title": "Cyclomatic Complexity in C#"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.lispbm.com/",
-    "title": "LispBM is a concurrent Lisp for microcontrollers with message passing"
-  },
-  {
-    "source": "hn",
-    "url": "https://liveworld.info/",
-    "title": "Show HN: LiveWorld – Every 24/7 YouTube live camera on one globe"
   },
   {
     "source": "hn",
@@ -70,9 +65,19 @@
     "title": "Inside ZCode: Silently uploading your Git history to the cloud"
   },
   {
+    "source": "hn",
+    "url": "https://blog.ndepend.com/understanding-cyclomatic-complexity/",
+    "title": "Cyclomatic Complexity in C#"
+  },
+  {
     "source": "lobsters",
     "url": "https://hawksley.dev/blog/i-dont-like-passkeys",
     "title": "I don't like passkeys"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://fex-emu.com/Scourge-of-emulation/",
+    "title": "The scourge of x86 emulation"
   },
   {
     "source": "lobsters",
@@ -96,6 +101,16 @@
   },
   {
     "source": "lobsters",
+    "url": "https://vale.sh",
+    "title": "Vale, code-like linting for prose"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://yosefk.com/blog/unit-tests-mark-territory-more-than-squash-bugs.html",
+    "title": "Unit tests mark territory more than squash bugs"
+  },
+  {
+    "source": "lobsters",
     "url": "https://micahflee.com/flock-cameras-are-riddled-with-security-vulnerabilities-and-hard-coded-credentials/",
     "title": "Flock cameras are riddled with security vulnerabilities and hard-coded credentials"
   },
@@ -106,8 +121,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://vale.sh",
-    "title": "Vale, code-like linting for prose"
+    "url": "https://purplesyringa.moe/blog/write-while-learning/",
+    "title": "Write while learning"
   },
   {
     "source": "lobsters",
@@ -116,18 +131,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://verdagon.dev/blog/golden-spike-reviving-vale-valen",
-    "title": "The Golden Spike, and Resurrecting the Vale(n) Programming Language"
-  },
-  {
-    "source": "lobsters",
     "url": "https://prismml.com/news/bonsai-2-27b",
     "title": "Bonsai 2 27B: Near-Lossless Compression in a 9x Smaller Footprint"
   },
   {
     "source": "lobsters",
-    "url": "https://giodicanio.com/2026/09/11/the-c-plus-plus-20-s-u8-char8_t-fiasco/",
-    "title": "The C++20’s u8/char8_t Backward-Compatibility Fiasco"
+    "url": "https://verdagon.dev/blog/golden-spike-reviving-vale-valen",
+    "title": "The Golden Spike, and Resurrecting the Vale(n) Programming Language"
   },
   {
     "source": "lobsters",
@@ -136,17 +146,7 @@
   },
   {
     "source": "lobsters",
-    "url": "https://internetphonebook.net/",
-    "title": "Internet Phone Book"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://typesafe.ai/blog/introducing-system-one-models-and-jev",
-    "title": "Introducing System One Models & Jev"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://www.hacktron.ai/blog/hacking-openai",
-    "title": "Hacking OpenAI"
+    "url": "https://giodicanio.com/2026/09/11/the-c-plus-plus-20-s-u8-char8_t-fiasco/",
+    "title": "The C++20’s u8/char8_t Backward-Compatibility Fiasco"
   }
 ]
