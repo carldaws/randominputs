@@ -1,6 +1,16 @@
 [
   {
     "source": "hn",
+    "url": "https://onionfutures.com/",
+    "title": "San Francisco Onion Futures Company"
+  },
+  {
+    "source": "hn",
+    "url": "https://jepedersen.dk/blog/202505_research/",
+    "title": "Science Is Open Software"
+  },
+  {
+    "source": "hn",
     "url": "https://blog.cloudflare.com/saving-100-tb-of-ram-with-math/",
     "title": "Saving another 100TB of RAM"
   },
@@ -11,8 +21,13 @@
   },
   {
     "source": "hn",
-    "url": "https://donjon.ledger.com/blog/rp2350-secure-debug-laser-fault-injection/",
-    "title": "Photon-Emission-Guided Laser Fault Injection Enables RP2350 Secure Debug"
+    "url": "https://rust-glancer.github.io/blog/why-lsp-is-hard/",
+    "title": "Why building a Rust LSP is hard"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.nationalgeographic.com/animals/article/meet-the-first-new-cat-species-discovered-in-100-years",
+    "title": "The first new cat species discovered in 100 years"
   },
   {
     "source": "hn",
@@ -21,8 +36,8 @@
   },
   {
     "source": "hn",
-    "url": "https://www.nationalgeographic.com/animals/article/meet-the-first-new-cat-species-discovered-in-100-years",
-    "title": "The first new cat species discovered in 100 years"
+    "url": "https://donjon.ledger.com/blog/rp2350-secure-debug-laser-fault-injection/",
+    "title": "Photon-Emission-Guided Laser Fault Injection Enables RP2350 Secure Debug"
   },
   {
     "source": "hn",
@@ -36,13 +51,13 @@
   },
   {
     "source": "hn",
-    "url": "https://column.com/card-issuing/",
-    "title": "Column built an issuer processor from scratch"
+    "url": "https://www.lispbm.com/",
+    "title": "LispBM is a concurrent Lisp for microcontrollers with message passing"
   },
   {
     "source": "hn",
-    "url": "https://www.sandordargo.com/blog/2026/09/16/cpp26-trivial-infinite-loops",
-    "title": "C++26: Trivial infinite loops are no longer undefined behaviour"
+    "url": "https://liveworld.info/",
+    "title": "Show HN: LiveWorld – Every 24/7 YouTube live camera on one globe"
   },
   {
     "source": "hn",
@@ -53,21 +68,6 @@
     "source": "hn",
     "url": "https://blog.ferstar.org/en/posts/zcode-silent-workspace-snapshot-upload/",
     "title": "Inside ZCode: Silently uploading your Git history to the cloud"
-  },
-  {
-    "source": "hn",
-    "url": "https://antfly.io/research/antfly-zig",
-    "title": "A search-and-inference database from scratch in pure Zig"
-  },
-  {
-    "source": "hn",
-    "url": "https://overreacted.io/how-i-vibed-a-proof-of-conways-conjecture/",
-    "title": "I vibed a proof of Conway's conjecture"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.koreajoongangdaily.com/business/korea-raises-data-breach-fines-to-10-of-revenue/12869899",
-    "title": "Korea raises data breach fines to 10% of revenue"
   },
   {
     "source": "lobsters",
@@ -86,13 +86,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://blog.rust-lang.org/2026/09/17/targeted-attacks/",
-    "title": "Be alert: targeted attacks on prominent Rustaceans"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://micahflee.com/flock-cameras-are-riddled-with-security-vulnerabilities-and-hard-coded-credentials/",
-    "title": "Flock cameras are riddled with security vulnerabilities and hard-coded credentials"
+    "url": "https://ericwbailey.website/published/css-tricks-could-be-a-co-op/",
+    "title": "CSS-Tricks could be a co-op"
   },
   {
     "source": "lobsters",
@@ -101,13 +96,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://verdagon.dev/blog/golden-spike-reviving-vale-valen",
-    "title": "The Golden Spike, and Resurrecting the Vale(n) Programming Language"
+    "url": "https://micahflee.com/flock-cameras-are-riddled-with-security-vulnerabilities-and-hard-coded-credentials/",
+    "title": "Flock cameras are riddled with security vulnerabilities and hard-coded credentials"
   },
   {
     "source": "lobsters",
-    "url": "https://giodicanio.com/2026/09/11/the-c-plus-plus-20-s-u8-char8_t-fiasco/",
-    "title": "The C++20’s u8/char8_t Backward-Compatibility Fiasco"
+    "url": "https://blog.rust-lang.org/2026/09/17/targeted-attacks/",
+    "title": "Be alert: targeted attacks on prominent Rustaceans"
   },
   {
     "source": "lobsters",
@@ -116,18 +111,23 @@
   },
   {
     "source": "lobsters",
-    "url": "https://typesafe.ai/blog/introducing-system-one-models-and-jev",
-    "title": "Introducing System One Models & Jev"
+    "url": "https://openloco.io/news/2026/09/openloco-v26.09.html",
+    "title": "OpenLoco version 26.09"
   },
   {
     "source": "lobsters",
-    "url": "https://www.hacktron.ai/blog/hacking-openai",
-    "title": "Hacking OpenAI"
+    "url": "https://verdagon.dev/blog/golden-spike-reviving-vale-valen",
+    "title": "The Golden Spike, and Resurrecting the Vale(n) Programming Language"
   },
   {
     "source": "lobsters",
-    "url": "https://ericwbailey.website/published/css-tricks-could-be-a-co-op/",
-    "title": "CSS-Tricks could be a co-op"
+    "url": "https://prismml.com/news/bonsai-2-27b",
+    "title": "Bonsai 2 27B: Near-Lossless Compression in a 9x Smaller Footprint"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://giodicanio.com/2026/09/11/the-c-plus-plus-20-s-u8-char8_t-fiasco/",
+    "title": "The C++20’s u8/char8_t Backward-Compatibility Fiasco"
   },
   {
     "source": "lobsters",
@@ -141,17 +141,12 @@
   },
   {
     "source": "lobsters",
-    "url": "https://bend-lang.com/",
-    "title": "Bend"
+    "url": "https://typesafe.ai/blog/introducing-system-one-models-and-jev",
+    "title": "Introducing System One Models & Jev"
   },
   {
     "source": "lobsters",
-    "url": "https://iev.ee/blog/categorize-everything-all-at-once/",
-    "title": "Labeled matches: why is this not in every regex engine?"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://prismml.com/news/bonsai-2-27b",
-    "title": "Bonsai 2 27B: Near-Lossless Compression in a 9x Smaller Footprint"
+    "url": "https://www.hacktron.ai/blog/hacking-openai",
+    "title": "Hacking OpenAI"
   }
 ]
