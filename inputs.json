@@ -2,7 +2,7 @@
   {
     "source": "hn",
     "url": "https://laya.convaiinnovations.com/",
-    "title": "Laya the open source version of Jev"
+    "title": "I built non-autoregressive decision models with RL a year ago"
   },
   {
     "source": "hn",
@@ -11,23 +11,23 @@
   },
   {
     "source": "hn",
+    "url": "https://bartosz.fenski.pl/modern-fs-benchmark/",
+    "title": "Btrfs/ZFS/bcachefs under workloads classic benchmarks skip"
+  },
+  {
+    "source": "hn",
     "url": "https://med.stanford.edu/news/all-news/2026/09/two-separate-brains.html",
     "title": "Human brain is two separate organs, Stanford Medicine-led research finds"
   },
   {
     "source": "hn",
-    "url": "https://www.state.gov/wp-content/uploads/2019/02/04-806-Denmark-Defense.done_.pdf",
-    "title": "Agreement between the USA and Denmark (1951,2004) [pdf]"
-  },
-  {
-    "source": "hn",
-    "url": "https://qbixserver.com",
-    "title": "I built the fastest PHP webserver in the world"
-  },
-  {
-    "source": "hn",
     "url": "https://onionfutures.com/",
     "title": "San Francisco Onion Futures Company"
+  },
+  {
+    "source": "hn",
+    "url": "https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/",
+    "title": "How to Write with an LLM"
   },
   {
     "source": "hn",
@@ -38,11 +38,6 @@
     "source": "hn",
     "url": "https://besok.github.io/posts/what-zig-felt-like-coming-from-rust/",
     "title": "What Zig felt like, coming from Rust"
-  },
-  {
-    "source": "hn",
-    "url": "https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/",
-    "title": "How to Write with an LLM"
   },
   {
     "source": "hn",
@@ -61,18 +56,13 @@
   },
   {
     "source": "hn",
-    "url": "https://rust-glancer.github.io/blog/why-lsp-is-hard/",
-    "title": "Why building a Rust LSP is hard"
-  },
-  {
-    "source": "hn",
     "url": "https://www.nationalgeographic.com/animals/article/meet-the-first-new-cat-species-discovered-in-100-years",
     "title": "The first new cat species discovered in 100 years"
   },
   {
     "source": "hn",
-    "url": "https://openjev.com/",
-    "title": "OpenJev"
+    "url": "https://rust-glancer.github.io/blog/why-lsp-is-hard/",
+    "title": "Why building a Rust LSP is hard"
   },
   {
     "source": "lobsters",
@@ -86,8 +76,8 @@
   },
   {
     "source": "lobsters",
-    "url": "https://hawksley.dev/blog/i-dont-like-passkeys",
-    "title": "I don't like passkeys"
+    "url": "https://astrid.tech/2022/04/05/0/dead-tlds/",
+    "title": "What happens to TLDs when their country stops existing? (2022)"
   },
   {
     "source": "lobsters",
@@ -96,28 +86,18 @@
   },
   {
     "source": "lobsters",
-    "url": "https://danluu.com/brain-off/",
-    "title": "There's no point at which turning your brain off will work"
-  },
-  {
-    "source": "lobsters",
     "url": "https://opengoal.dev/",
     "title": "Reviving the language that brought us the Jak & Daxter Series"
   },
   {
     "source": "lobsters",
-    "url": "https://www.lispbm.com/",
-    "title": "LispBM: Concurrent Lisp for Microcontrollers"
+    "url": "https://hawksley.dev/blog/i-dont-like-passkeys",
+    "title": "I don't like passkeys"
   },
   {
     "source": "lobsters",
-    "url": "https://astrid.tech/2022/04/05/0/dead-tlds/",
-    "title": "What happens to TLDs when their country stops existing? (2022)"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://davidlattimore.github.io/posts/2026/09/18/benchmarking-wild-vs-mold.html",
-    "title": "Benchmarking Wild vs Mold"
+    "url": "https://danluu.com/brain-off/",
+    "title": "There's no point at which turning your brain off will work"
   },
   {
     "source": "lobsters",
@@ -126,8 +106,18 @@
   },
   {
     "source": "lobsters",
-    "url": "https://ericwbailey.website/published/css-tricks-could-be-a-co-op/",
-    "title": "CSS-Tricks could be a co-op"
+    "url": "https://www.lispbm.com/",
+    "title": "LispBM: Concurrent Lisp for Microcontrollers"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://srcreigh.ca/posts/auditable-kata/",
+    "title": "Secure VMs for Kubernetes: Hardening Kata containers"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://davidlattimore.github.io/posts/2026/09/18/benchmarking-wild-vs-mold.html",
+    "title": "Benchmarking Wild vs Mold"
   },
   {
     "source": "lobsters",
@@ -136,18 +126,18 @@
   },
   {
     "source": "lobsters",
+    "url": "https://ericwbailey.website/published/css-tricks-could-be-a-co-op/",
+    "title": "CSS-Tricks could be a co-op"
+  },
+  {
+    "source": "lobsters",
     "url": "https://openloco.io/news/2026/09/openloco-v26.09.html",
     "title": "OpenLoco version 26.09"
   },
   {
     "source": "lobsters",
-    "url": "https://vale.sh",
-    "title": "Vale, code-like linting for prose"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://crumbles.blog/posts/2026-09-17-immutable-mutable.html",
-    "title": "FAQ: Why isn’t mutable a subtype of immutable, or vice versa?"
+    "url": "https://duckdb.org/2026/09/18/opfs-wasm",
+    "title": "Persistent Databases in the Browser with DuckDB-Wasm and OPFS"
   },
   {
     "source": "pinboard",
@@ -208,6 +198,11 @@
     "source": "pinboard",
     "url": "https://bookofshapes.com/",
     "title": "Book of Shapes"
+  },
+  {
+    "source": "pinboard",
+    "url": "https://openjev.com/",
+    "title": "OpenJev in your browser"
   },
   {
     "source": "pinboard",
