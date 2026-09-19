@@ -6,18 +6,23 @@
   },
   {
     "source": "hn",
-    "url": "https://donjon.ledger.com/blog/rp2350-secure-debug-laser-fault-injection/",
-    "title": "Photon-Emission-Guided Laser Fault Injection Enables RP2350 Secure Debug"
-  },
-  {
-    "source": "hn",
     "url": "https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/",
     "title": "How to Write with an LLM"
   },
   {
     "source": "hn",
+    "url": "https://donjon.ledger.com/blog/rp2350-secure-debug-laser-fault-injection/",
+    "title": "Photon-Emission-Guided Laser Fault Injection Enables RP2350 Secure Debug"
+  },
+  {
+    "source": "hn",
     "url": "https://cactuscompute.com/needle",
     "title": "Show HN: Cactus Needle 3: 8-29MB automation models can match DeepSeek V4 Flash"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.nationalgeographic.com/animals/article/meet-the-first-new-cat-species-discovered-in-100-years",
+    "title": "The first new cat species discovered in 100 years"
   },
   {
     "source": "hn",
@@ -31,8 +36,8 @@
   },
   {
     "source": "hn",
-    "url": "https://www.nationalgeographic.com/animals/article/meet-the-first-new-cat-species-discovered-in-100-years",
-    "title": "The first new cat species discovered in 100 years"
+    "url": "https://column.com/card-issuing/",
+    "title": "Column built an issuer processor from scratch"
   },
   {
     "source": "hn",
@@ -41,18 +46,8 @@
   },
   {
     "source": "hn",
-    "url": "https://antfly.io/research/antfly-zig",
-    "title": "A search-and-inference database from scratch in pure Zig"
-  },
-  {
-    "source": "hn",
-    "url": "https://www.koreajoongangdaily.com/business/korea-raises-data-breach-fines-to-10-of-revenue/12869899",
-    "title": "Korea raises data breach fines to 10% of revenue"
-  },
-  {
-    "source": "hn",
-    "url": "https://overreacted.io/how-i-vibed-a-proof-of-conways-conjecture/",
-    "title": "I vibed a proof of Conway's conjecture"
+    "url": "https://archive.org/details/b904a8eb-9c98-4bb1-bf25-3cb9d075b157",
+    "title": "Warez: The Infrastructure and Aesthetics of Piracy (2021)"
   },
   {
     "source": "hn",
@@ -61,13 +56,18 @@
   },
   {
     "source": "hn",
-    "url": "https://archive.org/details/b904a8eb-9c98-4bb1-bf25-3cb9d075b157",
-    "title": "Warez: The Infrastructure and Aesthetics of Piracy (2021)"
+    "url": "https://antfly.io/research/antfly-zig",
+    "title": "A search-and-inference database from scratch in pure Zig"
   },
   {
     "source": "hn",
-    "url": "https://www.ax-check.com/",
-    "title": "Show HN: Ax-check.com – Can agents use your product?"
+    "url": "https://overreacted.io/how-i-vibed-a-proof-of-conways-conjecture/",
+    "title": "I vibed a proof of Conway's conjecture"
+  },
+  {
+    "source": "hn",
+    "url": "https://www.koreajoongangdaily.com/business/korea-raises-data-breach-fines-to-10-of-revenue/12869899",
+    "title": "Korea raises data breach fines to 10% of revenue"
   },
   {
     "source": "lobsters",
@@ -81,13 +81,13 @@
   },
   {
     "source": "lobsters",
-    "url": "https://blog.rust-lang.org/2026/09/17/targeted-attacks/",
-    "title": "Be alert: targeted attacks on prominent Rustaceans"
+    "url": "https://davidlattimore.github.io/posts/2026/09/18/benchmarking-wild-vs-mold.html",
+    "title": "Benchmarking Wild vs Mold"
   },
   {
     "source": "lobsters",
-    "url": "https://davidlattimore.github.io/posts/2026/09/18/benchmarking-wild-vs-mold.html",
-    "title": "Benchmarking Wild vs Mold"
+    "url": "https://blog.rust-lang.org/2026/09/17/targeted-attacks/",
+    "title": "Be alert: targeted attacks on prominent Rustaceans"
   },
   {
     "source": "lobsters",
@@ -111,6 +111,11 @@
   },
   {
     "source": "lobsters",
+    "url": "https://vale.sh",
+    "title": "Vale, code-like linting for prose"
+  },
+  {
+    "source": "lobsters",
     "url": "https://typesafe.ai/blog/introducing-system-one-models-and-jev",
     "title": "Introducing System One Models & Jev"
   },
@@ -118,6 +123,21 @@
     "source": "lobsters",
     "url": "https://www.hacktron.ai/blog/hacking-openai",
     "title": "Hacking OpenAI"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://ericwbailey.website/published/css-tricks-could-be-a-co-op/",
+    "title": "CSS-Tricks could be a co-op"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://phk.freebsd.dk/sagas/bikeshed/",
+    "title": "The Bikeshed email — PHKs Bikeshed"
+  },
+  {
+    "source": "lobsters",
+    "url": "https://internetphonebook.net/",
+    "title": "Internet Phone Book"
   },
   {
     "source": "lobsters",
@@ -133,120 +153,5 @@
     "source": "lobsters",
     "url": "https://prismml.com/news/bonsai-2-27b",
     "title": "Bonsai 2 27B: Near-Lossless Compression in a 9x Smaller Footprint"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://internetphonebook.net/",
-    "title": "Internet Phone Book"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://vale.sh",
-    "title": "Vale, code-like linting for prose"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://seclists.org/oss-sec/2026/q3/822",
-    "title": "A quartet of Linux local root vulns: DirtyAH6, PPPoEject, TUNderflow, and DiagSpill"
-  },
-  {
-    "source": "lobsters",
-    "url": "https://phk.freebsd.dk/sagas/bikeshed/",
-    "title": "The Bikeshed email — PHKs Bikeshed"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://will-keleher.com/posts/small-programming-tricks-matter/",
-    "title": "Small Programming Tricks · will keleher"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://nvartolomei.com/dist-sys-classics/",
-    "title": "Distributed Systems Classics"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://typesafe.ai/",
-    "title": "Home - TypeSafe AI"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://dank.systems/posts/2026-09-15-ai-bear.html",
-    "title": "why i'm still bearish on LLMs after navier-stokes | jay kruer"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.404media.co/theres-a-100-chance-ai-agents-are-already-ruining-the-internet/",
-    "title": "There’s a 100% chance AI agents are already ruining the internet"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://withcapsule.app/",
-    "title": "Capsule — Documents that run like apps"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://seldo.com/posts/we-are-all-product-engineers-now/",
-    "title": "We are all Product Engineers now | Seldo.com"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://scottaaronson.blog/?p=10062",
-    "title": "Shtetl-Optimized » Blog Archive » The Age of Wonders and Terrors"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://news.ycombinator.com/item?id=49711544",
-    "title": "Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations | Hacker News"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://rmoff.net/2026/01/14/alternatives-to-minio-for-single-node-local-s3/",
-    "title": "Alternatives to MinIO for single-node local S3"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://refactoringenglish.com/excerpts/write-an-effective-design-doc/",
-    "title": "How to Write an Effective Software Design Document"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-gemini-3-8-live-extended-thinking/",
-    "title": "Gemini 3.8 Live & Gemini 3.8 Live Extended Thinking"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://nand2mario.github.io/posts/2026/zsst-voodoo/",
-    "title": "Recreating Voodoo Graphics and a Late-1990s Gaming PC on an FPGA - Small Things Retro"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://rohanbansal.com/qorl",
-    "title": "Training a 4B model to produce 81% faster query plans than Postgres - Rohan Bansal"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://bookofshapes.com/",
-    "title": "Book of Shapes"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.404media.co/inside-project-lily-the-humans-reading-your-chatgpt-chats/",
-    "title": "Inside ‘Project Lily’: The Humans Reading Your ChatGPT Chats"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://www.linuxfromscratch.org/",
-    "title": "Welcome to Linux From Scratch!"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://daringfireball.net/2026/09/thoughts_and_observations_on_apples_surprise_and_shine_event",
-    "title": "Daring Fireball: Thoughts and Observations on Apple’s ‘Surprise and Shine’ Event; the Announcements of the iPhones 18 Pro, AirPods 5, Apple Watches Series 12 and Ultra 4, and the iPhone Duo; and the Dawn of the Ternus, John Ternus Era at Apple"
-  },
-  {
-    "source": "pinboard",
-    "url": "https://howtounclench.com/",
-    "title": "How to Unclench | Jonny Miller"
   }
 ]
